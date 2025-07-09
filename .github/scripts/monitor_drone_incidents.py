@@ -62,7 +62,9 @@ class DroneIncidentMonitor:
     def search_google_news(self, query: str) -> List[Dict]:
         """Search Google News RSS for drone incidents"""
         incidents = []
-        rss_url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+        # Properly encode the query for URL
+        encoded_query = requests.utils.quote(query)
+        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
         
         try:
             feed = feedparser.parse(rss_url)
@@ -165,22 +167,27 @@ class DroneIncidentMonitor:
         
         # Generate output for GitHub Actions
         if self.new_incidents:
-            print(f"::set-output name=new_incidents::true")
-            print(f"::set-output name=incident_count::{len(self.new_incidents)}")
-            print(f"::set-output name=timestamp::{datetime.now().strftime('%Y%m%d-%H%M%S')}")
-            print(f"::set-output name=date::{datetime.now().strftime('%B %d, %Y')}")
+            # Use new GitHub Actions environment file syntax
+            with open(os.environ.get('GITHUB_OUTPUT', 'output.txt'), 'a') as f:
+                f.write(f"new_incidents=true\n")
+                f.write(f"incident_count={len(self.new_incidents)}\n")
+                f.write(f"timestamp={datetime.now().strftime('%Y%m%d-%H%M%S')}\n")
+                f.write(f"date={datetime.now().strftime('%B %d, %Y')}\n")
+                
+                # Get unique locations
+                locations = set(inc['location'] for inc in self.new_incidents if inc['location'] != 'Unknown')
+                f.write(f"locations={', '.join(locations)}\n")
+                
+                # Generate release notes
+                release_notes = self.generate_release_notes()
+                # Escape newlines for GitHub Actions
+                release_notes_escaped = release_notes.replace('\n', '%0A')
+                f.write(f"release_notes={release_notes_escaped}\n")
             
-            # Get unique locations
-            locations = set(inc['location'] for inc in self.new_incidents if inc['location'] != 'Unknown')
-            print(f"::set-output name=locations::{', '.join(locations)}")
-            
-            # Generate release notes
-            release_notes = self.generate_release_notes()
-            # Escape newlines for GitHub Actions
-            release_notes_escaped = release_notes.replace('\n', '%0A')
-            print(f"::set-output name=release_notes::{release_notes_escaped}")
+            print(f"Found {len(self.new_incidents)} new incidents")
         else:
-            print(f"::set-output name=new_incidents::false")
+            with open(os.environ.get('GITHUB_OUTPUT', 'output.txt'), 'a') as f:
+                f.write(f"new_incidents=false\n")
             print("No new incidents found")
     
     def generate_release_notes(self) -> str:
