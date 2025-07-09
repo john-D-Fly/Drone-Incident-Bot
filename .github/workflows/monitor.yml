@@ -4,7 +4,7 @@ on:
   schedule:
     # Run every hour
     - cron: '0 * * * *'
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   monitor-incidents:
@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
@@ -27,8 +27,7 @@ jobs:
 
       - name: Run incident monitor
         id: monitor
-        run: |
-          python .github/scripts/monitor_drone_incidents.py
+        run: python .github/scripts/monitor_drone_incidents.py
         env:
           GOOGLE_NEWS_API_KEY: ${{ secrets.GOOGLE_NEWS_API_KEY }}
 
@@ -38,26 +37,5 @@ jobs:
           git config --global user.name 'Drone Incident Bot'
           git config --global user.email 'bot@dronedetection.com'
           git add data/incidents.json
-          git commit -m "Update drone incidents - $(date +'%Y-%m-%d %H:%M')"
+          git commit -m "Update drone incidents - $(date -u '+%Y-%m-%dT%H:%MZ')"
           git push
-
-      - name: Create release if new incidents
-        if: steps.monitor.outputs.new_incidents == 'true'
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: incidents-${{ steps.monitor.outputs.timestamp }}
-          release_name: Drone Incidents Update - ${{ steps.monitor.outputs.date }}
-          body: |
-            ## New Drone Incidents Detected
-
-            ${{ steps.monitor.outputs.release_notes }}
-
-            ### Summary
-            - Total new incidents: ${{ steps.monitor.outputs.incident_count }}
-            - Locations affected: ${{ steps.monitor.outputs.locations }}
-
-            View full details in [incidents.json](data/incidents.json)
-          draft: false
-          prerelease: false
