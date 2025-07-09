@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Barksdale Airmen Help Secure New Drone Restrictions Across Louisiana - afgsc.af.mil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2h5Rk9OQW5oZHhST1g0R1VWWEdMNXJFQWZTWFptY2dJN25EWVY0elJHNkQ2NEZpbEREdllXT2dVckxTOUlPaEZsTnI0YW5uRENHLUIzQWF2c3BxRk1Bby1xQ3dtS3VaaGhjVHp3ZEtCQS10ckRwd1ZtbWJEOUtNY1ZDc3FYc085YlZraUZubm9TeTFCU0dDWEY2dTNLVld4bE9BZGtha1lGLVRuWHNZQjB1UzQ5RDVaNjY4cWY4Sll3Y0tWNFlmNVpUVQ?oc=5",
+      "source": "afgsc.af.mil",
+      "date": "2025-07-08T19:30:00+00:00",
+      "description": "Barksdale Airmen Help Secure New Drone Restrictions Across Louisiana  afgsc.af.mil",
+      "query": "unauthorized drone",
+      "detected_at": "2025-07-09T21:05:13.531885+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "2843a07f9350"
+    },
+    {
+      "title": "Florida man tries to hide in sewer to avoid arrest as drone catches him peeking out - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdS1MSzd1bnd0ZlRudVJaNnFzVEx5eWpFY1pTM1gwZzQxdTJEUkFzNU9RRTJPSGl3R3RUekV0ZkxVMXo2Q3NNTnpaSmZZTmhEajRPd0dkRzhyUWhTekJUNG9yTlpheEoydVJvbmRya1ZLbGxUV3lPYTZWS1EyLWIybnlaUl92VUJNbXkyMy1R?oc=5",
+      "source": "CBS News",
+      "date": "2025-07-09T15:08:47+00:00",
+      "description": "Florida man tries to hide in sewer to avoid arrest as drone catches him peeking out  CBS News",
+      "query": "drone arrest",
+      "detected_at": "2025-07-09T21:05:06.455826+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9c5e834454c1"
+    },
+    {
+      "title": "Off-roading, drone use in Banff National Park leads to fines - Rocky Mountain Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVBwbk9ZWS11cnpqUjd0S1VjY1NyYjU4SlQzZVljV0JzY3dZN3lzV0djajI3ZFFUMDR3aGRNS25RamhjY05jWUlsMWFFUVE5c21zYW5LNDh2M2RPSE5XOE5Va1R2Mzk5amIzQkk5NDBEczhGVnQtQVItb3BOS1RoVDNZczctcGNtb2ZiT1FiSnU2d0c2NmotOUxVMEFwRjhURmc?oc=5",
+      "source": "Rocky Mountain Outlook",
+      "date": "2025-07-09T20:30:00+00:00",
+      "description": "Off-roading, drone use in Banff National Park leads to fines  Rocky Mountain Outlook",
+      "query": "drone incident",
+      "detected_at": "2025-07-09T21:05:05.589878+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8b56c247de47"
+    },
+    {
       "title": "Russia Loses Drone In Suspected EW Friendly Fire Incident - Aviation Week Network",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWlISnF6ZXA2TDhRTUlST1NVX25Qb0ozbmtWWktBZlRpeUdyVkYwc09hQ1dCeVFPbTRlQVpSM0syUElZTTVCbkxRRjA5Y2taWXJxcnBTODQ1OEVWZklQWkZwYURFNFlrQlpCbkJqeURaeTFQX0FHTENhMERFemZlVnA0ZndFUm1icjZzUE5hZF9XS01zM2NHX0RuZ1dZX3RhaWJjdmQzVFZBODZzd3ZnQlF2SXE?oc=5",
       "source": "Aviation Week Network",
@@ -805,6 +841,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-09T20:05:50.655193+00:00",
-  "total_count": 67
+  "last_updated": "2025-07-09T21:05:14.490440+00:00",
+  "total_count": 70
 }
