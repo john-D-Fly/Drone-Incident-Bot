@@ -28,7 +28,7 @@ jobs:
     - name: Run incident monitor
       id: monitor
       run: |
-        python scripts/monitor_drone_incidents.py
+        python .github/scripts/monitor_drone_incidents.py
       env:
         GOOGLE_NEWS_API_KEY: ${{ secrets.GOOGLE_NEWS_API_KEY }}
         SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
