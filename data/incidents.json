@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Riverside police drones help spot illegal fireworks on July 4 holiday; over 60 citations issued - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDlUOVItdkh0aGZtMnVtSVBfVENqcmx6T2dSUlNCc0VyZ2dJcU5jWFBoQmEtWVQ5M1hIaHVJRHZDang2YzVKaGJHcTEyX2g4SmQxQ01YUHY3QllTUmpJZUpKbnk3LS15THUtRUtnbmpMN0llYXR3ZlNyN3lHZ04xOGFWNTFockpzYlEwX2FxMTgwWHdPY21rZS1SajJNZHhVM1Nyamw0NXZhNU5FWHZDZnh3QTBlN1QwaEHSAb8BQVVfeXFMUDJxNmNMcnZCS1QzbGxmMVY2U2h6cEJMc2htNGo4OGwtcTlUMXFBQ3FWRVV1V3BLUGdjT3dYbHVHc3VCSm5mUkdEQmg1ZDZHTmtWYXdKUThaUUo4U1ctVGFzOV91RFJwLXg1YThLdEVFQjZYUElmMlNFSWszQTlNVm1BcjYtaERxR0ZqLW1jX2pGOGt0SUluQ0h1RkV5R3FXOTBKbU1uaS1sUnRVYWYwVFJTYWtkQ1AxYllmSnduU1U?oc=5",
+      "source": "ABC7 Los Angeles",
+      "date": "2025-07-09T07:46:30+00:00",
+      "description": "Riverside police drones help spot illegal fireworks on July 4 holiday; over 60 citations issued  ABC7 Los Angeles",
+      "query": "drone illegal",
+      "detected_at": "2025-07-09T18:07:16.069694+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f8d7f3729536"
+    },
+    {
+      "title": "Russia Loses Drone In Suspected EW Friendly Fire Incident - Aviation Week Network",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWlISnF6ZXA2TDhRTUlST1NVX25Qb0ozbmtWWktBZlRpeUdyVkYwc09hQ1dCeVFPbTRlQVpSM0syUElZTTVCbkxRRjA5Y2taWXJxcnBTODQ1OEVWZklQWkZwYURFNFlrQlpCbkJqeURaeTFQX0FHTENhMERFemZlVnA0ZndFUm1icjZzUE5hZF9XS01zM2NHX0RuZ1dZX3RhaWJjdmQzVFZBODZzd3ZnQlF2SXE?oc=5",
+      "source": "Aviation Week Network",
+      "date": "2025-07-09T17:28:38+00:00",
+      "description": "Russia Loses Drone In Suspected EW Friendly Fire Incident  Aviation Week Network",
+      "query": "drone incident",
+      "detected_at": "2025-07-09T18:07:11.143700+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e8a64868d70d"
+    },
+    {
       "title": "ANALYSIS: Donetsk Inferno: Ukraine’s Drone Strikes Obliterate Russian War Plans - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGcVk0MksxeXVWOHJLTGZCcVhYVC0ya1lXSGpnUGY3RFhDTG5ibE5Vdlo5QnV2VmNFRjVyMFNZY1poQkdfbXZyNTk0V2dmQzZs?oc=5",
       "source": "Kyiv Post",
@@ -769,6 +793,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-09T16:05:21.786450+00:00",
-  "total_count": 64
+  "last_updated": "2025-07-09T18:07:19.530361+00:00",
+  "total_count": 66
 }
