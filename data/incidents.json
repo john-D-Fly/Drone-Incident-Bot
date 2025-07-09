@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian RQ-4 analog crashes during test flight - Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY2xweXYzOEVuV2xmejFlV1liRnJweUtQZGk1UmZBbUEwZTc2Yl96Wmp0SGNyWDRxODcySTdMM3NKR2dXMmFMT0x3M3NNNW95RXRPOTg0NmdQeUZ1VDRiS1VYdkRBNXFHZGNuU3V5TE9XVURQYi1iTHFaeEttaHPSAYQBQVVfeXFMTkF2WEJUTmNhTkMxOUhXYng0MG1GVmhLbGt0aXBhMHZjTjhwclRHYVFGOGJRSUZLcFZrYnFERTFGdjZqZnItUmhGVU43NWpjX3dMb0NoaUZEb2E2RmhBNlBkZFF2MkszM0FsZ3BkaVM1Q1FxMWVneVFQSGNJMmZKMHF0dVVB?oc=5",
+      "source": "Defence Blog",
+      "date": "2025-07-08T09:04:10+00:00",
+      "description": "Russian RQ-4 analog crashes during test flight  Defence Blog",
+      "query": "drone incident",
+      "detected_at": "2025-07-09T13:15:07.896348+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "37f63c58978e"
+    },
+    {
+      "title": "Drone pilot enters guilty plea over Camp Blaz footage - KUAM News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWRFTlEyVUxjaWg3bUFhdUYteC1kTDVwRG5KNmNPVGhYRGdzTU9lajJzb0FJM3lhbWs2MXZFUXNmY3F3b1dJa2g2ZEYxcVM3NUZ2WlJvQjFLRm95QW1HXzVQb3ZRUTlBbGxxbHhSUEFMMEViV04xdU91VWxWbnJ3aEFrSmp4aThxdFE?oc=5",
+      "source": "KUAM News",
+      "date": "2025-07-09T06:37:03+00:00",
+      "description": "Drone pilot enters guilty plea over Camp Blaz footage  KUAM News",
+      "query": "drone incident",
+      "detected_at": "2025-07-09T13:15:07.896348+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1024056b435e"
+    },
+    {
       "title": "Sahel militants turn civilian drones into deadly weapons - ISS Africa",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTklSLU5TLUFzYzVpZllVekc3NGRNSWpfeEg3R1NBZDJ1bTJWcTRrb3ZxbG9oRUYxRDBBLTlxa093dEs1cXJHY05jbHdxeDlxQkktZ1dNaTU2emhGaEZUWk1YTC1pYXQyUF9VbEVMUDl2YjEwZld0MEJZRm9yMk00N0t3SHFpQWk3MWZCLTVvZWtldw?oc=5",
       "source": "ISS Africa",
@@ -697,6 +721,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-09T12:09:31.701413+00:00",
-  "total_count": 58
+  "last_updated": "2025-07-09T13:15:15.348420+00:00",
+  "total_count": 60
 }
