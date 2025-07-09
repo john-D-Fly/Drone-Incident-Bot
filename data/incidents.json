@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "California cities used drones to find people shooting off illegal fireworks - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTg2Q01ublJ2X0VxQklhWURoOHdlSHJRMVJuVWhabGpXTjNvSGRYemtFR0M2RThIWGVfY0RnU3YyTFFRWHdZRWlRQlI0X2pFdHdiSENCNjBlZW4zVl95Zmk2WnVFZDNyaEt4azFjRVZfUFA1aFpXN1Q5dFJyTHYyWXJCRXNQcmdwZUR2OXF2SGg2RklQYm9oS1hCSzdoNWN2MjhUZ2lMOWJXVXBRME1GX0U3ZW4zQWZ0LWc5dm9PV0pGZ3JnaFpmSXJiZw?oc=5",
+      "source": "MSN",
+      "date": "2025-07-08T22:01:19+00:00",
+      "description": "California cities used drones to find people shooting off illegal fireworks  MSN",
+      "query": "drone illegal",
+      "detected_at": "2025-07-09T14:05:43.617272+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1bfb62079daf"
+    },
+    {
+      "title": "Russian cutting-edge drone capable of carrying anti-ship missiles crashes - pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vbk1kTGF6ZEFFRGtXbkVHS3VvamNkVDBWNVlweDVuQzZhVTJaMWM4OWgzeVZobW9lWHFod01xSHhxZGtsYldGQ3A3ZHZaTndyU0V5SWpUZWxEclpsZDc1cDdoc9IBb0FVX3lxTFB2VmxLbk5Ma2pGSFVPYzN5WThQVmlQbG8tbG1kcDFFQVdRZ0JhdEJTUUoyMUdReVdvMS1TNmRmWmRlcHpTREpXdGpiUHNEeXBPbGxVU3JUb1pmQ25rRElLRl96c0xLTXQ0V3Q4c2ZsNA?oc=5",
+      "source": "pravda.com.ua",
+      "date": "2025-07-08T14:50:45+00:00",
+      "description": "Russian cutting-edge drone capable of carrying anti-ship missiles crashes  pravda.com.ua",
+      "query": "drone crash",
+      "detected_at": "2025-07-09T14:05:43.011006+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "dbf47768a8e4"
+    },
+    {
       "title": "Russian RQ-4 analog crashes during test flight - Defence Blog",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY2xweXYzOEVuV2xmejFlV1liRnJweUtQZGk1UmZBbUEwZTc2Yl96Wmp0SGNyWDRxODcySTdMM3NKR2dXMmFMT0x3M3NNNW95RXRPOTg0NmdQeUZ1VDRiS1VYdkRBNXFHZGNuU3V5TE9XVURQYi1iTHFaeEttaHPSAYQBQVVfeXFMTkF2WEJUTmNhTkMxOUhXYng0MG1GVmhLbGt0aXBhMHZjTjhwclRHYVFGOGJRSUZLcFZrYnFERTFGdjZqZnItUmhGVU43NWpjX3dMb0NoaUZEb2E2RmhBNlBkZFF2MkszM0FsZ3BkaVM1Q1FxMWVneVFQSGNJMmZKMHF0dVVB?oc=5",
       "source": "Defence Blog",
@@ -721,6 +745,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-09T13:15:15.348420+00:00",
-  "total_count": 60
+  "last_updated": "2025-07-09T14:05:46.205645+00:00",
+  "total_count": 62
 }
