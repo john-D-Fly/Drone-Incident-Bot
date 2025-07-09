@@ -1,0 +1,41 @@
+name: Daily Drone-Incident Report
+
+on:
+  schedule:
+    # Run every day at 01:15 UTC
+    - cron: '15 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install python-dateutil openai
+
+      - name: Generate daily report
+        id: report
+        run: python .github/scripts/generate_daily_report.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit report
+        if: steps.report.outputs.report_created == 'true'
+        run: |
+          git config --global user.name 'Drone Incident Bot'
+          git config --global user.email 'bot@dronedetection.com'
+          git add "${{ steps.report.outputs.report_path }}"
+          git commit -m "Daily drone-incident report: $(basename "${{ steps.report.outputs.report_path }}")"
+          git push
