@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Toddler Killed by Russian Drone Strike, Ukraine Says - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ndzh0T2duSkpwN0RTV1BCNGV0cjQ4dHZYNmk4LUo3Nktxa3dtc2JOWFI0dGxvcFl3UTJib20tNkNTVXpabkNJZk9wZXpWQk5WZTA0b0U4Mk9FVTJBdG93dXVGZENPMTFGVVlzdzZocjhaS0NKcVE?oc=5",
+      "source": "Newsweek",
+      "date": "2025-07-10T17:18:07+00:00",
+      "description": "Toddler Killed by Russian Drone Strike, Ukraine Says  Newsweek",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-10T18:07:11.983768+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a89b931c86c1"
+    },
+    {
+      "title": "Russian court jails trucker suspected of aiding Ukraine’s ‘Operation Spiderweb’ drone strikes - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVHZGRVRBM3NwbFhLN0Y1SFRONTMtXzZEVXVKTHdaYU1DQ0pwTmR4bWhxbjBUdnNwbXZ5QndjX3N3OWprVlM0WVlCb25aeGl3TUowaU9Oc2hUTW44OFczRHhhM3AzNHdsWFptMU5VSzBfMnZHOEV6OGxsai1WWXlPT3FSbWlMMXNneVEyQVV1ZmNoM1J0WF9scE5ueXBWdE0xTEJiYmJiTHhER3Vsd1U2eUVDbXJDS0t3dngxWGMxWHN1MmdhUThj0gHMAUFVX3lxTE9BYVdIbF81VF9LdTc4dXd2ZVNMam1VVHBDT1VHWko0bThSV3pFQldhRFdFNGN2UFpkY21xT3JTanRpUXF5OGQ0c0c0d0hyRTFMNTNYXzBiMkJQUlQ1d24wN2xmUGpFbHBBbDNFa19uaWRsdmJ4aEtGV0NvVjFpdmZNbTJpYlhjUUpRNmRNU0hzVnhldUJxa05IMzB0UDI5RjJMdjB6VDljZUxreXZGQ0s0bHFESWU0WnkzcVhBNGdGSmV3T2NwY3RrTFd3UA?oc=5",
+      "source": "Meduza",
+      "date": "2025-07-10T17:04:00+00:00",
+      "description": "Russian court jails trucker suspected of aiding Ukraine’s ‘Operation Spiderweb’ drone strikes  Meduza",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-10T18:07:11.983768+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "059033ac6c64"
+    },
+    {
+      "title": "New La. law gives prisons authority to intercept drones amid contraband concerns - Corrections1",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUVGRlZYUzFGQ2JKM1dfM1lhVXhySmpPV3VaQ1RVOTZSSThJNVNuQXFtRHB6RVZ4NVZyMEtiNFdOQnFOWXVDU3h2dVdIYXd3YklPeDQ3dzBMNHhCdy1YVVEzV2xZaUszRmlHaFZqcjhraHV0R0lSSzc1aDhGUndIbVRsSHZsZERlTkI1QWY3aU8yelktV0EzdTRKZk9vY3owNmUzWFNjSGt0OFhKaVpNVFhHZmZBdw?oc=5",
+      "source": "Corrections1",
+      "date": "2025-07-10T17:13:07+00:00",
+      "description": "New La. law gives prisons authority to intercept drones amid contraband concerns  Corrections1",
+      "query": "drone prison",
+      "detected_at": "2025-07-10T18:07:08.752645+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "450920186db4"
+    },
+    {
+      "title": "Truck driver arrested in central Russia over drones launched from his vehicle in Ukraine’s Operation Spiderweb - theins.ru",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kWkhkOE5abF9hOUc1bGFyWkhkUzdHeDhCZ2ZlR3FDd0tVM3RIUmZHbVQwUVJYTFR4UlloT3ZkQ1lkWnFXbVBF?oc=5",
+      "source": "theins.ru",
+      "date": "2025-07-10T17:14:59+00:00",
+      "description": "Truck driver arrested in central Russia over drones launched from his vehicle in Ukraine’s Operation Spiderweb  theins.ru",
+      "query": "drone arrest",
+      "detected_at": "2025-07-10T18:07:07.309882+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9cdf1e34e52c"
+    },
+    {
       "title": "Drones and Wildfires: A Dangerous Intersection of Technology and Public Safety in Josephine County - Grants Pass Tribune",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2hnUi1jemFNOHZJMTNwMVNDM0JyUTZaOHZEeEJVdXYtNEI5OFdGOTZJM2dRWDdzYUhKWFJYRnlWZU1udjV5Q2lIdUQ2UnhLSFN1ODQ3RFQ1QTlCbmFzRjdEZm1pWlBGUTdneWYtcGluVF9VN2tpUThrN0NXOGxEVEJDRlpaTTV0Rl9rZGJGOWdqOGoxejRHNnEwb25yMXVjRzl2aUQ0LW1DY0IxUno2WTZ3OFVfU1gxZUtZTTJweHRVQ1hXSXhpZVFDNDI?oc=5",
       "source": "Grants Pass Tribune",
@@ -1297,6 +1345,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-10T17:06:50.370094+00:00",
-  "total_count": 108
+  "last_updated": "2025-07-10T18:07:13.707398+00:00",
+  "total_count": 112
 }
