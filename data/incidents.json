@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Lithuanian Leaders Evacuated Amid Combat-Drone False Alarm - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUExiTVBoMmJNQ2lPRTRMdTlDVktsbnVGbDJuV1JwTDIxUERianhGdlJ3SGdheGxKb2RyYUxoTTdkcURzZGpIUHlkcmtKMnJxSDZQbFpsajd1SnR2MnBMNjBuLVZIclN3NE9aMWFnZFFyRzlyNk1jbHgzU3NpTVFVTUZybW5tLXJtdzJVclp1LUYwZFhGV0R6VHlHdVpSSDZiV1FVdHVRYmFIdWxxakZzclM1UF96dW9XMjJnYlczQkU?oc=5",
+      "source": "Bloomberg",
+      "date": "2025-07-10T16:38:10+00:00",
+      "description": "Lithuanian Leaders Evacuated Amid Combat-Drone False Alarm  Bloomberg",
+      "query": "drone crash",
+      "detected_at": "2025-07-10T22:05:04.476883+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4d21c1945dba"
+    },
+    {
+      "title": "WATCH: Drone footage shows moment of arrest for suspect in armed vehicle robbery - KTTC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREZuWFdCblJZbEN6X0NYY0RnOFZQN1BOYzZWTXh1TlQ5YkN4Sm9FX254TGtrMy10MkpmeUQ3ZHVSVVkzS0ZFOVRSUGQtXzNwRkFXZE5KWktHUGo5Y0dPY2M1TU54RUx3Q0NlWFlKXzdUUzE5U2twLWJ2ZE5tUGJCc0lrelhNVkVtd05rZjNmcG1oVGNlT0FJVjExSThIX2JHajRtMtIBuAFBVV95cUxOcXJzWmZac29Tb0NFVTRmcnhFUFE3ZXd4ZzJBYjE0bWpoeVhvVnFLS3RBXzRXRjhTTTktcTFRWldma1MyMFBxV3hFWkMwejFSUnVpVVJGUUZvWm5SWjBOOFBESk1LbXV5SGJyejB0WTQyNFh1WTRsclU2VFVQZGppdF83SWE5VzZEaG9ZY1ozREE2a3JsZ1pKTks4cEFXTWh4WWF2S1BlSXdoZFFFajhyWGhNcTVCZlBv?oc=5",
+      "source": "KTTC News",
+      "date": "2025-07-10T17:50:00+00:00",
+      "description": "WATCH: Drone footage shows moment of arrest for suspect in armed vehicle robbery  KTTC News",
+      "query": "drone arrest",
+      "detected_at": "2025-07-10T22:05:01.935662+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "8463d4bf3abf"
+    },
+    {
       "title": "Russia Kills Toddler in Drone Strike, Ukraine Says - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ndzh0T2duSkpwN0RTV1BCNGV0cjQ4dHZYNmk4LUo3Nktxa3dtc2JOWFI0dGxvcFl3UTJib20tNkNTVXpabkNJZk9wZXpWQk5WZTA0b0U4Mk9FVTJBdG93dXVGZENPMTFGVVlzdzZocjhaS0NKcVE?oc=5",
       "source": "Newsweek",
@@ -1489,6 +1513,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-10T21:05:12.911013+00:00",
-  "total_count": 124
+  "last_updated": "2025-07-10T22:05:07.704055+00:00",
+  "total_count": 126
 }
