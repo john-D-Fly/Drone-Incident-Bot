@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Ukraine-Russia war latest: Trump warned Putin he will bomb Moscow if Ukraine is attacked as Kyiv faces relentless drone strikes - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa25NWXB0OWlsZ3pzWFZXOFJ2bmJCVXlBTHdCUkJ6U1RlbDFFVzg3X3F5NElBSm1IR3hIUkV3R08tUUs2ZVFJb01USUhGS3N3U09YeXItVkRsUmdra2JOb1g1ZmV1N19wQnpsMWp0dF9Ub2hPTEtiMVhuNGtTTWNUQkR4dmpRa3E3ZXZEVmdfNlVVb2YzVjdpRHNULVNGcVNZQUlSbzQzYzNHOUFzVWdFVnlqbTBnQkloc254UzNOMHcwTEl4eDRqTldIbGZYNXBhSk1USjd5VDMtSEFpdHh4UEV5azFqeW1GZ0NuNXdn?oc=5",
+      "source": "MSN",
+      "date": "2025-07-10T12:01:49+00:00",
+      "description": "Ukraine-Russia war latest: Trump warned Putin he will bomb Moscow if Ukraine is attacked as Kyiv faces relentless drone strikes  MSN",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-10T13:15:13.607007+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "39960d76eaec"
+    },
+    {
+      "title": "Ukraine war latest: Zelensky accuses Russia of ‘pure terrorism’ as 2 killed in attack - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXdmQ3NuZ0FnemhyOXFCU0s5dFJtQ1cxZTdMYm5MVGFOSGlKdjBTclNDNnE5Rm9vdXNBbkdVWFBIZmtWdGlkTFFFblpheHBxdEVwVnNrdU9lUV9La3l2Wlh4cVd2alk5Y3BFdzZyTUM5ZnhUSlA2LWFuRGxSSmJxUFBLaExKSlhjLXlOY0ZWYVR3ZVVNUWZncXYyd09BbDl0N2xjRjdId3Jvdy12c0hWYV9acDRxcE5zNHFF?oc=5",
+      "source": "The Independent",
+      "date": "2025-07-10T11:42:00+00:00",
+      "description": "Ukraine war latest: Zelensky accuses Russia of ‘pure terrorism’ as 2 killed in attack  The Independent",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-10T13:15:13.607007+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "e3aa628fb7c4"
+    },
+    {
+      "title": "Flight Disruptions and Internet Outages Bring Chaos to Russia’s Regions - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEtmd25GUURkck93by01WjNnSWczWDhoRGNvdDBydDVMYms4YlJmTEU2WUNLbVV4YWp1elVhQUJPTWQ4NzlKM3AwTVdBSlp2VzZqU1EzbDBfY3BZd2ptUFNrbE1RSlBOSVlKVGQ0Q2pWTXVaYXJZS2RNVF93eFByMW01b1NlOG1KeTJwWVQ1b3dadVZocWgyeGhCU2NyaFVMN2h5dFdib2kza2ZGaVJUMGxiUmFpMDFycEFj?oc=5",
+      "source": "The Moscow Times",
+      "date": "2025-07-09T12:21:00+00:00",
+      "description": "Flight Disruptions and Internet Outages Bring Chaos to Russia’s Regions  The Moscow Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-07-10T13:15:11.245839+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "a23703dc970f"
+    },
+    {
+      "title": "Homemade Drone Crosses Belarus-Lithuania Border Triggering Security Alert - Букви",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDhoN0pjWktfR0JkZjlUc2dUX2dnWklaelVYN20wWE9QTjJUUURleUFaTXhDYkU0OUtrYmhxMW4wM2NkR3ZERGtqaGZKTUJlVnBnQXBlaG9LTmFiUWRZMUJEVFJwNzFFY19EYmt6QTFHdGJwaVVQR1dtQTFHUXNRelYtQmFTTzRCVmVzZHNkT2Z4bWR5VEE3UTVLQTROZG51UEZYcg?oc=5",
+      "source": "Букви",
+      "date": "2025-07-10T13:06:56+00:00",
+      "description": "Homemade Drone Crosses Belarus-Lithuania Border Triggering Security Alert  Букви",
+      "query": "drone incident",
+      "detected_at": "2025-07-10T13:15:08.808318+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5a8fdfca3ce0"
+    },
+    {
+      "title": "Russian drone crashes in Lithuania - Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mS3g5X0tNU2hfUWhnS2xkR3VLWTUzRXJ6Vk84ajhGTFVqd1A1ZHphamZXNlNyaFdrcWZqRTE5N3gwalcwdUNMOHl4cmJSVmlZTHozNmIwSHlZenhlZkJTVFZCU1JWNnFrLVZ2SNIBckFVX3lxTE11RkZiZnZBWFliRmlnckJLaWFmbHNPb1hDU19QaVlMU29ySEpSWHFUSW5qdmFoUU4wNlFicXExb05uYjZ3RWtxdG9penVEV2JWRlhSZF81RTVuRW1GdnNEdlc4QUtsaU9sTFBOZk9KN1h6dw?oc=5",
+      "source": "Defence Blog",
+      "date": "2025-07-10T12:20:35+00:00",
+      "description": "Russian drone crashes in Lithuania  Defence Blog",
+      "query": "drone incident",
+      "detected_at": "2025-07-10T13:15:08.808318+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1059c95b1dad"
+    },
+    {
       "title": "Ukraine war latest: Zelenskyy condemns 'pure Russian terrorism' - as Moscow responds to Kyiv attacks - Sky News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXhuRTVwNy1rT0hLV3gtNjdUTnBOYjB6UTZESEZRZ1o1VFpSblRNYVplZjdiTzh5bWFZRDhDNEtjOUpCbFQ4U3VLQ0NtdkZNempaZTNhT2lZWVhoY0QwaGRNeWgyUFJZWlB2NlRadGxEOXZZZGp3Vml5TjFzWU95cndqLUxiNEpaRm5MRHZVc05SbjIxRGtNZ0VfOA?oc=5",
       "source": "Sky News",
@@ -1081,6 +1141,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-10T12:09:20.392194+00:00",
-  "total_count": 90
+  "last_updated": "2025-07-10T13:15:14.831600+00:00",
+  "total_count": 95
 }
