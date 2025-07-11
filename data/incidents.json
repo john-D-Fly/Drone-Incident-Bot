@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war latest: Zelenskyy condemns 'pure Russian terrorism' - as Moscow responds to Kyiv attacks - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUFqQmdHVDZNY21XNThZTzJVdWZ6ejJvYlVPZWoyMXdkZi1LWlowMkI2dUpSNjFBZFY0WUVoNnc0SXhaVkVkSVozYTFQMjRRb2lJQVdzWXZid3JCNG9sN2RNdjZXeHAtaWNnTzdlcUdtTGk5ZmRBbkRJaUhid1ExemtVUldiLU8tdWlodVM2TkJ2N2tjaGhMMlBoOTVPb3VzRVpGbENXSDY5dw?oc=5",
+      "source": "Sky News",
+      "date": "2025-07-10T12:17:12+00:00",
+      "description": "Ukraine war latest: Zelenskyy condemns 'pure Russian terrorism' - as Moscow responds to Kyiv attacks  Sky News",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-11T16:06:03.889059+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "01ac5bd76ff9"
+    },
+    {
+      "title": "CA Police Used Drones to Spot and Fine Illegal July 4th Fireworks - PetaPixel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGs5cnY1elB2WHpkMGV4dTdiQVJ1TjY4RUVySkhqQWxaMkZlYk9XU2tiQXI4Unp2MzNpSUkyU2paSzJsT2RvclloejNka0xINnlrWUo3QkIydl80NTlpLUQ3Yl92U2s0TlBNTnF0MFZxb1Y4eDhTTVJmc2tSMjdyTTR3b1p4c0hvZmRjYkliWVdCNXBkSDZsRFFDZFpzMWtR?oc=5",
+      "source": "PetaPixel",
+      "date": "2025-07-11T15:11:19+00:00",
+      "description": "CA Police Used Drones to Spot and Fine Illegal July 4th Fireworks  PetaPixel",
+      "query": "drone illegal",
+      "detected_at": "2025-07-11T16:06:02.357965+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e5c25507b4bd"
+    },
+    {
+      "title": "Jordan Army foils drone drug smuggling attempt - Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vVTFjelFKakhXRnlXZ2NJTUJlaExjcGF4R1lyNWhqQmFZMExCeUM3bEQxZ195ZUNTWV9qZ3RkdDJXTncteGNzYQ?oc=5",
+      "source": "Roya News",
+      "date": "2025-07-11T10:53:33+00:00",
+      "description": "Jordan Army foils drone drug smuggling attempt  Roya News",
+      "query": "drone smuggling",
+      "detected_at": "2025-07-11T16:05:59.368352+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "928092dce26a"
+    },
+    {
+      "title": "Teens arrested over Long Lartin prison drone smuggling attempt - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubHp2aUdyUkUxQzdmajJrbnoyRDZEeVlPV2ttMkNRNW5CZ3BoN3VLcWg5elQ2d0NrWTFycHV0V21NYjBLRnRjbkVlbzByV3NVN2prSjd3RW1XWG9Y0gFiQVVfeXFMUHh0ZUVSNWZaWElMd0lEUUswSFhZY2Q5VjF4MHVJVHVjS1NiaWJDY0FXR29EVTZlNUJ4SUNoR1QxVVNnbDBDVzEybFJTV09SaXJ4ZFdLWW8zYkdXWnpuVHEybWc?oc=5",
+      "source": "BBC",
+      "date": "2025-07-11T15:25:41+00:00",
+      "description": "Teens arrested over Long Lartin prison drone smuggling attempt  BBC",
+      "query": "drone smuggling",
+      "detected_at": "2025-07-11T16:05:59.368352+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "42a7c759bb30"
+    },
+    {
       "title": "Lithuania confirms Russian \"Gerbera\" drone crashed on its territory - Caliber.Az",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWpvRzN0bXMyS2FZV2xwcTQ1aDJSNGtrWmktenJIMjdzanBUZF9EcTM2VlZCelFDTDJLWjNSY3hJOVZyUDcyQjRJRWFYRXhkeVRReF9DbktoTElwUGNHaGRBc3hESHpEbm52RVZHd1JpdU1tODZubXJYZ28tRTBRSlFHcnBaNjNKX1VkZWppeWJZLTY3TU5B?oc=5",
       "source": "Caliber.Az",
@@ -1837,6 +1885,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-11T15:05:43.524038+00:00",
-  "total_count": 153
+  "last_updated": "2025-07-11T16:06:05.497645+00:00",
+  "total_count": 157
 }
