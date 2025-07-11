@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone crash kills one in western Russia: regional governor - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SdTZpQjRIOUNCelJaTXdock13UUFPalltaGhHUFlHaHpPcTItaFhTSzR4dGpYSzlhdFF6bnRPdzFVdnBmd1VueVUxNA?oc=5",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "date": "2025-07-11T04:06:39+00:00",
+      "description": "Drone crash kills one in western Russia: regional governor  Bangladesh Sangbad Sangstha (BSS)",
+      "query": "drone crash",
+      "detected_at": "2025-07-11T04:17:25.270618+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "95a5b9eb5d9e"
+    },
+    {
+      "title": "New drone program in Commerce City Police Department leads to safe pursuit and arrest - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcElCeVdOY2V3RXRnRGRtZ1JHYS1lTjVwaWVtbS1EU0pwLXIwTUhCdGlrNlUzUnJ2R1ZuR3hyYnBfLVRoNEg0dHlUSl9sSG04b2Y3dUJ0VkdIUEN1RFZWRnBRSG81RGQ2bzdwTmd0LTUyMmNVMTExbmxvTS1qa0lQVmdPcjJFMHJ2bzZ0TjRTOW9Ya0lCVFNUcmJpODdwRGtjeVltTVVja3diZ2VwVDEzcE82ZlNqT3YxLXhuQnVTU0E5YzA?oc=5",
+      "source": "CBS News",
+      "date": "2025-07-10T05:04:52+00:00",
+      "description": "New drone program in Commerce City Police Department leads to safe pursuit and arrest  CBS News",
+      "query": "drone arrest",
+      "detected_at": "2025-07-11T04:17:22.736238+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "55fd455dcd3e"
+    },
+    {
       "title": "ANALYSIS: Donetsk Inferno: Ukraine’s Drone Strikes Obliterate Russian War Plans - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGcVk0MksxeXVWOHJLTGZCcVhYVC0ya1lXSGpnUGY3RFhDTG5ibE5Vdlo5QnV2VmNFRjVyMFNZY1poQkdfbXZyNTk0V2dmQzZs?oc=5",
       "source": "Kyiv Post",
@@ -1633,6 +1657,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-11T03:33:41.460911+00:00",
-  "total_count": 136
+  "last_updated": "2025-07-11T04:17:28.191488+00:00",
+  "total_count": 138
 }
