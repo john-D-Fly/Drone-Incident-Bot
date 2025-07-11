@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone crash kills one in western Russia: regional governor - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SdTZpQjRIOUNCelJaTXdock13UUFPalltaGhHUFlHaHpPcTItaFhTSzR4dGpYSzlhdFF6bnRPdzFVdnBmd1VueVUxNA?oc=5",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "date": "2025-07-11T04:06:28+00:00",
+      "description": "Drone crash kills one in western Russia: regional governor  Bangladesh Sangbad Sangstha (BSS)",
+      "query": "drone crash",
+      "detected_at": "2025-07-11T11:05:11.083176+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c792eeca16b1"
+    },
+    {
+      "title": "Drones could carry escaping prisoners over jail walls, watchdog chief inspector warns - MSN",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjlRUE8tQWh1ajcwV3VCVmN2RmxGTTBLbk5ieExQMEpMaFdUa21ZdWhsb2JPaVdzcFA3a093czQ2UERvSGdhMUdISmFxTmdyUDRxSUJCZEtQSG5LeXVtWVYzd1kyVnZmQ0lIZHZ6Q2JqUklMbkx1UXBVVllnbjBWZFJTbGNWU0lTWWV5Zms5T0JHXy1rd2M4UjJJUmNWWmFuVmVfNWZhRi1TSlhabnZhTm1rSTk1QTlYakI1MEtZaVVacVNFVHgzTzhoLVJ4UQ?oc=5",
+      "source": "MSN",
+      "date": "2025-07-10T13:22:53+00:00",
+      "description": "Drones could carry escaping prisoners over jail walls, watchdog chief inspector warns  MSN",
+      "query": "drone prison",
+      "detected_at": "2025-07-11T11:05:09.821959+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "88174b859f2b"
+    },
+    {
       "title": "Jordan Army foils drone drug smuggling attempt - Roya News",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vVTFjelFKakhXRnlXZ2NJTUJlaExjcGF4R1lyNWhqQmFZMExCeUM3bEQxZ195ZUNTWV9qZ3RkdDJXTncteGNzYQ?oc=5",
       "source": "Roya News",
@@ -1717,6 +1741,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-11T10:05:51.308533+00:00",
-  "total_count": 143
+  "last_updated": "2025-07-11T11:05:14.537591+00:00",
+  "total_count": 145
 }
