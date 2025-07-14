@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "ALDOT closing I-65 lanes for road work this week in Birmingham area - CBS 42",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlZyR3RXNTM0TkFpTGh5Qk0zTzlXYWF3SGNYdjU1enFYcFpRM21HSWRnSVAyZlc0cWo2dTQyUENYbVpSekU3VDlaM1BXVi1UOHlKS0ZUS25FLUJPVFVDR2JWVTZfNVRLdjh4TmNSZUdOckFFaHg5b3VKODB2QjhZaWhlczVjX0kzNlhWSFRQek1UMkNuMHZPOHlpZS1LMEVaTU1kYndSLVJWOGx2ZEHSAbMBQVVfeXFMT0cwZ20zVE5MejJjaFZkODlEaVM0bi0wNmduY1RtaDEtcXBnTVQ5QWhIQTkxdkNKSDVUYUthZnlyYzQ5bTRKT2FtZTZ5bzJDeFhNVktOd2ZVVVYtVWV1NWRnWUpNeG5lVXhtb0R1U1FkbHR1RHN5LWowS3oyaWRPRExhRWJycFpDdm1SSk5uTlRlblJpTGtFVkxZWEl5Q2dEUm5LN25ndjBEZ2ozYzg4bkswMEk?oc=5",
+      "source": "CBS 42",
+      "date": "2025-07-14T22:56:34+00:00",
+      "description": "ALDOT closing I-65 lanes for road work this week in Birmingham area  CBS 42",
+      "query": "drone crash",
+      "detected_at": "2025-07-14T23:05:29.585032+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e1631cdad128"
+    },
+    {
+      "title": "NYPD: 4 boys arrested after drone video shows group subway surfing on 6 train - News 12",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0l6NVNSSmlobHpRb0hhSVdJeUVoZmtDWWZyTG1Mckl4R0ZzYnpfa3pLQVZxVHpNWVNBWW1xOVdmUk9VVEpYUmZPYWFVREVaUWtVUnlaTEt5LWlhQ1RTV3MycTRqUG1ibUVjX2tZbXFxU1hCV2ktaHE0aTg1LXZMOFozX0c1NXZrQ3JPQVVzRExtVzB2dkthV08tMmxYcmFqdUw4a05PZw?oc=5",
+      "source": "News 12",
+      "date": "2025-07-14T22:58:56+00:00",
+      "description": "NYPD: 4 boys arrested after drone video shows group subway surfing on 6 train  News 12",
+      "query": "drone arrest",
+      "detected_at": "2025-07-14T23:05:26.284554+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9a6c09c28c59"
+    },
+    {
       "title": "Two drones target Khurmala oil field in Erbil - Iraqi News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHlLMjhMRmhjcTg0VTZsNklmYnJhVTlSaUdHeXlOaWhraFJ6b1FIWXdjUTZ1TjR2YVUtT096RWhlQnVmUDJvbkdLRlhZd3RYcGJPbU5xME5KdTAxUk5rNGNsNFJDYkFxR3Y3d2hWRzFtaXZuQ2VOOXJncy04Nk5zemxMNA?oc=5",
       "source": "Iraqi News",
@@ -2509,6 +2533,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-14T22:05:34.459162+00:00",
-  "total_count": 209
+  "last_updated": "2025-07-14T23:05:32.818586+00:00",
+  "total_count": 211
 }
