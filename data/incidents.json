@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Hegseth's Drone Video Edited After Metallica's Cease & Desist Letter - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3cyU0JwSUN4b2JaS0NGOHdhRXdwUUR3ampJemFTek1pTGxtLVUyY0Z3cHBZX0c4ZXRmOW80ckZNY0tjemYtN3YzbGhrOTBLNFpPYmlDZWVZbk1YWGJzNUdPQ3EwWVdsQlpYRk1DOGtxUG1qd3M4dFVGZU9DQTY0TnZ6azZPZFpHbjBaSlM2aWpkTWVTZFMyOS1DRFQtLVYwZlFjUmFRak8?oc=5",
+      "source": "Billboard",
+      "date": "2025-07-14T12:40:38+00:00",
+      "description": "Hegseth's Drone Video Edited After Metallica's Cease & Desist Letter  Billboard",
+      "query": "unauthorized drone",
+      "detected_at": "2025-07-14T13:16:28.367738+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c9d54333308f"
+    },
+    {
+      "title": "“Wave of Terror”: Russia Unleashes Record Drone Assault on Ukraine - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEZSTE10VWIyV0w3MGs5VXZ1Sk9GRTRZOG5jY1pVbDJmbXF1Z0tVUnZ3d1AtMG01YTNfVk5KQlhteDdHSzY4a3hjaHIyUGdJVUhSYjJSYzd5TlByYVI1MDVpRjhFbWI2Yzg4X2hyd0hONjEtNlFOeWdMQnhXTGE4TWt1OEV2NloxZTI5aVNpU3d0V2g4UnNrT0ljU1UtTXdGbnlQLUd3VUgxTE50VkNpdU9n?oc=5",
+      "source": "MSN",
+      "date": "2025-07-14T08:24:44+00:00",
+      "description": "“Wave of Terror”: Russia Unleashes Record Drone Assault on Ukraine  MSN",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-14T13:16:27.561746+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "7597d199939c"
+    },
+    {
       "title": "Suicide drone shot down near Erbil airport: Kurdish counterterrorism - rudaw.net",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nTXpFQ0pwR0dmWGRaQjhxdlY5cGdsU3RzZDJmMTIwVXZFbG5IZE1MZVJFYjRrSTNEYzFGVnZJMGM3TFdEUXNoZkFob0pXNUhSQzBKYXh1LW53TDVi?oc=5",
       "source": "rudaw.net",
@@ -2341,6 +2365,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-14T10:06:21.971042+00:00",
-  "total_count": 195
+  "last_updated": "2025-07-14T13:16:28.948813+00:00",
+  "total_count": 197
 }
