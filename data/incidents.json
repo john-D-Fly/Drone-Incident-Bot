@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "US drone war: Berlin not absolved of all responsibility - DW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0xWYm9CZ0RUalUxSVhWS3RZWjRjRkp2YkdTeDRaMXVlOFEwLXRFb3VxSDVyWXRZTHlpNy1sZERUMXZUWm04Q1V2NjRLbGJPVHpIYzZfZ0g1bGRnMDRxRU1FUG5nWDJFRTR4RGVOVU85aFBFMnIxRVd2cGI1clNneEN5eVhyaXFoajl1ZkQwRDHSAZABQVVfeXFMTXNWMm1iX2lST1piOHNVRkk3V3VwMnpwSXYyZ191Znc1WmF3WHg1NHNfbUVOWkRvM01tNll3d3BWUVpCTXNDWXdFVDgzaW1kN1I4WXNTclJkZ3k3MUotbHlOSTZtWnFibWlOeUIxRTNMcDh0NHNZVFpPNExsV0Z3LVZXSzNWSHRVdldjS3k3ejVk?oc=5",
+      "source": "DW",
+      "date": "2025-07-15T16:51:27+00:00",
+      "description": "US drone war: Berlin not absolved of all responsibility  DW",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-15T22:05:25.123856+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4f409582ae09"
+    },
+    {
+      "title": "Citizen with drone helped first responders find paraglider pilot who crashed in Hancock County - WTHR",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVzFOc183dzA3dmhEdVlJMFp5enFVaTJNWjRxdHRPRWh4ckNCWG1EbGRnN1NPbzBDdGdtWXU2aHVTek1lR2YwclZNR18wOUN1aTRzQVBzOVd6b3A1UDJ4NXBrT2JQNENTZUM0X283ZnFBNG9KbVdCYlBsamRPT2VWZjkyVXR1VHlMX0xSdjA4U2J4anplOFBLOFRoWGdEUjhjZ0hKZkFHTUFWNmtnZVNEZHhhQlBBZ2lVYk1HcHhQLUhOTzhpUE5mQnB5bVFLUDM5d1NrUlZXWFdIcEtMTjRiRU5TVjI0TG5BSkhvb1VPWHhtaGJJbGo1cW5YczJ0a3NJTWVWdkhod1hkSFQxa0R0QzVnWGpiQVZEZnlMeFhSQm9FWHo3dHhrT2pPaG1qQktVX0RLVWtn?oc=5",
+      "source": "WTHR",
+      "date": "2025-07-14T07:00:00+00:00",
+      "description": "Citizen with drone helped first responders find paraglider pilot who crashed in Hancock County  WTHR",
+      "query": "drone crash",
+      "detected_at": "2025-07-15T22:05:23.285351+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8ca6b2ed1cb7"
+    },
+    {
+      "title": "Drone Challenge Draws Global Talent, Designs In UK Fly-Off - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Cc3ZjdUZ6WW5YcXJwQ19YTzZHcEtvWW8tZ2JyNmROZ2Zrdm1hQzhYSFN5X1lZVlh4VjJQQXhBcE1kX01QdEJuTTNOd0FzczZCc0V0NkFSNWt1MmhVanZCWGVqa0Y0UQ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-07-14T17:56:29+00:00",
+      "description": "Drone Challenge Draws Global Talent, Designs In UK Fly-Off  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-07-15T22:05:20.224401+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9d9e9bf4fccb"
+    },
+    {
       "title": "US Embassy condemns drone attacks on Iraq's oil fields - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xOHp2ZndvaWhkUU1EYVFOUWZDVDRDMFY4TVAtNjdhcElyZFpjYmdFLWY4OGpud3UwTVJEOUwxVzFPekljYU1nRFByMlEyVDA4YUlJa1VrM04zWExlX1Zn?oc=5",
       "source": "The Jerusalem Post",
@@ -3013,6 +3049,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-15T21:04:29.531392+00:00",
-  "total_count": 251
+  "last_updated": "2025-07-15T22:05:26.455044+00:00",
+  "total_count": 254
 }
