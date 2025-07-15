@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "NYPD: 4 boys arrested after drone video shows group subway surfing on 6 train - News 12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnFyUi1LMUp2SFJsYy1xcDRteTFiNGpDUksxcGJ1cHRSa2tjMFU4czFpLVBqVndPRU5uc0ZpdjdqeUh1MDh2M0QtejBmT2o2UklYcElUNno0Y3BFVDV4Z19hZzdIVEhGN1JWdDVZSmhMYXpqbTc3eHNFZGUxenRiaVBSMktRbjI4SG41eXBGMVlfZjVmUkhJUDJmY00tOU5PcDNB?oc=5",
+      "source": "News 12",
+      "date": "2025-07-15T03:33:45+00:00",
+      "description": "NYPD: 4 boys arrested after drone video shows group subway surfing on 6 train  News 12",
+      "query": "drone arrest",
+      "detected_at": "2025-07-15T15:05:21.858323+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "765b7e6cbe9d"
+    },
+    {
+      "title": "Suspect Arrested for Using Drone to Spy on Walla Walla University Dorms - Campus Safety Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmhpaElNaXFaUkM4a3JXX0lxY0Jady15VkxPejdnZF9fY3BkQzRGRm5yRmo2VGUydGY0ZmM1dFc0UGVsZUw4Qi1neVN6TXJEblhDVVQtOFl6WklxRjBfOWcxOFdNYU1pLTdMR3FKWnp1LXQ2djV0RXZuel83VXlkbDhsa295MU5TVlpUS3ExQW5IcG4zSlNfUGxCVkZYbmxuUmNJS181ZUtmcm1BWXNUZW1XOGNZa0tiNzQ0VzJ3?oc=5",
+      "source": "Campus Safety Magazine",
+      "date": "2025-07-15T14:36:53+00:00",
+      "description": "Suspect Arrested for Using Drone to Spy on Walla Walla University Dorms  Campus Safety Magazine",
+      "query": "drone arrest",
+      "detected_at": "2025-07-15T15:05:21.858323+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "3000f8cd2066"
+    },
+    {
       "title": "Kurdistan Region Confirms Drone Attack on Sarsang Oil Field, Condemns Strike as Act of Terrorism - kurdistan24.net",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSWEtS3ptXzdITDJjZjlFdEFWWnF4eVVTYWl2V0R4cE1FbHZFNGNzRHNFYWZBWFYtMkY0SU15WDFvVmNsTFBDdUR4UnpLQUx3UTBXZU93?oc=5",
       "source": "kurdistan24.net",
@@ -2845,6 +2869,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-15T14:06:26.346836+00:00",
-  "total_count": 237
+  "last_updated": "2025-07-15T15:05:28.390804+00:00",
+  "total_count": 239
 }
