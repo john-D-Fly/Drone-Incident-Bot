@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "US drone war: Berlin not absolved of all responsibility - DW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0xWYm9CZ0RUalUxSVhWS3RZWjRjRkp2YkdTeDRaMXVlOFEwLXRFb3VxSDVyWXRZTHlpNy1sZERUMXZUWm04Q1V2NjRLbGJPVHpIYzZfZ0g1bGRnMDRxRU1FUG5nWDJFRTR4RGVOVU85aFBFMnIxRVd2cGI1clNneEN5eVhyaXFoajl1ZkQwRDHSAZABQVVfeXFMTXNWMm1iX2lST1piOHNVRkk3V3VwMnpwSXYyZ191Znc1WmF3WHg1NHNfbUVOWkRvM01tNll3d3BWUVpCTXNDWXdFVDgzaW1kN1I4WXNTclJkZ3k3MUotbHlOSTZtWnFibWlOeUIxRTNMcDh0NHNZVFpPNExsV0Z3LVZXSzNWSHRVdldjS3k3ejVk?oc=5",
+      "source": "DW",
+      "date": "2025-07-15T14:44:41+00:00",
+      "description": "US drone war: Berlin not absolved of all responsibility  DW",
+      "query": "drone terrorism",
+      "detected_at": "2025-07-16T01:34:06.722069+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1c0c1f8f24ab"
+    },
+    {
+      "title": "Pakistani drones back, pushing drugs & guns into India - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjk1dExXenNvRFVLZFVkZ3lYdlhOckJsNmJLeTEyRXhJcnRLTnpPcmE2MXN1UEVlcUxlWHVYd3B4T0tPN2dwQ2ZnZEMtZ2VWWnBnSW8xbmVGenZKaW5KWnc3bjZnOUsyZ05kUXBfemR2Y3Vwc0dTNmFibWhneVV4a3M4LWpEbG9fNFFBU185VlBMc2V3QXoxWXU5WEtYaURmRy1leFJ5WDlXMWNDMHh2OGNBOWtiOFBmRS1z0gHAAUFVX3lxTE5pMGt2UlpORkRocXJYaHlBNVpidHpTQ1YxWHhRQzQwVTJkcmltT0VBeTdlcEp4RS12SGlwSldUVUpsS01hUkJTdkhHYlRjWmVBWG5yeUVYNmRhWVhqM3NqNkZwZ19kWmo1ejRRTlZUR0pXbkdOWTJNSzF0RHQySE9MZlJyTldacWtLWmkxUzA5cllJUDVSVEllSkQzRm9PZWFEaVY5RWN4M3ZKRnBVN3NZNlA3UTFNTmpYSDVXSF9aLQ?oc=5",
+      "source": "Times of India",
+      "date": "2025-07-16T00:24:00+00:00",
+      "description": "Pakistani drones back, pushing drugs & guns into India  Times of India",
+      "query": "drone smuggling",
+      "detected_at": "2025-07-16T01:34:02.992872+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c70c084bdf7d"
+    },
+    {
       "title": "US drone war: Berlin not absolved of all responsibility - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0xWYm9CZ0RUalUxSVhWS3RZWjRjRkp2YkdTeDRaMXVlOFEwLXRFb3VxSDVyWXRZTHlpNy1sZERUMXZUWm04Q1V2NjRLbGJPVHpIYzZfZ0g1bGRnMDRxRU1FUG5nWDJFRTR4RGVOVU85aFBFMnIxRVd2cGI1clNneEN5eVhyaXFoajl1ZkQwRDHSAZABQVVfeXFMTXNWMm1iX2lST1piOHNVRkk3V3VwMnpwSXYyZ191Znc1WmF3WHg1NHNfbUVOWkRvM01tNll3d3BWUVpCTXNDWXdFVDgzaW1kN1I4WXNTclJkZ3k3MUotbHlOSTZtWnFibWlOeUIxRTNMcDh0NHNZVFpPNExsV0Z3LVZXSzNWSHRVdldjS3k3ejVk?oc=5",
       "source": "dw.com",
@@ -3061,6 +3085,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-15T23:04:54.437606+00:00",
-  "total_count": 255
+  "last_updated": "2025-07-16T01:34:08.066395+00:00",
+  "total_count": 257
 }
