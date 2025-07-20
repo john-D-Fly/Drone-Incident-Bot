@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Moscow hit by drone attacks, major airport delays reported - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVlGalM1N0FzMElWNHltWkdfNVBOdEREdEJsaThaWjl1MWpETUZ3WEFCdFljbGRJYXpRV2N4dExRRmZBNzFGSDJCa2lZczlQSGZESkItT2dCdV93M21yZk5uVFhvY3BrYTF3cnpRRlBsNlRjdW5rYjZZNnJ6RWM4TDNMYVdqeUpFQnNSN0N5SVFxTFp6cEs2MDM5X3lNeUJuQnJCU2JWY3R5dw?oc=5",
+      "source": "MSN",
+      "date": "2025-07-20T02:11:13+00:00",
+      "description": "Moscow hit by drone attacks, major airport delays reported  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2025-07-20T09:05:28.991771+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "df76b2d0424e"
+    },
+    {
+      "title": "US and Ukraine in talks on drone investment deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGRsYVpmb0pQU3BfQXA3SU9MMzljRkpDbHJXVFJIcXZ6aGVZYnVLd1JPVTkwdFZWbERIc0Nobk1PNUJqdlB3VmRpOG1MSEh6RVFya0tlQjNWVGZSVkpUN0c2THZBRmRhNTBhbDJCbHBNMHNBUERkNEE1cnZjd2MtVGxzUWlkaEEtRHZaWXIxOWk?oc=5",
+      "source": "Reuters",
+      "date": "2025-07-18T15:34:57+00:00",
+      "description": "US and Ukraine in talks on drone investment deal  Reuters",
+      "query": "drone arrest",
+      "detected_at": "2025-07-20T09:05:27.311866+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "46654e2687f8"
+    },
+    {
+      "title": "South Korean prosecutors seek drone chief arrest over operation in North Korea By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmlFeGtnay1kRDEwbE1XRWNEV0R4eDZ2RWZVTEhwRGFLLWNqTWNVT1lZYzZIemxjTC13YzhqQi1rLVZ3cmkwZkhpYXc1TUFLZ0dVdTVkZ2ZBT3VDUXJTekJ4dUM1VXRjcGRfSW9oMjFJUmVqcE9jbWtCajktc29fcHhEZXVPSkdYWUZzc3VEN0dYSHNEUjRUN0lVU091eUhGX1BLTGZTTU1WOE1FajNkZ2huVEJPUElHMmdhRlVIWTh4RnV6czF3?oc=5",
+      "source": "Investing.com",
+      "date": "2025-07-20T07:52:35+00:00",
+      "description": "South Korean prosecutors seek drone chief arrest over operation in North Korea By Reuters  Investing.com",
+      "query": "drone arrest",
+      "detected_at": "2025-07-20T09:05:27.311866+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "367079d6ef9b"
+    },
+    {
       "title": "Special prosecutor requests arrest warrant for drone operation chief Kim Yong-dae - CHOSUNBIZ - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmhYb3EtSV9DTzlKQjMzbWxHd3NHOVpkMjh1ZmlXdWtKc1JVSXo3WmNjZTNwUzJndEFpOWlIVFFENUJKSGxVZ3k1LUNmUUZVTUpPUVNzNW9WR3RQQkdkZHgxQkF0OEl5bWJHeG1yOEJEWHoyUzNtRUpOSXZGbnlWadIBlAFBVV95cUxQVngwdDJ5czJuZDY2SFlFOGJHSGxUandlRTJxdlNGbjk0ZzRkSXMyaVpCazE1bEtEdDlLLXp1c0loY2Y0WW9fUWVXWF9DdHcwNzRNc1J4aHMxLXJJNE1MSUdoakZrMUtOaU9USGE5aTlPNDZEQmFKWHVrMGUtQXJWTzh2VW1PRkhnSm14SlIzRGIzMjRO?oc=5",
       "source": "Chosunbiz",
@@ -4621,6 +4657,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-20T08:06:38.013388+00:00",
-  "total_count": 385
+  "last_updated": "2025-07-20T09:05:32.685609+00:00",
+  "total_count": 388
 }
