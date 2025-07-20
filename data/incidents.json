@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Items being smuggled from Sinai to Gaza via drones - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TbTJMeHA0b3A5dGpWMXc3MU4tVzRKMndQcXBqV2RGLW5uZjJGX256MmtfYjZsYl95T3JkVVNfSi0zR1dYdXhiLXlQblBrbkJyOXY5OHE3TW4xOUlI?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-07-20T12:36:50+00:00",
+      "description": "Items being smuggled from Sinai to Gaza via drones  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2025-07-20T19:04:27.013379+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "2f029e47d669"
+    },
+    {
+      "title": "Waterfront drone show under review after two crashes - BayToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTAwb3J3Z1JFMUNBbS1HakQyVlp0dEstRVpoYTJqMjFRRW9PZEh3WUdGZ2FLYkdiSUlHTDdHcU8wYVNXS3prd0xBbkxsVm91ejN0RllzYjRQVlJtc1BaOG4xVVFfMzlHa0RaTWY2WVk2bW04R0c2aENYVmJrWGR5TThCZEdVTllVZER0RDVxcV9ZUndOUF9aUkcxWlc?oc=5",
+      "source": "BayToday.ca",
+      "date": "2025-07-20T12:00:00+00:00",
+      "description": "Waterfront drone show under review after two crashes  BayToday.ca",
+      "query": "drone incident",
+      "detected_at": "2025-07-20T19:04:25.725657+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3c08c683e520"
+    },
+    {
       "title": "Air and rail routes closed in Moscow due to drone attacks - Zamin.uz",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGZPQ1h6aUl2VUxZR1VmT0NuZWxzczNYUkREN0ZoQnZnVER0VkxCTWJFSEJmRDlETkZiaUl5T29aOUp0SUxpMVkzUUlPQjhJM3BXVS13WXRrb3FOa3hOQlV2ZGhFbFNraFREMElqSzQwSmFHblhFcnRMajBjSWlrdFR6MF9IenZsTnF4TGllcy1oODVzT2ZvTk5HQQ?oc=5",
       "source": "Zamin.uz",
@@ -4849,6 +4873,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-20T18:06:43.266807+00:00",
-  "total_count": 404
+  "last_updated": "2025-07-20T19:04:32.284303+00:00",
+  "total_count": 406
 }
