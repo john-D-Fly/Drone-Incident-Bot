@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "ATSB Report Released After 400+ Drones Crash During Light Show - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxTHU2anBvc1dmenVxMERNSEtRR1NKTGR4eGFhVl8yeUhKLV9UaW9GUHlhdkVQVEZja2s3VzA3UnlJS0o2djNFUVdKa1RfdlBLQmlJbnRFb0FoYVNuQmpKdnQ0NnY0Z1ZHb3QxSEZNekYyUQ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-07-20T22:30:10+00:00",
+      "description": "ATSB Report Released After 400+ Drones Crash During Light Show  DroneXL.co",
+      "query": "drone crash",
+      "detected_at": "2025-07-20T23:05:29.232046+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a6e3482404be"
+    },
+    {
+      "title": "South Korean prosecutors seek drone chief's arrest over operation in North - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTJPdVJZeG80QmctZHpobUtWY184VzYxNVNUN0Y1b0NjT0NIcFZlcGZtcm9pTW1nV2NfSm5adFlmNkxMU3M3S3NPejZKamxIa1hEOE5ibHJzUTRaOFJ6QkxMOU9wdndBUWRmb2hDTGlyZWV6cjJaS1RrcndBdzdDYTNtcw?oc=5",
+      "source": "yahoo.com",
+      "date": "2025-07-20T07:46:59+00:00",
+      "description": "South Korean prosecutors seek drone chief's arrest over operation in North  yahoo.com",
+      "query": "drone arrest",
+      "detected_at": "2025-07-20T23:05:26.711717+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "71ef96f72b79"
+    },
+    {
       "title": "It's official - undercover drones are now ticketing from the sky for illegal fireworks in California and fines are up to $100,000 - Unión Rayo",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUZqQVZ1M2FjUzBBb2E3bVVYRExWcUNvdGt4WlA4ekt5TWV6Skd1Ui0xN0VkNGQ0V09HUmRrdGpFXzJEWEMyTG1wSWt3ZVJMQWRqV3R5Mkd2ZG11TXFNODFEalV2WEpQVDhVT05YZ1FIb18tTEhMTDZQRlZvN0FRMw?oc=5",
       "source": "Unión Rayo",
@@ -4909,6 +4933,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-20T22:05:11.203106+00:00",
-  "total_count": 409
+  "last_updated": "2025-07-20T23:05:33.381410+00:00",
+  "total_count": 411
 }
