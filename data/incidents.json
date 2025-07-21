@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Police release drone photo of deadly plane crash scene in Lancaster County - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFFUQkF1bUVYdU9RTVBBUUg3bFM3WWJzOC00OUlWN3dyMnlxdHh3SUZVZ25YRmhCRmdoTmRaTTVhek9oandPWlByQ3dncjZtS2Y5c05FRmFIZHBmbUFWQm1LblhyWEg3NndBLXM4R2N3ZjVtcnJTRHdZTlZxWjNHU2N5bW9Na2FYMXRoN1BHNUh5WTZuSlhROVFGZjZ3clBVbjFoMFVSbVRNUTFTd1I2NmtxSW1BbFk?oc=5",
+      "source": "WGAL",
+      "date": "2025-07-21T12:59:00+00:00",
+      "description": "Police release drone photo of deadly plane crash scene in Lancaster County  WGAL",
+      "query": "drone crash",
+      "detected_at": "2025-07-21T14:06:30.821858+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "bd3c0697f34b"
+    },
+    {
+      "title": "Moscow hit by drone attacks, major airport delays reported - newsukraine.rbc.ua",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnVaakhpcjY3S2RDLWFUeGRWTVBVajMzZE1KMXQ2RExCSEcxa2I0em1Tc1VYd1V1TUZLZHBodkZlY0FneWV1UEJzQmpOYnhZT0k2YlMzUm0wUzBCeDF0UjVvMjMtYVlaWTk0Sy1HamZxQzNmX1JjdnRJTlNETVFOX1JqNXJXVjdTaWlTX0labG9kWlE?oc=5",
+      "source": "newsukraine.rbc.ua",
+      "date": "2025-07-19T21:15:00+00:00",
+      "description": "Moscow hit by drone attacks, major airport delays reported  newsukraine.rbc.ua",
+      "query": "drone airport disruption",
+      "detected_at": "2025-07-21T14:06:30.127211+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "8dae4b558535"
+    },
+    {
       "title": "Police release drone photo of deadly plane crash scene near Lancaster Airport - WGAL",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFFUQkF1bUVYdU9RTVBBUUg3bFM3WWJzOC00OUlWN3dyMnlxdHh3SUZVZ25YRmhCRmdoTmRaTTVhek9oandPWlByQ3dncjZtS2Y5c05FRmFIZHBmbUFWQm1LblhyWEg3NndBLXM4R2N3ZjVtcnJTRHdZTlZxWjNHU2N5bW9Na2FYMXRoN1BHNUh5WTZuSlhROVFGZjZ3clBVbjFoMFVSbVRNUTFTd1I2NmtxSW1BbFk?oc=5",
       "source": "WGAL",
@@ -5161,6 +5185,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-21T13:17:21.019428+00:00",
-  "total_count": 430
+  "last_updated": "2025-07-21T14:06:34.358148+00:00",
+  "total_count": 432
 }
