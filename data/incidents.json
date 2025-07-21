@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Waterfront drone show under review after two crashes - BayToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTAwb3J3Z1JFMUNBbS1HakQyVlp0dEstRVpoYTJqMjFRRW9PZEh3WUdGZ2FLYkdiSUlHTDdHcU8wYVNXS3prd0xBbkxsVm91ejN0RllzYjRQVlJtc1BaOG4xVVFfMzlHa0RaTWY2WVk2bW04R0c2aENYVmJrWGR5TThCZEdVTllVZER0RDVxcV9ZUndOUF9aUkcxWlc?oc=5",
+      "source": "BayToday.ca",
+      "date": "2025-07-20T18:00:46+00:00",
+      "description": "Waterfront drone show under review after two crashes  BayToday.ca",
+      "query": "drone incident",
+      "detected_at": "2025-07-21T00:26:08.702474+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d1af65774a87"
+    },
+    {
       "title": "ATSB Report Released After 400+ Drones Crash During Light Show - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxTHU2anBvc1dmenVxMERNSEtRR1NKTGR4eGFhVl8yeUhKLV9UaW9GUHlhdkVQVEZja2s3VzA3UnlJS0o2djNFUVdKa1RfdlBLQmlJbnRFb0FoYVNuQmpKdnQ0NnY0Z1ZHb3QxSEZNekYyUQ?oc=5",
       "source": "DroneXL.co",
@@ -4933,6 +4945,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-20T23:05:33.381410+00:00",
-  "total_count": 411
+  "last_updated": "2025-07-21T00:26:16.533776+00:00",
+  "total_count": 412
 }
