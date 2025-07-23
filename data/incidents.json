@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "A look at megafires as an Oregon wildfire approaches the 100,000-acre mark - KSL TV 5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDV1VnlaVnFzZ192bUhfMEpwX0xzNE9KYU1VNGRWV3Qwd0V6LWZLaG1FN1UzdWhKNk82MUtLNTJEMFhtYVF2WmdyNzItYkdnRDJzeFQwa1RUTXRxbHlHaTBfWnRQRnZna2E0ekNGZ25lVmI5SzFKWjFjTjBybkZQYkNXM1ZObzFWaDdMd2d0Y0Q2OHkwdzRoRk5WcjI0U2k3Z3dyMC1mSm9UQUhvdkpIa2VnMA?oc=5",
+      "source": "KSL TV 5",
+      "date": "2025-07-22T21:12:32+00:00",
+      "description": "A look at megafires as an Oregon wildfire approaches the 100,000-acre mark  KSL TV 5",
+      "query": "drone incident",
+      "detected_at": "2025-07-23T03:33:56.878080+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2d1a7dad490d"
+    },
+    {
+      "title": "Drone helps locate suspect in I-5 incident near Ashland - KDRV",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa2Y4M1FMREp1MDF2YzdkckRsR19NOTZpT1g2ZTN0NENadTB3dU84czVBMXNXOURvbGxoU05iOEpUa3ZNYTVPZ0NMbTN6cHZXOU1nQU9EWGJjNTdlY29tV09FamN4XzBwbmRXT0R2UFZ6RThMaFU4TExaaFBGU254VHZ6VG9tbW5ESERVeVFWcllEOXQtaUFDT1BIb3VadjlMZGp1cnJ5QmhzSlYxSm1oWUNuckpmUkNNWFIydkl2M3ZNeXBFcV95NVhnbw?oc=5",
+      "source": "KDRV",
+      "date": "2025-07-23T03:13:00+00:00",
+      "description": "Drone helps locate suspect in I-5 incident near Ashland  KDRV",
+      "query": "drone incident",
+      "detected_at": "2025-07-23T03:33:56.878080+00:00",
+      "location": "near Ashland",
+      "category": "other",
+      "id": "c7a8625c9b76"
+    },
+    {
       "title": "More drones for illegal fireworks enforcement results in $330,000 in fines, Elk Grove officials say - KCRA",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUZDdDQ3bFdjenNYVUp0bURKYjhzQ1FmWG5LV1BhbmU5b0JBc0VtbjAzMWFkSUJEaUk1VWx4MU9qRkwzQ1Y1eC0xS2FJemJ4Y3Z1bXY4RkRrakxzbElpeDQwU0FxaEdOd0JlTVA0MkZZV3M3UjBtckE3UjdubkFGN0pQRFBoMWt4Ml9WandQWWtuUQ?oc=5",
       "source": "KCRA",
@@ -5749,6 +5773,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-23T02:43:36.100274+00:00",
-  "total_count": 479
+  "last_updated": "2025-07-23T03:34:02.690137+00:00",
+  "total_count": 481
 }
