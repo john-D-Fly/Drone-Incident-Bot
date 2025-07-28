@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "UAV flies from Belarus into Lithuania - Delfi",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0JvVjUxR1BPMElWaHVfaWNzdGpycTZCTDUtTl85ZURVbWZieDZ0aWdGemJUbDBOTUhHaUhndy1XMzJLYl9KbDY0b1JiSktxLVplOVg0N3N3aGdrbmFRRGV3NktXLXFza2dFZ3FWSnp1TU1icVNIWGRMM3NMX2Z6RGVKY3NmT2c?oc=5",
+      "source": "Delfi",
+      "date": "2025-07-28T07:42:49+00:00",
+      "description": "UAV flies from Belarus into Lithuania  Delfi",
+      "query": "drone crash",
+      "detected_at": "2025-07-28T11:05:07.577845+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cfb247f476d1"
+    },
+    {
+      "title": "CTD: Bomb-Laden Drone Crashes in Erbil’s Khabat District - kurdistan24.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUI5MjBDU0lfNEZOYXdpYWxQMENVU05rWWVOell1dVUtQUNOV210a1I5aGllTDFadnlHdmNrcTJLSGw4cE4xZWg0RE00ZV9QV3ZQek1Oem1pNV9aSm8xZlJldldwdV8zbXJjNVIyTjdTT2JWd0c2b3lQMFgyRlllUGtUbHppTWhoNkdZQzFTVHQ3UV9wYWs5Z1VyclhmRWc?oc=5",
+      "source": "kurdistan24.net",
+      "date": "2025-07-28T10:17:42+00:00",
+      "description": "CTD: Bomb-Laden Drone Crashes in Erbil’s Khabat District  kurdistan24.net",
+      "query": "drone incident",
+      "detected_at": "2025-07-28T11:05:04.475014+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "58b3d01237fb"
+    },
+    {
+      "title": "Woman and three children injured in reported Ukrainian drone attack in Ingushetia - OC Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3p0eEN4LTlBOU1LMkVHM1gzQ1pjdDlzVlUxdnk3eEYtZnExQkVJS3RyZVUtNHNHRmZ4YzV6dWc0SGJhR1F3WG5KVmFLazlJQ1RmbWhqU1RmNS1HMUJCU2N6WjFNQ05iWkVwMUJaM0Y2bmVJMURIQjR2eHpsQzRadUJJa05sdzFWeUQ1eWctODZybGxGSTRNQUgwb2tLeGQ0b2hVNTdR?oc=5",
+      "source": "OC Media",
+      "date": "2025-07-28T06:54:51+00:00",
+      "description": "Woman and three children injured in reported Ukrainian drone attack in Ingushetia  OC Media",
+      "query": "drone incident",
+      "detected_at": "2025-07-28T11:05:04.475014+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3eb84852bcee"
+    },
+    {
       "title": "Bomb-laden drone crashes in northern Iraq - Iraqi News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FdEt0c0tBcXE2bW9hWE9qSjdXMjVONEJxSmhnOHNoVjAzcFkyX1I2OW1kU3FZY0M0bjBKZ0dGaHAta0xONnVvX05Kd2J6RFhNZlZ2anpZdGc0cjdNWUQyaDkzZkpvdnJpay1LZDc2djVuZENMMlBrN0NQdV96Zw?oc=5",
       "source": "Iraqi News",
@@ -6589,6 +6625,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-28T10:06:27.135743+00:00",
-  "total_count": 549
+  "last_updated": "2025-07-28T11:05:10.618146+00:00",
+  "total_count": 552
 }
