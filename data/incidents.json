@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Mystery drones crash across northern Iraq, spark fears of coordinated attacks - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYV9ZcTVUdU4ybllBTWtLRGs4MTJiNXVCVUVFcVdfVUpHV1hBQV9jRURPc1JxaVRvTU1vbjc5a2NjdHpReEdyLUdQVjB1ejhNMER1VkR5NlZxc3lhN2ttU0R1MENnYk02MHRJb2NzTDcwZWk5UXdPSzdTY2RxczduM1ZNbnVYcGJLc2x2ZW55TVF6bHA2ZTBFeW5LbzV2Z0JjdzVUczJR?oc=5",
+      "source": "Caliber.Az",
+      "date": "2025-07-28T08:37:03+00:00",
+      "description": "Mystery drones crash across northern Iraq, spark fears of coordinated attacks  Caliber.Az",
+      "query": "drone incident",
+      "detected_at": "2025-07-28T09:09:30.131808+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "fe79f6abc6c5"
+    },
+    {
+      "title": "Lithuania searching for UAV spotted near Vilnius possibly launched from Belarus - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05VThzMkZ6aGFtMnJGeUdzYURjS1d2cHdxZUdJRnZVQnoyVnJYSE40SEpZRk9qZEtEVnY2c2o5TS1VSHgxckNIeVZwMy1ob3R1Tk9kdWxlMk5SX3pqLXk3Qkl5WUjSAXBBVV95cUxNWjlKdE9OcVJ0UUdlN0VraXJobW5MWTZxYW5uZUxyRzg0RWxMVXBTRS1TQ2NaSV8tM1hwb25FZWtWem5ZMzNDc19NXzhZNkdaOGJlU2RvdTY4eU1YQ1NmUnNaRi1jNl9LQUMxX2psSklq?oc=5",
+      "source": "Українська правда",
+      "date": "2025-07-28T07:40:53+00:00",
+      "description": "Lithuania searching for UAV spotted near Vilnius possibly launched from Belarus  Українська правда",
+      "query": "drone incident",
+      "detected_at": "2025-07-28T09:09:30.131808+00:00",
+      "location": "near Vilnius possibly launched from Belarus",
+      "category": "other",
+      "id": "ba36e7e110cf"
+    },
+    {
       "title": "Russia strikes Ukraine with 324 drones and 7 missiles overnight: Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORm9QdXNZekZiUDBSemhpVjg2dW5NcTh3amJOTmVBaGxnR1FQZGdRM2xtdFlqTHJGMlZUa1lWZU4xLXA1aDlvMjFRQlBjR0k0UHVmczRJV3RxS1ZCY3ZtS0VWN0lvMEZoV3NDOHVjRlltS25xNHp3blpHMkxoRWtDM0pING5oTlBTTXF6RXg2WWRCbW1t?oc=5",
       "source": "RBC-Ukraine",
@@ -6553,6 +6577,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-28T08:08:42.496191+00:00",
-  "total_count": 546
+  "last_updated": "2025-07-28T09:09:35.480328+00:00",
+  "total_count": 548
 }
