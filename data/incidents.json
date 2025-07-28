@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Estonia is alarmed by the drone crash near the border - RuNews24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnJrYlNYUFJxQ0FaVUZVVk1HSG1WQ3FoeEtRS1hjcHJ6R254d1F3NmxZLVRZTGc0UUxYZ2tiX1NGMDhSdFhwVUFHVGJBQm9OYnhpVUtVV0haOTlYZGd5dnBnVmUyTy1JVGJ5U3JzbzRWNlZsU2p0SmtxOWVFaFhhVnpHbUdPdkV4V0p2emN2WnpXUGkwZENNVW10YjU5UQ?oc=5",
+      "source": "RuNews24",
+      "date": "2025-07-28T05:33:00+00:00",
+      "description": "Estonia is alarmed by the drone crash near the border  RuNews24",
+      "query": "drone crash",
+      "detected_at": "2025-07-28T21:05:18.496235+00:00",
+      "location": "near the border",
+      "category": "crash",
+      "id": "220ab38bed36"
+    },
+    {
+      "title": "Unidentified drone crashes in Duhok amid heightened security concerns - Shafaq News - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzJXTW5JdERtcW4tRTlpZndpcHhIV2dxSDE2a0t1WndES2lZR2pfaHNUek92RC0xODZOQkU2NU14RnRPQzBQeWw3NmZ4YUpzdDBiZ1J5YWNvaEJLMlRrS3ozcWpCZ0JzQ1Y1U0lycC1NdlNrSXlmaUszMzRCbnFIWUhoWnFmVzM0czBGWWpROGRHWW9IZ1N1MndLZkRuMi1DeE9v0gGoAUFVX3lxTE5TRXpLYjJsLUIxLUpPdEI0dlB5Qzg5SWkxamI4Z3plUVQ1WUxtNjB2cHBnZDF4WV9LNDVjY3NRdnAyN0hQVHpFLTc3cDk0M0FIMFlTRkNwUlZLVWFzNU45bVA0elNyRmJFcmdvcVRUNm52ZlVyV3laNEdMWkU4ckRxMFBDNjdkeXZ4NTVPdU41dFB1TFFBQjN4Q2hEMU1wR1RiX0Eyb3JQbQ?oc=5",
+      "source": "شفق نيوز",
+      "date": "2025-07-28T19:10:59+00:00",
+      "description": "Unidentified drone crashes in Duhok amid heightened security concerns - Shafaq News  شفق نيوز",
+      "query": "drone crash",
+      "detected_at": "2025-07-28T21:05:18.496235+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "380c87aaa315"
+    },
+    {
+      "title": "Thermal Drone Video Shows Ala. Police Nabbing Suspect in Officer Shooting - officer.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTkt6aFFPUGhDLUFKelE4M29Najhxc3VudVhYSWFFUko2bVdyc202UkxRSTBOeXB5WXdIWkI2OUNDZm1FNkZvV1V2NlREbmlHZjlkaXZybWdBdTdlU1FWWUdfVDMtbWdhMHFXU3ZtNnNkMWg0UTR4VnJwS3ROZE9kUURuMjVsYXpTZjhOYkxCX2dFY0F6RkJ4YVZCUTk5eUdRWjJYUWpWb29JZnNSREh0aUJ3bU5GeVJBUW5Wbm5LaVhaQVp6c0V5RUQ1NGhmSlJzN3F6dHVoRDhhcEtkRFZxTXNHaEdvMkZPTVFqNE5PWF9VX25NVVlFZWNR?oc=5",
+      "source": "officer.com",
+      "date": "2025-07-28T20:04:20+00:00",
+      "description": "Thermal Drone Video Shows Ala. Police Nabbing Suspect in Officer Shooting  officer.com",
+      "query": "drone arrest",
+      "detected_at": "2025-07-28T21:05:15.471845+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e82967dcae88"
+    },
+    {
       "title": "Drone thermal imaging helps end 20-hour Scottsboro manhunt - Yellowhammer News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR2J0NVMwR3hBWmxBVVhtanF3SEV6MTBDUHBBVzNSSkw3STRaaUhiXzlvcVVaMnJHYklkcEx2WTRWUm1ZRWRGeno2dFBscjFlbzZ2ajM5NmFSejhmMGUxVDdkR2VhLVVGdHBReHFXZFAxbXFhSGtzZm1zcW53MjhmbmMtb3dYRXlORXk5Sm5xdG5FZw?oc=5",
       "source": "Yellowhammer News",
@@ -6757,6 +6793,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-28T20:06:09.684692+00:00",
-  "total_count": 563
+  "last_updated": "2025-07-28T21:05:22.900279+00:00",
+  "total_count": 566
 }
