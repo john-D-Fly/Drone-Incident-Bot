@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Electronic Warfare Causes Drone Crash in Minsk - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWZlV2lxcmVpRWZUZnowRnlXSDdDcW80MjZMRk1WV0xEbTVLS2Nvel9kdG1kVVBGT3VyM21aeHQ3VXd4VWJRc3k4RDl0N2pvbjF2b1FSckZENlQzM3M1Y0NUZXF5R0h3VnJKdFd2TUVCX0lPVko3ZG9lV2NOMF92ZHY1WFo?oc=5",
+      "source": "Мілітарний",
+      "date": "2025-07-29T10:31:27+00:00",
+      "description": "Electronic Warfare Causes Drone Crash in Minsk  Мілітарний",
+      "query": "drone incident",
+      "detected_at": "2025-07-29T11:05:14.420875+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9211219ed05e"
+    },
+    {
+      "title": "Belarus Drone Incident in Minsk Sparks Air Defense Response - Букви",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTh2Z2tsMXlFdGdacURHeHFHUEY3SV9CWFFGZFlrM09IZGdqanhlYTFDYjFCd2RBLXpPY1NGMGZ6eEdmcHQ0MlNwQjdSSkRsWC1rYjc5STRvRUJTYmxuR05BTVlaQzM4ZkZOYjZGQk8xMjYwa3VlQW50ZGk2bUlXeTA5Q2F0YTlYQ3lNbEVRaUc0QQ?oc=5",
+      "source": "Букви",
+      "date": "2025-07-29T10:13:03+00:00",
+      "description": "Belarus Drone Incident in Minsk Sparks Air Defense Response  Букви",
+      "query": "drone incident",
+      "detected_at": "2025-07-29T11:05:14.420875+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "db83836b7e96"
+    },
+    {
       "title": "Belarusian Defense Ministry reports crash of an unknown drone in Minsk – photos - LIGA.net",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVBEQTlxYUVXcjRpcnFPRUVjOUFib096cGE1VTkwemFsUVVYMWZHV3lpeGxqTVl3NFNLMm1BZWVLZ0xsQWtQY29jQ0I0Y0lGQzJCcnF6QkFHSk12WG9vVU5wdGVsaXVXSnR2LTh1Wk5kTi1rMXEtRmh5RnV6UlhQTXo0VnBoUUV0ekh4SEFKNmU5dWpTUlU4WHdDLURKQVZTSVJDTm5fZ3FxTmwxRzZjYWwyaERpVTFJbHfSAb8BQVVfeXFMTlhwQmVOaGVFaEVianJHekJsbndtekRvYkhGNldxZ2dYTndnWlZrN3ptNXpCbGxkdllac0ROaGxMSTZkT3JfcDdpQ2FXNEFLaGNKTVZVMDBFY1dpZkdiYmV0amlSdlFXRkx5c1RNNktYVTB5S0d6d1I2OWJSTEV1OWZYYnpULXYxNEVpS21sV1lYWXp3U0NLTXExdzFiQWV2RU1ZcHZwSkliZ3N2d1FUOWpJYnVMMWlqUExrVGZwa1k?oc=5",
       "source": "LIGA.net",
@@ -6973,6 +6997,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-29T10:06:00.674000+00:00",
-  "total_count": 581
+  "last_updated": "2025-07-29T11:05:20.440619+00:00",
+  "total_count": 583
 }
