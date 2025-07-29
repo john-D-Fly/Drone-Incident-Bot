@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Alarm as unidentified drone enters NATO airspace - MSN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzNLZ2YwRms5VmtMR2xXRmtOX1kyeDN2U1dIVHpXRHpZMFQ1ZmNwMzdGMDVSTy1BbGlRYm02Z25ycUZzMWMxNWo2QVlVM1pETWJ6TGRfOE9kYWxTeExXLUJCNXU5ZmV4eHppd1M3VTJxN21RMHRKOFpraHZCMmMtZjIwZFJBbmpzaE9PUnBvN183UmQyQ3ZKNTZnSTIxdw?oc=5",
+      "source": "MSN",
+      "date": "2025-07-28T20:06:34+00:00",
+      "description": "Alarm as unidentified drone enters NATO airspace  MSN",
+      "query": "drone incident",
+      "detected_at": "2025-07-29T08:07:36.500342+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "23f2b2ab375b"
+    },
+    {
       "title": "Booby-trapped drone crashes in Rizgari, Erbil - ABNA English",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHZZYllrRnhIX0tNcUk3Q3ljQ3F0bEdQRVRZVHUzRm9tWllQSVA1TDBBWHN1TVFsanV3S1ROUjBlbXdqVklfTHhrMFhyNUtVSVlxVHgteGRUcTFKWDdyS0xCY3cyS2h2S29qVGh4ek9OdnE1OE9aTWFrYXBVV01jN1Jpay1WUQ?oc=5",
       "source": "ABNA English",
@@ -6853,6 +6865,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-29T06:08:37.586481+00:00",
-  "total_count": 571
+  "last_updated": "2025-07-29T08:07:43.663450+00:00",
+  "total_count": 572
 }
