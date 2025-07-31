@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "DRONE FOOTAGE captures aftermath of dump truck crash at Huntsville Target - WAAY 31 News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWF6YkI5ZWR6eVhRT1dXVkZySFVYTW95NjRWZU5nTjZFNEtRc0syNWJ5NUtZMElNQWZuVnN3bmlEbS0xc01idHpOY0FXUm0xYUZEYm82azZDaUl5QmJZZVJmSWQzV0hVUnA4Mzg1VkV3WnBPWDg3aU1ZaGFQRngzVFRQYmhxX0g0TnZQSHVlcHdzRnMtMnU5aEFScVJtYy1rOS16Q3hFUHlGNlpEVUFEcm9ISHI1WVJWWFU0LXFxUU9WRk9iTm5xX1FxbnlWVjY0SHpPTWxRUXVhUFFwdXJTRGI1alE?oc=5",
+      "source": "WAAY 31 News",
+      "date": "2025-07-30T23:27:00+00:00",
+      "description": "DRONE FOOTAGE captures aftermath of dump truck crash at Huntsville Target  WAAY 31 News",
+      "query": "drone crash",
+      "detected_at": "2025-07-31T19:06:36.840451+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f8c189167035"
+    },
+    {
+      "title": "Minor Boy Flies Drone Over Rajahmundry Central Prison - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzM3bW1HU003eWNBSzhrelhrZnplUkE0NWcxMDdaVVlrTjdFVVZacnhhM28zUGpFdjJqRUtaTW5CcXFVWVpZa213NlhpTlNyTnNRUlZ2YXYySkJZTW1ockJodjBjWHZhQUtMNVgxRmRkRmhPQjRRMGxleHlBR2FMTElOTG51NmlrMUtaMGlYcThkclFmZDAxekV1cldNaElrNk9HdGVLbmNsWTNCNHFEU3BlbkhzOUhPSFBJOVJyNXU3QdIBxwFBVV95cUxOZEgzLVFoY3Zqc1VGY0ZIdWtIT2NsVmdGY0F1SE00RF83RG1nYU95NEo2S0dFdVA2RkhieUxkd3N0SEczTU9SZGpEYWFkckJTUFpKQWVfUDFJeENpTWpjQkpzUHAwMHBfVVlzY0hLSGRjTVJ2VWM5Sm5CTnVsZy1vallNNE1TSDhkX0tvSkM2aGFTSE9fUGlBTXo5cnFYczE2Ti1QMnVPU01zbmZNY0dLSU1IV0dRUjBvckpOQjM5OVNMMkpYeGtn?oc=5",
+      "source": "Deccan Chronicle",
+      "date": "2025-07-31T18:38:01+00:00",
+      "description": "Minor Boy Flies Drone Over Rajahmundry Central Prison  Deccan Chronicle",
+      "query": "drone prison",
+      "detected_at": "2025-07-31T19:06:35.383557+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "48a1ce729ea1"
+    },
+    {
       "title": "Foreigner faces fine of up to €200,000 for flying drone during Canarian festival without authorisation - danews.eu",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjgxTXB0U2lRS1oya1NLT21Kakd1aE1jTUI2VkdfSmtBem9XYXpUOGNiczI2M2hyUndQZEdUcG9vXzdVZzltMGJvZTlHaDNwZzhwUUNwcU5abFgweXI3THZGd0ljWW5lWWRyRlk3aHMzRW1FWVdvM2pPNTJqMzRpXw?oc=5",
       "source": "danews.eu",
@@ -7765,6 +7789,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-07-31T18:07:39.216996+00:00",
-  "total_count": 647
+  "last_updated": "2025-07-31T19:06:40.271981+00:00",
+  "total_count": 649
 }
