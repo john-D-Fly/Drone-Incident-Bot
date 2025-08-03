@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "ISOC deploys rapid response teams to counter unidentified drone threats - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9halZMMTBla0diczhqaUNmbTFfckw2MWhjbXVBenFiMEhGNXA0Y0lCS3lZRnNGSGtKWG9tSDN3WXRBR2E4VXQ4eW5ZZnZQUmNCWlVpWVlwSnpKVW1iR2hjd0FyaHNFblU?oc=5",
+      "source": "Nation Thailand",
+      "date": "2025-08-03T14:08:15+00:00",
+      "description": "ISOC deploys rapid response teams to counter unidentified drone threats  Nation Thailand",
+      "query": "drone illegal",
+      "detected_at": "2025-08-03T15:05:01.431517+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "e75bc3da2358"
+    },
+    {
+      "title": "Ukrainian drone attack on Sochi oil depot; disruption of flights and escalation of tensions between Kiev and Moscow - خبرگزاری صدای افغان(آوا)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYUgtV19ibDEwRktoM09RSmRzTGw3dzRXVTRmY0JQdkxiaDA3TW1GTW9tNlN1Yi02cDM4SmlnV3BUNnJudEVmeElpQ05Gb0N0eUtGQ1FJS3c2NlhHUGpqa2RvVWktMU5UaGVmYWdQMXM5NWY4R216VXE1cE5OS3VWZm1LMS11ZjdENnBjalMwdmdQM0dKMFJ5Z3RCUUlvMkdIQ21kSjRBLWFqVmZYQ1VqUGY2T1NlUGRVTUo3bzhickl3bF95aUU4UU1USzBPZ3RhbWF3SERyWVRreGhWT2pTUQ?oc=5",
+      "source": "خبرگزاری صدای افغان(آوا)",
+      "date": "2025-08-03T10:09:04+00:00",
+      "description": "Ukrainian drone attack on Sochi oil depot; disruption of flights and escalation of tensions between Kiev and Moscow  خبرگزاری صدای افغان(آوا)",
+      "query": "drone airport disruption",
+      "detected_at": "2025-08-03T15:05:00.190772+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "1b031b112e07"
+    },
+    {
+      "title": "Ukrainian drone attack sets Russian oil depot on fire as Zelenskyy announces prisoner exchange - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHk0bUpkQlIwM3JJRmlXbFVxMTN3a1d6bjlBRWI2UDVTaEJoNFNNQ01EWUJHUXczMmVmb3lBS1cwSG5acUpOZElENjhJdW9UbzRrSlNYOF85bWp1S1ZWRFo0RlBSSTZnQ2ZMbFMza0pyV2RSVmZVbUVMcnlZSEluTTRrZUptdTNBR1RNWVh0MnplbmcxeVNQX1hkOTEwSjdxUEQyNGZGMmV3U0VybkFWN1B3?oc=5",
+      "source": "Star Tribune",
+      "date": "2025-08-03T12:11:15+00:00",
+      "description": "Ukrainian drone attack sets Russian oil depot on fire as Zelenskyy announces prisoner exchange  Star Tribune",
+      "query": "drone prison",
+      "detected_at": "2025-08-03T15:04:59.546254+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b5fc0e402b95"
+    },
+    {
       "title": "Ukraine anti-corruption bodies arrest four over drone procurement bribery scheme - France 24",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXFZZzJ6MzczdGU0d2tDT2NGQk5zLXdkNmpYVlJ4OE5WblZBVFlQQUtkV3AzNHQ3cnppZjlZUE1RNGc2VzJiY0dEdXpPQzFod1k5QzdXR2tvTGRxWERkTmVyLUhSS19iVXFhRXdZMEJqbHdPMDNMSE03S1VrRDc2dm5RWFlXX1V4RXd2clFiRkRYTkxsRFd6dk9LQ2gtbDZUaDdlRnBlNWJUTDhReFp1Mk9HMHVrYmVoNTJiUWZ3?oc=5",
       "source": "France 24",
@@ -8485,6 +8521,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-03T11:04:51.035131+00:00",
-  "total_count": 707
+  "last_updated": "2025-08-03T15:05:04.304913+00:00",
+  "total_count": 710
 }
