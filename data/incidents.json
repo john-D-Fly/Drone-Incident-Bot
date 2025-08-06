@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Hasselt “now the first city in Belgium with permanent drone detection system” - Unmanned airspace",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWRDeXpwSFZIbXV0dDJIT1JPZ1I5M0FuZGNabXhRMFVja1FFdkZxZnJRRjQ5S2k2b1VCczNQbUFySkxCT1FRQ2RxS2hKSTdEc0NUUnE2dkhjYjhhWXYyV1pOazRkRFQzLVpDNlVSempMeFJJa1p0OTlYWU0zTUdGZnF2Q2ZVaGt6cmRDM2tvYlNsZzBvQXVaZkxSOWsyaXVNenZqcWlnRmwzMGRQMmhuTWhkWTV6SFlwZHB1dEpR?oc=5",
+      "source": "Unmanned airspace",
+      "date": "2025-08-05T10:02:43+00:00",
+      "description": "Hasselt “now the first city in Belgium with permanent drone detection system”  Unmanned airspace",
+      "query": "unauthorized drone",
+      "detected_at": "2025-08-06T03:35:01.810210+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8f4b0c49c656"
+    },
+    {
+      "title": "Drones, drugs and phones: two men charged in prison contraband plots - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVl92Um8yZWxYUUpKNzBtYi1YV1Vpb3lRTks4RnhjQmkxallTZGlNam5aWUlHYy1UZDcxaWxYZnQxYWVOSldJSzl3RS1SaFdyWDMxX3NDRmJHTE1pWTR3WURWYW8zYkhCaHVOUG9nUzFxVGRBdnQyY3lOM0RyS1A3aTV0ZnY1dTVOQm5XekZIcE91NHNMUWNv0gGrAUFVX3lxTE0tOGFyWU9OeGxiUGpQUG9CMmM2emNjcnZjUEhLcnhpT3hKempqclNHZ2Z4UTVlSVBDcldLM1VHdzZrY24xWUhrd3lXbjRFT1k4dUhLMHg5bzhtTXVEVzM2RTdOREpHU2pTc3hEYWNESUFkcXllX05aN1RGX1RIcFN4ZmZ1ZnIxSjdIUVB1OFkxUURnYTlXMzMxRU9ENXpreVFXLThPSWE3Y0NTbw?oc=5",
+      "source": "WSFA",
+      "date": "2025-08-05T00:52:00+00:00",
+      "description": "Drones, drugs and phones: two men charged in prison contraband plots  WSFA",
+      "query": "drone smuggling",
+      "detected_at": "2025-08-06T03:34:57.565003+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "80a2a8e45735"
+    },
+    {
       "title": "Two arrested in major drone funds embezzlement case involving MP, ex-governor - The Kyiv Independent",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0JYVDZ5VHNiR0s2ZEtIM2ZuU29VQTZLcjh2TWZTWll1MVV5OW81Y1J3akxhWENodkhsYlA3VFZqVHJ2VTRJeXhxcjRCN3dDbmtXSVlsYTVydll5UXBfYWUzMG02dUwwd0VET05oUHJTNlM2QzZXVUd2V1pidGM3STVxNS1QcFdzV3ZtMzFtTjBfM0RkSDI4cXZ3bkc3MGFoU05xbWROOEpucWVmdTVqdTFJZGdLaHJRcTI5b2I0TGt1cHJMZ1J0UVl3?oc=5",
       "source": "The Kyiv Independent",
@@ -9277,6 +9301,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-06T00:25:03.576705+00:00",
-  "total_count": 773
+  "last_updated": "2025-08-06T03:35:02.407824+00:00",
+  "total_count": 775
 }
