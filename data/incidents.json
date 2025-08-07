@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Amazon Drone Delivery Takes a Dip: Package Plops into Avondale Pool - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wLWtIdVFSdTZoX2lmbU1lMXlaOEFJc3NjRDhxRkFQX3RvcTc2TW9TNTctUVJSY0xQYTdwZHYzYW1BRkhaUnYxdkFNRTZRWVRqbWNBT2dzNTBzS3BqTVVsVjlWMjJvOVhpeEtWVHhPcVpfQmYyaVZR?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-08-06T19:34:42+00:00",
+      "description": "Amazon Drone Delivery Takes a Dip: Package Plops into Avondale Pool  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-08-07T10:06:01.391729+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3246a3960bf4"
+    },
+    {
       "title": "New Drone Program Could Revolutionize Border Security - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNjNJM1hwcmpOMVRXbTQ2OS1DOHB5T2ZCam1aMWYxcGR1aFdUZjAtU1FCNXdxY3VValZkU2NyMGIydko2aVhMM0F6dUtDZDhFNFNWZkpuRldwN2NaeksySDE0VUw5bUN1aTNmb3V3eHd4S0VRcWFNcGUzX1FqTjg?oc=5",
       "source": "Newsweek",
@@ -9649,6 +9661,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-07T09:08:49.478505+00:00",
-  "total_count": 804
+  "last_updated": "2025-08-07T10:06:07.833725+00:00",
+  "total_count": 805
 }
