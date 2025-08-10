@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF says it foiled weapons smuggling attempt from Egypt using drone - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenVWaGxGUG5uZ2tSQkF4LWxmUnlHaVdQSHZ0d2hlVmJweG5nLVU2a1d0RUxuV2dUdzc3ektzUXcyYmRsS2dqZXFHV1JoUFRMZ3dfVklDTHpRbXhZb2xiMEdMaGI0MWdUdzhqdjVqeUloVjhpNHltcjlWZ3UtMHlITmJTZzZwVThMNUJDN0FSU05DUm0wZ0N2TWlmVlhxNUwtdHRnRHNLQUtlTHRsR0JFRVp6SQ?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-08-10T12:46:21+00:00",
+      "description": "IDF says it foiled weapons smuggling attempt from Egypt using drone  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-08-10T16:05:42.863932+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "1b2a0b35a609"
+    },
+    {
+      "title": "Russian FPV Drone Hits Civilian Car in Kupiansk, Injuring Driver - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU245bDQxUWpCblBlbUkxUU9jS2NGX0lVR1lVUVBWN0ZDZlZ3VWExREp2NnhSUm56c0pSMHYtS3BTRGpVYXdMYjVVWHRzbVI0aWJtVlhTNmpmb2xJUHFzOGJrSVdDclZlcDlNRlVyZmVkLV9PMUtTUjNzQ2Z5UUVCcWRvTmJZN0FvaVlGMlFLdTdJTF9GN0Zz?oc=5",
+      "source": "mezha.net",
+      "date": "2025-08-10T10:26:13+00:00",
+      "description": "Russian FPV Drone Hits Civilian Car in Kupiansk, Injuring Driver  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2025-08-10T16:05:41.651223+00:00",
+      "location": "in Kupiansk, In",
+      "category": "other",
+      "id": "33a1c200daf3"
+    },
+    {
       "title": "Punjab launches anti-drone systems to tackle cross-border smuggling - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemgwUjlzeTRRdFBSa1VBNGJQbjBLTXFQQms4V3dYekFFV3RqUl9hTnRHd1dtNzJLQldXRExuZE1hYVV1b09ZLVZxclNydmNFNS02aHBZZGw2d1JNeDZQanQ3UElzZjRWTjJYYXQ5NjRLMzRBeWRPZ1E5S0hRODI5Um1TRENxMDBSb05xZTVwb05TX0pxM1BhWVFKY3pGR3pJUWRZWHg1Z25hem9rNXEzTlhPRdIBugFBVV95cUxQanItS1VPWE5fNEI3eWVSbTVEU19JTFlSR2Yyajl6SGFvT2hsaEFhWlRQVEw4R1VQWUhoaG9OSWNjNTduWWtBWEJPeWR0VUJlT0VuYXVsX1FiUEN0LTUtMHFOQVQ4cWt3VWFtN1gyVU1UUTFYSHdMQzFOU0s3TTgwdnZ5cEJ5OEtCWVFaaFFVT0xKT2pxOTExeG1mZDJMT0dmX2FWSnVTYmZNd2FpMzJmNUpKSVJ0RV92Z1E?oc=5",
       "source": "The Indian Express",
@@ -10225,6 +10249,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-10T15:04:57.081107+00:00",
-  "total_count": 852
+  "last_updated": "2025-08-10T16:05:47.687500+00:00",
+  "total_count": 854
 }
