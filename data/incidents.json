@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Residents warned against drone use in vicinity of Bayers Lake fire - CBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDVaR1hSSGVLeXZMdkZIWXpaSHlNdlR3Wk9nb1BVR0FLTF9GRTNjc0tfWEtmWi1hMzRNRjVIQkxvYWlZMjFyN25PcDFfallKaEVYYl9lQUZIWGxieVVLZlRab1g3UVNyR3pjc1dlVzg2SDhaZXMxQ0pFMEprQlhuV0VDNXJBWWdnelNFYWM5d0l1VGJ0V1ROb3lMc0RwOThON0s1OHVVbGd4MWg2MUMydA?oc=5",
+      "source": "CBC",
+      "date": "2025-08-13T09:00:42+00:00",
+      "description": "Residents warned against drone use in vicinity of Bayers Lake fire  CBC",
+      "query": "unauthorized drone",
+      "detected_at": "2025-08-13T09:07:16.667273+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "34bf1d87e71b"
+    },
+    {
+      "title": "Albemarle says Chile lithium plant operating normally after incident last week - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLUI1SGNvRzZEdEFVS05YNzlhMEF1NlQteWgtM0F3SEFqOWlMZnFwcU5pZ2lXcUw1ci1JaDNEbjVsR25YV1NBbDgySTV4YUo1SmpLZERmUHJlQ1FDUWEtTjZkRzFxRlRzc1Y3UTZHeU5yNlVmNm9keTVEYmJ1aEdWSi1TUzUxT3NaOVVVODJqekNFQTMyR0xsc3JvUV9talFvN0Nya0hjYmhRa2tTLThGTE1veEV6WWZERlZyLWlsbUI2VzFzZUw0XzdRZThaQnlYaFQ3SWd6Tzc1QVlJ?oc=5",
+      "source": "Reuters",
+      "date": "2025-08-12T16:37:16+00:00",
+      "description": "Albemarle says Chile lithium plant operating normally after incident last week  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-08-13T09:07:10.234170+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "62395b15698c"
+    },
+    {
       "title": "Man arrested after being found with drone, drugs near Atmore prison: ADOC - MSN",
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTzhvWFp0VkFTZXVuNFVMYzd5OEp2RGRuWDFxT3lVMmVCUnhRc0h2bTRZcUU3c2t6NW1GbFltcGx5T3RETEVJN3ZUenZvREN1aldjNVQ1cFNrS2lsVm5aTGltczZxUmhXUmNSTnU5cFVla2lqNDBNS0hZZTAtNXpsSFhQbEZRZGs4V0U5VV9tTEV6ajhPbF8xY21BZDZ0RlA3cGhtQk5RNExhQnZ6NVhEN2ZiOGJIZG9Ob3FHTl9kejk0bEp2TzFmR3dFbEV4b3B6VkowMnFEdDBUVTFWQXdtRGVQMmo5TS1iSDF1NFJER2h6X18wRUczVnZoR24yb1RmaHhRcjhmemRvRFF6UmpaQ3p0ZmdobUQ4NDFpNDhuUXRsTlhCdG0xdGloYjBZQ2RPS2RQV1BsX0lSOHNWUm9EUDBLTy1OdDVaUldfd2VVUUVobWs?oc=5",
       "source": "MSN",
@@ -10777,6 +10801,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-13T08:07:28.373606+00:00",
-  "total_count": 898
+  "last_updated": "2025-08-13T09:07:17.307650+00:00",
+  "total_count": 900
 }
