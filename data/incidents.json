@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia hits Ukraine with record drone attacks in July - UK intelligence - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlJiR0hNQnRYc3ctWHltRm5nRllielB0QVh0Q1RJc01ERWozMm9IQWdIa2lTcHRuaDI0UDY2cHVpbG5lb0tKd0xveTFVeUxjSG9GSVYtYlhoa3hvamN1enRqUklWSjFjRFFHejlhVkpmMExrU0NMUjl6WXozSVVnYmk0NHZMUFVlZ1R5SUZPVHNDaXlvaVRwTQ?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-08-13T12:00:00+00:00",
+      "description": "Russia hits Ukraine with record drone attacks in July - UK intelligence  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2025-08-13T12:09:10.019567+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e30338730a1b"
+    },
+    {
+      "title": "Cheap Drones Multiply Terrorist Threats in Sahel - Africa Defense Forum",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLWdrbWNfQkZGWlkzT1JTTnV4RWhpSXJIVUwxeHVHUTloSk1BMEpiVHRPNF9kM01Jc25Rc1hDNEZydzV0T2VvOU9YelBJQXB4LUZvM29ubmxVeHFUaEFKYTVkVFNpZlRrVS1URGFUWXEtb1ltZ0lOWG5CWG5XWWNZb19CMmlqTUVOWmc?oc=5",
+      "source": "Africa Defense Forum",
+      "date": "2025-08-12T18:21:53+00:00",
+      "description": "Cheap Drones Multiply Terrorist Threats in Sahel  Africa Defense Forum",
+      "query": "drone terrorism",
+      "detected_at": "2025-08-13T12:09:10.019567+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "64bd220b51a2"
+    },
+    {
       "title": "Residents warned against drone use in vicinity of Bayers Lake fire - CBC",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KR2F0QzAwZkQ3YmVuTFRpWXFpX2NOVS04YXROQ2gxSFRqRjhhcFFUdHpMTmNzbjdsQ285eFBRdkxYMUg3M190MzhTbVVibl9k?oc=5",
       "source": "CBC",
@@ -10837,6 +10861,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-13T11:05:35.458762+00:00",
-  "total_count": 903
+  "last_updated": "2025-08-13T12:09:11.276495+00:00",
+  "total_count": 905
 }
