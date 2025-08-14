@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Lost propeller caused $13M military Reaper drone to crash into sea - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkRYMi1NbEl0a0Rvb2xxaE1rUmhEVGF6UkRpU29lajVvaV82cDdnNVZ1UlRieElvNXppdDMzRmxQRGxvV2hDRzhrQUZKY3pLeTV2a1EwVVhJTkJhbG51bGotdk1reXlvY1FEZ0J3WTQyRHhEZmlRaHhuaEZYUG1XRjV0Wk1qSjNKVWhvcGhn?oc=5",
+      "source": "yahoo.com",
+      "date": "2025-08-14T17:45:23+00:00",
+      "description": "Lost propeller caused $13M military Reaper drone to crash into sea  yahoo.com",
+      "query": "drone incident",
+      "detected_at": "2025-08-14T19:05:12.369072+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a7bf7ffe93b1"
+    },
+    {
       "title": "Cops, cartels and the new drone wars on the border - Axios",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanFKaXZ6UDBjOEdaY0dmTWYweWV0cGhNQlp0amw1MjFyRGc1STRMSTVMS21IVGdlcndzTkp4dUhzenBoY1BlWlpnZEF4S2hCYnlWanFNdmdRU0hHbkhoUWRfektVOEdLczhwU3ljeDRzZHdNeWRmem16YWFLbVN1cnpTVm44VUk?oc=5",
       "source": "Axios",
@@ -11221,6 +11233,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-14T18:07:33.596087+00:00",
-  "total_count": 935
+  "last_updated": "2025-08-14T19:05:18.601162+00:00",
+  "total_count": 936
 }
