@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Residents warned against drone use in vicinity of Bayers Lake fire - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rVGR6aEc1Q1AyTEY5MFc0QlVoRlllTW9ubk9FRXFZUzhXeGZ4Rmk5eE80X2NfSXBpVW5JSHVycFc2b2w4UE1kb0E0djRVSnJwTXFpRGxUY3dPOTdPZGtiVTA5bEE?oc=5",
+      "source": "CBC",
+      "date": "2025-08-13T22:18:35+00:00",
+      "description": "Residents warned against drone use in vicinity of Bayers Lake fire  CBC",
+      "query": "unauthorized drone",
+      "detected_at": "2025-08-14T09:07:13.645053+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c73430a4bfdb"
+    },
+    {
+      "title": "Ukrainian Drone Attacks Across Southern Russia Injure At Least 16 People - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3A2VEFKNHdkSWl3TWltZUxCQmVSb3o2MUxHQl84SHd6bHZ5SW1QWTNIUldJTGkwYXRNRW10VkZ3bEFKLTloSXJhdTZKOFdjY0ZLbDU1MXRSVVRCZlRudi1NRTBxLXlYLXc0YzZXZUNpTW1ieE9xQS1HTzdIWVZlZUZXQ0xNOF94ZkR0aTR1YS1nV01XYVkxcDdXVmxkVDY4Qng2OEtzX3FYU19QRGE5NUdKX01VV3IwWFl3R2lB?oc=5",
+      "source": "The Moscow Times",
+      "date": "2025-08-14T07:55:00+00:00",
+      "description": "Ukrainian Drone Attacks Across Southern Russia Injure At Least 16 People  The Moscow Times",
+      "query": "drone crash",
+      "detected_at": "2025-08-14T09:07:11.335368+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4fbe67c57582"
+    },
+    {
       "title": "Cops, cartels and the new drone wars on the border - Axios",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanFKaXZ6UDBjOEdaY0dmTWYweWV0cGhNQlp0amw1MjFyRGc1STRMSTVMS21IVGdlcndzTkp4dUhzenBoY1BlWlpnZEF4S2hCYnlWanFNdmdRU0hHbkhoUWRfektVOEdLczhwU3ljeDRzZHdNeWRmem16YWFLbVN1cnpTVm44VUk?oc=5",
       "source": "Axios",
@@ -11125,6 +11149,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-14T08:07:51.196543+00:00",
-  "total_count": 927
+  "last_updated": "2025-08-14T09:07:14.369700+00:00",
+  "total_count": 929
 }
