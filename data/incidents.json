@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Lost propeller caused $13M military Reaper drone to crash into sea - Defense News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEtyV1czdUxpOFhETkNNWVE5UHI3eTFEQnN3VDJCdzVoS0pISk5ybzNwQ21UZUp5dVBKSC1IUWp3QS1La3FKTXItOXlPZ1AtWHFQd3hxWkpKb1NmcEtoZjZCYWduWUxwV0hlZ0VpR3lveE5lSTRrOGpBS2lqbFdtalRFTVF6Q2hyQkZMV08tOHFiQThoS2pNY0xJalEyZ2F6Nkp6aHhQbExBb2V2S3JtdlNFYXQwcW0yYmxRYVpCQ29aOXM?oc=5",
+      "source": "Defense News",
+      "date": "2025-08-14T17:45:23+00:00",
+      "description": "Lost propeller caused $13M military Reaper drone to crash into sea  Defense News",
+      "query": "drone crash",
+      "detected_at": "2025-08-15T18:07:21.652895+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "41298bb0a64e"
+    },
+    {
+      "title": "Broken propeller caused $13M military Reaper drone to crash into sea - Air Force Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT3hrUmFtLS1IbERwdjZMQVJ6YjRMNmFObmRpbm0zbjR5RzRxelgwTjJWMHAtaUYteTl0djRETUU0cGR2WTdldzJza2hVUEtFS1o3S0NVWkxzWjlLUDNJeHNfU2ZJWk40UnNRNy1Ma3l2c0tTZTRWejQ1U3BKSHZJMXhOY2lLdGRjR2xlWm9Ia1JjLU5MalF4ZWMzM1Y3amthWnhNMHBDUWR6eG94QzJMSmdjMDctUDlnTmxFak95dU4xbWU0S2c?oc=5",
+      "source": "Air Force Times",
+      "date": "2025-08-14T17:45:23+00:00",
+      "description": "Broken propeller caused $13M military Reaper drone to crash into sea  Air Force Times",
+      "query": "drone crash",
+      "detected_at": "2025-08-15T18:07:21.652895+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "0a946a671b7f"
+    },
+    {
+      "title": "Boy, 7, Has ‘Permanent’ Injuries After Being Hit by Falling Drone During Holiday Show: Suit - ca.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HTmgwRHhXNmFpQ3RVSms2TEVtQk5iay1UaFQ4M0xDQzFPRlBmUG9uYzRyM2duZ3Y3QUFkRTJwVEphMExybFg2czdvODNNTkZmdFRGck14b2NoVXJ2eTg1TmZWcjhVdG9rOUI2TU15NFU3azVXeFpBS0IyRQ?oc=5",
+      "source": "ca.news.yahoo.com",
+      "date": "2025-08-15T02:08:00+00:00",
+      "description": "Boy, 7, Has ‘Permanent’ Injuries After Being Hit by Falling Drone During Holiday Show: Suit  ca.news.yahoo.com",
+      "query": "drone incident",
+      "detected_at": "2025-08-15T18:07:18.413594+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a45ac527de2b"
+    },
+    {
       "title": "Drone captures aftermath of two-vehicle crash in Silver Spring - DC News Now",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHNPU1daT2JWR0UyU2dXbDhETWliRDVPeDFuU010MHJBbktydmw1MXp5ckVJekJ0TDl4WmJEeU10TXlKTDhlUE14MG9tUFU1dk54aUlIS003YzVNVmNmYlk3ZDFFN1ZnRmo5VGIxSDQ3V3BabUY0b2lsOWVPV0lCbDh1YzdkLWVXTl9HNGtYVlYyNnVoRG1xUjJBMmRVcF9wbm5wTWNSdWFfWXh0NFBEQ0N0ZHlLSlhzR1AyWEVTMFA2czdCTXgySEJzWk_SAdIBQVVfeXFMT24yNnJrcEtmQndudlNXNmRVX0NFWHlsX2RjQnd1NXh5UUpLV01XU29ldmVNUWJnVC1wbGZzX2MyMEN2eHJ1cnl6RG5wZnFPbHJkcmxjZjlnUlFyRW4wTVE3OS1JQmFmNGpKVUEydGhKazJCWGdnS3BEWlhrTmVQVmdyMFpwc3pYYTdRUUpiUkRlNks4NVJDN1ZvcVJVb1NtR1lzdWJHOXlKV2Q3cnhvbUNxMnZuTW5VeXNYYnFieldTQ1ZkMTd4M1JzNzBZbXlZYlp3?oc=5",
       "source": "DC News Now",
@@ -11413,6 +11449,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-15T17:04:51.511776+00:00",
-  "total_count": 951
+  "last_updated": "2025-08-15T18:07:24.709852+00:00",
+  "total_count": 954
 }
