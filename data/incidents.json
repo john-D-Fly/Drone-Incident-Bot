@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF drone crashes in Gaza, crowd swarms and steals wreckage - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWjg2SE9iTkNwcl9jVWpYb1cxZ19aTXp6dnpidjRHMnZCTUZKLVdmUk9oamw4U1dzWGwyQ3RNZTJDX1Fyd2p6TE1MbERuNnFZemFKaHNB?oc=5",
+      "source": "Ynetnews",
+      "date": "2025-08-16T09:05:04+00:00",
+      "description": "IDF drone crashes in Gaza, crowd swarms and steals wreckage  Ynetnews",
+      "query": "drone crash",
+      "detected_at": "2025-08-16T16:05:23.730571+00:00",
+      "location": "in Gaza, cr",
+      "category": "crash",
+      "id": "4445daf42c98"
+    },
+    {
+      "title": "Jordan foils drone drug smuggling operation on western border - Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbmE3N0RVTldYWWhFck1raWJHR3RSc0x5RzdnMTgzT0pkbnN4NFk5UlMyV255TVAwZDZCZHBoTzNkRUdzTU8xYg?oc=5",
+      "source": "Roya News",
+      "date": "2025-08-16T09:08:13+00:00",
+      "description": "Jordan foils drone drug smuggling operation on western border  Roya News",
+      "query": "drone smuggling",
+      "detected_at": "2025-08-16T16:05:21.935372+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b9ce274f86e8"
+    },
+    {
       "title": "Confusion in Kfarkela over suspected drone Incident - الوكالة الوطنية للإعلام",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3ZyQkphelhvMmxJV1RDamctQlpNZElocDR0Qmo1VG5MZmctRkpIa3huNS14emdOWl84OHpQWUplZUp3QTRDOGpIamtabVhrYk1VaE5XT1AyZDJTYlhCb3RiaFdKUFZwUzlpQU9hLXBHbEFnb18zbFZLUjIxaXAtYmN4emJtbTBvTVJIS3d6OW56c2VlQkVnS3Fudw?oc=5",
       "source": "الوكالة الوطنية للإعلام",
@@ -11545,6 +11569,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-16T14:04:36.851813+00:00",
-  "total_count": 962
+  "last_updated": "2025-08-16T16:05:26.756340+00:00",
+  "total_count": 964
 }
