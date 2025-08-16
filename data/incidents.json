@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Army thwarts drug smuggling attempt using drone - Ammon News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ta1g4cGlDV3VGNHB0OGI2UE1faGNRVGFQRFh3eEFGbkVNNUcyY05RMTM0ME5RQXk2cmV1bmFiQ1gwV0VrcDlybmR0M1JtVTg?oc=5",
+      "source": "Ammon News",
+      "date": "2025-08-16T08:20:11+00:00",
+      "description": "Army thwarts drug smuggling attempt using drone  Ammon News",
+      "query": "drone smuggling",
+      "detected_at": "2025-08-16T11:04:24.334340+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "53b097b63c3c"
+    },
+    {
       "title": "Jordan foils drone drug smuggling operation on western border - Roya News",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbmE3N0RVTldYWWhFck1raWJHR3RSc0x5RzdnMTgzT0pkbnN4NFk5UlMyV255TVAwZDZCZHBoTzNkRUdzTU8xYg?oc=5",
       "source": "Roya News",
@@ -11521,6 +11533,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-16T10:05:05.832908+00:00",
-  "total_count": 960
+  "last_updated": "2025-08-16T11:04:28.976867+00:00",
+  "total_count": 961
 }
