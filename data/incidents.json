@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "NYPD drone allows Mayor Adams to see real-time, bird’s eye view of NYC emergencies — including Park Avenue shooting, helicopter crash and more - MSN",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQ3JPeFdFWmZBMzNVUVdoN1NVc2laSTNkajVRWEw1ZnQtLU1DU2tDb2hVX2dMRWpXZVktZjdaT29PZjlmMUE1MXhlM1lMWEhaVkFEYUVCUmlKdkZQSE5aNWh6NFFBdUFvSFpZOG54WHhMVERKaWp5cnBaX0x3ZkNKY3dodm5TS1l5b3h5V21DNVozenI5RXZLSDlJek5JRzNQWnZnZ0o3WUxiVVdGT0dELXV6elZxdU9OZzRFdVBLV0F3MTdEemhTdjVmNW5raW1ManZ2THlPS1pjY25adTY0MHJfX2RwN2RBdmZuQ0xNSi1HTFJVYW5vMTV6QTZ1VmgwRTNsc0YtYUljR0lPRXBjOVFUOE9NaEowU1ZPYlhxUElZcTN1WDV6R0VnR2s?oc=5",
+      "source": "MSN",
+      "date": "2025-08-18T14:36:53+00:00",
+      "description": "NYPD drone allows Mayor Adams to see real-time, bird’s eye view of NYC emergencies — including Park Avenue shooting, helicopter crash and more  MSN",
+      "query": "drone incident",
+      "detected_at": "2025-08-18T15:05:55.668977+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "82c11163a42c"
+    },
+    {
       "title": "Damning report exposes 'drugs by drone' targeting of prison near Rugby - WarwickshireWorld",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYl95QThuSkxxamlSQXFfdnh4SVJRTjZMV280QkEyemhNckdpVExYSk1Sbng5d0VUajlDc1BmT0pkZ09pOUNKakZVc0RLVEE2ODhIU1FsTGZlQ2ZXaG5kMVZEZUlFczVEYk5jQVlONmhFenBtOUVDSjhiUVRmT2tYRWhFWklvUmdxemROLUIyNzdOX1VhenlSaEJ0R0ZNcFVtNlBUcmdLQTF0WGktdjBXSndVa3JYYXlaYnYweQ?oc=5",
       "source": "WarwickshireWorld",
@@ -11773,6 +11785,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-18T14:06:15.185618+00:00",
-  "total_count": 981
+  "last_updated": "2025-08-18T15:06:02.852223+00:00",
+  "total_count": 982
 }
