@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Police arrest person flying drone just two hours into MGP - Manx Radio",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0xhMXVvYS1iZXhvbUQ0TENGQzFWOTlTcWhYQlVpLUw5MXpYU0RiOGVxd3FUbU9GU0RsbENGUFlGbmhWLUlURzI0WUdLNlFrZTRzcWJCR3NiVnRoODJqNWxoQnlvdHlJYjRhZlhxbXluWDVKX0tlc2dhZ2hreHBXMEVHeFVDZmQtVHFmdTYyNExndTlSREpEUU1nMFZrcXZvczNIR3R0UkFHQQ?oc=5",
+      "source": "Manx Radio",
+      "date": "2025-08-18T10:05:00+00:00",
+      "description": "Police arrest person flying drone just two hours into MGP  Manx Radio",
+      "query": "drone arrest",
+      "detected_at": "2025-08-18T11:05:29.718191+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "1bbd98e56cd6"
+    },
+    {
       "title": "IDF Sky Rider drone crashes into yard in Kiryat Shmona - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hQ3phRkhkazZ5NS0wQUtIMHRlajRXazY5Mk1VamhNZ0pZdDRCckZSQnZ2THFKLWxYeGdES1R0VDFNTmhWSXFSb1hOUHQ5MlNNVGczS0hn?oc=5",
       "source": "Ynetnews",
@@ -11749,6 +11761,6 @@
       "id": "f565951cd76b"
     }
   ],
-  "last_updated": "2025-08-18T07:07:52.697095+00:00",
-  "total_count": 979
+  "last_updated": "2025-08-18T11:05:34.992946+00:00",
+  "total_count": 980
 }
