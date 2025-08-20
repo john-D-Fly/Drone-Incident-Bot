@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone used to locate Douglas County suspect who fled from crash - KCTV",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcldzTExWX2dLUk0xS3hDeUxoTmFONU4xdWh4ZEU4RUZYWEVjdzBEVEtWbzFiY002Q09KbFBkWFBVMV9Rc1FaUS1TallpUWlIdUV1X1ZzSzQ5M0hoSjE3WTAybmlBQ2ZmazNQX25SYmhSa2RHMmw0TDkyYXRkR2ZFTkxrRm4tWW5qMXo1NHBRTlY3Unc?oc=5",
+      "source": "KCTV",
+      "date": "2025-08-19T21:47:00+00:00",
+      "description": "Drone used to locate Douglas County suspect who fled from crash  KCTV",
+      "query": "drone arrest",
+      "detected_at": "2025-08-20T05:05:44.320561+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "df0adad3a705"
+    },
+    {
       "title": "Police arrest two for flying drone at MLA office - The Hans India",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHlpaXJDdVdkNGtYU0F3YTZER2Z4TE05dHVvekstdFZwOHZYVEtTUXhPNFowaXJtT2tvcjh0bnVBTVZTSXNCU1BPTXBldDZiY0RfbVRHQUt3YkZlRy15VEgwc05PZ3NlNWNmaW1HdHhpcDBlUXBfY2FhM0hPYnAyaHhNeXpEekVlWHB6bmRSSjNaeXl1MDBkQ0Z5SDY3Y2hi0gGmAUFVX3lxTE1OY1c4RkpZUDdRS2lSS1pBNDZOYXUxandkdnBlUHFhZllaaEQyZDBrV0IyNkFEVnllQlc5cEN4MGtrYXkwQ2VwVzFSb3RRVzduaHB3OTh0NVljcVdaTXVWZW0xRmdZLW5IYUg3eTlqZGtycm9QNXdHZjFwMTk1TnhoLXlESEk3Slk0LWxxSVFCS18xVEZUUVNEQ0lOZGdzTWxZWWdPVUE?oc=5",
       "source": "The Hans India",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "ad0a713afb79"
-    },
-    {
-      "title": "Russia’s Skies No Longer Safe: Drone Chaos and Mass Delays After UAV Threat - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUVwd0hiT19oLVhaQjVDaFZQVm91Um9ETFdxWFpNZ0g1WUZPOGx2VHFWRGFySnVtbmk4cFoyUG1RZFZaSW4xT19hcmdFbWpyemg3cUJhN0VBeHM2V0h5SnMtZERZVU5Cd2ZUekRnMWtJbG5rSHJvN1N6T0liTld4V0l0eUhRaFE3NzRJTU13UU0tdFdtckdrWDc3MWs5MmFjT1BlQlpCSVhEUQ?oc=5",
-      "source": "The Times of Israel",
-      "date": "2025-07-07T19:19:00+00:00",
-      "description": "Russia’s Skies No Longer Safe: Drone Chaos and Mass Delays After UAV Threat  The Times of Israel",
-      "query": "drone airport disruption",
-      "detected_at": "2025-07-09T04:17:16.497923+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "922433e5cf7f"
     }
   ],
-  "last_updated": "2025-08-20T04:06:13.554078+00:00",
+  "last_updated": "2025-08-20T05:05:50.423699+00:00",
   "total_count": 1000
 }
