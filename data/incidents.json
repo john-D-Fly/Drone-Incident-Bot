@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "War in Ukraine live: Poland calls drone crash in country's east a Russian provocation - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkZaWVZEaGM4Tl9WdW5zZ2JrSzczdjlUc3d5TUFVa3VlLUJyaTIwWUlJQ1ExLXQyMURucERTLWw5MHhYOVRHZEZTYXQ0TnlBWWJ3N3RQUXU1OXNvOXREQlpIdjBCcGVncjhyd3hYUkFKajdJSFp1NjZoZGJqUEZXNk8yNUo5eXAxcFUzRGJ4YzZ5Yk9KVk81T3RqcThmZWR1RjBYeW5TV0hZY2R0Q3IxYlM1eTR3Y1cweHoxNnY2d0luMGR2LVNCaw?oc=5",
+      "source": "France 24",
+      "date": "2025-08-20T06:09:29+00:00",
+      "description": "War in Ukraine live: Poland calls drone crash in country's east a Russian provocation  France 24",
+      "query": "drone crash",
+      "detected_at": "2025-08-20T19:04:42.391521+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "70109d9aefc0"
+    },
+    {
+      "title": "Man arrested after crashing drone carrying drugs into Lutz home, deputies say - WFLA",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUhJUEdCTG9adGc4clZQWnA0RWVVYm5sc3VaRlFwOWtIWjRFbnJ6OUoyMWdrV3o1bmc3VVB0UkNtR3ZYa2NuSzBLbUtuXzhGbFlCUVFOblpYTEZpTkdZLWtVc3JrWW9EMTZmWXl5WnlmTFZkR09GUWNZM1Nfc1haUHo5WU95UU1mS1p1RDdMS3VfaGZVR0FIZkVPU1Jmb1pFanZ2YXpYVzk5YlFHN3BZQS1qSGZNeC01dWpPZjNHQWHSAcYBQVVfeXFMTi1uQTdhNnlRLXJEMEEyYjR0SVJwOXE1OXA1T25VaWp5UlRKei1HVmtkajY5MV9jM2NOTlhwSTZMUlFjcGl3VGtiVEl6RU8wT25ja1RKNGRtdk1LRFNqSG1mYzk1djhadWUtYldIMEdOSXVHamVTaWljbjc4WGFudVhiNFNGUjBvQzdERTctckxUVWxkT0JxLVhXbmgwZk16WUhhQ0dEZ1ZRQ3dabkluR3JESlkyNndZY3M2WnBhbC1lTkE5LWx3?oc=5",
+      "source": "WFLA",
+      "date": "2025-08-20T14:23:19+00:00",
+      "description": "Man arrested after crashing drone carrying drugs into Lutz home, deputies say  WFLA",
+      "query": "drone arrest",
+      "detected_at": "2025-08-20T19:04:39.872294+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "794ddffed06d"
+    },
+    {
+      "title": "Poland blames Russia for drone crash - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeWZDd2hPVS1Rbk50ZlVLUDNmMFZQbmtlMFFfX3hCVElVZlZ2ZTgwdlBOLVdNemNLbGRxMndMbmI1LVQ2NU1HUkdjQlFKN3Ztd2FMd2NmWFpDZXd5TVdtMk5ycmRZaU1UZU5GdENmNV9uczQwWFlNMA?oc=5",
+      "source": "politico.eu",
+      "date": "2025-08-20T17:46:00+00:00",
+      "description": "Poland blames Russia for drone crash  politico.eu",
+      "query": "drone incident",
+      "detected_at": "2025-08-20T19:04:39.129304+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "0200a5ee96f6"
+    },
+    {
       "title": "Exclusive: The US Navy is building a drone fleet to take on China. It's not going well. - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWVwcS1FN1BKb3V5eWJnOGJSX05RZUFsVlNmRXd5czhOQWJQTTlnMkJ3SGpsejhnSVFWRkJiWWxOOE9iQTBOOFduZXVTNlVzdXY3QVhjb0o2Q0hkby13aGQxaXV2VWVRQ1FDak5QM2tmZnFXbVktZ294YkdEZGJlcklvTXVjZ0o5a3NiQVBHTzQxTjhWTjFiVk5GZFM2bzRSMmw3WE5mMkdHcEdqT2hkWFNTemM2eF81aXFYS1pCVGtNUQ?oc=5",
       "source": "Reuters",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "8af884c03399"
-    },
-    {
-      "title": "Iranian man wanted by US worked for Swiss, EU-funded drone lab - Swiss daily - ایران اینترنشنال",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvSDdNUHRqakdTTWp0YUlnZ2VmVFFydnI0WnhvUHI0UkktRzJScTBCYlh4TDZzbGNXWndpN3R1NmRwWFB3OV94ZEZrZk1ReVVjR3c?oc=5",
-      "source": "ایران اینترنشنال",
-      "date": "2025-07-09T20:20:00+00:00",
-      "description": "Iranian man wanted by US worked for Swiss, EU-funded drone lab - Swiss daily  ایران اینترنشنال",
-      "query": "drone arrest",
-      "detected_at": "2025-07-09T22:05:32.242446+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "55730eeef7b7"
-    },
-    {
-      "title": "College Place police arrest man accused of using a drone to spy on women - AppleValleyNewsNow.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYXVDYUNRUWtQRjMweHRwcURmRXJ0Z1d4WHlmTElOdXpfZFVrd044d3Nvc0lXRXhwOF9xOFRIbnJqWVh6OWJFc1RYN2otcWV6Q2YtSEhvSVVzczhnd2FuWmVGcURQUHRVNXJJZTltcTVSLVNGZy1SQ0NLT3hBSmgzSTMwcmpONk0xRUw2QXhwSUd3OWlVd0pLZ2ItSW15alM2SGo0T2N4X2otWEMwN0dVRFBwZzBvc0szQklCNTZFQ1FneUpMM3M3NFJvaHV5Q3ZCbzBLeXNrMVhCeHhDYTROWkl3NW1acFdUbDN6M0hIQXNrR19P?oc=5",
-      "source": "AppleValleyNewsNow.com",
-      "date": "2025-07-09T21:53:00+00:00",
-      "description": "College Place police arrest man accused of using a drone to spy on women  AppleValleyNewsNow.com",
-      "query": "drone arrest",
-      "detected_at": "2025-07-09T22:05:32.242446+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "32ada9385279"
-    },
-    {
-      "title": "Barksdale Airmen Help Secure New Drone Restrictions Across Louisiana - afgsc.af.mil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2h5Rk9OQW5oZHhST1g0R1VWWEdMNXJFQWZTWFptY2dJN25EWVY0elJHNkQ2NEZpbEREdllXT2dVckxTOUlPaEZsTnI0YW5uRENHLUIzQWF2c3BxRk1Bby1xQ3dtS3VaaGhjVHp3ZEtCQS10ckRwd1ZtbWJEOUtNY1ZDc3FYc085YlZraUZubm9TeTFCU0dDWEY2dTNLVld4bE9BZGtha1lGLVRuWHNZQjB1UzQ5RDVaNjY4cWY4Sll3Y0tWNFlmNVpUVQ?oc=5",
-      "source": "afgsc.af.mil",
-      "date": "2025-07-08T19:30:00+00:00",
-      "description": "Barksdale Airmen Help Secure New Drone Restrictions Across Louisiana  afgsc.af.mil",
-      "query": "unauthorized drone",
-      "detected_at": "2025-07-09T21:05:13.531885+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "2843a07f9350"
     }
   ],
-  "last_updated": "2025-08-20T18:07:14.119021+00:00",
+  "last_updated": "2025-08-20T19:04:45.618997+00:00",
   "total_count": 1000
 }
