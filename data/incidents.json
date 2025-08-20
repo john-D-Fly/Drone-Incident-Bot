@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Exclusive: The US Navy is building a drone fleet to take on China. It's not going well. - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWVwcS1FN1BKb3V5eWJnOGJSX05RZUFsVlNmRXd5czhOQWJQTTlnMkJ3SGpsejhnSVFWRkJiWWxOOE9iQTBOOFduZXVTNlVzdXY3QVhjb0o2Q0hkby13aGQxaXV2VWVRQ1FDak5QM2tmZnFXbVktZ294YkdEZGJlcklvTXVjZ0o5a3NiQVBHTzQxTjhWTjFiVk5GZFM2bzRSMmw3WE5mMkdHcEdqT2hkWFNTemM2eF81aXFYS1pCVGtNUQ?oc=5",
+      "source": "Reuters",
+      "date": "2025-08-20T17:37:00+00:00",
+      "description": "Exclusive: The US Navy is building a drone fleet to take on China. It's not going well.  Reuters",
+      "query": "drone crash",
+      "detected_at": "2025-08-20T18:07:10.894235+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "07407041da24"
+    },
+    {
+      "title": "Poland holds Russia responsible for drone crash - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBek9sSkhjTlRaVThiWVNrNkMtTFE5R3E3MlJSVC1TcXFDQWtlazBlMThfYmRuT2NSOVU4TTVFNkxCYmlHc0h5dTFkQnlrMzVNdVlobVlmWm1pT2ZDNFktUEF4azdpUjhkd0c1a0Y5cTkwTU9ObklB?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2025-08-20T17:17:55+00:00",
+      "description": "Poland holds Russia responsible for drone crash  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2025-08-20T18:07:07.700867+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "10056598fc0f"
+    },
+    {
+      "title": "Poland blames Russia for drone crash - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeWZDd2hPVS1Rbk50ZlVLUDNmMFZQbmtlMFFfX3hCVElVZlZ2ZTgwdlBOLVdNemNLbGRxMndMbmI1LVQ2NU1HUkdjQlFKN3Ztd2FMd2NmWFpDZXd5TVdtMk5ycmRZaU1UZU5GdENmNV9uczQwWFlNMA?oc=5",
+      "source": "politico.eu",
+      "date": "2025-08-20T17:36:02+00:00",
+      "description": "Poland blames Russia for drone crash  politico.eu",
+      "query": "drone incident",
+      "detected_at": "2025-08-20T18:07:07.700867+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1bd67c95caae"
+    },
+    {
+      "title": "Russian drone fell in eastern Poland, Warsaw says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmxCd1YtU3BiejZnV1pOck9DbVhFbXRhbnExVkNZWFg5Y2JJbDVxR0JzcWxGZ2VNUHFObHJoamtNNWg4bHh2d2hwQ0FVbzF0SHluLXpWY1hKaDJBdWFvNnEyZFdoYi1NblQxM3VWTXotVnhIRmVNbTItRDM3SnE5M080NGYyRW1ROGxKM2RVMmE?oc=5",
+      "source": "Reuters",
+      "date": "2025-08-20T15:46:06+00:00",
+      "description": "Russian drone fell in eastern Poland, Warsaw says  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-08-20T18:07:07.700867+00:00",
+      "location": "in eastern Poland, Wa",
+      "category": "other",
+      "id": "a762fa897124"
+    },
+    {
       "title": "Poland calls a drone crash in the country's east a Russian provocation amid peace talks - Ottumwa Courier",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbFZIaVUzUWtGdEhFTDk0YXpqUDlmTy01bGl5ZG84X0MwTTdORDU4ZTZlcEUwNkpBc0RKOEpSYUNscnlaN2hWTWNKUFZPTkQ0cW1pSGlNeEVaNGRUTjZwMURDQzhNdHd4eGpITDUySS0xYlFiV01yX18tc3RZbmw4TkVLZkhSd3FQN3c4dmEwTVczQXprSjNELTNVYXlvWTR0SlpMTTBka09zdVg5M1NfV1M2eXBqQ3FmM2FLdUtGamNtMXJ3TkFUanY5NEp0ODNnQUIwMDhDYUpYUDQ0dXNSUUVtM0lUeWU5Njc2TW42R2g2NEd2eWhHRGp0M3dFTG9ubTU5Y0s3MW4xY1Ffb2UxOFIxQUg?oc=5",
       "source": "Ottumwa Courier",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "2843a07f9350"
-    },
-    {
-      "title": "Florida man tries to hide in sewer to avoid arrest as drone catches him peeking out - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdS1MSzd1bnd0ZlRudVJaNnFzVEx5eWpFY1pTM1gwZzQxdTJEUkFzNU9RRTJPSGl3R3RUekV0ZkxVMXo2Q3NNTnpaSmZZTmhEajRPd0dkRzhyUWhTekJUNG9yTlpheEoydVJvbmRya1ZLbGxUV3lPYTZWS1EyLWIybnlaUl92VUJNbXkyMy1R?oc=5",
-      "source": "CBS News",
-      "date": "2025-07-09T15:08:47+00:00",
-      "description": "Florida man tries to hide in sewer to avoid arrest as drone catches him peeking out  CBS News",
-      "query": "drone arrest",
-      "detected_at": "2025-07-09T21:05:06.455826+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "9c5e834454c1"
-    },
-    {
-      "title": "Off-roading, drone use in Banff National Park leads to fines - Rocky Mountain Outlook",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVBwbk9ZWS11cnpqUjd0S1VjY1NyYjU4SlQzZVljV0JzY3dZN3lzV0djajI3ZFFUMDR3aGRNS25RamhjY05jWUlsMWFFUVE5c21zYW5LNDh2M2RPSE5XOE5Va1R2Mzk5amIzQkk5NDBEczhGVnQtQVItb3BOS1RoVDNZczctcGNtb2ZiT1FiSnU2d0c2NmotOUxVMEFwRjhURmc?oc=5",
-      "source": "Rocky Mountain Outlook",
-      "date": "2025-07-09T20:30:00+00:00",
-      "description": "Off-roading, drone use in Banff National Park leads to fines  Rocky Mountain Outlook",
-      "query": "drone incident",
-      "detected_at": "2025-07-09T21:05:05.589878+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8b56c247de47"
-    },
-    {
-      "title": "Russia Loses Drone In Suspected EW Friendly Fire Incident - Aviation Week Network",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWlISnF6ZXA2TDhRTUlST1NVX25Qb0ozbmtWWktBZlRpeUdyVkYwc09hQ1dCeVFPbTRlQVpSM0syUElZTTVCbkxRRjA5Y2taWXJxcnBTODQ1OEVWZklQWkZwYURFNFlrQlpCbkJqeURaeTFQX0FHTENhMERFemZlVnA0ZndFUm1icjZzUE5hZF9XS01zM2NHX0RuZ1dZX3RhaWJjdmQzVFZBODZzd3ZnQlF2SXE?oc=5",
-      "source": "Aviation Week Network",
-      "date": "2025-07-09T17:28:15+00:00",
-      "description": "Russia Loses Drone In Suspected EW Friendly Fire Incident  Aviation Week Network",
-      "query": "drone incident",
-      "detected_at": "2025-07-09T20:05:40.231311+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "566b33323131"
-    },
-    {
-      "title": "Riverside police drones help spot illegal fireworks on July 4 holiday; over 60 citations issued - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDlUOVItdkh0aGZtMnVtSVBfVENqcmx6T2dSUlNCc0VyZ2dJcU5jWFBoQmEtWVQ5M1hIaHVJRHZDang2YzVKaGJHcTEyX2g4SmQxQ01YUHY3QllTUmpJZUpKbnk3LS15THUtRUtnbmpMN0llYXR3ZlNyN3lHZ04xOGFWNTFockpzYlEwX2FxMTgwWHdPY21rZS1SajJNZHhVM1Nyamw0NXZhNU5FWHZDZnh3QTBlN1QwaEHSAb8BQVVfeXFMUDJxNmNMcnZCS1QzbGxmMVY2U2h6cEJMc2htNGo4OGwtcTlUMXFBQ3FWRVV1V3BLUGdjT3dYbHVHc3VCSm5mUkdEQmg1ZDZHTmtWYXdKUThaUUo4U1ctVGFzOV91RFJwLXg1YThLdEVFQjZYUElmMlNFSWszQTlNVm1BcjYtaERxR0ZqLW1jX2pGOGt0SUluQ0h1RkV5R3FXOTBKbU1uaS1sUnRVYWYwVFJTYWtkQ1AxYllmSnduU1U?oc=5",
-      "source": "ABC7 Los Angeles",
-      "date": "2025-07-09T07:46:30+00:00",
-      "description": "Riverside police drones help spot illegal fireworks on July 4 holiday; over 60 citations issued  ABC7 Los Angeles",
-      "query": "drone illegal",
-      "detected_at": "2025-07-09T18:07:16.069694+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f8d7f3729536"
     }
   ],
-  "last_updated": "2025-08-20T17:04:57.932013+00:00",
+  "last_updated": "2025-08-20T18:07:14.119021+00:00",
   "total_count": 1000
 }
