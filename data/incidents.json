@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Poland accuses Russia of ‘provocation’ after drone crash on the border - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWE4VU5JQV9KLWZGdnFPWG4ydkVReVNDejdIZi1aa2c2UE9KU3hpcGNPRnc0Uzc2ZTZHemxjeDFJOG00eWp6MVVVWURzS3FyUHEzd2x5bG5OTlFFckZua29YWmVzUWNJRlFJZlZLRldpMkM4cjhZbjdwY09ma1d1Z05wckktQnMxcTVKd0JuNG5sNElIMWk4SjB3YjY5Q3dScGRPZVNZOFpPRTJreXprblFIMXZnTWJ3?oc=5",
+      "source": "MSN",
+      "date": "2025-08-21T10:45:36+00:00",
+      "description": "Poland accuses Russia of ‘provocation’ after drone crash on the border  MSN",
+      "query": "drone crash",
+      "detected_at": "2025-08-21T19:04:39.962255+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "84e487dec331"
+    },
+    {
+      "title": "Man arrested after crashing drone with drugs into Florida home, investigators say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2huUTRQcXYtbVZZYkwyZklGck55NW5jLXJXaXc1MzVKZXZ6M1V1VlNXbDRaekxWeTgzVnVYUHQ1cFBOTE9wOGxQWlhLRWdZcDJvTFEyQlpGRXRiT0k1TmNXY2g3bFA4aWdZUDh6b2pQWHRJOXRGUnRxYS1zUXZienhhVmVhUQ?oc=5",
+      "source": "CBS News",
+      "date": "2025-08-21T18:22:18+00:00",
+      "description": "Man arrested after crashing drone with drugs into Florida home, investigators say  CBS News",
+      "query": "drone arrest",
+      "detected_at": "2025-08-21T19:04:37.150173+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "59c45757cb19"
+    },
+    {
       "title": "Drugs, weapon seized after multiple suspected drone drops at Kingston prison - Kingstonist News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnFjZVJ5OEFhTFItUHlSQkVyYVFMVDdXdzNTLTh2NkJlclYyODAzaHRpa0NUbnJHLWVpQW90TWlRY3ZKNjFhMXlNRzgwRmotSExnREY5VWNfZkNMdXRGLXF5VFAtNU95WklGWTRiemgwNkQzV0pndl9UYzZKMUZkcnVJUncxR2lJLU1UWkJ4ekpHRllUSDJKMDVubGVjTEpNaUtCcVlzTWFPbllFdlE?oc=5",
       "source": "Kingstonist News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "81b742e1bc23"
-    },
-    {
-      "title": "New drone program in Commerce City Police Department leads to safe pursuit and arrest - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcElCeVdOY2V3RXRnRGRtZ1JHYS1lTjVwaWVtbS1EU0pwLXIwTUhCdGlrNlUzUnJ2R1ZuR3hyYnBfLVRoNEg0dHlUSl9sSG04b2Y3dUJ0VkdIUEN1RFZWRnBRSG81RGQ2bzdwTmd0LTUyMmNVMTExbmxvTS1qa0lQVmdPcjJFMHJ2bzZ0TjRTOW9Ya0lCVFNUcmJpODdwRGtjeVltTVVja3diZ2VwVDEzcE82ZlNqT3YxLXhuQnVTU0E5YzA?oc=5",
-      "source": "CBS News",
-      "date": "2025-07-11T00:05:00+00:00",
-      "description": "New drone program in Commerce City Police Department leads to safe pursuit and arrest  CBS News",
-      "query": "drone arrest",
-      "detected_at": "2025-07-11T00:23:37.036703+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fcc457b1e5b8"
-    },
-    {
-      "title": "Drone downed over Peshmerga base near Sulaimani - rudaw.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkQ1JtR1c3WHJrV2NNbG9wNzRyeXNMU2t2WTNQWUw5R09aSmwxenFFcTZXcjdFSDRQeWpDczJvdDZXUDRNUEIzaDlMY0VGc2pnRU4wWUhPM1JHaFB0V0E?oc=5",
-      "source": "rudaw.net",
-      "date": "2025-07-10T22:43:34+00:00",
-      "description": "Drone downed over Peshmerga base near Sulaimani  rudaw.net",
-      "query": "drone incident",
-      "detected_at": "2025-07-11T00:23:36.138414+00:00",
-      "location": "near Sulaimani",
-      "category": "other",
-      "id": "df0fc1c483da"
     }
   ],
-  "last_updated": "2025-08-21T17:05:02.509134+00:00",
+  "last_updated": "2025-08-21T19:04:43.481399+00:00",
   "total_count": 1000
 }
