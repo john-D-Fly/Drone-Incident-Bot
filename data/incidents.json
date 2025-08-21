@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drone crashes in Poland - Northwest Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNam8ybTF0cHJQODRTM3h3eGgxUTBJLU1pLUxPZVFHS09vMkxYZFp3WWJOQkdtTmZ3S3ZSSmNwY3BaX1FWcFRrVHBWSzNkeHJRWlktR0VCNUZEZ3pxQkdsWFAtNjE5eFhUb2ZfX2w2d3BVVmZwVXJPa21TbU5nZkxyNWRoY1M4RFZoSEx6UWx4NkZJZFU4Y25weUxMV3ViRnc?oc=5",
+      "source": "Northwest Arkansas Democrat-Gazette",
+      "date": "2025-08-21T07:49:00+00:00",
+      "description": "Russian drone crashes in Poland  Northwest Arkansas Democrat-Gazette",
+      "query": "drone crash",
+      "detected_at": "2025-08-21T08:07:27.454957+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d19fcfd8eeb3"
+    },
+    {
       "title": "Russian drone crashes into field in latest ‘provocation’ from Kremlin, Poland says - New York Post",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGNONjR2bDhicnJXMF8tVzBvSzdra1FpeTlXOUU1UGtRM2c3UkhncFJ6NUR6dlQtcVVrTHp6RGxRcTg1M3h3cndxSFU1dEtwY1dUanJva0JOcHZRb3BXUmNZUE9DZU1lOGdQNFUwMG9fNElzXzhZOWZRb0pSX01xc3pyd3JNVzh2SV9XaWhPT3lzNkR0ajl1UTNZQmR0aVhvdENHU213?oc=5",
       "source": "New York Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "059033ac6c64"
-    },
-    {
-      "title": "New La. law gives prisons authority to intercept drones amid contraband concerns - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUVGRlZYUzFGQ2JKM1dfM1lhVXhySmpPV3VaQ1RVOTZSSThJNVNuQXFtRHB6RVZ4NVZyMEtiNFdOQnFOWXVDU3h2dVdIYXd3YklPeDQ3dzBMNHhCdy1YVVEzV2xZaUszRmlHaFZqcjhraHV0R0lSSzc1aDhGUndIbVRsSHZsZERlTkI1QWY3aU8yelktV0EzdTRKZk9vY3owNmUzWFNjSGt0OFhKaVpNVFhHZmZBdw?oc=5",
-      "source": "Corrections1",
-      "date": "2025-07-10T17:13:07+00:00",
-      "description": "New La. law gives prisons authority to intercept drones amid contraband concerns  Corrections1",
-      "query": "drone prison",
-      "detected_at": "2025-07-10T18:07:08.752645+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "450920186db4"
     }
   ],
-  "last_updated": "2025-08-21T07:08:04.451454+00:00",
+  "last_updated": "2025-08-21T08:07:30.219479+00:00",
   "total_count": 1000
 }
