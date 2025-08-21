@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Polish officials say crashed drone is Russian 'provocation' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU1EaFpGSkZMeEoxQmcySTcwbkxhNWl2UHBaZWphYW16c0c4R3ZzRy0xdEluVEpqU3oyaEZKa0lRcmZDUTU3TFJReEFiLUx2TEtkcDliR1o2YlNRMDEtOXhsZXVoblhicGtELVZWWmJxY09zWWpfak9obC1RYmRrVFFVR2JaNmZmYlJCZUxER1BEdWF10gGUAUFVX3lxTFBFQlVOQ2trWUpLb05EMkNZRWFGNEpxX245WTUwYnVLOVZzbnVQLVk2eDBkcUpyd1g4U1JPYXZhOWVTcHBfbndxTzg1NEM1STJXNEc2U0pReEhVTExfQ010MlV4VEpCOGV0Vms4ZjZlYU1pczdKZ2hhb3RRb09SRzhtU3pwbmlPQ3owekdPQU5WcUdLWW8?oc=5",
+      "source": "DW",
+      "date": "2025-08-20T17:09:12+00:00",
+      "description": "Polish officials say crashed drone is Russian 'provocation'  DW",
+      "query": "drone crash",
+      "detected_at": "2025-08-21T00:20:52.088515+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9ccee4fe5011"
+    },
+    {
+      "title": "Russian Drone Crash In Eastern Poland Seen As Possible Provocation - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SY0tGR29iWmpycTV1SEFlUjk2anVQLURsRTdPV2ppZXJrbVRtQXVSUU9NLWFYZzdxbV90ZVhUODFsemZlQm9oTUpDMTRHNF9fRmZVZF9QcV9EdU41Yjg0QlA3UlJYYk9tSWN6d3E1ZTZ6VHM2ZVdJ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-08-20T23:06:55+00:00",
+      "description": "Russian Drone Crash In Eastern Poland Seen As Possible Provocation  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-08-21T00:20:49.103808+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "caab0a9dfa74"
+    },
+    {
       "title": "Russian drone crashes in Polish field as Warsaw protests airspace violation and plans formal complaint - Fox News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkR1U0dGSUk0cVdCVlpCQXcxblFLLVFCZzRCYW4yWGdmYUU1OVJyLWd2NWJPTkg3R1lSYWlodlQ0UFBFQmxxUy1MZGU3YVF2ODVzNmJpUGdjVGVxRzQydlVWQ21OV09TWnU0NGpIUnZaVHBYc2taOWY4dWJEYmUyV050dkk1aDlIQlRPSVUxQ2hpaWxQM0ZhcTdXNDd0Y2h2U2ZNVFROQ2hWQ0ZWWC1KQVVqNmJ2djZsWm5WX05pMNIBxAFBVV95cUxQbGE1REdrOGJMTkY5MG94SHFyU2xkTUlVYnlRVFc3eTBzdjBaY2xyMW9abXJxZTZfMDVMOFZnZjE0dzRNTGNsbnh1SkliOVAwSFZtSzZjcDgxUDRPMFZYZS1KZnltNmhsdFVPNEZwWExENVpnMnBmM09sRkt2eFhMZ1lWUEFNLThHY3ZJOEZ0MERoOEdESGdIR2twLW5tYk16N1RJYlBNSDBpSWFLS0REX1lmSlFpbV83T1ptcGpmYUtITUt3?oc=5",
       "source": "Fox News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "e3aa628fb7c4"
-    },
-    {
-      "title": "Flight Disruptions and Internet Outages Bring Chaos to Russia’s Regions - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEtmd25GUURkck93by01WjNnSWczWDhoRGNvdDBydDVMYms4YlJmTEU2WUNLbVV4YWp1elVhQUJPTWQ4NzlKM3AwTVdBSlp2VzZqU1EzbDBfY3BZd2ptUFNrbE1RSlBOSVlKVGQ0Q2pWTXVaYXJZS2RNVF93eFByMW01b1NlOG1KeTJwWVQ1b3dadVZocWgyeGhCU2NyaFVMN2h5dFdib2kza2ZGaVJUMGxiUmFpMDFycEFj?oc=5",
-      "source": "The Moscow Times",
-      "date": "2025-07-09T12:21:00+00:00",
-      "description": "Flight Disruptions and Internet Outages Bring Chaos to Russia’s Regions  The Moscow Times",
-      "query": "drone airport disruption",
-      "detected_at": "2025-07-10T13:15:11.245839+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "a23703dc970f"
-    },
-    {
-      "title": "Homemade Drone Crosses Belarus-Lithuania Border Triggering Security Alert - Букви",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDhoN0pjWktfR0JkZjlUc2dUX2dnWklaelVYN20wWE9QTjJUUURleUFaTXhDYkU0OUtrYmhxMW4wM2NkR3ZERGtqaGZKTUJlVnBnQXBlaG9LTmFiUWRZMUJEVFJwNzFFY19EYmt6QTFHdGJwaVVQR1dtQTFHUXNRelYtQmFTTzRCVmVzZHNkT2Z4bWR5VEE3UTVLQTROZG51UEZYcg?oc=5",
-      "source": "Букви",
-      "date": "2025-07-10T13:06:56+00:00",
-      "description": "Homemade Drone Crosses Belarus-Lithuania Border Triggering Security Alert  Букви",
-      "query": "drone incident",
-      "detected_at": "2025-07-10T13:15:08.808318+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5a8fdfca3ce0"
     }
   ],
-  "last_updated": "2025-08-20T23:05:01.460292+00:00",
+  "last_updated": "2025-08-21T00:20:54.937931+00:00",
   "total_count": 1000
 }
