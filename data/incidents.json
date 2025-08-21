@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drone crashes into field in latest ‘provocation’ from Kremlin, Poland says - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGNONjR2bDhicnJXMF8tVzBvSzdra1FpeTlXOUU1UGtRM2c3UkhncFJ6NUR6dlQtcVVrTHp6RGxRcTg1M3h3cndxSFU1dEtwY1dUanJva0JOcHZRb3BXUmNZUE9DZU1lOGdQNFUwMG9fNElzXzhZOWZRb0pSX01xc3pyd3JNVzh2SV9XaWhPT3lzNkR0ajl1UTNZQmR0aVhvdENHU213?oc=5",
+      "source": "New York Post",
+      "date": "2025-08-20T20:32:00+00:00",
+      "description": "Russian drone crashes into field in latest ‘provocation’ from Kremlin, Poland says  New York Post",
+      "query": "drone incident",
+      "detected_at": "2025-08-21T07:07:58.423376+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "dd6c8dbece8c"
+    },
+    {
       "title": "Polish officials say crashed drone is Russian 'provocation' - DW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU1EaFpGSkZMeEoxQmcySTcwbkxhNWl2UHBaZWphYW16c0c4R3ZzRy0xdEluVEpqU3oyaEZKa0lRcmZDUTU3TFJReEFiLUx2TEtkcDliR1o2YlNRMDEtOXhsZXVoblhicGtELVZWWmJxY09zWWpfak9obC1RYmRrVFFVR2JaNmZmYlJCZUxER1BEdWF10gGUAUFVX3lxTFBFQlVOQ2trWUpLb05EMkNZRWFGNEpxX245WTUwYnVLOVZzbnVQLVk2eDBkcUpyd1g4U1JPYXZhOWVTcHBfbndxTzg1NEM1STJXNEc2U0pReEhVTExfQ010MlV4VEpCOGV0Vms4ZjZlYU1pczdKZ2hhb3RRb09SRzhtU3pwbmlPQ3owekdPQU5WcUdLWW8?oc=5",
       "source": "DW",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "450920186db4"
-    },
-    {
-      "title": "Truck driver arrested in central Russia over drones launched from his vehicle in Ukraine’s Operation Spiderweb - theins.ru",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kWkhkOE5abF9hOUc1bGFyWkhkUzdHeDhCZ2ZlR3FDd0tVM3RIUmZHbVQwUVJYTFR4UlloT3ZkQ1lkWnFXbVBF?oc=5",
-      "source": "theins.ru",
-      "date": "2025-07-10T17:14:59+00:00",
-      "description": "Truck driver arrested in central Russia over drones launched from his vehicle in Ukraine’s Operation Spiderweb  theins.ru",
-      "query": "drone arrest",
-      "detected_at": "2025-07-10T18:07:07.309882+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "9cdf1e34e52c"
     }
   ],
-  "last_updated": "2025-08-21T06:08:09.700913+00:00",
+  "last_updated": "2025-08-21T07:08:04.451454+00:00",
   "total_count": 1000
 }
