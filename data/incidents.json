@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone footage from the deadly Thruway bus crash - WGRZ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWZTN1NzN0xCY2Y1ZE5lTWl2ekRROE1mTG1lOG5MZlBaS1BFSERXTEZkRHVaUDNkd0VaQmxnWXgzdzF2VVhnZTlrZGZqTW13YlBEYnBVdzI3RFl6WUZacUxnTXNDaHZvN1EzZ3FndDBfcnpZTnNCV1NXdE5uWktwcXBCYUItbzA2dTlQT0Q4ZE9nLUYzNDFvMTlSU09KT0o2dXJNT1NBa3VRb0U1OFlCM1VXWGg5ek0?oc=5",
+      "source": "WGRZ",
+      "date": "2025-08-23T00:09:00+00:00",
+      "description": "Drone footage from the deadly Thruway bus crash  WGRZ",
+      "query": "drone crash",
+      "detected_at": "2025-08-23T00:21:24.745265+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "607debdf773f"
+    },
+    {
+      "title": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach - Anchorage Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDNJbUJpcEY2YUwzRDU4MVN3bkt3Y0I4UGtQRm1FQ1BfeWVKRjBLNlBDbWkxV1JZeWtseV9xaU1wY1g4eFd5UEJxbUJpUkJJQjhyOE1OWHF1ZXQxQlNWNzZqZWNRd29vSloxY3N5eEEtczNKS0ZDM051dy01QjNCeGc5bUY5UkpFM0tRMlJCbVNZLU82TktqdjFPN3JCOFJUQktoREpnS2pDbDVGRFNSM3JDejNHTnVkSmxkcTVkMlJaOUpSRjdqMG9fV21FMklFbFE?oc=5",
+      "source": "Anchorage Daily News",
+      "date": "2025-08-22T03:22:30+00:00",
+      "description": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach  Anchorage Daily News",
+      "query": "drone crash",
+      "detected_at": "2025-08-23T00:21:24.745265+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c2ffcddc86a4"
+    },
+    {
       "title": "Army unveils crash course in advanced drone use amid push for force with combat tech savvy - Stars and Stripes",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2lfM3FVZFBMN3VSYTV5ZGo0YXh1amZjSTZWd2p2MXdlbE1aVzEwWEoxblo4Z0ZFclBXSEZ3TU5CQ2xYQ1loNTA1OHRrSmZlZlBGc1FKa3cxOWVNZHlrNkxSZHdZc3MtTm5CTkVjTzRIODFxcXJWR1V1Y0twQmpCXzcweE1WSUNJMDdFcVlCbjBJQQ?oc=5",
       "source": "Stars and Stripes",
@@ -11975,32 +11999,8 @@
       "location": "near Erbil airport",
       "category": "airport",
       "id": "3386684b1a37"
-    },
-    {
-      "title": "U.S. Secret Service Adopts Military-Grade Drones for Enhanced Aerial Security Post-Butler Assassination Attempt - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0R6NmVpT2JfR0xCc0hXOXg2VXB1RzZvU0hxUDhXcksxVkg2dzJrbThDUWsyaE1VVFNZTVJOdGxmQk5JbGNPWmNuRkRXT2ZHMmRMT3dUWWNLS1RVRGpvSV9sazRGVGdzUnNPTGxMVWlPVnhRRzhMNkxzNkMzdlpKUWx5X2FVaUU?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-07-12T10:57:49+00:00",
-      "description": "U.S. Secret Service Adopts Military-Grade Drones for Enhanced Aerial Security Post-Butler Assassination Attempt  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2025-07-14T06:08:30.637337+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2ed99c59c0ae"
-    },
-    {
-      "title": "Blast reported near Erbil Airport amid ongoing drone incidents - ABNA English",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVZpT3lWZFE5YV9aQk9uYVE2cnM4bi10dEI3ZWthcVRybHhIeTlKRlRKaFNtU0NpLUU0NjdPRzBsWGJ3Ums3TE5kRmVSUTZPdlVsRTVsQU9mbF9Zckw0clI5M090Q2M5TUNrektxNk5qWW1lSkJkek0yZWJOTGlKSWlmaERsTFNGblh0YWNMME5VOWkxUEtWdTZ1U2JSQQ?oc=5",
-      "source": "ABNA English",
-      "date": "2025-07-14T05:39:41+00:00",
-      "description": "Blast reported near Erbil Airport amid ongoing drone incidents  ABNA English",
-      "query": "drone incident",
-      "detected_at": "2025-07-14T06:08:30.637337+00:00",
-      "location": "near Erbil Airport amid ongoing drone incidents",
-      "category": "airport",
-      "id": "042643406beb"
     }
   ],
-  "last_updated": "2025-08-22T23:05:10.927101+00:00",
+  "last_updated": "2025-08-23T00:21:28.043666+00:00",
   "total_count": 1000
 }
