@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Expert: drone incidents will continue in Poland as long as there is a war across our border - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHV0b045RHVzOVd5LVotSjA3eXl4TWd1dTZMX3loQ0NJNUJ2MmVBLVhSUTZxa3NUNk03RVQ5U2l5dUJHNm1hTEkySlRvOUxJSWhmUEFvMVpiUDBwMWxnMTZMUUZ0aTZMdkJJZkFEVk80eWd6ZU5KYVEtcG9DdGxfTWcySUFoVHNXTm1HeXk0cWdiMHdNOFRmcGpObmxGYW9STTRaTmxIVkRZRGRSVzJfSW41bG1DUFJseGNHZ0FESmtmLV9aT040RTFGNmtqMjlNZVFKTGFCOEZIQWJ6ZkNLRA?oc=5",
+      "source": "MSN",
+      "date": "2025-08-23T16:41:08+00:00",
+      "description": "Expert: drone incidents will continue in Poland as long as there is a war across our border  MSN",
+      "query": "drone incident",
+      "detected_at": "2025-08-23T17:04:22.025774+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "66eb18e68c64"
+    },
+    {
+      "title": "Expert: drone incidents will continue in Poland as long as there is a war across our border - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdkZ0V2dUbVA1R0tMZXBBaVlNTXpsMHhkbHBZbU9aRnVEQU9jRzBBLVlIV25PYUJUT1NJM1AxSDlUbWh5M3FULUxKbXRKcW9IZlZrSFQ3a1RXV3dnaHAzajYxYklZNVhmQnFFcnJvRnhxMkdTcXpRZzc2N2RCaWN6TF9XakFDSlNjY0Z4ZHE5YW9WMFFBV0FqS0hlX1lmTE9PT0lialBrV1VPQWdpY1Vkbk1MZGtudzhzMjdLYlJWVnpMcURD?oc=5",
+      "source": "Euronews.com",
+      "date": "2025-08-23T16:17:30+00:00",
+      "description": "Expert: drone incidents will continue in Poland as long as there is a war across our border  Euronews.com",
+      "query": "drone incident",
+      "detected_at": "2025-08-23T17:04:22.025774+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d38309bbd5b7"
+    },
+    {
       "title": "IDF intercepts Houthi drone that triggered sirens in South - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ydjl1N3o4UWN3cEE5WF9BRm5DdExQbWZMWTJHTVlOQlgzM0NLZGxwbExic3BuRDNSTnd5a25MSkRLRGo2c2JoQi1hZFQ3V3I3aDJ2OWZUNk5Kc3M5UzJYYkhiV3NHTE0ybUIwMzRB?oc=5",
       "source": "The Jerusalem Post",
@@ -11975,32 +11999,8 @@
       "location": "At London Southend Airport",
       "category": "airport",
       "id": "1ae946ae097b"
-    },
-    {
-      "title": "Subway surfing: Drone footage shows cops catch teen daredevils in the Bronx in 200th arrest since crackdown began - amNewYork",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlJ5OEdkeE01RDRIZVNkaG1ZX2FRazdlQXJMMVFlT1h0M0w4UjhmUGVfUHNIdTVrWmY3Mlh0eTRWdXc5aXBVRTZiXzBxZ19nUTBUa1FkaUJkNWdHUEpNcHZ1Mk9ZWGRmMXB0U3pocFNMMERrMXdrTmFOVDhuY0xmQTlTTW5zQQ?oc=5",
-      "source": "amNewYork",
-      "date": "2025-07-14T20:35:54+00:00",
-      "description": "Subway surfing: Drone footage shows cops catch teen daredevils in the Bronx in 200th arrest since crackdown began  amNewYork",
-      "query": "drone arrest",
-      "detected_at": "2025-07-14T21:05:29.813440+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "0d8c2c82088c"
-    },
-    {
-      "title": "Suicide drone shot down near Erbil airport: Kurdish counterterrorism - rudaw.net",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nTXpFQ0pwR0dmWGRaQjhxdlY5cGdsU3RzZDJmMTIwVXZFbG5IZE1MZVJFYjRrSTNEYzFGVnZJMGM3TFdEUXNoZkFob0pXNUhSQzBKYXh1LW53TDVi?oc=5",
-      "source": "rudaw.net",
-      "date": "2025-07-14T06:11:54+00:00",
-      "description": "Suicide drone shot down near Erbil airport: Kurdish counterterrorism  rudaw.net",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-14T20:05:52.237361+00:00",
-      "location": "near Erbil airport",
-      "category": "airport",
-      "id": "558230e7fcef"
     }
   ],
-  "last_updated": "2025-08-23T15:04:42.047389+00:00",
+  "last_updated": "2025-08-23T17:04:30.505628+00:00",
   "total_count": 1000
 }
