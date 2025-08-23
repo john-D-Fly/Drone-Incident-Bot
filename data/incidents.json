@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "IDF intercepts Houthi drone that triggered sirens in South - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ydjl1N3o4UWN3cEE5WF9BRm5DdExQbWZMWTJHTVlOQlgzM0NLZGxwbExic3BuRDNSTnd5a25MSkRLRGo2c2JoQi1hZFQ3V3I3aDJ2OWZUNk5Kc3M5UzJYYkhiV3NHTE0ybUIwMzRB?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-08-23T04:59:42+00:00",
+      "description": "IDF intercepts Houthi drone that triggered sirens in South  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-08-23T15:04:40.802077+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9742ccd12f3d"
+    },
+    {
       "title": "FARC Splinter Group Downs Colombian Black Hawk With Explosive FPV Drone - SOFX",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29YaGczcWljSkJCbm42MEo3enFrS0RDWjNGRjEzZURtN0RJdmtFWDFYS0dzWlpGSkpKak0xeExmTDdLVVh2eUFpelVEdXYyc0J1cmhHNDc5M2xfczhsbnlnWkhNMk82ZFM2Z25mdTJrbHk0aXItR3luczA3ZzdJMGNhMHZ6SFpFWEdkZmVhMHJlTG54SnBVVw?oc=5",
       "source": "SOFX",
@@ -11987,20 +11999,8 @@
       "location": "near Erbil airport",
       "category": "airport",
       "id": "558230e7fcef"
-    },
-    {
-      "title": "Explosives-Laden Drone Neutralized Near Erbil International Airport - kurdistan24.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jckFaZTkxanlOWUdQb0pmVFNybHZVem94alJ3cVlSWHdWOXNxd2JqbDRzUUdiSDlVOXp6UjhMR21wZzhIN3VtUWhKdHQzckR2WFNCZnR3?oc=5",
-      "source": "kurdistan24.net",
-      "date": "2025-07-14T04:22:15+00:00",
-      "description": "Explosives-Laden Drone Neutralized Near Erbil International Airport  kurdistan24.net",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-14T20:05:52.237361+00:00",
-      "location": "Near Erbil International Airport",
-      "category": "airport",
-      "id": "2736e8265f23"
     }
   ],
-  "last_updated": "2025-08-23T10:05:18.117182+00:00",
+  "last_updated": "2025-08-23T15:04:42.047389+00:00",
   "total_count": 1000
 }
