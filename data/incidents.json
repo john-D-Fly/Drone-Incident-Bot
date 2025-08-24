@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Massive drone attacks shut down flights across multiple Russian cities - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXVJWHRKejFsMXdxdlVNSkpZYmd1TjlsMG0zSFJ1MjBwUDlXSm12dUZrUTU4ODY4R08xVHI1cjZnUGRsZ1I0UHBOa2pGbENmYkFaeHVWTWI4aVlBTmw4ZUQ5cEFlZmJjVmlWcFh5S05yUWVRZ0tqcEhib2FQTTZ1bHlqemdvMUhzaDZURklzV1BUTGtZQlp4Y0J3?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-08-23T19:20:00+00:00",
+      "description": "Massive drone attacks shut down flights across multiple Russian cities  RBC-Ukraine",
+      "query": "drone airport disruption",
+      "detected_at": "2025-08-24T08:06:21.590086+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "88bb2455a8df"
+    },
+    {
       "title": "Video: Illegal drone flights put firefighters at risk, force aircraft to halt operations - KSL TV 5",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUtYdE9yVTFqNjFLSW5TSkt2X3NPdGZ4MGR0V2hOQjhWTUNmWmpDZzI4bllkTEdGZG9COHU2R2pYYW9ucXo3VDJsRnhhUlYwSGJpaHJrWWtnaG04QkVkZzMwclBEd2dQLU5Qc1NZR2xmNUpIRW4zdlNCWkFlcDFGQ1F5MHBwSW4tQ2ZnRHBjTzVZTktaM1hHN1BZYWl6am1taUktRWRuVWs0Qk93MkpXNmYwWXdlY0VCSEMwVg?oc=5",
       "source": "KSL TV 5",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "67184802887f"
-    },
-    {
-      "title": "ISIS (Islamic State) Supporters Promote Drone Warfare, Urge Targeting Of Air Assets In West Africa And Sahel - MEMRI",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWRNNmlvOTZhazVHbERmVEFzTVVhU0lfRXcyT3RNMF9uZ2xhWWRSWUlYY2Y4SG95cUhlSmg5RUcwTFVXUG4xOWN1VURRR2FWLWlUclRNRGRuN1Z4NmxiZ1VvQ3FpbDdNRTE3ZURmVUhIYnNCY0hsSUtaazJxYXljY29tNS14NS1IZFY1NUd4dVhOa3ZBUUVsQ1hfMzlBci1zSFRBTjFpWmV1Mll5anhkWXlDaVBhakV3TXRodW5n?oc=5",
-      "source": "MEMRI",
-      "date": "2025-07-14T16:54:23+00:00",
-      "description": "ISIS (Islamic State) Supporters Promote Drone Warfare, Urge Targeting Of Air Assets In West Africa And Sahel  MEMRI",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-15T06:07:56.459414+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1edede1c29a2"
     }
   ],
-  "last_updated": "2025-08-24T07:05:10.962767+00:00",
+  "last_updated": "2025-08-24T08:06:24.881389+00:00",
   "total_count": 1000
 }
