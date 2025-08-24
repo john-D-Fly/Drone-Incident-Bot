@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Investigation finds $13 million US military Reaper drone crashed into the sea after an unexplained failure saw its propeller fall off - MSN",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNU2gxUGRVaXEtSGdZb291RzlyZk40akdua0ZNSE9MTUh5dy1XSW9qVHdMMnVfZDdrZlcxaWtwUjE2YU82UElpSk1SZW5vVzRmV3FIMVp0NU1JQ2xRY2hnb1R4Q3A5S1FhU1lkN0E3TGZNZXE4dUtraHdjT1lHV2h2UHNRT1NLTW15ZjdyVVFMaUVLa2xkVTBoSVBPcE51MEl0Ym5Jajc5OVM4Qm9TQWFkMEtpLVJMY2E4YjZISk13MUpuUW1INW1BazlzeDJ0UzdqZGtBcEREYnhRZDJZamVES1NyUXpUV1p3blNaTDhuQ1h4c0xqeXR6THNsbVJqdzhxdWJCNkI4UFh3alZfVnZfSERaRFJtN193anU5eUtVdXZOZXpYekFSWWJiS0VGSS10Vm5WLWxoeTZWRV9oZkdzeWJGMlZ2NGwtV0hVckJ1UDFhcTRyWkg5c0FQX1Z6M0RCb2pUSHc2N0hoN1Qtb1kwWFcwTFBwWE9XUUkxcnhCZjIwc0lWNXBvMUF5T21sWTRHYzhxQ29fN01RYl9TdHVjZjJ6VXo?oc=5",
+      "source": "MSN",
+      "date": "2025-08-24T00:29:37+00:00",
+      "description": "Investigation finds $13 million US military Reaper drone crashed into the sea after an unexplained failure saw its propeller fall off  MSN",
+      "query": "drone crash",
+      "detected_at": "2025-08-24T05:05:24.822208+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "cbcff36bba9a"
+    },
+    {
+      "title": "Tampa-area man arrested after crashing drone carrying drugs into home - wsvn.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUEtYS0zT05jTjROMHFyRHlOREhQS1R3eGR2Tm9qb3c0ZHczNzFlMm1pZXluNm56RlFQRmZETTZrRXRBcERuRURCUnNzbWRiWWtnVmYydTA5TnpjbjlmdnhfdWR1cGVsLVpXVEJLem9wVXUxMldsZjczWFFFRm1nWGs0czNpM1Vsa2pGQ0lKXy1JMm02UmlxOUxjZm53NFBpZHVFT2ZUWnBJUQ?oc=5",
+      "source": "wsvn.com",
+      "date": "2025-08-22T22:29:33+00:00",
+      "description": "Tampa-area man arrested after crashing drone carrying drugs into home  wsvn.com",
+      "query": "drone arrest",
+      "detected_at": "2025-08-24T05:05:22.118518+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f428bafe2a73"
+    },
+    {
       "title": "Illegal drone flights put firefighters at risk, force aircraft to halt operations - KSL TV 5",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LdTg2N1R0eGR4WkFYY0hlVm8zb2FYZVBScEhDSFlLU1dOT3ZkQjFwY2pkaGVNNXpLRFJRTjBSV3Z3MDNKQUZGWlI5QktoRXRlYjdEN3dlT2lqTl9QMm5Da0NFSXRmZjA?oc=5",
       "source": "KSL TV 5",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b25d9f112184"
-    },
-    {
-      "title": "NYPD: 4 boys arrested after drone video shows group subway surfing on 6 train - News 12 - Brooklyn",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0l6NVNSSmlobHpRb0hhSVdJeUVoZmtDWWZyTG1Mckl4R0ZzYnpfa3pLQVZxVHpNWVNBWW1xOVdmUk9VVEpYUmZPYWFVREVaUWtVUnlaTEt5LWlhQ1RTV3MycTRqUG1ibUVjX2tZbXFxU1hCV2ktaHE0aTg1LXZMOFozX0c1NXZrQ3JPQVVzRExtVzB2dkthV08tMmxYcmFqdUw4a05PZw?oc=5",
-      "source": "News 12 - Brooklyn",
-      "date": "2025-07-14T22:58:56+00:00",
-      "description": "NYPD: 4 boys arrested after drone video shows group subway surfing on 6 train  News 12 - Brooklyn",
-      "query": "drone arrest",
-      "detected_at": "2025-07-15T02:43:47.916564+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d24d86094ed5"
-    },
-    {
-      "title": "Two drones fell in Khurmala oilfield in Iraqi Kurdistan, counter-terrorism service says - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWnhuQm9xZ1U1UEwtQmg1QWw3X0plNkltZU5jTmpWa01LblRMOUVRX0tyTFJVYXdGRDhsazJ6UDNBekFVVW9MbFh1TGJRb2FzQkQzeExyLWEzME84VEQ5VjNWd21IcmVydTlVRk5SMHRuWTVtVXlRSW95RkF2LWRabEFuRVdiaktHcXVIbHFJQk9PTVMwUzRpMHc1RHEyR0E5UlZhQW5rZzZ5NTdUYm4wSkZ5aDFDQ0w3UTAxcUFEN2NGQmUtdE5vRA?oc=5",
-      "source": "Deccan Herald",
-      "date": "2025-07-14T23:50:07+00:00",
-      "description": "Two drones fell in Khurmala oilfield in Iraqi Kurdistan, counter-terrorism service says  Deccan Herald",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-15T00:24:30.003864+00:00",
-      "location": "in Khurmala oilfield in Iraqi Kurdistan, co",
-      "category": "terrorism",
-      "id": "14987ced171f"
     }
   ],
-  "last_updated": "2025-08-24T04:09:46.790186+00:00",
+  "last_updated": "2025-08-24T05:05:28.019172+00:00",
   "total_count": 1000
 }
