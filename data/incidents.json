@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Unmanned drone involved in military exercise crashes on Kenai Peninsula - Alaska's News Source",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGlPMjgxSTJPcHVzNVVYVlljTEU1MkdQblRtM0d4OXBVM3lBTzZMUy1Xc3pxbVprMVI4YlhqVmg0aG5DT3c5TDU1UEtMbTU1VlpTczd6TjdoRENWdVh3UEFRU1ZlQ0VRSGU0UzhFc0ZwN0haSDE3NGxMbGxCOFpibVdhTjlfZXJySGlTVC05LWtJeFBxa1hKV2ZQMHlFSzNzREZabUNramFWWnRFUkdacA?oc=5",
+      "source": "Alaska's News Source",
+      "date": "2025-08-25T17:51:00+00:00",
+      "description": "Unmanned drone involved in military exercise crashes on Kenai Peninsula  Alaska's News Source",
+      "query": "drone crash",
+      "detected_at": "2025-08-25T18:07:17.482116+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a7e49ae7721b"
+    },
+    {
       "title": "Investigation finds $13 million US military Reaper drone crashed into the sea after an unexplained failure saw its propeller fall off - MSN",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNU2gxUGRVaXEtSGdZb291RzlyZk40akdua0ZNSE9MTUh5dy1XSW9qVHdMMnVfZDdrZlcxaWtwUjE2YU82UElpSk1SZW5vVzRmV3FIMVp0NU1JQ2xRY2hnb1R4Q3A5S1FhU1lkN0E3TGZNZXE4dUtraHdjT1lHV2h2UHNRT1NLTW15ZjdyVVFMaUVLa2xkVTBoSVBPcE51MEl0Ym5Jajc5OVM4Qm9TQWFkMEtpLVJMY2E4YjZISk13MUpuUW1INW1BazlzeDJ0UzdqZGtBcEREYnhRZDJZamVES1NyUXpUV1p3blNaTDhuQ1h4c0xqeXR6THNsbVJqdzhxdWJCNkI4UFh3alZfVnZfSERaRFJtN193anU5eUtVdXZOZXpYekFSWWJiS0VGSS10Vm5WLWxoeTZWRV9oZkdzeWJGMlZ2NGwtV0hVckJ1UDFhcTRyWkg5c0FQX1Z6M0RCb2pUSHc2N0hoN1Qtb1kwWFcwTFBwWE9XUUkxcnhCZjIwc0lWNXBvMUF5T21sWTRHYzhxQ29fN01RYl9TdHVjZjJ6VXo?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "436338583eac"
-    },
-    {
-      "title": "Ukrainian hackers claim to have destroyed servers of Russian drone maker - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVRiOFhVVVlRMkNHd0pTY2Y0aUoyWWxnay03N1QyOTBUX3VhQU1HRmFGdWZ5MUpWbHBuYmRZbmFxUmhzb3NlUUhvZGROYXpaR1llU2ppaVpPdGEybmtDeHd3ZXp6Q3YtMElrcnV2VmpBaWlkVHNhNEIzY1JTTHNuSkMwNnFZcl9yQXJ2bXhQakFBVHc1b1BjcDZjS0R4LTFEZ0M5MXVlLWh0YlU?oc=5",
-      "source": "TechCrunch",
-      "date": "2025-07-15T16:30:14+00:00",
-      "description": "Ukrainian hackers claim to have destroyed servers of Russian drone maker  TechCrunch",
-      "query": "drone security breach",
-      "detected_at": "2025-07-15T17:05:10.802277+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ec13c0f574e3"
     }
   ],
-  "last_updated": "2025-08-25T17:04:55.589980+00:00",
+  "last_updated": "2025-08-25T18:07:20.829034+00:00",
   "total_count": 1000
 }
