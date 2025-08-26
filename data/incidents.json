@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Southport Air Show full list of banned items including drone law - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zMEdILVctcDhDeHZ0X3I0T2J6TExWblZjMWQwcm8zWEEzX2l2cWJxbWpyTVI1c0s5bU95Y3VEZUozTGNfNFU3YlFOVmdtNU1vemZ6QUF1bnhCM2FXN2JDNDQ1T1E3QU4tN3RtT0lvcmI5dkxQeUk1Xw?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2025-08-26T05:00:00+00:00",
+      "description": "Southport Air Show full list of banned items including drone law  Yahoo News UK",
+      "query": "drone illegal",
+      "detected_at": "2025-08-26T12:09:26.637661+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5a33382564ee"
+    },
+    {
+      "title": "Drugs arrest after drone spotted flying over prison - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWlYOFpyR3JURTF5UzZYeV82bG1mMGhOcFAyeF9YYXlySUVFM0hUdmoxVlVvd19BMFYzNjJfV1p1czlPemJONUNMY0RibGxtYTdLOTdZS1J4Smtrb3hCZmhITExSTXBLclVKdERUSnpxdUg4TC1FMDNOWFpWMU91M29kRG51MGdseUwtQWVaTjluUzc3QlpVeXJhWTZvaTF6Mmc?oc=5",
+      "source": "MSN",
+      "date": "2025-08-26T11:24:33+00:00",
+      "description": "Drugs arrest after drone spotted flying over prison  MSN",
+      "query": "drone prison",
+      "detected_at": "2025-08-26T12:09:24.573382+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "74a75a5dfe21"
+    },
+    {
+      "title": "HMP Garth drugs arrest after drone spotted flying over prison - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OeUZlUGNWdWRDN0ZuTEdLeFJIYWJZR2VfZnlGUVVUU0hWMWp6VzdwSDJxVGJXdEFMU2xMWHBBZmVOWDhndjZIbURRUmtnRTFUR09wRFUxMlZhUdIBX0FVX3lxTE95ZWJsejFhbzM2S1JJeU1aU2NmRjZfUXNRRXNwbEQ4X3pmOTROYVg4T25BTEU0V3ZYcnBmcWtiX21jSE9qSnVwMEgzYm5Sb1dBcjc2aHJ2TGk5OTV0ZjA4?oc=5",
+      "source": "BBC",
+      "date": "2025-08-26T09:26:02+00:00",
+      "description": "HMP Garth drugs arrest after drone spotted flying over prison  BBC",
+      "query": "drone arrest",
+      "detected_at": "2025-08-26T12:09:23.368546+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c3215ea08f9e"
+    },
+    {
+      "title": "Ukrainian combat drone wreckage found in Estonian field - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOU51NXphRzlXaUV3ZDB1M1htZ1M5NjcwWUU2TnhYaWg0eXlNSmVKdGxXdUdFbW85eTFsSGdzRFdTT1RMYWl1MHlzcWkxakRnWkxTU2trYWsyR0RpSVVRX0tuNVpZdUhKanI5a0RVVHJHWEo3ZEdfOFk1R2lhaThnbjVWZmFselY5YWc0RzRMSlVUVFY1eVprcEVvMXVpNEc1enA4MVlZVlZEQmxXc3A4MElqZGhha0k3WTVqeFpicWY?oc=5",
+      "source": "TVP World",
+      "date": "2025-08-26T09:09:00+00:00",
+      "description": "Ukrainian combat drone wreckage found in Estonian field  TVP World",
+      "query": "drone incident",
+      "detected_at": "2025-08-26T12:09:22.641096+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bdb4f5d55985"
+    },
+    {
       "title": "Drugs arrest after drone spotted flying over prison - Yahoo News Canada",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmdWUwVkw2dkV5SkpWTlNXbDdiZWNZS3NueWk1bl93RjVpNmlkcXE2b1VkUC02MERjQmFWTVlEdGFRczBhZFlXY3hiV3FZZWdwTVIxS3k4Tjl0cjM4MVo3OVdwbnp1d0NVcHVTNGVCSHNDME9vbzRoRmNLcWVFemM?oc=5",
       "source": "Yahoo News Canada",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "4e32edc1f030"
-    },
-    {
-      "title": "From Prison to the Front: Ukrainian Women Prisoners Join the Fight - WhoWhatWhy",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYzJiTXNRLTVENDV5RU9HRElPQjZpT2RPc1Y4RllaMldVQURhdmlxRFhPSWd6bDk3RnNseXUweU15MVVqekVwV3RzYjI4empSYU50NzgtOTk5bVI4bWhtLXlfRDNqYkctWkgyWWtFZHRRTjFaNGlqYUJFLVhteWYwRWY5SWNkX2U2SnpCVEg2cFU3eDFTaFUzSmROa3FtZ2psTUlqdENKUWRWdnRCemM4YQ?oc=5",
-      "source": "WhoWhatWhy",
-      "date": "2025-07-15T20:01:35+00:00",
-      "description": "From Prison to the Front: Ukrainian Women Prisoners Join the Fight  WhoWhatWhy",
-      "query": "drone prison",
-      "detected_at": "2025-07-16T06:08:04.509253+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f8dbd483eb55"
-    },
-    {
-      "title": "US drone war: Berlin not absolved of all responsibility - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0xWYm9CZ0RUalUxSVhWS3RZWjRjRkp2YkdTeDRaMXVlOFEwLXRFb3VxSDVyWXRZTHlpNy1sZERUMXZUWm04Q1V2NjRLbGJPVHpIYzZfZ0g1bGRnMDRxRU1FUG5nWDJFRTR4RGVOVU85aFBFMnIxRVd2cGI1clNneEN5eVhyaXFoajl1ZkQwRDHSAZABQVVfeXFMTXNWMm1iX2lST1piOHNVRkk3V3VwMnpwSXYyZ191Znc1WmF3WHg1NHNfbUVOWkRvM01tNll3d3BWUVpCTXNDWXdFVDgzaW1kN1I4WXNTclJkZ3k3MUotbHlOSTZtWnFibWlOeUIxRTNMcDh0NHNZVFpPNExsV0Z3LVZXSzNWSHRVdldjS3k3ejVk?oc=5",
-      "source": "dw.com",
-      "date": "2025-07-15T14:44:41+00:00",
-      "description": "US drone war: Berlin not absolved of all responsibility  dw.com",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-16T02:41:39.085644+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cf1f09986edc"
-    },
-    {
-      "title": "US drone war: Berlin not absolved of all responsibility - DW",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0xWYm9CZ0RUalUxSVhWS3RZWjRjRkp2YkdTeDRaMXVlOFEwLXRFb3VxSDVyWXRZTHlpNy1sZERUMXZUWm04Q1V2NjRLbGJPVHpIYzZfZ0g1bGRnMDRxRU1FUG5nWDJFRTR4RGVOVU85aFBFMnIxRVd2cGI1clNneEN5eVhyaXFoajl1ZkQwRDHSAZABQVVfeXFMTXNWMm1iX2lST1piOHNVRkk3V3VwMnpwSXYyZ191Znc1WmF3WHg1NHNfbUVOWkRvM01tNll3d3BWUVpCTXNDWXdFVDgzaW1kN1I4WXNTclJkZ3k3MUotbHlOSTZtWnFibWlOeUIxRTNMcDh0NHNZVFpPNExsV0Z3LVZXSzNWSHRVdldjS3k3ejVk?oc=5",
-      "source": "DW",
-      "date": "2025-07-15T14:44:41+00:00",
-      "description": "US drone war: Berlin not absolved of all responsibility  DW",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-16T01:34:06.722069+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1c0c1f8f24ab"
-    },
-    {
-      "title": "Pakistani drones back, pushing drugs & guns into India - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjk1dExXenNvRFVLZFVkZ3lYdlhOckJsNmJLeTEyRXhJcnRLTnpPcmE2MXN1UEVlcUxlWHVYd3B4T0tPN2dwQ2ZnZEMtZ2VWWnBnSW8xbmVGenZKaW5KWnc3bjZnOUsyZ05kUXBfemR2Y3Vwc0dTNmFibWhneVV4a3M4LWpEbG9fNFFBU185VlBMc2V3QXoxWXU5WEtYaURmRy1leFJ5WDlXMWNDMHh2OGNBOWtiOFBmRS1z0gHAAUFVX3lxTE5pMGt2UlpORkRocXJYaHlBNVpidHpTQ1YxWHhRQzQwVTJkcmltT0VBeTdlcEp4RS12SGlwSldUVUpsS01hUkJTdkhHYlRjWmVBWG5yeUVYNmRhWVhqM3NqNkZwZ19kWmo1ejRRTlZUR0pXbkdOWTJNSzF0RHQySE9MZlJyTldacWtLWmkxUzA5cllJUDVSVEllSkQzRm9PZWFEaVY5RWN4M3ZKRnBVN3NZNlA3UTFNTmpYSDVXSF9aLQ?oc=5",
-      "source": "Times of India",
-      "date": "2025-07-16T00:24:00+00:00",
-      "description": "Pakistani drones back, pushing drugs & guns into India  Times of India",
-      "query": "drone smuggling",
-      "detected_at": "2025-07-16T01:34:02.992872+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c70c084bdf7d"
     }
   ],
-  "last_updated": "2025-08-26T11:05:21.099020+00:00",
+  "last_updated": "2025-08-26T12:09:29.338352+00:00",
   "total_count": 1000
 }
