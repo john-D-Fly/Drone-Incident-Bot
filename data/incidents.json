@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian drone crashes in Estonia - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0RPV2M3dWZCSXh6Z3ZtVElXdV9yQVQ1Sjg5RlhuQjljYl9jLWFqZjRhOVU2bjhaM3lYSDg2N3hMaDNCWDhFOVJ6YUtfeDhjT2RJblQ5LTdGaXp5N2ZkVnowU09QM2NGdDZHVG9VcTQ4TlFZWWswa2VqMnppZU15Vml3ZDZnYWk3WHc?oc=5",
+      "source": "yahoo.com",
+      "date": "2025-08-26T12:46:32+00:00",
+      "description": "Ukrainian drone crashes in Estonia  yahoo.com",
+      "query": "drone crash",
+      "detected_at": "2025-08-26T15:05:42.731916+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "65b163a2e05f"
+    },
+    {
+      "title": "An Attack Drone Crashed in Estonia. Authorities Claim It Was Ukrainian - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWG9oYTk1endUb3NqMHIzblhncE5KdkNmYVBMc2I1QXp4bXAzUXNXbVFHaGlBaDNCanRla1Z5Ql9tOV9JLU83bEhZVGV5eXFJX19VMldBa0pPQ29kdkZBU0NWdmI2NlQwY1BuWV84aXRuWHNuczNRa1R1d3pxZkxEZFNDSVB1bm1pcl9yM28xb29RTlBZZ0NWVkFnTHJZMWhSeHV3?oc=5",
+      "source": "Мілітарний",
+      "date": "2025-08-26T14:32:08+00:00",
+      "description": "An Attack Drone Crashed in Estonia. Authorities Claim It Was Ukrainian  Мілітарний",
+      "query": "drone incident",
+      "detected_at": "2025-08-26T15:05:39.596542+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4acaee29ee07"
+    },
+    {
       "title": "Southport Air Show full list of banned items including drone law - Yahoo News UK",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zMEdILVctcDhDeHZ0X3I0T2J6TExWblZjMWQwcm8zWEEzX2l2cWJxbWpyTVI1c0s5bU95Y3VEZUozTGNfNFU3YlFOVmdtNU1vemZ6QUF1bnhCM2FXN2JDNDQ1T1E3QU4tN3RtT0lvcmI5dkxQeUk1Xw?oc=5",
       "source": "Yahoo News UK",
@@ -11975,32 +11999,8 @@
       "location": "In New York, Ta",
       "category": "arrest",
       "id": "4d8fd6a4e831"
-    },
-    {
-      "title": "Drone strikes hit three oil fields in Kurdistan Region - Shafaq News - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXljUXFXVjM4V1QxOFlpSVJaT3JMdFd4MTJEMVoxTWQ3NWJWSFZ3YXBQdmQ2UDRiLWFBbVQyc25YZF90RUFkZHM4SGNMbC1lU08xUWFoSWh4cEpXWlJpX2RucmowZ1pmcVlTUnBvR1dyTmQtUFpBcUxnYWdUMUNnLV83YlhfNmxkWjlFb3Zma9IBlAFBVV95cUxQWlh3cVlXWW0xM3hSRVotM0RCZzZNYWxnUlhsTk96Nk5EOGVwbk8tc05JQWp1bVRMR1E0bXYtNVdEMnFBcEhFS0J6RmRzNHZNU2pQcHFmZ2V0enlnVnZBaFZCN2dXeXI5djFWQWE2M3gtWUE3NktvWmpjb3lhX0FhNVFNTU41T1A2QXNscFZKMnptOERF?oc=5",
-      "source": "شفق نيوز",
-      "date": "2025-07-16T05:37:02+00:00",
-      "description": "Drone strikes hit three oil fields in Kurdistan Region - Shafaq News  شفق نيوز",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-16T06:08:07.219166+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "423d0305b4f1"
-    },
-    {
-      "title": "Multiple Drone Attacks Target U.S.-Linked and Norwegian Oil Fields in Kurdistan Region - kurdistan24.net",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3U3NjlXaHl2X2paNFJiN0o5ZjlCZ1lyRW1WME5DcDdFZ0s1YmN1dFFnT3l3UFc1U2xZcVFjM1MxSzZLeFZHN185UnlhdkR1OUdkVjRLYlktV2NpRUkxQkFySjVrWWg5VnpKRURfWGNwMTU0Z2RxU3ZFOEN4U3RmXzVyUGxhclRwVERFVWxRVTdrZEdtLVJGdnpDMXdoVDVFWDNfcVVLcF91Y0JLMWpPb3c4bjZqX2JDcmRXVWxiaDdrWWZYclVJ?oc=5",
-      "source": "kurdistan24.net",
-      "date": "2025-07-15T20:25:52+00:00",
-      "description": "Multiple Drone Attacks Target U.S.-Linked and Norwegian Oil Fields in Kurdistan Region  kurdistan24.net",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-16T06:08:07.219166+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4e32edc1f030"
     }
   ],
-  "last_updated": "2025-08-26T12:09:29.338352+00:00",
+  "last_updated": "2025-08-26T15:05:46.436412+00:00",
   "total_count": 1000
 }
