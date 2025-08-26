@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Suspected Ukrainian drone headed for Russia crashes in Estonia, local police say - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTBQWllLclBveW1kN2plNVk1d0lRWkJSX0ZmZ21Fd2tvLWstMDFuUmtPalhDeXlJSkR0LUI5Q1VKVklEUmQ5QXlxOVZUU0Rnc1Jpb1U5Q1hHYVpXY0NSeTZrSHdiZ2pneTZnNE1majZKOTdQeTJWMEVNV2pOVGlBSUVoMmFHU1J2aW5YSWp2X1NFdll1WFE?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2025-08-26T13:14:26+00:00",
+      "description": "Suspected Ukrainian drone headed for Russia crashes in Estonia, local police say  The Kyiv Independent",
+      "query": "drone crash",
+      "detected_at": "2025-08-26T21:04:37.235637+00:00",
+      "location": "in Estonia, lo",
+      "category": "crash",
+      "id": "e8c4386b36df"
+    },
+    {
+      "title": "Police Drones Assist Firefighting And Robbery Arrest In San Diego County - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUNLYkV6SDNBSHkxeUdqa3E1VVRNTFNsMjRWYlNIZ192V0pYZWw4aFYyTk9hMjlIYWc3bGJkMnpZeXU5Qldmb1FfajU0aGc3b3ZiTGJoM0EzT2ZZYjRqa0FjTVRmUUhqRzVxdjdaQ0VnYkMtRFppc2gxYUN6ME5kNQ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-08-26T20:22:22+00:00",
+      "description": "Police Drones Assist Firefighting And Robbery Arrest In San Diego County  DroneXL.co",
+      "query": "drone arrest",
+      "detected_at": "2025-08-26T21:04:34.829008+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4cda82fbcffc"
+    },
+    {
+      "title": "Police use drone to arrest murder suspect - News Channel 3-12",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVZOcVdFbTVOUW11VktuQXpPNmdQYWUydmlvUU1BZ3FqNGFKSklneU5pVVczXzV5MGs5U3ZMVE9fcUtfTW9UYjJnNEY5MGFwWG5feUx3LVJnRURjMjFKZ213eC00elZBOEJYdVV0bW1iQVdlUXREQk4zRzJDWlp2Tw?oc=5",
+      "source": "News Channel 3-12",
+      "date": "2025-08-26T16:13:13+00:00",
+      "description": "Police use drone to arrest murder suspect  News Channel 3-12",
+      "query": "drone incident",
+      "detected_at": "2025-08-26T21:04:34.176976+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "00952e89a701"
+    },
+    {
       "title": "Man sentenced for flying cell phones, tobacco into Youngstown's private prison - WFMJ.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2tZZ1Y4blZyb0ZRcnZPb3RiZlJjNjFWT1lyZmFXYzRIMHV1V0dxWEhRSXM4WmQ5ZDR1N3ZQSDJ3MmV1RUZnZV9oR1Rud0hPNFQxck9XcGxTcmdSNkd5VllXWXg1SWh6U084WS1qdEZ6NmFIcVI5QVBndWtjaU9MWUNvQ1RXTkFDUWZiUHVINHAyWHJ3Nzd6VklrUjNQYXVTSWh6VVJockNUWGpsaW9oQ29R?oc=5",
       "source": "WFMJ.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c97a489e52d7"
-    },
-    {
-      "title": "Drone caught airdropping contraband into HMP Wandsworth Prison - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUXRHV2htNEIyakd1WkZ2QWRsQ1RIQTlZdVAyZlV3WkxHd1lwdm1BbHVNYlQwQTZkZlJBRk1BU3RxSVFPUjBYNjlNcDk0emlnVEtUaGoyczBCWFlBWjUwa2RyMXl0c1NrM0tmVWs2QXJsbnpoRHI2UzlrRk9YSTg?oc=5",
-      "source": "AOL.com",
-      "date": "2025-07-14T11:54:49+00:00",
-      "description": "Drone caught airdropping contraband into HMP Wandsworth Prison  AOL.com",
-      "query": "drone prison",
-      "detected_at": "2025-07-16T11:05:01.573150+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c5a242fea669"
-    },
-    {
-      "title": "Drone caught airdropping contraband into HMP Wandsworth Prison - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0xlOHhMWVVHMEpBX3p6bDluWWhXd2xSbEVGWjNjb21faGZTZk5BNmhJX1A1eFp3NVVnTm5RMC0wUFJ6NDhFY3hJb3V4T1lOcDRMMEl3em4zNnVFS2MxX0QzZ0ItTzI5ZzRITnNsanFfa1pWR2pYUEFIcmdrUVVwXzliY0NrdVZmdmJrSEJiWlJZLUVlTWc?oc=5",
-      "source": "The Independent",
-      "date": "2025-07-16T09:28:00+00:00",
-      "description": "Drone caught airdropping contraband into HMP Wandsworth Prison  The Independent",
-      "query": "drone prison",
-      "detected_at": "2025-07-16T11:05:01.573150+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ece305499dbe"
-    },
-    {
-      "title": "Washington has for years launched drone strikes targeting suspected Al-Qaeda militants in Yemen - IslanderNews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPS0NzTGJpVlBXQlZiQWhuSFNpQmFuVzkwbnN3eW5WRUpmajV1TFBJa3pHSDJSZGRmR1pCem4yN01aNFhKLW9pZWVjNjAzbjNTd2ZuVm5sRGZ3TUQzdEo2N2QzTnRVeEZmV2s3UGFDNHFwaE5iNjdKZ3AxejNzUE1nRmxhdlJtSDJZdmxWWDFTQlJ5bTYtejViTU1GQnBWVXZFSjZ4czR1MElWVE5ScmgxdEZOQU9sLUlWT1VmdFlPQk1NVUowSGFmRHVndDhtcUpZNkF0V3dKNW9MZmxfX1YwRGxiX1h5SVMzNGZmOF9qenp4Q3JpNUxpcVN3RGNKaFhJN0c5MzJIamJxYVFNM3o5czJOMm8?oc=5",
-      "source": "IslanderNews.com",
-      "date": "2025-07-16T08:03:49+00:00",
-      "description": "Washington has for years launched drone strikes targeting suspected Al-Qaeda militants in Yemen  IslanderNews.com",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-16T10:06:00.240390+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "57ac3cff910b"
     }
   ],
-  "last_updated": "2025-08-26T20:05:48.591183+00:00",
+  "last_updated": "2025-08-26T21:04:40.272183+00:00",
   "total_count": 1000
 }
