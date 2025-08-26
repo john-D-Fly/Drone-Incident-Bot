@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized Drone Use Prohibited Over Fort Riley - KCLY Radio",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVcxa3F0TUlYX3JGWTAtM2JWbzEtV2V0Q2x4R3lFanpmWnp3eDlCR0NhaVhBaTR0WGFqUXJkeWg1aWlpaDAtUkQtQUNyVC1mRTZLc0RvLWRiNDU3OTdqanVfVzN0cklyRWN1bUlpYzlmMV91VGlCdmRfazJCVTVlZ2Y3R1FlLVpsZXc?oc=5",
+      "source": "KCLY Radio",
+      "date": "2025-08-25T21:43:43+00:00",
+      "description": "Unauthorized Drone Use Prohibited Over Fort Riley  KCLY Radio",
+      "query": "unauthorized drone",
+      "detected_at": "2025-08-26T00:22:01.992080+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "99459967024d"
+    },
+    {
       "title": "Drone Crash Near Estonia-Russia Border Sparks Investigation - mezha.net",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2sxaWk4TmJtdXVtWVRFOGVaRks3S2FtSnZlOXVvUVJFbDZWOHZBSld4UFE2Y21lNVpTS1Y3eDZlYTBUWXIyWlZ2SGxWQ1piNGFiUVlIUEM4UlM4anNpRVNsc0ZpdjlTSmtCVjJKUTQzWWlLUnFxUXREMDA2TUdsV2dhVnEwT0M5QUY2aFk3RFBvZw?oc=5",
       "source": "mezha.net",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "5a59937270e4"
-    },
-    {
-      "title": "German high court tosses lawsuit over Ramstein-aided US drone strikes in Yemen - Stars and Stripes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWl1SC1veC1rRnpZNW9IOENJXzNYU0VVblo5TDIyLTd5cVUzNmx6eEUxZ29Sb2pFSWJZejJHa2l2NGVmaWtIMXM2bVpNVWJsaDNNMno2cW9LblNrMnMzV2t5dUc2SDcyaGVCcTlXeldWTS1QZkd0ZzZ0TmRENl9LbEdaQVRkTWwxaGo0Y0liVHJKdGFWeUZnUEg1S3RvT2J0akxuU0FqOFM?oc=5",
-      "source": "Stars and Stripes",
-      "date": "2025-07-15T12:51:31+00:00",
-      "description": "German high court tosses lawsuit over Ramstein-aided US drone strikes in Yemen  Stars and Stripes",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-15T19:05:49.650554+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f5e265e60f3b"
     }
   ],
-  "last_updated": "2025-08-25T22:05:17.469110+00:00",
+  "last_updated": "2025-08-26T00:22:02.548349+00:00",
   "total_count": 1000
 }
