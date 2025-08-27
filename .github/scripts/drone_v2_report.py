@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Drone News V2.1 — reads incident JSON files, asks ChatGPT to cluster/score/summarize,
+Drone News V2.1.1 — reads incident JSON files, asks ChatGPT to cluster/score/summarize,
 then writes:
   - reports/YYYY-MM-DD.md   (human-readable brief incl. 100–200 word summary)
   - reports/YYYY-MM-DD.json (structured output)
@@ -99,6 +99,7 @@ Rules:
 - Prefer precision over verbosity; one sentence per highlight.
 - No duplicate incident IDs in highlights.
 - Output MUST validate the provided JSON Schema (when enforced).
+- STRUCTURE: 'clusters' must be an array of objects (not strings). 'highlights' must be an array of objects with required fields.
 """
 
 # --------------------------- Helpers ---------------------------
@@ -177,6 +178,69 @@ def compute_totals(recent: list[dict]) -> dict:
         "by_query": dict(sorted(by_q.items())),
     }
 
+def sanitize_result_structures(res: dict, incidents_by_id: dict[str, dict]) -> dict:
+    """Normalize clusters/highlights to avoid attribute errors even with malformed model output."""
+    out = dict(res)
+
+    # clusters → list of {topic, rationale, incident_ids}
+    raw_clusters = out.get("clusters", [])
+    norm_clusters = []
+    if isinstance(raw_clusters, list):
+        for cl in raw_clusters:
+            if isinstance(cl, dict):
+                topic = str(cl.get("topic", "(untitled)"))
+                rationale = str(cl.get("rationale", ""))
+                ids = cl.get("incident_ids") or []
+                if not isinstance(ids, (list, tuple)):
+                    ids = []
+                ids = [str(x) for x in ids if isinstance(x, (str, int))]
+                norm_clusters.append({"topic": topic, "rationale": rationale, "incident_ids": ids})
+            elif isinstance(cl, (list, tuple)):
+                ids = [str(x) for x in cl if isinstance(x, (str, int))]
+                norm_clusters.append({"topic": "(unnamed cluster)", "rationale": "", "incident_ids": ids})
+            elif isinstance(cl, str):
+                norm_clusters.append({"topic": cl, "rationale": "", "incident_ids": []})
+    elif isinstance(raw_clusters, dict):
+        # Rare: a mapping of topic->ids
+        for topic, ids in raw_clusters.items():
+            if isinstance(ids, (list, tuple)):
+                ids = [str(x) for x in ids if isinstance(x, (str, int))]
+            else:
+                ids = []
+            norm_clusters.append({"topic": str(topic), "rationale": "", "incident_ids": ids})
+    else:
+        norm_clusters = []
+
+    out["clusters"] = norm_clusters
+
+    # highlights → list of full objects
+    raw_high = out.get("highlights", [])
+    norm_high = []
+    if isinstance(raw_high, list):
+        for h in raw_high:
+            if isinstance(h, dict):
+                hid = str(h.get("id") or "")
+                headline = str(h.get("headline") or incidents_by_id.get(hid, {}).get("title") or "").strip()
+                one = str(h.get("one_sentence") or "").strip()
+                risk = h.get("risk_tags");  risk = risk if isinstance(risk, list) else []
+                countries = h.get("countries"); countries = countries if isinstance(countries, list) else []
+                try:
+                    score = float(h.get("priority_score"))
+                except Exception:
+                    score = 0.5
+                norm_high.append({
+                    "id": hid, "headline": headline, "one_sentence": one,
+                    "risk_tags": risk, "countries": countries, "priority_score": score
+                })
+            elif isinstance(h, str):
+                norm_high.append({
+                    "id": "", "headline": h[:100], "one_sentence": h,
+                    "risk_tags": [], "countries": [], "priority_score": 0.5
+                })
+    out["highlights"] = norm_high
+
+    return out
+
 def fill_missing_fields(result: dict, recent: list[dict], window_hours: int) -> dict:
     """Ensure required fields exist; compute totals if missing to avoid '?' in output."""
     res = dict(result)
@@ -193,13 +257,19 @@ def fill_missing_fields(result: dict, recent: list[dict], window_hours: int) -> 
         if "by_query" not in t or not isinstance(t["by_query"], dict):
             t["by_query"] = compute_totals(recent)["by_query"]
     if "narrative_summary" not in res or not isinstance(res["narrative_summary"], str):
-        # Fallback minimal summary if model omitted it
         res["narrative_summary"] = (
             f"In the past {res['window_hours']} hours, {res['totals']['total_incidents']} drone-related "
             f"incidents were recorded across multiple categories. See clusters and highlights below."
         )
     if "date_utc" not in res or not isinstance(res["date_utc"], str):
         res["date_utc"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    # ensure containers exist
+    if "clusters" not in res or not isinstance(res["clusters"], list):
+        res["clusters"] = []
+    if "highlights" not in res or not isinstance(res["highlights"], list):
+        res["highlights"] = []
+    if "draft_social" not in res or not isinstance(res["draft_social"], dict):
+        res["draft_social"] = {"tweet": "", "linkedin": ""}
     return res
 
 def render_markdown(data: dict, incidents_by_id: dict[str, dict]) -> str:
@@ -215,43 +285,52 @@ def render_markdown(data: dict, incidents_by_id: dict[str, dict]) -> str:
         lines.append(data["narrative_summary"].strip())
         lines.append("")
     # Totals
-    if totals.get("by_category"):
+    if isinstance(totals.get("by_category"), dict) and totals["by_category"]:
         cats = " • ".join(f"{k}: {v}" for k,v in sorted(totals["by_category"].items()))
         lines.append(f"**By category:** {cats}")
-    if totals.get("by_query"):
+    if isinstance(totals.get("by_query"), dict) and totals["by_query"]:
         qtop = sorted(totals["by_query"].items(), key=lambda kv: kv[1], reverse=True)[:5]
         lines.append("**Top queries:** " + ", ".join(f"{k} ({v})" for k,v in qtop))
     lines.append("")
     # Clusters
-    if data.get("clusters"):
+    clusters = data.get("clusters") or []
+    if clusters:
         lines.append("## Clusters")
-        for cl in data["clusters"]:
+        for cl in clusters:
+            if not isinstance(cl, dict):
+                continue
             topic = cl.get("topic","(untitled)")
             rationale = cl.get("rationale","")
             lines.append(f"**{topic}** — {rationale}")
-            for iid in cl.get("incident_ids", [])[:8]:
+            for iid in (cl.get("incident_ids") or [])[:8]:
                 inc = incidents_by_id.get(iid)
-                if not inc: 
+                if not inc:
                     continue
                 lines.append(f"- [{inc.get('title')}]({inc.get('url')}) — {inc.get('source')}")
             lines.append("")
     # Highlights
-    if data.get("highlights"):
+    highlights = data.get("highlights") or []
+    if highlights:
         lines.append("## Highlights")
-        for h in data["highlights"][:10]:
+        for h in highlights[:10]:
+            if not isinstance(h, dict):
+                continue
             inc = incidents_by_id.get(h.get("id"))
             link = inc["url"] if inc else None
             head = h.get("headline","")
             one = h.get("one_sentence","")
             tags = ", ".join(h.get("risk_tags", [])) or "—"
-            score = f"{h.get('priority_score', 0):.2f}"
+            try:
+                score = f"{float(h.get('priority_score', 0)):.2f}"
+            except Exception:
+                score = "0.00"
             if link:
                 lines.append(f"- **[{head}]({link})** — {one} _(score {score}; tags: {tags})_")
             else:
                 lines.append(f"- **{head}** — {one} _(score {score}; tags: {tags})_")
     # Draft social
     ds = data.get("draft_social", {})
-    if ds.get("tweet") or ds.get("linkedin"):
+    if isinstance(ds, dict) and (ds.get("tweet") or ds.get("linkedin")):
         lines.append("\n---\n### Draft social")
         if ds.get("tweet"): lines.append(f"**Tweet**: {ds['tweet']}")
         if ds.get("linkedin"): lines.append(f"**LinkedIn**: {ds['linkedin']}")
@@ -391,6 +470,8 @@ def main():
         json_schema=SCHEMA,
     )
 
+    # Normalize/defend against malformed shapes from older SDK fallback
+    result = sanitize_result_structures(result, by_id)
     # Ensure totals/fields exist so we never print '?' in the markdown.
     result = fill_missing_fields(result, recent, args.window_hours)
 
