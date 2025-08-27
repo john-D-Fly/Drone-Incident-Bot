@@ -3,11 +3,12 @@ name: Drone News V2 — Brief & Insights
 on:
   workflow_dispatch:
   schedule:
-    # 09:00 America/New_York (13:00 UTC) daily
+    # 09:00 America/New_York daily (13:00 UTC)
     - cron: "0 13 * * *"
   push:
     paths:
       - "data/**/*.json"
+      - ".github/scripts/drone_v2_report.py"
 
 permissions:
   contents: write
@@ -17,12 +18,19 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      # Optional: override model (default set in script)
-      # OPENAI_MODEL: o4-mini
       DATA_DIR: data
       OUT_DIR: reports
+      # Override if you like: gpt-4o-mini, gpt-4o, etc.
+      OPENAI_MODEL: gpt-4o-mini
     steps:
       - uses: actions/checkout@v4
+
+      - name: Sanity check repo layout
+        run: |
+          echo "CWD: $(pwd)"
+          ls -la
+          ls -la .github/scripts || true
+          test -f .github/scripts/drone_v2_report.py || { echo "::error file=.github/scripts/drone_v2_report.py::Script missing"; exit 1; }
 
       - uses: actions/setup-python@v5
         with:
@@ -31,15 +39,14 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install openai==1.* orjson python-dateutil
+          pip install --upgrade "openai>=1.51.0,<2" orjson python-dateutil
 
       - name: Generate brief
         run: |
           python .github/scripts/drone_v2_report.py \
             --data-dir "${DATA_DIR}" \
             --out-dir "${OUT_DIR}" \
-            --window-hours 36 \
-            --system-prompt "prompts/system_drone_analyst.md"
+            --window-hours 36
 
       - name: Commit changes (if any)
         run: |
