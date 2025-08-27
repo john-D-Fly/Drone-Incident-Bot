@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Drone News V2 — reads your incident JSON files, asks ChatGPT to cluster/score/summarize,
+Drone News V2.1 — reads incident JSON files, asks ChatGPT to cluster/score/summarize,
 then writes:
-  - reports/YYYY-MM-DD.md   (human-readable brief)
+  - reports/YYYY-MM-DD.md   (human-readable brief incl. 100–200 word summary)
   - reports/YYYY-MM-DD.json (structured output)
 
 ENV:
@@ -10,7 +10,7 @@ ENV:
   - OPENAI_MODEL     (optional; default 'gpt-4o-mini')
 
 CLI:
-  python .github/scripts/drone_v2_report.py --data-dir data --out-dir reports --window-hours 36
+  python .github/scripts/drone_v2_report.py --data-dir data --out-dir reports --window-hours 48 --system-prompt prompts/system_drone_analyst.md
 """
 
 from __future__ import annotations
@@ -20,8 +20,6 @@ from datetime import datetime, timezone, timedelta
 
 import orjson
 from dateutil import parser as dtparse
-
-# OpenAI SDK v1.x
 from openai import OpenAI
 
 # --------------------------- Config ---------------------------
@@ -29,25 +27,14 @@ from openai import OpenAI
 DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 MAX_ITEMS = 120  # cap incidents fed to the model for context control
 
-DEFAULT_SYSTEM_PROMPT = """You are an OSINT analyst focused on drone incidents (smuggling, prison drops, arrests, crashes, terrorism, policy/security).
-Objectives:
-1) Cluster related incidents (same theme or geography).
-2) Produce concise highlights with risk tags (e.g., prison, smuggling, airspace, critical-infrastructure, cross-border, wildfire, military, civilian-casualty, airport-disruption).
-3) Normalize country names if obvious from title/description/source.
-4) Score priority in [0,1] for policy/customer-facing relevance (0=low, 1=high).
-Rules:
-- Be conservative with inferences; if country is unclear, omit it.
-- Prefer precision over verbosity; one sentence per highlight.
-- No duplicate incident IDs in highlights.
-- Output MUST validate the provided JSON Schema (when enforced).
-"""
-
+# JSON Schema with REQUIRED narrative_summary (100–200 words requested in prompt)
 SCHEMA = {
   "type": "object",
   "additionalProperties": False,
   "properties": {
     "date_utc": {"type": "string", "description": "ISO8601 UTC date for the brief"},
     "window_hours": {"type": "integer"},
+    "narrative_summary": {"type": "string", "description": "100–200 word prose summary of patterns over the lookback window"},
     "totals": {
       "type": "object",
       "additionalProperties": False,
@@ -96,8 +83,23 @@ SCHEMA = {
       }
     }
   },
-  "required": ["date_utc","window_hours","totals","clusters","highlights"]
+  "required": ["date_utc","window_hours","narrative_summary","totals","clusters","highlights"]
 }
+
+DEFAULT_SYSTEM_PROMPT = """You are an OSINT analyst focused on drone incidents (smuggling, prison drops, arrests, crashes, terrorism, policy/security).
+
+Objectives:
+1) Write a 100–200 word narrative_summary synthesizing the last N hours (N is provided as window_hours). Cover geographic spread, themes, and notable risks in plain English.
+2) Compute totals by category and query.
+3) Cluster related incidents and label each cluster.
+4) Produce concise highlights with risk tags (e.g., prison, smuggling, airspace, critical-infrastructure, cross-border, wildfire, military, civilian-casualty, airport-disruption) and priority_score in [0,1].
+
+Rules:
+- Be conservative with inferences; if country is unclear, omit it.
+- Prefer precision over verbosity; one sentence per highlight.
+- No duplicate incident IDs in highlights.
+- Output MUST validate the provided JSON Schema (when enforced).
+"""
 
 # --------------------------- Helpers ---------------------------
 
@@ -107,16 +109,11 @@ def ensure_dir(p: Path):
 def strip_json_fences(s: str) -> str:
     t = s.strip()
     if t.startswith("```"):
-        # remove ```json or ``` fences
-        t = t.strip("`")
-        # in case of ```json\n ... \n```
-        t = t.replace("json\n", "", 1) if t.startswith("json\n") else t
-    t = t.strip()
+        t = t.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+    # best-effort: grab outermost JSON braces
     if t.startswith("{") and t.endswith("}"):
         return t
-    # sometimes models prepend text; find first { ... last }
-    first = t.find("{")
-    last = t.rfind("}")
+    first, last = t.find("{"), t.rfind("}")
     return t[first:last+1] if first != -1 and last != -1 else t
 
 def load_incidents(data_dir: Path) -> list[dict]:
@@ -167,12 +164,57 @@ def to_minimal(inc: dict) -> dict:
         "location": inc.get("location"),
     }
 
+def compute_totals(recent: list[dict]) -> dict:
+    by_cat, by_q = {}, {}
+    for r in recent:
+        c = (r.get("category") or "uncategorized").strip() or "uncategorized"
+        q = (r.get("query") or "unknown").strip() or "unknown"
+        by_cat[c] = by_cat.get(c, 0) + 1
+        by_q[q] = by_q.get(q, 0) + 1
+    return {
+        "total_incidents": len(recent),
+        "by_category": dict(sorted(by_cat.items())),
+        "by_query": dict(sorted(by_q.items())),
+    }
+
+def fill_missing_fields(result: dict, recent: list[dict], window_hours: int) -> dict:
+    """Ensure required fields exist; compute totals if missing to avoid '?' in output."""
+    res = dict(result)
+    if "window_hours" not in res or not isinstance(res["window_hours"], int):
+        res["window_hours"] = window_hours
+    if "totals" not in res or not isinstance(res["totals"], dict):
+        res["totals"] = compute_totals(recent)
+    else:
+        t = res["totals"]
+        if "total_incidents" not in t or not isinstance(t["total_incidents"], int):
+            t["total_incidents"] = len(recent)
+        if "by_category" not in t or not isinstance(t["by_category"], dict):
+            t["by_category"] = compute_totals(recent)["by_category"]
+        if "by_query" not in t or not isinstance(t["by_query"], dict):
+            t["by_query"] = compute_totals(recent)["by_query"]
+    if "narrative_summary" not in res or not isinstance(res["narrative_summary"], str):
+        # Fallback minimal summary if model omitted it
+        res["narrative_summary"] = (
+            f"In the past {res['window_hours']} hours, {res['totals']['total_incidents']} drone-related "
+            f"incidents were recorded across multiple categories. See clusters and highlights below."
+        )
+    if "date_utc" not in res or not isinstance(res["date_utc"], str):
+        res["date_utc"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    return res
+
 def render_markdown(data: dict, incidents_by_id: dict[str, dict]) -> str:
     date_str = datetime.now(timezone.utc).strftime("%B %d, %Y")
     totals = data.get("totals", {})
+    total_count = totals.get("total_incidents", len(incidents_by_id))
     lines = []
-    lines.append(f"# Drone News Daily Brief — {date_str}\n")
-    lines.append(f"_Window: last {data.get('window_hours', '?')} hours; {totals.get('total_incidents','?')} incidents._\n")
+    lines.append(f"# Drone News 48h Brief — {date_str}\n")
+    lines.append(f"_Window: last {data.get('window_hours', '?')} hours; {total_count} incidents._\n")
+    # Narrative summary first (100–200 words)
+    if data.get("narrative_summary"):
+        lines.append("## Summary")
+        lines.append(data["narrative_summary"].strip())
+        lines.append("")
+    # Totals
     if totals.get("by_category"):
         cats = " • ".join(f"{k}: {v}" for k,v in sorted(totals["by_category"].items()))
         lines.append(f"**By category:** {cats}")
@@ -180,6 +222,7 @@ def render_markdown(data: dict, incidents_by_id: dict[str, dict]) -> str:
         qtop = sorted(totals["by_query"].items(), key=lambda kv: kv[1], reverse=True)[:5]
         lines.append("**Top queries:** " + ", ".join(f"{k} ({v})" for k,v in qtop))
     lines.append("")
+    # Clusters
     if data.get("clusters"):
         lines.append("## Clusters")
         for cl in data["clusters"]:
@@ -192,6 +235,7 @@ def render_markdown(data: dict, incidents_by_id: dict[str, dict]) -> str:
                     continue
                 lines.append(f"- [{inc.get('title')}]({inc.get('url')}) — {inc.get('source')}")
             lines.append("")
+    # Highlights
     if data.get("highlights"):
         lines.append("## Highlights")
         for h in data["highlights"][:10]:
@@ -205,6 +249,7 @@ def render_markdown(data: dict, incidents_by_id: dict[str, dict]) -> str:
                 lines.append(f"- **[{head}]({link})** — {one} _(score {score}; tags: {tags})_")
             else:
                 lines.append(f"- **{head}** — {one} _(score {score}; tags: {tags})_")
+    # Draft social
     ds = data.get("draft_social", {})
     if ds.get("tweet") or ds.get("linkedin"):
         lines.append("\n---\n### Draft social")
@@ -224,8 +269,7 @@ def call_model_with_fallback(client: OpenAI, model: str, system_prompt: str, use
     try:
         kwargs = {
             "model": model,
-            # 'instructions' is the system-equivalent for Responses API
-            "instructions": system_prompt,
+            "instructions": system_prompt,  # system-equivalent for Responses API
             "input": [
                 {"role": "user", "content": [{"type": "input_text", "text": user_prompt}]}
             ],
@@ -241,7 +285,7 @@ def call_model_with_fallback(client: OpenAI, model: str, system_prompt: str, use
         resp = client.responses.create(**kwargs)
         text = getattr(resp, "output_text", None)
         if not text:
-            # defensive extraction if SDK shape differs
+            # defensive extraction
             try:
                 parts = []
                 for block in getattr(resp, "output", []):
@@ -277,7 +321,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data-dir", required=True, help="Directory containing incident JSON files")
     ap.add_argument("--out-dir", required=True, help="Directory to write reports")
-    ap.add_argument("--window-hours", type=int, default=36)
+    ap.add_argument("--window-hours", type=int, default=48, help="Lookback window in hours (default 48)")
     ap.add_argument("--system-prompt", type=str, default="", help="Optional path to a system prompt .md")
     args = ap.parse_args()
 
@@ -293,10 +337,27 @@ def main():
     cutoff = datetime.now(timezone.utc) - timedelta(hours=args.window_hours)
     recent = [to_minimal(x) for x in all_inc if within_window(x, cutoff)]
     if not recent:
-        print("No recent incidents in window; nothing to do.")
+        # Still write an empty brief for traceability
+        today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        md_path = out_dir / f"{today_utc}.md"
+        json_path = out_dir / f"{today_utc}.json"
+        empty = {
+            "date_utc": today_utc,
+            "window_hours": args.window_hours,
+            "narrative_summary": f"No incidents detected in the last {args.window_hours} hours.",
+            "totals": {"total_incidents": 0, "by_category": {}, "by_query": {}},
+            "clusters": [],
+            "highlights": [],
+            "draft_social": {"tweet": "", "linkedin": ""},
+        }
+        md = render_markdown(empty, {})
+        md_path.write_text(md, encoding="utf-8")
+        with json_path.open("wb") as f:
+            f.write(orjson.dumps(empty, option=orjson.OPT_INDENT_2))
+        print(f"Wrote {md_path} and {json_path}")
         return
 
-    # dedupe & limit
+    # dedupe & limit (already merged; now sort newest first)
     recent.sort(key=lambda r: r.get("detected_at") or r.get("date") or "", reverse=True)
     if len(recent) > MAX_ITEMS:
         recent = recent[:MAX_ITEMS]
@@ -329,6 +390,9 @@ def main():
         user_prompt=user_prompt,
         json_schema=SCHEMA,
     )
+
+    # Ensure totals/fields exist so we never print '?' in the markdown.
+    result = fill_missing_fields(result, recent, args.window_hours)
 
     # Write outputs
     today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
