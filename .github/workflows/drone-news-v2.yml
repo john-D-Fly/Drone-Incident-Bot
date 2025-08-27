@@ -35,7 +35,7 @@ jobs:
 
       - name: Generate brief
         run: |
-          python scripts/drone_v2_report.py \
+          python .github/scripts/drone_v2_report.py \
             --data-dir "${DATA_DIR}" \
             --out-dir "${OUT_DIR}" \
             --window-hours 36 \
