@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized Drone Use Prohibited Over Fort Riley - JC Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVkZQb1prZWdrcjF4WF9EbmZXa0xmcUgxNTFtY3pYWFVVd1pWNnNjcURQd2piWllWVVJGTlRqTGk5elM0d2pjTThqTDRmZFFIaVpUWklMeS1QN1MwcFM4ajU0eTBldk1tazlhWFlR?oc=5",
+      "source": "JC Post",
+      "date": "2025-08-27T14:17:18+00:00",
+      "description": "Unauthorized Drone Use Prohibited Over Fort Riley  JC Post",
+      "query": "unauthorized drone",
+      "detected_at": "2025-08-27T20:05:33.603233+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "08d2473f5b2b"
+    },
+    {
       "title": "Two men sentenced, one pleads guilty after contraband entered FCI McDowell via drone - WCHS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazZMckdGQmd4WHdGUHI0U0lBRkMxajduMlVmOXBTbkVSR0EwaXN3cG1BTW03TldPVm45SVVnZmtjUXd5Ulp1bnI4NVI0YXd0dFBMUXhpd1hsX0FoZEUwVXJUZGdMVml1SlpHNWJKYVZzNTlBOVEzTG1RQkVaSVBXN0tuRThRZGp1RVBlay15SzZEbHoyT3IwS2ZiLVFrbGtXYUhabnVPMDVkdW84WTJYbnlLOA?oc=5",
       "source": "WCHS",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "74340e7fc98b"
-    },
-    {
-      "title": "After Op Sindoor pause, Pakistani smugglers restart dropping drugs by drones deeper into Punjab - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMW5uZUs4bU5OQUR6U19OaUFMb3JqN0pmdXIwMEJGTXI5djdySHVmZWkzMURObThvZlpQRjBkaTliUW03azR1bWxHMGV0ZUdiMlJCTUxRT3l6M1JUZDEzclFMSVNBODFQdWl2NTYzY29hZUZqeVhxalpIZnBudnhKTnJmN0tNZWhMNmhQczJGQ2JTQ1B2RVlUWG1PcVFDcjRpWm5EeDBZRExXdnI0dE9QQUpNYVdpR0VONU5OTGoySnJjV2ItMG12XzZ4eVRtLV9vQlJ2SHR1RXRZcjF0b201N1gxUThxQjRGVUJRZ01GUWRmdDFyMmo2LW92MELSAYICQVVfeXFMTnBGY1JYVEYxb3NPRkZvREkyeWtmRGNyXzVFc1ZvR0ppYVEwMVUzZFRxbWRpWnFFcWpxMUFDNTJ3NTB1YWp5M3R1N2FzNDhKdkhwWXJjUU5fSThrendxaGJPalhOcXRWdDdVLTBIbURiQlVaTE5xSHJjUEdEV3VYM1dDcDlHR0lLUnFjckVrSzhIdTEyc0pwWnhBb1k5TklWN0lHOVFRd09BWnQ2TldJdEliRjlMeldVMk1LSVVzbUNLbUtqS1FBMGRST01IeXJPV19aTXFaRUtpR0JqYUVDM2ktNkV0blh0dmhpRnRoRTg2SXJrTlpqOTJLTmUwQ21pZUt3?oc=5",
-      "source": "The Economic Times",
-      "date": "2025-07-16T10:25:23+00:00",
-      "description": "After Op Sindoor pause, Pakistani smugglers restart dropping drugs by drones deeper into Punjab  The Economic Times",
-      "query": "drone smuggling",
-      "detected_at": "2025-07-16T17:07:04.534965+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e50031697b61"
     }
   ],
-  "last_updated": "2025-08-27T18:07:03.450137+00:00",
+  "last_updated": "2025-08-27T20:05:34.201085+00:00",
   "total_count": 1000
 }
