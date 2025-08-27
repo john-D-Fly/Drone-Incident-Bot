@@ -1,14 +1,15 @@
-name: Drone News V2 — Brief & Insights
+name: Drone News V2.1 — 48h Brief (every 2 days)
 
 on:
   workflow_dispatch:
+  # Run at 09:00 America/New_York (13:00 UTC) every 2 days
   schedule:
-    # 09:00 America/New_York daily (13:00 UTC)
-    - cron: "0 13 * * *"
+    - cron: "0 13 */2 * *"
   push:
     paths:
       - "data/**/*.json"
       - ".github/scripts/drone_v2_report.py"
+      - "prompts/system_drone_analyst.md"
 
 permissions:
   contents: write
@@ -20,7 +21,7 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       DATA_DIR: data
       OUT_DIR: reports
-      # Override if you like: gpt-4o-mini, gpt-4o, etc.
+      # You can switch to gpt-4o for higher quality; -mini is cheaper.
       OPENAI_MODEL: gpt-4o-mini
     steps:
       - uses: actions/checkout@v4
@@ -30,7 +31,9 @@ jobs:
           echo "CWD: $(pwd)"
           ls -la
           ls -la .github/scripts || true
+          ls -la prompts || true
           test -f .github/scripts/drone_v2_report.py || { echo "::error file=.github/scripts/drone_v2_report.py::Script missing"; exit 1; }
+          test -f prompts/system_drone_analyst.md || { echo "::error file=prompts/system_drone_analyst.md::Prompt missing"; exit 1; }
 
       - uses: actions/setup-python@v5
         with:
@@ -41,12 +44,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install --upgrade "openai>=1.51.0,<2" orjson python-dateutil
 
-      - name: Generate brief
+      - name: Generate 48h brief
         run: |
           python .github/scripts/drone_v2_report.py \
             --data-dir "${DATA_DIR}" \
             --out-dir "${OUT_DIR}" \
-            --window-hours 36
+            --window-hours 48 \
+            --system-prompt "prompts/system_drone_analyst.md"
 
       - name: Commit changes (if any)
         run: |
@@ -54,6 +58,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if ! git diff --cached --quiet; then
-            git commit -m "chore: daily drone brief $(date -u +%Y-%m-%d)"
+            git commit -m "chore: 48h drone brief $(date -u +%Y-%m-%d)"
             git push
           fi
