@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Lebanon says Israeli drone explodes after crash, killing two soldiers - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBadUd3MTd3dEZRV1BnZ3RHNjlLdnFjM0s5M3A5ZFdCcENuNXJ2NFJXR25IUThxYkd5WlZqUWszTnZ1YzVBMlZSWEVsQlpCMlZfR24yOUw2VQ?oc=5",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "date": "2025-08-29T03:15:22+00:00",
+      "description": "Lebanon says Israeli drone explodes after crash, killing two soldiers  Bangladesh Sangbad Sangstha (BSS)",
+      "query": "drone incident",
+      "detected_at": "2025-08-29T07:05:30.785334+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9d6601ea6b25"
+    },
+    {
+      "title": "Lebanon says 2 troops killed by Israeli drone that exploded after crashing; IDF voices regret - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVBzYXZGSE9LZDdMUGdFSi11MFlKTXAyMTNtWVljVDk3R0wzRTBYTDIwdllieGlCNUxaWlpHQlItSkRNanlCUDJYQl8tbFJ6M0toNEVVaVVTa01odF9uSXF0NTlFTTBVczBrdmVSaWxQRnZCaU5xaGN1ZkZ4ODJ1ZzZfLVRiV0lrY2FSdFdqcGtoTThKUVkzWmNOMXlOYlFyLS1nWDF2bFFjRkI0clVJ0gG0AUFVX3lxTE5HSUJXUXkzX3owOXA2Q0lVcEZBSGNOOG54UlBSckd2SnVnNXpObU5wS1RBRy1PajBGZldBUDByUVNyaG1XZUo5UXZ1MWhzZ1JCYm02NXk0MnBEN2pMT0VzVDdtUnYtTnVkcHhwbzV6cEdLRGNRUXNVSkVBbGhmWS03bHpRaXNMQ0lEdnd2N05ZMVpXOHAzVlpKWUNSZVF6M1lRTHViM3ZLaVREUk80Z2Rjd3pKLQ?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-08-28T23:15:00+00:00",
+      "description": "Lebanon says 2 troops killed by Israeli drone that exploded after crashing; IDF voices regret  The Times of Israel",
+      "query": "drone incident",
+      "detected_at": "2025-08-29T07:05:30.785334+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6b11d910ef4a"
+    },
+    {
       "title": "Afghan Taliban government accuses Pakistan of deadly drone strikes - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHk1dVdMTE1ERm5obENBOWhWNGhGOW54NkJEOWVsbXNKREVWZlRIQ09uZXVWRWUydDROeXVNcktVVWQwUktEbjZZT2NjdTl5bEtpUWFRWWpGTWk4VkJUbEJoSGliM3ljOVBFVDIzaDRUc2VVWDh1SXRBVVFzRjE5eVUtcmR2elp6dGQxZ1pmbFZ0a1JJQmVjQjJHeU9ETDhVSlE?oc=5",
       "source": "The Straits Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "cefec93d76a3"
-    },
-    {
-      "title": "Drone crashes near Erbil amid wave of attacks on oil sites in Iraq - The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RZTJIWmo1Rm5nWm13aTdZVEQ4a0ZMTGdjY1B3d1hfWUR6cmF4MktpWmlXQzY3UVpuNEFZNlFsQjE0cUhRbHoyTHhqNjRVT2w0eFVGVnJUdw?oc=5",
-      "source": "The Annapurna Express",
-      "date": "2025-07-17T09:54:52+00:00",
-      "description": "Drone crashes near Erbil amid wave of attacks on oil sites in Iraq  The Annapurna Express",
-      "query": "drone crash",
-      "detected_at": "2025-07-17T12:09:17.061762+00:00",
-      "location": "near Erbil amid wave of attacks on oil sites in Iraq",
-      "category": "crash",
-      "id": "5b1608008671"
-    },
-    {
-      "title": "Belarusians were told what to do if they found a drone - Белсат",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlRNWGhqa2RNdXRnQ3ZINWRNakJYUnpaZHZTelVERndBaU1BYXJfMkJjM1dZZEdYcDBRRXp6OGE1V2ppNk5BOFJ0RVhhMUxBQmJOM3QxQTVVVnZTOGhPbUlLQURlenVValVOSmUzTnhDOFVaQXlWZzcwUTV4U1lIQzk0T3dvOHBJNGhVSw?oc=5",
-      "source": "Белсат",
-      "date": "2025-07-17T11:41:00+00:00",
-      "description": "Belarusians were told what to do if they found a drone  Белсат",
-      "query": "drone crash",
-      "detected_at": "2025-07-17T12:09:17.061762+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "580b90872238"
     }
   ],
-  "last_updated": "2025-08-29T01:33:00.950034+00:00",
+  "last_updated": "2025-08-29T07:05:36.499351+00:00",
   "total_count": 1000
 }
