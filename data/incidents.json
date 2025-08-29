@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Two soldiers killed when Israeli drone explodes after crash in Lebanon - Oz Arab Media",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDBCVFNSSk04UHFsdTRBR1RkSE5iUndZYy1OQkl6a0oxVEU2dTFkb2x4Q1hZMUV5eU4zTENteXg2YUZxbTNhc2xta2tDa2VzWjRRU2M4OW1QNVNnNHVna05jcmg3NGNiWlZyVW1ybUdyT1U1THBZTVRWVmFJNFA1em1sZkpEQUxFVW9GcWtzQWRudzdKejMw?oc=5",
+      "source": "Oz Arab Media",
+      "date": "2025-08-29T14:04:50+00:00",
+      "description": "Two soldiers killed when Israeli drone explodes after crash in Lebanon  Oz Arab Media",
+      "query": "drone incident",
+      "detected_at": "2025-08-29T17:04:40.727572+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9dd01c4ec32e"
+    },
+    {
+      "title": "Lebanon says Israeli drone explodes after crash, killing two soldiers - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54b0hXVUlTN0VrVG9TalNhMm9NclY1b0FoWGlKVktobDVoSkltMjFLdkltZUdIZGVYb3Jjbjd0T2tNcXBodEZQOXBYWTJXYTNKdEJiVUxoQ2xsOGdPWEE?oc=5",
+      "source": "Arab News",
+      "date": "2025-08-29T05:51:42+00:00",
+      "description": "Lebanon says Israeli drone explodes after crash, killing two soldiers  Arab News",
+      "query": "drone incident",
+      "detected_at": "2025-08-29T17:04:40.727572+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4cebb7a62ccb"
+    },
+    {
       "title": "Two soldiers killed when Israeli drone explodes after crash in Lebanon - Middle East Eye",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTVvRk9VR1FyeTM4dk9iOHQxdEUtMkY5VDluQ19iZHJNbWN4Q0s5eGZqR2Vfa1MxSjFTQ3pkSEcwSnlkMDZEd285U2dENno1ZG54SDVqbU9FaTdzQzhZWEpTVDJfU3lRMzNUTmc4OWc3RTRMSXQwMHh0dkxyTFJvemZuZWRtRUhZek8zZzlLV0tIMFNHeEpLdEVfMkNQNkhXdnpJeENIblZXbUM5ZEVwWmVYbzQ3Z3M1QlFDWk5aNFJxUQ?oc=5",
       "source": "Middle East Eye",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "51d03ed1b980"
-    },
-    {
-      "title": "DNO Temporarily Halts Oil Production in Kurdistan Following Drone Strikes - kurdistan24.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45S2FrSnJWUGlMRUtrOUNtMS1lY2VhVmpZaEZNWkRvNTdqcXRwVzN2dDhiejBOZHNuMlQtdFZyeDJkeTREYnc0YjcyTTRHU2VUOV9tcFNn?oc=5",
-      "source": "kurdistan24.net",
-      "date": "2025-07-17T12:28:59+00:00",
-      "description": "DNO Temporarily Halts Oil Production in Kurdistan Following Drone Strikes  kurdistan24.net",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-17T16:06:50.351266+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fc553bd0f28a"
-    },
-    {
-      "title": "Pentagon removes drone video after Metallica issues copyright strike - Music Business Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHE0UnR6eS1Za3FzUGhpTE1ud1pHbnJ0cGVVc2tVN2tjZGtSVEVBMU5wd09OclpzMm10TEFvYmRqX1JtM0VqYU4wTzNhMzlScVlTeUd1Mk9WZ0gyYjd0Q0RXRFdabUYwMTlZMUszb3BnQ1NtX1BZRWhVT2xxeXFaclRldUctQXItdm9xcXRsZ01vZEU1MnhUcTdBLWhwMTd5REpSTENjNHpFaGpZ?oc=5",
-      "source": "Music Business Worldwide",
-      "date": "2025-07-16T18:09:58+00:00",
-      "description": "Pentagon removes drone video after Metallica issues copyright strike  Music Business Worldwide",
-      "query": "unauthorized drone",
-      "detected_at": "2025-07-17T15:06:00.737074+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "65c3da16a5d1"
     }
   ],
-  "last_updated": "2025-08-29T15:04:41.175858+00:00",
+  "last_updated": "2025-08-29T17:04:47.059450+00:00",
   "total_count": 1000
 }
