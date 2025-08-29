@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, incidents involving drones have been reported across various regions, notably in Ukraine and Lebanon, highlighting ongoing military conflicts and security concerns. Ukrainian forces continue to launch drone attacks on Russian targets, while the Israeli military has faced scrutiny following drone-related incidents that resulted in civilian deaths in Lebanon. Additionally, law enforcement in the U.S. is utilizing drones for tracking suspects and managing security operations. Reports of drone smuggling activities also emerge, indicating a shift in tactics in illicit trade. Risks associated with drone operations remain significant, prompting discussions on policies and security measures.",
+  "totals": {
+    "crash": 7,
+    "other": 30,
+    "security": 3,
+    "smuggling": 5,
+    "drone terrorism": 15,
+    "drone arrest": 4,
+    "drone incident": 6,
+    "total_incidents": 41,
+    "by_category": {
+      "crash": 7,
+      "other": 26,
+      "security": 4,
+      "smuggling": 4
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 1,
+      "drone incident": 11,
+      "drone prison": 3,
+      "drone security breach": 2,
+      "drone smuggling": 1,
+      "drone terrorism": 17,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "military drone incidents",
+      "rationale": "High frequency of drone-related incidents linked to military operations and conflicts.",
+      "incident_ids": [
+        "82863fcf08cc",
+        "12ee15fd8795",
+        "56963135b90e",
+        "dc71757d6d6f",
+        "c019c9ade901",
+        "be6e6bb32b4e",
+        "9d6601ea6b25"
+      ]
+    },
+    {
+      "topic": "law enforcement drone use",
+      "rationale": "Growing utilization of drones for tracking and monitoring by law enforcement agencies.",
+      "incident_ids": [
+        "d85c79334871",
+        "98dd51f72648",
+        "82d63440cae0"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Increase in incidents involving drones being used for smuggling contraband.",
+      "incident_ids": [
+        "2afbe867f787",
+        "aa65a25ed5b6",
+        "0cb142f868ec"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d85c79334871",
+      "headline": "Deputies use drone to track man who crashed motorcycle and ran from law enforcement",
+      "one_sentence": "Law enforcement employed a drone to locate a man after a motorcycle crash in Spokane County.",
+      "risk_tags": [
+        "law enforcement",
+        "tracking"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "82863fcf08cc",
+      "headline": "Russians strike civilian vehicle with drone - 22-year-old pregnant woman injured",
+      "one_sentence": "A drone strike by Russian forces injured a pregnant woman in a civilian vehicle.",
+      "risk_tags": [
+        "drone terrorism",
+        "civilian casualties"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "12ee15fd8795",
+      "headline": "Lebanon says Israeli drone explodes after crash, killing two soldiers",
+      "one_sentence": "An Israeli drone crash in Lebanon resulted in the deaths of two soldiers.",
+      "risk_tags": [
+        "military incident",
+        "drone crash"
+      ],
+      "countries": [
+        "Lebanon"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "dc71757d6d6f",
+      "headline": "Afghanistan summons Pakistani envoy over military strikes",
+      "one_sentence": "Afghanistan's government has summoned the Pakistani envoy amid allegations of drone strikes.",
+      "risk_tags": [
+        "drone terrorism",
+        "international relations"
+      ],
+      "countries": [
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "82d63440cae0",
+      "headline": "Drone Pilot Sentenced For Unauthorized Flights Over Cape Canaveral",
+      "one_sentence": "A drone pilot received a sentence for illegal flights over a military facility.",
+      "risk_tags": [
+        "unauthorized drone",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight ongoing military clashes and evolving security concerns across various regions.",
+    "linkedin": "A series of drone-related incidents in the last 48 hours underscores the pressing issues of military engagement, law enforcement applications, and emerging security challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-08-29"
+}
