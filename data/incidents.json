@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Laser and drone incidents surge near Tan Son Nhat Airport - Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmxyNVRkdE9BSlhlbzdxdFdFR2RiTlNqc0lqWXBPblQ3TVFlOWYxZjRwN1lhWVJsWldjY05udHUzMkZOYVA3UXJzUC1XTlM5NlBlZ2xURDhkZEJPR2lmWXN0NEVFenRLWllzVXJlTlkwU1NSN2ctOHpNQ2RsbVlRS0gzR2hqVmY3NEgyb1BaMUh4aFg5eW50VjlEOA?oc=5",
+      "source": "Báo VietNamNet",
+      "date": "2025-08-30T08:04:00+00:00",
+      "description": "Laser and drone incidents surge near Tan Son Nhat Airport  Báo VietNamNet",
+      "query": "unauthorized drone",
+      "detected_at": "2025-08-30T09:05:08.360754+00:00",
+      "location": "near Tan Son Nhat Airport",
+      "category": "airport",
+      "id": "e65f588356f0"
+    },
+    {
       "title": "Afghanistan Issues Demarche Over Alleged Pakistani Drone Strikes - The Daily CPEC",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGpYQUYzQlZ3QTVHWjkxY0h5aS1iTWZlSWdZX21WQkhGWHNSMmZsZjc4NUhPdVhDNENQSFJvdHRsZk5BS3ZYUk1FemRQampEVUJweXZielRxcjZ1X01XQ01IdjRwVHdXVENjYVMzdFNaV3pMNWdUN0RYci1rak9oQ1hTNkZmZ1JHRGtwbWZWUjh0QVRa?oc=5",
       "source": "The Daily CPEC",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "119e5785e29f"
-    },
-    {
-      "title": "Jordan army foils drone smuggling attempt - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GeWZhcDNMaUJhQ0lwSzVwMEdHMGt6Z2dPMFloOVRVYmhCMm10LVBJNFNEZlpFdExsOF8xZHFQOHc0MGhMNmI5OQ?oc=5",
-      "source": "Roya News",
-      "date": "2025-07-18T09:26:40+00:00",
-      "description": "Jordan army foils drone smuggling attempt  Roya News",
-      "query": "drone smuggling",
-      "detected_at": "2025-07-18T15:05:38.082786+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9538fe96ea23"
     }
   ],
-  "last_updated": "2025-08-30T07:04:58.201133+00:00",
+  "last_updated": "2025-08-30T09:05:08.926185+00:00",
   "total_count": 1000
 }
