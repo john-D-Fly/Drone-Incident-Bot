@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home - ABC7 San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjUwSUpXNkZmbWxncXN5cjlWLThYdG9wQWN1MnQzSXpaeG9pSWE5c1dTZzk0eFRpTG04bGo0aGQ0WmNTSzZodUp4RzJYYjVPcTMtdHpxOE9MSjNweW1jUDlXa0JUbGZwMGdxY09GUDRvLWN4NEFrY2htLUFPd0s1clZiSW9YMlRQT0o5MTlrM2lFYzk4VE15NUQwdDZHeGZnVGZhSnpLWl9KZmJsdGtiRkhSckZkRDk3NkJLSUctSUgzV0t0Q1ZFMW41YVpUY29TTl9yNkVXOHcydHhP0gHiAUFVX3lxTE4xN2VGQk9DaGVlYjVMSVM4V3FRNWRJMUZ0UXVqNUxIMjFHS3RvQlBiYlExWHN2WHNUX2NBX29HQkNSajFtTzdEWFprakhtX19pbVpFUlFGUjB4ZmFUaHc5ZHc0bkd5cnhsT3ladlI4MjB5SU0zS0NlNjFISmYxazBUSnlGdU5OZDd0ZmFJLUh5RFAzNzRpWmZWblNDbUdMa0lNd2JDRVJlZ3FWdHFJenRvR3pzbXRiSU9YWWJVRWZRNnRzTld6N21IQ0YtSjNGYXJndXpsd0lnRnN0UUNYcDJTVkE?oc=5",
+      "source": "ABC7 San Francisco",
+      "date": "2025-08-31T17:37:30+00:00",
+      "description": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home  ABC7 San Francisco",
+      "query": "drone crash",
+      "detected_at": "2025-08-31T20:05:17.515237+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7b0334235209"
+    },
+    {
       "title": "Ukrainian drone attack causes disruption at Sochi airport - yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjNJaWhhM01JRS04MDVIUTh0RUd3NmtjdDhIbzBFNEg0T2VueXF3TklDQ2lSSENBR1VzdDRnUURrbUJuaU1JS3RPeDhhdXB1bGZEdVFHUzBMWTFjNlFGVnVZeGEtbmlBaWd2TmR5QjdBdUxNMXNxQ2JoZ3JtTERjUTRldlNfMFZPbXpTeGo2em9VaWFjSlE?oc=5",
       "source": "yahoo.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "4309cc25d5c4"
-    },
-    {
-      "title": "Army: Drone Drug Smuggling Attempt Foiled in Southern Region... - jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2R1NlVqRXVaVEJiZnU0amhqMm1DTDVyMkJnTlptdEhaS3F5ZHV1Q3lpRHRPcWZfRGhqYjliQ0c5aGVKdUdaQmR6REpJRXlxVUo1Z3RQLW1iS0pGVDNGbWJrU0VlREk4dWZPb1lfSzJFRnl6dUpRMGUtYmZQQjZYd1Z1UDBJRmxPc0dKTE9ibVZLTUtCWFVma2d3aFh0NkYteGVKRUYwQkttM2Ew?oc=5",
-      "source": "jordannews.jo",
-      "date": "2025-07-19T15:01:03+00:00",
-      "description": "Army: Drone Drug Smuggling Attempt Foiled in Southern Region...  jordannews.jo",
-      "query": "drone smuggling",
-      "detected_at": "2025-07-19T21:04:45.967045+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "6ff1c1530ba4"
     }
   ],
-  "last_updated": "2025-08-31T19:04:29.253800+00:00",
+  "last_updated": "2025-08-31T20:05:20.576260+00:00",
   "total_count": 1000
 }
