@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian drone attack causes disruption at Sochi airport - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjNJaWhhM01JRS04MDVIUTh0RUd3NmtjdDhIbzBFNEg0T2VueXF3TklDQ2lSSENBR1VzdDRnUURrbUJuaU1JS3RPeDhhdXB1bGZEdVFHUzBMWTFjNlFGVnVZeGEtbmlBaWd2TmR5QjdBdUxNMXNxQ2JoZ3JtTERjUTRldlNfMFZPbXpTeGo2em9VaWFjSlE?oc=5",
+      "source": "yahoo.com",
+      "date": "2025-08-31T10:46:05+00:00",
+      "description": "Ukrainian drone attack causes disruption at Sochi airport  yahoo.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-08-31T19:04:25.465434+00:00",
+      "location": "at Sochi airport",
+      "category": "airport",
+      "id": "041d8ed19a9d"
+    },
+    {
       "title": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home - ABC7 San Francisco",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjUwSUpXNkZmbWxncXN5cjlWLThYdG9wQWN1MnQzSXpaeG9pSWE5c1dTZzk0eFRpTG04bGo0aGQ0WmNTSzZodUp4RzJYYjVPcTMtdHpxOE9MSjNweW1jUDlXa0JUbGZwMGdxY09GUDRvLWN4NEFrY2htLUFPd0s1clZiSW9YMlRQT0o5MTlrM2lFYzk4VE15NUQwdDZHeGZnVGZhSnpLWl9KZmJsdGtiRkhSckZkRDk3NkJLSUctSUgzV0t0Q1ZFMW41YVpUY29TTl9yNkVXOHcydHhP0gHiAUFVX3lxTE4xN2VGQk9DaGVlYjVMSVM4V3FRNWRJMUZ0UXVqNUxIMjFHS3RvQlBiYlExWHN2WHNUX2NBX29HQkNSajFtTzdEWFprakhtX19pbVpFUlFGUjB4ZmFUaHc5ZHc0bkd5cnhsT3ladlI4MjB5SU0zS0NlNjFISmYxazBUSnlGdU5OZDd0ZmFJLUh5RFAzNzRpWmZWblNDbUdMa0lNd2JDRVJlZ3FWdHFJenRvR3pzbXRiSU9YWWJVRWZRNnRzTld6N21IQ0YtSjNGYXJndXpsd0lnRnN0UUNYcDJTVkE?oc=5",
       "source": "ABC7 San Francisco",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "6ff1c1530ba4"
-    },
-    {
-      "title": "'Night patrols, gunfire': Panic grips UP village as drones hover over homes; police probe under way - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeUxrMml0d1JNaEZBSWJRVnpiUVpGbEdvRWFmY1EyNDV1WmprUUdPdnpuVWxrdWdWVTIzZFNndlBaYWZ4Z0oxeWp3R21ycTNHSmt4T3UyajZRUllRbGJrWW9aVExPUjhXeGF1Vy1rcG1NU0lwOW15NmoybFNHaURDQnVfVVExSWx0RUhDTF9OZVdnWHVxOTBoZFlCcEpvRkljQjNzYi1RUENRSk80Tkt3dU4xUWR6ZEF6OWRpZmtndGY2eTNOQURQYTVlUHAxWkVGRmg1b3lYVG80MlJZUllhWlNlcmNyRjdaZm9ZMEU1NmtfdG5uQUlfUGpURkxid9IBgwJBVV95cUxOT0NBSnVMZXQwSzlxa1FGVHJHOXl1dTdwLS11NDBkS2pva1laM0ZXQUt4blR1QW81Mm5JVkNnUE1hY3BGdkZRTEFLTWlVVURfa1ZUSzR0WFNEd05JSUc0VlZ6WVdYeVEyd01ZT3pWTUZEa2RVdk1TYUhQV3FjNFhVaWRwUDd2b2RFVXAwbnM5NUJwX1lmWE1ZbFhBaGVUZ3NUX0lQSUZWNHhZU3N0ci1hampIdVZjbVF2XzJrZVRDQUZwcFB6ZjgtRUpRcDRFODhEU3ZHV3FrUTlKQ3kxQjBUblVHeDh5NUJhV09FR2RrQl9SUmRBSTFBd0YxVzhqajl6c0pJ?oc=5",
-      "source": "Times of India",
-      "date": "2025-07-19T02:28:00+00:00",
-      "description": "'Night patrols, gunfire': Panic grips UP village as drones hover over homes; police probe under way  Times of India",
-      "query": "drone incident",
-      "detected_at": "2025-07-19T18:06:34.423902+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "efc26786f254"
     }
   ],
-  "last_updated": "2025-08-31T18:06:25.191277+00:00",
+  "last_updated": "2025-08-31T19:04:29.253800+00:00",
   "total_count": 1000
 }
