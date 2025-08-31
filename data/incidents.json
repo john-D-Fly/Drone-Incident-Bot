@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian drone attack causes disruption at Sochi airport - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51bnFDUUVsUEFwTWctcmFoNnppSjg2SEhfeHRiODlrTjhSTEJYOUZNYVRFMHhKaWUxU2o2V0Z6VHpnam5MaHFGSDJYT1RZYkRuUHpJNnZrMXV3VTRmNE9pRkUwNkzSAXBBVV95cUxPWVVVaU4wODI5M0pUYXZxSGh2ajN2RllfMFRETkxMS2RZUktuaHFPcHdfNnpHdFR1UENpYzU2NGwwVEFnajktSjhuZmhuM1ZYSmZqazM3blR0QXZ3QWU0NXVVbENXTUMwRVhwWG93SUJh?oc=5",
+      "source": "Українська правда",
+      "date": "2025-08-31T10:46:05+00:00",
+      "description": "Ukrainian drone attack causes disruption at Sochi airport  Українська правда",
+      "query": "drone airport disruption",
+      "detected_at": "2025-08-31T12:07:48.272314+00:00",
+      "location": "at Sochi airport",
+      "category": "airport",
+      "id": "43adc16f16b7"
+    },
+    {
       "title": "Ukraine: Russia launched 142 drone strikes overnight - breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0dHYTRLTU9pcUF2d25ST2FWUEZZUEgtSy0xczlfMlVLZ3I1LVJLdjB1emtjQnhYWURkRjlYQmNoTkNxbTVIeWRIY0JaNFJzU3B3N3dURk13akJqYmd0UUg5akNkcVh4OVBBclc4Wl9ReDFfWGdGcEc0R3ZfU1JYbTBJSXlraGd2MkVGSUoxMGtoYnFqd2NQRGZ4NUZPZw?oc=5",
       "source": "breakingthenews.net",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "6e8cdbb50c28"
-    },
-    {
-      "title": "Army: Drone Drug Smuggling Attempt Foiled in Southern Region... - jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2R1NlVqRXVaVEJiZnU0amhqMm1DTDVyMkJnTlptdEhaS3F5ZHV1Q3lpRHRPcWZfRGhqYjliQ0c5aGVKdUdaQmR6REpJRXlxVUo1Z3RQLW1iS0pGVDNGbWJrU0VlREk4dWZPb1lfSzJFRnl6dUpRMGUtYmZQQjZYd1Z1UDBJRmxPc0dKTE9ibVZLTUtCWFVma2d3aFh0NkYteGVKRUYwQkttM2Ew?oc=5",
-      "source": "jordannews.jo",
-      "date": "2025-07-19T14:00:12+00:00",
-      "description": "Army: Drone Drug Smuggling Attempt Foiled in Southern Region...  jordannews.jo",
-      "query": "drone smuggling",
-      "detected_at": "2025-07-19T15:04:55.228605+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1d36b53d54f0"
     }
   ],
-  "last_updated": "2025-08-31T08:06:33.428610+00:00",
+  "last_updated": "2025-08-31T12:07:51.915634+00:00",
   "total_count": 1000
 }
