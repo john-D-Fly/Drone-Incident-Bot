@@ -1,0 +1,162 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable surge in drone-related incidents, particularly centered around smuggling and security concerns. Noteworthy among these are reports of multiple drug smuggling attempts thwarted in Jordan and an operation involving federal prison security in the U.S., where drones were implicated in fentanyl distribution attempts. Additionally, a Ukrainian drone attack disrupted operations at Sochi airport, indicating ongoing tensions in the region. Meanwhile, both Canada and the U.S. reported brief incidences involving drones in surveillance activities, highlighting broader issues of unauthorized surveillance. The environmental impacts from drone incidents were less prominent, with only a few crashes reported.",
+  "totals": {
+    "airport": 1,
+    "other": 5,
+    "crash": 7,
+    "smuggling": 10,
+    "arrest": 5,
+    "total_incidents": 40,
+    "by_category": {
+      "airport": 2,
+      "arrest": 3,
+      "crash": 6,
+      "other": 7,
+      "smuggling": 20,
+      "surveillance": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 6,
+      "drone crash": 2,
+      "drone illegal": 1,
+      "drone incident": 5,
+      "drone prison": 3,
+      "drone smuggling": 16,
+      "drone terrorism": 5,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drug Smuggling and Drones",
+      "rationale": "Multiple incidents of thwarted drug smuggling attempts via drones were reported, especially in Jordan.",
+      "incident_ids": [
+        "1ef91f254e6d",
+        "2893a777cec5",
+        "50efbc430a3a",
+        "d5c7c8c47d59",
+        "4cebb7a62ccb",
+        "140a14864c7b",
+        "9dd01c4ec32e",
+        "72cf11ef7a4b"
+      ]
+    },
+    {
+      "topic": "Security and Surveillance",
+      "rationale": "Various arrests and monitoring involving drones for illicit activities reflect ongoing security concerns.",
+      "incident_ids": [
+        "67121ca52838",
+        "3f4d21a619f4",
+        "46a4a783a536",
+        "8f7a57a4d4cd"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Several incidents of drone crashes with varying impacts were reported, highlighting operational challenges.",
+      "incident_ids": [
+        "4acf071be163",
+        "9dd01c4ec32e",
+        "261eaf4ce018"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "43adc16f16b7",
+      "headline": "Ukrainian drone attack causes disruption at Sochi airport",
+      "one_sentence": "A drone attack from Ukraine caused significant disruption at Sochi airport.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "531b547956b9",
+      "headline": "Ukraine: Russia launched 142 drone strikes overnight",
+      "one_sentence": "Russia's overnight offensive included 142 drone strikes in various locations across Ukraine.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4acf071be163",
+      "headline": "Estonia reports suspected Ukrainian drone crash",
+      "one_sentence": "Authorities in Estonia report a suspected crash of a Ukrainian drone, raising security alerts.",
+      "risk_tags": [
+        "incident"
+      ],
+      "countries": [
+        "Estonia"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "1ef91f254e6d",
+      "headline": "Southern Military Zone Thwarts Drug Smuggling Attempt via Drone",
+      "one_sentence": "Jordan's Southern Military Zone successfully thwarted a drone-based drug smuggling attempt.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Jordan"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "533887a93374",
+      "headline": "Florida Man Indicted for Conspiring to Distribute Fentanyl into Federal Prisons via Drone",
+      "one_sentence": "A Florida man faces serious charges for using drones to smuggle fentanyl into federal prisons.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "67121ca52838",
+      "headline": "Florida man arrested after trying to retrieve drone ‘carrying drugs’",
+      "one_sentence": "A man in Florida was arrested while attempting to recover a drone that crashed with drugs onboard.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "36efc8d839ca",
+      "headline": "Canadian deported from U.S. after admitting to drone spying at Florida Space Force base",
+      "one_sentence": "A Canadian national was deported after confessing to surveillance drone activities at a U.S. military base.",
+      "risk_tags": [
+        "surveillance"
+      ],
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents as drug smuggling operations intensify and security concerns rise globally.",
+    "linkedin": "Recent drone-related incidents reflect escalating drug smuggling operations as well as significant security challenges arising from unauthorized surveillance and military actions."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-08-31"
+}
