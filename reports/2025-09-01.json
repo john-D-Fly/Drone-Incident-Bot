@@ -1,0 +1,137 @@
+{
+  "narrative_summary": "In the past 48 hours, a discernible trend of drone-related incidents has emerged, particularly in Colombia, where dissident groups are ramping up drone attacks and the use of IEDs. Meanwhile, in the United States, authorities reported significant drone-related arrests, including a case involving fentanyl smuggling into prisons via drones. Belgium announced plans to implement autonomous drone monitoring in prisons to enhance security. Notably, drone smuggling incidents have been thwarted in the Southern Military Zone, indicating active law enforcement measures to combat illegal drone usage. As tensions rise in Ukraine, Russian drone strikes have been reported, further emphasizing the international security implications of drone technology.",
+  "totals": {
+    "arrest": 4,
+    "smuggling": 5,
+    "other": 11,
+    "airport": 3,
+    "crash": 5,
+    "security": 1,
+    "total_incidents": 33,
+    "by_category": {
+      "airport": 3,
+      "arrest": 4,
+      "crash": 5,
+      "other": 8,
+      "security": 1,
+      "smuggling": 12
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 4,
+      "drone crash": 3,
+      "drone illegal": 2,
+      "drone incident": 2,
+      "drone prison": 8,
+      "drone smuggling": 4,
+      "drone terrorism": 6,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Attacks in Colombia",
+      "rationale": "Increasing incidents of drone use by dissident groups indicating a growing threat.",
+      "incident_ids": [
+        "51884a01e40d",
+        "9a16b1b50304",
+        "f25e1eb61181"
+      ]
+    },
+    {
+      "topic": "Prison Security Enhancements",
+      "rationale": "Adoption of drones to secure prisons, in response to incidents of drone smuggling.",
+      "incident_ids": [
+        "93f3700f15d1",
+        "0f6994aece35",
+        "b89f0310e6a5"
+      ]
+    },
+    {
+      "topic": "Illegal Smuggling Operations",
+      "rationale": "Multiple reports of drug-related smuggling attempts via drone.",
+      "incident_ids": [
+        "440ebb34c568",
+        "1c648708bea7",
+        "2893a777cec5"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Significant drone crashes resulting in injuries raise safety concerns.",
+      "incident_ids": [
+        "7b0334235209",
+        "0d64d94bdef2",
+        "e09bf7627fee"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "51884a01e40d",
+      "headline": "Colombia on alert as dissident groups ramp up drone attacks",
+      "one_sentence": "Dissident groups in Colombia are intensifying their drone attacks, raising national security concerns.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Colombia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "93f3700f15d1",
+      "headline": "Autonomous drones to start monitoring Belgian prisons",
+      "one_sentence": "Belgian prisons are set to deploy autonomous drones for enhanced security monitoring.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b89f0310e6a5",
+      "headline": "Florida man’s drone flew fentanyl into prisons",
+      "one_sentence": "A Florida man has been charged with using a drone to smuggle fentanyl into federal prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "46a4a783a536",
+      "headline": "Mich. police arrest accused arsonist with help from drone camera",
+      "one_sentence": "Police in Michigan utilized drone camera technology to assist in the arrest of an accused arsonist.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "4e4727efce8d",
+      "headline": "Keelung Port designated drone-restricted zone",
+      "one_sentence": "Keelung Port has been designated a drone-restricted area to address unauthorized drone activities.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone-related incidents on the rise: Colombia faces attacks while US grapples with smuggling and security challenges. #DroneSecurity #OSINT",
+    "linkedin": "Recent drone incidents highlight escalating security challenges across the globe, from attacks in Colombia to innovative solutions in prison monitoring."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-01"
+}
