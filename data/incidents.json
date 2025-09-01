@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Keelung Port designated drone-restricted zone - Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdDlSODA4Qy1MWjlneUk1TmZKLW5QVHJWV3NlUjVWOXFFTWVHOWYyZ0pyNVowSE9EUE9VYW9LUzk1REdQYVBrbzlsUEozbnZDVnp6R2czR2U?oc=5",
+      "source": "Taiwan News",
+      "date": "2025-09-01T07:02:00+00:00",
+      "description": "Keelung Port designated drone-restricted zone  Taiwan News",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-01T08:08:00.050655+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "4e4727efce8d"
+    },
+    {
+      "title": "Ukrainian drone attack causes disruption at Sochi airport - pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51bnFDUUVsUEFwTWctcmFoNnppSjg2SEhfeHRiODlrTjhSTEJYOUZNYVRFMHhKaWUxU2o2V0Z6VHpnam5MaHFGSDJYT1RZYkRuUHpJNnZrMXV3VTRmNE9pRkUwNkzSAXBBVV95cUxPWVVVaU4wODI5M0pUYXZxSGh2ajN2RllfMFRETkxMS2RZUktuaHFPcHdfNnpHdFR1UENpYzU2NGwwVEFnajktSjhuZmhuM1ZYSmZqazM3blR0QXZ3QWU0NXVVbENXTUMwRVhwWG93SUJh?oc=5",
+      "source": "pravda.com.ua",
+      "date": "2025-08-31T10:46:05+00:00",
+      "description": "Ukrainian drone attack causes disruption at Sochi airport  pravda.com.ua",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-01T08:07:56.664901+00:00",
+      "location": "at Sochi airport",
+      "category": "airport",
+      "id": "b6bf5f498b1f"
+    },
+    {
+      "title": "North Korean GPS jamming caused an ROK drone crash last year: Lawmaker - NK News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNy1WMk9PS3dMbFJFTV80NUZOUnptQkpTbzNPWnViYVlBYVZ2b1NGUTV0SHc5Uk9oR3RJSGQwMGNaZ1FIRFJqc2c3SkVBUV9OekVsVlpLdTFCR1hFNlZZOHpvX3pTNF81ZzZ1c0pjSWhQZlVRUGxObWFnNUN4cUtmbUpnS0NGNERVbUxfUGpLUE8xUDM5eThnTnYySXppa3B2U09V?oc=5",
+      "source": "NK News",
+      "date": "2025-09-01T08:03:34+00:00",
+      "description": "North Korean GPS jamming caused an ROK drone crash last year: Lawmaker  NK News",
+      "query": "drone incident",
+      "detected_at": "2025-09-01T08:07:53.989746+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4c774fbd52ec"
+    },
+    {
       "title": "Spokane standoff ends with arrest, suspect damages drone - FOX 28 Spokane",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3ROelJmSjhpNlIxUFJMQi0wTFAxa01zeEo1OFl0YTh0YXNQRFBIY2tDVmdBQ0MzeElLRzU1X0hqQWlCbnVUZ3dmRThsV3RIVmZvZ29GVU1uc3AzdEZTNktWWEU0UWk3X3NMb2M1Z2dDVnJ1aHpRZ0VidGxEWXY0X28tdkt1cjV2Z3RDb2xn?oc=5",
       "source": "FOX 28 Spokane",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "8fc03cc4b5f0"
-    },
-    {
-      "title": "South Korean prosecutors seek drone chief arrest over operation in North Korea By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmlFeGtnay1kRDEwbE1XRWNEV0R4eDZ2RWZVTEhwRGFLLWNqTWNVT1lZYzZIemxjTC13YzhqQi1rLVZ3cmkwZkhpYXc1TUFLZ0dVdTVkZ2ZBT3VDUXJTekJ4dUM1VXRjcGRfSW9oMjFJUmVqcE9jbWtCajktc29fcHhEZXVPSkdYWUZzc3VEN0dYSHNEUjRUN0lVU091eUhGX1BLTGZTTU1WOE1FajNkZ2huVEJPUElHMmdhRlVIWTh4RnV6czF3?oc=5",
-      "source": "Investing.com",
-      "date": "2025-07-20T07:51:40+00:00",
-      "description": "South Korean prosecutors seek drone chief arrest over operation in North Korea By Reuters  Investing.com",
-      "query": "drone arrest",
-      "detected_at": "2025-07-20T08:06:31.742433+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "3a9027026b23"
-    },
-    {
-      "title": "Menace in the sky: UP villagers chase drones with sticks & stones - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSHZ0MG1XQ3BjaGtRWmVZakxveEVfVllzeXBCdWdzR016UmJURl93c1NaLWZ6MnBfQzlqR2lGSzV3dTZ2RkxISDhpTGVLNG9IeDE2NzF0SG1UMlpKcjJudGVpVWNBendCZVpXa1lkLWtfNHNDemJiRXViSFZ5d0UxaWJJWUFtY3lTdHVVVU1TT2ZZdVFiX0hwaUhHd2l4QlJyelpCOEJNbmRpUGdIMENuNGRfTy1YMGhyTTdHOHl2ZWdmQjk4dkRuVmJIdVZqWWxrczFOVDM2Qk9haGd2OVNvQXp5ZmZ4RXJRZTBuSVB5aC1ybmk4T2JrdTRxUdIBgAJBVV95cUxNRW1IblF6dXQ5SWNPTUZjVmswSnY2X3dDWE5ubkdBVXhhdkNNLUo5XzdPc21kNVVBRnNOY0x2b2V3a0JSdnktX21BWkcxUkJBQUpzVWdlZVd4cmYxQW5uUURteHBNNlJMLV8ydy1DcHpGYmdDNFFjX2RyLWVkZEQ3cDN4X0VpSzRzSDV1Vk1zU3VaSURLYjhVMjdEZFVuTENxNXp2X1pwa3dfLW5UeXdtcFp5SGRJRWgwTnJNOUhKVUt5eTFHNmdHMGlaSU9qYTVzZE1KSlNENkFnVmhrT1ktTVQ2OHFxUW5yaVhyOHA0U1pidFVZaGFnVU9OTGRtTUdT?oc=5",
-      "source": "The Times of India",
-      "date": "2025-07-20T04:10:00+00:00",
-      "description": "Menace in the sky: UP villagers chase drones with sticks & stones  The Times of India",
-      "query": "drone prison",
-      "detected_at": "2025-07-20T07:05:12.146909+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e8e2e60e4557"
-    },
-    {
-      "title": "Metallica Force U.S. Government to Pull Drone Video Featuring Unauthorized Use of Classic Song - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQeXJpSUpGTFZ0aTgxMTRyZ1NtRFlLTTFfUm1kbnNldnBRQVByaXZ2UkRUYU01U2YyWlZNOTVoNW5DMmRqcC14SXhHaXQ1cXJ4UnZLRFZULTVYUU5INjJSU0c2eXVmNjNMR05xbU9SVE9yN0RIaU1pUVdoREtJVXhKU1J4TU9tVVVOZmVOQmJMeWdRNzU1dGd6SzdKX1Nua2xWVi1zWXZjTE5sVUttZE4zVXZ6bTZWRkM5NGJPNUR4aGhfSFVMSTJFZWpMeFE2X2s3aXkzWS1fUXMzaFZkWWZkT1ZfakFzYUVJTEkyb0FxdTlkaVZYSEVxdlJ2V2ptR1dMX2tkbERWNlh5MEx0Sm5lYmlrZXVSQUVCcXBUcG8tTjdsUmJ5RnNYMkpnNDNYUk04X2E5U3JCRmNNOEdoREFpN3ZkR2k2dEJfekRXS2VYWVhvaU5SWmVBWno3OHFWcmlzQ2s4QWZtZnBlUXJTRnc?oc=5",
-      "source": "MSN",
-      "date": "2025-07-19T10:45:30+00:00",
-      "description": "Metallica Force U.S. Government to Pull Drone Video Featuring Unauthorized Use of Classic Song  MSN",
-      "query": "unauthorized drone",
-      "detected_at": "2025-07-20T04:20:40.124808+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "8e67003a12b6"
     }
   ],
-  "last_updated": "2025-09-01T04:11:37.273365+00:00",
+  "last_updated": "2025-09-01T08:08:00.686762+00:00",
   "total_count": 1000
 }
