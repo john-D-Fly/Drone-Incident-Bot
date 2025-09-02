@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Miami police officer arrested, accused of firing gun during domestic violence incident - WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLW4wdTUxanlweTFlYm1abklwT1F6RkZ5YzRlalhMbVlqZmgtcUNLbjRpV3BLa1ZWMXFWcmV4OUV5TmpWbElpZ3FQeEw0UXB5WEMyLTF2UVpaNXFBVldwWWxnMWxQQ0pGM2o2MWR5Z3daVF92QVdEQzBoV3JObFZRQ0Vvelk3dkdoTktsTFJzZ3VQOXh6ZlFONDFCLXVlSUZNNDdxOVBFUDJiVnVQX01KNGt2YUNHcTBLM0dIelJCZ212eDNCcWFoSWdJY0s?oc=5",
+      "source": "WPLG Local 10",
+      "date": "2025-09-01T18:37:43+00:00",
+      "description": "Miami police officer arrested, accused of firing gun during domestic violence incident  WPLG Local 10",
+      "query": "drone arrest",
+      "detected_at": "2025-09-02T18:05:55.213775+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c4254719e326"
+    },
+    {
+      "title": "Florida man arrested after trying to retrieve drone ‘carrying drugs’ which he crashed into house - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T2JHZ3JHN0prdlRwYjFvaERsSHN4ZHNRU3UydE1fQnV2Q1VLWjJ0b1ozSnd0b093UDJlbWpDXzJTZTJ2UlJBMnQyT1lUYjdFa1dCSU10cnpNSlZSMHAyUElSQ1FCaG0tLVA5emY4R0V1ZHNJWVNOcXZ5aw?oc=5",
+      "source": "AOL.com",
+      "date": "2025-09-02T11:43:01+00:00",
+      "description": "Florida man arrested after trying to retrieve drone ‘carrying drugs’ which he crashed into house  AOL.com",
+      "query": "drone arrest",
+      "detected_at": "2025-09-02T18:05:55.213775+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9b3fc654703c"
+    },
+    {
       "title": "Coast Guard to get first MQ-9 drones - Army Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekplcDV1REtpWWxWYWVvRGJ0S0JUQi1QbmQxRFFuMEpYMC1NS0hlWmdldGNnMVdmbExkbFpBU0FrMy00aHpheXNrbGp3T1dvX0tzUTFtN0p2TzNEUUsyVXBWNy1leW1xanFLc2NDLTVfM0Qzbk9obUFWa3QwdXJsTUhieFJNZ0pDcl85dVVQeFg4OTM0d0djZ25mWHUwdw?oc=5",
       "source": "Army Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "a6e3482404be"
-    },
-    {
-      "title": "South Korean prosecutors seek drone chief's arrest over operation in North - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTJPdVJZeG80QmctZHpobUtWY184VzYxNVNUN0Y1b0NjT0NIcFZlcGZtcm9pTW1nV2NfSm5adFlmNkxMU3M3S3NPejZKamxIa1hEOE5ibHJzUTRaOFJ6QkxMOU9wdndBUWRmb2hDTGlyZWV6cjJaS1RrcndBdzdDYTNtcw?oc=5",
-      "source": "yahoo.com",
-      "date": "2025-07-20T07:46:59+00:00",
-      "description": "South Korean prosecutors seek drone chief's arrest over operation in North  yahoo.com",
-      "query": "drone arrest",
-      "detected_at": "2025-07-20T23:05:26.711717+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "71ef96f72b79"
-    },
-    {
-      "title": "It's official - undercover drones are now ticketing from the sky for illegal fireworks in California and fines are up to $100,000 - Unión Rayo",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUZqQVZ1M2FjUzBBb2E3bVVYRExWcUNvdGt4WlA4ekt5TWV6Skd1Ui0xN0VkNGQ0V09HUmRrdGpFXzJEWEMyTG1wSWt3ZVJMQWRqV3R5Mkd2ZG11TXFNODFEalV2WEpQVDhVT05YZ1FIb18tTEhMTDZQRlZvN0FRMw?oc=5",
-      "source": "Unión Rayo",
-      "date": "2025-07-20T18:00:04+00:00",
-      "description": "It's official - undercover drones are now ticketing from the sky for illegal fireworks in California and fines are up to $100,000  Unión Rayo",
-      "query": "drone illegal",
-      "detected_at": "2025-07-20T22:05:08.026304+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bf6978ccc4d7"
     }
   ],
-  "last_updated": "2025-09-02T17:04:54.069756+00:00",
+  "last_updated": "2025-09-02T18:06:01.383897+00:00",
   "total_count": 1000
 }
