@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian Strike Drone Enters Ukraine via Belarus - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcDBBd1NHYzAtRHFhWHN1SERQQ1ZOc0NUYVh6RFg2YUNoMkN4dzdVMUcycWQyOUdERHZDQzlYTGh2YTllN0NUc0dQX2NaMlo2VG0zeExZekJiMHhUZmNOVTdlX0FjdHk1cmRndFJkd1N3NHB2Vl84YTRzelFGWnFPcmptUTVxZw?oc=5",
+      "source": "Мілітарний",
+      "date": "2025-09-02T11:04:40+00:00",
+      "description": "Russian Strike Drone Enters Ukraine via Belarus  Мілітарний",
+      "query": "drone crash",
+      "detected_at": "2025-09-02T12:09:29.420872+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c2fe26161ffa"
+    },
+    {
+      "title": "Inter-State Drug Syndicate Busted: Drones, Heroin & Cross-Border Smuggling Uncovered - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWJnMm9oUGd5X3ZMa1QxYzg2aFpITU9xbDFDelZtcl9ubVJDdjhoWm1yeGxnd0laRGZTcWdPektRSXZ6bnhsWDYtOEEtRkFiSkU2cUROUWxYczJZS1dGUzhKRVlBN3JXb2lzc2t6bWhGaTBkMHVJYnNTX3g4ZmthbEYtN0hfRFp3LW53S0EtcFVxTDlSNUhKY1BlV0c5eEd5OTNqX09QQ21xVWlHRm4wWEpOazBVbzlwNXA4c3kzQmRiN0xKZW1OSjg5eWFGMjZT0gHWAUFVX3lxTE13VUlVY05LV3pWdlRrUS1icUxmX0JKT3hfYTFqS005UXV3eTc2RnI2bmUyMWdSaFlIM0laaWhIdlo1ZWR0eW1PazZMblVtYnBwbTYtaFFvWmp5NFdibTJkcnFjWjVxU2ZMLUgzR294X2RlYjloc1QwQ1FOemV1R29ETnR5ajNnZTYwejVaWUczYXBydEhkenlCV1Z4a0NrRlUzdTZVdjhTc2k0LUh5UmtvajdRZDcxOWRaSkxZTkNuZ1lKb0d5TnRNM2dfNTBUNmxEUV9jbGc?oc=5",
+      "source": "Devdiscourse",
+      "date": "2025-09-02T11:48:35+00:00",
+      "description": "Inter-State Drug Syndicate Busted: Drones, Heroin & Cross-Border Smuggling Uncovered  Devdiscourse",
+      "query": "drone smuggling",
+      "detected_at": "2025-09-02T12:09:27.701590+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d6a4878f2462"
+    },
+    {
       "title": "Drone owners reminded of rules after Armitage incident - Lichfield Live",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODBwZU8ySXByMDB6blF0MlpXaTM3d1NyMkJwbHZJSUhzSGF6UHBGSi1pWGNjNFhtQXFxQklmVjJlV1RKMjNhZHM3Rlo3VlFLQWZJSlhnNUg4N0JDcVZoSEJoeTFnMGlPTlFQSklKYktLTXgyV3FyQWZFRWk0LUFTRWVVWERxRGFvejloQXBHM3NlN2JMdFMyN3B3?oc=5",
       "source": "Lichfield Live",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "3c08c683e520"
-    },
-    {
-      "title": "Air and rail routes closed in Moscow due to drone attacks - Zamin.uz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGZPQ1h6aUl2VUxZR1VmT0NuZWxzczNYUkREN0ZoQnZnVER0VkxCTWJFSEJmRDlETkZiaUl5T29aOUp0SUxpMVkzUUlPQjhJM3BXVS13WXRrb3FOa3hOQlV2ZGhFbFNraFREMElqSzQwSmFHblhFcnRMajBjSWlrdFR6MF9IenZsTnF4TGllcy1oODVzT2ZvTk5HQQ?oc=5",
-      "source": "Zamin.uz",
-      "date": "2025-07-20T16:57:00+00:00",
-      "description": "Air and rail routes closed in Moscow due to drone attacks  Zamin.uz",
-      "query": "drone incident",
-      "detected_at": "2025-07-20T18:06:34.890035+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2986588d62c1"
-    },
-    {
-      "title": "Moscow airports temporarily closed after Ukraine drone attacks - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpWEdhdWNoa1lVaVBiNjJqbFhYZ1ZaMXlydmFSRVJxLVBHOTBCY3JxbEIyUWotM0RSOE9tdDU5TDZOYWdsaVdFeU9uNjFSc0tPZ01Wa211WXNSSFJO0gFiQVVfeXFMT0VRS0pJN1pxWXNhRDI4aVpVaWQySXlPY1JTTlkwcjVObFhxQVN4eDF2cno1eExxWHZhTWVKazhCenlLdTJRdjRyZHJ6NkNRMXN2TUxuMmpMamVwME1WYXd5cmc?oc=5",
-      "source": "BBC",
-      "date": "2025-07-20T14:06:03+00:00",
-      "description": "Moscow airports temporarily closed after Ukraine drone attacks  BBC",
-      "query": "drone airport disruption",
-      "detected_at": "2025-07-20T16:05:42.250014+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "49ae6c2ccf41"
     }
   ],
-  "last_updated": "2025-09-02T08:07:32.014286+00:00",
+  "last_updated": "2025-09-02T12:09:32.387106+00:00",
   "total_count": 1000
 }
