@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Maryland Stadium Authority deploying drones for Ravens game traffic - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFljWmRheXVVdjVDbDJ4UEcwQjBsaTFzUzlPblJYemlZd1U1RUozS2VLQUZSZTdnazBISzlaMmFnYW9YY2VieFZfRDVvcGFrZUlpMUtyRXBxY0kxY1Q1S3gwUl83SzhITnJxTnpoaTV3dkNzV3F3VnNHMDltYTF3U2dpZmJCTjg?oc=5",
+      "source": "Baltimore Sun",
+      "date": "2025-09-02T20:12:21+00:00",
+      "description": "Maryland Stadium Authority deploying drones for Ravens game traffic  Baltimore Sun",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-02T21:04:38.865226+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ae495d0ee6eb"
+    },
+    {
       "title": "Pakistani Drone-Based Narcotics Module Busted in Kathua; 4 Smugglers Arrested - The Sunday Guardian",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0xjbUFPYmt1bVRXSmJHSThfYTNYaGVIamRaOGZvclB1REVpUlg1N2RfVTdfaUJadDdQWkNWOHBKTEZ3b1JwcmVsVHVoLXNKdkhGSU5vbklfLVpPT1BDblZzMDJWdnBPZG8yN1lIM0FlSmFmOE1sV0RmVmRnODlpd1h0U2RCbElmRkRMVXhsU1NsZGhFT0NCWDlXWEZHcEw3ckNYRGtOc0RETkNSdmxRenloTEd6cGI5YkdMOA?oc=5",
       "source": "The Sunday Guardian",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "ee1613e09715"
-    },
-    {
-      "title": "Waterfront drone show under review after two crashes - BayToday.ca",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTAwb3J3Z1JFMUNBbS1HakQyVlp0dEstRVpoYTJqMjFRRW9PZEh3WUdGZ2FLYkdiSUlHTDdHcU8wYVNXS3prd0xBbkxsVm91ejN0RllzYjRQVlJtc1BaOG4xVVFfMzlHa0RaTWY2WVk2bW04R0c2aENYVmJrWGR5TThCZEdVTllVZER0RDVxcV9ZUndOUF9aUkcxWlc?oc=5",
-      "source": "BayToday.ca",
-      "date": "2025-07-20T18:00:46+00:00",
-      "description": "Waterfront drone show under review after two crashes  BayToday.ca",
-      "query": "drone incident",
-      "detected_at": "2025-07-21T00:26:08.702474+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d1af65774a87"
     }
   ],
-  "last_updated": "2025-09-02T19:04:39.761600+00:00",
+  "last_updated": "2025-09-02T21:04:39.418865+00:00",
   "total_count": 1000
 }
