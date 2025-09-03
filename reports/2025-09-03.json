@@ -1,0 +1,182 @@
+{
+  "narrative_summary": "Over the last 48 hours, drone-related incidents have spanned various themes, with significant cases of smuggling and security breaches highlighting ongoing trends. Reports show that drones have been utilized in several prison smuggling operations, notably involving drugs and weapons hidden in food cartons. Both Florida and the UK feature high-profile arrests related to such activities. Simultaneously, geopolitical tensions are evident, as Pakistan's use of drones by militant groups has become a concern, alongside Russian military drone strikes affecting Ukraine. Additionally, unauthorized drone flights pose risks at international airports, causing flight delays, including incidents near Vilnius. Meanwhile, a drone crash sparked a fire in Russia, further emphasizing safety risks associated with drone operations. The period reflects a diverse range of drone incidents, raising critical discussions around policies for drone regulation and security.",
+  "totals": {
+    "terrorism": 4,
+    "smuggling": 9,
+    "arrest": 6,
+    "crash": 7,
+    "security": 2,
+    "other": 10,
+    "drone terrorism": 2,
+    "drone prison": 4,
+    "drone smuggling": 6,
+    "drone arrest": 6,
+    "unauthorized drone": 2,
+    "drone crash": 5,
+    "drone incident": 6,
+    "drone airport disruption": 2,
+    "drone illegal": 3,
+    "total_incidents": 44,
+    "by_category": {
+      "airport": 2,
+      "arrest": 6,
+      "crash": 7,
+      "other": 13,
+      "security": 1,
+      "smuggling": 13,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 7,
+      "drone crash": 5,
+      "drone illegal": 3,
+      "drone incident": 7,
+      "drone prison": 6,
+      "drone smuggling": 8,
+      "drone terrorism": 5,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Multiple incidents reported involving drones used to deliver contraband into prisons.",
+      "incident_ids": [
+        "9f68b85b8ef7",
+        "6b84efc3ad22",
+        "6cf1505f737d",
+        "6d56ccb137c0",
+        "e9ab77b6b84f",
+        "737975562dfb"
+      ]
+    },
+    {
+      "topic": "International Security",
+      "rationale": "Drones being used in conflict zones and similarly unauthorized areas highlight security concerns.",
+      "incident_ids": [
+        "7cc892d6bd4f",
+        "5012dbcda8b8",
+        "fa579e0bb45b",
+        "f2f9a355d611",
+        "20374e462672",
+        "d7751ae40acb"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9f68b85b8ef7",
+      "headline": "Mango Rubicon and Almond Milk cartons used to hide drugs and knives in prison smuggling drone ops",
+      "one_sentence": "Drone operations are being exploited to smuggle drugs and weapons into prisons using items like Mango Rubicon and almond milk cartons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6b84efc3ad22",
+      "headline": "Drugs and knives sent by drone into jails inside almond milk cartons",
+      "one_sentence": "A similar smuggling operation has been reported where drones delivered drugs and knives hidden in almond milk cartons to prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "7cc892d6bd4f",
+      "headline": "Quadcopters have become the Taliban’s new weapon",
+      "one_sentence": "The use of drones by the Taliban poses a significant security threat as reported by analysts.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "13603c060c0e",
+      "headline": "Police arrest 13 in hostage protests, protesters burn cars",
+      "one_sentence": "In protests involving hostage situations, police arrested multiple individuals while drones were reported around the area.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e819a22d7033",
+      "headline": "Airplane with Lithuanian president failed to land on time due to an advertising drone",
+      "one_sentence": "An advertising drone delayed the arrival of the Lithuanian president’s airplane at the airport.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Lithuania"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "3d59bb14a83f",
+      "headline": "Unauthorized Drones Over Military Bases Prohibited",
+      "one_sentence": "New regulations have been implemented to prohibit unauthorized drone flights over military installations.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "11c6d3fc12c7",
+      "headline": "Drone crash causes 26 train delays in Russia’s Rostov region",
+      "one_sentence": "A drone crash in Rostov led to significant train delays, showcasing infrastructural vulnerabilities.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "145d0685da4b",
+      "headline": "Drone Crash Causes Train Delays in Russia's Rostov Region",
+      "one_sentence": "Another drone incident in Rostov caused major delays for local train services due to crash.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "c4254719e326",
+      "headline": "Miami police officer arrested, accused of firing gun during domestic violence incident",
+      "one_sentence": "An officer was arrested in Miami amidst growing concerns over drone operations being used to monitor illicit activities.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9b3fc654703c",
+      "headline": "Florida man arrested after trying to retrieve drone ‘carrying drugs’ which he crashed into house",
+      "one_sentence": "A Floridian faces arrest after a failed attempt to recover a crashed drone believed to be transporting drugs.",
+      "risk_tags": [
+        "arrest",
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents shed light on escalating smuggling and security concerns worldwide, with several arrests and significant operational trends. #DroneIncidents #OSINT",
+    "linkedin": "The latest drone incidents reveal emerging threats in smuggling and security, underscoring the need for robust regulatory frameworks."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-03"
+}
