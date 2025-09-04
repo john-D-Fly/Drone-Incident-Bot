@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Explosive drone plot to assassinate Itamar Ben-Gvir exposed - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xajJ2dGdqTkVESkVZRWp5OHJQQ2NFaktVTDJjN1hUWUVycjJMLXRqQjB5N1UxS0IwdEUxWHY3TXQxeDQ1SldzUWZiOVg5TWxxanZkN3ZSYkt5cmhf?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-04T14:40:31+00:00",
+      "description": "Explosive drone plot to assassinate Itamar Ben-Gvir exposed  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-04T19:04:45.612411+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "663ba09b741c"
+    },
+    {
+      "title": "Drone footage shows wreckage of Lisbon's funicular crash - PressTV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFdnVXlnd2h6UUJVMDEtWnh3VTQyemhXeC1RVTdjN3p3dEFpdjVfYkdCOE5USmd4NnpkN0hRcGZvNW1aNmdyS3FpX2xlMFRELUxqclJSMTNTd21sdjBjYzdvRlZTTUlrQWdXQXZjSWkxR0ZwNHptV0Fzb01TNWtyUW9BNVR6QXcyX1E2SDMwN3o1bTF4Q0I5SHZTVTAyX25vZ05jRWZodw?oc=5",
+      "source": "PressTV",
+      "date": "2025-09-04T18:19:00+00:00",
+      "description": "Drone footage shows wreckage of Lisbon's funicular crash  PressTV",
+      "query": "drone crash",
+      "detected_at": "2025-09-04T19:04:43.444553+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "272cea2530a3"
+    },
+    {
       "title": "Poland Scrambles Fighter Jets As Russia Launches Long-Range Strikes - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOakJRREhNLWpyTVlzZUR0YzQyamw0Qzg1ZjU5Rl96VXBCS3NnbmhKVVUyekdhYzJKaHB1MlRrT3FHZnlUTjRWQlU1QUdGYk5GTHpPWDZJdDl4b0JRNFRxZmFfNGNJcFJFM1c4TGk4eFhFLXpHUTFMbW1sNkRBNUR6azQ1VTMtbUE3TUV5djdEb1h6THp4ZEFtVWxKSQ?oc=5",
       "source": "Newsweek",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "f38a32e69fbe"
-    },
-    {
-      "title": "[UPDATE 12:56 p.m.: More Video of Van on Fire as it Passes by Leon’s] Drone Video Captures Aftermath of Fatal Crash Outside Eureka’s Fiesta Café - Redheaded Blackbelt",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2VfOVZONkVuRVNhUnp2RkpUdG9xRjlja1k0WnVUU1NuSjh6SnB2bkUtV0I2N3FrcTBQejNNRGYzam9kVU85b3VzWFVPaDRpLW53NGN0OUx5eDFvYXctWWJ0b0I5X3lsSjlIVG1wdk5OdjJhSzYzcWg0Q2tzNHN3RkJ1MGhIT0R3QXRWbW1PVy1iSUU3blFXMDJsTXNLaWZzaVZTaWJWeEg?oc=5",
-      "source": "Redheaded Blackbelt",
-      "date": "2025-07-22T19:03:06+00:00",
-      "description": "[UPDATE 12:56 p.m.: More Video of Van on Fire as it Passes by Leon’s] Drone Video Captures Aftermath of Fatal Crash Outside Eureka’s Fiesta Café  Redheaded Blackbelt",
-      "query": "drone crash",
-      "detected_at": "2025-07-22T21:05:16.612669+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "8c26946e6ae7"
-    },
-    {
-      "title": "Increasing drone incidents near US airports, stadiums prompt alarm, officials say - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NSHluSXRNWmMyb1RBNmZXQ0JhQmd3Vmx1OG9BTnItMmtRMGU1UlpRU0FJd1dQa3A1VGwzaGZ4TWhyVDl1Mzd4WXI0MWRkYTJ5REhoZXphbGdid2FVc3pUTklIUVNHWF83V3FlTUNpMHFGY0VjbUxjVTB4NGFUcW8?oc=5",
-      "source": "AOL.com",
-      "date": "2025-07-22T15:48:35+00:00",
-      "description": "Increasing drone incidents near US airports, stadiums prompt alarm, officials say  AOL.com",
-      "query": "drone incident",
-      "detected_at": "2025-07-22T20:06:07.015298+00:00",
-      "location": "near US airports",
-      "category": "airport",
-      "id": "64dbf4157f56"
     }
   ],
-  "last_updated": "2025-09-04T18:07:07.075120+00:00",
+  "last_updated": "2025-09-04T19:04:46.914251+00:00",
   "total_count": 1000
 }
