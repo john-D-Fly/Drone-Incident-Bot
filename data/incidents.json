@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "New drone footage: Pilot rescued after emergency landing into ocean near Oak Island - ABC11",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0VXd19aOUZtQk9NeDFiZ1RUclpnWkRVaU54VUFVcjNNOGF0U214aWdvb3RZUm82UW5tanJnY3Vlb2xUejh5cHBBeFRUaTJDdDRuT1M0S3lFR1J2c2Z6WmV0MXVHNUhWQkpQS2tUVHJFaFdmS2c4ZkF1UVFyWEt1bjhmMUk3T0tza3oybm56YlN2YTRxVUJZbzFnSFJsN1FReWNJRWdCTFg0YTFr?oc=5",
+      "source": "ABC11",
+      "date": "2025-09-02T23:20:24+00:00",
+      "description": "New drone footage: Pilot rescued after emergency landing into ocean near Oak Island  ABC11",
+      "query": "drone crash",
+      "detected_at": "2025-09-04T03:13:41.943760+00:00",
+      "location": "near Oak Island",
+      "category": "other",
+      "id": "8207a814f1c9"
+    },
+    {
+      "title": "Jordanian army says drone smuggling attempt foiled on western border - Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WdVRDV3lWMHdaVkpyNUw5cFp0M2l6VmdFRFU4UlhTaHBLSEtiazdJcU0xc3pzd2lEQlNWVzN6ejZ5RUc5Q1F0VQ?oc=5",
+      "source": "Roya News",
+      "date": "2025-09-03T20:33:38+00:00",
+      "description": "Jordanian army says drone smuggling attempt foiled on western border  Roya News",
+      "query": "drone smuggling",
+      "detected_at": "2025-09-04T03:13:39.844839+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ca75b7307a79"
+    },
+    {
       "title": "Cobb County Police said the man was taken into custody outside of Truist Park. It's unclear whether the man's drone flew over the park. COBB COUNTY, Ga. - A 38-year-old man was arrested for operating a drone near the Chris Brown concert in Atlanta on Sat - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDVFl5LTl3b2d6dEtCdUtHWF9CVm1LR3EtMHI0MDZUQnRNNUJ5M2Q1OTVPVXlnaUI1TVFZQzEtQTlfX1BYazFBT0o0dTV3bTdrUlE?oc=5",
       "source": "instagram.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "2eb6026c77a0"
-    },
-    {
-      "title": "Cuellar pushes for drone regulation at border, cites cartel tactics - Laredo Morning Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVczYUNENnlfMFRHeUpJLVNiR1VaRzBDbVdPMWdWWmE4cjFoUnE5aWU2Z2lsUXJtOF9YUGJUdTEzdFVqWlVJQjM5bmtQMWItN0E0TFdGei1BdlpvZzNlOW9vZEYtSDlySms5SzQ3QWl2VFlSazVNaFRENzYxWGJMZzZJVU5IMy13VG5paVJuZ2laV3V2bGI5TTMzQUZtRTZ3U3c?oc=5",
-      "source": "Laredo Morning Times",
-      "date": "2025-07-21T20:04:49+00:00",
-      "description": "Cuellar pushes for drone regulation at border, cites cartel tactics  Laredo Morning Times",
-      "query": "drone illegal",
-      "detected_at": "2025-07-21T21:05:17.341219+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "682439093bce"
-    },
-    {
-      "title": "Drone CEO Warns Of Escalating Airspace Risks, Calls For Urgent Reforms - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDd0M3hwZHRQSnRjQk1KY3F4eDNQNDVvQkYwazdORnNEYWhwQjQwSVNNaUFwWk9icTNLejllLVBodTlSclVIMDR6VDlwMU9ORmgwY3ZjNmVFbmxmVDBVd3VEMHpyOFdvOGhXUTltNk44WjYxdkNHR2REcEZOVm1GdQ?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-07-21T20:55:31+00:00",
-      "description": "Drone CEO Warns Of Escalating Airspace Risks, Calls For Urgent Reforms  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2025-07-21T21:05:13.390083+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cda8c132c5b1"
     }
   ],
-  "last_updated": "2025-09-04T02:29:41.938998+00:00",
+  "last_updated": "2025-09-04T03:13:45.099241+00:00",
   "total_count": 1000
 }
