@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Russian FPV Drone Attacked Civilians in Zaporizhzhia - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2dZODNuenlWei1XM05ZS29YT2hUN0t1eXVfNFJyU3JMZlVjczZiaGdmSlFwbjczMVFXZG5ob3FYdEJMV3M0dmV6aU9rVVpOdlQ4cnlmN1RTRGd6aUswS085MUFIZFZCTnpMTG9VNlJiaXhZMWxfUGtJd0JaUEdLVFgtSS1NXy1SOGR0Rg?oc=5",
+      "source": "Мілітарний",
+      "date": "2025-09-04T14:57:07+00:00",
+      "description": "Russian FPV Drone Attacked Civilians in Zaporizhzhia  Мілітарний",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-04T16:06:27.945171+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "126ecc2f779b"
+    },
+    {
+      "title": "Explosive drone plot to assassinate Itamar Ben-Gvir exposed - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xajJ2dGdqTkVESkVZRWp5OHJQQ2NFaktVTDJjN1hUWUVycjJMLXRqQjB5N1UxS0IwdEUxWHY3TXQxeDQ1SldzUWZiOVg5TWxxanZkN3ZSYkt5cmhf?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-04T14:52:03+00:00",
+      "description": "Explosive drone plot to assassinate Itamar Ben-Gvir exposed  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-04T16:06:27.945171+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ad901b9ed896"
+    },
+    {
+      "title": "Stanton Issues $300K Fine To Resident For Illegal Fireworks - KFI AM 640",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3dDMkFmaUtseXUyYnc1TUVSczZScF9qZUlJd2ZlV2h4V2VvZ0JQZ0ZzeG5KZGtlUjBFM1gwdkdLQy1pWC1HTjM1cTZtODVWdWU5MXVPSUJBaHRMcXN0dXo1N0owZTNKM2FWYjZuUlo0eU1XQlhmSk9DYl9vS1J1V0szYzN3UWh1VWpqX0VDRmJsd1ZsandneDVLT0pXS0toN045THh2YTJwUQ?oc=5",
+      "source": "KFI AM 640",
+      "date": "2025-09-04T15:38:00+00:00",
+      "description": "Stanton Issues $300K Fine To Resident For Illegal Fireworks  KFI AM 640",
+      "query": "drone illegal",
+      "detected_at": "2025-09-04T16:06:26.639593+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "28a19e80b1ed"
+    },
+    {
+      "title": "Overnight drone intrusion triggers Polish airspace alert - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnV1UGFiVUprMHY5QVZDaGY0aWxoRW1UMl9va01uUWNhb3p0dG8xYl9KbEdVWFctSTdfdndxRVBEdWZiek5uSEhZblRwMlZNdGp0Mk5LdWJQaXo2RU5TSzFtS3NzS2tkQkZ1Uml4THFZMVpTY1dBZnBPelNINENTSmNhYVdGNm1jTHB1c3BQNU95dw?oc=5",
+      "source": "TVP World",
+      "date": "2025-09-04T11:37:30+00:00",
+      "description": "Overnight drone intrusion triggers Polish airspace alert  TVP World",
+      "query": "drone crash",
+      "detected_at": "2025-09-04T16:06:25.904563+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "45361fd64d35"
+    },
+    {
+      "title": "Poland reports overnight drone intrusions - Gamereactor UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOE5pcW96bktaMVhUTk4tbkxfc0Y3MENJLTN3T0tPd2V6all6WkZrU1FEaHRYcC1HZlpGOWhZZnRRU3dNYXotc203R21oVDZabTQyanltb0xWMU9DbFZoS01FYy1nMUttV2dEcGRHbG5JQlpEUS1NYkFaVWJ2eHZTZVNmcw?oc=5",
+      "source": "Gamereactor UK",
+      "date": "2025-09-04T12:40:43+00:00",
+      "description": "Poland reports overnight drone intrusions  Gamereactor UK",
+      "query": "drone incident",
+      "detected_at": "2025-09-04T16:06:22.551297+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8aa60b9cb552"
+    },
+    {
       "title": "Spying on Hamas boobytraps and tunnels: IDF suicide drones now kill most terrorists in Gaza - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbjZnbnFCUjdaTmZLMFdjckx3YnBmNldPbHM5dmhfTERyYnhOZnFpZEJUVFg5SEY5LXNMY0V5eEZTZ3c3OXUxRWJXWXhtYm1uN0dMczB0elk3cXpjM3VHd0NDUkYwOXRxX0JTcEhR?oc=5",
       "source": "The Jerusalem Post",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "9a7224c23841"
-    },
-    {
-      "title": "Arrest after reports of drone flown over prison - Yahoo Home",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVTUxSFRwRHdpaUM1V2lJT2Z1dzloeUNMRXgyd1V0dXl2TUliZkRiUEpUc0xBNXJoR0VLQVpGTFQ4VkRHZGRxVHV2MzdWVTI1LU1WZXM5QUtrNkFON0JGcC1mc3lqSjZPODJuY3d4dDhYUk81dzB3SklRRkI?oc=5",
-      "source": "Yahoo Home",
-      "date": "2025-07-22T16:41:10+00:00",
-      "description": "Arrest after reports of drone flown over prison  Yahoo Home",
-      "query": "drone arrest",
-      "detected_at": "2025-07-22T17:07:04.699553+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "bd069fb9ec36"
-    },
-    {
-      "title": "Ramstein drone intrusion response drill engages Air Force, Army garrison and German police - Stars and Stripes",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkRic3NBdlVIZjdnc2pCZnJKa1UzTjF4X0ZaSWdvSnctSDljZ1NYQnFub3FyVzlPVUhXUnJjaHlzWng0LTcwR2Jsc0xZYlRvZjU4Z0M5SmpaeTFCRkhFcDgtOW5vekpWOE5qOU1FNzZVdUtXSHAxVC13U3FydHMzOHhzVzJ2YjhGQ0d2ZDY2TQ?oc=5",
-      "source": "Stars and Stripes",
-      "date": "2025-07-22T14:03:56+00:00",
-      "description": "Ramstein drone intrusion response drill engages Air Force, Army garrison and German police  Stars and Stripes",
-      "query": "unauthorized drone",
-      "detected_at": "2025-07-22T16:06:43.125389+00:00",
-      "location": "in drone intrusion response drill engages Air Force, Ar",
-      "category": "other",
-      "id": "11490374cc85"
-    },
-    {
-      "title": "South Korea suspends drone chief accused of sending drones to North Korea illegally ahead of martial law - Yahoo Home",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uNFZoNmE3TXU4WWhBc0dqY0VwR3pic0pPM2s0WDlhTXNPMnFyQWtkVUFYdnY5TWJ5VlNEWFc4VzZaUEt3UTdMUERRVzRMeTh4cVppTkZvb1h0RzhlRTZlQ2tCQjZ1OEVydEt5MHd4cXhTRkd5X3dXOW9mSkl5Zw?oc=5",
-      "source": "Yahoo Home",
-      "date": "2025-07-22T10:28:13+00:00",
-      "description": "South Korea suspends drone chief accused of sending drones to North Korea illegally ahead of martial law  Yahoo Home",
-      "query": "drone arrest",
-      "detected_at": "2025-07-22T16:06:37.980714+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "832282e33189"
-    },
-    {
-      "title": "Increasing drone incidents near US airports, stadiums prompt alarm, officials say - Yahoo Home",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEZRbjVIVFVYeEtaSFpOa3ZnZjJ5dWZaODJNbWtCY2s2d1hHLUkyOHZfTDRXUkJpUUpYc0RJSmZFeFZ5Q1ZoaUd2WDRaN3pFbl9FdjJfdE1TOEVvMGFWVG1oNnhKR3Nua2QyUVh0NkYtRy1WcERIRjdmQ1dtN0dOajBR?oc=5",
-      "source": "Yahoo Home",
-      "date": "2025-07-22T15:05:15+00:00",
-      "description": "Increasing drone incidents near US airports, stadiums prompt alarm, officials say  Yahoo Home",
-      "query": "drone incident",
-      "detected_at": "2025-07-22T16:06:37.321601+00:00",
-      "location": "near US airports",
-      "category": "airport",
-      "id": "c1d9b4d080ec"
-    },
-    {
-      "title": "Ramstein drone intrusion response drill engages Air Force, Army garrison and German police - Stars and Stripes",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkRic3NBdlVIZjdnc2pCZnJKa1UzTjF4X0ZaSWdvSnctSDljZ1NYQnFub3FyVzlPVUhXUnJjaHlzWng0LTcwR2Jsc0xZYlRvZjU4Z0M5SmpaeTFCRkhFcDgtOW5vekpWOE5qOU1FNzZVdUtXSHAxVC13U3FydHMzOHhzVzJ2YjhGQ0d2ZDY2TQ?oc=5",
-      "source": "Stars and Stripes",
-      "date": "2025-07-22T14:03:39+00:00",
-      "description": "Ramstein drone intrusion response drill engages Air Force, Army garrison and German police  Stars and Stripes",
-      "query": "unauthorized drone",
-      "detected_at": "2025-07-22T15:06:03.357632+00:00",
-      "location": "in drone intrusion response drill engages Air Force, Ar",
-      "category": "other",
-      "id": "fb2e1d99a88e"
     }
   ],
-  "last_updated": "2025-09-04T15:05:29.869193+00:00",
+  "last_updated": "2025-09-04T16:06:29.275541+00:00",
   "total_count": 1000
 }
