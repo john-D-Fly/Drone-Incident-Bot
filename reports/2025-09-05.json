@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable mix of drone incidents spanning various categories, including smuggling, arrests, security violations, and crashes. Notable activities reported include the arrest of individuals using drones for illegal access to concerts and attempts to smuggle contraband into prisons across the UK. Additionally, aggressive legislation on drone use, as highlighted by the $300K fines associated with illegal fireworks in California, reflects a growing concern over unauthorized drone operations. Furthermore, internationally, incidents involving drones in conflict zones, such as drone strikes in Ukraine and Mali's international court complaint against Algeria, indicate the escalating use of drones in warfare and surveillance. There is an evident persistence of security breaches in restricted airspaces, raising ongoing concerns over drone usage in public safety and national security.",
+  "totals": {
+    "arrest": 10,
+    "crash": 5,
+    "illegal": 9,
+    "other": 14,
+    "security": 5,
+    "smuggling": 5,
+    "terrorism": 7,
+    "airport": 2,
+    "prison": 2,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 2,
+      "arrest": 10,
+      "crash": 5,
+      "other": 31,
+      "security": 3,
+      "smuggling": 7,
+      "surveillance": 1,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone crash": 8,
+      "drone illegal": 11,
+      "drone incident": 12,
+      "drone prison": 3,
+      "drone smuggling": 5,
+      "drone terrorism": 10
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Illegal Drone Use",
+      "rationale": "Multiple incidents highlight unauthorized drone usage leading to arrests and regulation enforcement.",
+      "incident_ids": [
+        "f2b39f8eb543",
+        "bfe76aab3ce0",
+        "b71bf760e6d5",
+        "c20c13ca0329",
+        "ad901b9ed896"
+      ]
+    },
+    {
+      "topic": "Smuggling Operations",
+      "rationale": "Repeated incidences of drones being used to smuggle contraband into prisons signify ongoing smuggling challenges.",
+      "incident_ids": [
+        "e14e1f73203c",
+        "a98cf4097cc7",
+        "7ff13cec8d29"
+      ]
+    },
+    {
+      "topic": "Military Applications",
+      "rationale": "Increased use of drones for attacks and surveillance in conflict regions showcases their military significance.",
+      "incident_ids": [
+        "0faf29830f93",
+        "e270e3f2bcbe",
+        "ad5c90e8e763"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "63403914aeb7",
+      "headline": "Portland Police Launch Pilot Drone Program",
+      "one_sentence": "Portland Police have initiated a pilot drone program to enhance operational capabilities.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "e270e3f2bcbe",
+      "headline": "Mali Takes Algeria to International Court Over Downed Drone Incident",
+      "one_sentence": "Mali has lodged a complaint against Algeria related to a downed drone incident in the Kidal region.",
+      "risk_tags": [
+        "international"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f2b39f8eb543",
+      "headline": "Castle Rock Man Arrested After Drone Assistance",
+      "one_sentence": "A suspect was apprehended in Castle Rock, aided by drone surveillance after stealing tools.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c58cd4326138",
+      "headline": "Castle Rock Drone Arrest Incident Repeats",
+      "one_sentence": "Repeated arrests in Castle Rock highlight the use of drones in crime prevention.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b71bf760e6d5",
+      "headline": "Drone Footage Captures Damage from Lisbon Funicular Crash",
+      "one_sentence": "Drone footage reveals significant damage following the Lisbon funicular crash.",
+      "risk_tags": [
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "9d9f0351cd94",
+      "headline": "Drone Strikes Birddog Aircraft in Cariboo",
+      "one_sentence": "An unlawful drone struck a birddog aircraft, prompting airspace safety concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "68cd70a9a4a6",
+      "headline": "Jordanian Army Foils Drone Smuggling Attempt",
+      "one_sentence": "Jordanian authorities thwarted a drone smuggling attempt across the western border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight growing concerns from arrests to military engagements globally.",
+    "linkedin": "The past 48 hours showcase a surge in drone-related incidents, underscoring public safety risks and enforcement challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-05"
+}
