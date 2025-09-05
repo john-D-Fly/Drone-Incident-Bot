@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Mali files ICJ case against Algeria over destruction of military drone - RFI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHpNNmcwQ0FTQzcxaE9JX09NQ0MzRlRrZHZyRVdhdjQ5QmJfLVlXTTQzNnk3eUFPcDM5d2M0OHBIUWM3bjBvN3dINVBIZlc3ODJUVkJpMVNDS081aTl1NklXMjRPcXpfR1RyTkk4T0tXTXBhSlNtZHNuMGVZOGVjeG1KZ3FFcXdjT2JUYVk4SDJEODR2aktfYnNOWkY1b1N0WTFJdHJpRE1FNmpF?oc=5",
+      "source": "RFI",
+      "date": "2025-09-05T11:21:17+00:00",
+      "description": "Mali files ICJ case against Algeria over destruction of military drone  RFI",
+      "query": "drone incident",
+      "detected_at": "2025-09-05T21:04:40.721535+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "046d23e7f4d0"
+    },
+    {
       "title": "Petaluma police use drone, pepper spray in DUI arrest after brief pursuit - The Press Democrat",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUY1anEyYnQ3OUhtYVExQnNFcjBPaTFVZFhxT3RKanVqdjREeGtVX1haeUVYcEFwbC1xMk9sQm11SkFxRUNxSHpMVHBIZmxJNTl1TGZJU3N4VzZSeVdDUVpKLTAyUlQ3ZjZrQ0x0a3ptZE1ENDY0Z0xlQ3Z5SlpkUVFKUHZvNUhEY3dqamxUelMyZWVXTjZ3bUl3dE50RU1pWkFkWHFBNllBMHcyREpTRTR5RUk?oc=5",
       "source": "The Press Democrat",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5bcb8e177368"
-    },
-    {
-      "title": "Arrest after reports of drone flown over prison - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqWEh1T1lfYUhVRTdmeXBVbXFvS01VTndGbTVUdmtBZjQ5WWFITk5ybTJRdElQM2JSOG04Nk8wLWUwWjl3eGc3aUpLZDZTQzh2ODdYQ3FaSC1aenpyNDFtTi1VdkxMRXQ1TzlJbU5ZTFRtaUNKRXp1eVpmdHdvdw?oc=5",
-      "source": "yahoo.com",
-      "date": "2025-07-22T16:41:10+00:00",
-      "description": "Arrest after reports of drone flown over prison  yahoo.com",
-      "query": "drone arrest",
-      "detected_at": "2025-07-24T04:18:57.183413+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "cbef8cd8df2d"
     }
   ],
-  "last_updated": "2025-09-05T20:06:06.160660+00:00",
+  "last_updated": "2025-09-05T21:04:47.332212+00:00",
   "total_count": 1000
 }
