@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Live Updates: At least six dead in Jerusalem terror shooting - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjJsaFhoT2ljZVBJckU3RFA1WlpJeDZUX2o1b3NYWHFqb0ViZGRSSHVkVXlaaElrMlpYamV2QlpESlUxWl9uanpMRXlDY0RVMWRCLTMtN1lZNGIyMWpPY1ZZYmpCY0NzVWtRZlBpT1NBQ3lZNlRldnEzdUo3WGRjWDUxWQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-08T19:00:05+00:00",
+      "description": "Live Updates: At least six dead in Jerusalem terror shooting  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-08T20:05:46.379894+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "c8d2b48e733b"
+    },
+    {
+      "title": "Man sentenced for attempted drone delivery of prison contraband - Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3FSOGJWUm8wbjZuaG90YjJJMFppYWp3SUpDRDREaC1nNkY5VTFsVDZycHZHWjNiS2J4RXdQcFJVOUtUWDI0VGlFMERpTkNmRjQtWk1jbjU4Y0F0Zy1IVnRmQWZFX25VMXBBMlc5WUpDQXVHbVp2Yzd3cXVKNW1FU0ZnYmNjbjNIS0JkNjk0Z29Yc1lfNWE4TF9Na2JNVkV4VDN5VjQ5ZUpnTmRGMUdmQnRyNEN3RWFTdmNSekxwNzVOT29FbldFVlE0cC1aTjc3Y3dkUGs3eGhHdFd1?oc=5",
+      "source": "Bluefield Daily Telegraph",
+      "date": "2025-09-08T19:24:00+00:00",
+      "description": "Man sentenced for attempted drone delivery of prison contraband  Bluefield Daily Telegraph",
+      "query": "drone prison",
+      "detected_at": "2025-09-08T20:05:42.356597+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "776923670e6a"
+    },
+    {
       "title": "Flying lifesavers: Drones could soon respond to cardiac arrests - EurekAlert!",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TUk82VUl6T1NWUHJmT3piZTVxOUw3NDA4RkdhOVd6X0QydE5RYXA2TXRtd0pmczBWRFJ2dUNqT2ZHcUczVWZEbFJzR003eUs4RjdmWk9sWUFaY1JT?oc=5",
       "source": "EurekAlert!",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7a9b8f75d268"
-    },
-    {
-      "title": "Alarm as unidentified drone enters NATO airspace - MSN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzNLZ2YwRms5VmtMR2xXRmtOX1kyeDN2U1dIVHpXRHpZMFQ1ZmNwMzdGMDVSTy1BbGlRYm02Z25ycUZzMWMxNWo2QVlVM1pETWJ6TGRfOE9kYWxTeExXLUJCNXU5ZmV4eHppd1M3VTJxN21RMHRKOFpraHZCMmMtZjIwZFJBbmpzaE9PUnBvN183UmQyQ3ZKNTZnSTIxdw?oc=5",
-      "source": "MSN",
-      "date": "2025-07-28T20:06:34+00:00",
-      "description": "Alarm as unidentified drone enters NATO airspace  MSN",
-      "query": "drone incident",
-      "detected_at": "2025-07-29T08:07:36.500342+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "23f2b2ab375b"
-    },
-    {
-      "title": "Booby-trapped drone crashes in Rizgari, Erbil - ABNA English",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHZZYllrRnhIX0tNcUk3Q3ljQ3F0bEdQRVRZVHUzRm9tWllQSVA1TDBBWHN1TVFsanV3S1ROUjBlbXdqVklfTHhrMFhyNUtVSVlxVHgteGRUcTFKWDdyS0xCY3cyS2h2S29qVGh4ek9OdnE1OE9aTWFrYXBVV01jN1Jpay1WUQ?oc=5",
-      "source": "ABNA English",
-      "date": "2025-07-29T05:40:00+00:00",
-      "description": "Booby-trapped drone crashes in Rizgari, Erbil  ABNA English",
-      "query": "drone incident",
-      "detected_at": "2025-07-29T06:08:31.401776+00:00",
-      "location": "in Rizgari, Er",
-      "category": "crash",
-      "id": "1ee1cd3f62db"
     }
   ],
-  "last_updated": "2025-09-08T19:05:01.442935+00:00",
+  "last_updated": "2025-09-08T20:05:47.687109+00:00",
   "total_count": 1000
 }
