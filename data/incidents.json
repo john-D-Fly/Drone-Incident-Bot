@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Man sentenced in plot to bring contraband into local federal prison with drone - WVVA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHBrc19jU3lxSGVaZEY1UTBUckNoRE1Cc0dUQ19yVzZPWElWXzZUMHBTaFJSWWZ5N0FGRzdHMVJGNWxObElVbXRTVERGdEV6MVpaVjJXQU82bDBQR29UNnMyRm94dnRac25ka0Z1NUp5OFgwN1NNdV9RQV9DeXpkMEcyTVZnYlJtSHg0MDAyZ3VvS3YxYWljR0ZZaG1hMVRfd19fblY3NVPSAbwBQVVfeXFMUG5KV2FaZWpQZU1IbHFQc2xvMHZHbGl1YjUtaFBBcEZLWFR1ODNlN19JdTZ1SVlLaEtmaUE2aUtPZGpxc2psNWJLNnd5V19BdHhuREVJbklmWjBYWXpRd3F1Y2YyWEZDeXdKb0ZTTlhKN2pYaENtQ2ZwcUdDSEFTcHF4NU1pSWwwelZXSXhDYWRBczN0WWRPUl93ZmFfV3k3cDh6SC1sZ3RsZE5MUmFxN08tbi00VktEM292enA?oc=5",
+      "source": "WVVA",
+      "date": "2025-09-08T19:56:00+00:00",
+      "description": "Man sentenced in plot to bring contraband into local federal prison with drone  WVVA",
+      "query": "drone prison",
+      "detected_at": "2025-09-08T21:04:46.844813+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6d217af6398b"
+    },
+    {
       "title": "Live Updates: At least six dead in Jerusalem terror shooting - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjJsaFhoT2ljZVBJckU3RFA1WlpJeDZUX2o1b3NYWHFqb0ViZGRSSHVkVXlaaElrMlpYamV2QlpESlUxWl9uanpMRXlDY0RVMWRCLTMtN1lZNGIyMWpPY1ZZYmpCY0NzVWtRZlBpT1NBQ3lZNlRldnEzdUo3WGRjWDUxWQ?oc=5",
       "source": "The Jerusalem Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "c38f0504b6cd"
-    },
-    {
-      "title": "Defence industry: Latvia still leads in drone production / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnU4SEstbTBzMTVfRWxRc2Z5UW5nOUdrS1lNeTF5QlZBSDhEZmhwM1RybEFhLV9uMkROemwxZUp1aW52Zk40V2QxVmR0Wm8yUFZxdmc4RDJjbTdGTE93ZVdZV1RyYllqc1lTVTZxZ3drVHpqZkJTbjdrOXgtMWlGY1d0VElMaGwxQUlmcXZpd1ZFRy1ES2JMSHpxQkR1MFNnT1pvY3EwcDhwSHN4b3FGc1ZZMjRQWTV6M0E?oc=5",
-      "source": "LSM",
-      "date": "2025-07-29T08:28:11+00:00",
-      "description": "Defence industry: Latvia still leads in drone production / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2025-07-29T09:09:01.095025+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7a9b8f75d268"
     }
   ],
-  "last_updated": "2025-09-08T20:05:47.687109+00:00",
+  "last_updated": "2025-09-08T21:04:51.489811+00:00",
   "total_count": 1000
 }
