@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone with Cyrillic markings crashed near Belarusian border in Poland - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ySDhNM1VadzYtMUpUaGlNV2N6R1cxMUFyWENlM2VYYzA3Tm1FaHpWa09yeGZ0emYzczN0YmZuTTlxSWJzTEY1SFVPcnRLRTRIVHIzRlk5VGphVEY1U1BvVTZEVdIBb0FVX3lxTFBVWk03RDFnV2tjb2tOa1pDMkxWMTlqM1hlS3ZwTXNCVXZETk5LNmV1U0VaQWdfNUdZMF9hVTZoQ3ptVExrRkRIMXVlRXIxU21mX184c0lYQ3Z4NUR1NzRLTGd1ZnY0NTlEVHRmZ2YxNA?oc=5",
+      "source": "Українська правда",
+      "date": "2025-09-08T07:43:05+00:00",
+      "description": "Drone with Cyrillic markings crashed near Belarusian border in Poland  Українська правда",
+      "query": "drone crash",
+      "detected_at": "2025-09-08T15:04:45.642714+00:00",
+      "location": "near Belarusian border in Poland",
+      "category": "crash",
+      "id": "ff27dbe4b29c"
+    },
+    {
+      "title": "Drones could soon respond to cardiac arrests - Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83MmJHQTY2dFU3eXd1X1ZiZU1lLUxoR09wVUY3N09CeGNsVGxQaXNFbFRTRm50bEJTOWtQbnJiUXhUQnNvNG95c0dwSS0wRGZrSmZreWRORTR1b0ItSUc0UkZVM3JKeld0RHc?oc=5",
+      "source": "Medical Xpress",
+      "date": "2025-09-08T14:37:05+00:00",
+      "description": "Drones could soon respond to cardiac arrests  Medical Xpress",
+      "query": "drone arrest",
+      "detected_at": "2025-09-08T15:04:43.023373+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "af223785a143"
+    },
+    {
       "title": "Now, Houthi Drone Attack Temporarily Shuts Down Ramon Airport, Disrupting Air Travel to Israel and Raising Concerns Over Tourism Safety - Travel And Tour World",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQeUNlNG1WRV8tUlMwRWpKVjlXM09FZEk5QXk2elk2ZFhiQmpOYnViMGlzVUx4SlJzSmpfRENaM0lMdW13bEF3c3pqTHA3TXhDSmNPbm1OY0xpWFd6OXN3cDJnTV8wNF9ZNHc5TkdHWmRUOW5FekRTcmxOUFhSclhDUjhDb0w3Y1Z1Q1lTRTRhTWJlaHY5OUFyRDNXTW51QmhWaVFJVWJmNWdON0FCUWwyZWx4THR6eEZVNUYzU3BrcEI0V1FWbWlWc3ZwQ1RzUjVWVWIxQjB4Ukt3YXpDT1hmRkpUbnFweTF2cFNicE82N3Q5d0treHhqTUljSFRTaF82Qmd6Q0FVWXplRzBuRmh3?oc=5",
       "source": "Travel And Tour World",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "836ba2abafa6"
-    },
-    {
-      "title": "Estonia is alarmed by the drone crash near the border - RuNews24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnJrYlNYUFJxQ0FaVUZVVk1HSG1WQ3FoeEtRS1hjcHJ6R254d1F3NmxZLVRZTGc0UUxYZ2tiX1NGMDhSdFhwVUFHVGJBQm9OYnhpVUtVV0haOTlYZGd5dnBnVmUyTy1JVGJ5U3JzbzRWNlZsU2p0SmtxOWVFaFhhVnpHbUdPdkV4V0p2emN2WnpXUGkwZENNVW10YjU5UQ?oc=5",
-      "source": "RuNews24",
-      "date": "2025-07-28T05:33:00+00:00",
-      "description": "Estonia is alarmed by the drone crash near the border  RuNews24",
-      "query": "drone crash",
-      "detected_at": "2025-07-28T21:05:18.496235+00:00",
-      "location": "near the border",
-      "category": "crash",
-      "id": "220ab38bed36"
-    },
-    {
-      "title": "Unidentified drone crashes in Duhok amid heightened security concerns - Shafaq News - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzJXTW5JdERtcW4tRTlpZndpcHhIV2dxSDE2a0t1WndES2lZR2pfaHNUek92RC0xODZOQkU2NU14RnRPQzBQeWw3NmZ4YUpzdDBiZ1J5YWNvaEJLMlRrS3ozcWpCZ0JzQ1Y1U0lycC1NdlNrSXlmaUszMzRCbnFIWUhoWnFmVzM0czBGWWpROGRHWW9IZ1N1MndLZkRuMi1DeE9v0gGoAUFVX3lxTE5TRXpLYjJsLUIxLUpPdEI0dlB5Qzg5SWkxamI4Z3plUVQ1WUxtNjB2cHBnZDF4WV9LNDVjY3NRdnAyN0hQVHpFLTc3cDk0M0FIMFlTRkNwUlZLVWFzNU45bVA0elNyRmJFcmdvcVRUNm52ZlVyV3laNEdMWkU4ckRxMFBDNjdkeXZ4NTVPdU41dFB1TFFBQjN4Q2hEMU1wR1RiX0Eyb3JQbQ?oc=5",
-      "source": "شفق نيوز",
-      "date": "2025-07-28T19:10:59+00:00",
-      "description": "Unidentified drone crashes in Duhok amid heightened security concerns - Shafaq News  شفق نيوز",
-      "query": "drone crash",
-      "detected_at": "2025-07-28T21:05:18.496235+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "380c87aaa315"
     }
   ],
-  "last_updated": "2025-09-08T13:13:19.428498+00:00",
+  "last_updated": "2025-09-08T15:04:49.401378+00:00",
   "total_count": 1000
 }
