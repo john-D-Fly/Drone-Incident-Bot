@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the last 48 hours, there has been a noticeable spike in drone-related incidents, primarily across the United Kingdom, Israel, and Poland. The UK witnessed multiple reports of drones infiltrating prisons with drugs and weapons, showcasing a concerning trend in smuggling activities. Meanwhile, Israeli airports, particularly Ramon Airport, were disrupted by several drone strikes, attributed to Houthi forces, raising safety concerns for air travel in the region. Additionally, instances of drones being used for humanitarian efforts, such as cardiac arrest response, indicate a dual-use scenario where drones serve both public safety and security risks. The geopolitical landscape remains tense, with allegations of drone terrorism in conflicts involving Gaza and Ukraine further complicating the environment. Overall, the incidents highlight the increasing relevance of drone technology in both illicit and beneficial contexts.",
+  "totals": {
+    "arrest": 9,
+    "smuggling": 7,
+    "other": 28,
+    "terrorism": 5,
+    "airport": 10,
+    "illegal": 2,
+    "crash": 2,
+    "total_incidents": 56,
+    "by_category": {
+      "airport": 11,
+      "arrest": 6,
+      "crash": 1,
+      "other": 18,
+      "smuggling": 14,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 8,
+      "drone crash": 2,
+      "drone illegal": 2,
+      "drone incident": 16,
+      "drone prison": 7,
+      "drone smuggling": 7,
+      "drone terrorism": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Multiple incidents involving drones delivering contraband to jails.",
+      "incident_ids": [
+        "f6b246937e64",
+        "4c12b8ecc05a",
+        "4e37a8af6ccb",
+        "0f37217220b3",
+        "21773f325594",
+        "176c9099d185",
+        "3546cb67ac04"
+      ]
+    },
+    {
+      "topic": "Drone Strikes at Airports",
+      "rationale": "Incidents involving drone attacks disrupting airport operations.",
+      "incident_ids": [
+        "23fbd91c8cb4",
+        "6556976d9961",
+        "0a21346a60dc",
+        "d89b3ff969fc",
+        "a0457bf228e7",
+        "d061705d2f6d"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Incidents involving drone strikes linked to terrorist groups.",
+      "incident_ids": [
+        "99bb5ee1ee75",
+        "c8d2b48e733b",
+        "792e30ccf03b",
+        "1f90d5d72e2d",
+        "ea5eb0d53b81"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f6b246937e64",
+      "headline": "Seventeen UK jails infiltrated with drugs and knives sent in by drone",
+      "one_sentence": "Seventeen UK jails have been infiltrated with contraband including drugs and knives delivered by drones.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d061705d2f6d",
+      "headline": "Man sentenced for attempted drone delivery of prison contraband",
+      "one_sentence": "A man has been sentenced for trying to use a drone to deliver contraband into a local federal prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "0a21346a60dc",
+      "headline": "Houthi drone hits airport in southern Israel",
+      "one_sentence": "A Houthi drone attack hit an airport in southern Israel, resulting in airspace shutdown and injuries.",
+      "risk_tags": [
+        "terrorism",
+        "airport"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "9e359a890b6b",
+      "headline": "Russia strikes Ukraine with drones and decoys",
+      "one_sentence": "Russia has conducted the largest drone attack on Ukraine to date, utilizing drones and decoys against targets.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "99bb5ee1ee75",
+      "headline": "Drone Strikes Gaza Flotilla, It Claims",
+      "one_sentence": "A drone strike has been reported on a Gaza flotilla, further fueling tensions in the region.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Gaza"
+      ],
+      "priority_score": 0.75
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2025-09-09",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
