@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Crashed drone near Poland-Belarus border may be decoy, say investigators - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWhObTFfN0dURUVPT3VwSzROZkdNa2ZxUkFIaGZodGpWQlk3ZWV4NFVoWEI3Smg4LXhiSzdHMWtGakI4Y0JmYXRwUWpxQmFxOTNfR3FhdEpka0otU3oxS0twc0N3a3V0QW5DejFCcy0yRjBzZDVXZ3JqNmt2TWZZUkR0Nnk4cVdEVU40WGhwTnk?oc=5",
+      "source": "TVP World",
+      "date": "2025-09-09T10:28:00+00:00",
+      "description": "Crashed drone near Poland-Belarus border may be decoy, say investigators  TVP World",
+      "query": "drone crash",
+      "detected_at": "2025-09-09T15:05:38.829968+00:00",
+      "location": "near Poland",
+      "category": "crash",
+      "id": "159c25484feb"
+    },
+    {
+      "title": "Poland investigates two drone crashes near borders with Ukraine and Belarus - AeroTime",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzFncERlWnBTTFpHeEtBaXQ4WjF0ekVwaE1XeXJ1SkNvWFNPNkxtOVM1ZVNGaTFsTG1BS1AwdmdNV3VudVluOVN6TkhTNnZMOGxxNWNPaEhhOW1tZ1hORm5EZzZsQTlIcVpmYnhnSGEwdEU1V0U1NEhoeGx0UzRSbmdvNNIBiAFBVV95cUxQLXhtQ0hjdGFUZHlvcFktTVg3SkJlOGJhcUxBU0xKeVRXME5vT1BlMEJRYUl3SGZ0ckR0bDVycWJ0ZmFVckJzdUw2bmFUV0YyNThpeDJ0RE9iMEh1NUdiZV9YQmwxU1BmWEZ6SXNNR2c3MkUxZHpYN1d6NFdVSmNQcTV2YXRpSUpK?oc=5",
+      "source": "AeroTime",
+      "date": "2025-09-09T11:11:19+00:00",
+      "description": "Poland investigates two drone crashes near borders with Ukraine and Belarus  AeroTime",
+      "query": "drone incident",
+      "detected_at": "2025-09-09T15:05:35.113627+00:00",
+      "location": "near borders with Ukraine and Belarus",
+      "category": "crash",
+      "id": "f8b4954c41a5"
+    },
+    {
+      "title": "Alleged ‘drone’ incident leaves Gaza flotilla shaken - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0hSVlFpMWlfZHNfdE1DandXVjRqV2pKb3lya01EVGgyM1l4TUxzaE5rdXFxY2t0V2xzcEpvNEVIdG1pSHRZQjJ2dVdOblZTYVZTRUx2alM2cTlvaFVfVnI2Z3RqMVItdUUyVEROZ0pObHBJLV9zVnNPWUlmSHZESlkzTG9iSmZrOVc4Si1R?oc=5",
+      "source": "yahoo.com",
+      "date": "2025-09-09T13:30:34+00:00",
+      "description": "Alleged ‘drone’ incident leaves Gaza flotilla shaken  yahoo.com",
+      "query": "drone incident",
+      "detected_at": "2025-09-09T15:05:35.113627+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ebe485d59fc4"
+    },
+    {
       "title": "Russia launches barrage of drone strikes on Ukraine, resulting in four civilian deaths - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RUFEbGh1a1pxZFl3NkRETG5VWnFRUDJBMG5HdlFLTnl5ZjJRM2p2cFN2ejVGMnY2WUdIX2k1M2dpQWJ4cjZTb3hOQnhxRmlYMjJobEt3?oc=5",
       "source": "Fox News",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "a14197ac9a62"
-    },
-    {
-      "title": "Desert Hot Springs Police Chief discusses drone operation that led to arrest - KESQ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFBwdXV5XzR6VnI2WVlXRDJPMF9zdzZfOEM1MHBOa05TNmdkR1psNGJjOHdOdEEyNVZEMnN6eWIwRGlJclBTVVFSV3BmaXMzUWhEVUpMN0N2R3JHWU1VY2VuOXRRb0JLZ0dJQ0UxdzZVYmY4QkFDV0ZqZEpINFdNSkVyTEg1MUNoNGt1WTFRdXZlNXk2b0d1dVBXZHZXaGVWQWI1NXlBVjEtR1Nqd1hN?oc=5",
-      "source": "KESQ",
-      "date": "2025-07-29T23:52:35+00:00",
-      "description": "Desert Hot Springs Police Chief discusses drone operation that led to arrest  KESQ",
-      "query": "drone arrest",
-      "detected_at": "2025-07-30T00:24:46.849167+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fbecc87711a9"
-    },
-    {
-      "title": "Drone crash in Nizhniye Achaluki raises questions about its launch site - Caucasian Knot",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fa1FaYktQSXd5OHdEQzJSbnFWejliRVlLSlZUTnQ5SElFdS0xNE1QMHhoQjRBN1lHR1JkUW5RZzFQWjAwcS1WTWJGNUREalM1aVVN?oc=5",
-      "source": "Caucasian Knot",
-      "date": "2025-07-29T15:45:00+00:00",
-      "description": "Drone crash in Nizhniye Achaluki raises questions about its launch site  Caucasian Knot",
-      "query": "drone crash",
-      "detected_at": "2025-07-29T22:05:34.580701+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f76105f0f10c"
-    },
-    {
-      "title": "Drone crashes prompt postponement of this weekend's show - BayToday.ca",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVBHR3FSUlFQZmRUWHMyb2hKU1lhdmh1ZHR1R0k0azdvaXBBUWFPSW5DOGFZSDhncWMzSXAxSzVrVGNhT3Y0dlBoWVFRSDhUd3hSQUVZYXkzZlFxVmpGS0RnM3RjTWlxMjVENHNrckp6Z0NSV25NYVR4RTJ2WUUwVVJnUmpPaXFITEdpMGFzS05LcHJnREdyekVDa29jNGct?oc=5",
-      "source": "BayToday.ca",
-      "date": "2025-07-29T17:00:00+00:00",
-      "description": "Drone crashes prompt postponement of this weekend's show  BayToday.ca",
-      "query": "drone crash",
-      "detected_at": "2025-07-29T21:05:24.594848+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e3fe28d2ebcf"
     }
   ],
-  "last_updated": "2025-09-09T14:05:19.427963+00:00",
+  "last_updated": "2025-09-09T15:05:42.267327+00:00",
   "total_count": 1000
 }
