@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Russia launches barrage of drone strikes on Ukraine, resulting in four civilian deaths - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RUFEbGh1a1pxZFl3NkRETG5VWnFRUDJBMG5HdlFLTnl5ZjJRM2p2cFN2ejVGMnY2WUdIX2k1M2dpQWJ4cjZTb3hOQnhxRmlYMjJobEt3?oc=5",
+      "source": "Fox News",
+      "date": "2025-09-08T18:58:12+00:00",
+      "description": "Russia launches barrage of drone strikes on Ukraine, resulting in four civilian deaths  Fox News",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-09T14:05:18.021529+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "56e991c5861a"
+    },
+    {
+      "title": "Poland finds what appears to be a Russian drone near Belarus border—officials won’t say if it was tracked on radar - Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTkVUeHBIbHVEYkwtc21la2FjQUlPLUd4ZUVkaU95NXZCcklhOTZOb09MbkMwWk5FbmVIalMyZGFzUk9iWndSZVRId3BKMnlDelFVQUZ0N045cXRFWnNsWVhCbFEwSmN6aU10N280YlRnME12Rk5vMjJBZXdpekQzZjYzWnhrb1NKUDlLclNqeGRMQ1hWcndzTWpzUm5sV2Y3VXZJckdLV0JRV1ZBbFctQXBTZUZxU3VFU3hJR2ktb2h6VzMxbmRacjdGWjBrdW0zS0Zaby1wd1pmSWdXQU1IQ2hsU0UzeTdU?oc=5",
+      "source": "Euromaidan Press",
+      "date": "2025-09-09T13:42:41+00:00",
+      "description": "Poland finds what appears to be a Russian drone near Belarus border—officials won’t say if it was tracked on radar  Euromaidan Press",
+      "query": "drone crash",
+      "detected_at": "2025-09-09T14:05:15.901080+00:00",
+      "location": "near Belarus border",
+      "category": "other",
+      "id": "cc1a14339fd8"
+    },
+    {
+      "title": "Global Sumud Flotilla reports drone attack on Gaza-bound ship in Tunisia - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWFwOGhqaFp3U2dTQTlTMFdHZkd3ZUs0ZnlzbUo2cEdOU0JVU0xGaHlhNXlwSFJzTTNHVzUwQ0o1dk5FYm9OR2t1em0tdy1QWWVsMzEzZkdwb0xHQUdoaWY2eUZOLUUtZnd3TTR1bGw5OHhmbHNsbjFBU0tOZ3pHV2NWRU1hU2lvb3R2emZpd2xEbjRSOVRGRmc0MDVIQUlIakNSNjBINGFIU3Ztc3ozRFpB0gG3AUFVX3lxTE9jWElmazdzVlptUmFDYk9ocFdSQThnSVczUlVsUS1NMGNoUi1YQktrYjlUTHVhdlp2R3dxc1FseDljQ2ZRU01kTzFDWmNIVnlKWWpLY1dxc0E1SDM3aXhhUVgzdFZndFpJd0c1NzgyYWU4SG45RU1yb0U1QUREbTd0OWJkY2p5VU1hT1R2ZWxEbzlqcGI4TnJ5LUx2MVRFZm1nQ3VtUjNCS0FtRkFNcWtaNjU4THZuWQ?oc=5",
+      "source": "Al Jazeera",
+      "date": "2025-09-09T11:37:30+00:00",
+      "description": "Global Sumud Flotilla reports drone attack on Gaza-bound ship in Tunisia  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2025-09-09T14:05:12.511047+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "95b4981789ab"
+    },
+    {
+      "title": "Gaza-Bound Flotilla Struck by Drone in Tunisia, Aid Group Says - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWJYT2U4S18weUlXT1RaM0ZaSndsTm1aSlE1WWtSbWlRUzJfUm1NZnM4SS1NVWpPWTJ3bllSSFlHVUE5Vlg4UzhJNlNxcS1mRklEYnhWZTBHSlp6QXlmczVhM0FCTWhmQ2xYcmZ3UjJRNmZsMmlfSzJ1aTRiUnUxRHdqTXNaZlo4MGFxag?oc=5",
+      "source": "The New York Times",
+      "date": "2025-09-09T06:00:36+00:00",
+      "description": "Gaza-Bound Flotilla Struck by Drone in Tunisia, Aid Group Says  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2025-09-09T14:05:12.511047+00:00",
+      "location": "in Tunisia, Ai",
+      "category": "other",
+      "id": "7e3df2f8cd09"
+    },
+    {
       "title": "Life-saving drones tested to reach patients faster than ambulances - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORktHaHk4OVNnUnFUVDBUQWRqTUdlRGN2dk5YMlZTUlVmT2k1NkdybFFxQUQ0eGtYWEY2T21PNU9SdndFU3pNaGQ3Qm55UXdMbTBRb2FDSzFpQmQ4YWg0dFRUaVZ1eUtLYXBYTEw2LVI2dHl4X0V4bWxGbDdEdG1IMkJvSVRaSW5SaFZaWnF2bGhaUnQxdlE?oc=5",
       "source": "Interesting Engineering",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "e3fe28d2ebcf"
-    },
-    {
-      "title": "\"We are at war\": an analyst on why the drone crash in Minsk was completely expected - Белсат",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUU9Dak9GbTRLaFZDcGlocklreGd6OGpJOXhxdlBfb0hCNmtGUlFQbERna1JONkhhUGFmODdueVdndGlhRTdSOVE3LUpJUDlFd05FQm9DNUE1NklnZTNCWlk0aTh5dkRoZU9Sa2xXNm1mZlBMajJLbGxVRi1EWVpLUUtuQW4zOXFGTzZlMy1RMnBOSEVHcXlsMmsxQnlGanllcjAxSlVETzVzX2x3bHJz?oc=5",
-      "source": "Белсат",
-      "date": "2025-07-29T14:01:00+00:00",
-      "description": "\"We are at war\": an analyst on why the drone crash in Minsk was completely expected  Белсат",
-      "query": "drone incident",
-      "detected_at": "2025-07-29T21:05:21.210656+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "fca5a4358870"
-    },
-    {
-      "title": "Ukraine Repeatedly Targets Key Rail Line Deep Inside Russia With Drone Strikes - The War Zone",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUFFYmZUTURIb05paUZBUnlrODhUYjg4NkVlMXFvNnY5NEctbnBodzJTWlhfaTIwWEVjYUZQdkZIMHJVbGozYmN6Q1BkaVh3S0FreGtlMkFyVEg1Y0ktSlJseDhfR2lUQkJsM1VtdWZWVTEzRnNXQ0xUM3FWenJqX01YRGRMUU1wQ2U0SzNRaldQbHc3TEpYSnpnTXFLMWU1dGhN?oc=5",
-      "source": "The War Zone",
-      "date": "2025-07-29T18:11:14+00:00",
-      "description": "Ukraine Repeatedly Targets Key Rail Line Deep Inside Russia With Drone Strikes  The War Zone",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-29T19:07:03.236497+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8ef86ad3dacd"
-    },
-    {
-      "title": "One killed, four injured as Israeli drone strikes southern Lebanon - PressTV",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkVZaDdyWER4blRxSkVwb2lzQ0ljR2J4LWFWMWpZTEFQdU9lT1c2ZzlTejNpcHJ4ZGdXTEhJUmdJX1g4RjR5b2d6RkRZQmJBalhMV0pzUGFjNmdnNU1XaVRmNUowVGFGYWd0RDdxcV9hc3lwc25pMUhoY1pEdU1xSnlicXZKeUVXRzlzd29YLUlPZHM5eXBVWmEzZ1NnVTR5VmFJYXd2SUxvbUVpZUNpZzJRSWJEQ1h2aTJPVHdHRnBGaWJOdmFKS19sVlU?oc=5",
-      "source": "PressTV",
-      "date": "2025-07-29T11:15:00+00:00",
-      "description": "One killed, four injured as Israeli drone strikes southern Lebanon  PressTV",
-      "query": "drone terrorism",
-      "detected_at": "2025-07-29T18:07:49.921881+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4a3b67f1677e"
-    },
-    {
-      "title": "“The regime sees nothing wrong in keeping people in the dark”. Sviatlana Tsikhanouskaya's comment on the drone crash in Minsk - Святлана Ціханоўская",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdUZ4ZjBPTlNXb3lmQXh3WGZRUjc4T2dkdEY2QnBWS0VLOGxEWWh3ZUxhVmNsSWZic0FpWVVXZUl5eVR2bzBxX1ZocXozLTZPaVV4Y0d1bWhSNFBFRnoteGZ4Y2lrUS05ZkFvRzhZcWI4U2hVa1B1bTJqWmxkRDNiR2dVSmhGOTdzdk9lVnBfR0VyYjd5R0dmNnN6cDcyeW5nZXdKT2NCQ0xSdGtKTDBtMW5yeXF0MkhlaVIzTkhtU1BJMTBFLWhXbnRyRTVIUEVJN2JReTVvbXFBX1JLR1hiT1B3ZlNjZjFjeGFobmV5ZVcxRjQ?oc=5",
-      "source": "Святлана Ціханоўская",
-      "date": "2025-07-29T13:43:01+00:00",
-      "description": "“The regime sees nothing wrong in keeping people in the dark”. Sviatlana Tsikhanouskaya's comment on the drone crash in Minsk  Святлана Ціханоўская",
-      "query": "drone crash",
-      "detected_at": "2025-07-29T18:07:48.038255+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "55e48818bb6c"
     }
   ],
-  "last_updated": "2025-09-09T13:14:12.215144+00:00",
+  "last_updated": "2025-09-09T14:05:19.427963+00:00",
   "total_count": 1000
 }
