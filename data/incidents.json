@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Rand Paul Reveals Venezuela Boat Attack Was a Drone Stike - The Intercept",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BcEY4ZVBEOUpSQlNNZFV3Qnpqb2JpUGtfemdJYnpwcC1NSEpGVXM2TVV5X05FMW5zV2pITWdwMjRwaFJOUWd1bWNiNjRjYklnTERzTjJKMkVzeFNlNjZTQUxQanA2TXgyakV2NXFBT3Vua3VaYTJScE1B?oc=5",
+      "source": "The Intercept",
+      "date": "2025-09-10T16:32:40+00:00",
+      "description": "Rand Paul Reveals Venezuela Boat Attack Was a Drone Stike  The Intercept",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-10T17:05:21.121500+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "53c46ee14679"
+    },
+    {
+      "title": "Trump to speak with Polish president after drones crash in Poland - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sNUM5YW1Nc0ZPTHVreW1INGVNSkdudG5mV3JqYkltTXJPS2dOaV9SZVJfWDBELXJsVUlJTzAzLUlTWUxyWDZFckJMM3UtZFlZc2o1cExLd1R0eTR5MjJOTU9QN3XSAXBBVV95cUxNM2VjbHdUUjdZaHdoLV9vNGxsQWNNVlRPYUd0akR5VmNLYW16enE2MFVEVndNVElGR2xDNkhyZHFwa1ZRNHFKN0dkYTFteFljTS1WbU8xS1ZRcDZyNU5fdFpXcFJLX05pR0U3Smt6ckNV?oc=5",
+      "source": "Українська правда",
+      "date": "2025-09-10T15:37:29+00:00",
+      "description": "Trump to speak with Polish president after drones crash in Poland  Українська правда",
+      "query": "drone crash",
+      "detected_at": "2025-09-10T17:05:19.042635+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "96e8e937ff7b"
+    },
+    {
+      "title": "Russia’s violation of Polish airspace is not the first time Moscow has crossed the line - Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeG1QZllXbm9WMGNYRUwwR0NJbElHWmNjM2kwWHJXTnNfallOQlhRemh6ZmZIaWk0RXdnLUVTU2U1aHdkcWRoeHJGWFEyYVZ4akVmOE5Sdl8tZ1FsbGlvaWQtQmtTS3ZxcDl2TXFPMEtWSkR5UU04U05RLTNsSW1UZU50Q3RoT3hwa2FreW1DYnd1ZGlHcXBQbl9TMUxkVVhMYXQzZ05vUlpuMnFHWUE?oc=5",
+      "source": "Jacksonville Journal-Courier",
+      "date": "2025-09-10T13:01:48+00:00",
+      "description": "Russia’s violation of Polish airspace is not the first time Moscow has crossed the line  Jacksonville Journal-Courier",
+      "query": "drone crash",
+      "detected_at": "2025-09-10T17:05:19.042635+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7285a7c18789"
+    },
+    {
+      "title": "‘No evidence whatsoever’ that Russian drone incursion in Poland was accident: German defense chief - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXk0dDFmMDFNTW14UFFRQjJ0ZU9YUWdRdVdJUkY0Umt4QXdIekJVNUZ1cnh3Y0VNbXk1MVZuZDN6Vm81MUVJWEVWM3J2dTVXcDhqTnhmMk52X3NSOGVIVzRBVzZZTG1Ba2t5U1J3R2I4dFc1bXRVaU9FYVBJal9pSUp5a3lubDNNU3o0TjFBdzB1emc5aXJpTEdB0gGfAUFVX3lxTFBHeEs4TV8xbnhFN0dad2lGU2xfR1Axa0lfWExaVnZmNG5hOFdpY0FOeTlPTHhIQkktVkd0NHNiM2pkdWlXQk9KbTMtejN0OS1UWHVqNjlHMVdvOWFhekpYb0pCcVYtWjAtQUhTR0s3NVFnQ2lNMlBtREJERGJyX253T2NMc0RaRmtONVhHMklBNW1iTW5GVDJBbTlsMzJ3NA?oc=5",
+      "source": "The Hill",
+      "date": "2025-09-10T15:44:00+00:00",
+      "description": "‘No evidence whatsoever’ that Russian drone incursion in Poland was accident: German defense chief  The Hill",
+      "query": "drone incident",
+      "detected_at": "2025-09-10T17:05:15.302624+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b58619fd1144"
+    },
+    {
+      "title": "NATO downs Russian drones over Poland after 'unprecedented' aggression - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2szSkh0SXVhUmlhaXpkZW1MeHpGNjJCNWpkSGd4VFE4QV90X1F1Y2Zvb1FvQ1puYTlvTEVkNjY4RXpqb1UyekUxYXpSX3NoVGV6NEV1dS1rVGpkWXNYbGwycFVRdF9mbkhNMUFOZHY1b3IwNmFrOEpCblZQUkF6OEpLYU8xZlFKZnVVbU40LXQ1eWk3M1l1dS1qRmlMZGpDQXo0YXFXQTRYNkdwMWpDYmhMWVY0UdIBuwFBVV95cUxQRXVaMzBXN01PSTljcFZIaXVkWmU4RldWQUpNbk00d201d0plMDJuTUY2RjVvVF8wNXd2SmxNQzNWT1JaaFd1a29KS2dPbHYxRndvcG54VVFLM29Dd01BUlB0dGhCbW5BVk9ZUnpvUjl3WVE3ZFlpbWdnaVprZkxMNk0zc0tDZmdWWWV3by1PREhvazJ6WVV4S2R4V25KSmI5aml1N2gwQlFCRnVQR3ZlUElwR3hpWExkbnJn?oc=5",
+      "source": "ABC News",
+      "date": "2025-09-10T13:52:30+00:00",
+      "description": "NATO downs Russian drones over Poland after 'unprecedented' aggression  ABC News",
+      "query": "drone incident",
+      "detected_at": "2025-09-10T17:05:15.302624+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2f2ed59c240f"
+    },
+    {
       "title": "Drones Over Poland: Unintentional Breach or Calculated Move? - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1JxVGJMbWpEaEpHa1MwUmhfdTN6NEE5UHRyM0VoR29YaWUtS0poUXVMSzNKSmVreHhqMHMzcmFrby1sZEpJOEhzeXBza1JUVlJPdGlSS3hGVEFoX01RTW0waUExazg2aFRGbmFOZkN3dzlOS0F0ZE5pNUhudWpCOGQ4Z2ZoS19MN2RCXzZlNlFoNjFRMHNXYUgyNjFSMFRWM0lFcGRhNF9hT0FxcWFQUEJJVUhuOW_SAbcBQVVfeXFMUFNScVRiTG1qRGhKR2tTMFJoX3UzejRBOVB0cjNFaEdvWGllLUtKaFF1TEszSkpla3h4ajBzM3Jha28tbGRKSThIc3lwc2tSVFZST3RpUkt4RlRBaF9NUU1tMGlBMWs4NmhURm5hTmZDd3c5TktBdGROaTVIbnVqQjhkOGdmaEtfTDdkQl82ZTZRaDYxUTBzV2FIMjYxUjBUVjNJRXBkYTRfYU9BcXFhUFBCSVVIbjlv?oc=5",
       "source": "Devdiscourse",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "5571a8784909"
-    },
-    {
-      "title": "Fairhope man caught in Pensacola burglary attempt as witnesses use drone to track escape - WEAR-TV",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEk2Qmc4WnpQTW9VX0N0ZEtkZTJOcV94cEVTaTVLYmF1NERtOFlHYnNtUUFvdUdnV20yUDQyb3VkYzR2Q3kxa1EwTUVTbkNsTG50TThHUV9mRWl2TWF3NjVCZlZJWlc2a2lZVzN6dzJVN05mRVBjSmNfNERZZGs2Q2xFQU9BVUVubUZZbEVidHdYZ3dfYUlHNTh0Z3dBQVdRcF96bDFyejYtMVgwRHd6aXpzUjJZekJtUmc?oc=5",
-      "source": "WEAR-TV",
-      "date": "2025-08-01T22:43:53+00:00",
-      "description": "Fairhope man caught in Pensacola burglary attempt as witnesses use drone to track escape  WEAR-TV",
-      "query": "drone arrest",
-      "detected_at": "2025-08-02T16:05:34.332893+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "232f0851d19f"
-    },
-    {
-      "title": "3 people die in overnight Ukrainian drone strikes on Russia - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVhNZ1pzX1VSNERkOVZuRkhpUDN0TDU0SDJiTGZrZi0wRVNfaDhXeHFHSmN2SzBJZW9qVkxiUGdDeXVaeHZNZ1hmMWtHd2U3b0swTG9saDhjM2ZlWkhlbkNLWjZTLWQ3WldoZ2hDWGZXYXBKWnNpM2doVnk3NWZUcHVzWURZMGF5NmYwanFiMVhQRVU4ZWxKYllkUTJ0cDVEUzdZajhrRQ?oc=5",
-      "source": "Pittsburgh Post-Gazette",
-      "date": "2025-08-02T14:34:53+00:00",
-      "description": "3 people die in overnight Ukrainian drone strikes on Russia  Pittsburgh Post-Gazette",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-02T15:05:00.969655+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "77296d1071a6"
-    },
-    {
-      "title": "Army thwarts drone drug smuggling attempt on northern border - Jordan Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUliNndtSV9SLUdrTHhSX09RRHprOUc0NUwzdDF3a2R2WmlKdWJsZnZWdnhOamQ3dVdfRkVWQzFKNklULURoRXozdUxXUkpBemltQ0JyalZ6MmNZUlhmMDJQTDc0cUgtR1ZYRWxyeDdvd3JLQ3BiYjU2elVqakFkWjVBWVRReVpuX2VranJuR3A2OUxuUGZ4eFNDSQ?oc=5",
-      "source": "Jordan Times",
-      "date": "2025-08-02T09:54:39+00:00",
-      "description": "Army thwarts drone drug smuggling attempt on northern border  Jordan Times",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-02T14:04:54.259075+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4baad3942e30"
-    },
-    {
-      "title": "3 people die in overnight Ukrainian drone strikes on Russia - The Tribune-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWtaTXFHMDM0SUxQdExuLVM1eDR2Z3BTUUdOTy10SUpYdEtlbnRjeGI0SWJHSDI5TGFDTWFkTk1iVXk5eC1YMWI2VnpaODFiVEJjcnBKb1JxcEpKYnV5eHFaU1FMV0cyM19GQmVkclEyM3V4SzRYTHBXamRObXBBUncwUUdXMGlnTFp3cjVRRUZrM2FtVmN1eklBbEk5MXdvamd2UmJZVnVaVzlNbVlDMkJtVGtaR0ZVR2FxMEVXUmljelRfbkd4aEtpSEozTWVfM0trOQ?oc=5",
-      "source": "The Tribune-Democrat",
-      "date": "2025-08-02T10:50:00+00:00",
-      "description": "3 people die in overnight Ukrainian drone strikes on Russia  The Tribune-Democrat",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-02T12:08:26.069268+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "90c616078c37"
-    },
-    {
-      "title": "Suspected Belarusian drone found in central Lithuania after days-long search - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0F2a1pnMXAybHBoekRwanNESG83UUdsS3RQam02VkxERnRYemJYajN3a21mLWh5TzJoSGJwbzNMNFpjc0FHT1hjYjdZa3ZBOUZ0cU9JbTdxMW1jbmpCbzJJR0pTbDZudlpPMnRNWER5S0ZiVDBIb0xZcDlZdUR1ZjhIQ19LaHQzcFdTX0tkV2JpNlgxcHZ4RDktb0I3RlhZOWt0cXY5aktfMHpMaVVObWFuTS1tS1NYQTBXSExJRV9pRlVsUWdWM3lYckQ?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2025-08-01T14:26:21+00:00",
-      "description": "Suspected Belarusian drone found in central Lithuania after days-long search  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2025-08-02T12:08:21.194141+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "48ea290fc799"
     }
   ],
-  "last_updated": "2025-09-10T16:06:09.747731+00:00",
+  "last_updated": "2025-09-10T17:05:22.423351+00:00",
   "total_count": 1000
 }
