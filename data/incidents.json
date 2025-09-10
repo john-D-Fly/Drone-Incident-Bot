@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Poland says it shot down Russian drones after airspace violation - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUWhTLTFpWHpTUTR4Z1lXMFBxejVlMVZKMHdza3ZNTWJodU4wbmIyd2FCbUN2WkVacTRyYWJnZm1CQWJDczlkWmN1M0dhT2dxOURvTEMyT014UdIBX0FVX3lxTE5tQTlCNWJHSDBDSGZxVmZ3M1k0UHRtcXB3Y3Q5Z1Y4OVVya2xhTkZxbE40bWw5WE1CTDRTUDZTVS15SmtOd2hvRTJCMmNjUGJuM0ljdHJwb0VJNHhYblNV?oc=5",
+      "source": "BBC",
+      "date": "2025-09-10T18:15:03+00:00",
+      "description": "Poland says it shot down Russian drones after airspace violation  BBC",
+      "query": "drone crash",
+      "detected_at": "2025-09-10T20:05:47.491658+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e1364633d5b5"
+    },
+    {
+      "title": "NATO warns of risk of escalation after Russian drone incursion into Poland - EL PAÍS English",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUJmd0ZtZzlCY0p1S1lGb1NWUGY0SGFRWEdxUHZRSEw2Qk9YMFBXb2g5M0k0VlJ4X2MxNFRlMkpOMjBjOTh3ckswQ29WZkI0X0VhVFpWSTVrOExrYWJ5MXMxOEVVYWNqQWZyRmk1UF80ejROYUZkMXIyZjYwbWViaW9Sc0k0RHVlYkNhT0F3THVjZHNKTFpOWHRiaUZ5WDItRHdNQWFTWUg4RFhFVWdJVmFCQkVPOHBDWFhnVGVBOUpobFRv0gHYAUFVX3lxTE4zV0RnaDBVdTNPeklJLWxOYzgwaFBkOE4zWGtpd1h2RVhsdjRDUC1TYkxIS2hMLUxabVF6bkR2S3NlTzBPNzk5eXByNUxIMmtXZUUwMW1ac2FtVDVLT2hpcm44SV9NeTh5ZDV4eHRiNUhON3hfRG5VTzRNOFFRZGFGNU9YWUI1V2VScnlWWG1TNklEb3A4eU9CeWtJRUJWc2VUNTZDOGZKblpXenF0TThOQW1DVnlhcDFWQnNRU3o0bnRodnV5dTRyYlM1dF9FSjIxa2J6RURENA?oc=5",
+      "source": "EL PAÍS English",
+      "date": "2025-09-10T16:27:06+00:00",
+      "description": "NATO warns of risk of escalation after Russian drone incursion into Poland  EL PAÍS English",
+      "query": "drone incident",
+      "detected_at": "2025-09-10T20:05:44.293968+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "53ec0691337e"
+    },
+    {
+      "title": "Poland calls NATO meeting after downing Russian drones - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWR5czBhcGFxVjM3NHUtM0JPcXhQSTRMWmZhZmxYNnJoYTNWU3pyUUpZLVNzWUNKZ1o2eGpCZ19IWTk4Y3dIaE5QSnd4bnFNWVl1QzNHSXhfTFhCVE8wb0dONkZxWHMxRUZYdlZHTFBlZWJKeEJzMXIxSF83ZWJCNjg0Y3R1THEtMkIxX01MbTk2Q2s1?oc=5",
+      "source": "DW",
+      "date": "2025-09-10T19:07:30+00:00",
+      "description": "Poland calls NATO meeting after downing Russian drones  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-10T20:05:44.293968+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4e9efb00d977"
+    },
+    {
       "title": "Russia’s violation of Poland’s airspace is the most serious in a string of cross-border incidents - Boston Herald",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BaGtFR2ktV2M3SzhNSTI3eE1yZ05VSmVZX2VWZEVZQVVPczBCN2I4MG14RW83RzZ0MUVBbkFvZWhtOWNhSzBKSDJWenJ0UW1GN0drRzNSd2g3MmpoVTZ5Vk1SZnFTNkp4UHpWTnU1QmF1Z9IBd0FVX3lxTFBjQlhxTmI3cUs4YTZMMDRxNC1UZ0JQdzlaS0U4dnhEd2tEMlktYmU0QjBHMHJaNnpCZVFVSlZqZXMzQUFpdzJsSkNSNHBqNjhZVUtWTERISmNYdTdDcDZlcmpYNFRiQVJZQ3FUVmlOR2dwUVpiNmlz?oc=5",
       "source": "Boston Herald",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "38431c87f17e"
-    },
-    {
-      "title": "Army thwarts drone drug smuggling attempt on northern border | Jordan Times - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzJfT2FIeFNZWFRxUVNfVml1UEZOcVlKd0Y3a01Fc0pUMHJuemJMSGFqOUI1TzJEcmlnT213TGhBZTdOZGtnd3VmR3ZNaXVYN0h0eWtqdHhKMEVXVUUtclhZd2dNWTdjVURZX3h1LVBUWmY5NW8tOFJJRnk1bmplMWR2RVJPTWJ6d2NPRndvaC1oZElZUEpqZjhUNnI0ZXRxdVF3WWRXWjkybG9aZVBpNkJZY2R6ek5GbXhMTmpqNmpNSzQ?oc=5",
-      "source": "MSN",
-      "date": "2025-08-02T18:35:57+00:00",
-      "description": "Army thwarts drone drug smuggling attempt on northern border | Jordan Times  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-03T02:50:54.365228+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8531d94e3087"
-    },
-    {
-      "title": "Ukraine officials held in military drone corruption probe - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01U01XWkU3R1Z6UjNtYkNDODMzNFRiVTVBaHEzUFNzdzNwRlJsVnFzVkFqeHcwcnRjOHM4aE5LSmdJMGtxNmtSUHBQUk1mZlhBN1lXUzhUUXdhQdIBX0FVX3lxTE41cTRyNElfNVJoNkdGay1iZ0dFZ2FfQ1Rub0RVNEVqTDIwX0ZUOVZndENJNkdBN1duT1FKeFhBN21Ra2U5YVJSclJPay14c3YtVFdsNmk1dTZyaWlzQ19n?oc=5",
-      "source": "BBC",
-      "date": "2025-08-03T00:35:01+00:00",
-      "description": "Ukraine officials held in military drone corruption probe  BBC",
-      "query": "drone arrest",
-      "detected_at": "2025-08-03T02:50:53.758175+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9be6e54af3dd"
-    },
-    {
-      "title": "CRITICAL BLOW: Pipeline attack rocks Putin’s war machine - News.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkpuQ1dVcGVsbTM2RDN2blVzVU1PTUpmbUtiM1ZHMVpuRTJXZ0JZREdKYk96Y1k2ay1yUy1xS1RkSVpGeGhjem1RTnZjLXR6MFA2QjZQV0pRRFlmSm52UHozVVFVNFRPU0puc1llT2lXU1hIbVZOeGprVXpFUzR2TU9OODZWak0zT3BqcF9HSEs1NVh3S29DRnEwRUhhUVhsYXo4Y0hNOHpuWGdWVW4zQ2RxNmJlQl9DX3A4TkJFbEMxWlhBVU53UUV0RDg0T0ZJcnJDMdIB2gFBVV95cUxQSXRQbnUzb1lfSFAwbVRWQ3BDWnN0M2tWdkw1XzlQcnctNWcyMzlfaGVQRllpdWE1VUFpUTF1T2pZWTlrVnZubHdBRWdhU1p2SWV4SXROakFWcHg1cVY0M25FTkl3cDJTV3VtN0JjWGY3cWhkRmxCemJ1VHBrVWQ5R2V5VWtBaU95TmxYTnBIR25HTWhOVEdEX25hUkY1TndGOXF6QUFjVm5IczQ5dllrWVAydHY2WlFWYjYzQ0Y0QTFFazJ2M2U2YVZCRmtRbEpDSkZybzRwUjMtQQ?oc=5",
-      "source": "News.com.au",
-      "date": "2025-08-02T22:23:29+00:00",
-      "description": "CRITICAL BLOW: Pipeline attack rocks Putin’s war machine  News.com.au",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-03T00:27:35.945393+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dd7526c3fa1b"
     }
   ],
-  "last_updated": "2025-09-10T19:04:47.649906+00:00",
+  "last_updated": "2025-09-10T20:05:50.737680+00:00",
   "total_count": 1000
 }
