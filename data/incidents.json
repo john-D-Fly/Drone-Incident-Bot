@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Emergency meeting of UN Security Council to be convened after Russia violates Polish airspace - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEJpd0JRTVM1b25OMEI1MDFlU3ZobGpIdTlRNG5PbzUzZlNWOXhWNXJicXo5amJUMFh4NDZJcXlUdk5Sa2s3U29ORmJCUmR0cWRKYlJBQ21JVlg0cGtXX0t1QTQ0UlBsa0k4U2I3cGJUajItNFh0UjhaZEVRdHdXQlI0Zzc3VGlza2pfdVVlblc0T1lT?oc=5",
+      "source": "TVP World",
+      "date": "2025-09-11T15:00:00+00:00",
+      "description": "Emergency meeting of UN Security Council to be convened after Russia violates Polish airspace  TVP World",
+      "query": "drone security breach",
+      "detected_at": "2025-09-11T20:05:25.351527+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c5b5812bbc62"
+    },
+    {
+      "title": "Warsaw and Modlin Airports Closed: How Poland’s Drone Crisis is Disrupting European Air Travel - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3FleUowTWo4aUJQYkNmUS1QOWMyeWVNVkM2eFVqSWdsX3lnYXFzZG8wTXp6cWtHZGpXOGpMZ2tLWE43dkgzaG5sSDRaRExTS1NZMDQ4a0NIQ0J5TkFGRWNmWFNsYVpkVlNyTy0xU0N4MEYtcVBRQjVHdWQ2MllpcEN3TkFTSnVKUzR5dHZtZU1NTHBSR01JdEdWX0xSVkJrUE9lQXFleXpPMjVBdEN3S3RVVnJlWVQzVGM5T0hqVG05SjBJNmZzOURQejQzU0Zub2Q4WlhmbS0?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2025-09-11T12:55:41+00:00",
+      "description": "Warsaw and Modlin Airports Closed: How Poland’s Drone Crisis is Disrupting European Air Travel  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-11T20:05:23.503048+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "993faca108cd"
+    },
+    {
       "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
       "source": "DW",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "297f0de359d8"
-    },
-    {
-      "title": "Lithuania seeks NATO air defence support after Russian drone incident - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXJiWWRWdEdYMndfNDhfWjRaeERMWWYxcE1WRE1uZjM0SEYtbE92bzZTZEFzd0h2eDVLR20zWHlmcWx5OUtGVnFaVmRYR1g4QVkyNFFaVERGNG1ndEhhdHdkVEFqSHJBYlRDRjE4X0NLRTVadjgxVDlWZ0tvcUpLSWlBVExqLU5XejRkc2ZRcWYwbExH?oc=5",
-      "source": "Punch Newspapers",
-      "date": "2025-08-05T16:13:38+00:00",
-      "description": "Lithuania seeks NATO air defence support after Russian drone incident  Punch Newspapers",
-      "query": "drone incident",
-      "detected_at": "2025-08-05T17:05:33.609917+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3a311992681d"
-    },
-    {
-      "title": "Drone that crossed into Lithuania from Belarus represents ‘alarming sign of spillover of Russia’s aggression’, says Lithuanian minister – as it happened - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUtGLVEwN09pUzFDcl9oMmpULUhEUi11ZkdORUNCTk1Yc0dHMFdwaGxTSlJnR1VvTWpYZFdnMFlBaWI5azAwTUxxVVpkN3RUanNnU0pncGZoSzdtVXBieDE4M3ZidzI1OTNraFZDZUNyQ1oxNEw1Z0RlcnB2Ukg3MG5CZ1RfNTM4dXNGcjdJQ29ZbzlYZnJoQkNiVFFQTnNOVHdVNXYyeXFKMDQ2R3BMZTdSYWRIUWFySlBRX24tbw?oc=5",
-      "source": "The Guardian",
-      "date": "2025-08-05T07:33:00+00:00",
-      "description": "Drone that crossed into Lithuania from Belarus represents ‘alarming sign of spillover of Russia’s aggression’, says Lithuanian minister – as it happened  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2025-08-05T17:05:33.609917+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7743c2434cf7"
     }
   ],
-  "last_updated": "2025-09-11T19:05:01.364732+00:00",
+  "last_updated": "2025-09-11T20:05:27.182757+00:00",
   "total_count": 1000
 }
