@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Poland calls NATO meeting after downing Russian drones - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWR5czBhcGFxVjM3NHUtM0JPcXhQSTRMWmZhZmxYNnJoYTNWU3pyUUpZLVNzWUNKZ1o2eGpCZ19IWTk4Y3dIaE5QSnd4bnFNWVl1QzNHSXhfTFhCVE8wb0dONkZxWHMxRUZYdlZHTFBlZWJKeEJzMXIxSF83ZWJCNjg0Y3R1THEtMkIxX01MbTk2Q2s1?oc=5",
+      "source": "DW",
+      "date": "2025-09-10T21:22:30+00:00",
+      "description": "Poland calls NATO meeting after downing Russian drones  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-11T05:05:27.033904+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3452a42de28e"
+    },
+    {
       "title": "NCAA vows crackdown on illegal drone flights - MSN",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVY3RFJVRXlyQTNJVGp5bTBManRDdlZpZURrTU9kRmNzbE44dzV4Y3NuYm5WaEpfQUMzaXJDbmV2THMyckNhUDFRWWtFTWdyYzhxU3JOa2xFY04xX0ZTSFVIenNTRWhucnhIREZrNTNjMGN5N25DVjh4bGVyNm9uRFpKWmlhdWhJb2Q3TGd5YnhRWXhnVU96dQ?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "269c16111204"
-    },
-    {
-      "title": "Drug Smuggling Attempt Using Drone Foiled... - jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXVyZUxmby1qUVhaYWZ4bVVPR2VCYkF5N3ZGSzVsTFVFRWthNlJiTTUzM3pQVVZNT05aY2JYcjUtZGY2aHZ3aEVqbnhoU29weHBSZGpkMFF6SVBGR0VTNndGN0ZRWFoxanB4QlU2OTVYVFdHWGVBUTUxTzA5MDcyNTkybnVIYjBNQUMxZ0lPZUdTTC1Z?oc=5",
-      "source": "jordannews.jo",
-      "date": "2025-08-02T08:22:08+00:00",
-      "description": "Drug Smuggling Attempt Using Drone Foiled...  jordannews.jo",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-04T08:08:18.778897+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "202296fcf4ed"
     }
   ],
-  "last_updated": "2025-09-11T03:17:31.085021+00:00",
+  "last_updated": "2025-09-11T05:05:32.890589+00:00",
   "total_count": 1000
 }
