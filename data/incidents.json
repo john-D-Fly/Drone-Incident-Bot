@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
+      "source": "DW",
+      "date": "2025-09-11T16:20:14+00:00",
+      "description": "Fact check: Fake news after Russian drones downed in Poland  DW",
+      "query": "drone crash",
+      "detected_at": "2025-09-11T19:04:58.320140+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6914c52a392e"
+    },
+    {
       "title": "Russian drone breach in Poland is said to raise airline safety, insurance fears (KLMR:OTCMKTS) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzhUSlA0aU1YS0d3S3FYbnlSb19zSUNaQzktNFIwbTB1Z0ZSQkdJY25kcTktaG5GS2ZrOTVUNFRFMnlCZER3aE9ab3lTVkViWDJpWDduM3JXLUpDZDV2aGJ3VzJRZGE0LTBhRmI3SS1sNGIyZjlTcEU4TGtQQXdaRHAyanRkQTlubXhVNl93b0lVTVJKb0dweWZhS2JkY25UUjIwOGtyeTRIbGVKTlE4YnJ0Y0ZqWWgw?oc=5",
       "source": "Seeking Alpha",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7743c2434cf7"
-    },
-    {
-      "title": "Lithuania Asks NATO for Air Defense Support After Russian Drone Incident - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13N3BWR1ZzdHZDTUhVSm5UTUw2TnJkSFRqSmtMQkxOLUQyUGw3M1RLSGNJWkVuNzhiM0lhOEtqRVREM0JnSTgtem5Ddw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-08-05T16:19:58+00:00",
-      "description": "Lithuania Asks NATO for Air Defense Support After Russian Drone Incident  Kyiv Post",
-      "query": "drone incident",
-      "detected_at": "2025-08-05T17:05:33.609917+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5375d50ca5ca"
     }
   ],
-  "last_updated": "2025-09-11T18:06:49.033205+00:00",
+  "last_updated": "2025-09-11T19:05:01.364732+00:00",
   "total_count": 1000
 }
