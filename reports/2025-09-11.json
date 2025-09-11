@@ -1,0 +1,126 @@
+{
+  "narrative_summary": "In the past 48 hours, Poland has seen significant drone-related activity, primarily connected to Russian drones violating its airspace amidst ongoing tensions in the region. Multiple reports confirm that Poland shot down numerous Russian drones, demonstrating a heightened military alert and response. In light of these incidents, Poland has called for NATO meetings and invoked Article 4, emphasizing concerns over potential escalation into conflict. Drug smuggling using drones also emerged, particularly two arrests made in connection with attempts to deliver contraband to inmates in prison facilities. The region remains on high alert as NATO allies assess their defensive measures against these intrusions, with implications for aviation safety being particularly noted.",
+  "totals": {
+    "other": 56,
+    "smuggling": 7,
+    "security": 6,
+    "airport": 6,
+    "crash": 5,
+    "arrest": 5,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 4,
+      "arrest": 2,
+      "crash": 8,
+      "other": 92,
+      "security": 7,
+      "smuggling": 7
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 10,
+      "drone crash": 19,
+      "drone illegal": 2,
+      "drone incident": 61,
+      "drone security breach": 7,
+      "drone smuggling": 1,
+      "drone terrorism": 14,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Russian Drone Incursions",
+      "rationale": "The number of incidents involving Russian drones over Polish airspace highlights a growing security concern.",
+      "incident_ids": [
+        "a691023242ce",
+        "34ce513e8f50",
+        "5958d3450f4e",
+        "a5a176378914",
+        "bb5e1b3b8124",
+        "75fd1a1b66f2",
+        "94bbbbf124c4"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Arrests",
+      "rationale": "Recent arrests related to drone smuggling attempts indicate ongoing security challenges within correctional institutions.",
+      "incident_ids": [
+        "d4840ac18ea5",
+        "75fd1a1b66f2",
+        "b58619fd1144",
+        "1c7bf483da6b"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d4840ac18ea5",
+      "headline": "Poland calls NATO meeting after downing Russian drones",
+      "one_sentence": "Poland has summoned a NATO meeting following the downing of Russian drones as tensions escalate.",
+      "risk_tags": [
+        "security",
+        "military"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fdd327351b1a",
+      "headline": "Poland Calls Emergency UN Security Council Meeting After Russian Drones Breach Airspace",
+      "one_sentence": "Poland's urgent call for a UN Security Council meeting underscores the serious implications of the drone breaches.",
+      "risk_tags": [
+        "security",
+        "international relations"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "a691023242ce",
+      "headline": "Two men accused of attempting to deliver drugs to prisoners with drone",
+      "one_sentence": "Two individuals have been charged with attempting to deliver contraband to inmates using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "34ce513e8f50",
+      "headline": "Russian drones in Poland's airspace stir worries for Europe's civil aviation",
+      "one_sentence": "The incursion of Russian drones raises significant concerns regarding the safety of European civil aviation.",
+      "risk_tags": [
+        "airport",
+        "security"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "75fd1a1b66f2",
+      "headline": "Poland downs drones in its airspace, becoming first NATO member to fire during war in Ukraine",
+      "one_sentence": "Poland has fired on drones, marking a historical moment as the first NATO member to do so during the Ukraine war.",
+      "risk_tags": [
+        "military",
+        "security"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Tensions rise in Poland as the nation downs Russian drones and calls for NATO support #DroneIncursion #NATO",
+    "linkedin": "Poland's recent actions in downing drones signal rising tensions with Russia and a commitment to NATO's defense protocols."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-11"
+}
