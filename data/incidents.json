@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Israel strikes Houthis, targeting propaganda HQ, camps with operatives - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3ZRWXR6bkY0WWVBRkVnR0hoUGwwbFV0b3JEbFh0UnFiaGVlOUV2RjNTWFJpV0U1Xzd5a1N4ZEhmTTZwZXNPZzQ1RWhGRHJyd2VGNHNBVHJmbjNka3RVZFJtTEdTbGRHQ0huUklQUmRVemRueTNhTnpoelVLb0NKb2ZuVG5iUnZocFdMWDNIemJvSENzeUdacUNlX2VzX1l40gGmAUFVX3lxTFBfcUV0M2xoVDVJYTJfQTRTaWlnREFWeHlSd1Y1R21MQzRnV2l5djcxaWpSbkpTRWlkOXpmeGczZ2N6Z3dBYmgxV2Q4bFJTRXBkRGR1Uy13WEd5MWFQLTBaeXFNV25HSGc5dGJ5QUtaOGlSaU9LQzFQQkxBeGNBN1FPNUZPUV9lUVZPZEdNR3ZDZ2ZuLThfSmtQaXI2SWxkbk1uQzRlSmc?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-09-11T06:15:00+00:00",
+      "description": "Israel strikes Houthis, targeting propaganda HQ, camps with operatives  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-12T00:21:03.679384+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "97169c65bc7e"
+    },
+    {
+      "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
+      "source": "DW",
+      "date": "2025-09-11T16:30:00+00:00",
+      "description": "Fact check: Fake news after Russian drones downed in Poland  DW",
+      "query": "drone crash",
+      "detected_at": "2025-09-12T00:21:01.871994+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "05c789ae5ecf"
+    },
+    {
+      "title": "Nato strengthens defences after Russian drones shot down over Poland - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRXo4dVRWd095UWtic0lTaXBFVVJmZDJzc3hGSDh4LXhweElUd1RDTVF0czhPek1mbFlaZGhoTEpnOUNHUHJqQy04ZEpGaTFneWlzeHpwREJFd9IBX0FVX3lxTFBGelAzY0g5bXhmeUtfak92V1NhTDhONG9wTDc3NHRMQ3VPWTc2UkVJSzhoTi1ObTFZb2lvYjU3RkVWc1JUd3pIUno4V1htSDlYVnY3QTNHNVQtcjF2dy1J?oc=5",
+      "source": "BBC",
+      "date": "2025-09-11T23:46:28+00:00",
+      "description": "Nato strengthens defences after Russian drones shot down over Poland  BBC",
+      "query": "drone incident",
+      "detected_at": "2025-09-12T00:20:58.822330+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5973ddeeecc7"
+    },
+    {
+      "title": "NATO Working on Defensive Moves After Poland Drone Incident - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHhpUjgyTXA0QXl3NXllNkpIWGdxZjVQblQ1QjhXNDVNTnNXM1oyMUZLelhUYk5aUm5weEJNb2FjZnBaRUgtZ0RreEY0Q1FOZDJHY1BHYV9jVnVCVmtPTWpkNnpFY2FIWVRDVXdqSUxzSWx2R3ctUWpSeEo0UGRQblRhU3UtOVQ0XzZwQXBWZWcwX2xyeEY1b0x0cE5XaEhFd1RrZzFKaEdTamVXQWZLck5YUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2025-09-11T19:41:52+00:00",
+      "description": "NATO Working on Defensive Moves After Poland Drone Incident  Bloomberg.com",
+      "query": "drone incident",
+      "detected_at": "2025-09-12T00:20:58.822330+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b1ecb2ce86a8"
+    },
+    {
       "title": "Poland Calls for Emergency UN Security Council Meeting After Russian Drones Breach Airspace - Arise News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ29IcEE4TnZaSEp0YXBnMnY3NWxMd0VPbFkzRDRQTFZPbm9hcjZzeVFLUVN3MDFVVm9RX3Z3bG9HZFh0R0hWc2JlS0t5RjdOZ191bDd2cDRhY0xLUGVwdHFrb0l1THpNblZTc2FKcklzdllUTnFVbnhPVnE2R19MZ2FrNERlWmpBRzhrRThacDg3ZEg3VmRsRHhwcU5DTHMydk9oUmtLSW5wMk5jT2c?oc=5",
       "source": "Arise News",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e01fbd6996a9"
-    },
-    {
-      "title": "Hasselt “now the first city in Belgium with permanent drone detection system” - Unmanned airspace",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWRDeXpwSFZIbXV0dDJIT1JPZ1I5M0FuZGNabXhRMFVja1FFdkZxZnJRRjQ5S2k2b1VCczNQbUFySkxCT1FRQ2RxS2hKSTdEc0NUUnE2dkhjYjhhWXYyV1pOazRkRFQzLVpDNlVSempMeFJJa1p0OTlYWU0zTUdGZnF2Q2ZVaGt6cmRDM2tvYlNsZzBvQXVaZkxSOWsyaXVNenZqcWlnRmwzMGRQMmhuTWhkWTV6SFlwZHB1dEpR?oc=5",
-      "source": "Unmanned airspace",
-      "date": "2025-08-05T10:02:43+00:00",
-      "description": "Hasselt “now the first city in Belgium with permanent drone detection system”  Unmanned airspace",
-      "query": "unauthorized drone",
-      "detected_at": "2025-08-06T03:35:01.810210+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8f4b0c49c656"
-    },
-    {
-      "title": "Drones, drugs and phones: two men charged in prison contraband plots - WSFA",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVl92Um8yZWxYUUpKNzBtYi1YV1Vpb3lRTks4RnhjQmkxallTZGlNam5aWUlHYy1UZDcxaWxYZnQxYWVOSldJSzl3RS1SaFdyWDMxX3NDRmJHTE1pWTR3WURWYW8zYkhCaHVOUG9nUzFxVGRBdnQyY3lOM0RyS1A3aTV0ZnY1dTVOQm5XekZIcE91NHNMUWNv0gGrAUFVX3lxTE0tOGFyWU9OeGxiUGpQUG9CMmM2emNjcnZjUEhLcnhpT3hKempqclNHZ2Z4UTVlSVBDcldLM1VHdzZrY24xWUhrd3lXbjRFT1k4dUhLMHg5bzhtTXVEVzM2RTdOREpHU2pTc3hEYWNESUFkcXllX05aN1RGX1RIcFN4ZmZ1ZnIxSjdIUVB1OFkxUURnYTlXMzMxRU9ENXpreVFXLThPSWE3Y0NTbw?oc=5",
-      "source": "WSFA",
-      "date": "2025-08-05T00:52:00+00:00",
-      "description": "Drones, drugs and phones: two men charged in prison contraband plots  WSFA",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-06T03:34:57.565003+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "80a2a8e45735"
-    },
-    {
-      "title": "Two arrested in major drone funds embezzlement case involving MP, ex-governor - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0JYVDZ5VHNiR0s2ZEtIM2ZuU29VQTZLcjh2TWZTWll1MVV5OW81Y1J3akxhWENodkhsYlA3VFZqVHJ2VTRJeXhxcjRCN3dDbmtXSVlsYTVydll5UXBfYWUzMG02dUwwd0VET05oUHJTNlM2QzZXVUd2V1pidGM3STVxNS1QcFdzV3ZtMzFtTjBfM0RkSDI4cXZ3bkc3MGFoU05xbWROOEpucWVmdTVqdTFJZGdLaHJRcTI5b2I0TGt1cHJMZ1J0UVl3?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2025-08-05T11:23:00+00:00",
-      "description": "Two arrested in major drone funds embezzlement case involving MP, ex-governor  The Kyiv Independent",
-      "query": "drone arrest",
-      "detected_at": "2025-08-06T00:24:57.639524+00:00",
-      "location": "in major drone funds embezzlement case involving MP, ex",
-      "category": "arrest",
-      "id": "89a13baac406"
-    },
-    {
-      "title": "Drone operator arrested trying to allegedly smuggle items into Saint-Jérôme prison - CityNews Montreal",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2o0UldKeWZnZVhLLWI1UGw3NERWSW5xcGNUWGhNRW1tQ04tSmNRVHVqdnVwT3NTOFQ3X0ZxTEo0NUEzZmpGRTZSM0otNEJPUXBmVUgyNGFIclo2MXhEVnV0Q3MzU3kzeHZ5M25McE00d2hZN0pIeXB2c05SZTRZZEEwLXZjSGs?oc=5",
-      "source": "CityNews Montreal",
-      "date": "2025-08-05T22:23:55+00:00",
-      "description": "Drone operator arrested trying to allegedly smuggle items into Saint-Jérôme prison  CityNews Montreal",
-      "query": "drone prison",
-      "detected_at": "2025-08-05T23:05:29.008373+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b1b5c802b65e"
     }
   ],
-  "last_updated": "2025-09-11T23:05:12.248531+00:00",
+  "last_updated": "2025-09-12T00:21:04.828642+00:00",
   "total_count": 1000
 }
