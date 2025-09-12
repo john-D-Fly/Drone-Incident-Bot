@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "UN Security Council Meets on Russian Airspace Breach - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc003R1NzcTdOQ3ZOOEhBRmcyOTFFd09VdDdJWWV4c3FIRzZzV0NKTm1XdlZRSENJeUlhaGJoTThmdnlZdWR2YU9tYi1JSkNmWWlLVXdQZnJ6MmFfTlNJUWlYY3hVVzVSUzAyc0xLdGpwQ3N4SUd1M0pqU3RmbGNWMmNVRnFxdWlN?oc=5",
+      "source": "Mirage News",
+      "date": "2025-09-12T16:14:00+00:00",
+      "description": "UN Security Council Meets on Russian Airspace Breach  Mirage News",
+      "query": "drone security breach",
+      "detected_at": "2025-09-12T17:05:02.353661+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "4ba92ba8ade9"
+    },
+    {
+      "title": "Poland tells Trump Russian drone incident wasn’t a mistake - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDh1Y3NjSUtlaTFKc0dqRVJoX1JIeE5ITTM3dFVGMEdZbHBJUExLYkNoUmt5dU16TUtpRU43dl9ZNFc4cTFpaEpkWThBcS1UZkdEQjNVVDVrOE93czhlNG54b2F3c3JqUHprLWNYVllSaFRMSHNzWTJzaFY5OVFRME1BZlVlOVQ5NVcwLTVlUUF4S3BZV1ozajY3V2pHZ3JINGNfUG8xMHBiTVdGZ2NGdFYzeWdwY2M?oc=5",
+      "source": "MSN",
+      "date": "2025-09-12T16:22:56+00:00",
+      "description": "Poland tells Trump Russian drone incident wasn’t a mistake  MSN",
+      "query": "drone incident",
+      "detected_at": "2025-09-12T17:04:57.731751+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d08e31c5760f"
+    },
+    {
       "title": "Cheshire Police to use drones to catch illegal e-bikers - Nantwich News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX05odGF4SFhBVUNtSTFlZVhURFBSNVRmb2ZvRC1rUUluM0NlelV3UGllRlpISGd3cXRxUDdlU0dJQkxYWEdPZVJ0U3NycXJMRkVCV1duM0FuelNDV2toNTVQbUZmeEVhc1hTcFVDcXYxQ1k3SHhCaEpMR1lqRkhpZ3NkMGV4OC1VeDNhUE5CWGtBbVRwVUxDYkxuVkQxUQ?oc=5",
       "source": "Nantwich News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "016bc5d594d3"
-    },
-    {
-      "title": "Amazon Drone Delivery Takes a Dip: Package Plops into Avondale Pool - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wLWtIdVFSdTZoX2lmbU1lMXlaOEFJc3NjRDhxRkFQX3RvcTc2TW9TNTctUVJSY0xQYTdwZHYzYW1BRkhaUnYxdkFNRTZRWVRqbWNBT2dzNTBzS3BqTVVsVjlWMjJvOVhpeEtWVHhPcVpfQmYyaVZR?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-08-06T19:34:42+00:00",
-      "description": "Amazon Drone Delivery Takes a Dip: Package Plops into Avondale Pool  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2025-08-07T10:06:01.391729+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3246a3960bf4"
-    },
-    {
-      "title": "New Drone Program Could Revolutionize Border Security - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNjNJM1hwcmpOMVRXbTQ2OS1DOHB5T2ZCam1aMWYxcGR1aFdUZjAtU1FCNXdxY3VValZkU2NyMGIydko2aVhMM0F6dUtDZDhFNFNWZkpuRldwN2NaeksySDE0VUw5bUN1aTNmb3V3eHd4S0VRcWFNcGUzX1FqTjg?oc=5",
-      "source": "Newsweek",
-      "date": "2025-08-07T09:00:01+00:00",
-      "description": "New Drone Program Could Revolutionize Border Security  Newsweek",
-      "query": "drone illegal",
-      "detected_at": "2025-08-07T09:08:46.948710+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "67fd59001da9"
     }
   ],
-  "last_updated": "2025-09-12T16:05:49.291650+00:00",
+  "last_updated": "2025-09-12T17:05:04.154720+00:00",
   "total_count": 1000
 }
