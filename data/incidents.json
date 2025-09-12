@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
+      "source": "DW",
+      "date": "2025-09-12T00:24:36+00:00",
+      "description": "Fact check: Fake news after Russian drones downed in Poland  DW",
+      "query": "drone crash",
+      "detected_at": "2025-09-12T09:05:32.088437+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ec9ce4f33bbd"
+    },
+    {
       "title": "Poland Calls for Emergency UN Security Council Meeting After Russian Drones Breach Airspace - Arise News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ29IcEE4TnZaSEp0YXBnMnY3NWxMd0VPbFkzRDRQTFZPbm9hcjZzeVFLUVN3MDFVVm9RX3Z3bG9HZFh0R0hWc2JlS0t5RjdOZ191bDd2cDRhY0xLUGVwdHFrb0l1THpNblZTc2FKcklzdllUTnFVbnhPVnE2R19MZ2FrNERlWmpBRzhrRThacDg3ZEg3VmRsRHhwcU5DTHMydk9oUmtLSW5wMk5jT2c?oc=5",
       "source": "Arise News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7d3d1da8529a"
-    },
-    {
-      "title": "Sky-borne threat: Pakistan’s drone network fuelling drugs, arms smuggling and infiltrations into India - MorungExpress",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmpFR09RRDNYTThVdnBTTk5MQnNlYzl2X0lEZmVjeV9SVW5QcUJFR2VRdU1ZQmNFdjJhTVJXQ0JMLUV5UmdLRFV1NU10TFNFT2x1NWdjanBDMkczYW5iMVZadTdpd0tuYjM2VDJPTkN1a3F1RkoyOHByOWJoOGlzVHJoeGpsMHZLVG80c1MzcXEtQW1vMGM2T1lHVmVMcmJ3bU5nMU9RZkQzNGlHWE92V2hnbVc4MVJNenBvekNpeEE5X3dIZUFUWQ?oc=5",
-      "source": "MorungExpress",
-      "date": "2025-08-06T15:05:45+00:00",
-      "description": "Sky-borne threat: Pakistan’s drone network fuelling drugs, arms smuggling and infiltrations into India  MorungExpress",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-06T19:06:24.112006+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e6f7b285d596"
     }
   ],
-  "last_updated": "2025-09-12T08:07:23.405994+00:00",
+  "last_updated": "2025-09-12T09:05:34.862482+00:00",
   "total_count": 1000
 }
