@@ -1,0 +1,101 @@
+{
+  "narrative_summary": "In the last 48 hours, several incidents related to drone activities have highlighted escalating tensions surrounding incidents involving Russian drones breaching Polish airspace. This prompted Poland to call for an emergency UN Security Council meeting to address the potential security breaches. Major discussions around the implications of drone incursions on aviation safety have surged, especially with NATO's response to reinforce defenses in the region. Multiple authorities have emphasized the risks posed by unauthorized drones, especially in military contexts, raising alarms about public safety and regulatory gaps. Arrests have also occurred related to drone smuggling attempts in correctional facilities, illustrating a growing concern regarding the misuse of drone technology for illicit activities.",
+  "totals": {
+    "crash": 6,
+    "other": 42,
+    "security": 8,
+    "smuggling": 2,
+    "terrorism": 3,
+    "airport": 4,
+    "total_incidents": 85,
+    "by_category": {
+      "airport": 2,
+      "crash": 2,
+      "other": 64,
+      "security": 11,
+      "smuggling": 4,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 2,
+      "drone crash": 16,
+      "drone illegal": 3,
+      "drone incident": 35,
+      "drone security breach": 15,
+      "drone smuggling": 2,
+      "drone terrorism": 7,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Incursions and National Security",
+      "rationale": "Increased reports surrounding Russian drone violations suggest a significant rise in national security threats.",
+      "incident_ids": [
+        "e7c25a446552",
+        "34c1e4d74a27",
+        "da9fbba3d7ac",
+        "1f4338f226c5",
+        "09462d924b13"
+      ]
+    },
+    {
+      "topic": "Smuggling Operations",
+      "rationale": "Incidents involving the use of drones for smuggling operations have been reported, highlighting operational vulnerabilities.",
+      "incident_ids": [
+        "a691023242ce",
+        "75fd1a1b66f2",
+        "0878c5930cb5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9c0648cb57c6",
+      "headline": "Chinese envoy calls for restraint following Poland drone incident",
+      "one_sentence": "A Chinese envoy has urged restraint after recent drone incidents in Poland.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f484ec7c3a74",
+      "headline": "Poland calls for Emergency UN Security Council Meeting After Russian Drones Breach Airspace",
+      "one_sentence": "Poland has called for an emergency UN Security Council meeting in response to the violation of its airspace by Russian drones.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fef606acd12f",
+      "headline": "Two Arrested in Drone Drug Smuggling Attempt at South Carolina Prison",
+      "one_sentence": "Authorities arrested two individuals after a drone drug smuggling attempt at a South Carolina prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "610839a4b4c2",
+      "headline": "Ukraine strikes key Russian oil terminal in largest drone attack in months",
+      "one_sentence": "Ukraine conducted a large-scale drone attack targeting a significant Russian oil terminal.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone activities escalate in Poland, prompting calls for emergency UN meetings and highlighting risks from unauthorized incursions and smuggling attempts.",
+    "linkedin": "Recent drone incursions over Poland have resulted in emergency discussions at the UN, alongside notable arrests in smuggling operations, marking a rising trend in drone-related threats and governance challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-13"
+}
