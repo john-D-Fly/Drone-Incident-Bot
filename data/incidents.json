@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Romania says a drone breached its airspace during Russian strikes on Ukraine - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclRYQ0hjTmNDOTJVUXpHd0lYZHdzcmtKZ3VjSUtaalhZMU9jNnY5Wl85akxJX1BKQV9ZcVBjbjZiZjV1ZjRYUmNpdzczRTFSbzNkX3Rrc3AxV2M3ODFfUEt6UXRVZVdUbTdUTU5xbm9vNVJ1X3BaTEV1b3V6aU9zWFp6Y1NETG5qWnhHT0JOLUpIYTBsSldEMnJ3ck1WTDRCdmtkVmxCcmRWbTNDcmp2QkpBNDctNHdTc0VfTzBJNmg?oc=5",
+      "source": "France 24",
+      "date": "2025-09-13T18:39:11+00:00",
+      "description": "Romania says a drone breached its airspace during Russian strikes on Ukraine  France 24",
+      "query": "drone incident",
+      "detected_at": "2025-09-13T22:04:51.668474+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "e6ce36cca526"
+    },
+    {
       "title": "‘Undetected’: Crims’ new hi-tech drug smuggling tactic - NT News",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZWFPYlVxUE40eFBBbXFKRl9NS1c5SmtyQncwVlJXbE1BWHA3UklFMEE0anpmUFJjbjlzbmw3ZVpMdE5rUmtBbzVia0lmNDE3Y1l1Yy1ocUtyQmwtaHFfUUtRbkN4VUZRYVo4c2Z2cU9COUdDR2ZoY3FIZjBpSTU2WnpBTkg5c0VuZHNTRE1wTXdIUkhaOExmNkJ4cFBtSGY1ZnJKZVFfY3RMTnVzTVotUnloelRpSFNvRWppZnZDaWxPTldwdWRUOC05djBIbE1FczdlM0VKa3hGNmVWNUZYSDBzQkhXRVpkakpQSkFFYzhMa1pqc3FfbnNhWXpyTWhQUkJMc3lDZXVFTjgwcUZtVENR?oc=5",
       "source": "NT News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "af5332740816"
-    },
-    {
-      "title": "Punjab launches anti-drone systems to tackle cross-border smuggling - theweek.in",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzRRMDdaRTVmTXJZaEV0bXBrZUphejRJaU54YzZhcDZFam1vS1VoWFBSdW9NeVhYMlVLUS1VaGgtQUhZejUxRXUya0ZfWmtqak91U2poMHJSd045R3dzOEdQTmMwMjZfdGtTZEl6R3VXWUdHNXcyZ2lJMEpNNGtkTUpaMjlkM1htYUtZZVhTMmR4azFi0gGaAUFVX3lxTFAtTGJ6RzdPYXk3QnBkaC1jUGwzQldVMjV5cGlBa3hfeWd4VU85THBFWFI4N1h1blhEc3hsV1p1eXJfRXZhS1NLZnUyOGgyRWVuRS1SQXhPRHVSd0pwTDhvMGMxNHphUGt4enJYR040OXBUb1ByVm5idEMzQld0RVduSFNfbmx6b05TZVZIU0lBRlhnYVhqSEtWMUE?oc=5",
-      "source": "theweek.in",
-      "date": "2025-08-09T14:33:40+00:00",
-      "description": "Punjab launches anti-drone systems to tackle cross-border smuggling  theweek.in",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-09T15:04:57.648336+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0ea027ab8659"
     }
   ],
-  "last_updated": "2025-09-13T20:05:10.842245+00:00",
+  "last_updated": "2025-09-13T22:04:57.476024+00:00",
   "total_count": 1000
 }
