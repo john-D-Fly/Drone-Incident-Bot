@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "EU decries Russian drone’s breach of Romanian airspace - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzRCTmRpQUdST2tnOWs5cjJnVndvNVJya2NhVERQS2kwd1BRTTk5UEIwVjhYbVdJdGE3NmJRVjJSRUVWRTVNeEdlWHhuRHNlWWw5c1ZETzZSelBRbzd5eGVmTmZuZ2pCYUlDY0dRdGtQYzZlanltS08wOFZPd3U1a3JTNXJZUDd4Q0hRN2F4c2MxTW9CYXpz?oc=5",
+      "source": "politico.eu",
+      "date": "2025-09-14T16:07:00+00:00",
+      "description": "EU decries Russian drone’s breach of Romanian airspace  politico.eu",
+      "query": "drone security breach",
+      "detected_at": "2025-09-14T19:04:41.147836+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "b671c311526b"
+    },
+    {
       "title": "Romania says Russian drone entry poses new security 'challenge' - CNA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmRESmViM3lSSDNLNndkTDhpcmVyU3NBZHY3VlYyaHVmWENSYXhlcUtKU2NtT2xpbVRjckM2QkhycVJkWHNMT2hacWNVSXAyZzZzdkVxSFVDZzJvT2FCcmVKcUxBSmdOOU14S2xRbGNSMDJDb3kxNFVmd1FWLWdmUFpndEg0aV9kd1NrWTRITDRuNl8xeGRhVGJDQXdqRzJBM3h6REZReWRkUU0?oc=5",
       "source": "CNA",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "1b2a0b35a609"
-    },
-    {
-      "title": "Russian FPV Drone Hits Civilian Car in Kupiansk, Injuring Driver - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU245bDQxUWpCblBlbUkxUU9jS2NGX0lVR1lVUVBWN0ZDZlZ3VWExREp2NnhSUm56c0pSMHYtS3BTRGpVYXdMYjVVWHRzbVI0aWJtVlhTNmpmb2xJUHFzOGJrSVdDclZlcDlNRlVyZmVkLV9PMUtTUjNzQ2Z5UUVCcWRvTmJZN0FvaVlGMlFLdTdJTF9GN0Zz?oc=5",
-      "source": "mezha.net",
-      "date": "2025-08-10T10:26:13+00:00",
-      "description": "Russian FPV Drone Hits Civilian Car in Kupiansk, Injuring Driver  mezha.net",
-      "query": "drone incident",
-      "detected_at": "2025-08-10T16:05:41.651223+00:00",
-      "location": "in Kupiansk, In",
-      "category": "other",
-      "id": "33a1c200daf3"
     }
   ],
-  "last_updated": "2025-09-14T18:06:27.331990+00:00",
+  "last_updated": "2025-09-14T19:04:43.012350+00:00",
   "total_count": 1000
 }
