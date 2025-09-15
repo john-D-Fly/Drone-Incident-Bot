@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukraine updates: Drone attack hits Russian oil refinery - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGZ1SnRlOExxcW1aY0s1MjVWcm5sNHpfQzNHWkc2M2xFWmNYN1AxNTA3WnZ1Q08tdzhCUS1Oc1ZXVjRBWjZKUzdaU1hkVjhlcXNPMlE1S05uM0dhT2xGbngzR2oxZGZKVHYwaDAybzNMU2RaMlpqMzZsM2VSM3d5VjVDM3R6bjlyalhQOEFjN1RSNXFs?oc=5",
+      "source": "DW",
+      "date": "2025-09-15T02:26:07+00:00",
+      "description": "Ukraine updates: Drone attack hits Russian oil refinery  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-15T03:22:09.035913+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dfa619929f5b"
+    },
+    {
       "title": "Russian drone incursion into Poland ‘was Kremlin test on Nato’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdBWDNiQzhMRGxtUEdBLVUtMGwwVEp2T2RuMEVuZFlPMXN3X3ZPMHhQX1B4b0Eyd1RiRDhJX2p5Y21LUGJrU2NZblN0THFhczNWTGFPa1ZIR2N0VzdraDd2XzQ2d1RBbHhMdkdKY2Fud2Jtb2RkWEJfOTZrWURYNnNGYkxCR2NwNVJxMXpxRVBSV252Y1JOdzNEdlI?oc=5",
       "source": "The Guardian",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "ec0d39752d4d"
-    },
-    {
-      "title": "Drone poses ‘serious safety risk’ during I-95 crash near Joppa that injured juvenile - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRYQmx5SDdSOFJ4cDN0bTZ2VEFXYzlhQmlmVTY0ZXZLdWpGX1ZnRVAtT0VYX29ndUxKU1R4aDlkcHFtd25iTjRaNGtWZ1JITjVlWVlnZGU1NXp2RVFVUjNoclBpd3huMkdINjQ2bWpvTHozMzhSNktkM2U3ODAySg?oc=5",
-      "source": "Baltimore Sun",
-      "date": "2025-08-11T17:38:28+00:00",
-      "description": "Drone poses ‘serious safety risk’ during I-95 crash near Joppa that injured juvenile  Baltimore Sun",
-      "query": "drone crash",
-      "detected_at": "2025-08-11T18:07:29.109039+00:00",
-      "location": "near Joppa that injured juvenile",
-      "category": "crash",
-      "id": "22be89e8b186"
     }
   ],
-  "last_updated": "2025-09-15T02:34:30.847917+00:00",
+  "last_updated": "2025-09-15T03:22:15.302357+00:00",
   "total_count": 1000
 }
