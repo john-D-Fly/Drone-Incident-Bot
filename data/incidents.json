@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "The European Commission praised the Czech system that safely captures unauthorized drones - European Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjBVLUJtaFZwOXhDVGxpZHVFcXpEeFRlZTZMTVhxbTlaV2JXaWlGdEhVQTQ5dGRXZFVRVnk0MWRDZXFIaE8tMkp1dkVyZzFHWDI2NHpFSlNiNDdEVHk2NzNfNVctaS1vTkp4RzUydjR4QVNCSmVLX2Y3WUlVaHN1NHhZRkJ0THNaUHdKRDV5MUVIT0RLaHVGUFNHUDdGUHFyVVJieGNIZFdMaEtDRVVaczBZajhoMHc1UkxJ?oc=5",
+      "source": "European Newsroom",
+      "date": "2025-09-15T15:19:51+00:00",
+      "description": "The European Commission praised the Czech system that safely captures unauthorized drones  European Newsroom",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-15T21:05:10.979082+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f4ba48c428c5"
+    },
+    {
+      "title": "Drone neutralised flying over government buildings in Warsaw, PM Donald Tusk says - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0VsZTVTX18wMTBfajRJMmthSGVmb0pIU21LZTl3enk5WmNsc3liT2JZSVQxX2hsOVpETkJaSkJjMkU2b0tYWGprSjZ3MmJUa0RrNl9KUUk2bGRJaVlBRHBCa3N6SlVNS1V1Y2QwTFdfYjJFcGU4VjljbkpBVTdoblNtc1FycGhKUy14TmhwVmJKV3hRcWFSWDFqTXcxVVpIRDVFdjNiUTlUYUN3dWNzQXRhOUkyOWM?oc=5",
+      "source": "Euronews.com",
+      "date": "2025-09-15T19:10:07+00:00",
+      "description": "Drone neutralised flying over government buildings in Warsaw, PM Donald Tusk says  Euronews.com",
+      "query": "drone incident",
+      "detected_at": "2025-09-15T21:05:04.238013+00:00",
+      "location": "in Warsaw, PM",
+      "category": "other",
+      "id": "da0715602db6"
+    },
+    {
       "title": "UK RAF Typhoon fighter jets to defend Polish airspace after Russian drone incursion - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NHZIOG5yWWVzbGEyZ0NWQWg2VVF0cmV6bi1sMzY3T21PWkFwN2JjZW1RYTlTUGV4bWZleElNUkJtcWdKSXB0dF82aDZfSWZPNHhGUngxbVBwQQ?oc=5",
       "source": "BBC",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "82a6ef428f72"
-    },
-    {
-      "title": "Residents warned against drone use in vicinity of Bayers Lake fire - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KR2F0QzAwZkQ3YmVuTFRpWXFpX2NOVS04YXROQ2gxSFRqRjhhcFFUdHpMTmNzbjdsQ285eFBRdkxYMUg3M190MzhTbVVibl9k?oc=5",
-      "source": "CBC",
-      "date": "2025-08-13T09:08:10+00:00",
-      "description": "Residents warned against drone use in vicinity of Bayers Lake fire  CBC",
-      "query": "drone illegal",
-      "detected_at": "2025-08-13T10:05:42.992037+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "936838defdd8"
-    },
-    {
-      "title": "Cops, cartels and the new drone wars on the border - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanFKaXZ6UDBjOEdaY0dmTWYweWV0cGhNQlp0amw1MjFyRGc1STRMSTVMS21IVGdlcndzTkp4dUhzenBoY1BlWlpnZEF4S2hCYnlWanFNdmdRU0hHbkhoUWRfektVOEdLczhwU3ljeDRzZHdNeWRmem16YWFLbVN1cnpTVm44VUk?oc=5",
-      "source": "Axios",
-      "date": "2025-08-13T08:51:18+00:00",
-      "description": "Cops, cartels and the new drone wars on the border  Axios",
-      "query": "drone illegal",
-      "detected_at": "2025-08-13T10:05:42.992037+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "028af033368e"
     }
   ],
-  "last_updated": "2025-09-15T20:05:48.619763+00:00",
+  "last_updated": "2025-09-15T21:05:11.635156+00:00",
   "total_count": 1000
 }
