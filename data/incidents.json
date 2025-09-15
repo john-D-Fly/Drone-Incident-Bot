@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian drone incursion into Poland ‘was Kremlin test on Nato’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdBWDNiQzhMRGxtUEdBLVUtMGwwVEp2T2RuMEVuZFlPMXN3X3ZPMHhQX1B4b0Eyd1RiRDhJX2p5Y21LUGJrU2NZblN0THFhczNWTGFPa1ZIR2N0VzdraDd2XzQ2d1RBbHhMdkdKY2Fud2Jtb2RkWEJfOTZrWURYNnNGYkxCR2NwNVJxMXpxRVBSV252Y1JOdzNEdlI?oc=5",
+      "source": "The Guardian",
+      "date": "2025-09-14T11:07:00+00:00",
+      "description": "Russian drone incursion into Poland ‘was Kremlin test on Nato’  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2025-09-15T02:34:24.735963+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4160bcf00453"
+    },
+    {
+      "title": "NATO to bolster eastern front after Russian drone incident - DW",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkZoQ0hvX045dWNZWUFSTnlZZXFmYl9BQmRoRk5namlseVJoRi1XWXV4WVdXeElGOF9GMkZYREUwaVBoTzhTTEpVUGtBa3FtTmNQMWVvc002VDhrcmdFYmE3RlpBQldxekUtVElVRUdoalF0S2ZISXJlcHJEaXNXM3BRSXBKWVQ1c1c4UklJMEcxNEN6OWZJSEpfRQ?oc=5",
+      "source": "DW",
+      "date": "2025-09-13T10:07:30+00:00",
+      "description": "NATO to bolster eastern front after Russian drone incident  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-15T02:34:24.735963+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d724a77ae845"
+    },
+    {
       "title": "Strikes on Qatar and Poland shake U.S. sway among friend and foe - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjRRamNJMWVHb1lpRlJXS2NnTVRsUVNHYjVfMzZZOVdYeHBId0tHR2NMUGYycHlvTUVGQlRES0NqR2NsLXZ5RlZhZzktOGgybW82X1hITFc1WHp0Ri1QSFh4dTNWZEs4OG1JcXNrSUJZb3dremJxZUZkWTFxRFZkQ2V6RGxlNWp5bk9VUjkzZC0?oc=5",
       "source": "The Japan Times",
@@ -11975,32 +11999,8 @@
       "location": "near Joppa that injured juvenile",
       "category": "crash",
       "id": "22be89e8b186"
-    },
-    {
-      "title": "Trio arrested after suspected prison drone drop - Nottinghamshire Police",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVdhN3dGOFRqN2hMTXgxV1ljR2lHWUV4cnh5LVE1cTVsWTJMMDhUaTRISG00RmRZLS12aXpQR0NrN2FGZldia1Z3YWlZbGcyZlhCSk5vaV9jSHJSVFdENG1CeDZMMGdvbjBwUUstelZ6R3VPaGIzNU1hQ0tfWU5xT0FTMUpTR0MtMmMwNThGZ2ZLb2N6Sk1ZZUc4ZlZjMHp0RnU3UzUtd1E5UGhSZW9uNGpEWDNpdXlwSWF3WmFIMTAxLUpLYWtnSA?oc=5",
-      "source": "Nottinghamshire Police",
-      "date": "2025-08-11T14:58:43+00:00",
-      "description": "Trio arrested after suspected prison drone drop  Nottinghamshire Police",
-      "query": "drone prison",
-      "detected_at": "2025-08-11T18:07:27.834676+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "06e4634b637e"
-    },
-    {
-      "title": "Arrests after drone drops drugs and phones into Nottinghamshire prison - West Bridgford Wire",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLURvamc0d0txWmFMaDk5by1rZ2FieTNYclNmYXUzYUtRMmlheGNVNW1GME55WlkyRnBQRlBsX08yT0lWRHFhZWhabExvNWNfaHctMVNVVzNuUlVmRFFxblMxZkI2VE83VERPSFdZQVRCQlBmYnVSTmhYMnlhVFd6MjRFaUpTUWFwOHNMdUp5NFVLTXBqMHE3ZGZOSkZsUFpJT2lr?oc=5",
-      "source": "West Bridgford Wire",
-      "date": "2025-08-11T16:22:30+00:00",
-      "description": "Arrests after drone drops drugs and phones into Nottinghamshire prison  West Bridgford Wire",
-      "query": "drone prison",
-      "detected_at": "2025-08-11T17:06:35.001362+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "10f5cc9d55af"
     }
   ],
-  "last_updated": "2025-09-15T01:33:36.020793+00:00",
+  "last_updated": "2025-09-15T02:34:30.847917+00:00",
   "total_count": 1000
 }
