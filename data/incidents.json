@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "UK RAF Typhoon fighter jets to defend Polish airspace after Russian drone incursion - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NHZIOG5yWWVzbGEyZ0NWQWg2VVF0cmV6bi1sMzY3T21PWkFwN2JjZW1RYTlTUGV4bWZleElNUkJtcWdKSXB0dF82aDZfSWZPNHhGUngxbVBwQQ?oc=5",
+      "source": "BBC",
+      "date": "2025-09-15T17:53:01+00:00",
+      "description": "UK RAF Typhoon fighter jets to defend Polish airspace after Russian drone incursion  BBC",
+      "query": "drone incident",
+      "detected_at": "2025-09-15T20:05:41.730027+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "58e3a8245368"
+    },
+    {
       "title": "Romania Scrambles F‑16s to Intercept Russian Drone—Could It Be Russia's Next Target? - International Business Times",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE9hOW10VEdEZXBHeldlbWdFR2t6YTZRNWRGM19OVEhrV1gzOEhGZ0wtd1I5WjRfNXRLdVFMcXYxMXhLQW5FcENob2xhNnRJaFdTNWNielRWdWVOaXd0RHJILTA3aGVlMXdoa2cyeVo3MUtZMXJfbC05SFl2NzJoVHJBaFRMX2p0ZDlacHQ0SUpkZHdva2JuRnc3QXNLMFFmNWRXQlpkMXNZQ3d2cUNfSXY4RUZ5N1N3c0E?oc=5",
       "source": "International Business Times",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "028af033368e"
-    },
-    {
-      "title": "Residents warned against drone use in vicinity of Bayers Lake fire - CBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDVaR1hSSGVLeXZMdkZIWXpaSHlNdlR3Wk9nb1BVR0FLTF9GRTNjc0tfWEtmWi1hMzRNRjVIQkxvYWlZMjFyN25PcDFfallKaEVYYl9lQUZIWGxieVVLZlRab1g3UVNyR3pjc1dlVzg2SDhaZXMxQ0pFMEprQlhuV0VDNXJBWWdnelNFYWM5d0l1VGJ0V1ROb3lMc0RwOThON0s1OHVVbGd4MWg2MUMydA?oc=5",
-      "source": "CBC",
-      "date": "2025-08-13T09:00:42+00:00",
-      "description": "Residents warned against drone use in vicinity of Bayers Lake fire  CBC",
-      "query": "unauthorized drone",
-      "detected_at": "2025-08-13T09:07:16.667273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "34bf1d87e71b"
     }
   ],
-  "last_updated": "2025-09-15T19:05:06.867613+00:00",
+  "last_updated": "2025-09-15T20:05:48.619763+00:00",
   "total_count": 1000
 }
