@@ -1,0 +1,134 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of drone incidents have raised significant security concerns across Europe and beyond. Notably, Russian drones have been reported breaching Romanian airspace, prompting condemnation from Romanian officials and NATO. This series of incursions has highlighted a growing tension in Eastern Europe, with calls for enhanced border security measures. Meanwhile, incidents involving drone smuggling by criminal groups in Australia indicate the broadening scope of drone use in illegal activities. Authorities in Poland also scrambled jets in response to potential drone threats related to the ongoing conflict in Ukraine, indicating rising military preparedness in the region. The use of drones in various contexts appears to be escalating, warranting attention from security analysts and policy-makers alike.",
+  "totals": {
+    "security": 5,
+    "other": 38,
+    "smuggling": 3,
+    "terrorism": 4,
+    "arrest": 2,
+    "total_incidents": 60,
+    "by_category": {
+      "arrest": 2,
+      "other": 40,
+      "security": 10,
+      "smuggling": 4,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 3,
+      "drone crash": 4,
+      "drone illegal": 4,
+      "drone incident": 32,
+      "drone security breach": 10,
+      "drone smuggling": 3,
+      "drone terrorism": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Breaches of Airspace",
+      "rationale": "Incidents of drone incursions into Romanian airspace highlight emerging threats to national security.",
+      "incident_ids": [
+        "a3c434245ba1",
+        "9ea9984112d9",
+        "b4adf86157f2",
+        "3ecde77c39b1",
+        "bbd5e8a4c202",
+        "4f834228cb8d",
+        "f5492b2ec05b",
+        "d0e84a54b365",
+        "6b7c9626ede7",
+        "29ced6fa8c15",
+        "1d6e9120370d"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Criminal Activities",
+      "rationale": "Increased reports of drones being used for smuggling by criminal organizations indicate a troubling trend.",
+      "incident_ids": [
+        "1850c98a172c",
+        "72495ae19643",
+        "41abda5b6aa7"
+      ]
+    },
+    {
+      "topic": "Military Preparedness Responses",
+      "rationale": "Military responses to drone threats, especially in Eastern Europe, suggest heightened alertness and readiness.",
+      "incident_ids": [
+        "672b25ba0e5d",
+        "1d6e9120370d",
+        "96f1d325bff1",
+        "4b80c0bf81d5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a3c434245ba1",
+      "headline": "Russian drone entry poses new security 'challenge': Romania",
+      "one_sentence": "Romania faces new security challenges following repeated drone incursions by Russia, igniting diplomatic tensions.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "a49898bbfc94",
+      "headline": "Ukraine strikes Russia's key oil refinery in significant drone attack",
+      "one_sentence": "A major drone strike by Ukraine targets a critical oil refinery in Russia, signifying escalated conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1850c98a172c",
+      "headline": "Shocking new way drug cartels are using tech and what it means for Australia",
+      "one_sentence": "Drug cartels in Australia are increasingly utilizing drones for smuggling operations, raising alarms about their evolving tactics.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "672b25ba0e5d",
+      "headline": "Poland deploys planes in its airspace because of threat of drone strikes in nearby Ukraine",
+      "one_sentence": "Poland has increased military readiness by deploying planes in response to potential drone threats from Ukraine.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "b4adf86157f2",
+      "headline": "Romania accuses Russia of an unacceptable and irresponsible act over drone incident",
+      "one_sentence": "Romanian officials have condemned Russia for its drone incursions as unacceptable and irresponsible actions.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant uptick in drone incidents, particularly in Eastern Europe, raising security tensions. #Drones #Security",
+    "linkedin": "Recent drone incidents highlight rising tensions and security challenges, particularly in Eastern Europe, as authorities respond to breaches and smuggling activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-15"
+}
