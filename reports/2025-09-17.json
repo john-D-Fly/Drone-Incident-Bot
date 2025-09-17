@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have occurred across various regions with a notable concentration around Windsor Castle, where several arrests have been made for breaching airspace restrictions ahead of a high-profile state visit. In California, a man received a prison sentence for crashing a drone into a firefighting aircraft during the Palisades Fire, raising safety concerns intertwined with drone operations in emergency situations. Additionally, reports indicated a significant rise in drone-related drug smuggling from Pakistan, alongside increased drone-related law enforcement activities in the U.S., showcasing the dual nature of drone technology's impact on security and illicit activities. The ongoing geopolitical tensions in Eastern Europe were highlighted by incidents involving Russian drones across borders, further complicating the regional security narrative.",
+  "totals": {
+    "crash": 4,
+    "other": 12,
+    "arrest": 10,
+    "smuggling": 6,
+    "terrorism": 4,
+    "security": 6,
+    "total_incidents": 111,
+    "by_category": {
+      "arrest": 26,
+      "crash": 11,
+      "other": 35,
+      "security": 21,
+      "smuggling": 17,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 37,
+      "drone crash": 11,
+      "drone illegal": 4,
+      "drone incident": 21,
+      "drone prison": 7,
+      "drone security breach": 6,
+      "drone smuggling": 15,
+      "drone terrorism": 9,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Windsor Castle arrests",
+      "rationale": "High frequency of drone-related arrests near a sensitive security venue.",
+      "incident_ids": [
+        "335a7df8f323",
+        "613121170ec9",
+        "1947e9158c6f",
+        "1e5a082c8e67",
+        "f744ee51ac00",
+        "1db7947d3a29",
+        "3c9a7f687731",
+        "2c9d2980e860",
+        "d9ec8bd9836d",
+        "0b973efe95a4"
+      ]
+    },
+    {
+      "topic": "Drone crashes",
+      "rationale": "Incidents involving crashes impacting emergency operations, highlighting safety risks.",
+      "incident_ids": [
+        "d11462895217",
+        "e77623897473",
+        "1e5a082c8e67",
+        "150bb277ba6c"
+      ]
+    },
+    {
+      "topic": "Drug smuggling operations",
+      "rationale": "Increase in drone utilization for drug smuggling across borders.",
+      "incident_ids": [
+        "45b7dab37da5",
+        "ef902a3328d6",
+        "8f37c53136d5",
+        "32df2106d53e"
+      ]
+    },
+    {
+      "topic": "Geopolitical tensions",
+      "rationale": "Drone incidents linked to escalating tensions involving Russian incursions, affecting regional stability.",
+      "incident_ids": [
+        "1e1736dd5bad",
+        "d9ec8bd9836d",
+        "38ba3ae5331a",
+        "f4ba48c428c5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f744ee51ac00",
+      "headline": "Man arrested after drone breaches airspace restrictions near Windsor Castle before Trump's visit",
+      "one_sentence": "A man was detained for flying a drone in restricted airspace near Windsor Castle ahead of a major state visit, raising security concerns.",
+      "risk_tags": [
+        "security",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d11462895217",
+      "headline": "Culver City Man Sentenced After Drone Crashes Into Firefighting Plane During Palisades Blaze",
+      "one_sentence": "A Culver City man was sentenced for crashing a drone into a firefighting aircraft during a major blaze, underscoring risks associated with drone operations in emergencies.",
+      "risk_tags": [
+        "crash",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "45b7dab37da5",
+      "headline": "Drone drug smuggling from Pak on sharp rise: NCB report",
+      "one_sentence": "A report highlighted a significant increase in drone-driven drug smuggling from Pakistan, raising alarms about border security.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1db7947d3a29",
+      "headline": "Men arrested over drone flights near Windsor Castle before Trump's visit",
+      "one_sentence": "Multiple arrests were made related to unauthorized drone flights near Windsor Castle, as security was heightened for Trump’s state visit.",
+      "risk_tags": [
+        "arrest",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents in the last 48 hours highlight security risks, especially around high-profile events.",
+    "linkedin": "Increasing drone-related incidents are signaling growing security concerns amidst major state visits and geopolitical tensions."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-17"
+}
