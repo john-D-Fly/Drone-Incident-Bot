@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Noah Crenshaw: Modern policing — drones, use of force and crash investigations - dailyjournal.net",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxYM2dCdnRNMW9La1B1NmpLQ251UWdmWGhXZURnZTZQV2dEQXhtQUtLYlVwcVFkbWpFSDdJQ253MGIzN1JNZlhMby1fZ0VCaGJzU0prUXBHTlhkdXdnS0VfSTJJcmhMcDljb0R1M2daX2ZnOWYwSzlTUml5Y2l4dDE2ZjhxS1ZsdVpxbXl1QVJzZXkyY01zYTY2X18yMUlocV8zdUk5NkNqZTA4djJ1eA?oc=5",
+      "source": "dailyjournal.net",
+      "date": "2025-09-17T19:20:00+00:00",
+      "description": "Noah Crenshaw: Modern policing — drones, use of force and crash investigations  dailyjournal.net",
+      "query": "drone crash",
+      "detected_at": "2025-09-17T20:05:44.127972+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "59938cc9af1f"
+    },
+    {
+      "title": "Poland Will Take 'Toughest' Measures Over Russia Drone Incursion: Deputy PM - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFJ0WGh0Wnd0VFoyMG53cFhoVmc0SW1STVJ2R3BPSkg3T1EzNzlmTU9XNThsdE1zYlJRRm1xb0NxQXpCYVZ4SktrbzgtTXlsMy1ua21GUzJzd2JLbXlTeFlCS1IxejNxTEdWTXZSWHIxUjAzeENnemVIMUpSeFBVdmFEWGVjSEp2dW9EcUp5QWxkYWxGRExrdndmYmNMZzFPWlp3c0x2OWQ?oc=5",
+      "source": "Newsweek",
+      "date": "2025-09-17T19:52:51+00:00",
+      "description": "Poland Will Take 'Toughest' Measures Over Russia Drone Incursion: Deputy PM  Newsweek",
+      "query": "drone incident",
+      "detected_at": "2025-09-17T20:05:40.532959+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8f228ae68fce"
+    },
+    {
       "title": "‘License to kill’: Experts warn on legality of US anti-drug strikes - CP24",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlhWa0QtdGhYaVczNE0xQnNQSGFQY3ZmOHFOaHVjNm9EQ2VsSWZwTXRxalFkdVJ6N25nVVh3MmxqYU1hSlREMFBTalUwSE9aeW5jbkQ3aURKNmY3dWJYUHlOZkhqcVVqVWxaVThfUFNHOXlOTUZaLWhIbEIzZ1BsbDJ0SnY2ZzlkNkFZNHpHeFd6YU9sWGhSZEVkNkdQODdmcndWNExObkFWdmVz?oc=5",
       "source": "CP24",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "35e2c08fc3f8"
-    },
-    {
-      "title": "'We're behind': US soldier leading catch-up crash course says the Army has to aggressively close the drone gap - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTHQ4YWR4M0ZFZ1BoX3UxZXVpajdyaTZZTGs2OEJYam1wbHdSREJmN2VVRUt3Z2VENW02cXIxRmJrc0NRYUJDbGJEakxoUTJYRnBXMEgwc2NvQUFjZmZSZS1kZkpIM3RlNmpfbW9hSWVRNzk2MUYwMk1PYw?oc=5",
-      "source": "Yahoo News Canada",
-      "date": "2025-08-19T17:46:19+00:00",
-      "description": "'We're behind': US soldier leading catch-up crash course says the Army has to aggressively close the drone gap  Yahoo News Canada",
-      "query": "drone crash",
-      "detected_at": "2025-08-19T21:04:56.129041+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d7b732416986"
-    },
-    {
-      "title": "'We're behind': US soldier leading a new 'catch-up' crash course says that the Army has to aggressively close the drone gap - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXlESXV2dmxCODJHbFZvaGctQkViaXdicUtBMXY0QVNLaGpiWDBvTXFLLXZLNklTMmszUHBXT2VITkY3LXRURUVTQW01SFM0WU1xUHpYRVNGLVBxOV9tV2xZUHo0MlF1Q0ZrQXJJN19pbFBVb3hyWnk5N2J3dU9ySVhOMXFHNTZQcmNubkVNczF5Q2pobGZvZHRFakhoZVlw?oc=5",
-      "source": "Business Insider",
-      "date": "2025-08-19T17:46:00+00:00",
-      "description": "'We're behind': US soldier leading a new 'catch-up' crash course says that the Army has to aggressively close the drone gap  Business Insider",
-      "query": "drone crash",
-      "detected_at": "2025-08-19T20:06:02.758292+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "28822980bd03"
     }
   ],
-  "last_updated": "2025-09-17T19:05:10.073914+00:00",
+  "last_updated": "2025-09-17T20:05:47.403916+00:00",
   "total_count": 1000
 }
