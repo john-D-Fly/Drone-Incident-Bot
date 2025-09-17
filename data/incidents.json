@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Poland embarrassed for ‘misleading UN’ on damage from drone incursion - Brussels Signal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmY2d3ZPTlNsX21PRXdYbFRYdVpCa1dDN25HUXphQmVsaC1qQVFjaVpkMTVZb0xKdHcxYlMzUmhETkQ3NHZucUVjaEdveVRFVW5BT1premc2NThQYXpCOHlkVklWU3BrVkNjQVhzYkJsNVFkdzFHUTNaUEIzZFNyc1dIRURsQm9nQkl5c2JnbUtvYUpqZFRtRzVMVWF3Rldablh3OQ?oc=5",
+      "source": "Brussels Signal",
+      "date": "2025-09-17T07:17:57+00:00",
+      "description": "Poland embarrassed for ‘misleading UN’ on damage from drone incursion  Brussels Signal",
+      "query": "drone incident",
+      "detected_at": "2025-09-17T15:06:04.943921+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "17d99baa936b"
+    },
+    {
+      "title": "A 17-year-old Belarusian, detained after a drone incident in Warsaw, arrived in Poland a few days ago - Белсат",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVERpMmVJZS1aRU1YdW5oVUowWnljNHpBS2RYc0lVYlhPVHUzVGlpMUZaaXlQZUtRMU9qRVFxc3IzZWY4emt1S25KekZPZG5Xd0VWU2R0RkVVZkZFeVZLTWFhVUl3NG5xOGRvTVNNUVhqWFpmSGpRWU8xN0JrcV9zaGQ0ZlJNSDRzZXl6Tnp0VW5Gb0lJdUEyekZVcWlvQzJhbjZKTUdjdnpQMUtUYV8tczY5M21CTnRCaW04anhNa09Rbi1nT25rNg?oc=5",
+      "source": "Белсат",
+      "date": "2025-09-17T13:09:00+00:00",
+      "description": "A 17-year-old Belarusian, detained after a drone incident in Warsaw, arrived in Poland a few days ago  Белсат",
+      "query": "drone incident",
+      "detected_at": "2025-09-17T15:06:04.943921+00:00",
+      "location": "in Warsaw, ar",
+      "category": "arrest",
+      "id": "9f1f669e361c"
+    },
+    {
       "title": "Murder by Drone: The Legal and Moral Stakes of the Caribbean Strikes - Just Security",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SR0xzNV85d3lCX0FTNzVQSnJva3M0UDlvRU04WTAxZHV4RzZIYTh1dVNjUmlsdEw0cnl2a0pUeC1PX1k4WU55T0hNdGh4VFU3ZlVZcklvX2hFamxNRVhfbmQ3QXpyTEpBU0c2ZkpuRTRmLV9DeW5TZE9OTjU?oc=5",
       "source": "Just Security",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "380ca68636f2"
-    },
-    {
-      "title": "Police using drones to hunt down illegal e-scooters - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sLXBnT0lEeDVkODR5SzNVUFVHcm5wUVNaMGJValFXVmFacWNYZzFqVDZ6VGQ4VU5HV0pVTnZFS3RfSngyUER0VVgzOEVqcEtEQTVRMUs2S0ZhNkVfZlRqUkd5RHlaaFBCUnQ1eUpWTm5RUQ?oc=5",
-      "source": "AOL.com",
-      "date": "2025-08-19T05:47:12+00:00",
-      "description": "Police using drones to hunt down illegal e-scooters  AOL.com",
-      "query": "drone illegal",
-      "detected_at": "2025-08-19T10:05:56.642802+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "74193259c6c8"
-    },
-    {
-      "title": "Drones help hunt down illegal e-scooters in Gloucestershire - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnaEo5aHVPU2NZUGVrNEk0eC1IUWdxSHB3TF9rWktHUlJNemVqbDZEX0ltQnR0OVhrNlNEYy1RTWwwY1VJR2dZSFFlcFNsU1pFbkRXLTFqMVpBQdIBX0FVX3lxTE80bkxDUm1KbS1nbDRLSV9SdFlucndDN01rdU9fQ0pFS3prTGNBak9zREhpLXQ1YTBSMEwyelpoajY1bzJFZ1pWTHF0NjNnYkxSME9lM2NQUHI3dXhzN0pF?oc=5",
-      "source": "BBC",
-      "date": "2025-08-19T08:22:23+00:00",
-      "description": "Drones help hunt down illegal e-scooters in Gloucestershire  BBC",
-      "query": "drone illegal",
-      "detected_at": "2025-08-19T10:05:56.642802+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0fe7e9feeddb"
     }
   ],
-  "last_updated": "2025-09-17T14:05:41.166900+00:00",
+  "last_updated": "2025-09-17T15:06:13.262875+00:00",
   "total_count": 1000
 }
