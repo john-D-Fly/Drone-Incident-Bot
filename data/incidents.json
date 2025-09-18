@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Police demonstrate technology to neutralize illegal drones - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjJteUJUQTJzM1FyRnhyN1d0M21hMTVyVnZDRkRCR3ZwMFVXUXhTX24xVmRqenVqeXVRcTA5UTJWNFdfTTJtZDZYMzE3ZjE3Z2JTX01ZbE00SEprZlkwWmZaeUU3RDQweExhRFFrQWtjem1YRmFnbHlTWFRRd3ctemNnd2RaNFJT?oc=5",
+      "source": "조선일보",
+      "date": "2025-09-18T07:00:01+00:00",
+      "description": "Police demonstrate technology to neutralize illegal drones  조선일보",
+      "query": "drone illegal",
+      "detected_at": "2025-09-18T07:05:26.098559+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "20c7438727f1"
+    },
+    {
       "title": "Who Will Be The First USWFS Chief? Prison Time For Drone Operator After Scooper Struck Over CA Wildfire. - The Hotshot Wake Up",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13d1pfdmtJaTBHNHVLa0UxNk02NHhjYksxWmdMRjZMcVd4R2E5QW9DVUJyUl9rV2JlSWx2eWxPNXZkTllYMUFYNHFDMFZNeG5Gay1YTW5sbE9YQm84VTJtTFdlR0FyQlJaVmMxVUpCUUQzNlFrR1dDQk0zeWEtUQ?oc=5",
       "source": "The Hotshot Wake Up",
@@ -11987,20 +11999,8 @@
       "location": "in Odesa region, Uk",
       "category": "other",
       "id": "ef49e0214fd2"
-    },
-    {
-      "title": "Unidentified object crashes and explodes in Polish village near Ukraine border - AeroTime",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3MmFvOS16LWJVczFOdXN2S1lSbnpEY3VKdk0wOWMwY2ZHLURkNU10ZEMybEZXdl9TdWlNLXBZd2hPSTAxalJNNzI1NkZfa1cxaWdOa2tmb1NPaVFLWTU3U1RvNlBTS2xLS3ZObERsVGJndkRiUHRF0gF8QVVfeXFMTjZpSWlmb05LWlQwcUJ5Tnhqa2hmam9FeW56RDVJelU5QzBOd3J4WWEwMU5pY24xQ1hEUjg3YUNiZEstTUZGQTJUVmJJY091eGM4bHpVeThJRDQ1bXg2VG9yZEZWTzk1NE9xZEZEWWZGTENvNTR4WXh2SDRCTw?oc=5",
-      "source": "AeroTime",
-      "date": "2025-08-20T09:25:55+00:00",
-      "description": "Unidentified object crashes and explodes in Polish village near Ukraine border  AeroTime",
-      "query": "drone crash",
-      "detected_at": "2025-08-20T11:05:02.804447+00:00",
-      "location": "near Ukraine border",
-      "category": "crash",
-      "id": "e67588bd29a4"
     }
   ],
-  "last_updated": "2025-09-18T06:08:08.671047+00:00",
+  "last_updated": "2025-09-18T07:05:28.493538+00:00",
   "total_count": 1000
 }
