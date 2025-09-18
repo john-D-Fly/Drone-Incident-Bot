@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Live updates: Israel intercepts Houthi missile from Yemen - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVoxbm1BOEJFMFpFNlE5M0VhdkZfMnR2M2VyUWpKd3JwS1VjUEphSnZNYndOR2NoSURZb1pYTUtLMmFONWY1aV8wWlBIZUplWE5HMzhwTVpVc1BodzhVcEFQTXc4QTVtTWpCcTdXcVQzWDJUWk02d2FmS0JnQ1dGWkhRTQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-18T17:00:05+00:00",
+      "description": "Live updates: Israel intercepts Houthi missile from Yemen  The Jerusalem Post",
+      "query": "drone crash",
+      "detected_at": "2025-09-18T18:07:30.177064+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "baf9141343db"
+    },
+    {
+      "title": "Drone launched from Yemen crashes in Israel's Eilat - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTdsVExuM3o4T3AwM1hCMV9sU25kVWpXY0c0V05jQ3JyeU1va3FNeVhMOVhBdFRqT1ZoZ1hvRlFnVXNNa0FLX2dXS2VGZVBYaUF3M0xSUHk2bUUtcmRESER3Tk0wT2FtU3NZSXR4MzlQWjNkSUd1NjdtOVRIR3hoQVVlbGZpNHRKTHpmVmROdTM?oc=5",
+      "source": "yahoo.com",
+      "date": "2025-09-18T16:56:34+00:00",
+      "description": "Drone launched from Yemen crashes in Israel's Eilat  yahoo.com",
+      "query": "drone crash",
+      "detected_at": "2025-09-18T18:07:30.177064+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "bfa488877184"
+    },
+    {
+      "title": "Drone crashes into hotel in Eilat - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SazZTSGVpU3FYWU1tOG5wU3ozVTIwcG8tdlR1TjFLOVY0b3ZDbW14eG1QOVBRc3JNYzQ3dDdabXIwTmNsLUZweXVzOVZiY0xaODh4c25RbGxnUXVN?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-18T17:11:13+00:00",
+      "description": "Drone crashes into hotel in Eilat  The Jerusalem Post",
+      "query": "drone crash",
+      "detected_at": "2025-09-18T18:07:30.177064+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c0d6edb7a00c"
+    },
+    {
+      "title": "Man arrested for flying drone over Windsor park ahead of Trump visit and public protests - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTHZkUkw1QVlkNzZpR0JUMko1b2xxNnp6amVWWWpLRDlhY3pBY21rNW44WkJBWjJ2NzhHNjVfQnl5YUhQWERremVhNUplcGpQNEQyb0VZaXMyRkhJUWo1dEdCZTZyRG8zcHZtVmpveVJkRmJkam9paTlTYTAxU2JCMFlMTWMtZllCa2x3d1JPUk9GZF9sMTZhcHN4TkEwaFRHdTliT1pReEwyVDdKRUl2ZWJoQmpOdXJJZFRFVzZHZlh3WVY3RmQ1WXJpVEtVMUVpOUQw?oc=5",
+      "source": "MSN",
+      "date": "2025-09-18T14:34:26+00:00",
+      "description": "Man arrested for flying drone over Windsor park ahead of Trump visit and public protests  MSN",
+      "query": "drone arrest",
+      "detected_at": "2025-09-18T18:07:27.440447+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2116cc2fbc49"
+    },
+    {
+      "title": "'A careful calculation' — Russia's drone incursion into Poland tests NATO's red lines - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHpqMEVmWVNIWG81MkNSbjU1VFFHYml0bndRSkJ4NlNTcVo0Wk9PdXphT25tR1RtX2pocU05d20ydmIwZHctaU95RXBndHUzRHBTMFd3VTEtMXlNM0JJYi1iMTFPaWdjbVo3X0JSMzZIMXhMWnVUMEk2Z3JzdU1pX1Q2LW9CQlNlb256N2kzU1pjeUJEQnpkbjRJYWJ6TlhKZExLWXpoMHZDdEo3YWx4YS1B?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2025-09-18T17:29:53+00:00",
+      "description": "'A careful calculation' — Russia's drone incursion into Poland tests NATO's red lines  The Kyiv Independent",
+      "query": "drone incident",
+      "detected_at": "2025-09-18T18:07:26.742034+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6aba3fbe6f9d"
+    },
+    {
       "title": "Live updates: Four soldiers killed in Gaza - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVoxbm1BOEJFMFpFNlE5M0VhdkZfMnR2M2VyUWpKd3JwS1VjUEphSnZNYndOR2NoSURZb1pYTUtLMmFONWY1aV8wWlBIZUplWE5HMzhwTVpVc1BodzhVcEFQTXc4QTVtTWpCcTdXcVQzWDJUWk02d2FmS0JnQ1dGWkhRTQ?oc=5",
       "source": "The Jerusalem Post",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "93b987a3a602"
-    },
-    {
-      "title": "Deputies arrest man after he crashed his drone carrying drugs into Lutz home: sheriff - WFLA",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0Q3NHplWWlKcDlYWlFIeWxEVUlqQlJSbC1aTmo3cTh3TWRreUxyZ0R2Y09wbktwRXpoUHUxVU1nNDFpQTFqcVVZRGlfX3gxU01KOEp1clZuOGdySWJ4SlFuNmJzZ25BVHRHZ01KdjJNTnhULV9QZFVRV0dabnFhTl85OHl5azdXX1BodlBDTy01SC1UV3A2bS1CQ015M0NsS3I3aVh0dEg1a3JvM1JUbHdPemlPVUJLSDQ1TU5n?oc=5",
-      "source": "WFLA",
-      "date": "2025-08-20T14:16:00+00:00",
-      "description": "Deputies arrest man after he crashed his drone carrying drugs into Lutz home: sheriff  WFLA",
-      "query": "drone arrest",
-      "detected_at": "2025-08-20T16:06:16.385538+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "564807502c7d"
-    },
-    {
-      "title": "Polish army believes drone that exploded in eastern Poland was launched from Russia – Europe - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemUtTzNyMzBpOEstNkdLRDl0SzlLb040Z204S0NsSGRqSHdCRUt0V1JBb05TVlpuUFRweGZsRUY0aFBwRHZPUXhJc2hPY0tVSHJoZkFQYnFzXzhyRE5OOFhHOVcxYy05ZnRzTkc3b0RDZlZvUi1WYXNQMHVWR1A4V2ZJdDYwbFNVbzVuZV9pVjVDYTlDTkdXNUl3RmVwTDVLWTVqSlBlQnRzbzFHWG1kWVhHVTJHcGxPTFNJQVEzYw?oc=5",
-      "source": "The Guardian",
-      "date": "2025-08-20T06:40:00+00:00",
-      "description": "Polish army believes drone that exploded in eastern Poland was launched from Russia – Europe  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2025-08-20T16:06:15.708381+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "81019d9ea531"
-    },
-    {
-      "title": "Warsaw says explosion in eastern Poland likely caused by drone - Notes From Poland",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEpNNDNNV1ZGWUVsd2hSNUNrTXFmakFCU0JpbE5jMlFzdW90eWpTa1d5SXVsMmdQWGN5NlYzRWhZcmg5Sy14Yi1FYkE4UHEtdENVY2I0T3VWN3g2SFFYUjFsVnlCcVFoSEZjeEQxbVlsVmFFTnJlTE9GSDVxakNMUF92aXBwTEJZM1lXdWR5THdwX2tweUdrVF9ZQS1qV0k3N01aNA?oc=5",
-      "source": "Notes From Poland",
-      "date": "2025-08-20T13:37:47+00:00",
-      "description": "Warsaw says explosion in eastern Poland likely caused by drone  Notes From Poland",
-      "query": "drone incident",
-      "detected_at": "2025-08-20T16:06:15.708381+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4ec77d0508de"
-    },
-    {
-      "title": "Early findings show military drone fell in Poland, prosecutor says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVRrZTBRLXlhVUVsSDNELWdoV3d0bG15Ym9RMmE0THl1b01CUTJhRGswTEV1NDRaS0d2TWg3NW14M24xX1paVERXUjlwVFpqSU43dDZtZW51Q0d5UDhIMGlMZ1pZY2Zwa09JWmZDdTNIeU5tS1gzbEhJUmxkUnpXa2w5by1wdjM0UC1odEtXTmdady1RbDA5cHFtVllIMFFyemhtSVBHNA?oc=5",
-      "source": "Reuters",
-      "date": "2025-08-20T15:46:07+00:00",
-      "description": "Early findings show military drone fell in Poland, prosecutor says  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-08-20T16:06:15.708381+00:00",
-      "location": "in Poland, pr",
-      "category": "other",
-      "id": "ac6ba3f5a30a"
-    },
-    {
-      "title": "Shahed or decoy? Confusion after drone crash in Poland - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGdubEN6MUJOSXpNNWk4c0F0bExyRGEwSzVCdGcxd3o2YWpjR3Y2akZsM0s3dzRJcVllSC1iQWNnTWhaSVYyaFR4UFdaUG1IdG4xMWpQOWFjVXVMc2RIcFBrWG5rWmtJeDdEa01VNlhwZ2lodldHeW9VSnRaOS1Sb21UaHBZZW9Xaml4dHlpOU0xSDZpSmc?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-08-20T14:25:50+00:00",
-      "description": "Shahed or decoy? Confusion after drone crash in Poland  RBC-Ukraine",
-      "query": "drone crash",
-      "detected_at": "2025-08-20T15:05:33.361923+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6ff275db5a82"
     }
   ],
-  "last_updated": "2025-09-18T17:05:29.716285+00:00",
+  "last_updated": "2025-09-18T18:07:33.429737+00:00",
   "total_count": 1000
 }
