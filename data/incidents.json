@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Albuquerque police launch drone program to help fight crime across city - Albuquerque Journal",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDl0QXl4Y0hVZThLODNNU0ZlOHEzTkwzY2tDZmQ5NHdUTzV2Ny1nV3llZ3VMaWFvaE5NZ1JfOE1GZXQyQnJMYkZCNUJ1ZG15TGJTQUhrS1MtTDFzaEp4cl9LcWluSUpzUXUycnRtaFlYS1VacGI4V3J0NjVXVHJZNW90cHR5T2Jw?oc=5",
+      "source": "Albuquerque Journal",
+      "date": "2025-09-19T02:02:12+00:00",
+      "description": "Albuquerque police launch drone program to help fight crime across city  Albuquerque Journal",
+      "query": "drone arrest",
+      "detected_at": "2025-09-19T02:31:48.312415+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "150363c711d1"
+    },
+    {
       "title": "Explosions in Kyiv as Russian Drone Crashes During Air Raid Alert - Букви",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFE3eDNOVHBRb0NYYXZicDFIbHV4cDFyV3FkNDd3a3JkQ05hSk9SZ2RDcFZ0VlpZT0RCbFAyR2ZUcUtzUndJd004WU1rZ01jVG5fUVJBQmFkdXlvYkhmZzI5SnlXRXVqUmM2MkU0WUw1QmhmS2lkNnJQUGVPUmZCWGpzcmNLeFVjZ0J5YVB0dVA2ejcyeldwVHdn?oc=5",
       "source": "Букви",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "10056598fc0f"
-    },
-    {
-      "title": "Poland blames Russia for drone crash - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeWZDd2hPVS1Rbk50ZlVLUDNmMFZQbmtlMFFfX3hCVElVZlZ2ZTgwdlBOLVdNemNLbGRxMndMbmI1LVQ2NU1HUkdjQlFKN3Ztd2FMd2NmWFpDZXd5TVdtMk5ycmRZaU1UZU5GdENmNV9uczQwWFlNMA?oc=5",
-      "source": "politico.eu",
-      "date": "2025-08-20T17:36:02+00:00",
-      "description": "Poland blames Russia for drone crash  politico.eu",
-      "query": "drone incident",
-      "detected_at": "2025-08-20T18:07:07.700867+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "1bd67c95caae"
     }
   ],
-  "last_updated": "2025-09-19T00:21:20.057737+00:00",
+  "last_updated": "2025-09-19T02:31:54.317837+00:00",
   "total_count": 1000
 }
