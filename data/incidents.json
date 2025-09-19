@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Is NATO ready for drone warfare? - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DUzQ1bUdCcE8wQS1sWFc4cmFTcFNucTJoekR4UnZuVmhaQlhSSmpmYzIxZ0dqZ29IZFRKYURRZkFlVVVrOUJfaTgwT2xnMUxHUDJfRWxCalg3QURlRXNLakp6cUpKRzlsVEZuNzZ5amdXZ9IBckFVX3lxTFBTdllicXlIekFuWmtuQTA4alZMS2FBTk9CZnBKWnY5aHhzdURfYnRTazlaaW1oOUtjc0JkRXlTQ1hLcTlyUkh0eGZSYkxmazExN0dRTmhEaGhVNllyekpTWE84dFRSeFQ3RFRsSGJHcWZTUQ?oc=5",
+      "source": "dw.com",
+      "date": "2025-09-18T13:42:09+00:00",
+      "description": "Is NATO ready for drone warfare?  dw.com",
+      "query": "drone incident",
+      "detected_at": "2025-09-19T08:07:01.843308+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a154c71fd5e8"
+    },
+    {
+      "title": "Intel officials are split on whether Russia deliberately flew drones into Poland but agree Putin is getting more aggressive - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFBvdl8zSFRrcFMyUjI4RmpfSHBUOVBtMzZNX2NmUDJXTDVUZzFRbXhMR2s0Zlp1ZnZSVzVRT1VVSEowYThvWnpqZ1dZTlp1UFBVa2pKRmtraFJxajh3TlNHeWpwZV9yVl9CQ2hwcUUzTGZMRXZaVDZOMGgySm9MWE5qLUVYU2ctbnJ0N052Yw?oc=5",
+      "source": "CNN",
+      "date": "2025-09-19T04:00:05+00:00",
+      "description": "Intel officials are split on whether Russia deliberately flew drones into Poland but agree Putin is getting more aggressive  CNN",
+      "query": "drone incident",
+      "detected_at": "2025-09-19T08:07:01.843308+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c035e099b366"
+    },
+    {
       "title": "Sheriff's Office drone helps capture wanted felon in Spokane Valley - KXLY.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVW5pOG1kWF9mbEo1UzNkdEEwRlNlODB5eDJBa1ZBbDVFX3RfWlItQkNrYTgyODgyQzJTSE9MMFlma0hnYjYwV3l5RDMxZWNySEZuQ1o3MExIZnkxLTdYajZPOFkySFZ5UUZjQjB1ZTc2UElhOENuWHhja1c3VXVWdkgtOVVUNkNZUzhvWlExX2J4WG9VRTJkc2NSVDJjVGt2QVQ2ejJJSXIwSFdBbDd4SExPdm50NWdpVWpTem83QVJpMThKeGowem9SX0hfcFJqVmxLbTEtX2tsdw?oc=5",
       "source": "KXLY.com",
@@ -11975,32 +11999,8 @@
       "location": "near its village",
       "category": "crash",
       "id": "2a5b29a4dc19"
-    },
-    {
-      "title": "The US Navy has built a drone fleet in order to fight China. It's not working out. - Marine News Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlZ1ZUlxUXhRekdSaG4zckh4NWNiTm82dFJ0cVRpNWFCVUlhdzU1YlBWSmNydURVX2lqZU9ndkxRcFlxWllhQWg3OG1SM1YySmYwN3BFMlZGSDRkMVE0QTJDREhnOHU2aEdXVVEyZVc4NHNpWDZoS19YelVNT3ZqQ0x3LThHSjJ0RzBRYUphdWhnbDgtM1BEa1NPb0FFVDFpTVR1VGVDLVpyZzV2?oc=5",
-      "source": "Marine News Magazine",
-      "date": "2025-08-20T20:40:28+00:00",
-      "description": "The US Navy has built a drone fleet in order to fight China. It's not working out.  Marine News Magazine",
-      "query": "drone incident",
-      "detected_at": "2025-08-20T21:04:51.792070+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dfe682bc8fc5"
-    },
-    {
-      "title": "Polish officials say crashed drone is Russian 'provocation' - DW",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU1EaFpGSkZMeEoxQmcySTcwbkxhNWl2UHBaZWphYW16c0c4R3ZzRy0xdEluVEpqU3oyaEZKa0lRcmZDUTU3TFJReEFiLUx2TEtkcDliR1o2YlNRMDEtOXhsZXVoblhicGtELVZWWmJxY09zWWpfak9obC1RYmRrVFFVR2JaNmZmYlJCZUxER1BEdWF10gGUAUFVX3lxTFBFQlVOQ2trWUpLb05EMkNZRWFGNEpxX245WTUwYnVLOVZzbnVQLVk2eDBkcUpyd1g4U1JPYXZhOWVTcHBfbndxTzg1NEM1STJXNEc2U0pReEhVTExfQ010MlV4VEpCOGV0Vms4ZjZlYU1pczdKZ2hhb3RRb09SRzhtU3pwbmlPQ3owekdPQU5WcUdLWW8?oc=5",
-      "source": "DW",
-      "date": "2025-08-20T17:04:15+00:00",
-      "description": "Polish officials say crashed drone is Russian 'provocation'  DW",
-      "query": "drone crash",
-      "detected_at": "2025-08-20T20:06:09.304840+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3db72bd1d107"
     }
   ],
-  "last_updated": "2025-09-19T07:05:43.715581+00:00",
+  "last_updated": "2025-09-19T08:07:07.673031+00:00",
   "total_count": 1000
 }
