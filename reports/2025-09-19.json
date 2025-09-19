@@ -1,0 +1,109 @@
+{
+  "narrative_summary": "Over the past 48 hours, a series of notable drone incidents have unfolded mainly revolving around Poland's tensions with Russia after drone incursions. Reports include a criminal scheme where drones were used to smuggle drugs and other items into prison yards. Additionally, various drone crashes were reported, particularly in Israel, where a Houthi drone caused damage to a hotel in Eilat. The proliferation of drone-related policies, including arrests stemming from unauthorized drone flights, has also gained attention, reflecting ongoing concerns about drone misuse in security contexts. The dual-use nature of drones has raised alarms about their potential impact on national security and civil order.",
+  "totals": {
+    "arrest": 7,
+    "crash": 7,
+    "smuggling": 5,
+    "terrorism": 3,
+    "other": 22,
+    "total_incidents": 87,
+    "by_category": {
+      "arrest": 8,
+      "crash": 12,
+      "other": 53,
+      "security": 1,
+      "smuggling": 11,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 10,
+      "drone crash": 19,
+      "drone illegal": 11,
+      "drone incident": 31,
+      "drone prison": 9,
+      "drone security breach": 1,
+      "drone smuggling": 1,
+      "drone terrorism": 4,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "border security",
+      "rationale": "Several incidents involved drones breaching borders or smuggling into correctional facilities.",
+      "incident_ids": [
+        "13207936ed53",
+        "75122ab20c0e",
+        "a420a169924b",
+        "4887d2655a41"
+      ]
+    },
+    {
+      "topic": "drone crashes",
+      "rationale": "A significant number of crashes occurred in various locations, leading to damage and policy discussions.",
+      "incident_ids": [
+        "77b758b9e3be",
+        "d1a3d6cb89ef",
+        "b4fc725a6069",
+        "c0d6edb7a00c"
+      ]
+    },
+    {
+      "topic": "policy response",
+      "rationale": "Growing concerns over drone misuse have prompted responses from law enforcement and government officials.",
+      "incident_ids": [
+        "c035e099b366",
+        "acd1774d84b4",
+        "dcb3b8482634"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "13207936ed53",
+      "headline": "Russia gasoline sales hit 2-year low amid Ukrainian drone strikes",
+      "one_sentence": "Ukrainian drone strikes have caused significant economic impacts in Russia.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "75122ab20c0e",
+      "headline": "A CIA drone strike leads to an arrest in Afghanistan",
+      "one_sentence": "A CIA drone strike resulted in an arrest tied to a long-standing case.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "a420a169924b",
+      "headline": "Pair flew drugs into 17 prisons using drones",
+      "one_sentence": "A criminal case involves two individuals flying drugs and contraband into multiple prisons using drones.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "77b758b9e3be",
+      "headline": "Houthi drone crash damages Eilat hotel",
+      "one_sentence": "A Houthi drone crash resulted in damage to a hotel in Eilat, Israel.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising tensions and security challenges, particularly in Poland and Israel.",
+    "linkedIn": "A surge in drone-related incidents has reinforced discussions on national security and the effectiveness of current drone policies."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-19"
+}
