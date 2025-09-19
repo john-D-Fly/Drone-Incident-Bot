@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Seattle man in custody following I-5 race and foot chase in Bellingham - Bellingham Herald",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vMi1Vay1NM29LaU96aGxqNEhhSldFdmdyT3pnOU5HOEQ4aEZVUFpKSjFnZlo0dHVkRGt2eXVzN3pNb2szNTZHQnlvTERscG9Ud3kxX3hYOVFjdUVDR0xMa3IydmhNWmJfd2hhSW9nUnZzU2JNSzJJcW5LNNIBe0FVX3lxTE80VDdia1MyYWZsVW1ybEk3dTNLZDJMLUxzWnRmRjliUHVMdWdIMFVrQ2NXMWszQWVITktleGpydG9aX2IwaFJGdndfWHNXYnRHbHYxYkZxYWgzeERmaDQzNF8zRUtCcjBjN2F2cmVFS2NOZk9lTzBnUkJNTQ?oc=5",
+      "source": "Bellingham Herald",
+      "date": "2025-09-19T20:51:00+00:00",
+      "description": "Seattle man in custody following I-5 race and foot chase in Bellingham  Bellingham Herald",
+      "query": "drone arrest",
+      "detected_at": "2025-09-19T22:05:19.122995+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "195e775e289d"
+    },
+    {
+      "title": "Russia Blames Europe for Derailing Peace Talks Over Polish Drone Incident - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhLWV4SkxaWXJHUEExTUhmeEFHVVdpcUp6dS16VGlNSFA2NUVsMVNiSl9wNlpxa0hVY1J1YmhaRURwSVNpWmhITjduWQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-09-18T21:46:01+00:00",
+      "description": "Russia Blames Europe for Derailing Peace Talks Over Polish Drone Incident  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2025-09-19T22:05:18.353435+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a36404c489a4"
+    },
+    {
       "title": "Poland, Latvia hit by Russian drone incidents - Ukrainian World Congress",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFNIYjI4TGhjYnhIa3N6TXVTVEtZZDN0cnhZcHlrS1lzRGtPR05Ienp0WTBISmVaaG9QeEZVdnozYzNuaEgyWGFlSzFKWlcyQ0hUVFVIZFJvQkxXem5TTlBsd2FuQXZuMFFSeWQ4MnVSb3lkUnR0NHAzMHBtZi1pT0JKdU1nTWZWQnlXTVpkLTkyZWZYeHJjeWdqX25fMFIzYklsX0M4Mklla1lrOV9VX29MV291c0Y4cUtrWGVJNWJZZw?oc=5",
       "source": "Ukrainian World Congress",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "7c77454ee1ea"
-    },
-    {
-      "title": "Man arrested after crashing drone carrying drugs into Lutz home, deputies say - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWpQSXNmYVhWc0t1OUkxUWVsQ1ZoZlhWZTlncVBiTnF4Qm1rWXRwVFk1QzFZOGp0U0t1REZzczA3YW5BdjlnakZ1eThMMEdDalhWLW5QRngtcU9GNnlHLUJwaEU1cFR5cGhITzBVQzV2TllzSDJ4MS1PZ19mWlQzODhCMnZMUW1RdXpSUUhR?oc=5",
-      "source": "yahoo.com",
-      "date": "2025-08-20T22:20:56+00:00",
-      "description": "Man arrested after crashing drone carrying drugs into Lutz home, deputies say  yahoo.com",
-      "query": "drone arrest",
-      "detected_at": "2025-08-21T05:05:40.451006+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "098d69f49508"
-    },
-    {
-      "title": "Video: Drone carrying drugs crashes into Lutz home, suspect arrested after knocking on door - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVNzQlg2Q2YtQTZlSVJVQUlDLWJPMWVzVlhETmd5M0lWYldlOHIwa0VGQ2dZb0V5ZzFTdU5lUHFQX2tuZ3Zpb09qbmRoRzdmUkQ5c2pDaEFYWXhFQjY0S2lTWmhWd1dMZWxsRkxGalBlTU45N1dPUXpCenFsekhDUFA2Q2I2YThFU3hQWExB?oc=5",
-      "source": "yahoo.com",
-      "date": "2025-08-20T13:17:28+00:00",
-      "description": "Video: Drone carrying drugs crashes into Lutz home, suspect arrested after knocking on door  yahoo.com",
-      "query": "drone arrest",
-      "detected_at": "2025-08-21T04:06:24.936849+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c9b1de3a1c83"
     }
   ],
-  "last_updated": "2025-09-19T21:05:12.746081+00:00",
+  "last_updated": "2025-09-19T22:05:24.649679+00:00",
   "total_count": 1000
 }
