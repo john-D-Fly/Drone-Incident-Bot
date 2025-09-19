@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Is NATO ready for drone warfare? - DW",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DUzQ1bUdCcE8wQS1sWFc4cmFTcFNucTJoekR4UnZuVmhaQlhSSmpmYzIxZ0dqZ29IZFRKYURRZkFlVVVrOUJfaTgwT2xnMUxHUDJfRWxCalg3QURlRXNLakp6cUpKRzlsVEZuNzZ5amdXZ9IBckFVX3lxTFBTdllicXlIekFuWmtuQTA4alZMS2FBTk9CZnBKWnY5aHhzdURfYnRTazlaaW1oOUtjc0JkRXlTQ1hLcTlyUkh0eGZSYkxmazExN0dRTmhEaGhVNllyekpTWE84dFRSeFQ3RFRsSGJHcWZTUQ?oc=5",
+      "source": "DW",
+      "date": "2025-09-18T13:42:09+00:00",
+      "description": "Is NATO ready for drone warfare?  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-19T04:06:18.627705+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "929c0311b565"
+    },
+    {
       "title": "Drone defense experiment Falcon Peak 25.2 held at Eglin - WKRG",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3RGajY1clN5OUVIeFRPNGpmenZPd0ZiM1hHNHFqcUdKUFh0MFQzcnZxajMzZlN3UGhFRXdLNF94ZGtXMFZnTG01XzVnMVRsUC04bjJGRl93QThqbFAwRFBCQXFqSGoxcTlnSWpqb1VnTzl0YkNJNlBhSHFkaXRuQ3VCMHVZbDljXzJyaHJTenpqSmVsYkYtZ0dWYklfOU4xeWNnc3g5N3l1OUNCYjJONzJBYW9qd9IBtgFBVV95cUxQa3RGajY1clN5OUVIeFRPNGpmenZPd0ZiM1hHNHFqcUdKUFh0MFQzcnZxajMzZlN3UGhFRXdLNF94ZGtXMFZnTG01XzVnMVRsUC04bjJGRl93QThqbFAwRFBCQXFqSGoxcTlnSWpqb1VnTzl0YkNJNlBhSHFkaXRuQ3VCMHVZbDljXzJyaHJTenpqSmVsYkYtZ0dWYklfOU4xeWNnc3g5N3l1OUNCYjJONzJBYW9qdw?oc=5",
       "source": "WKRG",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "70109d9aefc0"
-    },
-    {
-      "title": "Man arrested after crashing drone carrying drugs into Lutz home, deputies say - WFLA",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUhJUEdCTG9adGc4clZQWnA0RWVVYm5sc3VaRlFwOWtIWjRFbnJ6OUoyMWdrV3o1bmc3VVB0UkNtR3ZYa2NuSzBLbUtuXzhGbFlCUVFOblpYTEZpTkdZLWtVc3JrWW9EMTZmWXl5WnlmTFZkR09GUWNZM1Nfc1haUHo5WU95UU1mS1p1RDdMS3VfaGZVR0FIZkVPU1Jmb1pFanZ2YXpYVzk5YlFHN3BZQS1qSGZNeC01dWpPZjNHQWHSAcYBQVVfeXFMTi1uQTdhNnlRLXJEMEEyYjR0SVJwOXE1OXA1T25VaWp5UlRKei1HVmtkajY5MV9jM2NOTlhwSTZMUlFjcGl3VGtiVEl6RU8wT25ja1RKNGRtdk1LRFNqSG1mYzk1djhadWUtYldIMEdOSXVHamVTaWljbjc4WGFudVhiNFNGUjBvQzdERTctckxUVWxkT0JxLVhXbmgwZk16WUhhQ0dEZ1ZRQ3dabkluR3JESlkyNndZY3M2WnBhbC1lTkE5LWx3?oc=5",
-      "source": "WFLA",
-      "date": "2025-08-20T14:23:19+00:00",
-      "description": "Man arrested after crashing drone carrying drugs into Lutz home, deputies say  WFLA",
-      "query": "drone arrest",
-      "detected_at": "2025-08-20T19:04:39.872294+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "794ddffed06d"
     }
   ],
-  "last_updated": "2025-09-19T03:17:56.618739+00:00",
+  "last_updated": "2025-09-19T04:06:24.998832+00:00",
   "total_count": 1000
 }
