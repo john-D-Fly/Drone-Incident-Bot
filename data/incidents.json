@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Can NATO stop Russian drone incursions? - DW",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2VpTU9Wd240bDZfSXUyWWJYQ3JpQnhvczlteEUwTGt0ZDZ0ZEk5bml0SVNQQ3BpWldtU1FWNTFBX0JfTU9XVE5pd2p3cWlvWlRHOUIyMGNTeEo0WmNfUzRpX0FjcG9ZU25BYy04RXlkRjQwenJ2cjRsa3pmX3c4RnJqcDlNX1nSAYcBQVVfeXFMUGN3YnVQQ1VYOFY3WmktSVlvY3JPZ3BvX081UmdtZkkxZ19mRHpidDZsV3ZrN2dUOFRJaUVvUktFS1Vab0FsQ1NDWWxvOUxLSFNUN2E0OWxpOFhSZlpLNXBJSHg4T0k4Q25taWNXWHhOQmUxOW1mWkwzYVVKdENZN2xFREpCVWNR?oc=5",
+      "source": "DW",
+      "date": "2025-09-18T17:37:30+00:00",
+      "description": "Can NATO stop Russian drone incursions?  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-20T02:28:30.843822+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6b35b1c055ed"
+    },
+    {
+      "title": "Latvia finds parts of Russian drone amid Ukraine-Poland defense talks - Ukrainian World Congress",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFNIYjI4TGhjYnhIa3N6TXVTVEtZZDN0cnhZcHlrS1lzRGtPR05Ienp0WTBISmVaaG9QeEZVdnozYzNuaEgyWGFlSzFKWlcyQ0hUVFVIZFJvQkxXem5TTlBsd2FuQXZuMFFSeWQ4MnVSb3lkUnR0NHAzMHBtZi1pT0JKdU1nTWZWQnlXTVpkLTkyZWZYeHJjeWdqX25fMFIzYklsX0M4Mklla1lrOV9VX29MV291c0Y4cUtrWGVJNWJZZw?oc=5",
+      "source": "Ukrainian World Congress",
+      "date": "2025-09-19T14:21:08+00:00",
+      "description": "Latvia finds parts of Russian drone amid Ukraine-Poland defense talks  Ukrainian World Congress",
+      "query": "drone incident",
+      "detected_at": "2025-09-20T02:28:30.843822+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1bb5ed78d00c"
+    },
+    {
+      "title": "Russia Offers Consultations with Poland After Drone Incident - AL24 News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEViTzNyODV4WmxuVFhkcHhjVWJxeDNXU2xaeXRIWEx2NG1sUGEtdUtWU1FfM1JNOVZKbXN3aHdPd3hHS1BkT1J0SzNVREZSZm1rM0RIQnhGX1dJdmhvdTZqa0VTOWF5WVEzVzBrb0VCbXd6RW1OV21GNjRqV2JtUDFDZXR2NFQtSlBySQ?oc=5",
+      "source": "AL24 News",
+      "date": "2025-09-20T01:12:55+00:00",
+      "description": "Russia Offers Consultations with Poland After Drone Incident  AL24 News",
+      "query": "drone incident",
+      "detected_at": "2025-09-20T02:28:30.843822+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7b3796960afc"
+    },
+    {
       "title": "Oakdale Police intercept contraband being snuck in by drone to federal prison - KPLC 7 News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhGLWNHUXNRaEI3dnQ2Y2lqT1AyVmVDbWxmY1FHQTFGeHc2MTVZaXB5ZHU1VENVMzRUQUlEb1hwWkNXSXlmYWtsZkZuTU0weTdzTTVXQjVNMXpHOFhYY19laUd6MlZXNjVnYWY2SGlmeXBOSkpneXRFbnFSRHotRWoxS245Y3Zaek9HNVRMQlFLdXQ5c1ZBRGhDNUxZRDZ5V2JjM29BaEJuSUwwNDRTdm5n?oc=5",
       "source": "KPLC 7 News",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6250b94290bf"
-    },
-    {
-      "title": "Poland calls a drone crash in the country’s east a Russian provocation amid peace talks - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVdqOHRHTnExRVJXVGYyYlo0dEdXdEtydVJ2cEtvMHQtUWdVS2JIZno0SlZTSnQyMlBpcG9UMVBiUUxDUW40bERaRGU1Ml9YUWNQUWtUdDhJNm1SS2dKTFREYVNXa2poakFVY2hEMnF1MkdkWGxPOFc1U2NDSnRNV0NWQU9pb0FpOHlLVtIBkgFBVV95cUxQQ0d3c3NKc2FmSEt5dDZaMzRnREQtejRCemhLQVFvdzN3S3M4aWdLOEZmMTE3Y21YSmVVdXFndm9aV0dpOC1zMU00YThEdGVGcDJsMWJJQngwakZxZXJzQkJ1MDRrYVlLaDhPeWVkamRPSEtCenV3V2l0a3Q3b08yRXdCZ001M0pacUhqVmNUU2NNQQ?oc=5",
-      "source": "Boston Herald",
-      "date": "2025-08-21T06:49:37+00:00",
-      "description": "Poland calls a drone crash in the country’s east a Russian provocation amid peace talks  Boston Herald",
-      "query": "drone crash",
-      "detected_at": "2025-08-21T10:05:47.926968+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "39a735a5b4cc"
-    },
-    {
-      "title": "Poland to lodge diplomatic protest after Russian drone crash on its territory - Notes From Poland",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZkpvX2lzOTlMTXo2eElzdG1FWEZQeTBoVC1nMmppU00xVkZuV0xpclZYcGwxWmJIM1BUVzF3SHBROGQxUVB3NmVucTFBTUtqMnNCV1JYdm5pbTktMTg0NXUtTG15ZmRsR3RpbWFqWnVZczBqQmRRR2RmNnA0V00zM0RaS3dYVjdSTUhWMGw0dFN3Sk4wZ0pIWHB3amNsX0xEOVJ6T0dDX21mdG1OSVJ5RDd4eHh5bWVI?oc=5",
-      "source": "Notes From Poland",
-      "date": "2025-08-21T08:54:58+00:00",
-      "description": "Poland to lodge diplomatic protest after Russian drone crash on its territory  Notes From Poland",
-      "query": "drone incident",
-      "detected_at": "2025-08-21T09:05:57.371159+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ca5ddd36db0d"
-    },
-    {
-      "title": "Russian drone crashes in Poland - Northwest Arkansas Democrat-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNam8ybTF0cHJQODRTM3h3eGgxUTBJLU1pLUxPZVFHS09vMkxYZFp3WWJOQkdtTmZ3S3ZSSmNwY3BaX1FWcFRrVHBWSzNkeHJRWlktR0VCNUZEZ3pxQkdsWFAtNjE5eFhUb2ZfX2w2d3BVVmZwVXJPa21TbU5nZkxyNWRoY1M4RFZoSEx6UWx4NkZJZFU4Y25weUxMV3ViRnc?oc=5",
-      "source": "Northwest Arkansas Democrat-Gazette",
-      "date": "2025-08-21T07:49:00+00:00",
-      "description": "Russian drone crashes in Poland  Northwest Arkansas Democrat-Gazette",
-      "query": "drone crash",
-      "detected_at": "2025-08-21T08:07:27.454957+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d19fcfd8eeb3"
     }
   ],
-  "last_updated": "2025-09-20T00:20:26.577342+00:00",
+  "last_updated": "2025-09-20T02:28:36.908569+00:00",
   "total_count": 1000
 }
