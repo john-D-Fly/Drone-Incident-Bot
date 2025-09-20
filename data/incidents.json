@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone Restrictions Imposed in Anantnag District - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0FfU3drQ0RIUmRpYk52RFFkUG14c2VTbm9xbkRWOWdnX1BaUXFacDI1LTBseThibWN1RmVVd2ZqZWktYUM4VC1jZ095cmNOc1hQSEdjZjlZc0pWT0toQk40a2xuRFhxVGhoa1dDWFEtenlSTHd2Q19wZFhiOWlIOUE2SW05dWJVYVpNd3BjeWdIZ3JEdnNwdlhhRDRzWTlkV09sLdIBqgFBVV95cUxQcG5KM2NtdkFabnNrdjgyMEFfVF9RT19rU0dORnpZR3Z3UVhCTGFybURKZGNvRWpQdUJ2WjlrR1lMSU1fNFJLc1c0V0NUOEFHMXZkaE9yVGYyYllGWngxRjlpN01SMlpOZkE3UkxOaktMakdtUzVNYXhCN1BjR0R4S1Z5OGttc1NpYnVDcWNfTFNHVG5sTnFSOGhiNHRONUJ6Q0dNT0p4SkYzUQ?oc=5",
+      "source": "Devdiscourse",
+      "date": "2025-09-20T16:08:23+00:00",
+      "description": "Drone Restrictions Imposed in Anantnag District  Devdiscourse",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-20T17:04:47.779109+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "3a9d5a137e50"
+    },
+    {
+      "title": "Oakdale Police intercept contraband being snuck in by drone to federal prison - KPLC 7 News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhGLWNHUXNRaEI3dnQ2Y2lqT1AyVmVDbWxmY1FHQTFGeHc2MTVZaXB5ZHU1VENVMzRUQUlEb1hwWkNXSXlmYWtsZkZuTU0weTdzTTVXQjVNMXpHOFhYY19laUd6MlZXNjVnYWY2SGlmeXBOSkpneXRFbnFSRHotRWoxS245Y3Zaek9HNVRMQlFLdXQ5c1ZBRGhDNUxZRDZ5V2JjM29BaEJuSUwwNDRTdm5n?oc=5",
+      "source": "KPLC 7 News",
+      "date": "2025-09-20T03:13:48+00:00",
+      "description": "Oakdale Police intercept contraband being snuck in by drone to federal prison  KPLC 7 News",
+      "query": "drone prison",
+      "detected_at": "2025-09-20T17:04:43.577011+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3e6fb730c399"
+    },
+    {
+      "title": "Another Russian drone found in Poland - media - Цензор.НЕТ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ3Y3cHNBUGcyTnY4U2xjX0NtTmRmYVFwV3JNVjZYZDcwZ0Uwa2hJVU5vSXRPbGdhMVNwYXMzQ2hqaDZiVnFueEZXekpEbXhfekRaMDhkYTdKSnJfMmtXeF9vTmNoak5KcXNlN1ZyU3BzVWp0ZG9zaFdXbk9GdVFRaFF6bzA2ak50SXNGMXVXM3ctRUZ0UEVFc1RiUQ?oc=5",
+      "source": "Цензор.НЕТ",
+      "date": "2025-09-20T16:13:00+00:00",
+      "description": "Another Russian drone found in Poland - media  Цензор.НЕТ",
+      "query": "drone incident",
+      "detected_at": "2025-09-20T17:04:41.778428+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "aa484eab737d"
+    },
+    {
       "title": "Sheriff's Office drone helps capture wanted felon in Spokane Valley - KXLY.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVW5pOG1kWF9mbEo1UzNkdEEwRlNlODB5eDJBa1ZBbDVFX3RfWlItQkNrYTgyODgyQzJTSE9MMFlma0hnYjYwV3l5RDMxZWNySEZuQ1o3MExIZnkxLTdYajZPOFkySFZ5UUZjQjB1ZTc2UElhOENuWHhja1c3VXVWdkgtOVVUNkNZUzhvWlExX2J4WG9VRTJkc2NSVDJjVGt2QVQ2ejJJSXIwSFdBbDd4SExPdm50NWdpVWpTem83QVJpMThKeGowem9SX0hfcFJqVmxLbTEtX2tsdw?oc=5",
       "source": "KXLY.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "a2769967625f"
-    },
-    {
-      "title": "Drone carrying meth and fentanyl crashes into Florida home, suspect arrested - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXNzQVdDSjRHY2ZRcTBIZXVFYXJXN25Fd0xtd1UtLUFaZWN2MFFrRnJDaGJ6UVlrUTlmaldTdXRoNDVaUTR1S2M0MXNnMXoxSWgxZDlOM0RaVVFpdzdZYWwwOTNIOGV6clBDTXBXMThMWDliYVY0UU93Rl9ydlBJRk1UQXRORUJPQy1sNnRvWE1UT01VYXBwVWxZczJMUUhMbVFCblE5LTVjS29IZnI1M1BZa1F6bktBb0V4R1lfeXpBdw?oc=5",
-      "source": "MSN",
-      "date": "2025-08-21T05:33:09+00:00",
-      "description": "Drone carrying meth and fentanyl crashes into Florida home, suspect arrested  MSN",
-      "query": "drone arrest",
-      "detected_at": "2025-08-21T16:05:54.378775+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "85f893e744b4"
-    },
-    {
-      "title": "Drone delivery gone wrong: Man arrested after crashing into home with narcotics - WKRC",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOXzd1TElicng3czZnY1hSMzZiaEIyNlZ4aWlzemtvSkhpU1IwWHNPZ2dyZzJYeUQzVU1DVlRUcTZVdWdNSV9NTklVUzdMVUwxWEZmQ0dvcXpzUTJWU2ZTUUdIT3pfOVktUUt6dTdlbDQ4S0RZeHhlZUN4NXBRblpmVU84cXJpcGcyZ3FzcW1KbW1pQmxUcTFTRUtmUGlpeEQwc0RDS0R5N1k5NTdacDJUckFndjhXVExra3FBVUFjSmoyTXEzWVFxeENrVXM0N3kzXzFWVml3bWlZX0hy?oc=5",
-      "source": "WKRC",
-      "date": "2025-08-21T14:47:22+00:00",
-      "description": "Drone delivery gone wrong: Man arrested after crashing into home with narcotics  WKRC",
-      "query": "drone arrest",
-      "detected_at": "2025-08-21T16:05:54.378775+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "5650c515abb0"
-    },
-    {
-      "title": "Polish drone blast probe reveals device may have come from Belarus - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOczVpeU5DWVY2Y3hPeDA4U1phbzJwbHpSVV9GemhTdndwRVBLWmlHOFlYX3AwVkg5Y0ZUa0RZUzlTVW5VV0tQeDU5dHl2RDZ4MC0xTG1sUzFjcFk0cVdtcEp5LS0yd1lxR2xqcFRCVTJ6dHVzMUYtaHVLVnVaRFhlMzJsTTlFTWptNXA4THhKWElVZUNMdjJWbXIxd3NmOWFwMDluOWFJVGdCZS1CTDF1TTJ2Ujgyd0U?oc=5",
-      "source": "TVP World",
-      "date": "2025-08-21T08:55:00+00:00",
-      "description": "Polish drone blast probe reveals device may have come from Belarus  TVP World",
-      "query": "drone incident",
-      "detected_at": "2025-08-21T16:05:53.512855+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4fdd889c23fa"
     }
   ],
-  "last_updated": "2025-09-20T13:08:25.929984+00:00",
+  "last_updated": "2025-09-20T17:04:48.407963+00:00",
   "total_count": 1000
 }
