@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "In the past 48 hours, numerous drone-related incidents have emerged, particularly focusing on smuggling and prison drops. A significant number of reports from across various regions highlight increased contraband deliveries to prisons, primarily the federal facility in Oakdale, where police intercepted multiple attempts to deliver contraband via drone. Additionally, there are growing concerns regarding drone activities related to terrorism, particularly near border towns in Egypt, raising fears over weapon smuggling that could escalate into conflict. Notably, there have been incidents involving drone crashes and related investigations, indicating an intersection of unauthorized use and security challenges. The prevalence of drone regulations and discussions around improving safety measures reflects the urgent need for more robust policy frameworks to address the risks associated with increased drone activity.",
+  "totals": {
+    "smuggling": 11,
+    "terrorism": 4,
+    "arrest": 5,
+    "crash": 3,
+    "security": 6,
+    "other": 10,
+    "total_incidents": 59,
+    "by_category": {
+      "arrest": 6,
+      "crash": 3,
+      "other": 23,
+      "security": 2,
+      "smuggling": 22,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 11,
+      "drone crash": 3,
+      "drone illegal": 2,
+      "drone incident": 14,
+      "drone prison": 22,
+      "drone smuggling": 3,
+      "drone terrorism": 1,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Contraband Delivery",
+      "rationale": "Increased incidents of drone deliveries to prisons indicate a pattern of smuggling operations.",
+      "incident_ids": [
+        "be614a94837e",
+        "4714c93a5f4b",
+        "4e6db23af858",
+        "0d04883e243c",
+        "4ffbb29b5b69",
+        "1768a9249b4b",
+        "9d6e40258910"
+      ]
+    },
+    {
+      "topic": "Drone and Terrorism Concerns",
+      "rationale": "The potential for escalating violence due to drone usage in smuggling operations raises national security alarms.",
+      "incident_ids": [
+        "e9461d76d34b",
+        "MK Sukkot demands action on drone weapons smuggling from Egypt",
+        "Britain must prepare for terror attacks by drone"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Investigations",
+      "rationale": "Several reported drone crashes highlight the ongoing risks associated with unauthorized drone operations.",
+      "incident_ids": [
+        "b8acf3e41e80",
+        "2ec8557e31af",
+        "3541b9fa5d68"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "be614a94837e",
+      "headline": "4 Men Sentenced in Warrant Scam Targeting Women From Prison",
+      "one_sentence": "Four men received sentences for their involvement in a scam involving drone usage to target women.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "4714c93a5f4b",
+      "headline": "Oakdale Police Intercept Contraband Being Snuck in by Drone to Federal Prison",
+      "one_sentence": "Oakdale Police successfully halted several attempts to use drones for contraband smuggling to prisons.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "e9461d76d34b",
+      "headline": "Border Towns on Edge Amid Growing Weapons Influx by Drones",
+      "one_sentence": "Drone-related activity escalating near border regions raises fears of potential terrorism.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a15309572260",
+      "headline": "Drone Contraband Drops in Dublin Prisons on the Rise",
+      "one_sentence": "Reports indicate a significant increase in drone deliveries of contraband to Dublin prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "91c376932776",
+      "headline": "Can NATO Stop Russian Drone Incursions?",
+      "one_sentence": "Discussions surrounding NATO's role in countering increasing Russian drone incidents are ongoing.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "b8acf3e41e80",
+      "headline": "Russian Drones Crash in Chernihiv, Damaging Transport Infrastructure",
+      "one_sentence": "The crash of Russian drones in Chernihiv has raised alarms over infrastructure safety.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone activity continues to rise with significant smuggling and potential terrorism threats noted across regions.",
+    "linkedin": "Recent drone incidents highlight serious concerns over smuggling and security, necessitating an urgent review of policies and technology."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-21"
+}
