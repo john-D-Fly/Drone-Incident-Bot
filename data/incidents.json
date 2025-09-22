@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Copenhagen Airport flights delayed after 'large' drone sightings - The i Paper",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXJ0bW9BcTgxa3lmOW5zMHNYZHpfWlhyNU85RHV6Q2QtWWlhdkx4dWZSTXlvYXRMUlVLbDU5U0M2UzVxcnRNaWcyWHByMjBJbUVWVUdvYVZkNF9CWXhDeWJ0QzhyVk1qbUlpRGozc211dWFsMFZGcGw4MDF2SlJqV3Q1UkdmNk5sQlJmT0QwRzNpdUNQ?oc=5",
+      "source": "The i Paper",
+      "date": "2025-09-22T22:21:56+00:00",
+      "description": "Copenhagen Airport flights delayed after 'large' drone sightings  The i Paper",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-22T23:05:20.144143+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "9be020c55cfd"
+    },
+    {
+      "title": "Flights suspended at Copenhagen airport after drone sightings - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHROVGtnOHJrT2hiU2xXaG1IZ0pKNXktQVhYMHRGOThVX3Vvd2VvSE1jWnJxdHR6aGVVX09FYmxpV2FoQ3gxdXpwMGRvc3UtZTh0VDMyTTJ6YmQ3MEdEWmVNQnFfSmFJMWEyZ2kyTXhIWVBWYUlYdTI2YjZqNDhKQml5elB3SFpnSW9UdFBYaHVJVTdaNkhXSUFDMjVVZw?oc=5",
+      "source": "Sky News",
+      "date": "2025-09-22T22:18:45+00:00",
+      "description": "Flights suspended at Copenhagen airport after drone sightings  Sky News",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-22T23:05:20.144143+00:00",
+      "location": "at Copenhagen airport",
+      "category": "airport",
+      "id": "b7e80e767e25"
+    },
+    {
+      "title": "Prison bosses urgent warning of drone jail breaks as they may soon lift inmates out - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOSHdhU2dpQUx6RzJRYzRjQ2NhQzBlbEtmN1kzamlBOS1JUXk2QWY2MjhNX1F6aWJna2RYYk4yVTl5NmhhZXRGWmwwSE9uelNFczc4ZzJXVnhHY18xZXBqcllzRVdpQ2VQWGV4RGJOVHBYVW1XNWQ2ZzlISDRweXhocll3bkxiNXEwZ1ExNm93M0xnRDhPVXJvNHNRSktwU0ozZXo4cXF4TEhkUFNiOGdBS1pDSEF1T0pyQ19CRlY1RnNQVmxwX0dweG5HNllZcDJEUDlOY3ZtYksxZzR6cGpqRWVOZFdiRHE3TThadm5xN1psUmdWQWd0aGsyYmxuS1RJWGN6aDBuYXgtMUo2WmE1dXlpTUg5TGotT0JEY25SOXVZMUFPZkRCX0FVYVphcG85LXlsSmE5ZlU2Y1Jhb0hfZ3RYdS1icEhGTzM5U21TSnEyc1NSVUVObzRjZEk4dlNTdXd6Mw?oc=5",
+      "source": "MSN",
+      "date": "2025-09-22T17:35:34+00:00",
+      "description": "Prison bosses urgent warning of drone jail breaks as they may soon lift inmates out  MSN",
+      "query": "drone prison",
+      "detected_at": "2025-09-22T23:05:19.522193+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8eb657c6b553"
+    },
+    {
+      "title": "Copenhagen Airport suspends flights due to large drone sightings - WRAL.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEF1UnBmaFdHMXVQM1duTFlCR1psY1RwYUxqc3hSS0txdy1nTDNoV1oyUnpTRmM5ZVFLRzhTeUVvVHBjZEVSN2VXc1A3VE9LbzVLLUItSk94dlV3aU5kNFpnNThmaGVnTUhLVFV2RGZwWFNEQVVkRGY0VmNmaS1MdHhoQ24ycGhrOEcwRnQtTklJUG44aUdDVFk5SFVQVjJLUEtB?oc=5",
+      "source": "WRAL.com",
+      "date": "2025-09-22T22:11:53+00:00",
+      "description": "Copenhagen Airport suspends flights due to large drone sightings  WRAL.com",
+      "query": "drone incident",
+      "detected_at": "2025-09-22T23:05:17.692624+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "fdafe99dab22"
+    },
+    {
+      "title": "Copenhagen airport shut down as flights forced to divert after 'large' drone incident - Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdklHdjdIVTlWamRJbkgtcjlQSHY5NVhOU0NfQllxQ0pkWUdGTlFyWGRiOWdyVXRvZFkwczVXbWxndDBiRXpfaEI3Q2FyWl9jVUN3Z3lXMmNlblQ4R3N5cHdQUllxc1NZOHQ2ZEU3SmtvUlJZVmROcWFsVFFDV211dmdTQ0szWi1CQkhfQnFBONIBlAFBVV95cUxNdjdZUDJEQXp6Mm5xaEdlQllLT1BQYUVSMHJvUl9XbHlvdGpJREtwQWgyR3BTb0VNSmVTamtVRmIwTThSbzNkbmVyWUFOd0pmQjZLdFg5cU5rUFFqODZxdzJISGdsbGtraE9WV0RGX1ktLVBNc1dVc2JOeDdJN0lpQW15RkhOeW1GMnRISWlOVDJoYjRO?oc=5",
+      "source": "Daily Express",
+      "date": "2025-09-22T21:40:40+00:00",
+      "description": "Copenhagen airport shut down as flights forced to divert after 'large' drone incident  Daily Express",
+      "query": "drone incident",
+      "detected_at": "2025-09-22T23:05:17.692624+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "abe24eb68b70"
+    },
+    {
       "title": "Drone sightings force closure of Copenhagen international airport - Türkiye Today",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW5oWW5SUnZBckJhSjlVYjc5dU1leHpzVXgtSGowWkg5TzZZVkd3NmVTNFVqWjluSFhnS0o5LW9TQWUwTmM1c3ZITDV1aEJWYzFKN0JvVVJjb3ZuSUg2aEwwUnpQbDRWY0NHdGVJNy0xaEJDTVNiZjFadGJ1WGp4Rm9JRTlxdEpIQ2tFRm9SVjJVNzhCdHFJb2ZxV240Y21oZW5ndmVqYTRnejla?oc=5",
       "source": "Türkiye Today",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "95508e80435e"
-    },
-    {
-      "title": "Drone footage from the deadly Thruway bus crash - WGRZ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWZTN1NzN0xCY2Y1ZE5lTWl2ekRROE1mTG1lOG5MZlBaS1BFSERXTEZkRHVaUDNkd0VaQmxnWXgzdzF2VVhnZTlrZGZqTW13YlBEYnBVdzI3RFl6WUZacUxnTXNDaHZvN1EzZ3FndDBfcnpZTnNCV1NXdE5uWktwcXBCYUItbzA2dTlQT0Q4ZE9nLUYzNDFvMTlSU09KT0o2dXJNT1NBa3VRb0U1OFlCM1VXWGg5ek0?oc=5",
-      "source": "WGRZ",
-      "date": "2025-08-23T00:09:00+00:00",
-      "description": "Drone footage from the deadly Thruway bus crash  WGRZ",
-      "query": "drone crash",
-      "detected_at": "2025-08-23T00:21:24.745265+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "607debdf773f"
-    },
-    {
-      "title": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach - Anchorage Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDNJbUJpcEY2YUwzRDU4MVN3bkt3Y0I4UGtQRm1FQ1BfeWVKRjBLNlBDbWkxV1JZeWtseV9xaU1wY1g4eFd5UEJxbUJpUkJJQjhyOE1OWHF1ZXQxQlNWNzZqZWNRd29vSloxY3N5eEEtczNKS0ZDM051dy01QjNCeGc5bUY5UkpFM0tRMlJCbVNZLU82TktqdjFPN3JCOFJUQktoREpnS2pDbDVGRFNSM3JDejNHTnVkSmxkcTVkMlJaOUpSRjdqMG9fV21FMklFbFE?oc=5",
-      "source": "Anchorage Daily News",
-      "date": "2025-08-22T03:22:30+00:00",
-      "description": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach  Anchorage Daily News",
-      "query": "drone crash",
-      "detected_at": "2025-08-23T00:21:24.745265+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "c2ffcddc86a4"
-    },
-    {
-      "title": "Army unveils crash course in advanced drone use amid push for force with combat tech savvy - Stars and Stripes",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2lfM3FVZFBMN3VSYTV5ZGo0YXh1amZjSTZWd2p2MXdlbE1aVzEwWEoxblo4Z0ZFclBXSEZ3TU5CQ2xYQ1loNTA1OHRrSmZlZlBGc1FKa3cxOWVNZHlrNkxSZHdZc3MtTm5CTkVjTzRIODFxcXJWR1V1Y0twQmpCXzcweE1WSUNJMDdFcVlCbjBJQQ?oc=5",
-      "source": "Stars and Stripes",
-      "date": "2025-08-22T21:11:15+00:00",
-      "description": "Army unveils crash course in advanced drone use amid push for force with combat tech savvy  Stars and Stripes",
-      "query": "drone crash",
-      "detected_at": "2025-08-22T23:05:07.848316+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "c6437aba0856"
-    },
-    {
-      "title": "Watch Mich. Police Use Drone to Nab Armed Arsonist in Parked Car - officer.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdUtNc1FSa1Qwa1BqSWdjallOd3cteXJDVHpCRDBmRkZEd3NLSVVJOTdudmcyRGdoYTllZEhRS0pBVnZvZnM3dHdCbno5UDZFXzdoQnBjZTNSSmNDSHBXcXQ3a2VyWk1hR3kzUC1VLWRMRWhueWs2ejEzczRqLTlscVpsU1ZZNFZvMV9pSFl0TWhnU3g2RFFOX2JTWUpyUjFMYkhuYlFLYlFzblRNUnVwNDFkNzgwSGhSSjRGVTBHODZHT2Zwc0pwUi1RY0Q4Q3FJaXFoQlZnOXRhc2xmcHFwb3E3aVE5djNn?oc=5",
-      "source": "officer.com",
-      "date": "2025-08-22T17:28:42+00:00",
-      "description": "Watch Mich. Police Use Drone to Nab Armed Arsonist in Parked Car  officer.com",
-      "query": "drone arrest",
-      "detected_at": "2025-08-22T23:05:05.533701+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "59921ca8cb5c"
-    },
-    {
-      "title": "Tampa-area man arrested after crashing drone carrying drugs into home - WSVN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUEtYS0zT05jTjROMHFyRHlOREhQS1R3eGR2Tm9qb3c0ZHczNzFlMm1pZXluNm56RlFQRmZETTZrRXRBcERuRURCUnNzbWRiWWtnVmYydTA5TnpjbjlmdnhfdWR1cGVsLVpXVEJLem9wVXUxMldsZjczWFFFRm1nWGs0czNpM1Vsa2pGQ0lKXy1JMm02UmlxOUxjZm53NFBpZHVFT2ZUWnBJUQ?oc=5",
-      "source": "WSVN",
-      "date": "2025-08-22T22:29:33+00:00",
-      "description": "Tampa-area man arrested after crashing drone carrying drugs into home  WSVN",
-      "query": "drone arrest",
-      "detected_at": "2025-08-22T23:05:05.533701+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fd54bff2e1ba"
     }
   ],
-  "last_updated": "2025-09-22T22:05:39.160143+00:00",
+  "last_updated": "2025-09-22T23:05:24.212117+00:00",
   "total_count": 1000
 }
