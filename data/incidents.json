@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Crash-proof drone inspired by the head of the woodpecker - New Atlas",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kZzRTSF9yYXZGZ2ZyTkktNVV6QmgyQURidndNdmNSUUtUZHh1TDZZSlowd1JvaEtmZEVJVjB4OENrSFlKRHdtMlBYS2dTdWstZTRsMFZ5X0FVSmNLV0FvR0lJUndiMjlJUzJqNmdIOUtXLTZ5NTh1VXBpUQ?oc=5",
+      "source": "New Atlas",
+      "date": "2025-09-22T20:34:27+00:00",
+      "description": "Crash-proof drone inspired by the head of the woodpecker  New Atlas",
+      "query": "drone crash",
+      "detected_at": "2025-09-22T21:04:54.949148+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2b1beaaa5dd3"
+    },
+    {
+      "title": "All traffic at Copenhagen Airport halted after 'large drones' spotted in the sky - lbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeG83a1ZtVmdVV1FGbXM0Rk9DSEJHeld6WTVBU0cydTB5S1BrTkM4QVJCRC1pU1poeTZyMC1fcC1MTklTekdqb2FxaWJjQnAzNnZKOXVkUG9xX2NLWGVraFg2N005R0pzY3BEa0doTmcwTkpaWUtuc3Jwcm5zUmVncVE4TlJQV3RYZ1RJa3FUWkh2T3NCbFVsdTRycm00Znhx?oc=5",
+      "source": "lbc.co.uk",
+      "date": "2025-09-22T20:09:50+00:00",
+      "description": "All traffic at Copenhagen Airport halted after 'large drones' spotted in the sky  lbc.co.uk",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-22T21:04:54.191541+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "d8a0ae16d309"
+    },
+    {
+      "title": "Drone Disruption: Copenhagen Airport Shutdown - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWYxUGlQcWJTSElKazQ0OEFxVzJ2MEtjbDUzQ1dLMmxpUUx3MXhreXdlU1BfV1N3V2ZSTlY3M0J0QmE2UDh2cG9hamYzRkNoQldTQm0wVFZJekxjQXg5aENjWjJUdFlZR3JMQ0VPX01LeUFxaGhib1IzYml6aVp4UUFpNnZ4U0RsZkRocFdyZ0RMVkJybHUtVVBQTzlSbG_SAaQBQVVfeXFMTlBxUFc1R3FmcnNKZV9BaVp0VnkwT195THNReHlISHcxT00wSmkxMW0xMVYwX2ViSGNxSVY5VEhGX1BINXdJbUlSZmJLYWFRNG40NHFNcWdVTG9YSnVzWGVMcjJacHpVZzhRc1BRZXZYak9hY0ZaWDRnX1doWjVRdlRKaW5xM2hsSGlYaVd6dFhrcUJ6aUtPV0s0UEdlYmlfVjFkcE4?oc=5",
+      "source": "Devdiscourse",
+      "date": "2025-09-22T20:06:33+00:00",
+      "description": "Drone Disruption: Copenhagen Airport Shutdown  Devdiscourse",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-22T21:04:54.191541+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "77fcd6b1815c"
+    },
+    {
+      "title": "Police close Copenhagen airspace amid reports of 2–3 large drones - EU Today",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83YlE0S0Nyb1JHcjRvQllXbWZHdlpGQXI0MnB2X1pGWTFWX3BXT0dqMVVFRlctTS02ajlZRXJ0U1dlRjRGNjBxYTlaSnoxbUJDT0NtZno3Si0zMGFfdi1XYlhXa0tSdXNtQTZTdTdyOFJJZm5iVnRHVw?oc=5",
+      "source": "EU Today",
+      "date": "2025-09-22T20:55:21+00:00",
+      "description": "Police close Copenhagen airspace amid reports of 2–3 large drones  EU Today",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-22T21:04:54.191541+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "00567b6833a2"
+    },
+    {
+      "title": "Drone Incidents Halt Flights at Copenhagen and Oslo Airports - Букви",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUURFX3JhUkJnOVlrYzRWT1dSenJPM2U0NG1YbVF3eld0UUkzT2xzM0RxcTFQb1FGQ0t5TEdrOGllbV9QVm5wdUdOdjVucGN1WlFKYmpHSmtKejEyWWxZd2o4VXVGcVloRE5jbVQzaUNzbnZmS2JZMU9Pc0FwSE5rNUVBTEl6SGcwT0RfbFp6QzVtMEk?oc=5",
+      "source": "Букви",
+      "date": "2025-09-22T20:59:43+00:00",
+      "description": "Drone Incidents Halt Flights at Copenhagen and Oslo Airports  Букви",
+      "query": "drone arrest",
+      "detected_at": "2025-09-22T21:04:51.809379+00:00",
+      "location": "at Copenhagen and Oslo Airport",
+      "category": "airport",
+      "id": "ad3ac6cfa782"
+    },
+    {
+      "title": "Major airport shut down as planes forced to divert amid 'large' drone incident - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVkeWxybVlNckFkQktZOXFsbEpRMlpYQmpWVEJzcFhKeTFkVjRtMHdGdWpQY2p2V1F4VEgxdV9hSERHcTctd2k5cHdXRE95c3hOQ1NDYjh6VEdUMmUtTFF4ZWJhWU9ueEwzZ1lQQ2hFUjFYbzg2S002RW9ZSWtodVZWR25QT1dqOGc?oc=5",
+      "source": "The Mirror",
+      "date": "2025-09-22T20:26:00+00:00",
+      "description": "Major airport shut down as planes forced to divert amid 'large' drone incident  The Mirror",
+      "query": "drone incident",
+      "detected_at": "2025-09-22T21:04:51.161838+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1a4de902220f"
+    },
+    {
       "title": "Israeli drone strikes kill five in southern Lebanon - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2k4andPc0xfbEh4UWVjeFFuaXk2bW1LRXVtNE5vSDlCSW1BNy1fdGg4QUJXNF9jMTdEZFhYYWtuNlVsbnRSNkdoYkRmb2dqR2RDQ210RFc3SjZqMlphYUEwRnFxZ2VGN3VSR21TSjlFSU1VNXpPUUdTbXJkaGd5QWtHMDlDMm5hUEE?oc=5",
       "source": "Yahoo",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "76b69531a0e0"
-    },
-    {
-      "title": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach - Anchorage Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDNJbUJpcEY2YUwzRDU4MVN3bkt3Y0I4UGtQRm1FQ1BfeWVKRjBLNlBDbWkxV1JZeWtseV9xaU1wY1g4eFd5UEJxbUJpUkJJQjhyOE1OWHF1ZXQxQlNWNzZqZWNRd29vSloxY3N5eEEtczNKS0ZDM051dy01QjNCeGc5bUY5UkpFM0tRMlJCbVNZLU82TktqdjFPN3JCOFJUQktoREpnS2pDbDVGRFNSM3JDejNHTnVkSmxkcTVkMlJaOUpSRjdqMG9fV21FMklFbFE?oc=5",
-      "source": "Anchorage Daily News",
-      "date": "2025-08-22T18:32:38+00:00",
-      "description": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach  Anchorage Daily News",
-      "query": "drone crash",
-      "detected_at": "2025-08-22T19:04:43.580890+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d5f8349679dc"
-    },
-    {
-      "title": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach - Anchorage Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDNJbUJpcEY2YUwzRDU4MVN3bkt3Y0I4UGtQRm1FQ1BfeWVKRjBLNlBDbWkxV1JZeWtseV9xaU1wY1g4eFd5UEJxbUJpUkJJQjhyOE1OWHF1ZXQxQlNWNzZqZWNRd29vSloxY3N5eEEtczNKS0ZDM051dy01QjNCeGc5bUY5UkpFM0tRMlJCbVNZLU82TktqdjFPN3JCOFJUQktoREpnS2pDbDVGRFNSM3JDejNHTnVkSmxkcTVkMlJaOUpSRjdqMG9fV21FMklFbFE?oc=5",
-      "source": "Anchorage Daily News",
-      "date": "2025-08-21T23:49:11+00:00",
-      "description": "Long-range drone involved in military exercises crashes on Kenai Peninsula beach  Anchorage Daily News",
-      "query": "drone crash",
-      "detected_at": "2025-08-22T18:06:58.559525+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "eb982523d7dd"
-    },
-    {
-      "title": "Watch Mich. Police Use Drone to Nab Armed Arsonist in Parked Car - officer.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdUtNc1FSa1Qwa1BqSWdjallOd3cteXJDVHpCRDBmRkZEd3NLSVVJOTdudmcyRGdoYTllZEhRS0pBVnZvZnM3dHdCbno5UDZFXzdoQnBjZTNSSmNDSHBXcXQ3a2VyWk1hR3kzUC1VLWRMRWhueWs2ejEzczRqLTlscVpsU1ZZNFZvMV9pSFl0TWhnU3g2RFFOX2JTWUpyUjFMYkhuYlFLYlFzblRNUnVwNDFkNzgwSGhSSjRGVTBHODZHT2Zwc0pwUi1RY0Q4Q3FJaXFoQlZnOXRhc2xmcHFwb3E3aVE5djNn?oc=5",
-      "source": "officer.com",
-      "date": "2025-08-22T17:28:28+00:00",
-      "description": "Watch Mich. Police Use Drone to Nab Armed Arsonist in Parked Car  officer.com",
-      "query": "drone arrest",
-      "detected_at": "2025-08-22T18:06:56.027005+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2555277d2449"
-    },
-    {
-      "title": "Egyptian Delegation in Gaza to Contain Drone Incident - Asharq Al-awsat - English",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWN4Y1J5NE9xSFFZdHlNZmN6akRqajZWcy1xS3Z6dkk3ZHAzMFVhQTFaMnlldUtCeFhTX3d2U3l1WjNlclZpVUZfS2duVWV3R01SY2FoalNkV1NCd3NDZS1MRzZPVjNBZXFnd1BhZUdFRVZwZEFaclctVi1OZld2bmZXVC1sUEdaZjhiR2FaSXVwaTA4dk9fYmdzNFMyb0NVNExTRDZuZlU5OTdfZUNtWU9QaHVfTENIREVjeFZpblI?oc=5",
-      "source": "Asharq Al-awsat - English",
-      "date": "2025-08-22T14:42:56+00:00",
-      "description": "Egyptian Delegation in Gaza to Contain Drone Incident  Asharq Al-awsat - English",
-      "query": "drone incident",
-      "detected_at": "2025-08-22T18:06:55.313706+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "15eee2660db1"
-    },
-    {
-      "title": "Army unveils crash course in advanced drone use amid push for force with combat tech savvy - Stars and Stripes",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2lfM3FVZFBMN3VSYTV5ZGo0YXh1amZjSTZWd2p2MXdlbE1aVzEwWEoxblo4Z0ZFclBXSEZ3TU5CQ2xYQ1loNTA1OHRrSmZlZlBGc1FKa3cxOWVNZHlrNkxSZHdZc3MtTm5CTkVjTzRIODFxcXJWR1V1Y0twQmpCXzcweE1WSUNJMDdFcVlCbjBJQQ?oc=5",
-      "source": "Stars and Stripes",
-      "date": "2025-08-22T16:38:13+00:00",
-      "description": "Army unveils crash course in advanced drone use amid push for force with combat tech savvy  Stars and Stripes",
-      "query": "drone crash",
-      "detected_at": "2025-08-22T17:04:59.351375+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "95360f741335"
-    },
-    {
-      "title": "Clinton Twp. police arrest accused arsonist with help from drone camera - Macomb Daily",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXVIU2lYb2ZKeDNoazVEeVZad3FYS3ZXOGlpRDJUS25uUE1kN1JuWDRUc2hjcENyM1ZQZ095dEFPc1B3bDhpQ2pVTHNRNHljZHQ5UTJTSVNrb0RWcDlFWVcyUHF1Znl5aEdMMHF6dHN2LXVTRkc2UG5nN3Y4TXA2azBLNk14NGhMZTJDVDlRa0VjSkpjc3Z2V01ULVJZMklFRTN1UnNsSk1pb2J5eDJn?oc=5",
-      "source": "Macomb Daily",
-      "date": "2025-08-22T11:48:45+00:00",
-      "description": "Clinton Twp. police arrest accused arsonist with help from drone camera  Macomb Daily",
-      "query": "drone arrest",
-      "detected_at": "2025-08-22T17:04:56.893572+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fe7076bd51fc"
     }
   ],
-  "last_updated": "2025-09-22T20:05:49.409065+00:00",
+  "last_updated": "2025-09-22T21:04:58.211858+00:00",
   "total_count": 1000
 }
