@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Kyebi: Illegal miners shoot down drone at Birim River - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVdKTFF1aHRuV2JYWUxxNHo4UE8yeWlNOUd4Q0toTEI4THdSUC1lVllmYXg1eGx1SERQaXV4c3hONlIxaFhHbnI5VGh5RHEyZjdCX3NaOWI2WVFNaHdkLVJtYmQyWTE2eXJKN25oZUtzMU95Mk9yWU1wbzFuaVZiV3RYV2F1SzJXNzFNd0VlQXFGRGRyMW5v0gGWAUFVX3lxTE1QaHZGbGRlOHd6Sjh6ckl4ZmFNWEswV1pFWHhlTlNTUUNURTZZU2ZSdTVpbUVWcmNHSXc0c0Z1dVpKNEVTa0t2Z2d1VzEwTW1TVFJQQjRVZ0VZak81dmJveVh5c21TWWh6dXRzeGlnUUtuZkRsSTBuaTQ2UzU5WGloM2dNWm5ZVUk4UFc2R0FRUXlPWXhoZw?oc=5",
+      "source": "Modern Ghana",
+      "date": "2025-09-23T14:03:21+00:00",
+      "description": "Kyebi: Illegal miners shoot down drone at Birim River  Modern Ghana",
+      "query": "drone illegal",
+      "detected_at": "2025-09-23T15:05:47.754553+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dc941953890d"
+    },
+    {
+      "title": "Suspected Russian Drone Incursions Disrupt Flights in Copenhagen and Oslo - Aviation International News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWm5mYk5idnFMT2tNZ2dhZnFyODJidjM5QTFTdmMzbURBc2RBYTl4ZE92TU5NMkRfNWFLWkdtVDhaSk1PRll3eEg3bGh0dkFOc2tXczZoT2ZFSnVTRkZVZEg5cV9jNEdFZTJKZ1htWldVZ01VRWxOaVVNZnZWWDRIS29faEdYWGNRWnU4VFc4eGlMc0dDUklIaXFGWXYzbWRZa25aTTA2Vlp1dFNNQ2VDSWN2Z2syWWo2?oc=5",
+      "source": "Aviation International News",
+      "date": "2025-09-23T14:51:42+00:00",
+      "description": "Suspected Russian Drone Incursions Disrupt Flights in Copenhagen and Oslo  Aviation International News",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-23T15:05:46.338629+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a6f9f8a9edd7"
+    },
+    {
       "title": "Singaporean couple risk deportation after suspected illegal flying of drone over Oslo: Norway - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc19ab0dJMzNMb0dSYjZVSFNHUjVoRlJKNnM2UUozSVF2Vm45R0NGNDJfdHd2NXV5dWlpTUJqRXRFOHBnTUdjWG9qNjFKVFBSbGJzcnhXV1NqbHNnU0FmUDRKZDRxQjcydi11N0haZjlMLWVPVU5ST0IxTGhWRGxLQzZkZHg3d0xnWEV2Y2JsM192MVBZX0JDOTJ1T29Yb2hNc2RDTGFSVTctT285WkE?oc=5",
       "source": "The Straits Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "61284d9f79da"
-    },
-    {
-      "title": "Man sentenced for flying cell phones, tobacco into Youngstown's private prison - WFMJ.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2tZZ1Y4blZyb0ZRcnZPb3RiZlJjNjFWT1lyZmFXYzRIMHV1V0dxWEhRSXM4WmQ5ZDR1N3ZQSDJ3MmV1RUZnZV9oR1Rud0hPNFQxck9XcGxTcmdSNkd5VllXWXg1SWh6U084WS1qdEZ6NmFIcVI5QVBndWtjaU9MWUNvQ1RXTkFDUWZiUHVINHAyWHJ3Nzd6VklrUjNQYXVTSWh6VVJockNUWGpsaW9oQ29R?oc=5",
-      "source": "WFMJ.com",
-      "date": "2025-08-26T15:22:31+00:00",
-      "description": "Man sentenced for flying cell phones, tobacco into Youngstown's private prison  WFMJ.com",
-      "query": "drone prison",
-      "detected_at": "2025-08-26T19:04:18.719102+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9c9084895d20"
-    },
-    {
-      "title": "Corrections, law enforcement groups press Congress for counter-drone authority - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0hnM2w3OUx0VlRjU2hWR3BfcVpKbXRzR2JRZzFRVV93UnNrTWFDenZUUWgtLUZsSS16eC1FMjR3TDRtV3NZSW0tNlVBWWFqclFfRGRMVjhZdGFEY1B1UUxXVndlaUU3VnB6SVliMFUyUGdjUG1KTmRqQlhSSHd1RHhTVUVSS3FPejVmTXgwYy1lcXExTkdrb3RxYlR6Y2xCWVFTU1ZTb2d2Y2d0VUNPV0U2bw?oc=5",
-      "source": "Corrections1",
-      "date": "2025-08-26T17:21:05+00:00",
-      "description": "Corrections, law enforcement groups press Congress for counter-drone authority  Corrections1",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-26T18:06:53.650318+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3b6abd1df4cc"
     }
   ],
-  "last_updated": "2025-09-23T14:05:48.250139+00:00",
+  "last_updated": "2025-09-23T15:05:50.883027+00:00",
   "total_count": 1000
 }
