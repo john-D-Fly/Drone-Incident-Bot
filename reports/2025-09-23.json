@@ -1,0 +1,134 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple significant drone incidents centered around Copenhagen and Oslo airports have disrupted flights across major Nordic transportation hubs. Reports of drone sightings led to multiple airport closures, including a serious threat that has prompted discussions about security responses, with allegations of potential foreign involvement attributed to Russian operators. Other alarming incidents include drone attacks in Haiti resulting in numerous casualties and crises in Lebanon due to Israeli drone strikes. The growing use of drones in unauthorized surveillance and criminal activities is mirrored in various global jurisdictions prompting policy discussions on drone regulations, highlighting a trend towards establishing stricter legal frameworks.",
+  "totals": {
+    "airport": 22,
+    "arrest": 8,
+    "other": 15,
+    "smuggling": 1,
+    "terrorism": 5,
+    "interference": 2,
+    "total_incidents": 116,
+    "by_category": {
+      "airport": 64,
+      "arrest": 11,
+      "crash": 3,
+      "interference": 2,
+      "other": 32,
+      "smuggling": 3,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 41,
+      "drone arrest": 11,
+      "drone crash": 5,
+      "drone illegal": 7,
+      "drone incident": 30,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone terrorism": 16,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruption",
+      "rationale": "Focused around Copenhagen and Oslo airports, significant disruptions were recorded.",
+      "incident_ids": [
+        "002eff89387d",
+        "75e92e73acf1",
+        "333be5aec41c",
+        "b0726f9182d7",
+        "1bbd94470ddf",
+        "decc13fcc33c",
+        "c1b438cf6071",
+        "fbff0cf2c379",
+        "bbd94470ddf",
+        "27859dc2801d",
+        "b11802b549fa",
+        "09f752f5dd7a7",
+        "5d9e7d30508e"
+      ]
+    },
+    {
+      "topic": "Drone-Related Terrorism",
+      "rationale": "Reports of drone strikes causing fatalities appear across different regions.",
+      "incident_ids": [
+        "fee13978a053",
+        "d9b65e9ca3a1",
+        "9be020c55cfd",
+        "f2151a4a7882",
+        "d8a0ae16d309"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "333be5aec41c",
+      "headline": "Drones shut Copenhagen Airport in 'serious attack'; NATO weighs tougher Russia action",
+      "one_sentence": "NATO considers a more robust response following a drone disruption incident at Copenhagen Airport.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Denmark",
+        "Norway"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "75e92e73acf1",
+      "headline": "Flights resumed at Copenhagen airport after drone sightings",
+      "one_sentence": "Copenhagen airport has resumed operations after addressing drone sighting concerns.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fee13978a053",
+      "headline": "Drone attack in gang-controlled slum in Haiti kills at least 8 children",
+      "one_sentence": "A tragic drone attack in Haiti's gang-held areas resulted in multiple child fatalities.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Haiti"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8b46a167ba02",
+      "headline": "Israeli drone strike kills five, including children, in southern Lebanon",
+      "one_sentence": "Israeli drone strikes in southern Lebanon resulted in five fatalities, raising humanitarian concerns.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Lebanon"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9f752f5dd7a7",
+      "headline": "Copenhagen and Oslo airports shut down after 'large' drone incident",
+      "one_sentence": "A significant drone incident forced the shutdown of both Copenhagen and Oslo airports.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Denmark",
+        "Norway"
+      ],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "Major drone incidents hit Copenhagen and Oslo airports, disrupting flights extensively while concerns grow about unauthorized drone activity worldwide.",
+    "linkedin": "Recent drone incidents have highlighted severe security challenges at Copenhagen and Oslo airports, prompting discussions around enhanced regulatory measures for drone operations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-23"
+}
