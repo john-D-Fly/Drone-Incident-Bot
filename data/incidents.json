@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Danish PM: airport drone incursion a ‘serious attack’ on critical infrastructure - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWhpaU5LV0RlejhVQXZsQ3FvN2hFUmQ1ZmNKZ0lMcncxallIeHJEODMxeWJ5M3JfNXcyekRHTzZaNVh1RzJrbFJLRUdQSl96ajdJeGdrZWdpY2FRTzhlQmFFb3RWQXJqQl9kS01uME52ckRQdW1obUhNc29uQkxqVUlHNlRUTHlfTm5iM1g4cDE3WTkyVFlhMkVlZGMzclk5X3FRTjVLeXN5dFpWMlE?oc=5",
+      "source": "The Guardian",
+      "date": "2025-09-23T01:16:00+00:00",
+      "description": "Danish PM: airport drone incursion a ‘serious attack’ on critical infrastructure  The Guardian",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-23T11:05:19.499466+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "9f752f5dd7a7"
+    },
+    {
+      "title": "Denmark PM: Airport drone incident 'serious attack' on key infrastructure - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KdkxyRUVGTnZnUVUzR1I1RVhMM1JJWXFEX1U3X29ldnhIVE8tRXFITzc3ZDlCWnFfX3QxX0FWSk1CSGlORHp6eVRZOE42TVNudjNKdHpScEk?oc=5",
+      "source": "TRT World",
+      "date": "2025-09-23T10:17:05+00:00",
+      "description": "Denmark PM: Airport drone incident 'serious attack' on key infrastructure  TRT World",
+      "query": "drone incident",
+      "detected_at": "2025-09-23T11:05:16.806438+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "26ced2b2cd1b"
+    },
+    {
+      "title": "Drones shut Copenhagen Airport in 'serious attack'; NATO weighs tougher Russia action - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGRCNDRtVWlVYWJTWl9CbFI1MlhfdGc2TTJhbU5hU3M5dHE3dnlnS0pza0ZrdW9hV0tQbVpkQWRMdUNFcXIwa0w2TE52cGNJUHFtOS1mYTBjMkE2NmNvclZzRVFJUlFnQmhkenloVDRSTVRlN1dxQkZJaWN1aEM2VmQtR29IdU9RMFNib0tLeFpYbWFjaFVTdDVwQXVlNFdwVlhlZmhzMURqSC1OSVBUcmprRXJ2bWk2R3fSAVZBVV95cUxPc0lEUEFUN2tfYVhabTY2SEs4U09uM2lXZlg3YTlEazFfcEQ0aHBKNjhtMUdHd3VCSmdleFJNek1wdVFsTlFsT2FjaVNBNnF5M1dVaVlkQQ?oc=5",
+      "source": "NBC News",
+      "date": "2025-09-23T10:34:09+00:00",
+      "description": "Drones shut Copenhagen Airport in 'serious attack'; NATO weighs tougher Russia action  NBC News",
+      "query": "drone incident",
+      "detected_at": "2025-09-23T11:05:16.806438+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "27859dc2801d"
+    },
+    {
+      "title": "Copenhagen and Oslo airports shut down after 'large' drone incident - Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdklHdjdIVTlWamRJbkgtcjlQSHY5NVhOU0NfQllxQ0pkWUdGTlFyWGRiOWdyVXRvZFkwczVXbWxndDBiRXpfaEI3Q2FyWl9jVUN3Z3lXMmNlblQ4R3N5cHdQUllxc1NZOHQ2ZEU3SmtvUlJZVmROcWFsVFFDV211dmdTQ0szWi1CQkhfQnFBONIBlAFBVV95cUxNdjdZUDJEQXp6Mm5xaEdlQllLT1BQYUVSMHJvUl9XbHlvdGpJREtwQWgyR3BTb0VNSmVTamtVRmIwTThSbzNkbmVyWUFOd0pmQjZLdFg5cU5rUFFqODZxdzJISGdsbGtraE9WV0RGX1ktLVBNc1dVc2JOeDdJN0lpQW15RkhOeW1GMnRISWlOVDJoYjRO?oc=5",
+      "source": "Daily Express",
+      "date": "2025-09-22T21:58:10+00:00",
+      "description": "Copenhagen and Oslo airports shut down after 'large' drone incident  Daily Express",
+      "query": "drone incident",
+      "detected_at": "2025-09-23T11:05:16.806438+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1bbd94470ddf"
+    },
+    {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
+      "source": "DW",
+      "date": "2025-09-23T10:12:11+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-23T11:05:16.806438+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "355f32f47a0c"
+    },
+    {
       "title": "Drone attack in gang-controlled slum in Haiti kills at least 8 children, injures 6 others - The Tribune-Democrat",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRmMtTm9uNXNCWXEwMVEtWnJOOTY1NDVzdXdNT3VEZ3E4MW9jamFJakxJSVc3RzZ5YmJTWlYxMkwzMnVEUDlJTE9BZjBiQjJKMnBhNVRUN0kxVU95N3dfZmRnWVZyZ2pIS1FUaHVOVk0yVndtZ2c1LXBRbkxwSkE5Tk1wUTE1djNQZGxNVFlGNmRuLVRsY0NzTWV0Vmk0eGNmYmhVMmduQVlYTWdvWjlIZzRjRnhOSE9OdURWSVpLc2RRaThHSTlORmRZbWxweW9PVlByUTlxcnBfQUZvSWhTc2NRX2NuN05OdG81aFBoUHRYUQ?oc=5",
       "source": "The Tribune-Democrat",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "367e3825e4b9"
-    },
-    {
-      "title": "Shreveport police use drone to arrest murder suspect - KTBS 3",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGhIS05OX2g0TkZrRHFqYVZDVmhhVGEtdlBja1ZyRWpfU09TaFd1eF9GbllkTlpNanFRT2pDejJNdlc5U3NreC1HaWVZOEdpaDVDel85aFg3YkxLV0R3RlIwWmt2Y3BJZFRMNEQ2bGNpZmJ3c01pZGd5TkQ0TS14b0I4ZDJRZkZJWVJTWmdJX0JNdHNOR29lcjlYM3FsR1lENFVLZTcwU3NvMkdUWm5VZWdJQ3JKTXdDTC1VWHl3MGlyQnhmbUJERkxuaw?oc=5",
-      "source": "KTBS 3",
-      "date": "2025-08-26T02:23:00+00:00",
-      "description": "Shreveport police use drone to arrest murder suspect  KTBS 3",
-      "query": "drone arrest",
-      "detected_at": "2025-08-26T02:34:22.581011+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "9c4025916d8e"
-    },
-    {
-      "title": "Unauthorized Drone Use Prohibited Over Fort Riley - KCLY Radio",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVcxa3F0TUlYX3JGWTAtM2JWbzEtV2V0Q2x4R3lFanpmWnp3eDlCR0NhaVhBaTR0WGFqUXJkeWg1aWlpaDAtUkQtQUNyVC1mRTZLc0RvLWRiNDU3OTdqanVfVzN0cklyRWN1bUlpYzlmMV91VGlCdmRfazJCVTVlZ2Y3R1FlLVpsZXc?oc=5",
-      "source": "KCLY Radio",
-      "date": "2025-08-25T21:43:43+00:00",
-      "description": "Unauthorized Drone Use Prohibited Over Fort Riley  KCLY Radio",
-      "query": "unauthorized drone",
-      "detected_at": "2025-08-26T00:22:01.992080+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "99459967024d"
-    },
-    {
-      "title": "Drone Crash Near Estonia-Russia Border Sparks Investigation - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2sxaWk4TmJtdXVtWVRFOGVaRks3S2FtSnZlOXVvUVJFbDZWOHZBSld4UFE2Y21lNVpTS1Y3eDZlYTBUWXIyWlZ2SGxWQ1piNGFiUVlIUEM4UlM4anNpRVNsc0ZpdjlTSmtCVjJKUTQzWWlLUnFxUXREMDA2TUdsV2dhVnEwT0M5QUY2aFk3RFBvZw?oc=5",
-      "source": "mezha.net",
-      "date": "2025-08-24T19:18:05+00:00",
-      "description": "Drone Crash Near Estonia-Russia Border Sparks Investigation  mezha.net",
-      "query": "drone crash",
-      "detected_at": "2025-08-25T22:05:14.443055+00:00",
-      "location": "Near Estonia",
-      "category": "crash",
-      "id": "2d8140205642"
-    },
-    {
-      "title": "Ex-Cleveland resident sentenced for using drone to drop phones into private prison - Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhvbHp0TExkZmdKMFdiSE44OWFBUzVTZVNzcmdMRkhGUVk3dndiM0hKMF84cFZSeWdjdjA3bXJDRWJQLTVuOXFYTmRkMHZTdHhZS0VvOWdVT0poZHdoUXZ6VWplVWNuVGNQeGhGcC0yZXBOTE5wRUY3TU94WGlxN1E2REJlYjh2NHJNcll5TVBjVktKR3AzdW1Jb1F2dkxOcHk5Yi15YXd4dUljdWRBRmNQLWprY2tHenRQMkZLYUtibklmN2fSAdoBQVVfeXFMTXZVUFpLSzkwRFViYkJNUG04Q3UwaWdRalE1ZHJJSEdORzhOdWIyTFhQcjdHc1Q3TmFsMlowZ05kZzU4clJOZVo1akZNRkp1MzVVaTZ6azRMeGt5bW1jSDNkOVBUM0hVdTBUTjJGNTlQMzlYeGxJU1VNV3NvTmJOcmxlSTBFUDliSEhfbV91T0luVEE2eGtzbHQ4bUk2cG5ibUNiLVhLS0JZUnpnOHU2eXVDRjJBMlZLcVdubzdyeFB1aElETEowZ2ZXNkR2X1Q1WUxOMXd3TGpvWFE?oc=5",
-      "source": "Cleveland.com",
-      "date": "2025-08-25T19:28:00+00:00",
-      "description": "Ex-Cleveland resident sentenced for using drone to drop phones into private prison  Cleveland.com",
-      "query": "drone prison",
-      "detected_at": "2025-08-25T20:05:53.112397+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fb88a4987b3d"
-    },
-    {
-      "title": "Man arrested after drone carrying drugs crashes into home, deputies say - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWJrU1JOeF9iUVpLSGw0V0lTV3Awa3JaaDlqdEY5U3p6dFY4eTJHTkEtTWNNNlIwSExTNWhaV2dpeXVLRzZUaDZ3Z2hVNE5GZzQ0eFBIeWtCRmFxOVc3R0ZTdVJjVEpwOV9UYW15U2JPOWlKWGRVcFZjLTB4T1RzQzd2YTRZdDllXzM2V2hSVnh4SW1obFBjd1B2b2JoYkl5RmlidTJzRnBJUdIBvgFBVV95cUxNaGR3TURralZjSXhlUGZUT1FCdG9XRkdXUUdoWjgxVUpNcFEzNFdVMThCMDNYN2tKRkk1QnJ0N3FzMGpFREt1WlM0Q3ctb0NVT2t4WklvUXQ0RkF2OFUxa0M1eGs2dDFxa1JEQmxMcE55T0p2QjFkWGQzMTJkMVI5aENpYVB6ZG5XRFVyLUNPc0VLdDVnTDR2ZkJ3dFkxSmNSRkRYaTV6YTBqYjlYbTk5a25pdkpqZm9oOE94SjV3?oc=5",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "date": "2025-08-24T09:42:00+00:00",
-      "description": "Man arrested after drone carrying drugs crashes into home, deputies say  KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "query": "drone crash",
-      "detected_at": "2025-08-25T19:04:39.986957+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "287a6c53e452"
     }
   ],
-  "last_updated": "2025-09-23T10:05:39.281636+00:00",
+  "last_updated": "2025-09-23T11:05:23.338229+00:00",
   "total_count": 1000
 }
