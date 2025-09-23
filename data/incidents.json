@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Travel Chaos for Thousands After 'Unidentified Drones' Close 2 Busy Airports - People.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSUNQYTRPWUtMNnh1eWJOX0cyVkdiLWFiN3pxVkRPdGxFRTdQcWxCX2dMR3BuZjBWU3M0WjlLWUNWQm0xdVpZS3IxU0NCbzc3M3BXYXQyTHJCN0h1d0NfMjdmcElZdFA1QWVpUzEzVjdVMnZteHFUNjJQdmY3UGNnYWlZS1NKdXRLanVSdW8yV0lubXVkZ0E?oc=5",
+      "source": "People.com",
+      "date": "2025-09-23T15:29:00+00:00",
+      "description": "Travel Chaos for Thousands After 'Unidentified Drones' Close 2 Busy Airports  People.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-23T17:05:04.475996+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6575829a7d13"
+    },
+    {
+      "title": "Denmark links drones at Copenhagen airport to hybrid attacks across Europe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWxGbVRyQm9nNXU3MVNNaU8taHBENHkwblRiQ2loUmd2N2NpWkhON3VQTC1ILUZsdmRlakoyVml2b2ZEV0VaUHNRY2ZXa09jazB1YlI0YUxlQ0tqQ0QxSVpRTEwtdmg0WFBjLW4zWk1NVEFMTDZVYjRvQlRUdTBPT2dyR25IbWtKaFRXUXY3eDFiM200VE16RTBUVy1qdnhhUmFDSGFGc3pkdll6S3AxU2tSbTYtcU9zX2U3M29DS3hmTXNYdkxn?oc=5",
+      "source": "Reuters",
+      "date": "2025-09-23T11:11:16+00:00",
+      "description": "Denmark links drones at Copenhagen airport to hybrid attacks across Europe  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-23T17:05:04.475996+00:00",
+      "location": "at Copenhagen airport",
+      "category": "airport",
+      "id": "abac2bd1ce56"
+    },
+    {
+      "title": "Footage shows cargo plane flying low over Moscow during reported drone attack - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Q1QxMnRPamlsNzg1V2JpUEJXQUN2WkhhZUVTV2c1WGczMldTUl9qTnFack5laHVCSXRoVk5Qd1JHVFV2WHZqMm42VU03NUdRVHJhWQ?oc=5",
+      "source": "BBC",
+      "date": "2025-09-23T16:41:15+00:00",
+      "description": "Footage shows cargo plane flying low over Moscow during reported drone attack  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-23T17:05:04.475996+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "62801e99ac7a"
+    },
+    {
+      "title": "Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmU5Y3d0M25LQWw0WWhrc0h6aVdXSlFIMDdZTi1CSGhyWXFUTUp6V21NcGRlZW5JWWU3cFdfdkZZRXdHX3hwcHoyUGJyRUlpM1oyQTNOVzZTekdUT1liQkZnaXJGYkdYdGxRN21RWW5QNE9CSGw4VUtLQ1BXdV8zWXRIQWoydkNMdHoyLUQyTkZYcEk?oc=5",
+      "source": "The New York Times",
+      "date": "2025-09-23T15:18:00+00:00",
+      "description": "Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily  The New York Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-23T17:05:04.475996+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "3d23f5df226d"
+    },
+    {
+      "title": "Von der Leyen on airport drone incidents: It’s definitely a pattern - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWNad3JwYmRKLXltMUJ0SnpnMUZBNFlONm1EdXVLbVNXcUpJdV9GOVlQRUdVV29KWk1NVktRbHZERG9pMktPdDNXbVhDVlUzbUlpYklMbnhjYmptS0gyS29vZC1sV1lCRTZUaFpwTVdLd29WZ3RYNXJUd3lUZ0dxQnpTRkZDT1JXVFlNT2xfWGZnV21oUmR3alRCekI2b1hPU0E?oc=5",
+      "source": "politico.eu",
+      "date": "2025-09-23T14:05:00+00:00",
+      "description": "Von der Leyen on airport drone incidents: It’s definitely a pattern  politico.eu",
+      "query": "drone incident",
+      "detected_at": "2025-09-23T17:05:00.501063+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "fcd2af6927a3"
+    },
+    {
       "title": "Major Nordic airports’ flights disrupted by drone sightings - Business Travel News Europe",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzlyeDZNbkVQMnJnaHRqX012T3cxN20wZXZCTFBuYVgxSmw1b29mQlB5WnZtci1qRG1VSFNFSjJlcXMyRHg0elF0Mml6NnphTWN1VXdzVWIyeWhzLWdWUDNGNDJ4MEh5Z2JNZEtOenIwTkVtMmczMzJnYTBJbHBjU1lNUW05aVktODNhNDNDcmd6TVVNQnRKLXVvWExUbHliRDJobW5vVnM3Y2NBbDF3?oc=5",
       "source": "Business Travel News Europe",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "376789bd20b4"
-    },
-    {
-      "title": "Illegal drones near a Utah wildfire mean lost time and money — and put firefighters at risk - KUER",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2pHS0Z6NkR5TnItVE51OUk4dGhqWlBoU2xVOTZnOVNOSUY4cUlkaHFCZ0xpVlJPSXR0Nmw4bUZtSHFobF9admVJWlRpdThsSktFMGd3OUI1aXZ2c0tiMmZSZmFjMGlqUjdzM0ZTcGNPNkZvU01zQUJMZ1VReVM1ODI5MzFnTXpRUjNnT0twanBxRVo2dWxKOHd6Q2ZMb3BkeG5lLUl2bnJnYVFsNEtIZDVxMXNYMGp0WGVoN2JUOThmV0tHMTR4dzRjeWF5dzdGa0k2NjR1amo?oc=5",
-      "source": "KUER",
-      "date": "2025-08-26T23:49:00+00:00",
-      "description": "Illegal drones near a Utah wildfire mean lost time and money — and put firefighters at risk  KUER",
-      "query": "drone illegal",
-      "detected_at": "2025-08-27T00:22:03.500994+00:00",
-      "location": "near a Utah wildfire mean lost time and money",
-      "category": "other",
-      "id": "7884c87f8b18"
-    },
-    {
-      "title": "Drugs arrest after drone spotted flying over prison - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWlYOFpyR3JURTF5UzZYeV82bG1mMGhOcFAyeF9YYXlySUVFM0hUdmoxVlVvd19BMFYzNjJfV1p1czlPemJONUNMY0RibGxtYTdLOTdZS1J4Smtrb3hCZmhITExSTXBLclVKdERUSnpxdUg4TC1FMDNOWFpWMU91M29kRG51MGdseUwtQWVaTjluUzc3QlpVeXJhWTZvaTF6Mmc?oc=5",
-      "source": "MSN",
-      "date": "2025-08-26T11:24:17+00:00",
-      "description": "Drugs arrest after drone spotted flying over prison  MSN",
-      "query": "drone prison",
-      "detected_at": "2025-08-27T00:22:01.585616+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e7480a208da1"
-    },
-    {
-      "title": "Corrections, law enforcement groups press Congress for counter-drone authority - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0hnM2w3OUx0VlRjU2hWR3BfcVpKbXRzR2JRZzFRVV93UnNrTWFDenZUUWgtLUZsSS16eC1FMjR3TDRtV3NZSW0tNlVBWWFqclFfRGRMVjhZdGFEY1B1UUxXVndlaUU3VnB6SVliMFUyUGdjUG1KTmRqQlhSSHd1RHhTVUVSS3FPejVmTXgwYy1lcXExTkdrb3RxYlR6Y2xCWVFTU1ZTb2d2Y2d0VUNPV0U2bw?oc=5",
-      "source": "Corrections1",
-      "date": "2025-08-26T17:21:37+00:00",
-      "description": "Corrections, law enforcement groups press Congress for counter-drone authority  Corrections1",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-27T00:22:01.004312+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "61908eac270c"
-    },
-    {
-      "title": "El Cajon Police drones assist with fire, arrest of retail burglar in one day - cbs8.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHJBUkpSaTFHTFM3TWQ3aHNkZzF0aVF4RXNSbWRrQVZKZ1FQUTVwbUcwdjh0bkdRMjF1T1pCM1M1Z0VtSVMwVmU3S0h5dlVxTkZMUjhsU0RsN2REbFkyM0lGNnY2Ny1IQ20tdW9MMmFEV3luU200QU91aW5WVUptLUZMUm9rMEpFOWNqRUxyWV9GYW5UY0FYMFhKa0ZmUVJtTUJSQVpYZmpjMnBoenFUcm5OaTB0dllrNFF6cWxWdUpEY2pIMUota0sxSFpnQW5UN1lNT2pfYW9EVTBVbEdBdGpjMklNRkxnUkE?oc=5",
-      "source": "cbs8.com",
-      "date": "2025-08-26T23:25:00+00:00",
-      "description": "El Cajon Police drones assist with fire, arrest of retail burglar in one day  cbs8.com",
-      "query": "drone arrest",
-      "detected_at": "2025-08-27T00:22:00.459278+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c4cc1282d5c9"
-    },
-    {
-      "title": "Stray Drone Striking Estonia Highlights Dangers Of Rapidly Expanding Long-Range War - The War Zone",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONk9fMW1iTUtMWEJWTEJ4VVZSVk16ZXN5NllwbVZwOXRqYmx4dmJqUGVsSmlHRGFFM1diT3lJQ1RZMWpsdTgzbExMSXJ2U29NcjBZd0NOWkJkR2ZkWnJkWUI4Yno2TnMzODNqUzBoM2haT1diYmNfa00wWVRicWxhWHNnN1BJZVlNVkUyVXdhN1BaZFZobUc5aEs2eG0xSERja1lHWWk1a2NPUHE0MkxyODVn?oc=5",
-      "source": "The War Zone",
-      "date": "2025-08-26T22:07:36+00:00",
-      "description": "Stray Drone Striking Estonia Highlights Dangers Of Rapidly Expanding Long-Range War  The War Zone",
-      "query": "drone incident",
-      "detected_at": "2025-08-26T23:05:01.243893+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6186a4d6adda"
     }
   ],
-  "last_updated": "2025-09-23T16:07:17.609417+00:00",
+  "last_updated": "2025-09-23T17:05:08.577897+00:00",
   "total_count": 1000
 }
