@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "UNIFIL says Israeli drone crash violated Lebanese sovereignty - LBCI Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTZCajhjRHZjUmdlcEFPanM5Y21ac3dqM1dnMGl5YTJLNDJYMXNabmE1QkJPRi1JcnF3QUlvZngtakxYUGVpZmhKS0x0Q0ROaFhOOHkzMTJzcm01VEllNVh5a2NjRWZ1LVVxS0hiVWJyWGpKT0l2NXlKa3hfWnVEWnpXbng4V19mTVRjc2RJZlV0dHRBTDRUbmlsTjdsek9BTWVNQjdfWXVXQkxnOHI1ZzdVVQ?oc=5",
+      "source": "LBCI Lebanon",
+      "date": "2025-09-24T10:28:00+00:00",
+      "description": "UNIFIL says Israeli drone crash violated Lebanese sovereignty  LBCI Lebanon",
+      "query": "drone crash",
+      "detected_at": "2025-09-24T12:09:24.283086+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4483e3cd5375"
+    },
+    {
+      "title": "Footage shows cargo plane flying low over Moscow during reported drone attack - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Q1QxMnRPamlsNzg1V2JpUEJXQUN2WkhhZUVTV2c1WGczMldTUl9qTnFack5laHVCSXRoVk5Qd1JHVFV2WHZqMm42VU03NUdRVHJhWQ?oc=5",
+      "source": "bbc.com",
+      "date": "2025-09-23T16:41:15+00:00",
+      "description": "Footage shows cargo plane flying low over Moscow during reported drone attack  bbc.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-24T12:09:23.583720+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "474142f595df"
+    },
+    {
+      "title": "Drones, systems hack test Europe's aviation security defences - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckZtYUV1SmV1SUpnSzl3SXl5VEtXRzZybnZNc19RN3FvNmVreU9BVktwbWVhMjkzZHVfakdxakQzSXJKOE4zODQwOEJWaWI3XzJYNEsxaGRyT0xRblB2NUZqTk5oZnJIUE9GUU9FTXJZMVQ3dHE2WWJtTXhIQzNNc19oUV9Ka1BvT01mS3ktUS1OUWVLR1N5NnBjTUI3SnV0MzdKQkZmQmU3NTM3N1U1X1lJYUYwYndMZG1nX0ZkOA?oc=5",
+      "source": "Reuters",
+      "date": "2025-09-24T05:04:24+00:00",
+      "description": "Drones, systems hack test Europe's aviation security defences  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-24T12:09:23.583720+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "68a8c24015c6"
+    },
+    {
+      "title": "Copenhagen Drone Incident Snarls Flights - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zbzRId1haSUtIbDdjQ0x6RTRDUVdEWGF0YjU5ZHEzenFQQllHTDc1ekNJWWh4ZXVPbldEOWloWV9COHotaUFTWWtIUlh2VDNESDJtZm5BRmVEdi1WeXk3ZE9vV1FHdVU1b2s0M2pWZmc5VURzZGJJVjA3X3JQdw?oc=5",
+      "source": "AVweb",
+      "date": "2025-09-23T16:05:30+00:00",
+      "description": "Copenhagen Drone Incident Snarls Flights  AVweb",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T12:09:20.795077+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "02fd1a260dbb"
+    },
+    {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
+      "source": "DW",
+      "date": "2025-09-23T19:59:00+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T12:09:20.795077+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "a78aef68ee73"
+    },
+    {
       "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
       "source": "DW",
@@ -11939,68 +11999,8 @@
       "location": "In Robstown, It",
       "category": "other",
       "id": "98dd51f72648"
-    },
-    {
-      "title": "Drone Pilot Sentenced For Unauthorized Flights Over Cape Canaveral Space Force Base - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjhoSHpqWmVqeUNySWtjeHJZZmN0R2ZubEQ2R2dRaU50d0ZMUmhQS3hkeXRmNXRZQjVaR2h0MnlsTjk1SEVRMThLeVRsOUlDSWFieUV4Z1gyd1o3emFXSmZkM0tCdUpkcEpRaUJVWlZ5TnQ2SUFnd3ktMkJaMzJBQlNvWFZCaUo5NEoxeQ?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-08-28T21:49:14+00:00",
-      "description": "Drone Pilot Sentenced For Unauthorized Flights Over Cape Canaveral Space Force Base  DroneXL.co",
-      "query": "unauthorized drone",
-      "detected_at": "2025-08-28T22:05:13.519818+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "82d63440cae0"
-    },
-    {
-      "title": "Kabul says Pakistan drone strikes kill three in border region, no comment from Islamabad - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KeWRfNFp3aFBfZkRWMTRHcjkzN0F6Qm1uUEF6ZXlRU3Y5MnF3ZDdFTnhaQkZnVk1LU1VTdENzTEhLVjh2T1k1UGlua2pOdDFBa1dkNDBvdUUzUQ?oc=5",
-      "source": "Arab News",
-      "date": "2025-08-28T14:19:36+00:00",
-      "description": "Kabul says Pakistan drone strikes kill three in border region, no comment from Islamabad  Arab News",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T22:05:12.906229+00:00",
-      "location": "in border region, no",
-      "category": "other",
-      "id": "82a4463770c6"
-    },
-    {
-      "title": "Kyiv Endures Deadly Night of Ballistic and Drone Strikes - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Pd2hvbkp4TlltdVZrTXJPZ0ZHa005NzRsQU0zVkd1eDdvbHBvT3FOU01tcjN4RUdmTnNScjdLT2toSjF1LVI2SjRpaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-08-28T19:36:11+00:00",
-      "description": "Kyiv Endures Deadly Night of Ballistic and Drone Strikes  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T20:06:08.137253+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "52b5dd0edd64"
-    },
-    {
-      "title": "Afghan Taliban government accuses Pakistan of deadly drone strikes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOampWNEozLUFGNFlrcU5qUHlEU2ttZzFsYzRrOXRGNzJpVUd1Mk44dVdRbEl4UVJqbGNOSGM5X0lpeWxaeFZ4dUZyYTVIckx1b0FxQ25HallHd0VfdXN3Q2hKUzZoU0Y2LV9LRmJmR1pLUFVGcXpzTmdCbEVTT1ZOMHFNVFFoUlVzN1BvUC1YakdPR1hvaDZjU0pUVWpxQTZ2V0Q4TnNfX1NYcmQwRjlWUS1mZVAzUjcyN1E?oc=5",
-      "source": "Reuters",
-      "date": "2025-08-28T12:55:00+00:00",
-      "description": "Afghan Taliban government accuses Pakistan of deadly drone strikes  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T20:06:08.137253+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0cb142f868ec"
-    },
-    {
-      "title": "Two Lebanese soldiers killed in Israeli drone explosion in southern Lebanon - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanpMQXpCRW9wS1pXVnFydTNRYTB1UlZXcFhYcHJHQ0hoVWRkc21QNVJIZ2dRZzV0WllZU3BzVmEtY0EwTnJ4MXR4ZktXRVc4Sm1KVko3VVRacWZVSVM5MlRiaFdQM2hTb01lVzIxcjVFWHVMdVhlZUx5WWtnSU9LTU43YUxsWTZYWnNFcWY1R21NMmI2cjdCbFJyeFhfdE5qTTRDeHlpWWVBV1puS0wydGlPUXVOOEXSAbwBQVVfeXFMT3p2ZnI0UXpxSFFvaDc5cmRXc3FJY2c1NkxWTFdGUUsyajcwbWFqOGpLMTdCY3hoYUJwNHFBXzlOaWJhWFRSMFdMM2d1SDR2a3Zjb29XTmtqMUdPYVhlcHpFWmlCUDQ2WlRBNlZsZFlSaVhKNTIydDRkNG5qZnd5aGppZVVaT2xYQmVIZ01mZW9SR3RfVWVGSlpFZGlNN3pSaDNnWWJIZEJ2UWFlZE5rY01KYUxSUjI5LUJLalY?oc=5",
-      "source": "Al Jazeera",
-      "date": "2025-08-28T19:30:00+00:00",
-      "description": "Two Lebanese soldiers killed in Israeli drone explosion in southern Lebanon  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2025-08-28T20:06:02.629964+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "306e512a1a73"
     }
   ],
-  "last_updated": "2025-09-24T11:05:06.560563+00:00",
+  "last_updated": "2025-09-24T12:09:27.701507+00:00",
   "total_count": 1000
 }
