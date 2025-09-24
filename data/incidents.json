@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "East Texans Are Asking: Can You Fly a Drone Over Someone’s Property? - 101.5 KNUE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PTk83azNPQ0VDUWNtV1psUVZRUEhzMFRFX1FWbzExT1FXSFphNURvRDE3Y0RZdzlLdGRrcV8zT3k4Y1dDd01nQ1VrUnREUk5Bd2xsWXhUZFlicGVaYWVQUA?oc=5",
+      "source": "101.5 KNUE",
+      "date": "2025-09-24T02:05:32+00:00",
+      "description": "East Texans Are Asking: Can You Fly a Drone Over Someone’s Property?  101.5 KNUE",
+      "query": "drone illegal",
+      "detected_at": "2025-09-24T03:17:08.674839+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1809b70b6e0c"
+    },
+    {
+      "title": "Copenhagen Airport Closed as Police Investigate Drone Activity - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVVVXzBJXzh3QlBSUnZ2YWVoZTM5Z0V6SHFJc0F2V0lnX21FaEZ5TEJYR0ZVY1hLZ0lwUk1GcHRvcVZEaVlaVDNSb2NfOWJLUm80MmFjcDE4b3ZDcnVhaUd1QTVPTFFyZU1VSjJVdXhpLTUwc2N0X1dyYUhTSm5EN3NWbk0yNUx3dG45Y2ZxWVk5MDBrVlpvdER6WVotV0hYdk1UZnJaanI1WHhKWjFCWlc4aw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2025-09-23T13:32:55+00:00",
+      "description": "Copenhagen Airport Closed as Police Investigate Drone Activity  Bloomberg.com",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T03:17:04.497491+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6195371bbd3d"
+    },
+    {
       "title": "Russia Strikes Ukrainian Military Targets After Crimea Drone Attack - Военное дело",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2h4VzVHbFlLY2dDVkU0RmFqQWZNczVrYzZxVllfWVoweTloNHVDZEx0OG5xQUYxQWRFbkZ1SGdHTzloYTVITmh0dWowNlpDUnNKNjd3WDVSZWpVek0wa2paY3BZR0ZfOFg0dzQtNFNsalNMMlJCeWJ4N3k1TkZGNEZfV3lhQlVFWmdBNUFORmZZRjA2cmJqZWJlUnMyajczTElYLThNeXRYYm_SAa8BQVVfeXFMTWd0ZENDbHBCTVlHSkUwcnZnSHVZLThrSWlDVXAyRVB0LU4yZFhMRE1XMlk3LVhyUG5mOVBScWJsZXVoY05HbEJzVFlQWi1Ma2R4a3hVdzdnZm9iWWhReVd3dG9TZ2YtNnNrSWVQLVFDY1ZLOVI1eG96cDVvYk5QZ3ZwT1FDWlJDUVlxX0k3WllrUzlfRTlXQjFMTERoQWcxUmlsNDBBYjBPeEhCYjRtMA?oc=5",
       "source": "Военное дело",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "1a3ef05456f7"
-    },
-    {
-      "title": "Russia launches mass overnight drone and missile attack on Kyiv, killing 4 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUlRSG1vTGxJMmxVQ3hGaUh3Rll3WGRLbXpjSDV0b3FnTDlxY29XblppSkhjSFVLM3hqdkt6VTN0Y2FwWndoODR3NWpCNVMzZ0VTcE90LXV5M1huYW82Mms1YVRrZnB0XzFVcXNBZ09vMkF3Tlk4eDdLY0ZUUi1sTWNtR0JQTHljTE01b2Q4NDdNcWlabWd6ckE4TWZkcklRZWdrYTVmWW04Rl9pLUJV?oc=5",
-      "source": "The Globe and Mail",
-      "date": "2025-08-28T04:21:39+00:00",
-      "description": "Russia launches mass overnight drone and missile attack on Kyiv, killing 4  The Globe and Mail",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T05:05:31.208213+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "be6e6bb32b4e"
-    },
-    {
-      "title": "Texas DPS Tests Aircraft-Mounted Counter-Drone System - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGxlUTZOeGVxV3J5clFSMFRkcVd0NjQ0UFdNemE2ZkhaU0o1RVYzanN1SU4wblJrbjlvLVdSV3pJOGJSeUhlZmtsWjJjR21tbVREeThuLWwtZ3lUWHFhaXdncEhKZUNNRGVXUWVydFRxSEwtZlA5S2ZScWt3SnNoNV9UNmJSMDBqeUxHZGV4bFDSAZYBQVVfeXFMT3hjc2h6ZFd2MHQ4Zm5Bc1pZMktWQXJzdm9YNGYyTExHNFU1bm5HcmpFb0I2c3lxbVgteHh4RkJfWDdQM0hEQy1IOXNIdmxQVS03bEFMSG9zY08yMzRlUHVHN0FPSlVTTVBUbjVFVGFFNDRFenAzUm9nNjA0SkQwNnE2NU9Kbm12UDJ3Wlo1TVJHM3NXN2VB?oc=5",
-      "source": "Dronelife",
-      "date": "2025-08-27T16:42:33+00:00",
-      "description": "Texas DPS Tests Aircraft-Mounted Counter-Drone System  Dronelife",
-      "query": "drone incident",
-      "detected_at": "2025-08-28T01:32:53.367839+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "94817e185280"
     }
   ],
-  "last_updated": "2025-09-24T02:31:10.093483+00:00",
+  "last_updated": "2025-09-24T03:17:11.179966+00:00",
   "total_count": 1000
 }
