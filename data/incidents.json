@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
+      "source": "DW",
+      "date": "2025-09-23T10:59:00+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T11:05:00.570367+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "7fa03f3ee3c8"
+    },
+    {
       "title": "Drones, Systems Hack Test Europe’s Aviation Security Defenses - Insurance Journal",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzX1I1Mm82STM4enVUMXpGUV9CQnJIeWlkVXdoRDEtMTRWYk9tdHRtVUludW1JWl9rYnppUlhZSkdJN0ZORHc4NVdxeXVTbXc5WGhLcDQyMlQyZTlKcXJjY2JPeEhXOVlMeFhYUHFqdURaYWNnckpUQXRaLXJkdw?oc=5",
       "source": "Insurance Journal",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "306e512a1a73"
-    },
-    {
-      "title": "Lebanon says Israeli drone explodes after crash, killing two soldiers - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGp3YWZ6REltRWNqV1VsRElmNllSRDE5SG5paFYxcXFUX2VmeGl5VW9vYThTLWE2dmFQNFd5ZTBFU1pZc3NRXzMwdXpDNXJiRjdtSkgxb1FtOGFXV3pHVUQ5WGd6VkRwOXo0eTlnaFdWX3FheHVtdDdzQXlsWFk3alhEWkUzVHRWUVZMWTVxeFlYWVM2eHZCZ3NjZVFEQXlHQmtlR0JNR2ViZFVfT1NZN2lvNG11c0NUNmVnajBiVDhQQURnMEYw0gHMAUFVX3lxTFBiRW9uTVJ4MDR4djhVZ0tkSFQzdk1DODVadWJTX2tGc29WV2JiMVVSQjVsUXl2c2pBa29KSXdfT3J6b0xzdHhBVnVHRUNaWnlFRjl4X3FreUk4OGtVTzBzaHFUa3dhZEt2cnA2WGJkbXE3UEl0WHVKVUpjTEN3U0JjcllOdGtCRWV3cE9TOUhfVWZyQTV6R1o2eXV4VDVSMDZYU2Myay0tLUN4OGdWNHVpMjE5U0VCTUVYazRWTTB6Z2NzRWdPUnN6bFFDRQ?oc=5",
-      "source": "Al Arabiya English",
-      "date": "2025-08-28T17:34:00+00:00",
-      "description": "Lebanon says Israeli drone explodes after crash, killing two soldiers  Al Arabiya English",
-      "query": "drone incident",
-      "detected_at": "2025-08-28T19:04:38.448774+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "1834956a3a18"
     }
   ],
-  "last_updated": "2025-09-24T10:05:42.481842+00:00",
+  "last_updated": "2025-09-24T11:05:06.560563+00:00",
   "total_count": 1000
 }
