@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone footage captures arrest of suspect tied to vehicle theft scheme - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjJ5LVcteVJ1UENaUE9nTjdzQ01zcHY3VGxuUmJ4TjBzTjl3ZExOa3JzOG00YS1WZjZ4SzBKSUpkaUNWVjdlQnNpN1pCNlNySEFWbENVbjFRQ3hfUzJHS1hNUWFZOXM2UGdTUmVWb19CSnc4ZzBuWkVQbElFX0h0RkxvTnhSQzRmMVp5eVEzOXl6dHBPVUY5bFdlZ2w2YXVFYUFCSzJIZU5Kc0p0Q3lPZnhqSFJidw?oc=5",
+      "source": "CityNews Toronto",
+      "date": "2025-09-23T19:30:23+00:00",
+      "description": "Drone footage captures arrest of suspect tied to vehicle theft scheme  CityNews Toronto",
+      "query": "drone arrest",
+      "detected_at": "2025-09-24T07:05:49.707667+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "7e7f6f65dd56"
+    },
+    {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
+      "source": "DW",
+      "date": "2025-09-23T10:45:52+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T07:05:49.083299+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "a58a8deaca76"
+    },
+    {
       "title": "Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmU5Y3d0M25LQWw0WWhrc0h6aVdXSlFIMDdZTi1CSGhyWXFUTUp6V21NcGRlZW5JWWU3cFdfdkZZRXdHX3hwcHoyUGJyRUlpM1oyQTNOVzZTekdUT1liQkZnaXJGYkdYdGxRN21RWW5QNE9CSGw4VUtLQ1BXdV8zWXRIQWoydkNMdHoyLUQyTkZYcEk?oc=5",
       "source": "The New York Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f0eb1daf067c"
-    },
-    {
-      "title": "Afghan Taliban government accuses Pakistan of deadly drone strikes - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZXcWp1ZVBDRkQ3ajdOcHdDLXBwMkltTDg4TWJVeW92TnVwd2k2dDhWT2E3dVFCNEtURDUtV3lCM0ZSd1hONmNHbHFZa0E4OUxmYWVlOE5OcWxpSEhkWUdNSnhzOVhUNGEzVU9RLWRlWG5WdGFnb2lDRGN4OWFTQi12OVBIMGIwTkdabG5ZdjRydw?oc=5",
-      "source": "yahoo.com",
-      "date": "2025-08-28T11:24:46+00:00",
-      "description": "Afghan Taliban government accuses Pakistan of deadly drone strikes  yahoo.com",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T14:05:45.465414+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3c5ea0c42cb4"
-    },
-    {
-      "title": "Afghan Taliban government accuses Pakistan of deadly drone strikes - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzdON0dUTlpjVGxLRWNiYktkdUlpYTRVWWtaTS1BeHpUNzdBRG1aXzkySVNKNEtvME1hZTQ4LUxZblJ2X0kxOHBvemhGeVRIVWVST3owd1FWUjh1VXd2V1VnNVQ3YU5IODd4RGN3bEVQMlBjcWZNb3U5aDF5NG9ELVRfZVREMXJpblFTZVU2TEFNdWs5WEcwWjhKcnF1X2tCOG55T0dRNGRXQ3EwNTAxckVPaUlqTzIxcS1j0gHAAUFVX3lxTE9LcS1idGlYOEVRcHk5NFJlbEZwVFU5MmdUbGctVzVWZzVXUlJvUUxNWWtMZ1pkcmgtdHpQdTNJLVQ3MzIxbmdOdThlYkE0ekZocGtZZjRSc2x0b3U0WXdOSmZOaTNuSUhHWlp3T0NKUkNYa0RtV3lBcFg1WEFsVVNxR2ZFSkZ4VnZFQ281NTlsUi1oa1pqWkpMcUQ5UC1YcFNBRXNQQkJzNkFENTZNNEJkQ1p3RzNWOXBxbC03eTAxXw?oc=5",
-      "source": "Al Arabiya English",
-      "date": "2025-08-28T12:56:00+00:00",
-      "description": "Afghan Taliban government accuses Pakistan of deadly drone strikes  Al Arabiya English",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T13:12:52.351993+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d9b678cc7c01"
     }
   ],
-  "last_updated": "2025-09-24T06:08:12.659319+00:00",
+  "last_updated": "2025-09-24T07:05:54.909526+00:00",
   "total_count": 1000
 }
