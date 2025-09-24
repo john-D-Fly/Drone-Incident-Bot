@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Drone activity forces closure of Danish airport airspace for 2nd time this week - BNO News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEd1STFFN2pCWWo0SFoyX01odFY3LXJwZ0NJOF9tQ0g4azdDOEtIV2swclI0YjhSME5jU0xURUcwdGZzOEJUdDhxbVdZZ2MzdHdQbzlZSzVESUZmeEdJRmNFemstbDloLXQ4YXVrWWEwTHZyNXo2bDBaWUUwbGNQZmxsQTBaUmxEY1pERFh5cW9GVDN4a2daWFJLZFA4eG5Rcy03MEhwOUJGcWxFRWg0TEdPcHo3Z3ZTS1E?oc=5",
+      "source": "BNO News",
+      "date": "2025-09-24T21:26:24+00:00",
+      "description": "Drone activity forces closure of Danish airport airspace for 2nd time this week  BNO News",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-24T22:05:23.578176+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "8f24026f0626"
+    },
+    {
+      "title": "48 wounded, two in serious condition after Houthi drone crashes in Eilat - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGlpN05HNHBBay1sUmZ3eHVfV1ZYdUpxX0pvZ1ZmQjd6bEFYOG1EMkJVRXl4SVE2d3gzZDlMa1NLdzcwd1hLaTN5Mk1VNUdRSm9OWTZ1MUZ6dWF6czBDb2VOM3UzLThQaEY1cTh2aWxaN2F4eGRvdE1BQlNjblI1UGp1WWNMZw?oc=5",
+      "source": "Yahoo",
+      "date": "2025-09-24T17:56:38+00:00",
+      "description": "48 wounded, two in serious condition after Houthi drone crashes in Eilat  Yahoo",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-24T22:05:22.995205+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ffb90b237675"
+    },
+    {
+      "title": "Drone Down: Israeli Aircraft Crashes at UNIFIL HQ in Lebanon - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JacC1fa0JqaEgwRFBfcHBRbGQ0a1dENjRKOFAwOUo5b3JPNEwyNzNyalRVWWJoZVYzZTA0WWFXcVBzSWlXcFBVX2dnRDg4cG5IbEthdUpFZEg0R3YtM2taUnNfV216b2dyd1QtUlpaV0FzRFdKNWZPeUh2OEFpWkhUVkU0V0M0YzRmMTVSSzJ2NG9FS3dNb0hCblIyZkRabkQ3Q2xqNThKdEhZYWpHSlUyaUbSAboBQVVfeXFMT0NzN2VOMUdhV19RTThNN045bUlmUUhkNVBlV25EQVhlY284Tml5M1ZzQ2dVVzV3bVM5dnZCLUZXQ3dXUWYwTmM0SFZoeC1NVTJaaWZIdDVMOHM3ZVlESXZtUlk1ODZZdnNCMHFHaXpEelRtUDJ2Yk9LTlpPeFd3TUEyU2REU1FiUFhaWmpZT3RHQ0pFWHVBbmVYLWFIb3BuQTBNZEpJNDlhRFpmYkNSNHl1bDVCMjRXVmhn?oc=5",
+      "source": "Devdiscourse",
+      "date": "2025-09-24T21:12:00+00:00",
+      "description": "Drone Down: Israeli Aircraft Crashes at UNIFIL HQ in Lebanon  Devdiscourse",
+      "query": "drone crash",
+      "detected_at": "2025-09-24T22:05:20.877554+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "744ba7e6069b"
+    },
+    {
+      "title": "22 wounded as Houthi drone from Yemen hits Eilat - JNS.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMGI5a0RFZ2NOR1ZPWUtqM2p2TmdpTnk0dURMb1pRWFgtbDRjN2ZDb25ZSkU5V3VhNUVfWXMyZ0JBZ05sY2YwaFFWLWh4Z3FPajJaWHIzR3gwOUYwM216V2RBNVBUWm9xWllWbGFHWjVYUlM0TUFEZzg3cWtQdEE?oc=5",
+      "source": "JNS.org",
+      "date": "2025-09-24T16:11:34+00:00",
+      "description": "22 wounded as Houthi drone from Yemen hits Eilat  JNS.org",
+      "query": "drone crash",
+      "detected_at": "2025-09-24T22:05:20.877554+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f048776721ab"
+    },
+    {
+      "title": "UN peacekeepers in Lebanon say an Israeli drone crashed into their headquarters - Voice of Alexandria",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS0FRa1RoWjRucWZNMGxua0phS1Rka2ZVQ3U4aWJlcjIyVERGb3FyRzcybEE3U19tWjdzcVBoY1NJLUM4V2pYWWd3aXUzM2g3N25iTGo2V29hV2VSYnh4d2R3bHJZd1JWVTFJcWY5TWVDTmlZN2V5d3dVNEJELWNVOFVsNC1STkZtU3gwT2RXdTJtSkhUR2pxc2FjVGVVbERPVGluU0xzOXZlT2t4VEpSTzFYZGtCUGRxYVFxS0J3ZmNDVlg5NUQ5WWM5cldLT1JTUGQ5dk14ckxHb0dpOXRaMC1JRnF5ekVHQ1B5YURhdElMYmRDVHNQMzRrU1ZyX0hkVDk3bg?oc=5",
+      "source": "Voice of Alexandria",
+      "date": "2025-09-24T20:55:39+00:00",
+      "description": "UN peacekeepers in Lebanon say an Israeli drone crashed into their headquarters  Voice of Alexandria",
+      "query": "drone crash",
+      "detected_at": "2025-09-24T22:05:20.877554+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ab8143209de8"
+    },
+    {
+      "title": "UN peacekeepers say Israeli drone crashed into their headquarters without inflicting casualties - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnAxMW82UU5WdkJNcGtXZUZJMzl1cncwMHZuWU1DSDZLaUJTdHhKdWhpdG9OWWIycnB3YXFDRWdnTHFMNy1YcGRXbzdlU1FJZHZzVjVsNXhDdlo0RGwybng3THB0aHRTS2J6S3g2T19fVU1MdlZCODlaSmJfMVdMXzNNX2ZBTUc2dUNoNDNZd0t2dw?oc=5",
+      "source": "Yahoo",
+      "date": "2025-09-24T12:11:26+00:00",
+      "description": "UN peacekeepers say Israeli drone crashed into their headquarters without inflicting casualties  Yahoo",
+      "query": "drone crash",
+      "detected_at": "2025-09-24T22:05:20.877554+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b53911cd9194"
+    },
+    {
+      "title": "Clovis Police Drone Tracks, Helps Arrest Shoplifting Suspect - GV Wire",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWtlNEpWYnVsUHNjRGw0WDhPTmo1MkJiRW1GYW1Lay11ZGF4MGp6WlFGQk15TE1Sd182V29udW8xM3kyaHNES2VlcEg2UEV2ZHJpWHIzUnlMeDdnM1dBS1VRVWtnZTBoYzllV0ZWYkNLaGs3c1lHUjBrd1dCQ1VIRndxSHk4UUlRVUFMY2NxLWtzRDJu?oc=5",
+      "source": "GV Wire",
+      "date": "2025-09-24T21:42:21+00:00",
+      "description": "Clovis Police Drone Tracks, Helps Arrest Shoplifting Suspect  GV Wire",
+      "query": "drone arrest",
+      "detected_at": "2025-09-24T22:05:18.204686+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "dbe314f9d308"
+    },
+    {
       "title": "LIVE: Israel kills 85 Palestinians in war-devastated Gaza strikes - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRUdDVnN2hqdUI3ekdCT0ZPN01PNmY1alZBaGZGOTE2VDZnNFY4ZjlFbDNOS1BiQ3hOZU1qSF80TlBsRmJfTXZRTWFoQmwxQW92Nlo2SmM2d2dUd3dINXIwdVBDeVFxNXBtOHp6bU5MY3N0TXh3bHZqNmxZd3pJWTFFZ1E1T2VZNzJ0ZUx3dkMteW56ZEpzelJoS09CU0VQaTFpTm1rdHRId3BHQkk2XzdxNWY0ckhjQjZQYUwtR0FzZ9IBxwFBVV95cUxNNW5XbTRZMlNma1hyaVJvRTByT1VIbjN2RGpFOG9sX1NtSEZIb09uLXk3NTJkR2s2RVpfQnF6WVhBaXJzSVNnNmtSSl9qVjJBLTFERENKNmNSaEJDNjRtd3c1MFR1UzlkMEVWTDN1eVhZX0pnUVFZZlBQOTdjQzVpWVI1LUtIeFBHWmVYdl9yaTJjaTFTejFPb21BOE9zN0Z1M2tEWW1UdkdCNmlFZk9HaHNSOGVOaUZ6c29IQ0dILTIzZVhrdnlj?oc=5",
       "source": "Al Jazeera",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "5911fc0cbb42"
-    },
-    {
-      "title": "Mich. police arrest accused arsonist with help from drone camera - Police1",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTROMG9ZTy0zYjlqUGxpOGxLYmNteGNkS3R3NlJ5VVVVZmdaNGJXVkVTaDRtemlpQ0lndkFja0F3MUxuSjJlN1hzQ3I2QXpHeFFqM3VUT0x0clk4SFNVeFdGY185aVVxd2tVODk2OXlBQ29QOVgxcmRfU01vVG1QYUJScHBTRFhGNlgxOVRSemJCMjhDUUc1eGFn?oc=5",
-      "source": "Police1",
-      "date": "2025-08-30T10:02:07+00:00",
-      "description": "Mich. police arrest accused arsonist with help from drone camera  Police1",
-      "query": "drone arrest",
-      "detected_at": "2025-08-30T10:04:54.055967+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "eed3c46f5690"
-    },
-    {
-      "title": "Laser and drone incidents surge near Tan Son Nhat Airport - Báo VietNamNet",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmxyNVRkdE9BSlhlbzdxdFdFR2RiTlNqc0lqWXBPblQ3TVFlOWYxZjRwN1lhWVJsWldjY05udHUzMkZOYVA3UXJzUC1XTlM5NlBlZ2xURDhkZEJPR2lmWXN0NEVFenRLWllzVXJlTlkwU1NSN2ctOHpNQ2RsbVlRS0gzR2hqVmY3NEgyb1BaMUh4aFg5eW50VjlEOA?oc=5",
-      "source": "Báo VietNamNet",
-      "date": "2025-08-30T08:04:00+00:00",
-      "description": "Laser and drone incidents surge near Tan Son Nhat Airport  Báo VietNamNet",
-      "query": "unauthorized drone",
-      "detected_at": "2025-08-30T09:05:08.360754+00:00",
-      "location": "near Tan Son Nhat Airport",
-      "category": "airport",
-      "id": "e65f588356f0"
-    },
-    {
-      "title": "Afghanistan Issues Demarche Over Alleged Pakistani Drone Strikes - The Daily CPEC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGpYQUYzQlZ3QTVHWjkxY0h5aS1iTWZlSWdZX21WQkhGWHNSMmZsZjc4NUhPdVhDNENQSFJvdHRsZk5BS3ZYUk1FemRQampEVUJweXZielRxcjZ1X01XQ01IdjRwVHdXVENjYVMzdFNaV3pMNWdUN0RYci1rak9oQ1hTNkZmZ1JHRGtwbWZWUjh0QVRa?oc=5",
-      "source": "The Daily CPEC",
-      "date": "2025-08-30T06:14:57+00:00",
-      "description": "Afghanistan Issues Demarche Over Alleged Pakistani Drone Strikes  The Daily CPEC",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-30T07:04:57.079825+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "626de5b1e64c"
-    },
-    {
-      "title": "Jordan thwarts drone drug smuggling attempt - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hZU5FMUV4WXhBQWw2OGJ0ZW8zLXk4ZkhJRFJsdjRTcERTMFZxUGhIY0ltWnpBUXNSLUtzQWVLWF85bFNUWnRLVw?oc=5",
-      "source": "Roya News",
-      "date": "2025-08-29T18:55:58+00:00",
-      "description": "Jordan thwarts drone drug smuggling attempt  Roya News",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-30T07:04:53.711244+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "50efbc430a3a"
-    },
-    {
-      "title": "Jordan thwarts drone drug smuggling attempt - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hZU5FMUV4WXhBQWw2OGJ0ZW8zLXk4ZkhJRFJsdjRTcERTMFZxUGhIY0ltWnpBUXNSLUtzQWVLWF85bFNUWnRLVw?oc=5",
-      "source": "Roya News",
-      "date": "2025-08-29T18:57:35+00:00",
-      "description": "Jordan thwarts drone drug smuggling attempt  Roya News",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-30T05:04:53.788384+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "261eaf4ce018"
-    },
-    {
-      "title": "Florida Man Indicted for Fentanyl Smuggling Scheme Using Drones - GV Wire",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkJEVm01WnNSYWtlazFqOEJSWGlxNXJvS2JJZUJETEM3T3ZtSGlvSE9ZV2hfdFR0QU1IcXJMeS1HY25sY0w4S05PUVVnYWV3ZUJ0b0hnem5ncjhIMEY1eV9UbUJtcFRzcV84ZS1fWHNTSDNtLTVFTjEwaTF0dm9mSHVUZ2tod3h3clJvRzNkNGdCMTUtVnY4UEtR?oc=5",
-      "source": "GV Wire",
-      "date": "2025-08-29T22:30:00+00:00",
-      "description": "Florida Man Indicted for Fentanyl Smuggling Scheme Using Drones  GV Wire",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-30T05:04:53.788384+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "72cf11ef7a4b"
-    },
-    {
-      "title": "Jordan thwarts drone drug smuggling attempt - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hZU5FMUV4WXhBQWw2OGJ0ZW8zLXk4ZkhJRFJsdjRTcERTMFZxUGhIY0ltWnpBUXNSLUtzQWVLWF85bFNUWnRLVw?oc=5",
-      "source": "Roya News",
-      "date": "2025-08-29T19:58:02+00:00",
-      "description": "Jordan thwarts drone drug smuggling attempt  Roya News",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-30T04:06:04.820321+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d5c7c8c47d59"
     }
   ],
-  "last_updated": "2025-09-24T21:05:14.326313+00:00",
+  "last_updated": "2025-09-24T22:05:24.250983+00:00",
   "total_count": 1000
 }
