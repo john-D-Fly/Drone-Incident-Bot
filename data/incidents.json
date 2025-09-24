@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmU5Y3d0M25LQWw0WWhrc0h6aVdXSlFIMDdZTi1CSGhyWXFUTUp6V21NcGRlZW5JWWU3cFdfdkZZRXdHX3hwcHoyUGJyRUlpM1oyQTNOVzZTekdUT1liQkZnaXJGYkdYdGxRN21RWW5QNE9CSGw4VUtLQ1BXdV8zWXRIQWoydkNMdHoyLUQyTkZYcEk?oc=5",
+      "source": "The New York Times",
+      "date": "2025-09-22T20:47:37+00:00",
+      "description": "Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily  The New York Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-24T06:08:08.978540+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5b0a0ba03e49"
+    },
+    {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
+      "source": "DW",
+      "date": "2025-09-23T10:23:16+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T06:08:06.714420+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "a3a42310709b"
+    },
+    {
       "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
       "source": "DW",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "d9b678cc7c01"
-    },
-    {
-      "title": "Drone breach over Srimandir sparks fresh security concerns - Prameyanews",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTlFQnMtTWR4TXBtRmxVRk9yX0N1T2pZN0RKUnRWYXNfRTlxWDl2d0dqUGJCOGt5SFh3UUF0THc1d3ZSbUpRcGF0NENZVWNjNVo3R3JnOGNuYThqQ1VlbmR4d2pTWlg1ZWRuZDF2UkFxMEJCSmpjZHlKSk14ODRlZDkyV0RaMDFYRWFuNEluRQ?oc=5",
-      "source": "Prameyanews",
-      "date": "2025-08-28T07:07:30+00:00",
-      "description": "Drone breach over Srimandir sparks fresh security concerns  Prameyanews",
-      "query": "drone security breach",
-      "detected_at": "2025-08-28T12:08:44.954950+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "679ba4b9dbd0"
-    },
-    {
-      "title": "Russo-Ukrainian war, day 1281: deep strikes torch Russian drone factories 1000+ km away as Ukraine allows men aged 18-22 to travel abroad - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOR2owUnp4bTVndjNBWEQzWWRuM25ZMFJuVUkxdnQ4XzdiMmJ2RVE4UUozVHJWVlNHVWtDbzV5aTlERzg2X2dUeFF4eVc3M3U2cXk2X0pybUJvakpGdDBtaHNfY3RYZjN4ZGRpd3RPSkxtX2JUWnB6NGY1bHY4MXl2MGtXZWpVaGlrM3FzOEIySmUwdUQ2UDM5U0ZrdDF1Y3U1dmluVXBSSzlfZUdpWTNtN0loTmdYX1VJZzBaeS1xNWpVdEVsWmlsYWI1bWlQWmkxX0FzRHFCY0RtcWZrOGRyMkpic09CVGJJUG9pQlRXX3N4RC1aZFFfWlcwalZhckZyc2p4Ng?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-08-28T09:42:20+00:00",
-      "description": "Russo-Ukrainian war, day 1281: deep strikes torch Russian drone factories 1000+ km away as Ukraine allows men aged 18-22 to travel abroad  Euromaidan Press",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-28T10:05:47.235097+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2a61608ba91a"
     }
   ],
-  "last_updated": "2025-09-24T05:05:39.491453+00:00",
+  "last_updated": "2025-09-24T06:08:12.659319+00:00",
   "total_count": 1000
 }
