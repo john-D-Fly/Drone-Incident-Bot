@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
+      "source": "DW",
+      "date": "2025-09-23T10:44:19+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
+      "query": "drone incident",
+      "detected_at": "2025-09-24T04:06:29.009034+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "4188c7639356"
+    },
+    {
       "title": "East Texans Are Asking: Can You Fly a Drone Over Someone’s Property? - 101.5 KNUE",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PTk83azNPQ0VDUWNtV1psUVZRUEhzMFRFX1FWbzExT1FXSFphNURvRDE3Y0RZdzlLdGRrcV8zT3k4Y1dDd01nQ1VrUnREUk5Bd2xsWXhUZFlicGVaYWVQUA?oc=5",
       "source": "101.5 KNUE",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "eb9689e13d13"
-    },
-    {
-      "title": "Drone breach over Srimandir sparks fresh security concerns - Prameyanews",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTlFQnMtTWR4TXBtRmxVRk9yX0N1T2pZN0RKUnRWYXNfRTlxWDl2d0dqUGJCOGt5SFh3UUF0THc1d3ZSbUpRcGF0NENZVWNjNVo3R3JnOGNuYThqQ1VlbmR4d2pTWlg1ZWRuZDF2UkFxMEJCSmpjZHlKSk14ODRlZDkyV0RaMDFYRWFuNEluRQ?oc=5",
-      "source": "Prameyanews",
-      "date": "2025-08-28T06:37:07+00:00",
-      "description": "Drone breach over Srimandir sparks fresh security concerns  Prameyanews",
-      "query": "drone security breach",
-      "detected_at": "2025-08-28T07:05:35.874078+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "1a3ef05456f7"
     }
   ],
-  "last_updated": "2025-09-24T03:17:11.179966+00:00",
+  "last_updated": "2025-09-24T04:06:35.403033+00:00",
   "total_count": 1000
 }
