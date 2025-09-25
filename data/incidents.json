@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "DJI Mini 5 Pro Active Track Test And CRASH! - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40NnlQcVdCa3hnaC1naG42Yzd3RkR4X0pLb2ZqcnVfTlkzX01Xd2FSck9qeFZPTGFtbk5zZmdNbFFyVHVUYWJnMExlNmhrdl9EOWFlLV8wS3ljbF9Cd2htQm1vaWVvUlF1aTVWakVPMEN3VG9xUHNVbA?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-09-24T21:14:28+00:00",
+      "description": "DJI Mini 5 Pro Active Track Test And CRASH!  DroneXL.co",
+      "query": "drone crash",
+      "detected_at": "2025-09-25T01:33:06.887007+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d26c8027c3e3"
+    },
+    {
+      "title": "Chaffee County Sheriff's Office uses drones to safely locate and arrest suspects in crawlspace - KRDO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT29fZV9kNjUwYmZCOS15WmE4S19lYWg4NDltOTQyNlBvUDBHUjYya191aTk4akRJaG4yVUJFblJYakpvTjBhUHNKSG9iX0NBOXNFdUphY3BpV3FZRHk5NmdMT1NXTUNVcEhTOUhLWHBfZFZ5UklJQ1pkMjBwSkg2bnFoaUh1R2dJNWthN0RYNFBTNjJuMU9qSVlLTVdBSWxkSTZXNjdUNE00U2xhZUdMLWJaRl85cTFOVjZMUFlKc1NpLVpVNVE?oc=5",
+      "source": "KRDO",
+      "date": "2025-09-24T23:47:20+00:00",
+      "description": "Chaffee County Sheriff's Office uses drones to safely locate and arrest suspects in crawlspace  KRDO",
+      "query": "drone arrest",
+      "detected_at": "2025-09-25T01:33:04.336130+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "496b47a2d095"
+    },
+    {
       "title": "UN peacekeepers in Lebanon say an Israeli drone crashed into their headquarters - WKMG",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVNxWnFmc19PU2Q4cGR2VlVBTHZtOFJxVG9xek5LN1ZsemFscnI2eF9JZG5lSVdncVVLZTV5c2ZFcURqMFdIblQyQUhoakhaY1NjcXVGWVBfOVZ1Nk5lQXdNQmJ4X1MwV1J1YnYtVjE4Ry1MeFZITjF6NGpOQlZpNnpWVHlVTlZBNUxPY040bmMzMklHQnBBTXpNNnJSVFo1VjRFR0tGUV91cmR3QjJ3U1J2UlE1X3U1YXpyQjZ2d2gyS3lzamhzaE9VNzYzVVIyZ19jbE9yMkhnWEY4UmdrLQ?oc=5",
       "source": "WKMG",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "8f7a57a4d4cd"
-    },
-    {
-      "title": "Alarm as US far-right extremists eye drones for use in domestic attacks - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVZSblJPdV9VdVk0S3Jja1psaTNsVndkemRWOWktaUdaT0NXdjdQajM5dFlTNGg2MHctY2JrVVJZeVV4NGMyZmJPeUpqZU51ekxROVRfZlRQanhyTXVPajQ3WjJmZWlDODNieldHMlZkU3pUVW1hVGhXVVBrTGZ4YW9nRmU?oc=5",
-      "source": "The Guardian",
-      "date": "2025-08-30T18:51:00+00:00",
-      "description": "Alarm as US far-right extremists eye drones for use in domestic attacks  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-30T20:05:12.141618+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "adcd5b69ffa9"
-    },
-    {
-      "title": "Army thwarts drug smuggling using drone - Ammon News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tSWE3THVheTdnRWRMRUtxWFNjSEJLYTVwNEFzdWJTbDN0ZXhseS05blVmbmpDSFZqbzVzWGp2bnBsLVAyYlVuaWREZEZNbTQ?oc=5",
-      "source": "Ammon News",
-      "date": "2025-08-30T17:59:55+00:00",
-      "description": "Army thwarts drug smuggling using drone  Ammon News",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-30T20:05:08.542477+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8433fd0758b4"
     }
   ],
-  "last_updated": "2025-09-25T00:21:31.455835+00:00",
+  "last_updated": "2025-09-25T01:33:09.861005+00:00",
   "total_count": 1000
 }
