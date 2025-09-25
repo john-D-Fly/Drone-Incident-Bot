@@ -1,0 +1,142 @@
+{
+  "narrative_summary": "In the past 48 hours, a surge in drone-related incidents has notably impacted Danish airports, with multiple closures and threats identified as deliberate attacks. The Danish Prime Minister labeled the disruptions as serious attacks on critical infrastructure. Concurrently, there were drone strikes in Eilat, Israel, leading to dozens of injuries, with Houthis claiming responsibility. Incidents related to drones facilitating smuggling and arrests also emerged in the U.S. As nations grapple with the increasing problem of airborne interference, vulnerabilities in aviation security are being tested more than ever. The geographical patterns emphasize both Europe and the Middle East as focal points of escalating drone activity.",
+  "totals": {
+    "airport": 17,
+    "other": 12,
+    "smuggling": 5,
+    "arrest": 10,
+    "crash": 8,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 48,
+      "arrest": 10,
+      "crash": 22,
+      "interference": 1,
+      "other": 26,
+      "smuggling": 13
+    },
+    "by_query": {
+      "drone airport disruption": 33,
+      "drone arrest": 17,
+      "drone crash": 27,
+      "drone illegal": 5,
+      "drone incident": 17,
+      "drone prison": 9,
+      "drone smuggling": 3,
+      "drone terrorism": 7,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Danish Airport Disruptions",
+      "rationale": "Ongoing incidents disrupting air travel observed at multiple Danish airports due to unauthorized drone activity.",
+      "incident_ids": [
+        "5709ae7b6731",
+        "fca8d68429fb",
+        "c13095d02fc4",
+        "de1e06af6b59",
+        "1a5340a269af",
+        "29f78dde3f1e",
+        "7c0d4f306bc6",
+        "7c0b5dc54252",
+        "02fd1a260dbb",
+        "1ce67c55f67f"
+      ]
+    },
+    {
+      "topic": "Eilat Drone Strikes",
+      "rationale": "Drone strikes in Eilat causing injuries and potential international security implications linked to Houthi militants.",
+      "incident_ids": [
+        "aab605368abc",
+        "d4ac5194c734",
+        "c561f72247b9",
+        "fca8d68429fb",
+        "e1561b0c730c"
+      ]
+    },
+    {
+      "topic": "Drone Arrests and Smuggling",
+      "rationale": "Increase in police utilization of drones for arrests and smuggling operations reported in several countries.",
+      "incident_ids": [
+        "8593313db3cb",
+        "ca25b389f576",
+        "96f67a098c50",
+        "0f72695df841"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5709ae7b6731",
+      "headline": "Drones Disrupt Danish Airports in Suspected Hybrid Attacks",
+      "one_sentence": "Danish airports faced significant disruptions due to suspected drone attacks, prompting emergency responses.",
+      "risk_tags": [
+        "airport disruption",
+        "security threat"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "aab605368abc",
+      "headline": "Drone Strike Hits Eilat: 24 Injured, Houthis Claim Responsibility",
+      "one_sentence": "A drone strike in Eilat has left 24 injured, with the Houthis claiming responsibility.",
+      "risk_tags": [
+        "drone strike",
+        "terrorism"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "8593313db3cb",
+      "headline": "Clovis Police utilize drone to assist in arrest of repeat shoplifter",
+      "one_sentence": "Police in Clovis successfully utilized drone technology to apprehend a repeat shoplifter.",
+      "risk_tags": [
+        "arrest",
+        "drone usage"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fca8d68429fb",
+      "headline": "Drones disrupt Danish airports again, Russia denies involvement",
+      "one_sentence": "Following repeated drone disruptions, Russian involvement has been denied by officials despite ongoing concerns.",
+      "risk_tags": [
+        "airport disruption",
+        "political tension"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e2511380441e",
+      "headline": "Assam busts Rs 90 crore drug racket; CM warns of drone smuggling",
+      "one_sentence": "Authorities in Assam reported a significant drug bust, raising alarms about potential drone smuggling operations.",
+      "risk_tags": [
+        "smuggling",
+        "drug-related"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents in Denmark disrupt multiple airports; meanwhile, a drone strike in Eilat injures 24. #Drones #Security",
+    "linkedin": "In the past 48 hours, drone incidents have impacted Danish airports and resulted in injuries in Israel, underscoring security vulnerabilities."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-25"
+}
