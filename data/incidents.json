@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Denmark reopens airports after drone disruption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOENEd2hyQ2ljQkpQZmpZNEp3OG14REM1a0J2NkdraVlXZ3lGVGhPaU9WUkhPRWNFczd3QXJuQkh6V2dnblVNOGwwdkdEMF9GcjM5bkRWd3JTbGJveGM0NkhnbTBsTG5RRVJMWm9vMFY3NHZXcHNRcEtMaXI0SFZmcVlGSjUyVy1EMnhwVm4xeU9FbWduaTg4TGVoemw?oc=5",
+      "source": "Reuters",
+      "date": "2025-09-25T07:13:55+00:00",
+      "description": "Denmark reopens airports after drone disruption  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T09:05:55.752430+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "01c3e975caa0"
+    },
+    {
       "title": "Drone Intrusions Disrupt Danish Airports - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWFMU2hINkw1QmFKdGVZNHBaZGd3V01DZ1hOUW5ReDdXemtCeERjQklNRFZ4a05LNFFKVnp3QXJfQWVUbUw1QV9ZVGotWXNwMGsteUxQcUo0WURBOUp4eWNBbFZQV2ZNSDNCN0NFUDN1RHlNdFR5cXhWTE8yeEVOalQ3X3VyMWlMaEVTckFhSjFzaVFNZ19hSndB0gGfAUFVX3lxTFB4ZnBocVFJbU80MTZ3Nlc2M2ltN3dpS181SlJSeGY1OHFuTldtTmg2b3lJenozeG1wMkJaVElJMHZkeTIwdUNuWlhQdUJsX0Z4WGFobmdkcjFGYWp3U0U5U3V4YXRCb3RRN1RkdGh2TUt0SXV0TjNlV084WFQ3cjF1eHRxRkNHSnZsSWozTmJneVJwWllfOEtqek9BSERGaw?oc=5",
       "source": "Devdiscourse",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f25e1eb61181"
-    },
-    {
-      "title": "Prisons to test autonomous drones for security - belganewsagency.eu",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFFtWC11Uk14dExmNVZwZ3NpbV8zS0pFLXdxdU04cWIweGNCR3lMNFNlNlplME9PYXRDX0V4d05HX0w3OGVLeXJwVHdIU0RlalNEMGpMOGg4OHF6Qjh2NlZGR2htNUcybURkNTl0bXdlbzZFalVNdDA5QWUwbG9PMTVBN21zVmhERVBEVGVB?oc=5",
-      "source": "belganewsagency.eu",
-      "date": "2025-09-01T08:16:00+00:00",
-      "description": "Prisons to test autonomous drones for security  belganewsagency.eu",
-      "query": "drone prison",
-      "detected_at": "2025-09-01T10:06:09.013560+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0f6994aece35"
     }
   ],
-  "last_updated": "2025-09-25T08:07:14.285633+00:00",
+  "last_updated": "2025-09-25T09:05:59.667719+00:00",
   "total_count": 1000
 }
