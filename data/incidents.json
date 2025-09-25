@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "22 wounded as Houthi drone from Yemen hits Eilat - JNS.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMGI5a0RFZ2NOR1ZPWUtqM2p2TmdpTnk0dURMb1pRWFgtbDRjN2ZDb25ZSkU5V3VhNUVfWXMyZ0JBZ05sY2YwaFFWLWh4Z3FPajJaWHIzR3gwOUYwM216V2RBNVBUWm9xWllWbGFHWjVYUlM0TUFEZzg3cWtQdEE?oc=5",
+      "source": "JNS.org",
+      "date": "2025-09-24T16:41:15+00:00",
+      "description": "22 wounded as Houthi drone from Yemen hits Eilat  JNS.org",
+      "query": "drone crash",
+      "detected_at": "2025-09-25T04:06:36.748753+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e1561b0c730c"
+    },
+    {
+      "title": "Chaffee County Sheriff's Office uses drones to safely locate and arrest suspects in crawlspace - KRDO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT29fZV9kNjUwYmZCOS15WmE4S19lYWg4NDltOTQyNlBvUDBHUjYya191aTk4akRJaG4yVUJFblJYakpvTjBhUHNKSG9iX0NBOXNFdUphY3BpV3FZRHk5NmdMT1NXTUNVcEhTOUhLWHBfZFZ5UklJQ1pkMjBwSkg2bnFoaUh1R2dJNWthN0RYNFBTNjJuMU9qSVlLTVdBSWxkSTZXNjdUNE00U2xhZUdMLWJaRl85cTFOVjZMUFlKc1NpLVpVNVE?oc=5",
+      "source": "KRDO",
+      "date": "2025-09-25T02:48:45+00:00",
+      "description": "Chaffee County Sheriff's Office uses drones to safely locate and arrest suspects in crawlspace  KRDO",
+      "query": "drone arrest",
+      "detected_at": "2025-09-25T04:06:34.304212+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "1a5340a269af"
+    },
+    {
+      "title": "License plate readers, drone help police nab car theft suspects in Marple Twp., Delaware County - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGlMMTA4WlJHT19qSTRyUGRiZ3NXcE11MTViSzg4YkxqNTZTay1UNUJQZ09UbzNudTN1M3lEV2h1REJVdUZFTl9jWkdmbXowaEY5d1dQckhIVkhlZTl3RUFhc2EzUGtBUjNrT1Uxd1hhYWZ1bXM2TjVvbnBRQjZ5dEJZMGVLYVBBLW1Tbnk1X0NUdHN3QXNVMjBINlRuZE1KdUcwQnNnZ3pDRTR2ZUFJbThnd05yZzhXUDM4TTFR0gHDAUFVX3lxTE5vTFFtWlVtX2JjS0tLLUxJT2RvUk4zMU0xRV9CV0IwLV9IbXlVa08tTFJkd1JmdlNOVy1qcFFfYU5MaVMwYWE3bkJ2Tzk2eERHbm9zQ1Y0Y2VRM1paV3Mxc1RjcHA3V3k1cGFvM0lKRVFzN0o4R2RiZEVYTjhHU1FuTmM2TzJSLTZ6M2xFR1ZrcWxMdFNNWGJfRHU0Nmd4RmJSTzdWYjlfNG13SDVIQzg2ZVBJNjk4QktWZ1NEb1l5aTVKRQ?oc=5",
+      "source": "6abc Philadelphia",
+      "date": "2025-09-25T03:17:17+00:00",
+      "description": "License plate readers, drone help police nab car theft suspects in Marple Twp., Delaware County  6abc Philadelphia",
+      "query": "drone arrest",
+      "detected_at": "2025-09-25T04:06:34.304212+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d2974fbdc4f5"
+    },
+    {
       "title": "Drone Crash in Eilat City, Southern Israel, Injures Four People - tesaaworld.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHFzcUVrMHprSWRqeWFrZUtoN1BLM0duYWhtUW9BRHAyZjM0ZWoxcWs0S01UdC1DTDJQNTlCWGMyZk5SUzM2UjJPUjB2VXJiWnc3ZFRPMkhFN0xsVjdzM1ExWHk0OGtwXy1jNm45M3dRbGNNckkwUy1uTE5BVVN4Q3FlbVZGN293UTJ5Z3YyRWM5Y0pPcVFzUEQ0NHlwSVlWckpQUldsNA?oc=5",
       "source": "tesaaworld.com",
@@ -11963,44 +11999,8 @@
       "location": "at Sochi airport",
       "category": "airport",
       "id": "43adc16f16b7"
-    },
-    {
-      "title": "Ukraine: Russia launched 142 drone strikes overnight - breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0dHYTRLTU9pcUF2d25ST2FWUEZZUEgtSy0xczlfMlVLZ3I1LVJLdjB1emtjQnhYWURkRjlYQmNoTkNxbTVIeWRIY0JaNFJzU3B3N3dURk13akJqYmd0UUg5akNkcVh4OVBBclc4Wl9ReDFfWGdGcEc0R3ZfU1JYbTBJSXlraGd2MkVGSUoxMGtoYnFqd2NQRGZ4NUZPZw?oc=5",
-      "source": "breakingthenews.net",
-      "date": "2025-08-31T07:25:00+00:00",
-      "description": "Ukraine: Russia launched 142 drone strikes overnight  breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2025-08-31T08:06:32.334598+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "531b547956b9"
-    },
-    {
-      "title": "Estonia reports suspected Ukrainian drone crash - MenaFN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTZEMlJNSmNUWG5MSU0teGJ6X2dCTE1EazFvS25pazRTSXlzY285RmNoWTdRQkhtTUg4OWVocjhJcUpQRnBRRFRzejNHOG9Tc3JNTUFJMndpUll0YTZFdVQ1WHNYdkFYRDNiWGhGY1ZGYVp2Q2NWbVBoY3gxVXRXTjdqOA?oc=5",
-      "source": "MenaFN",
-      "date": "2025-08-30T11:47:16+00:00",
-      "description": "Estonia reports suspected Ukrainian drone crash  MenaFN",
-      "query": "drone crash",
-      "detected_at": "2025-08-31T06:06:43.380128+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4acf071be163"
-    },
-    {
-      "title": "Southern Military Zone Thwarts Drug Smuggling Attempt via Drone - jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzdvYWwwcmxuM3dONExuT0M2WkhrVXZzbnl4eU9lZm5VZzFIaktrVWRaS2VDZFBoRXFDZ0RaZ21kd05IOWg1M0RTOFRTM3ZHYUlSWjNsTHI2YTlvam5FMV9OQm1LM2NwYkZkMFpuT1ZURHZseVVTTDg5NU5fVlNzYXVJRHJGRGR6SC1GSWZ0NGY4eWVLdEhWdHBXYkZzWkdRWjJkNW9DZFI5SHVhZjY0VVV3?oc=5",
-      "source": "jordannews.jo",
-      "date": "2025-08-30T09:23:49+00:00",
-      "description": "Southern Military Zone Thwarts Drug Smuggling Attempt via Drone  jordannews.jo",
-      "query": "drone smuggling",
-      "detected_at": "2025-08-31T02:33:48.579682+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1ef91f254e6d"
     }
   ],
-  "last_updated": "2025-09-25T03:18:43.710205+00:00",
+  "last_updated": "2025-09-25T04:06:39.966046+00:00",
   "total_count": 1000
 }
