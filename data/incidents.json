@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes next to Eilat hotel, 48 wounded - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqV0dQVEZPcU0tX3I4dEVSWm1ELVBmc2RXNHRpaUdqX1pta3FEV1V0YzYycVU0M3dudHJzV25mZmxjYVVGUXFkQlg3OTBaQzFwb2NicklYWVIwQi1yd0FWdW9oRy1hMDBtS05xLVV3?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-25T12:51:37+00:00",
+      "description": "Drone crashes next to Eilat hotel, 48 wounded  The Jerusalem Post",
+      "query": "drone crash",
+      "detected_at": "2025-09-25T14:06:01.686384+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a6d4ac6c2f74"
+    },
+    {
+      "title": "Drones and cyber outages exposing aviation weak spots since 2017 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1hvbnF1MVA2cDJlaWxiLUwzeE5FS0lFWUdYVmMwdVdVei1zUHYybXBVMXJnUVBtcDhkRUxaYmo4ZFdLM2xEenNPODRySkp1NTRXd3ZtWURSUHFHZk9YLU1JY201YndZQ05VU1hTYXVxeDh1SXo5WUU3STM2Q2JWSHZQTFBIWFV0WGVqZHVMX1ZGenJINUw2cUJWbDNnY0lnNjNFa2lvUF9NeEZaTjNZMDFWVnAzNTVQTDlsYjlKLWE?oc=5",
+      "source": "Reuters",
+      "date": "2025-09-25T11:19:35+00:00",
+      "description": "Drones and cyber outages exposing aviation weak spots since 2017  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T14:06:00.947678+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a8a912ef5660"
+    },
+    {
+      "title": "Danish officials believe ‘professional actor’ behind drone flyovers that caused major airport disruption - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFQwQl9LX1d4aGg3VWpXTXdHaTR0VV9UQ3dESWZXbVZuVFBlM3JOcDJoY2RBQXNIQ1F5RWExV25NWS00XzV2MXJkbncxRWRGdlBLTXhBeklQZ2EySkpCODF1WHJabTBjeVJoVmRyMzJyQ2ZRc0wtYTJ4SG82RjdIV0lNSVRPVDdmaDhLMnk2VU9rVW00UlNTZWZqZTRzaXBObUFmeXhQbmhUMDA?oc=5",
+      "source": "The Irish Times",
+      "date": "2025-09-25T12:22:30+00:00",
+      "description": "Danish officials believe ‘professional actor’ behind drone flyovers that caused major airport disruption  The Irish Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T14:06:00.947678+00:00",
+      "location": "at caused major airport",
+      "category": "airport",
+      "id": "a8ed26e1a375"
+    },
+    {
       "title": "Drones Disrupt Danish Airports in Suspected Hybrid Attacks - U.S. News & World Report",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGMzOEJRLTN1SXRkZWZFTGt3ckNIWUxGRUQ2ZEZWSjRjVlpZV2ZpV2ZOZDVYOFBBSHJQdEQ2Sm9mRWZXLWJZLVNvZU5OYnFaQU91bzdKQmd0bXVDQ1FScDJ1ZHloTC1HLWtwZm85QTZQM2cyZWZJZUlvQzNhczVpLURjTFprQkJfX3B5OXJqNWpQZTV1QU95RjNoQS1qa3VlRXd3?oc=5",
       "source": "U.S. News & World Report",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c2fe26161ffa"
-    },
-    {
-      "title": "Inter-State Drug Syndicate Busted: Drones, Heroin & Cross-Border Smuggling Uncovered - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWJnMm9oUGd5X3ZMa1QxYzg2aFpITU9xbDFDelZtcl9ubVJDdjhoWm1yeGxnd0laRGZTcWdPektRSXZ6bnhsWDYtOEEtRkFiSkU2cUROUWxYczJZS1dGUzhKRVlBN3JXb2lzc2t6bWhGaTBkMHVJYnNTX3g4ZmthbEYtN0hfRFp3LW53S0EtcFVxTDlSNUhKY1BlV0c5eEd5OTNqX09QQ21xVWlHRm4wWEpOazBVbzlwNXA4c3kzQmRiN0xKZW1OSjg5eWFGMjZT0gHWAUFVX3lxTE13VUlVY05LV3pWdlRrUS1icUxmX0JKT3hfYTFqS005UXV3eTc2RnI2bmUyMWdSaFlIM0laaWhIdlo1ZWR0eW1PazZMblVtYnBwbTYtaFFvWmp5NFdibTJkcnFjWjVxU2ZMLUgzR294X2RlYjloc1QwQ1FOemV1R29ETnR5ajNnZTYwejVaWUczYXBydEhkenlCV1Z4a0NrRlUzdTZVdjhTc2k0LUh5UmtvajdRZDcxOWRaSkxZTkNuZ1lKb0d5TnRNM2dfNTBUNmxEUV9jbGc?oc=5",
-      "source": "Devdiscourse",
-      "date": "2025-09-02T11:48:35+00:00",
-      "description": "Inter-State Drug Syndicate Busted: Drones, Heroin & Cross-Border Smuggling Uncovered  Devdiscourse",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-02T12:09:27.701590+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d6a4878f2462"
-    },
-    {
-      "title": "Drone owners reminded of rules after Armitage incident - Lichfield Live",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODBwZU8ySXByMDB6blF0MlpXaTM3d1NyMkJwbHZJSUhzSGF6UHBGSi1pWGNjNFhtQXFxQklmVjJlV1RKMjNhZHM3Rlo3VlFLQWZJSlhnNUg4N0JDcVZoSEJoeTFnMGlPTlFQSklKYktLTXgyV3FyQWZFRWk0LUFTRWVVWERxRGFvejloQXBHM3NlN2JMdFMyN3B3?oc=5",
-      "source": "Lichfield Live",
-      "date": "2025-09-02T07:04:00+00:00",
-      "description": "Drone owners reminded of rules after Armitage incident  Lichfield Live",
-      "query": "drone incident",
-      "detected_at": "2025-09-02T08:07:26.303186+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0f6e4e81b7ce"
-    },
-    {
-      "title": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home - ABC7 San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjUwSUpXNkZmbWxncXN5cjlWLThYdG9wQWN1MnQzSXpaeG9pSWE5c1dTZzk0eFRpTG04bGo0aGQ0WmNTSzZodUp4RzJYYjVPcTMtdHpxOE9MSjNweW1jUDlXa0JUbGZwMGdxY09GUDRvLWN4NEFrY2htLUFPd0s1clZiSW9YMlRQT0o5MTlrM2lFYzk4VE15NUQwdDZHeGZnVGZhSnpLWl9KZmJsdGtiRkhSckZkRDk3NkJLSUctSUgzV0t0Q1ZFMW41YVpUY29TTl9yNkVXOHcydHhP0gHiAUFVX3lxTE4xN2VGQk9DaGVlYjVMSVM4V3FRNWRJMUZ0UXVqNUxIMjFHS3RvQlBiYlExWHN2WHNUX2NBX29HQkNSajFtTzdEWFprakhtX19pbVpFUlFGUjB4ZmFUaHc5ZHc0bkd5cnhsT3ladlI4MjB5SU0zS0NlNjFISmYxazBUSnlGdU5OZDd0ZmFJLUh5RFAzNzRpWmZWblNDbUdMa0lNd2JDRVJlZ3FWdHFJenRvR3pzbXRiSU9YWWJVRWZRNnRzTld6N21IQ0YtSjNGYXJndXpsd0lnRnN0UUNYcDJTVkE?oc=5",
-      "source": "ABC7 San Francisco",
-      "date": "2025-08-31T17:23:10+00:00",
-      "description": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home  ABC7 San Francisco",
-      "query": "drone incident",
-      "detected_at": "2025-09-02T00:21:41.009759+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f2f9a355d611"
     }
   ],
-  "last_updated": "2025-09-25T13:12:50.813052+00:00",
+  "last_updated": "2025-09-25T14:06:05.227917+00:00",
   "total_count": 1000
 }
