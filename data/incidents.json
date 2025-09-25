@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drones at Danish airports part of ‘systemic’ attack - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFQwQl9LX1d4aGg3VWpXTXdHaTR0VV9UQ3dESWZXbVZuVFBlM3JOcDJoY2RBQXNIQ1F5RWExV25NWS00XzV2MXJkbncxRWRGdlBLTXhBeklQZ2EySkpCODF1WHJabTBjeVJoVmRyMzJyQ2ZRc0wtYTJ4SG82RjdIV0lNSVRPVDdmaDhLMnk2VU9rVW00UlNTZWZqZTRzaXBObUFmeXhQbmhUMDA?oc=5",
+      "source": "The Irish Times",
+      "date": "2025-09-25T14:26:15+00:00",
+      "description": "Drones at Danish airports part of ‘systemic’ attack  The Irish Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T16:06:44.140683+00:00",
+      "location": "at Danish airport",
+      "category": "airport",
+      "id": "960cad5e9a93"
+    },
+    {
+      "title": "Denmark accuses Russia of drone incursion - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QNHlkQlQ3d3QzZnlpTTh3T2czeUlFZFlkSG5sb1FPel9SNzlhRC1NLUdtazNlUzZ0NlZ0WVI5Tjd4Vm9zTHJORFhHWlA2U2hqekM4OXZsWVVYV0c1QkY0?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-25T12:18:50+00:00",
+      "description": "Denmark accuses Russia of drone incursion  The Jerusalem Post",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T16:06:44.140683+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5bc76d641685"
+    },
+    {
+      "title": "Drones disrupt Danish airports again, Russia denies involvement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOENEd2hyQ2ljQkpQZmpZNEp3OG14REM1a0J2NkdraVlXZ3lGVGhPaU9WUkhPRWNFczd3QXJuQkh6V2dnblVNOGwwdkdEMF9GcjM5bkRWd3JTbGJveGM0NkhnbTBsTG5RRVJMWm9vMFY3NHZXcHNRcEtMaXI0SFZmcVlGSjUyVy1EMnhwVm4xeU9FbWduaTg4TGVoemw?oc=5",
+      "source": "Reuters",
+      "date": "2025-09-25T14:50:12+00:00",
+      "description": "Drones disrupt Danish airports again, Russia denies involvement  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-09-25T16:06:41.227590+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a472e72e35d0"
+    },
+    {
       "title": "Romania Finalizes Law Methodology for Unauthorized Drone and Aircraft Airspace Violations - Букви",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjFCXzRST2N1VFhTXy1SU1lYeW9SNGFQVlp6cDgwX1JqRjFHZ2JwSVJiUU9BaXR4WUFfVmlvSTAxeW1fbVVGRmptd2lGeUdKanNEOWJwLU9FUXByYnFOMENqX3JXMjcwZUNJaTNWQVFOOGlsZzFpR1lvOXdnZ0EwTFh2YkZXc3pMY1R0N0RIVVE5RTlKOU5LaEktS3NLZG5qc2xjZDJjNzdhTTNTZHQ2TTB3NEFWTUtGWnc?oc=5",
       "source": "Букви",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "c131fce0cdb3"
-    },
-    {
-      "title": "Maryland Stadium Authority deploying drones for Ravens game traffic - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFljWmRheXVVdjVDbDJ4UEcwQjBsaTFzUzlPblJYemlZd1U1RUozS2VLQUZSZTdnazBISzlaMmFnYW9YY2VieFZfRDVvcGFrZUlpMUtyRXBxY0kxY1Q1S3gwUl83SzhITnJxTnpoaTV3dkNzV3F3VnNHMDltYTF3U2dpZmJCTjg?oc=5",
-      "source": "Baltimore Sun",
-      "date": "2025-09-02T20:12:21+00:00",
-      "description": "Maryland Stadium Authority deploying drones for Ravens game traffic  Baltimore Sun",
-      "query": "unauthorized drone",
-      "detected_at": "2025-09-02T21:04:38.865226+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ae495d0ee6eb"
-    },
-    {
-      "title": "Pakistani Drone-Based Narcotics Module Busted in Kathua; 4 Smugglers Arrested - The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0xjbUFPYmt1bVRXSmJHSThfYTNYaGVIamRaOGZvclB1REVpUlg1N2RfVTdfaUJadDdQWkNWOHBKTEZ3b1JwcmVsVHVoLXNKdkhGSU5vbklfLVpPT1BDblZzMDJWdnBPZG8yN1lIM0FlSmFmOE1sV0RmVmRnODlpd1h0U2RCbElmRkRMVXhsU1NsZGhFT0NCWDlXWEZHcEw3ckNYRGtOc0RETkNSdmxRenloTEd6cGI5YkdMOA?oc=5",
-      "source": "The Sunday Guardian",
-      "date": "2025-09-02T12:13:06+00:00",
-      "description": "Pakistani Drone-Based Narcotics Module Busted in Kathua; 4 Smugglers Arrested  The Sunday Guardian",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-02T19:04:34.263842+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "27b5684be7dd"
-    },
-    {
-      "title": "Miami police officer arrested, accused of firing gun during domestic violence incident - WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLW4wdTUxanlweTFlYm1abklwT1F6RkZ5YzRlalhMbVlqZmgtcUNLbjRpV3BLa1ZWMXFWcmV4OUV5TmpWbElpZ3FQeEw0UXB5WEMyLTF2UVpaNXFBVldwWWxnMWxQQ0pGM2o2MWR5Z3daVF92QVdEQzBoV3JObFZRQ0Vvelk3dkdoTktsTFJzZ3VQOXh6ZlFONDFCLXVlSUZNNDdxOVBFUDJiVnVQX01KNGt2YUNHcTBLM0dIelJCZ212eDNCcWFoSWdJY0s?oc=5",
-      "source": "WPLG Local 10",
-      "date": "2025-09-01T18:37:43+00:00",
-      "description": "Miami police officer arrested, accused of firing gun during domestic violence incident  WPLG Local 10",
-      "query": "drone arrest",
-      "detected_at": "2025-09-02T18:05:55.213775+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c4254719e326"
     }
   ],
-  "last_updated": "2025-09-25T15:06:01.293759+00:00",
+  "last_updated": "2025-09-25T16:06:48.469940+00:00",
   "total_count": 1000
 }
