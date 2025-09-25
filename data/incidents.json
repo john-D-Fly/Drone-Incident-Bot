@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Unidentified drones disrupt flights in Denmark - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk5QamduNUp2WHZ0b3JQeTRBXzRHaTMtSjd4cV9NZHVONS0zNFRuanhoVTVyM0N1aW1qZ21QS25RUXBXX3BEeU16V3RzQ2pGQ0ZfNVUxTW5Tak9fU2tXSGRoLTdkRU5PS2FDczlDd3FIb0lLU1lKclpLZlIwdzczSUJESG1nTzBzQ3lNQ05pYWtyTEZ0U2VlVHRnV1BONnpFdW5HOHZ0QUN3OUhLQUdOMzk1VEVaQjJ1a1kw?oc=5",
+      "source": "TVP World",
+      "date": "2025-09-25T06:11:00+00:00",
+      "description": "Unidentified drones disrupt flights in Denmark  TVP World",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T07:05:53.988121+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "90499825fa26"
+    },
+    {
+      "title": "Drones and hacks disrupt airports across Europe - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Mmo2a1RBVVpCcVkxTGdBenBYak5oTzVpNEJzcVlyam5PTi1ucXpSdHFMRGJBUmFRTXJpT2h5bEVNdjJuVDdaNU5XSUJWM1JaclJqdWpIVENYeUd0X25mdEdIZw?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-09-25T06:33:57+00:00",
+      "description": "Drones and hacks disrupt airports across Europe  The Jerusalem Post",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T07:05:53.988121+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "7c0b5dc54252"
+    },
+    {
+      "title": "Drones and cyber outages exposing aviation weak spots since 2017 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1hvbnF1MVA2cDJlaWxiLUwzeE5FS0lFWUdYVmMwdVdVei1zUHYybXBVMXJnUVBtcDhkRUxaYmo4ZFdLM2xEenNPODRySkp1NTRXd3ZtWURSUHFHZk9YLU1JY201YndZQ05VU1hTYXVxeDh1SXo5WUU3STM2Q2JWSHZQTFBIWFV0WGVqZHVMX1ZGenJINUw2cUJWbDNnY0lnNjNFa2lvUF9NeEZaTjNZMDFWVnAzNTVQTDlsYjlKLWE?oc=5",
+      "source": "Reuters",
+      "date": "2025-09-25T00:35:00+00:00",
+      "description": "Drones and cyber outages exposing aviation weak spots since 2017  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T07:05:53.988121+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f63c55217224"
+    },
+    {
+      "title": "Clovis Police utilize drone to assist in arrest of repeat shoplifter - ABC30 Fresno",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVY5WXJjcTUwLVpmY0t4bnJaaG5nTHNrZTZVTXg2bktJWVNhS2lmWE5iX0dOWmF0VHVDT04xUE5IZFZ5NXdlTE0wQ29YN1hZZ01FQ3RuN19na2tseV9rLUN2aGRyQ1JqN2IweFRyOUt1OUJLdFVqZkxQOFdRaWRZdE9FcVdMZ0ZTYUtIdHQ1dHA1ZzhmeEdJ0gGcAUFVX3lxTE5mWDVYZTQ1TFppVm9DTDlaUWlzdmlReXdIR2hxV1V5bnVEdERoaFp0RFFlalcyRV9kTXdtMEgtY09HVkVxdlVOTmdQMnl2WTcxQ1lWaTg4Nzhud3NWODJkOVlyYXktUlZpUXFreVcycV91dW9nS3Vja2VJYTUtN0IxM0lCd09kZGNjYkNxeGhjb2F5ckJubF9pdXc0bQ?oc=5",
+      "source": "ABC30 Fresno",
+      "date": "2025-09-25T06:45:00+00:00",
+      "description": "Clovis Police utilize drone to assist in arrest of repeat shoplifter  ABC30 Fresno",
+      "query": "drone arrest",
+      "detected_at": "2025-09-25T07:05:52.156933+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "b64123666992"
+    },
+    {
       "title": "Spain and Italy Say They Will Send Warship to Guard Gaza Flotilla - Haaretz",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNGtBUjRBSVFqTkZJaVM3MVhkUmRYblhJQWxCeTBPRFRrc2FPa1ZQczl2VHJ3emZVWHctd1REWnoyY2NxcnNaZENQNllqV1RCWnBiSFc4a0x3WXV4TV9oaEF0elJuMXNJdzJ1RzhUUG1zZGNZMHd4TDVORkdHQzdHS283U3NmR2R6X1AxekgxTW5nY05RTThTSndNVzBxMHBJSmYzV1RrYUxMNkJkZ3lvVzVJQXhJbHptMTBvd2NRTHZWdUdzTzJfSmMxT3FHa3NQRGN5bmtfOWp4c1FtenpWYmVyRGFKLWp6dXZEQ3Q0dnpGR3pSUldF?oc=5",
       "source": "Haaretz",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "e531e7c4e7bf"
-    },
-    {
-      "title": "Spokane standoff ends with arrest, suspect damages drone - NonStop Local KHQ",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2xRRzBrY0ItdGtHSUJ0V3BZOXJudHpqaEZ5cUpuM2tETVFjQnRzbExrbjZEVHJFeEJZanJqUUg1X3RFelhwczM0R0dvUDY3SkhPZzR4UzhoT3V4amJlakhJcnhGdC1BWkJkbHJ0NGlfWTJHTTVJc2xVUEpJWlNOZ3U4ejB6eWxVSnZnUHJVZ0NVRU1SZWNBTUFMM0lyZTlPeDZQVWJ6VlQ3TkZXSEF0M01mMU5CRU1wYWdSR2g2b2dHUzVSQm9xV3Vn?oc=5",
-      "source": "NonStop Local KHQ",
-      "date": "2025-09-01T00:16:00+00:00",
-      "description": "Spokane standoff ends with arrest, suspect damages drone  NonStop Local KHQ",
-      "query": "drone arrest",
-      "detected_at": "2025-09-01T01:34:20.174904+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "2db8500992ae"
-    },
-    {
-      "title": "DOJ: Florida man’s drone flew fentanyl into prisons - WCIA.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNElraHdOeWFaQ0NsU3hNUVBEcGluVEJuRTNBRm5fa0RjLUp6VDJJdEU5TE9TeGo0R3RIbUJ3c3VXaHJmUjR2azZZblBZX3VLZkhjaGdxa3EtSjlVYUpDT19uT1E5R0lKNHZHajdTcl9YdXFCNXB0cjNha25YZ3FQdzJBS0xTX1VpRTliUXFWWlMyNnPSAZMBQVVfeXFMUDRJa2h3TnlhWkNDbFN4TVFQRHBpblRCbkUzQUZuX2tEYy1KelQySXRFOUxPU3hqNEd0SG1Cd3N1V2hyZlI0dms2WW5QWV91S2ZIY2hncWtxLUo5VWFKQ09fbk9ROUdJSjR2R2o3U3JfWHVxQjVwdHIzYWtuWGdxUHcyQUtMU19VaUU5YlFxVlpTMjZz?oc=5",
-      "source": "WCIA.com",
-      "date": "2025-08-31T14:04:27+00:00",
-      "description": "DOJ: Florida man’s drone flew fentanyl into prisons  WCIA.com",
-      "query": "drone prison",
-      "detected_at": "2025-08-31T22:05:07.632233+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b89f0310e6a5"
-    },
-    {
-      "title": "Prisons 'must create virtual forcefield to jam drones before weapons are flown in as easily as Amazon Prime' - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWlBajJSQW0wdjhRSnZ1R1FFdHV0N2tWaC1CaWZNekp2YWFUdjFKbzBoSk9Cdm9WaUpPM1Y3YmNOSTloUGdTbWJhalhNaGFkbEFoaE83MEpGZ0JhVHp6dnU0aXNya0VIOXpXeVg2b0tFLXEzV2ZrLW1TU0ZzMzd0TlFR?oc=5",
-      "source": "The Sun",
-      "date": "2025-08-31T20:58:42+00:00",
-      "description": "Prisons 'must create virtual forcefield to jam drones before weapons are flown in as easily as Amazon Prime'  The Sun",
-      "query": "drone prison",
-      "detected_at": "2025-08-31T21:04:36.547684+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "34de9b8cc4ec"
-    },
-    {
-      "title": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home - ABC7 San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjUwSUpXNkZmbWxncXN5cjlWLThYdG9wQWN1MnQzSXpaeG9pSWE5c1dTZzk0eFRpTG04bGo0aGQ0WmNTSzZodUp4RzJYYjVPcTMtdHpxOE9MSjNweW1jUDlXa0JUbGZwMGdxY09GUDRvLWN4NEFrY2htLUFPd0s1clZiSW9YMlRQT0o5MTlrM2lFYzk4VE15NUQwdDZHeGZnVGZhSnpLWl9KZmJsdGtiRkhSckZkRDk3NkJLSUctSUgzV0t0Q1ZFMW41YVpUY29TTl9yNkVXOHcydHhP0gHiAUFVX3lxTE4xN2VGQk9DaGVlYjVMSVM4V3FRNWRJMUZ0UXVqNUxIMjFHS3RvQlBiYlExWHN2WHNUX2NBX29HQkNSajFtTzdEWFprakhtX19pbVpFUlFGUjB4ZmFUaHc5ZHc0bkd5cnhsT3ladlI4MjB5SU0zS0NlNjFISmYxazBUSnlGdU5OZDd0ZmFJLUh5RFAzNzRpWmZWblNDbUdMa0lNd2JDRVJlZ3FWdHFJenRvR3pzbXRiSU9YWWJVRWZRNnRzTld6N21IQ0YtSjNGYXJndXpsd0lnRnN0UUNYcDJTVkE?oc=5",
-      "source": "ABC7 San Francisco",
-      "date": "2025-08-31T17:37:30+00:00",
-      "description": "Drone crash: 2 injured after large remote-controlled airplane crashes into Watsonville, Santa Cruz County, California home  ABC7 San Francisco",
-      "query": "drone crash",
-      "detected_at": "2025-08-31T20:05:17.515237+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "7b0334235209"
     }
   ],
-  "last_updated": "2025-09-25T06:08:22.428086+00:00",
+  "last_updated": "2025-09-25T07:05:57.793766+00:00",
   "total_count": 1000
 }
