@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Romania Finalizes Law Methodology for Unauthorized Drone and Aircraft Airspace Violations - Букви",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjFCXzRST2N1VFhTXy1SU1lYeW9SNGFQVlp6cDgwX1JqRjFHZ2JwSVJiUU9BaXR4WUFfVmlvSTAxeW1fbVVGRmptd2lGeUdKanNEOWJwLU9FUXByYnFOMENqX3JXMjcwZUNJaTNWQVFOOGlsZzFpR1lvOXdnZ0EwTFh2YkZXc3pMY1R0N0RIVVE5RTlKOU5LaEktS3NLZG5qc2xjZDJjNzdhTTNTZHQ2TTB3NEFWTUtGWnc?oc=5",
+      "source": "Букви",
+      "date": "2025-09-25T14:36:14+00:00",
+      "description": "Romania Finalizes Law Methodology for Unauthorized Drone and Aircraft Airspace Violations  Букви",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-25T15:06:00.446077+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "81ba58b05da7"
+    },
+    {
+      "title": "Denmark Investigates Potential Russia Link After Drone Attacks at Multiple Airports - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTBJZVlTeVdUN1JzcE00S2czZGRKWVBRbHdkN1h2TFM1X1duVHh4YjNZSzRYdnU0eDQ1cmZQbk80cl8yX0pJOU9TV0JrSWN6bE94S3pkMEFEd0ZVcGJZOGFpanJua3lOZV9SVjFSNld0cExwd2JORnIxOXpQYlpWQmVRRHFId2ZIR29lUjBCTXJvV0FsUF9qcjJmb3NnTGZsbUp3NFhMbklQdGVmRlo3YmllVQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2025-09-25T13:08:33+00:00",
+      "description": "Denmark Investigates Potential Russia Link After Drone Attacks at Multiple Airports  Bloomberg.com",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-25T15:06:00.446077+00:00",
+      "location": "at Multiple Airport",
+      "category": "airport",
+      "id": "d907af9bc7c9"
+    },
+    {
+      "title": "IDF Strikes in Yemen After Houthi Drone Attack Wounds 22 in Southern Israel's Eilat - Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOUZoMlNrLVJxaG9IZl9BS0VFeTh6R2VLLWhueVRudkJ1QWhOOHQ5VlJYZ0I0WlpRT3phNWpvUjhHS0hudHQ4Zl9vMGZ6RHljbU5CTzY4N09sYjdEc193QjJxYXIzZnpsNWVkU185WFA1QV9wR3NsaEpKQldXcFAya2J2VWY3Z1YxQWVtYnVjWG5CRzFsNUE4clJfZ3RJejVmeFMzSFVOdVdSN1NzQ1NYRVlBdXR6cEtPUjJNN19OTHZHME9uaTVNRW1pd1dDclBSRVd1MlNuV090c1Q3ekFFMEd6MGdsRm42T3Izd0l1TExsZkZrWHhYS2hXbGFfVVJLSk9mcDR4TW1QZk1HZ2tSc0tOaF8?oc=5",
+      "source": "Haaretz",
+      "date": "2025-09-25T14:35:00+00:00",
+      "description": "IDF Strikes in Yemen After Houthi Drone Attack Wounds 22 in Southern Israel's Eilat  Haaretz",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-25T15:05:59.726996+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "13df5b51003b"
+    },
+    {
+      "title": "IDF says it identified fault that led to Houthi drone crash in Eilat yesterday - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzNNMTZGYzRJUjZwWlpIeFJWdlBBdm1Na3kxOXc3V01UbUNaMjRNLXNVUldVQnhySnE2d2J0WmU2eThOZWdoOXlRMTNkdHFMenhLTlh2aUxQVlY0MG1oSGZUQ2xJNFNlalozQWlVcXBBYUZFLUpXN1NPa0xROHpJMzFlazd4TjQzZXlRZk4tUWFoZjR2MnZzdEpvRmpQVmJxVkpxMDlTMzJNS1RGdU1MeVhQempiNkhyME1pNnZqNHhkUQ?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-09-25T14:45:26+00:00",
+      "description": "IDF says it identified fault that led to Houthi drone crash in Eilat yesterday  The Times of Israel",
+      "query": "drone crash",
+      "detected_at": "2025-09-25T15:05:57.415096+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "39793f3a8ee0"
+    },
+    {
+      "title": "Drones at Danish airports part of ‘systemic’ attack - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFQwQl9LX1d4aGg3VWpXTXdHaTR0VV9UQ3dESWZXbVZuVFBlM3JOcDJoY2RBQXNIQ1F5RWExV25NWS00XzV2MXJkbncxRWRGdlBLTXhBeklQZ2EySkpCODF1WHJabTBjeVJoVmRyMzJyQ2ZRc0wtYTJ4SG82RjdIV0lNSVRPVDdmaDhLMnk2VU9rVW00UlNTZWZqZTRzaXBObUFmeXhQbmhUMDA?oc=5",
+      "source": "The Irish Times",
+      "date": "2025-09-25T14:18:42+00:00",
+      "description": "Drones at Danish airports part of ‘systemic’ attack  The Irish Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T15:05:56.717259+00:00",
+      "location": "at Danish airport",
+      "category": "airport",
+      "id": "6b6ab2cb5b52"
+    },
+    {
+      "title": "Drones disrupt airports in what Danish officials call ‘hybrid attack.’ What happened and how can they be stopped? - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ3RhTW1UWFk5V2p6WE1SM3JwTmdJVldZQUR4dllQczZSb1FReFU5dHBkZmE0U3d5U3NoRTlLNVdKbTlUSE53M3hZSkZOYmlmVEM2alNablM2aVBXbl9KZlN3RXV4Y1hBQ0x3VGd6ZnR5RFVTaktqUXYtemFYYkF3MEtIeWY?oc=5",
+      "source": "CNN",
+      "date": "2025-09-25T15:02:35+00:00",
+      "description": "Drones disrupt airports in what Danish officials call ‘hybrid attack.’ What happened and how can they be stopped?  CNN",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-25T15:05:56.717259+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "78c47a7b1cd2"
+    },
+    {
       "title": "Drone crashes next to Eilat hotel, 48 wounded - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqV0dQVEZPcU0tX3I4dEVSWm1ELVBmc2RXNHRpaUdqX1pta3FEV1V0YzYycVU0M3dudHJzV25mZmxjYVVGUXFkQlg3OTBaQzFwb2NicklYWVIwQi1yd0FWdW9oRy1hMDBtS05xLVV3?oc=5",
       "source": "The Jerusalem Post",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "c4254719e326"
-    },
-    {
-      "title": "Florida man arrested after trying to retrieve drone ‘carrying drugs’ which he crashed into house - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T2JHZ3JHN0prdlRwYjFvaERsSHN4ZHNRU3UydE1fQnV2Q1VLWjJ0b1ozSnd0b093UDJlbWpDXzJTZTJ2UlJBMnQyT1lUYjdFa1dCSU10cnpNSlZSMHAyUElSQ1FCaG0tLVA5emY4R0V1ZHNJWVNOcXZ5aw?oc=5",
-      "source": "AOL.com",
-      "date": "2025-09-02T11:43:01+00:00",
-      "description": "Florida man arrested after trying to retrieve drone ‘carrying drugs’ which he crashed into house  AOL.com",
-      "query": "drone arrest",
-      "detected_at": "2025-09-02T18:05:55.213775+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9b3fc654703c"
-    },
-    {
-      "title": "Coast Guard to get first MQ-9 drones - Army Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekplcDV1REtpWWxWYWVvRGJ0S0JUQi1QbmQxRFFuMEpYMC1NS0hlWmdldGNnMVdmbExkbFpBU0FrMy00aHpheXNrbGp3T1dvX0tzUTFtN0p2TzNEUUsyVXBWNy1leW1xanFLc2NDLTVfM0Qzbk9obUFWa3QwdXJsTUhieFJNZ0pDcl85dVVQeFg4OTM0d0djZ25mWHUwdw?oc=5",
-      "source": "Army Times",
-      "date": "2025-09-02T17:00:00+00:00",
-      "description": "Coast Guard to get first MQ-9 drones  Army Times",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-02T17:04:48.588135+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a597afa2ac2e"
-    },
-    {
-      "title": "New drone footage: Pilot rescued after emergency landing into ocean near Oak Island - ABC11",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0VXd19aOUZtQk9NeDFiZ1RUclpnWkRVaU54VUFVcjNNOGF0U214aWdvb3RZUm82UW5tanJnY3Vlb2xUejh5cHBBeFRUaTJDdDRuT1M0S3lFR1J2c2Z6WmV0MXVHNUhWQkpQS2tUVHJFaFdmS2c4ZkF1UVFyWEt1bjhmMUk3T0tza3oybm56YlN2YTRxVUJZbzFnSFJsN1FReWNJRWdCTFg0YTFr?oc=5",
-      "source": "ABC11",
-      "date": "2025-09-02T14:26:36+00:00",
-      "description": "New drone footage: Pilot rescued after emergency landing into ocean near Oak Island  ABC11",
-      "query": "drone crash",
-      "detected_at": "2025-09-02T15:05:34.045186+00:00",
-      "location": "near Oak Island",
-      "category": "other",
-      "id": "98b5197ea721"
-    },
-    {
-      "title": "Police Bust Pak-Linked Drug Syndicate Smuggling Narcotics Through Drones In J&K - Kashmir Observer",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHE3VU5UakdacjlqcDJRM2hXbF8wZXZvODBZcVVtOFV3a2g5ekJsOHVwdUlSQ0RINjJRcno3cXpENGx2TWo3Y2NISHdqVmR0T2JaWnVyMm9JR3pOcjBXZElqZER3LWZOU0dkZm5JUzNaejMteEdwemtGVFBNR1J4Z0t2STVrdFhtcWU0R3VDRDY2dThKN0ttOWJJdld2b0J5MGpPYjB5dERScjFKS0NrZFFfYkZidEk1cEE?oc=5",
-      "source": "Kashmir Observer",
-      "date": "2025-09-02T13:18:26+00:00",
-      "description": "Police Bust Pak-Linked Drug Syndicate Smuggling Narcotics Through Drones In J&K  Kashmir Observer",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-02T14:05:40.643615+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "bae6a8b7e1bd"
-    },
-    {
-      "title": "Belgian Prisons Are Unleashing Autonomous Guard Drones - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wck1OMFdVV2JYQk9Id1ZNY1dYdVFUTUtXaUtHS1BjUno0NHZZQ0lKTllBcE9fMHJ5OEo1TFlOZl9EOUJQc0R0c0tEaV92eXhGYkJ1dEpUcGNvUXRUX1dCOTJoem5vem5vWWpIbURWdi0zUQ?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-09-02T12:52:15+00:00",
-      "description": "Belgian Prisons Are Unleashing Autonomous Guard Drones  DroneXL.co",
-      "query": "drone prison",
-      "detected_at": "2025-09-02T13:13:16.290923+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7f8ee537cbd3"
-    },
-    {
-      "title": "Russian Strike Drone Enters Ukraine via Belarus - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcDBBd1NHYzAtRHFhWHN1SERQQ1ZOc0NUYVh6RFg2YUNoMkN4dzdVMUcycWQyOUdERHZDQzlYTGh2YTllN0NUc0dQX2NaMlo2VG0zeExZekJiMHhUZmNOVTdlX0FjdHk1cmRndFJkd1N3NHB2Vl84YTRzelFGWnFPcmptUTVxZw?oc=5",
-      "source": "Мілітарний",
-      "date": "2025-09-02T11:04:40+00:00",
-      "description": "Russian Strike Drone Enters Ukraine via Belarus  Мілітарний",
-      "query": "drone crash",
-      "detected_at": "2025-09-02T12:09:29.420872+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c2fe26161ffa"
     }
   ],
-  "last_updated": "2025-09-25T14:06:05.227917+00:00",
+  "last_updated": "2025-09-25T15:06:01.293759+00:00",
   "total_count": 1000
 }
