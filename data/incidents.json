@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Pakistan, Russia conduct counter-terror exercise focusing on drone warfare - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82UERzX2YyUzFxR01IMy1LbkVNZ2d1N3VCb1VjVEdQSnpmVk5YZEtFNGhmMGRkcHpsVDBjbktNUmFDR0p5UUJDZWZZRzNhakZuaW5ENmNRVUc?oc=5",
+      "source": "Arab News PK",
+      "date": "2025-09-26T14:15:04+00:00",
+      "description": "Pakistan, Russia conduct counter-terror exercise focusing on drone warfare  Arab News PK",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-26T15:05:49.911914+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "bf168808ac9d"
+    },
+    {
+      "title": "Dozens of flights cancelled at major airport after drone sightings - NationalWorld",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ2lYLUY1Wkp6bzM4blhkc2I5eDUyd2FTaUpwT3h2Nl9saUxMOUR3bngzWklCaWtjbGJ6MlJBMTFCbDBuOXZBN2x5TWJLWlIyNlJBbWxhWnRRbG1iZm5PelNic1FRZkhxWThOeVg1eDhmTWg5SDNKVmFpT2h2ZkRram1QR2RMRFlyWDFrYUk2LWVOYXhhUUdqbmQzQm9tZThxeXplSmMtbFJNdTF1QmduRks3OXR0SXd2WFdQVzU0MG1SSHpHdTk5dVJpbkI4eHFfS1JFSnRtdmRpc1pa?oc=5",
+      "source": "NationalWorld",
+      "date": "2025-09-26T14:34:56+00:00",
+      "description": "Dozens of flights cancelled at major airport after drone sightings  NationalWorld",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-26T15:05:47.283578+00:00",
+      "location": "at major airport",
+      "category": "airport",
+      "id": "20229b169d40"
+    },
+    {
       "title": "Singaporean couple risk deportation after suspected illegal flying of drone over Oslo: Norway - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc19ab0dJMzNMb0dSYjZVSFNHUjVoRlJKNnM2UUozSVF2Vm45R0NGNDJfdHd2NXV5dWlpTUJqRXRFOHBnTUdjWG9qNjFKVFBSbGJzcnhXV1NqbHNnU0FmUDRKZDRxQjcydi11N0haZjlMLWVPVU5ST0IxTGhWRGxLQzZkZHg3d0xnWEV2Y2JsM192MVBZX0JDOTJ1T29Yb2hNc2RDTGFSVTctT285WkE?oc=5",
       "source": "The Straits Times",
@@ -11975,32 +11999,8 @@
       "location": "In OC, St",
       "category": "other",
       "id": "16599fb5e669"
-    },
-    {
-      "title": "Explosive drone plot to assassinate Itamar Ben-Gvir exposed - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xajJ2dGdqTkVESkVZRWp5OHJQQ2NFaktVTDJjN1hUWUVycjJMLXRqQjB5N1UxS0IwdEUxWHY3TXQxeDQ1SldzUWZiOVg5TWxxanZkN3ZSYkt5cmhf?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-09-04T14:40:31+00:00",
-      "description": "Explosive drone plot to assassinate Itamar Ben-Gvir exposed  The Jerusalem Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-04T19:04:45.612411+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "663ba09b741c"
-    },
-    {
-      "title": "Drone footage shows wreckage of Lisbon's funicular crash - PressTV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFdnVXlnd2h6UUJVMDEtWnh3VTQyemhXeC1RVTdjN3p3dEFpdjVfYkdCOE5USmd4NnpkN0hRcGZvNW1aNmdyS3FpX2xlMFRELUxqclJSMTNTd21sdjBjYzdvRlZTTUlrQWdXQXZjSWkxR0ZwNHptV0Fzb01TNWtyUW9BNVR6QXcyX1E2SDMwN3o1bTF4Q0I5SHZTVTAyX25vZ05jRWZodw?oc=5",
-      "source": "PressTV",
-      "date": "2025-09-04T18:19:00+00:00",
-      "description": "Drone footage shows wreckage of Lisbon's funicular crash  PressTV",
-      "query": "drone crash",
-      "detected_at": "2025-09-04T19:04:43.444553+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "272cea2530a3"
     }
   ],
-  "last_updated": "2025-09-26T13:11:42.870805+00:00",
+  "last_updated": "2025-09-26T15:05:51.034934+00:00",
   "total_count": 1000
 }
