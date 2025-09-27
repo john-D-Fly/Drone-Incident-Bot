@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant spike in drone-related incidents has been reported across various locations, especially in Denmark, where numerous drone sightings have led to major airport disruptions, describing these as parts of a 'systemic' or 'hybrid' attack. Authorities speculate organized action, with drone activity noted near military installations and civilian areas alike. Additionally, NATO countries are on alert after drone sightings near significant military bases in response to escalating tensions related to the Israel-Houthi conflicts, including direct drone strikes in Israel. Notably, incidents of unauthorized drone use for smuggling and arms violations at prisons were also highlighted in multiple reports. The growing public and governmental responses signal an urgent need for more robust drone regulation and security measures.",
+  "totals": {
+    "airport": 13,
+    "unauthorized drone": 4,
+    "interference": 1,
+    "crash": 7,
+    "smuggling": 4,
+    "terrorism": 6,
+    "arrest": 8,
+    "other": 10,
+    "total_incidents": 98,
+    "by_category": {
+      "airport": 28,
+      "arrest": 11,
+      "crash": 8,
+      "interference": 1,
+      "other": 35,
+      "security": 3,
+      "smuggling": 8,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 26,
+      "drone arrest": 16,
+      "drone crash": 9,
+      "drone illegal": 3,
+      "drone incident": 8,
+      "drone prison": 8,
+      "drone security breach": 2,
+      "drone smuggling": 7,
+      "drone terrorism": 15,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Danish airport disruptions",
+      "rationale": "Significant occurrences of drone activity disrupting operations at Danish airports suggest coordinated efforts targeting aviation.",
+      "incident_ids": [
+        "c4a6c281b23e",
+        "bc2763ae1d78",
+        "e597ff81b1c0",
+        "6d9a3b233e73",
+        "57b1abec908a",
+        "01f7ca3e45d8",
+        "68e1cd0c351a",
+        "fca8d68429fb"
+      ]
+    },
+    {
+      "topic": "Drone smuggling and unauthorized use",
+      "rationale": "Repeated reports of drones being used for unauthorized prison drops and smuggling activities indicate a trend toward insecurity and the need for crackdown.",
+      "incident_ids": [
+        "ff3d66bd37f7",
+        "0e5635b8b517",
+        "c92a4487134d",
+        "1b9bd52daff2"
+      ]
+    },
+    {
+      "topic": "Israel-Houthi drone conflict",
+      "rationale": "Increasing tensions reflected through drone strikes and retaliatory actions hint at a broader geopolitical escalation involving drone warfare.",
+      "incident_ids": [
+        "91d9ffc98b4f",
+        "1a8f516febcf",
+        "2a901154cfd1",
+        "3b34617a6d4d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b94dab6841a0",
+      "headline": "Drones seen over Danish military bases in latest air disruption",
+      "one_sentence": "Drones have been spotted disrupting operations over Danish military installations.",
+      "risk_tags": [
+        "interference",
+        "security"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5896bcf15480",
+      "headline": "Rheinland-Pfalz police see rise in drone activity",
+      "one_sentence": "Authorities report an upsurge in unauthorized drone operations in Rheinland-Pfalz.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "e5b72cf0d689",
+      "headline": "NATO country reports drones over largest military base after airport attack",
+      "one_sentence": "An alarming report shows drone activity over NATO military bases amidst airport disruptions in Europe.",
+      "risk_tags": [
+        "military",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4d940aad8f9b",
+      "headline": "Drone Disruptions Delay Flights at Vilnius Airport Amid Stricter Regulations",
+      "one_sentence": "Flight operations were significantly hampered at Vilnius Airport due to drone disruptions and upcoming regulatory changes.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Lithuania"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f1737ffc7a71",
+      "headline": "Drone helps locate missing dog after car crash",
+      "one_sentence": "A drone assisted rescue personnel in finding a missing dog following a car accident.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "11a87a2255ab",
+      "headline": "Inmates sentenced after drone used to smuggle phones into prison",
+      "one_sentence": "Inmates were sentenced following a case involving a drone used for smuggling cell phones into a correctional facility.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge in Denmark, prompting urgent security responses as military and airport operations face disruptions. #DroneSecurity",
+    "linkedin": "Recent drone incidents in Denmark underscore increasing security challenges, with military and airport operations severely disrupted."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-27"
+}
