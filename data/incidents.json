@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Rheinland-Pfalz police see rise in drone activity - Stars and Stripes",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQms4QVJuRmFIVGd5SEMwNlFyR3RzVEtuV1RtZ09QY1RHaDNpZGZWdlpPLVBqSTZpYmgxMEgzai0xaElRUFYzNlQtaE9oR2lVdlhTeUx2QVhJZ21TbzYzSEVaNFp2dzczOG5rc282MzJYUUk4Qzl0NTR0all6aUpMd3FTSWs0Q0g1T2hhd2d3WVZqYURlVnZ5Q2R3QQ?oc=5",
+      "source": "Stars and Stripes",
+      "date": "2025-09-26T14:41:03+00:00",
+      "description": "Rheinland-Pfalz police see rise in drone activity  Stars and Stripes",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-27T12:08:06.481581+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5896bcf15480"
+    },
+    {
+      "title": "Drones seen over Danish military bases in latest air disruption - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNEo2VEg1ODRpZi1CalJjR0RsZHpERVVkMGhUSlkxNURtOFNjb09oN1NHUzZkSV93Y0VHUy1JT0lJbzlXeHViZmRwZ2RySTM3TE9mTFR5aGFnZ9IBX0FVX3lxTE5rU3RDd1dBMmVocmNrOEVKUDc1RnY2ZU5LamdqaGFwUGhES29WWkw2bVlyT0hSOG5VMGlkRzBSVGhoS3hSd0FGQ3YwQTBKRXZfbDRwR0Y4cThuOS1CbjVv?oc=5",
+      "source": "BBC",
+      "date": "2025-09-27T10:59:15+00:00",
+      "description": "Drones seen over Danish military bases in latest air disruption  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2025-09-27T12:08:03.343496+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "b94dab6841a0"
+    },
+    {
       "title": "Eyes in the sky: Drone helps find dog after car crash - Watertown Daily Times",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRzFxSnEyWlhadXR4OWxyOHA2TzRiaThWYi1qdnNJckVVMGoxb0JGUjBvZGo2UlJGNy0wSm1lSExUVnZqYkx0OWJqdGNsS3FndXVpcjdLdEFJdVJ4WU9zUGlRVG44V1JwVHRWQVZvbG56NmRlS3lZVjVxa0l2R3ZMTFNhVGtUX3JUb1FGVnNZUTRIVl9NNnRJc2JXVEM4ZGdKbnFvbWxocjUtLS1hdGxSU3U5QkV4Nk9ibWUtT2hUZl95bjBEMFFzN1JFRGdhT24wWGdGSk9kZ2xlQQ?oc=5",
       "source": "Watertown Daily Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "f2b39f8eb543"
-    },
-    {
-      "title": "Mali Takes Algeria to International Court Over Downed Drone Incident - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUE1tZ3YyWEV0Yl9OZkVRTjBjREhkYkswTnFZejVSQlRsQXBhWnB4ejJwZk41ZGczNGdzeWsxNHFNMVhDX3pwVE5ncFloVWRtSmRrZklPNVgyMXVsbTdfMjVEb1Y5YVdfREkxQi0zTk0yZ1ZDQUVXMVpGdmg4YTdmekFveEVITF92Zkg3SHZQTkhCVTFyU09JTkxKY25oRGI5b3BkdkFlek9va1FDN2RNUUlpOEo2MmpJ?oc=5",
-      "source": "Morocco World News",
-      "date": "2025-09-05T11:26:16+00:00",
-      "description": "Mali Takes Algeria to International Court Over Downed Drone Incident  Morocco World News",
-      "query": "drone incident",
-      "detected_at": "2025-09-05T12:08:39.476084+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e270e3f2bcbe"
-    },
-    {
-      "title": "Mali files ICJ complaint against Algeria over drone incident in Kidal region - Yabiladi.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXN2b0FFODg2VUNQQUQ2STZ0aV9Pdy1yMmlWcFFFdzcyd19SUlZvZngyMzBQVTNVbGFvbXA0R0p6M05YUUdYNnBZeDRjcE15TTBPMXpwazdpLTFGRVZvRXNoMlB2bHJzSnRUSW15TWZ6U3FNd1RXRTZHdm5xSWgwWGs5aVZiOWJVekhxaGhVWFd5bFk?oc=5",
-      "source": "Yabiladi.com",
-      "date": "2025-09-05T08:22:10+00:00",
-      "description": "Mali files ICJ complaint against Algeria over drone incident in Kidal region  Yabiladi.com",
-      "query": "drone incident",
-      "detected_at": "2025-09-05T09:05:55.360141+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "99591362cf02"
     }
   ],
-  "last_updated": "2025-09-27T11:04:36.629211+00:00",
+  "last_updated": "2025-09-27T12:08:07.029528+00:00",
   "total_count": 1000
 }
