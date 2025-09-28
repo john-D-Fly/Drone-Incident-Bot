@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ONVA4Z1A1SlNjY0tvUFRsN29yeHBuRmxwQUxrVkd6ME9RM0I3UmRhMG1NWG4zLWF5VE5sU3ZGZEJqVGFkR3ZVZG9VdHVKYmJaVGg4MUc1elBqZ9IBX0FVX3lxTE1SYWZjYWRWX2xNMjkzM3o5anJwN0Y4ZnVjaTdRU19fNXVXckpZdzB6X3NNaHYyM3NnS3pXVnJOSm03Y3UtdFJCWE1CLXRuUXMwMFlLcllLbHFLdmhaNXIw?oc=5",
+      "source": "BBC",
+      "date": "2025-09-28T11:46:41+00:00",
+      "description": "Zelensky condemns 'vile' Russian strikes lasting 12 hours  BBC",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-28T14:04:41.556350+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8a22851aaf42"
+    },
+    {
+      "title": "IDF says it foiled attempt to smuggle weapons into Israel from Egypt via drone - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjdORlYtWllIYXdHemlLdEJSMXlqSlFOUnAxZlItTzBDd3djeFVFczNEb2Z3djdfMzR0Wm5uV2k0em5sVzNZcFZLRGo5RVZ6TVh3cDhRNFREQzZaLUJzM2ZGQ1VlcC14QmRpbmJ4ZU9XdnBFT0VhZmduZHJPQ0dMYUEzY3lFUnB4Zy1fYlBXbHNGMjFRTEFERHVlaEplZXh2azBvbXQ5VnNkS3lqY09fTU40SDN5aFpVY3phLTA4cjFBdw?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-09-28T13:43:54+00:00",
+      "description": "IDF says it foiled attempt to smuggle weapons into Israel from Egypt via drone  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-09-28T14:04:37.805301+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "dc00916a1990"
+    },
+    {
       "title": "Ukraine hit by hundreds of Russian strikes – video - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFNXeGs5eU5PcERlNHRVcWdDUWVXOFNSc19YQjN0c1pkUEdKMm5XRUNLUDh5cUk1MUt6LVIyeHhyQlBUQngxZTVMcEhpLXJ6M2ZTZkxqY3cyS0JqOFJDcGxuRWktbl9jRVVKLUh5MlFBaWxIUlV6U2sxUGRNcGcxT3hhUkpjMk5SLS1TaldwcUdhdk9mY3pMZkNiWmlBSzNtYlE?oc=5",
       "source": "The Guardian",
@@ -11975,32 +11999,8 @@
       "location": "in eastern Poland, mi",
       "category": "smuggling",
       "id": "3ba63f770308"
-    },
-    {
-      "title": "Experts Warn Of ‘Jihadist PMCs’ Fanning Flames Of Conflict - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlA2NzRMVW5xX2FGbVBkQ2V0bzd6TEJVVG9XZ3E0ZE9hVVhsdXdzSXZ3enNqYk4wVUxURC1wcFFtWWJ1b21oMUM1WEt1aE9rUTQzM3VRVGhBTWctZ3FnUTJ2b0liSVgwQzdfQUxaaGFzMVhnSXlPTTlpMUVMcUJwdnNnaWYtOFFSN3VqZTBoT0JXdjlwNDcyMTRNSno?oc=5",
-      "source": "Eurasia Review",
-      "date": "2025-09-07T00:00:50+00:00",
-      "description": "Experts Warn Of ‘Jihadist PMCs’ Fanning Flames Of Conflict  Eurasia Review",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-07T00:23:17.045343+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9e3f715fcb5c"
-    },
-    {
-      "title": "Unidentified object falls in eastern Poland - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ic0xKaDF1MXF3bEdKaG9ZV3dHVDl0SXlobE5VTWJfVmxTRW9haklMR1JJU2JxVlg2N3FHX1VGY2RRTDBiV2FJV0t5V3FtVWh1Q2pvT2MxeVA5OHBKUzFpT3A0b0tOT2U4M1lGX1VEMW9URnJMdGV3M3FJT3JUQQ?oc=5",
-      "source": "TVP World",
-      "date": "2025-09-06T19:18:45+00:00",
-      "description": "Unidentified object falls in eastern Poland  TVP World",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-06T23:04:35.028840+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9144785ee443"
     }
   ],
-  "last_updated": "2025-09-28T13:08:11.487286+00:00",
+  "last_updated": "2025-09-28T14:04:42.831486+00:00",
   "total_count": 1000
 }
