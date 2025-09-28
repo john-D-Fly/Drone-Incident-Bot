@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Large Drone Crash on Las Positas? - edhat",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzb2VJSzNnRkhPTnZ3aC1Lb20ta3VBUVB4YkMwUW9MVTJiYVhRVWdLVGxMZHNnNDdYaUtzT3dLRy1LYXFvTGZPblJpQTdPMGdpUmdkNm4wZGFxLWdUVWtkejZqV2UxYjBCTnBwMA?oc=5",
+      "source": "edhat",
+      "date": "2025-09-28T20:39:15+00:00",
+      "description": "Large Drone Crash on Las Positas?  edhat",
+      "query": "drone crash",
+      "detected_at": "2025-09-28T21:04:49.811286+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2c04f8761415"
+    },
+    {
       "title": "IDF says it foiled attempt to smuggle weapons into Israel from Egypt via drone - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjdORlYtWllIYXdHemlLdEJSMXlqSlFOUnAxZlItTzBDd3djeFVFczNEb2Z3djdfMzR0Wm5uV2k0em5sVzNZcFZLRGo5RVZ6TVh3cDhRNFREQzZaLUJzM2ZGQ1VlcC14QmRpbmJ4ZU9XdnBFT0VhZmduZHJPQ0dMYUEzY3lFUnB4Zy1fYlBXbHNGMjFRTEFERHVlaEplZXh2azBvbXQ5VnNkS3lqY09fTU40SDN5aFpVY3phLTA4cjFBdw?oc=5",
       "source": "The Times of Israel",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "60231c2e53d0"
-    },
-    {
-      "title": "Israel says drone launched from Yemen struck arrivals hall at Ramon airport - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3VSUzFIT0tfVUJGVFNGdmFCZzhGc1MxeVJmMWVTX0Ztdk45X05ZNjU2V3NRYlZaTm9PbjBBMlp2UVVQRXE3Rm5YcXR2NkF1X0hNOVRoVTNZQWFLSkF3S0JPSXNnQndoYWpuUl9oY042Nll6NkFTQ1NtREdOdVlyd2Z0TnRsYnUwQ1B5Szk3YmV0LWdCdXJ4YXdTOVFHYmE0amVlLVZid0xNYUEybTk4QU5ORUluOGhEdGZqMHYtMk1XeXVDTEHSAcsBQVVfeXFMTWZwYWFYblQ2TVgzM3pRTjgxNnEyZXZDcjhiVWhzRl9vX3BvN01mRHliR1JVMWN2OXVSSmItMmpDeC1GLTc4bWZIMWJCNVR3MHNra0lmQjlSeWNpZkpFeHNmZDdGN3hWU3FJaGxuZ1plUm5iRUxCOXNhVnNDSmotdTNTRzRrRkRyb1dzOXhKb3lUOFRPNVBXWG5kU1JPc3pDY2hkanYxM0UzUG8wUzgtai1aYmJYUlc3MnlTQWZ3eEpHaEQ0NkN1bWlDZ1E?oc=5",
-      "source": "Al Arabiya English",
-      "date": "2025-09-07T12:53:55+00:00",
-      "description": "Israel says drone launched from Yemen struck arrivals hall at Ramon airport  Al Arabiya English",
-      "query": "drone incident",
-      "detected_at": "2025-09-07T13:07:39.389500+00:00",
-      "location": "at Ramon airport",
-      "category": "airport",
-      "id": "759f69afec77"
     }
   ],
-  "last_updated": "2025-09-28T20:05:31.402635+00:00",
+  "last_updated": "2025-09-28T21:04:52.964151+00:00",
   "total_count": 1000
 }
