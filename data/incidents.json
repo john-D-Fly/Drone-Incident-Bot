@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war latest: Huge Russian drone and missile attack on Kyiv 'kills at least four people' - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkNjeHRzWXBKOEp2Yld2T2FpMDJRQmhoZUxOUVNkcGVGS1pzUUs3X1ZMMGtDdkZMRzlXV3ZoWHhRUDhpQ29veF9CSTlJdEQ4SVV5SDlQM09uaTZidC0waHFIY0k2RnJiX0JGcVc4TkEzQVpWa2tnbVNrX09BT1oxd3pSajVUUGNnVk9oV1ZsdFhjdWFQVWpMSmZSeGl5NEIta3RTZHpRT1FjcUVPSEh1Z09jUm0ydw?oc=5",
+      "source": "Sky News",
+      "date": "2025-09-28T16:47:40+00:00",
+      "description": "Ukraine war latest: Huge Russian drone and missile attack on Kyiv 'kills at least four people'  Sky News",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-28T18:06:27.636881+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d7aa6bd3bb16"
+    },
+    {
+      "title": "Russian strikes kill 4 in Ukraine as Zelenskyy urges world not to \"turn a blind eye\" - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2ZDYjlacEwzVl9vNzh3ZC1VWjF3R0h3ckZOOHVNWmplS3I2WlVEbTVGMGthQ1NpTFdXMWJ2c0MwVzZXcXFmcTVkbUJIRkRzZFY2YmpBVTUxeU5Hb3NpZXVoVWowMHdraWRkVUZ2U0p2SEhPSEQzR3VJX1c4TFBXNE44bGc?oc=5",
+      "source": "NPR",
+      "date": "2025-09-28T08:52:23+00:00",
+      "description": "Russian strikes kill 4 in Ukraine as Zelenskyy urges world not to \"turn a blind eye\"  NPR",
+      "query": "drone terrorism",
+      "detected_at": "2025-09-28T18:06:27.636881+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "72db00b3f74e"
+    },
+    {
+      "title": "Denmark bans drone flights after latest drone sightings at military bases - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRGdDFfUlpKbDBvMEtLaVJtVEZkdnotN21ydlpwTEJkTU1TOF9pcXRaOVdWTjE1VElrT2JfcWhWdlQ5aERPa3hMZ0JLeG1EeHFPWXNZcmZnclZNYXg4NDNvRHFqejJHNWFJck1KVFNZWWdFTGJBWTZVSUdrMG1RbjlRWnR3bUJ0T0dWV09ud2RaeWM0eWNpMHF4N0NqeTlKeEFXa25qVmg2ZDgyaUY4TjdhSVLSAboBQVVfeXFMTnhLc2d6S2tnd2QtNXFOSlRrV3VkR0swbTJVVlpYNURhdWExNXMydnFCYkdQWXN5czRyTW1Wb3QzRmw2SmVJZEVvY3pWR0JHYy1WVXdxYVdkLVlqWC1DTTVWVlZ0SzNwdTJDZEpFeVg4OHZhcDV2bDFXQ3ZWZWNHY21kUjczLVRCZFdQTGFYQnBublpiMkJuREg4MTVSSkRKQUc3OVE4NnBJMFQtRGppLURnMFdscTZKcjBB?oc=5",
+      "source": "Al Jazeera",
+      "date": "2025-09-28T15:10:51+00:00",
+      "description": "Denmark bans drone flights after latest drone sightings at military bases  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2025-09-28T18:06:22.184252+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "38d7daaeeb2f"
+    },
+    {
       "title": "IDF says it foiled attempt to smuggle weapons into Israel from Egypt via drone - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjdORlYtWllIYXdHemlLdEJSMXlqSlFOUnAxZlItTzBDd3djeFVFczNEb2Z3djdfMzR0Wm5uV2k0em5sVzNZcFZLRGo5RVZ6TVh3cDhRNFREQzZaLUJzM2ZGQ1VlcC14QmRpbmJ4ZU9XdnBFT0VhZmduZHJPQ0dMYUEzY3lFUnB4Zy1fYlBXbHNGMjFRTEFERHVlaEplZXh2azBvbXQ5VnNkS3lqY09fTU40SDN5aFpVY3phLTA4cjFBdw?oc=5",
       "source": "The Times of Israel",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "e9a3bcc9d8aa"
-    },
-    {
-      "title": "IDF Investigates Drone Incident at Ramon Airport; Flights Suspended, One Person Lightly Injured - The Media Line",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTS0xckduX1JLZFhsRlIxamo0V3gxRGQySURfWDN0OVhkbEhhV0kwck9WQk0wSkl3V0g3UEVuMF9EaEJCN2RjTXR0V2pjcVNqeTdsd2pzMjdnUFpkTE5XRUdfakVqRkdyZzNxd3Bkbjc2RHpMSzg3OTFDWFo3TlNPdklPYUNIQjBEYUx4cTNMRjg1UDlhRm9oNGExTF9fdWRkMEZUNFVISHhsdEY3YTZUcU1PbTEzUmoweVRqUE9tWG4wLUZqOTlMUg?oc=5",
-      "source": "The Media Line",
-      "date": "2025-09-07T12:19:01+00:00",
-      "description": "IDF Investigates Drone Incident at Ramon Airport; Flights Suspended, One Person Lightly Injured  The Media Line",
-      "query": "drone incident",
-      "detected_at": "2025-09-07T13:07:39.389500+00:00",
-      "location": "at Ramon Airport",
-      "category": "airport",
-      "id": "2a41c5435301"
-    },
-    {
-      "title": "Russian “Herbera” Drone Reportedly Crashes in Poland, Authorities Claim It Was “Not Military” - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1daZGc2azJOMU5hMmxzaHVZR0Rtc19rekExZ0w2ZHpEVnk3SlRhMXZwLWdGZTdXbE5xdDYwRlg5ZkdjRUI5MzJkTHdaeXp3dm55SS0wVnRwcjlSel9XRGxteWdpMW9NZzFkQUFSb1pwNUlJWFVOWGdOaXROdnU0OW1wdm9GZzJNTDlEelc3T0dUUEttaTlzWUZLcXpScjhaTjFUMGwycnZRUnVmeXJzUjIzcVZRamNsWDd2SURraXpWWk9CRjZtbUFlOTY?oc=5",
-      "source": "UNITED24 Media",
-      "date": "2025-09-07T11:18:34+00:00",
-      "description": "Russian “Herbera” Drone Reportedly Crashes in Poland, Authorities Claim It Was “Not Military”  UNITED24 Media",
-      "query": "drone crash",
-      "detected_at": "2025-09-07T12:07:50.031957+00:00",
-      "location": "in Poland, Au",
-      "category": "crash",
-      "id": "6ba7dba1c2a8"
-    },
-    {
-      "title": "Russia and Ukraine trade massive drone strikes on night of chaos - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTdRYVRJTkRpcVNCUUJ1UEJvNW9keTFaZmNsRFRvTENmT2hrSGViSE5JaGJfU19UVkJlLVAyMDhLcUNQc2hDQ0xjSWhEWWVYdzl6Zm9KZ3I4VlU0aHRSSHY3NkFGMDhpU3h3S2MtLUI0Q2dXM0pQSkNfVExLbDhkb1ZwYW9pczRJR3NtYkNwX2xVNjQ2ckxteHFkX1BJaG0zZERZUDdDV3JJZWExNU5IZU85dHNVU0piU2d1OQ?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2025-09-07T07:13:00+00:00",
-      "description": "Russia and Ukraine trade massive drone strikes on night of chaos  thenationalnews.com",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-07T08:05:57.983758+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "985de653471b"
     }
   ],
-  "last_updated": "2025-09-28T17:05:00.149066+00:00",
+  "last_updated": "2025-09-28T18:06:29.116149+00:00",
   "total_count": 1000
 }
