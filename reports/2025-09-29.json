@@ -1,0 +1,126 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a notable surge in drone-related incidents, particularly involving smuggling and security breaches. In Australia, multiple individuals have been arrested for attempting to drop contraband into prisons using drones. In Denmark, military security has been heightened due to unauthorized drone sightings near military installations, prompting a temporary ban on civilian drone flights. Furthermore, Russia's continued drone attacks on Ukraine have resulted in fatalities, highlighting ongoing geopolitical tensions. This period also saw governments respond to the evolving drone threat landscape with calls for policy adjustments and increased security measures. The incidents exhibit a concerning trend involving the intersection of drones with smuggling, security, and warfare.",
+  "totals": {
+    "smuggling": 8,
+    "airport": 5,
+    "other": 10,
+    "crash": 4,
+    "terrorism": 6,
+    "security": 1,
+    "total_incidents": 67,
+    "by_category": {
+      "airport": 11,
+      "crash": 5,
+      "interference": 2,
+      "other": 32,
+      "security": 1,
+      "smuggling": 15,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 12,
+      "drone arrest": 1,
+      "drone crash": 7,
+      "drone illegal": 4,
+      "drone incident": 9,
+      "drone prison": 5,
+      "drone smuggling": 11,
+      "drone terrorism": 15,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "prison smuggling",
+      "rationale": "Multiple incidents involve attempted drug drops into prisons.",
+      "incident_ids": [
+        "802f3d870f44",
+        "03ca37342ab4",
+        "e20748416775",
+        "42c4282eaa4f",
+        "579faf104536",
+        "b9d625727636",
+        "cd0cf07d732c"
+      ]
+    },
+    {
+      "topic": "airport disruptions",
+      "rationale": "Several incidents disrupted airport operations due to unauthorized drones.",
+      "incident_ids": [
+        "208ed10369df",
+        "46984820541b",
+        "dcb9433eda9c",
+        "f9db71880910",
+        "m1ccbbb124227"
+      ]
+    },
+    {
+      "topic": "drone terrorism and military incidents",
+      "rationale": "Drone attacks reported in the context of warfare, especially involving Russia and Ukraine.",
+      "incident_ids": [
+        "1cdc5c7b26b6",
+        "a39a3fe8605f",
+        "8d0698ff5bae",
+        "a5c64fefe48c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "802f3d870f44",
+      "headline": "Young father caught allegedly flying drone into Canberra prison to drop drugs",
+      "one_sentence": "A father was arrested for using a drone to smuggle drugs into a Canberra prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "705010c1fba7",
+      "headline": "Drugs, drone, and contraband seized in MSP raid",
+      "one_sentence": "Authorities seized drugs and contraband alongside a drone in a recent raid.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "246a3238c17f",
+      "headline": "Sweden Sends Anti-Drone Systems and Radars to Denmark Amid Growing Airport Drone Threat",
+      "one_sentence": "Sweden is enhancing security measures in Denmark due to increasing drone threats at airports.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dcb9433eda9c",
+      "headline": "Drone sighting halts landings at Bucharest's main airport",
+      "one_sentence": "Landings at Bucharest airport were temporarily halted due to a drone sighting.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "1cdc5c7b26b6",
+      "headline": "Russian strikes kill 4 in Ukraine as Zelenskyy urges world not to 'turn a blind eye'",
+      "one_sentence": "Russian drone and missile strikes in Ukraine have resulted in multiple casualties.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    }
+  ],
+  "draft_social": {
+    "tweet": "A surge in drone incidents over 48 hours highlights smuggling efforts, airport disruptions, and ongoing geopolitical tensions.",
+    "linkedin": "Recent drone-related activities reflect escalating challenges with smuggling, airport security breaches, and military confrontations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-09-29"
+}
