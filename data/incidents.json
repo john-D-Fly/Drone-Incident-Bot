@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Charges after attempted smuggling via drone - ACT Policing",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzlZRW9laFpJbFdZSVVjdTRiS2VaQ3hVVllyTnBSNTEzTDVDTnBZdF9KZUM1ZkZsc3ZIcjZ2V3hxa3VmTzRSc3NXR05UN21Kck84aGR3TmZkcjEtWXUyQmJQWm44T2dMQXNjYnRxRnNqNUVqTEVNVXlqUEpnODNnMmE0REpkbFB1WFBEUzBweGJPU3RJN0MyNXhDeGxDV2ZpbXJPSHZHQQ?oc=5",
+      "source": "ACT Policing",
+      "date": "2025-09-29T00:52:51+00:00",
+      "description": "Charges after attempted smuggling via drone  ACT Policing",
+      "query": "drone smuggling",
+      "detected_at": "2025-09-29T01:33:28.199472+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "cd0cf07d732c"
+    },
+    {
+      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSUd3U1huWU1Rc1UxVDN1SzRKc21fMDhHWER6OG5FeXhHbVBib05qQ2tHZXduVUZ6MDkxQy1yTm1KaGFNdDBiNmVhSTBjWEtlZGVjUUtsU2gtTEtaTFpSMXhlS1pYMGQwZ0NMQ0dyV3M2cGhBQzJmbEd3U3JKa29YanlJZVFBOTFVVmxxNUlLNE5pOVdkN2JVNk12ODRMampWaXNVdjB4Vm54QXpEbFRGel84WERCWUY5UEJsQmVHek1hMW0yc3M5ZWctVi1od2dHdTRnTmFOcVp3bG1IYUs1aVhWWUFFdVl2aG5qTWdBSTE3dGl3OUU3Z2xVYTVPVHNkbFRaeVYxZmV5YlhmYUwyUGg4UUFzQUh0WDhBbkFkWVpfWUhaS2pDVGNTV19aNTNORG1WLTdQTGZIcElOM1pn?oc=5",
+      "source": "MSN",
+      "date": "2025-09-28T23:18:11+00:00",
+      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  MSN",
+      "query": "drone incident",
+      "detected_at": "2025-09-29T01:33:26.821791+00:00",
+      "location": "at Copenhagen Airport",
+      "category": "airport",
+      "id": "9867a7da7e0d"
+    },
+    {
       "title": "Drones, heroin seized by BSF troops in border villages - Tribune India",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVE5SGN6MkVOd3NYTlZ2VndRcFJJT21GNUs3ZFlrVjRTR3hoRHFHZG1zU2x0VjFUVHBIY3p4ckt3T0Q4THZMeTB2T2g3aXI2WHcyT1g0TWp1cUhnLXlCMDd2MXp3SGJPRXlqeVA4Qk93RDdmandId3dXQWdDTXJjS2dzVDRad3lpczFZV3kzX0I0dVQwbFdsSnI4d09iUQ?oc=5",
       "source": "Tribune India",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "045b32454ab3"
-    },
-    {
-      "title": "BSF Punjab foils multiple smuggling attempts along international border; apprehends five, seizes pistol, heroin and drone - First India",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWE16UlQ4X2NHRXJsUlc3eGdiNWdsckdHOVIzV1JrT1Z4WjNXUDBlamx1SVhnZ3ZLYVRxbl9wSERWZFVuckE2Z3dNcksyRXYzNUh1MElXaXZlcmRhMEFvbWI4d2xpY0VOTUNJWF9uMVFRMy1IcGFRaXBNNTcxQkpSaTVVcjZKWFotMjJhMjRXeElCNEdjaWlNYmlNd3BFMV9DY3FSRTV2aDdrRUVldGxPdFBsai1BS1hxeXhKblRwRUxseFRWVU0wdXVwRHh2NkNlU1pFWXBVZlIzeUxuQlJ3ZktsS0V2cGhlUkE?oc=5",
-      "source": "First India",
-      "date": "2025-09-07T09:03:46+00:00",
-      "description": "BSF Punjab foils multiple smuggling attempts along international border; apprehends five, seizes pistol, heroin and drone  First India",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-07T16:05:20.497602+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c86bbd845f73"
-    },
-    {
-      "title": "Russian drone crosses NATO border and flies freely—Poland responds with radar alerts but no action again - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTWs4ZVhpRmt0eF9RZkxUSHZlUy1waFZXVThQdklqZm5hR1E4RHhKOUp5NVpKTkFzcG53Q1UzN3lmcVJuQk0tQWREbDhZZDhSeVF5RTVVekZLUHY1ZGV5MGlKRl9kcjFWalZZb2d4MkpJdHF2cEUxeGZRcm1QNnEwRmNFRHplM2I5dzk3VGpqendsSTBzQ1Z2bW1iQU8xXzdUX0lyREJpZEM0X1c4MVpxQ1hmSGxNQjJrVk5sUnJsWVhlSEVoYnZNU1BfYUJYQ25id1dxRURqQlFGRzBC?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-09-07T14:13:34+00:00",
-      "description": "Russian drone crosses NATO border and flies freely—Poland responds with radar alerts but no action again  Euromaidan Press",
-      "query": "drone incident",
-      "detected_at": "2025-09-07T16:05:19.065189+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "555b6a34b6f6"
     }
   ],
-  "last_updated": "2025-09-28T23:05:15.566134+00:00",
+  "last_updated": "2025-09-29T01:33:33.558822+00:00",
   "total_count": 1000
 }
