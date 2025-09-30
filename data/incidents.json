@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone drop blocked - Trinidad Guardian",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96RHNfeDhjWGt2U1dEWWdiY2VHTG1BMmtaVnRiN1ZNYUpiTzJCUnNhN180UlRPRHF1SFRqSDkyRUp6TGxweWRBWnJJTnBfaHoxcTgwSlZ2aWszS0FYejJjR3FONTl0WExQNlpCNFZFLXFOdDZ5azZYTFBhY2k?oc=5",
+      "source": "Trinidad Guardian",
+      "date": "2025-09-30T05:02:04+00:00",
+      "description": "Drone drop blocked  Trinidad Guardian",
+      "query": "drone smuggling",
+      "detected_at": "2025-09-30T09:06:46.991221+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "95fd1e30c65e"
+    },
+    {
       "title": "Unidentified Drone Flies Over Norwegian Gas Field - Dagens.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTy1mTW43aG5Kdmo5M3FGdGl0Uko4Q092NXQ1RWpMcGlBWGxTQ2doTU11NzdxRUQ0c004MGhjZ3FhcWdycWhTOGlUUC1tak1kejhPM0dVQzRaRnRNdW1Ja0NqdG9WZzBlWk1ZTWEwS1Fxdk9Da3pubDBHUWNJT2twMEstOA?oc=5",
       "source": "Dagens.com",
@@ -11987,20 +11999,8 @@
       "location": "near Poland",
       "category": "crash",
       "id": "159c25484feb"
-    },
-    {
-      "title": "Poland investigates two drone crashes near borders with Ukraine and Belarus - AeroTime",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzFncERlWnBTTFpHeEtBaXQ4WjF0ekVwaE1XeXJ1SkNvWFNPNkxtOVM1ZVNGaTFsTG1BS1AwdmdNV3VudVluOVN6TkhTNnZMOGxxNWNPaEhhOW1tZ1hORm5EZzZsQTlIcVpmYnhnSGEwdEU1V0U1NEhoeGx0UzRSbmdvNNIBiAFBVV95cUxQLXhtQ0hjdGFUZHlvcFktTVg3SkJlOGJhcUxBU0xKeVRXME5vT1BlMEJRYUl3SGZ0ckR0bDVycWJ0ZmFVckJzdUw2bmFUV0YyNThpeDJ0RE9iMEh1NUdiZV9YQmwxU1BmWEZ6SXNNR2c3MkUxZHpYN1d6NFdVSmNQcTV2YXRpSUpK?oc=5",
-      "source": "AeroTime",
-      "date": "2025-09-09T11:11:19+00:00",
-      "description": "Poland investigates two drone crashes near borders with Ukraine and Belarus  AeroTime",
-      "query": "drone incident",
-      "detected_at": "2025-09-09T15:05:35.113627+00:00",
-      "location": "near borders with Ukraine and Belarus",
-      "category": "crash",
-      "id": "f8b4954c41a5"
     }
   ],
-  "last_updated": "2025-09-30T08:07:39.951032+00:00",
+  "last_updated": "2025-09-30T09:06:51.471994+00:00",
   "total_count": 1000
 }
