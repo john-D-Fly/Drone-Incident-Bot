@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone sighting halts landings at Bucharest's main airport - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQldBcEx5QmxIcExqUW04V21FYmZNd0ROdFZRY1RJU3B4Q090VnkxcDloZEY5TTFaeHRqT3dBejBwamlrNWFFRjVSVmZjRWktZThubkhTLWJHd2QxSEVxWGdrWVZuTU9FbmJLZGc0dUkxSnhzSjNHbndBenc3TFpEeVVQN3Y?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2025-09-29T06:44:07+00:00",
+      "description": "Drone sighting halts landings at Bucharest's main airport  Latest news from Azerbaijan",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-30T07:05:55.371516+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "4bf5ff70810c"
+    },
+    {
+      "title": "Norwegian airspace violated again - Newsinenglish.no",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuM2JEVmZERm5Eckg2R1pNNlJpUkYwbEhOWk9BUjBxVDY1VVBLVDEzRkFyZVFqVkQtVk1fWGFZRV9kbmdsZnVyVl9MUE5vSy1QUnV4bS1IU1dIdFo4Nlo1bzlXLWxIQ0pnMjRVRl9kaElYTGgzT2JqcjNlYUpaQXc?oc=5",
+      "source": "Newsinenglish.no",
+      "date": "2025-09-29T20:46:40+00:00",
+      "description": "Norwegian airspace violated again  Newsinenglish.no",
+      "query": "drone illegal",
+      "detected_at": "2025-09-30T07:05:53.560785+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2d2a65cd456d"
+    },
+    {
+      "title": "Airspace violations force NATO to tread a tightrope, deterring Russia without hiking tensions - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGdNMlJNc1Npb2FRUjByYlU5OWdBNkNUQ21kMl9xUXhYMmwzMk53bjBhalE1cGNTTlR2Q3Y0T2k5RERHcGVXZUxiQU1HdkY0VTlKSkdfdE5zMng1ZENTc0ZXRGRLNlFtVm5mZlRnbkhLT1AyeGNRNU1YZDhHYWhUdEowVWE2LUR0VHVXNjZPanliVEs5b1RIbGJMSDRYNzBZcWpCcUtWenpQS3hSRlI4enlaQXpMNGhDWW4xWNIBwgFBVV95cUxQNVd5RjVDV2w2NlJmcFdzQzVrcG0xVVRKUUJHa0U0X2FzZ0RCZU1XNzI0eG5xTnFUZk5ta1pDRmRoNjF1aXV3NHQzcjNrWmdVdDJDT2lxY0tVYlZGUmpGVWdJNXgxOWVZWk14aVlaZmpVWFpGc0J2ZWx0ZzRycERwU3BZVlI3cjVYVHo4d2I1bklTUVNIWkg1OU5WZnV3U3hKYkVNZFhwV1dWbklPVFdfckFsb21HNzR4LWJUUjM5WGR1UQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2025-09-29T14:17:59+00:00",
+      "description": "Airspace violations force NATO to tread a tightrope, deterring Russia without hiking tensions  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2025-09-30T07:05:50.202605+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6675528d7a30"
+    },
+    {
       "title": "Russia strikes Kyiv region with drones - Consequences revealed - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOC1LeWZQLVliREY4cGhtRWYtX3pzbHVIdjhFTnpXaW9ocGZ4YzVZekVXeGdkSDNQbm56WFdlZ0lCSVRCcWJFUk1NRWxrYVpGa0hoNXdFS2RsZUJiTWhQLURPZkRLUGpkRDBLWVhSdmVlY1Vway1hQXlaVlRlMGcyTlQtNUdsY1A4M3pyb0Q0d21XQ09Ka2p0bXVLLTFmS0NH?oc=5",
       "source": "RBC-Ukraine",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "56e991c5861a"
-    },
-    {
-      "title": "Poland finds what appears to be a Russian drone near Belarus border—officials won’t say if it was tracked on radar - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTkVUeHBIbHVEYkwtc21la2FjQUlPLUd4ZUVkaU95NXZCcklhOTZOb09MbkMwWk5FbmVIalMyZGFzUk9iWndSZVRId3BKMnlDelFVQUZ0N045cXRFWnNsWVhCbFEwSmN6aU10N280YlRnME12Rk5vMjJBZXdpekQzZjYzWnhrb1NKUDlLclNqeGRMQ1hWcndzTWpzUm5sV2Y3VXZJckdLV0JRV1ZBbFctQXBTZUZxU3VFU3hJR2ktb2h6VzMxbmRacjdGWjBrdW0zS0Zaby1wd1pmSWdXQU1IQ2hsU0UzeTdU?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-09-09T13:42:41+00:00",
-      "description": "Poland finds what appears to be a Russian drone near Belarus border—officials won’t say if it was tracked on radar  Euromaidan Press",
-      "query": "drone crash",
-      "detected_at": "2025-09-09T14:05:15.901080+00:00",
-      "location": "near Belarus border",
-      "category": "other",
-      "id": "cc1a14339fd8"
-    },
-    {
-      "title": "Global Sumud Flotilla reports drone attack on Gaza-bound ship in Tunisia - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWFwOGhqaFp3U2dTQTlTMFdHZkd3ZUs0ZnlzbUo2cEdOU0JVU0xGaHlhNXlwSFJzTTNHVzUwQ0o1dk5FYm9OR2t1em0tdy1QWWVsMzEzZkdwb0xHQUdoaWY2eUZOLUUtZnd3TTR1bGw5OHhmbHNsbjFBU0tOZ3pHV2NWRU1hU2lvb3R2emZpd2xEbjRSOVRGRmc0MDVIQUlIakNSNjBINGFIU3Ztc3ozRFpB0gG3AUFVX3lxTE9jWElmazdzVlptUmFDYk9ocFdSQThnSVczUlVsUS1NMGNoUi1YQktrYjlUTHVhdlp2R3dxc1FseDljQ2ZRU01kTzFDWmNIVnlKWWpLY1dxc0E1SDM3aXhhUVgzdFZndFpJd0c1NzgyYWU4SG45RU1yb0U1QUREbTd0OWJkY2p5VU1hT1R2ZWxEbzlqcGI4TnJ5LUx2MVRFZm1nQ3VtUjNCS0FtRkFNcWtaNjU4THZuWQ?oc=5",
-      "source": "Al Jazeera",
-      "date": "2025-09-09T11:37:30+00:00",
-      "description": "Global Sumud Flotilla reports drone attack on Gaza-bound ship in Tunisia  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2025-09-09T14:05:12.511047+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "95b4981789ab"
-    },
-    {
-      "title": "Gaza-Bound Flotilla Struck by Drone in Tunisia, Aid Group Says - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWJYT2U4S18weUlXT1RaM0ZaSndsTm1aSlE1WWtSbWlRUzJfUm1NZnM4SS1NVWpPWTJ3bllSSFlHVUE5Vlg4UzhJNlNxcS1mRklEYnhWZTBHSlp6QXlmczVhM0FCTWhmQ2xYcmZ3UjJRNmZsMmlfSzJ1aTRiUnUxRHdqTXNaZlo4MGFxag?oc=5",
-      "source": "The New York Times",
-      "date": "2025-09-09T06:00:36+00:00",
-      "description": "Gaza-Bound Flotilla Struck by Drone in Tunisia, Aid Group Says  The New York Times",
-      "query": "drone incident",
-      "detected_at": "2025-09-09T14:05:12.511047+00:00",
-      "location": "in Tunisia, Ai",
-      "category": "other",
-      "id": "7e3df2f8cd09"
     }
   ],
-  "last_updated": "2025-09-30T06:08:28.040135+00:00",
+  "last_updated": "2025-09-30T07:05:55.877414+00:00",
   "total_count": 1000
 }
