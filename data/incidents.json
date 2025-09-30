@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Unidentified Drone Flies Over Norwegian Gas Field - Dagens.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTy1mTW43aG5Kdmo5M3FGdGl0Uko4Q092NXQ1RWpMcGlBWGxTQ2doTU11NzdxRUQ0c004MGhjZ3FhcWdycWhTOGlUUC1tak1kejhPM0dVQzRaRnRNdW1Ja0NqdG9WZzBlWk1ZTWEwS1Fxdk9Da3pubDBHUWNJT2twMEstOA?oc=5",
+      "source": "Dagens.com",
+      "date": "2025-09-30T07:27:33+00:00",
+      "description": "Unidentified Drone Flies Over Norwegian Gas Field  Dagens.com",
+      "query": "unauthorized drone",
+      "detected_at": "2025-09-30T08:07:39.291667+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "47337c155cff"
+    },
+    {
+      "title": "Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUVTUjBfTW9Fdld4dGZzLU9SRWNUN2RPam5GLS1QT2s0TU54bk9IN3JlSUkxMzZmaTBQaGFDMWVnbjVROUNWckZrM0k3Z211dnR0VFJzam9QQUhicFczalgxeTcwSWR0cHcyWmczaFRrT2NvaVJGSE1sRTY2aUk0c3FLNmxhRjUxM0Q1bVBHSzlCdzFFWXZVRTI3WFZFcVNrZVY4ZTBLNjY1TVZnNS1wUmpRbTdGdGRxb0w00gHAAUFVX3lxTFBXN0NmNUlpM0FpVGNOcExvSTNRYXgyakVMbEVQY25nOE9TTUZkQjBaeXZQWGpJamMtc2hlZ1JubUloeHRJcDhwOVpRRHJKNnI2UTg2VGh4c3NQbWRLcWx5bnhIUmJsZDh3QjBfdHJkdXNyVzN1cDA1aW13dHlmekExal9mRldLMUltOEhpM1JYd3lNYnFBLVYyeUhrZjBIZ3BiZDZTZmhWNVJTdUs0bnJWUkJGY0Vaa2cyNXBHdU1Rbg?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-09-30T06:39:00+00:00",
+      "description": "Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-09-30T08:07:35.081631+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "03dbca5bf707"
+    },
+    {
       "title": "Drone sighting halts landings at Bucharest's main airport - Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQldBcEx5QmxIcExqUW04V21FYmZNd0ROdFZRY1RJU3B4Q090VnkxcDloZEY5TTFaeHRqT3dBejBwamlrNWFFRjVSVmZjRWktZThubkhTLWJHd2QxSEVxWGdrWVZuTU9FbmJLZGc0dUkxSnhzSjNHbndBenc3TFpEeVVQN3Y?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -11975,32 +11999,8 @@
       "location": "near borders with Ukraine and Belarus",
       "category": "crash",
       "id": "f8b4954c41a5"
-    },
-    {
-      "title": "Alleged ‘drone’ incident leaves Gaza flotilla shaken - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0hSVlFpMWlfZHNfdE1DandXVjRqV2pKb3lya01EVGgyM1l4TUxzaE5rdXFxY2t0V2xzcEpvNEVIdG1pSHRZQjJ2dVdOblZTYVZTRUx2alM2cTlvaFVfVnI2Z3RqMVItdUUyVEROZ0pObHBJLV9zVnNPWUlmSHZESlkzTG9iSmZrOVc4Si1R?oc=5",
-      "source": "yahoo.com",
-      "date": "2025-09-09T13:30:34+00:00",
-      "description": "Alleged ‘drone’ incident leaves Gaza flotilla shaken  yahoo.com",
-      "query": "drone incident",
-      "detected_at": "2025-09-09T15:05:35.113627+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ebe485d59fc4"
-    },
-    {
-      "title": "Russia launches barrage of drone strikes on Ukraine, resulting in four civilian deaths - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RUFEbGh1a1pxZFl3NkRETG5VWnFRUDJBMG5HdlFLTnl5ZjJRM2p2cFN2ejVGMnY2WUdIX2k1M2dpQWJ4cjZTb3hOQnhxRmlYMjJobEt3?oc=5",
-      "source": "Fox News",
-      "date": "2025-09-08T18:58:12+00:00",
-      "description": "Russia launches barrage of drone strikes on Ukraine, resulting in four civilian deaths  Fox News",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-09T14:05:18.021529+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "56e991c5861a"
     }
   ],
-  "last_updated": "2025-09-30T07:05:55.877414+00:00",
+  "last_updated": "2025-09-30T08:07:39.951032+00:00",
   "total_count": 1000
 }
