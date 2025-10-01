@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Can you shoot drones flying over your property in Nevada? Here's what federal law says - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkVKa2xyQ3ZUWXZ5Ty1LUHl3VlhURlFneUJYS3EyT2xudkJTWXNTTGEtemNHejdMTGZyR2NhSlQyWnVqeXhkbGRwdzRRUC1kR1l4cGdQYVJqWjVnU2Jwd05wOHRNdlRrdjVmQ1BTcVVycjBGSk5pUm53dUI0U3RKTzEzbzBKNUI3dllnNkZYM0VRbV9lTTVza0t1cXpjaVFyY2VB?oc=5",
+      "source": "Reno Gazette Journal",
+      "date": "2025-10-01T01:16:57+00:00",
+      "description": "Can you shoot drones flying over your property in Nevada? Here's what federal law says  Reno Gazette Journal",
+      "query": "drone illegal",
+      "detected_at": "2025-10-01T01:33:45.052512+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "32bba9f70446"
+    },
+    {
+      "title": "Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUVTUjBfTW9Fdld4dGZzLU9SRWNUN2RPam5GLS1QT2s0TU54bk9IN3JlSUkxMzZmaTBQaGFDMWVnbjVROUNWckZrM0k3Z211dnR0VFJzam9QQUhicFczalgxeTcwSWR0cHcyWmczaFRrT2NvaVJGSE1sRTY2aUk0c3FLNmxhRjUxM0Q1bVBHSzlCdzFFWXZVRTI3WFZFcVNrZVY4ZTBLNjY1TVZnNS1wUmpRbTdGdGRxb0w00gHAAUFVX3lxTFBXN0NmNUlpM0FpVGNOcExvSTNRYXgyakVMbEVQY25nOE9TTUZkQjBaeXZQWGpJamMtc2hlZ1JubUloeHRJcDhwOVpRRHJKNnI2UTg2VGh4c3NQbWRLcWx5bnhIUmJsZDh3QjBfdHJkdXNyVzN1cDA1aW13dHlmekExal9mRldLMUltOEhpM1JYd3lNYnFBLVYyeUhrZjBIZ3BiZDZTZmhWNVJTdUs0bnJWUkJGY0Vaa2cyNXBHdU1Rbg?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-09-30T06:26:00+00:00",
+      "description": "Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-01T01:33:42.606323+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f834f059dc10"
+    },
+    {
       "title": "Can you shoot a drone if it hovers over your Kentucky home? What the law says - The Courier-Journal",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNGowdlVWTE9qVkJ0bk13RDJuenpLSjA4WVhhUDhLSUdSRmZTbmFwanJXWmozSVNrMUlkNzRJODBUZ0pOYkNWUnd1U1ZCeDZ6ZzJDbnNHVlhSbFlTZkNYMU92ZDFGUmNxRXJnS1dEQl9BdFEzaDhGak9PT2VOVnZDWlprZk9JOUpRcXRzUURabEpvMzhuaDFmOUd6OG1ZYnJRNFd6MDVOVTU1cGVldUQ3a1hKOTJUc0UwaHVlVnBReWpYdUpZOHJTSjlDZGRFWmJacUp6c2NWa0tSRHBna1E?oc=5",
       "source": "The Courier-Journal",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "8933e261535a"
-    },
-    {
-      "title": "Undetected drones enter Polish airspace and crash in east - Brussels Signal",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVlwbk9iMUtMUDBub21FTVlGT1pHNmFoLTdmTVVfMXVJNUh4c28wRDJaZGMtSVp5N1VlNnRDemtzVjhJX3REczcwT2p1dGJ5V09iYi02Rkd5TFJ2Zy1oLVVOcXg1NDVSdV9pT0d1eE40aXFBMmFzdk1jZk4xZ0YwNWg2R2FoZExLbHp1dTVoU3gtODZlQi1B?oc=5",
-      "source": "Brussels Signal",
-      "date": "2025-09-09T08:05:44+00:00",
-      "description": "Undetected drones enter Polish airspace and crash in east  Brussels Signal",
-      "query": "drone crash",
-      "detected_at": "2025-09-10T10:05:42.620106+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "0edc27699609"
-    },
-    {
-      "title": "Russia is testing Nato’s mettle with drone attack incident in Poland - The Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONXA3NHNqNTVkX2c4NUR3ZDZiZVc2djMwa0FzMldlSGYtOXVYa0pqNWZ0RWp3bmNUN1NaeWJlNm4xVXc3Y1Q2eHkxN0VRVGQwWmpjb2ZjZ1VXU01lbm9JNzJNVDRsRzJQWDgwN0NsMUlVTjFWbzctaEwzcnVQcFMtcjl6RWJzTlJyc3p6NUJPWW15NlAwMU8w?oc=5",
-      "source": "The Times",
-      "date": "2025-09-10T09:20:49+00:00",
-      "description": "Russia is testing Nato’s mettle with drone attack incident in Poland  The Times",
-      "query": "drone incident",
-      "detected_at": "2025-09-10T10:05:39.434836+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7ca6b7bee596"
     }
   ],
-  "last_updated": "2025-10-01T00:25:06.515104+00:00",
+  "last_updated": "2025-10-01T01:33:47.358253+00:00",
   "total_count": 1000
 }
