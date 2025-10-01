@@ -1,0 +1,135 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a significant increase in reported drone incidents, particularly related to smuggling and security concerns. Multiple cases of drones being used to deliver contraband to prisons were recorded, highlighting a persistent issue with drug smuggling via aerial means. Countries like Denmark and Germany are responding to the growing threat, with Denmark banning drone flights at military bases and Germany considering measures against unauthorized drones. Additionally, incidents of border smuggling continue to be reported, raising alarms about the security implications across Europe. Notably, the involvement of law enforcement in some smuggling activities has prompted discussions on the need for stricter regulations and counter-drone technologies.",
+  "totals": {
+    "smuggling": 12,
+    "other": 25,
+    "security": 2,
+    "interference": 6,
+    "airport": 5,
+    "drone prison": 4,
+    "arrest": 7,
+    "terrorism": 3,
+    "crash": 3,
+    "total_incidents": 109,
+    "by_category": {
+      "airport": 5,
+      "arrest": 7,
+      "crash": 4,
+      "interference": 4,
+      "other": 64,
+      "security": 2,
+      "smuggling": 22,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 10,
+      "drone crash": 4,
+      "drone illegal": 25,
+      "drone incident": 24,
+      "drone prison": 5,
+      "drone smuggling": 19,
+      "drone terrorism": 4,
+      "unauthorized drone": 12
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Numerous incidents involving drones delivering contraband to prisons, indicating a trend.",
+      "incident_ids": [
+        "841f94fb0613",
+        "050ba0f04e79",
+        "ec520224d237",
+        "138e7ce3c0ba",
+        "ddb23eda0d1e"
+      ]
+    },
+    {
+      "topic": "Drugs and Contraband",
+      "rationale": "Emerging patterns of drug smuggling using drones across borders and within prison systems.",
+      "incident_ids": [
+        "841f94fb0613",
+        "ec520224d237",
+        "36d1c0a9fddd",
+        "3f274daa28cf",
+        "e3b8bc253310"
+      ]
+    },
+    {
+      "topic": "Security Policy Reactions",
+      "rationale": "Policies being considered or enacted in response to drone threats, particularly in military and public safety contexts.",
+      "incident_ids": [
+        "36d1c0a9fddd",
+        "67f1b21edf7d",
+        "282d9f85a7ff",
+        "50ba9e1fd538"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "841f94fb0613",
+      "headline": "Shamed cop was part of 'drugs-to-order' prison drone smuggling gang",
+      "one_sentence": "A police officer was implicated in a drone smuggling operation supplying drugs to prisons.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "050ba0f04e79",
+      "headline": "Former detective guilty of prison drone drug drops",
+      "one_sentence": "A former detective has been found guilty of orchestrating drug drops into prisons using drones.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d67d0aeb9c89",
+      "headline": "Germany to authorize security forces to shoot down unauthorized drones",
+      "one_sentence": "Germany plans to give security forces the authority to shoot down unauthorized drones.",
+      "risk_tags": [
+        "security",
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "ef761662d6e",
+      "headline": "Denmark warns that Russia is waging a hybrid war on Europe",
+      "one_sentence": "Denmark has raised alarms regarding Russia's use of drones as part of a hybrid warfare strategy against Europe.",
+      "risk_tags": [
+        "terrorism",
+        "geopolitical"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "3aca5c765497",
+      "headline": "Army Downs Drone Smuggling Narcotics Across Western Border",
+      "one_sentence": "An army unit successfully downed a drone involved in smuggling narcotics across the border.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2025-10-01",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
