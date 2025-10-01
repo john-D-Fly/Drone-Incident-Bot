@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Former Northants detective guilty of prison drone drug drops - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUjk5SEtMVjNmb2pwUHdnQ0dZVlVqNk5XQ0tJNEFxM0tpeHdMcEt4ZUtaNTZOODRtZ25Xa2sxWlY3aENnMk1EZ2dnd2FGTW5vSmpYdENvSDFZZ9IBX0FVX3lxTE9USjVwV2pZZGFTWHJTRnNLcmpVOEFqMzFyZFpPeVp5ajkxNlJVX0t3cTB4RklwSHBFdHZyb0RFemVYZ3lDb3U3TF9SSlQ0T0ZXc3ptbDRMdUZQNlNFeUxJ?oc=5",
+      "source": "BBC",
+      "date": "2025-10-01T11:34:46+00:00",
+      "description": "Former Northants detective guilty of prison drone drug drops  BBC",
+      "query": "drone prison",
+      "detected_at": "2025-10-01T16:07:20.580890+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "09b799188fdc"
+    },
+    {
+      "title": "Disgraced Midlands detective facing jail over 'drugs-to-order' prison drone smuggling gang - Birmingham Live",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnJXdHNRUFdRYmg4ZlNycjV6T3ZHMDhKSE9SY3JIVzdxazVhNVlSTnVrZk1TT0VhR1UtTURHMUVpV0JLRDVRMGhpWDlaXzNacVlvU3hSX0NEWUxjcGx0RHQtZ0x0OFJSSXNCV3dxVkNEYlBSRldmQTNXUy0zS1lQV2tJMW1tVUFtdlgyS3hLQVBnYXpnS054ZjlSNW1IRE11SDZB0gGoAUFVX3lxTE03V2luYkNoV2wzU3RwOFpxTU53QlZXVzdCd29nd3ZvTXJ5QVMxaHhhR3lMUG1VblBnTy1RdjdqeGM3c181NzUweU10N0tVcUdEVGtvd3lLYmhZb2JQdFAtM2JSbXFPZEY0NENiLWlXaGxHdmF5aGVMVlFiWnlVNFBwRGl0RGN2WmlzeHd0QUloNTQyS05lbUxQNUZLZnJQejU2NkxoS2p0LQ?oc=5",
+      "source": "Birmingham Live",
+      "date": "2025-10-01T15:22:00+00:00",
+      "description": "Disgraced Midlands detective facing jail over 'drugs-to-order' prison drone smuggling gang  Birmingham Live",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-01T16:07:19.761512+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a086ed9e71b7"
+    },
+    {
+      "title": "Police investigating after unidentified drone spotted over Norwegian airport - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUdVN05PcUg2Szc0ajd0UjBMNlE2Yi1RZ1RDZ2NWbG1TUks3X1JQN3R6TE5UcGsyWWhXNTVHOEtSYUdnOS1Pb2tmdENBVGduY2ZvQjZ2VGgxVEE1T3BOYWpWS29QbUNpZ0VEUzc1LTl3dTRyM1FITjJvRzRyeGZOYmx1RTVkNmVnVTZkTURQN2tERmZlNklibXU2MlZ4UHU1MFRNX3FXS0E?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2025-10-01T03:03:27+00:00",
+      "description": "Police investigating after unidentified drone spotted over Norwegian airport  The Kyiv Independent",
+      "query": "drone incident",
+      "detected_at": "2025-10-01T16:07:18.496537+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "0089415c08a9"
+    },
+    {
+      "title": "France investigates Russia-linked oil tanker suspected of launching drones - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWQ2YndIWnFaMGhxVGxsN3g0OEdxZEFnVlR3RXI4bDZrR1lJVFRFdURycDA5Z2Ewd0xiXzdlS29fbUFYTmtrSG5lMVRaWWxYblpMeHczZ3dDSjA2MzZ6VURDdGNzNHpaYTBwT2U4TWlhbTVOZlNoZjRiNTJZcDNNbHpPY3BrdW1LcEwycQ?oc=5",
+      "source": "The Guardian",
+      "date": "2025-10-01T14:17:00+00:00",
+      "description": "France investigates Russia-linked oil tanker suspected of launching drones  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2025-10-01T16:07:18.496537+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3a9a8ea68d16"
+    },
+    {
       "title": "Oil pumping station in Russia's Rostov region shuts down after night drone attack - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0RiQ1o1enVGaWxkMTdrRkcyUUFNalduU21IU0pnRVl5azFGdDdGQ2k3eGlseEdaQjdOMVk3R1c4X3lROGNINFFZT21PV1RNRnd2UlhXbTRLRkFlbVQzb2RrbEx1LWRTR19nQVVOcFMwQ3BnOWdULVRISnkzQWdsaGJMeWZzQUlLOEYtLWdHSU05c0xuVGY0Mw?oc=5",
       "source": "RBC-Ukraine",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "21a55fca3a4c"
-    },
-    {
-      "title": "Man pleads guilty to neo-Nazi-inspired plot to bomb Nashville energy facility: DOJ - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajJDQlVPUFZKejZsY0dJNGxPOGF5NHZYYWVtaS1HMnhNTVlnaTZTdXNERUFSNHNILVdHNHoySDJtZE1oYThNVDMwLXZHeW9oaVRQOTRPeFNnUXQxN3FxMnRpVlBjN2R6MTJJYUhiZS01a1N0cDVVOHBadndfQUZ1VHpWdFg0UnFCWUV4dDJaOVNEVGtr0gGaAUFVX3lxTE92aTNsVG0tQzJzYjR5dzVoNGFRQ2NjUTZqdmMyMlg2MXVqQnE4VU9FcFJHVjNoSW5uQlpYMlFuX1RpeEFDLTVQSlFEakRyT3hiU2QycXhsNXljYjNpZlRSNHhGVnNMaHU4NmczRXFsX1pFVEx4YlNzV3BPRE01X0hHa1lIMThybVBrcGlKTkVQR2w3eDRydWJQTVE?oc=5",
-      "source": "ABC News",
-      "date": "2025-09-09T18:11:15+00:00",
-      "description": "Man pleads guilty to neo-Nazi-inspired plot to bomb Nashville energy facility: DOJ  ABC News",
-      "query": "drone arrest",
-      "detected_at": "2025-09-10T16:06:03.970084+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e10565bff608"
-    },
-    {
-      "title": "Clarksville Police arrest 16-year-old in stolen vehicles case - WHAS11",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc2cwLXdUUVVnYk8wdW1KLTI4T2NzVEppZzFwWnlLaDczYkpGaVNuNmZNWWxIT0FDMHBaRi1oT0VHZEt2RUhOdkoyMUIxdHYtblYtN19ZRlk4TFNlOEZJYVJmeURyRzd4S1BKeTNzdzhMMnFHMllRYy1MQVYtZXN0ZzZVRDVlYzY1NzBVYXRrcU9ZTGpDWS1pNl9JWDVwZllJdWRRcHhTTW5wcXlzWXZhRTIyQ0NWS2F0RExORTJ3cEptRll3SVVCRHIyY3ExWkVBd0I4Q0Zkc0RQeDJROUN2SzFOZFVyLVVOWFlQTUw3RXBQV3pNV1E?oc=5",
-      "source": "WHAS11",
-      "date": "2025-09-10T15:07:00+00:00",
-      "description": "Clarksville Police arrest 16-year-old in stolen vehicles case  WHAS11",
-      "query": "drone arrest",
-      "detected_at": "2025-09-10T16:06:03.970084+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5cdde3c44fc2"
-    },
-    {
-      "title": "Poland says it shot down Russian drones after airspace violation - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUWhTLTFpWHpTUTR4Z1lXMFBxejVlMVZKMHdza3ZNTWJodU4wbmIyd2FCbUN2WkVacTRyYWJnZm1CQWJDczlkWmN1M0dhT2dxOURvTEMyT014UQ?oc=5",
-      "source": "BBC",
-      "date": "2025-09-10T11:43:05+00:00",
-      "description": "Poland says it shot down Russian drones after airspace violation  BBC",
-      "query": "drone incident",
-      "detected_at": "2025-09-10T16:06:03.169288+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6e8306bfb5bf"
-    },
-    {
-      "title": "Russia Issues Fresh Response to Poland Over Drone Attack - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GVUpOcWxoYjU3SWtFQXBXcjJVdlRUZ1BNQVdGWEFyZnIwY1VsY2tEWHdhV2RZc2gyblZCRGMwVnk2NTJOc2FuWEV5UjNWaXZ4NktpQnlWbTluZW1sUXhMS3d3cURfcjU5VkRtRFBXMzFoMFZhenVRYnJ3?oc=5",
-      "source": "Newsweek",
-      "date": "2025-09-10T14:52:49+00:00",
-      "description": "Russia Issues Fresh Response to Poland Over Drone Attack  Newsweek",
-      "query": "drone incident",
-      "detected_at": "2025-09-10T16:06:03.169288+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e677a8904c30"
     }
   ],
-  "last_updated": "2025-10-01T15:05:39.218614+00:00",
+  "last_updated": "2025-10-01T16:07:25.861783+00:00",
   "total_count": 1000
 }
