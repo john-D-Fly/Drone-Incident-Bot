@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Police, border guards will be able to jam signals of illegal drones / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ29fekk4bmNUMG5WUVhJTG5SRy0tUkstZ1JmTjdkY0hpT0U0aVkwLTJmUWtzV0RiV1dIeDhOZTVuVUJ0andPOFA1dHZKYjd4WHNQUHdGOGlWc3A5Nm44UnJuUWV0eGtRMEhzQl9XbmpkUnJ4THF0aF9HX2NnX2o0Rnh3T08tYTAzdGQ5bHNlZ0stTGdDMDhrbXhDVkxUbElTUXNHTFdfU09SVDlmZFFBcTZocTJRUlVhaFJZakZuUHZpdkpYbWNrb3kxYlFNaVRHdUdWaVJn?oc=5",
+      "source": "LSM",
+      "date": "2025-10-01T04:17:52+00:00",
+      "description": "Police, border guards will be able to jam signals of illegal drones / Article  LSM",
+      "query": "drone illegal",
+      "detected_at": "2025-10-01T11:05:24.143801+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "427f2e0adf78"
+    },
+    {
+      "title": "‘Not a Drone Attack’: Major Oil Refinery Catches Fire in Russia’s Yaroslavl Region - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkoyekhVeDZsY2dRRWNLTzlwRm1sNG5wT1Nud0NsVXVLcU95NlEyMmJrQjZQTkVkQ2NTcS16RU1nOW1RNlVLM3JLbDNPX1AyZ0VnMVJUNUlzU3FHYk5XcXllOUFUM09Cc2xrd1lfRDFUUzNJbXFmMHA1NVFsUkEwQXBqaG95TVpJeE5Nb1VhbDdtZjVqRFR4MEYtdy05SjA4LWJESnNaVm0yU01XcXlfOGpZSEZmaFNRNmlER3FvY1EtN1JoQ0E?oc=5",
+      "source": "The Moscow Times",
+      "date": "2025-10-01T09:59:29+00:00",
+      "description": "‘Not a Drone Attack’: Major Oil Refinery Catches Fire in Russia’s Yaroslavl Region  The Moscow Times",
+      "query": "drone incident",
+      "detected_at": "2025-10-01T11:05:20.537632+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2865aac2b645"
+    },
+    {
       "title": "Shamed cop was part of 'drugs-to-order' prison drone smuggling gang - Yahoo News UK",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wVXljY0pnX01KaVp0STNSNHhoLUVtcGoxWDc4ZDZGX3JCSk55RXpoTzlRVEwxbW43ZnNmaFdyTkN6TTZGTUlkTGZqUWExVDl4R0NjdzI5SGVHRFJCNGg0T2pJaDI2YV95TmM0MHdxYlFqcmdxX2xv?oc=5",
       "source": "Yahoo News UK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "79d2b1da7efd"
-    },
-    {
-      "title": "Poland’s Warsaw Chopin Airport Resumes Operations After Russian Drone Disruptions - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJPeTdISmo4OE9YY29lam1KYWFzeUZoRVgwYUVISlFmS09qTVA3WEVPeVE5dmN6N0JIR0w4eE55UkZpYWRUVkRibm5hQV9JV3NOUWhmeDg0T0RkQ2JZbDFPQ0tYVS1jMWxMZW11QkNHNXBOLVd4WUhVZ0M3LUtpMkVXTVpObzhJX0JzT29QNmxEbWRoaWJ3aEpBOU9kNVBjQTlkYVZkUC12NF9zSE9PSi1lVTFESDNFa3pjUVJQXzJXVzBDc25LOGZxSGZrSWpuZS1zNms5am1LRll4djcyN19JQQ?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-09-10T12:45:17+00:00",
-      "description": "Poland’s Warsaw Chopin Airport Resumes Operations After Russian Drone Disruptions  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-10T13:10:43.989001+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2846a5b44676"
-    },
-    {
-      "title": "Poland calls NATO meeting after downing Russian drones - DW",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWR5czBhcGFxVjM3NHUtM0JPcXhQSTRMWmZhZmxYNnJoYTNWU3pyUUpZLVNzWUNKZ1o2eGpCZ19IWTk4Y3dIaE5QSnd4bnFNWVl1QzNHSXhfTFhCVE8wb0dONkZxWHMxRUZYdlZHTFBlZWJKeEJzMXIxSF83ZWJCNjg0Y3R1THEtMkIxX01MbTk2Q2s1?oc=5",
-      "source": "DW",
-      "date": "2025-09-10T12:00:00+00:00",
-      "description": "Poland calls NATO meeting after downing Russian drones  DW",
-      "query": "drone incident",
-      "detected_at": "2025-09-10T13:10:41.484368+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2c73716b6b42"
     }
   ],
-  "last_updated": "2025-10-01T10:05:54.318442+00:00",
+  "last_updated": "2025-10-01T11:05:26.552796+00:00",
   "total_count": 1000
 }
