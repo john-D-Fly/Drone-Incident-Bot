@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Can you shoot drones flying over your property in Nevada? Here's what federal law says - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkVKa2xyQ3ZUWXZ5Ty1LUHl3VlhURlFneUJYS3EyT2xudkJTWXNTTGEtemNHejdMTGZyR2NhSlQyWnVqeXhkbGRwdzRRUC1kR1l4cGdQYVJqWjVnU2Jwd05wOHRNdlRrdjVmQ1BTcVVycjBGSk5pUm53dUI0U3RKTzEzbzBKNUI3dllnNkZYM0VRbV9lTTVza0t1cXpjaVFyY2VB?oc=5",
+      "source": "Reno Gazette Journal",
+      "date": "2025-10-02T13:50:21+00:00",
+      "description": "Can you shoot drones flying over your property in Nevada? Here's what federal law says  Reno Gazette Journal",
+      "query": "drone illegal",
+      "detected_at": "2025-10-02T14:05:29.065018+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7405113b1651"
+    },
+    {
+      "title": "Amazon pauses drone service after two crash - king5.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3VtMVhnWHZTajNfdWxmVUgtTGVqck9DS2V2TGVlUlhuaFhQSHVPWGNHUlFQNkkyZzczelZBQUFHTVdRZG9DWk5LMmFydWNiV1E1YUJyaF8xN0tQZ2ZlZEZXYWlhVjIxd056T0ZMbWs4TUlnRnhxR2c2STJkaWJZalhHTi1SY2x6ZXNwa2JoWVNocXlzWWlyVzRUUzFUX0VVNDN2NV9oRDdRM3hhLUVQVU9tbDJpVm5vYzh1aFFkdE0?oc=5",
+      "source": "king5.com",
+      "date": "2025-10-02T13:40:00+00:00",
+      "description": "Amazon pauses drone service after two crash  king5.com",
+      "query": "drone crash",
+      "detected_at": "2025-10-02T14:05:28.414303+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "04f42b749033"
+    },
+    {
+      "title": "French troops arrest captain of Russian ‘shadow fleet’ oil tanker feared to be behind Denmark drone incursions - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXh5YjJqM3VNclp5MUJjWFJqd3NIeEpKRGQ3UFJ4dVZNdFYtNFAzSHQwdmVKV1FPY1dzaFJHMHhJVDBXam0xQ1I1TEdoekhfNE5oekNfTWxRbUFxeTdnZkhURVRUZmd1VS1sWkcxTEIxMzEzUFZRcnBWMldsdk1aT0ViRDQySUxCOXEtS0JfaEV2T0FlbFY3d0lBNk94TWFocmFqSmx5Y09oZXpvYzNLcGxEYk5rWHVqVFFn?oc=5",
+      "source": "The Independent",
+      "date": "2025-10-02T13:16:00+00:00",
+      "description": "French troops arrest captain of Russian ‘shadow fleet’ oil tanker feared to be behind Denmark drone incursions  The Independent",
+      "query": "drone arrest",
+      "detected_at": "2025-10-02T14:05:25.479664+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "35ccddd393bb"
+    },
+    {
+      "title": "France arrests crew of tanker thought to be in Russia 'shadow fleet' - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFpHbi1TRmR0R1Z3VVhXbmFTa3k3T21JV0ZGTmt5SGU2WWhjbVJfelVxNHNhQmdUaUhDOU15WnRZNmdnSDhzMGExcnI3S0ZTZ09MQTRDaktyV09SNi1MTDh1YXBXamd4VDAtUi1fM2tjLXNwRjFGNHYxUXpidzZuakZPTzFnOTJwQy00Rm80OUtRME5rbFdNMUt0c0sxOFdQNkVpS1ZhemgwZVZ3MW1tdWs1V2dxLWlE0gFWQVVfeXFMTWdQRklNQUpiQjZ6X28wQVBBQldYME5yeWdmTnZQdDcwVFB3cmtkXzA3b2JQLVR2aHAzenQ3TXRxSFVqeUdRa1pOOEp5Vld3cEVhdWhweHc?oc=5",
+      "source": "NBC News",
+      "date": "2025-10-02T10:41:41+00:00",
+      "description": "France arrests crew of tanker thought to be in Russia 'shadow fleet'  NBC News",
+      "query": "drone arrest",
+      "detected_at": "2025-10-02T14:05:25.479664+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4fa7144ea2cd"
+    },
+    {
       "title": "Russian Military Intelligence Agent Arrested in Poland for Drone Terror Plot - Букви",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHpNTklKd1dGMXRJcU9KbWlyY0VTZTJpdXN2cVBLSTR3YXh6MmhtOThlWl9DWTd1RE1jUUp4RjdSQXkxZ0dnVWJmZkVWT1FIQ0NCVWFlbkU1TUgwY085UjFQejUxUHVwYWg0anRXOVU5TnNoYUxjWWFGVFd4SUUzQ0l4eHhQNjFfX0hSWFpZeDVpZXp1Y2N3bDI5bXhFUlJwUzRZcnB3bVc?oc=5",
       "source": "Букви",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "34ce513e8f50"
-    },
-    {
-      "title": "Poland warns of 'open conflict' risk after drone incident - RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUlfb293OFV5UlpJaFVnUEdrclBCRVZqZzJvZWdUX28wR2xxMC1vMktwWThKZFQyQ1dDQmVTNDg1NnVvQzJhS3FDX0NnaUFDQjdHQzNBY2Q0ck52YUJQdnZ4eGNUcFFFblZNdzlQQ2g4SHRhMGg2YzFwajA4SEwzbw?oc=5",
-      "source": "RTE.ie",
-      "date": "2025-09-10T02:55:17+00:00",
-      "description": "Poland warns of 'open conflict' risk after drone incident  RTE.ie",
-      "query": "drone incident",
-      "detected_at": "2025-09-11T12:08:45.898540+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0938e5ffc35d"
-    },
-    {
-      "title": "Poland Calls Emergency UN Security Council Meeting After Russian Drones Breach Airspace - Arise News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ29IcEE4TnZaSEp0YXBnMnY3NWxMd0VPbFkzRDRQTFZPbm9hcjZzeVFLUVN3MDFVVm9RX3Z3bG9HZFh0R0hWc2JlS0t5RjdOZ191bDd2cDRhY0xLUGVwdHFrb0l1THpNblZTc2FKcklzdllUTnFVbnhPVnE2R19MZ2FrNERlWmpBRzhrRThacDg3ZEg3VmRsRHhwcU5DTHMydk9oUmtLSW5wMk5jT2c?oc=5",
-      "source": "Arise News",
-      "date": "2025-09-11T10:27:09+00:00",
-      "description": "Poland Calls Emergency UN Security Council Meeting After Russian Drones Breach Airspace  Arise News",
-      "query": "drone security breach",
-      "detected_at": "2025-09-11T11:04:58.542749+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "fdd327351b1a"
-    },
-    {
-      "title": "Russian drone fell on a Polish military base near Warsaw—one of 16 found on 10 September - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWVHVHlqako2MGJ5ZklYSHBEWkJFbWJyVVJMdThacW5wcGI1Y3R0dUFUWGVOdGhtVzh6MTNKNXVhaXVMbVRDelZ1dEJXX0loM0t6ZTBoUW5YXzlwUHlwR1AyYjVHdEJaUFFnakNkVXBFLTNLY29DSUlraUd3Vl9uVWtjNi0yUUVKa2lCU3F6TzNTcUVsTXJRazFjS0RvdGx0Tk5wcTIzemo3X1d4WlVNMjd5SGpIN2JFaDN4VWlCdjBfNkxpSmgw?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-09-11T10:20:54+00:00",
-      "description": "Russian drone fell on a Polish military base near Warsaw—one of 16 found on 10 September  Euromaidan Press",
-      "query": "drone crash",
-      "detected_at": "2025-09-11T11:04:57.224312+00:00",
-      "location": "near Warsaw",
-      "category": "other",
-      "id": "fc8538ad7380"
-    },
-    {
-      "title": "NATO allies close airspace along Russia, Belarus borders after drone incursions - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTC1pd2JNcHNkSjRaOHplazRtTUxqZ1hsZDNxdE9ybm5wSGJZb3VReFZDZHI0Umg5a1g4Q2NsN24yQ2EyOGNjLUdXRXZSTmVTU1ZwVEJWMFQ5cG1kbUM3UGpSMUgxOXp2bEFERmEyaE9DTDUwSDI4Qk5iZTY3cjJLOTBUYnRndndlUk52Z1BGRXp2NTRQeEJXNHAxYm9uSEROTXRHSl9MNW8tVHc5ZFZtQdIBtgFBVV95cUxOdm9yRzdidHR1NFdSaG0xQVVNcDYtdHJBRlU1REdIOUVpd3pzV01weElYTmtxOTVZcW1hSVpXNXJPajBSYVBfcTJmN0tVcXZ5Q25WZjYtbTQ2U0JkMC04RUdMRGVlU0ZaNFctUGo1bEVHZnBqVmRQT09IUjc3YTZyTjRHYkVHTGtJNmNYS2V5OWlHNXZBNjVqcGpBSEpmUFpDZnNpNG54SUFJanlwMGRZZ0xKTUFsUQ?oc=5",
-      "source": "ABC News",
-      "date": "2025-09-11T10:52:30+00:00",
-      "description": "NATO allies close airspace along Russia, Belarus borders after drone incursions  ABC News",
-      "query": "drone crash",
-      "detected_at": "2025-09-11T11:04:57.224312+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e2e99fc2b965"
     }
   ],
-  "last_updated": "2025-10-02T13:11:07.382229+00:00",
+  "last_updated": "2025-10-02T14:05:31.649814+00:00",
   "total_count": 1000
 }
