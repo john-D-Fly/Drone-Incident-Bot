@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRm9DREx2NmVXM0Z1emIzTHhQNjFXTVZpZW0yNzZzanp0UFB3Nmtyc2hQY05Lb0cycW1BTGVDbC1TY2FhSWNkeUFWN1JWRWdwcEVzNFE4MDV4dFpxNW1GcDhTLUg0OU5saWdPaXhnaF9kX1NhUmpPM2E4R1lwWnlHR0hkQUlRZFVCZHRpOFJUVDJ3NjQ?oc=5",
+      "source": "The Verge",
+      "date": "2025-10-02T14:57:24+00:00",
+      "description": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane  The Verge",
+      "query": "drone crash",
+      "detected_at": "2025-10-02T15:05:34.178649+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "638e4ab3795f"
+    },
+    {
+      "title": "Staffordshire Police detective part of 'drugs-to-order' prison drone smuggling gang - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2xIQjQxUzVLdnJNdzNGS281ZkdMNC1YWEZ6c05qOVJoTUF2Qmdkdm1zVk5SU2xwRkF3SUROQ3plNGpLejZXOGdXMUlkLUJXTzFQZy0tNDhTOC1nWDR6bE8yN2JDSndOT3d2amd0X2RINm5hNXI1TEpWMWhDZ2lVQVNpQlo0R3FrZEE?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2025-10-01T16:07:18+00:00",
+      "description": "Staffordshire Police detective part of 'drugs-to-order' prison drone smuggling gang  Yahoo News UK",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-02T15:05:32.264797+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3e4500752827"
+    },
+    {
+      "title": "Police Anti-Drone Vehicle Collides With Zelenskyy Motorcade In Copenhagen - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFpDVjlMdFpoaHFSREFzMFBjdDM2SnQ2YUE3WGMyM2ZaVDd3azdzMjVtRkJyWTA4dkw1ZFJGYmszN0JoWF9BeVU3TkMzUnpmeFBLVGRFcTVQcjlxRnpvSlNNcnVDamFqUmZYZnEtSWZNLUJxQTRZRmt0RF9pSzBsdlBsUXRIM01KY3N1aE93?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-10-02T14:23:51+00:00",
+      "description": "Police Anti-Drone Vehicle Collides With Zelenskyy Motorcade In Copenhagen  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-10-02T15:05:30.930788+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a9d72b61b8ce"
+    },
+    {
       "title": "Can you shoot drones flying over your property in Nevada? Here's what federal law says - Reno Gazette Journal",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkVKa2xyQ3ZUWXZ5Ty1LUHl3VlhURlFneUJYS3EyT2xudkJTWXNTTGEtemNHejdMTGZyR2NhSlQyWnVqeXhkbGRwdzRRUC1kR1l4cGdQYVJqWjVnU2Jwd05wOHRNdlRrdjVmQ1BTcVVycjBGSk5pUm53dUI0U3RKTzEzbzBKNUI3dllnNkZYM0VRbV9lTTVza0t1cXpjaVFyY2VB?oc=5",
       "source": "Reno Gazette Journal",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "75fd1a1b66f2"
-    },
-    {
-      "title": "Poland's Defense Stand: The Drone Incident Heightening NATO-Russia Tensions - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTU5TkM0aU9RV2hMdmhiZU1Ec3NoWjFmMko5dlFpZXlsN0ZYNVpsSUZqNDlzUC10WmtEUXh1VUc4TnlRcWNhQW56R0tUYXU5QTVBX25vME5UZzJFMHZRQnBIT0FxT1FpR0J3eDRxcG5NYkJZYzF0TW9PMzFzb3psdFZYV0pKa0VvUGdFUUIwYWEwWF9WaGxKcGlWWEF0WGFUTnRGcm9lNnd3cVRObmlaX0tEX3RuNnZDczExOGJ3UFhPczNRYnNMdVhIXzDSAcwBQVVfeXFMTjk1OU5DNGlPUVdoTHZoYmVNRHNzaFoxZjJKOXZRaWV5bDdGWDVabElGajQ5c1AtdFprRFF4dVVHOE55UXFjYUFuekdLVGF1OUE1QV9ubzBOVGcyRTB2UUJwSE9BcU9RaUdCd3g0cXBuTWJCWWMxdE1vTzMxc296bHRWWFdKSmtFb1BnRVFCMGFhMFhfVmhsSnBpVlhBdFhhVE50RnJvZTZ3d3FUTm5pWl9LRF90bjZ2Q3MxMThid1BYT3MzUWJzTHVYSF8w?oc=5",
-      "source": "Devdiscourse",
-      "date": "2025-09-11T10:28:46+00:00",
-      "description": "Poland's Defense Stand: The Drone Incident Heightening NATO-Russia Tensions  Devdiscourse",
-      "query": "drone security breach",
-      "detected_at": "2025-09-11T12:08:50.669102+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "59420a2995ac"
-    },
-    {
-      "title": "Two arrested on charges involving flying a drone carrying drugs in Kershaw Correctional Institution - WIS News 10",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTnlVOWVENTVoR1BTMk4xa2h3UTc4M3dGZy1HTXN6c1UySEZUckJRVUdkT0FpRUJaREpJbEFFRnlNRE45dE0tbkZEcTl6V19EU3R0TmM2TDg1RGZnX3ZadzFoMzJEUzFTNk1TMzdRODdsUkl3clU3cTl5YjdTU0ZOUndsaFl6YnJUcWxaSHg0cUczLUZpa21PQUlmLS1Bb1phWnRGSnF3eU5Rd1kxWElaQ2UwMEZITW9UYllQbjBoTXcyWVIzNzBzZHVGaw?oc=5",
-      "source": "WIS News 10",
-      "date": "2025-09-11T10:02:37+00:00",
-      "description": "Two arrested on charges involving flying a drone carrying drugs in Kershaw Correctional Institution  WIS News 10",
-      "query": "drone arrest",
-      "detected_at": "2025-09-11T12:08:46.573960+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "38a275e96766"
-    },
-    {
-      "title": "Russian drones in Poland's airspace stir worries for Europe's civil aviation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0wzNHp2SEF6eGsxNTJHdngycFVIMmVfajQ4cVJ2QkxsM09DMHdBOUJGd2w1bTByeG8tTVN5dkNpZWVKb2UwVjdMU0psNFUxX0VHNjk0c0ZsbVMzQzZJRXZWZngtdk1hSG1iNkgtSXBNWG9pQUNYRWp2OFhTRHZqMWtDNDZPVmhhYzY3WG42d3M5alFUcW11bTJUOEsyWVVJOE5qMjE2aXdUS041N01VOHZwRENTTVczSUdlUWs5TDhHRFk2b3RMZWJ3?oc=5",
-      "source": "Reuters",
-      "date": "2025-09-11T11:22:19+00:00",
-      "description": "Russian drones in Poland's airspace stir worries for Europe's civil aviation  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-09-11T12:08:45.898540+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "34ce513e8f50"
     }
   ],
-  "last_updated": "2025-10-02T14:05:31.649814+00:00",
+  "last_updated": "2025-10-02T15:05:41.065595+00:00",
   "total_count": 1000
 }
