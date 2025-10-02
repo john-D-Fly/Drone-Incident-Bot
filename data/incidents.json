@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Two Amazon Prime Air drones crashed in Arizona - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3lVc0ZCbHFIbkptc2tjVXhhVnVJbFNGeVFPc080MjBBakN0Q0lLTVNsLUthQTMyNk9mcll0YTBGbWQ4S1hGSHpLQkQtVXBPejZJNklhby16UkFVakRtMUthc2oxdFM1WUdnM1ZPTDlNN1NXZnZ6UW5WbDl2b18zWkhkckY3ZVB1NDItajJHRVVEcFRLb2dSRHdCRQ?oc=5",
+      "source": "Engadget",
+      "date": "2025-10-01T22:48:57+00:00",
+      "description": "Two Amazon Prime Air drones crashed in Arizona  Engadget",
+      "query": "drone incident",
+      "detected_at": "2025-10-02T05:05:56.345745+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3f77e9a05d0a"
+    },
+    {
       "title": "Springfield police arrest suspect in commercial burglary using drone technology - WICS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjFzUnozRVVDN1RQTFdBU3lCX3RrSGN0ZmpZNEVuakZkVkdBWDhEcF9Eai1uRFNEN0MzdEIyQVpKMVFkRkZ0UDlYNkgzYnhXV3E3Z0QycnBOX2NPMlB2VDB0d2wwSXFxTzR3UjhoR3U2RklQUlZNMUdiMG5DaTUzdlozODFjVmREdlo0UkdJNkVpMFdKZGRYaXdpUE9mVzNMVkk1NS0tc215eS0xNFhFdHFwWWFVVkU?oc=5",
       "source": "WICS",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2aad6a8faa72"
-    },
-    {
-      "title": "Two men accused of attempting to deliver drugs to prisoners with drone - WACH",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVNPUEtJSmdlNXNYNGY3eU5aMzVMS2NncVB5b3cxdWRLLUZmbTlQMHo4eHZsNFhxcjZkTlp2LWpoZlNaTHVibGZCaVFwTFdyd0x2bzc3SHRnUENWY1p1WHNycDVPRXlwaEx1OTI3TW1nWHFVYTFCTGpFeUozREc4TVo3c0FaOWJHNFBWN2hob3FORVBnSnJaQ3gxNnAyQUtocFRHTUN6VGRhVVN1OHBSazZqOG5ZYnE4VXc?oc=5",
-      "source": "WACH",
-      "date": "2025-09-10T18:26:59+00:00",
-      "description": "Two men accused of attempting to deliver drugs to prisoners with drone  WACH",
-      "query": "drone arrest",
-      "detected_at": "2025-09-11T01:33:18.601896+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "018f762e3187"
     }
   ],
-  "last_updated": "2025-10-02T04:06:20.573581+00:00",
+  "last_updated": "2025-10-02T05:06:02.580480+00:00",
   "total_count": 1000
 }
