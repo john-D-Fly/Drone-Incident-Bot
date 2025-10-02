@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Suspicious Drones Spotted Over Thyssenkrupp Sub-Building Shipyard in Kiel - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1RMckFMbHRNSFJzNUJzQXA1aFNDZURjdk5FNDYzbEpUcTRmYVFrcFhxR3A1UlJnVXJ1N1E4LURDTzFIMTNVVFJWTGxMc2x0c0NEYV9LMXRUdnlRbUNsQmk4YVUxbU9EODZ1cm5uZWg1LURhQjVFcUJRQm1xZm1BNTBNVEV6LVlVbkZOeW5xWV96MC1PcXZRZUYwR2pyLWRvOTQ2ZW1HSHJ5SUwxdVp1MWRR?oc=5",
+      "source": "The Maritime Executive",
+      "date": "2025-10-02T08:00:47+00:00",
+      "description": "Suspicious Drones Spotted Over Thyssenkrupp Sub-Building Shipyard in Kiel  The Maritime Executive",
+      "query": "drone incident",
+      "detected_at": "2025-10-02T08:06:51.118175+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bc8849c1950e"
+    },
+    {
       "title": "Can you shoot down a drone hovering over your home in Wisconsin? Here's what the law says. - Milwaukee Journal Sentinel",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGttWWlFaGY2MDlSOTZ3TEdhZVNQYWpmel9CTVFVQ3lXU0lKMG1pU0JKU3dpNFNoZ1dKVHdSVlRtLUJJY3EyY1Vsam1UMlo5V0xVSlNhWTRSTG1fVW93aG5SZGM5Uzk0TWdySUROdENodlIxaGxhVUE1SklIMm5ZY01VbW4wZ1d5WE93c0pkWU9mTGE0TUJEQkdBQS11QTg5aFNrTWc5bHJRXy1wY2t5VVZ4R0ZpeURUUDdN?oc=5",
       "source": "Milwaukee Journal Sentinel",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "28ada1cc4e42"
-    },
-    {
-      "title": "Statement by NATO Secretary General Mark Rutte on the violation of Polish airspace by Russian drones - NATO",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZVm1uSjJTQVJ0NkFSVDBlbUZjVFp3aFhFb2phS3RPb3l3Yzl3SU54Z0VnYmtTU3Y5c24tUmV3bHhyQTFHV1Qtcml2SExIUlFNaWpDeXlWUWVuY0g2UHBocWJzUWg?oc=5",
-      "source": "NATO",
-      "date": "2025-09-10T11:21:42+00:00",
-      "description": "Statement by NATO Secretary General Mark Rutte on the violation of Polish airspace by Russian drones  NATO",
-      "query": "drone incident",
-      "detected_at": "2025-09-11T02:31:41.043190+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fbd4916bc6b8"
     }
   ],
-  "last_updated": "2025-10-02T06:07:50.629004+00:00",
+  "last_updated": "2025-10-02T08:06:57.599430+00:00",
   "total_count": 1000
 }
