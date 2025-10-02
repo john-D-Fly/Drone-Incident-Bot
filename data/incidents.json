@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Amazon facing inter-agency probe over drone crash (AMZN:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkNPWnptRzAydldGc3N2Z1hWRWVMVFYycmdDRVctWU5Bay00MTd4OXJmb2pqdjFDdWR6UzVITnVVZVJSNEtfYWpwUm9zS19QSFdQUWNYNjJuZW5YbURIWFBhMnBpdjZCMGk2Vk1KSFRkSXh2WDlsV1RfaVltMUl1alRjVzJ1MUVTcnpuMXgxQ3g?oc=5",
+      "source": "Seeking Alpha",
+      "date": "2025-10-02T18:36:07+00:00",
+      "description": "Amazon facing inter-agency probe over drone crash (AMZN:NASDAQ)  Seeking Alpha",
+      "query": "drone crash",
+      "detected_at": "2025-10-02T19:05:16.723247+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6a74257ae46b"
+    },
+    {
+      "title": "Amazon (AMZN) Drone Operations Halted After Collision Incident i - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDhHSjFrbVBhamZ5YmtVRzlsdmJsN3pRUFFteXNyR3dPamJKS1M0MUpEOGZGdFFXOEl1QlYtYkNfUUZpZTFXenRfbzZtaDZKeGdwbkFlWGxGd01sc3BuRWZwSVQ4UXNTQ190OVJIVFliTVlrODRFUWxXWHQ1TmdodDB2SzFSbGZkQ2tCR1VvMld2UVgxR2pLVEoyUGR0ZmJucXRESTBFQ3NpRUJSMzZJ?oc=5",
+      "source": "GuruFocus",
+      "date": "2025-10-02T18:57:37+00:00",
+      "description": "Amazon (AMZN) Drone Operations Halted After Collision Incident i  GuruFocus",
+      "query": "drone incident",
+      "detected_at": "2025-10-02T19:05:12.845058+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "012f3f349b09"
+    },
+    {
+      "title": "Amazon faces FAA, NTSB probe after two delivery drones crashed into crane in Arizona - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyRkx0RmNTeXRQNHJraDE3bDZ6UVRRQ2wwbGZVZEc1bDgzY2lnNEdCSzQ1dXJ1cDVESU1VVktERGIzYmZSOXJod3hDeXRHb09tNmJsNEF3UzB4NGJKWG4zQmZuUVZpc0J4bFMyWEw5d3FCd9IBd0FVX3lxTE9HdDR5RmxSS3VqMnROb1pJOG9nVE9SZTZTQWVLSG9CQUNxTFlsUTdiZlhUa3llLXh6UHF5c1JOSE1iaEktYWc4NkU2WHppSEtmdkZzWXVzNDUxRDVtYVJsN1A5dWV2ZWJOMVBWOEN5MTdzNXNIMHk0?oc=5",
+      "source": "CNBC",
+      "date": "2025-10-02T18:14:16+00:00",
+      "description": "Amazon faces FAA, NTSB probe after two delivery drones crashed into crane in Arizona  CNBC",
+      "query": "drone incident",
+      "detected_at": "2025-10-02T19:05:12.845058+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "7987f90e9b33"
+    },
+    {
       "title": "Two Amazon drones crash after hitting construction crane in Arizona - AeroTime",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5QTlCWjBjc2Z6SGZ5YlBBeFFiWUJWUHB4NXlhMzJrVHotclI2d3ItYXEwVGpfMDI3T2VUS2JQTHc1UVBlTGZsVkRSX0FQdGFBNnZCbmdBSVJlODk3cUdZWEFvUWxqbGNienJLM184ekNkNU11UGQ00gF8QVVfeXFMTzVDd1VZSVRhNWVsc2NaV1B3MmRQZElkMFhocnZmMlhsR09zWUpYTk5rSkhVdkxRSzFfd0xUOGZsclZmNjVtOHVUYnp3WFZ6ZFhjMm9LY3VGVElQd2dMMU5KYmJ5UlhEaXItcURqUGhFSWR5a2ZQR2xuWFhsSA?oc=5",
       "source": "AeroTime",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "3d81fc80d1aa"
-    },
-    {
-      "title": "Poland calls NATO meeting after downing Russian drones - DW",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWR5czBhcGFxVjM3NHUtM0JPcXhQSTRMWmZhZmxYNnJoYTNWU3pyUUpZLVNzWUNKZ1o2eGpCZ19IWTk4Y3dIaE5QSnd4bnFNWVl1QzNHSXhfTFhCVE8wb0dONkZxWHMxRUZYdlZHTFBlZWJKeEJzMXIxSF83ZWJCNjg0Y3R1THEtMkIxX01MbTk2Q2s1?oc=5",
-      "source": "DW",
-      "date": "2025-09-10T16:13:50+00:00",
-      "description": "Poland calls NATO meeting after downing Russian drones  DW",
-      "query": "drone crash",
-      "detected_at": "2025-09-11T15:05:32.423424+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ece1861e95ec"
-    },
-    {
-      "title": "Police use K-9, drone to locate driver accused in crash into East Greenwich store - WJAR",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaHMtdy1MVWcwa3Q4eFJiZk5ocmdMMm1XMWo5enRQRHN4N3lXUzdNOEFJeTMyVWlmMENjWEo3ZjhFS0p4cmluLUJEZlkzTXBtLWE4cG1VRVV2c3NFX0hkNHdLTjc1QTlSYWhhSV9hLWphR05OTXNyQ3g5NkFsWldDRWNnaVFsODRnSXdjSFBuR1VaVGx0OFNCNnpkTG5LYXFIMVhHYlpHa3FEcHFWVFJNbHhldGxuRFFOY0UyZ05kcWJqS0ItTi1SZlYwVFplWGxsMUp5SkJiRm1SZmNyMy04elYtUXpyakNLaXVhbldlWGI?oc=5",
-      "source": "WJAR",
-      "date": "2025-09-11T14:34:12+00:00",
-      "description": "Police use K-9, drone to locate driver accused in crash into East Greenwich store  WJAR",
-      "query": "drone crash",
-      "detected_at": "2025-09-11T15:05:32.423424+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "13b8e7fc590d"
-    },
-    {
-      "title": "Poland calls NATO meeting after downing Russian drones - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWR5czBhcGFxVjM3NHUtM0JPcXhQSTRMWmZhZmxYNnJoYTNWU3pyUUpZLVNzWUNKZ1o2eGpCZ19IWTk4Y3dIaE5QSnd4bnFNWVl1QzNHSXhfTFhCVE8wb0dONkZxWHMxRUZYdlZHTFBlZWJKeEJzMXIxSF83ZWJCNjg0Y3R1THEtMkIxX01MbTk2Q2s1?oc=5",
-      "source": "dw.com",
-      "date": "2025-09-10T16:13:50+00:00",
-      "description": "Poland calls NATO meeting after downing Russian drones  dw.com",
-      "query": "drone crash",
-      "detected_at": "2025-09-11T14:05:39.787974+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ea0f64f975cf"
     }
   ],
-  "last_updated": "2025-10-02T18:07:03.275384+00:00",
+  "last_updated": "2025-10-02T19:05:20.251938+00:00",
   "total_count": 1000
 }
