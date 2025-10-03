@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Von der Leyen’s ‘drone wall’ plan crashes into EU reality - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEEzQ2diaDlLTWE0QVZOTkdYVnZHR3k3ZVRGaTdOVWY4RmphYzB4bEc0OHFvdmRjWS1PR1ZBMThtLXM5Y2lsSXpIQ0xnRlhnNXI1Y3RFLUxNVHdDMjd0UFpuN3k1Z01NZ3pYeHBlSG9tRk5wZ2ZLcnF2Y2dDOHYxTW1zNkJXWDAwV252bTkxbw?oc=5",
+      "source": "politico.eu",
+      "date": "2025-10-03T03:00:00+00:00",
+      "description": "Von der Leyen’s ‘drone wall’ plan crashes into EU reality  politico.eu",
+      "query": "drone crash",
+      "detected_at": "2025-10-03T07:05:30.351958+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1388e1f1b63b"
+    },
+    {
+      "title": "Amazon drone deliveries to resume in Tolleson following crash - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHdRT19PYXJDVzF6T3U0VUc0UmZKOVJ4OWtzaUhkZjNWSTJYZHNKclRyMGN4SS10dnFQUVBGMWJoSHQtXzZLT2RYMHBNRW4ydE12SWRsendadkF2cUNYRm9mazI0STFyT1oyc3oyY3BpTTdwMlRsUE5EY1dzdDdiWWFoTdIBiAFBVV95cUxOTWlybEZnX2dhUldkRXJvLUZpQUtpSS1QYjRQM0RmNlhCUS1jUGhMTXBKX1ZtemtCT3NNTm41S1dwNnp3TnlJZDZaNTJJLU9fMDlfdWQ0ZU91MWlwZUhtU2NybmkwSkd6aGlaQUhTMFQ4ZjJ0eU1VMk5hNXhic3F4bU1paC00S1RO?oc=5",
+      "source": "FOX 10 Phoenix",
+      "date": "2025-10-01T23:18:18+00:00",
+      "description": "Amazon drone deliveries to resume in Tolleson following crash  FOX 10 Phoenix",
+      "query": "drone crash",
+      "detected_at": "2025-10-03T07:05:30.351958+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "86600d3e0c36"
+    },
+    {
+      "title": "FAA to investigate after Amazon delivery drones crash into a crane - KNOE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRrR2ZYdXZ1eEdzNWRPcVZPR3VTcTJNLWhXSVpPRmZ6QjhjMVo1cUItdDdtemx5eWZWclVia1ZCSzJhMzdDX1BnSVlkTmNVTzZ5YUhhQjF2ZkhIU3ViWkhHMEhqa2RWZEM5VmVwcmtqdnowaUZMeExIQ1B6MUZrOEV2WXFLVTJoUTBPZThwemhnNVhGMmdra3h30gGuAUFVX3lxTE1sVDJZVUl4WWNtWVRmQzl1MDFaMlNmSEJOMlo4RzJ2d01RWHFuaExNMzRkNTdWR19ibEJKMTlrNzZvbjJPUFAwWHBVejU1dndTeGJHR3JvRHJnRm5UNWt5Uk9xeWlENFdabjBUdTc5eWdVamdYTGFOS1MxU2dkOFh5UGJ1cW1vVkJsZTJaOHR6YU9oV2ZFMEMwUG1ZN2hvczJ6Q3RkdmFMSG5DS1BlUQ?oc=5",
+      "source": "KNOE",
+      "date": "2025-10-03T01:45:00+00:00",
+      "description": "FAA to investigate after Amazon delivery drones crash into a crane  KNOE",
+      "query": "drone crash",
+      "detected_at": "2025-10-03T07:05:30.351958+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "20d8e068d1c6"
+    },
+    {
+      "title": "Munich Airport resumes operations after drone disruption - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2JadFFEem40SzNDSVlkYlZvaVU0b29zNUk0VEJjbWtNUnp3ZlVpLTI3aEt0WUtObjZXbnRiX01QQmpEaXV0WE1ldDViRnY3elVlM1RBQ0NVX0pQX2xmNWdvNzVfbjhRRmdVM0tQcGczQkhkZDZWZTJuQ05DWUtQWW8xUQ?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2025-10-03T06:07:59+00:00",
+      "description": "Munich Airport resumes operations after drone disruption  Latest news from Azerbaijan",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T07:05:29.763923+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "58e1d2b755ad"
+    },
+    {
+      "title": "Germany: Drone sightings disrupt Munich airport - DW",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhJdzdPeU9uM1dMdFZnUFE2a2RvTGdweC1PeU1tZ2FyUmxWSndUeUNMYXIwMjRvMzktZVZMMlY5b2t0NkVrR0kxOW9FMGN5c1U2RE5vc3lqdTRnWFhCSGZscXpHRFlLamhQS2JWbmMwd3VIT2ViMXJqM0wxaHdScms1VEdwQdIBhgFBVV95cUxPTWtldXZBWDk3eURHSnhVSHlPUXc3QTY4b1BVUFBHZEdWZzR0cWZSc3JTbkQxbVoyWVRlamJqdF84Qm1qMU8yVkVfRXlQdk1FMV9lTDBOUTdRRW53UlR0N1pQSnByUmJaX3J2NGdfN3F5aHRDNU5oZGtjVmpSWHNkODhzcmV0dw?oc=5",
+      "source": "DW",
+      "date": "2025-10-03T04:17:07+00:00",
+      "description": "Germany: Drone sightings disrupt Munich airport  DW",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T07:05:29.763923+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2bb4b9bc9060"
+    },
+    {
+      "title": "Munich airport reopens after drone sightings halt flights - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHQxMHg5dlBuNkp0XzBrYW9pR1Z0ZEpTY0VPWjVKeHl5UHE4X2ZxMnRGaUV4dmc3enBVUWV0cDhsUVFUVEk1MzB3X3VzTWpXeG9JbC1NUXBVYlM5MGhoNzg4T2NhMVozM3p4MEx2OHktN3NQRnM1OGNFRkR1eGM2NS1WMHpxX1E0SVkyLWlUQzhUNjFVZ2c5Mi15YV9rd2QtSWRndmh5N2FZZE5EN1hsYkVJOUt6UDhj?oc=5",
+      "source": "Reuters",
+      "date": "2025-10-03T06:38:00+00:00",
+      "description": "Munich airport reopens after drone sightings halt flights  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-10-03T07:05:27.418204+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d9d85bfe717b"
+    },
+    {
       "title": "Munich airport reopens after drone disruption amid growing European security fears - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1BfcmlMTmdWSjAyQmlLT1N5QVhYTFV3LVRiRGZGMHoyNjRzSDJWSlM5S3AybTBfRHlQY2tqOWp6aGYxR1g3Qm9wSkQxMFZ3MTdCZkJNcTI1QXVnYlY5Z01kVlJTZ0o5Q1UtWXB1bFlmVHdRb2pUN0hMZUFtZC1YeV9jaFpZdWJNa0VSdGJyVkFSZXFEY3BQZlBvZlZMeGVIV2NXcjBFYWNVTEdqenZHT1pRdTI5cDB6QVo5QXE2eFduSDl3V0cxQg?oc=5",
       "source": "TRT World",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "4ba92ba8ade9"
-    },
-    {
-      "title": "Poland tells Trump Russian drone incident wasn’t a mistake - MSN",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDh1Y3NjSUtlaTFKc0dqRVJoX1JIeE5ITTM3dFVGMEdZbHBJUExLYkNoUmt5dU16TUtpRU43dl9ZNFc4cTFpaEpkWThBcS1UZkdEQjNVVDVrOE93czhlNG54b2F3c3JqUHprLWNYVllSaFRMSHNzWTJzaFY5OVFRME1BZlVlOVQ5NVcwLTVlUUF4S3BZV1ozajY3V2pHZ3JINGNfUG8xMHBiTVdGZ2NGdFYzeWdwY2M?oc=5",
-      "source": "MSN",
-      "date": "2025-09-12T16:22:56+00:00",
-      "description": "Poland tells Trump Russian drone incident wasn’t a mistake  MSN",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T17:04:57.731751+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d08e31c5760f"
-    },
-    {
-      "title": "Cheshire Police to use drones to catch illegal e-bikers - Nantwich News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX05odGF4SFhBVUNtSTFlZVhURFBSNVRmb2ZvRC1rUUluM0NlelV3UGllRlpISGd3cXRxUDdlU0dJQkxYWEdPZVJ0U3NycXJMRkVCV1duM0FuelNDV2toNTVQbUZmeEVhc1hTcFVDcXYxQ1k3SHhCaEpMR1lqRkhpZ3NkMGV4OC1VeDNhUE5CWGtBbVRwVUxDYkxuVkQxUQ?oc=5",
-      "source": "Nantwich News",
-      "date": "2025-09-12T15:40:06+00:00",
-      "description": "Cheshire Police to use drones to catch illegal e-bikers  Nantwich News",
-      "query": "drone illegal",
-      "detected_at": "2025-09-12T16:05:46.845375+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "66fab727ab3b"
-    },
-    {
-      "title": "‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjQzZmx1SV9fQ2lrUFhDN1NhY2ppQ3hCMktUbVlYX2VwcEl6c2k0dzg0WEJNdEtsQzd5OTN2a1dKd2gwMWJBaWQxbHJxNFgzLWJIR3c2cTNPLTFsZXQxenZqZjBMcDZISmNOR1gtZzNrbTlkVnNuUjgtbFJJRk5CejFLWE00eTA?oc=5",
-      "source": "The Washington Post",
-      "date": "2025-09-12T15:55:08+00:00",
-      "description": "‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T16:05:42.285273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1b24a6f7f350"
-    },
-    {
-      "title": "Poland says Russian drone incursions could not have been a mistake, contradicting Trump - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGU3WHhQRnV0NzFiRUNZZ0xVcVRFUS1FcTduMkRoVXc1SGpuN2RzU2tpWnU5RXF4RlhXNmFxZDRqNGlRbWxOSGJvM3JycUlNNGRZaURJeUJpV3NSUDJTQXlsZ3hYMHVRT2ZWOVB4d2pUYUJRejlKaDZfenhnZHJDTnoydkFsaEg5Vzgwa2hPdmEwaG1qaDhENHR0NTY5RGxtSnl3YnNSUUtjdjlnOWxIcW1WREg2ME91TGxVbS1oSGdCZThSZ25EY3RrMXFmQ05Ic0JsSnU2bDY?oc=5",
-      "source": "Reuters",
-      "date": "2025-09-12T13:01:38+00:00",
-      "description": "Poland says Russian drone incursions could not have been a mistake, contradicting Trump  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T15:05:30.076312+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "21e9799c27c1"
-    },
-    {
-      "title": "‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjQzZmx1SV9fQ2lrUFhDN1NhY2ppQ3hCMktUbVlYX2VwcEl6c2k0dzg0WEJNdEtsQzd5OTN2a1dKd2gwMWJBaWQxbHJxNFgzLWJIR3c2cTNPLTFsZXQxenZqZjBMcDZISmNOR1gtZzNrbTlkVnNuUjgtbFJJRk5CejFLWE00eTA?oc=5",
-      "source": "The Washington Post",
-      "date": "2025-09-12T14:48:51+00:00",
-      "description": "‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T15:05:30.076312+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4535cc718f6f"
-    },
-    {
-      "title": "Poland tells Trump Russian drone incident wasn’t a mistake - MSN",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlIxbFRvQWY3UVNQdDZuS2JSYTAyZ0RBTktKRzVGekVUOGRZR1BpMU1xUVJLNmhOdlM4VEdsR19GblRzZTVwYi05dF9IcnhySExsUzgzMVgyQWVJcUpVWE9SNTU4MHlpemlPaXRPd0ROQml1TUkxOTE2TFR0X1VTRlpneGl5UzNHcThXMXh3Qk1VYUt4NTZWQjJ4M0lFVkp0M01fUDlSdEFSTVBqN0pFMjJB?oc=5",
-      "source": "MSN",
-      "date": "2025-09-12T13:42:41+00:00",
-      "description": "Poland tells Trump Russian drone incident wasn’t a mistake  MSN",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T14:05:18.127493+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e7b2943be6dd"
     }
   ],
-  "last_updated": "2025-10-03T06:07:39.145236+00:00",
+  "last_updated": "2025-10-03T07:05:33.225538+00:00",
   "total_count": 1000
 }
