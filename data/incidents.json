@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Amazon delivery drones crash into crane - FOX 8 News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQRzhoWjRta0JEbFd4eUxDbXdzcmJkbGRpSmlqU29TM1ljZGxoaEdOcUd6b1lLQUQtYTFhUENleFJPRTVSQ2t6YXJ3dk5DODJDMGZkNWxQN3dMSG9VSm10WDdlZ1NTeDZEWVM2bzZyNNIBdEFVX3lxTE44NGhqLWd3dVctd3Z6dFk5RmpNQnlsMHY5N0lXRklYZktwcEtrV0QtbmxBNU5NZU1IbmJaN2h5cmd0V1NoQ2VlaDU3eVhmVkM3QTJNUW4yX283SnV2UlFnT2ZKYTNUc0wtWXBQUUgwR3RlWXJ2?oc=5",
+      "source": "FOX 8 News",
+      "date": "2025-10-03T16:46:26+00:00",
+      "description": "Amazon delivery drones crash into crane  FOX 8 News",
+      "query": "drone crash",
+      "detected_at": "2025-10-03T17:05:03.051657+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "584bacc45ce4"
+    },
+    {
+      "title": "Amazon pauses drone delivery after Arizona crash - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW1uWmk4QWFvRUEyRDBQYkFpakc4Z1FEVzRZYzdGeTFzNEFqNzVnbmJadmc2S252U3dHRUFKcEtoRGtTcWp4QnFKOEhBdWJNb09RQk5PbWpUak5uYVhEQy11U1F6WEw2aDJXakVkdWRBakxzSm9KYmc5aDRSbTlPSU9DLVJEd1Nk?oc=5",
+      "source": "Mashable",
+      "date": "2025-10-03T16:52:30+00:00",
+      "description": "Amazon pauses drone delivery after Arizona crash  Mashable",
+      "query": "drone crash",
+      "detected_at": "2025-10-03T17:05:03.051657+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ea3da4b2fa6f"
+    },
+    {
+      "title": "New footage shows apparent strike on Russian refinery near Kazakhstan border - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uVFVxWWJvNGVDN2VhdkZnNkdwMXVicWJVamJRekExYkJPdFBvOV9XaUNTcGxSUmJPb19UekNjc0lSU3p5R3lwZ0ViNFc3VVQwMVBkZg?oc=5",
+      "source": "BBC",
+      "date": "2025-10-03T15:53:12+00:00",
+      "description": "New footage shows apparent strike on Russian refinery near Kazakhstan border  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T17:05:02.464892+00:00",
+      "location": "near Kazakhstan border",
+      "category": "other",
+      "id": "736cb8a4fab4"
+    },
+    {
+      "title": "Germany: Drone sightings disrupt Munich Airport - DW",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhJdzdPeU9uM1dMdFZnUFE2a2RvTGdweC1PeU1tZ2FyUmxWSndUeUNMYXIwMjRvMzktZVZMMlY5b2t0NkVrR0kxOW9FMGN5c1U2RE5vc3lqdTRnWFhCSGZscXpHRFlLamhQS2JWbmMwd3VIT2ViMXJqM0wxaHdScms1VEdwQdIBhgFBVV95cUxPTWtldXZBWDk3eURHSnhVSHlPUXc3QTY4b1BVUFBHZEdWZzR0cWZSc3JTbkQxbVoyWVRlamJqdF84Qm1qMU8yVkVfRXlQdk1FMV9lTDBOUTdRRW53UlR0N1pQSnByUmJaX3J2NGdfN3F5aHRDNU5oZGtjVmpSWHNkODhzcmV0dw?oc=5",
+      "source": "DW",
+      "date": "2025-10-03T13:22:33+00:00",
+      "description": "Germany: Drone sightings disrupt Munich Airport  DW",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T17:05:02.464892+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6f6940d49c9c"
+    },
+    {
+      "title": "Calls for police to shoot down drones after Munich airport disruption – as it happened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2J3dDBsX04xaWg3Tnpac3RvZjUtRVVZSFc4akhkc2MyZ25QUE9xY0lJemdGc1BSWVhTVzRCcldRaW1DVnFROTFNMTBPNXF5djR1MGExb2xnWXp6cHE4bWxfM1hwTlhxN3NEaHI5djVoT1ByRDB5V29CeWZIRDY2WVRVSWJmRmZ6QUQ1akI5VmFmU0lZdmtQM3JlNW9UMjl4TmNKQWNtSEJ6QkV1dl9tUWgxZ1FvQQ?oc=5",
+      "source": "The Guardian",
+      "date": "2025-10-03T07:55:00+00:00",
+      "description": "Calls for police to shoot down drones after Munich airport disruption – as it happened  The Guardian",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T17:05:02.464892+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e78c9f458795"
+    },
+    {
       "title": "Amazon drone crash reignites safety, regulation questions - DroneDJ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hdmQweG02UFl6amtqTEg2NEJEQUtYd3QwOEJkZVZoZFdFbWxDRzJtT2ZCSGFGbHBva292bVVCM25LR1JDRjlTbk1iQWJmS2F6QVpqUzZnSDExa0FjcVE2eWdwSlFJVm9tQkV6UVh3R1RKUQ?oc=5",
       "source": "DroneDJ",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "15e1771ca0f9"
-    },
-    {
-      "title": "Violation of Romania's airspace by Russian drones 'unacceptable breach', EU's Kallas says - Euractiv",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDJkaGh4RmlObXRiUm5hMnlneWlGXzh3dnJjTUhaWk9waVBEOFVHQnI3NmNNVmFSajZTdkRjT2pxVTFqLW8wdTlLOUpxbHc3MFF3blFDd1RUSUV3V3BxSVNzMmdfRXFGQjZOU0pSb2dwcGtkYUg0bE90N2RDM2cxQ3F1UVlqTUF1VFd2RmlTRGVndVBpXzA2VEtNWGwyNV9YTEptczdZdWFFOTNNM3MyZTdIemlUZw?oc=5",
-      "source": "Euractiv",
-      "date": "2025-09-14T15:30:58+00:00",
-      "description": "Violation of Romania's airspace by Russian drones 'unacceptable breach', EU's Kallas says  Euractiv",
-      "query": "drone incident",
-      "detected_at": "2025-09-14T17:04:44.134355+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "77f57d220bb2"
-    },
-    {
-      "title": "Poland not ready for talks with Russia on drone incident - Mehr News Agency",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlVvdW8xdnRnYjFSeks5S2dXazBWX2lQZGtSWXZBUTUxUXluY0JLZDhsS3p5YjRVNTNfYjZrQUJRZUVaRFEzb204SHhEZG1hOVp3RWFrc0tCUHNYc3Jpa001Tmw0U2dzaVp2X3ZRTjlmRHNFNWRLQm8weUhJUnBKNVJpQXpnczVreE1YLW5XbU9fQkVlQzdv0gFLQVVfeXFMT3Ntd1pERmlWaUVlYk90RlpDd1NDQ1JSQ25JdldDQ2s4N0ZhMXRTMTBkcHlIVkFEd1RhZEhrWnV0UUxVc29lc1VOSUFn?oc=5",
-      "source": "Mehr News Agency",
-      "date": "2025-09-14T11:53:00+00:00",
-      "description": "Poland not ready for talks with Russia on drone incident  Mehr News Agency",
-      "query": "drone incident",
-      "detected_at": "2025-09-14T15:04:50.521067+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ac1464549f76"
-    },
-    {
-      "title": "Poland, Romania scramble jets as NATO ally records new Russian drone violation - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlJmUDh1NThneFR4TUJUOGNxd0dqZUM1ZnlDUEViczRncV9KY24xQUQ2amJRbFdpaXRueHYtdlJWN3ctN0FBcnhiSVFTVDhqSEZleGpGb3dpQmhYLTJ4WnowVTd1WGh4RHJYYzVvSmR6UkFMY3BmYzUwNFJUZHBWNzc2ai1oVjdOYmpWUURtRTlHVjVvdjBoYVJ2bUEweXo2b0E1WU94Vk5wWnfSAbABQVVfeXFMTk1QdllYUVo2WVVYU0Y3VnR1ZnFBS0tGRU95R2VnQzZtMVRuNThkOFlfaTlfc29NRm1pbTFSMXhuYnRERkFBeUR2UW5DcDVqbFR1UElkbmxyZTdoUWVsMUM4aEdQamRBaFdfNmxXcEdrbnA1djkwYm1teUpoajdrTFpBSElsMncwSUpMdVdUaUk3V2FnOGx6OXpRdzYtUHh4MHBrYTlTT3FGOW9kM2lQdU4?oc=5",
-      "source": "ABC News",
-      "date": "2025-09-14T09:33:45+00:00",
-      "description": "Poland, Romania scramble jets as NATO ally records new Russian drone violation  ABC News",
-      "query": "drone incident",
-      "detected_at": "2025-09-14T14:04:53.037106+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e373bc92b4db"
-    },
-    {
-      "title": "NATO to bolster eastern front after Russian drone incident - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkZoQ0hvX045dWNZWUFSTnlZZXFmYl9BQmRoRk5namlseVJoRi1XWXV4WVdXeElGOF9GMkZYREUwaVBoTzhTTEpVUGtBa3FtTmNQMWVvc002VDhrcmdFYmE3RlpBQldxekUtVElVRUdoalF0S2ZISXJlcHJEaXNXM3BRSXBKWVQ1c1c4UklJMEcxNEN6OWZJSEpfRQ?oc=5",
-      "source": "dw.com",
-      "date": "2025-09-13T10:33:54+00:00",
-      "description": "NATO to bolster eastern front after Russian drone incident  dw.com",
-      "query": "drone incident",
-      "detected_at": "2025-09-14T13:06:49.683745+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "96f1d325bff1"
-    },
-    {
-      "title": "Poland Faces Uncertainty After Drone Incident Exposes NATO's Weakness - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnRNMmYtd0VITEpRdjFXMVBBcWFyMnVmVFRyeXN1dzBCVTk2ZzMtUEs1aTVrN1Fwc3FlajBZS2hlN0tRb0hlTmV3cUVSSW9EZnc5cUNGS1JuUDJCOFc2OU5MRXVkQW9CMFBoenlxVkxYSi1nUl91YklCUng2eE5tZlVpMUlnZi1QUXY3SE1RMTU3bmZxMGd5WS1BZjJyV3BHRWl4YUVnbjBSWTZfZ3fSAbIBQVVfeXFMTVRXZkowX2pnYjJkSFFVMndpTmQ0RFBwVHRRd2VjeTMtNEx2YzRFaVYya0c2TEtnUkN3S1gxdDNDQlFNNDZQNkFadTNtVE5uWkdpdXFSUG5Bd1gxVEd5QTMwMUk2ZUc3RTBBLWxVZURNcDJ5a2VOR00wanI0Wk1tUm4zanI3cU0xNzY5NmFYamtfX1lNN0xwY2QzcjNJU2FaWHdxUllPUEtwV285STJkYzFhZw?oc=5",
-      "source": "Военное дело",
-      "date": "2025-09-14T04:37:43+00:00",
-      "description": "Poland Faces Uncertainty After Drone Incident Exposes NATO's Weakness  Военное дело",
-      "query": "drone incident",
-      "detected_at": "2025-09-14T12:07:52.927416+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "835ce912be5c"
     }
   ],
-  "last_updated": "2025-10-03T16:06:18.118716+00:00",
+  "last_updated": "2025-10-03T17:05:06.537882+00:00",
   "total_count": 1000
 }
