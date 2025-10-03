@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Drone incursions are on the rise at European airports. Here’s why you should be worried - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FRU9RZTdqWUZ6NlJkbzBaV2xiZDlheXU5cGMzUEgwYTZOTG9OZGJnMjlsR3VkX3oyRVFCZllSRXNKMGNTMjVFZWtuNW5FVTdUc1VpaE9od1NHS2NlMUdtUDV5Q3I5OURWdDlVMmUtNFo3RnM?oc=5",
+      "source": "The Telegraph",
+      "date": "2025-10-02T12:00:00+00:00",
+      "description": "Drone incursions are on the rise at European airports. Here’s why you should be worried  The Telegraph",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T05:05:43.588744+00:00",
+      "location": "at European airport",
+      "category": "airport",
+      "id": "bfa98c936487"
+    },
+    {
+      "title": "Thousands of Passengers Stranded at Munich Airport as Drone Sightings Lead to Flight Halts, Impacting Frankfurt, Stuttgart, Nuremberg, and Vienna- Details You Need to Know - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSzRZVFR1ZWR6WmR1YVJVMVB1UnRrT2t5TTNLSGl5QjRlR1J1M0pySWw1dnAwTVlUam1FQ1Y0akE3SkFuM3VwbVR6OHkteGtDb1NMRXdkQXFqdUc2SjQ3TXBvb0RRRlgwQ1Q5X1Zkc0MwZW1WMVpGT3ZJSkdUVUJPWUFTTHNxaFhhbGRIc2tzTE1ET19Rb1pjamQ2aFhMbml6ZlJaSXcyUm1LUlhYbEdQc041VmxoLVdVdHNYRXdnVzdibWpRanZvcVpGaS1lcEtGejF6NVh5dy0xelRfWTlNZXhnN3JJXy0yd3pfd09WVWk4d1Q5QkNCdEVBb1JxNjk5SWF6ZjJPY1FwSjVKVERoS05GLUw2WDFUZ2R0cEVSZW5EWnJ2WWFIbmZNOG5hRjdfWHoxQ19GVng3OUk?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2025-10-03T04:33:55+00:00",
+      "description": "Thousands of Passengers Stranded at Munich Airport as Drone Sightings Lead to Flight Halts, Impacting Frankfurt, Stuttgart, Nuremberg, and Vienna- Details You Need to Know  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T05:05:43.588744+00:00",
+      "location": "at Munich Airport",
+      "category": "airport",
+      "id": "d4938a83ac1f"
+    },
+    {
+      "title": "Chinese Nationals Arrested with Drone Near NATO F-35 Base as Europe Faces Drone Crisis - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkFiSDVLSzVfYW5YeUp3alJBS3NKWXV0QkNDckdobVJnN3kySktoak02aUxPUzR3N0ljTkNlWDJ0dmJoXzBLTTUxalJBRHA2bUFXY1psdk04MS1uR3QzUHV5alZwdEwyY3RfVGJPY0hNbEdCbGRVMTd5Q29jRVFoVmRRWm5hTk5KNmVj?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-10-03T04:57:36+00:00",
+      "description": "Chinese Nationals Arrested with Drone Near NATO F-35 Base as Europe Faces Drone Crisis  DroneXL.co",
+      "query": "drone arrest",
+      "detected_at": "2025-10-03T05:05:41.719026+00:00",
+      "location": "Near NATO F",
+      "category": "arrest",
+      "id": "3572e56d1053"
+    },
+    {
+      "title": "Munich airport reopens after drone sightings halt flights - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHQxMHg5dlBuNkp0XzBrYW9pR1Z0ZEpTY0VPWjVKeHl5UHE4X2ZxMnRGaUV4dmc3enBVUWV0cDhsUVFUVEk1MzB3X3VzTWpXeG9JbC1NUXBVYlM5MGhoNzg4T2NhMVozM3p4MEx2OHktN3NQRnM1OGNFRkR1eGM2NS1WMHpxX1E0SVkyLWlUQzhUNjFVZ2c5Mi15YV9rd2QtSWRndmh5N2FZZE5EN1hsYkVJOUt6UDhj?oc=5",
+      "source": "Reuters",
+      "date": "2025-10-03T04:24:00+00:00",
+      "description": "Munich airport reopens after drone sightings halt flights  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-10-03T05:05:41.118676+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5ea94b8a330d"
+    },
+    {
       "title": "Munich airport disrupted by drones: Flights grounded, thousands of passengers stranded — Key details - Times of India",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPemRHUFExclhmLV9pUlhKSFEzV2xMYXJNRlJ0aFMyMjNROHUwWHV4VHVWTnNCN2RGOGZhR216MC05a3o2TDQyamZlQXByQmFiWGhpMEQ2Rm03empwR0tvN1dCS055VXpRUGFjRGtvRXAxX3phUnFNMy13VXJ0N1JvT2NPU2pJSXlwdFdVREJwTjFsa1ozU0J3MmZlcDNNYVJUVDlza3dDYnB3MUxxaHVESTd1MHZ5NUVCY0pJdzVRRFRCeGlMeUN0bnVFbTFUby1oVWZNeVUzYmIzcWJIZ2lrQXpyWnFZVWRNU3J6aUhtRGFySW9PQjN3cjFQUHp0WDh60gGGAkFVX3lxTFBSUDlmYzl0Mm1KWkNoYlZIZzB0elk3LXVLblJIMzBRdE50bFZOSFpCX2swUmZDOTJTUWM1QlZxSVdrVU1EaTY1VDRhOXNzTllPQkVtUG1ILVhiX2xtby00QU81ejhoeDdIY2N4aWIzYnNvdEhrZjJLNWFjaEllUFNDZkFKbjUxYi15VjJOR004MWhfS2U0Q1Rnem51MHNoaGd2b3h0T1BRV2FxN3NDem5SWVBLYXdFY2xXUzdleWkwR0ZpVnBZajdsZTVQWDcySFhGQXROTGZTc0Y4ZjI2bU52STl2RC1JeHQ1UVdGNGVQdzcxaVJQcEhLaHdTNEU4UWhPZEpEaUE?oc=5",
       "source": "Times of India",
@@ -11951,56 +11999,8 @@
       "location": "in Kharkiv Oblast, in",
       "category": "other",
       "id": "b1b28b3cc305"
-    },
-    {
-      "title": "Fact check: Russian drone downings in Poland sparks disinfo - DW",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTdqa0gzMFB2WjZiSzVXVzc1ci10dVEzM2NSdGp6WXduWUlqZVZWWU52NDRwRWlHQVBDdnlYYXV0MTROcGFHWHI1VlJiYjVSNG4wX3hYVDhERVRpemhfZGdLRHhBa080NlRjdVpkbzFhSGp4S21ONENHdmVkTDNQakdCemJmMi13eGZWYVFVa2NyZzE4UURwNk05UHFnb0pJb2c?oc=5",
-      "source": "DW",
-      "date": "2025-09-12T03:45:35+00:00",
-      "description": "Fact check: Russian drone downings in Poland sparks disinfo  DW",
-      "query": "drone crash",
-      "detected_at": "2025-09-12T12:08:37.386167+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d1f6148533c4"
-    },
-    {
-      "title": "‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjQzZmx1SV9fQ2lrUFhDN1NhY2ppQ3hCMktUbVlYX2VwcEl6c2k0dzg0WEJNdEtsQzd5OTN2a1dKd2gwMWJBaWQxbHJxNFgzLWJIR3c2cTNPLTFsZXQxenZqZjBMcDZISmNOR1gtZzNrbTlkVnNuUjgtbFJJRk5CejFLWE00eTA?oc=5",
-      "source": "The Washington Post",
-      "date": "2025-09-12T11:52:45+00:00",
-      "description": "‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T12:08:34.211661+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "20f4d25c8568"
-    },
-    {
-      "title": "Russia and Belarus start military exercise near NATO border after drone incursion - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXN0cU9BZWJpZ3J3bHd3Qy1kbFRXQjUzVHprQVNoS1FveHZTdElVS1psLTdwdnk4SEVQNmhUTUEyRkNEbHVsc3NseS1oMjlaeGdQX0E1bGlVOVhMUjZCLWduVFFFeXo5cm4yOVlkUFlXNVhsVndLR0NLUktzcjA3WHdidi1CMjQ5OG9naFZwU2pLX1RnLU1EVi10ZGU0U3dTUHR0N2QyWGJfX2RyTmVweXk1T2JUTV9zc1VrNlBRLUk0UFk0?oc=5",
-      "source": "Reuters",
-      "date": "2025-09-12T10:30:30+00:00",
-      "description": "Russia and Belarus start military exercise near NATO border after drone incursion  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T11:04:55.286253+00:00",
-      "location": "near NATO border after drone incursion",
-      "category": "other",
-      "id": "1f4338f226c5"
-    },
-    {
-      "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
-      "source": "DW",
-      "date": "2025-09-12T00:24:36+00:00",
-      "description": "Fact check: Fake news after Russian drones downed in Poland  DW",
-      "query": "drone crash",
-      "detected_at": "2025-09-12T09:05:32.088437+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ec9ce4f33bbd"
     }
   ],
-  "last_updated": "2025-10-03T04:06:11.999424+00:00",
+  "last_updated": "2025-10-03T05:05:47.253780+00:00",
   "total_count": 1000
 }
