@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Chinese Arrested with Drone Near Major NATO Base - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjZvRkNZRTJqMTFJUVJkbVlqYmdnQVpubnl5QmtVeVVUU0k3a25aWTkyRVd2d1N1MHYwQkJYR3VUV25aaHdqbGljRERvUnFwSGxLNG9LMklLVi0yc010bWs5dm91aERWemtlcEVHSHhCZVNBaFRKelZYNEZWci1OYkZBa2tSc2lMLUE?oc=5",
+      "source": "Newsweek",
+      "date": "2025-10-02T16:12:00+00:00",
+      "description": "Chinese Arrested with Drone Near Major NATO Base  Newsweek",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-03T01:32:47.987087+00:00",
+      "location": "Near Major NATO Base",
+      "category": "arrest",
+      "id": "b90785e93f3a"
+    },
+    {
+      "title": "NTSB, FAA to probe crashes of two Amazon delivery drones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpkM3JRQlpKb0hYTVNYZUFJbEV4UU8xdENyQklqX1hlOTRFVlo0SXMwWFJEZmVHQW5lek5JZEppbWNaWklWWThEcHNmbmF2d0JoUzNUTEFNcXpFVVBhdElWMVVyeXpoZ1BtYVVRMnp0RDYxZ3NXbkJEVG5FVXJkcjh1dlU2N1ZNV3VLUDFuSHNCbldtczdfOGFubEs5YlJLbXBtVnJqYzZhVEVtZHZZ?oc=5",
+      "source": "Reuters",
+      "date": "2025-10-02T20:39:24+00:00",
+      "description": "NTSB, FAA to probe crashes of two Amazon delivery drones  Reuters",
+      "query": "drone crash",
+      "detected_at": "2025-10-03T01:32:45.490790+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "08202fdfa398"
+    },
+    {
+      "title": "Germany: Munich airport shuts down after drone sightings; 17 flights grounded - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzNCNmhRZGJlcTk2SVF5Y1ViZFhjdUJIdXdtRUJZU2R0eU1PLWdFNnVlM0FocS02M3RObGp4cEZmSEh4VWo2U2gzXzJyTU1ZcUhGM1JJUEo1dUdZdE5TWjgtal83V3Q3VGowbkxUVDFVUGFGVDFWaUFmYlQ3a281MXVmQ2pBeUNlTWRJcXR6N0VkZDdlcUo5b3p2WVB0RkR5WGdBRlNyTHZvdko0dUJJLVBReGljVUVjdHR1UkVzY0VzWnQ1TUFUSl90cVUzYTJwLVIxbEdvYXkya2t5Z2dDZ2JJMkfSAeoBQVVfeXFMUDF0bjBIMkxncGV3VldiTF9HVGYwTGIwTmdrMC1BWG5QT3FqSVFZWEQtSGRkOTNXSEQtRXh3SXFGR3R2YXRqNUFvYmhZUHFfZTloeUdJNDh0WkVFWkFuWGZsOGZ0SGtmd2J1bDQwcWFsY0JiN3FYMzhYb01GRkRSZ0JscVVoU0tzZkpnNENmT3ZZSWZ3Rll0MWZiaFY0RG9qb3JNckkweV9XUDYzajYxMml1aGExM01IZFVSVlBLcExVTkxsZExPdzFnSE43RDNwMXBCaExrOVlGaGhhNDRSSFdueGpYaWk3ak13?oc=5",
+      "source": "Times of India",
+      "date": "2025-10-03T01:01:00+00:00",
+      "description": "Germany: Munich airport shuts down after drone sightings; 17 flights grounded  Times of India",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T01:32:44.841036+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "9ec70d48f6e5"
+    },
+    {
+      "title": "Drone sightings disrupt Munich airport, halt flights and impact thousands - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWpPNjNkVExzMXV5ODdJYUZqU0pheEdqLUdIR0FtOF9LUVNkM2pwR19uZ0FWeTZ0MUNDLWprcW8yUWdRRnpaLU5mMmUtQkFnU1RsY2xGR005UXJ5SnMzZUdINFRnYmxaTUVDbmhXSTVpS3VteVdIMmVndVZQQTF2MzlnVnNiQQ?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2025-10-03T01:10:00+00:00",
+      "description": "Drone sightings disrupt Munich airport, halt flights and impact thousands  Yahoo News UK",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T01:32:44.841036+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f428286c7fa9"
+    },
+    {
+      "title": "Munich airport closes due to drone alert - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xUXpZNWYyTEZhdVpWSWpKTFlNdHhKUDFOdjl4N1dBWGJjNHUyZFFHY0xCd3JnRzBQaXBkVHRVdFBwcEZIOWJuYjB3RXdkWDVrcHVkVXdPZzV0TC1OeVg0?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-10-03T00:44:34+00:00",
+      "description": "Munich airport closes due to drone alert  The Jerusalem Post",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-03T01:32:44.841036+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "85ef9a031b1a"
+    },
+    {
+      "title": "Prisoners are having Mounjaro and tooth-whitening strips delivered to their cells using drones - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNS1LYlA2T243aGdFZmJQN1FsMTd3OFBNQ2ZIMmk3aFJzYV9lMVNPU0pBdXp3UnNIOWpJR0J4ZmUtSzVCYXNuQWVjaC1wOGdjVGRCUVFtWUljR1pGUTZwMmNNdTVDMVhWd1RMUXdwUlhUeDZKVU1wYWRsUlZoTWxNTVZ5d1ZDaElKZGJDQkk3OE9NejY0SHlSZS1RS2l6YWotT0dFRjJWSDRfOXQ0NE1sdUw2cDlLS3VvUTMzRy15azhldUVLMnl1dllVWVPSAdIBQVVfeXFMUEJEMjAzQ0xZSDB1M0lPelVIN2x6Qk1WX2lFNi1qdi1qZElPak1Sdno2WHh6RWNGdC1rT2I0azFBSURnR0t3a2R1ZjdPazJjWU8yQVE4eTM1c3p2YktheUFKV3Z4R05qcWY2a2ZKbXlSY2VGVHRQTm9vTENXcDNTQjlieWN3UkRkbUktdVFGSlFQdjBuaXpkWWxhdk0yNDE0QUduTTFnRXUyUUl6WHRwaDhYaUVZZnJ4cTBTZDdscFd1TXhSOWg0OVFLdVhma3VGZ0lB?oc=5",
+      "source": "Daily Mail",
+      "date": "2025-10-03T00:31:27+00:00",
+      "description": "Prisoners are having Mounjaro and tooth-whitening strips delivered to their cells using drones  Daily Mail",
+      "query": "drone prison",
+      "detected_at": "2025-10-03T01:32:44.142275+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d56b0341f5b4"
+    },
+    {
+      "title": "ODOC takes contraband fight airborne with new drone technology - KOKH",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONHBSNXpMOTZlTDA3MFNvbVlCaW1qX1VTUG92WG5DTGFEcUZRa2VlN3VnX1RNM3N4VTVRc1hBc1Rsa0xMTmxsUm4xcDBObGFZT0w4YWwtb2E3bE9ORllUTnZCVWg2aGFMVUl0dU1wYzlSbG5MRHRGRkdPcUFGVWllc3dkNWxsY256Si1JbzI4Ymp0ZWYtdjh3UlJacjgtNHFpNFQ0YkFSMFcxVzh4UFZQY0w1eG4wMlRZeXR4eGY2dmlnVVhnTUE1MmlGYUc1WGVwOWswVXV4czBpQlduRVpmQ0ZQVQ?oc=5",
+      "source": "KOKH",
+      "date": "2025-10-02T19:38:39+00:00",
+      "description": "ODOC takes contraband fight airborne with new drone technology  KOKH",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-03T01:32:43.506214+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "eaed9589296d"
+    },
+    {
       "title": "Amazon grounds drone deliveries in Arizona after two crashed into a crane - theregister.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwYzBzalIxVjdPRHZDVlEteXZvR01CTmZMdE9yNnVRWjVXeXhyZGlvcXk0YmY4bTlMQTdmenVsU21pRm9FbUVCNGU0Z3ZhZzBiR0c5Ump4WTVKUEJSWVl1LXh3S3lhVTdmSFE?oc=5",
       "source": "theregister.com",
@@ -11915,92 +11999,8 @@
       "location": "at South Carolina Prison",
       "category": "smuggling",
       "id": "0878c5930cb5"
-    },
-    {
-      "title": "France deploys three jets to shield Poland after Russian drone incursion - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnM5RklmNG5KSE1RTnBvaW5uNnBLX3hDTXRpZTBoYmNLdlNOYlBnelFaVEZzeDZ2dFhBTDNwTkxUYUhTTlN5YzNiTHk1cy1CZVg2b2NXS1J0NlFuNjgtU2xPY3AzNUQySHluVmFUS3V3WUlFRlVtUm8wc3hOODgzSDZGM0dpZHNRTzBV?oc=5",
-      "source": "France 24",
-      "date": "2025-09-11T21:46:38+00:00",
-      "description": "France deploys three jets to shield Poland after Russian drone incursion  France 24",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T04:06:13.690600+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e89c0c45ef2f"
-    },
-    {
-      "title": "Israel strikes Houthis, targeting propaganda HQ, camps with operatives - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3ZRWXR6bkY0WWVBRkVnR0hoUGwwbFV0b3JEbFh0UnFiaGVlOUV2RjNTWFJpV0U1Xzd5a1N4ZEhmTTZwZXNPZzQ1RWhGRHJyd2VGNHNBVHJmbjNka3RVZFJtTEdTbGRHQ0huUklQUmRVemRueTNhTnpoelVLb0NKb2ZuVG5iUnZocFdMWDNIemJvSENzeUdacUNlX2VzX1l40gGmAUFVX3lxTFBfcUV0M2xoVDVJYTJfQTRTaWlnREFWeHlSd1Y1R21MQzRnV2l5djcxaWpSbkpTRWlkOXpmeGczZ2N6Z3dBYmgxV2Q4bFJTRXBkRGR1Uy13WEd5MWFQLTBaeXFNV25HSGc5dGJ5QUtaOGlSaU9LQzFQQkxBeGNBN1FPNUZPUV9lUVZPZEdNR3ZDZ2ZuLThfSmtQaXI2SWxkbk1uQzRlSmc?oc=5",
-      "source": "The Times of Israel",
-      "date": "2025-09-11T06:15:00+00:00",
-      "description": "Israel strikes Houthis, targeting propaganda HQ, camps with operatives  The Times of Israel",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-12T00:21:03.679384+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "97169c65bc7e"
-    },
-    {
-      "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
-      "source": "DW",
-      "date": "2025-09-11T16:30:00+00:00",
-      "description": "Fact check: Fake news after Russian drones downed in Poland  DW",
-      "query": "drone crash",
-      "detected_at": "2025-09-12T00:21:01.871994+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "05c789ae5ecf"
-    },
-    {
-      "title": "Nato strengthens defences after Russian drones shot down over Poland - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRXo4dVRWd095UWtic0lTaXBFVVJmZDJzc3hGSDh4LXhweElUd1RDTVF0czhPek1mbFlaZGhoTEpnOUNHUHJqQy04ZEpGaTFneWlzeHpwREJFd9IBX0FVX3lxTFBGelAzY0g5bXhmeUtfak92V1NhTDhONG9wTDc3NHRMQ3VPWTc2UkVJSzhoTi1ObTFZb2lvYjU3RkVWc1JUd3pIUno4V1htSDlYVnY3QTNHNVQtcjF2dy1J?oc=5",
-      "source": "BBC",
-      "date": "2025-09-11T23:46:28+00:00",
-      "description": "Nato strengthens defences after Russian drones shot down over Poland  BBC",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T00:20:58.822330+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5973ddeeecc7"
-    },
-    {
-      "title": "NATO Working on Defensive Moves After Poland Drone Incident - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHhpUjgyTXA0QXl3NXllNkpIWGdxZjVQblQ1QjhXNDVNTnNXM1oyMUZLelhUYk5aUm5weEJNb2FjZnBaRUgtZ0RreEY0Q1FOZDJHY1BHYV9jVnVCVmtPTWpkNnpFY2FIWVRDVXdqSUxzSWx2R3ctUWpSeEo0UGRQblRhU3UtOVQ0XzZwQXBWZWcwX2xyeEY1b0x0cE5XaEhFd1RrZzFKaEdTamVXQWZLck5YUQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2025-09-11T19:41:52+00:00",
-      "description": "NATO Working on Defensive Moves After Poland Drone Incident  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2025-09-12T00:20:58.822330+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b1ecb2ce86a8"
-    },
-    {
-      "title": "Poland Calls for Emergency UN Security Council Meeting After Russian Drones Breach Airspace - Arise News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ29IcEE4TnZaSEp0YXBnMnY3NWxMd0VPbFkzRDRQTFZPbm9hcjZzeVFLUVN3MDFVVm9RX3Z3bG9HZFh0R0hWc2JlS0t5RjdOZ191bDd2cDRhY0xLUGVwdHFrb0l1THpNblZTc2FKcklzdllUTnFVbnhPVnE2R19MZ2FrNERlWmpBRzhrRThacDg3ZEg3VmRsRHhwcU5DTHMydk9oUmtLSW5wMk5jT2c?oc=5",
-      "source": "Arise News",
-      "date": "2025-09-11T18:07:50+00:00",
-      "description": "Poland Calls for Emergency UN Security Council Meeting After Russian Drones Breach Airspace  Arise News",
-      "query": "drone security breach",
-      "detected_at": "2025-09-11T23:05:10.291665+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "892d7339e499"
-    },
-    {
-      "title": "Fact check: Fake news after Russian drones downed in Poland - DW",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHF2bzlEaVgybDh3LU5wemFEcjFZMl9JVmdGQ0YtSzk4bzhtUGE0UUxYOE1zYXkzSURDS1JHRms0bWNZZ1lKQUc2OWFXTDV1Y2V1WFc3eXZwSHJPb3lOempDMUlVOEI5ZlUtdVZyNVpJZ0V2NlR1NERhdTJFeS1lRU9YRDU3V2Q0T3EzOEU0TThHdjZUUEE?oc=5",
-      "source": "DW",
-      "date": "2025-09-11T16:19:20+00:00",
-      "description": "Fact check: Fake news after Russian drones downed in Poland  DW",
-      "query": "drone crash",
-      "detected_at": "2025-09-11T23:05:09.068816+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0bfe178dd826"
     }
   ],
-  "last_updated": "2025-10-03T00:21:01.792175+00:00",
+  "last_updated": "2025-10-03T01:32:48.602105+00:00",
   "total_count": 1000
 }
