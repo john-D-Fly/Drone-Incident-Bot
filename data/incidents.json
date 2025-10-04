@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone smuggling attempt foiled near Maximum Security Prison - Trinidad Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdldZdTlUSTBWRlBCNW5WS201WW5PSEJSaWVDVG9sVElybXF4Nm5NX2NWSk5RME5fYUUtc2RXTThlcWZGOVp5eTZMMm83S0EzM0dla2Zxc0pYUkdYWnVlVmNWcUdDbldJLWVHTjhFaHpaaGdEbWh1NUtrODh1MmxjOVFsRDRjODFha09kQS13YVhPQWNyREZobWF3eWVtOHhuLWtILUYwVEVWRTh3TUxHWC1nMA?oc=5",
+      "source": "Trinidad Guardian",
+      "date": "2025-10-04T16:59:28+00:00",
+      "description": "Drone smuggling attempt foiled near Maximum Security Prison  Trinidad Guardian",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-04T20:05:17.019157+00:00",
+      "location": "near Maximum Security Prison",
+      "category": "smuggling",
+      "id": "ebbce9e3874f"
+    },
+    {
       "title": "Haiti — UN Condemns Drone Strikes as Unlawful, Says Attacks Killing Children - NY Carib News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2o1VnpYRUJnem81MWtxQ3RqazJvZkJDX2pJOGNteUlXaVZBTk9kcTlVTWRFeVlJYlZwcTJ2cGs1TjZhQ3lVUFBQN01YZkRfTEo4bUJHcUI4QnQtbDFRd1R2OFd4NFZVT3FjWjJULU14OGZ4VVFvWk9MdnNLaGphWVc2Y2RnbHZuRHRsMVBBU2k5eUc1YnlNZEstNURWX1k?oc=5",
       "source": "NY Carib News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f1023ecc87b4"
-    },
-    {
-      "title": "South Carolina Sees Breakthrough in Fight Against Contraband Phones - Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGtTZTRST1NQeXowQzVZX1djNEhrVHNxdnZIQXZDQ202WHVsQXJGWDVrb2lHdnpYVk5WcE9wQUk3OTlPZ3g3bmdSVnMzSmozOUJsOUZKTFVUU2NnNC1sd0RwdFBjYnBOWDJHbmZqZ0pMclpzWWwtbWt2bU5PQWxiWjl3cFRrTlU3OTgtZ0E2enl0UjZRQ2V3THA5MU5GUDZO?oc=5",
-      "source": "Broadband Breakfast",
-      "date": "2025-09-15T20:24:07+00:00",
-      "description": "South Carolina Sees Breakthrough in Fight Against Contraband Phones  Broadband Breakfast",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-15T22:05:08.929702+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7810cbd30e05"
     }
   ],
-  "last_updated": "2025-10-04T19:04:43.764538+00:00",
+  "last_updated": "2025-10-04T20:05:22.178449+00:00",
   "total_count": 1000
 }
