@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Germany: Drone sightings disrupt Munich Airport - DW",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhJdzdPeU9uM1dMdFZnUFE2a2RvTGdweC1PeU1tZ2FyUmxWSndUeUNMYXIwMjRvMzktZVZMMlY5b2t0NkVrR0kxOW9FMGN5c1U2RE5vc3lqdTRnWFhCSGZscXpHRFlLamhQS2JWbmMwd3VIT2ViMXJqM0wxaHdScms1VEdwQdIBhgFBVV95cUxPTWtldXZBWDk3eURHSnhVSHlPUXc3QTY4b1BVUFBHZEdWZzR0cWZSc3JTbkQxbVoyWVRlamJqdF84Qm1qMU8yVkVfRXlQdk1FMV9lTDBOUTdRRW53UlR0N1pQSnByUmJaX3J2NGdfN3F5aHRDNU5oZGtjVmpSWHNkODhzcmV0dw?oc=5",
+      "source": "DW",
+      "date": "2025-10-04T06:31:16+00:00",
+      "description": "Germany: Drone sightings disrupt Munich Airport  DW",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-04T22:04:47.734239+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a65152615b1d"
+    },
+    {
+      "title": "13-year-old among 2 held in drone smuggling bid - Trinidad and Tobago Newsday",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0drbE40andrbzBIZFpGS2xGTlRYRzhUQTdPZ3NDN2REVmhsS29ZUDdhaF9ub0dkSi13Y29jcXk0VU0tQXVrbS1LRFpCQU11N3FaRE5XREdlTTVjUHNmNXR5QmhQVVg5alMyVHhleEoyZmJjXzRuQ1VLZmhtUVlRVEh5R0ZCR1Bf?oc=5",
+      "source": "Trinidad and Tobago Newsday",
+      "date": "2025-10-04T21:20:53+00:00",
+      "description": "13-year-old among 2 held in drone smuggling bid  Trinidad and Tobago Newsday",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-04T22:04:46.259270+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "70ecf63539df"
+    },
+    {
       "title": "8 injured after Russian drone strikes rail station in northeastern Ukraine - nhk.or.jp",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DaHVCaV9zUlNTeFpjNmtVQ0xkUjFuTmpiRVNlZTFoeVZMTVhZMS1ESGN3NXc0UUVKSlpVMk9IZVA1NnF0N1FrZzJSNlk3MUhLR3hodC04cFYycFNWUTQyRnBR?oc=5",
       "source": "nhk.or.jp",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "12fec4e85159"
-    },
-    {
-      "title": "Polish authorities thwart drone over government buildings in Warsaw - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zTjhlMnZJdENkdjFIOFlLeXRNWWIzYlNvWWVCaFQ5WlBEZndQWHlkWXRHN29XNk5WelBoSllqRHVtN3F3NUJvTDZNcFpHdkZKY04wTmctWWwwaVdHaDZNSG1hN2dMYVZQVmFuamhzem5Ndw?oc=5",
-      "source": "politico.eu",
-      "date": "2025-09-15T21:50:00+00:00",
-      "description": "Polish authorities thwart drone over government buildings in Warsaw  politico.eu",
-      "query": "drone incident",
-      "detected_at": "2025-09-16T00:20:44.896670+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "71c8652b9b82"
-    },
-    {
-      "title": "Polish authorities thwart drone over government buildings in Warsaw - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zTjhlMnZJdENkdjFIOFlLeXRNWWIzYlNvWWVCaFQ5WlBEZndQWHlkWXRHN29XNk5WelBoSllqRHVtN3F3NUJvTDZNcFpHdkZKY04wTmctWWwwaVdHaDZNSG1hN2dMYVZQVmFuamhzem5Ndw?oc=5",
-      "source": "politico.eu",
-      "date": "2025-09-15T20:55:24+00:00",
-      "description": "Polish authorities thwart drone over government buildings in Warsaw  politico.eu",
-      "query": "drone incident",
-      "detected_at": "2025-09-15T23:04:49.670578+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0540a21c6dfd"
     }
   ],
-  "last_updated": "2025-10-04T21:04:46.413553+00:00",
+  "last_updated": "2025-10-04T22:04:51.599454+00:00",
   "total_count": 1000
 }
