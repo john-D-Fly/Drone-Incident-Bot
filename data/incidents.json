@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drones and balloons cause wave of panic in Nato countries - The Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOThwbkw4WXlvSFlqRzBqQTBzZVdtZlpLLTF4ekNHb09BOVVBWnVfRGpRN0xnWmxYdXg4ZmZjYXRySWwyV3Z5SGx3MEM2WHVfQ052MHdkdDJkdkFGejd5Mk5uRWVrdXp0ckZhNjVVUGYwTnFmOXUtS1N0Qng4Q2h6ZW1fRmYxTDZlUUdGdWljT3QtV1dQ?oc=5",
+      "source": "The Times",
+      "date": "2025-10-05T19:00:40+00:00",
+      "description": "Drones and balloons cause wave of panic in Nato countries  The Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-05T21:04:38.714959+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "61c0159f6284"
+    },
+    {
+      "title": "Army Foils Smuggling Attempt via Drone�on Northern Border - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hWkZOa1p5YXN3RHBQSXFITDFMUnpEOVVGdzRySW5nRnZpRV9TMmJfZjlYdXJieWlORVlUWm5xejJoTzU3bHhCZ2FORlVNZ1pYd29mdFRQMGN2MjhtUWVaTHUyYXhlR2JfYm9LRXdYQTdMTkUyRDBrRGZJMGE?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2025-10-05T19:05:58+00:00",
+      "description": "Army Foils Smuggling Attempt via Drone�on Northern Border  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-05T21:04:37.539359+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e4dfb619db87"
+    },
+    {
+      "title": "Balloons carrying smuggled cigarettes over Lithuania closed Vilnius Airport for hours - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDduQ1lyQ3BZWnVJcFdKTmptT2NNTy0tNTFmQmNsZWtfNVo1U1lpYkIzYzZzNzBBLS1DQUhTYUhVZUtrTkVoekRBeC1MTFozQVM2RkJHVzI0bGgzMHNYbjA3a295a0RhYnM3SzlfS0NHcGR4VzY4Mmo2WFhIb2NuMHk5am9kSG9RTndHTmJGNFd2ZE8zbUUtYmo4ZVpCWlpuSVNzeno2b2d3blJLLVowNlFSVFpnZl81MjZMRnFmOG5LZllpMlHSAcsBQVVfeXFMT0p3YkkzbHRfSzJkS2s1aEpfUE11aVgyZUNNWVV6dXMyOHVKZDNRT2RLS0FBRkRUVnVUeUw5ZlNFT291Rjk3aWlzMHBSSHc2Vk1uYi1NeEFXSE5OXzlQMWdTa3ZVdlFVcm14NDM2bDZKUHNXbllrRnJNNElIZnN4cm1qSDBPQlUwenRBa3MyTTFOV1pwcFdXYXR2QnZpTVdoQnRBcWQ3dW05UjBleUlZdVNqSXFMbGxIZFQtM0ZUMHpuVHRqajFyQ1F1dW8?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2025-10-05T10:54:20+00:00",
+      "description": "Balloons carrying smuggled cigarettes over Lithuania closed Vilnius Airport for hours  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-05T21:04:37.539359+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "85eaf0da1903"
+    },
+    {
       "title": "Russia’s mass attack on Ukraine kills 5 after Poland scrambles jets: Latest - The Independent",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnJKc3l6LUlXVkJ1dUtOVHFSYTczbGRFZzBidDdrX0pmZkJPcWVWalgyTVdYemNhZU5yblQ0cHVUZmtmeGNIY2NoODd5ZmgtT2hHMVI3dWY3T3JubEtjb3BKZEJPUURGQ2pnZ0NEb1FTZndCVXIwMTVvWDUzckRXaWlweTdaSlp4Wk4ySzBLMG1qekhrSUhxSUduaHdHekhTVlNIUFozb1JyaUJPcHZXYXQ4QXNyZzd4Vk9OU1ZQZEE?oc=5",
       "source": "The Independent",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "465a450a96b6"
-    },
-    {
-      "title": "Shocking new way drug cartels are using tech and what it means for Australia - The Advertiser",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOeWJ6bEx4UnF2Q3JKWHlTam1vMlQ5OWZfSmQ5ZG1QTk1RN0VBbTJ2SVRMLWJRb1Z3UUZWRjJSVDN2MzF1VEtJUGU2bGkyd1Q0cV9UcUdzTzdPOG9jU0dBUUtYMzNlQktWcVNYN0VnNURNYmlteXVWZHFZOHJEa19yVDJESC01THJDMjEwZjVBTEtlbnZWS055c1Njem5QVktRNkNHSFdwdE1OZlkxTXpNb3pDZUNKMTY2Q0RfNjdoem9RempNR3NsdTczQ1M0ZEF2YTV2X0ROTzVEc05SeVJVYkhhVTE2a3UxZXVIR282MjlyLUlibkNkczY4UFZCb3hRMGZ6ZnZpeldpb016ajZ0NkIyTW0tZUYt0gGeAkFVX3lxTE5LcnpvV0F6Vi0tTDVTcVo5amRPWk5sVkJ1SjJoT1ZFVFZlZmRtSGRpTjExYzVDa1ROb1pkYURkV0xPeTZpbWxLVkRNQ19PdkVuUXNXLXVpOVZyQ1Y3eUFRTnJFeGRkN2hyOGdUeE9MM1Q5VkZiZ3VBWWhvTGxRVkZKUVVIWHVBdXNwQkpubVhzYmRDSDZ4cmtGbjdPQ2ZXWi1oSWNpT19QSExsWEtIN3pNbkJrUUd2ZHN3eHo1WmhaZEwyd1RtZGR4UXUxcVNUZFBIV0lTYll2bmVMNVhaWkRXRHJJYjdCTzlpREhveWkybDY0dkV2Nzh1d3hNY1NVZkdwZXJjc0FoM3dZLTgzanpEMHpyOHdmblZLQ09YRGc?oc=5",
-      "source": "The Advertiser",
-      "date": "2025-09-16T10:50:08+00:00",
-      "description": "Shocking new way drug cartels are using tech and what it means for Australia  The Advertiser",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-16T13:12:08.145321+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "32df2106d53e"
-    },
-    {
-      "title": "Drone pilot arrested for breaching restrictions ahead of Trump state visit - East Lothian Courier",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVlhrLWkwazMwcUxfZml4MnJ5XzhPQWc3VmJSZVF2cnZ2czE1SFNGdVVTOTVtS2RZRFBOX0haaUpNMHNkR1JOYzV5NDFKZUlkeGZVQXVaWjJpaVZJczNGRGI1NWRBQVprQnV1ODJWb1FZRWkxaEhFbmQ4Y3o4RGtzZmFVNFl4bnVYeXA4a0pTNkRKUE1PSEVFTFBoM1dPZjE5eWhleWJsdmY5YmgxLXhzYmpSdG5KaHJMTkJKZ2U4RWZoMFhP?oc=5",
-      "source": "East Lothian Courier",
-      "date": "2025-09-16T13:02:19+00:00",
-      "description": "Drone pilot arrested for breaching restrictions ahead of Trump state visit  East Lothian Courier",
-      "query": "drone arrest",
-      "detected_at": "2025-09-16T13:12:07.483008+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "d85f689a3694"
-    },
-    {
-      "title": "Drone Service Operator's Equipment Shot Down While Searching For Lost Beagles In Corinth - 94.9 WHOM",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTnFEbWpIVF83ZXVncGNZV0JBZEl0bnhtekVRTTExRzhBOG81RUVWQ1hVUzhQdTBXLUxuQjRhNWNRZmptb21DbnJieDVkd0JWWmgtVThhbVM4djU2NWc?oc=5",
-      "source": "94.9 WHOM",
-      "date": "2025-09-15T20:43:15+00:00",
-      "description": "Drone Service Operator's Equipment Shot Down While Searching For Lost Beagles In Corinth  94.9 WHOM",
-      "query": "drone illegal",
-      "detected_at": "2025-09-16T12:08:54.626017+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "70a942c7ac19"
     }
   ],
-  "last_updated": "2025-10-05T20:05:30.682421+00:00",
+  "last_updated": "2025-10-05T21:04:42.211574+00:00",
   "total_count": 1000
 }
