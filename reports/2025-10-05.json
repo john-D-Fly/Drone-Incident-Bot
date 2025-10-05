@@ -1,0 +1,149 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone-related incidents have disrupted air travel across Europe, particularly affecting Munich Airport, where repeated drone sightings have resulted in significant flight cancellations and delays. The incidents have sparked discussions about the need for police to obtain shoot-down powers for drones in such situations. Additionally, there have been notable smuggling attempts involving minors in Trinidad related to drones, as well as drone crashes involving Amazon delivery systems prompting investigations. Emergency responses have targeted illegal drone operations, with calls for regulatory reforms reflecting growing concerns regarding aviation security and emerging threats. The geographic spread highlights a concentrated pattern of activity in Europe, particularly Germany and neighboring countries, amidst the ongoing challenges of managing unauthorized drone operations.",
+  "totals": {
+    "airport": 22,
+    "arrest": 6,
+    "crash": 6,
+    "other": 17,
+    "smuggling": 4,
+    "terrorism": 6,
+    "total_incidents": 81,
+    "by_category": {
+      "airport": 28,
+      "arrest": 5,
+      "crash": 11,
+      "interference": 1,
+      "other": 25,
+      "smuggling": 7,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 27,
+      "drone arrest": 7,
+      "drone crash": 15,
+      "drone illegal": 5,
+      "drone prison": 4,
+      "drone smuggling": 6,
+      "drone terrorism": 13,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Multiple drone sightings have led to significant disruptions in airport operations across Europe.",
+      "incident_ids": [
+        "83f658b69a8d",
+        "4facafdfa701",
+        "2dcfc9dadec9",
+        "a65152615b1d",
+        "fc8dd4477aa0",
+        "b00c9d68e07b",
+        "947f02e1ef79",
+        "120502c36cc2",
+        "70ecf63539df"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Attempts",
+      "rationale": "Several incidents highlight youth involvement in drone smuggling, raising concerns about illegal activities.",
+      "incident_ids": [
+        "f0ce384a8382",
+        "70ecf63539df",
+        "ebbce9e3874f"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Safety Concerns",
+      "rationale": "Incidents involving crashes of delivery drones have prompted scrutiny over drone safety regulations and operations.",
+      "incident_ids": [
+        "52eb2957368e",
+        "f75c6a89e3ef",
+        "588d405bb9fe"
+      ]
+    },
+    {
+      "topic": "Terrorism-Related Drone Strikes",
+      "rationale": "Drone strikes linked to terrorism continue to heighten security and response efforts, especially in conflict zones.",
+      "incident_ids": [
+        "47f1b1dd3717",
+        "10f2f5c55b29",
+        "e3bc600ded35"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "83f658b69a8d",
+      "headline": "Mystery Drone Sightings Cause Major Disruptions Across Airports in Germany, Denmark, and Norway",
+      "one_sentence": "Drone sightings have led to significant flight disruptions across major airports in Germany and neighboring regions.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Germany",
+        "Denmark",
+        "Norway"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4facafdfa701",
+      "headline": "Drone sighting shuts major European airport as thousands stranded",
+      "one_sentence": "A drone sighting forced the shutdown of a major airport in Europe, stranding thousands of passengers.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e3bc600ded35",
+      "headline": "8 injured after Russian drone strikes rail station in northeastern Ukraine",
+      "one_sentence": "Russian drone strikes targeted a railway station in northeastern Ukraine, leaving several injured.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f0ce384a8382",
+      "headline": "Boy, 13, held in drone bust",
+      "one_sentence": "A 13-year-old boy was apprehended in a drone smuggling bust involving narcotic deliveries.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "40a7335715b6",
+      "headline": "Amazon drones crash into crane",
+      "one_sentence": "Multiple Amazon delivery drones have crashed into a construction crane, prompting regulatory investigations.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "2c24ac3344d3",
+      "headline": "Drone video helps police arrest burglary suspect",
+      "one_sentence": "Authorities used drone footage to successfully apprehend a suspect involved in numerous vehicle break-ins.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Major drone incidents disrupt air travel in Europe, with ongoing challenges in security and regulation.",
+    "linkedin": "Recent drone-related incidents across Europe have highlighted significant security challenges, particularly in airport operations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-05"
+}
