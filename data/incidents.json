@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Munich Airport Disruptions: Markus Söder Calls for Immediate Drone Defenses - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGJaSFVhSWpweXdCU3RBUU5YemJ6Q015WnV0YUdEQjRjTk5qQjV1UjZhVjBCZjNiQzkzVTI5d0NNcnhiYS1aelVyNFB2OWQ0Y3A4YTF1TGppbGJkSEdNYnhLeHRuelRnUE14dUlXbkZId0wteThpcmFRYVB5aWdkUzRObzNKWVNYMDc1MktENV8xWWdpc2R3NTNvX3FzMHh0cUNDNw?oc=5",
+      "source": "Meyka",
+      "date": "2025-10-06T07:06:52+00:00",
+      "description": "Munich Airport Disruptions: Markus Söder Calls for Immediate Drone Defenses  Meyka",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-06T08:07:55.306127+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f6dad5dea923"
+    },
+    {
+      "title": "Security breach averted: drones intercepted at NATO summit - GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXh0bFBycW1mc0V0dDRNMzN4Rm9PRThxWlppdVJVUEpha0otVXg1UlVZV1RMSEMzaF9sd1lDaXBJSl9fRFlCYW9uVnFOREhzRU1mOFNQUWFwYmZ5VkpGX2gzSVRoN1Zza3lxZUFrM3Rrekt4OU0taHZidEZ4b0JmeUpiN2JWaVkyR2NUQVd5QkVWMTM2S3VMRzJnNmZGWTA3TXc?oc=5",
+      "source": "GOV.UK",
+      "date": "2025-10-06T08:00:03+00:00",
+      "description": "Security breach averted: drones intercepted at NATO summit  GOV.UK",
+      "query": "drone security breach",
+      "detected_at": "2025-10-06T08:07:54.142713+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "9a674a72d0ec"
+    },
+    {
       "title": "Pakistan Fights Its Fiercest Taliban Insurgency in a Decade - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1RzdfSHZOMnYwekVxMlZDUlFPYnh3bXNUdFFjaWpnNm9ERVE3UzcyWTcxWXdJRnctb1VIM3NsOUdSTHdWSXE1d1VaUGZoS2JQdkEyTlhpNnhGajFsWUt4TE02QTZQQXFyOW1hMEhxNDI3TmtQRHc?oc=5",
       "source": "The New York Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b4a828a94068"
-    },
-    {
-      "title": "Belarus Denies Drone Involvement in Lithuanian and Polish Airspace Incidents - Букви",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTRRaXVLZUpZSVZaZ0hpTVBfMkVMYVpsczg5NHVVS1gyU3hRc19LbkVNM3pndUVwNWp0QVVpcXpVWnFtLTY2aWVuUWk1OVVHcEFJNFVJLXpqY01KVEhxRzR2T054bmhlU3VKWDhtOVpRYkZ5ejN2MW5NTEtjaVlhTF9aWEhHMllxQ0NYSjgyamExcFhSbVVQLU5jV0FaOGFsemdjVS1LVTM?oc=5",
-      "source": "Букви",
-      "date": "2025-09-16T12:00:30+00:00",
-      "description": "Belarus Denies Drone Involvement in Lithuanian and Polish Airspace Incidents  Букви",
-      "query": "drone incident",
-      "detected_at": "2025-09-16T15:05:45.118757+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ee7eb189cf58"
-    },
-    {
-      "title": "Man arrested for 'flying drone over Windsor' ahead of Trump Visit - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQnBTdHZRUFVuQ3IyNTdvNWJxTFNocnh2NGlNQ1FiYXNaOXkxQ3M3eG1hTm1pMGVBajBQNzdyekQ2d2R0REJ0NTRZeExaTjY2Y08xdy14YXgxcGlUYzFPVEg4Mjd4RnpYQkpZTFoyUm02VEpqeS1RSWE2cmRpRmdkX0x4RWZRbFVOTHBERmg5MjAtOHNu?oc=5",
-      "source": "London Evening Standard",
-      "date": "2025-09-16T13:06:15+00:00",
-      "description": "Man arrested for 'flying drone over Windsor' ahead of Trump Visit  London Evening Standard",
-      "query": "drone arrest",
-      "detected_at": "2025-09-16T14:05:49.891162+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "6a5e212be066"
     }
   ],
-  "last_updated": "2025-10-06T07:06:45.339387+00:00",
+  "last_updated": "2025-10-06T08:07:55.946436+00:00",
   "total_count": 1000
 }
