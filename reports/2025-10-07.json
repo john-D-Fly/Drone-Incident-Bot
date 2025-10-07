@@ -1,0 +1,134 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant pattern of drone-related incidents has emerged. Notably, Ukraine has intensified its drone strikes against Russian targets, marking a second consecutive night of mass drone assaults. Meanwhile, Europe is grappling with increased drone threats, including disruptions at multiple airports linked to unauthorized drone activities. The security landscape is highlighted by reports of drone smuggling attempts across borders, particularly around prisons in Trinidad and India. Additionally, the introduction of drone detection systems at airports, such as in Munich and Taiwan, underscores a proactive approach to mitigate risks associated with drone interference. The prevalence of drone-related incidents raises ongoing concerns about security and regulation amid evolving technological challenges.",
+  "totals": {
+    "airport": 8,
+    "terrorism": 5,
+    "other": 12,
+    "smuggling": 7,
+    "crash": 1,
+    "arrest": 6,
+    "interference": 2,
+    "security": 1,
+    "total_incidents": 41,
+    "by_category": {
+      "airport": 7,
+      "arrest": 3,
+      "crash": 1,
+      "interference": 1,
+      "other": 15,
+      "security": 1,
+      "smuggling": 11,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 3,
+      "drone crash": 2,
+      "drone illegal": 1,
+      "drone prison": 1,
+      "drone security breach": 1,
+      "drone smuggling": 10,
+      "drone terrorism": 13,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Increased drone strikes and terrorism",
+      "rationale": "Notable escalation in drone strikes and terrorism-related incidents, particularly involving Ukraine and Russia.",
+      "incident_ids": [
+        "b6ca50a25800",
+        "95dd3510529c",
+        "ef06dc2c6e80",
+        "f1a38bf1aba5"
+      ]
+    },
+    {
+      "topic": "Drone smuggling and security breaches",
+      "rationale": "Reported incidents of drone smuggling, highlighting ongoing challenges to border security and prison system integrity.",
+      "incident_ids": [
+        "776767c60d2a",
+        "9cc76e1091f5",
+        "3a659dc139c8",
+        "dad24a05b063"
+      ]
+    },
+    {
+      "topic": "Airport disruptions due to drone activity",
+      "rationale": "Several incidents of airport disruptions attributed to unauthorized drone sightings leading to significant flight cancellations.",
+      "incident_ids": [
+        "62023632df61",
+        "c99d7ae587b7",
+        "d6de99264d07"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b6ca50a25800",
+      "headline": "Russia Holds First Official Talks With Taliban After Terrorist List Removal",
+      "one_sentence": "Russia engages in official talks with the Taliban following the removal from the terrorist list.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "95dd3510529c",
+      "headline": "Ukraine Mounts Second Straight Night of Mass Drone Strikes on Russia",
+      "one_sentence": "Ukraine has initiated a second consecutive night of drone strikes against Russian positions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "62023632df61",
+      "headline": "Laser Installation Deployed To Protect Munich Airport From Drone Sightings",
+      "one_sentence": "Munich Airport installs a laser system to combat drone sightings threatening operations.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "776767c60d2a",
+      "headline": "626 drone sightings over jails in 6 months",
+      "one_sentence": "Trinidad reported 626 drone sightings over jails, raising alarm over security.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9cc76e1091f5",
+      "headline": "Yemen intercepts Iran drone shipment destined for Houthis",
+      "one_sentence": "Yemen has intercepted a drone shipment from Iran bound for Houthi forces.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "30ead1c3d7f2",
+      "headline": "Can you shoot down a drone over your property in Colorado? Here’s what the law says",
+      "one_sentence": "Legal discussions surface around the right to shoot down drones over personal property in Colorado.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Intensifying drone activities raise security concerns globally, from Ukraine to airport disruptions. #DroneSecurity",
+    "linkedin": "Recent incidents highlight a surge in drone-related activities, prompting urgent discussions on airspace safety and border security."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-07"
+}
