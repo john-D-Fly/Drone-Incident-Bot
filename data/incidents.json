@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia Holds First Official Talks With Taliban After Terrorist List Removal - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak5hM0RjTTFDdnEtV3FBc0NZTU1ZMTNLVXpKOVg2MTYtZ3l2Qmx5Z0tsNGR0R00zQzZmVGUtNC1EV3R6QnIwNjR4Q2ZqWG1QYk1ScFBGSDE3ZUVlaDNQUFJTdDBGSlJ3UFlEYWUzOGxxQlZuT0FRd2ppYzhKcV95Y1VBUE95dmIwaW9kWkVvUWpaS2xQVFNOLXQxaXp3dWh5Q3hlMmg4QmN6eVZ6QmMtSWRxTzc3ZDRaczdlc21SaDFRZw?oc=5",
+      "source": "The Moscow Times",
+      "date": "2025-10-07T11:01:24+00:00",
+      "description": "Russia Holds First Official Talks With Taliban After Terrorist List Removal  The Moscow Times",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-07T13:12:51.667421+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "b6ca50a25800"
+    },
+    {
+      "title": "Laser Installation Deployed To Protect Munich Airport From Drone Sightings - Simple Flying",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmhKTVFWZkZWMjJKdjVRbUZjS0dPWks2enNPYmszVkR1TjlMTFZRcTVsSzlGeWRyYWpyNVRzUlhQOHBkcS13bW4zMmVXdGZnZVVXR0ozam5ZWFhHMG5JTV9oa3F6ejFjRnUzQ3c2eU5NeFNPMGtMemd3SW0xbjBrdVBfSktCZEVXZHhYNzBR?oc=5",
+      "source": "Simple Flying",
+      "date": "2025-10-07T12:39:00+00:00",
+      "description": "Laser Installation Deployed To Protect Munich Airport From Drone Sightings  Simple Flying",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-07T13:12:48.967680+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "62023632df61"
+    },
+    {
       "title": "Can you shoot down a drone over your property in Colorado? Here’s what the law says - The Coloradoan",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnlOVkhMWEo2RF9LWnZHMGplZ3dUWWFTTzhFS3JWWFA0TzhYT2VCQ01haVFnVkxZOWJWZUl5TjlWS2ItNElzVTJfTG1Rc0tpMjRSYzZ2b2RISkxwYXV1Q296MDJOTWpiWml6ZGpEckg2Mk4zTV83UEx4S01UNERlS25BNE9zYTBTZVZ5RXl5Tkx2eTl0akh3OTBnMGZOeUZLbjhDcVhVRFJWcW1Pdk5EU3hFaw?oc=5",
       "source": "The Coloradoan",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "cc133646e767"
-    },
-    {
-      "title": "Man arrested after drone breaches airspace restrictions near Windsor Castle before Trump's visit - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2gyTGM0ZV9EeHJKNzZhWG9CaGsxRGZWRFhhSWZJbm5SM1hvaFYzNEVublYtRGZwYUlpenRMRHZoQ05OcVdCQ1g1bklnZnVrc2R3WVd5VEJ3dGtSbFRTQXN4aUFXTF84Xzg5cFVacG44STJ5YTNHbXVjRDVBLVhqdm93akQwaksxbnZ3dmpiOUdwU3M?oc=5",
-      "source": "AP News",
-      "date": "2025-09-16T15:08:00+00:00",
-      "description": "Man arrested after drone breaches airspace restrictions near Windsor Castle before Trump's visit  AP News",
-      "query": "drone arrest",
-      "detected_at": "2025-09-16T18:07:36.420275+00:00",
-      "location": "near Windsor Castle before Trump",
-      "category": "security",
-      "id": "2951a114351c"
-    },
-    {
-      "title": "Men arrested over drone flights near Windsor Castle before Trump's visit - Newsday",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qSndhc1BQZHM4aGQ5VzV0dEVnYmZOZGY5czNmSXppRFBqaktlR3dWYmRHeEdJdGZvbE95VTd4aldSaVZPaVBybDAzZTBkVG5ZUlVjaFp2eVlBX2k4MVBRZEs5aWk5T2lOUUJXcjZuZ1ViXzg3ck01ZHIwZm8?oc=5",
-      "source": "Newsday",
-      "date": "2025-09-16T17:58:26+00:00",
-      "description": "Men arrested over drone flights near Windsor Castle before Trump's visit  Newsday",
-      "query": "drone arrest",
-      "detected_at": "2025-09-16T18:07:36.420275+00:00",
-      "location": "near Windsor Castle before Trump",
-      "category": "arrest",
-      "id": "d00354e3a2f8"
     }
   ],
-  "last_updated": "2025-10-07T12:09:34.549336+00:00",
+  "last_updated": "2025-10-07T13:12:52.911627+00:00",
   "total_count": 1000
 }
