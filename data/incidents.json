@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Germany draws up law to allow police to shoot down drones - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjZuWDVYZnJGYTZycUppSzNrNEhVNTJ2Ymd0Q2o5OWJUVkY5TXlUUDc2UmN6anJJc1kyV2k2Q3pTUnZySFRpNEhrXzdCeE1MQmUxM2MtSjBLZzAwRlVzbUFUUFk4bVUyMHJJQy1pSXJSWlE2dVlYdGZvd2dHeHhvWkJ6TmhTZ3RNcF9oUkpXdnBwMmtVT05yNzNHbGpqMjhIc21zTzRB?oc=5",
+      "source": "The Guardian",
+      "date": "2025-10-08T13:41:00+00:00",
+      "description": "Germany draws up law to allow police to shoot down drones  The Guardian",
+      "query": "drone illegal",
+      "detected_at": "2025-10-08T15:05:45.915916+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3c9529816a3f"
+    },
+    {
+      "title": "Apocalyptic scenes as drone show rains fire on China crowd - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYmRfOUQtQkxvMGpvUG1YWTNSaUpNMjA0M2tkRHc2bGFkZVhlaHdMc2h1WlYwblpzTEh2ZFJlUHMzb05XNElBUjYwenVIaWN3d2ExSHZCUko1aEs1dEZuMW9Iclk2ZHpKOG9KdEVfUQ?oc=5",
+      "source": "DroneDJ",
+      "date": "2025-10-08T14:47:00+00:00",
+      "description": "Apocalyptic scenes as drone show rains fire on China crowd  DroneDJ",
+      "query": "drone incident",
+      "detected_at": "2025-10-08T15:05:41.683983+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b301964e8967"
+    },
+    {
       "title": "15 companies restricted for aiding Iranian terror axis - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nQTZqeXVVUWI3ejJTTGZXOXNYcEg0ZmZ4TVhEWXhzaEZDZU90M1FBeFBvcWdYZk5KbUxsQTlnYXVTbEhQLVFmcXA4X3R0eFNRNWtTaEZOZkRYX05OeHFz?oc=5",
       "source": "The Jerusalem Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "d2273aeb28a2"
-    },
-    {
-      "title": "Culver City man Peter Tripp Akemann, who crashed drone into Super Scooper, gets 2 weeks in prison, 1 month home detention - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9zcFRCUmlpRVJwb282LUpvRS15VXRfcnFiVnhTMG10TE1uQ3plT3RGN1J2d1lKeU1FemVhV1ZWONIBvwFBVV95cUxOZ2hnNUJGX1QyR1dlZDJ0OFp2SVNDMzVRcE02cmtxdXBRWW55OGl6RlJIVU5xd0taYjdKRnpMNmZSWGs3bU1LUjVwaGstbEpCMG1WRUFCMC11RTFZRXdROEZrNnZHd0Z1YU5IWU53ZGliaTlpa1NxWTdKLVJZbC1zZk9aVmpRdjhETUp2ajk5cWVJLVRDTllGbVNvNmdLeHNtMkZ3UzhsQVpoSmQ3LVJVQllCUFpfZnRuRXJETkt5dw?oc=5",
-      "source": "ABC7 Los Angeles",
-      "date": "2025-09-16T15:15:57+00:00",
-      "description": "Culver City man Peter Tripp Akemann, who crashed drone into Super Scooper, gets 2 weeks in prison, 1 month home detention  ABC7 Los Angeles",
-      "query": "drone prison",
-      "detected_at": "2025-09-16T23:04:58.444948+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d66ad6ca2174"
-    },
-    {
-      "title": "Novi teen arrested with help of drone after rash of vehicle break-ins - Observer and Eccentric Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjFYTkNnWDVRQ3UtM01wbTBiTjliUHRydUEyMnJ0VHpIWjdzOEpKVnlqemtZWjFYU243Sy1sTnNoZHdqT3ppdXZuZk51MHFHOGI2bHp0ZXNqOTZ0QUp5MW9NYzVIWHlIdUlYWDlMS0dDc0FiSVMxYy16OTRDTmdzS0NyelVPT3VfRzVBMmVST0VOZl9odUtaY1JIR1F4WFZiR29WaldCdnN1OFl2Y2d3RjBZTQ?oc=5",
-      "source": "Observer and Eccentric Newspapers",
-      "date": "2025-09-16T22:06:04+00:00",
-      "description": "Novi teen arrested with help of drone after rash of vehicle break-ins  Observer and Eccentric Newspapers",
-      "query": "drone arrest",
-      "detected_at": "2025-09-16T23:04:57.094015+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a250d314516f"
     }
   ],
-  "last_updated": "2025-10-08T14:05:47.696360+00:00",
+  "last_updated": "2025-10-08T15:05:48.485590+00:00",
   "total_count": 1000
 }
