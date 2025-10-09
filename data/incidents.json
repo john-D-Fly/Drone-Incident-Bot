@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Two fined after illegal drone flights over Rogers Centre during Blue Jays playoff games - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmY3RFMzZmhzeWN6NU9jazg4T2dEV3RsdXdzUmhKSlhZNEZFMFNlZjYwaFFTVnFCaExScm1XdWlKVG8xOE1xM2hxOXROMkp5TmhBcFR5RFJHZmkwUGdMVEVOUy1kQmN3RGNiMHhTSDFMRWFjQVJ1UEhWbDh4dDVGOXB4SVVMeXd0T3RQaFdKdnYxbmVW?oc=5",
+      "source": "CityNews Toronto",
+      "date": "2025-10-09T17:02:00+00:00",
+      "description": "Two fined after illegal drone flights over Rogers Centre during Blue Jays playoff games  CityNews Toronto",
+      "query": "drone illegal",
+      "detected_at": "2025-10-09T18:07:08.519509+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ec2c01df69f0"
+    },
+    {
+      "title": "Man charged over Edinburgh Airport drone incident - TheNational.scot",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORzN0TU1TZmR4TklFRmQxUWlER2NzS0hDQ3FqX0FTa2hnSTVrYnV4eHFUbW9tb2FYMlVGcjJycXZwNVlOQ2l5RWU1T2FuRG5icGI3ckZYWEpNN21rdWJSb1VIXzAwRTBPanNOZTliVU9TOURBNDJ2cHVGNEFUUnIxS3dSUHBXSHN2VllvZU1RTGtsZw?oc=5",
+      "source": "TheNational.scot",
+      "date": "2025-10-09T15:59:08+00:00",
+      "description": "Man charged over Edinburgh Airport drone incident  TheNational.scot",
+      "query": "drone incident",
+      "detected_at": "2025-10-09T18:07:04.522162+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5f4948ec4a1e"
+    },
+    {
       "title": "Tackling wildcat miners with AI drones - KITCO",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sSXhOUVBoOUlrX3BzR0J6bmZ4WVpZdzUxeW4zNFpMS3JwSHdqRzZoMXp1cTRZcjRkY1Q1TkFPbFFsamZVRndLeGVxZmdGbHlBN054elAtRkowZGFKUDRoeGJKWkdTTHVwRUdSWlQ4TWt2Q2JjVDNNWWxtRDl4a00?oc=5",
       "source": "KITCO",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2d3f83417037"
-    },
-    {
-      "title": "Poland Deputy PM Seeks 'Toughest' Pressure on Russia After Drone Incursion - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFJ0WGh0Wnd0VFoyMG53cFhoVmc0SW1STVJ2R3BPSkg3T1EzNzlmTU9XNThsdE1zYlJRRm1xb0NxQXpCYVZ4SktrbzgtTXlsMy1ua21GUzJzd2JLbXlTeFlCS1IxejNxTEdWTXZSWHIxUjAzeENnemVIMUpSeFBVdmFEWGVjSEp2dW9EcUp5QWxkYWxGRExrdndmYmNMZzFPWlp3c0x2OWQ?oc=5",
-      "source": "Newsweek",
-      "date": "2025-09-17T19:52:51+00:00",
-      "description": "Poland Deputy PM Seeks 'Toughest' Pressure on Russia After Drone Incursion  Newsweek",
-      "query": "drone incident",
-      "detected_at": "2025-09-17T23:05:59.617341+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fc5c502864a6"
-    },
-    {
-      "title": "‘License to kill’: Experts warn on legality of US anti-drug strikes - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1lyNVg3dFE2T1lnVWpERy1Ha0I0am5xQVNzdEpMa0lic3QtaUt4N29IcVpsMktHejRLR3dldUYxWVBGT1lhSFlvX2l0X2JYaWFENFVRRTJLM2RkbTR1c3p3RkR0WTNtYmVOVjR0Y1Z2SWZQNGdXT0ppYk9raDlJeVpFdUF1MlhSMFVOeVh3LTNoUm9Bano2SUx0Qm5ta0ZVdTdXRA?oc=5",
-      "source": "CTV News",
-      "date": "2025-09-17T18:37:43+00:00",
-      "description": "‘License to kill’: Experts warn on legality of US anti-drug strikes  CTV News",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-17T22:05:14.455794+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0464b094e376"
     }
   ],
-  "last_updated": "2025-10-09T17:05:43.574638+00:00",
+  "last_updated": "2025-10-09T18:07:10.962074+00:00",
   "total_count": 1000
 }
