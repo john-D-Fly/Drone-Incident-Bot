@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Germany draws up law to allow police to shoot down drones - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjZuWDVYZnJGYTZycUppSzNrNEhVNTJ2Ymd0Q2o5OWJUVkY5TXlUUDc2UmN6anJJc1kyV2k2Q3pTUnZySFRpNEhrXzdCeE1MQmUxM2MtSjBLZzAwRlVzbUFUUFk4bVUyMHJJQy1pSXJSWlE2dVlYdGZvd2dHeHhvWkJ6TmhTZ3RNcF9oUkpXdnBwMmtVT05yNzNHbGpqMjhIc21zTzRB?oc=5",
+      "source": "The Guardian",
+      "date": "2025-10-09T01:30:00+00:00",
+      "description": "Germany draws up law to allow police to shoot down drones  The Guardian",
+      "query": "drone illegal",
+      "detected_at": "2025-10-09T02:31:42.371154+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3e149a257af3"
+    },
+    {
+      "title": "Airports, flight-safety are getting exposed by drones, cyberattacks. Full list of larges-scale disruptions in U.S., U.K., Europe - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNVFBFcHFuTlhyRzE2MnZtbUg4Vl85d2pPZG04c09iaE5IdGZzWTFEMXRBdmxTTnphZ0ViT20yRU1ESktxVE44WG1JR3ItQWZna3o1TW5uV1NsVmN2UjR5RGFxY1IwLWRWWWp2WUM5ekMzM2FLZ0J0dWdEXzUxMWdXQUlNQk4xVzhuREM0U0pjTVd0ZGdOa1k5eng4ZnhGU1I4dk1MR3E2bFBsZC1WVEswQ1hJS3ZVZk5fc0pqVWh1bzk1UUJoU1JFZTN1T0tGQV9fUGtWaVVTRE0xTDNwdUlmRGNKWHpaM2FOMTBGelAxeXZmeDNDVnVGUFlpX0hVQTBJQk5LRkNHNTRWRlRrSTVZTDRSVDhBcmE1dU9zSno4VWJnSUFiRDdlNkd5WHNoX0dpQk9VVkNFZ2lIS2pIcFg0aXp2b1M0ZUhPcFVDMnFYSGJYWlBuSG9IU0FJVWdiZnZIOU9CR1hLME5Yd2U1R3FuRHVqeXQxcHo5NnVNN3VxWUpqSmgycnRaSlZsYTM2amNSZVE?oc=5",
+      "source": "MSN",
+      "date": "2025-10-08T08:02:46+00:00",
+      "description": "Airports, flight-safety are getting exposed by drones, cyberattacks. Full list of larges-scale disruptions in U.S., U.K., Europe  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-09T02:31:41.141416+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "72a1fde40b96"
+    },
+    {
       "title": "Ukrainian, Israeli-trained German police will be allowed to shoot down drones - Straight Arrow News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2diS2p5cnVqRFNXdmxiZXVFczRpRGRsOEpBRkpmVE1XMDAwdG0yU0plSk5xSzRzTlI0bTkxQlBpRm1xM29RS0gzZFc3aWk4NHFUUjBuUDhjTUlyRWZLZmlnOFV0WHd4eEFkeC1waFM1QUtyNU9KN2w0RjZuVmhMSmhQWi1yY3Z2YlhqdTlMY0dqT250ZTJsdXZRckI?oc=5",
       "source": "Straight Arrow News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1df215e7bc2f"
-    },
-    {
-      "title": "LA County man gets two weeks over drone crash into Palisades firefighting plane - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndfclNoVVBGUEdVazUtNWVZQkJZU1p4Y01QV2E4YmRUcUZacnphRFFJYkFCVkFvVEVoMk1tZFBZaDB2ZTZmbnVyclRYcnNiUmI3T1JKVVFBS3hwQ2NZa29adHFsbU1WVUM0dFR6WjRTaDVPZFpVbXBHOS0tbU9DUnVmOFluU1RQaHpDMlhJYlVELTZqeEtNRkp2cXp1MDhmQlZmc1VUeDlaQ1k?oc=5",
-      "source": "Courthouse News",
-      "date": "2025-09-16T00:48:38+00:00",
-      "description": "LA County man gets two weeks over drone crash into Palisades firefighting plane  Courthouse News",
-      "query": "drone crash",
-      "detected_at": "2025-09-17T10:05:32.359411+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e77623897473"
-    },
-    {
-      "title": "Man who flew drone into a firefighting aircraft during Palisades Fire sentenced - KSWT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPblhBN1QwQk5ZcFkzelRmWGduSUFDV2M3V2lOczdkUllobDAzdS1ocEZURTJwQWdpTVdIeU5hN2J3MEZ4UDNpTy1rNzhIX0FZR05nYUF2V0JmVDVJVGNKTzVtWFR5T29VdUIwNGVFYUg5bFZzaTJCT1JKbGlicE1pLTFHS2RWeEZIR2s3dnI4d0hjRm9KWVVTeUFCQk9mSVhZSUZsOHFGMmlfakQ5LWpLR2ZXMTBrcXlqbFd6SzQwSzJxYUxCWm1tMA?oc=5",
-      "source": "KSWT",
-      "date": "2025-09-16T23:32:36+00:00",
-      "description": "Man who flew drone into a firefighting aircraft during Palisades Fire sentenced  KSWT",
-      "query": "drone prison",
-      "detected_at": "2025-09-17T09:05:55.463503+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "160866bd7840"
     }
   ],
-  "last_updated": "2025-10-09T00:21:25.550195+00:00",
+  "last_updated": "2025-10-09T02:31:44.751327+00:00",
   "total_count": 1000
 }
