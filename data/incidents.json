@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Oklahoma DOC Deploys Drones to Decrease Contraband - Correctional News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMU45blNpSXZNU29YaWdMdjhtemxQUVhJMDJmTnpTSV9ZOXdta180bENRRHU5RVF4bC1YMnJPNndCRmR2MUNkYzJ3Z1RvY0daS0ItV3NFSHctbXlsTzZPc2VMWDQ2Q3ZUR2dOR1l2VUZmcjFoY2hLVEUxX2NsVldLazdPbnNQRFh0akZfZlJ1dDdieDZt?oc=5",
+      "source": "Correctional News",
+      "date": "2025-10-09T14:00:11+00:00",
+      "description": "Oklahoma DOC Deploys Drones to Decrease Contraband  Correctional News",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-09T14:05:51.860161+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5b1bdeefe7a6"
+    },
+    {
+      "title": "Israel Moves To Counter Drone Threat on Egyptian Border - Foundation for Defense of Democracies",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTBuSFMtel9nZXZuLWFEeVlsRGdEZDFEZzczNW03ejZtNzNjTHBZN252b2QtanBLTE5fdklMM2FtelJJMS1TWENQOWhjdEVGY01BNG4xcU5sbThRVHJBbURVeFhXOWJmeTRrRDFacEw4bE9PcDJ0ODRRRGxQN3pXSHVJR21obUtTMnlEdlBGN1UyYWhvZE94U1pxR3U?oc=5",
+      "source": "Foundation for Defense of Democracies",
+      "date": "2025-10-09T13:22:57+00:00",
+      "description": "Israel Moves To Counter Drone Threat on Egyptian Border  Foundation for Defense of Democracies",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-09T14:05:51.860161+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "9f88577c14dd"
+    },
+    {
+      "title": "‘Drone chor’ fears lead to UP lynching: ‘How can one be killed over rumours?’ - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlIYkFVMVNNbUIyYnA5N194RmNQalVhZkhHR3ZzZlp1RUZEcllOcFIteFN3aVgxQ29IUloxdGp2V01YbUpTVFFRN08za3FLVGNBc20zRkZ5eWstTnRsVE1YbTh5a2lsZm1kRUFmMmRfZ3N3WWFjZXJmQzR5LW55WGVmOHQ0dDBLRW1SbHI3ODgwUTc0WXJqVV9mS0c2Und0ZF9sTURmaUxoclZGb1hZUDlfRmdWUkxnaHZXc2ktdU83djJjQWlHc2FB0gHQAUFVX3lxTE9aOUNqQ0dFNDY5cVV2WWxTUlEwWnNwN0l5VGY5ejI4eENfX2Zldjl6V1VXNU5YYXdLWkFYbUxuWU84NjBOUUpBWVVrSkw2RTR4eVhwR0ZwVExlTlpuNXpEenNjdEhoazhHVF9qa1RFMTQzYnRSUmhSTVhDTFM3YktDcms5djhDdEtCcDJVQU96ZlhzSktkY2Z1U3FreHdSQWE2YkRZR3Jza2xjWlFJOXhuZFFRQjRsb3dCR2d2bXVpNU9HeWFSSjFfOElkUjZhRV8?oc=5",
+      "source": "The Indian Express",
+      "date": "2025-10-09T08:08:00+00:00",
+      "description": "‘Drone chor’ fears lead to UP lynching: ‘How can one be killed over rumours?’  The Indian Express",
+      "query": "drone incident",
+      "detected_at": "2025-10-09T14:05:50.606578+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "41d75784eb3a"
+    },
+    {
+      "title": "Putin Blames Ukraine Drone for Russia Shooting Down Passenger Jet - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWhRTk96dXhfY1o4aXNjcHZ1OHdvOUt3Z2lxRHpNSy1weW9fZWI2Rmh5dVhZRDNsY3RJUTNqVGJmT0stUlVUVWwtQ0lJWF85eDBIVVZmNGRrLV8yWl9lT0paeklMbjg0bS12SjE4LXFmQW93bThjSS10Q3U5S3pMQ2lHVGlmT3M5MkVkbDBSOFQ?oc=5",
+      "source": "Newsweek",
+      "date": "2025-10-09T12:27:00+00:00",
+      "description": "Putin Blames Ukraine Drone for Russia Shooting Down Passenger Jet  Newsweek",
+      "query": "drone incident",
+      "detected_at": "2025-10-09T14:05:50.606578+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "61cbd7661458"
+    },
+    {
       "title": "Culpeper traffic stop reveals drone drug operation and multi-jurisdictional crime ring - WVIR",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUdRWXY5T2R1ZlFndmN1NkpnUURrM3p0QXpQbnR5dFBodUtNdkkxcllLaWMxLS1VQnNQOHNIMDFVSGs3VGJ1bXBZdUhCcTR4X0dPQ2w4Xy1KT3RNZFYxS0RCbUkzVWpuZC1mYWRhWXFEX1BCaTgtZ0xGSWNucmxhLVQzT25RT2czWWhjbjNrTVh1dC1YLXRtVXUzZ014Umw1SEJBSWJIMUItX0VFbzhtSkJVbUR2UDVE0gHMAUFVX3lxTE9DVlRUU1JxZWhkcl9mMzd1T2xaTG1NN0sxQkR5YWZLbkt3S004UVFLalJPdXVsVzFxQUpIQjNQejRRUTRxMEI0elREZWdTMmFxb3VDb19SLXE5Uy02X0U3Z21kMFdyLUFqdFRweHJrYTA2RXVnMDQ2Z09nVUZua1dRSFctM0pxaERoakFnZzhjNkJoQjVuaHhydWhiQ1NsSllvMVZudDRnWU9zdWNRSk5zMjlyVmttM1FKVU8zNVFhVXpNc00yM3ZSWlNzeg?oc=5",
       "source": "WVIR",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "08f00847a5ee"
-    },
-    {
-      "title": "VIDEO: Drone leads to arrest of Lehi suspect who fled police - FOX 13 News Utah",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2lQeC1ZQmplcG9QLUZTSUg0czdxQUZSNG9HeEx6c1FXdGRUSDJQZzl5WXFFWkhLWDRDVDdMbXE4c20tZXpSQ2kzdmxzLVVPR0ZSQ19tWnhtWElsR1hkYzU0MGx3NWxkclBPZDhWbmptNE9zb0dGS1NOd2JGWXFWWFV1OFRBQ0NEanMxaWhoZEF4bEU?oc=5",
-      "source": "FOX 13 News Utah",
-      "date": "2025-09-16T07:00:00+00:00",
-      "description": "VIDEO: Drone leads to arrest of Lehi suspect who fled police  FOX 13 News Utah",
-      "query": "drone arrest",
-      "detected_at": "2025-09-17T17:05:06.387228+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "95d4301bebfc"
-    },
-    {
-      "title": "Poland Investigates House Hit During Drone Incident - The European Conservative",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjFyN3BVQUF3TUdtMFktTmRqTlFOZkZEX1A4a0FTVDVCTFBKUDJ2d29Tc3BvQnM2aHFGaHUtZkliWHRCNGY0ZExfODRObFA3azdrVE1wUDhtWTBwanVETlJwdEtybmh5N1hKaVpzMDdsQVFTOXU2UDlKa1BLcVBpbk16WmtROE42Q0V5TzFoU0d5Sk5zTzF2OVl0T25xblk0ZnZ1ek9WNkpBdw?oc=5",
-      "source": "The European Conservative",
-      "date": "2025-09-17T16:38:54+00:00",
-      "description": "Poland Investigates House Hit During Drone Incident  The European Conservative",
-      "query": "drone incident",
-      "detected_at": "2025-09-17T17:05:05.681782+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8e2e3f98f7b1"
-    },
-    {
-      "title": "Poland embarrassed for ‘misleading UN’ on damage from drone incursion - Brussels Signal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmY2d3ZPTlNsX21PRXdYbFRYdVpCa1dDN25HUXphQmVsaC1qQVFjaVpkMTVZb0xKdHcxYlMzUmhETkQ3NHZucUVjaEdveVRFVW5BT1premc2NThQYXpCOHlkVklWU3BrVkNjQVhzYkJsNVFkdzFHUTNaUEIzZFNyc1dIRURsQm9nQkl5c2JnbUtvYUpqZFRtRzVMVWF3Rldablh3OQ?oc=5",
-      "source": "Brussels Signal",
-      "date": "2025-09-17T07:17:57+00:00",
-      "description": "Poland embarrassed for ‘misleading UN’ on damage from drone incursion  Brussels Signal",
-      "query": "drone incident",
-      "detected_at": "2025-09-17T15:06:04.943921+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "17d99baa936b"
-    },
-    {
-      "title": "A 17-year-old Belarusian, detained after a drone incident in Warsaw, arrived in Poland a few days ago - Белсат",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVERpMmVJZS1aRU1YdW5oVUowWnljNHpBS2RYc0lVYlhPVHUzVGlpMUZaaXlQZUtRMU9qRVFxc3IzZWY4emt1S25KekZPZG5Xd0VWU2R0RkVVZkZFeVZLTWFhVUl3NG5xOGRvTVNNUVhqWFpmSGpRWU8xN0JrcV9zaGQ0ZlJNSDRzZXl6Tnp0VW5Gb0lJdUEyekZVcWlvQzJhbjZKTUdjdnpQMUtUYV8tczY5M21CTnRCaW04anhNa09Rbi1nT25rNg?oc=5",
-      "source": "Белсат",
-      "date": "2025-09-17T13:09:00+00:00",
-      "description": "A 17-year-old Belarusian, detained after a drone incident in Warsaw, arrived in Poland a few days ago  Белсат",
-      "query": "drone incident",
-      "detected_at": "2025-09-17T15:06:04.943921+00:00",
-      "location": "in Warsaw, ar",
-      "category": "arrest",
-      "id": "9f1f669e361c"
     }
   ],
-  "last_updated": "2025-10-09T12:09:18.605160+00:00",
+  "last_updated": "2025-10-09T14:05:56.883816+00:00",
   "total_count": 1000
 }
