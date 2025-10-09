@@ -1,9 +1,9 @@
 name: Daily Drone-Incident Report
 
 on:
-  schedule:
+  #schedule:
     # Run every day at 01:15 UTC
-    - cron: '15 1 * * *'
+    #- cron: '15 1 * * *'
   workflow_dispatch:
 
 jobs:
