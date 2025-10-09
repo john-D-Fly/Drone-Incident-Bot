@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of drone-related incidents have surfaced across various regions, predominantly concerning smuggling, arrests, and regulatory responses. Notable developments include Germany's push for laws empowering police to down unauthorized drones, a critical reaction to increasing airport disruptions linked to drone activities, and several arrests associated with drug smuggling via drones targeting prisons. Countries like Ukraine continued to grapple with drone strikes amid ongoing conflicts, raising concerns about security and terrorism. Reports of drones being used in illegal fishing and potential threats to air traffic further spotlight societal concerns regarding drone misuse. The overall trend indicates a growing awareness and legislative response to enhance drone-related safety and security measures.",
+  "totals": {
+    "smuggling": 7,
+    "airport": 4,
+    "other": 13,
+    "arrest": 10,
+    "terrorism": 3,
+    "crash": 2,
+    "security": 2,
+    "total_incidents": 47,
+    "by_category": {
+      "airport": 4,
+      "arrest": 5,
+      "crash": 3,
+      "other": 20,
+      "security": 2,
+      "smuggling": 11,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 9,
+      "drone crash": 2,
+      "drone illegal": 10,
+      "drone incident": 4,
+      "drone prison": 3,
+      "drone smuggling": 8,
+      "drone terrorism": 4,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Regulation",
+      "rationale": "Increased efforts for legal frameworks to manage drone security due to rising incidents.",
+      "incident_ids": [
+        "878dce936451",
+        "3e149a257af3",
+        "91c9b8da8f6e",
+        "b604ef8c935a",
+        "4bc027c3330a"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple arrests and operations indicate an active smuggling trade using drones.",
+      "incident_ids": [
+        "5ccf03ba85f3",
+        "ad38786021ec",
+        "0f52d70c27c2",
+        "c315008e7302",
+        "c50c3608980a"
+      ]
+    },
+    {
+      "topic": "Drone Incidents in Airports",
+      "rationale": "Several airport-related disruptions highlight ongoing challenges in flight safety.",
+      "incident_ids": [
+        "878dce936451",
+        "72a1fde40b96",
+        "be52adf12da0",
+        "0caea3550e65"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5ccf03ba85f3",
+      "headline": "Culpeper traffic stop reveals drone drug operation and multi-jurisdictional crime ring",
+      "one_sentence": "Authorities uncovered a drone-based drug operation linked to organized crime during a traffic stop.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "878dce936451",
+      "headline": "Germany New Law to Combat Rogue Drones Threatens Travel",
+      "one_sentence": "Munich Airport faced disruptions due to emerging regulations aimed at controlling rogue drones.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3c9529816a3f",
+      "headline": "Germany draws up law to allow police to shoot down drones",
+      "one_sentence": "Germany is proposing legislation to allow police to shoot down unauthorized drones.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "72a1fde40b96",
+      "headline": "Airports, flight-safety are getting exposed by drones, cyberattacks.",
+      "one_sentence": "Recent reports highlight significant airport disruptions attributed to drone and cyber threats.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "b604ef8c935a",
+      "headline": "‘Chilling’ rise in UK prison drone incursions – bringing in contraband",
+      "one_sentence": "UK prisons are witnessing a rise in drone-related contraband activities, prompting concern.",
+      "risk_tags": [
+        "prison"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "c50c3608980a",
+      "headline": "Man armed with drone to smuggle drugs into prison jailed",
+      "one_sentence": "A man has been sentenced for attempting to smuggle drugs into prison using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents spiked in the past 48 hours, highlighting smuggling operations and airport disruptions.",
+    "linkedin": "Recent drone-related incidents emphasize the critical need for stronger regulations and security measures in airspace management."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-09"
+}
