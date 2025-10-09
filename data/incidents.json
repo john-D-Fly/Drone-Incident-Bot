@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzdwM0pLTkhDT0tZYy1PblNTNE9YR0NQZkVEdTVrUHZqaDBiOFBNczJPSE8yTm0yaHdQc2RRZ3ZJWTNEb3NPZHUxWFRTell0YzhKVTVmejNnQVZ2MWR2NzI3QTV3M0FRdnE1cXRnRThXS2xUVWMteTBjMW5pakhJMmhKeWJvbmQ0aVZQa0F3dWE?oc=5",
+      "source": "politico.eu",
+      "date": "2025-10-09T18:55:00+00:00",
+      "description": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever  politico.eu",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-09T22:05:04.853987+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "30e8e452bded"
+    },
+    {
+      "title": "Belgium says it foiled suspected drone plot to attack prime minister - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaktOLXRZUUE1Rmpza3F3S0ZXUnFHWVVqQVo1ODJHTS05MHk0amgyb2FCRVlsc2Rqc3BIZk1hRHJ0aGh2RHZBVm16dVR3aF9mUUY5enJNckdkUnJYaU1hbFY4b3F1VnFmTlBnY2JQN3RocUZLUUpXRGdJQnBwMjdVMmszNUJxaURkclZwM3pLMElIbjI5YXRyU1d1aEliZjdtVlZ3aU1JRGNXeTQ3QTdnUE9CSU10aGFwREhOMTZ0ZFBCbHVJRlV4OFVYUQ?oc=5",
+      "source": "France 24",
+      "date": "2025-10-09T21:54:53+00:00",
+      "description": "Belgium says it foiled suspected drone plot to attack prime minister  France 24",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-09T22:05:04.853987+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cbaf764bb071"
+    },
+    {
+      "title": "‘Hybrid warfare’ or more of the same? Getting a grip on drones across Europe. - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUVJc3pWVU5xZkd3Tnk5Q0Q2cmVHVWVLR2lLc3dGVGxVQWh1VEd1YTVpNXU3eUhka2Nkb3pWZWRDVWVqRkd6SHdxOU5IQVltb0gwZU1lenBHMFMyM3BkTFpwX1FqLXBoa29RejNYUVJlZG1ieDBHOGsyYnktMDVmdTYydEhacEJVY0VFODBtc1ZzYlJTeTBZeS1yWl9qVmtxb25rMjB2TVRGUQ?oc=5",
+      "source": "politico.eu",
+      "date": "2025-10-09T03:24:00+00:00",
+      "description": "‘Hybrid warfare’ or more of the same? Getting a grip on drones across Europe.  politico.eu",
+      "query": "drone incident",
+      "detected_at": "2025-10-09T22:04:59.675678+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c3c1efd2a384"
+    },
+    {
+      "title": "Apocalyptic scenes as drone show rains fire on China crowd - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYmRfOUQtQkxvMGpvUG1YWTNSaUpNMjA0M2tkRHc2bGFkZVhlaHdMc2h1WlYwblpzTEh2ZFJlUHMzb05XNElBUjYwenVIaWN3d2ExSHZCUko1aEs1dEZuMW9Iclk2ZHpKOG9KdEVfUQ?oc=5",
+      "source": "DroneDJ",
+      "date": "2025-10-09T06:47:00+00:00",
+      "description": "Apocalyptic scenes as drone show rains fire on China crowd  DroneDJ",
+      "query": "drone incident",
+      "detected_at": "2025-10-09T22:04:59.675678+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "837d09b94336"
+    },
+    {
       "title": "Toronto Police announce arrests after drone flights over Blue Jays playoff games - blogTO",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVE1UDhlVzFMWjlRSDJGamM1MllDalRvUjFDMXhkcXRXSjdEWXExcC1UZUh3c25VVVFiN0JOUldjYzVUSXBlaVZFMHVIaTcwWU5GQ25ucE83VUR5MzFhR3pzR2pFb1ppUVl6d0FheGpEQ0VmeGNSajdqdV9SWEhPV294eUFVTnZFMFlUVEtucFI3ZXFzdjl6VzY4Q0l0ZXlaSm9DT21Fdw?oc=5",
       "source": "blogTO",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "94035eb25203"
-    },
-    {
-      "title": "'A careful calculation' — Russia's drone incursion into Poland tests NATO's red lines - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHpqMEVmWVNIWG81MkNSbjU1VFFHYml0bndRSkJ4NlNTcVo0Wk9PdXphT25tR1RtX2pocU05d20ydmIwZHctaU95RXBndHUzRHBTMFd3VTEtMXlNM0JJYi1iMTFPaWdjbVo3X0JSMzZIMXhMWnVUMEk2Z3JzdU1pX1Q2LW9CQlNlb256N2kzU1pjeUJEQnpkbjRJYWJ6TlhKZExLWXpoMHZDdEo3YWx4YS1B?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2025-09-18T14:27:34+00:00",
-      "description": "'A careful calculation' — Russia's drone incursion into Poland tests NATO's red lines  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2025-09-18T15:05:41.870350+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "33ee97438f3c"
-    },
-    {
-      "title": "Man held for illegal arms trade through drones - Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2lfMDBDc1g3Z1BVN1RwSjZDN2pIa2VwSVJuTm5uRDdram9USW5EQXFPc0piN2VXRkNNdUhuM2VDbzBwMllRNWp4UXA1RjFyR3NrLWVWX3NNNTEwLU5MdC14UllMSE5oRUlwNHVldGQyT1VIQWV6RXRNZ1RSclF2SGlVQ1RidkZ2Y21POHlNcjdxTGxp0gGYAUFVX3lxTE1KcGcydHlXbzFFWGtMa1VOMERaTEx5S1hvMEo5S2gzWEpYcHhOMkYwcTRuTEg2UldKbXAtd3dIRDRNN2R5cEtwWVBTTnJBTjkwTGlDNVp4Wm5xUTZJMDNOTXhBNWpCSGYzdVNXcmpCMWxSOERRdXJIT3RSYWR1ZG9OWjlwa2Z3WnEyOUIzMEx5el8ycDNmYmlI?oc=5",
-      "source": "Tribune India",
-      "date": "2025-09-17T23:39:48+00:00",
-      "description": "Man held for illegal arms trade through drones  Tribune India",
-      "query": "drone illegal",
-      "detected_at": "2025-09-18T14:06:02.855683+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "032d6518108a"
-    },
-    {
-      "title": "'A careful calculation' — Russia's drone incursion into Poland tests NATO's red lines - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHpqMEVmWVNIWG81MkNSbjU1VFFHYml0bndRSkJ4NlNTcVo0Wk9PdXphT25tR1RtX2pocU05d20ydmIwZHctaU95RXBndHUzRHBTMFd3VTEtMXlNM0JJYi1iMTFPaWdjbVo3X0JSMzZIMXhMWnVUMEk2Z3JzdU1pX1Q2LW9CQlNlb256N2kzU1pjeUJEQnpkbjRJYWJ6TlhKZExLWXpoMHZDdEo3YWx4YS1B?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2025-09-18T13:31:20+00:00",
-      "description": "'A careful calculation' — Russia's drone incursion into Poland tests NATO's red lines  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2025-09-18T14:05:58.387737+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1f1ac373a5d7"
-    },
-    {
-      "title": "Is NATO ready for drone warfare? - DW",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DUzQ1bUdCcE8wQS1sWFc4cmFTcFNucTJoekR4UnZuVmhaQlhSSmpmYzIxZ0dqZ29IZFRKYURRZkFlVVVrOUJfaTgwT2xnMUxHUDJfRWxCalg3QURlRXNLakp6cUpKRzlsVEZuNzZ5amdXZ9IBckFVX3lxTFBTdllicXlIekFuWmtuQTA4alZMS2FBTk9CZnBKWnY5aHhzdURfYnRTazlaaW1oOUtjc0JkRXlTQ1hLcTlyUkh0eGZSYkxmazExN0dRTmhEaGhVNllyekpTWE84dFRSeFQ3RFRsSGJHcWZTUQ?oc=5",
-      "source": "DW",
-      "date": "2025-09-18T12:38:31+00:00",
-      "description": "Is NATO ready for drone warfare?  DW",
-      "query": "drone incident",
-      "detected_at": "2025-09-18T14:05:58.387737+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "33bbdc2eda2e"
     }
   ],
-  "last_updated": "2025-10-09T21:05:13.880762+00:00",
+  "last_updated": "2025-10-09T22:05:06.021082+00:00",
   "total_count": 1000
 }
