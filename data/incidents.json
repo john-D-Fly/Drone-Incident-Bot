@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war latest: Russian fighter jet crashes before drone attack on Kyiv - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDNENHJjNC04T21JSVB4N1Iwd3k2NHlvdmtwdndYUVpaeVdYbG1wVklrTFBWZndXRXE2MndodDNycFVQM01FOFZvcy1IcFFWTzBDMUFQOElHenktUGFkRjQ0YjM2NG52ei1kYjNxVWhKRTR1d2JOOXpLX1pHTXN3WHp1X09xTENOT2lMMDFaRGFtN3AwWE1qd0txMXBhalA1aHp2bWJVRDJYSGU1bVRBdURYUnpDSmJ4TWNQbFJn?oc=5",
+      "source": "The Independent",
+      "date": "2025-10-11T10:53:49+00:00",
+      "description": "Ukraine war latest: Russian fighter jet crashes before drone attack on Kyiv  The Independent",
+      "query": "drone crash",
+      "detected_at": "2025-10-11T12:08:03.428333+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1cd8aedb4bc0"
+    },
+    {
       "title": "Ukraine-Russia war latest: Russian fighter jet crashes while attempting to land before drone attack on Kyiv - The Independent",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDNENHJjNC04T21JSVB4N1Iwd3k2NHlvdmtwdndYUVpaeVdYbG1wVklrTFBWZndXRXE2MndodDNycFVQM01FOFZvcy1IcFFWTzBDMUFQOElHenktUGFkRjQ0YjM2NG52ei1kYjNxVWhKRTR1d2JOOXpLX1pHTXN3WHp1X09xTENOT2lMMDFaRGFtN3AwWE1qd0txMXBhalA1aHp2bWJVRDJYSGU1bVRBdURYUnpDSmJ4TWNQbFJn?oc=5",
       "source": "The Independent",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "195e775e289d"
-    },
-    {
-      "title": "Russia Blames Europe for Derailing Peace Talks Over Polish Drone Incident - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhLWV4SkxaWXJHUEExTUhmeEFHVVdpcUp6dS16VGlNSFA2NUVsMVNiSl9wNlpxa0hVY1J1YmhaRURwSVNpWmhITjduWQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-09-18T21:46:01+00:00",
-      "description": "Russia Blames Europe for Derailing Peace Talks Over Polish Drone Incident  Kyiv Post",
-      "query": "drone incident",
-      "detected_at": "2025-09-19T22:05:18.353435+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a36404c489a4"
     }
   ],
-  "last_updated": "2025-10-11T11:04:52.567518+00:00",
+  "last_updated": "2025-10-11T12:08:06.356281+00:00",
   "total_count": 1000
 }
