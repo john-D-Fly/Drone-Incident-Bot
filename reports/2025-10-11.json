@@ -1,0 +1,142 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been significant drone activity in Europe, particularly surrounding ongoing tensions in Belgium and Ukraine. Multiple incidents of drone crashes related to military operations, particularly involving Russian fighter jets attempting to disrupt drone attacks, have been reported in Ukraine. Concurrently, Belgian authorities have thwarted several drone-related terror plots aimed at public figures, leading to multiple arrests. Notably, a drone was intercepted targeting the Belgian Prime Minister, showcasing rising concerns over drone misuse for political ends. Additionally, law enforcement in the U.S. has arrested individuals involved in drone contraband smuggling while emphasizing new drone regulations to enhance security. Overall, a concerning trend emerges as drone technology increasingly intersects with criminal and military activities.",
+  "totals": {
+    "crash": 11,
+    "smuggling": 4,
+    "arrest": 10,
+    "other": 16,
+    "terrorism": 6,
+    "airport": 5,
+    "total_incidents": 103,
+    "by_category": {
+      "airport": 11,
+      "arrest": 20,
+      "crash": 13,
+      "other": 39,
+      "smuggling": 10,
+      "terrorism": 10
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 14,
+      "drone crash": 13,
+      "drone illegal": 15,
+      "drone incident": 16,
+      "drone prison": 7,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 21,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Ukraine Military Operations",
+      "rationale": "Significant incidents of drone crashes related to military operations in Ukraine.",
+      "incident_ids": [
+        "8c8135abd152",
+        "1cd8aedb4bc0",
+        "af88e780d6f4",
+        "5b2f3c2d4b15",
+        "45dbd293ba6a",
+        "e4f652994290",
+        "e8ca2d1a9019",
+        "7e492eb2c976",
+        "3f7c47ce754f",
+        "6a2838502f6a",
+        "ec2c01df69f0"
+      ]
+    },
+    {
+      "topic": "Belgian Counter-Terrorism",
+      "rationale": "Multiple arrests related to drone plots targeting political figures in Belgium.",
+      "incident_ids": [
+        "366a23cf4756",
+        "ba30002e2b29",
+        "f6810ff72050",
+        "c4c87df55300",
+        "b92df0c73306",
+        "a112c4eed0a7"
+      ]
+    },
+    {
+      "topic": "U.S. Drone Smuggling Incidents",
+      "rationale": "Increased arrests related to drone smuggling and contraband drops in the U.S.",
+      "incident_ids": [
+        "7c9f8f8348f9",
+        "5f9b08429f10",
+        "83d58de0d34a",
+        "fa2ab7087f64"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8c8135abd152",
+      "headline": "Ukraine war latest: Russian fighter jet crashes before drone attack on Kyiv",
+      "one_sentence": "A Russian fighter jet crashed in Ukraine amidst a drone attack on Kyiv.",
+      "risk_tags": [
+        "military",
+        "crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "366a23cf4756",
+      "headline": "Belgian PM reported to be among targets of ‘jihad-inspired’ drone plot",
+      "one_sentence": "Belgium is grappling with a foiled drone terror plot targeting its Prime Minister.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "7c9f8f8348f9",
+      "headline": "Four arrested for suspected drone contraband drop in Washington County",
+      "one_sentence": "Authorities arrested four individuals in Washington County for attempting to smuggle contraband using drones.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1cd8aedb4bc0",
+      "headline": "Ukraine war latest: Russian fighter jet crashes before drone attack on Kyiv",
+      "one_sentence": "Another fighter jet crash in proximity to ongoing drone attacks highlights the dangerous military dynamics in Ukraine.",
+      "risk_tags": [
+        "military"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d57abe13ba5e",
+      "headline": "Man charged in deadly Darlington County crash is Army drone operator stationed at Fort Bragg",
+      "one_sentence": "An Army drone operator has been charged following a deadly crash in South Carolina.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant drone incidents in Europe and the U.S. over the last 48 hours, highlighting increasing security concerns.",
+    "linkedin": "Recent data reveals a surge in drone-related incidents, from military operations in Ukraine to thwarted terror plots in Belgium."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-11"
+}
