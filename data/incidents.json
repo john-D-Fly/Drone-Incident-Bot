@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Belgium PM was target of foiled jihadi attack plot - DW",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckNVYWtsakNORk55TzZUWl9pU0h5NTRrN29oSzktc1JsOHpFNlREbUlXMDZPQlZ3NEtGUzFGdmMzUExUWS1yQWlfY0E0UHdWLVNLY3dGbnh0VGlfNnByY3RvX01oQl9kWDlCc0VEQmx3ZU52UWF4Zjk4MDhMQ1M5Rjh5QzdkaTl1MGRj0gGLAUFVX3lxTE9ZWFI4dk5rQVVoaHVzR1AtV2ExQU1XQ0F1QTUxcmVxVkZHRmthMU1nWnh2Zm45aFpQb1BNYUVhdlE1TmlrWUpPZG9wV2N5S3NJT3VqX0JLOUZIQTRndUh5Y2RhbVRHbG5jMGJ2ZG83djh6aGtnT0NjT3N2dE5qYVNsam00bndDcmpuQXc?oc=5",
+      "source": "DW",
+      "date": "2025-10-10T19:55:10+00:00",
+      "description": "Belgium PM was target of foiled jihadi attack plot  DW",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-11T05:05:11.556066+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2e7148a139b8"
+    },
+    {
+      "title": "Ukraine war live: Russian fighter jet crashes before drone attack on Kyiv - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDNENHJjNC04T21JSVB4N1Iwd3k2NHlvdmtwdndYUVpaeVdYbG1wVklrTFBWZndXRXE2MndodDNycFVQM01FOFZvcy1IcFFWTzBDMUFQOElHenktUGFkRjQ0YjM2NG52ei1kYjNxVWhKRTR1d2JOOXpLX1pHTXN3WHp1X09xTENOT2lMMDFaRGFtN3AwWE1qd0txMXBhalA1aHp2bWJVRDJYSGU1bVRBdURYUnpDSmJ4TWNQbFJn?oc=5",
+      "source": "The Independent",
+      "date": "2025-10-11T03:09:09+00:00",
+      "description": "Ukraine war live: Russian fighter jet crashes before drone attack on Kyiv  The Independent",
+      "query": "drone crash",
+      "detected_at": "2025-10-11T05:05:09.900768+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "45dbd293ba6a"
+    },
+    {
       "title": "Ukraine war live: Russian fighter jet crashes before drone attack on Kyiv - The Independent",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDNENHJjNC04T21JSVB4N1Iwd3k2NHlvdmtwdndYUVpaeVdYbG1wVklrTFBWZndXRXE2MndodDNycFVQM01FOFZvcy1IcFFWTzBDMUFQOElHenktUGFkRjQ0YjM2NG52ei1kYjNxVWhKRTR1d2JOOXpLX1pHTXN3WHp1X09xTENOT2lMMDFaRGFtN3AwWE1qd0txMXBhalA1aHp2bWJVRDJYSGU1bVRBdURYUnpDSmJ4TWNQbFJn?oc=5",
       "source": "The Independent",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d0d387df0308"
-    },
-    {
-      "title": "'Stupid': Calif. tech exec who hit firefighter plane with drone gets prison time - SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTVJzNFVNcVRRVVRqOUtDUm1UdWJEQ1BkbkE2RXRfVEp0dXpHVXV5MFZqakVwM0otaDJ2NlZMUHFyLUt5ZmRXQ0duektMZmtnYldoaS0yMThoUC1pRlZxbW52QV9zNDJQZ0hfbWFaem1mMlA1LTVGMm5MUVhuV1k?oc=5",
-      "source": "SFGATE",
-      "date": "2025-09-19T15:44:44+00:00",
-      "description": "'Stupid': Calif. tech exec who hit firefighter plane with drone gets prison time  SFGATE",
-      "query": "drone prison",
-      "detected_at": "2025-09-19T16:05:53.623198+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a487d9e7f722"
-    },
-    {
-      "title": "Oakdale Police intercept contraband being snuck in by drone to federal prison - KPLC 7 News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemFNWnE0YVlOWnVuOFBpOWp5aDFfZGdvTUtsY1h1Y3hYWEFzRWh3Y2FCZHJqd2JOM3Y5U21UYUE2QTFZbDFlSWI4em5NT3JYQXU4QnVSOEI2eDFuUVBpdnNkeGdfclEtSm9hMWN4YmZmU1dDYTBXb1NLc3JDZ3ZyZmJCTXVjS1U1TjVSbk02VUJZTVJYWWxBX0lXWUkwLUZ2ZkJiWFAyeTN3UQ?oc=5",
-      "source": "KPLC 7 News",
-      "date": "2025-09-19T16:00:00+00:00",
-      "description": "Oakdale Police intercept contraband being snuck in by drone to federal prison  KPLC 7 News",
-      "query": "drone arrest",
-      "detected_at": "2025-09-19T16:05:51.793643+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8e8d15d4a120"
     }
   ],
-  "last_updated": "2025-10-11T04:06:09.972960+00:00",
+  "last_updated": "2025-10-11T05:05:12.631590+00:00",
   "total_count": 1000
 }
