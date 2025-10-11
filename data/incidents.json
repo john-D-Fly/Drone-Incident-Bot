@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war live: Russian fighter jet crashes before drone attack on Kyiv - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDNENHJjNC04T21JSVB4N1Iwd3k2NHlvdmtwdndYUVpaeVdYbG1wVklrTFBWZndXRXE2MndodDNycFVQM01FOFZvcy1IcFFWTzBDMUFQOElHenktUGFkRjQ0YjM2NG52ei1kYjNxVWhKRTR1d2JOOXpLX1pHTXN3WHp1X09xTENOT2lMMDFaRGFtN3AwWE1qd0txMXBhalA1aHp2bWJVRDJYSGU1bVRBdURYUnpDSmJ4TWNQbFJn?oc=5",
+      "source": "The Independent",
+      "date": "2025-10-11T00:38:06+00:00",
+      "description": "Ukraine war live: Russian fighter jet crashes before drone attack on Kyiv  The Independent",
+      "query": "drone crash",
+      "detected_at": "2025-10-11T01:32:30.077105+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "0852eef1660a"
+    },
+    {
       "title": "India deploys new forensic C-UAS technology to counter drone smuggling - Unmanned airspace",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTm5GdmxqR19tN0JURVozTkVLc3hjcGMtMDF3T1FKT25TcW1VeEdBSGJRVFljdVEzYmxRVjZXTlV6VWxzOGlaYWdNSzMwOV9RZExlWkxQWXdXTmxrcFNNUDFlRUpDcG12QzRHX0hOcTZRREJQOVc1RnlHeC1YdU9jS3ZDR3BMREtPeWMyLUViS09CTmZQWEdWU0ZHVWV2NEQ4d1ZzTG9UenpqSE1mZXhqYUpHeUY0YWhqZ1AzQnZ0cF9RSTN4cWpEenVSSmljUk5FTTFaemNUNUhQcnJvZGViS0xEVU1sSDBvZmx5djNnNHJUbndGM2NrZmxFbWY5TU0?oc=5",
       "source": "Unmanned airspace",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "948f01b29b39"
-    },
-    {
-      "title": "Moscow calls summoning of its ambassadors in Europe over drone incident in Poland ‘demonization campaign’ - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGxnN0NZSXEzT1NISjV5VXhQYm1VUkxqcjM0ZXNFdGtsTm9UVHdTMmZ4WjVodUJ5SFFqamRZYTFlNFdHMXJCYkc1RUN2YTJoY2JES0xhYVVWQlJ1Uk5tSEZUYWt0bDNYamx2UFhfQS1LdHk2SElBaHpmU0dmVkRRY3Q5UFNvbFVtM0M4N3lFMzkyd2c0UHNpNDZPaDh2VGVsNHlZX1hVV2RIdVRJcUxIU29HNF9WT3NXTTBfYlpKb0hVdjhBVkZocGV6ekNCSHNfNzV1eUFYTXBSSDg?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2025-09-19T11:22:39+00:00",
-      "description": "Moscow calls summoning of its ambassadors in Europe over drone incident in Poland ‘demonization campaign’  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2025-09-19T15:05:23.573866+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d41c219b39ab"
     }
   ],
-  "last_updated": "2025-10-11T00:20:30.533282+00:00",
+  "last_updated": "2025-10-11T01:32:33.360838+00:00",
   "total_count": 1000
 }
