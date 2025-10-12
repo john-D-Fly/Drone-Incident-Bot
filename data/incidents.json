@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Flights grounded at Los Angeles airport due to equipment outage - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1dUcEwyMjZxRm4tbW05S19BM3JHYldPYVZkMlpsaEhVall2a19USUZNWmk4aE8tTUl4QUFqZ204ejJMdU5CZGw3R1pMTDMwVnJwV0VhT3hkcFprSGtOQ1h3NXNyZ1BINlM3TTVBXzNGcmF3OElldU90LXZIU2g1RFZ2WElfaWVtMEZRSkQtVXhaUXh6dFhYbFFHODVkeHhqMlFsYmdQaFlmSk9vTjMxTw?oc=5",
+      "source": "Gulf News",
+      "date": "2025-10-12T17:39:58+00:00",
+      "description": "Flights grounded at Los Angeles airport due to equipment outage  Gulf News",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-12T18:06:35.686561+00:00",
+      "location": "at Los Angeles airport",
+      "category": "airport",
+      "id": "28d142e89edc"
+    },
+    {
       "title": "Temporary closures at Prison Hill for drone herbicide application - Nevada Appeal",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelNJdWRodWNndE1nNTR1S29XQkxtWUVqOEVwNWpyaWNuN0VfM1ozYVdkajluQzAxUFBuX2R4SW1oNUdTbkxPNEU0RTZTbjh2eFdIRXZNdDZWYVQzVnRMTE02U2U3VVN0YlZLVFo0cHBwU0hDOVVUTjZ3OGdIWG9nWGluRC02RjhOWVA5UER5d2xYenZwWFlvelhxWHphUFEwZllxaWIzUW5EOVEyOExUT3RvbnZQSGVJc2JZ?oc=5",
       "source": "Nevada Appeal",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "20058b28073a"
-    },
-    {
-      "title": "Oakdale Police intercept contraband being snuck in by drone to federal prison - KPLC 7 News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWhGLWNHUXNRaEI3dnQ2Y2lqT1AyVmVDbWxmY1FHQTFGeHc2MTVZaXB5ZHU1VENVMzRUQUlEb1hwWkNXSXlmYWtsZkZuTU0weTdzTTVXQjVNMXpHOFhYY19laUd6MlZXNjVnYWY2SGlmeXBOSkpneXRFbnFSRHotRWoxS245Y3Zaek9HNVRMQlFLdXQ5c1ZBRGhDNUxZRDZ5V2JjM29BaEJuSUwwNDRTdm5n?oc=5",
-      "source": "KPLC 7 News",
-      "date": "2025-09-19T10:19:29+00:00",
-      "description": "Oakdale Police intercept contraband being snuck in by drone to federal prison  KPLC 7 News",
-      "query": "drone prison",
-      "detected_at": "2025-09-20T05:05:14.388048+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7ecfc4a4bc8d"
     }
   ],
-  "last_updated": "2025-10-12T14:04:59.645994+00:00",
+  "last_updated": "2025-10-12T18:06:39.616935+00:00",
   "total_count": 1000
 }
