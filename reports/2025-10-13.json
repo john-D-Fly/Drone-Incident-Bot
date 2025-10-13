@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have been notably reported in Eastern Europe and Asia. Notably, two Russian drones crashed in a Belarusian border town, raising concerns about drone operations near conflict zones. Additionally, Ukraine reported 82 drone strikes launched by Russia, highlighting escalating tensions and potential risks associated with drone terrorism. In Asia, the number of unauthorized drone flights near Incheon International Airport has seen a significant drop, suggesting improvements in security. However, incidents related to drone smuggling persist, with various arrests linked to contraband operations involving drones. This trend indicates an ongoing challenge regarding drone usage across borders for illicit activities and the need for stronger regulatory measures in aviation security.",
+  "totals": {
+    "crash": 3,
+    "other": 3,
+    "security": 1,
+    "airport": 4,
+    "arrest": 3,
+    "smuggling": 4,
+    "total_incidents": 17,
+    "by_category": {
+      "airport": 5,
+      "arrest": 1,
+      "crash": 3,
+      "other": 2,
+      "security": 1,
+      "smuggling": 5
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 2,
+      "drone crash": 3,
+      "drone illegal": 2,
+      "drone incident": 1,
+      "drone prison": 3,
+      "drone smuggling": 1,
+      "drone terrorism": 1,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone crashes",
+      "rationale": "Increased drone crash incidents linked to military conflicts.",
+      "incident_ids": [
+        "75500c612ff1",
+        "8c372f27cb1a",
+        "f34d90e6329d"
+      ]
+    },
+    {
+      "topic": "drone terrorism",
+      "rationale": "High frequency of drone strikes associated with military operations.",
+      "incident_ids": [
+        "07721af40c62"
+      ]
+    },
+    {
+      "topic": "drone smuggling arrests",
+      "rationale": "Ongoing patterns of drone-related arrests linked to smuggling efforts.",
+      "incident_ids": [
+        "bb061686f7e4",
+        "9bdfbf9d696c",
+        "1e1c353afae0",
+        "802d855f2bc4"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "75500c612ff1",
+      "headline": "Two Russian drones crashed in a Belarusian border town, one exploded",
+      "one_sentence": "Russian drones crashing in Belarus raise concerns amid ongoing military tensions.",
+      "risk_tags": [
+        "crash",
+        "military"
+      ],
+      "countries": [
+        "Belarus",
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "07721af40c62",
+      "headline": "Ukraine: Russia launched 82 drone strikes overnight",
+      "one_sentence": "Ukraine reported a significant escalation with 82 drone strikes from Russia.",
+      "risk_tags": [
+        "terrorism",
+        "military"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "bb061686f7e4",
+      "headline": "Police seize arms, drone; arrest two Attari residents",
+      "one_sentence": "Authorities arrested two individuals linked to drone smuggling in Attari.",
+      "risk_tags": [
+        "security",
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9bdfbf9d696c",
+      "headline": "Drone carrying drugs, phones caught near Bath prison",
+      "one_sentence": "A drone transporting contraband was intercepted near Bath prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "7dbe3ca2b002",
+      "headline": "Man’s attempt to make delivery into SC prison with drone ends in arrest",
+      "one_sentence": "An individual was arrested while attempting to use a drone to deliver items into a South Carolina prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents increase with military tensions in Eastern Europe and ongoing smuggling issues in Asia.",
+    "linkedin": "Recent reports highlight escalating drone activities associated with military operations and smuggling, necessitating further policy discussions around drone regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-13"
+}
