@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Unauthorised drone sightings in Norway disrupt airport operations - Unmanned airspace",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmxST2N1d3dRZE5ONkRBdHczbEptUDM0MDhhSEIyUEZIOXFlTkhTV2lLZG5tb01kZnhCWkNiSGdkQzZKa0NwV2tKT2NyRFVTTktjT01DdUU4Qnc5dGdmSGtEVjB3aDZ2S2hKN295SGp3bWZtTVVzY1JydC1YT0NjX3l5M2JCOUN5S2hLU3pMbFhEZmhmVkYxUjdjdUdYaE9EVHc4c0UyRU12OWNhZ1VqcndKemY?oc=5",
+      "source": "Unmanned airspace",
+      "date": "2025-10-12T16:41:16+00:00",
+      "description": "Unauthorised drone sightings in Norway disrupt airport operations  Unmanned airspace",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-13T16:06:43.612855+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "8c20e31beb3a"
+    },
+    {
+      "title": "Drone video shows crashed plane resting in median on I-195 in Dartmouth - Boston 25 News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEZTQlVEMFJCaWdnWkh0alp3QUZqVTJ1elpaM1NJTzhXb1RzRHpTN3VpR3NRcDVHTkplQUctdHZMLU9PbWg4aUhaVDBvLWhrQTFJaTNTYWlfS1BQSWcwdFFqREFwUXRSWllQRE5LanRlVEQwNDNuTTZ3eU5wLXpUTFBXOXhfai12UXdFbEJGOTBLWUhxM25WS1RPR1l6ZTZ4ZGtnYzZ0cldpcVBPY3d3cnoyNkI4QjRfYWVOTjRLWV9xbnZvQ1dKZy1UZnJxbDQ?oc=5",
+      "source": "Boston 25 News",
+      "date": "2025-10-13T15:06:33+00:00",
+      "description": "Drone video shows crashed plane resting in median on I-195 in Dartmouth  Boston 25 News",
+      "query": "drone crash",
+      "detected_at": "2025-10-13T16:06:40.748838+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3e13ebd8471d"
+    },
+    {
       "title": "At Least 19 Taliban Fighters Killed in Pakistani Drone Strikes in Southern Afghanistan - KabulNow",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeVZvU1NTVmxGQWV5RTFIUEc4bG9FX1NwT3ZtYXI3d2dNa2tvWW4xTE1qTjU3RFJiSWh6R2dyWjVzeV9xYzZOak5xQ1FWdXY1VUwtdE9MSnA5YlZqX1E1S2lWT0RtbnZCR0R0LXlDNC1aSTc4dVV1RkRQQXRVQTRrSlpsNF9fT2RiQmVGMmE2NU1nTnBUNWxIVzhYTXJFSHNKUlBuSFYwV1RyWFMxWTVmX3NjVnN5cUE?oc=5",
       "source": "KabulNow",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "577413ea8cab"
-    },
-    {
-      "title": "Cyprus Drone Laws 2025: Ultimate Guide for Recreational, Commercial & Government Operators - ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0NMQ21vNmtqNm5uYjBjSDRXNEhGSFM5R1pBM09RLUxWcnZBRjdwV1REeE8xRzlQZGdFcE9fVWRaVW1iT1hDUUhTZDdrbllZblJ2YWRjQ2ozTVAzM1pKMHc2R1hHZC1ucFU1Zi1lWHpWVllVMDhBcldPZWQ0MHdzRWE5WWNXUERSa1Q4TG9aUm9GOTUwWDBGYXlsSi1adUJCc3dBNjFFbk4walU?oc=5",
-      "source": "ts2.tech",
-      "date": "2025-09-20T17:50:32+00:00",
-      "description": "Cyprus Drone Laws 2025: Ultimate Guide for Recreational, Commercial & Government Operators  ts2.tech",
-      "query": "drone illegal",
-      "detected_at": "2025-09-20T18:06:18.516065+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a80bf54b3862"
-    },
-    {
-      "title": "Drone Restrictions Imposed in Anantnag District - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0FfU3drQ0RIUmRpYk52RFFkUG14c2VTbm9xbkRWOWdnX1BaUXFacDI1LTBseThibWN1RmVVd2ZqZWktYUM4VC1jZ095cmNOc1hQSEdjZjlZc0pWT0toQk40a2xuRFhxVGhoa1dDWFEtenlSTHd2Q19wZFhiOWlIOUE2SW05dWJVYVpNd3BjeWdIZ3JEdnNwdlhhRDRzWTlkV09sLdIBqgFBVV95cUxQcG5KM2NtdkFabnNrdjgyMEFfVF9RT19rU0dORnpZR3Z3UVhCTGFybURKZGNvRWpQdUJ2WjlrR1lMSU1fNFJLc1c0V0NUOEFHMXZkaE9yVGYyYllGWngxRjlpN01SMlpOZkE3UkxOaktMakdtUzVNYXhCN1BjR0R4S1Z5OGttc1NpYnVDcWNfTFNHVG5sTnFSOGhiNHRONUJ6Q0dNT0p4SkYzUQ?oc=5",
-      "source": "Devdiscourse",
-      "date": "2025-09-20T16:08:23+00:00",
-      "description": "Drone Restrictions Imposed in Anantnag District  Devdiscourse",
-      "query": "unauthorized drone",
-      "detected_at": "2025-09-20T17:04:47.779109+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "3a9d5a137e50"
     }
   ],
-  "last_updated": "2025-10-13T15:05:56.258038+00:00",
+  "last_updated": "2025-10-13T16:06:44.474506+00:00",
   "total_count": 1000
 }
