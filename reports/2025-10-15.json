@@ -1,0 +1,127 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a significant uptick in drone-related incidents, particularly focusing on smuggling and arrests. Noteworthy events include the arrest of teens involved in a $300,000 prison drone drop and multiple instances of individuals attempting to smuggle drugs into prisons using drones. Additionally, Israel is taking action to address drone threats from Egypt. In Ukraine, 113 drone strikes were reported, indicating escalating conflict related to drone warfare. In the US, police effectively used drones for surveillance in local crime investigations. The international landscape reflects the use of drones for smuggling, prompting responses from authorities across various regions. Overall, the incidents highlight the ongoing challenges associated with drone activities in both criminal and military contexts.",
+  "totals": {
+    "smuggling": 6,
+    "terrorism": 4,
+    "arrest": 4,
+    "interference": 1,
+    "airport": 2,
+    "other": 6,
+    "crash": 2,
+    "total_incidents": 39,
+    "by_category": {
+      "airport": 3,
+      "arrest": 3,
+      "crash": 2,
+      "interference": 1,
+      "other": 16,
+      "smuggling": 12,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 2,
+      "drone illegal": 5,
+      "drone incident": 9,
+      "drone prison": 2,
+      "drone smuggling": 11,
+      "drone terrorism": 4,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison-related drone activities",
+      "rationale": "Several incidents involve attempts to smuggle drugs into prisons using drones.",
+      "incident_ids": [
+        "c116a29f99a9",
+        "a8fe1ac1b411",
+        "ff2cbf8770f9"
+      ]
+    },
+    {
+      "topic": "Smuggling incidents",
+      "rationale": "Numerous reports of drone use for smuggling activities across regions.",
+      "incident_ids": [
+        "e474cef45a60",
+        "57f716dc147d",
+        "d16f7c12916e",
+        "4fc569e02694",
+        "7ffb7a8711aa"
+      ]
+    },
+    {
+      "topic": "Drone warfare and terrorism",
+      "rationale": "Several incidents involve military drone strikes and threats related to terrorism.",
+      "incident_ids": [
+        "96955163b138",
+        "1cd39fb8236d",
+        "44a0e76d6da6",
+        "3362da902f11"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c116a29f99a9",
+      "headline": "Teens Arrested In $300,000 Prison Drone Drop Interception",
+      "one_sentence": "Two teens were arrested for attempting to drop $300,000 worth of items into a prison using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e474cef45a60",
+      "headline": "Netanyahu Takes Action on Drone Threat from Egypt",
+      "one_sentence": "Israeli Prime Minister Netanyahu has initiated measures to counter drone threats originating from Egypt.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "a8fe1ac1b411",
+      "headline": "Man Jailed After Attempting to Smuggle Drugs into Prison with Drone",
+      "one_sentence": "A man has been sentenced to jail for attempting to use a drone for drug smuggling into a prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "ff2cbf8770f9",
+      "headline": "Drug Smuggling Attempt via Drone Leads to Jail Sentence",
+      "one_sentence": "Another individual received a jail sentence for trying to use a drone to smuggle drugs into a correctional facility.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "96955163b138",
+      "headline": "Ukraine: Russia Launched 113 Drone Strikes Overnight",
+      "one_sentence": "Russia conducted 113 drone strikes in Ukraine, escalating tensions in the ongoing conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant activities involving drones marked the past 48 hours, from criminal smuggling to escalating military actions.",
+    "linkedin": "The last two days saw a surge in drone-related incidents, primarily focusing on smuggling operations and military strikes, reflecting growing challenges and responses across the globe."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-15"
+}
