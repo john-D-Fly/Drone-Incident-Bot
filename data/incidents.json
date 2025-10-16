@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "1st EU, India joint counter-terrorism exercise on drones - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE5jaVNPSG13OEJuLWhOc2RUQ1MzNGROaURyc01PZXNEalZRbFhqVVlHRTlXNkt6WG1lUTY1Wl9FUTNPWkFFZjF0MUU3bTZSakh5bkp5U1I2SDB3N3BTY1dFWWJkVTltcktYdlJnYTB2V3ExOFplbVQ4THdvQWotQUdQUUFpMG5mOTdER19yd3lyeDZfZllEcDNkbUZOcERZUWhYbmFZWmdnTGvSAbgBQVVfeXFMT2V0UndEQnNPNVdBMU5wcThsbVhzeVI1dTNVemRJeXlEZWdXa0s3WThCeXpwbndBSGFoa0dpT0M1MlI2b2JDcWpPOHpGRUVsZEJOVDRNdGx6WkMxZ3oxcHN0R25LOUFMeERkbTFjTXhlTENfRTdmd1lhYUVvSjhoRjF5T3VINWR1a0g1a2F2MWplUXVQaXJJeUtHS0g3eTR1am5lUDU3emFZTC1nNEEzam1QTUhfOFZaVA?oc=5",
+      "source": "The New Indian Express",
+      "date": "2025-10-16T02:30:58+00:00",
+      "description": "1st EU, India joint counter-terrorism exercise on drones  The New Indian Express",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-16T03:20:29.892295+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "18b178a1be0f"
+    },
+    {
+      "title": "Sky News films drones dropping drugs into prison - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3p4bFJidkxPQUdEYk1ORTNxSTJaZWpkVk03RnZ5SG1LeXpGeHNjMGNuYzNGYlZSaGJWQk90QXF6M0xoUEFhd3YyLURRcDk4emFSTkppYWpjQjl4bTVfMU5WUzBsUzlqMlQtMVcxMDl3STlfTjFTOVdKOU9BWGhwU3ZTUEJ3dVMxNUtHRQ?oc=5",
+      "source": "Sky News",
+      "date": "2025-10-16T02:55:49+00:00",
+      "description": "Sky News films drones dropping drugs into prison  Sky News",
+      "query": "drone prison",
+      "detected_at": "2025-10-16T03:20:26.943005+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e6450e2599d2"
+    },
+    {
       "title": "Man detained in Arden-Arcade standoff shot down drone, deputies say - ABC10",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNFBoT0p6akFWN09BZW1VNjZHRkpYODZiVVprcEJDd0dqTWtyeDJWYUdJcFJnZlYxenhKNTJQQ0QtbVJ6V0pnSGliWUpGZ2Q0M184MTlxU3NJT2lOUlRSS2NSTldzZW9BRWV4QnN0MkFKallsYURmY0F2bUotYjFPUG9HQm1pb1V5aURGSUt3ZFFOaE13X3J2dk5sS2Utc1N0cU0zYlFaNjJYaFc1VnM4ZTRRMzZtaUp6N2x3QnFmcTBISUpwU0tZbDN5RnlpZ2ZPS21DTmk0WVJid183dC1mcmFZS24wT05HNjJZcFdR?oc=5",
       "source": "ABC10",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "9a7987aef095"
-    },
-    {
-      "title": "4 Men Are Sentenced in Prison-Run Warrant Scam Targeting Women - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMEpqVkR1N1VnVEVXa0k4QW1zNnNrczkzMllVcWlnU29EeXBPNDJEbWdzallKNTg1cld6RkQxX1RCR0h2SnpZZkRCUWRqNUFRTVJ0d05rQlFKVERuMk9DWXlkbDNPTS1pcW9KRWVwMA?oc=5",
-      "source": "The New York Times",
-      "date": "2025-09-20T21:08:00+00:00",
-      "description": "4 Men Are Sentenced in Prison-Run Warrant Scam Targeting Women  The New York Times",
-      "query": "drone prison",
-      "detected_at": "2025-09-22T20:05:44.596185+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4afba474e346"
-    },
-    {
-      "title": "Drone helps Sangamon Co. deputies stop burglary at Viper Mine; two arrested - WCIA.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmJZbWRiV1hidHRjWnlrUU1qLW84Zk5Gck9oRWhDM2J3UVhKd0hrNXR3RHBZQXpENGloY2Q3NnpLTzJlNnJELVFFek53TVpFSEg5WW9Da2xDWTFhQUF4WnZoN3VUOFdWZ3h4SnIyaWhoNl9UQnJzNVBjOHJDRUtJdVc3amZwSDhYVF9WUU42NkpSRmVJWmR6R25GT2JNRVgzTGMyVzNxQ21ZTkhiVWh1ODJxQVdWM03SAbwBQVVfeXFMTk5wZGNhOTFEN0E0OTBzREhFZ2luY3BUVUJkenZJb0htcG4wNmttT0Fja2NCdm94bUNSQ3Nfb25xcW4zNGZwYW9OeGdWSmlUaHppU2F1Wno3LWo5Q0xJZmRfWTB1WUFGcllDVDRqdURROHpVTWs2OWNzakZpa2Z1SlM1bmZ6bkFETnprNGRQaXI1TmE5Yk9vZjByQktkT3F5RmRzYkx1UVBxa2RjR1JnWXZHVVdPbjdnS2pPLU8?oc=5",
-      "source": "WCIA.com",
-      "date": "2025-09-22T17:16:16+00:00",
-      "description": "Drone helps Sangamon Co. deputies stop burglary at Viper Mine; two arrested  WCIA.com",
-      "query": "drone arrest",
-      "detected_at": "2025-09-22T18:07:08.178359+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "cfedf8147c29"
     }
   ],
-  "last_updated": "2025-10-16T00:22:43.766739+00:00",
+  "last_updated": "2025-10-16T03:20:31.173065+00:00",
   "total_count": 1000
 }
