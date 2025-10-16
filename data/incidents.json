@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian strikes on Ukraine’s energy infrastructure are a European problem - Atlantic Council",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGdhOW9jNG53alk0dEJaTV8xc013WE5mc1ZxODZ3OGdPTGV5NlZQOTBDdTRJMExCX1ZPcXh5dTZpSlUtMWVMLXdLZm9VVnNLWlJCOFQwRFFYSjZQZ2xrbGozUzZ4VlNJQWZWeWk5Rm8xVUlIdXNhM3lyMlUyMkJvRTZPNmQ5bXo5NWxRekcwV0JUMXpjU2FtcnFOc2JFeHZGbHAxNjVSSC1CdlFYeUcwTUxHTW5VZnhvZ003YXNiQlVIdw?oc=5",
+      "source": "Atlantic Council",
+      "date": "2025-10-14T11:47:00+00:00",
+      "description": "Russian strikes on Ukraine’s energy infrastructure are a European problem  Atlantic Council",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-16T05:06:13.594487+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "611e2375dbf7"
+    },
+    {
+      "title": "Punjab sees 5-fold rise in arms smuggling from Pak - Tribune India",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTBrYVdBamoyNDZuVng2VEg5RFF3RjAzSEFWbzZiR0U0SVdEUnk5bHI5WnNyX3JFM3hrRmoyeGxhemJJcGJrMVdYNlNtcGZhSVZyelRGOVJCbWxSX1NsSkZSN2JFbmIwRlZ5T3IzTThRMVgxQVNVSmdFM3ZUQ2ZvMnhWaG1LZXREQ2JTX2VhalMtQWR0YmpGVXQ5STJ2dDNR0gGkAUFVX3lxTE1hZ3dubVFJZGIwZHVud2EwLVlsZ0FLdm03WnVnUFhETFZkTm9zQjZJZ1IyejV5Y3dCZ2RoUmlzSF9zb2pJeEY1RUYzeC1WZ2FRZElBbkJ4NlZtR21nMDJaVHVIZGVjSUxqT1BuaHpYQkx5TmxseU40QzR2d3hxai1SQ0xwVjRZVUpEdUhyZzdpVE5sa1VVQVItU1NOS2ZQeDJIV3hZ?oc=5",
+      "source": "Tribune India",
+      "date": "2025-10-15T21:22:18+00:00",
+      "description": "Punjab sees 5-fold rise in arms smuggling from Pak  Tribune India",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-16T05:06:09.540767+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6ff2528bb3ab"
+    },
+    {
       "title": "Drone smugglers using camouflage, diversions to dupe prison guards at federal prisons, report says - Investigative Journalism Foundation",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fakZBSVlTbmhXaEV2WlJCdHVzYTlndDIwZUdhT0x2QUdTRFh5TVpIV1AwM1ZVZ0lZYmJtbVIwUGJkSV9sSGtWb0U0aC1vODZGcExUWUhOcjh5S2FVWVV5aTZmcw?oc=5",
       "source": "Investigative Journalism Foundation",
@@ -11975,32 +11999,8 @@
       "location": "at Copenhagen and Oslo Airport",
       "category": "airport",
       "id": "ad3ac6cfa782"
-    },
-    {
-      "title": "Major airport shut down as planes forced to divert amid 'large' drone incident - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVkeWxybVlNckFkQktZOXFsbEpRMlpYQmpWVEJzcFhKeTFkVjRtMHdGdWpQY2p2V1F4VEgxdV9hSERHcTctd2k5cHdXRE95c3hOQ1NDYjh6VEdUMmUtTFF4ZWJhWU9ueEwzZ1lQQ2hFUjFYbzg2S002RW9ZSWtodVZWR25QT1dqOGc?oc=5",
-      "source": "The Mirror",
-      "date": "2025-09-22T20:26:00+00:00",
-      "description": "Major airport shut down as planes forced to divert amid 'large' drone incident  The Mirror",
-      "query": "drone incident",
-      "detected_at": "2025-09-22T21:04:51.161838+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1a4de902220f"
-    },
-    {
-      "title": "Israeli drone strikes kill five in southern Lebanon - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2k4andPc0xfbEh4UWVjeFFuaXk2bW1LRXVtNE5vSDlCSW1BNy1fdGg4QUJXNF9jMTdEZFhYYWtuNlVsbnRSNkdoYkRmb2dqR2RDQ210RFc3SjZqMlphYUEwRnFxZ2VGN3VSR21TSjlFSU1VNXpPUUdTbXJkaGd5QWtHMDlDMm5hUEE?oc=5",
-      "source": "Yahoo",
-      "date": "2025-09-22T07:49:27+00:00",
-      "description": "Israeli drone strikes kill five in southern Lebanon  Yahoo",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-22T20:05:47.986089+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d9b65e9ca3a1"
     }
   ],
-  "last_updated": "2025-10-16T04:06:28.167207+00:00",
+  "last_updated": "2025-10-16T05:06:14.812606+00:00",
   "total_count": 1000
 }
