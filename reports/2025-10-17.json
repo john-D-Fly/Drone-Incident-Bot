@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the last 48 hours, there has been a significant increase in drone-related incidents, particularly focused on smuggling and prison drop activities, with notable occurrences spanning multiple locations. Israel reports multiple foiled attempts to smuggle weapons via drones from Egypt, highlighting a growing trend of cross-border drone smuggling. In Afghanistan, the Taliban accused Pakistan of drone attacks in Kabul, pointing to elevated risks associated with drone terrorism. Furthermore, various reports from around the UK emphasize the challenge of stopping drones delivering contraband to prisons, described as overwhelming like 'pack of wasps.' This ongoing threat has sparked increased law enforcement responses and debates about drone regulations, particularly around safety and legality considerations in the U.S. Meanwhile, international collaborations, such as between the EU and India, are emerging to enhance counter-drone capabilities amid these concerns.",
+  "totals": {
+    "smuggling": 16,
+    "other": 18,
+    "terrorism": 7,
+    "arrest": 12,
+    "crash": 5,
+    "airport": 2,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 2,
+      "arrest": 8,
+      "crash": 2,
+      "other": 23,
+      "smuggling": 19,
+      "surveillance": 1,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 13,
+      "drone crash": 2,
+      "drone illegal": 6,
+      "drone incident": 4,
+      "drone prison": 10,
+      "drone smuggling": 11,
+      "drone terrorism": 11,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Drops",
+      "rationale": "Increase in reports of drones delivering illegal items to prisons.",
+      "incident_ids": [
+        "63d304aa9dd2",
+        "e8a6fa857cc9",
+        "71be7e15e6e5",
+        "b18791da959c",
+        "e8c79987bfe6"
+      ]
+    },
+    {
+      "topic": "Cross-Border Smuggling",
+      "rationale": "Repeated instances of drone smuggling from Egypt to Israel indicated an urgent security issue.",
+      "incident_ids": [
+        "9b49588ef874",
+        "f1c3f0dd5151",
+        "8a8ec3ef7615",
+        "8a8ec3ef7615"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9b49588ef874",
+      "headline": "Israel foils drone-based weapon smuggling attempt from Egypt.",
+      "one_sentence": "Israeli authorities thwarted a drone-based smuggling attempt of weapons from Egypt.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "3d27e3135693",
+      "headline": "Afghanistan’s Taliban government blames Pakistan for twin drone strikes.",
+      "one_sentence": "The Taliban accused Pakistan of conducting drone strikes on Kabul, escalating regional tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Afghanistan"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "cc914ff3611a",
+      "headline": "Can you shoot down a drone hovering over your property in Massachusetts?",
+      "one_sentence": "Legal discussions arise regarding property rights and drone interference in Massachusetts.",
+      "risk_tags": [
+        "legal",
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "63d304aa9dd2",
+      "headline": "Drones getting into prisons like 'pack of wasps'.",
+      "one_sentence": "Reports indicate a rising trend of drones delivering contraband into UK prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "408cb3353ce5",
+      "headline": "Police use drone technology to track down robbery suspects in Auburn.",
+      "one_sentence": "Law enforcement in Auburn effectively utilized drones to apprehend robbery suspects.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant rise in drone smuggling and prison drops reported, highlighting ongoing security challenges.",
+    "linkedin": "Recent incidents reveal heightened challenges with drone smuggling and illegal deliveries to prisons, necessitating enhanced countermeasures."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-17"
+}
