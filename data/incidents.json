@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Seven charged for flying drones over Rogers Centre during Blue Jays post-season - TSN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlROYjRRTEk4TWVMM0JYNG13QmF0dGZMRG4yYmJsQWttSUxldk14MG84Sm5KVktqZTZDVldVSzdyNUJQSGZfQlliVkZPaGllM1Zvc0E1TlNKTGpPdU9Wclc1VkYzUmpiQkNMWlNoaWdRbkpkZV9OM3JxQ1BNMmpjRFpKQldKLWp0NDlnbEUyNkFwTFY0aHZpNU42OU9jS192RmF1TzVCdjQ1RXhicDBBRQ?oc=5",
+      "source": "TSN",
+      "date": "2025-10-18T18:12:31+00:00",
+      "description": "Seven charged for flying drones over Rogers Centre during Blue Jays post-season  TSN",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-18T20:05:26.993414+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "5afb6b1fc951"
+    },
+    {
       "title": "7 people charged with flying drones over Rogers Centre during Blue Jays playoff games - CityNews Toronto",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXE2N3l5bGZkcDk3ZWRQUDJsMEdldjZPSlA0dHJuQmwydXhyZVdwOXlLLUg3MWlEc3BFZ0c3MUVXSlZxRnRiSURRRl80RHUzdTJScnFlM215d2lqWUp5ZFBScmVrX3RxSmZueWNiWGc4Q3NGaFpPYTFkMlZNaEEtU1A0VkFCbUFEUG5ReQ?oc=5",
       "source": "CityNews Toronto",
@@ -11987,20 +11999,8 @@
       "location": "at Copenhagen Airport",
       "category": "airport",
       "id": "355f32f47a0c"
-    },
-    {
-      "title": "Drone attack in gang-controlled slum in Haiti kills at least 8 children, injures 6 others - The Tribune-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRmMtTm9uNXNCWXEwMVEtWnJOOTY1NDVzdXdNT3VEZ3E4MW9jamFJakxJSVc3RzZ5YmJTWlYxMkwzMnVEUDlJTE9BZjBiQjJKMnBhNVRUN0kxVU95N3dfZmRnWVZyZ2pIS1FUaHVOVk0yVndtZ2c1LXBRbkxwSkE5Tk1wUTE1djNQZGxNVFlGNmRuLVRsY0NzTWV0Vmk0eGNmYmhVMmduQVlYTWdvWjlIZzRjRnhOSE9OdURWSVpLc2RRaThHSTlORmRZbWxweW9PVlByUTlxcnBfQUZvSWhTc2NRX2NuN05OdG81aFBoUHRYUQ?oc=5",
-      "source": "The Tribune-Democrat",
-      "date": "2025-09-23T09:20:00+00:00",
-      "description": "Drone attack in gang-controlled slum in Haiti kills at least 8 children, injures 6 others  The Tribune-Democrat",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-23T10:05:38.129458+00:00",
-      "location": "in Haiti kills at least 8 children, in",
-      "category": "other",
-      "id": "fee13978a053"
     }
   ],
-  "last_updated": "2025-10-18T18:06:31.638314+00:00",
+  "last_updated": "2025-10-18T20:05:27.588284+00:00",
   "total_count": 1000
 }
