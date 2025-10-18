@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "7 charged for flying drones over Rogers Centre during Blue Jays playoff run - CBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMW5IamRKbXBxREVGU2ptbHp1Y09Qd0kzTEtzYW1yNzZKQ18teENxVEdOeFF6VElyNnRCQkNQWHFzOXE2ckNfS2Zld0xYVXA0SlJVbEpfWlREaFQwN05CeDdWZERhR3p5Uk5DWFFyR2NlenNSdndPS1hvYXJnSk82d0J6SzV6T1Jmb0t4OA?oc=5",
+      "source": "CBC",
+      "date": "2025-10-18T19:37:36+00:00",
+      "description": "7 charged for flying drones over Rogers Centre during Blue Jays playoff run  CBC",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-18T21:04:45.972616+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "a9f821ceb0a3"
+    },
+    {
+      "title": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says - Worcester Telegram",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlhEMU9SZnl4emVCbVNvMjRVU1JUOFE1dmg1VG1IbDFRMVU3OERJUmh6NF9uVTR4VllwNGFUMFA1OXFqSHU2dTV0OUZpbFZKODlGNjN2b3ZFQm9Wc2dGeTNjb0M1V2Y5TVE3WjhRak5hVkNwYlF2WUg2WWUxOVExN1FlSGxISzJySm10RWM4RFd0c2xKeFVLRXp3VngxNC1lb29obTltcURXMW5NSm4xZms4MU11N19GNTRRVF83Y08xOS1jcURwUElCSWE?oc=5",
+      "source": "Worcester Telegram",
+      "date": "2025-10-18T20:23:29+00:00",
+      "description": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says  Worcester Telegram",
+      "query": "drone illegal",
+      "detected_at": "2025-10-18T21:04:44.092726+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "27dc8f4b302c"
+    },
+    {
       "title": "Seven charged for flying drones over Rogers Centre during Blue Jays post-season - TSN",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlROYjRRTEk4TWVMM0JYNG13QmF0dGZMRG4yYmJsQWttSUxldk14MG84Sm5KVktqZTZDVldVSzdyNUJQSGZfQlliVkZPaGllM1Zvc0E1TlNKTGpPdU9Wclc1VkYzUmpiQkNMWlNoaWdRbkpkZV9OM3JxQ1BNMmpjRFpKQldKLWp0NDlnbEUyNkFwTFY0aHZpNU42OU9jS192RmF1TzVCdjQ1RXhicDBBRQ?oc=5",
       "source": "TSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "27859dc2801d"
-    },
-    {
-      "title": "Copenhagen and Oslo airports shut down after 'large' drone incident - Daily Express",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdklHdjdIVTlWamRJbkgtcjlQSHY5NVhOU0NfQllxQ0pkWUdGTlFyWGRiOWdyVXRvZFkwczVXbWxndDBiRXpfaEI3Q2FyWl9jVUN3Z3lXMmNlblQ4R3N5cHdQUllxc1NZOHQ2ZEU3SmtvUlJZVmROcWFsVFFDV211dmdTQ0szWi1CQkhfQnFBONIBlAFBVV95cUxNdjdZUDJEQXp6Mm5xaEdlQllLT1BQYUVSMHJvUl9XbHlvdGpJREtwQWgyR3BTb0VNSmVTamtVRmIwTThSbzNkbmVyWUFOd0pmQjZLdFg5cU5rUFFqODZxdzJISGdsbGtraE9WV0RGX1ktLVBNc1dVc2JOeDdJN0lpQW15RkhOeW1GMnRISWlOVDJoYjRO?oc=5",
-      "source": "Daily Express",
-      "date": "2025-09-22T21:58:10+00:00",
-      "description": "Copenhagen and Oslo airports shut down after 'large' drone incident  Daily Express",
-      "query": "drone incident",
-      "detected_at": "2025-09-23T11:05:16.806438+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1bbd94470ddf"
-    },
-    {
-      "title": "Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSV9OeXdHZGZ5YnlKVUlraHk5SDZ0eWFVYUVvNEVkY254RU5FWGFjNDVremQ1bWlCVU03aE9lM19XMlROMHBoRllqMHRkOFI3RzNLeDhnRjRLLXZVUmQ3XzFsMlJJTU1tWVE0MnJDWmJGd1RwZ3ZmLXMtVTFXeW83TXFiYjE0XzV0MnV3dmRCRmRkRTh10gGUAUFVX3lxTE5fVUw2VHU2ckc4TDk4QmNqYVhqdXNOUGlPalMtNXloWlhrNzVwcmstb20xaG83ZlBzajh5all5VTM4OTZydkVnNXgtRmprZE10dEZ2SWhFemFEUmZUeUg5YkRGTjFFcmVJN29rY1RUM0NZREFJN3lzUUJKa0tuQnpnQlZsVUFPbUNXOEdTRUliQ2MtR3U?oc=5",
-      "source": "DW",
-      "date": "2025-09-23T10:12:11+00:00",
-      "description": "Denmark PM: Drone incident at Copenhagen Airport an 'attack'  DW",
-      "query": "drone incident",
-      "detected_at": "2025-09-23T11:05:16.806438+00:00",
-      "location": "at Copenhagen Airport",
-      "category": "airport",
-      "id": "355f32f47a0c"
     }
   ],
-  "last_updated": "2025-10-18T20:05:27.588284+00:00",
+  "last_updated": "2025-10-18T21:04:46.619419+00:00",
   "total_count": 1000
 }
