@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FPV Drone Strike Kills One, Injures Four in Kharkiv Region - Букви",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmlNUmNnUWVEYkR6RHQ0MHpSNWNidGxESE51eEJsTjZPNE1fZmY4REVIMnRTNkpITHNvdHNFQnVuXzFPLW1tZUk1Ri03Zl9PZ1R5ejBnMHBYTXgxd2ZHSlNNaXlCLWk5aHNldmVydXBObllSQUdxeDRMaXhWdExJeDBFUXJsU3ZpUjV6MnZZYw?oc=5",
+      "source": "Букви",
+      "date": "2025-10-18T11:22:08+00:00",
+      "description": "FPV Drone Strike Kills One, Injures Four in Kharkiv Region  Букви",
+      "query": "drone incident",
+      "detected_at": "2025-10-18T12:08:14.359112+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7ef6196dae57"
+    },
+    {
       "title": "Ukraine Sinks New Russian Sea Drone in First-Ever Naval Intercept Near Black Sea Trade Routes - UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmM4aGpiVmN1NXlxek1abXJ3NWlYSHY0Z2o0c0J1Q0lSVkY1ZVV0Mll3SjFoUmFrcTFsRTBZREE0TWo2MTFBX09oSndNb3F1cWV5N1M5QlZBQ3IyM3Ruc21UcVFRSlY2UDdyRUdkbVhHdDVUWFZTV2N2c0JmM0dwcWpUbE1zX2xyb2NpLVVHdEYyRWNOZVNEU1kzaE1SbjZvYVNtYm9qeEdRZ251UWdLU1c1eTJpTnhNMHgwQndmamZ5RUN5MXRJZWo1dmR1d1ZYdWpF?oc=5",
       "source": "UNITED24 Media",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "533440c4a5b6"
-    },
-    {
-      "title": "Major Nordic airports’ flights disrupted by drone sightings - Business Travel News Europe",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzlyeDZNbkVQMnJnaHRqX012T3cxN20wZXZCTFBuYVgxSmw1b29mQlB5WnZtci1qRG1VSFNFSjJlcXMyRHg0elF0Mml6NnphTWN1VXdzVWIyeWhzLWdWUDNGNDJ4MEh5Z2JNZEtOenIwTkVtMmczMzJnYTBJbHBjU1lNUW05aVktODNhNDNDcmd6TVVNQnRKLXVvWExUbHliRDJobW5vVnM3Y2NBbDF3?oc=5",
-      "source": "Business Travel News Europe",
-      "date": "2025-09-23T09:13:55+00:00",
-      "description": "Major Nordic airports’ flights disrupted by drone sightings  Business Travel News Europe",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-23T10:05:35.804492+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "37b6dd306d01"
     }
   ],
-  "last_updated": "2025-10-18T08:06:35.239791+00:00",
+  "last_updated": "2025-10-18T12:08:20.239277+00:00",
   "total_count": 1000
 }
