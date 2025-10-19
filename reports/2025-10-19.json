@@ -1,0 +1,169 @@
+{
+  "narrative_summary": "In the past 48 hours, a variety of drone incidents have occurred across the U.S. and other regions, highlighting ongoing concerns regarding drone legality, terrorism, and airport safety. Several reports related to drone legality emerged, with discussions on whether individuals can shoot down drones over their property, particularly in California, Georgia, Massachusetts, and South Carolina. Meanwhile, drone terrorism remains a pressing issue, with insights on preparedness against such threats. Notably, illegal drone use has disrupted recoveries during Texas floods and caused diversions at various airports. Smuggling attempts via drones are also under scrutiny, with reports on interdictions and arrests related to drug trafficking. These incidents underscore the necessity for evolving drone policies and improved security measures.",
+  "totals": {
+    "airport": 4,
+    "arrest": 8,
+    "smuggling": 5,
+    "terrorism": 4,
+    "other": 22,
+    "total_incidents": 43,
+    "by_category": {
+      "airport": 4,
+      "arrest": 5,
+      "crash": 2,
+      "other": 20,
+      "security": 1,
+      "smuggling": 6,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 3,
+      "drone illegal": 14,
+      "drone incident": 8,
+      "drone prison": 1,
+      "drone security breach": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 5,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Legality Discussion",
+      "rationale": "A series of incidents and reports highlight ongoing debates about the legality of shooting down drones.",
+      "incident_ids": [
+        "850a24616868",
+        "e50c8cace133",
+        "ace056c82d9b",
+        "8fcb23d1613f",
+        "6606c04b6763",
+        "22ee031cd632",
+        "a9f821ceb0a3",
+        "7fc9e591ead7"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism Concerns",
+      "rationale": "Recent articles discuss the inadequacy of current measures against potential drone-based terrorist acts.",
+      "incident_ids": [
+        "df8e6ca48abb",
+        "074ddb0fad55",
+        "187ce145953d",
+        "6aa78360015a"
+      ]
+    },
+    {
+      "topic": "Airport Safety Issues",
+      "rationale": "Multiple incidents report drone-related disruptions at airports that raise questions about air travel safety.",
+      "incident_ids": [
+        "2eacb0315cbd",
+        "e9bd21366c72",
+        "5b160dd133cd",
+        "7d5995ba02f6"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Reports indicate continued attempts at drone-based smuggling, raising security concerns.",
+      "incident_ids": [
+        "cf3da6d41359",
+        "d7c48f345e38",
+        "f78ae7f87b92",
+        "28ddf03982be"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "850a24616868",
+      "headline": "Discussion on Legality of Shooting Drones in California",
+      "one_sentence": "The Desert Sun explores the legality of shooting down drones over private property in California.",
+      "risk_tags": [
+        "legal",
+        "privacy"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "df8e6ca48abb",
+      "headline": "Concerns Over Drone Terrorism Readiness",
+      "one_sentence": "The Spectator Australia argues that we are unprepared for potential drone terrorism.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ace056c82d9b",
+      "headline": "Illegal Drone Use Hinders Texas Flood Response",
+      "one_sentence": "AOL.com reports illegal drone strikes disrupted helicopter operations during recovery from Texas floods.",
+      "risk_tags": [
+        "illegal",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "2eacb0315cbd",
+      "headline": "Canary Islands Airport Halts Flights Due to Drone Activity",
+      "one_sentence": "Drone activity forced disruptions at a Canary Islands airport, impacting flight schedules.",
+      "risk_tags": [
+        "airport",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "cf3da6d41359",
+      "headline": "BSF Foils Drone Smuggling Attempts",
+      "one_sentence": "Tribune India reports on successful interdictions of drone-based smuggling efforts.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "7d5995ba02f6",
+      "headline": "ICE Arrests Connected to Drone Use",
+      "one_sentence": "ICE arrests linked to unauthorized drone flights over Quebec’s Rogers Centre during playoff games.",
+      "risk_tags": [
+        "illegal",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c0357daddc76",
+      "headline": "Drone Incident Near Mexican Attorney General's Office",
+      "one_sentence": "A drone attack targeted the Mexican Attorney General's Office, raising security concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9ed39d9a3a4d",
+      "headline": "Drone Defense Urgency Amid Recent Incursions",
+      "one_sentence": "Dronelife emphasizes the need for stronger defenses against drone incursions in Europe.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "twitter": "Over the past 48 hours, various incidents involving drones have raised alarms about safety, legality, and their use in smuggling and terrorism.",
+    "linkedin": "Recent drone incidents highlight urgent legal and safety concerns, from legality in shooting drones to disruptions at airports and smuggling attempts."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-19"
+}
