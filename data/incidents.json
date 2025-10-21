@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Man facing drug charges, arrested flying drone outside Ware residence suspected of illegal activity - Action News Jax",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS25wNFB0SXdCZU1iVW05QUFJYW1vMG0tNkR6c09ocXpEb0dtX3RGeW9tU2tsWUsxd1RqYkdSbHI0UDVHTHRqVTVjeXZNUFl1SW9NOFBiejhERHBkdktNUnpVMmZKVUhlNWxVSlBvOXY2MEVRZHRhamkwN21PbXdYZzNHMTVxOTJDT3BjNGFYSGp2WFJnRVEzekdrNk9yTVR2VjhoMGtsLXZKREhqU19WMFg2SEpPaEVrOXp0aHhITUZuUzM4aGF5MEgzbzVhQTNZQVJNNWwwZmJYQnlCRGRNZTZBbFlMdXZ1X3I3N2hCcUvSAYQCQVVfeXFMTTV5TE9ETXM1a0xaRGQxNGlJWk1qeTFIeW93anVwTElndnhnZldRZ2ZtR25UMHRaYzVJVktZUzVBU01KUU5lc0VaaU1YOTA5N1VzTnFSUUp0S0Z3WkRBQmlFLWFSMWFQVnRkOUlqSklXVHd5YnpxXzBOSXdKWV92YTFnWVJEN1NieUwtMDBGdVFiVUFvWkRwejZyUWJ1VFFnNHpmSzM2ZldNN050U2x3X2NlOXFXTjVfZlAxNWlVQjljdUZwRF95LUhQWlFFd1VDbG40M3JObDg2bHM0YVpQNG42RzZQVTdzWDI1LTNVeTR3Q1E5N3JCVUFNbVFTcjVoUFVYTTk?oc=5",
+      "source": "Action News Jax",
+      "date": "2025-10-21T11:28:39+00:00",
+      "description": "Man facing drug charges, arrested flying drone outside Ware residence suspected of illegal activity  Action News Jax",
+      "query": "drone illegal",
+      "detected_at": "2025-10-21T13:15:44.154254+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8a7baba6171a"
+    },
+    {
+      "title": "When the Cloud Falters: What the AWS Outage Reveals About Drone Industry Dependencies - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02dkkxU0FtZFNlVW1MMnFwcm5BUWlhcEp4SEMtZExGTFVoc0Z3bl8tYU5SYXVndGRMTV9KVDNXOGpfcF9YN3hOYjl3T19uV3lGM0dNcGdHUnB3NWRQS1liSmpuQ3RXTnlLME80?oc=5",
+      "source": "Dronelife",
+      "date": "2025-10-20T15:54:01+00:00",
+      "description": "When the Cloud Falters: What the AWS Outage Reveals About Drone Industry Dependencies  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2025-10-21T13:15:40.380842+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1270ed1e0dc0"
+    },
+    {
+      "title": "How dangerous are airport drone attacks — and will they ruin my trip? - The Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1I4aGhrTHFQMUdKTGR2eTE5OURMT1QtWkp5MFQ4LTY4RnhCUjBuWmY4Sm9NWG9ka3I3VEs2WkRURkV5dW5tS1hEVlpxZlUyWnphR3B1bVBNbGpQX2RMS0YzZTlnRnBxTEtjYUk1d0o3QXNwTDRsM3R4NVpjcV9WdVV6TDR6T2ZGdVlBcHozNDB3elVqblJZVg?oc=5",
+      "source": "The Times",
+      "date": "2025-10-21T11:55:25+00:00",
+      "description": "How dangerous are airport drone attacks — and will they ruin my trip?  The Times",
+      "query": "drone incident",
+      "detected_at": "2025-10-21T13:15:40.380842+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "fbe9e3a714d2"
+    },
+    {
       "title": "Russian drone strikes block power restoration in Ukraine's Chernihiv region - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3hYaUhJVnFOQmpXVkl2V1JYcDliWjNWZ2JtVC1pcEtpOWVXenBsazFXN2ZCcGY3VkRETzB6UktUazRSd2Mzd0NUM09wdmNXSEszSWdnNHRSNll6bzk0NGFwMGtTd3FJQXBYRUZkRkhtdmVtNUpDX2Q2OXNmdnBTT21rLXdBNzFodjZqZjFJZmNtb19nbFhHWg?oc=5",
       "source": "RBC-Ukraine",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1809b70b6e0c"
-    },
-    {
-      "title": "Copenhagen Airport Closed as Police Investigate Drone Activity - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVVVXzBJXzh3QlBSUnZ2YWVoZTM5Z0V6SHFJc0F2V0lnX21FaEZ5TEJYR0ZVY1hLZ0lwUk1GcHRvcVZEaVlaVDNSb2NfOWJLUm80MmFjcDE4b3ZDcnVhaUd1QTVPTFFyZU1VSjJVdXhpLTUwc2N0X1dyYUhTSm5EN3NWbk0yNUx3dG45Y2ZxWVk5MDBrVlpvdER6WVotV0hYdk1UZnJaanI1WHhKWjFCWlc4aw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2025-09-23T13:32:55+00:00",
-      "description": "Copenhagen Airport Closed as Police Investigate Drone Activity  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2025-09-24T03:17:04.497491+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "6195371bbd3d"
-    },
-    {
-      "title": "Russia Strikes Ukrainian Military Targets After Crimea Drone Attack - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2h4VzVHbFlLY2dDVkU0RmFqQWZNczVrYzZxVllfWVoweTloNHVDZEx0OG5xQUYxQWRFbkZ1SGdHTzloYTVITmh0dWowNlpDUnNKNjd3WDVSZWpVek0wa2paY3BZR0ZfOFg0dzQtNFNsalNMMlJCeWJ4N3k1TkZGNEZfV3lhQlVFWmdBNUFORmZZRjA2cmJqZWJlUnMyajczTElYLThNeXRYYm_SAa8BQVVfeXFMTWd0ZENDbHBCTVlHSkUwcnZnSHVZLThrSWlDVXAyRVB0LU4yZFhMRE1XMlk3LVhyUG5mOVBScWJsZXVoY05HbEJzVFlQWi1Ma2R4a3hVdzdnZm9iWWhReVd3dG9TZ2YtNnNrSWVQLVFDY1ZLOVI1eG96cDVvYk5QZ3ZwT1FDWlJDUVlxX0k3WllrUzlfRTlXQjFMTERoQWcxUmlsNDBBYjBPeEhCYjRtMA?oc=5",
-      "source": "Военное дело",
-      "date": "2025-09-23T08:30:14+00:00",
-      "description": "Russia Strikes Ukrainian Military Targets After Crimea Drone Attack  Военное дело",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-24T02:31:08.868255+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "57e3cfd46579"
-    },
-    {
-      "title": "Fiji’s Drone Laws 2025 – What Every Pilot Needs to Know Before You Fly - ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGh2OVVSR0ZRdnJ6SkFtVlN5cmZIZXhKOTJGZDJ5SXJ3bkZOVnBfUjRHaGpVYUE3R3F4TmxCTE9oUkl0ZXlNcXdKOTNZUDR1SkRIcXlKLURicTF2TGc3N2JQTC02dEdZYU1fbXNlUlZTanh6TmM3cDdoZnFBVkVuRVFjcjV0N1hQOXNKSHBTaGxadw?oc=5",
-      "source": "ts2.tech",
-      "date": "2025-09-23T15:36:38+00:00",
-      "description": "Fiji’s Drone Laws 2025 – What Every Pilot Needs to Know Before You Fly  ts2.tech",
-      "query": "drone illegal",
-      "detected_at": "2025-09-24T02:31:07.780913+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "308ef93f3a9f"
     }
   ],
-  "last_updated": "2025-10-21T12:12:02.363962+00:00",
+  "last_updated": "2025-10-21T13:15:46.604775+00:00",
   "total_count": 1000
 }
