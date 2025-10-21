@@ -1,0 +1,113 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents have been prominent across various regions, particularly affecting airports in Palma de Mallorca, where multiple sightings led to significant flight disruptions. Notably, the drone issue has also been tied to smuggling activities, with drug-related drone operations reported. Arrests were made in several smuggling incidents, including one at a Washington State prison. Alongside unauthorized use warnings, there's been ongoing discourse regarding drone regulations, specifically addressing illegal activities. Additionally, international tensions see Ukraine involved in drone strikes that hinder infrastructure restoration, while drone threats along borders, particularly between Israel and Egypt, raise security concerns. Overall, a concerning pattern of illegal drone activities connected to smuggling, terrorism, and regulatory challenges persists.",
+  "totals": {
+    "smuggling": 6,
+    "other": 12,
+    "airport": 8,
+    "terrorism": 2,
+    "arrest": 2,
+    "total_incidents": 43,
+    "by_category": {
+      "airport": 17,
+      "arrest": 2,
+      "other": 15,
+      "smuggling": 8,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 10,
+      "drone arrest": 2,
+      "drone illegal": 9,
+      "drone incident": 11,
+      "drone prison": 6,
+      "drone smuggling": 2,
+      "drone terrorism": 1,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Multiple drone incidents resulted in significant disruptions at major airports.",
+      "incident_ids": [
+        "110b1df5bc47",
+        "9ecdd1195695",
+        "b888b2475882",
+        "a83ff9ce1c2b",
+        "0af84fed1846",
+        "67d402aaf4d6",
+        "84a47670b447",
+        "c97fab01f744"
+      ]
+    },
+    {
+      "topic": "Smuggling Activities",
+      "rationale": "Drone incidents have been closely linked to drug smuggling operations.",
+      "incident_ids": [
+        "8a7baba6171a",
+        "063d2cf70d46",
+        "9f659b672d05",
+        "bc6728bc231d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "3503764f6e34",
+      "headline": "Drone Strike Rattles Kazakhstan's Oil Production",
+      "one_sentence": "A drone strike has caused significant disruptions to oil production in Kazakhstan.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8a7baba6171a",
+      "headline": "Man facing drug charges, arrested flying drone outside Ware residence suspected of illegal activity",
+      "one_sentence": "A man has been arrested for flying a drone linked to drug activities near a residential area.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1de5459741a1",
+      "headline": "Russian drone strikes block power restoration in Ukraine's Chernihiv region",
+      "one_sentence": "Ukrainian officials report that drone strikes are hindering power restoration efforts in the region.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "e85abd51e434",
+      "headline": "Drone threat on the Egyptian border has Israel on edge",
+      "one_sentence": "Rising drone threats along the Egyptian border have heightened security concerns in Israel.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1270ed1e0dc0",
+      "headline": "When the Cloud Falters: What the AWS Outage Reveals About Drone Industry Dependencies",
+      "one_sentence": "A recent AWS outage has raised concerns about the drone industry's reliance on cloud systems.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge, disrupting airports and raising security concerns globally! 🔍🚁 #DronePolicy #Airports #Smuggling",
+    "linkedin": "Recent drone incidents have significantly impacted airport operations and raised essential questions regarding security and regulatory responses. Industries must adapt to these evolving challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-21"
+}
