@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian drone strikes block power restoration in Ukraine's Chernihiv region - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3hYaUhJVnFOQmpXVkl2V1JYcDliWjNWZ2JtVC1pcEtpOWVXenBsazFXN2ZCcGY3VkRETzB6UktUazRSd2Mzd0NUM09wdmNXSEszSWdnNHRSNll6bzk0NGFwMGtTd3FJQXBYRUZkRkhtdmVtNUpDX2Q2OXNmdnBTT21rLXdBNzFodjZqZjFJZmNtb19nbFhHWg?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-10-21T11:32:00+00:00",
+      "description": "Russian drone strikes block power restoration in Ukraine's Chernihiv region  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-21T12:12:01.154102+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1de5459741a1"
+    },
+    {
+      "title": "Man facing drug charges, arrested flying drone outside residence suspected of illegal activity - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGMtRFRtcWMyLWh0ajBMMTZMZk9NcG1XeGNGQnpUdDlTd3NyeURzMnY4b3VELVYybVNpamw0Y1RTSmhnZjZ4WDdvSUNoZGtFM2VvWVRKRkdOZGwtenV1eTNEc1JSTE5adzQ4LUhCS1hxeW1mUER3ZFJqZ0hSOHE4V3FhbU1YMmhJanRF?oc=5",
+      "source": "Yahoo",
+      "date": "2025-10-21T11:28:39+00:00",
+      "description": "Man facing drug charges, arrested flying drone outside residence suspected of illegal activity  Yahoo",
+      "query": "drone arrest",
+      "detected_at": "2025-10-21T12:11:56.421258+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "0697e201470f"
+    },
+    {
       "title": "Russia claims Ukraine's drone attacks killed 20 last week - Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWZUUkJHNnlCLVdPc3AxWXAyTVhtT3dxZExWbl8wd2RPamhQMm9HM1dZcEZrbHVJQkZ6OXdsbUdCc2FNS0dhR0hsUFFYRXNvdjVGZHJZam5qdEE4c0lPUVJHRTF6WFJzVC12ZmE2V21lUGtNcTZDSjZnMDJUa1hxWEF2LUhuTDZnWVByREVtczhiWWdtZ2tKaEs5MnAyWVJ5UkxNRnFtWmNvRnlB?oc=5",
       "source": "Anadolu Ajansı",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "308ef93f3a9f"
-    },
-    {
-      "title": "East Texans Are Asking: Can You Fly a Drone Over Someone’s Property? - ETSN.fm",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwT1EydEZDZGZZLU5uSkJTN2Rzbkxlb09CRlJCWXZyeGxUQldiTk5WTnRlRzNjYkZBekFpV1JnZkFFbHlzUUN6aHd2bE8tMmJnTEd4WUE3NHFQQ0Jwc2hwc0tTZFhwV2lqalptTg?oc=5",
-      "source": "ETSN.fm",
-      "date": "2025-09-24T02:01:30+00:00",
-      "description": "East Texans Are Asking: Can You Fly a Drone Over Someone’s Property?  ETSN.fm",
-      "query": "drone illegal",
-      "detected_at": "2025-09-24T02:31:07.780913+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1895dfaf6144"
-    },
-    {
-      "title": "Man Who Crashed Drone into Firefighting Airplane Gets Jailtime and $156k in Fines - PetaPixel",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2FsOUVLV2dQa2FmaUJaV3lHM0QwamxEd2Y0MDR1UzJiMXJMVTB0WHBpSzhtMktkVXpYTHpnNEFscGN0RE55d0dpQW82Y3ZXdWNyRW5ZNzZndW1MQmNrRmdGUE9Fd3dMTXhQUVFUZkVRWm5SS0E2cWJvR3NLTXcxUVhTWVNuU0Fjdy15WVNkVFk5Q2c1dWplRmNVZmlHYjhHMldqcFdsWU9SdW1ENFpxa1JsYnQ?oc=5",
-      "source": "PetaPixel",
-      "date": "2025-09-23T13:39:24+00:00",
-      "description": "Man Who Crashed Drone into Firefighting Airplane Gets Jailtime and $156k in Fines  PetaPixel",
-      "query": "drone prison",
-      "detected_at": "2025-09-24T02:31:06.121275+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "463965755e54"
     }
   ],
-  "last_updated": "2025-10-21T11:05:21.815213+00:00",
+  "last_updated": "2025-10-21T12:12:02.363962+00:00",
   "total_count": 1000
 }
