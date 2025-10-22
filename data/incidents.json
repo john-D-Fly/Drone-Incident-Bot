@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "NATO says Russian incursions deterred but hybrid threats persist - 1470 & 100.3 WMBD",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzV0RGJuWEo5akxXS2FKU3psZlplMVNuQ1pwZFdxLXB2ZXBKQlpsMW94MFdHY2JPSW5PWE5KdGR6RmNwZHhFN2NrRko4RXJQYTNfVDY0OGl0RHdpQ1pmbTNTNlg1STJLTnk3Z3RoRkhibFNzVnpwcXE0X0doUGxUaDlpa055alRYX0loRVIzWXlrNnJUSjJ0UXFvUDFCT1E?oc=5",
+      "source": "1470 & 100.3 WMBD",
+      "date": "2025-10-22T09:51:50+00:00",
+      "description": "NATO says Russian incursions deterred but hybrid threats persist  1470 & 100.3 WMBD",
+      "query": "drone incident",
+      "detected_at": "2025-10-22T10:06:12.769379+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "c54089d77c83"
+    },
+    {
       "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
       "source": "Kyiv Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "4d5d7ccf9d6b"
-    },
-    {
-      "title": "UN peacekeepers say Israeli drone crashed into their headquarters without inflicting casualties - WKMG",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVNxWnFmc19PU2Q4cGR2VlVBTHZtOFJxVG9xek5LN1ZsemFscnI2eF9JZG5lSVdncVVLZTV5c2ZFcURqMFdIblQyQUhoakhaY1NjcXVGWVBfOVZ1Nk5lQXdNQmJ4X1MwV1J1YnYtVjE4Ry1MeFZITjF6NGpOQlZpNnpWVHlVTlZBNUxPY040bmMzMklHQnBBTXpNNnJSVFo1VjRFR0tGUV91cmR3QjJ3U1J2UlE1X3U1YXpyQjZ2d2gyS3lzamhzaE9VNzYzVVIyZ19jbE9yMkhnWEY4UmdrLQ?oc=5",
-      "source": "WKMG",
-      "date": "2025-09-24T12:11:26+00:00",
-      "description": "UN peacekeepers say Israeli drone crashed into their headquarters without inflicting casualties  WKMG",
-      "query": "drone crash",
-      "detected_at": "2025-09-24T13:12:19.956559+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f4d71695f444"
     }
   ],
-  "last_updated": "2025-10-22T09:06:49.739158+00:00",
+  "last_updated": "2025-10-22T10:06:19.570770+00:00",
   "total_count": 1000
 }
