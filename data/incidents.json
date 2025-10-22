@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-10-22T04:37:44+00:00",
+      "description": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-22T08:08:03.139340+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5bc6cb45d34d"
+    },
+    {
       "title": "Russia strikes Ukraine's Zaporizhzhia with drones - 13 casualties reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMExObHVwVlB1QmpBWXpOT3FmM2FzRmZDVDhmanFJZDlCOVFvM2dlMVFYbnVOOFNEd0ROSVhCdkdkckNBTldFOER2UTVubzd4aEk3cmlwQS01UmVTTHVPRW0xcEhxWlZMZFpqcjhSYm05N3BDbG51YWYzWmVnU3FiWXZEbno2ZTBRemhzMUxmanpzSTdn?oc=5",
       "source": "RBC-Ukraine",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "0ddedbe82420"
-    },
-    {
-      "title": "UNIFIL says Israeli drone crash violated Lebanese sovereignty - LBCI Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTZCajhjRHZjUmdlcEFPanM5Y21ac3dqM1dnMGl5YTJLNDJYMXNabmE1QkJPRi1JcnF3QUlvZngtakxYUGVpZmhKS0x0Q0ROaFhOOHkzMTJzcm01VEllNVh5a2NjRWZ1LVVxS0hiVWJyWGpKT0l2NXlKa3hfWnVEWnpXbng4V19mTVRjc2RJZlV0dHRBTDRUbmlsTjdsek9BTWVNQjdfWXVXQkxnOHI1ZzdVVQ?oc=5",
-      "source": "LBCI Lebanon",
-      "date": "2025-09-24T10:28:00+00:00",
-      "description": "UNIFIL says Israeli drone crash violated Lebanese sovereignty  LBCI Lebanon",
-      "query": "drone crash",
-      "detected_at": "2025-09-24T12:09:24.283086+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4483e3cd5375"
     }
   ],
-  "last_updated": "2025-10-22T07:06:07.258552+00:00",
+  "last_updated": "2025-10-22T08:08:04.277835+00:00",
   "total_count": 1000
 }
