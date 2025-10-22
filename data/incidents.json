@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes Ukraine's Zaporizhzhia with drones - 13 casualties reported - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMExObHVwVlB1QmpBWXpOT3FmM2FzRmZDVDhmanFJZDlCOVFvM2dlMVFYbnVOOFNEd0ROSVhCdkdkckNBTldFOER2UTVubzd4aEk3cmlwQS01UmVTTHVPRW0xcEhxWlZMZFpqcjhSYm05N3BDbG51YWYzWmVnU3FiWXZEbno2ZTBRemhzMUxmanpzSTdn?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-10-22T06:05:10+00:00",
+      "description": "Russia strikes Ukraine's Zaporizhzhia with drones - 13 casualties reported  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-22T07:06:06.248900+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7f7dbe45cfdb"
+    },
+    {
       "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
       "source": "Kyiv Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "4483e3cd5375"
-    },
-    {
-      "title": "Footage shows cargo plane flying low over Moscow during reported drone attack - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Q1QxMnRPamlsNzg1V2JpUEJXQUN2WkhhZUVTV2c1WGczMldTUl9qTnFack5laHVCSXRoVk5Qd1JHVFV2WHZqMm42VU03NUdRVHJhWQ?oc=5",
-      "source": "bbc.com",
-      "date": "2025-09-23T16:41:15+00:00",
-      "description": "Footage shows cargo plane flying low over Moscow during reported drone attack  bbc.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-24T12:09:23.583720+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "474142f595df"
     }
   ],
-  "last_updated": "2025-10-22T05:06:27.545923+00:00",
+  "last_updated": "2025-10-22T07:06:07.258552+00:00",
   "total_count": 1000
 }
