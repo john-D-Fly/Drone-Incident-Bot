@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-10-22T14:08:32+00:00",
+      "description": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-10-22T15:05:42.182105+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d25d0dec5147"
+    },
+    {
+      "title": "Verifying aftermath pictures of devastating Uganda bus crash - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jcjkxZUU1UV9lU3FfZ0JCbEFhYVNlODVjX2JtcU5HZHJuUGdvR3RFM1ZlVGc3Q2hYSzZraGR1ODd0RjJNeWVTSFQ2ckk3LW5ISHJNWQ?oc=5",
+      "source": "BBC",
+      "date": "2025-10-22T14:18:28+00:00",
+      "description": "Verifying aftermath pictures of devastating Uganda bus crash  BBC",
+      "query": "drone crash",
+      "detected_at": "2025-10-22T15:05:40.133489+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6108bd8df215"
+    },
+    {
+      "title": "NATO says Russian incursions deterred but hybrid threats persist - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX29WQlpxNEFaaUdweGpRWUM0bV8tY2kzWGhOTjlBUXk2WmlKMmlDeVlUN3NJRGZVMjZLUGpjQ1d6anVVcm03b3hHc0IzeG5yNXQ2V0diM2p5WTlDQ2VJdlpUU0RVR1kzMFhMekRtcXFyYksxSm9XUWFWX2FKSTl4TVFrRGZDa2JPZldya3NTMXVnX0V2ZEFrTXVBYTQwa3FCMTVmQklkRGptZ0NMZnpCV0ZKamVuN1ZGWVRDanFRQW4?oc=5",
+      "source": "Reuters",
+      "date": "2025-10-22T09:11:48+00:00",
+      "description": "NATO says Russian incursions deterred but hybrid threats persist  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-10-22T15:05:36.701712+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "07cc9345b79d"
+    },
+    {
       "title": "Verifying aftermath pictures of devastating Uganda bus crash - BBC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jcjkxZUU1UV9lU3FfZ0JCbEFhYVNlODVjX2JtcU5HZHJuUGdvR3RFM1ZlVGc3Q2hYSzZraGR1ODd0RjJNeWVTSFQ2ckk3LW5ISHJNWQ?oc=5",
       "source": "BBC",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1ce67c55f67f"
-    },
-    {
-      "title": "WATCH: Drone crashes next to Eilat hotel, five wounded - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqV0dQVEZPcU0tX3I4dEVSWm1ELVBmc2RXNHRpaUdqX1pta3FEV1V0YzYycVU0M3dudHJzV25mZmxjYVVGUXFkQlg3OTBaQzFwb2NicklYWVIwQi1yd0FWdW9oRy1hMDBtS05xLVV3?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-09-24T15:07:41+00:00",
-      "description": "WATCH: Drone crashes next to Eilat hotel, five wounded  The Jerusalem Post",
-      "query": "drone crash",
-      "detected_at": "2025-09-24T16:06:32.429443+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "feec775a6ae8"
-    },
-    {
-      "title": "Watch: Copenhagen, Oslo Airport shut after unidentified drones sighted; more than 40 flights cancelled & - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMWZQdkJRWDc0ckw2RGhheFNPZ2RtN2oydFMxZlhPUDE5b29lOW02WGI3ckZFX3Vtd0Y0V0xvRzVrVGh4Q0pZajQ5XzdMTWpObWdKbTVNSVdUd0poLVlwalVFMzM5ZVJDLTZwcWQ5VlkxODh4MVFLQTNMeU5FSk41Y05HN3NqWV9RSlNuaW9SRllJUUdmbldaY3JySEZ6bC14c1g4SGxDM1huTklfOS12OEc3X1RpYnUxalJ6cnp1endzZUJmN1BJTFdsQ2lNWGdfR0ZYSUVyVXdvNGZDVGlzTWpWZEotOEFHYjROcXNFX3RzdFphcklqQUtmejhPNXJyUTg3eE9NdGs5YVJZdTQycjhORdIBmAJBVV95cUxNM2RzOFpoQXZhcFZZMEFPM3VudnJ6VzJ6T3JEakcwT1pIR0lNMHUwWHhvXzdpZFozWlgtcnJ6aFVkTjRhZ0pnVVhSRDROenZBS09uazB3MDNibHQ3V1R5d0dqYWFSSXdNSlhaVGQwSk1zUDdhNlFiSTRrWEc2MHViYm83ZmJSUDVTc0pxNmZsVHlpSFBKU0FoQkVKZ2cxZnFoR0FTQW1jYkFmVHliVHg2NUN3Y21odEtKSEluNUhMVlFqeWhBeTNHRnY0MG9TaWlLemZuWDgtQWpMNFd4bExYVWtBTnRFNW1jVU0tajhOYjZlLWZHSG9seXd6Xy1HaVY3dnk3eDJlNjhGbjNkamFHWU82V2ZQelBO?oc=5",
-      "source": "Times of India",
-      "date": "2025-09-24T04:47:00+00:00",
-      "description": "Watch: Copenhagen, Oslo Airport shut after unidentified drones sighted; more than 40 flights cancelled &  Times of India",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-24T16:06:31.709057+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "aaf8a96e3acd"
-    },
-    {
-      "title": "UN peacekeepers say Israeli drone crashed into headquarters in Lebanon - TheNational.scot",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXA3aUpBZEFxSnhKR2lUckFQYnR6RzB3cWJIWGFmTDRhY1dsczktTzl2Mnl2RFFGTXQ0ZXdua1FjeGUyQ0lRNGh6b3kxS0RoOHhkVG0wS2RFOVZ5eER4bW5YV0RfUktyeHpDLWVJNzRmZ215enF3Mm9pcHR4QXZwdlV2VlQtb0ZMV2lqcnR4SkxKU205bkpwTnh3?oc=5",
-      "source": "TheNational.scot",
-      "date": "2025-09-24T13:13:03+00:00",
-      "description": "UN peacekeepers say Israeli drone crashed into headquarters in Lebanon  TheNational.scot",
-      "query": "drone crash",
-      "detected_at": "2025-09-24T15:05:44.965630+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "9bffb50ba433"
     }
   ],
-  "last_updated": "2025-10-22T14:06:27.766275+00:00",
+  "last_updated": "2025-10-22T15:05:43.544806+00:00",
   "total_count": 1000
 }
