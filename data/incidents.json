@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone falls in West Kazakhstan region - qazinform.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRUJaNVBodkdyWkZSaEdyc1hnWFlsenFKbktZYTRfREVoaDJCaVNVVDRnMmQzWGlsOVR5S1I5MkE4RnBzYThtWEo2dzFWTVVTUmxNVFdWSlgwbDYxWjRySGg2SFpqbUxCY0IxR1NyMVVySGlCY2Z5VzQ2Y9IBe0FVX3lxTE4zdFlEUXZGN0VRSmtoYjlaZjRsVVZsQjFvZy1YdGx1RjNSX1FjcVEyM1dVMWZIa1A4OU5aT1FzYndmbE1qbE9qT1l0cXVnZFNPbExwR21wMzFlQnRXbFJ4MzhCSExyS19ta1JKNDBVTGw0bHc3TG5JRVF4VQ?oc=5",
+      "source": "qazinform.com",
+      "date": "2025-10-23T09:19:35+00:00",
+      "description": "Drone falls in West Kazakhstan region  qazinform.com",
+      "query": "drone crash",
+      "detected_at": "2025-10-23T11:05:29.305393+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7841f6a4237f"
+    },
+    {
+      "title": "Men jailed for drone smuggling drugs into prisons | ITV News - ITVX",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmt1bUxfeUdSUjlOQklzT3BoYklsbEVPNEhTbHFyVWl5c3Z1V3FSblF5NXdVUDh3cXR4a0EzYjNpNFhIeXdUS0lXMFpVVWh1dUlOWnd2LWdocGh2V3YyZDB1amJONFRxRGFTU2tUVjI5S3NNcndpTFhUMi1QS2VnYnAwdURNdm1iaFVhTU8yODVoeXNrN2V1TA?oc=5",
+      "source": "ITVX",
+      "date": "2025-10-23T10:22:06+00:00",
+      "description": "Men jailed for drone smuggling drugs into prisons | ITV News  ITVX",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-23T11:05:27.563831+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6e0fa613d86f"
+    },
+    {
       "title": "Russian Strikes Kill One, Damage Synagogue in Ukraine - The Moscow Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHlEMVUzX1d5bGNXLUxkYXNfMXlyYXFHWXJZeXpnQzJ2b2dpeVBueWZka2dzRS1LZW9YU05xWnFSSzhfekFyWkE0UHV5X2hHWWRVRHZvOHowMFZVQ0Z6NVJxQll6OTVXSll2MkN4UWNvRzk3dnVwTUI5YnRqVnNyU3FtNEJPc0pkeUhPRFhOT3F5UjdPbmtVRVJXdHJESFhaNm1Z?oc=5",
       "source": "The Moscow Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "b53911cd9194"
-    },
-    {
-      "title": "Clovis Police Drone Tracks, Helps Arrest Shoplifting Suspect - GV Wire",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWtlNEpWYnVsUHNjRGw0WDhPTmo1MkJiRW1GYW1Lay11ZGF4MGp6WlFGQk15TE1Sd182V29udW8xM3kyaHNES2VlcEg2UEV2ZHJpWHIzUnlMeDdnM1dBS1VRVWtnZTBoYzllV0ZWYkNLaGs3c1lHUjBrd1dCQ1VIRndxSHk4UUlRVUFMY2NxLWtzRDJu?oc=5",
-      "source": "GV Wire",
-      "date": "2025-09-24T21:42:21+00:00",
-      "description": "Clovis Police Drone Tracks, Helps Arrest Shoplifting Suspect  GV Wire",
-      "query": "drone arrest",
-      "detected_at": "2025-09-24T22:05:18.204686+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "dbe314f9d308"
-    },
-    {
-      "title": "LIVE: Israel kills 85 Palestinians in war-devastated Gaza strikes - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRUdDVnN2hqdUI3ekdCT0ZPN01PNmY1alZBaGZGOTE2VDZnNFY4ZjlFbDNOS1BiQ3hOZU1qSF80TlBsRmJfTXZRTWFoQmwxQW92Nlo2SmM2d2dUd3dINXIwdVBDeVFxNXBtOHp6bU5MY3N0TXh3bHZqNmxZd3pJWTFFZ1E1T2VZNzJ0ZUx3dkMteW56ZEpzelJoS09CU0VQaTFpTm1rdHRId3BHQkk2XzdxNWY0ckhjQjZQYUwtR0FzZ9IBxwFBVV95cUxNNW5XbTRZMlNma1hyaVJvRTByT1VIbjN2RGpFOG9sX1NtSEZIb09uLXk3NTJkR2s2RVpfQnF6WVhBaXJzSVNnNmtSSl9qVjJBLTFERENKNmNSaEJDNjRtd3c1MFR1UzlkMEVWTDN1eVhZX0pnUVFZZlBQOTdjQzVpWVI1LUtIeFBHWmVYdl9yaTJjaTFTejFPb21BOE9zN0Z1M2tEWW1UdkdCNmlFZk9HaHNSOGVOaUZ6c29IQ0dILTIzZVhrdnlj?oc=5",
-      "source": "Al Jazeera",
-      "date": "2025-09-24T21:00:00+00:00",
-      "description": "LIVE: Israel kills 85 Palestinians in war-devastated Gaza strikes  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-24T21:05:12.928854+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7893177ded9f"
     }
   ],
-  "last_updated": "2025-10-23T09:06:24.333417+00:00",
+  "last_updated": "2025-10-23T11:05:32.483978+00:00",
   "total_count": 1000
 }
