@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Livingston Co. Sheriff's Use Drones to Track Down Driver Who Fled From Crash - WHMI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ05zX0t5NHlOSGxfYVdKMzU4RVJUR3BrbTQ5UnQ0b29BZGpTYkxmbV8xczd4SnpIRnhvZ1FjWVFFRFpPWnlTYk9MendscE9DNXdURlZGVW4tWkpVcWYwajNtYXJ3ZzlaOU1vak5ubkxYa3pFWllOVDVwc3paOEd4VW1qNUN2SVNmMV9JcGlYNDk1T2E2YTZBOHFiRUZmRXNiRG1rVWpPdnZoY1lF?oc=5",
+      "source": "WHMI",
+      "date": "2025-10-22T17:27:50+00:00",
+      "description": "Livingston Co. Sheriff's Use Drones to Track Down Driver Who Fled From Crash  WHMI",
+      "query": "drone crash",
+      "detected_at": "2025-10-23T13:14:25.906656+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ddab0f84086b"
+    },
+    {
+      "title": "Drone arms-smuggling from Egypt ‘constitutes a real security threat’ - JNS.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0JfNDlHR2otazZmd0tiYWRza3lsYTF5ZVBDVWdYYjZlZ0F0R05faks1d3pLVHYwV01EejhuNW9jMklIWWV1N3doSmJHdlV1cXlRV3JGM3RfaWlmS2JqS3VEUHVvUzN2cDRSbGlfZUtSTFBpOVZ5S2hiQWhKYjZVNDVZMENvTmRiRzFqdktPc2k?oc=5",
+      "source": "JNS.org",
+      "date": "2025-10-23T06:49:00+00:00",
+      "description": "Drone arms-smuggling from Egypt ‘constitutes a real security threat’  JNS.org",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-23T13:14:23.351622+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ba4d59f881f5"
+    },
+    {
+      "title": "Explosion of Unknown Drone Reported in Western Kazakhstan - The Times Of Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanJBQXVFa2E0dEdWaEUzdEtuNXVUWG1KMGtBUlVIbGNEVlVYaHZmY3ZwOUIzTWJvREJYMFFXRm9Pay1pbXdMbXdycDdwaUdqeXFzUnkwU0dzTFh4ZTQ2aEJfZ3dISDRDcFhMYWVueHZnclgya3JpQ3JQcWJ5Q3Jqd1ZVLXA?oc=5",
+      "source": "The Times Of Central Asia",
+      "date": "2025-10-23T13:04:38+00:00",
+      "description": "Explosion of Unknown Drone Reported in Western Kazakhstan  The Times Of Central Asia",
+      "query": "drone incident",
+      "detected_at": "2025-10-23T13:14:21.928592+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "59ffd29526b4"
+    },
+    {
       "title": "Explosions and Drone Strikes Hit Russian Regions, Killing 12 - The Moscow Times",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0tOS1ZkSUd5QzZWWDdlOVVlVnViaG1pSHlMZnlRWXNKemFaQmNNdzlSWE5IUVAyZ3NDOFIxMGdLVnF0ajkxS21pTF9vV2d0YThob1ZBSjAtSDdlOEtGR0F5Qnp5aUlwcjRPS3U0RC1JLTBkMVJEcEpEUlhna2RjQ1V5Yk4tdWNTQlJQSzVSbGlWc2hDenIweXJSOEpkY3dObW9tcVd0MzVhWGRM?oc=5",
       "source": "The Moscow Times",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "8f24026f0626"
-    },
-    {
-      "title": "48 wounded, two in serious condition after Houthi drone crashes in Eilat - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGlpN05HNHBBay1sUmZ3eHVfV1ZYdUpxX0pvZ1ZmQjd6bEFYOG1EMkJVRXl4SVE2d3gzZDlMa1NLdzcwd1hLaTN5Mk1VNUdRSm9OWTZ1MUZ6dWF6czBDb2VOM3UzLThQaEY1cTh2aWxaN2F4eGRvdE1BQlNjblI1UGp1WWNMZw?oc=5",
-      "source": "Yahoo",
-      "date": "2025-09-24T17:56:38+00:00",
-      "description": "48 wounded, two in serious condition after Houthi drone crashes in Eilat  Yahoo",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-24T22:05:22.995205+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ffb90b237675"
-    },
-    {
-      "title": "Drone Down: Israeli Aircraft Crashes at UNIFIL HQ in Lebanon - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JacC1fa0JqaEgwRFBfcHBRbGQ0a1dENjRKOFAwOUo5b3JPNEwyNzNyalRVWWJoZVYzZTA0WWFXcVBzSWlXcFBVX2dnRDg4cG5IbEthdUpFZEg0R3YtM2taUnNfV216b2dyd1QtUlpaV0FzRFdKNWZPeUh2OEFpWkhUVkU0V0M0YzRmMTVSSzJ2NG9FS3dNb0hCblIyZkRabkQ3Q2xqNThKdEhZYWpHSlUyaUbSAboBQVVfeXFMT0NzN2VOMUdhV19RTThNN045bUlmUUhkNVBlV25EQVhlY284Tml5M1ZzQ2dVVzV3bVM5dnZCLUZXQ3dXUWYwTmM0SFZoeC1NVTJaaWZIdDVMOHM3ZVlESXZtUlk1ODZZdnNCMHFHaXpEelRtUDJ2Yk9LTlpPeFd3TUEyU2REU1FiUFhaWmpZT3RHQ0pFWHVBbmVYLWFIb3BuQTBNZEpJNDlhRFpmYkNSNHl1bDVCMjRXVmhn?oc=5",
-      "source": "Devdiscourse",
-      "date": "2025-09-24T21:12:00+00:00",
-      "description": "Drone Down: Israeli Aircraft Crashes at UNIFIL HQ in Lebanon  Devdiscourse",
-      "query": "drone crash",
-      "detected_at": "2025-09-24T22:05:20.877554+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "744ba7e6069b"
-    },
-    {
-      "title": "22 wounded as Houthi drone from Yemen hits Eilat - JNS.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMGI5a0RFZ2NOR1ZPWUtqM2p2TmdpTnk0dURMb1pRWFgtbDRjN2ZDb25ZSkU5V3VhNUVfWXMyZ0JBZ05sY2YwaFFWLWh4Z3FPajJaWHIzR3gwOUYwM216V2RBNVBUWm9xWllWbGFHWjVYUlM0TUFEZzg3cWtQdEE?oc=5",
-      "source": "JNS.org",
-      "date": "2025-09-24T16:11:34+00:00",
-      "description": "22 wounded as Houthi drone from Yemen hits Eilat  JNS.org",
-      "query": "drone crash",
-      "detected_at": "2025-09-24T22:05:20.877554+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f048776721ab"
     }
   ],
-  "last_updated": "2025-10-23T12:09:17.662424+00:00",
+  "last_updated": "2025-10-23T13:14:29.329462+00:00",
   "total_count": 1000
 }
