@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable surge in drone-related incidents across various categories, particularly in the realm of smuggling and security enforcement. Significant incidents included arrests related to drug smuggling into prisons through drone deliveries in Georgia, alongside reports of illegal drone activities in Yosemite National Park amidst a government shutdown. The context of international security was highlighted by drone smuggling operations from Egypt raising alarms, and numerous drone strikes reported in Ukraine causing civilian casualties. Additionally, law enforcement agencies have been utilizing drones to assist in tracking suspects related to various criminal activities, showcasing the dual-edge nature of drone technology in both facilitating crime and for law enforcement efforts.",
+  "totals": {
+    "crash": 5,
+    "smuggling": 7,
+    "arrest": 6,
+    "other": 12,
+    "airport": 1,
+    "terrorism": 5,
+    "total_incidents": 53,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 5,
+      "other": 24,
+      "smuggling": 14,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 6,
+      "drone crash": 5,
+      "drone illegal": 7,
+      "drone incident": 9,
+      "drone prison": 5,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 12
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Incidents related to drone smuggling particularly emphasizing prison drops.",
+      "incident_ids": [
+        "6e0fa613d86f",
+        "ba4d59f881f5",
+        "6c980e03152d",
+        "9a7ecff3348a",
+        "c54089d77c83",
+        "b2bf7224db44",
+        "7ed79954f2c0"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Multiple arrests made using drones for law enforcement.",
+      "incident_ids": [
+        "7841f6a4237f",
+        "1c99b16d718c",
+        "b25d0dec5147",
+        "1783b93c8d45",
+        "fd1c32d911c"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Reports of crashes or explosions involving drones.",
+      "incident_ids": [
+        "ddab0f84086b",
+        "59ffd29526b4",
+        "36e7c88d3159",
+        "7841f6a4237f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ba4d59f881f5",
+      "headline": "Drone arms-smuggling from Egypt ‘constitutes a real security threat’",
+      "one_sentence": "Concerns escalate over drone arms-smuggling from Egypt posing a significant security threat.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6e0fa613d86f",
+      "headline": "Men jailed for drone smuggling drugs into prisons",
+      "one_sentence": "Three men have been arrested for attempting to smuggle drugs into prisons using drones.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "59ffd29526b4",
+      "headline": "Explosion of Unknown Drone Reported in Western Kazakhstan",
+      "one_sentence": "An explosion involving an unknown drone has been reported in Western Kazakhstan, raising safety concerns.",
+      "risk_tags": [
+        "safety",
+        "incident"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "36e7c88d3159",
+      "headline": "Explosions and Drone Strikes Hit Russian Regions, Killing 12",
+      "one_sentence": "Explosions and drone strikes in multiple Russian regions have resulted in at least 12 casualties.",
+      "risk_tags": [
+        "terrorism",
+        "incident"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    },
+    {
+      "id": "7ed79954f2c0",
+      "headline": "Three arrested in latest attempted drone drop at Washington State Prison",
+      "one_sentence": "Three individuals were arrested for their involvement in an attempted drone drop at a Washington State Prison.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "fbe9e3a714d2",
+      "headline": "How dangerous are airport drone attacks — and will they ruin my trip?",
+      "one_sentence": "A detailed examination of the potential risks posed by drone attacks at airports.",
+      "risk_tags": [
+        "airport",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents: from prison smuggling to deadly strikes in Ukraine highlights ongoing challenges.",
+    "linkedin": "Recent drone incidents reveal growing security challenges, especially in smuggling operations and international conflict zones."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-23"
+}
