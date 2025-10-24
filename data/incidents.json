@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Crime Fighting Police Drone Temporarily Suspended by MCPD - Montgomery Community Media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXktV3d2OEJpQ0FsRWRNQ2pnWU1FWDBrM2xEZGRkc0xrYVNlWk8zNmpKcE5PT1BUMmdhaXJqQ004b2lET1BfT0ZERnpHcHNKdHBydWNfdmp4M3JWVExJd0JPanNLTmVLcHNqMDNSUlcwams5aXROWVR1a2hQZ2ZjM3ZTWXRiSjJ2Q3lkQg?oc=5",
+      "source": "Montgomery Community Media",
+      "date": "2025-10-24T14:13:35+00:00",
+      "description": "Crime Fighting Police Drone Temporarily Suspended by MCPD  Montgomery Community Media",
+      "query": "drone arrest",
+      "detected_at": "2025-10-24T15:05:42.256225+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eacc4dae0499"
+    },
+    {
       "title": "Rare Ukrainian drone attack on Moscow suburb injures five - Naharnet",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUNvSlNGOHpXZEt3UTdkMGdOWGFCbGpWNnd2alNoamhhc0xwQ1FOb1JlTVlZT3o3UlIxcmllekdIXzN5RVRUaUtWdnQ3bmpHLUowU012TEtkM2N2dHd5Q3R6Y05LTm9Senl3bnVZLS0tRUhyX2NiejZkcHI1TTQ2anZTODRCajQwY1JVNkZYaFRfU0x4Z3RrR3I5ZHhZRHotMmc?oc=5",
       "source": "Naharnet",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "90499825fa26"
-    },
-    {
-      "title": "Drones and hacks disrupt airports across Europe - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Mmo2a1RBVVpCcVkxTGdBenBYak5oTzVpNEJzcVlyam5PTi1ucXpSdHFMRGJBUmFRTXJpT2h5bEVNdjJuVDdaNU5XSUJWM1JaclJqdWpIVENYeUd0X25mdEdIZw?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-09-25T06:33:57+00:00",
-      "description": "Drones and hacks disrupt airports across Europe  The Jerusalem Post",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-25T07:05:53.988121+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "7c0b5dc54252"
     }
   ],
-  "last_updated": "2025-10-24T12:10:07.083162+00:00",
+  "last_updated": "2025-10-24T15:05:48.090582+00:00",
   "total_count": 1000
 }
