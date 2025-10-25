@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "New LMPD drone program leads to 2 arrests - WAVE News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ESHNfUXVPNUFQWFBNU2pZaVVoc3dYMEtySjJzRE5RYVp1dlIzVzNRODlyX3h1SWFHQ25TT01lRy1abXhxcmV3cTFVbDFZLUhOaUVXcFhyRGNOWDc0aUE3OG51bGQwcFJFM3R6aDB5cVFXMWJnUTN0NmJ1My0?oc=5",
+      "source": "WAVE News",
+      "date": "2025-10-25T21:36:00+00:00",
+      "description": "New LMPD drone program leads to 2 arrests  WAVE News",
+      "query": "drone arrest",
+      "detected_at": "2025-10-25T22:04:58.954482+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "a5affea2af7c"
+    },
+    {
+      "title": "LMPD drone arrest - WAVE News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSkx3Wm96Tl9FU0dhNlBCZjdiempOdnkzaG95V1RWaG1jZG11ZE1taUIzQjgxTXFQQURrQzJGQXBUNjh5cURoS01wSHI4ZXNqZVhfWk9qT0c3TjlYN1FWWHVUd2JXWjYt?oc=5",
+      "source": "WAVE News",
+      "date": "2025-10-25T21:15:00+00:00",
+      "description": "LMPD drone arrest  WAVE News",
+      "query": "drone arrest",
+      "detected_at": "2025-10-25T22:04:58.954482+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f2502a9dcc34"
+    },
+    {
       "title": "Israeli Drone Strikes Kill Three Lebanese Civilians in New Ceasefire Violation - Palestine Chronicle",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTERENHJLanRZVDU4ZTBKYWI3N3FPZFZGWnhucERTbnZsYjktbTdBZ0pHT0R1NmMtdVVfT3U4WnlCTi16RGN3a1diOEhYS2JMR2kxTmItVnp0SWdZclpMWHY5WFJXWG5GYmJfU0FMcTlKMGNMYS11WERybFk5RGVQbjdfTkdRMnN6b2s4MnJod185YUFfQzE0a3hzTWVZTVpvWHpva1lFOTdodTlfUllaOG45S08?oc=5",
       "source": "Palestine Chronicle",
@@ -11975,32 +11999,8 @@
       "location": "at Danish airport",
       "category": "airport",
       "id": "6b6ab2cb5b52"
-    },
-    {
-      "title": "Drones disrupt airports in what Danish officials call ‘hybrid attack.’ What happened and how can they be stopped? - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ3RhTW1UWFk5V2p6WE1SM3JwTmdJVldZQUR4dllQczZSb1FReFU5dHBkZmE0U3d5U3NoRTlLNVdKbTlUSE53M3hZSkZOYmlmVEM2alNablM2aVBXbl9KZlN3RXV4Y1hBQ0x3VGd6ZnR5RFVTaktqUXYtemFYYkF3MEtIeWY?oc=5",
-      "source": "CNN",
-      "date": "2025-09-25T15:02:35+00:00",
-      "description": "Drones disrupt airports in what Danish officials call ‘hybrid attack.’ What happened and how can they be stopped?  CNN",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-25T15:05:56.717259+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "78c47a7b1cd2"
-    },
-    {
-      "title": "Drone crashes next to Eilat hotel, 48 wounded - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqV0dQVEZPcU0tX3I4dEVSWm1ELVBmc2RXNHRpaUdqX1pta3FEV1V0YzYycVU0M3dudHJzV25mZmxjYVVGUXFkQlg3OTBaQzFwb2NicklYWVIwQi1yd0FWdW9oRy1hMDBtS05xLVV3?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-09-25T12:51:37+00:00",
-      "description": "Drone crashes next to Eilat hotel, 48 wounded  The Jerusalem Post",
-      "query": "drone crash",
-      "detected_at": "2025-09-25T14:06:01.686384+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a6d4ac6c2f74"
     }
   ],
-  "last_updated": "2025-10-25T21:05:11.955287+00:00",
+  "last_updated": "2025-10-25T22:05:04.410594+00:00",
   "total_count": 1000
 }
