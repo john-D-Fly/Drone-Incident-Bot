@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Can you shoot down a drone over your property in Arizona? What the law says - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21ycmlGOVVhdzU0ZlpYWVo2eU1yaTNDaVNUbFotc05vWU5YYXFSNVFxaFJ0Z2xGcFgwYk5DQjlfdDk1VUNWcUVQT3ZmUWtTWm5MSmd2NjAxOFY5MURweGVEdEVaanZGQVBCa0pPRmlyOXhvbXRXbGUyeWJSZURwaWo2OXNXdE13bW12ZGh5MTZ3OEljX29yQkhIN2duREhqRXM5eXY3T3hOeGhTYUtGaQ?oc=5",
+      "source": "azcentral.com and The Arizona Republic",
+      "date": "2025-10-23T12:00:37+00:00",
+      "description": "Can you shoot down a drone over your property in Arizona? What the law says  azcentral.com and The Arizona Republic",
+      "query": "drone illegal",
+      "detected_at": "2025-10-25T07:05:21.547810+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7ef8da8b04a1"
+    },
+    {
+      "title": "Are flights to Poland cancelled or diverted due to the Russian drone attack? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX08xMXhXeFRic0pTaWlzV1FSWl9GcGQ2SXNUcGp0eHNwZE9ZSVFNdjhLOUhiUklWVjd0YUhVVzZzQmNWMGswSzNkMEE2RDZvTUxuN2tadWRjSTdudE81UW54d1BETlZFT3hweHRFZUprQWZOYmllMnBsakNpSm1nSnZZX1BOYU04?oc=5",
+      "source": "AOL.com",
+      "date": "2025-10-25T04:44:05+00:00",
+      "description": "Are flights to Poland cancelled or diverted due to the Russian drone attack?  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-25T07:05:20.280750+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "05ba4af3e6c1"
+    },
+    {
       "title": "Drone smuggling at Egypt border tests Israel’s sovereignty - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzWGc0cEJ4XzQ2T2t3WS1qYVZuZmhnUlgyMDg3TFBUNEtJNHl4Nk1sMHlKSlI0VTczblFENGJ4LTZhNmlNQUp1RC1zOENvcUc2WDE0NVd4SUExTEU3dm15WkJUSDVvc3NjOW9DbDVR?oc=5",
       "source": "Ynetnews",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "3a139441d6c8"
-    },
-    {
-      "title": "Flying a Drone in Paradise? French Polynesia Drone Laws 2025 – Avoid Huge Fines with These 9 Rules - ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejlLSkJVYXNDbkwzSzI0NDBNM0xtY1ZnTkE4NHV1RUhkcDV1bDlQV0NQbFpwZk9VMVZ1R1FTeDhBbHQ0dnExcjFMV1h2eE9TV0VlWjdaVldOREtlODNDb2RkVVN2aEFBeG1DUEpYY0xnTFE2R0YteE5fZjFiSktSZ2ZqM05taE1YZ0R2dFlpX2hSbDhwaThqWGJuOUdydGUzMkJJZkYzNzRLWDlLSHhheDl1WTFVLTA?oc=5",
-      "source": "ts2.tech",
-      "date": "2025-09-25T10:42:07+00:00",
-      "description": "Flying a Drone in Paradise? French Polynesia Drone Laws 2025 – Avoid Huge Fines with These 9 Rules  ts2.tech",
-      "query": "drone illegal",
-      "detected_at": "2025-09-25T11:05:24.262923+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ac469afeb820"
-    },
-    {
-      "title": "Drone crashes next to Eilat hotel, 48 wounded - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqV0dQVEZPcU0tX3I4dEVSWm1ELVBmc2RXNHRpaUdqX1pta3FEV1V0YzYycVU0M3dudHJzV25mZmxjYVVGUXFkQlg3OTBaQzFwb2NicklYWVIwQi1yd0FWdW9oRy1hMDBtS05xLVV3?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-09-25T04:43:06+00:00",
-      "description": "Drone crashes next to Eilat hotel, 48 wounded  The Jerusalem Post",
-      "query": "drone crash",
-      "detected_at": "2025-09-25T11:05:23.667109+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b01ff5977e58"
     }
   ],
-  "last_updated": "2025-10-25T03:19:33.131738+00:00",
+  "last_updated": "2025-10-25T07:05:24.096824+00:00",
   "total_count": 1000
 }
