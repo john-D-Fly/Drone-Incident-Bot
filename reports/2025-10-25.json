@@ -1,0 +1,112 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have spanned multiple categories, including unauthorized drone activity, terrorism, and arrests linked to contraband smuggling. Notably, a drone attack in Ukraine resulted in casualties, emphasizing the ongoing threat of drone usage in conflict zones. Drone encounters over private properties in places like Vermont and Arizona have raised legal questions, with discussions around community safety. Moreover, law enforcement agencies across various states, notably in Lenexa and Wisconsin, utilized drone technology effectively for arrests related to burglary and reckless driving. The phenomenon of drone smuggling, particularly linked to prison operations, highlights an emerging challenge for authorities in deterring illegal activities facilitated by drones. Overall, this period underscores the duality of drones as tools for both crime and law enforcement.",
+  "totals": {
+    "arrest": 8,
+    "smuggling": 6,
+    "crash": 3,
+    "terrorism": 3,
+    "other": 21,
+    "unauthorized drone": 2,
+    "drone illegal": 4,
+    "drone incident": 7,
+    "drone airport disruption": 1,
+    "drone security breach": 1,
+    "drone prison": 1,
+    "total_incidents": 46,
+    "by_category": {
+      "arrest": 3,
+      "crash": 4,
+      "other": 30,
+      "smuggling": 8,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 11,
+      "drone crash": 3,
+      "drone illegal": 6,
+      "drone incident": 8,
+      "drone prison": 1,
+      "drone security breach": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 7,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone smuggling",
+      "rationale": "Repeated incidents involving drug and contraband smuggling via drones.",
+      "incident_ids": [
+        "b2e1a9b885ab",
+        "9fa1360cbc7",
+        "3d0fc65f5eb1",
+        "c5ef7b39a685",
+        "8f85e441b966",
+        "60fcd5a37f36"
+      ]
+    },
+    {
+      "topic": "drone arrests",
+      "rationale": "Significant use of drones in law enforcement to track and apprehend suspects.",
+      "incident_ids": [
+        "78cde34bc404",
+        "8a13e99eaf24",
+        "16b2cee71c4a",
+        "50fcd5a37f36",
+        "7ac3b733f85c",
+        "8f85e441b966",
+        "3d0fc65f5eb1"
+      ]
+    },
+    {
+      "topic": "drone terrorist activity",
+      "rationale": "Incidents of drone attacks contributing to violence and casualties in conflict regions.",
+      "incident_ids": [
+        "a25de5f2316b",
+        "e0520c1f17cb",
+        "14510d926653"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a25de5f2316b",
+      "headline": "Russian missile and drone attacks kill 4 in Ukraine as Zelenskyy pleads for air defense",
+      "one_sentence": "Russian attacks escalate with casualties reported, urging the need for enhanced air defenses.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "140fcd5a37f36",
+      "headline": "Kansas explores options to combat drone use, including prison drug drops",
+      "one_sentence": "Kansas officials are developing strategies to address growing concerns over drug-related drone incidents.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "78cde34bc404",
+      "headline": "Lenexa police drone, body camera footage show arrest of suspect",
+      "one_sentence": "Innovative drone use by Lenexa police leads to the successful arrest of a suspected criminal.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents highlight the dual-use challenges: law enforcement versus smuggling and terrorism.",
+    "linkedin": "Recent drone incidents underscore complex challenges in security, enforcement, and the evolving nature of crime."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-25"
+}
