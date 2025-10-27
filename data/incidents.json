@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "DroneShield Partners with SRI Group to Combat Rising Airport Drone Threats - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlltZExybUY0YW5DX284T2l1Q1M3cGU1dktoUXZEcVFsWTkyZ1BJUVN2YlpFZ1Q4UFFwZ0Z4Y2w4aHNoWTNIUmVwR0xCWUtEU1ROZ09Rb1hsVWlJV3BqaXFiRzZYa3ppZ2taQkxFWFFuaXJMeTdYaDhleFdZOHlFWEgxaG1IXzlWMHZOTFN1eVFoc3gtSTEtMk53RWU3TUxCYl80QnlyNFVBX0tr0gGyAUFVX3lxTE9iVzZpemFWSDNzd3lheXRzQUlsNVBITkN0TXlDZjc0OVdoVnp4a1ZJQUExT2t5ankzNUVoenFJSmVRcFBfZy00bGNPZzN0amNFWmJxM2RFWWFUcElSS25uYVVaU250dHdhbGp0Q3Bwa3RYeXRmYnYxZEZqd2txeEQ5TkstSENaQlFpdS1Zb194ODlaZEx2U0N0SU92SmNqbUs4ZlcyVXVuX0RfbkVJZkRtbkE?oc=5",
+      "source": "Dronelife",
+      "date": "2025-10-27T17:52:45+00:00",
+      "description": "DroneShield Partners with SRI Group to Combat Rising Airport Drone Threats  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-27T18:07:47.641811+00:00",
+      "location": "at Rising Airport",
+      "category": "airport",
+      "id": "f2d0d4dc0ef6"
+    },
+    {
+      "title": "Drone-based prison contraband operation stopped by Johnson County Sheriff’s Office, Wrightsville PD - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQS1wNzZKM2lJSk5YQVNlSGQzRDVMNGpzZFBjUlFtVndRNllFRE43cUVCdnFNUkdSQWwtNnFpWFlGb0FiLUR1SVZDc0drWGtXOTdUVjFPLTB4bnpkRXdac25ObU9PMXR2QnBVbm92SWtMaThfXzlMTXJ1WC1lNE5aeVB3SVFOdmtsU3E1ZmtaRUFBdzdpUnl3VndnM1F4ckRmREhPS05TQUg5U1hMT1R4eWszUHM4SDJ1V19DTm1zR0dxWUQzTDQ5TTVNeFNnUjFUQmJHMjZfeHk0ZER0RjZXN1FoT2RZRjhfZ29HbVh4MNIBgwJBVV95cUxPbXdJWUNzSERRSFdxSHNfWDlRZ3hNQjFRbWRBc3IzTFZXZ0JtYWFiV1BJQTAwX1RKSE9TbXpUTjQ2UklCQldybUtpbzREMFpkRGs0bHNFVWE1bjM4dUZvLTRzNFhqcU85LThOTGtNcTdGYmxCak5mNl9EU0lvc3J5OWM1V0RHM0dxSzVNT3lrQWlrZFlKS1I1RjNFb3BmY2E1ZTNGVEhfVVQyRjVDbUFNV0NHZnJ3cVN3ajJJbFBMLUl0T05OTG5VcDkydE1VckJSYko1a3pBUXJ4WXpnNVRWbzJzQ2E1YUJFYy1LWk1TSlNCcENYTUUwNFI2cTFjMmtHNHY4?oc=5",
+      "source": "WSB-TV",
+      "date": "2025-10-27T17:04:17+00:00",
+      "description": "Drone-based prison contraband operation stopped by Johnson County Sheriff’s Office, Wrightsville PD  WSB-TV",
+      "query": "drone prison",
+      "detected_at": "2025-10-27T18:07:43.466008+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9c56ad7784df"
+    },
+    {
+      "title": "Drone-based prison contraband operation stopped by Johnson County Sheriff’s Office, Wrightsville PD - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUI4Zk5WSF84R2hnNnBjblo0SzBwRF9JTDJ6QklkZkQzQ0FZb3pMbjBDcWR5aWVySWZsdzlQY1Y1LWtFSm9QUUthM3FiRzllSm1DcWlVdXNNRk9CM0c4b3ZicEpveUdKend0WklKZjllYzh5SG9haThsU0ZfNW1oZHlSOEs4dFM2LXdaamtwbFN1MC1X?oc=5",
+      "source": "Yahoo",
+      "date": "2025-10-27T17:02:37+00:00",
+      "description": "Drone-based prison contraband operation stopped by Johnson County Sheriff’s Office, Wrightsville PD  Yahoo",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-27T18:07:42.789047+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3d7007ae174c"
+    },
+    {
+      "title": "Flock And Drones: How Anna Police Captured The Home Depot Bandit - Dallas Express",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEJRMXNkSVFwYXp4X1RqZkNWenZZZ3V5bWFHcUw5cHdieXJDNDl6WV82ZUxqbDBKSVhDWXRQZkI3WGRBMjBfRzdxVHFPM1h6NjRYSzBoZ3ZIdDVJM2x3NS1CNFd2dm9GZW53Snpnc09IUG1lV1Qyb1J4WkNEZzk3T1lrblM2OFR0anJqYmVsNkFTVWwtRzdfdHRub3c?oc=5",
+      "source": "Dallas Express",
+      "date": "2025-10-27T17:11:59+00:00",
+      "description": "Flock And Drones: How Anna Police Captured The Home Depot Bandit  Dallas Express",
+      "query": "drone arrest",
+      "detected_at": "2025-10-27T18:07:42.198949+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ea869c5e4c24"
+    },
+    {
       "title": "Russia repels major Ukrainian drone assault on Moscow: Mayor - PressTV",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlZDd2ZaU3E5UTg4VnZqWUxqaEpmYXdTcGQ0YlZyZ0FvN29IU2FqbkJQTngwY0d4YXlSTEJaZ2NXR3JPSm5BWkFEVk4zYy14OEd3UFF3TFZiQUtFaHdQTWlla0dnU0M5VjZNNExreldENHZwSFVPbnBacmRqNFQzcVh5WnI?oc=5",
       "source": "PressTV",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "bfd5c5e50546"
-    },
-    {
-      "title": "Russia strikes Ukraine with 154 drones overnight - 9 locations hit - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3l6M093dXcyR3Zfb2s1Tk9qNi1ZbkJNeFR3UzJ4U2hFY0Q1RF9zU1BuQzFJbUN6OUhmazdCSjVLaDBPa3RUS1BWZlVydF9XUlZGR3VnN0xXZHZneWgzaGpDNG1ybTEtRWQxZGNXTXdMdnB4RWRxNFA4d2t0REszWW5fTU5CaGdpbU1QNEdmcGVzbXEycERaWmhOZlc?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-09-26T05:31:01+00:00",
-      "description": "Russia strikes Ukraine with 154 drones overnight - 9 locations hit  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-26T06:08:01.534189+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b5e6ba1103fb"
-    },
-    {
-      "title": "Airport drone sightings: What we know, why it's dangerous, and can they be stopped? - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVd0YVVjVDVpcks3MUlUWG1GTDFaaXBrMFF2clZpMVJ4NjJaWDBsUHBCTXFHMVdidkd0VjZjamFwTkhKZ2w2WmlLWjRUeGxld2h3Y01mQy04Y2ZQSFFrQVh4N1JWcjJrYy1oRGFCUjJoZTFOaldzeEdHSHFrR2todndCUWZvX09qSXRvSmdtUUxSaUd4X2RYUkxEa1NKLXVuUV9VdFlGSzQ2TXYxWDFHNnc5T24?oc=5",
-      "source": "Sky News",
-      "date": "2025-09-26T00:11:15+00:00",
-      "description": "Airport drone sightings: What we know, why it's dangerous, and can they be stopped?  Sky News",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-26T06:07:59.098976+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "258ba3c82440"
-    },
-    {
-      "title": "Drone attacks leave Denmark exposed - and searching for response - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMdDBSVHlDYmk3TzdQYTAxU1pGUF8tc2RDRFhwMTJIelM5aERWRS0zU3RzVGx1VW5xMTdTZ1FTVEd2Uk5KOW5sUHJZZUJSdkc1cG84ekdEd25oUdIBX0FVX3lxTE1IcmotejFaVkpOc096NTZUYU5WVkM3Y1AxT2p6Z3NHeGhoU0x4S3FDcTFGb2tEZVBWTDc5MVM5eHY1T0dlVUlkVENlU0J6cGIySHNZWnlwNTFsZWljbUw4?oc=5",
-      "source": "BBC",
-      "date": "2025-09-26T04:38:35+00:00",
-      "description": "Drone attacks leave Denmark exposed - and searching for response  BBC",
-      "query": "drone incident",
-      "detected_at": "2025-09-26T06:07:56.783721+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "86f180567b66"
-    },
-    {
-      "title": "'Hybrid attacks': What Denmark revealed about drone & disruption at airports; Russia denies involvement - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQblFKVXY2NHlsSEFCYkpXTldzNVlwazZfUHFWcVFDaTNiZFlzbHhZS0ZFM0tWRzZWbDlzRHJlWlc4ZndTSzlsejB4V3ktLTBZaXJrTEtDUUp0Qk9RNS0tb3FYRWJlMlNvWlVMU0FkNzRhYnByckNiNTVKWWdtcE5INDFWZHNLQUE4R2pvREFQMUlmeGYtbjFoN3JIb3U2T19MdmZPeTRpRVNEWGppeGJrRmYzZG85ckxHUWYzYTJjUndtckdfRk9OSEdUU1BjSjBWUTJWenlyalYxaERYRVpkTk14UGFnaFdzT2dQZEQwdi1vd3AwVFdGNUtvcFZnZ2ZtRWfSAYcCQVVfeXFMUHlkRzlWcGR0cGtWaGtWUnlfS1NGV3NrTlI3WnZMM0dpZlp2aTVMa1JJYU9YQkhQUmE0aF81QWl4bWhpNjBhMi04YmU3WllNMkdidVdKZThiWk1zZDZHNFZVVmRicVVQQS00d1hvMTZUamNocm5pbEpubF91NWxPVW1JTVZLZ2NRSE1XNjYxNHFJMFFNRXlPUXpSQ0kySk5aOXpDSUUxQ3Zldkp6d0I4R0hCMzdYWFNoNHEwY0FtRlh1ejE2TURTRGVGLW5QWG9VZnZUcXMtanIyeFVnald5b1hkWC0xYnczblJZTGJNSlI1UEZmTUwxLXNBd1MzYTN5UWNXLXQxeFU?oc=5",
-      "source": "Times of India",
-      "date": "2025-09-26T01:19:00+00:00",
-      "description": "'Hybrid attacks': What Denmark revealed about drone & disruption at airports; Russia denies involvement  Times of India",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-26T05:05:41.362008+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1cd2e0da3406"
     }
   ],
-  "last_updated": "2025-10-27T17:05:19.365012+00:00",
+  "last_updated": "2025-10-27T18:07:48.359735+00:00",
   "total_count": 1000
 }
