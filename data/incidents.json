@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Can you shoot down a drone hovering over your property in Vermont? What the law says - Burlington Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcjNNencxcHBpRWRuRV9WQU9UaFJqenJBV1N2dFRGUTF0bzkzSnIwUFRZQzEta0lnbTB0SEVoeWVUanQ3M0xkOHNBcHZiWnJOMXgyU0FCWTRTa3hyREVMNWlqQ3RVSWNfR0REUE43NEVvak9lcEJQb3FNdXVEdzFGeVpfRzhyVFdjVjNBUWVQbmlrUU5HN2YtWnZ0RXZ4a3lIQk5OazFPQ0V4aXBYaVAwWExJQXF1XzJTbjBNV3dTcy01NWtSTWg5YVhER2xPWXFLenZv?oc=5",
+      "source": "Burlington Free Press",
+      "date": "2025-10-27T06:11:32+00:00",
+      "description": "Can you shoot down a drone hovering over your property in Vermont? What the law says  Burlington Free Press",
+      "query": "drone illegal",
+      "detected_at": "2025-10-27T07:06:26.469137+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b88e96f5cd27"
+    },
+    {
+      "title": "BSF foils major drug smuggling attempt, recovers 5.3 kg heroin dropped by Pakistani drone in Jammu - WION",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdWtZSHppTXBwUHNXYXhodDhWNXZKNjM4cDRZQWxVMTZ6d3ZFVjVYT2pzVEdheXNnWTFlUHg3OFNHVHJ4eEpzN2J3YUVKd3NQV2R5V2ZLYzRTM0UzamJHSjFnRDk2TUZ1bk5EZkpTLWhiRkdyR1RuYmVhVWo4WTRDTE94Y29UWkMtV2F1LUxFeGwxWkljNGlfV2ZCbTlOY3dPYU1Zb1RNelpJZnVmR3hmM3pybWhLUXZ6QUlxN1pJT1UzSXdReHBSWE9SOHllYnhKb3dtYkptQkRJUGpHWldV0gHkAUFVX3lxTE1tUUxBanVnZjk5ZmR1U0xwYzFfdDktakdlOUx0dGdNVm5YczViOGZ0TFN6TC1Tclp3c2hFX3NQc1ZYVmFnYkM5V2dMY1JOZmJlc29wdXFFY2g0a2dKMFU4UktrZkZWbndMSlJuZWxLa2hqVENyVjA4V3lKTEY1TkxjbnBQSlRzU2tHNGJJcHFndjZkb05tUWhIMnRPcnpIRk1JdndjLTM1dUtZbkROTVJyUmlXdnhsTXJFZ2M3M0RyeHRuSlA4ZF9XRWNhanM2RXBzMmZDc0l4QmlwLXFacV9DZ25RQQ?oc=5",
+      "source": "WION",
+      "date": "2025-10-27T06:47:00+00:00",
+      "description": "BSF foils major drug smuggling attempt, recovers 5.3 kg heroin dropped by Pakistani drone in Jammu  WION",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-27T07:06:23.714617+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a3e79d5f28db"
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,341 - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWZzSWxRWUl6STJVZjJGbFFJUUdPaUdCdkh6UGlwdmlqSUh0eWNSVFZJZEhUa3U4a2NjV29xNmdMQmZzTVhMa2hOaVZNOVdLT0lBQThabDBvVXBXcS1mM0RMNVRIaWdYV1VZNUp0LUctWm1fdldoZ3QyZGxiZ1JJUkgtV004bkdhQy1IWnllWllSQdIBlwFBVV95cUxQZm5rS1NLWXBKcFNyNXMxQUNLQjhreEdGeDhkWjBRMjZiZ1hfaWpOY2lBODcyQXJuc3VwUGk0X2V5Si1QcEhSaWRZcXc1dHM5QWtPNThIUG9VMjVtTXBtVmdxV0RZeUJKdk1od0F4VF9qYm54ZXpBbkdDMk9LNmdEV2RsNy1ZVEZ1X2xnS3plQWhFYnprZ2k0?oc=5",
+      "source": "Al Jazeera",
+      "date": "2025-10-27T01:07:30+00:00",
+      "description": "Russia-Ukraine war: List of key events, day 1,341  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2025-10-27T07:06:22.465702+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "39a652da700f"
+    },
+    {
       "title": "Israeli drone crashes in eastern Lebanon; wreckage destroyed by another - ABNA English",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOank1T0JJNWxuWXUydXlQYmRmU2NPT21zMV9rSkEtSHN2c3BlV2pmckVjNjVSWktzMzJjSHFZdU91YXM4T0wybjlhYmNueWRfeXljaVBHVEtXdEc0d0FZRW44YWlZUXktRkYzUTJhMlRieWtBSVhPZnpOdWh6SjR0a0lYeWxDMUJYWm1VV3U2RmlJZUl4NWg5bDlB?oc=5",
       "source": "ABNA English",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6795e1c06f29"
-    },
-    {
-      "title": "Amid drone attacks, activists confront fear and hope on Gaza flotilla - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPek05bWN1LUg4eU1jeHY5TENhdTBweXl1bmNiNFNfbTZ2RXlmZjF1REJkbXc0WDVVOEVBZWhLNzlURThzVGFzNkI0QmhrdjE2SmlGbmJVNUh0LXJZeWFoNDliV3ZEejJ1dmJIU0MzSWJfLS1jSUo1RkJ5QmhjeS0ySkZKdFM2d18xeVMwSDZsQ2Vvdw?oc=5",
-      "source": "Yahoo",
-      "date": "2025-09-25T17:14:21+00:00",
-      "description": "Amid drone attacks, activists confront fear and hope on Gaza flotilla  Yahoo",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-25T19:05:11.095429+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ab9ceb88e5e2"
-    },
-    {
-      "title": "Israel strikes Yemen a day after Eilat drone attack - Cleveland Jewish News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHQxa3VLU0h5OVctR3hkYUdWZ2lsa29MTEVSRkNyNnJBTmVNdlFxU0dwY0VEalpPU1BRNUZiWlZ2NTdCclMwRFM4VTBpNk1uZDVRM05walJYdmllOUZMY1VqNUd5dU10bFFUMEI3aGtpWHBoRkpqOFdhZGprZDRMTnNMbGh0XzluR29KajBSbVBjV3VCbHJaVlVLNFpHcEdiNWpZSXZEazZUWGhSU0JteFZYb2FmbTFGb2IyRE1pQ2M1ZjJfcnZGSlBXM0pVSE02TFRZeEVQRFI?oc=5",
-      "source": "Cleveland Jewish News",
-      "date": "2025-09-25T13:36:58+00:00",
-      "description": "Israel strikes Yemen a day after Eilat drone attack  Cleveland Jewish News",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-25T19:05:11.095429+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "99ef61c1b47e"
-    },
-    {
-      "title": "Drones at Danish airports part of ‘systemic’ attack - The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFQwQl9LX1d4aGg3VWpXTXdHaTR0VV9UQ3dESWZXbVZuVFBlM3JOcDJoY2RBQXNIQ1F5RWExV25NWS00XzV2MXJkbncxRWRGdlBLTXhBeklQZ2EySkpCODF1WHJabTBjeVJoVmRyMzJyQ2ZRc0wtYTJ4SG82RjdIV0lNSVRPVDdmaDhLMnk2VU9rVW00UlNTZWZqZTRzaXBObUFmeXhQbmhUMDA?oc=5",
-      "source": "The Irish Times",
-      "date": "2025-09-25T17:03:45+00:00",
-      "description": "Drones at Danish airports part of ‘systemic’ attack  The Irish Times",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-25T19:05:08.492956+00:00",
-      "location": "at Danish airport",
-      "category": "airport",
-      "id": "67e6132aff19"
     }
   ],
-  "last_updated": "2025-10-27T06:08:46.579675+00:00",
+  "last_updated": "2025-10-27T07:06:28.752680+00:00",
   "total_count": 1000
 }
