@@ -1,0 +1,121 @@
+{
+  "narrative_summary": "In the past 48 hours, a surge of drone-related incidents has been observed across various categories, including smuggling, crashes, and arrests. Notably, Israeli forces thwarted multiple smuggling attempts of weapons and drugs across borders, predominantly linked to activities originating from Egypt and Pakistan. The use of drones for illicit drug transportation remains a significant concern, highlighting the complexities of border security in affected regions. Additionally, there have been several cases of drone crashes, particularly involving Israeli drones in conflict areas, indicating ongoing military tensions. The legal implications surrounding unauthorized drone flights continue to be a topic of interest, particularly in the U.S., as states explore their ability to regulate drone activities on private property. Overall, the incidents reflect a broader theme of escalating drone-related challenges, particularly in cross-border areas and conflict zones.",
+  "totals": {
+    "smuggling": 5,
+    "terrorism": 2,
+    "crash": 3,
+    "arrest": 2,
+    "other": 15,
+    "drone illegal": 6,
+    "drone incident": 5,
+    "total_incidents": 37,
+    "by_category": {
+      "airport": 2,
+      "arrest": 2,
+      "crash": 4,
+      "other": 18,
+      "smuggling": 10,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 3,
+      "drone crash": 4,
+      "drone illegal": 11,
+      "drone incident": 4,
+      "drone smuggling": 8,
+      "drone terrorism": 5,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Border Security and Drug Smuggling",
+      "rationale": "The increasing use of drones for smuggling narcotics across borders highlights significant security gaps.",
+      "incident_ids": [
+        "6dd0a1634f8c",
+        "85f2e183fb33",
+        "080dc9412a98",
+        "a3e79d5f28db",
+        "ced737386172"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Military Operations",
+      "rationale": "Frequent drone crashes during military operations reflect ongoing tensions in conflict areas.",
+      "incident_ids": [
+        "2e325afbc44d",
+        "f653e2cffeeb",
+        "f171f6d57fe8"
+      ]
+    },
+    {
+      "topic": "Legal Framework Surrounding Drones",
+      "rationale": "The increasing focus on legal measures regarding drone usage signifies a need for regulatory clarity.",
+      "incident_ids": [
+        "0ba27fa3f5f1",
+        "9471f0778089",
+        "693002f9d38e",
+        "39a652da700f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6dd0a1634f8c",
+      "headline": "IDF thwarts attempt to smuggle weapons from Egypt using drone",
+      "one_sentence": "Israeli forces successfully intercepted a drone attempting to smuggle weapons from Egypt.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "85f2e183fb33",
+      "headline": "Israeli forces intercept drone smuggling arms across western border",
+      "one_sentence": "Another drone smuggling arms across Israel's western border was intercepted by Israeli forces.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "04dec4feadf6",
+      "headline": "The Drone Threat: From the Skies of Munich to Israel’s Negev",
+      "one_sentence": "In-depth analysis addresses the evolving drone threats in conflict zones, especially in Israel.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "2e325afbc44d",
+      "headline": "Israeli drone crashes in eastern Lebanon; wreckage destroyed by another",
+      "one_sentence": "An Israeli drone crashed in eastern Lebanon, with its wreckage subsequently destroyed.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "a3e79d5f28db",
+      "headline": "BSF foils major drug smuggling attempt, recovers 5.3 kg heroin dropped by Pakistani drone in Jammu",
+      "one_sentence": "Security forces in Jammu thwarted a significant drug smuggling attempt involving a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone-related incidents with notable cases of smuggling, crashes, and legal discussions in the last 48 hours.",
+    "linkedin": "Recent developments show a significant increase in drone incidents, including smuggling and crashes, raising urgent legal and security implications."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-27"
+}
