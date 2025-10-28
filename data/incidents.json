@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "UN peacekeepers shoot down Israeli drone amid tensions in Lebanon - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTNHNDFULTl4bHhtN05fUWlfdHo4N0VZWmh1N1JjbHMzMkhsOW82NWtyY3Z1aEZBc3JldDNjcnNYLTZiU01oX2FPanAweGxtckFsR0pNRVpESlEteEhkWU5uMlRxS3RQRzBRNXRLS2JHZGhDNnJiNVlUOW1vNHRtUFpIOHNaS1dMWkFTbTdwN1FuUVEyRU92MG1ScDMzSFNl?oc=5",
+      "source": "The Independent",
+      "date": "2025-10-28T10:36:00+00:00",
+      "description": "UN peacekeepers shoot down Israeli drone amid tensions in Lebanon  The Independent",
+      "query": "drone incident",
+      "detected_at": "2025-10-28T11:04:57.495585+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e6d4080b0fb2"
+    },
+    {
+      "title": "France told UNIFIL to shoot down Israeli drone in Lebanon - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZG9QZmpqTEdwVnROLWtyZ0RDWndIa3BDZmpYLVNKN0k0M193Vk5hRVYwa0t6RlJQNFZKQmlSd3diWktuTUdSMk1jRm9TTjYxcVJ1eUtCTERGMEN2?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-10-28T09:47:44+00:00",
+      "description": "France told UNIFIL to shoot down Israeli drone in Lebanon  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2025-10-28T11:04:57.495585+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1591beaa6857"
+    },
+    {
       "title": "Mystery drone sparks travel chaos at Brit holiday hotspot as flights grounded - The Sun",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORWlnT094dFhxZFFkN3RLV3FjWklxWGRfVnZfVXpNRkVDVlNza2k5ZzhZLXlzY2FOTFBnNm5pVW53UFpnY1AtTEgxb2xrTlBfalNQMjdrV05Uc08zVk5yTzczWXg3enR4QWRRMk9ZaW41dXl4Sy1rRVpXc2FMNGc2Q1p6eTJWWWpDbWZrOFprcjhQSmNyMTRsOQ?oc=5",
       "source": "The Sun",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "765a9eb45b1e"
-    },
-    {
-      "title": "BSF opens drone warfare school in Tekanpur - Awaz The Voice",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVpNa1lnbVBoQ3ltZlhBR0ZoY0ZzODVJZHkyWUVPb0tUdEhGLTZJNEpncGNSU1FUVXRQM210cG1URzNUcGJLZnZSTlZKVWJfZS11SUgybnh6Z2o4SkdTb19PbmpMRERXUnE1UE55X1ZKSlVRRFFRLThjcUZqcGRaZHM5SGIzUGF5WGI2QjZ1X1MzUWFJa1pCNmo5UzRBSXdpcTYzNUFONHFud0ZfUGlDdWkwQk83QXEwMklPWg?oc=5",
-      "source": "Awaz The Voice",
-      "date": "2025-09-26T10:41:44+00:00",
-      "description": "BSF opens drone warfare school in Tekanpur  Awaz The Voice",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-26T11:05:08.546708+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eb90c84c7091"
-    },
-    {
-      "title": "BSF opens drone warfare school in Tekanpur - Awaz The Voice",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVpNa1lnbVBoQ3ltZlhBR0ZoY0ZzODVJZHkyWUVPb0tUdEhGLTZJNEpncGNSU1FUVXRQM210cG1URzNUcGJLZnZSTlZKVWJfZS11SUgybnh6Z2o4SkdTb19PbmpMRERXUnE1UE55X1ZKSlVRRFFRLThjcUZqcGRaZHM5SGIzUGF5WGI2QjZ1X1MzUWFJa1pCNmo5UzRBSXdpcTYzNUFONHFud0ZfUGlDdWkwQk83QXEwMklPWg?oc=5",
-      "source": "Awaz The Voice",
-      "date": "2025-09-26T09:42:09+00:00",
-      "description": "BSF opens drone warfare school in Tekanpur  Awaz The Voice",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-26T10:05:46.271026+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2d5cd4342394"
     }
   ],
-  "last_updated": "2025-10-28T10:06:15.185746+00:00",
+  "last_updated": "2025-10-28T11:05:03.582282+00:00",
   "total_count": 1000
 }
