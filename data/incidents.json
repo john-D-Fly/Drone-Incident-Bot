@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Mystery drone sparks travel chaos at Brit holiday hotspot as flights grounded - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORWlnT094dFhxZFFkN3RLV3FjWklxWGRfVnZfVXpNRkVDVlNza2k5ZzhZLXlzY2FOTFBnNm5pVW53UFpnY1AtTEgxb2xrTlBfalNQMjdrV05Uc08zVk5yTzczWXg3enR4QWRRMk9ZaW41dXl4Sy1rRVpXc2FMNGc2Q1p6eTJWWWpDbWZrOFprcjhQSmNyMTRsOQ?oc=5",
+      "source": "The Sun",
+      "date": "2025-10-27T22:00:00+00:00",
+      "description": "Mystery drone sparks travel chaos at Brit holiday hotspot as flights grounded  The Sun",
+      "query": "drone airport disruption",
+      "detected_at": "2025-10-28T10:06:11.799985+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "118f8291c384"
+    },
+    {
+      "title": "IDF drone captures Hamas terrorists removing hostage's body, burying it, then calling Red Cross - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TbUxFaFVjS2hJRDh4VFZiSjQ4VWQ5ODBNeWZRUk1uVW1Rb0NoODd4NWpXaE5nT1BFX1JkNkNWcTBMUmNCZTRudl9aSVd2YVFGN0RmS1ZPOA?oc=5",
+      "source": "Ynetnews",
+      "date": "2025-10-28T09:11:10+00:00",
+      "description": "IDF drone captures Hamas terrorists removing hostage's body, burying it, then calling Red Cross  Ynetnews",
+      "query": "drone incident",
+      "detected_at": "2025-10-28T10:06:09.254733+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "b471e752500a"
+    },
+    {
       "title": "Alicante Airport closed after drone sighting - Gamereactor UK",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcll3WnBzMHhmSllvMC16VFh6Yzk2WTJUWmd3SEhCQU5MeVNvSmFpMTQxTDlJN1NvM3hycmU5NldCZ1Vja2JJcEF6Mi16bFVQRHhSQS1xRml2S2hRRlRTLXZBOVNJVHM2dWRoYWYxU1BSVEhJSUdKTnJjY3pVNmV2TG5GSFpLSlU?oc=5",
       "source": "Gamereactor UK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2d5cd4342394"
-    },
-    {
-      "title": "County makes second arrest in one week using new drone - Capitol City Now",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXZ0ejhWYkh4TzM2RmhabWxUbmJ4ellydUo4X01Nd3dZalNNZEhxRHhjR0ltaEpkSHp2RUx1dXNxaFk2NC1JUC1mXzVaUlBwN2MwYUFCaTBDdGhKRmJYY0ctNE9HTXdNMUQ4UTBjc2t4OC1jeW40djh0ZDdrSU1kaGFEMGo5bW4xZDFzcUQzelE4bDJ4QzAyR1F3?oc=5",
-      "source": "Capitol City Now",
-      "date": "2025-09-26T05:26:09+00:00",
-      "description": "County makes second arrest in one week using new drone  Capitol City Now",
-      "query": "drone arrest",
-      "detected_at": "2025-09-26T10:05:45.658709+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "ff3d66bd37f7"
-    },
-    {
-      "title": "Denmark Airports Face Major Interruptions As Drone Sightings Lead To Sudden Shutdowns At Copenhagen and Aalborg: Here’s Everything You Need to Know - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWTRTdWF3bFRFLUV3M01xcXZFaFhoTkZMeGtoZUJFOWViNHJubUttVExZS1Z2UWd6eXpybmZYR1dlMHNuTG5OZUttSHQ1d3VYb2lEdjg0Ymt6QVJ5UnRmVm5UMEpZRGRsTVk5THJTX1V2Q25pRnczS2ptbnQ4eVVjZzhuZXo5elVoT2xHSXU3T1VDeUZjQjQySFM1VVVmRlFqbnh0NUVfTm1QekNfRE11VTBrZHNudXFVb3QyYm8xbzhFRVVwQU1zdnFaMmZrV0toQk9tMnRTTDdhd3g3RHZHMjlza0xGbEhzcjduQjlIb1Z2UWZCUjhHcVFZRWk2X2tKTTBaUkJjblNNUGF3a01lVEp5a0pIQUdPd0lqckVqTQ?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-09-26T08:19:54+00:00",
-      "description": "Denmark Airports Face Major Interruptions As Drone Sightings Lead To Sudden Shutdowns At Copenhagen and Aalborg: Here’s Everything You Need to Know  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-26T09:06:14.655890+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "575e0090db05"
     }
   ],
-  "last_updated": "2025-10-28T09:06:00.437834+00:00",
+  "last_updated": "2025-10-28T10:06:15.185746+00:00",
   "total_count": 1000
 }
