@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "DroneShield Partners with SRI Group to Combat Rising Airport Drone Threats - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlc2aXphVkgzc3d5YXl0c0FJbDVQSE5DdE15Q2Y3NDlXaFZ6eGtWSUFBMU9reWp5MzVFaHpxSUplUXBQX2ctNGxjT2czdGpjRVpicTNkRVlhVHBJUktubmFVWlNudHR3YWxqdENwcGt0WHl0ZmJ2MWRGandrcXhEOU5LLUhDWkJRaXUtWW9feDg5WmRMdlNDdElPdkpjam1LOGZXMlV1bl9EX25FSWZEbW5B0gGyAUFVX3lxTE9iVzZpemFWSDNzd3lheXRzQUlsNVBITkN0TXlDZjc0OVdoVnp4a1ZJQUExT2t5ankzNUVoenFJSmVRcFBfZy00bGNPZzN0amNFWmJxM2RFWWFUcElSS25uYVVaU250dHdhbGp0Q3Bwa3RYeXRmYnYxZEZqd2txeEQ5TkstSENaQlFpdS1Zb194ODlaZEx2U0N0SU92SmNqbUs4ZlcyVXVuX0RfbkVJZkRtbkE?oc=5",
+      "source": "Dronelife",
+      "date": "2025-10-27T17:47:40+00:00",
+      "description": "DroneShield Partners with SRI Group to Combat Rising Airport Drone Threats  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2025-10-28T14:05:46.791080+00:00",
+      "location": "at Rising Airport",
+      "category": "airport",
+      "id": "c174aaccd9b3"
+    },
+    {
       "title": "Drone Disruption: Spanish Airport Temporarily Closed - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1F0RHBQMDM4VWEyRGs4U3FtU1d5NFlWZldBM2xQQ3JBYkczdDRlN2NZN1JCY3VuZXNobHpVb2dZNkZSUEx0V2tval9oU29RdEk1aHVmVnR4emVnc1k0bHA3UFBzU3hhc0NNWG01d3hENTdHZFBPZXZKVnlZcnNMeUVSLTR5M3kyaGtSUjgzbVFBdDQwXzY3RXFEd0VqX3lrbG9OcDFDSHjSAa4BQVVfeXFMUEhNdFp6LWh3MEVRY3BPOHVseWU4ZGs2T0J3TElKZTEzVjN2UHRpdndQVUYyMUZTRWRFQzZhN3hrT1ZUQUpoLVBiZVR0S2xiTDFBV2FNQURENUk4T1FhbVZnQlJQdXM5UFdyYU5PXzBrc19vTzJTd2FqRG9ZVE9LM19fR1VSSWhRNlh1ZnFIYy1PM0QzaGtvNkx3TW1UZ3RMY0tpdWdrZnA2M2V1ZV9n?oc=5",
       "source": "Devdiscourse",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "38e7d5bb1d46"
-    },
-    {
-      "title": "BSF opens drone warfare school in Tekanpur - Awaz The Voice",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVpNa1lnbVBoQ3ltZlhBR0ZoY0ZzODVJZHkyWUVPb0tUdEhGLTZJNEpncGNSU1FUVXRQM210cG1URzNUcGJLZnZSTlZKVWJfZS11SUgybnh6Z2o4SkdTb19PbmpMRERXUnE1UE55X1ZKSlVRRFFRLThjcUZqcGRaZHM5SGIzUGF5WGI2QjZ1X1MzUWFJa1pCNmo5UzRBSXdpcTYzNUFONHFud0ZfUGlDdWkwQk83QXEwMklPWg?oc=5",
-      "source": "Awaz The Voice",
-      "date": "2025-09-26T11:41:30+00:00",
-      "description": "BSF opens drone warfare school in Tekanpur  Awaz The Voice",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-26T12:08:52.628746+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ad57a9908751"
     }
   ],
-  "last_updated": "2025-10-28T13:13:34.360309+00:00",
+  "last_updated": "2025-10-28T14:05:47.431669+00:00",
   "total_count": 1000
 }
