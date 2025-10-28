@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Clinton Twp. police use drone to track down fleeing car theft suspect - Macomb Daily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEVnS25pdDlIUzQ4ckFBaFZBSzlyQ0o0cFEzVUxJNmpDM3hWNWVzemFWUFNabU5TbzBQOXJDZWNZU0tHSmc0RktPMGVSaW1XNjh0dDJmcXB3TE5lNlV3cmYxZmlDcEItNGZ6ZGxJcmxiZjdRTTI5SGRMV2xneUhkQU0wcDdnR2JPQlh5MS1BZzlXa1h0NzJjZG9WWWhFSHYxdUdpbWc4b2JadlA1?oc=5",
+      "source": "Macomb Daily",
+      "date": "2025-10-28T19:37:04+00:00",
+      "description": "Clinton Twp. police use drone to track down fleeing car theft suspect  Macomb Daily",
+      "query": "drone arrest",
+      "detected_at": "2025-10-28T20:06:00.620890+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e33a3e4e1518"
+    },
+    {
+      "title": "Deputies arrest Florence man after standoff with armored vehicle and drone - KMTR",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOel9JYVIwWFd5cTFjaFdEXzJERXlqendzWXo4WWpVOFl6QUVlVjF5T09XM01MN01yYjhtV3h1SzRickpmSTJfclNlVHMyYU1GUF9MSDZKUDZWNXl5cDR5QjRINDZUOE92YXNpTlNTSi1BaW9qdlU5ODFBUFQxQ25mYUlwUUI0NEdUUjZETXV1c1BRQmJMaWZWVUNVQl9CVzUyMk9mNTV4amJKU1BJc2s3YXJyQjJaLS0zWHpqOWFfc2tQaGFoQnJYUGkwT19nUmdYS2FTcQ?oc=5",
+      "source": "KMTR",
+      "date": "2025-10-28T16:38:01+00:00",
+      "description": "Deputies arrest Florence man after standoff with armored vehicle and drone  KMTR",
+      "query": "drone arrest",
+      "detected_at": "2025-10-28T20:06:00.620890+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4536687ce515"
+    },
+    {
+      "title": "A drone sighting closes a popular Spanish airport for 2 hours - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTdybFJZaUFoVGtsTk5jcUFBdjZBZGszTzc2b0E5M3dPUUpkWEwzMnhaSlJuWjg2X1ZFanQ0cGJZTy1PY3hJZjU0a3BTSk9vV2hXUkxrTXFtemJyTGdzVGJ0M1BnUlFkcFRtWDQzVExxb1dYbXlmZUNfQlBPdk05TERyMDNlb2owMmFHRXRRd1VaTEEzdkYyYTR5S3lhUU9EYmNOdnN5b3hFYVg5QXpZ0gG0AUFVX3lxTE1LaVdTeVhtaFpSSWdrSjVWWkJybl9oMHNBaE9YaTVwYkdaRG81TWFjeTBiQWpTRXJaVGtrNVRwanM4RFA3eWJld0M2MU0yNEQ0WTBTU1FGNzBRSEgzZUZqZWlPTVZZLUhBWVNibFlBWTI2dDRWaVVObDM2aTZlT0pGTjFINEdJeExXTENNbU9OVmpyYVQyUnZoVFRvY2JTNW53MnRqVS1Zenl4MUllZ0xwTHlocA?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2025-10-28T12:08:35+00:00",
+      "description": "A drone sighting closes a popular Spanish airport for 2 hours  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2025-10-28T20:05:59.770738+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "b3031a276cd3"
+    },
+    {
       "title": "Israeli forces intercept drone smuggling arms across Egyptian border - jns.org",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWxJUjhfYmh0SkNiM0JDR1I0RjQyNnYyNUY3bnV2YU1qbzhlSTF3TW5aX3c2a19hQlhRRUtVYTdYTTlVZWRES0l2UlVkM3N1VVJtVXE4N0htZmMtZzc2djUyTzBJaElkbDJWTnJMcFV0UTgtX0tpOVVxeVdLUzJNSEZMQVlTQkQwYjRvamNGLXJuNndBWTF3OQ?oc=5",
       "source": "jns.org",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "81d024313076"
-    },
-    {
-      "title": "Drone Team assists in second burglary arrest in one week - Springfield Herald News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDZPbklhZXpqcGdPcUVKSW5EVlZtaW1RZ3BPNDJNTkF1RjdleGJaaU54elpVRWtPWkN5bFFQWnJvb2NueXpkTEdSS0plbUVxQWtRVDV2TGZPbUlqU1N2dE1mc0VITkdaNTVIbGhjOTFHNUVjSUlkNjBRejNUQW1GSm9FVVpobW9VTEN4YkkzWWpkUENSQS03TWpwTG5FVkNMWllWMg?oc=5",
-      "source": "Springfield Herald News",
-      "date": "2025-09-25T21:11:19+00:00",
-      "description": "Drone Team assists in second burglary arrest in one week  Springfield Herald News",
-      "query": "drone arrest",
-      "detected_at": "2025-09-26T16:06:09.781213+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "2e599c6c4079"
-    },
-    {
-      "title": "Sheriff's drone team aids in arrest of burglary suspect in Illinois - WICS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVkwbVAyYUo2bWQ2aTJjaXNkUnJNaHRFUnljZDhab0dYb3JMb21CZXo2cExIT21JNjh1N2NkekxYVFFtd0Uyb2VzaGpQOEE3YnV2Ylo1OFIwYVlJSW5tLVo5Q01FMm9EWnV4cjZXYnRjdjdxSFRpZkxCSHRVdi14V2RFUmdpVWpwR01LWFBsaWxaMC1TSzlFWWd1MjZGRG94c1l6WG1B?oc=5",
-      "source": "WICS",
-      "date": "2025-09-25T16:44:29+00:00",
-      "description": "Sheriff's drone team aids in arrest of burglary suspect in Illinois  WICS",
-      "query": "drone arrest",
-      "detected_at": "2025-09-26T16:06:09.781213+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "3b59527b9a16"
-    },
-    {
-      "title": "Pakistan, Russia conduct counter-terror exercise focusing on drone warfare - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82UERzX2YyUzFxR01IMy1LbkVNZ2d1N3VCb1VjVEdQSnpmVk5YZEtFNGhmMGRkcHpsVDBjbktNUmFDR0p5UUJDZWZZRzNhakZuaW5ENmNRVUc?oc=5",
-      "source": "Arab News PK",
-      "date": "2025-09-26T14:15:04+00:00",
-      "description": "Pakistan, Russia conduct counter-terror exercise focusing on drone warfare  Arab News PK",
-      "query": "drone terrorism",
-      "detected_at": "2025-09-26T15:05:49.911914+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "bf168808ac9d"
     }
   ],
-  "last_updated": "2025-10-28T19:05:13.359919+00:00",
+  "last_updated": "2025-10-28T20:06:07.161094+00:00",
   "total_count": 1000
 }
