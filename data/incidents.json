@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Israeli military seizes weapons smuggled from Egypt - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WX19BMWt0TElQcU50LVViZEhMSGNtZzVKTkJma1NnclVCU2lkeVRPME5lRl9CWVB2QVFNWGhOVjhVLWRNUzlGOTR5cXlwV0JZYldOS2ZZZ1VCeDZ6cHY2UjFoWUFtVk95XzU3T0FR?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-10-29T11:27:35+00:00",
+      "description": "Israeli military seizes weapons smuggled from Egypt  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2025-10-29T12:09:19.545094+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c12b0179646b"
+    },
+    {
+      "title": "Drones spotted over military base in Belgium - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb25lUW5HUTBqOFFVQm9ybnJ2RzFSNER0aER2Smc4Y3Jpc1JNa005Nko3OWE0a0NHbkZCQWV5RDFlenZYZDNOaXE4U2xkZ01JcHp2ZWFmUi00eGVfLTk1UTR5NlMtOTgwQ0ZDMVJoQXE1Q3ZUMTFQTUgwdkM5WFlzaUt2S3dhQXpINWFIbQ?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2025-10-29T10:09:31+00:00",
+      "description": "Drones spotted over military base in Belgium  Anadolu Ajansı",
+      "query": "drone incident",
+      "detected_at": "2025-10-29T12:09:18.180356+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8db738039563"
+    },
+    {
       "title": "Russia massively strikes Ukraine's Chuhuiv with drones - Warehouse destroyed - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0ZoVWRSUHhGUjI1WGdVZUUxb1lXelBzWkE3TkZTeVpKU3hPUFd1TjFBUnBVQUxTZVc3c19mM3V6Tjl0SEZqTnNVM0F3dkdVY01XNXMyQl81dmozZG9XQ2FDNGZ4ejI0eU03UXlXLVJUZGV4My1GQWpOX0JScG01T2hmTlpTRXlwVmdLWUJWTF9JVFRT?oc=5",
       "source": "RBC-Ukraine",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "eea279d60489"
-    },
-    {
-      "title": "Drone Disruptions Delay Flights at Vilnius Airport Amid Stricter Regulations - Букви",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEVkVkVfWkpUcm1vcUdvdm5OMUdyd2gxQ0poOUo0S0lsZGZNNFlRVzlUMGxabzJRdjh4M2l6X1cwWVFSd1p2STZOSkwxUTRuenNZY3MwWE9QMjUyLTVYVkRqQ2E0ZGNwT295UEdzN29McUxGU2FoNHBjVW5mLVh5U1VuUXRFVzVya05qLWtzcmJZdGVYekhrZlNwVDNCMEVzWlcza1BoS1M?oc=5",
-      "source": "Букви",
-      "date": "2025-09-27T09:21:42+00:00",
-      "description": "Drone Disruptions Delay Flights at Vilnius Airport Amid Stricter Regulations  Букви",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-27T10:04:55.831388+00:00",
-      "location": "at Vilnius Airport",
-      "category": "airport",
-      "id": "4d940aad8f9b"
-    },
-    {
-      "title": "Eyes in the sky: Drone helps find dog after car crash - Watertown Daily Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRzFxSnEyWlhadXR4OWxyOHA2TzRiaThWYi1qdnNJckVVMGoxb0JGUjBvZGo2UlJGNy0wSm1lSExUVnZqYkx0OWJqdGNsS3FndXVpcjdLdEFJdVJ4WU9zUGlRVG44V1JwVHRWQVZvbG56NmRlS3lZVjVxa0l2R3ZMTFNhVGtUX3JUb1FGVnNZUTRIVl9NNnRJc2JXVEM4ZGdKbnFvbWxocjUtLS1hdGxSU3U5QkV4Nk9ibWUtT2hUZl95bjBEMFFzN1JFRGdhT24wWGdGSk9kZ2xlQQ?oc=5",
-      "source": "Watertown Daily Times",
-      "date": "2025-09-27T04:15:00+00:00",
-      "description": "Eyes in the sky: Drone helps find dog after car crash  Watertown Daily Times",
-      "query": "drone crash",
-      "detected_at": "2025-09-27T05:05:15.837415+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f1737ffc7a71"
     }
   ],
-  "last_updated": "2025-10-29T10:06:21.548715+00:00",
+  "last_updated": "2025-10-29T12:09:24.855843+00:00",
   "total_count": 1000
 }
