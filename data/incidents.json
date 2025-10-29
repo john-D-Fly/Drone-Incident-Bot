@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone Fever - Commonweal Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZGg5VFlyS1hPYzY0WVNwMEdwZDR5VWZFUnRRS1BlVlA0V3lkeXQ2RkZEdUZtdTcxLTRfTHBsQjhTZUtsbmU4ZjNoYWQ3Qk1LbmxoalhwMm9Kdw?oc=5",
+      "source": "Commonweal Magazine",
+      "date": "2025-10-29T17:16:33+00:00",
+      "description": "Drone Fever  Commonweal Magazine",
+      "query": "drone incident",
+      "detected_at": "2025-10-29T23:05:23.112295+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3dc838df8a12"
+    },
+    {
       "title": "Border official reports increase in illegal drone use - Позірк",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SVWFhSUtWYmtiRlptLXBKVmhLNXRoNzc0RWRxeExmc3RaUk80dG1IbG5KTnVhV0hzVXJDeWdHTjhhLWQ3QktSMW9IT3M3UQ?oc=5",
       "source": "Позірк",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "83ef18593d7e"
-    },
-    {
-      "title": "Denmark drone incident: NATO plans to increase presence in Baltic, Germany to defend itself against drones threat - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjByZnFzRGJfWm5oZk5XMkhiWl9YNG1iRmdSeVJKTUlEVHg1bUpoTGEyVzh2ZzhBLU45UTEtS044dUZjZWppdnhhTkc0MlNrR2U2YUhfRkN3Sk9XRkVqSVhpNlV5Y2p1NXRsR3d6akRjQlRtU3BDRW1wek9kTlV4b2VET1NzT1lDSzFyQ0Izbm1hcUE1V2tmUklEdTNleVo2MUU5RGVBeW1obTZX0gGzAUFVX3lxTE9oWkZSWndxeHRCUVFieldoR3poOVBVV2NWWFdmel90aHFKYjdLVVRjYUNtSzhGZ2xLU3o3bC1USGItSndBclhVTW0ycGpBVzRWZkM5Z05JOFFvV3pfc3hFdl8xWVFXMktjdUdjcXVEelMzNXJGb0FfcDVnUnRUQ2kxdU4wR3JEejBoN004VHJUTzZjcy11ZzBKdXJHbXR2VnJaV0FQeFMyOXl5VE1HcEV1OUww?oc=5",
-      "source": "The Indian Express",
-      "date": "2025-09-28T02:25:18+00:00",
-      "description": "Denmark drone incident: NATO plans to increase presence in Baltic, Germany to defend itself against drones threat  The Indian Express",
-      "query": "drone incident",
-      "detected_at": "2025-09-28T02:34:33.576306+00:00",
-      "location": "in Baltic, Ge",
-      "category": "terrorism",
-      "id": "d646454fd0ac"
     }
   ],
-  "last_updated": "2025-10-29T22:05:16.351358+00:00",
+  "last_updated": "2025-10-29T23:05:29.322342+00:00",
   "total_count": 1000
 }
