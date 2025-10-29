@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Law now in effect in Kentucky prohibits using drone for hunting - WLKY",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81NzdZbng5a2hja2xBQmJXT1hqY0NDQjlYZjlJRVFDN1JsNGNmdjlVNXBsU2x4UzFhZHVTTm9hM1ZmM3FtemRvckRpODBnOUwxZmVxcC1hc0lfREV5VUUxT2NOMnhaNlExREJUTURwOTd0TlU?oc=5",
+      "source": "WLKY",
+      "date": "2025-10-29T16:27:00+00:00",
+      "description": "Law now in effect in Kentucky prohibits using drone for hunting  WLKY",
+      "query": "drone illegal",
+      "detected_at": "2025-10-29T17:05:39.617464+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3e95c67614b2"
+    },
+    {
+      "title": "Drone Fever - Commonweal Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZGg5VFlyS1hPYzY0WVNwMEdwZDR5VWZFUnRRS1BlVlA0V3lkeXQ2RkZEdUZtdTcxLTRfTHBsQjhTZUtsbmU4ZjNoYWQ3Qk1LbmxoalhwMm9Kdw?oc=5",
+      "source": "Commonweal Magazine",
+      "date": "2025-10-29T16:44:08+00:00",
+      "description": "Drone Fever  Commonweal Magazine",
+      "query": "drone incident",
+      "detected_at": "2025-10-29T17:05:35.888523+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cac7db20be1b"
+    },
+    {
       "title": "Now Spain Unites With Denmark, Germany, Belgium, And Norway In Drastic Travel Distruption As Drones Spark Emergency Airport Shutdowns Across Europe - Travel And Tour World",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSzdYcXkydGdlQXdpWkFTeV9XV2R5YWZkV01iNFRHcmxnMTlFdGdCTHlGck8yQ2tJZzRZamt6QTVDV0NfOFU1T0t3RVJPUUtmWmlxWVVnVmtFZUFkT3lGTWZ3M0FUSmc5WElHODZuV3lfMFNPY0JPUGVoV01kOFpoekJBUVp3N2IzMGV5WnV2dWxHNWFxWHVnd2RtQkstUFNrLU85OF9NN1kyT08wS1BiRkJLZ3FIbUU5bTNuVk1ldC15bnc2OVZtb1daMlU3VnMwQ0hoMnZLYXVES0p5WTNzOWR1dVFTNGI4aXY3Mkg0enVrRy1nYV9WLTRuSXEwZHdUc2l3NmVXZXRGM2VEYUJIUHVRY1VaTXpXbVhvalN3?oc=5",
       "source": "Travel And Tour World",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "e9ae3ea0ae00"
-    },
-    {
-      "title": "Drones seen over Danish military bases in latest air disruption - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNEo2VEg1ODRpZi1CalJjR0RsZHpERVVkMGhUSlkxNURtOFNjb09oN1NHUzZkSV93Y0VHUy1JT0lJbzlXeHViZmRwZ2RySTM3TE9mTFR5aGFnZ9IBX0FVX3lxTE5rU3RDd1dBMmVocmNrOEVKUDc1RnY2ZU5LamdqaGFwUGhES29WWkw2bVlyT0hSOG5VMGlkRzBSVGhoS3hSd0FGQ3YwQTBKRXZfbDRwR0Y4cThuOS1CbjVv?oc=5",
-      "source": "BBC",
-      "date": "2025-09-27T12:51:55+00:00",
-      "description": "Drones seen over Danish military bases in latest air disruption  BBC",
-      "query": "drone airport disruption",
-      "detected_at": "2025-09-27T14:04:53.914257+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "9d7aba5961e5"
-    },
-    {
-      "title": "NATO country reports drones over largest military base after airport attack, mulls response - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm45R0htMnJFV0gxU1ZRajN2NUtQWGdNUjBZX3ZzUDJ4WHNwbGpLc0NDU3ozSk5FeGNzS1ZWdThPdjh4YVZrWlVBVDdMM2RGWF81RFdxN2k2YlJQTXZTX1VpZDdFeDlIOXh3MElaYkhBR2dQSXpMOTJPT1pmaTF4ampXczhIMGVxdlprYW9ab0V2ekNLT3IyVXFQeGVyc2o3T0V5RnBFbUdaSHlJbUJNdEwySGZrYm9XVkk4c9IBwgFBVV95cUxQRVlCZVk4NGIxV013dmtRX3g3TlJuZXFEVEVxUGZ5Yl9ReF9RQ2VKWUdVWUM1M0cwajU1WXRtUkpIenJBRWtESEQydndzVWNXQ1dCYUl5b0M5TUNLM2d2bmQ2TWRRcGhkT3FpRUtNRHBaeDQtRGJORVRYZEgtbEJsRUJrbkp6WFlIOXUyQ05YR21VVkRBdTZNc3dYT0pDVnhVTHZuODlDLVZKdVhOdDRUVnhoanFycW1jejVuNWpLcURTZw?oc=5",
-      "source": "Fox News",
-      "date": "2025-09-27T12:01:48+00:00",
-      "description": "NATO country reports drones over largest military base after airport attack, mulls response  Fox News",
-      "query": "drone incident",
-      "detected_at": "2025-09-27T13:07:21.393189+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e5b72cf0d689"
     }
   ],
-  "last_updated": "2025-10-29T15:06:07.295749+00:00",
+  "last_updated": "2025-10-29T17:05:42.290079+00:00",
   "total_count": 1000
 }
