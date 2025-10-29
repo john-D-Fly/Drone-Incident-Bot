@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Belgium probes new drone sightings over military base - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Kd2R0RUk0Z2lpak1YbEdQWUNtSUljYU4tZGR2azduSUU1UUJvbll5emUzTEJXWlJEeGJIWmNwZ0xFaDVGVENVQWFIanNKWTA2Q1hzSXIzcjg?oc=5",
+      "source": "TRT World",
+      "date": "2025-10-29T11:25:29+00:00",
+      "description": "Belgium probes new drone sightings over military base  TRT World",
+      "query": "drone incident",
+      "detected_at": "2025-10-29T13:14:59.987964+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eb9f14ab69cf"
+    },
+    {
       "title": "Israeli military seizes weapons smuggled from Egypt - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WX19BMWt0TElQcU50LVViZEhMSGNtZzVKTkJma1NnclVCU2lkeVRPME5lRl9CWVB2QVFNWGhOVjhVLWRNUzlGOTR5cXlwV0JZYldOS2ZZZ1VCeDZ6cHY2UjFoWUFtVk95XzU3T0FR?oc=5",
       "source": "The Jerusalem Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "b94dab6841a0"
-    },
-    {
-      "title": "Eyes in the sky: Drone helps find dog after car crash - Watertown Daily Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRzFxSnEyWlhadXR4OWxyOHA2TzRiaThWYi1qdnNJckVVMGoxb0JGUjBvZGo2UlJGNy0wSm1lSExUVnZqYkx0OWJqdGNsS3FndXVpcjdLdEFJdVJ4WU9zUGlRVG44V1JwVHRWQVZvbG56NmRlS3lZVjVxa0l2R3ZMTFNhVGtUX3JUb1FGVnNZUTRIVl9NNnRJc2JXVEM4ZGdKbnFvbWxocjUtLS1hdGxSU3U5QkV4Nk9ibWUtT2hUZl95bjBEMFFzN1JFRGdhT24wWGdGSk9kZ2xlQQ?oc=5",
-      "source": "Watertown Daily Times",
-      "date": "2025-09-27T04:27:35+00:00",
-      "description": "Eyes in the sky: Drone helps find dog after car crash  Watertown Daily Times",
-      "query": "drone crash",
-      "detected_at": "2025-09-27T11:04:33.548677+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "eea279d60489"
     }
   ],
-  "last_updated": "2025-10-29T12:09:24.855843+00:00",
+  "last_updated": "2025-10-29T13:15:06.131565+00:00",
   "total_count": 1000
 }
