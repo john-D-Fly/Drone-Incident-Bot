@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "Over the past 48 hours, a surge in drone incidents has been observed across various regions, particularly concentrated in Ukraine, where Russia has launched multiple drone strikes targeting infrastructure. Notably, drone strikes in Chernihiv injured civilians and damaged property. Additionally, several incidents in Belgium involved drone sightings over military bases, prompting investigations. There are emerging concerns about illegal drone activity, especially regarding prison contraband drops in Canada and smuggling operations linked to drug trafficking across borders in regions like Jammu. Meanwhile, drone disruptions at airports in Spain led to temporary closures, reflecting ongoing security challenges in the aviation sector.",
+  "totals": {
+    "arrest": 7,
+    "other": 17,
+    "smuggling": 8,
+    "terrorism": 4,
+    "airport": 5,
+    "crash": 3,
+    "total_incidents": 58,
+    "by_category": {
+      "airport": 7,
+      "arrest": 6,
+      "crash": 3,
+      "interference": 1,
+      "other": 24,
+      "smuggling": 15,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 4,
+      "drone arrest": 10,
+      "drone crash": 3,
+      "drone illegal": 5,
+      "drone incident": 16,
+      "drone prison": 7,
+      "drone smuggling": 7,
+      "drone terrorism": 4,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone terrorist activities",
+      "rationale": "A notable increase in drone attacks linked to terrorism, particularly in Ukraine.",
+      "incident_ids": [
+        "1ed803581b3c",
+        "ca9c99e9dabb",
+        "263dd49693a4",
+        "5f72b9c34883"
+      ]
+    },
+    {
+      "topic": "drone smuggling operations",
+      "rationale": "Multiple reports of drone use for smuggling narcotics and contraband.",
+      "incident_ids": [
+        "c12b0179646b",
+        "8ad22de6eff9",
+        "8eab34ac1b12",
+        "794c4a19b702"
+      ]
+    },
+    {
+      "topic": "airport disruptions",
+      "rationale": "Incidents causing flight delays and airport closures due to drone sightings.",
+      "incident_ids": [
+        "9bee625aa7b7",
+        "b3031a276cd3",
+        "f42f7b1b13a8"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "1ed803581b3c",
+      "headline": "Russia massively strikes Ukraine's Chuhuiv with drones",
+      "one_sentence": "Russia has launched significant drone attacks on Ukrainian infrastructure, impacting civilian areas.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8db738039563",
+      "headline": "Drones spotted over military base in Belgium",
+      "one_sentence": "Belgian authorities investigate multiple drone sightings over a military base.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8ad22de6eff9",
+      "headline": "Kingston police, corrections cracking down on drone smuggling",
+      "one_sentence": "Authorities in Kingston are intensifying efforts to address drone smuggling activities in local prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a761d95ea37c",
+      "headline": "IDF drone captures Hamas terrorists",
+      "one_sentence": "An IDF drone has documented Hamas terrorists attempting to move a hostage's body in Lebanon.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Lebanon"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "db281e234c49",
+      "headline": "Drone Disruption: Spanish Airport Temporarily Closed",
+      "one_sentence": "A Spanish airport faced temporary closure due to drone sightings, causing travel disruptions.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents in Ukraine and Belgium highlights escalating security concerns. #DroneMonitoring",
+    "linkedin": "Recent drone incidents reveal heightened risks in security, smuggling, and aviation, with significant implications for policy and safety measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-29"
+}
