@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "DJI Neo 2 is the perfect starter drone you won’t crash - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QLWRCS2hBRDNUOVViNWdzb3IyMnhsZ1ZhblZLU1Vkd2MycFpDMjMxSWNzQVJ4NURyR1ZSeDFJYTdpMjAwM1VyMEdpOXVMT0tzakJIOFd6TTVMNjdYNTk0?oc=5",
+      "source": "DroneDJ",
+      "date": "2025-10-30T14:27:45+00:00",
+      "description": "DJI Neo 2 is the perfect starter drone you won’t crash  DroneDJ",
+      "query": "drone crash",
+      "detected_at": "2025-10-30T15:05:50.160122+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "caf83425bdd1"
+    },
+    {
       "title": "Kentucky bans drones from being used to take fish or wildlife - Kentucky Lantern",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeE5KNmtsWl8xdHZ5Wk95Wm9Nd0ZLMV93Vk43cmk5bkFsZHp6NlRBaHFWWnZRUVZJSEIyVTRTY2RTUkF5aTFuYUJfRll0V29BOV81OXpsaTNUTjU5MVpCZHZ0dUQwV0RuS0hCSXBzY0plQnhKTWVPUGM1S2JZeG55UUQ2d25HNmtMckp2UGdiR2pFcTdCc2ZuWWdYZWtsdw?oc=5",
       "source": "Kentucky Lantern",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "540675f5ae10"
-    },
-    {
-      "title": "Iran Denounces UN Sanctions as \"Illegal\" - The European Conservative",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUNSTGs4N1hDY1Y2a2VqSUp3RTRRVWw5OXhpbzE1VTh6NEtuSUJwNG9LWXlGRVl3dWtZLU1ENzYxV0QzVVNGUkNjYThsTTdCZmZTcG1iLXhKbU94aWdyck5RMFZjaVk4UHFNSUk2VExNWHNfUGczRzNmU1NVejc2dlZvTy1waWtoSjBXR3M1R09mZXpXQTc4Mg?oc=5",
-      "source": "The European Conservative",
-      "date": "2025-09-28T06:41:01+00:00",
-      "description": "Iran Denounces UN Sanctions as \"Illegal\"  The European Conservative",
-      "query": "drone illegal",
-      "detected_at": "2025-09-28T13:08:09.186353+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8d0698ff5bae"
     }
   ],
-  "last_updated": "2025-10-30T14:06:10.994392+00:00",
+  "last_updated": "2025-10-30T15:05:53.647102+00:00",
   "total_count": 1000
 }
