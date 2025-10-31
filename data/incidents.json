@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Analysing video showing arrest of Sudan fighter accused of executions - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DQUJNUi1tM2xvQk8yUUhhYnRwRDd1SWNQZl9JV0UyWVpkekpEYWlXR2dIek0xWk9OaFJzSDJDMjBETXdoeWxZbWVscDBQTFNQdmk2dw?oc=5",
+      "source": "BBC",
+      "date": "2025-10-31T17:03:45+00:00",
+      "description": "Analysing video showing arrest of Sudan fighter accused of executions  BBC",
+      "query": "drone arrest",
+      "detected_at": "2025-10-31T21:05:14.852409+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "250d91ac83cd"
+    },
+    {
       "title": "Gangs Deploy Super-Drones to UK Prisons — Is Jailbreak 2.0 Here? - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16cl9iVGtGelFQcmdYYUsxWXhFamM0c2RucFlvMUF0dTMwVTVYYTdBaElEWjZOMnVJNHVFRVhwb05QWHpHYWVUbDQydHFZOHdUVmJWbjA5UFNHOVh6dzk5Q21tODcyQnRkS0NxWUstcFhHYzlzRTlvekVn?oc=5",
       "source": "DroneXL.co",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "332015f35eb7"
-    },
-    {
-      "title": "Accused drone operator charged over 'pretty stupid' jail smuggling plot - The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWx0ZnNSM0tiZDZWNHdzTEd1OWdWeUs2Z0dkanRtcmlXMU1GaWpZZlJlSUQySHczS3BGd3E0YWlvcXFhcldQSS1COGRpcE9oMmJsLW53eFdqaWdHOEdHRjhKbUtJVnhITEM3UkVDOXM4OEpqbkVYYmZXaVZzUlZ5OGtYNU1WNW9NLVZUTkdoTlVweWlVYUtlM1R3ZlpuQW1mZE9vTnNqemQ3SjRXZDl5aTBvVXhTSXBHdlZueU5kMlpIZw?oc=5",
-      "source": "The Canberra Times",
-      "date": "2025-09-29T06:00:46+00:00",
-      "description": "Accused drone operator charged over 'pretty stupid' jail smuggling plot  The Canberra Times",
-      "query": "drone smuggling",
-      "detected_at": "2025-09-29T06:08:35.218601+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c207f7f4f7d2"
     }
   ],
-  "last_updated": "2025-10-31T19:05:07.413030+00:00",
+  "last_updated": "2025-10-31T21:05:20.370944+00:00",
   "total_count": 1000
 }
