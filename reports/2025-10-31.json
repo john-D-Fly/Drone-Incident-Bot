@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the past 48 hours, the drone-related landscape highlights a significant surge in smuggling incidents, particularly focused on prisons in the UK, where gangs are deploying advanced drones to deliver contraband, including drugs and weapons. Reports indicate a troubling 1,140% rise in drone sightings linked to a growing prison drugs crisis. In several cases, authorities have busted smuggling operations, with one valued at £300,000, illustrating the urgent need for enhanced drone detection measures across institutions. Additionally, drone incidents have also created disruptions in airports, with emergency closures prompted by unauthorized flights. This underscores a broadening concern over both operational security in correctional facilities and the safety implications for public spaces. The ongoing challenge of illicit drone use calls for robust policy responses to mitigate risks associated with drone technology in transport and security settings.",
+  "totals": {
+    "smuggling": 6,
+    "arrest": 4,
+    "crash": 6,
+    "other": 11,
+    "airport": 2,
+    "total_incidents": 47,
+    "by_category": {
+      "airport": 2,
+      "arrest": 3,
+      "crash": 7,
+      "other": 19,
+      "security": 1,
+      "smuggling": 15
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 5,
+      "drone crash": 7,
+      "drone illegal": 7,
+      "drone incident": 6,
+      "drone prison": 10,
+      "drone smuggling": 6,
+      "drone terrorism": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Incidents",
+      "rationale": "Rising concerns over drug smuggling and contraband deliveries via drones in correctional facilities.",
+      "incident_ids": [
+        "a16b58d0e565",
+        "58c178ba14ae",
+        "54979fbc5e2e",
+        "f642989bc4ef",
+        "72a0963ce580",
+        "c648057ff185",
+        "08151b7135ab",
+        "d917756fc60a",
+        "7ff8a51a5d89",
+        "2f33ac4fffaa",
+        "717531dac8e0"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Emergent issues with unauthorized drone flights causing emergency protocols at airports.",
+      "incident_ids": [
+        "b0db70cb9382",
+        "3e95c67614b2",
+        "eb9f14ab69cf"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a16b58d0e565",
+      "headline": "Man caught using drone to smuggle drugs into prison",
+      "one_sentence": "A man was intercepted while attempting to smuggle drugs into a prison using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "58c178ba14ae",
+      "headline": "Gangs Deploy Super-Drones To UK Prisons Is Jailbreak 2 Here?",
+      "one_sentence": "Reports reveal the deployment of sophisticated drones by gangs for prison smuggling operations.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "54979fbc5e2e",
+      "headline": "Prison drugs crisis hits ‘endemic’ levels as drone sightings soar 1,140 per cent",
+      "one_sentence": "A report indicates a dramatic increase in drone sightings linked to a growing drugs crisis in prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "16196dc06a1d",
+      "headline": "£300k prison drone drug smuggling operation busted on M6",
+      "one_sentence": "A significant drug smuggling operation using drones was dismantled, valued at £300,000.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "650f8bd411d3",
+      "headline": "Drone Sighting Forces Shutdown At Spanish Airport",
+      "one_sentence": "An unauthorized drone sighting prompted a temporary shutdown at a Spanish airport.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "eaf9e77bb74a",
+      "headline": "Intoxicated woman nabbed by drone after fleeing I-94 crash, charges say",
+      "one_sentence": "A woman was apprehended by police drones following her escape from a crash site on I-94.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents highlights major prison smuggling concerns and airport disruptions in recent days.",
+    "linkedin": "Recent reports show a dramatic rise in drone-related smuggling incidents into prisons, alongside significant disruptions at airports."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-10-31"
+}
