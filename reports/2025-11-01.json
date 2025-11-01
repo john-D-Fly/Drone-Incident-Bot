@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a notable surge in drone-related activities across various regions, especially focusing on smuggling, arrests, and airport disruptions. In Jordan, military forces thwarted a drug smuggling attempt using drones. Ukraine's ongoing conflict continues to see drones implicated in accusations of nuclear terrorism, highlighting the crossover between aerial technology and international conflict. Germany faced significant disruptions at Berlin airports due to drone sightings, affecting air travel across Europe. Additionally, reports from UK prisons indicate a rising trend in drone usage for smuggling drugs, prompting calls for enhanced counter-drone technologies. Overall, there's a concerning pattern of drone integration in criminal activities and the urgent need for updated regulations and defenses.",
+  "totals": {
+    "smuggling": 6,
+    "terrorism": 6,
+    "arrest": 5,
+    "airport": 6,
+    "other": 3,
+    "crash": 3,
+    "total_incidents": 51,
+    "by_category": {
+      "airport": 12,
+      "arrest": 5,
+      "crash": 5,
+      "other": 7,
+      "smuggling": 16,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 5,
+      "drone crash": 5,
+      "drone illegal": 1,
+      "drone incident": 7,
+      "drone prison": 12,
+      "drone smuggling": 5,
+      "drone terrorism": 10
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling and Policy Responses",
+      "rationale": "Emerging patterns suggest increasing use of drones for smuggling drugs into prisons, necessitating enhanced countermeasures.",
+      "incident_ids": [
+        "56abb9020e0a",
+        "540a28a5da18",
+        "14803df2bf77",
+        "1a698984c80b",
+        "f642989bc4ef",
+        "d245d9697cec",
+        "f7cf9ea3c09d"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Frequent drone sightings causing significant disruptions highlight the vulnerabilities in airport security and the impact on air travel.",
+      "incident_ids": [
+        "8e2492a0e34d",
+        "81e3067b5a2e",
+        "5b45895e0803",
+        "f52943c9bb0c",
+        "d161d3f45cc6",
+        "b99acdfc18da",
+        "ff69771b2140",
+        "a7c6e84d3615"
+      ]
+    },
+    {
+      "topic": "Drone-related Terrorism Themes",
+      "rationale": "The ongoing use of drones in terrorism-related activities signals a critical security concern, especially related to military conflicts.",
+      "incident_ids": [
+        "4466bfe2a9b2",
+        "a7c6e84d3615",
+        "d917756fc60a",
+        "14761cdc38d85",
+        "2f33ac4fffaa"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "56abb9020e0a",
+      "headline": "Jordan’s southern military foils drone drug smuggling attempt",
+      "one_sentence": "Jordan's military successfully prevented a drone drug smuggling operation.",
+      "risk_tags": [
+        "drug smuggling",
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4466bfe2a9b2",
+      "headline": "Putin accused of ‘nuclear terrorism’ as his forces mass around key town",
+      "one_sentence": "Ukraine accuses Russia of nuclear terrorism amid military tensions, with drone strikes involved.",
+      "risk_tags": [
+        "nuclear terrorism",
+        "military conflict"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8e2492a0e34d",
+      "headline": "Drone Disruptions: Berlin Airport on High Alert",
+      "one_sentence": "Berlin Airport is on high alert due to multiple drone-related disruptions causing significant flight cancellations.",
+      "risk_tags": [
+        "airport disruption",
+        "public safety"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "81e3067b5a2e",
+      "headline": "Europe Faces Chaos as Germany Suspends Flights at Berlin Airport",
+      "one_sentence": "Germany has suspended flights at Berlin Airport due to repeated drone sightings, affecting air travel across Europe.",
+      "risk_tags": [
+        "airport disruption",
+        "international travel"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f53cb37d7690",
+      "headline": "SWAT uses tear gas, drone to make arrest on Congress St.",
+      "one_sentence": "A SWAT team employed a drone and tear gas for an arrest linked to a past overdose incident.",
+      "risk_tags": [
+        "arrest",
+        "drug-related crime"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent surge in drone incidents highlights challenges in smuggling, security, and airport disruptions across Europe and beyond.",
+    "linkedin": "Drone-related incidents are on the rise, raising significant concerns in smuggling operations, airport disruptions, and international security."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-01"
+}
