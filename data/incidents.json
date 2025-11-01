@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Mysterious crash reported near Area 51 - www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TWHBya1M1QzgxRUtYWDNBdE9OWDRqajJ3em9NVjNNNlRlX2hjektRTDVPNDdlWUlUMTdZdHlXUXFXdEdjUWpSQTVMRW43bmdYZUFOd0E5YmkzRHd4WHNIMk9VdlFLV05WX1dNSXFFdy1BRkFUd0pzZw?oc=5",
+      "source": "www.israelhayom.com",
+      "date": "2025-10-31T22:30:02+00:00",
+      "description": "Mysterious crash reported near Area 51  www.israelhayom.com",
+      "query": "drone crash",
+      "detected_at": "2025-11-01T00:24:53.384234+00:00",
+      "location": "near Area 51",
+      "category": "crash",
+      "id": "1448544556de"
+    },
+    {
       "title": "Berlin Airport Briefly Closed in Latest Drone Disruption - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3Z2WGxCUTIzWHJlZ0JjM19XMERJeEpDclUyOXgxMTV5QzVOQmx1a196M1UyR211WjBQeDJiRlRNbmF5T0hpTGsya3JITGtGVjRYN0RCbmw3cUdrOTR4OWFOZ2FaZ29XTGZDcnVENkZMcW5DRmNXcjJPSFNjb3d2WG81dlNxZW92TW1NX0tudmVabndSYXJrSy0wT3NVaUE5WFBwbDRMS0dySXc?oc=5",
       "source": "Bloomberg.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "46984820541b"
-    },
-    {
-      "title": "Young father caught allegedly flying drone into Canberra prison to drop drugs - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGJKWHJRdFRPa3o1SFlDbGNLaVBuZXNfek0zRW1RV29lS2lZOGRIMDVNYlJnODBuOTk5c3p4aVdqblcyR1h1MWIzYld4ZEpiUDc4aEZ1V0RDckxYaUNQWjFQMnBLWVRRcmFVYVB5aWVFQm96UUNha2NaVkloT2dtaTRiRWtBb3ZFRS1qdkJwYkU3U3JibFBRV2lTTFRRTGFJU21pQw?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2025-09-29T07:02:07+00:00",
-      "description": "Young father caught allegedly flying drone into Canberra prison to drop drugs  Australian Broadcasting Corporation",
-      "query": "drone prison",
-      "detected_at": "2025-09-29T07:06:27.280638+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "579faf104536"
     }
   ],
-  "last_updated": "2025-10-31T23:05:37.993098+00:00",
+  "last_updated": "2025-11-01T00:24:56.533274+00:00",
   "total_count": 1000
 }
