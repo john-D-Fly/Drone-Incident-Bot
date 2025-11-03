@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bcm51MGVnQm1Gc3FJaTlFR0Z6RzRILVFoaTdQcXladVotaUowZlZ3VG5LYlhzQm5ZSzVMbU8tbmk4eHdXcm9WbnZyY3RCbVpYeUFEdEctbXg5Zw?oc=5",
+      "source": "CBC",
+      "date": "2025-11-03T09:34:32+00:00",
+      "description": "The Breakdown | Heather Hiscox + Drone smuggling  CBC",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-03T14:05:43.496568+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c0a2d3dfb96c"
+    },
+    {
       "title": "Drone vid shows Hamas loot aid truck as terror group demands safe passage - The US Sun",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNmdCWU9jM3B0N3JMcFZfWjRibTdtY0Fpa3d1MTBBRFdLQlNzVW5DSGNiYnV0QzRoa1dKLUFUNk5BZGEyLUFhU3kyekx2c1libXVlaXR5bEdKOFI1a1ZsdnhjczVIODNWQXRRVnlLa01QcHM?oc=5",
       "source": "The US Sun",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "4a4025c8323a"
-    },
-    {
-      "title": "Can you shoot down a drone hovering over your property in Michigan? What the law says. - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbENnYjFONGpJNmhFRXdhQUpMaHQzd0VEVXhQeDJGa0d4NHg2TFV6RUpadUZKWEJIQUlUV2owTkM3OWlmQzhvM2x1aHBPNmttN1FEdktfdXJqLUp3RXlNWFlSQ21ydHdGanhDeDI0UVhjY3dUUnZzMEEwOGljaXkwZkJ4cmFJblVfZUZSZFNpLVlTb3NvWkNLR20wY2kxLTFzR2wzUWdRWVFjOFUyS3BFeVVxNWJEWDJnRG5HMGZNNWJJamxzbmdMZjVn?oc=5",
-      "source": "Detroit Free Press",
-      "date": "2025-09-29T10:02:56+00:00",
-      "description": "Can you shoot down a drone hovering over your property in Michigan? What the law says.  Detroit Free Press",
-      "query": "drone illegal",
-      "detected_at": "2025-10-01T02:35:27.302263+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0afe81b528fb"
     }
   ],
-  "last_updated": "2025-11-03T13:13:57.469358+00:00",
+  "last_updated": "2025-11-03T14:05:49.333296+00:00",
   "total_count": 1000
 }
