@@ -1,0 +1,146 @@
+{
+  "narrative_summary": "Over the past 48 hours, a range of drone incidents have been reported with significant implications in Europe and the Middle East. In Munich and Copenhagen, airports faced shutdowns due to drone sightings, raising concerns about air traffic disruptions. In Belgium, repeated drone incursions prompted security enhancements at military sites. Meanwhile, in the context of ongoing hostilities, drones have been implicated in various terrorism-related activities, including strikes in Ukraine and interceptions by the Israeli Defense Forces aimed at thwarting arms smuggling attempts from Egypt. The intersection of drone technology with both illicit activities and security challenges is increasingly evident, underscoring the need for robust responses.",
+  "totals": {
+    "terrorism": 6,
+    "airport": 7,
+    "smuggling": 6,
+    "other": 10,
+    "arrest": 3,
+    "interference": 2,
+    "crash": 4,
+    "total_incidents": 77,
+    "by_category": {
+      "airport": 11,
+      "arrest": 1,
+      "crash": 4,
+      "interference": 1,
+      "other": 22,
+      "security": 1,
+      "smuggling": 19,
+      "terrorism": 18
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 2,
+      "drone crash": 5,
+      "drone illegal": 4,
+      "drone incident": 10,
+      "drone prison": 1,
+      "drone smuggling": 17,
+      "drone terrorism": 29,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "airport disruptions",
+      "rationale": "Recent drone sightings led to multiple airport shutdowns across Europe.",
+      "incident_ids": [
+        "12e394d8a49d",
+        "90b347510df2",
+        "f5941fcafa28",
+        "d21529485d8a",
+        "40aee7657988",
+        "d6a842e3cdf6",
+        "1c3cab2fc8b4"
+      ]
+    },
+    {
+      "topic": "smuggling activities",
+      "rationale": "Drone smuggling incidents reported along borders, raising security concerns.",
+      "incident_ids": [
+        "6bde1af43b5a",
+        "bf9235a645f8",
+        "7981624fc73d",
+        "2771b449b7b7",
+        "4fb31da6d175",
+        "4c76635b7f22"
+      ]
+    },
+    {
+      "topic": "terrorism events",
+      "rationale": "Drones implicated in various terrorist activities within conflict zones.",
+      "incident_ids": [
+        "8d4a8854360a",
+        "4c76635b7f22",
+        "f239c8457933",
+        "7d8e673dc75c",
+        "1f8bf282a1bc",
+        "e4d160b01e79"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "12e394d8a49d",
+      "headline": "Munich Airport shuts down for second night over new drone threat",
+      "one_sentence": "Concern over repeated drone incidents prompts closures at Munich Airport.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "90b347510df2",
+      "headline": "Copenhagen Airport shut down for hours by large, unidentified drones",
+      "one_sentence": "Copenhagen Airport faced significant disruptions due to unidentified drone activity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f5941fcafa28",
+      "headline": "Flights Halted After Drone Sighting Over Bremen Airport",
+      "one_sentence": "Bremen Airport operations were suspended after drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "6bde1af43b5a",
+      "headline": "IDF Intercepts Another Egyptian Arm-smuggling Drone",
+      "one_sentence": "Israeli forces thwart additional attempts at smuggling arms via drone from Egypt.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8d4a8854360a",
+      "headline": "Drone vid shows Hamas loot aid truck as terror group demands safe passage",
+      "one_sentence": "Footage surfaces of Hamas implicated in looting aid amid rising tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d24729485d8a",
+      "headline": "Jordan’s southern military foils drone drug smuggling attempt",
+      "one_sentence": "Authorities in Jordan have successfully intercepted a drone involved in drug smuggling.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Jordan"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones have caused significant airport disruptions and rising tensions across Europe and the Middle East with noteworthy smuggling incidents reported.",
+    "linkedin": "Recent drone-related incidents have highlighted the ongoing challenges faced by airports in Europe and security forces in conflict zones, raising concerns about safety and illicit activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-03"
+}
