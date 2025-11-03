@@ -2,6 +2,18 @@
   "incidents": [
     {
       "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bcm51MGVnQm1Gc3FJaTlFR0Z6RzRILVFoaTdQcXladVotaUowZlZ3VG5LYlhzQm5ZSzVMbU8tbmk4eHdXcm9WbnZyY3RCbVpYeUFEdEctbXg5Zw?oc=5",
+      "source": "CBC",
+      "date": "2025-11-03T09:04:21+00:00",
+      "description": "The Breakdown | Heather Hiscox + Drone smuggling  CBC",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-03T22:05:16.189486+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3c9bafb22ada"
+    },
+    {
+      "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YOUN5cGJJazZVQ3FSeEZ5Z0lURU5FNjZhLWN2Z05mSW0wdzJNbnhxckpHcFF4ZlloVlNmbl82VEgxbnVINW1OMWhMUWhXM3V0UHZKLUk5S1I?oc=5",
       "source": "CBC",
       "date": "2025-11-03T09:00:00+00:00",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "a0ed17d36b4f"
-    },
-    {
-      "title": "Army Downs Drone Smuggling Narcotics Across Western Border - Ammon News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RS2w5b21xTWEyM05vM19LYjM1cm5ESGhuQVNxTk02Yk5EdUZRdVFvWDlJTE9uUXJuZm1ZalZwSnRZV1hqMzllUjJVOHBOZw?oc=5",
-      "source": "Ammon News",
-      "date": "2025-10-01T08:20:56+00:00",
-      "description": "Army Downs Drone Smuggling Narcotics Across Western Border  Ammon News",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-01T09:06:47.535668+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3aca5c765497"
     }
   ],
-  "last_updated": "2025-11-03T21:05:34.285035+00:00",
+  "last_updated": "2025-11-03T22:05:21.489556+00:00",
   "total_count": 1000
 }
