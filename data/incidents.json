@@ -2,6 +2,18 @@
   "incidents": [
     {
       "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YOUN5cGJJazZVQ3FSeEZ5Z0lURU5FNjZhLWN2Z05mSW0wdzJNbnhxckpHcFF4ZlloVlNmbl82VEgxbnVINW1OMWhMUWhXM3V0UHZKLUk5S1I?oc=5",
+      "source": "CBC",
+      "date": "2025-11-03T09:00:00+00:00",
+      "description": "The Breakdown | Heather Hiscox + Drone smuggling  CBC",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-03T21:05:29.189064+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f38668d81874"
+    },
+    {
+      "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bcm51MGVnQm1Gc3FJaTlFR0Z6RzRILVFoaTdQcXladVotaUowZlZ3VG5LYlhzQm5ZSzVMbU8tbmk4eHdXcm9WbnZyY3RCbVpYeUFEdEctbXg5Zw?oc=5",
       "source": "CBC",
       "date": "2025-11-03T09:34:36+00:00",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "3aca5c765497"
-    },
-    {
-      "title": "EU Drone Wall: Keep calm and prepare, expert says - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNDMzdER6Nld5YWhaN2lHR0lua2thMjR6Si1TNDNoY19OdE8wNjdmWUxwNlhaaURqTWZIZk9hWGNMbW55dmVXcS1BalZJTnZIZGluUlNSTTYzeDRFUWFjV0M1ZXRrakdEOGJPVHJxNWZBaFdwVGFxTG9LX0g3Q2I0bTROX3BWTkRnUWVDLWVpazAzejBSSWZqbA?oc=5",
-      "source": "Euronews.com",
-      "date": "2025-10-01T04:53:39+00:00",
-      "description": "EU Drone Wall: Keep calm and prepare, expert says  Euronews.com",
-      "query": "drone incident",
-      "detected_at": "2025-10-01T09:06:46.238399+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "21e74aa22071"
     }
   ],
-  "last_updated": "2025-11-03T20:06:09.624810+00:00",
+  "last_updated": "2025-11-03T21:05:34.285035+00:00",
   "total_count": 1000
 }
