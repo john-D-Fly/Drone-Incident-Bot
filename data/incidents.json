@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "District 518 school bus involved in crash - The Globe | Worthington, Minnesota",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnNfSjctV0tHWXM0TnhJSXc1SU1BUDZRT1ZfbmFZMW9RS003TTVmQTZvSUYwd0xCd2VtVm9JWTJOSDMxcUhTN3FzYkwxcjVXejZ2Q0xfMEo5d0J0MGdpNzB1aUdLa3FPM1lwMFY3S2x5czc2eWx3LXp6LV90VlVmTg?oc=5",
+      "source": "The Globe | Worthington, Minnesota",
+      "date": "2025-11-04T03:07:36+00:00",
+      "description": "District 518 school bus involved in crash  The Globe | Worthington, Minnesota",
+      "query": "drone crash",
+      "detected_at": "2025-11-05T03:24:28.866853+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "60a71bed9d13"
+    },
+    {
+      "title": "Brussels, Liege airports closed for hours due to drones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMExQRnZmTHBsUmFDR25YQlAtMmVRZ1F1c2ZmdFV4eUh2NTRRb1JWVmZ5ZFQ3d3RadURKaVJCUklJM1RzUXJaR09PUmFqYWwwaFFwd1dFUlFmanZyNFkxY1B3QjJCaTJkM3dZUEl2MjRhUnhFUUxpVFVheEVFclp1M2p0TUhzZWJEUlU1dzdWZG5wQzN1X09nX3NZbw?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-05T02:05:00+00:00",
+      "description": "Brussels, Liege airports closed for hours due to drones  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-05T03:24:28.135766+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5a82fd35541e"
+    },
+    {
       "title": "US military kills 2 suspected narco-terrorists in 16th military drone strike: Hegseth - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdy01LXJZQ3dZZGxJVW1SeERKMlZyTEZZM25zeHJKVXFMMzRRZS1RSjFyMXZCbU51VTVucVdycmN5YmhLeTV3U3V2MlRDVjY1TmJsX0V6SzZ6ZzZQdmdaclhUUEpFekFxY0FPZFdWSWR0TC1RTVFsMTlKWHg5TUFsbVg4YmVYS2hEWUN3cXlQMmhqZDZMQnllcmF2NDV2OVhCSmFzNmVGempHMGpGbXJTejR6SkhwdGNSNHdGb3p2bXE?oc=5",
       "source": "New York Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "70b29d428672"
-    },
-    {
-      "title": "Denmark warns that Russia is waging a hybrid war on Europe, as EU leaders hold security talks - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXB2WTJ1emNJWE8xbGllSG9wYXo1d0xTZXA1NHIzNktDOWpTVXh1QXAtQjg0M3h2SEVBYWpnN0JhSmdiR09sVkZYdnFQampMUy1OOER1ZkpUS0ZpTThubjU0Z3VGRW5CQTIzaGktVHNzdkxCNmpoVmUxRWVDTmhvMjBqZUNBaE5CY3dST2RnWlJ1Nk90WnZZTG8xM0trRFZBdTluZTZ1ODI?oc=5",
-      "source": "AP News",
-      "date": "2025-10-01T17:15:00+00:00",
-      "description": "Denmark warns that Russia is waging a hybrid war on Europe, as EU leaders hold security talks  AP News",
-      "query": "drone incident",
-      "detected_at": "2025-10-01T22:05:02.214383+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "32559dc81168"
-    },
-    {
-      "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson - ABC15 Arizona",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3lVa280VTBVVnltbjcta3JhdFZocFlybXQwM2U1ZWJjd2pGN1pTWmlzdGxIdnp1MDhTUjczVm8yX3A1OVI0R1JRdUk0WndVejZmMWtXQ1Q3ZUwyd0gzQ2ZfeWFJb2x6YU5vYXlFeS1RamJjV1M1QkZOcWpSeEFTNjNIaEUtcmJlYXp6TnlBaVdIS2xrMF9uc0RWUkYwakwxa3F2OUNsUUJYVWI4ei1mN29VR3RXcEVIeTB5S09rVXJxZkhDcUVUdg?oc=5",
-      "source": "ABC15 Arizona",
-      "date": "2025-10-01T21:53:19+00:00",
-      "description": "Two Amazon delivery drones crash into crane in commercial area of Tolleson  ABC15 Arizona",
-      "query": "drone incident",
-      "detected_at": "2025-10-01T22:05:02.214383+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "99347e049929"
     }
   ],
-  "last_updated": "2025-11-05T02:35:41.386126+00:00",
+  "last_updated": "2025-11-05T03:24:32.138647+00:00",
   "total_count": 1000
 }
