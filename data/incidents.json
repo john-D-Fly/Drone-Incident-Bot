@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Bombs seized as seven arrested in counter-terrorism sting in Qld - Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmNNakV5SERPN1BMeVJVV21WTlRvUG1GNnhaZ2dSYXA1Q2N6NWppMU1DM1JVVDgxWHFQVzlRSXpFM1BucExERThrNmIyQTJmUi00c1pMSG10MWU3cFlYRkVONVVyVDZwcUJsVWRlM1JmUHVrLVhxaGtrTlk4bURZNGdKMEFwaGtmRTBxdTFydlpKMnFhZUFtZWV6X0xXdzRHc1oxbk1xOHA1RE9KUDQ4?oc=5",
+      "source": "Australian Broadcasting Corporation",
+      "date": "2025-11-05T04:57:15+00:00",
+      "description": "Bombs seized as seven arrested in counter-terrorism sting in Qld  Australian Broadcasting Corporation",
+      "query": "drone arrest",
+      "detected_at": "2025-11-05T20:05:53.704805+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f32442195709"
+    },
+    {
+      "title": "Belgium Temporarily Shuts Down Brussels, Charleroi, and Liège Airports Amid Drone Sightings, Impacting Travel: What You Need to Know - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR05zZ2JOaVhmbGMyb19qQXFidVVPb19CaDY1OE5nYlpaVk9zd0lXY0dRMm1YVzRNTnducmM4N3o0cnpkV3I3UHozT3Bqb0hlOTZDbEI3TnlZemUwNnFMXzdoaGRPMmgwRTNqWElkNDFjWHFQekZfWFR6MFhXMzAwMFJha0t2RTdWbzh5UmpTX2pnRHVjOFhXWXkzMm1PUm5pcXFMdmlvaGE1dU5vM1RWclZpblMwWmJHT3Z5ZlNnTkEzSVFxVGxheEFxRHQ1UWJOSUktTG5jUXNYTVBqdzF0NzRzNTQ2eXFZMVVFU1dJd2NHVHFnT0ZMb1ZjVFNrZUc0aGxUeGllODY?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2025-11-05T18:57:22+00:00",
+      "description": "Belgium Temporarily Shuts Down Brussels, Charleroi, and Liège Airports Amid Drone Sightings, Impacting Travel: What You Need to Know  Travel And Tour World",
+      "query": "drone incident",
+      "detected_at": "2025-11-05T20:05:53.011349+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "fe9b85df108a"
+    },
+    {
       "title": "U.S. firm develops safe drone ordnance training replicas - Defence Blog",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFFYN1NQaXh6SDRPZnctMzBlSnpzTVdYaHd3WUUtY1NraVVscFA5SVp1SkRIVENEbG9uSHN1MEpDRzBNMGotRkhUM3RFdDFNbXhyQUtVa3FzNXJ5MVJELVZlRGxBUjRlMlRxU3JBOE9oSUNBSzYyUW9QNTlEdERxMWhiaHkxN1dP0gGOAUFVX3lxTFBBclZUNGs3cThDVi1XS2NWZkpMbGVvWGpaOTFpT3ZsZ0FoN3I5OGVfdEVrb0hkTjVMNVdXOGVKbFZtWDdMc2ZJZ2xhejhNM0xtLWdZUTVKQmdVb2ZmdElNM2hjaXBnb1RWSWhLSm5waTNlRlhNRWQxbkR1TDB3NVNUX01CNUpfcHFuUGt4VUE?oc=5",
       "source": "Defence Blog",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "886c3fd8c9a6"
-    },
-    {
-      "title": "Scots prisoners order illegal drone drops of fat jabs and ‘Turkey teeth’ strips - The Scottish Sun",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmY1cHloR0N6RENZd3QwS2hkdGREZXBnblFvZ05hdXBOVVRhYVRVdGN5YlhzRHB2M1VsNFlhcXQtYXRYZHVzbHotUGh5TDZSV2VCdGx0ZUtKSmhIMnhnZk5PbVRRRWtXT1BBeGMzeXVhMWdHTFp6ai1pOHg3R0gybnNBa2dlcTB5MVB4YUVUQ1JpZjg0UG02c0YtT3VrS2dBTTRUX0RWV2RLWTBtWkE?oc=5",
-      "source": "The Scottish Sun",
-      "date": "2025-10-02T20:17:00+00:00",
-      "description": "Scots prisoners order illegal drone drops of fat jabs and ‘Turkey teeth’ strips  The Scottish Sun",
-      "query": "drone prison",
-      "detected_at": "2025-10-02T21:05:00.254745+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "80766ef93145"
-    },
-    {
-      "title": "Oklahoma prison combats contraband smuggling with drone technology - KFOR.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEVtNFZ5bnp6OU9qUWJHRWpndmd2Q0ZMSmlfSHhxLW5SN3hyeV9RLVYwVURTaE9Cai1XV1NMM2NYR3d0aDhnbTZGZmVnaGJuQjRZSl94TlFFcU1EWkNRUVlWNkhSYzY0SnhDM3FCOW5kZkpFdGNYMEtjSERuSlFPWTZObjJqT2lsVTFlWV9hSXBXU25xLVkyU2d0Z9IBoAFBVV95cUxNbGc3b0I0RWhWc0FoWHJEUU93SGFNSzlTYUpPTnhCcjJ6N1NMRnU5RUNPd2tFYUZFZDd3UEV2M29RcFNPLVZLTWR2cEF2SWlSSC1lX0tDaW8tX1Zxb0FQRFNPdTc0MlJ3dmM5dWZrakh5ZW1XaHpSSHZPWVNTcjktVHlTemhYMC1PcFdLdUV6SFpERG40Ukg3RnhQMHYxYUNQ?oc=5",
-      "source": "KFOR.com",
-      "date": "2025-10-02T20:32:22+00:00",
-      "description": "Oklahoma prison combats contraband smuggling with drone technology  KFOR.com",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-02T21:04:59.554721+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fe2632443738"
     }
   ],
-  "last_updated": "2025-11-05T19:05:41.875297+00:00",
+  "last_updated": "2025-11-05T20:05:59.606020+00:00",
   "total_count": 1000
 }
