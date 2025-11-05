@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone footage shows 999 response as road sealed off after 'crash' near Middlesbrough shops - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BUUJ2QkFBcmpyMzdvUGkxWEZUejN0c1NqR29DRldtU21nbXp1MkRHS2ZYWnNFSUFjcmMxTEV0QWdPZnV2Q01IVlZwQzhwTHB5M21XVDVIWWVjNVlDc1JzYlhPemlTTU9SS0dLVHBEVmZOQk5FSU44QUdEd2Fydw?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2025-11-05T20:07:15+00:00",
+      "description": "Drone footage shows 999 response as road sealed off after 'crash' near Middlesbrough shops  Yahoo News UK",
+      "query": "drone crash",
+      "detected_at": "2025-11-05T21:05:31.278262+00:00",
+      "location": "near Middlesbrough shops",
+      "category": "crash",
+      "id": "2c2f3040a367"
+    },
+    {
+      "title": "Belgium scrambles to address airport closures caused by drones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnFCN3h4eDRsa2pvYmhwQjg5YzVPZ1pHaEk5dHhQSUY3RUJnY2paelZOUElxeW1DZldZVVJUQllYck1sVW14V0poeFNtUlVzYVctWHczUXBzNlR4ZVNBdEtELW1aOFJWMlBZR1dXM2U4LUlDUzEwcVJJampfNHlISHUwRU8xMDdpOVVsYkZLNWJTQ2s3UEVyWWMzbTVuMHlwY01Z?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-05T14:26:20+00:00",
+      "description": "Belgium scrambles to address airport closures caused by drones  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-05T21:05:30.665488+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6b8e2f486dce"
+    },
+    {
       "title": "Bombs seized as seven arrested in counter-terrorism sting in Qld - Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmNNakV5SERPN1BMeVJVV21WTlRvUG1GNnhaZ2dSYXA1Q2N6NWppMU1DM1JVVDgxWHFQVzlRSXpFM1BucExERThrNmIyQTJmUi00c1pMSG10MWU3cFlYRkVONVVyVDZwcUJsVWRlM1JmUHVrLVhxaGtrTlk4bURZNGdKMEFwaGtmRTBxdTFydlpKMnFhZUFtZWV6X0xXdzRHc1oxbk1xOHA1RE9KUDQ4?oc=5",
       "source": "Australian Broadcasting Corporation",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "e0a5d20e9cdf"
-    },
-    {
-      "title": "Amazon pauses drone delivery after Arizona crash - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW1uWmk4QWFvRUEyRDBQYkFpakc4Z1FEVzRZYzdGeTFzNEFqNzVnbmJadmc2S252U3dHRUFKcEtoRGtTcWp4QnFKOEhBdWJNb09RQk5PbWpUak5uYVhEQy11U1F6WEw2aDJXakVkdWRBakxzSm9KYmc5aDRSbTlPSU9DLVJEd1Nk?oc=5",
-      "source": "Mashable",
-      "date": "2025-10-02T21:15:27+00:00",
-      "description": "Amazon pauses drone delivery after Arizona crash  Mashable",
-      "query": "drone incident",
-      "detected_at": "2025-10-02T22:05:05.200040+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f0b16c2f01ab"
-    },
-    {
-      "title": "Japan eyes tighter drone rules as terrorism concerns grow - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXlZU0FSZlhPOXJScG51dWplREhZNlRLLTlWUzktaURXcmdlYVkyQ2ppMm4tVldkMTBJa1NPX3B3VDY0bG82QWV0ak1uaVVFeFBHUDJudWpzSmdOTmR3Uzg2eE5GUGhYTms2SDlIMTdnUmh2VWw0dFFrMzJqUG5mb2hxaXVBLU5pVE9uYkdTVDdiMWxxRE10SlpmYnhMTHpCV0E4?oc=5",
-      "source": "Nikkei Asia",
-      "date": "2025-10-02T20:24:00+00:00",
-      "description": "Japan eyes tighter drone rules as terrorism concerns grow  Nikkei Asia",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-02T21:05:03.872859+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "886c3fd8c9a6"
     }
   ],
-  "last_updated": "2025-11-05T20:05:59.606020+00:00",
+  "last_updated": "2025-11-05T21:05:34.548192+00:00",
   "total_count": 1000
 }
