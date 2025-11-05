@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Brussels, Liege airports closed for hours due to drones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMExQRnZmTHBsUmFDR25YQlAtMmVRZ1F1c2ZmdFV4eUh2NTRRb1JWVmZ5ZFQ3d3RadURKaVJCUklJM1RzUXJaR09PUmFqYWwwaFFwd1dFUlFmanZyNFkxY1B3QjJCaTJkM3dZUEl2MjRhUnhFUUxpVFVheEVFclp1M2p0TUhzZWJEUlU1dzdWZG5wQzN1X09nX3NZbw?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-05T02:05:36+00:00",
+      "description": "Brussels, Liege airports closed for hours due to drones  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-05T05:06:28.219930+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "fc314b58b1e0"
+    },
+    {
       "title": "Suspected drone sightings disrupt flights at Belgium airports - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXUwbFUzLWhWdE9oMWN2aS1tVkJXQWVhSnZ0bEZiMzd2VzExZU95US1la1dlZU96U0VPMkg3bzBlX3p2NktTM2prSW54c0dNbWtDaUxzZ3dXdmR5YkRwTFkyRkpOcWh6UkE2RUhSZmFLV0htYUxqdFlVMGZsWmd3T2Q1bGZRR1VPdnY3c21n?oc=5",
       "source": "AOL.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "2067ae3df704"
-    },
-    {
-      "title": "Amazon pauses drone service after Arizona crash - 12News",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQelhBeWd5T1cwUGdxTzhqb3JpM1JqR3BjbUdlSXl5bE1ZdTlxYjlacldtQzgyUkdoem01djBkdjlzMXdSWVpCczNHTGVBRTlHUU9BcG5oUVFaT001cTBmOElINzNlcEJ3NnFsTWN2eDVST0RMYldhMDBQTThyOEE3NE1fdUJWemN0dUJhTkJYWFFGOEVzdi1SR3ZNTjJwalowNmJ0dEF1Y1d0N2hVcmVJdUJYczB1QjhMc1JhdWZVRXVkYmFDZGpWaTl1NjRZcFU0N1E4aS0wQjVlYnRaWXBWN3cwQjBnZTg0dFBxaDhB?oc=5",
-      "source": "12News",
-      "date": "2025-10-01T21:29:00+00:00",
-      "description": "Amazon pauses drone service after Arizona crash  12News",
-      "query": "drone incident",
-      "detected_at": "2025-10-01T23:04:54.023151+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "26e1b8347261"
     }
   ],
-  "last_updated": "2025-11-05T04:07:27.251617+00:00",
+  "last_updated": "2025-11-05T05:06:31.681908+00:00",
   "total_count": 1000
 }
