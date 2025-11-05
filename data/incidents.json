@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Two airports in Belgium shut down after drones are spotted flying overhead - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVd6YkoyUnlaN1FXZHV6TlRqdTY5X0lqdlVlQjZrcG9JNkpwLWpITHJ6dUpOZDFtQmFERU1naWU0VUZJV1AwZVVQYUg3VU9sdzQ2ZkhzSzhZTk5NTjJXR1RIZV9WMEY4X2xOX0plYXhiYmF1Uy1ZbmtlcnJfeW5NVW5Wekp2SW1xYkVKS0xLY2Z4OWd3RzNOdU5DcUxEbzNLRUHSAacBQVVfeXFMT3VVd3pXYURNWXJCM296eUlrNDBZZjhZaUxDdDV2a0t0WlN5QzlaNERkUHhSRm4ybklSczlhTjBMRVF4anpuakNYNm9rdlNmaV9jUFg1V2lNNnE4Y0pMQWw4UWFfMXFxcmZRNTdvUDV2WnNmTmpfb0s2c0FPYjZ2cVpQR1VTMUpMY0NVUlNUNE5LekRobUJDdWRlRzc5RUJSaDhwQVB3Z2M?oc=5",
+      "source": "Daily Mail",
+      "date": "2025-11-04T20:43:41+00:00",
+      "description": "Two airports in Belgium shut down after drones are spotted flying overhead  Daily Mail",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-05T01:33:38.277493+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2ea7228f96c0"
+    },
+    {
+      "title": "All flights grounded at Brussels Airport after ‘drone sighting’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXN4Qy1MU21jeUgzYTRBTENJWkM5ek4xSURsX2RNSDcxQmZWbE5fRFU4NFd2aGlRaHg5anlJWTVTRDgtR1l1bDJCcXJqWmdCUWhmSm1GdzhyLS1wWjkxT0JVWnJkeXhKTnNGNkZxdmZ1bHhVNTJFUTRoTEtmQVNYRTFTRTRneEx6Z0xnR1k0bUgyRlZSczVUak8tbmllWnNzYkd5REl3V1kycWVTenBHTV8xb0ZaVVk?oc=5",
+      "source": "The Independent",
+      "date": "2025-11-04T23:44:00+00:00",
+      "description": "All flights grounded at Brussels Airport after ‘drone sighting’  The Independent",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-05T01:33:38.277493+00:00",
+      "location": "at Brussels Airport",
+      "category": "airport",
+      "id": "6addaf5fa133"
+    },
+    {
+      "title": "Drones seen near US nuclear facility in Belgium for second time this week - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdW02cFFjR0xFaEM0MzhNaTdfYTRNNFFSNEhhZzZfNl9vQ3JCZ3RLVUxZV0ZmellzUjJ1Um1DZm83aWJnYzkzeEpBOUFTOHpiMmtnek5xek9FdjBlTWFzWGM2U2ZxUGJqUDdNTDhKQU9NcjNqMTE5M2REZk40bXJ1TFhnMV9uYkt3MlRNeV9TcWRiVkZ0M21vNUhVWQ?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-11-05T00:30:05+00:00",
+      "description": "Drones seen near US nuclear facility in Belgium for second time this week  RBC-Ukraine",
+      "query": "drone incident",
+      "detected_at": "2025-11-05T01:33:35.529940+00:00",
+      "location": "near US nuclear facility in Belgium for second time this week",
+      "category": "other",
+      "id": "f17e79db2f28"
+    },
+    {
+      "title": "Belgium shuts down Brussels Airport due to suspicious drone sighting - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXRUMXBYN18wOXVsTTJhR0lpXy1IQTVXUWNSbVotUldvUWx0REZzX2tQRWpRa1NjY1ZDU1FRQVFEeDNOS0ZKYU9uaHUyVWh2ODZKd0E3MjJKbXQ2UU4tNTlMZ01qTVRaUS16VFdLazBhNk9jVVQyeHZnUU9YSG41NzlnTzhQY3MteGRxR2Jjd2k3dHB3ZWtTQnVwUGs5dw?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2025-11-05T00:00:00+00:00",
+      "description": "Belgium shuts down Brussels Airport due to suspicious drone sighting  The Kyiv Independent",
+      "query": "drone incident",
+      "detected_at": "2025-11-05T01:33:35.529940+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "676a92ac292a"
+    },
+    {
       "title": "Explosives, killer drone seized in Qld counter-terrorism raid - Townsville Bulletin",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUWVkTmFxdWtuM01NcTZNbENPajZ1UUlqYmJQUXRPTGxQNDJORlFnNDl1Sk1UOXVUUlFPU3pmLXd4V184VFM1d0RoNGZvdjU1QU5sSWUzN0VsRnR1M0VlYk9nTFcwbi04RFhMT0VXSEVZUlZQRTZkVDdVOVJ1c2dURE9QOGVHSHFxMGd0MVZEbkRxMjRmTHhmaFJDaE8zenhpRlREUXEzZEswdmdNYW5ZTjQxSDMxOHNabUwxeVlvU05qLTdyR2pjR0J3X1U1b3VTSUVNOVZ2LVd3aEFZSUZFa2NxSGIydnQxS1IxV2NIdm0waVVTZHVhLWVLNldxZlNDZkFaMWs4bnFweU53V3hMV3EtMW5nbm1QbG9GU3BHUmdreGtVdWhqSVV6RdIBsAJBVV95cUxQeUEtOTVVcXRMZmFzMDYwRjcwc3E5U2FQYUtOTjRjNktOQmR4ejJ5bVRncE5pQmJUM3lhcW0tUzZmZXBVLW41M2Z3YXJ0VHEwUUZRVzdRYzZWcm5XX1FqdHAxUXg5Vml0V1UtRnc0UnphMEp5RjQyTFdXb0EtUFNmUmxiRExHLVNFMEdMZFBwM2oyUFVrY3cwWU9zM1g5TDNfUjNQUTE4TzA1OFVscDA1dDgzemxYLWFhQ3l4NVFNSlZieFpBVjBwS0MyYmtUeXU5ZDhqMm5ZN2RFTGdGZWxwLUNCYUJFWGxJTDdRTGZ5TGhuNVZfMWhnbFBWT0ZLWlZ4ODhLWmxSWDlhLXl4UEJvcGhWS2EzUWR1VjRXZ2djTWg2RXVKdnBoNTd5bnpjQXBu?oc=5",
       "source": "Townsville Bulletin",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f6ef8b5881a0"
-    },
-    {
-      "title": "Springfield Police use drone to stop burglary, arrest suspect - wcia.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTUzSkh2OWdPZ3gweUFEUXEteHZhV2FrUVYyVzhyc2NpaktiOVJfcFlQbFFRaWthSkFoR21VN3ZMMTJSLUEzN3pmNDVWSEdBLVY5ekV6aDFxY3lGZE96Rlo5cFBTUmsyazh3cTRzVUtseWdudDUxcnVYUTFZc2lLd2dab0FxdVVmaU1Oa19zSjF3ZTNwVlFNTXN6NWQtcE5KcWZmOXVR0gGrAUFVX3lxTE5Fdnlnd291REVyanlyUVBZVXhXZl9fZEpWMHUwNGR2ajhhZFhPRmN6RjZWd25pNHJjWnNGVDNCVkMxWmFZOXJFMmMxbjd0OVM0VXF0SmxmcEdPRmp5b0szalR3OENBRVVvazg3cmFvR0p6ZjRPTUJXWVBZUVZGcHdIcDA0WUxZYkhsV0pBbDJiZE9sMWVLYTExU1lhZlZTdkdBWWIxbnNaWHRTZw?oc=5",
-      "source": "wcia.com",
-      "date": "2025-09-30T22:18:00+00:00",
-      "description": "Springfield Police use drone to stop burglary, arrest suspect  wcia.com",
-      "query": "drone arrest",
-      "detected_at": "2025-10-01T21:05:05.570770+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "79e0e22f76c0"
-    },
-    {
-      "title": "‘Active investigation’ after 2 Amazon delivery drones crash in Tolleson - AZFamily",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUFEemdmVTU1UG1lYVRaX1dXLUdEa0hGbjlzdy0xbkk3elJQM2hIcUxQcmotbDdIT29tRHlnVDlvZDJ2N2pEVVlYYzkwNzd0S3hIMmE1MEVWVjh2dVA4d01YZWlPR0dZQVNLakJGMmxFY2ZUcTduVHVwRmFkNVdEM1Q5aFZROWF4UkVYc2VMMnhEMkF3OEphajdmbzNXX3B1bWZFU1V3?oc=5",
-      "source": "AZFamily",
-      "date": "2025-10-01T19:21:00+00:00",
-      "description": "‘Active investigation’ after 2 Amazon delivery drones crash in Tolleson  AZFamily",
-      "query": "drone crash",
-      "detected_at": "2025-10-01T20:06:09.459083+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "0e50ca5e186d"
-    },
-    {
-      "title": "NATO weighs response to drones - Northwest Arkansas Democrat-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSU0ZOSHhVcUhOa0ZSempIUWlIQi1lSDNIbVVKa1B3X25Vb2xRb1FCaFVhZTlGRlRjX0NZMXh3aE00dkFRcWRlYnZVVk5FQXZ4Wm9oMEl1cDB4QVVTRHl1ZGdHOUFxU1hRUFBvTWdqSHVSVHdabjctX3ExQkU0LVU?oc=5",
-      "source": "Northwest Arkansas Democrat-Gazette",
-      "date": "2025-09-30T09:30:00+00:00",
-      "description": "NATO weighs response to drones  Northwest Arkansas Democrat-Gazette",
-      "query": "drone incident",
-      "detected_at": "2025-10-01T20:06:06.112798+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b2fe5bf35474"
-    },
-    {
-      "title": "Denmark warns that Russia is waging a hybrid war on Europe, as EU leaders hold security talks - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXB2WTJ1emNJWE8xbGllSG9wYXo1d0xTZXA1NHIzNktDOWpTVXh1QXAtQjg0M3h2SEVBYWpnN0JhSmdiR09sVkZYdnFQampMUy1OOER1ZkpUS0ZpTThubjU0Z3VGRW5CQTIzaGktVHNzdkxCNmpoVmUxRWVDTmhvMjBqZUNBaE5CY3dST2RnWlJ1Nk90WnZZTG8xM0trRFZBdTluZTZ1ODI?oc=5",
-      "source": "AP News",
-      "date": "2025-10-01T10:32:00+00:00",
-      "description": "Denmark warns that Russia is waging a hybrid war on Europe, as EU leaders hold security talks  AP News",
-      "query": "drone incident",
-      "detected_at": "2025-10-01T20:06:06.112798+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "91e72bd031f8"
     }
   ],
-  "last_updated": "2025-11-05T00:23:12.293329+00:00",
+  "last_updated": "2025-11-05T01:33:42.397852+00:00",
   "total_count": 1000
 }
