@@ -1,0 +1,163 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have predominantly affected airports in Belgium, resulting in multiple flight cancellations and disruptions. Notably, drones have caused extensive delays at Brussels and Liege airports, prompting heightened security concerns and emergency meetings by officials. Additionally, drone sightings near military airbases have raised alarms about potential threats to national security. Incidents related to drone smuggling continue, particularly concerning prisons, where authorities are innovating solutions to counter these breaches. The broader implications include discussions around policy changes and enforcement related to drone regulations aimed at enhancing security measures.",
+  "totals": {
+    "smuggling": 6,
+    "other": 12,
+    "airport": 25,
+    "crash": 3,
+    "arrest": 7,
+    "terrorism": 6,
+    "total_incidents": 93,
+    "by_category": {
+      "airport": 36,
+      "arrest": 8,
+      "crash": 6,
+      "other": 15,
+      "security": 3,
+      "smuggling": 19,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 19,
+      "drone arrest": 7,
+      "drone crash": 5,
+      "drone illegal": 1,
+      "drone incident": 26,
+      "drone prison": 9,
+      "drone security breach": 3,
+      "drone smuggling": 11,
+      "drone terrorism": 11,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruption",
+      "rationale": "Multiple incidents involving drones disrupting flights across Belgium airports, specifically Brussels and Liege.",
+      "incident_ids": [
+        "b75cb53d08c4",
+        "207ec51ad757",
+        "b5a27b44999b",
+        "f00d4b70444c",
+        "b5a27b44999b",
+        "e3d7d0ac786f",
+        "2ea7228f96c0",
+        "0f751c3e5335",
+        "fc314b58b1e0"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling in Prisons",
+      "rationale": "Increased focus on drone-related contraband smuggling into prisons, leading to public and governmental discussions.",
+      "incident_ids": [
+        "1c2cd671aa3d",
+        "d1eeabbb1074",
+        "ac1409b18d24",
+        "6ba0d041e53b",
+        "4ea04b56bec3"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b75cb53d08c4",
+      "headline": "Brussels, Liege airports closed for hours due to drones",
+      "one_sentence": "Brussels and Liege airports experienced extensive closures due to multiple drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "207ec51ad757",
+      "headline": "Flights resume at Brussels Airport after drone sightings",
+      "one_sentence": "Flights resumed at Brussels Airport after several hours of disruption caused by drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "1c2cd671aa3d",
+      "headline": "Innovation required to tackle drone threats in prisons",
+      "one_sentence": "Calls for innovation to counter drone threats in prisons have surged amid rising incidents.",
+      "risk_tags": [
+        "smuggling",
+        "prison security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e3d7d0ac786f",
+      "headline": "Drones shut down Brussels airport overnight with further sightings reported over military airbases",
+      "one_sentence": "Brussels Airport faced shutdown overnight due to ongoing drone sightings, further raising security concerns.",
+      "risk_tags": [
+        "airport disruption",
+        "security"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f2a1bb7257d6",
+      "headline": "Drones shut down Brussels airport overnight with further sightings reported over military airbases",
+      "one_sentence": "Security measures increased as drones were spotted over military airbases in Belgium.",
+      "risk_tags": [
+        "military security",
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f00d4b70444c",
+      "headline": "Bombs, guns seized as seven people arrested in counter-terrorism sting",
+      "one_sentence": "Authorities arrested seven individuals linked to a counter-terrorism operation where firearms and explosives were seized.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "0d716a79b161",
+      "headline": "Bombs, guns seized as seven people arrested in counter-terrorism sting",
+      "one_sentence": "Seven individuals were arrested and weapons seized in a significant counter-terrorism operation.",
+      "risk_tags": [
+        "terrorism",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d1eeabbb1074",
+      "headline": "Belgium Calls Urgent Security Council Meeting After Drones Disrupt Airports and Military Bases",
+      "one_sentence": "In response to drone disruptions, Belgium's government convened an urgent security council meeting.",
+      "risk_tags": [
+        "security disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones have caused widespread flight disruptions across Brussels and Liege airports, raising significant security concerns.",
+    "linkedin": "Over the past 48 hours, drone incidents have led to significant flight cancellations in Belgium, prompting urgent discussions about security and regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-05"
+}
