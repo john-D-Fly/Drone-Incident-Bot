@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Belgium to hold security meeting after drone sightings at airports and military bases - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjRMcnVRcm0xQ3hvVjNQXzl0dERqR3VzcE8yRVhVR3dVTkNyR2JTSTBEbTBjMnItX04zd1g1dDdHemhhMnJGNktvelNISXByRzV6QmtrNGQ0eFU1QWRQMl80WER1WTI5SU5Fb1UxeHBUOHZOdXFDd2dSUEV1cG81ZjRRZ241ckVmdHNiUGdsSFR2RkQ0MjRkQjhUSUJVc3M0cjFuMDZqZGhMb0xqMHktb2ZKLTktRnVndHRGWC1aU2ZPaDBZcDh2VGRMMA?oc=5",
+      "source": "The Guardian",
+      "date": "2025-11-06T10:23:00+00:00",
+      "description": "Belgium to hold security meeting after drone sightings at airports and military bases  The Guardian",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-06T13:14:33.744663+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "20c3d874bb1a"
+    },
+    {
+      "title": "Ukraine’s Drones Hit Tuapse Oil Hub, Disrupt Exports to Asia - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0YUZvSjJpeUFxSFJGemhicGdlVUFZM3JkRXlSNURqQTVGVFlBZ2FkZ3hGOFVaRzFzc2FjUDFMci1PaFU3dmRBX3VJbw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-11-05T18:16:08+00:00",
+      "description": "Ukraine’s Drones Hit Tuapse Oil Hub, Disrupt Exports to Asia  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T13:14:31.125925+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "d779eddf5f52"
+    },
+    {
       "title": "Russia strikes Ukraine with 135 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDhBMGdXREt5NGFud0ZlY3BQZGNUdldQb0MweV9XczFWUlZxNFNJNnVDX2xLVDB3ZGhqaGgzUlY4el9fcVhQMFZCbUZfT1lGOFZUam5XNktKSEJ2ajdSVGlqb25iVW9TaVhPTjBUc0liU2h3ZDVQYy1DQnFQVWxiYmcyanp5U0c5eG5xWkZpUFUteGhIQ2YwVExkejQ?oc=5",
       "source": "RBC-Ukraine",
@@ -11975,32 +11999,8 @@
       "location": "at Munich Airport",
       "category": "airport",
       "id": "d4938a83ac1f"
-    },
-    {
-      "title": "Chinese Nationals Arrested with Drone Near NATO F-35 Base as Europe Faces Drone Crisis - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkFiSDVLSzVfYW5YeUp3alJBS3NKWXV0QkNDckdobVJnN3kySktoak02aUxPUzR3N0ljTkNlWDJ0dmJoXzBLTTUxalJBRHA2bUFXY1psdk04MS1uR3QzUHV5alZwdEwyY3RfVGJPY0hNbEdCbGRVMTd5Q29jRVFoVmRRWm5hTk5KNmVj?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-10-03T04:57:36+00:00",
-      "description": "Chinese Nationals Arrested with Drone Near NATO F-35 Base as Europe Faces Drone Crisis  DroneXL.co",
-      "query": "drone arrest",
-      "detected_at": "2025-10-03T05:05:41.719026+00:00",
-      "location": "Near NATO F",
-      "category": "arrest",
-      "id": "3572e56d1053"
-    },
-    {
-      "title": "Munich airport reopens after drone sightings halt flights - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHQxMHg5dlBuNkp0XzBrYW9pR1Z0ZEpTY0VPWjVKeHl5UHE4X2ZxMnRGaUV4dmc3enBVUWV0cDhsUVFUVEk1MzB3X3VzTWpXeG9JbC1NUXBVYlM5MGhoNzg4T2NhMVozM3p4MEx2OHktN3NQRnM1OGNFRkR1eGM2NS1WMHpxX1E0SVkyLWlUQzhUNjFVZ2c5Mi15YV9rd2QtSWRndmh5N2FZZE5EN1hsYkVJOUt6UDhj?oc=5",
-      "source": "Reuters",
-      "date": "2025-10-03T04:24:00+00:00",
-      "description": "Munich airport reopens after drone sightings halt flights  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-10-03T05:05:41.118676+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "5ea94b8a330d"
     }
   ],
-  "last_updated": "2025-11-06T12:09:37.847158+00:00",
+  "last_updated": "2025-11-06T13:14:37.621258+00:00",
   "total_count": 1000
 }
