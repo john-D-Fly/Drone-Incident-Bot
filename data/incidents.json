@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Mayor Greenberg warns: No drones near UPS plane crash scene in Louisville - WHAS11",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWTJodWlhaW1rVi1Wdm96ZjE0ZDliaUJKUmgwbWMydFQzUW05OWdMWkhibUhTendDRjUwemZjME9SOGZPSTJQdDJNN2JCWTFMUVkxTF94bi16T2Vhakc1RU1FV3Q3SWpTN0NQSXhobDMtbEFqMmV0RnhCN0RwaVZhRjZGY3ZPTlBPcUhFbmtqbUlNMlBZQXlvSjQzcE9GalNzWjFvU3FZVkR6WXZlM0NpR3FndFhSM2tIODJZaUNrZkNoV3EtcngyMjF3UDE4TGh1YnQxRk5KZWRHRHBXcHpCQnEtOXp2c3ZCQzNtUHp2U3R5cXN2QWc?oc=5",
+      "source": "WHAS11",
+      "date": "2025-11-05T17:17:00+00:00",
+      "description": "Mayor Greenberg warns: No drones near UPS plane crash scene in Louisville  WHAS11",
+      "query": "drone crash",
+      "detected_at": "2025-11-06T04:09:39.252860+00:00",
+      "location": "near UPS plane crash scene in Louisville",
+      "category": "crash",
+      "id": "5d5f465aeb78"
+    },
+    {
       "title": "Flights resume at Brussels Airport after drone sightings - DW",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNuZW1oYXpxeU4tUTFjVGg5ZGMxOTd6YzlPTXcwdy1Qc3dJYmJZc1dkYnA5dUdYRnF4NDliWUdma2NwZmw1Uld0VEJQTGZqRGlJNGNheUd3RE1FTkRVR3BDdmpWcUg2RktOQUNreVR0T3A4eXczQTBzdnR4X2Noc2ZJdHNNcFZpNTJHWDhjb19hTzDSAZMBQVVfeXFMUHJTUzE4QndkZl9pb1o3U3RncEViNjVjZjZKUFpUWnlDdmU5THhwZTliMTZiNlU5V19naDRXQlJsTUJucHVLNDZVQXhuOWZOWFphWGRzekZWcHZjVC1sd0d2RzQ2cWxMSWZubC0yU2o1UmFzWTFtTUdRSk85ZU9vekJkdWRWTFJqZzVTNHV3bC0yX3pz?oc=5",
       "source": "DW",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "85ef9a031b1a"
-    },
-    {
-      "title": "Prisoners are having Mounjaro and tooth-whitening strips delivered to their cells using drones - Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNS1LYlA2T243aGdFZmJQN1FsMTd3OFBNQ2ZIMmk3aFJzYV9lMVNPU0pBdXp3UnNIOWpJR0J4ZmUtSzVCYXNuQWVjaC1wOGdjVGRCUVFtWUljR1pGUTZwMmNNdTVDMVhWd1RMUXdwUlhUeDZKVU1wYWRsUlZoTWxNTVZ5d1ZDaElKZGJDQkk3OE9NejY0SHlSZS1RS2l6YWotT0dFRjJWSDRfOXQ0NE1sdUw2cDlLS3VvUTMzRy15azhldUVLMnl1dllVWVPSAdIBQVVfeXFMUEJEMjAzQ0xZSDB1M0lPelVIN2x6Qk1WX2lFNi1qdi1qZElPak1Sdno2WHh6RWNGdC1rT2I0azFBSURnR0t3a2R1ZjdPazJjWU8yQVE4eTM1c3p2YktheUFKV3Z4R05qcWY2a2ZKbXlSY2VGVHRQTm9vTENXcDNTQjlieWN3UkRkbUktdVFGSlFQdjBuaXpkWWxhdk0yNDE0QUduTTFnRXUyUUl6WHRwaDhYaUVZZnJ4cTBTZDdscFd1TXhSOWg0OVFLdVhma3VGZ0lB?oc=5",
-      "source": "Daily Mail",
-      "date": "2025-10-03T00:31:27+00:00",
-      "description": "Prisoners are having Mounjaro and tooth-whitening strips delivered to their cells using drones  Daily Mail",
-      "query": "drone prison",
-      "detected_at": "2025-10-03T01:32:44.142275+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d56b0341f5b4"
     }
   ],
-  "last_updated": "2025-11-06T03:26:46.169770+00:00",
+  "last_updated": "2025-11-06T04:09:42.912253+00:00",
   "total_count": 1000
 }
