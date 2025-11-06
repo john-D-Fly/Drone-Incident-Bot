@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone scare halts traffic at Sweden's second-biggest airport - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWJINFA4cXRLVTYxbE5fQXIwaUc1SWpJeGRRRU5uX3l1UmFUVXUzdlRxVnU1MmsyZG44TjJ2T3Z5YzdqX0hrNVZCTEJGSHh4ZmFPMnV2VExBUFM3c0R1MEY3X0FXT3ZoWkROOE9sUjR6cXk3dTB4bnEwRkwtQnh1U2l1aEIzRGM2dzFyU3N3amNsSzBPbWZsOTdxZGh5dXpfSGpOLVY4S21UeldGVHJ6d3hJaXJVTFk?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-06T20:16:05+00:00",
+      "description": "Drone scare halts traffic at Sweden's second-biggest airport  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-06T22:05:19.820414+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "78eeb5035915"
+    },
+    {
+      "title": "Traffic to resume at Sweden's second-biggest airport after drone scare - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXNNd0lmcklfWVlYZGpaR3FxSjZVS0lyMzA0N0lxX05TdTNBNlp3R2dBXzI1ZV9CelZFbm9DU1dzU2tqUzBQc0kteGc1dFN3NlRESTNJWFpYM3VJR1NJRmN5VHBQdFZoX2ZzWERGYnFBdmg1RF82LVY3R3NqMjdwemhabUw2bGRWRjNVRFdPNkhPcEY2VzZBU2dpTTBES1NabXk3Zy0xeFowNkY0U05vOQ?oc=5",
+      "source": "The Straits Times",
+      "date": "2025-11-06T21:30:56+00:00",
+      "description": "Traffic to resume at Sweden's second-biggest airport after drone scare  The Straits Times",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T22:05:16.964023+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "b08d6e0d843c"
+    },
+    {
+      "title": "Flights grounded at Sweden Airport after mysterious drone sighting | World News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVE95VlpxQ1hWYzhxVXdMRFlSWUFDRS1fczFscEpHUW1iOGRaN2s0WDlfVGpRRWNHcXNKMmZuTk1oQ1o4SVRXRkUtM2RTanNxRGhXNmFEaHhlb2JteVVfV2tuZERTZXBLa1U2XzJrQ09KUnBIWGFYa2tZOERYcXJuaEVIazc3U255MG5RV284NldaUkcxN2JEYUtwUlczbVNWSlhoRTAzbzU2OXAzOTI2RTFhRGNsR1hHb2lVelZybzVlbmFPY3lhOUp2bGc3OEtwa3oxQmRJMTREcTRkNkHSAd4BQVVfeXFMTVRPeVZacUNYVmM4cVV3TERZUllBQ0UtX3MxbHBKR1FtYjhkWjdrNFg5X1RqUUVjR3FzSjJmbk5NaENaOElUV0ZFLTNkU2pzcURoVzZhRGh4ZW9ibXlVX1drbmREU2VwS2tVNl8ya0NPSlJwSFhhWGtrWThEWHFybmhFSGs3N1NueTBuUVdvODZXWlJHMTdiRGFLcFJXM21TVkpYaEUwM281NjlwMzkyNkUxYURjbEdYR29pVXpWcm81ZW5hT2N5YTlKdmxnNzhLcGt6MUJkSTE0RHE0ZDZB?oc=5",
+      "source": "Hindustan Times",
+      "date": "2025-11-06T21:30:57+00:00",
+      "description": "Flights grounded at Sweden Airport after mysterious drone sighting | World News  Hindustan Times",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T22:05:16.964023+00:00",
+      "location": "at Sweden Airport",
+      "category": "airport",
+      "id": "10f66016253b"
+    },
+    {
       "title": "Swedish airports halts traffic over drone incursion - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCU3VsWFVqcFd5d0o5TUtHRnR6MFBXT2JXLUtfTjNLdWs0TkZ1RGp1VzlyRFFBQUhkOHJ2SzAzUHNYbENYSjM5RVVFS1I1SHBqbUgwVkRQYXpGMGNLVU1J?oc=5",
       "source": "The Jerusalem Post",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f15b639832f0"
-    },
-    {
-      "title": "'Doomsday scenario': The new threat at the Egyptian border - www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjhxVVRtNzFkRlhFM0hJc2F1YnY2MjJXOXItc2tJdGYxN3Nrb1FjLWh0WnE0bE5RcUx3ZnBzT1dldnRLVkl3c1dXZ19CTnFOTmZDd1BYQWVlUm9FNDBDVjFqUVk4UjlaRUYxb09ad1FvLXdPcmg4UWppV25pYXhXNXpqOG9KZ2Q1UU9EbXg3RVhXMV8yUzMzcDlmNA?oc=5",
-      "source": "www.israelhayom.com",
-      "date": "2025-10-03T09:10:02+00:00",
-      "description": "'Doomsday scenario': The new threat at the Egyptian border  www.israelhayom.com",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-03T12:08:31.790418+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "6fd97eb506d8"
-    },
-    {
-      "title": "Amazon Resumes Drone Deliveries Days After Tolleson Crane Crash And Fire - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVhSm9KNlppazdsVFZtSk9XOFJ5TTdKLTVmSkpTQ3BYV0VTbUpPRU4xbGZyNWI2eGdvMWNFRHM1NkVkWmVvMlkzTU16VERDcWNIWUVBaFE5M1ZGZDhtQkFjV1puTGNhclVsWk85VGNyZFNhTnJ4TlZHR01rTkZhSnlhZ1FnYl92c2hnN0ZVX0VBakNUbjRFNV92bnU0Rm1rLTFSTGZn?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-10-03T04:38:00+00:00",
-      "description": "Amazon Resumes Drone Deliveries Days After Tolleson Crane Crash And Fire  DroneXL.co",
-      "query": "drone crash",
-      "detected_at": "2025-10-03T11:05:06.908048+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4c2282cf76ca"
-    },
-    {
-      "title": "FAA to investigate after Amazon delivery drones crash into a crane - FOX5 Vegas",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEN1TFJqRm0yY2M5MU1jZV9pODdOdUNBcUxPWmNxSzJVQ2l6YUMxbUFDYXlsQ1lJVnc0R3dLZmZaeXE0cGRwYnl1WENEMk53MmZpUDEzWWZQUzJla2dSLW9ZQmlJRUlTTS1ERUgwenFKcUdDWG9TU3FpcjZHOUlOQ0s4eXB4WFlEOG1JTHRqeUJFWFNibE1SS2h6T2R5NUs40gG0AUFVX3lxTFBMVEZXT0xGdFlBcEFMMlVCNG1ualF2akM5aVdJa3YxUTRTd0EzRWJ2NjZKYXpRRmt5Q2FJem52MzZOa19ZQlM0UGdsV1prNzY1SDc5WVJUSnV5SU1Hc01ZY185SnVQNFhfS1NVVHVkYjdvN0FKSmdGWG1ValRZSkx2TjhkZFlEQmprTlhkOWFMdWVjODA3Sy15MVI1b3g1VE1TWW5lVklaM0ktMGNGQnNNQ3VLeg?oc=5",
-      "source": "FOX5 Vegas",
-      "date": "2025-10-03T01:45:00+00:00",
-      "description": "FAA to investigate after Amazon delivery drones crash into a crane  FOX5 Vegas",
-      "query": "drone crash",
-      "detected_at": "2025-10-03T11:05:06.908048+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "8709b0357826"
     }
   ],
-  "last_updated": "2025-11-06T21:05:18.519147+00:00",
+  "last_updated": "2025-11-06T22:05:23.372918+00:00",
   "total_count": 1000
 }
