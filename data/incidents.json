@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "New law restricts drone use for hunting, fishing in Kentucky - Kentucky New Era",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0JfUHA5LS1ERUJVMzZvN0VSWUwzMzNXSE9LbTV5WmJPdUF5a2xpWDFUcmxTUGpYanRXbDhSeDh5VzlZa3RIa3Y2djAxeXpLS0lyU1M5bDBsNTJQMmdxZlV1Ym0yanlZdGNFU0otdnYwNTdSRWpwVmVXM0VBUGY5RVY2SkhaNnlQT2x0c0licXJuZw?oc=5",
+      "source": "Kentucky New Era",
+      "date": "2025-11-06T06:00:00+00:00",
+      "description": "New law restricts drone use for hunting, fishing in Kentucky  Kentucky New Era",
+      "query": "drone illegal",
+      "detected_at": "2025-11-06T07:06:03.650668+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "0a97f5e491cc"
+    },
+    {
+      "title": "Ukraine’s Drones Hit Tuapse Oil Hub, Disrupt Exports to Asia - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0YUZvSjJpeUFxSFJGemhicGdlVUFZM3JkRXlSNURqQTVGVFlBZ2FkZ3hGOFVaRzFzc2FjUDFMci1PaFU3dmRBX3VJbw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-11-05T18:13:25+00:00",
+      "description": "Ukraine’s Drones Hit Tuapse Oil Hub, Disrupt Exports to Asia  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T07:05:59.876838+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "df3e5346855b"
+    },
+    {
       "title": "Ukraine war latest: Surrounded troops should surrender, says Russia - but Ukraine insists its troops are 'not encircled' - Sky News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
       "source": "Sky News",
@@ -11975,32 +11999,8 @@
       "location": "Near Major NATO Base",
       "category": "arrest",
       "id": "b90785e93f3a"
-    },
-    {
-      "title": "NTSB, FAA to probe crashes of two Amazon delivery drones - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpkM3JRQlpKb0hYTVNYZUFJbEV4UU8xdENyQklqX1hlOTRFVlo0SXMwWFJEZmVHQW5lek5JZEppbWNaWklWWThEcHNmbmF2d0JoUzNUTEFNcXpFVVBhdElWMVVyeXpoZ1BtYVVRMnp0RDYxZ3NXbkJEVG5FVXJkcjh1dlU2N1ZNV3VLUDFuSHNCbldtczdfOGFubEs5YlJLbXBtVnJqYzZhVEVtZHZZ?oc=5",
-      "source": "Reuters",
-      "date": "2025-10-02T20:39:24+00:00",
-      "description": "NTSB, FAA to probe crashes of two Amazon delivery drones  Reuters",
-      "query": "drone crash",
-      "detected_at": "2025-10-03T01:32:45.490790+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "08202fdfa398"
-    },
-    {
-      "title": "Germany: Munich airport shuts down after drone sightings; 17 flights grounded - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzNCNmhRZGJlcTk2SVF5Y1ViZFhjdUJIdXdtRUJZU2R0eU1PLWdFNnVlM0FocS02M3RObGp4cEZmSEh4VWo2U2gzXzJyTU1ZcUhGM1JJUEo1dUdZdE5TWjgtal83V3Q3VGowbkxUVDFVUGFGVDFWaUFmYlQ3a281MXVmQ2pBeUNlTWRJcXR6N0VkZDdlcUo5b3p2WVB0RkR5WGdBRlNyTHZvdko0dUJJLVBReGljVUVjdHR1UkVzY0VzWnQ1TUFUSl90cVUzYTJwLVIxbEdvYXkya2t5Z2dDZ2JJMkfSAeoBQVVfeXFMUDF0bjBIMkxncGV3VldiTF9HVGYwTGIwTmdrMC1BWG5QT3FqSVFZWEQtSGRkOTNXSEQtRXh3SXFGR3R2YXRqNUFvYmhZUHFfZTloeUdJNDh0WkVFWkFuWGZsOGZ0SGtmd2J1bDQwcWFsY0JiN3FYMzhYb01GRkRSZ0JscVVoU0tzZkpnNENmT3ZZSWZ3Rll0MWZiaFY0RG9qb3JNckkweV9XUDYzajYxMml1aGExM01IZFVSVlBLcExVTkxsZExPdzFnSE43RDNwMXBCaExrOVlGaGhhNDRSSFdueGpYaWk3ak13?oc=5",
-      "source": "Times of India",
-      "date": "2025-10-03T01:01:00+00:00",
-      "description": "Germany: Munich airport shuts down after drone sightings; 17 flights grounded  Times of India",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-03T01:32:44.841036+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9ec70d48f6e5"
     }
   ],
-  "last_updated": "2025-11-06T06:08:20.754142+00:00",
+  "last_updated": "2025-11-06T07:06:05.980822+00:00",
   "total_count": 1000
 }
