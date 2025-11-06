@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "TDOC proposes $1.7M to detect drones around prisons - WKRN News 2",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTE3ODNFcHE4SVhNQXhNM0NQNmlBd2V3UTRFMTJ2YVNaSzJGNlRKQTM0cmxPQlZVSlRoODlDVENjS2thSFJZdGdOUzV4a1UxQTREU3dJaFBmcUFacWJqT1kwVE96T0pzWGdnU2I3ZDZiUl9yNlpfYUJocXJXUWJibXFLZmg1ZzZxUEdEbUZ4a0M?oc=5",
+      "source": "WKRN News 2",
+      "date": "2025-11-05T13:04:31+00:00",
+      "description": "TDOC proposes $1.7M to detect drones around prisons  WKRN News 2",
+      "query": "drone prison",
+      "detected_at": "2025-11-06T01:33:32.727910+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "631594dd8298"
+    },
+    {
+      "title": "Belgium probes drone sightings after flights halted overnight - France 24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGx3bWxUMGF1RUZQQnVQQ05jbERmaENLdU1mMTVDUXR1cDVFMTRSWGpDSU9peG8xWGd4Zkt5TzlGdHV4bUIxSFJmMmQ2ZTA4NkV6ZkxmWE9KMTlIQzJfZHVfX3hFYUljYXQ2SDhTSFphdV9VWXBuYlpKZkR6X1FhTDdQeVZ5X2NZMy1LX2tzQUJhdHR4TTFHQjREQWl2S2Ixd2ZIYWhYejZfVkgy?oc=5",
+      "source": "France 24",
+      "date": "2025-11-06T01:13:17+00:00",
+      "description": "Belgium probes drone sightings after flights halted overnight  France 24",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T01:33:30.921521+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9e45dec44b84"
+    },
+    {
       "title": "Can your neighbor fly a drone over your backyard? Texas law explains - Austin American-Statesman",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHBtOEl6N3g1RjNzLVZXMmFsQmZGUlpkdUlNQjdWcWFkN2R1dXc4dmVzcFdiQkpMOXhEZVBiaGVxdFY4alRVMnUydXJYLTlPN0dTOGNCU0tkYUU0SXFYcFMzbWZtZ3dZUnNPNG4yTzFPWHQtRzZSMUE5cWJ4WXRpbFBB?oc=5",
       "source": "Austin American-Statesman",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "06a0746d6970"
-    },
-    {
-      "title": "FAA sets unprecedented drone restrictions over Chicago as feds step up immigration arrests - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHZxRDMyWkRXUF80OEFVQ0d0NTZadVc4YWZkTXhXUlFWLWxGRTVUdlBodDlVQW1VRzZTSjFsa3NvUVZFc0xvR29DN2pqUGk5WmpVODl2TklMU2pHSUFaMHppZkJCUVVKeG0xdVlGUG16TXlScUUyTGt6R3dlU0lzNUZPQQ?oc=5",
-      "source": "Chicago Sun-Times",
-      "date": "2025-10-02T21:12:00+00:00",
-      "description": "FAA sets unprecedented drone restrictions over Chicago as feds step up immigration arrests  Chicago Sun-Times",
-      "query": "drone arrest",
-      "detected_at": "2025-10-02T23:05:05.281391+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a4f66b922533"
-    },
-    {
-      "title": "European positions on Russia harden as drone incidents, cyber-attacks and sabotage mount - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTdSQnIza1BhdXo4bGZiSTh2clZ3NmVQMmJYS3FqXzdOMkJNWTY1S0FPclJ5VXphN3g5ZGVYOGY4UHpfWlRzV0pnd3NyNjNyU1ctU3RnaVlyMHgwR0hsSENmNmlMdzh1aFZGSmxrVUZBdHhrWWJzRHFmWGdKaVN0Tmlad2JRcmNYN0xJYW13YXVERnRTUXgtbFVTN3NIY0pFVEtRcUFlWjF0R0hHcENYMlZBQ2ZOZFRH?oc=5",
-      "source": "Washington Times",
-      "date": "2025-10-02T20:35:23+00:00",
-      "description": "European positions on Russia harden as drone incidents, cyber-attacks and sabotage mount  Washington Times",
-      "query": "drone incident",
-      "detected_at": "2025-10-02T23:05:04.676129+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1fe0b9971c04"
     }
   ],
-  "last_updated": "2025-11-06T00:22:45.863806+00:00",
+  "last_updated": "2025-11-06T01:33:37.084381+00:00",
   "total_count": 1000
 }
