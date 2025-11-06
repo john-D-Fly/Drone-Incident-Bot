@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Israel declares closed military zone along Egypt border to combat drone smuggling - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKdm9EUDhyajlQYXM5NWV2bmREdDNQM0oydU9QaFl6X3FhNHgtSUQ0SGJyNDN2bjd0STVhUnlxYzJoa2RleVQxVkJkeS1uRlpNMWxGdk9R?oc=5",
+      "source": "Ynetnews",
+      "date": "2025-11-06T07:55:45+00:00",
+      "description": "Israel declares closed military zone along Egypt border to combat drone smuggling  Ynetnews",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-06T08:07:18.115188+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "74dadb4ea393"
+    },
+    {
       "title": "New law restricts drone use for hunting, fishing in Kentucky - Kentucky New Era",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0JfUHA5LS1ERUJVMzZvN0VSWUwzMzNXSE9LbTV5WmJPdUF5a2xpWDFUcmxTUGpYanRXbDhSeDh5VzlZa3RIa3Y2djAxeXpLS0lyU1M5bDBsNTJQMmdxZlV1Ym0yanlZdGNFU0otdnYwNTdSRWpwVmVXM0VBUGY5RVY2SkhaNnlQT2x0c0licXJuZw?oc=5",
       "source": "Kentucky New Era",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "d6d9de266703"
-    },
-    {
-      "title": "Chinese Arrested with Drone Near Major NATO Base - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjZvRkNZRTJqMTFJUVJkbVlqYmdnQVpubnl5QmtVeVVUU0k3a25aWTkyRVd2d1N1MHYwQkJYR3VUV25aaHdqbGljRERvUnFwSGxLNG9LMklLVi0yc010bWs5dm91aERWemtlcEVHSHhCZVNBaFRKelZYNEZWci1OYkZBa2tSc2lMLUE?oc=5",
-      "source": "Newsweek",
-      "date": "2025-10-02T16:12:00+00:00",
-      "description": "Chinese Arrested with Drone Near Major NATO Base  Newsweek",
-      "query": "unauthorized drone",
-      "detected_at": "2025-10-03T01:32:47.987087+00:00",
-      "location": "Near Major NATO Base",
-      "category": "arrest",
-      "id": "b90785e93f3a"
     }
   ],
-  "last_updated": "2025-11-06T07:06:05.980822+00:00",
+  "last_updated": "2025-11-06T08:07:23.135361+00:00",
   "total_count": 1000
 }
