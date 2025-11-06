@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes into Seattle Great Wheel - KATU",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTRGSlozbFUyalJlUHhhNnREbzZqbjJkNGpvVlZOX01QcnBqRjFSLVNCcWNqeEVjOWZLa25qMHB6Qk42YlBNYmZONmgxcWlPZ2ZQMTRaRG5LZlg1ZFRpYVJ6UUN6ZWNzUGRUOHZVNEJ1eGVfVmt3cXdnWm9hc2k5dlZjOHlnR3BLUkJyVmUtS3V4WVE0b0RzSw?oc=5",
+      "source": "KATU",
+      "date": "2025-11-06T04:41:56+00:00",
+      "description": "Drone crashes into Seattle Great Wheel  KATU",
+      "query": "drone crash",
+      "detected_at": "2025-11-06T17:06:26.081794+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "166ada770a4b"
+    },
+    {
+      "title": "Belarus Drone Smuggling Attempt Foiled by Polish Border Guard, $892K in Cigarettes Seized - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUpzdHUxMWM0eW5OVzJ5VHhjTHlpRmVVNG9LeWdTWjJzTV9VSXJxeEtYZ3FkOTlxRFI4SWRnVUthRlRVWjJQYlNpdzREWlNVc1JWNkxvTlJWSEVzU3JhWkdHSjF5ZVd3UG5hSTRrLUpvaGZ3ajZGbGRvT3ExNi1mRjVPZVphaFp4MFNWYmlRZmlRVEhrcjNXMEo3SEkxTkFhRkF1Q3l1clhyQm9KR0t6dFhPMkdDcGxKNG5YXzJVdVd2WGd4eFM3MC1YYw?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2025-11-06T16:30:34+00:00",
+      "description": "Belarus Drone Smuggling Attempt Foiled by Polish Border Guard, $892K in Cigarettes Seized  UNITED24 Media",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-06T17:06:23.436832+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d69b93830cee"
+    },
+    {
+      "title": "Flights resume at Brussels Airport after drone sightings - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNuZW1oYXpxeU4tUTFjVGg5ZGMxOTd6YzlPTXcwdy1Qc3dJYmJZc1dkYnA5dUdYRnF4NDliWUdma2NwZmw1Uld0VEJQTGZqRGlJNGNheUd3RE1FTkRVR3BDdmpWcUg2RktOQUNreVR0T3A4eXczQTBzdnR4X2Noc2ZJdHNNcFZpNTJHWDhjb19hTzDSAZMBQVVfeXFMUHJTUzE4QndkZl9pb1o3U3RncEViNjVjZjZKUFpUWnlDdmU5THhwZTliMTZiNlU5V19naDRXQlJsTUJucHVLNDZVQXhuOWZOWFphWGRzekZWcHZjVC1sd0d2RzQ2cWxMSWZubC0yU2o1UmFzWTFtTUdRSk85ZU9vekJkdWRWTFJqZzVTNHV3bC0yX3pz?oc=5",
+      "source": "dw.com",
+      "date": "2025-11-05T17:40:40+00:00",
+      "description": "Flights resume at Brussels Airport after drone sightings  dw.com",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T17:06:21.996521+00:00",
+      "location": "at Brussels Airport",
+      "category": "airport",
+      "id": "7ff64f97f00d"
+    },
+    {
       "title": "Ukraine Drone Strikes Hit Volgograd, Kill One and Disrupt Russian Flights - Modern Diplomacy",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelpMeDVOMHQ2azJNQXRVSy10aVVoWGhIbHN1SzgyZVNlWXp6STFOY3RWMnJadGdSX0tjZXRSZmRrZzhhMENQa0pETFVEYXVPV2QySXlGUFVvdGFxTjIyZ2hPWE4yY25OSXFTX0ZPd1dzQXFHZVg5ZEE5OTZGWk9kNmZRWVkzdnItVUt3azI1dS10bjFrRXZIV2g1NUZDcFFTYWpNMnExcU9LeVFLRi0wSA?oc=5",
       "source": "Modern Diplomacy",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "8749bb3bb605"
-    },
-    {
-      "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson - ABC15 Arizona",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3lVa280VTBVVnltbjcta3JhdFZocFlybXQwM2U1ZWJjd2pGN1pTWmlzdGxIdnp1MDhTUjczVm8yX3A1OVI0R1JRdUk0WndVejZmMWtXQ1Q3ZUwyd0gzQ2ZfeWFJb2x6YU5vYXlFeS1RamJjV1M1QkZOcWpSeEFTNjNIaEUtcmJlYXp6TnlBaVdIS2xrMF9uc0RWUkYwakwxa3F2OUNsUUJYVWI4ei1mN29VR3RXcEVIeTB5S09rVXJxZkhDcUVUdg?oc=5",
-      "source": "ABC15 Arizona",
-      "date": "2025-10-02T23:10:00+00:00",
-      "description": "Two Amazon delivery drones crash into crane in commercial area of Tolleson  ABC15 Arizona",
-      "query": "drone incident",
-      "detected_at": "2025-10-03T08:06:51.489996+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "457d75dd6541"
-    },
-    {
-      "title": "Von der Leyen’s ‘drone wall’ plan crashes into EU reality - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEEzQ2diaDlLTWE0QVZOTkdYVnZHR3k3ZVRGaTdOVWY4RmphYzB4bEc0OHFvdmRjWS1PR1ZBMThtLXM5Y2lsSXpIQ0xnRlhnNXI1Y3RFLUxNVHdDMjd0UFpuN3k1Z01NZ3pYeHBlSG9tRk5wZ2ZLcnF2Y2dDOHYxTW1zNkJXWDAwV252bTkxbw?oc=5",
-      "source": "politico.eu",
-      "date": "2025-10-03T03:00:00+00:00",
-      "description": "Von der Leyen’s ‘drone wall’ plan crashes into EU reality  politico.eu",
-      "query": "drone crash",
-      "detected_at": "2025-10-03T07:05:30.351958+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "1388e1f1b63b"
-    },
-    {
-      "title": "Amazon drone deliveries to resume in Tolleson following crash - FOX 10 Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHdRT19PYXJDVzF6T3U0VUc0UmZKOVJ4OWtzaUhkZjNWSTJYZHNKclRyMGN4SS10dnFQUVBGMWJoSHQtXzZLT2RYMHBNRW4ydE12SWRsendadkF2cUNYRm9mazI0STFyT1oyc3oyY3BpTTdwMlRsUE5EY1dzdDdiWWFoTdIBiAFBVV95cUxOTWlybEZnX2dhUldkRXJvLUZpQUtpSS1QYjRQM0RmNlhCUS1jUGhMTXBKX1ZtemtCT3NNTm41S1dwNnp3TnlJZDZaNTJJLU9fMDlfdWQ0ZU91MWlwZUhtU2NybmkwSkd6aGlaQUhTMFQ4ZjJ0eU1VMk5hNXhic3F4bU1paC00S1RO?oc=5",
-      "source": "FOX 10 Phoenix",
-      "date": "2025-10-01T23:18:18+00:00",
-      "description": "Amazon drone deliveries to resume in Tolleson following crash  FOX 10 Phoenix",
-      "query": "drone crash",
-      "detected_at": "2025-10-03T07:05:30.351958+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "86600d3e0c36"
     }
   ],
-  "last_updated": "2025-11-06T16:07:07.649926+00:00",
+  "last_updated": "2025-11-06T17:06:29.821050+00:00",
   "total_count": 1000
 }
