@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Belgium to hold security meeting after drone sightings at airports and military bases - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjRMcnVRcm0xQ3hvVjNQXzl0dERqR3VzcE8yRVhVR3dVTkNyR2JTSTBEbTBjMnItX04zd1g1dDdHemhhMnJGNktvelNISXByRzV6QmtrNGQ0eFU1QWRQMl80WER1WTI5SU5Fb1UxeHBUOHZOdXFDd2dSUEV1cG81ZjRRZ241ckVmdHNiUGdsSFR2RkQ0MjRkQjhUSUJVc3M0cjFuMDZqZGhMb0xqMHktb2ZKLTktRnVndHRGWC1aU2ZPaDBZcDh2VGRMMA?oc=5",
+      "source": "The Guardian",
+      "date": "2025-11-06T05:02:00+00:00",
+      "description": "Belgium to hold security meeting after drone sightings at airports and military bases  The Guardian",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-06T09:06:45.983545+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "8ebda8591825"
+    },
+    {
+      "title": "Israel seals off Egypt border, vows harsh response to drone threat - www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0c1MmkxMk00OXdaS2ljQW5pMlZHZjdyUGI3eFA4TVZiUnRzaXlqNzVQajMyZVgyaVpIMWpyNm5VUDI3d0JUWERGaXNYSnYtSFptMVBueEF3QmlNRWpOd1hIQmlvM08tYjhrLXQtdXhiVVJVc1A2TWV6VnBHcE9aVG93c0tpUlM0dG44ekpDbkNXMUxLQVFFZ0RTWjM4YzVwTHRGY2Z6eUQ?oc=5",
+      "source": "www.israelhayom.com",
+      "date": "2025-11-06T08:04:00+00:00",
+      "description": "Israel seals off Egypt border, vows harsh response to drone threat  www.israelhayom.com",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-06T09:06:44.754743+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "827caf00835d"
+    },
+    {
+      "title": "Katz instructs IDF to declare Israel-Egypt border area a closed military zone over drone smuggling threat - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ0xocEVqR0xHOUhMbVhucU1CVFhMc0hnUkhSYTdnLVVDS3UwQ2hlQ1B2eWQ1YTE0THBPVzJHY182RGdIVm5KWkVLVlZKNExHVldUaTROdHA2Z3dDbjdkUzdnWWNLckFGaG9zeEtGMHJwZERJN1lyVTJfWnVqYzlmOTR0eTdYeC13alN4UEpIRWREZmsxTS1sRUVCV3Mzc2tTcUJaSUJ6azhTS0JsTTJBTkxGc1N4NFN4Y3YzemxSY3BIa21MZnl2SVlCRVRHaTR2Um5XdC1XZi1IZ0xYUnFIeGNjY1NvZw?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-11-06T08:17:53+00:00",
+      "description": "Katz instructs IDF to declare Israel-Egypt border area a closed military zone over drone smuggling threat  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-06T09:06:44.754743+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5ef31b079043"
+    },
+    {
+      "title": "Belgium probes drone sightings after flights halted overnight - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hZHVfSTJpM0JhQUxWSk1ZanYxX00za0V0NWRMZFBhWm02TEhDQmJqYnhjeVRiNURKS1hYY2M4aXhrclV2Wjc0a0RRS0RMT0pPT24yWERQMA?oc=5",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "date": "2025-11-06T06:57:48+00:00",
+      "description": "Belgium probes drone sightings after flights halted overnight  Bangladesh Sangbad Sangstha (BSS)",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T09:06:43.515213+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b81c19b60490"
+    },
+    {
       "title": "Israel declares closed military zone along Egypt border to combat drone smuggling - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKdm9EUDhyajlQYXM5NWV2bmREdDNQM0oydU9QaFl6X3FhNHgtSUQ0SGJyNDN2bjd0STVhUnlxYzJoa2RleVQxVkJkeS1uRlpNMWxGdk9R?oc=5",
       "source": "Ynetnews",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b0c4c923d279"
-    },
-    {
-      "title": "Munich drone sightings force airport to cancel flights in latest Europe disruption - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHZBa2VGemNabEROc2RBVWJOTGh1OEo1YWdZYXJPUkprcWJWel9MbzVrMTIzMUp2OER4RnZSaXpkcXJ1UTNyUGJwT1hyRzBlVG5kblNwSXo4dWtFUmpFM2cyRnZ3YmZmUlI3MFpFMENGSkU1bTBBaVpYd3hDSnFsT3FpRnVuTV81NVljSEM3bDNacXRsZDAxc01ETlpuVXcyR1M1ejhqa3d5eEtVQzkwQURHWmJsaUxFTnhnZ1c3TlpJQWViMXVr?oc=5",
-      "source": "The Guardian",
-      "date": "2025-10-03T01:51:00+00:00",
-      "description": "Munich drone sightings force airport to cancel flights in latest Europe disruption  The Guardian",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-03T02:30:01.471036+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ea7069676811"
-    },
-    {
-      "title": "Drone sightings disrupt Munich airport, halt flights and impact thousands By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2xPYjZyTzVvZDduZVQweDA5Wnl3ajZmMUNCaDA4cmdocXZtOGRuN2RJTFRac1gxZEF6OEFCRDNuRk9XUnFsSzJZa1RWU3QtRXFIN0RCX0pNQXRrdWZUQTZxZ3hzR2JhcWJkWlgxSG1rTFk0LWdobVRMZko2azJWTkQzMkF4QW84QjIzVVBVZTl2a0gyTFZTMm5MMDRnM0E3RkY1U1NKYW9YV0ttcGEwcmwwUFdTVHpnWUluRnBWcw?oc=5",
-      "source": "Investing.com",
-      "date": "2025-10-03T01:58:34+00:00",
-      "description": "Drone sightings disrupt Munich airport, halt flights and impact thousands By Reuters  Investing.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-03T02:30:01.471036+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "74aa77548935"
-    },
-    {
-      "title": "Munich Airport Faces Unprecedented Disruptions As Drone Sightings Lead To The Cancellation Of Dozens Of Flights And Travel Chaos - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQlExeEk5ZXhacjlNTUZtdmFRY2RWb2FqUFF0SDVKc1NBdUVqZjRnQjJ5d280QnRHMm5td0VJYWRBaVY0UGFwc2pfaHQtcHphRlFhTDJmb2dlQkJ4VEx4ZVU0Wm1DcDh2M1doazhDaVE3U29CTXFseTJCUzNxZlM1LUUtNWV6b0V3UTUwOUI4VllRRjRYenAxd0lkMVhhOFdNOExaMzhkSS1Sa21EeVpwa2QzcGxIS1E2TlZ0SlhUWUVYR3hodkNmOFJNWkJON3ZqZTlXWkF5ZUx6QkVzQ1lvbWZqWlY0dkgzbkswSjlVcmV2ckdjMU1QWXFzZDdHWDNfNGw3X090ZUs?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-10-03T02:22:29+00:00",
-      "description": "Munich Airport Faces Unprecedented Disruptions As Drone Sightings Lead To The Cancellation Of Dozens Of Flights And Travel Chaos  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-03T02:30:01.471036+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "b1b955013387"
-    },
-    {
-      "title": "FAA to investigate after Amazon delivery drones crash into a crane - WWNY",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMy12VTltdm5KRkU0bFV4SnhEdnZQcVZhYUV3dUZVLXgtX0pBTURwcU5FSlZtUHMzQUgzMnp0S0p1cHRCYVZ5QUlJOG42WVFtSWNFMVJPYkw4WTRqRWl2aTVkVHI2QTlCeGVUVzJOM1NFd0YxOWRnQk8yLXBRNUN2VnZqNXY4QURDNjVxWFpGRjR4cl81b1F2bDREY2nSAbABQVVfeXFMTXlvUEtXQnZpalRCZVcxRVNSTHVPWU1lME1vanR1dTFPY1BZWHRBZk93dkFfX2g0cWMteDRXVm9vYjM5dDBKWWVPZFZpTDZiR3FNQmtyWXlhdTJoMGVfVGxkVDcyNEF5RDd6NTk1dF95TGV5T05Pc3h0LWxMbVRqNTk0bnRHNm5aYkxyVWt1T1VTLXM4eUtEaG5IUmM5OTJnamp4VVVLajVxdjdJMUQyMlQ?oc=5",
-      "source": "WWNY",
-      "date": "2025-10-03T01:45:00+00:00",
-      "description": "FAA to investigate after Amazon delivery drones crash into a crane  WWNY",
-      "query": "drone incident",
-      "detected_at": "2025-10-03T02:29:58.735388+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "d6d9de266703"
     }
   ],
-  "last_updated": "2025-11-06T08:07:23.135361+00:00",
+  "last_updated": "2025-11-06T09:06:49.432644+00:00",
   "total_count": 1000
 }
