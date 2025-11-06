@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Flights resume at Brussels Airport after drone sightings - DW",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNuZW1oYXpxeU4tUTFjVGg5ZGMxOTd6YzlPTXcwdy1Qc3dJYmJZc1dkYnA5dUdYRnF4NDliWUdma2NwZmw1Uld0VEJQTGZqRGlJNGNheUd3RE1FTkRVR3BDdmpWcUg2RktOQUNreVR0T3A4eXczQTBzdnR4X2Noc2ZJdHNNcFZpNTJHWDhjb19hTzDSAZMBQVVfeXFMUHJTUzE4QndkZl9pb1o3U3RncEViNjVjZjZKUFpUWnlDdmU5THhwZTliMTZiNlU5V19naDRXQlJsTUJucHVLNDZVQXhuOWZOWFphWGRzekZWcHZjVC1sd0d2RzQ2cWxMSWZubC0yU2o1UmFzWTFtTUdRSk85ZU9vekJkdWRWTFJqZzVTNHV3bC0yX3pz?oc=5",
+      "source": "DW",
+      "date": "2025-11-05T03:11:28+00:00",
+      "description": "Flights resume at Brussels Airport after drone sightings  DW",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-06T03:26:41.976038+00:00",
+      "location": "at Brussels Airport",
+      "category": "airport",
+      "id": "c5953ee48d6a"
+    },
+    {
+      "title": "Belgium probes drone sightings after flights halted overnight - wtnzfox43.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYTFMTnExalNaVkZtaWpkTVN2TWlFclJpTGd3XzBCdDUyRDBCNkl5VURWcm1GSV9vR1JkeHJUYVJWZW45c2lzSWMyWk9TZEtGTEhtT0Z5N05ISk1uNHhUYjNEY1QwUUJUaE5qYzUycmZtWTdPTVc3WUN3czluTVJydW1DdjF2TXltM1lrSGpfdHlkNUx4bkZzXzFfVGUxNW5xRkNVVzJ4S3FhclhoMnBUMXNOVlB5ekRDNlgtVTI5WGN0THlRZTNxbEVOQ3pGRUlTRFVSaGtkVnZNR2dXTHVRV1VWQXVDZw?oc=5",
+      "source": "wtnzfox43.com",
+      "date": "2025-11-06T01:12:00+00:00",
+      "description": "Belgium probes drone sightings after flights halted overnight  wtnzfox43.com",
+      "query": "drone incident",
+      "detected_at": "2025-11-06T03:26:39.621404+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "392f9b6768d8"
+    },
+    {
       "title": "Drone sightings at Brussels and Stockholm airports start questions about airport safety across Europe - ctif.org",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzNCVHg5MV9ibHlaUkdrMGRreDRrNFJyMHZOTEUzdHBaRXU4RFliZGVMUmNsZ2ZjeEF2dXJzV2hVcmVuVE9na0J2ZDd4Njc5bEFmajM0cl9hTWJfV1YwU1I3Z1ZWVm9jWVJHU0RMV3VIUVJyQ0xHSndDTVdPZW9XVU9vLS1yakxHcVJzMUs5M1pqdW44Z244dFlGUGpRRmFGYnFSMHNqWFhtNlRkVjFCNms0cw?oc=5",
       "source": "ctif.org",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d56b0341f5b4"
-    },
-    {
-      "title": "ODOC takes contraband fight airborne with new drone technology - KOKH",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONHBSNXpMOTZlTDA3MFNvbVlCaW1qX1VTUG92WG5DTGFEcUZRa2VlN3VnX1RNM3N4VTVRc1hBc1Rsa0xMTmxsUm4xcDBObGFZT0w4YWwtb2E3bE9ORllUTnZCVWg2aGFMVUl0dU1wYzlSbG5MRHRGRkdPcUFGVWllc3dkNWxsY256Si1JbzI4Ymp0ZWYtdjh3UlJacjgtNHFpNFQ0YkFSMFcxVzh4UFZQY0w1eG4wMlRZeXR4eGY2dmlnVVhnTUE1MmlGYUc1WGVwOWswVXV4czBpQlduRVpmQ0ZQVQ?oc=5",
-      "source": "KOKH",
-      "date": "2025-10-02T19:38:39+00:00",
-      "description": "ODOC takes contraband fight airborne with new drone technology  KOKH",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-03T01:32:43.506214+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "eaed9589296d"
-    },
-    {
-      "title": "Amazon grounds drone deliveries in Arizona after two crashed into a crane - theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwYzBzalIxVjdPRHZDVlEteXZvR01CTmZMdE9yNnVRWjVXeXhyZGlvcXk0YmY4bTlMQTdmenVsU21pRm9FbUVCNGU0Z3ZhZzBiR0c5Ump4WTVKUEJSWVl1LXh3S3lhVTdmSFE?oc=5",
-      "source": "theregister.com",
-      "date": "2025-10-02T23:45:00+00:00",
-      "description": "Amazon grounds drone deliveries in Arizona after two crashed into a crane  theregister.com",
-      "query": "drone incident",
-      "detected_at": "2025-10-03T00:20:55.701199+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e802aeee5b5a"
     }
   ],
-  "last_updated": "2025-11-06T02:36:01.716145+00:00",
+  "last_updated": "2025-11-06T03:26:46.169770+00:00",
   "total_count": 1000
 }
