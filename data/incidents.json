@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "New drone sightings disrupt flights at Brussels and Liège airports - belganewsagency.eu",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDJ2Q0Mydi15Mk0zMzE4NzdaQjVVd3FzeEJiOGJQYWhwYXM3Y0FEQVpwUXpiSm9OQmxlYWVPRXo5M1REWG9yMWdWRDVZY2owdk9LMkVaU1llcEo3ajNrU0I4Q3pwRDE2cFBNdzJqVlpib3hzY0xIZlRnU0VIbGxVb2ptd2RmWGxEZ0g0dUhDLWJJTXl2Zks4N1NlQUtFdw?oc=5",
+      "source": "belganewsagency.eu",
+      "date": "2025-11-07T06:46:00+00:00",
+      "description": "New drone sightings disrupt flights at Brussels and Liège airports  belganewsagency.eu",
+      "query": "drone incident",
+      "detected_at": "2025-11-07T08:07:16.115182+00:00",
+      "location": "at Brussels and Liège airport",
+      "category": "airport",
+      "id": "a6df4d57bed1"
+    },
+    {
       "title": "First time Sweden forced to shut airport down after drone sighting - TVP World",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG1IdTVHX0JJNjJkM2M3MTFmY1cxOE5CazFjUl9BTC1WUEh3b0pFb0hYSURRelk3dmFzMU84cVpGV1ZVRWpsOURMa2xQQVlnZUpycHM0YURyVklyVXlEczBVRlhxOWZxMjdMd1Y0WmptWmc2OUFRN1VFdEhzR3RrZmo2WUFpUlIzOVNvRzNiZTA?oc=5",
       "source": "TVP World",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "173e7594cd63"
-    },
-    {
-      "title": "Amazon pauses drone delivery after Arizona crash - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW1uWmk4QWFvRUEyRDBQYkFpakc4Z1FEVzRZYzdGeTFzNEFqNzVnbmJadmc2S252U3dHRUFKcEtoRGtTcWp4QnFKOEhBdWJNb09RQk5PbWpUak5uYVhEQy11U1F6WEw2aDJXakVkdWRBakxzSm9KYmc5aDRSbTlPSU9DLVJEd1Nk?oc=5",
-      "source": "Mashable",
-      "date": "2025-10-03T12:45:00+00:00",
-      "description": "Amazon pauses drone delivery after Arizona crash  Mashable",
-      "query": "drone crash",
-      "detected_at": "2025-10-03T16:06:14.817178+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "c93ae5943ce3"
     }
   ],
-  "last_updated": "2025-11-07T05:06:24.314515+00:00",
+  "last_updated": "2025-11-07T08:07:21.687159+00:00",
   "total_count": 1000
 }
