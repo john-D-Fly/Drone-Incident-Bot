@@ -1,0 +1,127 @@
+{
+  "narrative_summary": "In the past 48 hours, several drone incidents have significantly impacted operations at airports across Belgium and Sweden, leading to flight suspensions and cancellations. Notably, Brussels Airport faced disruptions from multiple drone sightings, resulting in the halting of flights and hundreds of passengers being stranded. Similarly, drone sightings also interrupted operations at Gothenburg Airport in Sweden, marking the country's first significant airport closure due to a drone incident. Meanwhile, Israel has heightened responses to drone smuggling threats along its border with Egypt, further emphasizing the growing concern over drone-related risks both in aviation and security contexts. Additionally, various arrests connected to drug smuggling via drones have been reported, indicating a rising trend in illicit drone usage across borders. Overall, the escalating frequency of drone incidents poses notable safety and security challenges.",
+  "totals": {
+    "airport": 35,
+    "crash": 5,
+    "interference": 2,
+    "smuggling": 14,
+    "terrorism": 4,
+    "other": 8,
+    "total": 68,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 45,
+      "arrest": 6,
+      "crash": 10,
+      "interference": 7,
+      "other": 21,
+      "security": 2,
+      "smuggling": 24,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 18,
+      "drone arrest": 4,
+      "drone crash": 8,
+      "drone illegal": 3,
+      "drone incident": 48,
+      "drone prison": 5,
+      "drone security breach": 1,
+      "drone smuggling": 23,
+      "drone terrorism": 9,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Frequent drone sightings have led to significant flight disruptions across major airports in Belgium and Sweden.",
+      "incident_ids": [
+        "a9c48cf1b48e",
+        "7f23627d78f6",
+        "24eaf37b3c77",
+        "9229161d9b07",
+        "f5ec7207511e",
+        "3b50ed48ce38",
+        "29def7a21acd",
+        "b3b1673a3d90",
+        "6c0f6ea0b367",
+        "167c3b99bbfb",
+        "65915a336fbe"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Threats",
+      "rationale": "Significant drone smuggling incidents have surfaced, prompting military responses in Israel.",
+      "incident_ids": [
+        "398fabdbf125",
+        "4538957b3829",
+        "59b1666c9179",
+        "9bf9ee8ed5c8"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "0f83fcdf79f4",
+      "headline": "Crash involving Amazon semi blocks all lanes of I-75 North in Dayton",
+      "one_sentence": "A crash involving an Amazon semi on I-75 North caused significant traffic disruption.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "78bec4fa4d4f",
+      "headline": "Liege Airport Suspends Flights Again After Drone Incident",
+      "one_sentence": "Liege Airport was temporarily closed again due to a drone sighting, affecting travel.",
+      "risk_tags": [
+        "drone incident",
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "ae2e15150021",
+      "headline": "Drone sightings halt flights at major European cargo airport in Belgium",
+      "one_sentence": "Flights were halted at a major European cargo airport in Belgium due to drone sightings.",
+      "risk_tags": [
+        "drone incident",
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3a3c84b529bf",
+      "headline": "IDF declares war on Egyptian drone smuggling threat",
+      "one_sentence": "The IDF has taken serious measures against drone smuggling threats along the Egyptian border.",
+      "risk_tags": [
+        "drone smuggling",
+        "terrorism"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fc907426eb13",
+      "headline": "Inquiry after child hurt in police drone crash",
+      "one_sentence": "An inquiry has been launched after a police drone crashed and injured a child.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents have caused massive disruptions at major airports in Belgium and Sweden, highlighting urgent safety concerns. #Drones #AviationSafety",
+    "linkedin": "The last 48 hours have seen a surge in drone incidents disrupting airport operations in Belgium and Sweden, along with heightened drone smuggling threats in Israel."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-07"
+}
