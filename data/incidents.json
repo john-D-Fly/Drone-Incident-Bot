@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "NTSB releases aerial drone footage of UPS plane crash site in Louisville - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzdWJtOGNLRTl4LVpTTXF3Q243UzV0M1ZHaFFnLS1aR05KRXlHVmh4X3owUERxWURiVTRFU195Z194NWtiMjRFa25jc3l0YmdmdDZMbWxjQXJZaEhxWDJRdVlfV2dyeEZZVFlzMzBSRTJXS0dJ0gF0QVVfeXFMTzNxa2h6TGRpeW94RFpQSG1vV0RUZVZCbVJBTDhzQlNqVDNrd0p4bnhfZVU5WTM1UTRNUTJHSU5LRW80MUhGbmpqeWNxdVNfMUx4bWRHdVE1cmdiVG9uS2k3UmhKdFM2SERJbl9zc0VpQ2t4Ykk?oc=5",
+      "source": "Lexington Herald Leader",
+      "date": "2025-11-07T16:55:56+00:00",
+      "description": "NTSB releases aerial drone footage of UPS plane crash site in Louisville  Lexington Herald Leader",
+      "query": "drone crash",
+      "detected_at": "2025-11-07T18:07:16.901124+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9013f2a97d94"
+    },
+    {
+      "title": "Drones are causing 'significant economic disruption', says Brussels Airlines - The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTdNdDhXZzR0d0tTSnhoY2dxX3NvUFM0aVBVdmVBVHdFTDJXTVgxLUNFNEo5ZXhDNTdXOE5Fcm1yN0lMQkdQX3JVZ1RVZzNrYU1sQm93M2lEVzBPVi1NOE1hMTQ1aVFhd3FlbnU3QWlDbnJwT25oa283ek5qa2tnYWd1bG0tS2p2ZEFqNXNNYkVoNng5Mmd0Q2JWRzFWS1QzMkxlZzVlRGlnOWVkOHdZMw?oc=5",
+      "source": "The Brussels Times",
+      "date": "2025-11-07T14:26:15+00:00",
+      "description": "Drones are causing 'significant economic disruption', says Brussels Airlines  The Brussels Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-07T18:07:16.278370+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "a6aae28d0992"
+    },
+    {
+      "title": "Inquiry after child hurt in Kent Police drone crash - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCbVdGbFN2Q3hadTFqOTI3X1dhempLZEJ1dS14QkZXZ183Q0JjN0haU0dvbnoxTVA1blM3cldfX1ZYbmZwOFJ6dWsxbS01Qkhld21yRXpJR0dENG9LZkZr0gFfQVVfeXFMUEJtV0ZsU3ZDeFp1MWo5MjdfV2F6aktkQnV1LXhCRldnXzdDQmM3SFpTR29uejFNUDVuUzdyV19fVlhuZnA4Unp1azFtLTVCSGV3bXJFeklHR0Q0b0tmRms?oc=5",
+      "source": "BBC",
+      "date": "2025-11-07T08:28:35+00:00",
+      "description": "Inquiry after child hurt in Kent Police drone crash  BBC",
+      "query": "drone incident",
+      "detected_at": "2025-11-07T18:07:13.795195+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "21503e6e0d87"
+    },
+    {
       "title": "Drone footage shows the site of the deadly UPS cargo plane crash - AP News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmFsUGZ0Nm1ONllseDkyZ2JLQzJSbUY1NnVoZXJuSzNTOWhzZzRBQXBPaVhVSk1VbFczbVJ1X3B4b3o0VzhPSEc2eUtLT0k1QUFBOEFQN0JsQVVNWExZNU1Xcko1MVNhbl8tSC12dW5IS2x1M1RQNjFTaDlUaDFDZmo5dC13RjFyQzROcVlfaUZYZzUyaGtrX3dPNmpmUDY4WXY2blFGMy0xUk5NOEJ6YURPbk15dHZoSm1CN29oNA?oc=5",
       "source": "AP News",
@@ -11963,44 +11999,8 @@
       "location": "At Munich Airport",
       "category": "airport",
       "id": "b39968b46929"
-    },
-    {
-      "title": "Germany: Drone sightings disrupt Munich Airport - DW",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhJdzdPeU9uM1dMdFZnUFE2a2RvTGdweC1PeU1tZ2FyUmxWSndUeUNMYXIwMjRvMzktZVZMMlY5b2t0NkVrR0kxOW9FMGN5c1U2RE5vc3lqdTRnWFhCSGZscXpHRFlLamhQS2JWbmMwd3VIT2ViMXJqM0wxaHdScms1VEdwQdIBhgFBVV95cUxPTWtldXZBWDk3eURHSnhVSHlPUXc3QTY4b1BVUFBHZEdWZzR0cWZSc3JTbkQxbVoyWVRlamJqdF84Qm1qMU8yVkVfRXlQdk1FMV9lTDBOUTdRRW53UlR0N1pQSnByUmJaX3J2NGdfN3F5aHRDNU5oZGtjVmpSWHNkODhzcmV0dw?oc=5",
-      "source": "DW",
-      "date": "2025-10-03T22:28:25+00:00",
-      "description": "Germany: Drone sightings disrupt Munich Airport  DW",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T10:04:59.549756+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fc8dd4477aa0"
-    },
-    {
-      "title": "Report: Netanyahu Ordered Drone Strikes on Gaza-bound Aid Ships in Early September - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTVFpZ2k4RmVjZU9jLU9IdmpueWxlT2pmRjVKNmphS29iWFB3NnFfZ05PcXlSd0t2eWZ4WHloZS1iMUhod2FvWWlVcDVZdnVoYzI4Y2pzVExDTWJhMzdGNVRrM0pvZllGRzBad1JlR0ZyN0hVUUxBSjM2SVl4N0NycTNjalFWMWRCTTNjbDhTTVZDcHlUQ1BwaWE4TkZ6dEl0bFBjNTczeDMzREh4dmVGaWpDT3l3Wml4ZmhqOThKam9LRm04azFGQWJ4VC1PYVpPUDN2TWRvYllFRWtqS1Bvc1RTVGh1WWxUOTA4RDhZc2JYY3R3ZktkZFd2TWk3R0FmQTlpOXh0RQ?oc=5",
-      "source": "Haaretz",
-      "date": "2025-10-04T08:05:00+00:00",
-      "description": "Report: Netanyahu Ordered Drone Strikes on Gaza-bound Aid Ships in Early September  Haaretz",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-04T09:05:05.576805+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "64d59d527ca5"
-    },
-    {
-      "title": "Munich airport forced to suspend flights for second day in a row over drone sightings - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZTc5YTIwR0phLUtQM0drTFR6dXJiUmxwNzlsYmhNb0VnT05BN2dvSld0T2RETTNWZTVuVU1vb0JZdTFiRk91eHFPZlNTOFhzLU9xeFI1NTM5Z3dvTWdZVXpreXJuV29CZTVDT2JZUVY5eU42VjhXdDRlN1UzSVd3bFlIZWhFaHdnVnpxdXcwWVpXanNPcENQVWlqazVoanVHc2h3U09RN2tLRTBjZndFWVhOOTVMeTVIN2VON2ZoZXZVLXM1eHFPMmQ0WQ?oc=5",
-      "source": "The Guardian",
-      "date": "2025-10-04T05:34:00+00:00",
-      "description": "Munich airport forced to suspend flights for second day in a row over drone sightings  The Guardian",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T09:05:02.792472+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1d2ac26730db"
     }
   ],
-  "last_updated": "2025-11-07T17:05:21.112802+00:00",
+  "last_updated": "2025-11-07T18:07:20.559491+00:00",
   "total_count": 1000
 }
