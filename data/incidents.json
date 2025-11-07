@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Over a hundred illegal drone flights carried out by police in Brussels - The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVc4U1k1c0d6a0pBNTVoY0pkZWNzbzlFaDNGNWRfQU5HeDUxRDVPU0hTWGhZOGRuTHhlWk9kT2hnVzRFSWh4QWNWOXRCdHg1bkxvVWpac001RXBfZkNMZFloU2hQMGR5YjV2YWhuUGRnZnk5c0xodE5MSThzR3ZlUDJINlRkR1ladk9JMGd1UFJKb3pIMGYyTFJ0aHoyMHUxekpFSGZYcU5kUkh5?oc=5",
+      "source": "The Brussels Times",
+      "date": "2025-11-07T11:37:51+00:00",
+      "description": "Over a hundred illegal drone flights carried out by police in Brussels  The Brussels Times",
+      "query": "drone illegal",
+      "detected_at": "2025-11-07T15:05:37.779202+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "70927ee43040"
+    },
+    {
+      "title": "Inquiry after child hurt in police drone crash - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5acEZPYUhOZGJ0dWthVHR2UzhjbHFPR0l5Z2R2RzZGQlBMTE9oUnMtbldFYlRaRkxrRGRxcWhTbFplXy14WVZGSFRmQU1SamlWTjRLVkNPcEk0QmxyWHZVaF82UzltOS05ekhkT3VwT0tsNms0MzQ1TWFzSzg?oc=5",
+      "source": "Yahoo News Canada",
+      "date": "2025-11-07T11:06:26+00:00",
+      "description": "Inquiry after child hurt in police drone crash  Yahoo News Canada",
+      "query": "drone crash",
+      "detected_at": "2025-11-07T15:05:37.068615+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2d4d177a145e"
+    },
+    {
+      "title": "Three In Georgia Accused Of Using A Drone To Deliver Contraband Inside A Prison - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFp1bm5WNk9zY25ELXFENDJ4OHI2ak9GMmt0T0dHWFRPcG1QU0Z2ekdiUHE1RjdUTUNUMS1DRTU5QTVSbHE0Yno2QUw5eDUtQ3BKc0g1cU1IUU5ZWlM1Y3NjaTlod0lpb01tVTNiYVVlbUE1SXFYbHJBQW5iWEdxVmNxSm4?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-11-07T14:06:43+00:00",
+      "description": "Three In Georgia Accused Of Using A Drone To Deliver Contraband Inside A Prison  DroneXL.co",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-07T15:05:35.155091+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6d0c4c20d22f"
+    },
+    {
+      "title": "Agreement in principle on counter-drone plan for Belgium - belganewsagency.eu",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWFsalRhQjFSVDNVZnRXUUpjeHdKYUNkN3ZmS3h1Y0EyZmY0TmtMWHEwMHByUkxQcmVvWTU4Szl5VDRJRzZMM2k5djEzSTV2bnRtNG4xZzIzMUZxaFBncDJ5RTlkRUVwMk81VnFDT184bl9jYm84aWRKVWlNVV9PTUljUGQzQktDd1p0WXZJWno?oc=5",
+      "source": "belganewsagency.eu",
+      "date": "2025-11-07T13:54:00+00:00",
+      "description": "Agreement in principle on counter-drone plan for Belgium  belganewsagency.eu",
+      "query": "drone incident",
+      "detected_at": "2025-11-07T15:05:33.962447+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d84603c66356"
+    },
+    {
+      "title": "Drone sighting forces closure at Brussels Airport - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCU3VsWFVqcFd5d0o5TUtHRnR6MFBXT2JXLUtfTjNLdWs0TkZ1RGp1VzlyRFFBQUhkOHJ2SzAzUHNYbENYSjM5RVVFS1I1SHBqbUgwVkRQYXpGMGNLVU1J?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-11-06T22:53:59+00:00",
+      "description": "Drone sighting forces closure at Brussels Airport  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2025-11-07T15:05:33.962447+00:00",
+      "location": "at Brussels Airport",
+      "category": "airport",
+      "id": "519a6491c27f"
+    },
+    {
       "title": "Russia flies thermal vision drone to catch elusive crypto mining van in Dagestan - Cryptopolitan",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85QTZBZXJpdVREd1NuR0hxMlQ4ZnBBSWlycGJra3hFYWdoR2c5a3dmU0loM1k1T29GSmY4b1NWT3dnSm9zZFc0X0JncjBYT25yTDVaaUVWRnAtcWU1bkt1aXNEeXN6MlNwMmtyZlhuY2lYeXVYSS0yQw?oc=5",
       "source": "Cryptopolitan",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "cd78d7e3979d"
-    },
-    {
-      "title": "#AS_Editorial: End the Drone Doctrine: #Ethiopia cannot bomb its way to peace On 04 September, Prime Minister Abiy Ahmed toured the AeroAbay drone assembly plant and proudly declared that Ethiopia’s “locally produced drones” are “key to defending the - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDdRRmlFNFROMUpoT042ZnhKQWZUdlpBYll5N0FBcFIyQzUwdzBDMFV0ekx1U2VQdXJWcWRHUzBILTRsN1RJVGpRN2FPVFl1aENKSlAwMUxpVVk2ekV4S1Z5SDU5dWxWM2p1ZExJRXZWTDVFcDZ0a1Z4TWtadG9kNjl3S3pSQ2xPamdsT29sbG5MSDVYU09IRElZeWgxUFk2bDEzRG9ZSk0tYmtzeTRCc1RVbDBlV0hCUFlFOFFPLXZvX2NzZngwRWlaMTNIN19nZElDa3JkTVl3cy02QnFr?oc=5",
-      "source": "facebook.com",
-      "date": "2025-10-03T15:29:24+00:00",
-      "description": "#AS_Editorial: End the Drone Doctrine: #Ethiopia cannot bomb its way to peace On 04 September, Prime Minister Abiy Ahmed toured the AeroAbay drone assembly plant and proudly declared that Ethiopia’s “locally produced drones” are “key to defending the  facebook.com",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-04T03:11:17.829747+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5e4d3f3dc9a9"
-    },
-    {
-      "title": "Germany: Drone sightings disrupt Munich Airport - DW",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhJdzdPeU9uM1dMdFZnUFE2a2RvTGdweC1PeU1tZ2FyUmxWSndUeUNMYXIwMjRvMzktZVZMMlY5b2t0NkVrR0kxOW9FMGN5c1U2RE5vc3lqdTRnWFhCSGZscXpHRFlLamhQS2JWbmMwd3VIT2ViMXJqM0wxaHdScms1VEdwQdIBhgFBVV95cUxPTWtldXZBWDk3eURHSnhVSHlPUXc3QTY4b1BVUFBHZEdWZzR0cWZSc3JTbkQxbVoyWVRlamJqdF84Qm1qMU8yVkVfRXlQdk1FMV9lTDBOUTdRRW53UlR0N1pQSnByUmJaX3J2NGdfN3F5aHRDNU5oZGtjVmpSWHNkODhzcmV0dw?oc=5",
-      "source": "DW",
-      "date": "2025-10-03T13:18:34+00:00",
-      "description": "Germany: Drone sightings disrupt Munich Airport  DW",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T01:32:30.157067+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "4d3ed79cfcda"
-    },
-    {
-      "title": "Drone patrol ‘smoked out’ illegal liquor rings in dense forests, Rs 3lakh of desi booze seized - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeHR3LVJTU2o1UlE0aGxiM0l2YVNPYi1uanZOWG5LckxCRGExajNnVjZjUlpuYlljRnVEQWVZWUUyWjU5OUpBQ0xna2RBVzJXUEEyajh1TFhzVlJJVl9lSnFsWUhiWml1RURpLWg3UDFRYjFPTjIzM3l4ZXVNenZrRFluQWFta2dzekFYdy03Y2dWcFUtZm4zMmRIaHZfdFVSWllJVXViZ084UVd0aDZmcVlNaGFxUUZucC1YQ1dNNEsycUVUSnNaekRUT1piOGZORGtvSUkzblM3MDdoenNkZWtrOGc0ckJqcXNxcXJsOGgzRDloUHBNQtIB_gFBVV95cUxNYVpteTluMTNLY2dTd3dhZEhlOWk0UVd5eUxoWkxEZTc4QUk4QjJ0T2xOZ3dfRnlNYl9aQUE2Z1NoamdCeW04a0wwX0V5c0tnVTlQd3QxYVh4MHZzZ2hxczVieEs4c1ZNVGdNal9zSUNsQjB4SGhVMFNiYnlmYVNkMFE2dHRJREt2bFdLc0xmTnZWN2JLZVdEbW5lcWR1MThFVFN1Z09EbjgwQUloaVBscW9uckFucDgxSXdKcTM3X0VHQ0hma1RRVVI4MU16cXVkOTRfYWQxZVdLb3hsdFBGc3RSdzlGUGwwekJhT2tNcTlxVllaZEszZWdJREZCZw?oc=5",
-      "source": "Times of India",
-      "date": "2025-10-03T23:02:00+00:00",
-      "description": "Drone patrol ‘smoked out’ illegal liquor rings in dense forests, Rs 3lakh of desi booze seized  Times of India",
-      "query": "drone illegal",
-      "detected_at": "2025-10-04T00:20:05.649755+00:00",
-      "location": "in dense forests, Rs",
-      "category": "other",
-      "id": "b0bbc0a58732"
-    },
-    {
-      "title": "Munich Airport Shutdown as Reported Drone Sightings Strand Passengers - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjZoRHFURUozSW5qZEI1Ni1ZcFZwcGV6UjB1RWFncGFYZlZMdi16eFJHN0hFeE9mazAyLW5udVRXd0VDX0tyM1V6ZzRQckRlV1ZFbTc0VEtnTDJTZ0xUckxGNUtLT2h5ODFMcWhRVk5qY016T1dxRVRyaWhaR0xWa2dHLUNQdDdHMXBTQzJIbnZVWHh4LWcxVFVYTkl3bTdTOWQzLTNn?oc=5",
-      "source": "Newsweek",
-      "date": "2025-10-03T22:28:00+00:00",
-      "description": "Munich Airport Shutdown as Reported Drone Sightings Strand Passengers  Newsweek",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T00:20:04.368408+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "47838e161dc2"
-    },
-    {
-      "title": "Lenexa police officers use teamwork, including drone, to arrest suspected car burglar - KSHB 41 Kansas City",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmxId1VINV9VSm9aN2lHZDAzZGtTd19Cejh6dXFGRFdPaHk2cXlFdkxzNW1qTUFEUTFhSG5SdlhESkFkamJmRUhGNEpidWJfOTd2TnRwMWFySzBUbnBtTFVleGhWeW1CaGVYQlo1V3RQZEZJZVZ2UjBTX1hDUFBMSTVnQk9vdUs1UnFwV2I4NXpZMXgtU0R1aFhJeEJjNE13NURrZm9kUWl2bnZTSC1URk4xU1p6UQ?oc=5",
-      "source": "KSHB 41 Kansas City",
-      "date": "2025-10-03T20:57:23+00:00",
-      "description": "Lenexa police officers use teamwork, including drone, to arrest suspected car burglar  KSHB 41 Kansas City",
-      "query": "drone arrest",
-      "detected_at": "2025-10-04T00:20:02.125638+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "50fc558fec2d"
     }
   ],
-  "last_updated": "2025-11-07T14:05:29.221083+00:00",
+  "last_updated": "2025-11-07T15:05:40.287542+00:00",
   "total_count": 1000
 }
