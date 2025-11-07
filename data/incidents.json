@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Drone footage shows the site of the deadly UPS cargo plane crash - AP News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmFsUGZ0Nm1ONllseDkyZ2JLQzJSbUY1NnVoZXJuSzNTOWhzZzRBQXBPaVhVSk1VbFczbVJ1X3B4b3o0VzhPSEc2eUtLT0k1QUFBOEFQN0JsQVVNWExZNU1Xcko1MVNhbl8tSC12dW5IS2x1M1RQNjFTaDlUaDFDZmo5dC13RjFyQzROcVlfaUZYZzUyaGtrX3dPNmpmUDY4WXY2blFGMy0xUk5NOEJ6YURPbk15dHZoSm1CN29oNA?oc=5",
+      "source": "AP News",
+      "date": "2025-11-07T16:05:00+00:00",
+      "description": "Drone footage shows the site of the deadly UPS cargo plane crash  AP News",
+      "query": "drone crash",
+      "detected_at": "2025-11-07T17:05:16.938169+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "92f70d7753e6"
+    },
+    {
+      "title": "NTSB releases drone footage of UPS plane crash aftermath near Louisville airport - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTG9RS25JWENMUTgxM1pJcmkta3NLdkg0WldIXzFyVXNIX1lPNm5LY2RRMXBVaDBfS1Q2bzFkQ1d1Y2tvUHdLb3ozTV9lemJ5TThDNElsYWl5c1h0YXd4LUVFa2h3c0VsQmtKREZtU2J1Njl6ampYZU5RZ3dmalV3X1ltYU9NQzFSNVE?oc=5",
+      "source": "Yahoo",
+      "date": "2025-11-07T15:43:48+00:00",
+      "description": "NTSB releases drone footage of UPS plane crash aftermath near Louisville airport  Yahoo",
+      "query": "drone crash",
+      "detected_at": "2025-11-07T17:05:16.938169+00:00",
+      "location": "near Louisville airport",
+      "category": "airport",
+      "id": "5d462d1bb1ee"
+    },
+    {
+      "title": "Drones are causing 'significant economic disruption', says Brussels Airlines - The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkgzM2dlSGVyQlFMNGoxeHp3Z2hCNjhoTXBOOEJLWEVmMjFYbmRJZmhRU0Y0YV91RjZyVmdfRlBoTmM5U2dRRjFiR3d4V19nbU84NG9tZ2VaTVFXa2FMQlllSGV2S0E1QVF3LXVxa2h2YXlROHJ0c2pNdlQtM1NnREV6RWc0ZWNvNE1zeUZ4WFRXS1JCcDItS0RxSmhSNVhsLVNQRUt4dW84RmZuM3Z6dTZSSDZpMk5tMjZj?oc=5",
+      "source": "The Brussels Times",
+      "date": "2025-11-07T14:10:37+00:00",
+      "description": "Drones are causing 'significant economic disruption', says Brussels Airlines  The Brussels Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-07T17:05:16.274809+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "b86e3b9eb103"
+    },
+    {
+      "title": "Belgium rushes to secure drone defences after airport disruption - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uelc4YlY5Ynctd2pCVk9PdDhpNWVwNVJfNUZwRndxUGUxQlkyeENLbU9HTTZ0RlRPUjBVU1dRdGkzb0d6OVU5LVFPRnRxUFNpcnFwRXFpUzQ4Z9IBX0FVX3lxTFBPSm54NHY0Zkt0OFViWVl3VVR4NXRUOWRvNjFjVFp0TERIYUVUNnlZenhzSmlLVUxQdXZaemc1V2g2eV80RHZQenJFNURJanRrcDU0Mm5QNVkzekFYU2Zv?oc=5",
+      "source": "BBC",
+      "date": "2025-11-07T16:10:09+00:00",
+      "description": "Belgium rushes to secure drone defences after airport disruption  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-07T17:05:16.274809+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "864271e7f4a2"
+    },
+    {
+      "title": "Deputies, K-9 thwart drone contraband drop near Ga. state prison - Corrections1",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkZSWC1WOExkcVEwdi1kOEJtTHpqLWwwVmdBeGxBa1pNcFZZRGVsTklBTnJlTUlyY0xoajFKanYwLXNZdjFIVHNfVVZoMmp3Sm1ybkdJZENNTFk3WEw5aG11UEk1anhJMFpLQVRqeW9QMmg3NFZYbWNhdVctNEUySFV0QW1EWnhnWkFtSG5zU0daNlZKMmFXcm5QbXJnSndLaWZDUQ?oc=5",
+      "source": "Corrections1",
+      "date": "2025-11-07T16:20:18+00:00",
+      "description": "Deputies, K-9 thwart drone contraband drop near Ga. state prison  Corrections1",
+      "query": "drone prison",
+      "detected_at": "2025-11-07T17:05:15.628327+00:00",
+      "location": "near Ga",
+      "category": "smuggling",
+      "id": "12ca12dba102"
+    },
+    {
       "title": "Drone video shows UPS cargo plane crash scene in Louisville - The Courier-Journal",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm4tdlcxTGJFWXlaYWZuV2Q0ZExYR2t6cUJRQkRsd2x3T1dWb0xacWpaOUhyR0ZmQmVtQzZwNUItX0d4MUNoVmV4b1FCOEZndnZVMEJxOHQwcHoyd012aDdXdERMUWUzMkROSTFrdUdvYUpFeXIzZ0lGTGEyRTM1b0F0aDVpOWVCT2hBdi1WZDl2MzlhbjBkaTRiRnZtTklYUXZJWjdIUXJJZm9odFZoVjNsREVOVlJhRzl3?oc=5",
       "source": "The Courier-Journal",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "1d2ac26730db"
-    },
-    {
-      "title": "Munich airport grounded by drone sightings for second day running - France 24",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81enNCVVY5SXFUcDFmQTAySGwyRUlKQXA1Wk1hUTEtZmRONW1LSVFCQjhhZWQ4ZmhnUVA3dVljWnN6VUFPYUlQMl9NcU9rX3kzM0ZadXhoZms0R05PX1Y1ejdORVVyR3BlRm1Lb0xJWHdMUzQ?oc=5",
-      "source": "France 24",
-      "date": "2025-10-04T01:02:11+00:00",
-      "description": "Munich airport grounded by drone sightings for second day running  France 24",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T08:06:31.798363+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2c24ac3344d3"
-    },
-    {
-      "title": "Munich Airport Reopens After Drone Disruption: Flights Resume with Delays and Cancellations - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeWt6VlhTSTRTNUtzMk1MYkpNTHM0ZExpazZnNEpoX1JBaHNNc0ZEWFhlaHctNmxLZ05pajlyNkJIajFkTzUyXzhGeXU2X0d4bGJnUWlvVDBLRkk5NkJIMkx0UXlHMHRYU19fOENkYU1wTl8xOUU3cThwbGNnMndDUlFCUWVTMUY4ZzV3d2FzT09iMzB1S0JFdUxKbTJBWWM5c3pxSjg4YjFIMTBENy1taGpyVGZwUTFUaVlTTzhYenl1Tk5rNzYzOHBXT0JrbUtvZmRDYWNn?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-10-04T06:49:12+00:00",
-      "description": "Munich Airport Reopens After Drone Disruption: Flights Resume with Delays and Cancellations  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T07:04:46.699520+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9ba10a06f226"
-    },
-    {
-      "title": "Germany: Drone sightings disrupt Munich Airport - DW",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhJdzdPeU9uM1dMdFZnUFE2a2RvTGdweC1PeU1tZ2FyUmxWSndUeUNMYXIwMjRvMzktZVZMMlY5b2t0NkVrR0kxOW9FMGN5c1U2RE5vc3lqdTRnWFhCSGZscXpHRFlLamhQS2JWbmMwd3VIT2ViMXJqM0wxaHdScms1VEdwQdIBhgFBVV95cUxPTWtldXZBWDk3eURHSnhVSHlPUXc3QTY4b1BVUFBHZEdWZzR0cWZSc3JTbkQxbVoyWVRlamJqdF84Qm1qMU8yVkVfRXlQdk1FMV9lTDBOUTdRRW53UlR0N1pQSnByUmJaX3J2NGdfN3F5aHRDNU5oZGtjVmpSWHNkODhzcmV0dw?oc=5",
-      "source": "DW",
-      "date": "2025-10-03T19:14:29+00:00",
-      "description": "Germany: Drone sightings disrupt Munich Airport  DW",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T07:04:46.699520+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "7f568f492648"
-    },
-    {
-      "title": "Norwegian Airports Disrupted by Unauthorized Drone Activity - Meyka",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVlQY3RjVC0wNEZhWEtFTFRwSmJuQkU3V1pWbFkwOWJTckltSHpuckpyMURTZ2J0cmNvbmJhNDVpY0xrb09ETlNHZmVrYUpCVHU2MC1WMmhTWGxLbWhvRTZ6ZTZ6ajlvYnRhc2ZHTWJUdEpSV0Q5OTJEUGpOSzJDMXZaYVlIVWNNVTJCaU02MUloZw?oc=5",
-      "source": "Meyka",
-      "date": "2025-10-04T05:31:49+00:00",
-      "description": "Norwegian Airports Disrupted by Unauthorized Drone Activity  Meyka",
-      "query": "unauthorized drone",
-      "detected_at": "2025-10-04T06:06:37.245415+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ff3bf0d81168"
-    },
-    {
-      "title": "Global Security and Justice Updates: Ukraine Strikes, Munich Drone Closures, Trump Gaza Call, Diddy Sentence - Букви",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2NZQlVFQjJlNE5qa25Mc3FsNWJ2SklabGVpRFd1ZTFlUXlWWTY5cDYyMkwteTBDSTk1bGhzZlpyd1NRQmd1N3hGaURqdE13WWhPSFoyc1M5TGhIY25LRmt3aWIwemprMDNpUzdHX2oyQWY4dWJjQ0JFRlNGNnE0RDZ1TEFSLWpuWEtmUVpIcFhBMUNWVWstLWNPSFAySEEwY2pYWGg3UmNfaVVNb1pHX043LU9uTVd4SXhxaXVUQ0VpRjhmaDhvRkRKcmRXUQ?oc=5",
-      "source": "Букви",
-      "date": "2025-10-04T04:35:04+00:00",
-      "description": "Global Security and Justice Updates: Ukraine Strikes, Munich Drone Closures, Trump Gaza Call, Diddy Sentence  Букви",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-04T05:04:59.623689+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0b2e201fbc28"
     }
   ],
-  "last_updated": "2025-11-07T16:05:54.986303+00:00",
+  "last_updated": "2025-11-07T17:05:21.112802+00:00",
   "total_count": 1000
 }
