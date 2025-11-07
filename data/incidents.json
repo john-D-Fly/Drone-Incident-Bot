@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "PHOTOS: Crash involving Amazon semi blocks all lanes of I-75 North in Dayton - WHIO-TV",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkWnZzNnBBd0NRWU9zenpIbHlBbXBieHBJTGZ6MDN0Z0RxdlBrRkFGb2FpZTg0d01ld3paQkhJN2cxQldJRUNKRE9maERFU0EzWHRmbG5KWGZIajZPZjdVb0hFYnFYejQ4UjlqRjNnZVBMUDdkREpYWnZGZjI?oc=5",
+      "source": "WHIO-TV",
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "PHOTOS: Crash involving Amazon semi blocks all lanes of I-75 North in Dayton  WHIO-TV",
+      "query": "drone crash",
+      "detected_at": "2025-11-07T03:24:17.393839+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f56fefb41e26"
+    },
+    {
+      "title": "Flights delayed and cancelled after cyber attack hits European airports - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcW9OSUIwaXFtWDR6SE0yc3RaWFRrVEtSWVVVMHpBcTltUVRBQUdTR19Wc3VZMEJDQk5IdmJ6aU1GcG9wUW1hczZmU1kxU2lkU2piUnhHUnpqUkpJdFRkVlVIU21remdSbElZSWltdXIxYVNuUjRHSHptbUZOYU9Ma2lIRkVPajZtSEE?oc=5",
+      "source": "AOL.com",
+      "date": "2025-11-06T23:49:17+00:00",
+      "description": "Flights delayed and cancelled after cyber attack hits European airports  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-07T03:24:16.808571+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a8be4dc94830"
+    },
+    {
       "title": "Birmingham man jailed for drone-related prison offences - Regional Organised Crime Units",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDdUdTl2SHFzTHlTbTN5LWJ5TUg3N1RtNHJkN1h1ZmU3YVhEb2tjYXNNLVgzdU9HVVkyOHhlY19sSDFMWXMtX3BpOUFleW5QUllRaklmcEFCM2VIZm55eVhrTVg5NHYtcm1EUGFjTnFqZ2lyaldoZ09oNnQ1VFFwVUNncTNYVWsxekhoLWpveWZPZ2Z1cmRfWVRiVUVRSy0wX2s4?oc=5",
       "source": "Regional Organised Crime Units",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "d593360d2c55"
-    },
-    {
-      "title": "Munich Airport Disruptions Ease After Drones Halt Flights - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0tlZ1hXNnRLRVhQeVBhTi10MUlpWU9LZlV3Y3RoekktMnlncmkxcFdMV0poSXc0S1NfZl9tTXRXSWtGaG1fdEVxWlZHbXlJU1pDX0V1QUkxbVcxZXljd2lYdnM5dUlfNld4bEpjX0MzenhEQ2NXWlphcEZFVHFvTEp6ck9qaTVQRThfekxjaU1fb1NjbkFmRlZraUthNmpnRW1IaFZ2ckRhVkRzcVNTLTRmWUlwQQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2025-10-03T09:11:11+00:00",
-      "description": "Munich Airport Disruptions Ease After Drones Halt Flights  Bloomberg.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-03T15:05:26.668982+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a00ff24f363e"
-    },
-    {
-      "title": "New footage shows apparent strike on Russian refinery near Kazakhstan border - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uVFVxWWJvNGVDN2VhdkZnNkdwMXVicWJVamJRekExYkJPdFBvOV9XaUNTcGxSUmJPb19UekNjc0lSU3p5R3lwZ0ViNFc3VVQwMVBkZg?oc=5",
-      "source": "BBC",
-      "date": "2025-10-03T09:43:51+00:00",
-      "description": "New footage shows apparent strike on Russian refinery near Kazakhstan border  BBC",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-03T15:05:26.668982+00:00",
-      "location": "near Kazakhstan border",
-      "category": "other",
-      "id": "a647ff564094"
     }
   ],
-  "last_updated": "2025-11-07T02:35:39.650269+00:00",
+  "last_updated": "2025-11-07T03:24:20.562658+00:00",
   "total_count": 1000
 }
