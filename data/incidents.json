@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Israeli forces foil weapons smuggling at Egyptian border - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ud1ZqZmtvbFA4YUxBWmEtRHFYbGQ4THFUNzJJZjBWWDI5LTRTTUZBbTFjZTJyT0k4OVVUS0M2d1ZLX3pJRmM1dTJ6TnFvc1pOVGFhbDFBS3dWN1lIbFpzODJHZ191b0NQaWlhWm1R?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-11-08T15:55:14+00:00",
+      "description": "Israeli forces foil weapons smuggling at Egyptian border  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-08T16:05:17.657428+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c94da6f80f6c"
+    },
+    {
       "title": "Civilians or terrorists? Israeli drone strike kills 2 Lebanese brothers - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcl82X2dLaFZpdU1WOUZCRVJoNDhOR0d1ZXhWZWRoQm5oYjVPWWpnM0NVMmJMOEhaV0NmaUVzMnVyaHNUX0ptSXpuSDRFVk5hdGpXVXQ5cXZVY2R4a3NlbUtfWm9ZMDJWb3cxUEZXczdYOHRQN054OXprejJjbXludUdQMDlEY1NiSVQzWjk5cFlsc0t2U21fdU9BSHppMzB2QVlnYk01XzRHOVlDNWpfVUhsVmh0amhqMkZoNmJPSVdrcF9ZWUxCc2tNbm9oTknSAc8BQVVfeXFMTlM0NFJfYjY5eTYxR3RzN096NnUwT1AzUmJQc3N0cVZZRzlxQ0Q5VmpVVTlIeld4MXlRV2Q5Q0JqV1NDOWJjN0pZZzJJY0tGd3YxUkdvRGNZSW9EbHdsMkQyM3o3ZmpPTmtLX01VdWdjcF81OTdOX3hqblp0bzJjVTFzdnBBYUZNcGJ6VmxxWTB3a0xjeTlyNHFMd1NQdmIyVU82X1VsWkZyUHJrVVhQVkEzMHN6eXZ3X1RvWnB0Z1RlRG1VR05ZN2Q1RzhwckJV?oc=5",
       "source": "South China Morning Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "4facafdfa701"
-    },
-    {
-      "title": "Munich Airport Reopens Following Drone Closure, Affecting nearly Three Thousand Passengers, travel to resume gradually - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdGtuV19lcFRBeER0YS0wU2ZhQzlndTNGbXItMDg2bTF1bmxoa2hZWFFYYzBPU0RONGFvXzFlczJzMlhBX1Ezc0ZUNDR6bk4zRGVXUmtqM21HREZnd19CODcySHJJOXJQNFloZU9feTNwdm5Xblota3lYN1F2SGZ5UHBPNVROaXR0T1JCS2FydnV4aTR4cDlEeWhjS3N3T0U0Z1M0M05XN2NHN0huWG9kMGVLX1dwY1dBWHIxN0pCckZTQVlsVGJidVA1dm85cDAtY2YwbmJXSmd4cTI2THliWGIwRU1GeXpoa0pUUEhkU3NKd0o5T1pFZQ?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-10-04T13:14:54+00:00",
-      "description": "Munich Airport Reopens Following Drone Closure, Affecting nearly Three Thousand Passengers, travel to resume gradually  Travel And Tour World",
-      "query": "unauthorized drone",
-      "detected_at": "2025-10-05T02:34:24.914098+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2dcfc9dadec9"
     }
   ],
-  "last_updated": "2025-11-08T14:04:53.012799+00:00",
+  "last_updated": "2025-11-08T16:05:22.632000+00:00",
   "total_count": 1000
 }
