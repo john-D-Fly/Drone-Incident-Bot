@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Crew of fatal UPS cargo flight tried to control aircraft before crash, NTSB says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQThvTXNHZ3M2THFqdG8zajlwZjhVOXYzZXV3TVVVSGFWcjJIZkFUeWpIUnJMWmVTbDRoSGhPS292bXpLdHlmVVJkVy1ZbkdoUG54TUFYaUh6ZFNnaUpEaHFZLXBVRHMwWFc3MWFrVG5zcWUtM0MtSlc2WEF0RzBLV1llR3VYdndnVnpCV0FQdjBDWjV6cXZQS3RBbWRpT01LVVAtZi01SWpuX1luOFVxWTJ1WXhLeEItRHRyVWVzMHBmaDlCZWU5YmxkM2psSUNpd1E?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-08T03:52:06+00:00",
+      "description": "Crew of fatal UPS cargo flight tried to control aircraft before crash, NTSB says  Reuters",
+      "query": "drone crash",
+      "detected_at": "2025-11-08T08:06:38.193287+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e5ac948829dd"
+    },
+    {
       "title": "NTSB shares aerial footage, giving closer look at UPS crash site - WLKY",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2pVZXdadDlVSmROSFVuS1BCdDU2TXJuYWZoU0xmLU5VRmZnekdiOWcxNG44OWlHTWZTVG92V3VJdGdLVHhZU2FfSjNNYXhKRFF0ZWpYY1FvNDJoX3NTUkJGeUNmM0tEbG0yR1dyNTlmMXRITHJ0d2VhZV9qNUwtTzZpN2IxQzdCOWdR?oc=5",
       "source": "WLKY",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ccf9d215b577"
-    },
-    {
-      "title": "Military drones ‘behind Munich airport closures’ - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1Voa0tMMHJVVDhhQ1lZd2RtSHhsWlQyMFNHUzNRTDZmWmN3TTVnNFlXYkw2M2N0OE9QWXp2MHZMb0dEYjFURkRQRktoRm53RHJfNWhuaGhKbHhRRFJmeUV4MlFFQ1lBOThjQXBFS2RjVFZUaFBjWHNHa0VCTWV5cExCREhyYlQ4OWdJUENRSWd0QQ?oc=5",
-      "source": "Yahoo",
-      "date": "2025-10-04T14:14:46+00:00",
-      "description": "Military drones ‘behind Munich airport closures’  Yahoo",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-04T17:04:52.713813+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e3bc600ded35"
     }
   ],
-  "last_updated": "2025-11-08T05:05:18.497410+00:00",
+  "last_updated": "2025-11-08T08:06:41.075383+00:00",
   "total_count": 1000
 }
