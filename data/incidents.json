@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "New video shows extent of damage from UPS plane crash - LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbl9BazloYWV5dXAtYnROM3pSa3lJSWhhX0FPMnBsTnNLN3hEZldhZWZGOVBYLTAxbEtuQnBYWG1WUm1pX1RjTkNJU2Y3d21SdUZLMGJRa2kzY0NZamQzaEtLMGFheFpWTkY0YjRleHRGYmNMUk45UWZtajBDY0hiVXdOS2JmOGxaYVHSAY8BQVVfeXFMTWY5RlIzS0RySkQ5M1RjVC1WLWRvWVZLUFJ6ZTU5TDNnbGo3bzN4em1WckNwNmlwN2dVS1BVdUlZUlNIZ1cwdkMtX1paV0ttclhmVFFPNTE3VFhrRWNJWDlrUndnNVFzVGJTZmZ4YjJ5RG5xeDI1Vll2TkktYllUbjlJLWtORFRQbXJmcXlWZDQ?oc=5",
+      "source": "LiveNOW from FOX",
+      "date": "2025-11-07T20:44:07+00:00",
+      "description": "New video shows extent of damage from UPS plane crash  LiveNOW from FOX",
+      "query": "drone incident",
+      "detected_at": "2025-11-08T21:04:40.888713+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8c9a57cb1a7c"
+    },
+    {
       "title": "IDF foils weapons smuggling attempt via drone at Egyptian border - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY256WUJYaWVsMFRoQ29tMXN2bXhhOGw3TlBzZ01TS2tiSXRUQm5aczIyeTA5b1dHbmRJdmF3bUdxV3VFSVdwakJodXBhRmJpdWFJdFBFYzd2cTRmeWhaRmZmZ3hQcVh1aUJ4MHpQelpWLXBRRGl3dzdEV0ZFYzQyMXdBRUhORXplQTNGS2ducw?oc=5",
       "source": "Yahoo",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "aa6c1e1ef9f3"
-    },
-    {
-      "title": "Russia’s mass attack on Ukraine kills 5 after Poland scrambles jets: Latest - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnJKc3l6LUlXVkJ1dUtOVHFSYTczbGRFZzBidDdrX0pmZkJPcWVWalgyTVdYemNhZU5yblQ0cHVUZmtmeGNIY2NoODd5ZmgtT2hHMVI3dWY3T3JubEtjb3BKZEJPUURGQ2pnZ0NEb1FTZndCVXIwMTVvWDUzckRXaWlweTdaSlp4Wk4ySzBLMG1qekhrSUhxSUduaHdHekhTVlNIUFozb1JyaUJPcHZXYXQ4QXNyZzd4Vk9OU1ZQZEE?oc=5",
-      "source": "The Independent",
-      "date": "2025-10-05T13:41:05+00:00",
-      "description": "Russia’s mass attack on Ukraine kills 5 after Poland scrambles jets: Latest  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-05T14:04:46.834284+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c54eb4fdec0c"
     }
   ],
-  "last_updated": "2025-11-08T20:05:17.680758+00:00",
+  "last_updated": "2025-11-08T21:04:47.349024+00:00",
   "total_count": 1000
 }
