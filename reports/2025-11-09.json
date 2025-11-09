@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of drone incidents have raised significant concerns in various regions. Notable highlights include an alleged Ukrainian drone strike disrupting utilities in Voronezh, Russia, and multiple drone sightings leading to closures at Brussels Airport, highlighting persistent airport disruptiveness in Europe. Meanwhile, Belgian authorities are taking steps to bolster drone defenses amid fears of economic disruptions caused by drone activities. Drone smuggling continues to pose challenges, particularly along the Israel-Egypt border, where multiple incidents of thwarted smuggling attempts have been reported. Additionally, the impact of drones on public safety remains under scrutiny in various jurisdictions, including incidents like a drone crash that injured a child in Kent, UK, and other illegal drone activities in the US. The incidents collectively reflect ongoing discussions about drone regulation and public safety measures across multiple regions.",
+  "totals": {
+    "airport": 6,
+    "interference": 4,
+    "security": 2,
+    "other": 31,
+    "smuggling": 9,
+    "terrorism": 3,
+    "crash": 14,
+    "total_incidents": 76,
+    "by_category": {
+      "airport": 11,
+      "crash": 26,
+      "interference": 3,
+      "other": 18,
+      "security": 2,
+      "smuggling": 15,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone crash": 23,
+      "drone illegal": 7,
+      "drone incident": 15,
+      "drone prison": 2,
+      "drone security breach": 3,
+      "drone smuggling": 14,
+      "drone terrorism": 4,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling Incidents",
+      "rationale": "Frequent reports indicate ongoing smuggling attempts across borders.",
+      "incident_ids": [
+        "370dab5e2042",
+        "c34d92969e70",
+        "917b8962a159",
+        "917b8962a159",
+        "f6d00e11e9bb",
+        "f5a82142b9eb",
+        "edc39a8575b0",
+        "a26e2e537984",
+        "c6948259969f"
+      ]
+    },
+    {
+      "topic": "Drone-Related Airport Disruptions",
+      "rationale": "Increased drone sightings leading to operational halts at major airports.",
+      "incident_ids": [
+        "a34d340cce16",
+        "8e0f9f89b8ce",
+        "76d75afcf407",
+        "76d75afcf407",
+        "1f92f8FFD67e",
+        "72acbab9b8b1"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "42930406f8a8",
+      "headline": "Ukraine drone strike temporarily cuts utilities in Russia’s Voronezh.",
+      "one_sentence": "A drone strike from Ukraine led to service disruptions in Voronezh, Russia.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a34d340cce16",
+      "headline": "Drone Incursions Paralyze European Airports As Belgium Calls For Help.",
+      "one_sentence": "Belgium is seeking assistance to address rampant drone incursions causing significant disruptions at airports.",
+      "risk_tags": [
+        "drone airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "8e0f9f89b8ce",
+      "headline": "UK to send defence equipment to help Belgium combat drone disruptions.",
+      "one_sentence": "The UK has announced it will provide defense resources to assist Belgium in managing drone-related airport disruptions.",
+      "risk_tags": [
+        "drone airport disruption"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Belgium"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d92735651f31",
+      "headline": "Drone Footage Shows Horrific Aftermath of UPS Jet Crash That Killed 13.",
+      "one_sentence": "Drone footage has revealed the devastating impact of a UPS plane crash that resulted in multiple fatalities.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "12ca12dba102",
+      "headline": "Deputies, K-9 thwart drone contraband drop near Ga. state prison.",
+      "one_sentence": "Authorities intercepted a drone attempting to deliver contraband to a state prison in Georgia.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "70e09dd7648b",
+      "headline": "Inquiry after child hurt in Kent Police drone crash.",
+      "one_sentence": "An investigation has been launched following a drone crash incident involving a child in Kent.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge globally in the past 48 hours, with notable impacts on safety and airport operations.",
+    "linkedin": "Recent drone activity has raised serious concerns across various regions, from airport disruptions in Belgium to utility strikes in Russia."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-09"
+}
