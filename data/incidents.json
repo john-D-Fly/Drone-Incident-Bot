@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Can you shoot down a drone over your property in New Jersey? Here's what the law says - Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnk1MTNSVndtSU9DWHh0ZElwQWN6eDdIbUZzeGdMQjV5d3VybzM0dElZRXpFU3RyUjFCYi1aWjRqVW8tcEFVZ2N6SXpEUzFmcWsyNHRLelM5WE1FaV9WOTNGbmQxcVRGYXpEYjBDQVpGUnFzOWVha1pTR1FRbnZOcGRuTEhHTUc2aTdsTDFJcS05LVZ2U0liazlqRFhxaUlYU2dLTGd5YjIzVlE5VU5Z?oc=5",
+      "source": "Asbury Park Press",
+      "date": "2025-11-09T21:52:49+00:00",
+      "description": "Can you shoot down a drone over your property in New Jersey? Here's what the law says  Asbury Park Press",
+      "query": "drone illegal",
+      "detected_at": "2025-11-09T22:04:56.033653+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7d6255ea9a0d"
+    },
+    {
+      "title": "Suspect located by drone after fleeing crash scene in Sandy - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlBsbE83ZUhTRzJDTGl1dUpmVkpocWpfcS1yRkFEbzBaZVIxTVVHWmZuamRSTUVoLVYtVlI2bnBycUNuNVlPUjBuLXFkWHVHNVplSkkyZkV5MFVlWFpyZTBkakhFVlpoSWdrdGU3M0VUcTBqWkJjN1VycDBBWG9Rc2xfN1F0Nkl1c1pJRjVCWmM?oc=5",
+      "source": "KUTV",
+      "date": "2025-11-09T15:48:57+00:00",
+      "description": "Suspect located by drone after fleeing crash scene in Sandy  KUTV",
+      "query": "drone crash",
+      "detected_at": "2025-11-09T22:04:55.442449+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "21e1e75b6f7a"
+    },
+    {
+      "title": "Ukrainian Prosecutors Arrest Battalion Officer After Russian Strike Killed 19 During Ceremony - Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTTNERnFKQ2ZDblRScGM3dVhMRV9PODBOOXExUDV6eUtJVFo2N0hheXVJQkhaUThfZXdkMlBzWnN0c3daSW1EMmNQN2ROWXlsaDFST0dORmJHcjVsMzlmR1k4NjZTWVhmYzFFVm9ZQXEzcU51NU10U1JPNktZQUw0UnB4RXhVQWVKV0ZKS0JhUTk5UVl1RWRCRFhjc1bSAZ8BQVVfeXFMUHgwalRqaDFManFYZi1LWG16S3NjbGpSNXcxeF9WMEFaMk1Kc3FyV0RjM1V6RkdZRXFGRjFmZTFRNFVsbWVDNGNvVzhveWtBSno1RGlxeXFqQ1JmQzVSZDRaWHM0VWZ4c1phU0RxX1RsSy1NSTVTWWtEblpaZ05kZXhNMVM4Nk5IZGdtMnNCUG5oWVFaMkVMTkNIWV9YY3Fz?oc=5",
+      "source": "Radio Free Europe/Radio Liberty",
+      "date": "2025-11-09T16:12:51+00:00",
+      "description": "Ukrainian Prosecutors Arrest Battalion Officer After Russian Strike Killed 19 During Ceremony  Radio Free Europe/Radio Liberty",
+      "query": "drone arrest",
+      "detected_at": "2025-11-09T22:04:53.008742+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "1e9be2f088e9"
+    },
+    {
+      "title": "UK Sends RAF Counter-Drone Specialists To Belgium As Mystery Aircraft Trigger NATO Response But Are They Actually Drones? - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0lfako4UjFpVFZlaW9mc2J2UUdsUTZwSHozVnFkNlJSdWdKX0x3dHdqX3NHcWw4b09pZ1FZZm1Ic1c0RjNBTEdPcC1aSDNiY3l1TlBRMFJPM2VXOGxtOU5OY0xqeEZoN2tTd3hyNGJkQkdlcDdyQnNlWmRyeGkyb296VEpLRXc?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-11-09T15:36:31+00:00",
+      "description": "UK Sends RAF Counter-Drone Specialists To Belgium As Mystery Aircraft Trigger NATO Response But Are They Actually Drones?  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-11-09T22:04:52.205829+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "246f710d40f0"
+    },
+    {
       "title": "United Kingdom sends anti-drone team to Belgium - belganewsagency.eu",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYjRkcFdzVUVNSU5oQTh2R3NNSFNWeXlXVzFOR2c0X3JNWE5oNXF6VExTZTNqYWRCVWpGOWdWMjJRMk1DX0dOT1QyS1N2RTdHMWxoVTNteEZkMVNMZWJ1LUY4RGttR3JmY05hb2J5MkFDVmpWb3h3NXhxM3hYLUFoZ2lrS2o?oc=5",
       "source": "belganewsagency.eu",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7333ba133b8d"
-    },
-    {
-      "title": "Man armed with drone to smuggle drugs into prison jailed - Yahoo News UK",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mOEpQVmFzTzBjOWhtUmlSZFJVajUwdVVHaXd6aEExR0NfQWR2Ui1FcXliREdxWUlBYmphZGxTU1BYYkdoUUpnRF9ZSHlqZy10OWhZemN2eDJqcUhYVFJZc1lYWTZjc2FPaTdGY2hNTDNfZ1JXaHZ4YUVR?oc=5",
-      "source": "Yahoo News UK",
-      "date": "2025-10-07T16:29:00+00:00",
-      "description": "Man armed with drone to smuggle drugs into prison jailed  Yahoo News UK",
-      "query": "drone prison",
-      "detected_at": "2025-10-07T17:05:13.453084+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c50c3608980a"
-    },
-    {
-      "title": "Branch County Sheriff drone tracks suspect hiding in woods - WTVB",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JZWlCQWNKcW1Udmw0a0tDQi1xUHN0elFXbDBOdkEtVEZUMThVdWIzQXc1bmNUQzRsb2dldHY5RkdMcVFUWGJMSTdxNkF5dw?oc=5",
-      "source": "WTVB",
-      "date": "2025-10-07T15:18:09+00:00",
-      "description": "Branch County Sheriff drone tracks suspect hiding in woods  WTVB",
-      "query": "drone arrest",
-      "detected_at": "2025-10-07T16:06:11.205755+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7224067c9cc4"
-    },
-    {
-      "title": "Drones could help improve cardiac arrest survival rates | ITV News - ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGFqQWtadXp3eUlpQmZ5alB6d0RRLUJnWl9KMVo1b1JzT0hWWFRRU210RWU1S3hNdVdaOXBqajI3OUw3Wkg0eE5fNFBUT3VRV0NiajBURDUxNkJFMXZtRW9nUmRZMU9mdS10UU1FQzdYcEp0OXFPZkt4SHgyQWhES0ZwZEhWcWt5OGZRcGwwZHdpQTlJa0haN0M0Ump4OTIzZnc?oc=5",
-      "source": "ITVX",
-      "date": "2025-10-07T07:43:11+00:00",
-      "description": "Drones could help improve cardiac arrest survival rates | ITV News  ITVX",
-      "query": "drone arrest",
-      "detected_at": "2025-10-07T14:05:48.812515+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d4494b56335e"
-    },
-    {
-      "title": "Russia Holds First Official Talks With Taliban After Terrorist List Removal - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak5hM0RjTTFDdnEtV3FBc0NZTU1ZMTNLVXpKOVg2MTYtZ3l2Qmx5Z0tsNGR0R00zQzZmVGUtNC1EV3R6QnIwNjR4Q2ZqWG1QYk1ScFBGSDE3ZUVlaDNQUFJTdDBGSlJ3UFlEYWUzOGxxQlZuT0FRd2ppYzhKcV95Y1VBUE95dmIwaW9kWkVvUWpaS2xQVFNOLXQxaXp3dWh5Q3hlMmg4QmN6eVZ6QmMtSWRxTzc3ZDRaczdlc21SaDFRZw?oc=5",
-      "source": "The Moscow Times",
-      "date": "2025-10-07T11:01:24+00:00",
-      "description": "Russia Holds First Official Talks With Taliban After Terrorist List Removal  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-07T13:12:51.667421+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "b6ca50a25800"
     }
   ],
-  "last_updated": "2025-11-09T21:04:56.162304+00:00",
+  "last_updated": "2025-11-09T22:04:58.632818+00:00",
   "total_count": 1000
 }
