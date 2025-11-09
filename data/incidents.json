@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA grounds all MD-11 cargo planes following deadly crash at UPS hub in Kentucky - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjloMW55UFVIa2ZaSlB2bEdDak5URGNFUDlKa0xlMXBZeDBEelhoSTBvUDV2QlZ3UnV1c1VRVWZKUm9fekRreFFtVndndkpaSnNETWFheXJGNFpZVkc1bDVZakFyWlFpcmN2bTlNZ1dqQ1F0VHAxelpSVW9jSWcxcTczMGlTNVhxTVVnNzg3T3ByRU9IZDdBVTQ5M1FaMzRSNWFqRzBIUVJxSVk?oc=5",
+      "source": "PBS",
+      "date": "2025-11-08T16:59:44+00:00",
+      "description": "FAA grounds all MD-11 cargo planes following deadly crash at UPS hub in Kentucky  PBS",
+      "query": "drone crash",
+      "detected_at": "2025-11-09T01:33:23.816623+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a26e2e537984"
+    },
+    {
       "title": "Sudanese army says it intercepted RSF drone strikes on two cities - africanews.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGFSMlJOUnJ5VkZzbE8tenZCLVJ5UmhYaDNfZWJ1WUl4ZEhENTg5aTVVTTJlc3FPblVTNnJER3kxVXJvVEx5LVFQOHU1VXZ3UHcwRElPR2hxNjJLYWpRNUJwNllkTU1sOUVsbnhYV0Exd212aTNYbjNFZk43QlBjcnFVdFhLTnN2NExmZkdTZEdPZkh1TUU5OHBueTN0RU1SZlRlSEJSc9IBrAFBVV95cUxNN1BJVTQ1YXRGbGVheDNHV19NenYxN0tNYXF6VVB3am0yQ2x4WkRuNVZ4aldTXzRWZlY0eDZyXzRZNTlxMTJudEV5bnp4V1hDY1l0YzhiSHRTXzRVeUptM0NDWl91M1Bsd1dvaTdCRVU1Y3huTkZ6azNBLVd3d0xxeFFNTmpsRHVuaTNSUGNEWUI2eTBmUDZXU1lmamFsem1uSnd0aGJ2Mm5iZnlB?oc=5",
       "source": "africanews.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f70d045b6833"
-    },
-    {
-      "title": "Small hot-air balloons smuggling tens of thousands of cigarette packs force Lithuania to close Vilnius Airport for hours - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVk4Y2ladWlNTGZrbElMaWZUZUM4TXN1VXdGVW12UEVsZ3JULVN5bDZCWmpPbDV3TUEtdDM1cUwybGd6dGhyRC0tLWhxVnFPQlJJdExuWFFTRnRHLUtNVmhqZHJyOVJHbG1XMEJET0xYenYtVzdheFZHYjcxazl1alZNUGNwcUJXQmtNYUxvRk9NdmhiVE1Dd3hnTG5WMkk2dXA4b1ln?oc=5",
-      "source": "Fortune",
-      "date": "2025-10-05T14:53:00+00:00",
-      "description": "Small hot-air balloons smuggling tens of thousands of cigarette packs force Lithuania to close Vilnius Airport for hours  Fortune",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-05T17:05:01.976364+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "aa19fbf886c5"
     }
   ],
-  "last_updated": "2025-11-09T00:24:37.003430+00:00",
+  "last_updated": "2025-11-09T01:33:27.010999+00:00",
   "total_count": 1000
 }
