@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Yoon indicted for 'acts benefiting enemy' over Pyongyang drone operation - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZVlyR1ZPeW9pY1pkYkRyZFlCcGVIaTdvcU5jbXY0SHdYNlZZcjlnQTkwNEhfbzE5MDlseUo3ZDRPcmtsczJGNXh2cEJuS2ktSGtXSkdKWQ?oc=5",
+      "source": "The Korea Herald",
+      "date": "2025-11-10T06:32:57+00:00",
+      "description": "Yoon indicted for 'acts benefiting enemy' over Pyongyang drone operation  The Korea Herald",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-10T07:06:22.805849+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4579062b8465"
+    },
+    {
+      "title": "Skylock signs NIS 12 million deal with European customer for drone defense - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LSTZXb1lRcVUzR3YzVGdVamNKazJfQ0VaUHYzWk5ZVXJfdHprXzl1X1BIUkduOU5MaWJXUGhYVUpwUWhNVTFOOHhYUXR0SGtUM2tkN3lDN25yVnd5azNfeXZuaw?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-11-10T06:59:36+00:00",
+      "description": "Skylock signs NIS 12 million deal with European customer for drone defense  The Jerusalem Post",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-10T07:06:22.805849+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5285847ab07d"
+    },
+    {
+      "title": "Doctor with arms from Pakistan held for plotting ricin terror attack - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOEpQQ0gxMUdQaDloZHJXTG1BMFM3bWJtc0xkbE1HSXIxbzhfVUZ3WXFPdXJLZnNhakMwZkN5dE5RX0d0bkt3Nm5qZ0NxbURmVHJRYmZROFljREFnbVA5eTZhV1Ezczl6OUk3OWt4RkpSTEthWm5oaEhhRnktWm9jWW1SOVhkSjVYTmpMRkZ1WXZKOV9taEtrbUR3MnQwTTdHQzJNTHlQSXRfSW9IWS1abnh1MzVQVXM3bzR6SXpGTVY1ZnNVaVExMlF3bFNaMklQR0HSAdcBQVVfeXFMUGN0ZFN4cUxUeHFtNmRtR3FOTWlfcDRmUEJYRkxPeU1SMFU1dGlwT29uUUpoNmtsNnNILWxLTUpmalN2VkhHY3pudGNvNmRkTFJJSUdsMTg5dnBvNjBpSGY5bUNrWVVZNFdIYWZJTVVEVjI3SkZlanhEUzVMSWhqSVNqalk3WVU5WWZsZlllOVJXNE1BdEJrY1kwV1phalU5cllSWjBqUENDc1JVZnNERER6VmluTnVvdWh3ZlRsZmpGaFRzMTRJVXVyM3F6a2FyTzJxOE1BMmc?oc=5",
+      "source": "Times of India",
+      "date": "2025-11-10T02:40:00+00:00",
+      "description": "Doctor with arms from Pakistan held for plotting ricin terror attack  Times of India",
+      "query": "drone terrorism",
+      "detected_at": "2025-11-10T07:06:22.148051+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "cbfbeeb70e0f"
+    },
+    {
+      "title": "Ukraine war latest: Lavrov 'ready' to meet Rubio after reported breakdown in communication and rift with Putin - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
+      "source": "Sky News",
+      "date": "2025-11-10T06:40:39+00:00",
+      "description": "Ukraine war latest: Lavrov 'ready' to meet Rubio after reported breakdown in communication and rift with Putin  Sky News",
+      "query": "drone terrorism",
+      "detected_at": "2025-11-10T07:06:22.148051+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6290d604b2bb"
+    },
+    {
       "title": "Ukraine war latest: Lavrov 'ready' to meet Rubio after reported breakdown in communication and rift with Putin - Sky News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
       "source": "Sky News",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a203bd681970"
-    },
-    {
-      "title": "Southern Military Zone Thwarts Drug Smuggling Attempt Using Drone - jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXYwYmJXdGtyU0w0R3RYeVBFMmtsNlkwN1JMOF9ySVpfQ29SNVJzaENkQnJkdmVpY0N3QXV3QnBjc0lXRUZHZHZfbTV2cTlsR0dDcGlJVkRHLVpkYlNUa2N3a0hIbmRJN2lYcS1HdnNjOWh6M2JPRFRNUXVzQ3ZmVUJZaTR2eTBBeGZDQzFCRGdrZnlpX09Pa2h6R1hTRFJTcXNCdGp0ZUp5OHdNSzE4TU5wQ28?oc=5",
-      "source": "jordannews.jo",
-      "date": "2025-10-08T09:46:35+00:00",
-      "description": "Southern Military Zone Thwarts Drug Smuggling Attempt Using Drone  jordannews.jo",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-08T10:05:43.322853+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "00f5b0265664"
-    },
-    {
-      "title": "Man caught using drone to smuggle drugs into HMP Highpoint - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mS055TGI1UVpyUDhZWWRFY3F0ZTduU2dURkpwYXloZjRwN1B3V2VMWXhDNm95QUlzbk1nZUJxcThiYkxCMkljVHpzWlM4YXczMjhkbFZMMHFVQdIBX0FVX3lxTE5majNZblpheXowaVJ1N001RVp1R0gwMlRzUThXZmdHXzd0OTVFeDlBT3pYYUhZelNjM2ltWUlYdV9PSFNVblFDb2NDemlnTUNiQVRqV1hPS3pQMUxMVDJn?oc=5",
-      "source": "BBC",
-      "date": "2025-10-08T09:06:34+00:00",
-      "description": "Man caught using drone to smuggle drugs into HMP Highpoint  BBC",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-08T10:05:43.322853+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0f52d70c27c2"
-    },
-    {
-      "title": "Germany Plans National Counter-Drone Law, Bavaria to Grant Police Shootdown Powers - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnVUUFVQa0VSNFo3VklZdndHYldJWVgzTFNnZGdPQkpxVF9faVdXd2JLRHZiNXZoUWRya2tvd0RHR2oxekRiODg2VHExRkZqaXFJZXpVdEE0UlctS0pxTzVyaVdjRW05TG94WE1DZlJYZmUzV25JNFRFMllUSDlHeDBjNnJUbTFGb0NXX3NvazhvT0l6Q1FKX0tLLVNIMEVmRWotdmJtYUhCTzZNcVowYUNRM2lKZVh2NVdTczh6cl9DdGM?oc=5",
-      "source": "UNITED24 Media",
-      "date": "2025-10-08T08:20:34+00:00",
-      "description": "Germany Plans National Counter-Drone Law, Bavaria to Grant Police Shootdown Powers  UNITED24 Media",
-      "query": "drone illegal",
-      "detected_at": "2025-10-08T09:06:01.853438+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bdbc2e4b72d7"
-    },
-    {
-      "title": "Can you shoot down a drone hovering over your property in Georgia? What the law says - Savannah Morning News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelBFdGdPZmR0RU9WR3NEMk1SaXItUU85eU11b3dDNVhMUVFVWkIwR3RQMjhuT0xJYXp2dEZuTWRwOEhsdzhDZVduYVhJckNMd0JGNGVMdjE4cnkwRW9vc1NzcVRxVTl4Y3J2eWlQSFpENlcxM3hRdlk3OTBQQlF3UFhaTEdkTFZJUEpGOHFSUTRHaE1ETlZWSDFCeER2N096bkM2QjdJeHgzUTd0MUVBLWdXZm1FVTdvYXFNdw?oc=5",
-      "source": "Savannah Morning News",
-      "date": "2025-10-08T08:14:19+00:00",
-      "description": "Can you shoot down a drone hovering over your property in Georgia? What the law says  Savannah Morning News",
-      "query": "drone illegal",
-      "detected_at": "2025-10-08T09:06:01.853438+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "36f3654de4fd"
     }
   ],
-  "last_updated": "2025-11-10T06:08:32.042968+00:00",
+  "last_updated": "2025-11-10T07:06:23.364104+00:00",
   "total_count": 1000
 }
