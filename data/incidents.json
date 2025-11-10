@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "UK Deploys Troops To Belgium After Drone Incursions - Evrim Ağacı",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3pOYS0tYS1xUTJzaUtlb1pQcEdZenNqaVhYS1RkbDdCREhYVVRZc2h0U2lkR2tkVXVNb3hHQlpqMnRJcXdkdC1iVDVsR1YzejBScUxWdEJweVJ4M0o0VGswUEVrdVJYV2ktbDBhNGV5OWRra2hEY1VhOWdRejZVSmtQRXd1aHR0eC1oUzF3?oc=5",
+      "source": "Evrim Ağacı",
+      "date": "2025-11-10T14:21:38+00:00",
+      "description": "UK Deploys Troops To Belgium After Drone Incursions  Evrim Ağacı",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-10T15:05:58.032801+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "68a14382c447"
+    },
+    {
+      "title": "Drone Drenches Russian Villa In Sweden As Moscow Blames Stockholm - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qZndfUFNyMUtZcmVMc24tT0k5YkJIeUFhS0U4LTh3azRKOWtIX2xscWZNaWhnVXJfajVpVExNekhHNEJWUDh2cTJISE5IUXRPMnpNQkxLLWtEdWdkRkxoblg0ek83aDNoXzJ3VURJZXhiT0VJXzNv?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-11-10T14:39:15+00:00",
+      "description": "Drone Drenches Russian Villa In Sweden As Moscow Blames Stockholm  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-11-10T15:05:52.026620+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0b6e8fd8afd9"
+    },
+    {
+      "title": "Belgium flounders as 5 drones buzz nuclear power plant - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmpoN1RDUDBrRHpwVzVvUFliQjlyTG4zbXFfSF91LVR4RE1KQ3JRako4OEtZcFFPVEQwTW1kTnJyejB5dTRvY1ZKcVdmLVo0TS1EazI0QmkxTkV6c3R3UzVubzY0TDg5ZXJJUmYyZ0J3U0FhMUhPcEpIbWY4QUI0NnV0UVJkRGtyejVfMVI0bF9UeS16NlppLUtB?oc=5",
+      "source": "politico.eu",
+      "date": "2025-11-10T09:48:00+00:00",
+      "description": "Belgium flounders as 5 drones buzz nuclear power plant  politico.eu",
+      "query": "drone incident",
+      "detected_at": "2025-11-10T15:05:52.026620+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "52c08289a457"
+    },
+    {
       "title": "State prison commissioner looking to prevent drone drug drops, needs funding - WZTV",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDZSb19CZmQ0eXJSRlpGMm56SUl3X0pvWjl4amNNYXRndjNhellkS0NxTFlsWGR2TDRhMlFsMG5wQUltdHUzdFlkUE5FZFByY2FEYWo2eTgzcWMySS1KNTROSDdiVmR1TENLeHJWemdSZG1UOW1mbzBZZGV5TWpwcldGR00ybWxYYzR2Wi1UUXJqZW5tOXFLdy1xR3FjWDQ4aXdZX3RBWQ?oc=5",
       "source": "WZTV",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3c297738c4b1"
-    },
-    {
-      "title": "Air Force, FBI Investigating Mysterious Crash Near Area 51 - FLYING Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYTJhcTZTdlhQWjJBR1NWdkk0RFItZGNyZkczcGRCYW1LcWMxb1FNVndrNm5OZzNkRkdmcjVEODY2RU84M2ttMU90b28zZDgyQXJUYTkwaVI2SFlCNE9HZ1JQbGlaUFM5RjFBTjcwS3VWcThxc2NFalNkQkVRWk5RV3BkOXI2d29sVjZaZw?oc=5",
-      "source": "FLYING Magazine",
-      "date": "2025-10-07T21:08:51+00:00",
-      "description": "Air Force, FBI Investigating Mysterious Crash Near Area 51  FLYING Magazine",
-      "query": "drone crash",
-      "detected_at": "2025-10-08T20:05:56.607724+00:00",
-      "location": "Near Area 51",
-      "category": "crash",
-      "id": "68433f8d9bf8"
-    },
-    {
-      "title": "‘Chilling’ rise in UK prison drone incursions – bringing in contraband - Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGNRU21WaklBVUN1bzdaalo0cF9LU0FOMEw2TVJpd1EtUEpmQ0VZVHRqbTRDUndDVHI4dHdNSmxnZFAxQnl6bXF0ejBsRUlLUlU3Wm1aMktEdkxvY3NlNWFXQmRFZVhMS2ttVnZrQU9WR2l6YjJmVm5UWkhvV04tRGN4R3Y3RkZtV2FxYkJoWS16MTFUVFVVaEV0Z2k?oc=5",
-      "source": "Channel 4",
-      "date": "2025-10-08T19:58:16+00:00",
-      "description": "‘Chilling’ rise in UK prison drone incursions – bringing in contraband  Channel 4",
-      "query": "drone prison",
-      "detected_at": "2025-10-08T20:05:55.291853+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b604ef8c935a"
-    },
-    {
-      "title": "Southern Military Zone Thwarts Drug Smuggling Attempt Using Drone - jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXYwYmJXdGtyU0w0R3RYeVBFMmtsNlkwN1JMOF9ySVpfQ29SNVJzaENkQnJkdmVpY0N3QXV3QnBjc0lXRUZHZHZfbTV2cTlsR0dDcGlJVkRHLVpkYlNUa2N3a0hIbmRJN2lYcS1HdnNjOWh6M2JPRFRNUXVzQ3ZmVUJZaTR2eTBBeGZDQzFCRGdrZnlpX09Pa2h6R1hTRFJTcXNCdGp0ZUp5OHdNSzE4TU5wQ28?oc=5",
-      "source": "jordannews.jo",
-      "date": "2025-10-08T09:21:48+00:00",
-      "description": "Southern Military Zone Thwarts Drug Smuggling Attempt Using Drone  jordannews.jo",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-08T20:05:54.614316+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ad38786021ec"
     }
   ],
-  "last_updated": "2025-11-10T13:14:33.437667+00:00",
+  "last_updated": "2025-11-10T15:05:58.640297+00:00",
   "total_count": 1000
 }
