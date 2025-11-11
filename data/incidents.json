@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Belgium Boosts Airspace Security Amid Concerns Over Russian Drone Activity - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlpFRExfQWV0b0NqSWNOOXBwcmJ3YmNhb3lCVTVUYWxQYkVJNDViT2VHUXcwalh6T1NXWmVXbmdhNWNpbjVab25EbDI5WUQwS1hIOGZzOEJoNTN5WTlBbDlFSWhpcm14Q0F6NkxvUnM4RDQ2eG5NZms1NVhVU29CUkFINTU2RkhXMVp2YXliaEpUTGlObXNLczZjV0xhWGlZT2haSHIwQmVyZmJwM1JDeDdjMUFkOEFEZUE?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2025-11-10T22:08:55+00:00",
+      "description": "Belgium Boosts Airspace Security Amid Concerns Over Russian Drone Activity  UNITED24 Media",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-11T10:06:18.447161+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b8dfe391e056"
+    },
+    {
+      "title": "Romania: Military drone crashes near Tulcea, bad weather prevents fighter jets from taking off. - Agenzia Nova",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVhRRGYzalctcWJHSDNyWmNRbDhuWkhqVXdVRlJ0TGlmWWtCTzdyZGNjejRFa3JHSTJCRzFZeEZKYlRVN1JkRlk4LWdCUUVlSDFETjVtTG9LN1Y5c2dUS21Zc3E4cnRJcll4TDAwbThmSTdhUVROYjBTd1UwT1g0VmNqSVVjdkpQUXJoaUpxUWltRUZJNHROTXNSdHdTeWF2N3Y4MXFINUk2b2FnVUt2WWl5UmhyamVZc0pHQlk1b3pPV2o2OUNqaG9DYnZDdw?oc=5",
+      "source": "Agenzia Nova",
+      "date": "2025-11-11T08:38:08+00:00",
+      "description": "Romania: Military drone crashes near Tulcea, bad weather prevents fighter jets from taking off.  Agenzia Nova",
+      "query": "drone crash",
+      "detected_at": "2025-11-11T10:06:16.042657+00:00",
+      "location": "near Tulcea",
+      "category": "crash",
+      "id": "8e4121c6b5b1"
+    },
+    {
+      "title": "Mysterious drones keep buzzing key sites in Europe. So what's the defence strategy? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tSmlaZlNjTTBOdmZTZGlYenpNXzVxVEJEbGNQVnVWSFFSTkNEdGVVeGwzNnZDcjhjejI2RWRVeWtJN3pzLUNiWV8zVmJzWFFqbTNSdW5DNVVUZndKVElJVTA0anBCT0M2Ukh5czRwTkplcWxuVGNz?oc=5",
+      "source": "CBC",
+      "date": "2025-11-11T09:00:00+00:00",
+      "description": "Mysterious drones keep buzzing key sites in Europe. So what's the defence strategy?  CBC",
+      "query": "drone incident",
+      "detected_at": "2025-11-11T10:06:13.097224+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4fc322034992"
+    },
+    {
+      "title": "Google reveals Russia’s drone-incursion propaganda op - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGRFeV92VklzXzRCZ2ZONjhPX2FsVmhELW82eklRRDhEamRwcWcyTVhmUmpIR2lXby1hZjM0MkpFbEZtbEExaV95U3h3aDRERjdlc0RHVkVBWVVuSWMtSmpscWl5aDdqM1R6TmNReGo4YXFMZXp4NzhrMnk4Vy1RZGtFalJlWkRqQTBvYmQwT2tlR28?oc=5",
+      "source": "TVP World",
+      "date": "2025-11-11T09:51:00+00:00",
+      "description": "Google reveals Russia’s drone-incursion propaganda op  TVP World",
+      "query": "drone incident",
+      "detected_at": "2025-11-11T10:06:13.097224+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b3b4bac15f79"
+    },
+    {
       "title": "Drone Fragments Crash Into NATO Territory - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDRMdXRGdC1teEtxck80cEtQRV9GcV90MFFEQmNjYnA4ekx2Y1djaVVjN1RWbU50QXA2ZE9tVVFDSjNmd09CTzY2dE1nR2RvcE1oQ0VNbnZUZjdXVkRLSVpyb2lkZ3l0RzRGTUJVSFBSSFNzWW9weGZZVjRzeDlCVkRyZy1HVzRQN25ZQm03Zndvd2tmSUd2YUlxTDd0X0RMcUdVWlQwTko?oc=5",
       "source": "Newsweek",
@@ -11951,56 +11999,8 @@
       "location": "at 75 Feet Near San Diego Airport",
       "category": "airport",
       "id": "7e492eb2c976"
-    },
-    {
-      "title": "Oklahoma DOC Deploys Drones to Decrease Contraband - Correctional News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMU45blNpSXZNU29YaWdMdjhtemxQUVhJMDJmTnpTSV9ZOXdta180bENRRHU5RVF4bC1YMnJPNndCRmR2MUNkYzJ3Z1RvY0daS0ItV3NFSHctbXlsTzZPc2VMWDQ2Q3ZUR2dOR1l2VUZmcjFoY2hLVEUxX2NsVldLazdPbnNQRFh0akZfZlJ1dDdieDZt?oc=5",
-      "source": "Correctional News",
-      "date": "2025-10-09T14:00:11+00:00",
-      "description": "Oklahoma DOC Deploys Drones to Decrease Contraband  Correctional News",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-09T14:05:51.860161+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5b1bdeefe7a6"
-    },
-    {
-      "title": "Israel Moves To Counter Drone Threat on Egyptian Border - Foundation for Defense of Democracies",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTBuSFMtel9nZXZuLWFEeVlsRGdEZDFEZzczNW03ejZtNzNjTHBZN252b2QtanBLTE5fdklMM2FtelJJMS1TWENQOWhjdEVGY01BNG4xcU5sbThRVHJBbURVeFhXOWJmeTRrRDFacEw4bE9PcDJ0ODRRRGxQN3pXSHVJR21obUtTMnlEdlBGN1UyYWhvZE94U1pxR3U?oc=5",
-      "source": "Foundation for Defense of Democracies",
-      "date": "2025-10-09T13:22:57+00:00",
-      "description": "Israel Moves To Counter Drone Threat on Egyptian Border  Foundation for Defense of Democracies",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-09T14:05:51.860161+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "9f88577c14dd"
-    },
-    {
-      "title": "‘Drone chor’ fears lead to UP lynching: ‘How can one be killed over rumours?’ - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlIYkFVMVNNbUIyYnA5N194RmNQalVhZkhHR3ZzZlp1RUZEcllOcFIteFN3aVgxQ29IUloxdGp2V01YbUpTVFFRN08za3FLVGNBc20zRkZ5eWstTnRsVE1YbTh5a2lsZm1kRUFmMmRfZ3N3WWFjZXJmQzR5LW55WGVmOHQ0dDBLRW1SbHI3ODgwUTc0WXJqVV9mS0c2Und0ZF9sTURmaUxoclZGb1hZUDlfRmdWUkxnaHZXc2ktdU83djJjQWlHc2FB0gHQAUFVX3lxTE9aOUNqQ0dFNDY5cVV2WWxTUlEwWnNwN0l5VGY5ejI4eENfX2Zldjl6V1VXNU5YYXdLWkFYbUxuWU84NjBOUUpBWVVrSkw2RTR4eVhwR0ZwVExlTlpuNXpEenNjdEhoazhHVF9qa1RFMTQzYnRSUmhSTVhDTFM3YktDcms5djhDdEtCcDJVQU96ZlhzSktkY2Z1U3FreHdSQWE2YkRZR3Jza2xjWlFJOXhuZFFRQjRsb3dCR2d2bXVpNU9HeWFSSjFfOElkUjZhRV8?oc=5",
-      "source": "The Indian Express",
-      "date": "2025-10-09T08:08:00+00:00",
-      "description": "‘Drone chor’ fears lead to UP lynching: ‘How can one be killed over rumours?’  The Indian Express",
-      "query": "drone incident",
-      "detected_at": "2025-10-09T14:05:50.606578+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "41d75784eb3a"
-    },
-    {
-      "title": "Putin Blames Ukraine Drone for Russia Shooting Down Passenger Jet - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWhRTk96dXhfY1o4aXNjcHZ1OHdvOUt3Z2lxRHpNSy1weW9fZWI2Rmh5dVhZRDNsY3RJUTNqVGJmT0stUlVUVWwtQ0lJWF85eDBIVVZmNGRrLV8yWl9lT0paeklMbjg0bS12SjE4LXFmQW93bThjSS10Q3U5S3pMQ2lHVGlmT3M5MkVkbDBSOFQ?oc=5",
-      "source": "Newsweek",
-      "date": "2025-10-09T12:27:00+00:00",
-      "description": "Putin Blames Ukraine Drone for Russia Shooting Down Passenger Jet  Newsweek",
-      "query": "drone incident",
-      "detected_at": "2025-10-09T14:05:50.606578+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "61cbd7661458"
     }
   ],
-  "last_updated": "2025-11-11T09:06:49.176767+00:00",
+  "last_updated": "2025-11-11T10:06:19.173950+00:00",
   "total_count": 1000
 }
