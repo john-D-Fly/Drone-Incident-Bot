@@ -1,0 +1,144 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant pattern of drone-related incidents has been observed, particularly around Belgium's nuclear installations and airports, where mysterious drone sightings have triggered military responses. The UK has deployed military personnel to assist Belgium amidst growing security concerns. Concurrently, there have been arrests related to drone smuggling in several locations, and drones have been reported attempting to supply contraband into prisons in the U.S. and Israel. Meanwhile, a series of drone crashes have raised concerns about safety and security, notably near vulnerable locations such as prisons and nuclear sites, highlighting the urgent need for comprehensive policies to address unauthorized drone activities.",
+  "totals": {
+    "smuggling": 11,
+    "other": 19,
+    "crash": 5,
+    "terrorism": 7,
+    "airport": 6,
+    "arrest": 9,
+    "total_incidents": 80,
+    "by_category": {
+      "airport": 7,
+      "arrest": 5,
+      "crash": 6,
+      "other": 39,
+      "security": 1,
+      "smuggling": 15,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 10,
+      "drone arrest": 6,
+      "drone crash": 6,
+      "drone illegal": 6,
+      "drone incident": 17,
+      "drone prison": 9,
+      "drone security breach": 3,
+      "drone smuggling": 6,
+      "drone terrorism": 11,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling and Arrests",
+      "rationale": "Multiple incidents of drone smuggling and related arrests underscore ongoing concerns with security measures at prisons and borders.",
+      "incident_ids": [
+        "d7f978791a07",
+        "id:99afbb4c35e4",
+        "00cab520ddc5",
+        "bb832cfd81aa",
+        "2c231d5223b34",
+        "4d0df25e9063f4"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "The frequency of drone sightings near airports in Belgium, triggering military response, indicates a growing issue for aviation security in the region.",
+      "incident_ids": [
+        "1ef73d5f30b1",
+        "0fbca6fc9fe6",
+        "4df25e9063f4",
+        "8a0e7a703dff",
+        "df6ee2fd2106",
+        "863283b9d059"
+      ]
+    },
+    {
+      "topic": "Military Involvement and Policy Response",
+      "rationale": "Military deployments in response to drone incidents highlight an engagement approach to varying threats posed by drones over sensitive installations.",
+      "incident_ids": [
+        "df6ee2fd2106",
+        "d2a82b622b75",
+        "1e2a97dd8050",
+        "1ef73d5f30b1"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "0fbca6fc9fe6",
+      "headline": "Belgium's Airport Chaos from Drone Sightings Triggers UK Military Response",
+      "one_sentence": "UK military deployed personnel to Belgium to address recent drone incidents at airports.",
+      "risk_tags": [
+        "airport",
+        "security"
+      ],
+      "countries": [
+        "Belgium",
+        "UK"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d7f978791a07",
+      "headline": "US Military Targets Drug Trafficking Vessels with Drones",
+      "one_sentence": "US military employs drones in operations against drug smuggling routes.",
+      "risk_tags": [
+        "smuggling",
+        "military"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4cae54bfee5c",
+      "headline": "Concerns Over Drone Threats in the West",
+      "one_sentence": "Experts are warning about the unpreparedness of Western nations against drone threats.",
+      "risk_tags": [
+        "terrorism",
+        "policy"
+      ],
+      "countries": [
+        "USA",
+        "Western Countries"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1e9be2f088e9",
+      "headline": "Two UP Youths Arrested for Arms Smuggling via Drones",
+      "one_sentence": "Authorities in India have arrested two individuals for receiving arms through drone deliveries from Pakistan.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "ea1472ace24d",
+      "headline": "Drone Attack Near Al-Suwaidaa Prison Injures Two",
+      "one_sentence": "A drone attack targeting a vehicle near Al-Suwaidaa prison has resulted in injuries.",
+      "risk_tags": [
+        "drone attack",
+        "prison"
+      ],
+      "countries": [
+        "Syria"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent surge in drone incidents highlights growing security concerns with multiple arrests and military actions across Europe.",
+    "linkedin": "Significant drone activity over critical sites in Belgium has drawn military attention as authorities contend with rising threats of smuggling and unauthorized accesses."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-11"
+}
