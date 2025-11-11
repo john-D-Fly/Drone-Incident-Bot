@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "The West is starting to wake up to the drone threat — and just how unprepared it is, DroneShield CEO says - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ2V5aGxENGw5QzZTSTZuWC0tTVdjSjkzWEN3bkcxUEsxa1Y2eGFCa2RLYjEwa1EyQW1Jd2F3OXZTNVVpMmVBQ3FuYWJRc3FnbExQRUhCUEh2cW9lcG1KcDJBaktXZklkOGtKNnlyeW9EQ2M0NEJGZTVDWVN4Ym9RS1RxN2pSbHgweGh6NllkUVA4QzNmbWxnclJzYw?oc=5",
+      "source": "Business Insider",
+      "date": "2025-11-11T10:41:00+00:00",
+      "description": "The West is starting to wake up to the drone threat — and just how unprepared it is, DroneShield CEO says  Business Insider",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-11T11:05:19.299813+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "4cae54bfee5c"
+    },
+    {
+      "title": "UK airports will be disrupted by ‘organised’ drone attacks, warns regulator - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTU1ocFExWVBTc0JGOEpKMEwyLThNRU9rSUFzNm9SNFhUVmZJNWhjNlRiNDNock5mQkxWVl9YWlhkZ042VFZNVjVkTEFyRUxUMTdHdGo2RzBTbVRfMGdzb1piZWVRc3FYX2dweGNFQks?oc=5",
+      "source": "Financial Times",
+      "date": "2025-11-10T19:32:09+00:00",
+      "description": "UK airports will be disrupted by ‘organised’ drone attacks, warns regulator  Financial Times",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-11T11:05:19.299813+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1e2a97dd8050"
+    },
+    {
       "title": "Belgium Boosts Airspace Security Amid Concerns Over Russian Drone Activity - UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlpFRExfQWV0b0NqSWNOOXBwcmJ3YmNhb3lCVTVUYWxQYkVJNDViT2VHUXcwalh6T1NXWmVXbmdhNWNpbjVab25EbDI5WUQwS1hIOGZzOEJoNTN5WTlBbDlFSWhpcm14Q0F6NkxvUnM4RDQ2eG5NZms1NVhVU29CUkFINTU2RkhXMVp2YXliaEpUTGlObXNLczZjV0xhWGlZT2haSHIwQmVyZmJwM1JDeDdjMUFkOEFEZUE?oc=5",
       "source": "UNITED24 Media",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "505b0503cee0"
-    },
-    {
-      "title": "22 Investigates: Prison delivery drones - WSBT",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMGdpb25SUnFxVE5rajZpYmp3YmpURFRhX0VOZmFMU3VRa0EwZEk4RGRDa29JRmNYb3lfQjMxVEF5Z0hSeWE5aWpaZzloUlE3Q3BfbXlmSGFzU2J1ekxMbnNHRDBhUnJ5VzZnRHU1OWNjRjFzdnVBcE51bnBWeDFFbEQwZFRzWU5kbWhUbTZ0elJKTFFOQmhDdUdXTU8yN3QtdGFvdnUwOXN6eElyR3FibDd6TW16bFZvNTRvNDdpWlYwZzRMNlVpYXNmV2FyTUtXcFFHOTdkQjkzRnhmVDdwZkNKTnUyMGU1dDRkTVZINHVkYzNWUjlwZmpQNEw?oc=5",
-      "source": "WSBT",
-      "date": "2025-10-09T14:58:11+00:00",
-      "description": "22 Investigates: Prison delivery drones  WSBT",
-      "query": "drone prison",
-      "detected_at": "2025-10-09T15:25:17.378064+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "60ac7a5d2a0a"
-    },
-    {
-      "title": "Drone at 75 Feet Near San Diego Airport Runway Sparks Confusion: Police or Unauthorized? - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95cHFEYXRkakthNXJtd1FhWTYzTl9DeEVPNGUwd2VJSnVucTFTdFpRemg3YWdzcnZpWWR1U2ZsQXlXdTZwRmo2a0lqOXFfY2p0Y29SLTM3M2tVX2lnb0FaZU5RdllmQldYRDlmelFqWVE5d3NZek1J?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-10-09T14:13:15+00:00",
-      "description": "Drone at 75 Feet Near San Diego Airport Runway Sparks Confusion: Police or Unauthorized?  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2025-10-09T15:25:15.395583+00:00",
-      "location": "at 75 Feet Near San Diego Airport",
-      "category": "airport",
-      "id": "7e492eb2c976"
     }
   ],
-  "last_updated": "2025-11-11T10:06:19.173950+00:00",
+  "last_updated": "2025-11-11T11:05:22.757353+00:00",
   "total_count": 1000
 }
