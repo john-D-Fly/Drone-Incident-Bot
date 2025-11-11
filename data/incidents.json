@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drones over Poland: Google reveals the inside story of a Russian operation - Defence24.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzBCQ0dsdzhhUGRtYXJDVFQ5NFNsUDJKUjB2TlIyR2dOWm0zbm5sTHBNeU9zQXZMaUdDSE43emUwcDlHYmd5Y3cyeUhNU0tVQ09ESjdHZXBoMjhzOHViX0U3eE9GQmM1ZTdWLUlYYVJaQWNzblJTY3FSbHVkeUV0LUJ0X0sxMzV0dmJXSjV5UUt1R2tiMlVZWVpja3Jad3UwS3F3U2RWV2NCakU?oc=5",
+      "source": "Defence24.com",
+      "date": "2025-11-11T07:33:02+00:00",
+      "description": "Drones over Poland: Google reveals the inside story of a Russian operation  Defence24.com",
+      "query": "drone incident",
+      "detected_at": "2025-11-11T08:07:17.068155+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "06dff4096f60"
+    },
+    {
       "title": "IDF detects drones attempting to smuggle weapons into Gaza - Israel National News",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UOFRkbEhUeXhXYWNZRV84Vy1MdG1QbEhsUG1VVFAyNkZwTnF1VlpnN0Y3RHNabU0ta0J6YTIxVzVnLWJkV3lLWWJHR2JGb25jU2lMb1lCTFlKUQ?oc=5",
       "source": "Israel National News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "5ccf03ba85f3"
-    },
-    {
-      "title": "Germany New Law to Combat Rogue Drones Threatens Travel: Munich Airport Disruptions Lead to Police Power to Neutralize Drone Risks - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOanBaQU5BWXhwWXRqSnZ2Xy1XQThGZjVFem5BVmY5RURlV0NvSlBpQ2ZWRmo1TWFXdEJ3cTdnR3ltTXlidWF4YTd4Y1h5dWdHVzdUT1VmWW90LW1DUWVJY3pkZi1mTm1HaWtQWWtXU0NWSDRhSmJ0bVpzR201dmJuM1JFQldPTkZjNE1oVHlJNks0aGdNbzc4ejBDSHZFRXRUQXQ2dlEwRGR6elR4bGdfNXc4eGMxOGhWdm5kSERzdXhEdkk3NV9XTlFUdGhEVlljM3dBRFdBczhWbm9mWXFTYU1jNVNBRFRJdEdrRjRQTlRCZTBBVjBZVXY4MXFmMmRMVVZmVDNfLU1LZw?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-10-09T04:10:29+00:00",
-      "description": "Germany New Law to Combat Rogue Drones Threatens Travel: Munich Airport Disruptions Lead to Police Power to Neutralize Drone Risks  Travel And Tour World",
-      "query": "drone incident",
-      "detected_at": "2025-10-09T05:06:12.853444+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "878dce936451"
     }
   ],
-  "last_updated": "2025-11-11T07:06:12.019486+00:00",
+  "last_updated": "2025-11-11T08:07:22.997454+00:00",
   "total_count": 1000
 }
