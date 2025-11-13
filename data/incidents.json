@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "The Royal Air Force strengthens Belgium’s air defenses with the deployment of anti-drone systems - Zona Militar",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVR0MHdvZjMtTXVnNUM1aUEtejZqTUVUTTQ0MzI2YkR3YUZVeWMxOGRySmxzSUVLd09rdXZiaHdkZGhvQ2JCMktiZV9faHBtMXNrZWZRX0E3cDJmWXlQaS1sTTQxdExtY0dLVHU1SVdlUTFJenV0ZzZMME51RjRQeDMtMlBrczJuUzEzTHA1QnV5V3dLWVlwbTI5Z010M2NPdGVpb0hZRFFVTjNoaVNMd2w0OGxFT3Fya3p5WUVmWmdOaTVlX0JBQmhKV21iX2VhUkZjemlB?oc=5",
+      "source": "Zona Militar",
+      "date": "2025-11-13T16:50:00+00:00",
+      "description": "The Royal Air Force strengthens Belgium’s air defenses with the deployment of anti-drone systems  Zona Militar",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-13T21:05:48.050295+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ccb61a1d1c49"
+    },
+    {
       "title": "2 Rockford men arrested in McLean County, accused of planning to drop contraband into Danville prison - The Pantagraph",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlEzRVl0VXk3MVhwVEFwbEVPTkpSS0I2dnpBaGM5c2EyN3BXRENCVmVBT1dpalQxMzBUa1RId0QzWXN6RVUtcUc2Q1V6U1dfRC1nUEhzMWlieTcxc01IRDhmYmlRU0gybE9VVmZUVHNIMTRnUEEtUVBnWHkyWHNwNEdOaHhpUnBDQlllZHZmRmFEOXB0cFZBQ1RxMkM?oc=5",
       "source": "The Pantagraph",
@@ -11987,20 +11999,8 @@
       "location": "near Area 51 prompts investigation",
       "category": "crash",
       "id": "ae38779cd65c"
-    },
-    {
-      "title": "Around the Commercial Drone Industry: Contraband Smuggling, Avian Flu, Mid-Air Docking and Transfers - Commercial UAV News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTdYcG5wMzdCbWRkNzRER3IxbjZyZF9MU3hMamozbWxMM1hCOHl4ZUkxVndMNlE3NFNHenBiVzZoMGtKOFN0aHFnWVV1YXF3MnZCSUFzY3MxcC1XNVJuR1JWenVMYi1KNmFUMFZXSzdra21tTG1ndlZfVzd3ZmR0ZFdxZGNPSDJwMjVRYmc1Z2o2MXJ2bG1ESkJNbEVFajJENjE1TGdUYnBPdmhMLTYwY3VXRXMyZ0paUWZhYjB0ZzZfY0ZIRFNjd0lIdw?oc=5",
-      "source": "Commercial UAV News",
-      "date": "2025-10-10T13:11:52+00:00",
-      "description": "Around the Commercial Drone Industry: Contraband Smuggling, Avian Flu, Mid-Air Docking and Transfers  Commercial UAV News",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-10T14:05:30.496101+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8fc298f435d3"
     }
   ],
-  "last_updated": "2025-11-13T20:06:23.282493+00:00",
+  "last_updated": "2025-11-13T21:05:48.671664+00:00",
   "total_count": 1000
 }
