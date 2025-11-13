@@ -1,0 +1,168 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant rise in drone-related incidents has been recorded across multiple countries, with key incidents emerging from Europe. Notably, both Belgium and the UK have grappled with disruptions caused by unauthorized drones near airports, prompting interventions from NATO nations. In Spain, authorities dismantled a drug smuggling network using drones to transport cannabis from Morocco, while arrests were made for similar activities in other locations. Incidents in Ukraine and Romania demonstrate the ongoing relevance of drone usage in conflict contexts, emphasizing surveillance over military assets and the risks associated with terrorism attempts. The handling of drone incidents signals heightened concerns about national security and airspace integrity.",
+  "totals": {
+    "other": 15,
+    "smuggling": 7,
+    "arrest": 6,
+    "crash": 7,
+    "security": 4,
+    "airport": 4,
+    "terrorism": 6,
+    "total_incidents": 52,
+    "by_category": {
+      "airport": 4,
+      "arrest": 4,
+      "crash": 5,
+      "other": 24,
+      "security": 2,
+      "smuggling": 10,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 7,
+      "drone crash": 8,
+      "drone illegal": 2,
+      "drone incident": 11,
+      "drone security breach": 1,
+      "drone smuggling": 9,
+      "drone terrorism": 9,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drones in Security Operations",
+      "rationale": "Security concerns and incidents involving unauthorized drone flights near military and civilian infrastructure highlight the growing threats posed by drones.",
+      "incident_ids": [
+        "44b03eaee7a9",
+        "dd45c337d357",
+        "f5356c1aaaef",
+        "9f47667bbbd3",
+        "9cbd3bf16349",
+        "bcb59554a194"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Operations",
+      "rationale": "The increase in drug smuggling incidents tracked using drones points to a concerning trend in criminal activities utilizing drone technology.",
+      "incident_ids": [
+        "9f47667bbbd3",
+        "f5059b07ac16",
+        "c08bd75d726a",
+        "a2fa6d61ccb2",
+        "f4a2d074bdb4"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "44b03eaee7a9",
+      "headline": "NATO Nation Opens Multiple Investigations Over Suspicious Drone Incursions",
+      "one_sentence": "Security investigations are underway in a NATO nation after a series of unauthorized drone flights were detected.",
+      "risk_tags": [
+        "security",
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9f47667bbbd3",
+      "headline": "Authorities Arrest Suspects Using Drones to Fly Drugs Between Morocco and Spain",
+      "one_sentence": "Authorities have arrested multiple suspects involved in operating drones for drug trafficking across the Morocco-Spain border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "69215ed4a9ae",
+      "headline": "Cameraman’s Drone Chases Attackers at Maharashtra Wedding Stabbing",
+      "one_sentence": "A drone captured dramatic footage of an attack during a wedding in Maharashtra, where a groom was stabbed.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f5356c1aaaef",
+      "headline": "Unknown Drone Monitors Leclerc Tank Convoy in France",
+      "one_sentence": "An unidentified drone was reported surveilling a military convoy in France, raising security concerns.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "70d6e3872d29",
+      "headline": "Romania Reports Drone Crash During Russian Attack on Odesa Region",
+      "one_sentence": "Romania has identified a drone crash attributed to ongoing Russian military actions in the region.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c08bd75d726a",
+      "headline": "Spain Dismantles Drone Network Smuggling Cannabis from Morocco",
+      "one_sentence": "Spanish authorities have dismantled a drone-based smuggling operation that was moving cannabis from Morocco.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f4a2d074bdb4",
+      "headline": "Spain Dismantles Drone-Based Drug Smuggling Network Operating from Morocco",
+      "one_sentence": "Authorities in Spain have curtailed a drone operation facilitating drug smuggling from Morocco.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "e56e73ef68c1",
+      "headline": "NATO Sends C-UAS Teams to Belgium After Airport Drone Disruptions",
+      "one_sentence": "NATO has deployed Counter-Unmanned Aerial Systems teams to Belgium following disruptions caused by drones at airports.",
+      "risk_tags": [
+        "security",
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5e46b7a55749",
+      "headline": "Drones Over Poland: Google Reveals Inside Story of Russian Operation",
+      "one_sentence": "A report uncovers the role of drones in a Russian operation over Poland amid ongoing conflicts.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dd45c337d357",
+      "headline": "Security Breach at Secretariat: 2 Apprehended for Flying Drone",
+      "one_sentence": "Two individuals have been apprehended for unauthorized drone operations near a government secretariat.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents reported in Europe, highlighting security risks and smuggling operations. #DroneNews",
+    "linkedin": "Recent drone activity across Europe underscores growing concerns regarding security breaches and drug smuggling operations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-13"
+}
