@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
+      "source": "AOL.com",
+      "date": "2025-11-13T12:15:40+00:00",
+      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-14T10:06:19.545517+00:00",
+      "location": "at Brussels airport",
+      "category": "airport",
+      "id": "b67fdc089b28"
+    },
+    {
+      "title": "Punjab: BSF foils multiple cross-border smuggling attempts; recovers drone, pistols, heroin - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVnc3ZHd2Tk5FQmFMQnlOTnRZNXNOWEQyX0t1MGJQNlFCMjN5ckRaSHREZmxjZzJHYUgtWE1jM1VhdEhoeXB0eVZ2LTRoVnVyTS1pWnBUSGM3ajA3dDhSTUVmcDhtSWowUzRiOVNaQXhyQ2xFQ1diOVV6TGF1enF0T0Q0enBuOHYxWTF2a1FWVHN5UEZhQ25yOVFMeVRKSzRxUmFVemRWODZaNlhPblM1M001czFtNTlSMUQ2VHhTbmhETnVobk1Wd0gwTmE1T0dLUEFkcWxyN2pCcFdKT1NfLUZaYldKT292dDZkTjRSLUtCOGE5UHfSAfsBQVVfeXFMT01lUEUzQ0hlOEJwNWJzaVR5LUxFWGJKZHVvOFdiT2M4UC01T0poTHozano4V0ZYOWxiOUs3RkNxcWtQSzdIcFBLQ1pvNzRRVkdJeWlpSTdEd2xKaVBlby1MazJYRUVOQ21oOS16QldLck43Sjl6WUFQYk5yd1hmSkV0bXVJOWJqYUhwOXB5TDNLYnVwcDlCdXVxVjFWY2xrekRvd09MS3dnckZ5SnJ3YlU0UjBSNlRpRm5kdHVsQ0g4Tlg2cHRObVpScDlva24zbTlQXzVlTXlZX2xMNnF4VFUwOGRlNlYycDJOWHByWnhRbUNNTENoV3pDcVE?oc=5",
+      "source": "The Times of India",
+      "date": "2025-11-14T08:06:00+00:00",
+      "description": "Punjab: BSF foils multiple cross-border smuggling attempts; recovers drone, pistols, heroin  The Times of India",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-14T10:06:18.604012+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "86c1337af34d"
+    },
+    {
       "title": "Russia unleashes nighttime missile and drone terror on Kyiv - 26 casualties, including child - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3NBNmhJZFRkdzFQQUpLMWx4SV9QV2JfQ2tCX0FHSU1xbFBCNWRKS2o2YU0zN3RpclNqR2lTTFRiWlJISS1KWU1ZOWZ6MlhieklXNE5HV1ZsQmdWd1NQbHpyeUVLQWJVVThOV3NhVDZWQ2FpbllBenMtZ1RkQ2NPazM5aUxhSWlVcGh5ejloaHA4MGFBQ2VR?oc=5",
       "source": "RBC-Ukraine",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2170349d793e"
-    },
-    {
-      "title": "Man charged in deadly South Carolina crash is Army drone operator stationed at Fort Bragg, military says - CBS 17",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQVNzUWwySG1yLXVUT1RkWUdHa3BQREExRUg3Qzl0ODB5U0w4cTROanpkOEdEVVhiX0ZPeDl6UFVvaXY0c09iWUFBQVA4X3FIMUR5WXRPZGpfUS1uQWN5ODlNZDd2Q0w4eXFXS01mREhzX0NBTU1VYm5QWWJ1bXhuSFRLODFXeUNlVHIxTWgybUtxR2hfVzlHSG5mS2RsZGU5QlVzNWRQVVgzMG5hUlBoRmdJSU5hNElibm02YXNUanZoZ1NrcHpfQVU1VEJ2VXo5aXc00gHYAUFVX3lxTE1hbGk0VGdxN3kycldtT2hzR1RneE9MVF9Jei03SmRtbS1tcjN0UDhhcEUzcF9EZFVaX19JeEpCa25OWkFxaE9iV2plMGpmYklzMWpmQUdqWjYzUjhhcmJsMEFzYnBxcUNkaUZvbFJ2M3FFWU45VS1yQ21FM2lTUkdYQ0lxcUp1T3BleE93ZDRwVm9Tb1NTMlFZcFdJcGQzV3A0bXJsVG9ZTGxwUEFrdUoweHZYNVFueWtFQ3dEaDcxVkV2d2VPZGpVaWo1TWVCV2lNckpJLWUzVQ?oc=5",
-      "source": "CBS 17",
-      "date": "2025-10-10T16:45:17+00:00",
-      "description": "Man charged in deadly South Carolina crash is Army drone operator stationed at Fort Bragg, military says  CBS 17",
-      "query": "drone crash",
-      "detected_at": "2025-10-10T18:07:11.934930+00:00",
-      "location": "in deadly South Carolina crash is Army drone operator stationed at Fort Bragg, mi",
-      "category": "crash",
-      "id": "31fe0dc52cca"
-    },
-    {
-      "title": "What can airports do to prevent drone incursions? - DD News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaTZ4aThYRS1hVnlmU21ZbnBXM3pxUzg5TmtWcHViUkRGbFZWOWNLN0lhU1gtXzNoM2tNQ3MzLUJJQ0t6X0dCRUMzZGlpZzAxNl8xYjNhUVNxckdxdlpHNjJOeEpYLVF3aW16eFlLVnN5a2Y1bWJ3RDVEcEJvT1k?oc=5",
-      "source": "DD News",
-      "date": "2025-10-10T17:35:21+00:00",
-      "description": "What can airports do to prevent drone incursions?  DD News",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-10T18:07:11.283628+00:00",
-      "location": "at can airport",
-      "category": "airport",
-      "id": "0165b7acd23c"
     }
   ],
-  "last_updated": "2025-11-14T07:05:52.868923+00:00",
+  "last_updated": "2025-11-14T10:06:22.864953+00:00",
   "total_count": 1000
 }
