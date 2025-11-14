@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized drone flights pose rising threat to U.S. bases, border, civilian events, senator warns - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3hYUDFOSXowaEswNWpmSVVuVXY1NUwydjY1NGtEc1JnSF9UZmtwZEZ4WHBnbDdxLWZIQXFKd0MzME5VQzE2amlaWGNsc0x2Z095U0tQYWlfRFdnRGp0a3hoUWh3cjJJRFdhQkFvN2dfV3BxZzByN1ktQjA4cldWYUx6TEJCakFGU3B0eGo2UFVkVS1GdHcxM3FKRHlTcFdOY09YZUUwQ0rSAa4BQVVfeXFMUGRBYUlTeFZPTm9pNkltbmpjVjg2WlZVVUhPUkFmSFRRZ01HZmNfVEdINU81Ri02VWROUHk2OFU2OUdKcFc1VkJlR2VVNFVqWlJRZ3hkNzB3Q2t4d0Q5SE1FcW1EbDh2SDRhTE1BOG1kbk9EZnhMTzNQazgwWE9KSk9zUUlXd1M5MEwtWDAzLV9rVjhySXI5T1JvT2w0d3E4X19hbkpadXpKOXFwV0dB?oc=5",
+      "source": "CBS News",
+      "date": "2025-11-13T23:40:19+00:00",
+      "description": "Unauthorized drone flights pose rising threat to U.S. bases, border, civilian events, senator warns  CBS News",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-14T00:23:38.700177+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "a154dcf70c26"
+    },
+    {
+      "title": "Japan: Government to expand drone-free zones to fight terrorism - Agenzia Nova",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGw5WEJobEdqS3RWME1yaWtsN0JiV0JLZnUyWTUwUlotcXRzd0lpS0VRZzk3eDBZeXBfRFBDUTZOanpheDRoWldraXdlRmxKbVp5LWNwU1BTSWRkalFmUV9hTnM4MzU5QjlqX1VNU2ZJWGdMeTdVTmZnSjFwdUc0ZUtGYWtyT0VtR1V3TzNGdk1mbnFIcURCYzdmdDBicWJTN3BDSQ?oc=5",
+      "source": "Agenzia Nova",
+      "date": "2025-11-13T06:12:55+00:00",
+      "description": "Japan: Government to expand drone-free zones to fight terrorism  Agenzia Nova",
+      "query": "drone terrorism",
+      "detected_at": "2025-11-14T00:23:37.854945+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "9ff8a383272a"
+    },
+    {
       "title": "The Royal Air Force strengthens Belgium’s air defenses with the deployment of anti-drone systems - Zona Militar",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVR0MHdvZjMtTXVnNUM1aUEtejZqTUVUTTQ0MzI2YkR3YUZVeWMxOGRySmxzSUVLd09rdXZiaHdkZGhvQ2JCMktiZV9faHBtMXNrZWZRX0E3cDJmWXlQaS1sTTQxdExtY0dLVHU1SVdlUTFJenV0ZzZMME51RjRQeDMtMlBrczJuUzEzTHA1QnV5V3dLWVlwbTI5Z010M2NPdGVpb0hZRFFVTjNoaVNMd2w0OGxFT3Fya3p5WUVmWmdOaTVlX0JBQmhKV21iX2VhUkZjemlB?oc=5",
       "source": "Zona Militar",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f6810ff72050"
-    },
-    {
-      "title": "Belgium: Suspected jihadist drone plot against Prime Minister Bart De Wever foiled - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VDJqMHhIV0xHaWRWU1lfd1ZfeVFwNWlUc3hsZXZ3UVRqeTRIc2lXN0pxMmlBYWg2R0VOWUphaGxtb0hjem5YNzVDbFd4NUVLb3BodU0yNnVwZ9IBX0FVX3lxTE9oU1pNSi1iWDVVRjhaU20xdGhXNDEwNS1XWjR4dmx2YXlDaWszYzdDR1pCa0MwWGs2UW4xSVhIbk05b0xoSmJXQ2JiZGw4ZHMtSHNKSk9CNWtEM2FRNVVN?oc=5",
-      "source": "BBC",
-      "date": "2025-10-10T11:33:34+00:00",
-      "description": "Belgium: Suspected jihadist drone plot against Prime Minister Bart De Wever foiled  BBC",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-10T14:05:34.378575+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5f9b08429f10"
-    },
-    {
-      "title": "Unknown USAF aircraft that crashed near Area 51 prompts investigation - Air Data News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3hOUVVoSG5sQnhIODNvZ0tSZzRseHFFbGswNGwtNHYzUDkwS1JNcVI4UHNZV25lS1I5akdHZkd4b19IVjhSY21oZ3ZHN21LNGNNNlJGTFUyRFY2WE9LSXVBTWFYSEtGRnctemNyZlY3aHprLWhyZGJFblRPQVYxb3F0YzRqeWN6UWJHRF9QZnVGV1RDSmhGa0l3a3lYX0U?oc=5",
-      "source": "Air Data News",
-      "date": "2025-10-10T14:00:37+00:00",
-      "description": "Unknown USAF aircraft that crashed near Area 51 prompts investigation  Air Data News",
-      "query": "drone crash",
-      "detected_at": "2025-10-10T14:05:32.394498+00:00",
-      "location": "near Area 51 prompts investigation",
-      "category": "crash",
-      "id": "ae38779cd65c"
     }
   ],
-  "last_updated": "2025-11-13T21:05:48.671664+00:00",
+  "last_updated": "2025-11-14T00:23:39.315736+00:00",
   "total_count": 1000
 }
