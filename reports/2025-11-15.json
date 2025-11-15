@@ -1,0 +1,106 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone-related incidents have spanned various categories, notably in smuggling and arrests, with prominent developments reported in Punjab and Ohio. The Border Security Force (BSF) in Punjab has thwarted multiple cross-border smuggling attempts, recovering contraband including drones and firearms. In Ohio, lawmakers are pushing for regulations regarding drone usage by law enforcement, indicating an increasing scrutiny on drones' applications in security roles. Notably, incidents of drones interfering with civil aviation have also been reported, including sighting occurrences at Brussels airport leading to flight disruptions. This period highlights broader concerns regarding illegal drone activities, prompting governmental responses to tighten security measures.",
+  "totals": {
+    "smuggling": 6,
+    "arrest": 3,
+    "other": 22,
+    "terrorism": 5,
+    "security": 6,
+    "airport": 3,
+    "total_incidents": 48,
+    "by_category": {
+      "airport": 3,
+      "arrest": 2,
+      "interference": 1,
+      "other": 25,
+      "security": 5,
+      "smuggling": 9,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 4,
+      "drone illegal": 5,
+      "drone incident": 11,
+      "drone prison": 5,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 9,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Cross-border Smuggling",
+      "rationale": "Repeated instances of drone use in smuggling across borders.",
+      "incident_ids": [
+        "33177015fd26",
+        "faf2a75d4bb6",
+        "d1d9e8584c0b"
+      ]
+    },
+    {
+      "topic": "Drone Regulations",
+      "rationale": "Increasing legislation responses to drone usage by law enforcement.",
+      "incident_ids": [
+        "f4e7c2651d63",
+        "5ad4796b1d05",
+        "25a6bd4e1b21"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Highlighted threats and incidents concerning the use of drones for terrorist activities.",
+      "incident_ids": [
+        "e12545fd5171",
+        "f989793c7130",
+        "f91a4f96b34e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "33177015fd26",
+      "headline": "BSF Foils Cross-Border Smuggling Attempts in Punjab",
+      "one_sentence": "Multiple attempts were thwarted by BSF involving drones carrying contraband.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f4e7c2651d63",
+      "headline": "Ohio Lawmakers Consider Drone Regulations",
+      "one_sentence": "Legislation aimed at regulating law enforcement's use of drones is being proposed.",
+      "risk_tags": [
+        "legal",
+        "government"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "d1d9e8584c0b",
+      "headline": "Drone Sighting Causes Brussels Airport Disruptions",
+      "one_sentence": "Flights were temporarily suspended due to reports of drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents highlight growing concerns about smuggling and regulations as new proposals emerge.",
+    "linkedin": "The latest 48 hours demonstrate a significant increase in drone-related incidents, emphasizing the urgency for regulatory measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-15"
+}
