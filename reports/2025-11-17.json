@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents have fluctuated across various categories including smuggling, airport disruptions, and policy discussions. Noteworthy incidents include Azerbaijan intercepting a drone transporting drugs from Iran and multiple drug-smuggling attempts detected by the Army, highlighting the ongoing challenges posed by unauthorized drone activities. Concurrently, there were multiple disruptions at airports due to drone sightings, notably at Brussels Airport, indicating a rising trend in aviation-related risks. Policy discussions emerged, particularly in Michigan with proposals for a state-specific drone registry. The potential for terrorist threats also surfaced as discussions about drone defense technologies gained prominence. Overall, the incidents reflect a complex landscape of both security threats and evolving regulatory responses.",
+  "totals": {
+    "smuggling": 6,
+    "crash": 3,
+    "airport": 3,
+    "terrorism": 2,
+    "interference": 1,
+    "other": 9,
+    "total_incidents": 25,
+    "by_category": {
+      "airport": 3,
+      "crash": 2,
+      "interference": 2,
+      "other": 9,
+      "smuggling": 7,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone crash": 2,
+      "drone illegal": 1,
+      "drone incident": 8,
+      "drone prison": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 3,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Incidents involving drug and arms smuggling have been notably reported.",
+      "incident_ids": [
+        "236d2f7a35a3",
+        "08ecb2dcaac1",
+        "1f9c21691557",
+        "af20b5005a3",
+        "4ed722cb2efb"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Increased drone sightings leading to grounded flights in major airports.",
+      "incident_ids": [
+        "a57272c1ffe8",
+        "e5e5c4a1781d",
+        "aad6735ccfc1"
+      ]
+    },
+    {
+      "topic": "Policy and Regulation",
+      "rationale": "Policy discussions emerging related to drone registries and defense technologies.",
+      "incident_ids": [
+        "dbac44a70f54",
+        "170be24fe0b0"
+      ]
+    },
+    {
+      "topic": "Terrorism and Defense",
+      "rationale": "Concerns raised about the use of drones in urban warfare and terrorist activities.",
+      "incident_ids": [
+        "abe59e2c52e7",
+        "ce6b52dc2557"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "236d2f7a35a3",
+      "headline": "Azerbaijan intercepts drone smuggling drugs from Iran, one arrested",
+      "one_sentence": "Azerbaijan authorities intercepted a drone allegedly involved in drug smuggling from Iran.",
+      "risk_tags": [
+        "smuggling",
+        "cross-border"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "e5e5c4a1781d",
+      "headline": "Flights grounded at Brussels Airport after multiple drone sightings",
+      "one_sentence": "Brussels Airport experienced significant flight disruptions due to drone sightings.",
+      "risk_tags": [
+        "airport disruption",
+        "aviation"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "dbac44a70f54",
+      "headline": "New bill proposal would require Michigan to have its own drone registry",
+      "one_sentence": "Michigan has proposed a bill to establish a state-specific drone registry to enhance regulatory oversight.",
+      "risk_tags": [
+        "policy",
+        "regulation"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "abe59e2c52e7",
+      "headline": "Precision-Laser UAVs Could Neutralize Terrorists in Urban Combat",
+      "one_sentence": "New analysis suggests that precision-laser UAVs could be vital in urban combat scenarios against terror threats.",
+      "risk_tags": [
+        "terrorism",
+        "urban conflict"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "1f9c21691557",
+      "headline": "BSF recovers 11 kg of heroin, drones from smugglers",
+      "one_sentence": "Indian Border Security Force seized 11 kg of heroin and drones from suspected smugglers.",
+      "risk_tags": [
+        "smuggling",
+        "drug trafficking"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "aad6735ccfc1",
+      "headline": "Monmouth devastated by Storm Claudia flooding in shocking drone footage",
+      "one_sentence": "Drone footage captured the devastating effects of Storm Claudia's flooding in Monmouth.",
+      "risk_tags": [
+        "natural disaster",
+        "drone footage"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal an uptick in smuggling and regulatory developments across various regions.",
+    "linkedin": "In the last 48 hours, significant drone-related incidents highlight smuggling challenges, airport disruptions, and evolving policies aimed at better regulation."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-17"
+}
