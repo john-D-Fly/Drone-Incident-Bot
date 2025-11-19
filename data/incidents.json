@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Germany set to authorize armed forces to shoot down unauthorized drones - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRU9TSDViQUZJMml1MlRpMHBLTl9NTzNPZC0wNnlSQldPbzZKdjVXX2tUX1RVNGdLRFBiMV9UXzFPRk1mejJyOW83WnktQTZPRGRuSWJaQXUxTFZUOXYxRHBDM0dZWWx4STJNN2tUZ3h6a3VUREVmRzl5UGpVMW9JS0RoV2t6WWloV1ZoXy04VWZJWF9sRjI5Q0pUSTJSaUV6dnYxUmwxOVhGRlZiclJGYg?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2025-11-19T17:50:01+00:00",
+      "description": "Germany set to authorize armed forces to shoot down unauthorized drones  Anadolu Ajansı",
+      "query": "unauthorized drone",
+      "detected_at": "2025-11-19T19:05:09.359039+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "2ccfbaf16fcb"
+    },
+    {
+      "title": "Israeli military carries out powerful strikes on 2 southern Lebanon villages - CBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFJfNnRwOWlRNDJrVGlrLW9NTmNocFZhMWZOdVNTMm04SHQ3ZDJ3ellhN1lzVENoc0cxY1VCR0RqU2thRWFHQVkzaVB4Zk1UZTVPUk1oc1h0T1U0NV90U0NyWndzeUdERVBnMWlnUnlqSmp5YUpkTFUwNzc5WGtpd2gxYw?oc=5",
+      "source": "CBC",
+      "date": "2025-11-19T18:22:32+00:00",
+      "description": "Israeli military carries out powerful strikes on 2 southern Lebanon villages  CBC",
+      "query": "drone terrorism",
+      "detected_at": "2025-11-19T19:05:08.750369+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f8000e2a018e"
+    },
+    {
+      "title": "NATO on alert as Poland accuses Russia of ‘state terrorism’ in rail blast - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjJLd3hDZTFzXzdqSmxmMDBMNmVkem56eldKeEJQbnQyLUtYdE9Td3BCWWFCVDVzd2VQNWJ2VFZKZEJUWDczSG5NZDd3dnJFNXU1eXZRZ0NKRU8zUXhUY2hXQURqQkpCMWlEd0haYUtFRjNHby1oLWw3ZnpDNVVkTWt3RGVya1lCOGRFLUx5NjYwZ1BKMTd3VTJ1cw?oc=5",
+      "source": "The Washington Post",
+      "date": "2025-11-19T18:56:05+00:00",
+      "description": "NATO on alert as Poland accuses Russia of ‘state terrorism’ in rail blast  The Washington Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-11-19T19:05:08.750369+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "13cfeee9aa0b"
+    },
+    {
+      "title": "Drones Deliver AEDs in Landmark U.S. First - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1V5SWhHdjdYbHhGMmVXOGZkVlMzQWQ1WFNHQ1M3OGsxUEZuYWhQbngxa2xxb09jTndrRlhuRlo3M1VFMFRBMXY3MUpYdEhNSGhJMlVocXhwTTdRUTd4Sjl0Y19aZXQ3MWFjMnJYX1luX2Q4cC1QdmZQam5TOGRJb3RB?oc=5",
+      "source": "Mirage News",
+      "date": "2025-11-19T18:36:00+00:00",
+      "description": "Drones Deliver AEDs in Landmark U.S. First  Mirage News",
+      "query": "drone arrest",
+      "detected_at": "2025-11-19T19:05:04.217845+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8ce4b89f8db7"
+    },
+    {
       "title": "Israeli military carries out powerful strikes on 2 southern Lebanon villages - CBC",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFJfNnRwOWlRNDJrVGlrLW9NTmNocFZhMWZOdVNTMm04SHQ3ZDJ3ellhN1lzVENoc0cxY1VCR0RqU2thRWFHQVkzaVB4Zk1UZTVPUk1oc1h0T1U0NV90U0NyWndzeUdERVBnMWlnUnlqSmp5YUpkTFUwNzc5WGtpd2gxYw?oc=5",
       "source": "CBC",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "b933adacfb03"
-    },
-    {
-      "title": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says - Worcester Telegram",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlhEMU9SZnl4emVCbVNvMjRVU1JUOFE1dmg1VG1IbDFRMVU3OERJUmh6NF9uVTR4VllwNGFUMFA1OXFqSHU2dTV0OUZpbFZKODlGNjN2b3ZFQm9Wc2dGeTNjb0M1V2Y5TVE3WjhRak5hVkNwYlF2WUg2WWUxOVExN1FlSGxISzJySm10RWM4RFd0c2xKeFVLRXp3VngxNC1lb29obTltcURXMW5NSm4xZms4MU11N19GNTRRVF83Y08xOS1jcURwUElCSWE?oc=5",
-      "source": "Worcester Telegram",
-      "date": "2025-10-17T09:45:59+00:00",
-      "description": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says  Worcester Telegram",
-      "query": "drone illegal",
-      "detected_at": "2025-10-17T10:05:56.025704+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cc914ff3611a"
-    },
-    {
-      "title": "Israeli army says weapon smuggling stopped from Egypt - Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1d2RTFEdExBNi15ZG5SYURYQUxLQUtvU0J2LU9KNmFsTjEyRDZydmFzaGRGN3daYTRBWUd0cVZXLUJZZWFfbDhYMmJwRk1MbGFVb1lYOXBQQVRwSDlJR1FmcUN4X2NnWm1vMEFaVEk1UWNRTEplVXhUUE9DZWRBYm9iN25nWldYRUJELWhZY3JLZGk1R2ZNN1N0enBvSmIzcUtMNmxGVUQ?oc=5",
-      "source": "Middle East Eye",
-      "date": "2025-10-17T07:13:00+00:00",
-      "description": "Israeli army says weapon smuggling stopped from Egypt  Middle East Eye",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-17T10:05:53.437819+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f1c3f0dd5151"
-    },
-    {
-      "title": "IDF Intercepts Drone Smuggling Weapons From Egypt Into Gaza Border Region - The Media Line",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2tqeXBDWjhuQ1NsbjJwVlBXMVU1dXhORlFYYW5BYjhoTmFSSDhvS09iZnZRUVluWmNQRVN0alVzUWRmUC1JX3Y3TmdLaE04TmJ1YjR1eHB5eWYweFZJaFY1bnRneTZQVmhLZVZaTkVRd1d0V0Q4Tk5oaVFzd2U3ZHJBY2llMzJ1RC1lbXJsNzl6NEJsN2F1NWswUTlEYlFXQjRDcTQ4ZGNOdkhDMUE?oc=5",
-      "source": "The Media Line",
-      "date": "2025-10-17T09:27:18+00:00",
-      "description": "IDF Intercepts Drone Smuggling Weapons From Egypt Into Gaza Border Region  The Media Line",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-17T10:05:53.437819+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8a8ec3ef7615"
-    },
-    {
-      "title": "Drones getting into prisons like 'pack of wasps' - as footage shows why drug drops are so hard to stop | UK News - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEQ1ZDFudHJBVG1nVjJLZzE2YUN0Z0ZvWDRuNWNEcDlzMldmOEdlaENOT1ZwZGNYS29LN0NNeWtyNVg3R21mQnRHTXJlOTJ0UE1pT002WFRsdWpJRE9HWklXT0lhakpVMU4zTnRRNFJNRU5HOU1jQXhtZ2pMbXJ6Q0Y5MnlacEJ1eTFuZElhcUNVT01YVHI3QXhyUUZYWUNuek1pTzRTMEdIcmhUakZLTi1TZm5JdDFLSXU5d0JzX3p2MHFlcjNPY3ROTnRCVkE?oc=5",
-      "source": "Sky News",
-      "date": "2025-10-15T10:22:00+00:00",
-      "description": "Drones getting into prisons like 'pack of wasps' - as footage shows why drug drops are so hard to stop | UK News  Sky News",
-      "query": "drone prison",
-      "detected_at": "2025-10-17T09:06:13.137992+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "63d304aa9dd2"
     }
   ],
-  "last_updated": "2025-11-19T18:08:13.932268+00:00",
+  "last_updated": "2025-11-19T19:05:09.992217+00:00",
   "total_count": 1000
 }
