@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the past 48 hours, several significant drone incidents have occurred across various themes, notably smuggling and terrorism. Notable reports emerged from Jordan, where drone smuggling attempts along its western border were thwarted multiple times. Meanwhile, tensions escalated in Ukraine as Russian drone strikes targeted Odesa and led to claims of incursion attempts near Moscow. In Israel, the Defense Forces reported increased drone-related threats from Egypt, intercepting multiple smuggling attempts. Additionally, the NIA in India arrested individuals linked to a planned drone attack reminiscent of Hamas tactics, underscoring the rising global concerns about drone-enabled terrorism. As these incidents unfold, the safety and security dimensions regarding drone use in civilian spaces continue to be at the forefront of discussions, particularly in light of recent technological advancements in drone capabilities.",
+  "totals": {
+    "arrest": 8,
+    "smuggling": 9,
+    "terrorism": 5,
+    "other": 25,
+    "unauthorized drone": 2,
+    "drone incident": 8,
+    "drone prison": 4,
+    "drone crash": 1,
+    "drone surveillance": 1,
+    "total_incidents": 68,
+    "by_category": {
+      "airport": 2,
+      "arrest": 10,
+      "other": 31,
+      "smuggling": 17,
+      "surveillance": 1,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone crash": 1,
+      "drone illegal": 2,
+      "drone incident": 10,
+      "drone prison": 4,
+      "drone smuggling": 24,
+      "drone terrorism": 12,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling Incidents",
+      "rationale": "Multiple reports of thwarted smuggling attempts, particularly along border regions.",
+      "incident_ids": [
+        "6a46b9fdd8de",
+        "864027dc441c",
+        "d1e83bdc8431",
+        "b6e486d3a696",
+        "2558c08b715f",
+        "9a4f320a7419",
+        "ed8fb17978f2",
+        "0b22da83f839",
+        "2e03dd754c46"
+      ]
+    },
+    {
+      "topic": "Drone-Related Arrests",
+      "rationale": "Several arrests related to terrorist plots involving drone technology.",
+      "incident_ids": [
+        "c5129c53f6df",
+        "c4487ed787c0",
+        "184e5e3db9d6",
+        "f69c41e6ebf9",
+        "0e2decbcd6be"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6a46b9fdd8de",
+      "headline": "Drone smuggling attempts thwarted on Jordan’s western border",
+      "one_sentence": "Authorities managed to halt multiple drone smuggling attempts at the Jordan border.",
+      "risk_tags": [
+        "smuggling",
+        "border security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d1e83bdc8431",
+      "headline": "Drone attacks prompt calls for security measures in Ukraine",
+      "one_sentence": "Ukrainian officials reported Russian drone strikes escalating tensions in the region.",
+      "risk_tags": [
+        "terrorism",
+        "regional security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b3d66c6cc148",
+      "headline": "NIA arrests key associate tied to drone-related terror plots in Delhi",
+      "one_sentence": "Authorities arrested an individual linked to drone planning for terrorist activities in India.",
+      "risk_tags": [
+        "terrorism",
+        "government",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "eb4506b43df6",
+      "headline": "Growing concern over drones in terrorist plots in India",
+      "one_sentence": "Experts express alarm at increasing drone-related threats in potential terrorist operations.",
+      "risk_tags": [
+        "terrorism",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "b0d405b44648",
+      "headline": "Russian drone strikes tankers in Odesa amidst regional conflicts",
+      "one_sentence": "Recent drone strikes by Russian forces targeted infrastructure in Ukraine, raising alarms.",
+      "risk_tags": [
+        "terrorism",
+        "regional security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones evoke concerns as smuggling increases and terror plots are uncovered globally; how can authorities respond effectively? #DroneSecurity #Terrorism",
+    "linkedin": "Recent drone incidents highlight a rising trend in smuggling and terrorism, emphasizing the need for robust security measures across borders."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-19"
+}
