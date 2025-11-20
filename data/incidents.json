@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US NTSB finds evidence of fatigue cracks in fatal UPS cargo jet crash - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUJtWTI1eXpjOWFZbmxRNmEwY1RPSkFQbkppZTlsQURMVjZaR09JVnNjak5ySzIzT2dFYjFKdzVMYUxaQmdHZmZkZ3FPeEJfai1qY0hlM3AyNWFTTk83UldDWG9ZekhJd0hhakw4VUZHWk45enpOLTd4cGxrdVpfVi1ONnZVZGdLX1dtYkx4WnNMUVJZNEZvaFNvcWdDMVhKaTJFdS1mdFpxc2V1UWd5NmxKTkpEcVhrVGlSQU9OaVhUME5V?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-20T16:31:25+00:00",
+      "description": "US NTSB finds evidence of fatigue cracks in fatal UPS cargo jet crash  Reuters",
+      "query": "drone crash",
+      "detected_at": "2025-11-20T17:05:18.920157+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "973f167cc525"
+    },
+    {
       "title": "SDF warns of ISIS regrouping via Damascus links - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbERtQTFXbEt1MWpzY3phZmZJR1VyUDMwMk1YaDVackJmUjhocWVwd2syXzdyVDNiTXlBakVDSXNPaUNMTldyNW9EMWYtLU56MU9wMHVEa0sxNDNZOXJTRF9MUWJXQ3A2TUhBZQ?oc=5",
       "source": "The Jerusalem Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f78ae7f87b92"
-    },
-    {
-      "title": "7 charged for flying drones over Rogers Centre during Blue Jays playoff run - CBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMW5IamRKbXBxREVGU2ptbHp1Y09Qd0kzTEtzYW1yNzZKQ18teENxVEdOeFF6VElyNnRCQkNQWHFzOXE2ckNfS2Zld0xYVXA0SlJVbEpfWlREaFQwN05CeDdWZERhR3p5Uk5DWFFyR2NlenNSdndPS1hvYXJnSk82d0J6SzV6T1Jmb0t4OA?oc=5",
-      "source": "CBC",
-      "date": "2025-10-18T19:37:36+00:00",
-      "description": "7 charged for flying drones over Rogers Centre during Blue Jays playoff run  CBC",
-      "query": "unauthorized drone",
-      "detected_at": "2025-10-18T21:04:45.972616+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a9f821ceb0a3"
     }
   ],
-  "last_updated": "2025-11-20T16:06:45.099202+00:00",
+  "last_updated": "2025-11-20T17:05:23.454387+00:00",
   "total_count": 1000
 }
