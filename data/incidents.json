@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "SDF warns of ISIS regrouping via Damascus links - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbERtQTFXbEt1MWpzY3phZmZJR1VyUDMwMk1YaDVackJmUjhocWVwd2syXzdyVDNiTXlBakVDSXNPaUNMTldyNW9EMWYtLU56MU9wMHVEa0sxNDNZOXJTRF9MUWJXQ3A2TUhBZQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-11-20T13:59:05+00:00",
+      "description": "SDF warns of ISIS regrouping via Damascus links  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2025-11-20T16:06:43.684593+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2376439d9c68"
+    },
+    {
+      "title": "Fact-checking Europe's 'drone problem': Why are airports closing over drone sightings? - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXU3NUhTcG1Wdk9ZUVNqMlR2bWMzTFd1UTVjVTZVSlB0ZE9yalFNRzl2WkZqaC16M3d3T05vUkNhU3hXWkZDVXp0WkRPNW9Cd0lVVWNIblhSU0dDVVRONzVINzVYWmZxbWQ0eU51NG9IMDhRUnNEVzdsTTFsSjB6czdxSnlqS1dkM045X3JMemNrSzJZbldKOWVIRlpCTGlueTMxZEVaQ05OOTJlSWxKMDRNX1hGS2lwbnl4YWdUT1J0WWtuSEhkWEx3?oc=5",
+      "source": "Euronews.com",
+      "date": "2025-11-20T14:14:47+00:00",
+      "description": "Fact-checking Europe's 'drone problem': Why are airports closing over drone sightings?  Euronews.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-11-20T16:06:40.464986+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "4f5dd326d789"
+    },
+    {
       "title": "Why Have Baloch Separatists Not Weaponized Drones Yet? - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHhCUmU1anl3VlQyckJPWXRsUFBCa0JvaWEyUTFOVmtGaTFKQmliTk84UWRldFFyNlhVZ0hqNVhNYWFXRlZrQjNqRXc4WG9TRldiSVFqcTdFMFVaWU5PSHhaaWRtbnRKTU9hVU5DaWhuSjRYemxxeFlaVU1qQmE3VlRURWZOY0xCQkdNM2tkSQ?oc=5",
       "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "a9f821ceb0a3"
-    },
-    {
-      "title": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says - Worcester Telegram",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlhEMU9SZnl4emVCbVNvMjRVU1JUOFE1dmg1VG1IbDFRMVU3OERJUmh6NF9uVTR4VllwNGFUMFA1OXFqSHU2dTV0OUZpbFZKODlGNjN2b3ZFQm9Wc2dGeTNjb0M1V2Y5TVE3WjhRak5hVkNwYlF2WUg2WWUxOVExN1FlSGxISzJySm10RWM4RFd0c2xKeFVLRXp3VngxNC1lb29obTltcURXMW5NSm4xZms4MU11N19GNTRRVF83Y08xOS1jcURwUElCSWE?oc=5",
-      "source": "Worcester Telegram",
-      "date": "2025-10-18T20:23:29+00:00",
-      "description": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says  Worcester Telegram",
-      "query": "drone illegal",
-      "detected_at": "2025-10-18T21:04:44.092726+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "27dc8f4b302c"
-    },
-    {
-      "title": "Seven charged for flying drones over Rogers Centre during Blue Jays post-season - TSN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlROYjRRTEk4TWVMM0JYNG13QmF0dGZMRG4yYmJsQWttSUxldk14MG84Sm5KVktqZTZDVldVSzdyNUJQSGZfQlliVkZPaGllM1Zvc0E1TlNKTGpPdU9Wclc1VkYzUmpiQkNMWlNoaWdRbkpkZV9OM3JxQ1BNMmpjRFpKQldKLWp0NDlnbEUyNkFwTFY0aHZpNU42OU9jS192RmF1TzVCdjQ1RXhicDBBRQ?oc=5",
-      "source": "TSN",
-      "date": "2025-10-18T18:12:31+00:00",
-      "description": "Seven charged for flying drones over Rogers Centre during Blue Jays post-season  TSN",
-      "query": "unauthorized drone",
-      "detected_at": "2025-10-18T20:05:26.993414+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5afb6b1fc951"
     }
   ],
-  "last_updated": "2025-11-20T15:06:09.892221+00:00",
+  "last_updated": "2025-11-20T16:06:45.099202+00:00",
   "total_count": 1000
 }
