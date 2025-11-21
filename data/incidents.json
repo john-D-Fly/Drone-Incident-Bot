@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Crash and burn: How Australia’s $6b drone-killer lost the plot - The Sydney Morning Herald",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzhrcndqYlR0a2VKWUxZU1Zqa1l2ZEhZczA1eUN4N2xBT0FNMTZKbVd1Y25ZQkVUbVU1UDg2ejRhalJRdkhTSzhxdVpBUFo2T0JlQXdCSXZiRDRGZlZ3QjdMZ0pKVnNvNFdHel9DSFEyaGcwQUM1YmZnb0lPdy0xMzdJRmQ3U0t3dWtKd2g3NGdzdHdYdThEdU9hN2JGdXVsNVRmNGhVWHRsWUdJWmR1UElBUllpUEtmeElkVVBB?oc=5",
+      "source": "The Sydney Morning Herald",
+      "date": "2025-11-21T18:00:00+00:00",
+      "description": "Crash and burn: How Australia’s $6b drone-killer lost the plot  The Sydney Morning Herald",
+      "query": "drone crash",
+      "detected_at": "2025-11-21T19:05:13.034107+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ebb6c0c26c5b"
+    },
+    {
       "title": "Prisons to increase airspace monitoring after drone incident - Taipei Times",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44c3NrRUVGQjlmS3BMd2hQRldwUENzZTVLNjNpelVjWHpFd2xIbzdDY1FTNzA0TzlYVEtBeWwzM3NTV3p3LTVzSDFrdnpoVXVlWVJVdGRROEJ3WF9vUHdockFBUGNzMkprVGxQMFdSdzZEY2lCTjNFRHl3?oc=5",
       "source": "Taipei Times",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "53236fecb079"
-    },
-    {
-      "title": "Munich Airport shuts twice in one night—security reports drones, police find nothing - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkM5Q0JyM1lBekFoYldEeG9LbGRoa2NEOEY4V0JiQW5JeHpWZE5DMUo3VjhNOWlEUHUtYUxjSUs0Qm9kRVEtNnNTcmFmMlB0d1IwNHQ3Z2h6R1NOYS15ZjA4NnNvN0VKVGsta3lVRmhwOG93T0U4QUdGb3JwRDd4cTBjRGRjT0xodGJkQ0dkQXBhaWxQM2FfRlZGekhtVW5NaktYMkRnRHVBQjhybHlwbW1KTEl6MFF0SW5DZ2dQWFU?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-10-18T07:00:00+00:00",
-      "description": "Munich Airport shuts twice in one night—security reports drones, police find nothing  Euromaidan Press",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-20T01:34:01.289963+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c7fa8a52ffae"
     }
   ],
-  "last_updated": "2025-11-21T18:08:00.815481+00:00",
+  "last_updated": "2025-11-21T19:05:16.079910+00:00",
   "total_count": 1000
 }
