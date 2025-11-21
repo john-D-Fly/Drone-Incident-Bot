@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a notable increase in drone-related incidents across multiple categories, including arrests, crashes, and illegal operations. A significant event highlighted was the arrest of a drone operator in Taiwan for smuggling contraband into a prison. In the U.S., police apprehended suspects connected to a drone smuggling network. Concerns about illegal drone activity prompted legislation in various regions, including a new law in Germany allowing military action against unauthorized drones. Incidents also included a drone crash in New York, and discussions surrounding the implications of drone technology in terrorism, notably linked to Hamas-style attack plots. The geographical spread of these incidents underscores the growing relevance and risks of drone technologies in both criminal and security contexts.",
+  "totals": {
+    "smuggling": 3,
+    "arrest": 5,
+    "crash": 5,
+    "terrorism": 6,
+    "security": 2,
+    "other": 10,
+    "drone illegal": 6,
+    "drone incident": 7,
+    "drone crash": 5,
+    "drone smuggling": 3,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 3,
+      "arrest": 5,
+      "crash": 6,
+      "other": 32,
+      "security": 3,
+      "smuggling": 3,
+      "terrorism": 9
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 12,
+      "drone crash": 6,
+      "drone illegal": 6,
+      "drone incident": 12,
+      "drone smuggling": 2,
+      "drone terrorism": 19,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Increases in arrests and law enforcement actions highlight a trend in drone smuggling operations.",
+      "incident_ids": [
+        "46c8e97ddace",
+        "837fbf05e3ea",
+        "ef3b8a8c0410"
+      ]
+    },
+    {
+      "topic": "Legislation on Drone Usage",
+      "rationale": "Emerging threats from drone incidents are prompting new laws aimed at regulating or controlling drone activity.",
+      "incident_ids": [
+        "2ccfbaf16fcb",
+        "bbc56d34032f"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "An increase in reported drone crashes raises concerns regarding safety and proper usage.",
+      "incident_ids": [
+        "4406e32ea801",
+        "97ff2a1698dd",
+        "6dcbbb9c6258"
+      ]
+    },
+    {
+      "topic": "Terrorism-related Incidents",
+      "rationale": "Recent arrests connected to terrorist activities emphasize the emerging threat of drone usage in terror plots.",
+      "incident_ids": [
+        "6e9c162f2eb4",
+        "91eeaf02af92",
+        "7150fad01ecd"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "46c8e97ddace",
+      "headline": "Drone operator arrested for smuggling contraband into Hualien Prison",
+      "one_sentence": "A drone operator was apprehended while attempting to smuggle contraband into a prison in Taiwan.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "837fbf05e3ea",
+      "headline": "Police seize over 26,000 drug pills, arrest two suspects linked to drone smuggling network",
+      "one_sentence": "Police made notable arrests related to a drone smuggling operation tied to drug distribution.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4406e32ea801",
+      "headline": "Drone Crash At New York's Empire State Building? Reports Surface",
+      "one_sentence": "A potential drone crash at the Empire State Building raised safety concerns and prompted investigations.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "6e9c162f2eb4",
+      "headline": "NIA Arrests Terror Aide Jasir Wani For 'Hamas-Style' Drone Attack Plot In Delhi",
+      "one_sentence": "An arrest linked to a drone attack plot in Delhi highlights the escalating security risks associated with drones.",
+      "risk_tags": [
+        "terrorism",
+        "arrest"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "d512fb230638",
+      "headline": "SDF warns of ISIS regrouping via Damascus links",
+      "one_sentence": "The SDF cautions of ISIS resurgence facilitated by drone capabilities linking to Damascus.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone activity has seen significant incidents involving smuggling, crashes, and terror plots, reflecting ongoing challenges in regulation and safety.",
+    "linkedin": "The last 48 hours revealed a series of alarming drone incidents, from smuggling arrests to crashes, highlighting urgent safety and regulatory challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-21"
+}
