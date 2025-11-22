@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Dutch military fires at unidentified drones over Volkel air base - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHlwZHRMd01pc3YyVDFFMmQ5V1BpaU54U2dQNm13bEhMZGhYLVFXVkNIdEtwNU1QbVhxRE5DZ0llWTdmV2U5OHdLejNDcjJPMnNfOWFYbkpKeEVfS2t1cnVoWUlYV3B6cllpeEF3VHREN0NVWXdlU3FDaHBXbHVCenNva1N0WlZiU20tUU1tVDRZU0pfNWc?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-11-22T20:35:00+00:00",
+      "description": "Dutch military fires at unidentified drones over Volkel air base  RBC-Ukraine",
+      "query": "drone incident",
+      "detected_at": "2025-11-22T21:04:41.729615+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0a0d6ecdcf5f"
+    },
+    {
       "title": "Drones now delivering AEDs during 911 calls in James City County and Forsyth County - 13newsnow.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzJsemFTOEU1NmhPWHZGbU9Ka1BLTFIzNzJJSnhoWTdWOVRON0F5Tm1xVzBjVndjWG8tTFZscXRPSnFMRGQ3c3lSeUhCSE8zam1BOWYxblFCMm5pcDlJbzlVckFMUHdfY1Q2UGVTY1JXQ1oyX0dXZXk0SnhtVjRfSVV1QU9HcU84b0l4V3BtdFNwU1Y3b0dNdVlhaGpUUEkwZk02X2gzWEZyQnlBMEpsSmpnNTFQMXQwTmstRi1qZ0V6Q1R2NkZ5YVZ6T1NCOTdOamgtRE1EaEZ6b1R0?oc=5",
       "source": "13newsnow.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "7994afb37bd2"
-    },
-    {
-      "title": "Drone Sightings Disrupt Major European Airports Days Apart - Evrim Ağacı",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3k0RW52cnJpOElOS0doRGhzMGNnbzJOTmpEWnlhbDV1WnhKMXJtdUwwd05oZEUxSGJJTTVWN01aaVN6VFRIWG1pTnltSzg1Y1BDTmZQV1NnZ3VpOWRvYnhPSFdNd3ZxTkRNeE9Qak91SFpjU3N6RXJKWjlIb2xScXBOM1A4eExUZmttRG9XelVGZHVMTGw4?oc=5",
-      "source": "Evrim Ağacı",
-      "date": "2025-10-20T18:32:57+00:00",
-      "description": "Drone Sightings Disrupt Major European Airports Days Apart  Evrim Ağacı",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-21T01:33:09.499234+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1277a237bc2b"
     }
   ],
-  "last_updated": "2025-11-22T20:05:36.748462+00:00",
+  "last_updated": "2025-11-22T21:05:01.118875+00:00",
   "total_count": 1000
 }
