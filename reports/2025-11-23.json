@@ -1,0 +1,137 @@
+{
+  "narrative_summary": "Over the past 48 hours, several drone-related incidents have occurred predominantly at Eindhoven Airport, causing significant disruptions to air travel across multiple European airports. There were multiple instances of drone sightings resulting in temporary closures and flight diversions, demonstrating a serious airspace security threat. Additionally, law enforcement actions related to drone smuggling have emerged in both India and Taiwan, underscoring ongoing risks associated with drug trafficking and contraband. In the Netherlands, drone sightings near military bases have created security concerns, prompting discussions about increasing airspace monitoring. Overall, these incidents highlight the growing challenges law enforcement and aviation authorities face with unauthorized drone activities, leading to calls for stricter regulatory measures and technological solutions to ensure safety in airspace.",
+  "totals": {
+    "airport": 10,
+    "other": 11,
+    "smuggling": 5,
+    "arrest": 6,
+    "crash": 3,
+    "terrorism": 1,
+    "interference": 2,
+    "total_incidents": 54,
+    "by_category": {
+      "airport": 16,
+      "arrest": 4,
+      "crash": 3,
+      "interference": 3,
+      "other": 19,
+      "smuggling": 8,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 12,
+      "drone arrest": 10,
+      "drone crash": 2,
+      "drone illegal": 6,
+      "drone incident": 12,
+      "drone smuggling": 8,
+      "drone terrorism": 1,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Eindhoven Airport Disruptions",
+      "rationale": "Multiple incidents involving drone sightings and disruptions at Eindhoven Airport.",
+      "incident_ids": [
+        "c0bfc716b4a7",
+        "35d8aac86d42",
+        "6e8b55675a32",
+        "5eb3c602832e",
+        "225b30c3b912",
+        "1839fde97150",
+        "a008060811cd",
+        "9b8c4497bb50",
+        "dd8a090597ce",
+        "f0aa5bb5ef14",
+        "c6975be44738"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Arrests",
+      "rationale": "Several arrests and actions concerning drone smuggling operations linked to organized crime.",
+      "incident_ids": [
+        "a2c3fc93551d",
+        "bd5f4230a693",
+        "572a1f7c5aab"
+      ]
+    },
+    {
+      "topic": "Security Concerns at Military Bases",
+      "rationale": "Sightings of drones near military installations highlight potential security threats.",
+      "incident_ids": [
+        "de6cde1719b7",
+        "a17b9e99bf26",
+        "f95e61239c0d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c0bfc716b4a7",
+      "headline": "Drone Incident Temporarily Halts Eindhoven Airport Flights",
+      "one_sentence": "A drone incident led to temporary halts in flights at Eindhoven Airport, highlighting airspace security concerns.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "35d8aac86d42",
+      "headline": "Major European Airport Closed After Mystery Drones Spark Travel Chaos",
+      "one_sentence": "Mystery drones caused a major European airport to close, resulting in widespread flight disruptions.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b021ce595060",
+      "headline": "Drone Operator Arrested for Smuggling Contraband into Hualien Prison",
+      "one_sentence": "A drone operator was arrested for attempting to smuggle contraband into Hualien Prison, highlighting ongoing smuggling issues.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6e8b55675a32",
+      "headline": "Fears of New October 7 Over Drones’ Deadly Cargo",
+      "one_sentence": "Concerns have been raised about drones being used for deadly cargo delivery, reminiscent of previous crises.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "a2c3fc93551d",
+      "headline": "Smugglers’ Drones Trigger Fears of New October 7 in Israel",
+      "one_sentence": "Recent drone smuggling incidents have ignited fears of potential attacks reminiscent of past events.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "a008060811cd",
+      "headline": "Delhi Police Bust ISI-Linked Drone Arms Supply Chain; 4 Held",
+      "one_sentence": "Delhi Police successfully dismantled a drone arms supply chain linked to ISI, arresting four suspects.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones cause major disruptions at Eindhoven Airport and spark security fears across Europe in the past 48 hours.",
+    "linkedin": "Recent drone incidents, particularly at Eindhoven Airport, have led to significant air travel disruptions and underscore the urgent need for improved airspace security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-23"
+}
