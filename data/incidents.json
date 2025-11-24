@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone caught airdropping contraband into HMP Wandsworth Prison - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUXRHV2htNEIyakd1WkZ2QWRsQ1RIQTlZdVAyZlV3WkxHd1lwdm1BbHVNYlQwQTZkZlJBRk1BU3RxSVFPUjBYNjlNcDk0emlnVEtUaGoyczBCWFlBWjUwa2RyMXl0c1NrM0tmVWs2QXJsbnpoRHI2UzlrRk9YSTg?oc=5",
+      "source": "AOL.com",
+      "date": "2025-11-24T06:02:02+00:00",
+      "description": "Drone caught airdropping contraband into HMP Wandsworth Prison  AOL.com",
+      "query": "drone prison",
+      "detected_at": "2025-11-24T08:08:18.123477+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3f9c498b6e90"
+    },
+    {
+      "title": "Israelis and Egyptians Differ on Smuggling in Gaza - The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUTQ3YVdLSVFLVG4yQTFZWnVCUmNTQmlUaE5hY1pBNGdVM2w2R0RlLVA3bnQ3MlpEVWxWVzBkNVlTM0NscTl3SFgyLXROTmNLRW5JSEFwemxKOWlTZmhHaXBtOWdQUjlfd1dla2ZMWlRuWjA0SXNLMS10T3JOenRSN0JOcmJtMDFjTmh3SGlBUXhHdw?oc=5",
+      "source": "The Media Line",
+      "date": "2025-11-23T19:56:13+00:00",
+      "description": "Israelis and Egyptians Differ on Smuggling in Gaza  The Media Line",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-24T08:08:17.614459+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "aa34eb8f6dd1"
+    },
+    {
       "title": "Drone Crash Causes Fire and Injuries in Chernihiv on November 24 - mezha.net",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzZLX08tWFlfeGw5VmYtVlV3WmRhUG13X1dqTGxuUnQ5ZnpFMmh0enU4Z3VIR18yQm1UaFlXclNJckR3ckUtNzJoS2c1OE9tcGZsdDBPaFh3Ym5CbTUyM3gzV3FDVFFUd1YxNDVWYjZqVkVSRjVxN08wRFVBRkcyakFaSHlBa0YtLWVQeTZqMHFwRVl4SGNQZdIBngFBVV95cUxQTWp6NVBDYmhnODB0QUxyZ3dKV0xielRPTHVxZ3NUekFBUU13NjZEQXVYMV9RZ3YyX1BrM0dVZkpqY0FualdjVlhnbkhiaUpVc0VfV3o1b3RlQlZpNktLYU1KUThzLW9MMG9tcF83VllaQzFSYmFIdVBuaUN5c3RaUmlQcVctNXkxbFBRZHhTTkYtRUZCX1EwZ0J3S1F5Zw?oc=5",
       "source": "mezha.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "cee5e86986a5"
-    },
-    {
-      "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-10-22T04:37:44+00:00",
-      "description": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-22T08:08:03.139340+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5bc6cb45d34d"
-    },
-    {
-      "title": "Russia strikes Ukraine's Zaporizhzhia with drones - 13 casualties reported - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMExObHVwVlB1QmpBWXpOT3FmM2FzRmZDVDhmanFJZDlCOVFvM2dlMVFYbnVOOFNEd0ROSVhCdkdkckNBTldFOER2UTVubzd4aEk3cmlwQS01UmVTTHVPRW0xcEhxWlZMZFpqcjhSYm05N3BDbG51YWYzWmVnU3FiWXZEbno2ZTBRemhzMUxmanpzSTdn?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-10-22T06:05:10+00:00",
-      "description": "Russia strikes Ukraine's Zaporizhzhia with drones - 13 casualties reported  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-22T07:06:06.248900+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7f7dbe45cfdb"
     }
   ],
-  "last_updated": "2025-11-24T06:08:56.963125+00:00",
+  "last_updated": "2025-11-24T08:08:22.076886+00:00",
   "total_count": 1000
 }
