@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "U.S. Reaper drone based in Korea crashes into Yellow Sea, cause yet unknown - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVzNsRHRWN2ZMY3p5N0hMT0Y2Q0tfUVg0cnMxZmdqb19rQmNza1M2MHZPYVdHR0JTaC1jbHpEbGZZN19Cc3NkQy1OMWY0Ty1oOC1YM3JVZzEwSC1VVjZEeE9YUDE0TUp6NF8yb1lKWm9OU0FjQUE3Ql94RHl3SlRwc180WUk4ejlFYkJXbkpISUh6YTFqdjZIOS1ZWUoxbVkybDUyZkNrbWR4dGc3OXNNQlpMTWhxTlltdE5QdHFrQWsyaWllVzdCeWJiRVJ6NHJqVktGa29CSGtrQ3k2X1NMLTB2QTY?oc=5",
+      "source": "Korea JoongAng Daily",
+      "date": "2025-11-24T12:22:06+00:00",
+      "description": "U.S. Reaper drone based in Korea crashes into Yellow Sea, cause yet unknown  Korea JoongAng Daily",
+      "query": "drone crash",
+      "detected_at": "2025-11-24T14:05:53.384440+00:00",
+      "location": "in Korea crashes into Yellow Sea, ca",
+      "category": "crash",
+      "id": "b4f2f3fd8f2c"
+    },
+    {
+      "title": "44 Billion Won MQ-9 'Reaper' Drone Crashes Off Gunsan Coast - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHZMa1ZuM0NWaWg3d0RTNXhHaGJnV2lzZmgxdnBLZ2dQRGlNVzl0RHYxTk15dWVmX3YycFU3Rkp4QkFmemVPOGVaSkJGQy1MVzBQcDFuWnhTMk9ETlRFYkx0bjZKbnNFSUVtVHlKRHV0UkplX2JzLXlLSDJ5X0FVSm1leWZRQzZj?oc=5",
+      "source": "조선일보",
+      "date": "2025-11-24T13:07:30+00:00",
+      "description": "44 Billion Won MQ-9 'Reaper' Drone Crashes Off Gunsan Coast  조선일보",
+      "query": "drone crash",
+      "detected_at": "2025-11-24T14:05:53.384440+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b681267ef516"
+    },
+    {
+      "title": "Drones being used to drop drugs through windows at Nottinghamshire prison - Nottinghamshire Live",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMldoVDlXMnliLWRRcGtLUXVVREd6YkZjUFVpSE9mMVBzUlBkYVJxSGhpM0UwY2tld1k1aTdSd1FtWjlyV3ZrekliaXhWNEtTc0R5Sm85c0l6WkhURzVoUS1FZHhtQlhEbVRLa1dIWmRseFhER1hUSlRFNzNGYTN5a0d0aWhaSXRSMFRVONIBkgFBVV95cUxQRVJ5dnBZMG01OVI1akNrSnkyc09RQWxYaXQ2ODNMR3NodXZBVFAzNFg1RGpxZGVZZm5ZakoxT01wZU5qSUR1dlRqVzNWeENCSVJOcFpUN0VQeWd3a0cxek5CXzlSLTV1S2pzbENXV1F0YVVnNmFIclpVcE5QOXgwMXFXOHdtQVN1Sk9HQ3YwTTA3Zw?oc=5",
+      "source": "Nottinghamshire Live",
+      "date": "2025-11-24T12:50:41+00:00",
+      "description": "Drones being used to drop drugs through windows at Nottinghamshire prison  Nottinghamshire Live",
+      "query": "drone prison",
+      "detected_at": "2025-11-24T14:05:52.156276+00:00",
+      "location": "at Nottinghamshire prison",
+      "category": "smuggling",
+      "id": "931f7fb05371"
+    },
+    {
+      "title": "U.S. Air Force drone crashes in waters off S. Korea's western coast - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmZ0UyWGVKcFZJN0ZtZ2FjZE1Ganp0NHBuRXczV3V3ejFhR0ROcFZuYTU5enoyZ1pWZkhOTnZoMnB5ajVWTkxOeEZBQXFQRUIxZDhUNzUwel9vdw?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2025-11-24T13:44:32+00:00",
+      "description": "U.S. Air Force drone crashes in waters off S. Korea's western coast  Yonhap News Agency",
+      "query": "drone incident",
+      "detected_at": "2025-11-24T14:05:50.348740+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6d33008bfb34"
+    },
+    {
+      "title": "Drone “Sightings” Across Europe: ARPAS-UK Urges Caution and Fact-Based Reporting - sUAS News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTNsRXRyeDdwd242RVR4TjIzdzZ0V1BSSlZVMkh6RGhGUllYc2o4a0xIUXUxbHhKYWk4eldtWUdCZTBaZVRPbG1pQ0duRkNGMC1LdEFkYmxBT2lfNktlUG9lcVFPOUlUeTBmamt6WUhndEFqbmJKaGZpUnJHUk9SZXdwVjlaLTl1M0toYkNfUG56a0VhcVRqenc5dnFnSnpweTkzZjhHdzBuNFRjT09VVw?oc=5",
+      "source": "sUAS News",
+      "date": "2025-11-24T14:05:23+00:00",
+      "description": "Drone “Sightings” Across Europe: ARPAS-UK Urges Caution and Fact-Based Reporting  sUAS News",
+      "query": "drone incident",
+      "detected_at": "2025-11-24T14:05:50.348740+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f342d2a32735"
+    },
+    {
       "title": "U.S. MQ-9 Reaper Drone Crashes Off Gunsan Coast - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV3psaFhrSTdIRHBNRmNnbVNVSTZ0STJPOHA5TmZqNlc5U2xYaVlNelduUmhMVWxPUVUzeXJodWZEY3pkLUFtYzBxdXh1amgzRk1ub2ZvdmJWWGF4U003VEl1NDR1N0xaWmYxME9OUWtRTnBDMEpSbmxUaXJNZlg0WXBrdlZMRnVzejgyWExnd2FFeWpFOGU2ZEloMkdKSTJ6dl8wU1E0ejB5Q2JyMlg1aVBSdGZTOGtQdUhGWmFEaklVaXlodXdCcjB0NjJ6N2JhQ1NheHpsNVcwRnAt?oc=5",
       "source": "MSN",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "1c99b16d718c"
-    },
-    {
-      "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-10-22T14:08:32+00:00",
-      "description": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-22T15:05:42.182105+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d25d0dec5147"
-    },
-    {
-      "title": "Verifying aftermath pictures of devastating Uganda bus crash - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jcjkxZUU1UV9lU3FfZ0JCbEFhYVNlODVjX2JtcU5HZHJuUGdvR3RFM1ZlVGc3Q2hYSzZraGR1ODd0RjJNeWVTSFQ2ckk3LW5ISHJNWQ?oc=5",
-      "source": "BBC",
-      "date": "2025-10-22T14:18:28+00:00",
-      "description": "Verifying aftermath pictures of devastating Uganda bus crash  BBC",
-      "query": "drone crash",
-      "detected_at": "2025-10-22T15:05:40.133489+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6108bd8df215"
-    },
-    {
-      "title": "NATO says Russian incursions deterred but hybrid threats persist - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX29WQlpxNEFaaUdweGpRWUM0bV8tY2kzWGhOTjlBUXk2WmlKMmlDeVlUN3NJRGZVMjZLUGpjQ1d6anVVcm03b3hHc0IzeG5yNXQ2V0diM2p5WTlDQ2VJdlpUU0RVR1kzMFhMekRtcXFyYksxSm9XUWFWX2FKSTl4TVFrRGZDa2JPZldya3NTMXVnX0V2ZEFrTXVBYTQwa3FCMTVmQklkRGptZ0NMZnpCV0ZKamVuN1ZGWVRDanFRQW4?oc=5",
-      "source": "Reuters",
-      "date": "2025-10-22T09:11:48+00:00",
-      "description": "NATO says Russian incursions deterred but hybrid threats persist  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-10-22T15:05:36.701712+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "07cc9345b79d"
-    },
-    {
-      "title": "Verifying aftermath pictures of devastating Uganda bus crash - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jcjkxZUU1UV9lU3FfZ0JCbEFhYVNlODVjX2JtcU5HZHJuUGdvR3RFM1ZlVGc3Q2hYSzZraGR1ODd0RjJNeWVTSFQ2ckk3LW5ISHJNWQ?oc=5",
-      "source": "BBC",
-      "date": "2025-10-22T13:45:35+00:00",
-      "description": "Verifying aftermath pictures of devastating Uganda bus crash  BBC",
-      "query": "drone crash",
-      "detected_at": "2025-10-22T14:06:24.583917+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e2a87050f06d"
-    },
-    {
-      "title": "NATO General Says Russia Acts More Cautiously After Drone Incidents - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjRPNWZUcnFVUGZ1TU5IYTlvUDEtaW5PaENJNGU5MkpHcDFTOXowdlp3NC0xUUU2M3Vwa09ZZmlMdVFUN2tqbkF2aHpTLWswOUpJS1R2ckptUGxQUHpmWEg4UXVwNFh4VWhoMDN6eF9xaUxvOW1XalhoTmc4cDd6T3VxTzM5UlZnRDhpSWc0QWtjeUFFTk5FMTJOdFZhVXNtQkl2UWQzVmpjNDTSAa8BQVVfeXFMTU1oWkx0Sk85UFllSEZYdFQ2TDNVbmFMNFYydXhxS3FicjRZaU5oZlVwMjk5RmpnTlR3NHp5eXc2UGlKMVJTMGpjSEdLSENGVkJpNHBrT1paSjk1dC1YXzNYNkl1MVpGdll0cEQwVW9ONGk4cjJTb3ZTRkVvRFhDQkhQTXBiUmp3V24zS2xoVVR5OHU4eUxBRDFodDl4MEdudG9nNkxTT0lqTlFmSlBQUQ?oc=5",
-      "source": "Военное дело",
-      "date": "2025-10-22T09:31:04+00:00",
-      "description": "NATO General Says Russia Acts More Cautiously After Drone Incidents  Военное дело",
-      "query": "drone incident",
-      "detected_at": "2025-10-22T14:06:21.217317+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ff849695356e"
     }
   ],
-  "last_updated": "2025-11-24T13:15:20.055446+00:00",
+  "last_updated": "2025-11-24T14:05:56.379842+00:00",
   "total_count": 1000
 }
