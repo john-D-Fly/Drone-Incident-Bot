@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "U.S. Air Force MQ-9 'Reaper' Drone Crashes Off Gunsan Coast - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHZMa1ZuM0NWaWg3d0RTNXhHaGJnV2lzZmgxdnBLZ2dQRGlNVzl0RHYxTk15dWVmX3YycFU3Rkp4QkFmemVPOGVaSkJGQy1MVzBQcDFuWnhTMk9ETlRFYkx0bjZKbnNFSUVtVHlKRHV0UkplX2JzLXlLSDJ5X0FVSm1leWZRQzZj?oc=5",
+      "source": "조선일보",
+      "date": "2025-11-24T09:00:00+00:00",
+      "description": "U.S. Air Force MQ-9 'Reaper' Drone Crashes Off Gunsan Coast  조선일보",
+      "query": "drone crash",
+      "detected_at": "2025-11-24T09:07:34.860949+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c9fe306c8fd9"
+    },
+    {
       "title": "Drone caught airdropping contraband into HMP Wandsworth Prison - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUXRHV2htNEIyakd1WkZ2QWRsQ1RIQTlZdVAyZlV3WkxHd1lwdm1BbHVNYlQwQTZkZlJBRk1BU3RxSVFPUjBYNjlNcDk0emlnVEtUaGoyczBCWFlBWjUwa2RyMXl0c1NrM0tmVWs2QXJsbnpoRHI2UzlrRk9YSTg?oc=5",
       "source": "AOL.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "c54089d77c83"
-    },
-    {
-      "title": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUWmtrX01VY3NBMVU3OWJKVHNDMk1ONkdGTU00N2xxTnVVZDNvOG1tOG5GanFHX3dvLUd0aFU2UkdhRDdKMXdfcGhUaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-10-21T18:08:06+00:00",
-      "description": "Stranded Russian Troops Face Death From Starvation, Drone or Artillery Strikes  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-22T09:06:48.567896+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cee5e86986a5"
     }
   ],
-  "last_updated": "2025-11-24T08:08:22.076886+00:00",
+  "last_updated": "2025-11-24T09:07:37.664734+00:00",
   "total_count": 1000
 }
