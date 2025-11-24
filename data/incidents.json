@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone Incident Temporarily Halts Eindhoven Airport Flights - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVZ6d2loZEJENVN3SC1RQjRvYUxRazloSzZld2VtTGV2czhzN1hZekhHSzBHbkxtQ09DLTF3X2hfNm9ueDdHeExaajViVGQzcFZvbEMwdkxUcV85QnpqcnExZVJCb0l2bG5SODJsVXF4aEhpWUplSXF0OGZ5UDhQUVlMQUhSRjlQckZnbHdUSlPSAZYBQVVfeXFMTjhVN1lRN3ZvZEt1VGhMa2NBYzlEdlpCVzRKRVljMGVnQl9XS3c3QWJwWFdCYkRHak15RUhaQ3J3WVZ0aWxHTGlJQ3pTSjcyWFhPcktLdFlSQXJ2Rko4S3ZyQ2psR3R3VUlDZVFKREZMV3RFUTY2cnQ4RGxvTUhXUUlqUnBzNndHbXg3MEM5QnpRc0xKb09R?oc=5",
+      "source": "mezha.net",
+      "date": "2025-11-23T12:40:16+00:00",
+      "description": "Drone Incident Temporarily Halts Eindhoven Airport Flights  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2025-11-24T04:15:06.647490+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ff0b3eff49ed"
+    },
+    {
+      "title": "Dutch Military Fires On Drones Over NATO Air Base As European Incursions Escalate - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPME1ROHFoRUsyVDJnLTZxb3luTWtUZXBvTnZoR01OV0ZfNTNhdXVMMFA4UWs2a1l1MG9aOGtGSzJiRGs0ejZLSHdPTXdBeXdFdjJWclNZeVZGVVNTNlpBTXpkMnBDcGg5MUF6SkdDUUE4ekU4eVhqSzliTzhzRERuaVlvVDBDMFRKdlE?oc=5",
+      "source": "DroneXL.co",
+      "date": "2025-11-23T22:10:47+00:00",
+      "description": "Dutch Military Fires On Drones Over NATO Air Base As European Incursions Escalate  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2025-11-24T04:15:06.647490+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b9398b9e51c1"
+    },
+    {
       "title": "District 56 approves updated policies including drone use - GoLaurens.Com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEs1ZHlCYVhKa1Q2UUdLRFlBN2E2Ykk4TTJ0eDg3ck9YWldTYVI0d0hiWGtVZVpNejhqQm93bHBwdHN3aHAxYlIzZXVfdHlGNExnVF9IV2hZUHRyenV4UFhqQUVpbEpwWUo0SmZ6ZUNPcEhLRmkyRGwzb0pKQXZXdnN2TllXVnBUcDlIcjZITXNsZlJYbkE5a1E2Z2s5OVRRU1VUVmd4cDRNNHpwMkxGMEYxcEJVUQ?oc=5",
       "source": "GoLaurens.Com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "de29aa6bf73e"
-    },
-    {
-      "title": "KillNet hacks Ukrainian drone supplier’s database - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHRINUZLTVB0dDY4RDZMZE0zUXRVdGpMM2p3aElHVVRjUTRORFE2Q254Y01tS0xKLUdrMFZ6Xy1QSjlqenJPbG5TbnFpekJUeDJpOWJ6V2xQZFNBc3lQM3BUWkZmX2FpVTU5VEc0cktqSzdtMXlkM3hQSGJKZDZpaVl5T3l4cGQzNlFZdlJZY05MeGfSAZcBQVVfeXFMTV9ib05IRGlrckVxRzdsd1ZHMGc1ZE1hNHZ4RmhlRXl2U1ZuVUpURFI0cFAzNDgzMk5wVzFaUUhZTEF3RkdQNGJwVko4ZllfOHVOSk5WaWFQZE5TTm9LVXQ5SjdtSjVmT05XeEk5U01Bd25ha1ZGQ25sdEozUE83Z2JHeklnS2dhZGlzMEdDQWl2dnNxaFNfWQ?oc=5",
-      "source": "Военное дело",
-      "date": "2025-10-22T01:11:43+00:00",
-      "description": "KillNet hacks Ukrainian drone supplier’s database  Военное дело",
-      "query": "drone security breach",
-      "detected_at": "2025-10-22T05:06:25.611936+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9a7ecff3348a"
-    },
-    {
-      "title": "Three arrested in latest attempted drone drop at Washington State Prison, sheriff says - WGXA",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1pvVTZEQjhlTXZhMHhHbkZyZ1MwNFRobnlEWi1oXzFYY2pOV05sREZXZTZjNUtTQnh6QktucTVOcm1JTEpNTWtsRW1ZUnNjYU9sRjdmTXRzQlhvbTFwRUE3SnJIeVJibWFoaGRScjNvY0VKSWtCRzZjUnItNWRacERMWG84YTFuR29KMTJwVERUcG10N2ltRjVYcGUyVDBXbzlVWFR6TEIwM1hqU1ZyZUJB?oc=5",
-      "source": "WGXA",
-      "date": "2025-10-21T03:04:24+00:00",
-      "description": "Three arrested in latest attempted drone drop at Washington State Prison, sheriff says  WGXA",
-      "query": "drone prison",
-      "detected_at": "2025-10-22T02:35:04.318684+00:00",
-      "location": "in latest attempted drone drop at Washington State Prison, sh",
-      "category": "smuggling",
-      "id": "7af4250d5212"
     }
   ],
-  "last_updated": "2025-11-24T03:32:58.426350+00:00",
+  "last_updated": "2025-11-24T04:15:13.112903+00:00",
   "total_count": 1000
 }
