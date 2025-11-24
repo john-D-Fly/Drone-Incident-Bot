@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "2 suspected smugglers held, 2 drones recovered - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDEtT2dJYzBQb0Q3ZWtiTWJ5SWFYLTc3dmk5VFlITXJHYk53eTA3ODhTYkpHQU9IRW1VVDFOYjlfMHoyMW1WZHcyeFlyc3ZzOVhuQURPa3FKWkJTS3F2U3JkWU9pREQzMk1xY2J3V0hzNks5NHRvTV9sUXBIbmszbXBtbzRuY3U2VFd2Wmlwd3RIN1EyM2UtS3I4NlB0MnprMkNJdURicXd3OVEzem5tNy1NVl9GME54aE93VW1CYTPSAcYBQVVfeXFMTzZ6bDVfc1FGTWxfMmtaTl96Q3BjUks5d25NNVc4SjFxa0xBOU1NbVdBRHp0Uzd6MEdzQktaQ1lib3JzUXBsY3ZkcmxjUXFIdFBaLURZYWp1WDdPRGZBa25kZ2hZaDJXV1pVQnRWWl9PZ3E0ZnB6S0N6czE0NUV1RTUxZUlHTkhULW1JWFViUFl4UUNOa0RRN1dvOFVsbjgwanJ4cktiRVRqMUM5OU1NaHVYbjJJa2IxeWFOZ201WTg1Z0pOSXRn?oc=5",
+      "source": "Times of India",
+      "date": "2025-11-24T19:53:00+00:00",
+      "description": "2 suspected smugglers held, 2 drones recovered  Times of India",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-24T21:05:06.403931+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4812660f107a"
+    },
+    {
+      "title": "Drone Incursions Disrupt Dutch And Belgian Airports - evrimagaci.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGJlbUxHU1RETTNLVWMycG4weXhpNnpFWnFxRm54RnRMNWZwMjV1MTh2cFk5ZHl0NWtRRVhkeHlWYVkxU3ZyOUNsa3gzRTlmM2NfVmR2ZnFVMkJybktuOHU3NVh5YlBaTzViUWlpT3o2NDNPSUpxYmo3cTZyNy1XckNlLUVIMXhCR3dPd2Z3?oc=5",
+      "source": "evrimagaci.org",
+      "date": "2025-11-24T19:56:16+00:00",
+      "description": "Drone Incursions Disrupt Dutch And Belgian Airports  evrimagaci.org",
+      "query": "drone incident",
+      "detected_at": "2025-11-24T21:05:05.048908+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5f27b9621915"
+    },
+    {
+      "title": "F-15 or Phantom Drone? Helicopter “Chased By UAV” At 161 MPH Over US Air Force’s UK Base; MoD Says It Was An “Eagle” - EurAsian Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKUmItS28zOVIxdE10NUdVSGhUcDN3R0Zjd2lOb0dCQjBjemNOZ05wd0ZuLXhhSENKYjhiQ09oZ2pKcks5Uk9RRl9NdXU4OHBNSXlWZFhlZ1doSkUxUXEzc09md05zVFhhLVd2MlZGQWhBRFl3Y0FBZ2l30gF6QVVfeXFMUEpSYi1LbzM5UjF0TXQ1R1VIaFRwM3dHRmN3aU5vR0JCMGN6Y05nTnB3Rm4teGFIQ0piOGJDT2hnakpySzlST1FGX011dTg4cE1JeVZkWGVnV2hKRTFRcTNzT2Z3TnNUWGEtV3YyVkZBaEFEWXdjQUFnaXc?oc=5",
+      "source": "EurAsian Times",
+      "date": "2025-11-24T18:25:53+00:00",
+      "description": "F-15 or Phantom Drone? Helicopter “Chased By UAV” At 161 MPH Over US Air Force’s UK Base; MoD Says It Was An “Eagle”  EurAsian Times",
+      "query": "drone incident",
+      "detected_at": "2025-11-24T21:05:05.048908+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "704ade8c7bdc"
+    },
+    {
       "title": "Squads on ground, drones in air to check illegal mining - Times of India",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzcyZlpaM2RNMU5lLWM1WnZWRmZXT210LXlLUmZUWGl1bTctYTZreUtfS25qX0R6Z0djTDZzUVVZdVNmNmhPZV9aZlNXQWR4WVdsZF8xQ2N0dkFseERtM3JvT1R1d3JBbXREZW9wTHZhZkpQTkZqdjVlS1lseUZhNUNvSDRkNHc4MjR4VjZmaVlQRmVwbnpsUnBva0hxVnRQMTQ0NFJZeVhwbVdsaV9BT08zWUhyYzlqby1uMXkteXY2d1pwaHFn0gHMAUFVX3lxTFBZeEp6MWo5eF9LU1NRWTZJNmhWdjFoOEZpMzZLSkhqRnU0dTlIZXNRX0U0Qk5vQTFNQzNfZ3RVTG8wcTNaZEhzOWZITE42emhRcDdJVEdTcUgwak12WFJfMHJIczA1OE9sdnZVamdFdXpHWndOaDRES0tkcExOeVhCcFFxV2NQSWFFY241OVpWYzR5RnVkcFR2VlpHMHFDTDBZbFZTeVJlY1pib0hfSGVZNjNuS1RxSFhqN0RNb1pRYmU3U214aG9BOWdtUQ?oc=5",
       "source": "Times of India",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "6e0fa613d86f"
-    },
-    {
-      "title": "Russian Strikes Kill One, Damage Synagogue in Ukraine - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHlEMVUzX1d5bGNXLUxkYXNfMXlyYXFHWXJZeXpnQzJ2b2dpeVBueWZka2dzRS1LZW9YU05xWnFSSzhfekFyWkE0UHV5X2hHWWRVRHZvOHowMFZVQ0Z6NVJxQll6OTVXSll2MkN4UWNvRzk3dnVwTUI5YnRqVnNyU3FtNEJPc0pkeUhPRFhOT3F5UjdPbmtVRVJXdHJESFhaNm1Z?oc=5",
-      "source": "The Moscow Times",
-      "date": "2025-10-23T08:30:26+00:00",
-      "description": "Russian Strikes Kill One, Damage Synagogue in Ukraine  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-23T09:06:23.045939+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6c980e03152d"
-    },
-    {
-      "title": "Explosions and Drone Strikes Hit Russian Regions, Killing 12 - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0tOS1ZkSUd5QzZWWDdlOVVlVnViaG1pSHlMZnlRWXNKemFaQmNNdzlSWE5IUVAyZ3NDOFIxMGdLVnF0ajkxS21pTF9vV2d0YThob1ZBSjAtSDdlOEtGR0F5Qnp5aUlwcjRPS3U0RC1JLTBkMVJEcEpEUlhna2RjQ1V5Yk4tdWNTQlJQSzVSbGlWc2hDenIweXJSOEpkY3dObW9tcVd0MzVhWGRM?oc=5",
-      "source": "The Moscow Times",
-      "date": "2025-10-23T08:23:53+00:00",
-      "description": "Explosions and Drone Strikes Hit Russian Regions, Killing 12  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-23T09:06:23.045939+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7ed79954f2c0"
-    },
-    {
-      "title": "Man facing drug charges, arrested flying drone outside residence suspected of illegal activity - Action News Jax",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNXlMT0RNczVrTFpEZDE0aUlaTWp5MUh5b3dqdXBMSWd2eGdmV1FnZm1HblQwdFpjNUlWS1lTNUFTTUpRTmVzRVppTVg5MDk3VXNOcVJRSnRLRndaREFCaUUtYVIxYVBWdGQ5SWpKSVdUd3lienFfME5Jd0pZX3ZhMWdZUkQ3U2J5TC0wMEZ1UWJVQW9aRHB6NnJRYnVUUWc0emZLMzZmV003TnRTbHdfY2U5cVdONV9mUDE1aVVCOWN1RnBEX3ktSFBaUUV3VUNsbjQzck5sODZsczRhWlA0bjZHNlBVN3NYMjUtM1V5NHdDUTk3ckJVQU1tUVNyNWhQVVhNOdIBhAJBVV95cUxNNXlMT0RNczVrTFpEZDE0aUlaTWp5MUh5b3dqdXBMSWd2eGdmV1FnZm1HblQwdFpjNUlWS1lTNUFTTUpRTmVzRVppTVg5MDk3VXNOcVJRSnRLRndaREFCaUUtYVIxYVBWdGQ5SWpKSVdUd3lienFfME5Jd0pZX3ZhMWdZUkQ3U2J5TC0wMEZ1UWJVQW9aRHB6NnJRYnVUUWc0emZLMzZmV003TnRTbHdfY2U5cVdONV9mUDE1aVVCOWN1RnBEX3ktSFBaUUV3VUNsbjQzck5sODZsczRhWlA0bjZHNlBVN3NYMjUtM1V5NHdDUTk3ckJVQU1tUVNyNWhQVVhNOQ?oc=5",
-      "source": "Action News Jax",
-      "date": "2025-10-21T11:28:39+00:00",
-      "description": "Man facing drug charges, arrested flying drone outside residence suspected of illegal activity  Action News Jax",
-      "query": "drone illegal",
-      "detected_at": "2025-10-23T09:06:21.740066+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "968ce1a2aad7"
     }
   ],
-  "last_updated": "2025-11-24T20:06:43.341280+00:00",
+  "last_updated": "2025-11-24T21:05:11.462322+00:00",
   "total_count": 1000
 }
