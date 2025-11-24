@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "U.S. MQ-9 Reaper Drone Crashes Off Gunsan Coast - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHZMa1ZuM0NWaWg3d0RTNXhHaGJnV2lzZmgxdnBLZ2dQRGlNVzl0RHYxTk15dWVmX3YycFU3Rkp4QkFmemVPOGVaSkJGQy1MVzBQcDFuWnhTMk9ETlRFYkx0bjZKbnNFSUVtVHlKRHV0UkplX2JzLXlLSDJ5X0FVSm1leWZRQzZj?oc=5",
+      "source": "조선일보",
+      "date": "2025-11-24T10:08:17+00:00",
+      "description": "U.S. MQ-9 Reaper Drone Crashes Off Gunsan Coast  조선일보",
+      "query": "drone crash",
+      "detected_at": "2025-11-24T11:05:17.271641+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c8ed132afb16"
+    },
+    {
       "title": "U.S. Air Force MQ-9 'Reaper' Drone Crashes Off Gunsan Coast - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHZMa1ZuM0NWaWg3d0RTNXhHaGJnV2lzZmgxdnBLZ2dQRGlNVzl0RHYxTk15dWVmX3YycFU3Rkp4QkFmemVPOGVaSkJGQy1MVzBQcDFuWnhTMk9ETlRFYkx0bjZKbnNFSUVtVHlKRHV0UkplX2JzLXlLSDJ5X0FVSm1leWZRQzZj?oc=5",
       "source": "조선일보",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "6adb0c59032f"
-    },
-    {
-      "title": "NATO says Russian incursions deterred but hybrid threats persist - 1470 & 100.3 WMBD",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzV0RGJuWEo5akxXS2FKU3psZlplMVNuQ1pwZFdxLXB2ZXBKQlpsMW94MFdHY2JPSW5PWE5KdGR6RmNwZHhFN2NrRko4RXJQYTNfVDY0OGl0RHdpQ1pmbTNTNlg1STJLTnk3Z3RoRkhibFNzVnpwcXE0X0doUGxUaDlpa055alRYX0loRVIzWXlrNnJUSjJ0UXFvUDFCT1E?oc=5",
-      "source": "1470 & 100.3 WMBD",
-      "date": "2025-10-22T09:51:50+00:00",
-      "description": "NATO says Russian incursions deterred but hybrid threats persist  1470 & 100.3 WMBD",
-      "query": "drone incident",
-      "detected_at": "2025-10-22T10:06:12.769379+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "c54089d77c83"
     }
   ],
-  "last_updated": "2025-11-24T09:07:37.664734+00:00",
+  "last_updated": "2025-11-24T11:05:20.984658+00:00",
   "total_count": 1000
 }
