@@ -1,0 +1,157 @@
+{
+  "narrative_summary": "In the past 48 hours, a notable surge in drone incidents has been reported across various regions. In Afghanistan, Pakistani airstrikes have killed civilians, prompting concerns about interim drone terrorism. Multiple crashes have occurred, including U.S. Air Force MQ-9 Reaper drones off South Korea and reported incidents in Romania and Moldova as Russia continues bombardments of Ukraine. On the smuggling front, Tajikistan has deployed drones to intercept illegal Afghan activities. Dutch and Belgian airports experienced disruptions due to unauthorized drone incursions, raising security concerns across Europe. Additionally, prison-related drone drops have been documented in the UK, indicating ongoing challenges in maintaining secure facilities. These patterns underscore the disparate ways drones are impacting security, law enforcement, and international relations.",
+  "totals": {
+    "other": 13,
+    "smuggling": 5,
+    "crash": 12,
+    "airport": 5,
+    "arrest": 3,
+    "total_incidents": 59,
+    "by_category": {
+      "airport": 8,
+      "arrest": 1,
+      "crash": 23,
+      "other": 20,
+      "smuggling": 7
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 3,
+      "drone crash": 17,
+      "drone illegal": 2,
+      "drone incident": 16,
+      "drone prison": 3,
+      "drone smuggling": 8,
+      "drone terrorism": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes",
+      "rationale": "A cluster of incidents involving drone crashes noted in multiple regions.",
+      "incident_ids": [
+        "ab6c96513aac",
+        "02da9464d497",
+        "657dce26ce85",
+        "5e972c56d6e4",
+        "b0b0996bace3",
+        "311b8071ba1e",
+        "e96cd6a3068c",
+        "3c3b613e7f9e",
+        "9aececd678e2",
+        "94323f996445",
+        "1bfe31bbcffd",
+        "f342d2a32735"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Recent incidents suggest ongoing threats involving drone usage in terrorist actions.",
+      "incident_ids": [
+        "8c51402e5acd",
+        "ab6c96513aac",
+        "eded03654238",
+        "fa9be49b84fb"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple reports indicate increasing use of drones for smuggling across borders.",
+      "incident_ids": [
+        "8a4d6da31bf7",
+        "a6923fd8cea7",
+        "ed36c1dd0be8"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Several airport incidents involving drone sightings leading to operational halts.",
+      "incident_ids": [
+        "b4f2f3fd8f2c",
+        "1bfe31bbcffd",
+        "5dc00f73e932"
+      ]
+    },
+    {
+      "topic": "Prison Related Activity",
+      "rationale": "Incidents of drone drops and contraband delivery observed in prisons.",
+      "incident_ids": [
+        "3b2deb46495a",
+        "931f7fb05371"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8c51402e5acd",
+      "headline": "Pakistani Airstrikes in Afghanistan",
+      "one_sentence": "Afghanistan reports that Pakistani airstrikes have killed 10 people, mostly children.",
+      "risk_tags": [
+        "terrorism",
+        "civilian casualties"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ab6c96513aac",
+      "headline": "Drones Crash Amid Russian Bombardment",
+      "one_sentence": "Drones crashed in Romania and Moldova as Russia bombards Ukraine, highlighting regional instability.",
+      "risk_tags": [
+        "military conflict",
+        "crash"
+      ],
+      "countries": [
+        "Romania",
+        "Moldova"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "02da9464d497",
+      "headline": "Russian Drone Causes Fire in Cherkasy District",
+      "one_sentence": "A fire in Cherkasy District has been attributed to a crash of a Russian drone.",
+      "risk_tags": [
+        "crash",
+        "civilian safety"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "8a4d6da31bf7",
+      "headline": "Tajikistan Deploys Drones Against Smugglers",
+      "one_sentence": "Tajik Border Guards are deploying drones to intercept Afghan smugglers.",
+      "risk_tags": [
+        "smuggling",
+        "illegal trade"
+      ],
+      "countries": [
+        "Tajikistan"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "b4f2f3fd8f2c",
+      "headline": "Drone Incidents Disrupt Dutch and Belgian Airports",
+      "one_sentence": "Drone incursions have disrupted operations at several airports in the Netherlands and Belgium.",
+      "risk_tags": [
+        "airport disruption",
+        "security threat"
+      ],
+      "countries": [
+        "Belgium",
+        "Netherlands"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Over the past two days, drone incidents have escalated globally—spanning crashes, smuggling, and terrorism concerns.",
+    "linkedin": "A significant increase in drone-related incidents has been observed globally, highlighting pressing issues across conflict zones, border security, and law enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-25"
+}
