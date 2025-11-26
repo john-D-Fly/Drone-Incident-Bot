@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA probes Amazon after delivery drone snaps internet cable in Texas - 104.1 WIKY",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2t4QkJPQ0lpM1ZDbUNDV0o1NlREOV9KUUlGVjVPNzhleVhJeW5PZ09MVk9VUWwta090R2dTdHJNUWpqXzFoMEp4RV9nb2hKZ0F1QzZwUjhoUFFqX0NNN3EzTG5wN0RjY3h2eEVGWnVRdk1JemNkekFYVFptcVdNZFFYMlNQV05jclk3MXp0NnZNUWZ0eThXMzZONVN3dw?oc=5",
+      "source": "104.1 WIKY",
+      "date": "2025-11-26T05:58:55+00:00",
+      "description": "FAA probes Amazon after delivery drone snaps internet cable in Texas  104.1 WIKY",
+      "query": "drone incident",
+      "detected_at": "2025-11-26T06:08:13.723489+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "93c1cf95bacf"
+    },
+    {
       "title": "FAA probes Amazon after delivery drone snaps internet cable in Texas - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0JGZVA2ZW9jdkJmWmlkYmFFYjJLMjhDSlhxYWtQWnFYMFUzcG51RmFSQjBWakZPa1g0MkZhUHBQSUxtb1QwVjhVUDhjdnQ2SnA3cmlFWHYxVFZ5ek5WYnhQUEZKMTZRek9BWFVrVy1wZW9FSXJpOWt2RVJWMGx6ajdCQnNaM1NzbUIxWkNYdE1uUFdybkZlc0d1V1ZSSlMtaHZDNVVHOHY4ZlNWbHo0YzFWU25wSk03?oc=5",
       "source": "The Straits Times",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "391aa12d517a"
-    },
-    {
-      "title": "Russian missile and drone attacks kill 4 in Ukraine as Zelenskyy pleads for air defense - The Tribune-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN0R2ai1fU1VsaFZ4U21ReTRYcHNEMUh1U0xIdHVINVBFOEVPRU5rdmpiTjdGLVBFR2Q1SEJNeU9ZNF94Q0ttaEhHaURjV2F3SUpDLTVwbjZ1T2RwLWJFSUZwSXQ0M0hIc0pvSzJZMk1hRHdtcG1nd3poZm9XUzZCQkx0V2c2OW40YWd3RzQtWER4aktPOEc3VlhocE1kTFFfSWdpRDBSSS1IcmZBYXlkbDF3endyY3JVdkxBUFZyQXI1cWpDU042YVoydTNzc1JtTDY3eENmcnBHdG5qM3E3dEJ3bjcxTGxMT245THd3RENadm9UdllJcUJB?oc=5",
-      "source": "The Tribune-Democrat",
-      "date": "2025-10-25T11:20:00+00:00",
-      "description": "Russian missile and drone attacks kill 4 in Ukraine as Zelenskyy pleads for air defense  The Tribune-Democrat",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-25T15:04:56.458434+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "40c28568210c"
     }
   ],
-  "last_updated": "2025-11-26T05:06:14.422026+00:00",
+  "last_updated": "2025-11-26T06:08:19.763119+00:00",
   "total_count": 1000
 }
