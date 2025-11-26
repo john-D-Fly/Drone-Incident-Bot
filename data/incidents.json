@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Amazon faces FAA probe after delivery drone snaps internet cable in Texas - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzJ1SnEyUENBSlFScjJQTmxtbGR6OW8xRnZtenVESUI0RHY4QTZWR3A5VjZJZlAxeVRfYmNSWjRtTjZKSzRFNjRJMXJtT1lMVV8zOUEyQml3UTc5Mm1PazVoY1BxbmlYMnpjUWQ3MXR0UHdOMzNQSFJGclZDWExyT3hyRkpnd3Z4WVBv0gGQAUFVX3lxTE1FaDlDZVI5QUdGNHhvQy1RQVdNR2dyNU4wTGNnYlY0VFRqRHpNZndhT3d2S1BNSC1SUXhLS0JZQ3pST1pvSTRaR0Z1QnJmTFluOFBEdHh2RmJfeVp3VHJLR2Rac2UtdnhYamt2VTIwOTFkUHRNdFo2QW9pQ0FHNkxMTVpPU2dfOHdqYktsTzRxQg?oc=5",
+      "source": "CNBC",
+      "date": "2025-11-26T02:11:00+00:00",
+      "description": "Amazon faces FAA probe after delivery drone snaps internet cable in Texas  CNBC",
+      "query": "drone incident",
+      "detected_at": "2025-11-26T02:36:36.707071+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "3bb3458d9694"
+    },
+    {
       "title": "Taliban vows to respond after alleged Pakistani strikes rock Afghanistan overnight - Washington Examiner",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkVZZm90NTVXdzdySDBpY25iSXdLeFVIVFhTSE51M2NsVVlLcGJRSmU0c3VuekFLSV9TM09nNmVKOTcwaXRrN0F3WW1xQTNpbkR0NjZMbWd5U0NPRlVzZDMtdDZpS295eVNTaFM1SVJHZ3plU2VibG1HN01rdHhqaVdaUlVDUnNibWg2OW1ya0VsMEFxSm1zaWFLMHRhYVdJZXZHODhLS3E0QQ?oc=5",
       "source": "Washington Examiner",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "572d1f587b1c"
-    },
-    {
-      "title": "Can you shoot down a drone hovering over your property in Vermont? What the law says - Burlington Free Press",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcjNNencxcHBpRWRuRV9WQU9UaFJqenJBV1N2dFRGUTF0bzkzSnIwUFRZQzEta0lnbTB0SEVoeWVUanQ3M0xkOHNBcHZiWnJOMXgyU0FCWTRTa3hyREVMNWlqQ3RVSWNfR0REUE43NEVvak9lcEJQb3FNdXVEdzFGeVpfRzhyVFdjVjNBUWVQbmlrUU5HN2YtWnZ0RXZ4a3lIQk5OazFPQ0V4aXBYaVAwWExJQXF1XzJTbjBNV3dTcy01NWtSTWg5YVhER2xPWXFLenZv?oc=5",
-      "source": "Burlington Free Press",
-      "date": "2025-10-25T08:49:44+00:00",
-      "description": "Can you shoot down a drone hovering over your property in Vermont? What the law says  Burlington Free Press",
-      "query": "drone illegal",
-      "detected_at": "2025-10-25T12:08:04.432727+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c5ef7b39a685"
     }
   ],
-  "last_updated": "2025-11-26T01:33:36.941638+00:00",
+  "last_updated": "2025-11-26T02:36:43.225969+00:00",
   "total_count": 1000
 }
