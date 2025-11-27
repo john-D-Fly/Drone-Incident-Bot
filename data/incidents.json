@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Moldova displays Russian drone, summons envoy over 'unacceptable' crash - Citizen Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNN1FqN2J6MU9odTByRk5RblNES3QtLVM1M1lCQktzcFJmdDU5b1pmSS1zeTlIY3VJZERvdFdWZldqRU5mMGx2N2xWdGt2a1ZKd3ZhNmY2T3NXOW5xRXh6WU41Y2Z6VjVNOUFZQkZWOW5Qc1JKek03Q0U3VnNWNkN1aFJTWVgzVE5udnQyc0pfOVN0cGZKeVA5MWdicncxalFreFd1NjBGM2xyby1ReEtnX2ZKMXBMTUZ2Ui1tM0tzU1kxRWZnbHduR2tlOWFJNWV3YUMtT3Nucy1LUE9wa2dmLXlVVE10OXFGMVFCMl9IR0xKSVdYOWc?oc=5",
+      "source": "Citizen Tribune",
+      "date": "2025-11-27T22:07:45+00:00",
+      "description": "Moldova displays Russian drone, summons envoy over 'unacceptable' crash  Citizen Tribune",
+      "query": "drone crash",
+      "detected_at": "2025-11-27T23:05:13.266883+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2949ee41b476"
+    },
+    {
+      "title": "U.S. Air Force shoots down its own MQ-9 drone near Korean coast - Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzJ6cDFxR2NFQmc3TkQ0WkVxZTJQcFVjd3EzZG5OUXgtMlluaEhIMEo3VldHbm1LVkw2TTFSaGlwUk5DMkc2Y2d3RmN5WW9HbWc3cTJiNXItbS1OdDFRWE9uWTB5S1JpaENVdjJjU2VnSzBOZGp4UWtlQUk5TmduMTRvZjJoRHg2Y0xaeHFxcmJZQdIBlwFBVV95cUxPZmNRaFhhMU55WW5aQWtNV1NpaEN5TnpGWG5WN2VKLXAtUnNaVmlDMjVOUnBsVGRjX2hBQ1ZpczQwelgyQjNpc1pRWUZpSGZ6enlYb1ZOclFhS29RYzlwS2VBdXdZTXhyOUF6bDU2eHdxcTNXYXczY3UtbDF3bEdqVFgwNVktQVluOWkyYUpuVmVtcWZraV9R?oc=5",
+      "source": "Defence Blog",
+      "date": "2025-11-27T08:20:41+00:00",
+      "description": "U.S. Air Force shoots down its own MQ-9 drone near Korean coast  Defence Blog",
+      "query": "drone incident",
+      "detected_at": "2025-11-27T23:05:09.953230+00:00",
+      "location": "near Korean coast",
+      "category": "other",
+      "id": "294ffb0430a2"
+    },
+    {
       "title": "Meet ALPAGU: Turkey’s Backpack Kamikaze Drone That Wants To Crash The Party - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ROHRhMWpTNVBRdXl5NEs4VmRIX2xncUNWaHhuSzYyR3pQMk9Xa2F2b0ZIOVZsbk9ScVNDTjExZDJqMTNEanhSTm5mUnBmRGJtZTUzd2J1VEcwemxxcFdsSFctclE5MkJwdlMxaGNlQmhMeTdYUk9HTUZWRzE?oc=5",
       "source": "DroneXL.co",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b3031a276cd3"
-    },
-    {
-      "title": "Israeli forces intercept drone smuggling arms across Egyptian border - jns.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWxJUjhfYmh0SkNiM0JDR1I0RjQyNnYyNUY3bnV2YU1qbzhlSTF3TW5aX3c2a19hQlhRRUtVYTdYTTlVZWRES0l2UlVkM3N1VVJtVXE4N0htZmMtZzc2djUyTzBJaElkbDJWTnJMcFV0UTgtX0tpOVVxeVdLUzJNSEZMQVlTQkQwYjRvamNGLXJuNndBWTF3OQ?oc=5",
-      "source": "jns.org",
-      "date": "2025-10-27T11:15:01+00:00",
-      "description": "Israeli forces intercept drone smuggling arms across Egyptian border  jns.org",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-28T19:05:07.134422+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3531f0cb7fd0"
-    },
-    {
-      "title": "A ‘Not-Quite-Ceasefire’: UNIFIL–IDF Incident Raises Concerns of Escalation - The Media Line",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZE9FMWlRc2xFMGRLV21wQVZjV09OcUd0WTR6V2RVU2JVRnZPeGRjeWE4YVVod3FxdVlzUkg2eEZ1R2dKY00tc0ZMc2t6WEtLU21OeXFTdnBzSjJKaVRwYzFwY2JqeGo5UFlORmg1bHVVNWY0bFBJRHBOSDB4YXk0M0QxOVlaamdpbkFreVExbVJrNU0wQ3hmb0E0SVRweGhBdk5mSjEwTFRnZktK?oc=5",
-      "source": "The Media Line",
-      "date": "2025-10-28T12:59:01+00:00",
-      "description": "A ‘Not-Quite-Ceasefire’: UNIFIL–IDF Incident Raises Concerns of Escalation  The Media Line",
-      "query": "drone incident",
-      "detected_at": "2025-10-28T19:05:05.918243+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b40e7b798e41"
     }
   ],
-  "last_updated": "2025-11-27T22:05:22.184878+00:00",
+  "last_updated": "2025-11-27T23:05:16.617442+00:00",
   "total_count": 1000
 }
