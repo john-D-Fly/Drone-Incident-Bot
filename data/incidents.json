@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "US envoy blames foreign-backed armed groups for Khor Mor drone strike - 964media",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0yeTFUOE5iV2RmeWJmM09ZUGN2c0hXdmVYZERqWXNabDVzcVlwV2RxbjdxRWVEVE84QVkzM1pSeTlRcjdv?oc=5",
+      "source": "964media",
+      "date": "2025-11-27T14:27:27+00:00",
+      "description": "US envoy blames foreign-backed armed groups for Khor Mor drone strike  964media",
+      "query": "drone illegal",
+      "detected_at": "2025-11-27T19:04:55.232828+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "deac00668db2"
+    },
+    {
+      "title": "Army drone crashes into Hansi factory after bird collision - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnhUeGRBMTU1UUJhREtfc3pIS0huYmJIbXJiUDdUdjhZeEhyRGJUNlB1WE4zRjZhR193WVJ3S3gyXzFOYXBiUHdzWmFiaFhBVThUOVhwSGttczRrQlpBcndoOVpZbXpLdjZzYzhTV3VFaDJNS0xjUVVBdTF0d3RMWWllZV9LX2Z2YVNXTVFwUzRaZ0xtRHY0R0l5azVKZWQyMERDaDdPWEtZZDdGWXdQQzNrMHFQeWltaHctOF9UbVEzYVVEWEhlc00wdGJlSzlheVHSAdcBQVVfeXFMTUt3UXFwU0w4cFZLWk1iSVF2VFpVaFFVeENGTG9ka1d4cmN5RFpVeF8xdHRfWDhRQTdXUngxR1NURm9vS1p2UEJHVEhXQzNtNkllWFB0N1U3a0ZRd1pWbndkeW1Va2NpNmtScmJERk1STzdYb0tOU2NFR2tCNlZqRkJFXzBVb2JSWVBra2pEVUMyWlZNWU83SlF3Wm5oNEcwRGVYS0xSVGgtYjd2R3ExekVMcEVJNU53WDJsVUlGZDNnNjN3eGxGS3U4TkVxRE9GeWM2VFVMVDg?oc=5",
+      "source": "The Times of India",
+      "date": "2025-11-27T18:07:00+00:00",
+      "description": "Army drone crashes into Hansi factory after bird collision  The Times of India",
+      "query": "drone crash",
+      "detected_at": "2025-11-27T19:04:54.566162+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7d6e59ac41af"
+    },
+    {
+      "title": "Anduril faces setbacks from drone crashes as it sends drones to Ukraine - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3JkeXQ2TnhROEtTZmpSQmNHNU82bWFIN2p3c1FzN3hwZWFad29manVZS2ktdDN3dzlKcUJ4d1V1VjU2czVzVXN4by1rRmhDQW9QbVlzTlp3ZXVQZTJmNzBhNWxkZU1aWnJNMTRCTjF5OGVqY05PUE1nSmZfb3F0ODR0eWpVSEdueDBJZ0dFQTVnT29lcTZza1gxWk1sOEphSExlalBLZmdsalJRV3JzSmRkT2EwQWdpUE92clRUNTRrejBsWFhjSlhLVQ?oc=5",
+      "source": "The Columbus Dispatch",
+      "date": "2025-11-27T18:37:14+00:00",
+      "description": "Anduril faces setbacks from drone crashes as it sends drones to Ukraine  The Columbus Dispatch",
+      "query": "drone crash",
+      "detected_at": "2025-11-27T19:04:54.566162+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a4d91501c6a6"
+    },
+    {
+      "title": "Moldova complains of unacceptable intrusion of Russian drone - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWF9sajdDNk8weWJMck1JQmdjNkFoNlRnc0E3ZDVqQWw1M1VvODNvM012Z09EV0lndmFfQXdpVzR6N2FyYXRjTGxiSnNxZWxkUVNSaGZ4ZFYtdlJ6di1oTU5OQkRaTGpHOFJsZTZhWDViR1NvODBwRVBCVWVHbkVQb1ZnY2N4eThHd2JpcHdxQmxmNUVkMjNCLUlxRTQ?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-26T21:28:43+00:00",
+      "description": "Moldova complains of unacceptable intrusion of Russian drone  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-11-27T19:04:51.081782+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4a4d0c01595c"
+    },
+    {
       "title": "Cuttack administration imposes Rs 12 crore penalty for illegal sand mining after drone survey - Times of India",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3pSWV9OMHF3d2VYdU5FaHJHa3JaVE9NQUhFb2oycTNDbGtTSmwxYXNIZ1V2MlR0QXZrVlE2RXpXQm1PaWs1b1ltZXdpNncxaXRTZUdLU0U4Z21NbjIzS2lNbUctSVNlMWVmbUtrdWJ0ZHBpVjMwYjE2dEtJT0p3c2RrMmJYS014bTVEal9sMnJWY0FETkhzbTNISzVVVXhaZTg4eXFEblVtQjA3eWU0RUljOUgwRmQxdHRtWHJGNXV1eEtyZTNJNVotTE90QTJRWkVzVzgyU1JBU1JoMkdSSFY1MmxPUDlNUjEtRU81cmZLN1JBMmV2WmxpbFptWWRZaHc?oc=5",
       "source": "Times of India",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "ec8fb279cac5"
-    },
-    {
-      "title": "A ‘Not-Quite-Ceasefire’: UNIFIL–IDF Incident Raises Concern of Escalation - The Media Line",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZE9FMWlRc2xFMGRLV21wQVZjV09OcUd0WTR6V2RVU2JVRnZPeGRjeWE4YVVod3FxdVlzUkg2eEZ1R2dKY00tc0ZMc2t6WEtLU21OeXFTdnBzSjJKaVRwYzFwY2JqeGo5UFlORmg1bHVVNWY0bFBJRHBOSDB4YXk0M0QxOVlaamdpbkFreVExbVJrNU0wQ3hmb0E0SVRweGhBdk5mSjEwTFRnZktK?oc=5",
-      "source": "The Media Line",
-      "date": "2025-10-28T12:59:01+00:00",
-      "description": "A ‘Not-Quite-Ceasefire’: UNIFIL–IDF Incident Raises Concern of Escalation  The Media Line",
-      "query": "drone incident",
-      "detected_at": "2025-10-28T13:13:28.098094+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e36e4ad51ede"
-    },
-    {
-      "title": "France responsible for UNIFIL decision to shoot down Israeli drone in southern Lebanon - Le Figaro - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZG9QZmpqTEdwVnROLWtyZ0RDWndIa3BDZmpYLVNKN0k0M193Vk5hRVYwa0t6RlJQNFZKQmlSd3diWktuTUdSMk1jRm9TTjYxcVJ1eUtCTERGMEN2?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-10-28T09:47:44+00:00",
-      "description": "France responsible for UNIFIL decision to shoot down Israeli drone in southern Lebanon - Le Figaro  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2025-10-28T13:13:28.098094+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "160933b4ab96"
-    },
-    {
-      "title": "UN investigation exposes Russia's drone terror against Ukrainian civilians - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkxJcDF5bVBRLUtNb1lUVmJ1Y0NkdmdVdEFVX2dXT0dKSWNIcjRBbV83MzlMRVRNWVd6VVJ4dWdJQlRlZEhmUWhCbE1hcjhyeXNoWlNZRFJ3QWt3T0ExczNlVW5hc011ektoVVkyTlo4LUNaNXNxNkh1RndHbWpQRjM4REoxdk1keEtXeU1tcFB3NnhtSi1ielJB?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-10-28T11:38:30+00:00",
-      "description": "UN investigation exposes Russia's drone terror against Ukrainian civilians  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-28T12:09:20.813590+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "263dd49693a4"
-    },
-    {
-      "title": "UN peacekeepers shoot down Israeli drone amid tensions in Lebanon - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTNHNDFULTl4bHhtN05fUWlfdHo4N0VZWmh1N1JjbHMzMkhsOW82NWtyY3Z1aEZBc3JldDNjcnNYLTZiU01oX2FPanAweGxtckFsR0pNRVpESlEteEhkWU5uMlRxS3RQRzBRNXRLS2JHZGhDNnJiNVlUOW1vNHRtUFpIOHNaS1dMWkFTbTdwN1FuUVEyRU92MG1ScDMzSFNl?oc=5",
-      "source": "The Independent",
-      "date": "2025-10-28T10:36:00+00:00",
-      "description": "UN peacekeepers shoot down Israeli drone amid tensions in Lebanon  The Independent",
-      "query": "drone incident",
-      "detected_at": "2025-10-28T11:04:57.495585+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e6d4080b0fb2"
     }
   ],
-  "last_updated": "2025-11-27T18:07:53.409405+00:00",
+  "last_updated": "2025-11-27T19:04:58+00:00",
   "total_count": 1000
 }
