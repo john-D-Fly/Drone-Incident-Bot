@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents have intensified across various regions. In Texas, multiple reports have emerged regarding Amazon drones causing internet outages, prompting FAA investigations. Meanwhile, tensions in Moldova have risen as unauthorized Russian drone incursions trigger diplomatic protests, with regional responses from Romania and NATO. Notably, illegal drone drops have contributed to prison escapes in France, highlighting smuggling dynamics within the context of regional security challenges. Law enforcement efforts to counter smuggling have resulted in arrests and interventions in various countries. Additionally, the U.S. Coast Guard is enhancing its surveillance capabilities against drug smuggling using drones, emphasizing the dual-use nature of drone technology.",
+  "totals": {
+    "airport": 7,
+    "smuggling": 6,
+    "crash": 7,
+    "arrest": 2,
+    "terrorism": 3,
+    "other": 13,
+    "total_incidents": 75,
+    "by_category": {
+      "airport": 19,
+      "arrest": 2,
+      "crash": 13,
+      "interference": 2,
+      "other": 29,
+      "smuggling": 8,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 2,
+      "drone crash": 14,
+      "drone illegal": 8,
+      "drone incident": 30,
+      "drone prison": 3,
+      "drone smuggling": 8,
+      "drone terrorism": 7,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Incidents in Texas",
+      "rationale": "Increased reports concerning Amazon drones affecting infrastructure.",
+      "incident_ids": [
+        "2e04a7669893",
+        "59f3bd8cfe2a",
+        "8516d20297c9",
+        "36f381257ced",
+        "3d204edf8917"
+      ]
+    },
+    {
+      "topic": "Moldova and Regional Drone Tensions",
+      "rationale": "Heightened diplomatic tensions related to drone incursions.",
+      "incident_ids": [
+        "8684b042fd42",
+        "b74de25513a6",
+        "46bd937fe22e",
+        "dd3234acee6b",
+        "b15f1fce1b6c"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Criminal Activity",
+      "rationale": "Notable instances of prison escapes and drug smuggling linked to drone usage.",
+      "incident_ids": [
+        "66abc454f1ce",
+        "0248c345b5c9",
+        "dc7cec7e2e4e",
+        "8b143451cf62",
+        "2d34f00f85c0"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "2e04a7669893",
+      "headline": "Watch: Amazon drone cuts internet cable in Texas, triggering FAA investigation",
+      "one_sentence": "An Amazon delivery drone caused a significant disruption by cutting an internet cable in Texas, leading to an FAA investigation.",
+      "risk_tags": [
+        "airport",
+        "infrastructure"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8684b042fd42",
+      "headline": "Moldova protests illegal drone incursions amid regional tensions",
+      "one_sentence": "Moldova has protested against unauthorized drone intrusions while regional tensions escalate.",
+      "risk_tags": [
+        "other",
+        "international"
+      ],
+      "countries": [
+        "Moldova"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "66abc454f1ce",
+      "headline": "Two inmates escape French prison using drone-delivered saw blades",
+      "one_sentence": "A dramatic prison escape in France was facilitated by drone deliveries of saw blades.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "France"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "dc7cec7e2e4e",
+      "headline": "Contraband stashed in Maximum Security prison air vents",
+      "one_sentence": "Authorities have discovered a stash of contraband hidden in air vents of a Maximum Security prison, potentially facilitated by drone drops.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "85d7f8afe81b",
+      "headline": "Drone helps Redmond police locate injured elderly man after bike crash",
+      "one_sentence": "A drone was instrumental in helping Redmond police locate an elderly man who was injured after a bike accident.",
+      "risk_tags": [
+        "crash",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-27"
+}
