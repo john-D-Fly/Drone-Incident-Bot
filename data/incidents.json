@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Exclusive: US defense firm Anduril faces setbacks from drone crashes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnFhVTNnYzNFd3N3QVhRUWp3R3lPMmlIbV9CNXBMM2YxMUFuUEtpS3gyYndkRWQtck11UU1XZ3VPT01GQjhYcUt6ZGUxN3ZWSDRuSER6bFlGbmh5d2xyN0E2am5JbGNQbVZwckF1SUE2ZFVJTC05OGFhaEh5ZXlsVllLLXI5U2diXzU4WGNpNDF5OWRTRjlGenlZZHY1UzI4TER0V3ZMelpMX3RiRU9IT29WQzZJZw?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-28T09:02:46+00:00",
+      "description": "Exclusive: US defense firm Anduril faces setbacks from drone crashes  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-11-28T11:05:09.736396+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3c628776a170"
+    },
+    {
       "title": "Anduril Faces Repeated Military Drone Crashes During Tests - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWRKZFZncHVURlF2S3AzWm4wQlJ3ZVVXbHNYeTB4ZFpIck9fWjI0bjhPV2d6Z1lWTWg0bjI0cWhnVTk4Q3FSNHlMeDRiZjA1Y3pVaE9xS0VYWHhaVVlTdU1reXo2b0VhMlBPTEMzU3JJNjZvTG1LQk1idzIzYTh5T2xwUG1yNjN0VE1qOUttYWxwbW1maVgxNm52WWxwUQ?oc=5",
       "source": "Technology Org",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "0dff456d93a6"
-    },
-    {
-      "title": "Deputies arrest Florence man after standoff with armored vehicle and drone - KVAL",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFZKVHhOa3pkX3lodGJNMTNveVRZbS1TWUtSckFFVzg4a04wOUVmanJKVllST0dYSEwxUnlZVU5iM2pjOFFrUjlhcWp3bzdoUFB6cnlIOXlhUWtkTDNzWHNReTBRTFBmdEwtNUkxMl9PVmVadmVXT3J1dmVzc2lsc1pyekxjaUNKbllmUU8xZ0FDSmhJUHdXQWlCel9XbjA0MnM4aVJoVUFxYzRCdndTX1REREJLY3B3SnhLT2NuRnRUVWdydld0Z3l3TDZWRXQ4Y3dr?oc=5",
-      "source": "KVAL",
-      "date": "2025-10-28T22:30:00+00:00",
-      "description": "Deputies arrest Florence man after standoff with armored vehicle and drone  KVAL",
-      "query": "drone arrest",
-      "detected_at": "2025-10-29T00:23:18.482172+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "67ae4d6f602c"
     }
   ],
-  "last_updated": "2025-11-28T10:06:29.479610+00:00",
+  "last_updated": "2025-11-28T11:05:15.609783+00:00",
   "total_count": 1000
 }
