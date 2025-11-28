@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "An Amazon delivery drone snagged and cut an internet cable in Texas last week. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWZaUGZzdmk2dHdNNGk5NmNYNFE1cHVhSUJIV2hORjJWRWtYVmdudXVHLWdkS3oyTXR0elhOd0pXUUdLVktBTm1RM1RYUEo4VTRCZ1k5QXBBa0pLM0VqcVV6SkpHRDlUVDJxV0JoZGxZSnhPbEJCY1VBSFBkSFBVYTV4OWFza2JFMXdxY0ZPX1k2b2wtUDctMDRIMWdWUDdEcTJV?oc=5",
+      "source": "The Verge",
+      "date": "2025-11-27T20:58:55+00:00",
+      "description": "An Amazon delivery drone snagged and cut an internet cable in Texas last week.  The Verge",
+      "query": "drone incident",
+      "detected_at": "2025-11-28T07:05:57.172655+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e01b1f4f6c6a"
+    },
+    {
       "title": "Scene of police incident cleared after crews deploy drone in Cumberland County: dispatch - local21news.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3pheDk0R2x4RGlxaUtfNHBlcE0yd1o2QVQ0UTU5cUo2RERFZW5EOGRVWnE0cW42SkpYMmg0aWZZWDczUHdBTElpZk5mZGVqRDlUU3ZQcUpVSTJQOXFBYWd0NllENDdNeHN4aDVtQ2hCOXlySXV1VU16bDNpX3N5ZXhXcDNSMDFlazlnMFd2ZWM1eGtJaHRLNjlDU3kyYVdpM0NYTW5RRVp2Y3M?oc=5",
       "source": "local21news.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "eab9fa2d7730"
-    },
-    {
-      "title": "Authorities disrupt drone contraband drop in Johnson County, seize drugs and gear - WGXA",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQblNmNVhmdTdZWTFheG9xTHd0NzFxT1ZzeHY5Um1taGt4UXhFTDBydkVpLVhPZU9QYnFyOW1UTnc1MERUcktCdWtCWHpVaGgxM0dIQ1dvU29DQ0tqa0RjLTFRU2U2cE5MaWliVlc5QkNma0s3d2FtZ0RnTzZUUjc1VEp3MjV5RlV4OFJxVkVNWXl4Q0ZHQlNVUDRuTUZvakh3QU12MVZjODdpUC1JVEZ5S3hEMGd0bmhlLTJfU3ZQaTRCaFZpcGU1RWFOMVdGQy1pdnIwdHg4bXFUcWdWenA0OGYtY2djZUYzMFQ2U05rQzdZMkhGNHlncjY4SHdsX1RTUXR5aFZESEhMVjEtVkl6LWdXYXpZVHNyQVlEejdhU0JWSDJXX3dzVHdRT1NVY1YwRGZIRFgzZHU?oc=5",
-      "source": "WGXA",
-      "date": "2025-10-28T00:12:52+00:00",
-      "description": "Authorities disrupt drone contraband drop in Johnson County, seize drugs and gear  WGXA",
-      "query": "drone prison",
-      "detected_at": "2025-10-28T21:05:17.500775+00:00",
-      "location": "in Johnson County, se",
-      "category": "smuggling",
-      "id": "794c4a19b702"
     }
   ],
-  "last_updated": "2025-11-28T06:08:20.623721+00:00",
+  "last_updated": "2025-11-28T07:06:03.452517+00:00",
   "total_count": 1000
 }
