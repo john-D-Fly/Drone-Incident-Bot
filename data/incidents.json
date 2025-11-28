@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Eglin Drone Failures Put Anduril Under the Microscope - Mid Bay News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlNWYmFrckZhdFVvMjV2cGVOMXBsa2s5SWtyM0tVX3lTSGhWeXNUY2o5dFA3ZnFBdFZwUGJFeTdHbTRycUJQWGM3Mi1BS01PWEJKNm1ocmFpRDh3aVZwOTRlN2NPeVBPVFVIOEYzeUpuUmxBTmJvNFBTeEFkU0tHWFZmSkt6a2hV?oc=5",
+      "source": "Mid Bay News",
+      "date": "2025-11-28T16:55:12+00:00",
+      "description": "Eglin Drone Failures Put Anduril Under the Microscope  Mid Bay News",
+      "query": "drone crash",
+      "detected_at": "2025-11-28T17:05:01.553406+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7ccce47efe9c"
+    },
+    {
+      "title": "Army thwarts drug smuggling attempt using drone - MSN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSllUU1hWc0ZYRG5nNDZScVBaWGdOUVNUQXpramdGaXM5Q2ZRZXpwYXlqSWdCT0QxMUhOcjhsRXBGY0h2SExab01OTWVmaGlHcmJvOW1uRVdYSE0yT05fbmtRS2REYTJFRGRKZTZxcUJKTVdRZlRlaThhOGs5VnpFXzByc216VTBfdDFxeHBXaVhKd0tUaUpTM1NxeHpCODBI?oc=5",
+      "source": "MSN",
+      "date": "2025-11-28T06:05:52+00:00",
+      "description": "Army thwarts drug smuggling attempt using drone  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-28T17:04:59.321297+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "2308807260d1"
+    },
+    {
+      "title": "Athena Security Introduces AI X-Ray Drone Detection to Protect Critical U.S. Infrastructure - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdVlnUkdzNWtUcU5fVDhqcnJKQktfVDd4elJLR2t3eGh4a2x2RXhoRHNjMnRmbFdDeWNaYU02U1U0THhkTi1CTTJPMlZvSEE4by1UU3J4ajhvdXhVMzlZcXlrcjdrNnV2ZDZTb0RfenVSa055QmtiRHNoRFRDcEXSAYQBQVVfeXFMTlZUSzlFcEtVQUhaRkxBOF8xV2l2NktKSlh4cUIzMlMxaUFxZ0ZQNlNQaUR2enlfN29ZMUZ4U2taZ1N4R25nRTVXa1NhWUlSdml5NHoxTWtVUmpQb3lYWFNIRjNLQWJPNDJvVm5QYTFsUkc0T1JjX3htaXhCN2pLVG43UFlN?oc=5",
+      "source": "Dronelife",
+      "date": "2025-11-28T17:03:51+00:00",
+      "description": "Athena Security Introduces AI X-Ray Drone Detection to Protect Critical U.S. Infrastructure  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2025-11-28T17:04:58.073303+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "302bc3958a2b"
+    },
+    {
       "title": "Iran condemns drone attack in Tajikistan as terrorist act - Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDJZd1EyZk9VSXg4cE5vMGJ2YUV2YnI2MC1LSE5WcmZkMXppemFYNHBYYzBVSi1ia1B3QkZFa2Y4WVg1dndEa014ZENMQ0RNRG9LLTFmN3lVT0RQcU56R0t5NzlQR3dYbHI0N3U4WDVVcW5jX3VOX084UUVPNXBGZ3BnS0g?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "eb9f14ab69cf"
-    },
-    {
-      "title": "Israeli military seizes weapons smuggled from Egypt - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WX19BMWt0TElQcU50LVViZEhMSGNtZzVKTkJma1NnclVCU2lkeVRPME5lRl9CWVB2QVFNWGhOVjhVLWRNUzlGOTR5cXlwV0JZYldOS2ZZZ1VCeDZ6cHY2UjFoWUFtVk95XzU3T0FR?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-10-29T11:27:35+00:00",
-      "description": "Israeli military seizes weapons smuggled from Egypt  The Jerusalem Post",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-29T12:09:19.545094+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c12b0179646b"
-    },
-    {
-      "title": "Drones spotted over military base in Belgium - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb25lUW5HUTBqOFFVQm9ybnJ2RzFSNER0aER2Smc4Y3Jpc1JNa005Nko3OWE0a0NHbkZCQWV5RDFlenZYZDNOaXE4U2xkZ01JcHp2ZWFmUi00eGVfLTk1UTR5NlMtOTgwQ0ZDMVJoQXE1Q3ZUMTFQTUgwdkM5WFlzaUt2S3dhQXpINWFIbQ?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2025-10-29T10:09:31+00:00",
-      "description": "Drones spotted over military base in Belgium  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2025-10-29T12:09:18.180356+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8db738039563"
-    },
-    {
-      "title": "Russia massively strikes Ukraine's Chuhuiv with drones - Warehouse destroyed - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0ZoVWRSUHhGUjI1WGdVZUUxb1lXelBzWkE3TkZTeVpKU3hPUFd1TjFBUnBVQUxTZVc3c19mM3V6Tjl0SEZqTnNVM0F3dkdVY01XNXMyQl81dmozZG9XQ2FDNGZ4ejI0eU03UXlXLVJUZGV4My1GQWpOX0JScG01T2hmTlpTRXlwVmdLWUJWTF9JVFRT?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-10-29T09:11:44+00:00",
-      "description": "Russia massively strikes Ukraine's Chuhuiv with drones - Warehouse destroyed  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-29T10:06:20.413767+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1ed803581b3c"
     }
   ],
-  "last_updated": "2025-11-28T15:05:34.909213+00:00",
+  "last_updated": "2025-11-28T17:05:04.510035+00:00",
   "total_count": 1000
 }
