@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Exclusive: US defense firm Anduril faces setbacks from drone crashes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnFhVTNnYzNFd3N3QVhRUWp3R3lPMmlIbV9CNXBMM2YxMUFuUEtpS3gyYndkRWQtck11UU1XZ3VPT01GQjhYcUt6ZGUxN3ZWSDRuSER6bFlGbmh5d2xyN0E2am5JbGNQbVZwckF1SUE2ZFVJTC05OGFhaEh5ZXlsVllLLXI5U2diXzU4WGNpNDF5OWRTRjlGenlZZHY1UzI4TER0V3ZMelpMX3RiRU9IT29WQzZJZw?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-28T06:02:00+00:00",
+      "description": "Exclusive: US defense firm Anduril faces setbacks from drone crashes  Reuters",
+      "query": "drone crash",
+      "detected_at": "2025-11-28T08:08:12.965296+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "0b5c44cfcd45"
+    },
+    {
       "title": "An Amazon delivery drone snagged and cut an internet cable in Texas last week. - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWZaUGZzdmk2dHdNNGk5NmNYNFE1cHVhSUJIV2hORjJWRWtYVmdudXVHLWdkS3oyTXR0elhOd0pXUUdLVktBTm1RM1RYUEo4VTRCZ1k5QXBBa0pLM0VqcVV6SkpHRDlUVDJxV0JoZGxZSnhPbEJCY1VBSFBkSFBVYTV4OWFza2JFMXdxY0ZPX1k2b2wtUDctMDRIMWdWUDdEcTJV?oc=5",
       "source": "The Verge",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "9bee625aa7b7"
-    },
-    {
-      "title": "Deputies arrest Florence man after standoff with armored vehicle and drone - KMTR",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOel9JYVIwWFd5cTFjaFdEXzJERXlqendzWXo4WWpVOFl6QUVlVjF5T09XM01MN01yYjhtV3h1SzRickpmSTJfclNlVHMyYU1GUF9MSDZKUDZWNXl5cDR5QjRINDZUOE92YXNpTlNTSi1BaW9qdlU5ODFBUFQxQ25mYUlwUUI0NEdUUjZETXV1c1BRQmJMaWZWVUNVQl9CVzUyMk9mNTV4amJKU1BJc2s3YXJyQjJaLS0zWHpqOWFfc2tQaGFoQnJYUGkwT19nUmdYS2FTcQ?oc=5",
-      "source": "KMTR",
-      "date": "2025-10-28T22:30:00+00:00",
-      "description": "Deputies arrest Florence man after standoff with armored vehicle and drone  KMTR",
-      "query": "drone arrest",
-      "detected_at": "2025-10-28T23:05:26.910835+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "eab9fa2d7730"
     }
   ],
-  "last_updated": "2025-11-28T07:06:03.452517+00:00",
+  "last_updated": "2025-11-28T08:08:15.618285+00:00",
   "total_count": 1000
 }
