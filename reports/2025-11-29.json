@@ -1,0 +1,143 @@
+{
+  "narrative_summary": "Over the last 48 hours, several drone incidents have been reported across various regions, notably in Eastern Europe and the Middle East. Russian drones have been a significant concern, reportedly flying over Moldova and Romania. Additionally, a drone attack in Russia caused a fire at an oil refinery, highlighting vulnerabilities in critical infrastructure. In Tajikistan, drone-related terrorism was condemned by Iran following increasing tensions. Meanwhile, prison escapes utilizing drone-delivered tools were reported in France, illustrating an ongoing trend of smuggling via drones. Notably, the U.S. has seen an uptick in investigations into drone crashes involving Amazon, affecting services in Texas. These incidents reflect emerging challenges in drone security and regulatory measures needed to enhance safety and counteract illegal activities.",
+  "totals": {
+    "other": 12,
+    "security": 1,
+    "crash": 6,
+    "smuggling": 4,
+    "terrorism": 6,
+    "arrest": 4,
+    "total_incidents": 64,
+    "by_category": {
+      "airport": 4,
+      "arrest": 4,
+      "crash": 10,
+      "other": 30,
+      "security": 1,
+      "smuggling": 8,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 4,
+      "drone crash": 11,
+      "drone illegal": 5,
+      "drone incident": 20,
+      "drone prison": 6,
+      "drone smuggling": 6,
+      "drone terrorism": 11
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drones",
+      "rationale": "Increased reports of drones being used to deliver tools for prison escapes.",
+      "incident_ids": [
+        "2e04a7669893",
+        "bcdde555bd1e",
+        "d28d71bc457a",
+        "59402fa5bc09"
+      ]
+    },
+    {
+      "topic": "Terrorism",
+      "rationale": "Multiple incidents of drone-related terrorism highlighted by international condemnation and attacks.",
+      "incident_ids": [
+        "fc4c906f828b",
+        "8aaf1a413e52",
+        "fc6e8f643255",
+        "fed51513dc7b"
+      ]
+    },
+    {
+      "topic": "Infrastructure Vulnerability",
+      "rationale": "Drone attacks causing fires and significant incidents impacting critical infrastructure noted.",
+      "incident_ids": [
+        "c36175b74698",
+        "90432dd74fc0",
+        "8aaf1a413e52"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e1b156f2721a",
+      "headline": "Russian drones fly undeterred over Moldova and Romania - DW",
+      "one_sentence": "Russian drones continue to operate over Moldova and Romania amid rising tensions.",
+      "risk_tags": [
+        "drones",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c36175b74698",
+      "headline": "Drone attack sparked fire at oil refinery in Russia - breakingthenews.net",
+      "one_sentence": "A drone attack caused a significant fire at an oil refinery in Russia.",
+      "risk_tags": [
+        "terrorism",
+        "infrastructure"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "4b136506a2ce",
+      "headline": "Owner of illegal drone that crashed into school playground arrested in Flanders - The Brussels Times",
+      "one_sentence": "An individual was arrested for operating an illegal drone that crashed onto a school playground.",
+      "risk_tags": [
+        "illegal",
+        "safety"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "bcf1c2f0d639",
+      "headline": "Iran condemns drone attack in Tajikistan as terrorist act - Latest news from Azerbaijan",
+      "one_sentence": "Iran has condemned a recent drone attack in Tajikistan, calling it a terrorist act.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Iran",
+        "Tajikistan"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "bd4d9e99744f",
+      "headline": "Who killed 3 Chinese miners in Tajikistan? Pakistan, Afghan Taliban push own theories - India Today",
+      "one_sentence": "In Tajikistan, the mysterious deaths of Chinese miners have prompted various theories, including drone involvement.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Tajikistan"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "8d32f9b9d9f6",
+      "headline": "Moldova says briefly shut airspace after fresh drone breach - Al Arabiya English",
+      "one_sentence": "Moldova temporarily closed its airspace due to a drone breach.",
+      "risk_tags": [
+        "security",
+        "drone breach"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the past 48 hours, drone incidents highlight the ongoing challenges in security, smuggling, and terrorism.",
+    "linkedin": "Recent drone-related incidents reflect serious security concerns and the evolving landscape of drone technology in smuggling and terrorism."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-11-29"
+}
