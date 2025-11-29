@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drones fly undeterred over Moldova and Romania - DW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
+      "source": "DW",
+      "date": "2025-11-29T09:41:12+00:00",
+      "description": "Russian drones fly undeterred over Moldova and Romania  DW",
+      "query": "drone incident",
+      "detected_at": "2025-11-29T23:05:05.777879+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "49c15da220c0"
+    },
+    {
       "title": "Kenosha County head-on crash, man arrested for interfering with investigation - FOX6 News Milwaukee",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaTROd01ERzJJMjFsc21Bb3FvWVY5MEx1Zk9NcGdhZkJBUk5WVUZhdmF2THJYbk9ZUHlDNnp6Qk9uRl82SUJBQndxTWxuVloxbUUtSElBcHFwNkl3d1BMQ0ptWVBycG5ycHo3ajR4blBObTZLWWtzVEVjTDMxc1FnWEJCY08zTEhlLWQyZzdBMUJiYW9oRVlTZlE5YUPSAaIBQVVfeXFMTWE3QkdmQ1hPRHdkci13U3hSOW81a3lEZkhkdnB0MWhMTkNIUHR4RWo1YzFZTlBienRtb3U2WURtY0VfUjdqcXpsYjFtWG9zakMzS3pROFc4dDJkZTN5aXpadE9WQlBqSmIzWkw4dVNLLWpBdGJyNW5MS2Vmd1ZtRlpMcmtnVHkwQ1pxUmR2WERqZE1UNEdwWGJrWi0tNG5MajFB?oc=5",
       "source": "FOX6 News Milwaukee",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "b0db70cb9382"
-    },
-    {
-      "title": "Polish military drone plagued by flaws after crash, report says - podcasty.polskieradio.pl",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjdGTHdZV3hNdXZpb1QzVnJZOFRlRmxVQjgwWXFnekZsTDkyNE1yYWphWXRiUTNvRHhMMzFOSkpPLXlIZndLRnFDRnZjZTFpVTBPTzhBV1pacEZOYjBsYXZwSktrb2daMVphaTlWWDR5UHlQTi1Zc1lseDFSR0duZDVWUzQyR0pHTm52b05XdGFxUEVVMWJrOXJZc2JwQkFQMWMyUlBmWlU5RDJMZWc1enVlQkg5Zw?oc=5",
-      "source": "podcasty.polskieradio.pl",
-      "date": "2025-10-30T11:00:00+00:00",
-      "description": "Polish military drone plagued by flaws after crash, report says  podcasty.polskieradio.pl",
-      "query": "drone crash",
-      "detected_at": "2025-10-30T12:09:09.456231+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ccc5e0ec2643"
     }
   ],
-  "last_updated": "2025-11-29T20:05:32.159437+00:00",
+  "last_updated": "2025-11-29T23:05:12.148067+00:00",
   "total_count": 1000
 }
