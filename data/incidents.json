@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drones fly undeterred over Moldova and Romania - DW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
+      "source": "DW",
+      "date": "2025-11-30T07:02:13+00:00",
+      "description": "Russian drones fly undeterred over Moldova and Romania  DW",
+      "query": "drone incident",
+      "detected_at": "2025-11-30T23:05:12.082575+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "91f68cca91a0"
+    },
+    {
       "title": "Ukraine war latest: 'Very productive' peace talks meeting held between US and Ukraine, Rubio says - Sky News",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS3k4UVpsZDlrZ0lhWXFOMHRRNm5MTkNKYl83ZTU5Nlp3OF9XUTl5ajAxMktIVjdjQzRNN1BTNEsyZnl2QmhuN08yelRwTEtCeE5iYm1vekJQRkRKbHZKTlYzaS1tM1RaRExiU2Jqd1ZOWmM3ZW5aTE00Y012TG1zbUZWelVQVmxrVnBGckg4X01CdXFyanpVRjJqcmVkbmZOWnJyMWxONnFiQkJMUGs2NUdIcG5MMXVYRUtBV085SXUtVndOVkJ3X09GckdsWTh1QUhIUE9xUGhwTlAweHpsUndCXzVudUxJclZjS2pqXy13dEEzRkVfV1RKZ0ViZw?oc=5",
       "source": "Sky News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "a16b58d0e565"
-    },
-    {
-      "title": "Gangs Deploy Super-Drones To UK Prisons Is Jailbreak 2 Here? - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16cl9iVGtGelFQcmdYYUsxWXhFamM0c2RucFlvMUF0dTMwVTVYYTdBaElEWjZOMnVJNHVFRVhwb05QWHpHYWVUbDQydHFZOHdUVmJWbjA5UFNHOVh6dzk5Q21tODcyQnRkS0NxWUstcFhHYzlzRTlvekVn?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-10-31T13:01:04+00:00",
-      "description": "Gangs Deploy Super-Drones To UK Prisons Is Jailbreak 2 Here?  DroneXL.co",
-      "query": "drone smuggling",
-      "detected_at": "2025-10-31T13:13:06.865857+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "58c178ba14ae"
     }
   ],
-  "last_updated": "2025-11-30T21:04:53.808961+00:00",
+  "last_updated": "2025-11-30T23:05:18.819910+00:00",
   "total_count": 1000
 }
