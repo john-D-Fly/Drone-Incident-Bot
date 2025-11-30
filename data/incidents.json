@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drones fly undeterred over Moldova and Romania - DW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
+      "source": "DW",
+      "date": "2025-11-29T19:00:59+00:00",
+      "description": "Russian drones fly undeterred over Moldova and Romania  DW",
+      "query": "drone incident",
+      "detected_at": "2025-11-30T11:04:44.231755+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a7c95ea6c474"
+    },
+    {
       "title": "Ukraine war latest: Ukrainian delegation in US for Trump peace plan talks as deadly Russian strikes hit Kyiv for second night in a row - Sky News",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS3k4UVpsZDlrZ0lhWXFOMHRRNm5MTkNKYl83ZTU5Nlp3OF9XUTl5ajAxMktIVjdjQzRNN1BTNEsyZnl2QmhuN08yelRwTEtCeE5iYm1vekJQRkRKbHZKTlYzaS1tM1RaRExiU2Jqd1ZOWmM3ZW5aTE00Y012TG1zbUZWelVQVmxrVnBGckg4X01CdXFyanpVRjJqcmVkbmZOWnJyMWxONnFiQkJMUGs2NUdIcG5MMXVYRUtBV085SXUtVndOVkJ3X09GckdsWTh1QUhIUE9xUGhwTlAweHpsUndCXzVudUxJclZjS2pqXy13dEEzRkVfV1RKZ0ViZw?oc=5",
       "source": "Sky News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "08151b7135ab"
-    },
-    {
-      "title": "Drone Sighting Forces Shutdown At Spanish Airport - Evrim Ağacı",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2FPR2FXZW9iUGEzVkM1R2Y1VU50SWNFUzFRdUtSazkzRk9GUkVwNHBYQjJRTkN4RDJZcUEzUE1LM09oMGlZMW5hWTBiTVhKeDVQX3RoMTl3RlZpWWdLLUVqbF9sSUZaZERieUlFQ3pWN0hGcGdyek5ZVmZPbGlCWXgwVHFsa1JWQ19r?oc=5",
-      "source": "Evrim Ağacı",
-      "date": "2025-10-29T15:01:27+00:00",
-      "description": "Drone Sighting Forces Shutdown At Spanish Airport  Evrim Ağacı",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-31T00:22:21.596485+00:00",
-      "location": "At Spanish Airport",
-      "category": "airport",
-      "id": "b611f1de5a18"
     }
   ],
-  "last_updated": "2025-11-30T10:05:21.039966+00:00",
+  "last_updated": "2025-11-30T11:04:51.600403+00:00",
   "total_count": 1000
 }
