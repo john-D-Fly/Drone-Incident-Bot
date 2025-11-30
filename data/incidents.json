@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF: Troops thwarted attempt to smuggle weapons into Israel from Egypt by drone - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzB3clEyTnVQOWNFSXBpWURyZFdiX19TbktqSWwxWTFrejJ2UzlwWmxOaG5scUlPN2Z0aXJaT0V1OXMyYXBDYUhPemhRdFpNY3UwLUJDc3NXMnNvYlFwVXVDbi1HSWNuN0tLZlhGdC03NGdfYTBVemhQc1RLRDNsOFotVTR4M0dTaWxnZDBsLUpIVldFMGdpenZEZXp1dEJIOXhVaVB1MW1wc1hvaXBCanJscUJxM1VUb3A0THpadFZGZw?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-11-30T06:26:30+00:00",
+      "description": "IDF: Troops thwarted attempt to smuggle weapons into Israel from Egypt by drone  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-11-30T07:05:28.871136+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "2670036bbca7"
+    },
+    {
+      "title": "Russian drones fly undeterred over Moldova and Romania - DW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
+      "source": "DW",
+      "date": "2025-11-29T09:00:32+00:00",
+      "description": "Russian drones fly undeterred over Moldova and Romania  DW",
+      "query": "drone incident",
+      "detected_at": "2025-11-30T07:05:27.121902+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d2458ac0734f"
+    },
+    {
       "title": "US drone strike in Yemen kills two suspected Al-Qaeda terrorists - Israel National News",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ybVdyanAtel9nNlNnMUhmLTJhNFRaNTRqaTZsRWRfM3VMNVE0VUh4WnpVbENTRTE4NlhDdVkwdk9QNTlLUXJteThudTdBQXA0dFZzVDVISnMxQQ?oc=5",
       "source": "Israel National News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "77152899510d"
-    },
-    {
-      "title": "DJI Neo 2 is the perfect starter drone you won’t crash - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QLWRCS2hBRDNUOVViNWdzb3IyMnhsZ1ZhblZLU1Vkd2MycFpDMjMxSWNzQVJ4NURyR1ZSeDFJYTdpMjAwM1VyMEdpOXVMT0tzakJIOFd6TTVMNjdYNTk0?oc=5",
-      "source": "DroneDJ",
-      "date": "2025-10-30T15:20:00+00:00",
-      "description": "DJI Neo 2 is the perfect starter drone you won’t crash  DroneDJ",
-      "query": "drone crash",
-      "detected_at": "2025-10-30T16:07:06.159924+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "c10b7990a351"
-    },
-    {
-      "title": "DJI Neo 2 is the perfect starter drone you won’t crash - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QLWRCS2hBRDNUOVViNWdzb3IyMnhsZ1ZhblZLU1Vkd2MycFpDMjMxSWNzQVJ4NURyR1ZSeDFJYTdpMjAwM1VyMEdpOXVMT0tzakJIOFd6TTVMNjdYNTk0?oc=5",
-      "source": "DroneDJ",
-      "date": "2025-10-30T14:27:45+00:00",
-      "description": "DJI Neo 2 is the perfect starter drone you won’t crash  DroneDJ",
-      "query": "drone crash",
-      "detected_at": "2025-10-30T15:05:50.160122+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "caf83425bdd1"
     }
   ],
-  "last_updated": "2025-11-30T06:07:57.996430+00:00",
+  "last_updated": "2025-11-30T07:05:34.241066+00:00",
   "total_count": 1000
 }
