@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war latest: 'Very productive' peace talks meeting held between US and Ukraine, Rubio says - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS3k4UVpsZDlrZ0lhWXFOMHRRNm5MTkNKYl83ZTU5Nlp3OF9XUTl5ajAxMktIVjdjQzRNN1BTNEsyZnl2QmhuN08yelRwTEtCeE5iYm1vekJQRkRKbHZKTlYzaS1tM1RaRExiU2Jqd1ZOWmM3ZW5aTE00Y012TG1zbUZWelVQVmxrVnBGckg4X01CdXFyanpVRjJqcmVkbmZOWnJyMWxONnFiQkJMUGs2NUdIcG5MMXVYRUtBV085SXUtVndOVkJ3X09GckdsWTh1QUhIUE9xUGhwTlAweHpsUndCXzVudUxJclZjS2pqXy13dEEzRkVfV1RKZ0ViZw?oc=5",
+      "source": "Sky News",
+      "date": "2025-12-01T00:21:41+00:00",
+      "description": "Ukraine war latest: 'Very productive' peace talks meeting held between US and Ukraine, Rubio says  Sky News",
+      "query": "drone terrorism",
+      "detected_at": "2025-12-01T00:28:35.780951+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7deac695d640"
+    },
+    {
+      "title": "Russian Drone Incursions Lead To Moldova Airspace Shutdown - Simple Flying",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTV1VXNoNU1BOUQ5OG1JcUdtT0IwTDVORFI2eTlNdXUxbEd0VGdHVWZaRzZDdGNHNXNVeG52SUJOcnJvZmlxaUNuOUFibHlxZzByY1JZSzhFRWdOMFNCV2pMc0ptdDZsZWcwTWV4YTJveXJYcjNKdVB5Z3V2bFVkQk53?oc=5",
+      "source": "Simple Flying",
+      "date": "2025-11-30T21:40:00+00:00",
+      "description": "Russian Drone Incursions Lead To Moldova Airspace Shutdown  Simple Flying",
+      "query": "drone incident",
+      "detected_at": "2025-12-01T00:28:30.381022+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e5d68b97d12b"
+    },
+    {
       "title": "Russian drones fly undeterred over Moldova and Romania - DW",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
       "source": "DW",
@@ -11975,32 +11999,8 @@
       "location": "in a Wave of Airport Shutdowns, Dr",
       "category": "airport",
       "id": "3058c381696f"
-    },
-    {
-      "title": "Drones, oil and escalation: Ukraine’s deep strikes impact Russia, altering war calculations - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NZ1Zfb05FanVKWktYNGtGc3pQajFmS0JGM19wdEt4a3JjajZTUkk5cEJmeUN1VGc3SzNvNVFLZG9Wd29od0xvWW1yVWRBS1ZQU1RDMg?oc=5",
-      "source": "Arab News PK",
-      "date": "2025-10-31T07:30:03+00:00",
-      "description": "Drones, oil and escalation: Ukraine’s deep strikes impact Russia, altering war calculations  Arab News PK",
-      "query": "drone terrorism",
-      "detected_at": "2025-10-31T14:05:36.052847+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fe6bb973129a"
-    },
-    {
-      "title": "Man caught using drone to smuggle drugs into prison - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByMW16bUQwNzlpeVlma2tEZ0V2MWxncldfVHplbWxGbm5rOGktZUR2c3JsNWJfNmNLcXQ0MG9yMWVRcmhOM1Z1X1NISk5zaUlpNHpNTjQ2SkpvdjVfbUcycm1OQ1pwXzRrV3puc1RzTmUwNW9UTU9FTDVB?oc=5",
-      "source": "AOL.com",
-      "date": "2025-10-31T10:46:35+00:00",
-      "description": "Man caught using drone to smuggle drugs into prison  AOL.com",
-      "query": "drone prison",
-      "detected_at": "2025-10-31T13:13:07.543762+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a16b58d0e565"
     }
   ],
-  "last_updated": "2025-11-30T23:05:18.819910+00:00",
+  "last_updated": "2025-12-01T00:28:37.003039+00:00",
   "total_count": 1000
 }
