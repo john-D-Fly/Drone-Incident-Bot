@@ -1,0 +1,124 @@
+{
+  "narrative_summary": "Over the past 48 hours, the drone-related incidents have highlighted significant activity across several fronts, particularly in Moldova and Romania, where Russian drones have been repeatedly reported in the airspace, prompting reactions including aircraft diversions and airspace shutdowns. Security concerns are underscored by the IDF's thwarting of a drone-based weapon smuggling attempt from Egypt into Israel, as well as UAV strikes planned by the U.S. in Nigeria. Meanwhile, Kazakhstan's protests against Ukraine's drone strikes indicate geopolitical tensions surrounding drone operations. There are also concerns over unauthorized drone usage for aid relief in Sri Lanka, posing risks in disaster situations. These incidents point to a broader theme of the increasing use of drones for military and illicit purposes.",
+  "totals": {
+    "other": 20,
+    "airport": 2,
+    "security": 2,
+    "terrorism": 2,
+    "smuggling": 2,
+    "crash": 3,
+    "total_incidents": 36,
+    "by_category": {
+      "airport": 2,
+      "crash": 2,
+      "other": 27,
+      "security": 2,
+      "smuggling": 2,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone crash": 3,
+      "drone illegal": 1,
+      "drone incident": 16,
+      "drone smuggling": 3,
+      "drone terrorism": 11,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Russian Drone Activity",
+      "rationale": "Multiple incidents reported involving Russian drones in Moldova and Romania, showcasing an ongoing pattern of incursions.",
+      "incident_ids": [
+        "e6d7302ca87b",
+        "d7f74fc84be2",
+        "b91d038e41dd",
+        "3b2fb9195382",
+        "d2458ac0734f",
+        "12b423dfcf58",
+        "00cffc4bd1ae",
+        "09e82cc55fdc"
+      ]
+    },
+    {
+      "topic": "Geopolitical Tensions",
+      "rationale": "Incidents involving Ukraine's drone strikes and Kazakhstan's protests reflect rising tensions in the region.",
+      "incident_ids": [
+        "7deac695d640",
+        "6101d076f637",
+        "d5f92fc56d30",
+        "4033894cc758"
+      ]
+    },
+    {
+      "topic": "Security Risks",
+      "rationale": "Unauthorized drone use in aid and drone smuggling incidents indicate rising security concerns.",
+      "incident_ids": [
+        "30981763cb05",
+        "228c445bea9c",
+        "2670036bbca7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d6129256a755",
+      "headline": "US drone strike in Yemen kills two suspected Al-Qaeda terrorists",
+      "one_sentence": "A US drone strike in Yemen targeted and killed two suspected terrorists, highlighting ongoing anti-terrorism efforts.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2670036bbca7",
+      "headline": "IDF: Troops thwarted attempt to smuggle weapons into Israel from Egypt by drone",
+      "one_sentence": "The Israel Defense Forces successfully intercepted a drone attempting to smuggle arms from Egypt into Israel.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "e5d68b97d12b",
+      "headline": "Russian Drone Incursions Lead To Moldova Airspace Shutdown",
+      "one_sentence": "Moldova temporarily shut down its airspace due to repeated drone incursions from Russia.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "75bb6a56f7fb",
+      "headline": "Kazakhstan protests Ukraine’s drone strike on CPC terminal",
+      "one_sentence": "Kazakhstan officials condemned Ukraine for a drone strike that impacted a critical supply terminal.",
+      "risk_tags": [
+        "geopolitical"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f9a84912fb66",
+      "headline": "Flights halted at Brussels airport due to possible drone sighting",
+      "one_sentence": "Brussels airport experienced flight disruptions attributed to a possible drone sighting in the vicinity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight ongoing geopolitical tensions and security risks in Moldova, Ukraine, and beyond.",
+    "linkedin": "The last 48 hours have seen significant drone-related incidents across multiple regions, emphasizing the escalating use of drones for both military and illicit purposes."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-01"
+}
