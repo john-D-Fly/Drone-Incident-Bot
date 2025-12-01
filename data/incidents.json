@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "US allegedly preparing UAV strikes in Nigeria as covert ISR flights reported - Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzZnSXVHWU5oX2t4MkpCWGRzWHdlU2ZLWEtXb3ZvS2x1QXUzQWoyWTRoSUdORHN2M2hQcjBOREZycmZNZVlMY3dMc25SSU05a3JudTkteUN3YUM2cXdNc2o3LTNzYXZXR2JQMW51bnBsVzhFblRpNEViaWsxazFnQWJEQ1hmeWVKUWRrRk5GeFNEd2NTRG85U0JNZmRhWGRkNXZMMF9ibGxRck9WX2xNLThXWQ?oc=5",
+      "source": "Businessday NG",
+      "date": "2025-12-01T04:23:35+00:00",
+      "description": "US allegedly preparing UAV strikes in Nigeria as covert ISR flights reported  Businessday NG",
+      "query": "drone terrorism",
+      "detected_at": "2025-12-01T05:12:08.196543+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "228c445bea9c"
+    },
+    {
+      "title": "Moldova says Russian drones entered its airspace again, posing aviation threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUVUS1VuMzJTZEs5UzlxcklSVW5DNld3U1I4LXhLUHByYkJkbHNvaVRsOUFQTWg2ZjBQTFZUcWM1TlZaTzk5NWJzeG5DbjZIbHZia0RKZEZtcm1mdk1ydm14R0h0TWx3QUhEQ2QybzlOUldxUXJDUEJlc0hfUnZkU1NjQ21iN1Q0RGxTSDBKQ1ZMWjBvc2QyMXNqX1dmcllwWmtlRm5PMldhOW1tUF9fU2xrT3NkaDAyamxV?oc=5",
+      "source": "Reuters",
+      "date": "2025-11-29T17:52:27+00:00",
+      "description": "Moldova says Russian drones entered its airspace again, posing aviation threat  Reuters",
+      "query": "drone incident",
+      "detected_at": "2025-12-01T05:12:01.725135+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "75bb6a56f7fb"
+    },
+    {
       "title": "Kazakhstan urges Ukraine to halt pipeline attacks - AnewZ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVcwRjE1SkNpa1A2dzZyY2Itak1fTDhvTEVxU1N0S3V2OVdzS0pKT1ppdjNZTHhtRTFvRmJHaUtwSWRpWWh6S055Vm92VHFJU1BIMGRCcm9mQ0ZfVTR4RjA5cmwwbWk3R3Ayc0d6SF85WFlWcE5rcDdoSTIxT29fUkRVX3E5STZxcVBtak91dVpsQQ?oc=5",
       "source": "AnewZ",
@@ -11975,32 +11999,8 @@
       "location": "near Area 51",
       "category": "crash",
       "id": "1448544556de"
-    },
-    {
-      "title": "Berlin Airport Briefly Closed in Latest Drone Disruption - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3Z2WGxCUTIzWHJlZ0JjM19XMERJeEpDclUyOXgxMTV5QzVOQmx1a196M1UyR211WjBQeDJiRlRNbmF5T0hpTGsya3JITGtGVjRYN0RCbmw3cUdrOTR4OWFOZ2FaZ29XTGZDcnVENkZMcW5DRmNXcjJPSFNjb3d2WG81dlNxZW92TW1NX0tudmVabndSYXJrSy0wT3NVaUE5WFBwbDRMS0dySXc?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2025-10-31T21:56:12+00:00",
-      "description": "Berlin Airport Briefly Closed in Latest Drone Disruption  Bloomberg.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-10-31T23:05:33.881912+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "d245d9697cec"
-    },
-    {
-      "title": "Analysing video showing arrest of Sudan fighter accused of executions - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DQUJNUi1tM2xvQk8yUUhhYnRwRDd1SWNQZl9JV0UyWVpkekpEYWlXR2dIek0xWk9OaFJzSDJDMjBETXdoeWxZbWVscDBQTFNQdmk2dw?oc=5",
-      "source": "BBC",
-      "date": "2025-10-31T17:03:45+00:00",
-      "description": "Analysing video showing arrest of Sudan fighter accused of executions  BBC",
-      "query": "drone arrest",
-      "detected_at": "2025-10-31T21:05:14.852409+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "250d91ac83cd"
     }
   ],
-  "last_updated": "2025-12-01T03:37:13.578582+00:00",
+  "last_updated": "2025-12-01T05:12:09.333441+00:00",
   "total_count": 1000
 }
