@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Drones a threat to prison security - Gwinnett Daily Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1p5Tm1WdXlCY1lxYVlWanFzTXQ0WVh4YWZHUTV1a1NkRjJCaUx5N190dWxfNFNOWjdFckFmS0lVM3BSN2JaU2FiZmh3RlVuSEpicm56dU1ZOUZHWWhkLWtNcGdUTzBaU25mN05rbE1hVlBOYlZQRTdKbm9ZbzlXYTdrM3h1MWVuaEZtR1RYWW9VQTByc0tNalJ0U1k0RVVRUVo0Q0VBWFhtdUJqeUp3Vnk3RTNSbUdJUFBsNDdOMW8?oc=5",
+      "source": "Gwinnett Daily Post",
+      "date": "2025-12-02T16:26:00+00:00",
+      "description": "Drones a threat to prison security  Gwinnett Daily Post",
+      "query": "drone prison",
+      "detected_at": "2025-12-02T21:05:33.314162+00:00",
+      "location": "at to prison",
+      "category": "smuggling",
+      "id": "14ca2859d691"
+    },
+    {
+      "title": "Official: Drones used to deliver drugs, power saws to Georgia prisons - Online Athens",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3RUYl9vcFdyWjJ1SmJFZ1REdExkVS1tUGYzX3F6V1E4UzFadE44em03bk50TzZfcmxrVmlOMHZPNjc1dmpNTFllSjdvS3NEVmp2dDdXMzk1SVU0UzRiVVl6VV83VHV1RmVGSTB0eG84aFd5MXVCNndZbllQQWR2M3JOOXdlSEtiVUY2cU5pUXdNLVI3Y0owNHdTanQzSzlxbWpqTHZXLVBwckE3WjZIRXYwbU01bFllUVV0LUdKREJEay1NdWpKUDBhV1JkZHJF?oc=5",
+      "source": "Online Athens",
+      "date": "2025-12-02T14:23:00+00:00",
+      "description": "Official: Drones used to deliver drugs, power saws to Georgia prisons  Online Athens",
+      "query": "drone prison",
+      "detected_at": "2025-12-02T21:05:33.314162+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b76b1e47c0af"
+    },
+    {
+      "title": "Romania No Longer Turns Blind Eye to Russia’s Airspace Violations - The Jamestown Foundation",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZm5GZXFLYVI3TU81dU9Jbjlmdng5TkliNnJTUVdMTWI4UEdpVU9xeXhkc0ZpcUR3UkhWQTBZSTA3SmJqRGJMTmJRZHlyVEp6U0p6SWt1Si1fc2Zfc1NiNi1CZTJydGxsOTFzZGxLN08xYjhuVWhDem00ZDFUSTczSC1qbndDYVFYeml1S01Dd1g?oc=5",
+      "source": "The Jamestown Foundation",
+      "date": "2025-12-02T20:38:17+00:00",
+      "description": "Romania No Longer Turns Blind Eye to Russia’s Airspace Violations  The Jamestown Foundation",
+      "query": "drone incident",
+      "detected_at": "2025-12-02T21:05:31.432053+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "c261cbea201a"
+    },
+    {
+      "title": "FAA investigating after Amazon delivery drone incident in Texas - AeroTime",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1R0VlN0VmhPaDAwemhtcUpaYjRkNS1pd3l6WWxXb1NqdW5kbExzTmdVc1lFRll4M1J0R2t3Q0Z5T2NHMXVtYnF3VW9rU2dtSDRlbVpfVm5iZ09PejVFTTJLaGVOYlFiSUw0S2tjWHczdXJldUxGS2paLUhMcGZTRFpxQWt4RG16QmU5VdIBkgFBVV95cUxOWTRyM2w3dzRrN3E2d19BSUFjWk1iWXhIWm5JR1lmTlpsOTdqVUZBbW9EZlctSS1FcVFZTVM0clBpRmgwMjk5Y2x4aFhzVkZHN3B4ZEdxc0lQelE4a1F5am9IZW5Fc2NyMUZmRjRZdDI3Z2ZLTE83Slc5UVBjWlhMWHQyNEVqMlZDLWZVUllLXy1ZUQ?oc=5",
+      "source": "AeroTime",
+      "date": "2025-12-02T17:06:39+00:00",
+      "description": "FAA investigating after Amazon delivery drone incident in Texas  AeroTime",
+      "query": "drone incident",
+      "detected_at": "2025-12-02T21:05:31.432053+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "40d069bfc66b"
+    },
+    {
       "title": "Drones capable of big lifts deepen contraband threat in prisons - The Rome News-Tribune",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT1J1SHlnYlFTZFJKYTdVLUU5a29sN05xREFVS2x5N2lHRGZ0U2ZmU2VBVGlWWlZSTGh6ZlB5Qk5OUWlMNzZ5LUlBZWdYcFY4dkVTUXN3LTVQMUtWaHIzMGNlTFc3OENINm42X2dXT0RpdlNhZUlFNkJVRDJpR0Y5MERELW44MGhsMHB6Qi02MGtTeF82ek1jZGI5dmtXbDdOWjl1ZUpHRmtqa2wyTjI2M3VVdWZPM0N6R3dGNGszcHVPZ2xRY05yQl9ySWN6MkdJT0c4UE12VWwyYnBjaWxpMmVKeHlzdjVHb0FUMi1EMnpOM2lhcXlOQnBDb1BuMGJRalo4MF9R?oc=5",
       "source": "The Rome News-Tribune",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "42b2456742b9"
-    },
-    {
-      "title": "RAF drones kill two evil Islamist terrorists in twin strikes including wiping out an ISIS thug as he got into car - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlY1X1ppZExlM0pFQVlCUm9RLVNGc2JLaUJ5RXd1OXNjbTZWb3JFcUI1VndFZ0RGMmJxQjFxeDBaeDI1bHJXd3FMRlNibXJZTUUySGRGVTZfVGx3WWgzSXI3enB3ekFkb2QwZnpzSlhMWGpLaGU4ZUZ6TFFQYTRVcG02RExKWkd0alZ5OEV3X3VlS3BvUUxB?oc=5",
-      "source": "The Sun",
-      "date": "2025-11-01T23:34:23+00:00",
-      "description": "RAF drones kill two evil Islamist terrorists in twin strikes including wiping out an ISIS thug as he got into car  The Sun",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-02T07:05:14.447981+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0bf19bfaa769"
-    },
-    {
-      "title": "Ukraine live: Putin accused of ‘nuclear terrorism’ as his forces mass around key town - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnVJZ3IwaFNoUjNJRkVlYzRsRW5PcWlickVBX2hEM0dtd0NRLVBsNFVTemw1X2RZTTN1ZmpxZ1owVEJvX2RRTjRzWnJ4TTJHOUJPT0g1WUN3bURTY2tObnlhYk1WS1dYeWNyMzRmeEZCX2tGdXpjNGRNX2RqcjFZOTRwaV9kSG1CQTRXcFZIWG92eWo5M3R4RHZ5Ym9ZX1pfazV2M3Y4Y21YYUVnNDBFSG9WVzkwMmc4SVp3Q3czbEp3TENiSnNxSHh6UQ?oc=5",
-      "source": "The Independent",
-      "date": "2025-11-02T05:11:14+00:00",
-      "description": "Ukraine live: Putin accused of ‘nuclear terrorism’ as his forces mass around key town  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-02T06:07:11.814721+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "7d8e673dc75c"
-    },
-    {
-      "title": "RAF drones kill two evil Islamist terrorists in twin strikes including wiping out an ISIS thug as he got into car - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlY1X1ppZExlM0pFQVlCUm9RLVNGc2JLaUJ5RXd1OXNjbTZWb3JFcUI1VndFZ0RGMmJxQjFxeDBaeDI1bHJXd3FMRlNibXJZTUUySGRGVTZfVGx3WWgzSXI3enB3ekFkb2QwZnpzSlhMWGpLaGU4ZUZ6TFFQYTRVcG02RExKWkd0alZ5OEV3X3VlS3BvUUxB?oc=5",
-      "source": "The Sun",
-      "date": "2025-11-01T23:34:00+00:00",
-      "description": "RAF drones kill two evil Islamist terrorists in twin strikes including wiping out an ISIS thug as he got into car  The Sun",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-02T04:07:25.731115+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "f7b723b00c97"
-    },
-    {
-      "title": "Ukraine live: Putin accused of ‘nuclear terrorism’ as his forces mass around key town - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnVJZ3IwaFNoUjNJRkVlYzRsRW5PcWlickVBX2hEM0dtd0NRLVBsNFVTemw1X2RZTTN1ZmpxZ1owVEJvX2RRTjRzWnJ4TTJHOUJPT0g1WUN3bURTY2tObnlhYk1WS1dYeWNyMzRmeEZCX2tGdXpjNGRNX2RqcjFZOTRwaV9kSG1CQTRXcFZIWG92eWo5M3R4RHZ5Ym9ZX1pfazV2M3Y4Y21YYUVnNDBFSG9WVzkwMmc4SVp3Q3czbEp3TENiSnNxSHh6UQ?oc=5",
-      "source": "The Independent",
-      "date": "2025-11-02T03:30:46+00:00",
-      "description": "Ukraine live: Putin accused of ‘nuclear terrorism’ as his forces mass around key town  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-02T04:07:25.731115+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "957503dfedc9"
     }
   ],
-  "last_updated": "2025-12-02T19:06:14.460256+00:00",
+  "last_updated": "2025-12-02T21:05:37.837540+00:00",
   "total_count": 1000
 }
