@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Too few guards and too many drones: Georgia prison leaders alert lawmakers to dangers - Columbus Ledger-Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zUWlzbjFJSXJwcW05ZGNneDZDX2w0bmE1RHJ5QVhsUHZEVnFZT01XS2sxU2xKX1R5eXJuWkIzc1k5Qnk2cUozcEV6LV9MX2tXUi1jQXpfWE5pM0phR1RvcDN2SFIycVNFX1VGVHpyY1VLZjBtY2twaTlR0gF6QVVfeXFMTzNRaXNuMUlJcnBxbTlkY2d4NkNfbDRuYTVEcnlBWGxQdkRWcVlPTVdLazFTbEpfVHl5cm5aQjNzWTlCeTZxSjNwRXotX0xfa1dSLWNBel9YTmkzSmFHVG9wM3ZIUjJxU0VfVUZUenJjVUtmMG1ja3BpOVE?oc=5",
+      "source": "Columbus Ledger-Enquirer",
+      "date": "2025-12-03T16:43:52+00:00",
+      "description": "Too few guards and too many drones: Georgia prison leaders alert lawmakers to dangers  Columbus Ledger-Enquirer",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-03T21:05:33.702683+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "020f5c2e6bfc"
+    },
+    {
+      "title": "Everdrone Launches First Drone-Based Emergency Medical Service in France - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOERncURpX2luNHRMY3EwMnQ5UzhrLWpZZ1N1WUw1UEJtZWxjMEJPY0NfeUo3c01YYmZGbU5ra3FOVDJqU2ZabndwU1FOYVRCWVd6UU93SkI3cnhVZ2JuUDU5c2plVkxtdVFrbnFfX1FlWXM1MElreXlhbExuenJweNIBgAFBVV95cUxOOERncURpX2luNHRMY3EwMnQ5UzhrLWpZZ1N1WUw1UEJtZWxjMEJPY0NfeUo3c01YYmZGbU5ra3FOVDJqU2ZabndwU1FOYVRCWVd6UU93SkI3cnhVZ2JuUDU5c2plVkxtdVFrbnFfX1FlWXM1MElreXlhbExuenJweA?oc=5",
+      "source": "Dronelife",
+      "date": "2025-12-03T16:28:27+00:00",
+      "description": "Everdrone Launches First Drone-Based Emergency Medical Service in France  Dronelife",
+      "query": "drone arrest",
+      "detected_at": "2025-12-03T21:05:33.123211+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "add3923d20ed"
+    },
+    {
       "title": "Too few guards and too many drones: Georgia prison leaders alert lawmakers to dangers - Macon Telegraph",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LVEtVRmM0Vnd4aFMxN0dCQjh6VTZieS00SFJtczRnSHVOQWJSaGlJNVBLWlZwRk8zbXhQR0NQSkU0bjRPQVVfaENHYWVUUDM5VnZtZG1wX3NSYjZZQ1R5WjVNU2pXa2diSURqatIBbEFVX3lxTFBsYnVPLUs5a1lDbUFpcTdmaDBrdHM4T0tHZ1FhQS1NV1dEUVZLZ0REajVwVlRLR0Q3VXNONkw0dkU3QmdZT2FPRjNVLXhteFBCUUZTd2JDcnJZYnlEek5rTEdvZWlWTXBvZUstTQ?oc=5",
       "source": "Macon Telegraph",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "1c139908a36e"
-    },
-    {
-      "title": "Air Force and FBI Investigate Mysterious Area 51 Drone Crash Amid Rising Speculations and Rumors - Emegypt",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBaRGVzMVBENzdsR3pTTU9OVW14RUg1QWZ1dkoySVNKbll3Tjlkbldpc1ljYzVBODJYMVlJWUVSY1g?oc=5",
-      "source": "Emegypt",
-      "date": "2025-11-02T09:25:26+00:00",
-      "description": "Air Force and FBI Investigate Mysterious Area 51 Drone Crash Amid Rising Speculations and Rumors  Emegypt",
-      "query": "drone crash",
-      "detected_at": "2025-11-02T16:05:25.337212+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "371c68fd0062"
-    },
-    {
-      "title": "Unidentified drones repeatedly breach airspace over Belgium's F-35 site storing US nukes — suspects not found - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnBOcTlLdldaYzVvTXVuV0tudXhFdU1vTXZIZFdyTTQ0NVl5N2hCbHJRQXNaRldzX0J6a25mQ0Q0TnMzVUxFTGE5amZfUGhDSGdjLWs2VkFGendDRWpfdjZJUWtRWFZDSTQ4YnhoWHN3RndXOUJ4MGJndzNZMFN3R2R0RnljXzY5SnpCcE9lVV8tbzhTQTlyUzZhRWF1aW1mSEUxRlZjc0twM0VsMHFaUUFVWFJybEtBQW9sT3JIWUpUQ1pMQzJ2b2tOYmJFNGR0ckZPTldWM2VPclpLVmNJ?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-11-02T15:14:51+00:00",
-      "description": "Unidentified drones repeatedly breach airspace over Belgium's F-35 site storing US nukes — suspects not found  Euromaidan Press",
-      "query": "drone incident",
-      "detected_at": "2025-11-02T16:05:22.464970+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "3c750d76f8c2"
     }
   ],
-  "last_updated": "2025-12-03T18:08:34.204882+00:00",
+  "last_updated": "2025-12-03T21:05:38.771356+00:00",
   "total_count": 1000
 }
