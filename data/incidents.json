@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "I-271 closed in both directions from Medina County into Summit County due to tanker truck rollover crash, authorities say driver fell asleep - WKYC",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2FsY3BWNnlWdVFxNHZLMUJDVW5GaTVCLTZGaUh1MjZJd0t5U1RXd0daQ0NUeUt6SWFkRkdxRkRuTlppNl9NMTY5NnllSjRKdE1USy14cUdVNzR1Y2dVRG5MSzE2RWhieWdielFscDhtd19GVUQ5T092aWlDc1dZMnhneHhwWHBnTHNCN01xVkZyYUtuMWxxMkxqc1dEcElyVllSRi1SdHdzRV9HbEdOWDVUeG1RZ1E0S1lTZnNpMTB2dnJoYjJ6dzUzN2lENkplelpMRDk4UDVOajhqN3ZR?oc=5",
+      "source": "WKYC",
+      "date": "2025-12-03T10:00:00+00:00",
+      "description": "I-271 closed in both directions from Medina County into Summit County due to tanker truck rollover crash, authorities say driver fell asleep  WKYC",
+      "query": "drone crash",
+      "detected_at": "2025-12-03T17:07:30.939910+00:00",
+      "location": "in both directions from Medina County into Summit County due to tanker truck rollover crash, au",
+      "category": "crash",
+      "id": "a619b825192f"
+    },
+    {
+      "title": "Amazon’s Prime Air drone deliveries are in full swing across San Antonio - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYzJvVVA1WU5saG1QanJTb1Z1VUw1VDZISTVDRXdjYmpZa3lDdkZ5VXhad1lSUGMtRHFXblEzUFF1LTlMd25QczZPdDBUQ1k3VkpvUGJqdXl2SktlUjRJQXZ3T1A0YjdFTHZhU3N2S3psamNXZWwweklMQ2dTSHVZWlE4OW5MNXVfd0JtSXo0ZW9KRkxxcTlyYWJDSl82WGtzQ1J6RUdCeXJaeXdvaFdWeg?oc=5",
+      "source": "KSAT",
+      "date": "2025-12-03T12:59:05+00:00",
+      "description": "Amazon’s Prime Air drone deliveries are in full swing across San Antonio  KSAT",
+      "query": "drone crash",
+      "detected_at": "2025-12-03T17:07:30.939910+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3ed10c3de3b6"
+    },
+    {
+      "title": "Drones threaten prison security by delivering contraband across Georgia - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTDBraXhvbTZZN1VfZS1YSHhaZy15V2lieUJwVEk1RlNVMUwzMkprQUFZbWFheTF0N3ROaHY0cUd5dkxBZWJRMm1IX3drdFRBdllnZlhjUUhUMXhBSzJNNVc2WHdrTjdwbFRYS29YT0pfOFdjeDVSZk0yelJYYjVBcXZlX1ZBMWlad1B1NnlFQUM4SFpYaFNQUDViY2dvcmJBdWRVTzZ2OE13Z19NMzJSMlV4dmZlQnNfTHZhUkxQVHFyS2lHdFBtSTdhTXBvVjFxRTZBWW90WVA?oc=5",
+      "source": "Savannah Morning News",
+      "date": "2025-12-03T10:04:00+00:00",
+      "description": "Drones threaten prison security by delivering contraband across Georgia  Savannah Morning News",
+      "query": "drone prison",
+      "detected_at": "2025-12-03T17:07:29.531830+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "78dcade17603"
+    },
+    {
+      "title": "Everdrone Launches First Drone-Based Emergency Medical Service in France - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdWRrUU4xQkJjeHJ3djUzSEJweWl1QW5SdFZGY0ZhbFEwdExpQ0x4a2txUV8tMmZ3SGowR3dqUHZSWHVQV1VMRmhOUFVBRVA0ZzZIM2d4WWR1V0Q0bndWcmJxUjE4M1dJbXl6VDJCMTY0NXNNR3pDcHpkMNIBgAFBVV95cUxOOERncURpX2luNHRMY3EwMnQ5UzhrLWpZZ1N1WUw1UEJtZWxjMEJPY0NfeUo3c01YYmZGbU5ra3FOVDJqU2ZabndwU1FOYVRCWVd6UU93SkI3cnhVZ2JuUDU5c2plVkxtdVFrbnFfX1FlWXM1MElreXlhbExuenJweA?oc=5",
+      "source": "Dronelife",
+      "date": "2025-12-03T16:30:26+00:00",
+      "description": "Everdrone Launches First Drone-Based Emergency Medical Service in France  Dronelife",
+      "query": "drone arrest",
+      "detected_at": "2025-12-03T17:07:28.274102+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "35d5d92deb03"
+    },
+    {
       "title": "‘Terrorism has spiralled out of control’: Imran Khan says Asim Munir is provoking tensions to ‘please western powers’ - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZRcDNPaGMwdUpuLUFuRnh1OEE4cHhEVDRSS2FqTlUwQk5ROHJkeUJrNnE0NEdqNnNkTzUxSEpxaTlfY244ek83WTU0cDRPcnRickJJWC1jZ2Frc01OTC1QRmlQaC15dEQ3Z3BzUWtsX1pnYnc5bnJ0WjFWaTFBakJkUWVQNUdKWVI4ejBuUDR0WFFBUWw4c21PU1FrYVBwTUtLVVdZSkpFYlhPSXMtTV96SlBCbXdyek4tS2VMbkPSAccBQVVfeXFMTzY1bElmcmtHTGl1d1JXZWpEWWlPZWZVaWJUYURXUVVMLW1oSmw2WmZNSXpVQ2VkcXcyVnJ6ODRlbEY1X0UxZ1NCWkFGZGUtekZOajczOTJrRjhpSXo4XzVxa21SU0xiUkFvN09KRXJTTFJPNWxjczNDQ0hfXzlRM0o3cWtNYTFnaklQeGY4dGFaVkIxcTN1TmNrQk55b3g5MzZzc1NzYVZIUGtlbGZ2Q2FOd0J2VzJ3MlR4Rzd3Z1F5eW9Ia1RMZw?oc=5",
       "source": "The Indian Express",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "98e970631a68"
-    },
-    {
-      "title": "Drones spotted over NATO base in Belgium at night, attempts to stop them were ineffective - Українські Національні Новини",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFZWNkpkdWpQZkRnS184M0hseDBuc3RySXl0c25vSmZmQlN3U1VqREJJNTFWUFR2VVhLSEpYSHZzLVNLWU0xVFM1U1VnamFDWmJDYS04Tl83WFdsT192eXdFQXhLUWJjd2VpMnRFNXFtU2dXVjcyUjUxdXUzeGpUWmtyMEpObVIyYnFVcWtWRmNFWEM2SFdfbmk3ZzVaVFBaM1NtTU1LYXlka1F5V3Q1btIBrwFBVV95cUxPR1QwaHRsOXpmTHNtZ196LTljZGxyOVdJRFYxbWN0UDR2OEtEQUxLeFZ6ejIwWW5TY3pZUU5rSURNVHFtdmRWY3dHMThLdUt1VWVBbldKQlQtWHh0MXRzN1pMRjViTUZiWGRGTFVPN19VS2pGeHpxWXdRYnNkUWwwS2RDbURRMXhEZDdEV2NpX21PNV9Ka3pqQWtzRFd1VFpVakRoSFJzSXFacEJkelRz?oc=5",
-      "source": "Українські Національні Новини",
-      "date": "2025-11-02T13:09:08+00:00",
-      "description": "Drones spotted over NATO base in Belgium at night, attempts to stop them were ineffective  Українські Національні Новини",
-      "query": "drone incident",
-      "detected_at": "2025-11-02T14:04:49.131058+00:00",
-      "location": "in Belgium at night, at",
-      "category": "other",
-      "id": "62a0fbed70db"
-    },
-    {
-      "title": "Ukraine war latest: Russian attacks are 'nuclear terrorism', Ukraine warns, as it says it lands 'serious blow' - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
-      "source": "Sky News",
-      "date": "2025-11-01T13:30:00+00:00",
-      "description": "Ukraine war latest: Russian attacks are 'nuclear terrorism', Ukraine warns, as it says it lands 'serious blow'  Sky News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-02T13:08:49.711179+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "7ffaad7ff2a6"
-    },
-    {
-      "title": "Ukraine war latest: Huge fires seen at Russian oil port after Ukrainian drone strike - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnlZNW5wLU0xV1cwb04tMW9INk5YTjU2N3Nuc3pkX3Rqc0JnZWhhdTNHRERxR2pCTWhJblg5c0tjZTdScXpCMXBpbUpZRW4zWXUwQWdyaGZRak5TTmQ2WUEtel9kQVljRlZtMXdsVGc4NXhEVkk1M0F2NXdwTEQxZGV0M1pSMFNoNUx3RC0xT29mbWdVdDNiQmlORkVJYTRKa3pDWWlEbUliaGNNZFMzSG1CWWRxNkY0Q1JueTNvQQ?oc=5",
-      "source": "The Independent",
-      "date": "2025-11-02T10:30:00+00:00",
-      "description": "Ukraine war latest: Huge fires seen at Russian oil port after Ukrainian drone strike  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-02T13:08:49.711179+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d37dd2888dff"
-    },
-    {
-      "title": "IDF foils weapons smuggling attempt from the west - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1aXlkYUNuMGhmV1FhMlFBeXQzVE9QaEQycVdNb0MwMno4T1kyckt0LTEya095cDg4eTFjbEJCNWZxMkZ5MDlVaWl1ZDJPWHpMN3BDWEVneEhpeGJE?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-11-02T12:52:56+00:00",
-      "description": "IDF foils weapons smuggling attempt from the west  The Jerusalem Post",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-02T13:08:45.945977+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "885e7c925f11"
     }
   ],
-  "last_updated": "2025-12-03T16:07:58.919595+00:00",
+  "last_updated": "2025-12-03T17:07:34.324658+00:00",
   "total_count": 1000
 }
