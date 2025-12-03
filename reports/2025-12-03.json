@@ -1,0 +1,122 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple drone incidents have raised significant concerns over prison security and criminal activities across various locations. Most notably, several reports highlight the use of drones to smuggle contraband into prisons in Georgia, with alerts from local law enforcement regarding the ongoing threat they pose. On the law enforcement side, drones have been effectively utilized to locate and apprehend burglary and domestic violence suspects. Notably, incidents in Moldova regarding a Russian drone crash and ongoing drone surveillance in Lithuania over border tensions highlight escalating international tensions. Additionally, airport disruptions due to potential drone sightings were reported in Brussels, indicating potential policy implications on drone regulations. Overall, the trends point towards an increasing reliance on drone technology both for illegal activities and law enforcement responses.",
+  "totals": {
+    "smuggling": 9,
+    "other": 11,
+    "crash": 4,
+    "arrest": 7,
+    "terrorism": 3,
+    "airport": 2,
+    "interference": 1,
+    "total_incidents": 57,
+    "by_category": {
+      "airport": 2,
+      "arrest": 10,
+      "crash": 4,
+      "interference": 1,
+      "other": 22,
+      "smuggling": 17,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 16,
+      "drone crash": 5,
+      "drone incident": 11,
+      "drone prison": 12,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Security Threats",
+      "rationale": "Increase in contraband delivered via drones to prisons highlights vulnerabilities.",
+      "incident_ids": [
+        "bc8d57fc466f",
+        "045dcfd6d3b5",
+        "b76b1e47c0af",
+        "fd2f4c8e2718",
+        "9bdde5c93222"
+      ]
+    },
+    {
+      "topic": "Law Enforcement Responses",
+      "rationale": "Drones are increasingly being used effectively to track and apprehend suspects.",
+      "incident_ids": [
+        "c8800fab3ca0",
+        "5d829a3e022a",
+        "cdd68df31a37",
+        "22f1b2d3fc7d"
+      ]
+    },
+    {
+      "topic": "International Drone Incidents",
+      "rationale": "Incidents involving drones in Moldova and Lithuania reflect growing geopolitical tensions.",
+      "incident_ids": [
+        "676c36bb0ec2",
+        "709d1a950570",
+        "62e0bc2d319a"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "bc8d57fc466f",
+      "headline": "Drones a threat to prison security - Statesboro Herald",
+      "one_sentence": "Reports indicate that drones are being used to smuggle contraband into prisons, raising security concerns.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c8800fab3ca0",
+      "headline": "‘Criminals, watch out:’ MPD uses drone to capture three burglary suspects",
+      "one_sentence": "Memphis Police effectively utilized a drone to track and capture burglary suspects.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "676c36bb0ec2",
+      "headline": "Moldova displays Russian drone, summons envoy over 'unacceptable' crash",
+      "one_sentence": "Moldova displayed a crashed Russian drone amid heightened tensions and summoned an envoy to address the incident.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "fd2f4c8e2718",
+      "headline": "Rogue drone hotspots identified in Punjab: BSF",
+      "one_sentence": "The Border Security Force in India has identified rogue drone hotspots in Punjab, signifying a significant security concern.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "5d829a3e022a",
+      "headline": "VIDEO: Auburn Police use drone to locate, arrest DV suspect hiding on rooftop",
+      "one_sentence": "Auburn Police utilized a drone to successfully locate and arrest a domestic violence suspect.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone threats in prison security and increasing law enforcement use highlight the dual-edged nature of drone technology.",
+    "linkedin": "Recent drone incidents reveal a growing challenge for prison security alongside effective law enforcement applications."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-03"
+}
