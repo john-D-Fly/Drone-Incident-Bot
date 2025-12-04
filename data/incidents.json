@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Unidentified drones reported near Zelenskyy's flight path to Ireland - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iZC1mdHVwVUM3cnF4d1BqaUJjTXFPNVp1N1pCNVpNRWtMMVJOellGa2E5amg3OEVFTTJydW1SMEJRMTgzLXgyNURtM3FMWVA0cGhFSFJQbFZGYkhPcWdkVm9IRUfSAXBBVV95cUxNQlVxSm80bzEyZUNKSlRBSWVoU0RaMHhLTUFMT0pFVHoxSDQwbnE4VS1iOGlhTnZsT0RrMm54YWJ4ckUtUGZjSEs4dlctM3VKOEVJQTJXMkFmR01PS00wRmhkdDNvNHQxQ2ZFVUpvZ1pk?oc=5",
+      "source": "Українська правда",
+      "date": "2025-12-04T16:15:00+00:00",
+      "description": "Unidentified drones reported near Zelenskyy's flight path to Ireland  Українська правда",
+      "query": "drone incident",
+      "detected_at": "2025-12-04T18:08:46.089663+00:00",
+      "location": "near Zelenskyy",
+      "category": "other",
+      "id": "fee88a6466cf"
+    },
+    {
+      "title": "Four unidentified military-style drones breached no-fly zone to target Zelenskyy's arrival in Dublin - The Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbE5CM0txTW9PclF3ZjlOcFBEVHlMVGhFY1RzREdmMWFLNTNsblFuOGE4NG5xUy1OVGJjZ3hVbUw5Szg0QjR3UUE0V09odFRjZ2pVb09rYXotMnBQT3NFbTJfS2FiZ3FYTms1ZW9qQ1dYZXRzanJYRm9yQURaU3k0aklFdGx2bk4wQWJwa1Rkaw?oc=5",
+      "source": "The Journal",
+      "date": "2025-12-04T13:41:00+00:00",
+      "description": "Four unidentified military-style drones breached no-fly zone to target Zelenskyy's arrival in Dublin  The Journal",
+      "query": "drone incident",
+      "detected_at": "2025-12-04T18:08:46.089663+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "743c5c158f21"
+    },
+    {
       "title": "Zelensky’s plane ‘followed by military drones’ before Dublin visit in ‘hybrid attack’ - The Independent",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFJySmRObGdMYmtnaHRwZHpVeTFEOHdpTjdhRVU5UzFlNjFiSzJIeWNXbVZfdXh0endjNUdyUDk2V1ZudEtMY2tWRU1MNEFLUHVwMjNHbU5xS1BkWHVfQ2JQZVhyUEZiUWRqVFMyZTFoVUp4WlJCTHdNZFJsRnN5SGRaNGpfZm5qbC1NQUo5elFUN3lCLVZHOW9yWWY2Rml4bTFjcUdJN2c?oc=5",
       "source": "The Independent",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "89b657b4a316"
-    },
-    {
-      "title": "BSF, Police Foil Drone-Based Smuggling Near Indo-Pak Border In Rajasthan; Heroin Worth Rs 2.5 Crore Seized - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaWR0MUtJRUluUkJ5TVhCQlBnWUtTamF3R0x0R1NEMkRodnFjakZ5MW9EYjNwN2pjSEFZdUhiN3JvdFVJTTF2dlNPTldCTGtLNXVqcF8zdk53MzA0a0R6RW92REFuLTBRVEpLN3ZqWGVfODVGY3BnMFJfcjkzdnhtYUFhSjFtS2JBQUtWeWJYZ01QM282b0Zyc2NYNGMxMlJqdVplN1IyaFVQRU9Fc2Vza0dTMGRONFJhdE90MWUzdTcxX29PNVZ3enlSQzh2UFJmSFl1ZXpZWnFJZW82dHByQU53WDFibHY30gHuAUFVX3lxTE9yODV1b1V3cF90NXV2YWdiaUoza3ljdVhCRjJYcndZM1hZNnpiVHdTYndGdURpZ2dtSHVabW1LNW9LdUM2RmlaMDJMV3Z6YUgzbkVVWWdkYjZKNUQwSVRyRHc5TUZGdkdDZ0FQLUJiM0JMRlhkRS1zWkxjSXlEYjlVVC0wX3lpdFV6dkRZLUVIRWFzMWx5b1hRX2llV0FUcjdMa2dNYlNRTGhSY3BkLW9NVzBxUC01SzJWcW9lYjFtNUMwTUhTMjdJN2luemU1alJfT3hEWVJ3OHRnV2N2OF90SE12WWYyQzNFZ05Mb3c?oc=5",
-      "source": "ETV Bharat",
-      "date": "2025-11-03T03:48:52+00:00",
-      "description": "BSF, Police Foil Drone-Based Smuggling Near Indo-Pak Border In Rajasthan; Heroin Worth Rs 2.5 Crore Seized  ETV Bharat",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-03T04:10:36.667172+00:00",
-      "location": "Near Indo",
-      "category": "smuggling",
-      "id": "6bde1af43b5a"
-    },
-    {
-      "title": "Ukraine war latest: Russian attacks are 'nuclear terrorism', Ukraine warns, as it says it lands 'serious blow' - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
-      "source": "Sky News",
-      "date": "2025-11-01T07:00:00+00:00",
-      "description": "Ukraine war latest: Russian attacks are 'nuclear terrorism', Ukraine warns, as it says it lands 'serious blow'  Sky News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-03T03:28:36.498222+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "b5530c0259c6"
     }
   ],
-  "last_updated": "2025-12-04T17:08:13.502373+00:00",
+  "last_updated": "2025-12-04T18:08:52.471137+00:00",
   "total_count": 1000
 }
