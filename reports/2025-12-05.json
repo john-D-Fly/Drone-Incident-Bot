@@ -1,0 +1,134 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a notable increase in drone-related incidents across various locations, particularly tied to security breaches and prison infrastructure risks. A series of unidentified drones have been reported in Irish airspace, coinciding with Ukrainian President Zelenskyy's visit, sparking security concerns. In Georgia, the prevalence of smuggling via drones into prisons has been highlighted, with reports indicating nearly 400 incidents in 2025 alone, prompting state officials to alert lawmakers. Additionally, military drones have been identified in proximity to Zelenskyy's flight path, indicating potential threats in the region. Other incidents include drone sightings near airports, which have disrupted air traffic. These events underscore an ongoing pattern of drone misuse, raising significant safety and policy challenges.",
+  "totals": {
+    "security": 3,
+    "other": 24,
+    "airport": 1,
+    "smuggling": 9,
+    "crash": 2,
+    "terrorism": 6,
+    "total_incidents": 46,
+    "by_category": {
+      "airport": 2,
+      "crash": 2,
+      "other": 25,
+      "security": 2,
+      "smuggling": 12,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 2,
+      "drone crash": 3,
+      "drone illegal": 3,
+      "drone incident": 15,
+      "drone prison": 8,
+      "drone security breach": 2,
+      "drone smuggling": 4,
+      "drone terrorism": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Zelenskyy's Visit",
+      "rationale": "Increased drone activity related to the security of Zelenskyy's flights.",
+      "incident_ids": [
+        "733772486383",
+        "27d0f0f9a620",
+        "558c3f3b04d8",
+        "7381b26233f2",
+        "4c16d5eab8f4",
+        "ddc62237023e",
+        "fee88a6466cf"
+      ]
+    },
+    {
+      "topic": "Georgia Prisons",
+      "rationale": "Drone smuggling incidents impacting prison security.",
+      "incident_ids": [
+        "f1fcb466d6b8",
+        "9380a470d179",
+        "78dcade17603",
+        "32dcabc8b1f0",
+        "c2f1ab9ca443",
+        "4b4441da07e8"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "733772486383",
+      "headline": "Unidentified drones breach Irish airspace on Zelenskyy visit",
+      "one_sentence": "Unidentified drones breached Irish airspace during President Zelenskyy's visit, raising significant security concerns.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "97b0f80acd63",
+      "headline": "Russia’s defenses falter as drones hit ports, refineries, cities",
+      "one_sentence": "Drones have significantly impacted Russian ports and cities, showcasing vulnerabilities in their defense systems.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "10d811b5f83a",
+      "headline": "Athena’s New AI X-Ray Tool Spots Drones Before They Fly",
+      "one_sentence": "A new AI tool developed by Athena aims to detect drones before they can take flight, enhancing security measures.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f1fcb466d6b8",
+      "headline": "IDF says it thwarted attempt to smuggle weapons from Jordan via drone",
+      "one_sentence": "The IDF successfully thwarted a drone attempt to smuggle weapons from Jordan.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "7381b26233f2",
+      "headline": "Military-Style Drones Near Zelensky’s Flight Path Reportedly Triggered Security Incident in Dublin",
+      "one_sentence": "Reports indicate military-style drones near Zelensky's flight path led to a security incident during his Dublin visit.",
+      "risk_tags": [
+        "security incident"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "558c3f3b04d8",
+      "headline": "Zelensky’s plane ‘followed by military drones’ before Dublin visit in ‘hybrid attack’",
+      "one_sentence": "Zelensky's plane was reportedly followed by military drones prior to his Dublin visit, suggesting a hybrid attack.",
+      "risk_tags": [
+        "hybrid attack"
+      ],
+      "countries": [],
+      "priority_score": 0.95
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents highlight security risks during high-profile visits and ongoing smuggling challenges in Georgia's prisons.",
+    "linkedin": "The past 48 hours have seen a surge in drone-related incidents, raising serious security and policy concerns, particularly surrounding Zelenskyy's recent visit to Ireland and increasing drone smuggling in Georgia's prison systems."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-05"
+}
