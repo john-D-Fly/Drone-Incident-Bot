@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Dublin probes drones tracked near Volodymyr Zelensky aircraft - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11ckdrTFVJX1lDWmlLbDNmWkVqcUQyY3FIOUl2NnVBY2FlLU1CRnpGZzg2RnpqZmRkVlFuOHFwWXg3NVFJdHNZNVZvMDdvSU5HblhjWHkzX1RudnRIdTRr?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-12-05T00:31:04+00:00",
+      "description": "Dublin probes drones tracked near Volodymyr Zelensky aircraft  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T12:10:08.635699+00:00",
+      "location": "near Volodymyr Zelensky aircraft",
+      "category": "other",
+      "id": "72ec7a3bcc0e"
+    },
+    {
       "title": "New drone sighting around Brussels Airport, air traffic briefly halted - Aviation24.be",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE9zVnR3SlR0U3ZVU3Q1QkhLb0JDNktxLXJPclRiX3pSdG5kal83a19SX0Q5SnpPQmRNZzBZVl84dHZENjBILXJhVXYzcU1yeW1OSEVObzR2WVEwSEdTN1pwdHBYRkhzU2h1Mzd3c1RQRUdmMEZhNy1oeVFiQ2VmT3BRNS1Hb056cGlIVTRnTm9RSnRkMmlOZDh2aHlBNTBtazE3bDhsN1poeTczYnI4b3ozYWJyZjFFTVNGX2tscURucUdq?oc=5",
       "source": "Aviation24.be",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "c73dd57c64fd"
-    },
-    {
-      "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bcm51MGVnQm1Gc3FJaTlFR0Z6RzRILVFoaTdQcXladVotaUowZlZ3VG5LYlhzQm5ZSzVMbU8tbmk4eHdXcm9WbnZyY3RCbVpYeUFEdEctbXg5Zw?oc=5",
-      "source": "CBC",
-      "date": "2025-11-03T09:34:32+00:00",
-      "description": "The Breakdown | Heather Hiscox + Drone smuggling  CBC",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-03T14:05:43.496568+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c0a2d3dfb96c"
     }
   ],
-  "last_updated": "2025-12-05T11:05:55.254566+00:00",
+  "last_updated": "2025-12-05T12:10:14.909105+00:00",
   "total_count": 1000
 }
