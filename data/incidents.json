@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Exports push FAA rules as Florida sees spike in unauthorized drone flights - Spectrum News 13",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdlkzQXo2QXotNWtrTkhOeEw0b0VjV0RJRlA5ODVEMjd4Y2lJWElIWWUzczdRVE02d2hXY1JUSmd4YnpERHB2bUx1ME9nckVSRWQ4S2FkYkp6SUo2cVVmZi13OHdRTzVVY3VJdlZYbE9LbmplTi1aRjRlRDg2bUxPNlUxVXVOSkkwQ2FONWNFYS1zWVlSZTJxY3pHbloyVjFDTnVtcXJtUVp5ZkZwTk5EV01QTGJCQVdpRkY0TXRpVG5QLXpOQk1wdU5NWXl2N2hQNDJSanV6MW1KUWdJb3BSMEdB?oc=5",
+      "source": "Spectrum News 13",
+      "date": "2025-12-05T14:01:00+00:00",
+      "description": "Exports push FAA rules as Florida sees spike in unauthorized drone flights  Spectrum News 13",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-05T15:05:58.982122+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "105b74e670c4"
+    },
+    {
+      "title": "Irish government figures briefed on drone presence during Zelensky visit - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54U3RCZGMyX0FnN3NNN3JVcEVaTnJ1QmRYck50cTAxMjg5ZUZBbGp0dHk5NGZWdFV5VzMyNUxZbUpKbEpPaFl2TXM1bFU3ZmVaU1JwUl9GaUZnd9IBX0FVX3lxTE81VFVORTlUVHdjOVZoWU56R3d0UkJoLWRfNUlyZldIZkNvYmdzQ0k5cHdnaC1DY3dDZEhKdHpQc2ZCMS1SRlY0ZUQtejRLSW82eHRJSDBaVUpTbXZTZmI4?oc=5",
+      "source": "BBC",
+      "date": "2025-12-04T22:26:43+00:00",
+      "description": "Irish government figures briefed on drone presence during Zelensky visit  BBC",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T15:05:49.459013+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "030347edf5b6"
+    },
+    {
       "title": "Drones buzz over French nuclear submarine base: AFP - politico.eu",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYS10RWlQbmJWQTNaUzdtLV9KcDdYY2o5TWpSWGg0UFRRS25TaDZXekhueGo3elF4THlhVDV1Tmw3UlZPWkJFWXZQQ2ktSzJLakJENGhJMnBtUzNPR251M1E0MnE5S3RRX1BTOFNPN01zNkxhLUExMGNXWWRWaEctVzRZRQ?oc=5",
       "source": "politico.eu",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "1f1d02e1313b"
-    },
-    {
-      "title": "Drone vid shows Hamas loot aid truck as terror group demands safe passage - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zbkU4WE5adGtuakxoVWZiYXAtYWFkdWhmeHlHWURVSTNDcmRLRUdxWWltVFNocVA2cTItV2hadFBzQXE4TXhJalgtTmZuRGZPd1pqaFVNWm1RVVdaQlRZb1A5REZ1ck9YX3ZMUTNjdi1Dczk5?oc=5",
-      "source": "The Sun",
-      "date": "2025-11-03T11:27:00+00:00",
-      "description": "Drone vid shows Hamas loot aid truck as terror group demands safe passage  The Sun",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-03T17:05:37.353894+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "00b54441988e"
-    },
-    {
-      "title": "The Breakdown | Heather Hiscox + Drone smuggling - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bcm51MGVnQm1Gc3FJaTlFR0Z6RzRILVFoaTdQcXladVotaUowZlZ3VG5LYlhzQm5ZSzVMbU8tbmk4eHdXcm9WbnZyY3RCbVpYeUFEdEctbXg5Zw?oc=5",
-      "source": "CBC",
-      "date": "2025-11-03T09:34:34+00:00",
-      "description": "The Breakdown | Heather Hiscox + Drone smuggling  CBC",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-03T17:05:33.615500+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9440d95dc869"
     }
   ],
-  "last_updated": "2025-12-05T14:05:55.006015+00:00",
+  "last_updated": "2025-12-05T15:05:59.992466+00:00",
   "total_count": 1000
 }
