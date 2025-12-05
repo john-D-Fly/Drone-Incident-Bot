@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "France intercepts illegal drone overflight at nuclear submarine base - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2NmZkx2R0UzYkVKSDlVWk1heFo4bk01RG9iWHpXcU1tMkpmX0RiX1JoYWpiemthQTh5WGpfN1IyZkxHZlBGb1FqZ3hDYm9KdHlUZFhQc21jR1k1NWRzYkxNaUdUTkI1NEdoMkdIS19CQWNGaXNtUk5wS3AxVlRJU1JUamVlQkhMajBuVjBjOHV4UFBQd0V2ekJGcVV2aF9wWEJ0cFMyNTZDeTJ1US1TWE1iQWs?oc=5",
+      "source": "KSAT",
+      "date": "2025-12-05T15:32:39+00:00",
+      "description": "France intercepts illegal drone overflight at nuclear submarine base  KSAT",
+      "query": "drone illegal",
+      "detected_at": "2025-12-05T22:05:10.891323+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2da69127d874"
+    },
+    {
+      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
+      "source": "AOL.com",
+      "date": "2025-12-05T19:20:06+00:00",
+      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2025-12-05T22:05:09.516672+00:00",
+      "location": "at Brussels airport",
+      "category": "airport",
+      "id": "62d6d7eaefb0"
+    },
+    {
+      "title": "Ireland to hold Security Council meeting over drone incident during Zelensky visit - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWwtaEhOSWtrQUw5NkV4SHhvQmpWUXI1Vi1qSDRKMlpzdUxDbjRvVGNyNHczd29DUUt2cW1kYkFZSnRmdHk5bFFPenNSbDNwODVZU0pGOURyWFZHLWt3QlVLNldyZk1fR0ZyWVZnOWxZdWJvanhrblJsOEREMXBxbF9GR3RBVkF6d0hFNklTTGpCdUpib2dSYU9RWjczNVBaUnh2LTNGQ1A3d200dnA1SG9tRVdCRlVzRU9QdFZMTl9mVDNaaUdlUE5qdELSAdIBQVVfeXFMUHEwcVlTMXcxSmlFYUNKdE1TeU9GUEQ1bmhNNGk4RnNHcWY4ZUhLNUZUTlR5MDl2YW1JT05NZzFQMkRmSUxNMjhlUnMtdzN3ZHhnY1BUb2diTW1GWXE4ZHJhTC0tZFVYaHVlQllRSy1IOWFGS2EtRkpjZDdpSFJxLXdCZGQtMFNUekNLQnBKZDBCeDJ3QzFHMGxzblJKa0k4Sk5XbzF4VDMzc2lPZGdoTlEtUVNlNGxpSTZ1V0h0akRrVGlLdHlXb21NUDBrRnBvUnhn?oc=5",
+      "source": "Ukrinform",
+      "date": "2025-12-05T18:39:00+00:00",
+      "description": "Ireland to hold Security Council meeting over drone incident during Zelensky visit  Ukrinform",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T22:05:06.838004+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e4a83b95c921"
+    },
+    {
       "title": "Florida seeing spike in unau­tho­rized drone flights as experts urge holiday buyers to learn FAA Rules - mynews13.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdlkzQXo2QXotNWtrTkhOeEw0b0VjV0RJRlA5ODVEMjd4Y2lJWElIWWUzczdRVE02d2hXY1JUSmd4YnpERHB2bUx1ME9nckVSRWQ4S2FkYkp6SUo2cVVmZi13OHdRTzVVY3VJdlZYbE9LbmplTi1aRjRlRDg2bUxPNlUxVXVOSkkwQ2FONWNFYS1zWVlSZTJxY3pHbloyVjFDTnVtcXJtUVp5ZkZwTk5EV01QTGJCQVdpRkY0TXRpVG5QLXpOQk1wdU5NWXl2N2hQNDJSanV6MW1KUWdJb3BSMEdB?oc=5",
       "source": "mynews13.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "1011f76c48fb"
-    },
-    {
-      "title": "Ukraine attacks petrochemical plant in Bashkortostan with drones, Russia says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEdNN1VSeEc4Wmt0ejRKU2FQUnBDVWZ3VGpnWktkTWVJZ0cxVHJNSmVnNThwa2hxOFVaTEJVQmVGczh0R1N3a0tldHZJN3VSMEJYWXotNGJJMGs3NTh0ZmhKN19CZGhxa0tXWG5LbnlJRlVDX3VkaXZWQ3BmVnJ3S1Z2clFybXpLYnpLN1EzbloxOGlyVkRkdl96dk44WGRSMThYVWNfUG1rYkdRekhYVGNiWEUxQQ?oc=5",
-      "source": "Reuters",
-      "date": "2025-11-04T04:59:00+00:00",
-      "description": "Ukraine attacks petrochemical plant in Bashkortostan with drones, Russia says  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-04T15:05:59.202029+00:00",
-      "location": "in Bashkortostan with drones, Ru",
-      "category": "other",
-      "id": "3bac3be97d49"
-    },
-    {
-      "title": "Drone busted with contraband outside Washington state prison - WJBF",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdndZWFVQZm1xbU9XUmVuRlo2bDhyR2phWVExX1c3cGpuMi03cU1kZl9QaTZINWNtWnRUWjF4Tk1IVWluUy1oYUxNcjBaWVlPRk10SzRXdFYxOW56ZTNRUUdERWVtQ3BCZFBqSl9Eb3hITHBOV2lfRkZVRHRLQ2RGT2pOR2hxY3ZjVmRmZUJVOHpNb3VuX2Jhemo3Mi12bHfSAaQBQVVfeXFMT2dPOGVZcW55VU51TE9NbzB3YmRxWjhQUlVzNU1PdVRhdDNpMmZadWQyVHMtaXJtazhFNjM1cGNwNTNnT0ZFdTN6UkVVNlI4aF9NVVNFXzZjYVU1SE0wTDFGcThsazNVSm40T19wMmc4RTNQUFMwQjk3ZjB6SnV3TVhQQ2lPR0hXWmFZbVFJTUZvdFgtM0ljMEZ6Y1dhSjlPZ2l1Mlc?oc=5",
-      "source": "WJBF",
-      "date": "2025-11-04T11:53:41+00:00",
-      "description": "Drone busted with contraband outside Washington state prison  WJBF",
-      "query": "drone prison",
-      "detected_at": "2025-11-04T14:05:44.646523+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e4a362ced5f5"
-    },
-    {
-      "title": "Drone busted with contraband outside Washington state prison - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEFIQnBRTU1GVDM5NndEdGZYeEIwS01mczFLOGxPTFdOZzJzODZ3S2ZCN3hwTUtuSFoweVNUWnZxaS1vci0zMW5vV1h4NEdGOW9DVGpEUDN2M0RzZ0xoY25kUVVhX3FKUVR1VGtYQUE1RTBqVGVlVnVyT0hRRTNpNlBTMFBCaUJkTHI3SFdpZUE3NGx4dHMyWQ?oc=5",
-      "source": "Yahoo",
-      "date": "2025-11-04T11:53:41+00:00",
-      "description": "Drone busted with contraband outside Washington state prison  Yahoo",
-      "query": "drone prison",
-      "detected_at": "2025-11-04T13:16:06.329682+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b553dbf4aeaa"
     }
   ],
-  "last_updated": "2025-12-05T21:05:33.327560+00:00",
+  "last_updated": "2025-12-05T22:05:13.378881+00:00",
   "total_count": 1000
 }
