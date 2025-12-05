@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF says it thwarted attempt to smuggle weapons from Jordan via drone - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcW5uX2M5U3ZiMFJmSlFsNGxPamMyMjZzVXZac2ZEa2F1T3NnYlBINERBNkdzUVpYS3QxWVFiNnVTSHZiU2QwdnJmRktPZUFzSURURWtzbkNzWEktejFBOUhTenpmbXhjX3loMHMwMnhDTlZ5Nm5lMWFWRENOUEtVc0xJUDVIRnN5VVVXcUFvbHYtZzUxZml3WGVGTVYyQXh1TVNLMEdjdExZR05sbGtLWFJoenc1dw?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-12-05T09:14:42+00:00",
+      "description": "IDF says it thwarted attempt to smuggle weapons from Jordan via drone  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-05T10:06:35.260163+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c4929c69bc5b"
+    },
+    {
+      "title": "Military-Style Drones Near Zelensky’s Flight Path Reportedly Triggered Security Incident in Dublin - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aWFFQLVVJQU1jUGV4bjVlT3F2Y0UyOTVOZ1Q4SUREZ1IxN3AwejBpMEIzSTF6SDVJMGtpMk90NVhDdFNDOExSSGs2SQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-12-04T18:46:32+00:00",
+      "description": "Military-Style Drones Near Zelensky’s Flight Path Reportedly Triggered Security Incident in Dublin  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T10:06:34.127497+00:00",
+      "location": "Near Zelensky",
+      "category": "other",
+      "id": "7381b26233f2"
+    },
+    {
       "title": "Democrats, Press Gloss Over Original \"Double Tap\" Operations - racket.news",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92QmpON2FURzdZMTBTWGZDYUk0MW5IYzlSWDNRQlpTNFdaWU5fLUE4LVBuYTdpUUpEbmlfZGtQQnB5WXNfVnZVTUNmWG5fdW15eE9aNjJWWkJTaldnWWd1SFFDVUhCbzlXNm1OZHR3?oc=5",
       "source": "racket.news",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "12e394d8a49d"
-    },
-    {
-      "title": "Ukraine war latest: Russian attacks are 'nuclear terrorism', Ukraine warns, as it says it lands 'serious blow' - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEJKOWhIU1Nza3FSaEQxXzkzQnYyOGY1MEJmcjU5V29fZjh5bzdOOTh6WG52dFRTS0xMbDFxWFJrNE55V1BCRS1FSnZ2djJOc0ZydkNkd3ZNOVhZeVpHWEx0TVM0WkhFUjRxcnMwdENnN0dBcmZyc284anN2SGl2a18yd2VURXRSQk56bjhUUkktRFMxQ1QzVkZIOUo0a21YQ0lhamJpZkxTOEVVQndFTWFsa0wxcXRtLU1QLTFIUkdoWHlUVERwYmxKQXczelZaV0xoc3k3cjEyRlFZ?oc=5",
-      "source": "Sky News",
-      "date": "2025-11-03T07:56:37+00:00",
-      "description": "Ukraine war latest: Russian attacks are 'nuclear terrorism', Ukraine warns, as it says it lands 'serious blow'  Sky News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-03T12:09:45.047030+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "4c76635b7f22"
-    },
-    {
-      "title": "Ukraine war latest: Trump says he's not considering giving Tomahawks to Ukraine - before comment that will cause concern in Kyiv - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
-      "source": "Sky News",
-      "date": "2025-11-03T11:51:54+00:00",
-      "description": "Ukraine war latest: Trump says he's not considering giving Tomahawks to Ukraine - before comment that will cause concern in Kyiv  Sky News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-03T12:09:45.047030+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e89d49a8a47e"
     }
   ],
-  "last_updated": "2025-12-05T08:07:50.793914+00:00",
+  "last_updated": "2025-12-05T10:06:39.951714+00:00",
   "total_count": 1000
 }
