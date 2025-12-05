@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Illegal drone shot down at French nuclear submarine base - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYkN1SWU4eWgyMXpTS082clhMSE1jdFVhT3VwY2ZJYUhwTHRDc2FuNXgxdzZONmhKZWk4V0ZrUEVDcTRaNDVEa3M5T3dFOXJXOTF5dmdGY3NkZWZXYUV5RVp6elRBYy1DcXBQOFNLZDdJVlNrOG9HZjBDM0Q4T3J1ZlVOTmtxUURvZTIycXdlTXUyR24xbGQ2NG5SS1U?oc=5",
+      "source": "The Independent",
+      "date": "2025-12-05T18:01:00+00:00",
+      "description": "Illegal drone shot down at French nuclear submarine base  The Independent",
+      "query": "drone illegal",
+      "detected_at": "2025-12-05T18:06:50.230595+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "699427089d09"
+    },
+    {
+      "title": "France intercepts illegal drone overflight at nuclear submarine base - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM3NqMDZTdElkbk5QSG9na29OdHFMTG1qN2lEUUdjSE9nYnZHLU1SREMzMS1uTElsYUotYWFUNl93ZUZ3OURmbTRlS3BxQzVIVmJrYUd3amZOMjZJbllUTEJkcHdXNG02LXFwdEpsa3hUZDFBU2xYcWJsUnhoSUFQZzB6elVqcnAtQzRnQjZ3Vm1RcHJmUDZMVDZmcFJ0VDF4OXBzQmQzR0NIdw?oc=5",
+      "source": "AP News",
+      "date": "2025-12-05T15:31:00+00:00",
+      "description": "France intercepts illegal drone overflight at nuclear submarine base  AP News",
+      "query": "drone illegal",
+      "detected_at": "2025-12-05T18:06:50.230595+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "27deb9c8d26c"
+    },
+    {
+      "title": "Smart drones and smuggled chips: How Iran wants to join the AI revolution - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEdBb1U0WWxmRk9SQlRXMkNNaTZuTS1aOGRRNEZMWS1TMU8zWEQ1V3JsMHBhYV8tb3B1enZaQmtxRFBIRmpEQnJXTHY0ZnY0MUlCZnNzN2VEb21mZ2pvSFRkak42LTNUdk1BSV9iS0lpT2dNd2traFNuam1SdlZjWmZpTTk3TTIwODloSEtrelJxRkVOWTJENEhHdw?oc=5",
+      "source": "thenationalnews.com",
+      "date": "2025-12-05T18:04:18+00:00",
+      "description": "Smart drones and smuggled chips: How Iran wants to join the AI revolution  thenationalnews.com",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-05T18:06:46.099367+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "96c4eef6ebc6"
+    },
+    {
+      "title": "IDF Foils Drone Weapons Smuggling Attempt from Jordan - VINnews",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3Y0UHMwU1pQNEg2dzhJOVJPMnZFNW5uaWpzOUc1bWVJQXI4dE9ydlRVMjBIekJQZDc2RV9qVnlaYk1DVXk3UFNJMk1OS3NIQlpteUZiMmtmeHlUd1djeWhuaDg5OWYwT0pMZUxhOFRlOUNjZFZDNHZ2cUF3SzdJeHlBMkN5Y2J3OVRmZzRR?oc=5",
+      "source": "VINnews",
+      "date": "2025-12-05T17:26:42+00:00",
+      "description": "IDF Foils Drone Weapons Smuggling Attempt from Jordan  VINnews",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-05T18:06:46.099367+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3afff5c783f8"
+    },
+    {
+      "title": "French Military Reportedly Opens Fire on 5 Drones Over Nuclear Submarine Base - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15NG5QZHJqNWdJRngtak9ib0JWWGZwZVY5VTJxNGhzc0RHVEVaaUp2dzBEQk5FQzFUbkpwR1VhVHMtdURPN1FjOU9EOA?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-12-05T17:26:28+00:00",
+      "description": "French Military Reportedly Opens Fire on 5 Drones Over Nuclear Submarine Base  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T18:06:44.746010+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "528209ab9fff"
+    },
+    {
+      "title": "French soldiers open fire on drones over nuclear submarine base - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlhqNGFZR2F4TVZXSUxYVnRLSG1PcW5UZThNZGdDYm9Lb20zZjh0YXdFc21WbGNxeVlSdVYxbm83MkgzUTRSVGRwV0l4T2JreVVNYXpyc0E3UFB0Y3R0YmstZE1FbVB3QVNWRzhIT1Q1OVhGZEFWUlh1bWtJQ0tKZXE5cGVwNGVoa1N5MFI1aFMzc3VHbF9oLXhFd29Pd3N5?oc=5",
+      "source": "Euronews.com",
+      "date": "2025-12-05T16:17:35+00:00",
+      "description": "French soldiers open fire on drones over nuclear submarine base  Euronews.com",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T18:06:44.746010+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a812edac7d99"
+    },
+    {
+      "title": "Unidentified drones breached Ireland's airspace during visit by Ukraine's Zelenskyy - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRNHJucjA1aFA0bWVwSlBkYXBUQWM1czlQZFVLd2VQbm1xWmh5N3pRY1hlcGZvOHZJeW43aTJvWmpNVHJXVzZfUDlRQ01SbERoallQQS0wME1EUzF0OEV4UlNSM21NSlMyemNVYk5mMGdWRUl6Y0lJ0gF8QVVfeXFMT0hFb1RpUGZBRW1lYmw3OGhfblNrd1puVlU4TkpVZTdyVkd2bUVFeW5oSzdMZGxkd2pjY1VTVThNZU5PaG5TZjFpWnIzcUZQb1E5czJ3VFJLTlp0T01yakxNSXdXa2pOMDRSbHJpZV92emxxX1ZuS2k5RlAxMg?oc=5",
+      "source": "CBS News",
+      "date": "2025-12-05T16:31:45+00:00",
+      "description": "Unidentified drones breached Ireland's airspace during visit by Ukraine's Zelenskyy  CBS News",
+      "query": "drone incident",
+      "detected_at": "2025-12-05T18:06:44.746010+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "267c0545886d"
+    },
+    {
       "title": "Irish PM confirms drone incident during Zelenskyy's latest visit - Українська правда",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zTHVFbVFLMVZxVTVtR2F3Z04tQ2dyZEE4S2U1LXZSX3ktU096UXJSNFhBbkNmOGkxUUI1cFhKX3d0TWswZ1ZfZHZFV2dWV3Zja3ktbXJTRDlXcTc0ZkxnVDdJdTTSAXBBVV95cUxNLXhUYVNVVDJ5N2FNeXBwLVM3R2tRdFlSMi03N29HQ0JyakpWZXNGdGpVRDNHemNVU21WUEpHTGxpeHNhb2xPdkVfZzFZYV96RHBNT2VtSFNnOVRfaTVQQmVoZ0ZuaElvWEpEZHhXTUx3?oc=5",
       "source": "Українська правда",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "c4c1da2334f0"
-    },
-    {
-      "title": "Drones spotted over Belgian military base for third night - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44XzctMkRpZDN4MmdGbEF6LUdybWxmUGdvcFQydlA3R1A2X3RWVGpRZUFRSWRiOExwSlVzeVhDdEtVektuTS1QclJxQ041WGlhQWRUUnRCeUFDQdIBX0FVX3lxTFBjdEpoT01sZ1U3X3g3M2tjTm5MUnpxN0RWNFZlODNkbllQOUxGVmxjdEtEMjVDRDdxTS1PV29OWEM0Zmc0WFhaX2VxTHVPenNCMV85eEFTSzJ5NjBSc1dJ?oc=5",
-      "source": "BBC",
-      "date": "2025-11-03T13:41:37+00:00",
-      "description": "Drones spotted over Belgian military base for third night  BBC",
-      "query": "drone incident",
-      "detected_at": "2025-11-04T08:07:30.982831+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "90b0ec4b726f"
-    },
-    {
-      "title": "Amphibious Warship Returning To Caribbean, Report Claims U.S. Planning Strikes On Mexican Cartels - The War Zone",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDN0QnF6RERiNXRhaEQyT0QzaFBVaGdZQU1GZ1l3RWxDTzk0Q3lOQ0Fmc0lkRmlFa25KWHdCT2JMdm8zbm05S0ppaVE3Sm5mQkFUUnJDSmtRRkxWbTBvMkRPQTZUcTBxdnpuRXo0cVR2U3NjaTRjYmtabjRaX056aW1vbnA4MUk4dHlId1JOOVpXM25hRlhaOEFLNFpTRVZReHI1WnZRMUV1elFFY0NUNC1rd0h4V21aYVh2eVJmRVRsUEpWczZHaXVTN0FUdw?oc=5",
-      "source": "The War Zone",
-      "date": "2025-11-03T22:11:41+00:00",
-      "description": "Amphibious Warship Returning To Caribbean, Report Claims U.S. Planning Strikes On Mexican Cartels  The War Zone",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-04T05:06:17.301798+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d4c7dc9db393"
-    },
-    {
-      "title": "Ukraine war latest: Trump addresses Kyiv's Tomahawk hopes - as drones spotted over military base housing US nuclear weapons - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVktcG5UOFp1VVVVQ3hIMVJGeVRWcS1jdV9WQWFZb3NLdEttMEEwMEtRS2dBU1djTGg0OGxGLWUxM3kwcU1zVzhBVmtEM2pwVC1jZS1GdnBZNWdRM05xM0Q2Wk9jckRhLXVaNUxGam80WXZFemFXeUpDTTJUM2JpV25QUi1DdU9MdjBzdS1YWjc3SVZYYkNxMUFIQUJqb1JYdmFlN1p3b3VVUEdRUjVDdHRSOGZlQQ?oc=5",
-      "source": "Sky News",
-      "date": "2025-11-04T04:21:56+00:00",
-      "description": "Ukraine war latest: Trump addresses Kyiv's Tomahawk hopes - as drones spotted over military base housing US nuclear weapons  Sky News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-04T05:06:17.301798+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "a4b02619dc7a"
-    },
-    {
-      "title": "'We report gunfire, military says its nothing': drone smuggling torments border communities - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xc0dMVTNXbVB4LWVOOGd5eFdaX29oQ1MyN0VHaGt0cUxNa2RqRVBTZEo0cTVBS29zT3pHLUxpUWNtZ2JtckRwamtaTHVraUZ5OHJERnFR?oc=5",
-      "source": "Ynetnews",
-      "date": "2025-11-04T04:30:30+00:00",
-      "description": "'We report gunfire, military says its nothing': drone smuggling torments border communities  Ynetnews",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-04T05:06:13.849383+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4ea04b56bec3"
-    },
-    {
-      "title": "Drone Sightings Halt Flights At Major German Airports - evrimagaci.org",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3RMWHRacWxvd3kwbFlqZ0U2dS1vUFVrNUloOTdSX29PM1pZQ2hMT1pWcVdxT193REdMZ1hyN2JUZWdJVjNJS3pPeVE5d2U5bHp1UkpEMG91MTdSaEI3dmJSR18teVgxeEU5Vkx0STlZXzU0SzNwc0tqR0VHRkg2WFdPZXZmZ2hkSVlkaENLQzE?oc=5",
-      "source": "evrimagaci.org",
-      "date": "2025-11-03T15:05:53+00:00",
-      "description": "Drone Sightings Halt Flights At Major German Airports  evrimagaci.org",
-      "query": "drone incident",
-      "detected_at": "2025-11-04T05:06:12.653319+00:00",
-      "location": "At Major German Airport",
-      "category": "airport",
-      "id": "a4a90136c84c"
-    },
-    {
-      "title": "SWAT uses tear gas, drone to make arrest on Congress St. in connection with Aug. overdose death - Manchester Ink Link",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV08wQ3ZSbjk2N2ZXbDFyaWZxV3owdWY3c3VEZ0djN05odmtOT1Yyc1puODdTOW16RUZ3aDlqU05CTFZORldQdzBxZEJQUTJnV2NKZFVGTTBCLU9raHZVamZZc0xYZ2hHbDBnUjBULWRzWndjVXZoY3Z4Qmoydkt5b0M4ckxWejVlQXZsLTVxVTU0SnlPWlE2ck1RYXdoeWZNZ3pBUngzRHVXak5GeHZHY0UyMG5ad0VkQ1U3U29NMDVTTkU?oc=5",
-      "source": "Manchester Ink Link",
-      "date": "2025-11-03T12:10:26+00:00",
-      "description": "SWAT uses tear gas, drone to make arrest on Congress St. in connection with Aug. overdose death  Manchester Ink Link",
-      "query": "drone arrest",
-      "detected_at": "2025-11-04T04:06:30.301091+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a99208f7c8d9"
-    },
-    {
-      "title": "‘Security Breach’ At NATO Base Guarding US Nuclear Weapons; Belgium Issues Shocking Drone Alert - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaVZuSDhsSndlbm8tVmhJT3NfeFpnUTlHM1NSYi1lWHJBTGJWWEp1ZHI2N1U4NnNFNWN2ajlGOGZRYmtfOHkycko2T2MzdGtGUEY5eHVFeGZmb3hLLUU2ckVWVVQzTGp3dUIweTJDbzRtWHRZMlUxZkhYaDgxX19WeVotMktHLVJtTmE1bV9WU0JXV2pjdENxX3RCaWF4UlZpNnYxSGZpMUxwWlBKcFdZTmUyejEyUV9hWnBSZ2ZqT09qSDdkdHBOaGQ4ckNoZkI0YlA1dmxISUV1Y19wSHhoUEVqRlJ5S3dDVGV6NGJpenR0WEJxU0QzWlI4Njc5dnduTXU40gGIAkFVX3lxTFBzMjlxZ1U5N3hYbnJUbTd0SWdoOU42TjdabmQwckxUZUh6Z19UNmppQ0ZscW56UE5BbkdGUXEwb24zeGVTN1ZMV1FyZkdTVUtPWXhxZS0ycmt5Z0NJVlFVd1BHNlIwbFlxanlWUDAwdGFPVko4dGJoVlRUMllHbTNjbXFtbnZlYkRrZFJMcEVxdUJFdjN4Ylk2NS1EMTEtWU5SNTcwVUphdGFlVEE0YTVuRm5VVWYwVUxqQUxNczJHRUZrcVk3TUNPZmZYU0doQXRIcG1VcGRmcHJ5OHpWenhWSjJnRl9pUWhFb1FocHd6STNVU0ZZUjFDSnh4dXg2Z1MwV09xMm50Yw?oc=5",
-      "source": "Times of India",
-      "date": "2025-11-04T01:35:00+00:00",
-      "description": "‘Security Breach’ At NATO Base Guarding US Nuclear Weapons; Belgium Issues Shocking Drone Alert  Times of India",
-      "query": "drone security breach",
-      "detected_at": "2025-11-04T02:35:21.634832+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "0e6638abb943"
     }
   ],
-  "last_updated": "2025-12-05T17:06:41.016255+00:00",
+  "last_updated": "2025-12-05T18:06:53.078241+00:00",
   "total_count": 1000
 }
