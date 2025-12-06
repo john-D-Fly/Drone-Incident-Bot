@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "French forces intercept drones near nuclear submarine base - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzNVhTZHhBeE5yODRIZ3dwNTlubGtza1AySEhLMnNxRHVZbllZT09CU2hMWlJqY1B0X0pmVk9pQ0ZFOUsxclpuUmNzdTNHUE1IejhRckxSQUdNbEtMTUdIcHhXcVd2MzZKT3dRT01EN0VRdFhLMGkzblJn?oc=5",
+      "source": "Axios",
+      "date": "2025-12-05T20:07:18+00:00",
+      "description": "French forces intercept drones near nuclear submarine base  Axios",
+      "query": "drone incident",
+      "detected_at": "2025-12-06T21:04:54.313352+00:00",
+      "location": "near nuclear submarine base",
+      "category": "other",
+      "id": "7e8b89399185"
+    },
+    {
       "title": "Drone Strike Breach Leaves Chernobyl's €1.5 Billion Safety Shield Unable to Block Radiation - Zoom Bangla News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2pxN3Z6dEY1aElFQmdfUEFDb2NTUUdhVDlhcjB3VzcxYkk5dFc5SE9IT3dLWV9zY2trb2dleFRfY3R5dkRYdkxBeEhsXzdfUGR0WFFCY0Rxd0V3WjRUTi0zQXNfMkh5N3diZGs3VkVfeFFrN3JKblFXQlhkM0N6akcyMzFVMWFoN0pDUEphbXBzQm5semtfUnQyM2RqNm4xdFFSTEFCV2R4NVFWdF9tNTdlQ29WZ1Z2T05pcA?oc=5",
       "source": "Zoom Bangla News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "5a82fd35541e"
-    },
-    {
-      "title": "US military kills 2 suspected narco-terrorists in 16th military drone strike: Hegseth - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdy01LXJZQ3dZZGxJVW1SeERKMlZyTEZZM25zeHJKVXFMMzRRZS1RSjFyMXZCbU51VTVucVdycmN5YmhLeTV3U3V2MlRDVjY1TmJsX0V6SzZ6ZzZQdmdaclhUUEpFekFxY0FPZFdWSWR0TC1RTVFsMTlKWHg5TUFsbVg4YmVYS2hEWUN3cXlQMmhqZDZMQnllcmF2NDV2OVhCSmFzNmVGempHMGpGbXJTejR6SkhwdGNSNHdGb3p2bXE?oc=5",
-      "source": "New York Post",
-      "date": "2025-11-05T02:10:00+00:00",
-      "description": "US military kills 2 suspected narco-terrorists in 16th military drone strike: Hegseth  New York Post",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-05T02:35:36.179329+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "3c48b4671caa"
     }
   ],
-  "last_updated": "2025-12-06T20:05:35.090674+00:00",
+  "last_updated": "2025-12-06T21:05:00.744456+00:00",
   "total_count": 1000
 }
