@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "France intercepts illegal drone overflight at nuclear submarine base - WYTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXdldENFTkpjd0VkVXAtcHJfRFNCcl9TTXJZOGFJSDF1TDMxWEMwZUJGNUVNOU1FLS1qNzlYZzVnTkVZU3NvWXNoeEFSZ1dXX0U4cDg3ZlpFZ1p2empQQU5jM2hNd0lrRnVtVE9ZVWVJVmhKb01fcVloZFpPNGpCWTdJWkJOOUJhZEMyeG02Mjd5YllVQThkRUNfX29Td2F5ckM0cUFKcVhES3o1YXBVbWxlLUJaN1dSRWfSAb8BQVVfeXFMT3BYc2ZQb2VPV3publJ5Tl9hZl92V21ENDg0bnpVNmVVUUFtbVdwLWdxR0pZeFhCTkI3Wk9WUjEzLVpLS29Rd3NEX2trMzlPVVUtNE5Hb1JWa3haSGV1cXdzXy1HcWFrV1phLUN0ZDB6NjN2QV9GdTNmeFJxZG93dVVtRFRVbnlGU010ZkRfMWZ6MTNrTDVzemI5a1lTSVlVSjgyME45WHRIUTFNZ2wzQXdUZVdOcmdNRUs2ODBoUVU?oc=5",
+      "source": "WYTV",
+      "date": "2025-12-05T15:31:28+00:00",
+      "description": "France intercepts illegal drone overflight at nuclear submarine base  WYTV",
+      "query": "drone illegal",
+      "detected_at": "2025-12-06T22:05:04.635927+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "da289f2cba2a"
+    },
+    {
       "title": "French forces intercept drones near nuclear submarine base - Axios",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzNVhTZHhBeE5yODRIZ3dwNTlubGtza1AySEhLMnNxRHVZbllZT09CU2hMWlJqY1B0X0pmVk9pQ0ZFOUsxclpuUmNzdTNHUE1IejhRckxSQUdNbEtMTUdIcHhXcVd2MzZKT3dRT01EN0VRdFhLMGkzblJn?oc=5",
       "source": "Axios",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "60a71bed9d13"
-    },
-    {
-      "title": "Brussels, Liege airports closed for hours due to drones - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMExQRnZmTHBsUmFDR25YQlAtMmVRZ1F1c2ZmdFV4eUh2NTRRb1JWVmZ5ZFQ3d3RadURKaVJCUklJM1RzUXJaR09PUmFqYWwwaFFwd1dFUlFmanZyNFkxY1B3QjJCaTJkM3dZUEl2MjRhUnhFUUxpVFVheEVFclp1M2p0TUhzZWJEUlU1dzdWZG5wQzN1X09nX3NZbw?oc=5",
-      "source": "Reuters",
-      "date": "2025-11-05T02:05:00+00:00",
-      "description": "Brussels, Liege airports closed for hours due to drones  Reuters",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-05T03:24:28.135766+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "5a82fd35541e"
     }
   ],
-  "last_updated": "2025-12-06T21:05:00.744456+00:00",
+  "last_updated": "2025-12-06T22:05:07.593490+00:00",
   "total_count": 1000
 }
