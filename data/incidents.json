@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "France intercepts illegal drone overflight at nuclear submarine base - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelVDdE9TdllxN29QQTk2V2tVdDBlY191cFdSMWFPQzRUWVVzQ2x5Zkk5YzZwWkppRkpwNS1ucm1sWGNvMDVpY3ZUbHp5ZFZhUUp3X1R3S2dVd1lXQTIzSTZwLTN6VDdISnRDSWE2cWlDQlppVUZfWm5sdzhuUmhEVzJmY3EzeDlDeTBUTmduUWRScVd5NUVTVE9Ma1B1WDZKZVVfNXUzN0UzSU40dzBZT0NPNNIBswFBVV95cUxQelVDdE9TdllxN29QQTk2V2tVdDBlY191cFdSMWFPQzRUWVVzQ2x5Zkk5YzZwWkppRkpwNS1ucm1sWGNvMDVpY3ZUbHp5ZFZhUUp3X1R3S2dVd1lXQTIzSTZwLTN6VDdISnRDSWE2cWlDQlppVUZfWm5sdzhuUmhEVzJmY3EzeDlDeTBUTmduUWRScVd5NUVTVE9Ma1B1WDZKZVVfNXUzN0UzSU40dzBZT0NPNA?oc=5",
+      "source": "WSAV-TV",
+      "date": "2025-12-05T10:31:28+00:00",
+      "description": "France intercepts illegal drone overflight at nuclear submarine base  WSAV-TV",
+      "query": "drone illegal",
+      "detected_at": "2025-12-07T01:34:08.335113+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ccfbe97db434"
+    },
+    {
       "title": "French forces intercept drones near nuclear submarine base - Axios",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzNVhTZHhBeE5yODRIZ3dwNTlubGtza1AySEhLMnNxRHVZbllZT09CU2hMWlJqY1B0X0pmVk9pQ0ZFOUsxclpuUmNzdTNHUE1IejhRckxSQUdNbEtMTUdIcHhXcVd2MzZKT3dRT01EN0VRdFhLMGkzblJn?oc=5",
       "source": "Axios",
@@ -11987,20 +11999,8 @@
       "location": "at Belgium airport",
       "category": "airport",
       "id": "4638f018e01b"
-    },
-    {
-      "title": "Belgian airports disrupted by unidentified drone flights - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONUVkVHpPYzFLWUl2UmIyMmU4aTF5VWtHZE5DLW10Z1RnZ29EYmVYVjl5ZzVmUHNVYUhZeVp1NGNtSGdLQW5FdGFJVUNEVlZWYTI3X3YzNlhYbXdueFQzbnZfSFI3Y3FocGllM0hCdS1QeWNUSEx1ZnpPaG5EM2poSTNLTTdtM0VDWlUzMl8zSmVqSzNZbGRodklyVkx6d9IBowFBVV95cUxPTjZMcHJjTlBSal8tdFNkeDJWd1p1MHlKTkZIVlVUNjJjR0VyMkxxckl2OHhqWEw5RERjbGJmZW12ZktsMFdvZ1hlaVhUeGV6bnkyNENRVnFnbHFyaEZEZ0EyZVRyTGNjSTJBQW1xMzlWLVJYUUV3LWZRdXRReGNQUlFWb2h4M0FpM3dWenVnM1VNWXdlSEtUcWhtQm9aWnQ5UTZF?oc=5",
-      "source": "Al Jazeera",
-      "date": "2025-11-05T03:41:26+00:00",
-      "description": "Belgian airports disrupted by unidentified drone flights  Al Jazeera",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-05T04:07:23.725091+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1874b13d9158"
     }
   ],
-  "last_updated": "2025-12-07T00:26:28.599895+00:00",
+  "last_updated": "2025-12-07T01:34:10.629411+00:00",
   "total_count": 1000
 }
