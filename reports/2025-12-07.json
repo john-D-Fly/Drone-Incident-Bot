@@ -1,0 +1,118 @@
+{
+  "narrative_summary": "Over the past 48 hours, a series of drone-related incidents have been reported primarily around nuclear submarine bases in France and security events involving unidentified drones near a state visit by Ukraine's President Zelenskyy in Ireland. Notably, multiple illegal drone overflights and interception activities have raised concerns over national security, particularly at sensitive sites like submarine bases. Flights at Brussels Airport were disrupted due to sightings of drones, indicating a wider trend of airport disruptions caused by unauthorized drone activity. Discussions on drone technology and regulatory measures are gaining importance, as authorities respond to increased risks posed by unauthorized drone operations across various locations.",
+  "totals": {
+    "airport": 5,
+    "other": 45,
+    "security": 5,
+    "smuggling": 2,
+    "total_incidents": 65,
+    "by_category": {
+      "airport": 6,
+      "other": 51,
+      "security": 6,
+      "smuggling": 2
+    },
+    "by_query": {
+      "drone airport disruption": 4,
+      "drone illegal": 28,
+      "drone incident": 20,
+      "drone security breach": 5,
+      "drone smuggling": 2,
+      "drone terrorism": 2,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Illegal drone overflights",
+      "rationale": "A significant number of illegal drone overflights have occurred over nuclear submarine bases, raising national security concerns.",
+      "incident_ids": [
+        "de45676bd3d0",
+        "b57e2d35bf91",
+        "e565dddd171c",
+        "ab1011a71018",
+        "ccfbe97db434",
+        "2da69127d874",
+        "699427089d09",
+        "bfcac0f85608",
+        "d9f70d762ac2",
+        "3afff5c783f8"
+      ]
+    },
+    {
+      "topic": "Airport disruptions",
+      "rationale": "Multiple drone sightings resulted in flight disruptions at Brussels Airport, reflecting a recurring issue with drone activity near airports.",
+      "incident_ids": [
+        "a321045b6b7c",
+        "5fb3a1923d6e",
+        "62d6d7eaefb0"
+      ]
+    },
+    {
+      "topic": "Drone security incidents",
+      "rationale": "Unidentified drones have posed security threats during high-profile events, necessitating governmental and military responses.",
+      "incident_ids": [
+        "f9b7b01b6d2c",
+        "f66b9f1d0390",
+        "2d553bd2cd2a",
+        "1edf63434117",
+        "73f3dd7b1b5f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "de45676bd3d0",
+      "headline": "Illegal drone shot down at nuclear submarine base",
+      "one_sentence": "An illegal drone was shot down at a nuclear submarine base in France, raising security concerns.",
+      "risk_tags": [
+        "illegal drone",
+        "security breach"
+      ],
+      "countries": [
+        "France"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "a321045b6b7c",
+      "headline": "Flights grounded at Brussels Airport after multiple drone sightings",
+      "one_sentence": "Brussels Airport grounded flights due to multiple drone sightings, reflecting an ongoing problem.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2d86e303e628",
+      "headline": "Chernobyl Nuclear Shield Breached: Drone Strike Recorded",
+      "one_sentence": "A drone strike compromised the safety dome at the Chernobyl nuclear site, prompting urgent investigations.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f9b7b01b6d2c",
+      "headline": "Unknown Drones Spotted Near Zelensky’s Plane in Ireland",
+      "one_sentence": "Unknown drones were spotted near Zelensky’s plane during his visit to Ireland, alarming security forces.",
+      "risk_tags": [
+        "security incident"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents reported as illegal overflights and airport disruptions escalate across Europe.",
+    "linkedin": "Over the last 48 hours, drone-related incidents have surged, impacting airport operations and prompting national security reviews."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-07"
+}
