@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Illegal drone shot down at nuclear submarine base - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0sxUG8xWnFmOGsxU196dmNvMGNmMzdGelhiSEU5NDBXMFFYZFVOWmZBRzdRd2xyUUhJV0l3VWd0emI5OWpOV2M3RkZNREFTMDBlREtKYk9xM3Q1QXN4MV80ZWFxZDhYVTBES29fNnNjYU5EZ01GUE1US1JOOHN6QQ?oc=5",
+      "source": "AOL.com",
+      "date": "2025-12-07T08:51:56+00:00",
+      "description": "Illegal drone shot down at nuclear submarine base  AOL.com",
+      "query": "drone illegal",
+      "detected_at": "2025-12-07T12:08:14.699583+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "de45676bd3d0"
+    },
+    {
       "title": "Flights grounded at Brussels Airport after multiple drone sightings - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDNBaGtSZURXbFZyaVlMUnU0amVUb1pVV2lnaVVId29wTzJvSzE3VUVjQUlZSVdoTG56RUxEcVZFRjNBT0djZkF1Y3NFNEg3d2E3OFlNUUlrandkWllXdndGenp5dkpkbmJQdDFiUVZXekRUV0FJMFlqa1JTa0twU0hVYWNfYUstQXV3?oc=5",
       "source": "AOL.com",
@@ -11987,20 +11999,8 @@
       "location": "At Brussels And Liege Airport",
       "category": "airport",
       "id": "3bfa30a2ebe6"
-    },
-    {
-      "title": "Flights suspended at Brussels airport after drone sightings - DW",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG9ZdWpZTnZTaHl4SDdLQUU1OHlvbEFIdGY0UUo2NnNSbzl5R0VjMmo2RW1pYkdJNmlSZXlsRW8xbHNWaU4wWWpxaXRxbDRsZ3NwemY5eTVrWjl2WHBRRU9TRFh1M3FXU24tSlkxb0lxOWZ0eGJfWWozTFdJTGFWbjVBd2haV181cjZIS1dXZmd3bDFmakI00gGXAUFVX3lxTFB0RDRGU3VScEZRSUF4S05MRFp1ZFhLNmg0RGZoOERJOGlYZjNkSlVLcENzY2xDOWtqd254RnVGdHdtZGlEdUp3WmNLQzczRW5kM2tBV2I5QWIyVmQyenNUVFRuN29FUHJoaENGS1Vya0xIblNiMTV6NWI0dDBJLWlXdndyMzFHTVhNbzdWVFk3UVBwdFIzLVU?oc=5",
-      "source": "DW",
-      "date": "2025-11-05T03:14:08+00:00",
-      "description": "Flights suspended at Brussels airport after drone sightings  DW",
-      "query": "drone incident",
-      "detected_at": "2025-11-05T08:07:23.470579+00:00",
-      "location": "at Brussels airport",
-      "category": "airport",
-      "id": "50b237c63655"
     }
   ],
-  "last_updated": "2025-12-07T11:04:46.535740+00:00",
+  "last_updated": "2025-12-07T12:08:16.970467+00:00",
   "total_count": 1000
 }
