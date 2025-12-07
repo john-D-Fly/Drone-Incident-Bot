@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "French forces intercept drones near nuclear submarine base - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzNVhTZHhBeE5yODRIZ3dwNTlubGtza1AySEhLMnNxRHVZbllZT09CU2hMWlJqY1B0X0pmVk9pQ0ZFOUsxclpuUmNzdTNHUE1IejhRckxSQUdNbEtMTUdIcHhXcVd2MzZKT3dRT01EN0VRdFhLMGkzblJn?oc=5",
+      "source": "Axios",
+      "date": "2025-12-05T20:25:43+00:00",
+      "description": "French forces intercept drones near nuclear submarine base  Axios",
+      "query": "drone incident",
+      "detected_at": "2025-12-07T00:26:22.701340+00:00",
+      "location": "near nuclear submarine base",
+      "category": "other",
+      "id": "39ce73dbb052"
+    },
+    {
       "title": "France intercepts illegal drone overflight at nuclear submarine base - WKRG",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOVJlOTZlTmFSRjlWeWNQcXV4RVB2UHRnUkhJODVxUDI0UjZ4OHJ4UjlqSW9ydmR2X3pvc05odVEzUVAzME9jaHU1QzdjcnJOLTJLRkdkcmNfZXBac3dEMzlmRWJzRDFMc29rOVV1aElCakN0WjJFTGFuWUdaMWRkcDJ3Znk4YzdZVmZXUk1GSWh4TVcyeENlZ2ttcF82VnpmWkhaZkoyN0lNLXVVTTNvbUgwTTFYTWwzT1dPV043OHZhNlZVeG0zcldibm53YVVR0gHQAUFVX3lxTE85UmU5NmVOYVJGOVZ5Y1BxdXhFUHZQdGdSSEk4NXFQMjRSNng4cnhSOWpJb3J2ZHZfem9zTmh1UTNRUDMwT2NodTVDN2Nyck4tMktGR2RyY19lcFpzd0QzOWZFYnNEMUxzb2s5VXVoSUJqQ3RaMkVMYW5ZR1oxZGRwMndmeThjN1lWZldSTUZJaHhNVzJ4Q2Vna21wXzZWemZaSFpmSjI3SU0tdVVNM29tSDBNMVhNbDNPV09XTjc4dmE2VlV4bTNyV2JubndhVVE?oc=5",
       "source": "WKRG",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "1874b13d9158"
-    },
-    {
-      "title": "Flights suspended at Brussels airport after drone sightings - DW",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG9ZdWpZTnZTaHl4SDdLQUU1OHlvbEFIdGY0UUo2NnNSbzl5R0VjMmo2RW1pYkdJNmlSZXlsRW8xbHNWaU4wWWpxaXRxbDRsZ3NwemY5eTVrWjl2WHBRRU9TRFh1M3FXU24tSlkxb0lxOWZ0eGJfWWozTFdJTGFWbjVBd2haV181cjZIS1dXZmd3bDFmakI00gGXAUFVX3lxTFB0RDRGU3VScEZRSUF4S05MRFp1ZFhLNmg0RGZoOERJOGlYZjNkSlVLcENzY2xDOWtqd254RnVGdHdtZGlEdUp3WmNLQzczRW5kM2tBV2I5QWIyVmQyenNUVFRuN29FUHJoaENGS1Vya0xIblNiMTV6NWI0dDBJLWlXdndyMzFHTVhNbzdWVFk3UVBwdFIzLVU?oc=5",
-      "source": "DW",
-      "date": "2025-11-05T03:27:02+00:00",
-      "description": "Flights suspended at Brussels airport after drone sightings  DW",
-      "query": "drone incident",
-      "detected_at": "2025-11-05T04:07:21.245938+00:00",
-      "location": "at Brussels airport",
-      "category": "airport",
-      "id": "15328055ce6b"
     }
   ],
-  "last_updated": "2025-12-06T23:05:28.071446+00:00",
+  "last_updated": "2025-12-07T00:26:28.599895+00:00",
   "total_count": 1000
 }
