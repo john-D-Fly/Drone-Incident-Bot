@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "BELPOL: In under a year, 42 drones fell in the Brest region, one exploded - Белсат",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUxVdkpKcjhIQ1dQaWhSRG9Nc3hnZXVqVjZwdGEzdlFERDFCby14R05QUWJ0WEhLUE9Lc0Y3T2diY0RuaVNsU3hZclBUa2tjZlVGVVZXa3VmYkdOVnJydzhkb0o0MTFieHRQNHlXNjcyUUFOOFN1aGdqZXVvZGpoR0NNWVd3Ry16bFc4MVNxaDN2Vi1sX0FYMl81S05kWHpVWmc?oc=5",
+      "source": "Белсат",
+      "date": "2025-12-08T11:59:00+00:00",
+      "description": "BELPOL: In under a year, 42 drones fell in the Brest region, one exploded  Белсат",
+      "query": "drone crash",
+      "detected_at": "2025-12-08T13:16:05.065555+00:00",
+      "location": "in the Brest region, on",
+      "category": "other",
+      "id": "a3c83e04d850"
+    },
+    {
       "title": "Russian drone crash damages apartment building in Chernihiv, injuring three - Caliber.Az",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmxyV1BJYXlOTE1mVWVoQkoteHhtWDkzOVB4WGdoYVk3R1RqWnc2QUJhU3ZmVm9waENobTZrZWhXWWRDcUhMTkpXRkV0cWVEVGlaN3R0NWJOYVkxQ3QtR002WUVIQkd6V0ZVcXRXWkxxTm1xNkZ1b05pQjAzVTNpSmZIQ3VEaXNjZ256QTR5TjlRQlVVVXpVcUpjVXdGd09BSGQ4?oc=5",
       "source": "Caliber.Az",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "30b6b5fbb160"
-    },
-    {
-      "title": "Labour offering £60k for whizz who can stop drones flying into prisons - Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbV9INzhtX0wxWmE3UW9manNQU2pMNDJYbXVIY3pQY19zbUh6OFlFaEpyc1JKSEJULVNYSEt1d3VZdlFSM2I0ZEh2RUxLMGU2T2EzYnpCOGdOV2dQU2tLbnItNTFqQ1AxTDB5Q212ZjBDdzN3SFhDY1hmODRXQ0hWRDJJR3hIYTFuTkRTWDdZSUdmdTQ4R3VKZFQyTEVSTjhFaTNoRGxQMnFBNktWaG1QcHoxdTBtUzZZRFJFLTRwUnZkZTdlV05mQ0dkenBFRFZCd2xJV3J6MDJ4UDdtQlZDXw?oc=5",
-      "source": "Daily Mail",
-      "date": "2025-11-05T10:15:13+00:00",
-      "description": "Labour offering £60k for whizz who can stop drones flying into prisons  Daily Mail",
-      "query": "drone prison",
-      "detected_at": "2025-11-05T11:05:23.216400+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ac1409b18d24"
     }
   ],
-  "last_updated": "2025-12-08T12:09:47.520419+00:00",
+  "last_updated": "2025-12-08T13:16:08.274541+00:00",
   "total_count": 1000
 }
