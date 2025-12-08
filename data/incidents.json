@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drone crash in Ukrainian city Chernihiv increases casualty count - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDRoQ3lhYldmbVowR3laYjBpNm0tSWJVWC1jYnNBVHpFbUlVS0xqaVhfeVRIR0UxN1NzYlgzU09TcEgydkxzdjdlYmNUUUFzUm1fb3dYNkQzMS1FNk8zN09qdlBQMXJRVTFiOThIdlFwd3lpRUwtWDNNNmRFSlRGajJqUFNBbzJqOU9lR1NTS1RRbnN3cno0Z3hTbw?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-12-08T06:35:00+00:00",
+      "description": "Russian drone crash in Ukrainian city Chernihiv increases casualty count  RBC-Ukraine",
+      "query": "drone crash",
+      "detected_at": "2025-12-08T07:08:21.917882+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ecd600826335"
+    },
+    {
       "title": "Drone pilot helps find injured elderly man after bike crash in Redmond - MSN",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDF6UW5kRnVYX2hxcFVVekw4SWJuclFKcGVTSmp3YkdkUmVON0g5dG1pNGdmU1VHazVHWXlxT25PemxNLWlPVWdrbW5QdC1wSXRmVjM5bFdhYkw0bUtzXzdQcHhKQlJLdTZ0U0IwN1NSX2ZuR2RJVjFSTllpMjg4YXJBdkNSUzc5ZDZXVHVLeHQ0bHJEbTBqaXZPYTdQY1NDLW43Y0NFZU9SNXpZaWdaaVd1T2hlVkQ2QmR1eVNtdGRCT19FZUdxUDhQS0cwQ2ZrMnVyaVBR?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b75cb53d08c4"
-    },
-    {
-      "title": "Flights resume at Brussels airport after drone sightings - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNuZW1oYXpxeU4tUTFjVGg5ZGMxOTd6YzlPTXcwdy1Qc3dJYmJZc1dkYnA5dUdYRnF4NDliWUdma2NwZmw1Uld0VEJQTGZqRGlJNGNheUd3RE1FTkRVR3BDdmpWcUg2RktOQUNreVR0T3A4eXczQTBzdnR4X2Noc2ZJdHNNcFZpNTJHWDhjb19hTzDSAZMBQVVfeXFMUHJTUzE4QndkZl9pb1o3U3RncEViNjVjZjZKUFpUWnlDdmU5THhwZTliMTZiNlU5V19naDRXQlJsTUJucHVLNDZVQXhuOWZOWFphWGRzekZWcHZjVC1sd0d2RzQ2cWxMSWZubC0yU2o1UmFzWTFtTUdRSk85ZU9vekJkdWRWTFJqZzVTNHV3bC0yX3pz?oc=5",
-      "source": "dw.com",
-      "date": "2025-11-05T09:22:25+00:00",
-      "description": "Flights resume at Brussels airport after drone sightings  dw.com",
-      "query": "drone incident",
-      "detected_at": "2025-11-05T11:05:21.116672+00:00",
-      "location": "at Brussels airport",
-      "category": "airport",
-      "id": "f2a1bb7257d6"
     }
   ],
-  "last_updated": "2025-12-08T06:09:35.110325+00:00",
+  "last_updated": "2025-12-08T07:08:24.894259+00:00",
   "total_count": 1000
 }
