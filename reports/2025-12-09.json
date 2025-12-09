@@ -1,0 +1,164 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable surge in drone-related incidents across various locations. A significant number of reported cases involve drone deliveries of contraband such as food and drugs to prisons, particularly in South Carolina, highlighting ongoing smuggling attempts. Additionally, drones were utilized effectively by law enforcement in Lady Lake to capture a hit-and-run driver. However, risks remain with unauthorized drone flights disrupting airport operations in places like Vilnius and Brussels. Reports of drone strikes in the context of the Russia-Ukraine conflict continue to raise concerns over safety and security amidst potential terrorism-related activities. Overall, the incidents suggest persistent challenges with drone security and smuggling operations.",
+  "totals": {
+    "other": 6,
+    "smuggling": 28,
+    "interference": 1,
+    "terrorism": 7,
+    "airport": 2,
+    "security": 4,
+    "crash": 5,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 2,
+      "arrest": 1,
+      "crash": 7,
+      "interference": 1,
+      "other": 20,
+      "security": 6,
+      "smuggling": 78,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone crash": 9,
+      "drone illegal": 3,
+      "drone incident": 7,
+      "drone prison": 37,
+      "drone security breach": 7,
+      "drone smuggling": 38,
+      "drone terrorism": 17
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Prisons and Contraband",
+      "rationale": "Multiple incidents related to drone smuggling into prisons.",
+      "incident_ids": [
+        "2d9dce87c8a9",
+        "faf51145cf66",
+        "732342082a7c",
+        "446819feb56c",
+        "6702e3d7509c"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Incidents",
+      "rationale": "Includes crashes and security breaches related to drone usage.",
+      "incident_ids": [
+        "6021ef7c10fc",
+        "5a32472b3555",
+        "3d3c95e0e549"
+      ]
+    },
+    {
+      "topic": "Airport Disruption",
+      "rationale": "Incidents causing disruption at airports.",
+      "incident_ids": [
+        "ad0581041776",
+        "4f441a884a3f"
+      ]
+    },
+    {
+      "topic": "Drone Warfare and Terrorism",
+      "rationale": "Drone strikes related to the ongoing conflict in Ukraine.",
+      "incident_ids": [
+        "5fe2f56184cb",
+        "b2b542e2d337",
+        "9cc8749f11ea"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "2d9dce87c8a9",
+      "headline": "LOOK: Drone delivery of weed, steak, crab legs busted at SC prison",
+      "one_sentence": "Authorities intercepted a drone attempting to deliver contraband to a South Carolina prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "446819feb56c",
+      "headline": "Amazon Prime Air Struggles: Drone Incidents, Regulations, and Rivals",
+      "one_sentence": "Reported challenges regarding drone incidents impede Amazon's delivery service.",
+      "risk_tags": [
+        "incident"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "5c5eeab23096",
+      "headline": "Drone helps Lady Lake police capture accused hit-and-run driver",
+      "one_sentence": "A drone was instrumental in apprehending a suspect involved in a hit-and-run incident.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "faf51145cf66",
+      "headline": "Drone drops crab legs, steak and weed into South Carolina prison",
+      "one_sentence": "A contraband drone dropped various items into a SC prison, adding to the ongoing smuggling issues.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3b2f18f178fb",
+      "headline": "Woman's Death Possibly Caused by Russian Drone Strike in Kharkiv Region",
+      "one_sentence": "A reported drone strike linked to the ongoing conflict resulted in civilian casualties in Ukraine.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "70b0bccf5915",
+      "headline": "Flights grounded at Brussels Airport after multiple drone sightings",
+      "one_sentence": "Drone sightings forced authorities to halt flights at Brussels Airport, raising security concerns.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "09cdb169c1e7",
+      "headline": "Illegal drone shot down at nuclear submarine base",
+      "one_sentence": "Security was heightened after an unauthorized drone was shot down near a nuclear base.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "twitter": "Recent drone activity highlights smuggling and security challenges in prisons and airports, along with notable law enforcement successes.",
+    "linkedin": "The latest drone incidents reveal a concerning trend of smuggling operations in prisons and security breaches in airports, alongside significant law enforcement efforts."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-09"
+}
