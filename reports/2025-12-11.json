@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable surge in drone-related incidents across the United States, particularly focusing on smuggling operations involving contraband delivered to prisons. At least 20 incidents involved drones attempting to drop food items, including crab legs and steak, alongside marijuana, into prison yards in South Carolina. Guards intercepted most deliveries, reflecting ongoing challenges in reducing smuggling attempts. Additionally, various arrests were made involving the use of drones by law enforcement to capture fleeing suspects in connection to car thefts and other crimes. Some discussions on drone legislation and airspace violations also emerged, as authorities emphasize the need for clearer policies regarding drone usage in various contexts.",
+  "totals": {
+    "smuggling": 16,
+    "arrest": 5,
+    "interference": 1,
+    "terrorism": 2,
+    "other": 18,
+    "airport": 2,
+    "crash": 4,
+    "total_incidents": 90,
+    "by_category": {
+      "airport": 1,
+      "arrest": 6,
+      "crash": 6,
+      "interference": 1,
+      "other": 21,
+      "security": 1,
+      "smuggling": 51,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 7,
+      "drone crash": 7,
+      "drone illegal": 11,
+      "drone incident": 7,
+      "drone prison": 32,
+      "drone smuggling": 21,
+      "drone terrorism": 1,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Smuggling",
+      "rationale": "High frequency of incidents involving drones delivering food and contraband to prisons.",
+      "incident_ids": [
+        "38765091ff5e",
+        "49857407e124",
+        "a030071f59bd",
+        "26a7b3430670",
+        "4f2ade143c59",
+        "fde760c3c538",
+        "8ad534c186f7",
+        "bc6a857eb9aa",
+        "ded89f596cde",
+        "b27daa51fe27",
+        "4422ba2bdd7b",
+        "0a4fbc1588d5",
+        "3e6d2e60bafa",
+        "d735b7175543",
+        "51ие1f3e612",
+        "c5ec52d45104"
+      ]
+    },
+    {
+      "topic": "Law Enforcement Drone Usage",
+      "rationale": "Increasing use of drones by police for tracking and apprehending suspects in various incidents.",
+      "incident_ids": [
+        "aea743966ff2",
+        "d8d01f7af8bf",
+        "bc6a857eb9aa",
+        "ff5370fadcf2",
+        "168b7c750cc2"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "38765091ff5e",
+      "headline": "Christmas Feast Dropped by Drone to Prison",
+      "one_sentence": "A Christmas feast dropped by a drone into a prison yard was intercepted before reaching inmates.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ded89f596cde",
+      "headline": "Ukraine Drone Strike Causes Flight Disruption",
+      "one_sentence": "A drone strike in Ukraine caused significant flight disruptions as Russia shot down numerous UAVs.",
+      "risk_tags": [
+        "interference",
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c2f4e50ca3d5",
+      "headline": "Terra Drone CEO Arrested for Office Fire",
+      "one_sentence": "The CEO of Terra Drone was arrested as a suspect in a deadly office fire in Jakarta.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Indonesia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "bc6a857eb9aa",
+      "headline": "Drones Aid in Arrest of Stolen Car Ring Members",
+      "one_sentence": "Location tracking with drones helped Louisville police apprehend five people linked to a stolen car ring.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1a1f3fee6beb",
+      "headline": "Drone Incident Over MLB Game Leads to Probation",
+      "one_sentence": "A man who illegally flew a drone over an MLB All-Star Game was sentenced to probation.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent surge in drone incidents highlights increasing prison smuggling attempts and police utilization of UAVs for arrests.",
+    "linkedin": "In the last 48 hours, drone-related activities have intensified, especially smuggling into prisons, prompting discussions on policy adjustments."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-11"
+}
