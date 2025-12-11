@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Terra Drone CEO Arrested, Named Suspect in Jakarta Office Fire That Killed 22 - Jakarta Globe",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzVnZ04yYVVITWlGLVhORUtvSE1ERHU0N2RLS09wYnZvT3ZJajVzSXVmYzZsNXNaSWxHQnFFaEMzOWJ5MDhEcHdHUE03RGZJcmVKZ09RUFhLXzNMMS0wZ3FxamVpcWN5Y2ZjZmZ4bWctWHY2TFc4d3l3am5qVTlaNG1sYVpuMTdYTEVFSjMybjBpeG5uRm9QSDJMb1Y3ZF90M0RJclF5cHU?oc=5",
+      "source": "Jakarta Globe",
+      "date": "2025-12-11T05:55:00+00:00",
+      "description": "Terra Drone CEO Arrested, Named Suspect in Jakarta Office Fire That Killed 22  Jakarta Globe",
+      "query": "drone arrest",
+      "detected_at": "2025-12-11T06:08:37.484546+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c2f4e50ca3d5"
+    },
+    {
+      "title": "Drones help Louisville police arrest 5 people in connection to stolen car ring - WDRB",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVJNUGFHSU1tbnJhak40U0prcnF2LVkzMDBoaUVHcUF3ODVadlY3cEkxcHJLQXZSNnFJRnBiYTRVTmxpdG9hakZ2OHYwOEs5dGktUEE2aDMwblpHX1JvakJzdWgwZ1JZOHhrc09fRnluQXhEdWxEcFNnNVQ2TUxqc3FrekptOEx1RzhDbnRyMGd1UVM3RDljNlRwNzhwN1RRRll5N1A0RkFNeW1yYVZKdkdEOTd1azFNdjB5OEtLZkx0WkdUVWF0cDJRUEozbXFENTBTbXpLamhuN0c5MVZWRThCbzdIbWt6T2JZVGNOUkxUd3dBbnNzZFFQTzM?oc=5",
+      "source": "WDRB",
+      "date": "2025-12-10T23:51:09+00:00",
+      "description": "Drones help Louisville police arrest 5 people in connection to stolen car ring  WDRB",
+      "query": "drone arrest",
+      "detected_at": "2025-12-11T06:08:37.484546+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "bc6a857eb9aa"
+    },
+    {
       "title": "Drone helps Lady Lake police capture accused hit-and-run driver - Leesburg Daily Commercial",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHBwUzdteXc5VEVVTzZIWktPVGdBTVJ6c0M2S2huOW5CVWlYRzh0VEZJUVBDbThwNm4zdGR1NEtGQVB0TU5YUXUteklWTC04a25HS2dVcWswODB1bUVnRmZRTGhpeHV4SXdaYmdHcThGTUIySThXYl9Qakg4SUtfX3A4RnZRRGcwR2o1bGZwRm5OYlZPUlJTMENqWDZVRDV4ekh2UURFQ1lpYXNzQUd3TEJ1anBIZWZBS2FLQzNpREJfTkxucV9GZnFDQTRfWllRN1FzSExQUFFrdw?oc=5",
       "source": "Leesburg Daily Commercial",
@@ -11975,32 +11999,8 @@
       "location": "near flight path",
       "category": "airport",
       "id": "324d0358f8a4"
-    },
-    {
-      "title": "Ethiopia Accused of Drone Attacks in Tigray - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83V0hCZkhoSmtXSmRnbktxalU2Wmh5bEhLVFUwMXF4b0pYbTdmeC1ySHpCaDJES0hHakdIQktNNDMxaEhsUlFTVWVoZFBMZnlFeU1wYUt0RXg0a285elVFZUVyX3hFdFdIa3lBRUpHV0tMeWR6dlZR0gF8QVVfeXFMTUdDU1BZa2RGT1Nybm1aMXAtNUNsQV9ZTjZkUXA5azZ6RG5iRzlXanZRMVFuQVZ0X0t6QktQNTJjVzI5elVfb2hpTkVxanpsRFhqTDIwZVQ3T2pxTmJ2dWNPVHZIY2h4RUNUblpya1ROd1lGcFRwYW5QWUdDdA?oc=5",
-      "source": "The Defense Post",
-      "date": "2025-11-08T10:47:13+00:00",
-      "description": "Ethiopia Accused of Drone Attacks in Tigray  The Defense Post",
-      "query": "drone illegal",
-      "detected_at": "2025-11-09T05:05:21.678388+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f6d00e11e9bb"
-    },
-    {
-      "title": "FAA grounds all MD-11 cargo planes following deadly crash at UPS hub in Kentucky - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjloMW55UFVIa2ZaSlB2bEdDak5URGNFUDlKa0xlMXBZeDBEelhoSTBvUDV2QlZ3UnV1c1VRVWZKUm9fekRreFFtVndndkpaSnNETWFheXJGNFpZVkc1bDVZakFyWlFpcmN2bTlNZ1dqQ1F0VHAxelpSVW9jSWcxcTczMGlTNVhxTVVnNzg3T3ByRU9IZDdBVTQ5M1FaMzRSNWFqRzBIUVJxSVk?oc=5",
-      "source": "PBS",
-      "date": "2025-11-08T16:59:44+00:00",
-      "description": "FAA grounds all MD-11 cargo planes following deadly crash at UPS hub in Kentucky  PBS",
-      "query": "drone crash",
-      "detected_at": "2025-11-09T01:33:23.816623+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a26e2e537984"
     }
   ],
-  "last_updated": "2025-12-11T05:07:20.404412+00:00",
+  "last_updated": "2025-12-11T06:08:42.407223+00:00",
   "total_count": 1000
 }
