@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Suffolk police use drone to find shoplifting suspect in Huntington - News 12",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUo1RFd4MDZ4XzdTZDBiZVcwSjFTVXNydEpYVURGRjRRVGpjU3FSSTNISGVCZEZRTUFKaVIzVUUzM1BVblZvaU8zM0ZvdXlseUFWOG1UcHFvQlNBZXlMMlV3RWFiUkZVYUpodUZLdkhFN01fdWhtYm0xWXZBTzN4aVFUemxIY0wtQTFuSEFGcFBmSTEwb0MzNldvOWtaekIwQUNZNEpkUUtLbnQxSU84eTBaMjhLc01OY0FwYw?oc=5",
+      "source": "News 12",
+      "date": "2025-12-11T13:35:19+00:00",
+      "description": "Suffolk police use drone to find shoplifting suspect in Huntington  News 12",
+      "query": "drone incident",
+      "detected_at": "2025-12-12T00:24:17.493006+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d24899026691"
+    },
+    {
+      "title": "Shoplifting suspect captured with drone after allegedly crashing car in Huntington, Long Island - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHRfY1pqUkplY19XLTJKQXR0SWJ3THUzZm9OeFplcEVDREpxc0VDdGlXZ2N3MG5mbDVhNEVaVEpycF95bTRKYlRXRHRBZmJudnJYdzhrRV9WN1NRT1RXdEZJcUpwaEQ1ZU5GRFVzSnY2OXdlMlMzTzB5WksyXzc5aW4xbmV5UTBMQXVnM0Nfd3R2dHREcGw5VDBtYlFTbWVoV2xkSll1SU5PU0g4eE9IN3ZXY1LSAboBQVVfeXFMTV80TDdlOXVTblRDRGVLRUMxQlV5aERXR2YxcGgycHctdG9STzBYZFhyTHlHbVBPQ0ZTNGUwS2otZXVGTm5JTEM4RTNZVDRtNm9oRUh0cEZjWllfTUUxdTlpT3JJaE1UV09yTmFTRzNyMmwxdzdzSHpob3JNanlVa1FzYVJVSkcyQWYyR0JSOF81V0JwdHVFR3poVWdXZjhTS0pZRC1Pa0xNZWgtRnk3MTVXT19sOXB0azV3?oc=5",
+      "source": "ABC7 New York",
+      "date": "2025-12-11T23:00:45+00:00",
+      "description": "Shoplifting suspect captured with drone after allegedly crashing car in Huntington, Long Island  ABC7 New York",
+      "query": "drone incident",
+      "detected_at": "2025-12-12T00:24:17.493006+00:00",
+      "location": "in Huntington, Lo",
+      "category": "crash",
+      "id": "ef6cef037ee8"
+    },
+    {
       "title": "Drone delivery thwarted at South Carolina prison - WCCB Charlotte",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkVaX0JFOFpNYk5DRFBBeGkwZ2pnM0UycHRtMXJqbWtBaFFfVE5jZnV1NjJ5WDJJV0M1cVpzeVVRaTZmdzlVTURIdE5wR0Z2MDZmTWpiUEZwTkpZVVhQZmtlakZPWjdSOWhIUXhHVDV6UjBEVU5HN3JfdFNSZHROS3FwengwUG15M2lobjR3UDFXMTZw?oc=5",
       "source": "WCCB Charlotte",
@@ -11975,32 +11999,8 @@
       "location": "near Al",
       "category": "smuggling",
       "id": "ea1472ace24d"
-    },
-    {
-      "title": "Including a dangerous rapist, a dealer and a drone operator caught flying near a prison - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHE4cF9VVW55UF91Wm9aMFVZREdldFV3Y3BWdThIM3B3TnpzQU1YaUlaZlNjTURoYm51MktQbHVZZDNnTk90UXFLTVhSMkFyZTVqd1B5RjhHVFBmQXRONzN2VVMyVEkyLUtfbDhhd0E5eHpJclFTNGJ3RFo0YzZHVHVfTG81UzVu?oc=5",
-      "source": "facebook.com",
-      "date": "2025-11-09T18:48:52+00:00",
-      "description": "Including a dangerous rapist, a dealer and a drone operator caught flying near a prison  facebook.com",
-      "query": "drone prison",
-      "detected_at": "2025-11-09T19:04:33.304431+00:00",
-      "location": "near a prison",
-      "category": "smuggling",
-      "id": "3536d4fc1207"
-    },
-    {
-      "title": "IDF says troops downed another drone from Egypt smuggling weapons into Israel - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNFV0M3lvbnpreE1TX3ZBNXA4bWtSTDgtd0VZc250aWtXNzVlOVgzb3NnOTBGNmdHdnJ0N3NvQkltYlNucXJLV2FfSDNjbHVOSk1peVFldFNjZ3ZMN3I4Y0N5eXVFMC1Ha01UZzltb3praS1EUzdQY2hENldRdkluZ1VFSzNic2hsVW9Ocmxyd3lRRlBCSFRuRHFTb1BPSUR0YXVJTzQyQ0YwdlA0d3RwZHR2ZnZyNGFfUFdqaW5ZSFU?oc=5",
-      "source": "The Times of Israel",
-      "date": "2025-11-08T13:49:51+00:00",
-      "description": "IDF says troops downed another drone from Egypt smuggling weapons into Israel  The Times of Israel",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-09T19:04:32.629575+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8c49cd234ba3"
     }
   ],
-  "last_updated": "2025-12-11T23:05:39.900486+00:00",
+  "last_updated": "2025-12-12T00:24:23.583520+00:00",
   "total_count": 1000
 }
