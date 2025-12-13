@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Five arrested after drone captures Chicago railyard burglary, sheriff's office says - FOX 32 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXB5bXFsN1luY2hwclRtRE54OUlySHhDcXR1UUtlMlNOWVZRdVRLSzdwSTdic3hoaW9QajV2ZHVUdml3RS1CdFFPVFVOTlZ2SEVuaFZ3X2VCV1A1dnR3bVJVY1B5d1A2Mm11a3V3N3kxOUdFaC1kYmd3MFd6WDNCVW1RemRNVThWcWxRcGxST3NWbHlZY1hWazE0eXpMWEYwSTZULTMzSlZadWg5NjdGS05Td2N3UQ?oc=5",
+      "source": "FOX 32 Chicago",
+      "date": "2025-12-12T23:20:07+00:00",
+      "description": "Five arrested after drone captures Chicago railyard burglary, sheriff's office says  FOX 32 Chicago",
+      "query": "drone arrest",
+      "detected_at": "2025-12-13T16:06:24.846431+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4b01db84a55d"
+    },
+    {
+      "title": "Drone incident temporarily disrupts air traffic at Oslo Airport - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnZ0RDdWYU9OV2J1Z3pTSHJZZjJIQnJ6VTU3Zmp1SlJNQVI4bGZJQjNqZmlmQkJfZ0RWRHJESlNaR0hsVzRiSExlajJ0VXNBdzF0ckltN2tRVVNnMzQwRktaZlNuN0tXR2lRSmlpWVRtTnpPTFpOQzY1U2pUSkZSYUJZa0tobzQ0ZXI4Y2RUMlFCSVdXanRTVDhvY3MzVkNURVZYcVdn?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2025-12-13T15:10:13+00:00",
+      "description": "Drone incident temporarily disrupts air traffic at Oslo Airport  Anadolu Ajansı",
+      "query": "drone incident",
+      "detected_at": "2025-12-13T16:06:24.235075+00:00",
+      "location": "at Oslo Airport",
+      "category": "airport",
+      "id": "8aff9c708316"
+    },
+    {
       "title": "Chilling EU police report reveals human v robot street warfare & AI paedos - The US Sun",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEhFS2dkODVVa1R5M3lCSVkxaV9KN3dBVjVOb1h1V0c0cVF5bVQ3aEl4ejQtdjRQX1FLd2ZjYlh0M1BrZjRhamlVTWZ5a3ZxTFFQM2JnX1BodlJwYXRkTWlmeXRMdWxhcHlOY1YzRlFBbEtyRXBaYnRxV2tRbnJScFp1TDBkVHZOQlVBenRhaGxlWVU?oc=5",
       "source": "The US Sun",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1ef73d5f30b1"
-    },
-    {
-      "title": "Belgium Faces Drone Incidents Over Nuclear Plant Amid Russian Airspace Violations - Букви",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRm83ZlNRc3V0djhybVpPLXVMelVULUdTdmZqYVhSTkY2eUdVX1lzeTdaQ1VVemRtVkktTmlYUjVJekQ5MzBESGVVekhfbC1zRnRMeFhWbjZraldoeXhtSFpiR0c0cS1fN0N4S3o0cklCeWh4b0dTX21XektKVnhuZ1FEVlBMNU1pZEZlSW4wMU1EZExwZmxuX3FiZG42RlJjUVlmVlEwWmc1X1lrX3kw0gG0AUFVX3lxTE1MT1l0aXdLX1lKRVhBc3NQdEVyUEpfM2ZYTUVzcUVjSmhDV1JHdDk0RXlHNDFzYmpvS3lOeElZakNmVTlnUnlIcV9qcFZoc0Yxa3pUUjdzNmdONDh1WE41WjdiSjNNd2dFVWtZQVNpNzRiMUFjTE5fYjBGLWk3SUE5TmRjQ3hIS3gwS1NXQm1zWFVzRW5oWnhVREFiaDJNQ1RtZVNBV1dmV05GVXozZmJtYWR4Vg?oc=5",
-      "source": "Букви",
-      "date": "2025-11-10T01:57:01+00:00",
-      "description": "Belgium Faces Drone Incidents Over Nuclear Plant Amid Russian Airspace Violations  Букви",
-      "query": "drone incident",
-      "detected_at": "2025-11-10T08:08:04.295602+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c231d5223b34"
-    },
-    {
-      "title": "Yoon indicted for 'acts benefiting enemy' over Pyongyang drone operation - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZVlyR1ZPeW9pY1pkYkRyZFlCcGVIaTdvcU5jbXY0SHdYNlZZcjlnQTkwNEhfbzE5MDlseUo3ZDRPcmtsczJGNXh2cEJuS2ktSGtXSkdKWQ?oc=5",
-      "source": "The Korea Herald",
-      "date": "2025-11-10T06:32:57+00:00",
-      "description": "Yoon indicted for 'acts benefiting enemy' over Pyongyang drone operation  The Korea Herald",
-      "query": "unauthorized drone",
-      "detected_at": "2025-11-10T07:06:22.805849+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4579062b8465"
     }
   ],
-  "last_updated": "2025-12-13T14:05:05.634391+00:00",
+  "last_updated": "2025-12-13T16:06:30.308310+00:00",
   "total_count": 1000
 }
