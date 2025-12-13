@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukraine drone strike causes massive flight disruption in Moscow, Russia shoots down 287 UAVs - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEdOeThTOHN6SHVSazhwd3h2WGQwNjlISzZRRTlId0lIUEVXZW9YTFZoTTN5OHZHRWdkblRITUV6Z0VtdmZ0NVhvRWxMMjlpQnh5WmI4V2xJRXQ5MVZINXdTaEx6anBJYnZaaERZUFlwZEJtVC11dTJEX29PNFh3bEhJMmloZkoxRkloR2tGSzFUN3RrbWQyNGJHWG03bUU5VWFZTEIzeDFNNkFkR0Z2cGZuSjNHWmtDMzgxcEV1UG9zSmU5ZEx6aXU4UTAxemREdk02bmNiSQ?oc=5",
+      "source": "MSN",
+      "date": "2025-12-11T19:51:07+00:00",
+      "description": "Ukraine drone strike causes massive flight disruption in Moscow, Russia shoots down 287 UAVs  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2025-12-13T18:06:53.570362+00:00",
+      "location": "in Moscow, Ru",
+      "category": "interference",
+      "id": "992a3d80c3c0"
+    },
+    {
       "title": "Five arrested after drone captures Chicago railyard burglary, sheriff's office says - FOX 32 Chicago",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXB5bXFsN1luY2hwclRtRE54OUlySHhDcXR1UUtlMlNOWVZRdVRLSzdwSTdic3hoaW9QajV2ZHVUdml3RS1CdFFPVFVOTlZ2SEVuaFZ3X2VCV1A1dnR3bVJVY1B5d1A2Mm11a3V3N3kxOUdFaC1kYmd3MFd6WDNCVW1RemRNVThWcWxRcGxST3NWbHlZY1hWazE0eXpMWEYwSTZULTMzSlZadWg5NjdGS05Td2N3UQ?oc=5",
       "source": "FOX 32 Chicago",
@@ -11987,20 +11999,8 @@
       "location": "in Stanislav Drone Strike, Kh",
       "category": "other",
       "id": "182427a145fc"
-    },
-    {
-      "title": "UK to deploy military assets to Belgium after drone incursions - Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0RCY25pNnJXSFV6UHU1U1pORjJnU0lPdW9jcC1xWWFqSWlCVjlZLXZWZi1HaTFlN09uRHlZOFJvQzRvZmpyRkh3TDFvMFpmQkpNckZ4N25TbVRVb0hLNmZhd3F4NzF0WGlOdUNEOVhlVmllSjNId1VORUtsRnRsWjRrNldkcXA5emNySTZ0TGNHUGRZS1lNdGlZZmpqOUgwSjVV?oc=5",
-      "source": "Yeni Safak English",
-      "date": "2025-11-09T20:05:08+00:00",
-      "description": "UK to deploy military assets to Belgium after drone incursions  Yeni Safak English",
-      "query": "unauthorized drone",
-      "detected_at": "2025-11-10T08:08:09.110469+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1ef73d5f30b1"
     }
   ],
-  "last_updated": "2025-12-13T16:06:30.308310+00:00",
+  "last_updated": "2025-12-13T18:06:57.087159+00:00",
   "total_count": 1000
 }
