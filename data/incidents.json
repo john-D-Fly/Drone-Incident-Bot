@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Contraband is entering Georgia prisons as drone drops rise again, state agency says - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTThWcGxJYkliUlFjc1NDYkdUSnl2TmRQS1kyNTJQOVRoQWtPVFNKV09fMmhSTW9NSmlLdWdIT2VTRmpKbzBVckVQbjNiQXVHSkNFWDlINFU4RnE0eWhVVUtLYmdmdnZ6NTVpN2MzOEl4elhoMkVmbHlmekNydnhDQWJfUWt3V2Nmblo2SElUdGNUQlJ2cHR2TnEyRzU?oc=5",
+      "source": "Chattanooga Times Free Press",
+      "date": "2025-12-13T18:46:00+00:00",
+      "description": "Contraband is entering Georgia prisons as drone drops rise again, state agency says  Chattanooga Times Free Press",
+      "query": "drone prison",
+      "detected_at": "2025-12-13T19:04:43.715868+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a011338fe851"
+    },
+    {
+      "title": "Shoplifting suspect captured with drone after allegedly crashing car in Huntington, Long Island - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHRfY1pqUkplY19XLTJKQXR0SWJ3THUzZm9OeFplcEVDREpxc0VDdGlXZ2N3MG5mbDVhNEVaVEpycF95bTRKYlRXRHRBZmJudnJYdzhrRV9WN1NRT1RXdEZJcUpwaEQ1ZU5GRFVzSnY2OXdlMlMzTzB5WksyXzc5aW4xbmV5UTBMQXVnM0Nfd3R2dHREcGw5VDBtYlFTbWVoV2xkSll1SU5PU0g4eE9IN3ZXY1LSAboBQVVfeXFMTV80TDdlOXVTblRDRGVLRUMxQlV5aERXR2YxcGgycHctdG9STzBYZFhyTHlHbVBPQ0ZTNGUwS2otZXVGTm5JTEM4RTNZVDRtNm9oRUh0cEZjWllfTUUxdTlpT3JJaE1UV09yTmFTRzNyMmwxdzdzSHpob3JNanlVa1FzYVJVSkcyQWYyR0JSOF81V0JwdHVFR3poVWdXZjhTS0pZRC1Pa0xNZWgtRnk3MTVXT19sOXB0azV3?oc=5",
+      "source": "ABC7 New York",
+      "date": "2025-12-11T23:03:44+00:00",
+      "description": "Shoplifting suspect captured with drone after allegedly crashing car in Huntington, Long Island  ABC7 New York",
+      "query": "drone incident",
+      "detected_at": "2025-12-13T19:04:41.687708+00:00",
+      "location": "in Huntington, Lo",
+      "category": "crash",
+      "id": "1bc139719e87"
+    },
+    {
       "title": "Ukraine drone strike causes massive flight disruption in Moscow, Russia shoots down 287 UAVs - MSN",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEdOeThTOHN6SHVSazhwd3h2WGQwNjlISzZRRTlId0lIUEVXZW9YTFZoTTN5OHZHRWdkblRITUV6Z0VtdmZ0NVhvRWxMMjlpQnh5WmI4V2xJRXQ5MVZINXdTaEx6anBJYnZaaERZUFlwZEJtVC11dTJEX29PNFh3bEhJMmloZkoxRkloR2tGSzFUN3RrbWQyNGJHWG03bUU5VWFZTEIzeDFNNkFkR0Z2cGZuSjNHWmtDMzgxcEV1UG9zSmU5ZEx6aXU4UTAxemREdk02bmNiSQ?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "3f3361cfa8b0"
-    },
-    {
-      "title": "November Monthly Terrorism Update - Pool Reinsurance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkFhYzRUSGJyb2cxSk0xT04xNzh5Mk41TW84eDV2Ykh6TkhNMzhaM2FYU0xHSkIyWEFMNzdqUTVLUG9TT0EzYVVaMGczOElibDBqd1gwVkxMMW1QRko1c1NYcVRWcFZwVGtmU1ZNeE9rYXAyWm9ram1CUFVYQjdaMjE4d3JrQmFvQTdNc05nQjZVU3M?oc=5",
-      "source": "Pool Reinsurance",
-      "date": "2025-11-10T09:48:53+00:00",
-      "description": "November Monthly Terrorism Update  Pool Reinsurance",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-10T10:07:01.112597+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "f20e6f4f973e"
-    },
-    {
-      "title": "Man Killed in Stanislav Drone Strike, Kherson Region Investigation Underway - Букви",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXhBR21FbTVXc0pMVURuQ21wZVJWWF9UUTUtRTVIRnpvLU43VjlxYzlEY29CYU9nWnY3Y1hZNmRyTEUxaDc1dDRoMjBGd2JWdEZ2ZUVhVDNjQlFBQVlUanhSQ2tWdzFWR1J0WV83clgzUWJKQkJrd0JiM0JUeEx0V1UzZldJcFdFU3prRG5nWGtjMkRTTnU5ekFERktxd0dLS3BaUWJPT29rcUnSAasBQVVfeXFMTnl4QUdtRW01V3NKTFVEbkNtcGVSVlhfVFE1LUU1SEZ6by1ON1Y5cWM5RGNvQmFPZ1p2N2NYWTZkckxFMWg3NXQ0aDIwRndiVnRGdmVFYVQzY0JRQUFZVGp4UkNrVncxVkdSdFlfN3JYM1FiSkJCa3dCYjNCVHhMdFdVM2ZXSXBXRVN6a0RuZ1hrYzJEU051OXpBREZLcXdHS0twWlFiT09va3FJ?oc=5",
-      "source": "Букви",
-      "date": "2025-11-10T06:21:18+00:00",
-      "description": "Man Killed in Stanislav Drone Strike, Kherson Region Investigation Underway  Букви",
-      "query": "drone incident",
-      "detected_at": "2025-11-10T09:06:59.189101+00:00",
-      "location": "in Stanislav Drone Strike, Kh",
-      "category": "other",
-      "id": "182427a145fc"
     }
   ],
-  "last_updated": "2025-12-13T18:06:57.087159+00:00",
+  "last_updated": "2025-12-13T19:04:48.294059+00:00",
   "total_count": 1000
 }
