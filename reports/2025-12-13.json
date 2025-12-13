@@ -1,0 +1,122 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable increase in the use of drones for various illicit activities, particularly in the context of smuggling contraband into prisons. Authorities in the U.S. have reported multiple incidents involving drone deliveries to prisons, with several thwarted attempts to transport items ranging from food to narcotics. Additionally, there are emerging concerns regarding drone technology's role in criminal activities and its implications for public safety, highlighted by FBI initiatives to implement drone detection systems at high schools and events like the Army-Navy game. Furthermore, the detection of drone activity has raised alarms about potential terrorist threats, as well as reinforcing legislation around drone usage.",
+  "totals": {
+    "other": 15,
+    "terrorism": 3,
+    "smuggling": 8,
+    "crash": 5,
+    "arrest": 7,
+    "interference": 3,
+    "total_incidents": 48,
+    "by_category": {
+      "arrest": 4,
+      "crash": 4,
+      "interference": 2,
+      "other": 19,
+      "smuggling": 15,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 8,
+      "drone illegal": 3,
+      "drone incident": 11,
+      "drone prison": 12,
+      "drone smuggling": 3,
+      "drone terrorism": 3,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Drops",
+      "rationale": "Growing trend of drone deliveries to prisons for contraband smuggling.",
+      "incident_ids": [
+        "f1c1ee27f041",
+        "e357665476bc",
+        "0d6a47f39feb",
+        "6aeea9ebfe6b",
+        "54f8f265568d",
+        "38765091ff5e"
+      ]
+    },
+    {
+      "topic": "Drone Detection and Policy",
+      "rationale": "Authorities increasing proactive measures to detect and regulate drone usage.",
+      "incident_ids": [
+        "6c650e971bc1",
+        "68fbd65d5fa9",
+        "b960b7a64b79"
+      ]
+    },
+    {
+      "topic": "Terrorism Concerns",
+      "rationale": "Heightened focus on the potential misuse of drone technology for terrorist activities.",
+      "incident_ids": [
+        "781ea32e542e",
+        "d9b214580ebf"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f1c1ee27f041",
+      "headline": "Video Prisons face escalating threat from drones",
+      "one_sentence": "Authorities are increasingly concerned about drones delivering contraband to prisons.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "68fbd65d5fa9",
+      "headline": "State police ask to put drone detection sensors on 2 New Haven high school rooftops",
+      "one_sentence": "State police are seeking to enhance security with drone detection at schools.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "781ea32e542e",
+      "headline": "EU police report warns of chilling drone terrorism threats",
+      "one_sentence": "A report outlines the potential for drone swarms in terrorist activities.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "0d6a47f39feb",
+      "headline": "Drone delivery thwarted at South Carolina prison",
+      "one_sentence": "Authorities successfully intercepted a drone attempting to deliver contraband to a prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "38765091ff5e",
+      "headline": "A Christmas feast dropped by a drone into the yard of a prison",
+      "one_sentence": "A drone delivery intended for inmates was intercepted before reaching its destination.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the past 48 hours, drone activity related to smuggling and security has seen significant developments, particularly in prison systems.",
+    "linkedin": "Recent days have shown a rise in drone incidents involving smuggling and security measures, particularly around prison facilities."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-13"
+}
