@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a troubling range of drone incidents impacting various sectors across regions. A prominent event included a devastating drone crash in Pakistan that tragically claimed the lives of three children. In Australia, drone footage emerged in connection with a brutal terrorist attack in Bondi, heightening concerns about drone involvement in such violent acts. Meanwhile, illegal drone activity is increasingly reported at wildfire sites, prompting legislative responses in the U.S. and investigations into drone interference. Additionally, multiple incidents of drone crashes, including those involving military Reaper drones off South Korea, underscore the safety risks associated with drone operations. Reports on drone prison drops in Georgia draw attention to the growing threat of contraband smuggling via drones. A variety of countries and locations are affected by these incidents, indicating a widespread challenge in regulating drone usage.",
+  "totals": {
+    "interference": 1,
+    "crash": 7,
+    "terrorism": 5,
+    "smuggling": 2,
+    "airport": 3,
+    "arrest": 3,
+    "other": 6,
+    "drone incident": 5,
+    "total_incidents": 26,
+    "by_category": {
+      "airport": 4,
+      "arrest": 2,
+      "crash": 7,
+      "interference": 2,
+      "other": 6,
+      "smuggling": 2,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 2,
+      "drone crash": 6,
+      "drone illegal": 1,
+      "drone incident": 8,
+      "drone prison": 2,
+      "drone terrorism": 5,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone crashes leading to fatalities",
+      "rationale": "Multiple reports of drone crashes resulted in civilian fatalities and injuries, highlighting significant safety risks.",
+      "incident_ids": [
+        "59320be98830",
+        "181702ede2c0",
+        "3da80a3fee44",
+        "53177c98f1af",
+        "de76c79b1594"
+      ]
+    },
+    {
+      "topic": "Drone involvement in terrorism",
+      "rationale": "The incidents in Bondi and Ukraine indicate drones are increasingly utilized in terrorist activities.",
+      "incident_ids": [
+        "08bd6afeb03f",
+        "ce8fd2dd0de9",
+        "181702ede2c0"
+      ]
+    },
+    {
+      "topic": "Drone smuggling activities",
+      "rationale": "Reports about drone usage for prison drops in Georgia and other locations emphasize the smuggling threat.",
+      "incident_ids": [
+        "e5ad3202e439",
+        "a011338fe851"
+      ]
+    },
+    {
+      "topic": "Legislative responses to drone interference",
+      "rationale": "Bipartisan legislative efforts were launched to address drone interference in wildfire responses in the U.S.",
+      "incident_ids": [
+        "bb43c4d03ec8"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "59320be98830",
+      "headline": "Three children killed as drone crashes in Pakistan",
+      "one_sentence": "A drone crash in Pakistan tragically resulted in the deaths of three children.",
+      "risk_tags": [
+        "fatality",
+        "crash"
+      ],
+      "countries": [
+        "Pakistan"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "08bd6afeb03f",
+      "headline": "Chilling drone footage reveals Bondi terrorist attack",
+      "one_sentence": "Drone footage from Bondi captures the final moments of a horrific terrorist attack.",
+      "risk_tags": [
+        "terrorism",
+        "drone"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "e5ad3202e439",
+      "headline": "Authorities report growing drone prison drops threat",
+      "one_sentence": "Authorities are increasingly warning about the threats posed by drones dropping contraband into prisons.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "bb43c4d03ec8",
+      "headline": "Bipartisan effort to address drone interference in wildfires",
+      "one_sentence": "A new bipartisan legislative initiative targets unauthorized drone interference in wildfire responses.",
+      "risk_tags": [
+        "interference",
+        "legislation"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c503251f4c52",
+      "headline": "Drone motherships exposed by students in Russia",
+      "one_sentence": "A group of students revealed information about Russia's drone motherships that had gone unnoticed by intel agencies.",
+      "risk_tags": [
+        "military",
+        "espionage"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight a surge in crashes, terrorist involvement, and legislative steps addressing drone smuggling.",
+    "linkedin": "The past 48 hours saw a significant rise in drone-related incidents, from tragic accidents claiming lives to legislative responses aimed at countering unauthorized drone activities across sectors."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-15"
+}
