@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Visual explainer: how a night of terror unfolded in Bondi - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPel9DSGZlRWwtcTdnX3U4Q3MycE1oXzMyS1VlSGVqdEhpUWxWZGx5bEpJSHpuNTNRNUZwWUdIMFZDSEgxOElaN3RmZ00wN1BMZXZmdFg3SHJreDZ4M25xQmswbVJsQ3A4X3o4MVN1UkNBaU1JMzBqVFgwQVN0OTRRSVhRczYta3pYWXpNZWZ4VlpGTWZsemtrLWU5aWxHTHM5N3lKMQ?oc=5",
+      "source": "The Guardian",
+      "date": "2025-12-15T09:25:00+00:00",
+      "description": "Visual explainer: how a night of terror unfolded in Bondi  The Guardian",
+      "query": "drone terrorism",
+      "detected_at": "2025-12-15T18:08:30.197050+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "f0d4bd6a433f"
+    },
+    {
       "title": "Russia intercepts 130 Ukrainian drones in overnight raid; one injured in Rostov region - Press TV",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcW1lVm4zR3pUM1pQeG1BVlA4SlF0RUc1Sk1tY19PT2xkWGZHeE4yTTRJd0xwdnhxSVVVMERmeFBpb3JuMndUazE4TDNOdnNyZ0owdXNiOXN1YnJBVlZfZ0FqNnpTWHpPR2NWb0U0aEROeWpSZVV1cjRuSzdwcVRyV2xxbw?oc=5",
       "source": "Press TV",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b3b4bac15f79"
-    },
-    {
-      "title": "Drone Fragments Crash Into NATO Territory - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDRMdXRGdC1teEtxck80cEtQRV9GcV90MFFEQmNjYnA4ekx2Y1djaVVjN1RWbU50QXA2ZE9tVVFDSjNmd09CTzY2dE1nR2RvcE1oQ0VNbnZUZjdXVkRLSVpyb2lkZ3l0RzRGTUJVSFBSSFNzWW9weGZZVjRzeDlCVkRyZy1HVzRQN25ZQm03Zndvd2tmSUd2YUlxTDd0X0RMcUdVWlQwTko?oc=5",
-      "source": "Newsweek",
-      "date": "2025-11-11T08:11:00+00:00",
-      "description": "Drone Fragments Crash Into NATO Territory  Newsweek",
-      "query": "drone crash",
-      "detected_at": "2025-11-11T09:06:46.399877+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "aae8381130bc"
     }
   ],
-  "last_updated": "2025-12-15T17:09:07.371353+00:00",
+  "last_updated": "2025-12-15T18:08:31.455425+00:00",
   "total_count": 1000
 }
