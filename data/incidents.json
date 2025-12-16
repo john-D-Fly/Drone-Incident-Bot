@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Probe as drone footage appears to show illegal fox hunt - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yc0RCRzdOMW1odHY5SlhUU1c0UlQ1R2ZRQUV0UXRRdjlvQkdwT3hRQ2RDWnljQjVHeEljdjVLVUZESW5RYUlGaWJlWExNVFpucDhrRFAySmFJUdIBX0FVX3lxTE9NREh3MTZ6eFlIN3RNVExfUDdxMEx1YkwtdHEtMWFUSE1ib2hZcTlhcVJSYzlnOER4MzNCcTNFczFxVmNqdUZtZlY0OEVJU1VDQlRGeXRYRl85Z2ZKelRF?oc=5",
+      "source": "BBC",
+      "date": "2025-12-16T15:45:26+00:00",
+      "description": "Probe as drone footage appears to show illegal fox hunt  BBC",
+      "query": "drone illegal",
+      "detected_at": "2025-12-16T16:07:16.107974+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "43f0ff648a78"
+    },
+    {
       "title": "'Dangerous escalation': Six UN staff killed in drone strike in Sudan's Kordofan; government blames RSF - Times of India",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVFBCUF9fMWtrX250RjRITkxxODlYTEhNT2R1NGRaS1FScTdDTW1GeTk2WV9CUWdRTlYyT05Id29XMlJzY1k5VzBfakRwalBnT1RpZnhPV3NWMk1CcUQ3Q3dieEFDNkpqTk94bE11WWpEcUJkSkVDNE53eThMTk1MUVZTZkxVVkNJaVNDUHZlQkg1a1hHc0sxQXNMSmhLUGtCVzRCaXBBVl9xX3dBWUs0QWh4S2xMN2g2QU5PSUJZSXhtNk5wTmlBR09MaTItS2lNb3FvblM4SmlvbWtrS0FfajhYSU5CTGQ0eUF4eGJEbmJCRHNJcFhLVnJpY2VNM0NmNURhOTgzVDFYQTTSAZACQVVfeXFMTkNaN2RfRmh6S1RfYmNxR1dRdWxjRVRnM2t6eWhxR3RxSzZXQ29aemJ4OTRsOGRfbE9BWklOU0NteFB3VW9mLTA3WXVxV0ZFaERLUEo0ckJheXFYYU5hRXROcEVybFRZSHU1THVpanhuZnJreVpvNGNqYnNiQjVIbUxQQktGUHNFeHBMMHU3dHRabmdNb1RralFwZmhjcUh2Q2dxMGstdWJuTEVHYXNlellnNXFkUjZ5ZS1nU3hLeUVRM3BFdUpQSEM1bkRtSXE5VzZhQkc3VXljaTYzRVdBSWVnWjdGeVM4RGJrWjgwR2ZBZWJENEJTR29Ucko3ZzRZOW5ZWFhYUFg2eWpzVThrSmI?oc=5",
       "source": "Times of India",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "d8157ac735d7"
-    },
-    {
-      "title": "Drone Crashes in Romania – Fighter Jets Not Scrambled Due to Bad Weather - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXVkVVRSZVF6X05iU2kxV2paZng3dktsbERUUUZTam13ZzlBTmtWbkRleWtkMHhaQ0VTOFJWUWx3WlAwSHRQdGF5LVJ2VlhEblFPOFEzNzhTR21tM0w4MEg1Rm1JVWYzVGdDTkU1cUs1dVNuMnBOZ0tiRTU3NzlXSUdSSGFwcUo0V0hHQlBKaUhqeGFkUXRvbGJ3YXNCWDFzdVUyWA?oc=5",
-      "source": "Мілітарний",
-      "date": "2025-11-11T13:09:29+00:00",
-      "description": "Drone Crashes in Romania – Fighter Jets Not Scrambled Due to Bad Weather  Мілітарний",
-      "query": "drone crash",
-      "detected_at": "2025-11-11T15:05:49.408424+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ead97e302ae7"
     }
   ],
-  "last_updated": "2025-12-16T15:07:25.449300+00:00",
+  "last_updated": "2025-12-16T16:07:18.545830+00:00",
   "total_count": 1000
 }
