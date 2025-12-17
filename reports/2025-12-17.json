@@ -1,0 +1,122 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have been reported across various categories, including terrorism, smuggling, and airport security. Notable incidents include drone attacks on security agencies in Libya in response to organized crime, the thwarting of a drug smuggling attempt via drone in Jordan, and significant investments in airport drone defense in Latvia to protect against potential attacks. Also reported were multiple drone crashes, one involving military operations in Poland and others near residential areas. The week highlighted the dual-use nature of drones, revealing ongoing illegal activities and regulatory challenges surrounding drone deployments for law enforcement and agricultural purposes.",
+  "totals": {
+    "terrorism": 5,
+    "smuggling": 3,
+    "arrest": 3,
+    "crash": 3,
+    "airport": 2,
+    "other": 8,
+    "security": 2,
+    "total_incidents": 28,
+    "by_category": {
+      "airport": 2,
+      "arrest": 2,
+      "crash": 3,
+      "other": 11,
+      "security": 2,
+      "smuggling": 4,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 4,
+      "drone illegal": 6,
+      "drone incident": 4,
+      "drone prison": 1,
+      "drone security breach": 2,
+      "drone smuggling": 2,
+      "drone terrorism": 6,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Incidents in Security",
+      "rationale": "Rise in drone-related security incidents highlighting vulnerabilities.",
+      "incident_ids": [
+        "e1545227f945",
+        "eb6ce078ac28",
+        "4193bc70abc5",
+        "cf9d8a7b9dd9"
+      ]
+    },
+    {
+      "topic": "Drone Usage for Smuggling",
+      "rationale": "Reports of drones being used for drug and contraband smuggling.",
+      "incident_ids": [
+        "eb6ce078ac28",
+        "1d826f9157dd"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Several incidents involving drone crashes in military and residential areas.",
+      "incident_ids": [
+        "2f8730392dd1",
+        "d9ebaa881e70",
+        "0d141119b564"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e1545227f945",
+      "headline": "Drone attacks on Anti-Security Threats Agency in Libya",
+      "one_sentence": "Drone attacks targeted a security agency in Libya following a counter-operation against criminal militias.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "eb6ce078ac28",
+      "headline": "Drug Smuggling Attempt Thwarted by Drones in Jordan",
+      "one_sentence": "The Southern Military Zone in Jordan successfully thwarted a drug smuggling attempt involving drones.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4193bc70abc5",
+      "headline": "Latvia Invests in Airport Drone Defense",
+      "one_sentence": "Latvia allocated significant funds to protect the Riga airport from potential drone attacks.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "8daa98cc016e",
+      "headline": "Launch of Drone Emergency Dispatch in France",
+      "one_sentence": "Everdrone’s new service aims to integrate drones into emergency response in Normandy.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "26b3c995e4af",
+      "headline": "Suspect Arrested with Drone Assistance at Hays State Prison",
+      "one_sentence": "Authorities arrested a suspect near Hays State Prison following a drone-assisted search uncovering contraband.",
+      "risk_tags": [
+        "arrest",
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "twitter": "Drone incidents spike as security agencies adapt to new threats! 🚁 #DroneSafety #Security",
+    "linkedin": "Recent drone activities highlight the evolving landscape of smuggling, security breaches, and operational challenges across multiple sectors."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-17"
+}
