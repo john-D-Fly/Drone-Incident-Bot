@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes Ukraine with 82 drones overnight - Air defense's work reported - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVdrT0tXSVQxN0QwXzltVU9rY0FaNWpYcHRhUkNPVUR0eHZkdEZ2UndMRk9Sem13aGRlc2VjbS1EaXUxckw0enJDQS1HT2lFMWx5bTFhLXlGcTJvVG9DMGI5UVBLT0h1VjBXaDktRzk3V3Y1aG0wa2VSMVdTNDlPZnFXVERhVXVwVjVtdGdaTFJyZnU4T19kbk9Ybw?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-12-18T07:35:00+00:00",
+      "description": "Russia strikes Ukraine with 82 drones overnight - Air defense's work reported  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2025-12-18T08:08:27.365286+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "69bc22bceb81"
+    },
+    {
+      "title": "Drone Interceptor Falls in Chernihiv Causing Window Damage - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXNVQVBsTkxqZ1NSYVhaZGY0THl6eHotcWF1d0kxMWlveGQzcWswX3h5bVZLa2I2UW1LTnBqMmlYQm9BU3JFcXo5TEVDaDNBa0xoWDdpSnlwN19ESjVCRVE3alRocldNU0RpRXo3eVNraEItQTkyUk9Jd1Rya1JmckJhRTZEZGJCcDFkQkQ3U3rSAZYBQVVfeXFMT0FIWUxjem1YOU1id3I1X2tKOC1LWTF1VVEzaktpVHMydjdiODJEX21EUmFzVVZ0ejZuTVVoUnE0R0ZzNTBPMmV0SkNXQnVUcC1hLTN3Mk1BRkFwVW9WOUhQTnhzYTFqMFFUbkY1NXpGeDdxQVo0SlpDNnUtS1FZTXNzRzc2UHVDSmxlQnZaQ2VsMVh1N01R?oc=5",
+      "source": "mezha.net",
+      "date": "2025-12-18T07:31:39+00:00",
+      "description": "Drone Interceptor Falls in Chernihiv Causing Window Damage  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2025-12-18T08:08:22.261483+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e289a94b6eb2"
+    },
+    {
       "title": "Japan to expand drone bans at selected sites as terror risk increases - Japan Wire by KYODO NEWS",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaE00blBWbWxlVE9wVnBiQmhlenhsZ0taRXNyZ0FRd21BZ3JKUm9rYkZqMy1KMkxHMkw3ZUZkOG9DR1BMQjNFMmFwOHljTm9QSHBzYmRfSENuUQ?oc=5",
       "source": "Japan Wire by KYODO NEWS",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "104d46c76268"
-    },
-    {
-      "title": "Aviation watchdog says organized drone attacks will shut UK airports ‘sooner or later’ - theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ha1cteVhyYXVFX3FZR3lmVlZlVzEyTDN4QTBaSk82bFAxdURpSVZEbHBJeFBSU2ZhNjZ1bU5oYkxOMF9jbXUwMG9LcmFCdllKMTdMenhSLWxCTE0tUUd0OGtRQXNVMmRZZy0yU0xNd1pJUWN5bEE4cFJBTQ?oc=5",
-      "source": "theregister.com",
-      "date": "2025-11-12T10:15:00+00:00",
-      "description": "Aviation watchdog says organized drone attacks will shut UK airports ‘sooner or later’  theregister.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-12T16:07:15.780423+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "4a68aba7f706"
-    },
-    {
-      "title": "Morocco helps capture drug traffickers who used drones to smuggle drugs - Atalayar",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2RwMEQ1b0w4R2djU3JrVWdZaW5KSXpHQWpOcnhZa3VIYVhyQWVPMlFIb0lPWEFKTHRvYVZjcUNoMl9ERGRrOTNrUUJNd1pHczl6Y1pXVXlRUFB2cUtlTmN5OWhDRjNMem1wX3laMFdMcXZCSUZMNDBVcmdlcEZ3YndPWEdEUl9IckdNalpJQlZlaUx4cmhjOE53LWlaQkxHc0VtUEh6ak5UOTNZSmlBVjlyNjhvYjQ5NFhvRjN2UWlHSzgybHhheUZMWnItbHpVR01nTC11aG5UUDjSAeABQVVfeXFMTW9XUUIxUmlmSy15MmRyT1ZBVkpqQWNpQ3BCVVpMa3phd0xURTJfdlhMZWJPTzRWOWRGYzFUc1NMRXpreTE5N1dHeWtqNWZJYlliTE1iQU85VTBGV3JocVgwaXZYeGJXeDl2SGdSNWRKVGdtaUR0dml5WHBrcVpoUzBfZy1XVGVvWi15YkFMSElickhWX09VeWlsNFlEUENNdXRpaUZXd0loelRWRFJ2MVUwWnRhb0IxUC1UeVJpQlVtUHJzOHVJQm9lYjFDRFhzRGZXLXN6bVhLSkdtVEVxNXg?oc=5",
-      "source": "Atalayar",
-      "date": "2025-11-12T15:26:32+00:00",
-      "description": "Morocco helps capture drug traffickers who used drones to smuggle drugs  Atalayar",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-12T16:07:14.534843+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f5059b07ac16"
     }
   ],
-  "last_updated": "2025-12-18T06:08:39.430439+00:00",
+  "last_updated": "2025-12-18T08:08:28.760422+00:00",
   "total_count": 1000
 }
