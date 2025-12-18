@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Illegal drone shot down at nuclear submarine base - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0sxUG8xWnFmOGsxU196dmNvMGNmMzdGelhiSEU5NDBXMFFYZFVOWmZBRzdRd2xyUUhJV0l3VWd0emI5OWpOV2M3RkZNREFTMDBlREtKYk9xM3Q1QXN4MV80ZWFxZDhYVTBES29fNnNjYU5EZ01GUE1US1JOOHN6QQ?oc=5",
+      "source": "AOL.com",
+      "date": "2025-12-18T00:31:30+00:00",
+      "description": "Illegal drone shot down at nuclear submarine base  AOL.com",
+      "query": "drone illegal",
+      "detected_at": "2025-12-18T14:07:03.801059+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4debf86d6bea"
+    },
+    {
+      "title": "Israeli citizen arrested for smuggling weapons via drones - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kcXJ4dmZjV0t5b3kzLWtTTDcwR2hpM05uQUxvRnBLS09qREZjVFpFYkNTZDczN09zeW9nOERCV3YzbnN1MEJXSzJGb3VZZnJDWXJ4MHVGZ1hPRHNua202b2E2TE5vNTZ4WFZTaG13?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2025-12-18T13:52:13+00:00",
+      "description": "Israeli citizen arrested for smuggling weapons via drones  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-18T14:07:01.204349+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "514849014978"
+    },
+    {
       "title": "Army thwarts drug smuggling attempt using drone - MSN",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzh4M2N3QWZnVk9ydkxDbGYyMTVST19Qd0FwOFQxVHdTMGdHZmRxc1ZDRWIxSFdjREZMYWFhQ2c1MWZXclBDdTRiYnlNVm9kRDc3YmVxTXp1RGgtMGU2VGpZeWtKSXpSVTNfZ25TYzFMV3VzUk9YS0FwUmNaQ012Q0RaaU52QTRfVGI0Zk0wRW42ZjBsLUZsYVBSaC1kcXV5?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "0f4a46105661"
-    },
-    {
-      "title": "Spain dismantles drone-based drug smuggling network operating from Morocco - Yabiladi.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdNSFQ5M3JXOFd4VVByUXRxZW5YWEZqeU1rLVdJdzFMTU9GUU94RzRhME1JTFJNMTlhOGJJQkJLRjlRSHQybXMxbGphVDlweE9YMnl2bGlKX2JiVGNxOHJjaExpTEY3TUNXQjF6UFVJd2g1VkNncXhJVFFVZFB3NURXNkl6cXVUSmNVdV9PRWFqZ1hXNXUwaUJUWjc?oc=5",
-      "source": "Yabiladi.com",
-      "date": "2025-11-12T09:42:52+00:00",
-      "description": "Spain dismantles drone-based drug smuggling network operating from Morocco  Yabiladi.com",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-12T22:05:27.013344+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f4a2d074bdb4"
-    },
-    {
-      "title": "Anti-drone Technology Deployed in Ukraine and NATO Airspace Following Incidents - DEFCROS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmxkcTdEeHVCNjZPS2tMS015WWo0ZkNCbE1hYXBJSC0ybXRGVktJZklGbVRib3BCb0l4bWhwcWp6MHhUOUtNb2NHLUEzNlQ5M3FZMmRPMVlueGhqc2hNWW41R3plc3lUMHhqWWEybGxGMXlGVUE1TE4yS0YtTXpaVWtZUEZuOW50MWxnN09tVExDb0tKbkxMR3Z1Nnp2dTNzWWk5bWhmQlc?oc=5",
-      "source": "DEFCROS News",
-      "date": "2025-11-12T20:00:34+00:00",
-      "description": "Anti-drone Technology Deployed in Ukraine and NATO Airspace Following Incidents  DEFCROS News",
-      "query": "unauthorized drone",
-      "detected_at": "2025-11-12T20:05:56.618415+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dd45c337d357"
     }
   ],
-  "last_updated": "2025-12-18T13:16:50.633582+00:00",
+  "last_updated": "2025-12-18T14:07:06.667744+00:00",
   "total_count": 1000
 }
