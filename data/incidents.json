@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Asia Pacific Anti-Drone Market - MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFhwVlJYc19uOFJEYzRfRHFwYjZIQ1NiV1VFOGhheEE4NHpVUm9CUFZsa0tQa3U1cHh6ck53YjVWang4aXpDX09CVk1LSkJVcnlMLXBXX0hEZU1sQWxkRktkY2dubF9DRnpOZXR6c0RDTTNyYXlmZzZVdTJqMG5ObTR4SWUzaW1pUVpnOU5pcjhUR2xDeVFSRXd3?oc=5",
+      "source": "MarketsandMarkets",
+      "date": "2025-12-17T13:56:09+00:00",
+      "description": "Asia Pacific Anti-Drone Market  MarketsandMarkets",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-18T09:09:12.222231+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e985f75251eb"
+    },
+    {
+      "title": "Japan to expand drone bans at selected sites as terror risk increases - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wX2tWZVIwbTlVVEwxYVF5bFNEa2VJVmFHbWlxbjFGVXZFQ3FYSy00WXJXbFlGUHA5N0E1a0xlaEdzVlB1QnlCTlJ0SmhleWRXRDVWRzU2Q3lHSmNwa3Fwcm1CTjNZbmpDREpQdUJyZmFBNUk?oc=5",
+      "source": "毎日新聞",
+      "date": "2025-12-18T06:31:10+00:00",
+      "description": "Japan to expand drone bans at selected sites as terror risk increases  毎日新聞",
+      "query": "drone terrorism",
+      "detected_at": "2025-12-18T09:09:11.647995+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "25f6057fd5e6"
+    },
+    {
       "title": "Russia strikes Ukraine with 82 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVdrT0tXSVQxN0QwXzltVU9rY0FaNWpYcHRhUkNPVUR0eHZkdEZ2UndMRk9Sem13aGRlc2VjbS1EaXUxckw0enJDQS1HT2lFMWx5bTFhLXlGcTJvVG9DMGI5UVBLT0h1VjBXaDktRzk3V3Y1aG0wa2VSMVdTNDlPZnFXVERhVXVwVjVtdGdaTFJyZnU4T19kbk9Ybw?oc=5",
       "source": "RBC-Ukraine",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "f96c40df38fc"
-    },
-    {
-      "title": "Gujarat ATS Busts Terror Plot, Arrests 3; Weapons Sent From Pakistan Via Drone. - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1FndG1YNWNVRUczQ194ZVRpUmdEeVl4WDIzdkZhQ1hCTE5xRkdmVDdvM0ZEZmdfaThONGhSRnlmRHJjdzduSEtnYWYtb0cySHowVC1QVzBnd3g4UGpfallxeFlJR0tFdlpPODRtV2YxbW1DUkdnTHplWGU4UEFQS3g2Y2VDMS1WM1l2TktheGNibFZaRmVpNTJkMTdUZTJmMThTOGNFOXJXaXk2bFlJbUZkdEJ0YU1MSDl1ejNac1p4Qms?oc=5",
-      "source": "MSN",
-      "date": "2025-11-12T16:36:24+00:00",
-      "description": "Gujarat ATS Busts Terror Plot, Arrests 3; Weapons Sent From Pakistan Via Drone.  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-12T17:06:36.226805+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "58487c7800ea"
-    },
-    {
-      "title": "Unidentified Drones Surveil French Military Tank Convoy and Ammunition Factory in Escalating European Security Crisis - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnI4Q0ExWkFuc0NUMmJoTmdiZGpHcm9PT1J4VzV6bTNlcnMwb2NHLXJ1UHVGbVd3OXN1anBHVGRuZUdhT0doMWRZWHpxYWhqS2s4YWY2TUdoSHhycl9MZVFGQXBUWnpNU0ZGLXEwbEVpeG9yQm44aHg4Y09HeHFxTzJHSHh5TFJvOGdiZEJpTQ?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-11-12T16:37:39+00:00",
-      "description": "Unidentified Drones Surveil French Military Tank Convoy and Ammunition Factory in Escalating European Security Crisis  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2025-11-12T17:06:34.993023+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "104d46c76268"
     }
   ],
-  "last_updated": "2025-12-18T08:08:28.760422+00:00",
+  "last_updated": "2025-12-18T09:09:12.850376+00:00",
   "total_count": 1000
 }
