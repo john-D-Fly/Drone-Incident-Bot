@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Unverified Footage Appears to Show Thai Surveillance Drone Downed Near Poipet - Kiripost",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2l2SVhvVnZ2c3M4b0ZsR3A1eFlMY0RXMjhwRWxaMDBDNEdpdFFiaUNtRWZoNFR1aXVMcU50ekk0aFRFS2Q3eXdscy1PN3p0Unl1ZTUzSnEyZktBaVdXUGpYOXRDRlh3b0dQZmJmU3ZkSFZzNndiZEVQbURrcm1EcEhoQW9PdmVNYzg4eFlhR1J4bXBiMWJTNGVMUWNpZkN2bHpMOVdEeXktZ1k?oc=5",
+      "source": "Kiripost",
+      "date": "2025-12-19T02:48:17+00:00",
+      "description": "Unverified Footage Appears to Show Thai Surveillance Drone Downed Near Poipet  Kiripost",
+      "query": "drone incident",
+      "detected_at": "2025-12-19T03:32:38.655998+00:00",
+      "location": "Near Poipet",
+      "category": "surveillance",
+      "id": "dd62077f84e7"
+    },
+    {
       "title": "Russo-Ukrainian war, day 1394: Ukraine's drones devastate Russian air defenses and oil infrastructure as EU debates seizing Kremlin billions - Euromaidan Press",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVi1qMlBDaXFRUHYyaFJmSUpnMm83T3Z5VHc4TVM1dVhFT1l0RGZ0d3ZRX0ZRZ1ljUjdFRUg2VGE4a3dwMTJDdUtnQ3hmQXJZOHdsMktrZS1zb0x0M2VKQUxod1JPVWJmTWtZRnJjUFlJeGFUZlhj?oc=5",
       "source": "Euromaidan Press",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "43813216e1c8"
-    },
-    {
-      "title": "SkySafe launches new tool to help identify and prosecute rogue drone operators - AeroTime",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVV2YjNsVnNNQWZDYnZuRzROVUJoRGQydG14bno0YnRiemxCTURQTTVJSFhrRjdubGdQVFVyTTE4b1ZxOWE1TXItcGp4clVzR0Q2WGdlWHFRZ2tZNUN6MzVweUdxYzdpZ1A5Q0JGbTAxYXUzLWV1QjdONEpZTkZmNS1IYTJ5QdIBiwFBVV95cUxPLXdHYnpMR2h5Q1RXdVJ6QVhzUWVXb0RPdXRkN244WjdZWjM2OWhUY1JDYzk2ZjE0RndBVlUxZGpNbDVEVGUzU0o3MFgzNl8yb3NFOWY0UHBGaG9ybTJEdkk3WkJJckw5Ml8xa1VwZ1ZIeFhsMlZmNHNxRzc1RHROQVZCZFY0YjBKMGU0?oc=5",
-      "source": "AeroTime",
-      "date": "2025-11-13T14:00:00+00:00",
-      "description": "SkySafe launches new tool to help identify and prosecute rogue drone operators  AeroTime",
-      "query": "drone incident",
-      "detected_at": "2025-11-13T16:06:58.958886+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a2601d667a45"
     }
   ],
-  "last_updated": "2025-12-18T23:05:55.308173+00:00",
+  "last_updated": "2025-12-19T03:32:44.556160+00:00",
   "total_count": 1000
 }
