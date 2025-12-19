@@ -1,0 +1,145 @@
+{
+  "narrative_summary": "Over the past 48 hours, various drone incidents have emerged, primarily concerning smuggling and security enforcement efforts across different regions. Notably, multiple reports highlight the continued use of drones for smuggling contraband into prisons, particularly in the UK and the US, indicating an ongoing trend of unauthorized drone deliveries to inmates. In contrast, significant military drone operations were reported in Ukraine, where Russia has conducted numerous strikes. Japan has also taken steps to enhance drone regulation amid heightened terror risks. Policy responses are evident, particularly with Trump's recent legislation permitting police to disable drones at specific events, reflecting growing concerns over unauthorized usage. These incidents collectively underscore the multifaceted role drones play in both criminal activities and security measures.",
+  "totals": {
+    "smuggling": 8,
+    "terrorism": 3,
+    "other": 16,
+    "arrest": 2,
+    "crash": 2,
+    "airport": 1,
+    "total_incidents": 51,
+    "by_category": {
+      "airport": 1,
+      "arrest": 2,
+      "crash": 2,
+      "other": 23,
+      "smuggling": 17,
+      "surveillance": 1,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone arrest": 3,
+      "drone crash": 2,
+      "drone illegal": 10,
+      "drone incident": 9,
+      "drone prison": 3,
+      "drone smuggling": 12,
+      "drone terrorism": 8,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Increased incidents of contraband being smuggled via drones to prisons highlight a persistent problem.",
+      "incident_ids": [
+        "54c883095349",
+        "3a0c7d0d4e11",
+        "d182c364188c",
+        "86c2303184a1",
+        "007f0d4d31a60"
+      ]
+    },
+    {
+      "topic": "Military Drone Operations",
+      "rationale": "Significant military drone actions in Ukraine illustrating the ongoing conflict dynamics.",
+      "incident_ids": [
+        "f6be96150762",
+        "69bc22bceb81",
+        "3c069c23a015"
+      ]
+    },
+    {
+      "topic": "Policy Changes",
+      "rationale": "Legislative changes regarding drone use reflecting a response to security challenges.",
+      "incident_ids": [
+        "4a7dbb519982",
+        "b6fc5e143e0d",
+        "f23fe715a9a6",
+        "d182c364188c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "54c883095349",
+      "headline": "Drugs smuggled into crisis-hit Welsh prison by drone - Yahoo News UK",
+      "one_sentence": "Drugs were successfully smuggled into a Welsh prison using a drone.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d182c364188c",
+      "headline": "US prisons battle evolving drone technology used to smuggle contraband to inmates - Fox News",
+      "one_sentence": "US prisons face challenges from advanced drone technology being used for contraband smuggling.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f6be96150762",
+      "headline": "Ukraine: Russia launched 160 drone strikes overnight - breakingthenews.net",
+      "one_sentence": "Russia conducted an unprecedented 160 drone strikes targeting Ukraine in a single night.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4a7dbb519982",
+      "headline": "Trump signs law allowing police to disable drones at games - Rolling Out",
+      "one_sentence": "New legislation signed by Trump empowers police to disable drones at event venues to enhance security.",
+      "risk_tags": [
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9259f3ca44cb",
+      "headline": "Japan Expands Drone No-Fly Zones to 1000 Meters - Букви",
+      "one_sentence": "Japan expands its drone no-fly zones in response to increasing security threats.",
+      "risk_tags": [
+        "policy",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f23fe715a9a6",
+      "headline": "Drone banned near airports until Feb 15 - Bangladesh Sangbad Sangstha (BSS)",
+      "one_sentence": "Drones are banned near airports in Bangladesh until mid-February due to safety concerns.",
+      "risk_tags": [
+        "policy",
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "24510841b7d4",
+      "headline": "Video: Thai Surveillance Drone Crashes and Burns in Poipet - Khmer Times",
+      "one_sentence": "A Thai surveillance drone has crashed and burned in Poipet, raising concerns over operational safety.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents show a mix of smuggling efforts and evolving military use across geopolitically sensitive areas.",
+    "linkedin": "Recent drone-related incidents over the last two days highlight a significant range of activities from unauthorized smuggling to military engagements."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-19"
+}
