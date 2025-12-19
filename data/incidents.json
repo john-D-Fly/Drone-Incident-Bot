@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone banned near airports until Feb 15 - New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUZ4WUQ4NDJabkk1Vl9PMWt6cWJjbTZzX2lWZmhlbmMyVkR3LVJZZnN4WkNJeHlrM242UWx5NWEwZmlVd0VTSWl5MGtWOEY4Qmt3NEx3d0hOWERfQkY1bHpOUFR3ZVhTc3RUZUZYMzNrRm5OR0ttX3VOUEw5bk5FNG1BcXlIM2NhREtsUA?oc=5",
+      "source": "New Age BD",
+      "date": "2025-12-19T18:52:49+00:00",
+      "description": "Drone banned near airports until Feb 15  New Age BD",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-19T19:04:56.671938+00:00",
+      "location": "near airports until Feb 15",
+      "category": "airport",
+      "id": "2ffc105837f9"
+    },
+    {
+      "title": "Drone Down In West Virginia: Chicago Trio Sentenced For Prison Smuggling Plot - Tampa Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd203eVdLS3pUTUZ3eWVFN1NVcEtIWGNMc1otUE1ja2JnVmtJOC1hUXdITVVpb2JzTDdLMTFla2ZFbFJ4QXRONUg1NWIwaVByaWw0SHVvQTNmRUR2UHI4dUZwaS15TVVwTTVuY1ZZUXF0VzJ6M3Q4djVYWE1jeG1JenBiVEtIT2t0d0ZQazA3VVhIbVJTLWFVUnpHOGVYbUg1YVNR?oc=5",
+      "source": "Tampa Free Press",
+      "date": "2025-12-19T17:48:50+00:00",
+      "description": "Drone Down In West Virginia: Chicago Trio Sentenced For Prison Smuggling Plot  Tampa Free Press",
+      "query": "drone prison",
+      "detected_at": "2025-12-19T19:04:52.955628+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "36825eed4a64"
+    },
+    {
+      "title": "Turkish authorities investigate drone crash days after shooting down another UAV - CTPost",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG1mNUNCb3NONHhCWkMtY013dXdDYmkyZjl1cVQ1QzRyc2NTYXhiZ2FsWTVJYVVDS2hoRlZhWjNWQmtNMWpleWNKWUdHU3NwWmJaOTU0Y3d0VnozbFNad2VWREF3dllmUDBuaVhNV0JEUmhUb3hvOEx6M3FXME1kSlY1ZEx6TFZWZ3A3MjFDT3U0U3k5dy1uSDZxOWVxY0dyajdsRjdR?oc=5",
+      "source": "CTPost",
+      "date": "2025-12-19T15:29:37+00:00",
+      "description": "Turkish authorities investigate drone crash days after shooting down another UAV  CTPost",
+      "query": "drone incident",
+      "detected_at": "2025-12-19T19:04:51.138251+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "66603fd1b700"
+    },
+    {
       "title": "NEW: Drone footage shows Bondi Beach terror attack - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UG40Q1M5cE5rLWttbHA4QmlYLWxGRFlYbzhuV2ZSeVNwQVlDTFpXdzlSakpBTWNsVEgxdmo0UlpvTVVLcmNqakRWWjNod0JGVjEzS0x3?oc=5",
       "source": "Fox News",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "25a6bd4e1b21"
-    },
-    {
-      "title": "$500M grant program launched to help LE counter illegal drones ahead of 2026 World Cup - Police1",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjdZVHN2dFRSOTB3aEd3d1BrRlB0aGJTTzh5NVlrUWxmZTdpTFdqTm5WZkwwb0NiX0hkRkV0SzdOOFZOdWVPUEpKVlV5X3ZKMko3UnNycFpQSDNNbXRUVlFPVzBWd2ViZ0FaNDZpc3lmU0E2TlhBcHZmNDMtamJhRThqZk90Q0RraDJpdmhHb0o1MGFCUXRMVkpWV3J5NE1QZzc1NnNOMmZ3RW5zSS01NThidGhsWDN0SEFtUUM2MlY?oc=5",
-      "source": "Police1",
-      "date": "2025-11-14T17:11:45+00:00",
-      "description": "$500M grant program launched to help LE counter illegal drones ahead of 2026 World Cup  Police1",
-      "query": "drone illegal",
-      "detected_at": "2025-11-14T18:07:22.377784+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6e65c5b24072"
-    },
-    {
-      "title": "Rayleigh: Officers use drone to arrest three and seize stolen vehicle parts - Essex Police",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1g4QnZhelFGdms1TjVZcUVXMDQ5Rnh2M2k0aDZHLXl3RVZsNU9ES2Foemp5R0wtRHRiR21Xdk5DZllvcE1DM0s2eUZOSmw1R3JCV3pURGFqczl2WENaYUhTVGp1RVBESFRtdlMtdGwtNnVjbVV6aE52TEtkQlBkbjE3N1JlTFV4cWxXbC1rLTRWdUlTZWxrUlFWREZPbTdRNDl1Wkp5a0Zqc1hrUFBnem5RZ21oX3hHcU91Mkh1djdtRl9PYmJ2akdGQ3J6R3dlYWVLaw?oc=5",
-      "source": "Essex Police",
-      "date": "2025-11-14T11:31:00+00:00",
-      "description": "Rayleigh: Officers use drone to arrest three and seize stolen vehicle parts  Essex Police",
-      "query": "drone arrest",
-      "detected_at": "2025-11-14T18:07:19.098051+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f8cdc5b7abf8"
-    },
-    {
-      "title": "Madison Police use drone to find suspect on city’s south side - WMTV 15 NEWS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWNFQkVlTGc1WURBTGVUSXlIVG16NFdPVGZJeVhFdzlHcHRnc0pjVUtiZ1pRLVNJZ2cyRE5WblpWN2tFOVdvMXhZamxjNEpabFk4MVh5SVh1b3NpLUVpRW5LcmNsV2V3dUdkcE52dXdLcmdCNXU0Sml6aE9NNnQ5eUgzUENwVkFRZ2lCVU1sTmMzRDZ0UWdMZw?oc=5",
-      "source": "WMTV 15 NEWS",
-      "date": "2025-11-14T16:28:00+00:00",
-      "description": "Madison Police use drone to find suspect on city’s south side  WMTV 15 NEWS",
-      "query": "drone arrest",
-      "detected_at": "2025-11-14T17:05:23.212704+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "14d0925bba2b"
     }
   ],
-  "last_updated": "2025-12-19T18:07:49.902803+00:00",
+  "last_updated": "2025-12-19T19:04:57.298092+00:00",
   "total_count": 1000
 }
