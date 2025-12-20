@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Second Drone in 24 Hours Found Crashed in Northwest Turkey - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zeE05RFE5bGNnX1FkZGpiOXEwaGtXQXBDcURxdGFKSGdNbzdqRzdFZzFoZXJSZzVVMEhVcVZydXpReEo2aUFfdTV5UQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2025-12-20T15:44:02+00:00",
+      "description": "Second Drone in 24 Hours Found Crashed in Northwest Turkey  Kyiv Post",
+      "query": "drone crash",
+      "detected_at": "2025-12-20T16:06:07.355954+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "61c4e5c1aea0"
+    },
+    {
       "title": "Second drone in 24 hours found crashed in Turkey - Al Arabiya English",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd09EcFBuSUFXYU9kVGY0SUdvLVFvbHhTU1JJZ0JXdWNFS21EQkNFa3hpZm1qZkxORlpLeUc5OE1TLThlZDdic2wzQ1ZONExRQ3lkMEY3N2ZzWVJQckFxZFNOb3F2Uzl2QXdXMFVwaVAwcVRfVXFybjhiMUluOEg2c1ZlOHZmYWFnLUh2YWRWQ0EzVEZ0RWRnRUx2cjNoS1FlQkNSeE1lQnhNd9IBrwFBVV95cUxQLXF5MHVmWHJDeXFfdGdOc04wOGhQNmdvcm45TkZ5cWlpamRja0p0eV8tSW02SzJ4WWd5MXJzc2UtbVBERFZ4aHNQR3FjR3pIXzVrLWY0ODVxQk0tUV9oREoxU0ltNTE4VEFGdmNwMHhMU1NVMzFXNG4tNHVmenNGVWRtaFpUT0o4VFJ6eGN4S2llaUhJVHpMcGtHY29BYUF0cE11MGpscEZDNjlzbk5J?oc=5",
       "source": "Al Arabiya English",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "170be24fe0b0"
-    },
-    {
-      "title": "Man caught flying drone near Vilnius airport — Lithuania says he believed it was allowed - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnpEMmNEbUp4VlduM1RpRDg0R05vWDBxZ3I0bVBvNHVnM1FFMm15dU5aWTJzdTU3dkJ3bVlMYXk1V0FTUXRzQmlMajc5V2ZOazdDMkJWT01UNXpEZERLd3ZjQ0VLYjNsc2NlNFBUazZxS2R2MEV3d1FFYTBpclB1aTJ5UU96TGNXRXRta3ZRZ0lCRjZVbUZQVGExZDZmbnB0eUF6c05mVjJWS1JIcGtIeWZWaWxXb2NQaE5raWtERnliZXBi?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-11-16T11:23:24+00:00",
-      "description": "Man caught flying drone near Vilnius airport — Lithuania says he believed it was allowed  Euromaidan Press",
-      "query": "unauthorized drone",
-      "detected_at": "2025-11-16T12:08:12.745124+00:00",
-      "location": "near Vilnius airport",
-      "category": "airport",
-      "id": "2cd66820b96c"
     }
   ],
-  "last_updated": "2025-12-20T15:05:07.021678+00:00",
+  "last_updated": "2025-12-20T16:06:10.445035+00:00",
   "total_count": 1000
 }
