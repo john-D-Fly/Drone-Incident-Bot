@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Police can now take down drones at public gatherings, new defense law says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaElZU0JjREJabUstNFhOcmJmS1BZMktDLS1SbFllZVJaai1jUW9XUU9fdFJqNldfOEhmZ1RNLWFOWUJOTXNWOVYybXpNYUNMNlhJMWp4dm5KZmxvVFo5TFdiRVZ4b1RaV2xhX0lFTkN3b1J1QUpvLS1obkZMT1lhRnAyWS1kNjFkc3h5NUlyRFIwTHRDZk1oVE1Jb3hEa1YwSXZDNDhBSQ?oc=5",
+      "source": "CBS News",
+      "date": "2025-12-20T12:30:00+00:00",
+      "description": "Police can now take down drones at public gatherings, new defense law says  CBS News",
+      "query": "drone illegal",
+      "detected_at": "2025-12-20T17:04:58.974493+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "aa4d9d8b36a4"
+    },
+    {
+      "title": "In less than 24 hours... second drone found crashed in northwest Turkey - ANHA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1hhejljNzIxRlcxaE4tR0lUcWpfSmRWNF9DeXkwMnZkQ2c2MXZMRUV3cENXRFpLdkpreE9yTC1VTm9JZXFtRXNjV01CWGZJNWlWVDVGaGdyX2g1dXI4M0FydzNHdjM2YVY4RkRMM2NQbmROZFlFZmFNek1aUDgtS2UtanczUzBXVV81VUFyQ1NUalk1WDByYg?oc=5",
+      "source": "ANHA",
+      "date": "2025-12-20T16:50:58+00:00",
+      "description": "In less than 24 hours... second drone found crashed in northwest Turkey  ANHA",
+      "query": "drone incident",
+      "detected_at": "2025-12-20T17:04:55.624813+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ad50fbf6eab3"
+    },
+    {
       "title": "Second Drone in 24 Hours Found Crashed in Northwest Turkey - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zeE05RFE5bGNnX1FkZGpiOXEwaGtXQXBDcURxdGFKSGdNbzdqRzdFZzFoZXJSZzVVMEhVcVZydXpReEo2aUFfdTV5UQ?oc=5",
       "source": "Kyiv Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "ce169b5ad578"
-    },
-    {
-      "title": "Arms dropped by drones may have used old liquor smuggling route - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlRJUndtTDZhUWJJYk9JeGhWaHF0TzBLc3hUbi1VcDJlQnRqRGtjQVk4TmRsOXNBUVBmanp3NkxDbkZMcF9TMGdqYXdVbW1yQlNRYjRaOU03Z01ZM2tXempGZjlKdUktc3dIVW1PNVpDNFNINUlDb3c2VVVMYng5cXFCMVRKQzFfOUJuckR1ZHlkX2paQW00NjJFYk5VRWlzQ0FMUi16dHdvbE9teWRPQl9uV0dTU2tza3YxMmtLUDRnNTNRUkhrWk93d0tDcUoxcFBF0gHYAUFVX3lxTFBZUlVMNThvbk4xVko1Mm5aOUJUNkVSNndZclhpRk9aWjVtbGFqX3RORGFNLUpQbjR4NDY3cl94bVhobFdxczZJVjNtMlIzYW5VRTdBaTJnNnlwWUFVellleG5zc25XZDZpQWc4eGdRY0JoZ0N6cE5Wa0dGVk96T3FCenFvRHhHb0ZqX3NMUXpjUnpzX1pQdE16MzZKQXBvdXJLbXFrTk8wQnBsblpjS1FxZTlEaHV3S25KYUdoLXVISlUxUHI1ZWhMbjF4RlJxVG1CUGtEN05rMA?oc=5",
-      "source": "Times of India",
-      "date": "2025-11-16T19:36:00+00:00",
-      "description": "Arms dropped by drones may have used old liquor smuggling route  Times of India",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-16T20:05:33.940185+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7c7e9e2b8947"
-    },
-    {
-      "title": "Germany invests €100 million in drone defense technologies - Українські Національні Новини",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVpmdER0RHZZRXBibThmZ2RGdUNPdC1Calg1TS1GNUR5ZTBfQ3hiTTZnbVVpQ2VRblBtbng5clMzeENzdFF2aDlta09UZ1Q3Y2dzWEswOFA3dFV3YV9FbTJicWhDQnRRcGNWOHVIdDVwRjJkb3RVUEp6bUlfZUdMdjF1RWxZM0tmNHd3Y9IBiwFBVV95cUxPcncwWGFYU2ppUXNtU0xWMDFHWkotcUQtRnQ0akFxTjBfUW1TelBKWC1NN2xQMGtNUUJBTWlKTFdJdTROdnd3UnA0MzNyMXZZanpnOGJEMldMRzRJYzZGVURWOHV1dV9WOVdCeGxuSXoyQ3l4M0g2Qk1wT2ZMVHpXcTBoRWRWQXctUng0?oc=5",
-      "source": "Українські Національні Новини",
-      "date": "2025-11-16T12:42:13+00:00",
-      "description": "Germany invests €100 million in drone defense technologies  Українські Національні Новини",
-      "query": "drone incident",
-      "detected_at": "2025-11-16T14:04:49.424959+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "170be24fe0b0"
     }
   ],
-  "last_updated": "2025-12-20T16:06:10.445035+00:00",
+  "last_updated": "2025-12-20T17:05:01.220056+00:00",
   "total_count": 1000
 }
