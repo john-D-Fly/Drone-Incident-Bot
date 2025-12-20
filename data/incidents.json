@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Second drone in 24 hours found crashed in Turkey - Al Arabiya English",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd09EcFBuSUFXYU9kVGY0SUdvLVFvbHhTU1JJZ0JXdWNFS21EQkNFa3hpZm1qZkxORlpLeUc5OE1TLThlZDdic2wzQ1ZONExRQ3lkMEY3N2ZzWVJQckFxZFNOb3F2Uzl2QXdXMFVwaVAwcVRfVXFybjhiMUluOEg2c1ZlOHZmYWFnLUh2YWRWQ0EzVEZ0RWRnRUx2cjNoS1FlQkNSeE1lQnhNd9IBrwFBVV95cUxQLXF5MHVmWHJDeXFfdGdOc04wOGhQNmdvcm45TkZ5cWlpamRja0p0eV8tSW02SzJ4WWd5MXJzc2UtbVBERFZ4aHNQR3FjR3pIXzVrLWY0ODVxQk0tUV9oREoxU0ltNTE4VEFGdmNwMHhMU1NVMzFXNG4tNHVmenNGVWRtaFpUT0o4VFJ6eGN4S2llaUhJVHpMcGtHY29BYUF0cE11MGpscEZDNjlzbk5J?oc=5",
+      "source": "Al Arabiya English",
+      "date": "2025-12-20T12:47:00+00:00",
+      "description": "Second drone in 24 hours found crashed in Turkey  Al Arabiya English",
+      "query": "drone crash",
+      "detected_at": "2025-12-20T15:05:03.817820+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2fec0296c613"
+    },
+    {
       "title": "Unknown Drone Found in Balikesir Sent to Ankara for Analysis - Букви",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONEhhUVVBTFo2bkdyT1BCZ01kb3ZZNWlxb3FjZDl5OHZHQXJMYnhxTkU0OXJJbE5yZ1R4a05zQ1V6aWVzVnYtWVlpYk1KcmhQTU4wS1VTT2VvOC1HWVFQLUZvUDFSNTE5a1djQlU2elYwdWZoMDdCNVpTUkRhX2d3NlhnZVpvRTRabkdWTXR2Rkg1Z0HSAZgBQVVfeXFMTW41UzFHQVJvNEtIb2h6QkRHeEdYRnJ3MTE1SjJ5Z1NEZ2k0SWxxdDgzWktVaFRuWV9McE9CRkZYa09fN0NsdVdFeWczckYxQ3FVcG9KeFo5UkkxcUpCV0IzYmktVDNIZ1VLS3BiWVhSWjdzYUdSUDM2NGdpTFg3dmtSczIxaDJPNlFLRG83b1ZhMy1DTW0yWlE?oc=5",
       "source": "Букви",
@@ -11987,20 +11999,8 @@
       "location": "near Vilnius airport",
       "category": "airport",
       "id": "2cd66820b96c"
-    },
-    {
-      "title": "Monmouth devastated by Storm Claudia flooding in shocking drone footage - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGVjQ3d5ZTVxV01IMUQ5eTRnZkdjRkNMYnluOWhYcXpRYjY2TmVVRlczWXViYW16QUdoc0hfLUxyR3MxaU9BclBmbUFDSk1OZkEzLXZmLVZwZlhuSEVaTWk5c0tkMm5MNkU5WHZrRVhXdDhNTnZvamZMc3ZiazBFOGNBTHhNZ1ZwOE9zdHV5MkNraE1CZ01QdGxtZw?oc=5",
-      "source": "The Independent",
-      "date": "2025-11-16T07:19:00+00:00",
-      "description": "Monmouth devastated by Storm Claudia flooding in shocking drone footage  The Independent",
-      "query": "drone incident",
-      "detected_at": "2025-11-16T09:05:13.695881+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "aa71e5772089"
     }
   ],
-  "last_updated": "2025-12-20T14:05:03.698359+00:00",
+  "last_updated": "2025-12-20T15:05:07.021678+00:00",
   "total_count": 1000
 }
