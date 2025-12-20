@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "President Donald Trump signs law strengthening stadium security against drones - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3NheTFoZVpwVVh2dGF5MDFQX1gtY2RzTGdWVVNiaUZkRDlXNzN3cVZ0b0pQd1IweldkQXNVMWV6TF9MS092ajZYZlFDeU9Ib3ZfanFVNzE1b0pwa3ZvSWV0dTRtcDZzMnRpR0k1ekR6RjZiUEtoUmVEVzNyRTVuc1hmUllad0t1ck1CX253?oc=5",
+      "source": "The New York Times",
+      "date": "2025-12-19T16:52:34+00:00",
+      "description": "President Donald Trump signs law strengthening stadium security against drones - The Athletic  The New York Times",
+      "query": "drone illegal",
+      "detected_at": "2025-12-20T23:05:12.831202+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2dac4dbeea16"
+    },
+    {
+      "title": "Cross-border smuggling attempts on rise amid fog - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGpSeHBtQ1pvRW5hQVVyVk5Hc2p5SWEzNUprN29razU1cmZaY25QcU1nSHZ0OTI2emFKM3JxZDFEd2RFSTZRbjFtYW5ycjM0M0N2NVZadWtvQTFHR3NOSGw3TjU2ckVycTN6dHpQaHkzejJ3RDg3b2wzS25DckxuUjlrWHN2NmttMTRzZlRVV1hIQ0NXaFdaNndnZU1ITl9MSWhGMVZBc1VJcnp1Rmh1WkxxZUFSU01xaHlWMFc3RmlLTDlS?oc=5",
+      "source": "Times of India",
+      "date": "2025-12-20T21:47:00+00:00",
+      "description": "Cross-border smuggling attempts on rise amid fog  Times of India",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-20T23:05:10.548316+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f887ab93a5b4"
+    },
+    {
       "title": "President Donald Trump signs law strengthening stadium security against drones - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3NheTFoZVpwVVh2dGF5MDFQX1gtY2RzTGdWVVNiaUZkRDlXNzN3cVZ0b0pQd1IweldkQXNVMWV6TF9MS092ajZYZlFDeU9Ib3ZfanFVNzE1b0pwa3ZvSWV0dTRtcDZzMnRpR0k1ekR6RjZiUEtoUmVEVzNyRTVuc1hmUllad0t1ck1CX253?oc=5",
       "source": "The New York Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "363a207d59e6"
-    },
-    {
-      "title": "Flights grounded at Brussels Airport after multiple drone sightings - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDNBaGtSZURXbFZyaVlMUnU0amVUb1pVV2lnaVVId29wTzJvSzE3VUVjQUlZSVdoTG56RUxEcVZFRjNBT0djZkF1Y3NFNEg3d2E3OFlNUUlrandkWllXdndGenp5dkpkbmJQdDFiUVZXekRUV0FJMFlqa1JTa0twU0hVYWNfYUstQXV3?oc=5",
-      "source": "AOL.com",
-      "date": "2025-11-16T11:09:19+00:00",
-      "description": "Flights grounded at Brussels Airport after multiple drone sightings  AOL.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-17T00:23:41.621844+00:00",
-      "location": "at Brussels Airport",
-      "category": "airport",
-      "id": "e5e5c4a1781d"
-    },
-    {
-      "title": "Army foils multiple drug-smuggling attempts using balloons, drone - MSN",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDM2U1RRcjFGbF9wcFA2eXh4bG40elB0cjh4VlFpcjVfYV9ZRlVDZGpqam9TZmN3RFk4ZFBWZ0Q2RXB0OWFpOXFiTnFCVHF1ckpkRzZ6Y2xhMzZRcEVTTm5Sc2trdDBCZUFKMFBnRERWa2NNZF9CUXA1NmVlTXJrWEpRdFY3empLVERJOW93LWwteDVNdFUxUG1hSEE4LW9QQVhycVZ3d3p3Q3JOSUp2emlGdVhFdEU?oc=5",
-      "source": "MSN",
-      "date": "2025-11-16T15:51:44+00:00",
-      "description": "Army foils multiple drug-smuggling attempts using balloons, drone  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-17T00:23:40.163348+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "08ecb2dcaac1"
     }
   ],
-  "last_updated": "2025-12-20T19:04:34.875892+00:00",
+  "last_updated": "2025-12-20T23:05:15.197381+00:00",
   "total_count": 1000
 }
