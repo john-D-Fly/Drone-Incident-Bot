@@ -1,0 +1,127 @@
+{
+  "narrative_summary": "In the past 48 hours, a notable increase in drone-related incidents has been reported, primarily focused on smuggling activities across various regions. In Jordan, military forces successfully intercepted multiple drone drug-smuggling attempts, highlighting ongoing challenges with illicit drone use in the area. Türkiye has experienced a series of drone crashes, particularly involving Russian-made UAVs, sparking heightened scrutiny and investigation. Additionally, incidents of drone-related contraband delivery to prisons in the U.S. have drawn attention to security breaches. As governments adapt to the evolving threats posed by drones, new legislation, including enhanced security measures around public gatherings and airport restrictions, is being introduced to mitigate risks.",
+  "totals": {
+    "smuggling": 5,
+    "other": 9,
+    "crash": 16,
+    "arrest": 3,
+    "terrorism": 2,
+    "total_incidents": 58,
+    "by_category": {
+      "airport": 2,
+      "arrest": 2,
+      "crash": 27,
+      "other": 17,
+      "smuggling": 9,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone crash": 14,
+      "drone illegal": 7,
+      "drone incident": 23,
+      "drone prison": 3,
+      "drone smuggling": 6,
+      "drone terrorism": 4,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "smuggling",
+      "rationale": "Multiple incidents related to illegal transport using drones.",
+      "incident_ids": [
+        "a16410d57b05",
+        "c9acf542847a",
+        "3df955f27fb6",
+        "af8320497ff5",
+        "f8efcc1947b1"
+      ]
+    },
+    {
+      "topic": "drone incidents in Türkiye",
+      "rationale": "Increased reports of drone crashes, particularly Russian models.",
+      "incident_ids": [
+        "2162294d741b",
+        "79565f3346d3",
+        "1e8128b67d28",
+        "34b405b8a7fa",
+        "1eb05def74dd"
+      ]
+    },
+    {
+      "topic": "legislation and policy",
+      "rationale": "New laws and policies being introduced in response to drone incidents.",
+      "incident_ids": [
+        "2dac4dbeea16",
+        "aa4d9d8b36a4",
+        "38f938db7631"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c9acf542847a",
+      "headline": "Jordan’s southern military foils drone drug-smuggling attempt",
+      "one_sentence": "Jordanian military successfully intercepted a drone attempting to smuggle drugs.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Jordan"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "79565f3346d3",
+      "headline": "Rogue Russian drones over Turkish skies?",
+      "one_sentence": "Speculation arises over unidentified drones reportedly linked to Russia flying over Türkiye.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Turkey"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "af8320497ff5",
+      "headline": "Drone delivering marijuana and crab legs intercepted near South Carolina prison",
+      "one_sentence": "A drone attempting to deliver contraband was intercepted near a prison in South Carolina.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "eab444f471ba",
+      "headline": "Army foils smuggling attempt using drone",
+      "one_sentence": "The army prevented a drone smuggling operation.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "2162294d741b",
+      "headline": "Unidentified Drone Discovered in Türkiye as Ankara Probes Series of Aerial Incidents",
+      "one_sentence": "An unknown drone was found in Türkiye as investigations into recent aerial occurrences continue.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Turkey"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents, with significant smuggling operations thwarted and new security laws emerging.",
+    "linkedin": "The last 48 hours have seen an uptick in drone-related incidents, highlighting smuggling activities and the need for enhanced security legislation."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-21"
+}
