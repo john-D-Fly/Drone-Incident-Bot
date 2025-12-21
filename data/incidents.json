@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Army foils smuggling attempt using drone - Ammon News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLTHNmandqUEtUMi1tbGJISnN6UDRYVEtURm9jZWREMFN6RWNVLWJPcnUyVVc4R093N2R1TnB5LU1jeDlSTXdmY1FsZjg3VFU?oc=5",
+      "source": "Ammon News",
+      "date": "2025-12-21T07:27:47+00:00",
+      "description": "Army foils smuggling attempt using drone  Ammon News",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-21T13:12:25.346589+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a16410d57b05"
+    },
+    {
       "title": "Jordan’s southern military foils drone drug-smuggling attempt - Roya News",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pcUtZTmsxNVJyejJuUnVMZXdGMVlELTNXSWhrY0oyZkJDakhNNG1zTnozNFNnZlQzaVhvbFo5Mmd6UHRwVFV4Xw?oc=5",
       "source": "Roya News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "abe59e2c52e7"
-    },
-    {
-      "title": "VIDEO: Calls to change ASX trading rules after DroneShield share crash - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeS1tdlV4RVNXaWVycGIwd2hHN0dzeDhDZktLdWE5QjFoc1VWMWdkR19GQUdJblNNLUdfRklELXVocjZETFlrRzJSa0JJQXNpeFk2VWM1UldhbWtGc1JuOUJZUVdNUXF0RTVjMEFPS1Z2VFFHX3JtRUlmYjVUR2VVOWZ3Z3UzV2RDQ2RPbkpYWjhGd3pRbW9TVXJUaURlY2E4Y2VwSmlFczdhUU9pb1N4S3NXSmQ1N1hwa0FYaWVESzRxaTNpeXVocE5lWjJ6M00?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2025-11-17T07:58:15+00:00",
-      "description": "VIDEO: Calls to change ASX trading rules after DroneShield share crash  Australian Broadcasting Corporation",
-      "query": "drone crash",
-      "detected_at": "2025-11-17T11:05:17.737111+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b183aa142ce6"
     }
   ],
-  "last_updated": "2025-12-21T12:08:49.998573+00:00",
+  "last_updated": "2025-12-21T13:12:30.012990+00:00",
   "total_count": 1000
 }
