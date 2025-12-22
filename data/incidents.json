@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Germany registers over 1,000 suspicious drone flights - DW",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
+      "source": "DW",
+      "date": "2025-12-22T03:45:00+00:00",
+      "description": "Germany registers over 1,000 suspicious drone flights  DW",
+      "query": "drone incident",
+      "detected_at": "2025-12-22T04:20:41.715468+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8712e77e288a"
+    },
+    {
       "title": "Jordanian border forces intercept drug-laden drone in southern region - Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yWHZzWHdWMlB2N2k2a2VHNUY0S3VWSmFlWWQ0blAxMG1Dd2RtUGpTRnhWWWJBemx0eV84aEdMd1l4Q1JiSDBlV1Y1djN4aUxqQWt3RVFtTTk5bXE4?oc=5",
       "source": "Arab News PK",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "0b22da83f839"
-    },
-    {
-      "title": "Europe “Not Ready” for Drone Warfare: Kubilius Warns at Defending Baltics 2025 - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUDkzYVo1VlpXWHRwdzlkeTh5MUwxcl9VXzhPVXdwbE1XcVlZU3hGME1kdnNnZ3VNQVI1SzdrTWl6NlUtcmVRd0F4aEdSclVueHlkLXhSNHJjTVFOT1RvUG1BMnFydjNGc0FGWkdua0ppdmZobVo3bEw2RkI2aTJReU5nYUxQeHk0WFoxWVk2Q2RLNFliblU5Wm4yNk9XSTM3T2R6ZV9aamppSWprSUHSAbMBQVVfeXFMTXRMZ3J0WElVTnZRM1d2VXdzUC0yNkN1Zy1ud1I2eWk1ZmNMVG5qcHR4elFTV2pJWFVadFdiLWZRNHExMjFKUzFmbjRiLUY2LXJKUjZ2TGlmVWk0bVhjNDFLWWVpZUUxUTFOVlgybXZXWjFjQWlncmtwTUhNN1kzbUV3a25VVmFWZ0Nla1R0eDlPM1pTUFQzeFlxOXFRYlc5SnlLOWJER3NQUjJ4SzdFU0ZxWEE?oc=5",
-      "source": "Dronelife",
-      "date": "2025-11-17T16:14:50+00:00",
-      "description": "Europe “Not Ready” for Drone Warfare: Kubilius Warns at Defending Baltics 2025  Dronelife",
-      "query": "drone incident",
-      "detected_at": "2025-11-17T17:06:09.436192+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7e92d8d7b88e"
     }
   ],
-  "last_updated": "2025-12-22T00:25:34.081554+00:00",
+  "last_updated": "2025-12-22T04:20:47.110226+00:00",
   "total_count": 1000
 }
