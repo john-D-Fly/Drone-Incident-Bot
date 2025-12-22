@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Thailand tightens drone controls after sightings near airports and borders - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LbENwNEdnekQzQVN2ZllGRlZnNlAzUWZUbjBCNjZELUxFb0puOFRGUDI4MXZfdDY2d1ZOam5aeGt0NDVwMXhjVjBkZ0JQTEhITXJoMWZzNjlaejRzUkhHS1UzZ0laRmc?oc=5",
+      "source": "Nation Thailand",
+      "date": "2025-12-22T06:53:00+00:00",
+      "description": "Thailand tightens drone controls after sightings near airports and borders  Nation Thailand",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-22T08:08:45.036573+00:00",
+      "location": "near airports and borders",
+      "category": "airport",
+      "id": "6b4dd684637e"
+    },
+    {
+      "title": "Germany registers over 1,000 suspicious drone flights - DW",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
+      "source": "DW",
+      "date": "2025-12-22T04:38:05+00:00",
+      "description": "Germany registers over 1,000 suspicious drone flights  DW",
+      "query": "drone incident",
+      "detected_at": "2025-12-22T08:08:40.174351+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9b7fbed29849"
+    },
+    {
       "title": "Southern Military Zone foils drone-led drug smuggling attempt - MSN",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUU1FdFp2MGo1eGNZdWJqaFVvTjg5MVVZaEUzWFdzZzdneWY4THNRbHNpOElOWGFTenVRMWlTaXNRblYtb0ZvNkM2ajZFWlBsaTNSY2lRdmtaUVJQcWEtVWtaZmFkVXc4UllmMXVsTFN2aWd3YlZKTnIxWHQzRWtmTTdfLWF4V0xzaWR2SUdQc00zUDg5ZW0tN0Z0OUhTNmwtbUM1S1dfRkxfbmVGb3ow?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "104555ec9b72"
-    },
-    {
-      "title": "Israel takes fight to Egypt's border against infiltrations - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLTzB0Q0pHYVZlblB5VXVaaTY3bUlGM0IySEhxdUM4elhDMlNLeFpQRkdqWFdRZHk4Q3BLNVRhQURoNGYtUFlGWTRHakxUMG9OQjZEdzIwWXF3a2E1?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-11-17T15:16:32+00:00",
-      "description": "Israel takes fight to Egypt's border against infiltrations  The Jerusalem Post",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-17T17:06:10.774840+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a5601f9987f4"
-    },
-    {
-      "title": "IDF To Open New Op. Center After 130 UAV Smuggling Attempts In One Month - i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXBZSjM5U01VSG82bDE0Zkh6NXB4MXpLSmdaSEd3TFJrakNCeWtUWWZnazBndnF5dWFzTFZXQVdHRTE0TEpmSmkwN1dWRlNVTTN4OVBUa3F3c0VMRG9QRTFEemhhS2xDV2t4MjBaZzRUX0VtMFAyNmhnU0c1S1d2d3hIdXU1R2FoWHJma0hiaUtVd1Z5UC1fNzNjX1otay1zakRWdGphRWNDSTJmemZMd3JkOGxKZ3RrXy01TzIzMA?oc=5",
-      "source": "i24NEWS",
-      "date": "2025-11-17T16:09:26+00:00",
-      "description": "IDF To Open New Op. Center After 130 UAV Smuggling Attempts In One Month  i24NEWS",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-17T17:06:10.774840+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "970bdb683bdc"
     }
   ],
-  "last_updated": "2025-12-22T06:09:25.840312+00:00",
+  "last_updated": "2025-12-22T08:08:45.566271+00:00",
   "total_count": 1000
 }
