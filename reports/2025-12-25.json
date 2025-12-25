@@ -1,0 +1,163 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a noticeable surge in drone-related incidents primarily linked to smuggling activities and airport disruptions. Key incidents included the IDF intercepting drones allegedly carrying weapons from Jordan and a drone drop of 12 kg of heroin near Amritsar, highlighting ongoing cross-border smuggling trends. Additionally, a series of arrests related to unauthorized drone activities occurred in Thailand, underscoring security concerns at airports. Multiple incidents of drone crashes were reported, including one that caused damage to an apartment building in Chernihiv, drawing attention to the risks associated with drone operations in conflict zones. The growing prevalence of drone surveillance and enforcement actions against illegal drones are also significant themes emerging from these incidents.",
+  "totals": {
+    "smuggling": 6,
+    "terrorism": 4,
+    "arrest": 6,
+    "crash": 2,
+    "surveillance": 2,
+    "security": 2,
+    "other": 6,
+    "total_incidents": 36,
+    "by_category": {
+      "arrest": 8,
+      "crash": 2,
+      "other": 13,
+      "security": 3,
+      "smuggling": 7,
+      "surveillance": 2,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 6,
+      "drone crash": 1,
+      "drone illegal": 3,
+      "drone incident": 9,
+      "drone prison": 1,
+      "drone security breach": 1,
+      "drone smuggling": 7,
+      "drone terrorism": 4,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Smuggling",
+      "rationale": "A series of incidents involving drones used for smuggling, particularly in the context of drug trafficking and weapon transportation across borders.",
+      "incident_ids": [
+        "fe8ff981e87a",
+        "bf6ea12038bb",
+        "5bbc38c6fa93",
+        "c2fac53bcbf0",
+        "3bff27ad18a1",
+        "0d4d22643b02"
+      ]
+    },
+    {
+      "topic": "Arrests related to drone incidents",
+      "rationale": "Multiple arrests took place linked to various drone activities, ranging from smuggling to unauthorized flights near significant locations.",
+      "incident_ids": [
+        "bf6ea12038bb",
+        "4db7ba7c7718",
+        "4d2e27b47e44",
+        "7d01be31c42d",
+        "d2cf887c8111",
+        "bc66134f7049"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "fe8ff981e87a",
+      "headline": "Shin Bet Chie: Drone Weapons Smuggling From Egypt, Jordan Is Strategic Threat to Israel",
+      "one_sentence": "Drone smuggling activities from Egypt and Jordan pose significant strategic threats to Israeli security.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "bf6ea12038bb",
+      "headline": "Drone drops over 12 kg heroin near Amritsar amid fog-smuggling surge",
+      "one_sentence": "A drone successfully dropped 12 kg of heroin near Amritsar, indicating a rise in drug smuggling offenses.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "c3fcf6a8c43e",
+      "headline": "Ukrainian Drone Attack Sparks Blaze at Fuel Storage Facility in Southern Russia",
+      "one_sentence": "A drone attack attributed to Ukraine ignited a fire at a fuel storage facility in southern Russia.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b7779b2af190",
+      "headline": "India isn’t ready for drone terrorism, which is now central to proxy warfare",
+      "one_sentence": "A report highlights India's lack of preparedness for drone-related terrorism amid an increase in proxy warfare.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "286683c80aea",
+      "headline": "Russian drone crash damages apartment building in Chernihiv",
+      "one_sentence": "A drone crash in Chernihiv caused significant damage to an apartment building.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9c99a256748e",
+      "headline": "Court extends arrests of ex-defense minister, ex-commander over drone deployment",
+      "one_sentence": "Arrests of former military officials continue as investigations into drone deployments proceed.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    },
+    {
+      "id": "97c8813f42ab",
+      "headline": "Drones hit Russian port, set oil storage tanks ablaze",
+      "one_sentence": "Drones targeting a Russian port resulted in oil storage tanks being set alight, raising security alarm.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f3880d074e04",
+      "headline": "Drone Hunts Teen Auto Thieves, Leads To Gun Arrest in Maryland, Police Say",
+      "one_sentence": "A police drone helped apprehend teen auto thieves, which led to subsequent gun arrests in Maryland.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.55
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal a rise in smuggling and security threats, with notable arrests and attacks across various regions.",
+    "linkedin": "The past 48 hours have seen a significant rise in drone-related incidents, including smuggling activities and security breaches, highlighting the urgent need for policy adaptations."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-25"
+}
