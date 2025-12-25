@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Incident involving Zelenskyy’s aircraft - Ireland sees no failure by its security services - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTlJUHpHeU56eUF0bFdpRndmRHFPeC1nQVBZc281d2NOLWVHMkdWTTFvMGtMZ0RGMlc0ZjJHWDhDSTNZSHNuUXk2RTZ4cUNqMUNBSWVFdXVZbjBJMk93eUVSNTlYWElnZnFaRUQ2MDl3bU43R1JpV0ZrNEFlMkZENDV1b1BxWF9XN0FNYjNvbUxBZTVLSFFlMDZKYw?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2025-12-25T14:30:25+00:00",
+      "description": "Incident involving Zelenskyy’s aircraft - Ireland sees no failure by its security services  RBC-Ukraine",
+      "query": "drone incident",
+      "detected_at": "2025-12-25T15:05:48.861199+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "db92f93e13fd"
+    },
+    {
+      "title": "Ireland assesses security response after drone incident during Zelenskyy's visit - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vOXJLdXp5cHNJVzB3RC16M2tLUlFmMzVCcXVVNWtxUkdMWWFDMkpFUnp2TVVidmQxa0RFc0t3WDBuV2RtSkxib3NDQjZvZFAxYVpyWm55ZnNKSkttTjZBa3pOSlbSAXBBVV95cUxNbEZnUGprSVp0VVZUQlJ6YnlnNDVSZm1rUXBmYzY2M0FIdkxDOVZKZExXSDFZNnpUVEJXc05DOXhLRWZSdnB0czRFRzNrMUIxUlhNbElvWEFIb1YtQm85N3hGbjFEeno4Mkx1XzVHLUhX?oc=5",
+      "source": "Українська правда",
+      "date": "2025-12-25T13:31:00+00:00",
+      "description": "Ireland assesses security response after drone incident during Zelenskyy's visit  Українська правда",
+      "query": "drone incident",
+      "detected_at": "2025-12-25T15:05:48.861199+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "420e75b09b10"
+    },
+    {
       "title": "Spain dismantles drone-based drug smuggling network operating from Morocco - MSN",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxON0tHdzJrVnVMYzJRd2dMb21HN2RsVXJ6U1owYmM4TEs5MlZFeTZqUUgxUU5CckNBSTVNYjJhcDZYWktxdkdaUHB0S2hBZzVEQl9SSi0yMU1KRWI2X3Q4eURWNm8yZTd2RUJLTVNkWS1KeS0xNFJ3RWhqM0tnZllBdGNwdVNNc2VlQWg0Qzd6cFhQcmRQYklNR3RYcnVZc0NLOVVqYllEM2ZVYmVsNnN3TzBtQjU5Rjc3Z1pYSzI5Ylhwa3BWeXlXWE5Odkktbl9LQ0tkOElXSzVYZUVlZ3lzN3dzOW1iZFpvejFfeWZ1cTdCM0lKbXYtRmswd1hseXM5Z2JrM3A2ZlNMeTUzQWd1MVM5ak9taUxlZmFCcXJTSXQ5WjQySXZLQ3ozU2FWRHg1VXJRMXpFcUhDY1o2ckxZaFQ1N21NTUtaMDNiSFZmSEJMenJNbEE?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "45039881487b"
-    },
-    {
-      "title": "Drones deliver AED to save lives in North Carolina, new study - WWAYTV3",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2ZsNG8yMzBseThpQlpSWlRvemVOQnJIbzFYdlZtLTdUcXFJN05DSWFqb0swX0Q0T1ZtaGNzZ1YxaVlFNVRuLUN2T2hYWGp6bGJFemdVNTBxaTExdnBUbC1YdkNWZ2ZHcXJuV0E1VTlQSlcyYjZ4ZVZwNDJHQ3p4X0R1dmdVRHphbVRNR2UxUQ?oc=5",
-      "source": "WWAYTV3",
-      "date": "2025-11-19T17:58:07+00:00",
-      "description": "Drones deliver AED to save lives in North Carolina, new study  WWAYTV3",
-      "query": "drone arrest",
-      "detected_at": "2025-11-19T20:06:39.936995+00:00",
-      "location": "in North Carolina, ne",
-      "category": "other",
-      "id": "b80f4b1658a8"
-    },
-    {
-      "title": "Duke Health, Forsyth County launch study, delivering AEDs by drone to cut cardiac arrest response times - ABC11",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW1ORmNkWHZETkFVeThoUmI5czVKeEhRX1BocGJrdExzZE0xNmhqcmxFeFBYZVA4SVVTMXZBZ213elBvdWxJczVoWF96ZWtacXJFUkE1cGFDa1BXYTg1cXZPUmxzdFNrTGdPdWFJODhISlkzMzdPa3BlZU9iS1d2VFZLVzJnb3RWS0U4MlZ3eXBGcER4SEdPZktoMEdFS1ZHclVtOXVzOFNUMWJtNzJURXF6amNobW45SkhlWXlXam9ab2ZSQ1JV0gHMAUFVX3lxTE5ubG1vZWFESDRFeWhyYmpSdlRrWDJGWlVrbW1xVUNiclotYzhhcGxlRUVfRzY4Z2RSanBWTXNhc2hYV1JDR1hiUEY1d01VTnp0VERhWkpEdmhOc0NTdjBQSXNfQWJ6aTk2MXd1alBOOUtZY0FoQXF0WlZ4NzM3bEUwbDU4dGFIaGpOcVZoemNidjJacnVrZmhaSjE3Wkt2YWZmaDJremhKTlNHRnFxZ216VWFZVkJzTlNmaTdGZkt5Wlo4eHdib05kRXY3dw?oc=5",
-      "source": "ABC11",
-      "date": "2025-11-19T19:14:17+00:00",
-      "description": "Duke Health, Forsyth County launch study, delivering AEDs by drone to cut cardiac arrest response times  ABC11",
-      "query": "drone arrest",
-      "detected_at": "2025-11-19T20:06:39.936995+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "1a854a591dc2"
     }
   ],
-  "last_updated": "2025-12-25T14:05:34.485593+00:00",
+  "last_updated": "2025-12-25T15:05:54.494096+00:00",
   "total_count": 1000
 }
