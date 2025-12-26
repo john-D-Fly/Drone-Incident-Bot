@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Iraq security briefing: Arrests, suicide, and drone activity - Shafaq News - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdsVjlLZzBnSXNmN05jOExxblZISEZzMzJhZVFQam5VWVdTZmpHV25qMElkOFFvNExoN2FqTHo4aXJFTzJuU1lCRDB1WndySEhFalkzSG5tbmNlT1BtbG1UN0stejd5NHFpYl9xak9OeDhwQzdETy0xMGdBd3ZEZFJmNnpLRmstNVBpYVgtMjBRQdIBlwFBVV95cUxOSDZVYVdmVzZSZGlUOVYwYVVzSkVhUnp5cDFCWGZpOEhNa0stWTg4ZjFmQTI2d2VFN2JqSzV5dVRBRWlvWUFuVUxRTjdyR0dPYTFzTkxEWFE1WEsza2x5TzNZc1pzTE5KdXR2Q25YWXhHT3RMajRUenVIMkxobVF6VTJtWVk2Ql9KaE5uNDdhaUgxNEV2SlM0?oc=5",
+      "source": "شفق نيوز",
+      "date": "2025-12-26T22:11:45+00:00",
+      "description": "Iraq security briefing: Arrests, suicide, and drone activity - Shafaq News  شفق نيوز",
+      "query": "drone arrest",
+      "detected_at": "2025-12-26T23:05:43.281105+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c620a76ed875"
+    },
+    {
       "title": "Man arrested for \"illegal drone surveillance\" near border wall - KVIA",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3lCNy1ZckYzbmtFQXJHTWw0bDh2TS1BU2FKcWk1M1dvQjNWVkRKMWlWZlFQeTI3TUh4UWxBYnhuMWQ2UTJTWXNDNkpIbTFiRl9fN2lWTjdzMjhKWElrdDA5Q2ZsTzgzZGhqeEtrTVg4RXpDb0ZwMFQ5V2VhaER0cXI0OF9FeTdSNENhN054cmE4SGV2SkFsWDA1YW5vR01Eb05pRW9ybmdFUQ?oc=5",
       "source": "KVIA",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c7dea192fb02"
-    },
-    {
-      "title": "Moldova hands Russian ambassador a note of protest over drone strike - news.liga.net",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT19LVWkxVlF1bS1SUGlKd2ZiUFNDZmpCTWZ4VnlOZzduaVo1cjdGRWxEY2tSOFdwNVdNRmVfamtEN3N2QjUwTzVyVzhGN2lBWGdhSnlLM2FhbXlQWnRkME9JREdzdnFmMHdhVE9FTzc2VVJnSEIwaUpTaFJ2akhqUUVndVNkM2tSTUtsU3pxSHVJamdNLWxkWlZUdktweDNVVF82Ui1RM1IwbTDSAbABQVVfeXFMTnZYTml4X0VfcEVvaHctY3BycUYwa0RRT2tKcnlyM2lVMkV6VHlkR25JM2Q4dUlrLUtFb2lwU2otdllNUUMxMllLZ2FZajNGME5CSG1uM0pNTzdyeDdzYkwyUkJJVXp4dTJzUzJHeGU2UjhOQXdnSlZ1WFdNc2h0WjJiYkRWVWRmOXo3XzhpQVRycDlEMzdkRzZGRGJhb0lTekNlRVNHZWp4SUFjMjJyTnE?oc=5",
-      "source": "news.liga.net",
-      "date": "2025-11-20T12:57:14+00:00",
-      "description": "Moldova hands Russian ambassador a note of protest over drone strike  news.liga.net",
-      "query": "drone incident",
-      "detected_at": "2025-11-20T13:13:44.131134+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "68d0d94182ab"
     }
   ],
-  "last_updated": "2025-12-26T22:05:32.121783+00:00",
+  "last_updated": "2025-12-26T23:05:48.259640+00:00",
   "total_count": 1000
 }
