@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "US President Donald Trump has launched a military strike against ISIS in Nigeria. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDZ1Q0NlbW11SDZaZGF2VWhQV3Z4eDhHV2ZjX29JYmZZQVNQTEFjSGNrbThYNk11dkI2UG9JRlRobDZSajFQQndvRnpQdFAyRkJCOVpkMEtsVkpjLVZ6dTZ1d0hOQmlUaXR2NWZicGNrRVZXSDdwUGF5U0l1STh4T2JLdnphSmx4?oc=5",
+      "source": "Facebook",
+      "date": "2025-12-26T00:09:25+00:00",
+      "description": "US President Donald Trump has launched a military strike against ISIS in Nigeria.  Facebook",
+      "query": "drone terrorism",
+      "detected_at": "2025-12-26T01:34:12.560205+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2c5295c88064"
+    },
+    {
+      "title": "In first, IAF helicopter gunship downs two arms smuggling drones from Egypt - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkw0S1VTSEo4RGp5cmZJM19yVkpKd1d1clktLUxZNTRlTU5kX0ttQjh6RkpzUWl3ZkFZc2dacFJXZ2lwdUdBTHpXNUlmWlRHV2lkU0RmcXlaWEFEMnFYZllZR2lQSU1hbW5LZGloV1hUcVI2TEFQMlJxQ3hNOXRpWUFGNVA3UWxiOTdidVlFd1dhVkZobUk1aDFMdEQ3cjloR3J1SlhCOWnSAa4BQVVfeXFMTkhpVzI0ajRFRTNWU0YtVldSOGFta0xldVc5N21EbUdPVElTbXRQTGpZSUljdE41TkpSY0FiNXVib2d5QWxjN0szTkFOMThaZUZXQmIwSWM2NnJiSkUxYmliQUh4VmJpZWF1c2RBT0JXdUtMaVBZSGVYUHlvbkEzT1lienN2ZEc0b0ktZWNSQWpJNXpoeFBUSDFrQWFFNE9MYk9rQ2NFdjdUaDVaMmRn?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-12-25T21:04:00+00:00",
+      "description": "In first, IAF helicopter gunship downs two arms smuggling drones from Egypt  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-26T01:34:09.254966+00:00",
+      "location": "In first, IA",
+      "category": "smuggling",
+      "id": "7832cc8a732b"
+    },
+    {
       "title": "US President Donald Trump has launched a military strike against ISIS in Nigeria. - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDZ1Q0NlbW11SDZaZGF2VWhQV3Z4eDhHV2ZjX29JYmZZQVNQTEFjSGNrbThYNk11dkI2UG9JRlRobDZSajFQQndvRnpQdFAyRkJCOVpkMEtsVkpjLVZ6dTZ1d0hOQmlUaXR2NWZicGNrRVZXSDdwUGF5U0l1STh4T2JLdnphSmx4?oc=5",
       "source": "facebook.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "8c2f9612a75c"
-    },
-    {
-      "title": "NATO on alert as Poland accuses Russia of ‘state terrorism’ in rail blast - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjJLd3hDZTFzXzdqSmxmMDBMNmVkem56eldKeEJQbnQyLUtYdE9Td3BCWWFCVDVzd2VQNWJ2VFZKZEJUWDczSG5NZDd3dnJFNXU1eXZRZ0NKRU8zUXhUY2hXQURqQkpCMWlEd0haYUtFRjNHby1oLWw3ZnpDNVVkTWt3RGVya1lCOGRFLUx5NjYwZ1BKMTd3VTJ1cw?oc=5",
-      "source": "The Washington Post",
-      "date": "2025-11-20T00:32:38+00:00",
-      "description": "NATO on alert as Poland accuses Russia of ‘state terrorism’ in rail blast  The Washington Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-20T01:33:58.085936+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "ed939b693f27"
-    },
-    {
-      "title": "NATO Fighter Jets Scrambled After Russian Drone Breaches Airspace - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEFZMmZZVWJyVUV6ajJyZ0l1Y213S3JETEd2SkE0RHl0NHhSUHczVW0xbmF4cEFwYUxMcjNmUlM3MDh1bk1acmY3bXdDZjlLMlN0NzdOc0Q1dTUwM0lqQWpld2RzOUhXT0VWd0FUMWVrSGlRMFBJdU5BSF9hWWJJRWVidw?oc=5",
-      "source": "Newsweek",
-      "date": "2025-11-19T09:36:00+00:00",
-      "description": "NATO Fighter Jets Scrambled After Russian Drone Breaches Airspace  Newsweek",
-      "query": "drone crash",
-      "detected_at": "2025-11-20T01:33:56.215187+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "495095879a59"
     }
   ],
-  "last_updated": "2025-12-26T00:24:24.178081+00:00",
+  "last_updated": "2025-12-26T01:34:13.728357+00:00",
   "total_count": 1000
 }
