@@ -1,0 +1,124 @@
+{
+  "narrative_summary": "In the past 48 hours, significant drone-related incidents have emerged, particularly focused in China, Israel, and Egypt. China has introduced stringent new drone regulations aimed at improving safety and monitoring of drone operations, reflecting a global trend towards tighter drone controls. In Israel, the IDF has reported multiple interceptions of drones related to smuggling activities along its border with Egypt, highlighting ongoing concerns over cross-border criminal use of drones. Additionally, authorities in Jammu and Kashmir, India, disrupted a drone-based smuggling ring linked to drug trafficking. The prevalence of smuggling and terrorism themes remains prominent as drone technology evolves. This complex landscape raises significant implications for national security and regulatory measures worldwide.",
+  "totals": {
+    "drone illegal": 6,
+    "drone smuggling": 5,
+    "drone terrorism": 4,
+    "drone arrest": 3,
+    "drone crash": 1,
+    "other": 8,
+    "drone incident": 6,
+    "airport": 4,
+    "smuggling": 5,
+    "total_incidents": 34,
+    "by_category": {
+      "airport": 4,
+      "arrest": 3,
+      "crash": 1,
+      "other": 14,
+      "smuggling": 10,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 3,
+      "drone crash": 1,
+      "drone illegal": 6,
+      "drone incident": 5,
+      "drone prison": 1,
+      "drone smuggling": 13,
+      "drone terrorism": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone regulations",
+      "rationale": "Recent policies aimed at drone regulation in China indicate a growing emphasis on safety and oversight.",
+      "incident_ids": [
+        "879996909d81",
+        "b7de536876a2",
+        "84167a7089e6",
+        "d1b6c569a70d",
+        "b9688506bc29",
+        "3be38a4dea8a"
+      ]
+    },
+    {
+      "topic": "Drone smuggling",
+      "rationale": "Multiple incidents involving the interception of drones linked to smuggling activities highlight ongoing security threats.",
+      "incident_ids": [
+        "f7b379e9dda0",
+        "c54e72daabfd",
+        "a7bd10ae00ba",
+        "7832cc8a732b",
+        "ddaf36fbba17"
+      ]
+    },
+    {
+      "topic": "Drone arrests",
+      "rationale": "Recent arrests related to illegal drone activities emphasize emerging security concerns.",
+      "incident_ids": [
+        "c620a76ed875",
+        "man arrested for illegal drone surveillance near border wall",
+        "illegal drone activity near border wall leads to man’s arrest"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "879996909d81",
+      "headline": "China passes new law to regulate drones",
+      "one_sentence": "China has enacted a new law aimed at regulating drones to tighten oversight of flying operations.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b7de536876a2",
+      "headline": "China passes new drone law aimed at tightening oversight of flying operations",
+      "one_sentence": "The Chinese government is reinforcing its oversight of drone operations through new legislation.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f7b379e9dda0",
+      "headline": "IDF helicopters intercept drones along Egypt border",
+      "one_sentence": "IDF helicopters successfully intercepted drones suspected of smuggling along the Israel-Egypt border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c54e72daabfd",
+      "headline": "Pakistan-linked drone-based heroin smuggling racket busted in J&K",
+      "one_sentence": "Authorities have dismantled a heroin smuggling operation using drones in Jammu and Kashmir, arresting several suspects.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c620a76ed875",
+      "headline": "Iraq security briefing: Arrests, suicide, and drone activity",
+      "one_sentence": "Recent security briefings report a series of arrests linked to drone incidents in Iraq.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Intensifying drone incidents across various regions: new regulations in China, interception of smuggling drones in Israel, and arrests tied to drone activities in Iraq.",
+    "linkedin": "Recent developments in drone incidents include new regulations in China aimed at improving safety, while drone smuggling issues persist as witnessed by multiple interceptions in Israel."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-27"
+}
