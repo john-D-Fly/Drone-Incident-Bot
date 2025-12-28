@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "China revises aviation law to regulate drones, tighten safety rules - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXYzeGdvV3Y3RnFjaFdPX2RyYmVuNk4tZmtRSE9sbi1lMmtJYXdreVdrSlZHTUlSS2Njb1lTd05UWWpXMWRYTHBZc2Q2NXFhVm9Fc25qQ1JnazdEUVZhei13X0tMem9ELVc3QXA1Y2lndGJLc1doaHlNOWJqWkdZMURMczNPSzJTeGw4N0NXVGJXSm00Y1lBU2RaTW9jWmZwek9HUG5CTWJ1M0k2ZFJDUGJ5cVNOZXN2RVE?oc=5",
+      "source": "Reuters",
+      "date": "2025-12-27T03:58:39+00:00",
+      "description": "China revises aviation law to regulate drones, tighten safety rules  Reuters",
+      "query": "drone illegal",
+      "detected_at": "2025-12-28T18:07:22.261155+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "3cd2080074b3"
+    },
+    {
+      "title": "Dutch police deploy drones near Belgian border to curb illegal fireworks - belganewsagency.eu",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzhLYUN0U0Qxb0UxbWpFaEp3a1RDX3VIa1pEcEZVTC1tS2d6dzRDWHRyOTlyUk5ZT1M4MEZyQ3VKVHg3Q0xrY3pZOEgzaG5lMGZrYWVOc0t4em5LSnNGQ3YtQlRVUmpmcm80WXJpUG9xcXBBVFlwWmVGN0xNckZlZXlLZkRfYXg3bnphbzlQUUF0T3pUaUE4bXNJWjAwYm1MQVIydVJR?oc=5",
+      "source": "belganewsagency.eu",
+      "date": "2025-12-28T17:12:00+00:00",
+      "description": "Dutch police deploy drones near Belgian border to curb illegal fireworks  belganewsagency.eu",
+      "query": "drone illegal",
+      "detected_at": "2025-12-28T18:07:22.261155+00:00",
+      "location": "near Belgian border to curb illegal fireworks",
+      "category": "other",
+      "id": "94f777c24dff"
+    },
+    {
+      "title": "Moscow Airport Operations Disrupted After Overnight Drone-Related Airspace Closures - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONE8zdnNLYlJZMmtqeDdYU0ljLTVBTnNmZTVxREtFRFdXTHJ5SDhCTkxLRGk0WWJNOHVkbEFFeWtSTGEtc2o1eW5tazN4MmNQRTFtRk5FelRIemR4U1A5enFlTFRuWi15Z21OS3JxbGNQX2hnelRPby1uYjVKT2ZiZkdqeWtSeTZTR0VqSEF1V1MzRlhoMjlTa3c4Uk1maVJxYXktTXl3TG9aRWhCdEw1T1VkYll2Q0JtYWtOb285SWllYjJETk1pSFVVQ3U?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2025-12-28T17:12:21+00:00",
+      "description": "Moscow Airport Operations Disrupted After Overnight Drone-Related Airspace Closures  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2025-12-28T18:07:21.140004+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c62963a4a174"
+    },
+    {
       "title": "Moscow airports grounded after drone strikes, hundreds of flights disrupted - Aviation24.be",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd20yNEE0cFFVaXd3aVQxZElzai1Kd3ktempremhoVEZ4NVlZdng0QXo2eDZGVW5zbExOcW05Y1ZrUDJpWWpaMHM5SXZWUkpPb1NiX1hOYmRrN0RFUzRYRWRZUm8tSDQ1R1VxUVJEQ2ZGczVZNzRsT0FReHZuX1BnZ1JFamFid3VTYllFTG1wSm4zcTZ2RllUanZMQURIaDZEbEM4c3hxaGJGb0R6VXFaaG55MDPSAbQBQVVfeXFMUHdtMjRBNHBRVWl3d2lUMWRJc2otSnd5LXpqa3poaFRGeDVZWXZ4NEF6Nng2RlVuc2xMTnFtOWNWa1AyaVlqWjBzOUl2VlJKT29TYl9YTmJkazdERVM0WEVkWVJvLUg0NUdVcVFSRENmRnM1WTc0bE9BUXh2bl9QZ2dSRWphYnd1U2JZRUxtcEpuM3E2dkZZVGp2TEFESGg2RGxDOHN4cWhiRm9EelVxWmhueTAz?oc=5",
       "source": "Aviation24.be",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "c13081dfe7b9"
-    },
-    {
-      "title": "Kazakhstan establishes communication channels with its neighbors due to drone incidents - AKIpress News Agency",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTE9TZEh6YmFSVDNqMmVfQjlCSzVKQ0cxWGx0NWVpX01XQms1eDd2UmhyOUJDX20xalIyWHVKNmtNQ0ppR2YxQkY5N2poU1NLdmU1RF82dWNlZk9NekVmWkpFOG5jT3MtbHBsTEFtb2VaQWs4Ry1JNlE1ZkJ4MTYxbkVGOVdvX3djNUs5d3RMMVpOSWtQQ0t5aS1PYTN1NXVxS3RIbHV5ODg4MW1ZZHpFUmU2V05PcGlxaWRkLTBB?oc=5",
-      "source": "AKIpress News Agency",
-      "date": "2025-11-21T09:30:00+00:00",
-      "description": "Kazakhstan establishes communication channels with its neighbors due to drone incidents  AKIpress News Agency",
-      "query": "drone incident",
-      "detected_at": "2025-11-21T10:06:15.909916+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1aacf8c7a45b"
-    },
-    {
-      "title": "Drone catches incident off Aussie coast highlighting growing tension in controversial industry - Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVROQWRta2ljNjB5d3V5eEVraUFBZDZ1aDFuR295bVRZM2c2NVMxc0VuVlV2dHdkNHFfS01YUWhjdWZqLURiSTZ4MVJydFJfdktHdVZtNEFqT1NMOU5DZHZVVjEyazgtMXNRRC1mWmlCbkg2OXY0dHdCSUpBU2FyR0lrT2o0VW1HbUNmT1h4MF9ZOENteVE4STRFc2pRaXlLR1czNFZOV3ozc0ZzNE4xRGdDcDJZSXNTREhXVGdrZjRtTmZ3WTBlakxuRzRHQkkx?oc=5",
-      "source": "Yahoo News Australia",
-      "date": "2025-11-21T04:55:00+00:00",
-      "description": "Drone catches incident off Aussie coast highlighting growing tension in controversial industry  Yahoo News Australia",
-      "query": "drone incident",
-      "detected_at": "2025-11-21T09:06:27.456916+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b3949ce15a8d"
-    },
-    {
-      "title": "NIA Makes Four More Arrests in Delhi Blast, Reveals Drone-Based Terror Plot Spanning Multiple States - The Logical Indian",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEEwbC1VcW5MU0NHUkI5S0pKMnNjWHA1cy10NnZHQzhlNmdCY1FSaVpxalg0LUR4TUVXcVhpWi1iSXkxcnVhalVnVTA5Sk96VzdlVVJVa2hBM2kwdUZXNXlFdkNpQ2c3NUVDMmVpbnoxZlI2YS1yYk5GV1hXbXE4QmNaMFZ6UDB4cHNRWmE5QnE5cERwZ1dValdXUndHcHVNRHNBbldPdERqRGFxbk5UR1JWaS1pOThLazFYamMzQzNGY0FzaEVDbQ?oc=5",
-      "source": "The Logical Indian",
-      "date": "2025-11-21T06:53:10+00:00",
-      "description": "NIA Makes Four More Arrests in Delhi Blast, Reveals Drone-Based Terror Plot Spanning Multiple States  The Logical Indian",
-      "query": "drone arrest",
-      "detected_at": "2025-11-21T07:06:09.445053+00:00",
-      "location": "in Delhi Blast, Re",
-      "category": "arrest",
-      "id": "91eeaf02af92"
     }
   ],
-  "last_updated": "2025-12-28T17:05:10.787233+00:00",
+  "last_updated": "2025-12-28T18:07:24.444176+00:00",
   "total_count": 1000
 }
