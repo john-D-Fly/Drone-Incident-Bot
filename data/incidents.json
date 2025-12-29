@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Death Penalty for Drones in Security Zones - สำนักข่าวไทย",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80aUtaUlN0R0lfVUYyY05ZcmNncVpCX0gxVEZfd24zWkhfNDVDQ0xlc2tmV0lCVlBlOTlaV1RoQzVDY090U2FJdWhjaUhFRmFQUTM5T0N3?oc=5",
+      "source": "สำนักข่าวไทย",
+      "date": "2025-12-29T01:58:58+00:00",
+      "description": "Death Penalty for Drones in Security Zones  สำนักข่าวไทย",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-29T11:05:46.365193+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "367cf597846d"
+    },
+    {
+      "title": "Drone delivers item to inmate in major prison security breach - Brisbane Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ1VJTC0xajNnek5ZbjMtTnhGcGxmRHUzU3hnZjFuRVh1b083d3o2RzRmSDlqRC1ta3kzS2R2eUY2SE8wbGlPTERybFhiZ2NKUTF0d3pPbnp4dXFXMTZZN183aDZ2YU55SjIyQTRnVDlMSUhFNm5ZVW10YmJwWW8xWF83UDdmdGtlcG1ZMGw5ZmdNcmdCZGZ1QnZmeTYtVk1kMDVEUjQ2ek1pSU9FQXZlUm1Nd29NY2ZtVERVelJBcHZGZ01jVmFXLXhmVUtxR0ZsTTZCRk1mWDVGQnpSNGhvbUl2QjhOVGdaSXVJRVp0R1hsR1IzSFQzajE0Zw?oc=5",
+      "source": "Brisbane Times",
+      "date": "2025-12-29T08:30:41+00:00",
+      "description": "Drone delivers item to inmate in major prison security breach  Brisbane Times",
+      "query": "drone security breach",
+      "detected_at": "2025-12-29T11:05:45.261093+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "34b9b66de618"
+    },
+    {
       "title": "Drone delivers item to inmate in major prison security breach - 9News.com.au",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjNsLTR0V3gtcURxNlJWaWxUdWxNNFVzYW85S2tha250SnBmdTVaaVk5cE5nTUs5OC1CVjdOR2cxV1IxYU1WT1g1b01MRjA2RUk0SEpvRUN0NzdVUXl6bTJleUF4eFVWYTF4czBicEtXb0p3ZlV5LTJ6TllNemY2ZG4zUnJjNVRHclQtYjYtZDhBQ2QwT0FhS2h4cGljRnRBZ0wya2RnRElBbGRPbnhoVXJreF9xZk44cVhrWFo3aUpSMUdCVzRj?oc=5",
       "source": "9News.com.au",
@@ -11975,32 +11999,8 @@
       "location": "in Kent Crash, Wi",
       "category": "crash",
       "id": "1a95754a47db"
-    },
-    {
-      "title": "Can I shoot a drone if it flies over my house in Indiana? Here's what the law says - IndyStar",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMWJjcE5RMUgyYllIaTlJTE9MUFpNZ3RyRzhTUzRqY3EzaEpyWWFDVFFfWnlvN2JfdFIwS3V6c3VGSktud0FVVHdhMGF1ZFBEemFPaWZpTlhGb3hqUkJtNkVPZkVmdThZNGFpQmdFWTNPblpycnZxQWI2M20wSWxLcnlpRS1BLVM0SUpMV0hfZkRtRFowNmRpenhTbjV5Wk1PNkttVy11ZkdmbWNiWk9FMnFjdmkyRDdQbWpMVjNqT1U3ejdmRWhsR2czNkh0d3BfZTJuQW1JMjRkc25uUEtpbS1pakVOdm9ORDBWZGJXbjB1MjA?oc=5",
-      "source": "IndyStar",
-      "date": "2025-11-21T12:34:43+00:00",
-      "description": "Can I shoot a drone if it flies over my house in Indiana? Here's what the law says  IndyStar",
-      "query": "drone illegal",
-      "detected_at": "2025-11-21T13:12:30.566151+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c7dec40233db"
-    },
-    {
-      "title": "Drone Crash At New York's Empire State Building? Reports Surface - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOOE5LTlJkLWZIYzFDSUVIdGpGdUplY2ZGcHg3WHpWSjJiNVZibERrWWQ2TGRheF9VQ0JpdmFVNXVrQ2VYNXR3RC1MUFgzWUpnODRDWHJwNTByZUctMUQtd2VITVZsVExxYVBlRDdWRDlKSVVVaGZQQ0JDd3h2emxzamM2SVpoTVZaYTFoNmVub2lDUnNrdDdsbVpTalh5a3piM2tPY2ZGUi16QkdLWS1xVDNGeVRMZkpiWEd5ZkM3TUdhLURnNEpfbjBXTGFJb29NZWNlN01WS0xUTTE3VjJFaGR1QkJsejJuSmFJeWZDMjNxUEZfemIxWUdUaU5DZTllWG92ZVZYbFFRVGdGa19CamYteXRtWEE1ajQyRjM2d1BmUUlCNkwtNnlvYUJ4TGpIOXY0YkFpOWJDRmgyNVp4bmIyMkh1QQ?oc=5",
-      "source": "MSN",
-      "date": "2025-11-20T05:54:55+00:00",
-      "description": "Drone Crash At New York's Empire State Building? Reports Surface  MSN",
-      "query": "drone crash",
-      "detected_at": "2025-11-21T13:12:29.758330+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4406e32ea801"
     }
   ],
-  "last_updated": "2025-12-29T10:06:56.146427+00:00",
+  "last_updated": "2025-12-29T11:05:46.965157+00:00",
   "total_count": 1000
 }
