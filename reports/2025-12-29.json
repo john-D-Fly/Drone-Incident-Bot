@@ -1,0 +1,126 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have raised significant concerns about prison security breaches and air traffic disruptions across various locations. Notably, several news reports describe incidents in which drones delivered items to inmates in different prisons, highlighting ongoing smuggling issues. These incidents occurred near Adelaide and various other unknown locations. Additionally, there were widespread disruptions at Moscow airports and Hanover Airport due to drone activities, affecting flight operations significantly. Policies addressing drone regulations are being revised in China amid increasing incidents related to unauthorized drones. These incidents underline the risks posed by drones not only in prisons but also in sensitive airspace areas, prompting discussions on tighter regulations and responses to drone-related threats.",
+  "totals": {
+    "smuggling": 5,
+    "other": 8,
+    "crash": 1,
+    "airport": 5,
+    "terrorism": 3,
+    "arrest": 1,
+    "total_incidents": 19,
+    "by_category": {
+      "airport": 4,
+      "arrest": 1,
+      "crash": 1,
+      "interference": 1,
+      "other": 5,
+      "smuggling": 5,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 1,
+      "drone crash": 1,
+      "drone illegal": 4,
+      "drone incident": 3,
+      "drone security breach": 5,
+      "drone terrorism": 1,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Security Breaches",
+      "rationale": "Multiple incidents of drone deliveries to inmates indicate a serious trend in prison smuggling.",
+      "incident_ids": [
+        "225d2c035a1c",
+        "f34b088a19de",
+        "34b9b66de618",
+        "f42084788857",
+        "c8937b28263a"
+      ]
+    },
+    {
+      "topic": "Air Traffic Disruptions",
+      "rationale": "Drone-related disruptions at airports reflect ongoing challenges in managing airspace safety.",
+      "incident_ids": [
+        "c62963a4a174",
+        "03aaa742a082",
+        "3253903b268d",
+        "f6b78312150c"
+      ]
+    },
+    {
+      "topic": "Regulatory Responses to Drones",
+      "rationale": "Policy changes in response to unauthorized drone activities highlight the need for improved regulations.",
+      "incident_ids": [
+        "367cf597846d",
+        "3cd2080074b3",
+        "52f4ba610a2a"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "225d2c035a1c",
+      "headline": "Drone delivers item to inmate in major prison security breach - The Age",
+      "one_sentence": "A drone has successfully delivered contraband to an inmate in a significant security breach in a major prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f34b088a19de",
+      "headline": "Major Security Breach at Adelaide's Yatala Prison as Drone Flies Package to Inmate - Semana.com",
+      "one_sentence": "The Yatala Prison in Adelaide experienced a major security breach via drone delivery to an inmate.",
+      "risk_tags": [
+        "smuggling",
+        "prison security"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "d2941a84edee",
+      "headline": "Illegal drone shot down at nuclear submarine base - AOL.com",
+      "one_sentence": "An illegal drone was shot down at a nuclear submarine base, raising security concerns.",
+      "risk_tags": [
+        "security",
+        "nuclear"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e31fa8b42552",
+      "headline": "Turkish authorities investigate drone crash days after shooting down another UAV - MSN",
+      "one_sentence": "Following the shooting down of another UAV, Turkish authorities are investigating a new drone crash.",
+      "risk_tags": [
+        "crash",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "93cb4d81b0c2",
+      "headline": "FBI ramps up counter-drone efforts as Patel warns of growing threats from criminals, terrorists - Fox News",
+      "one_sentence": "The FBI is increasing counter-drone initiatives amid rising threats from criminal and terrorist drone activities.",
+      "risk_tags": [
+        "terrorism",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones continue to pose security risks with multiple incidents reported, particularly in prisons and airports.",
+    "linkedin": "Recent drone incidents underscore the need for enhanced security measures as smuggling and airspace disruptions escalate."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-29"
+}
