@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZEZPQk5HODhvUUgtQm1KSEY1YWJEYkJ2cmxZcWF2M0l6ZDk1aDNieUZpUGZ5WnN0WlMtaGhyS2ZFckl4UlRmUkNCcUhSWnRQdllsOHNrUkNaXzF0S0R2SkxERQ?oc=5",
+      "source": "The New York Times",
+      "date": "2025-12-30T20:43:29+00:00",
+      "description": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News  The New York Times",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-30T21:05:31.328959+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "40066e2d2ca7"
+    },
+    {
+      "title": "CIA struck Venezuelan dock allegedly used for drug smuggling: reports - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkRmUjR4bXdfYjZHQm5BYnVGQVphc2NtMHJ2c0tUWFFQZmVGWDhXM3pGYUlRUjZObVctcld1aW5TaFVSLTNJV0ktaGx1aXRvbXBKVkFCQ2hXMVNpUFh1MkplOWd2TFdsNnJneDdQSkJxN3pHaUVqRUlrTnZ5QzhwdWF2TXFuRUp5SW1DOUJPZ1c4UmZhemtSOGpHb3JaSWExc2pFb0loSFAtdms?oc=5",
+      "source": "New York Post",
+      "date": "2025-12-30T17:29:59+00:00",
+      "description": "CIA struck Venezuelan dock allegedly used for drug smuggling: reports  New York Post",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-30T21:05:27.135892+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "17c8a7ebe0cf"
+    },
+    {
       "title": "Police use thermal drone camera to find, arrest car break-in suspects - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREhpT0FuN3VKaVBlbjFHTktOWWJUYU9CTVZOTGtlUUhyZUVkZDJmMExIUHRUM0VYZEdQdjZCazlOckYwMy12SnZtR2JUQkxOblFjZnBOVXFNb1JSZHNNeUJBb3NTR0Rya0RCYzl0Szk4TTkwNHI2dWNSZC1idnNDaFJTYTBOY1BnZ3VN?oc=5",
       "source": "Yahoo",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "5eb3c602832e"
-    },
-    {
-      "title": "Smugglers’ drones trigger fears of new October 7 in Israel - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3BpMzllVEFTZXRfT1R3WXZPMnB5MGJfT0tBcFBicVo4RTFRd3RCWnk1ZmhfTUNsSUwzMFc3OW5VU2hzeGxMQ19Gc0tvanNTZko1N1JFYk9FYXVNNFFkX1NwUXpKUEZpX2NxM1FSTkx2ZDhyYlFNNkc1bUdaeW5FOXJXNWY1RTgwd3doVE9aMlB3bkE1QmhzNVdtTm84TU1xTkswX2RUSkJrbmVK?oc=5",
-      "source": "The Telegraph",
-      "date": "2025-11-23T06:06:00+00:00",
-      "description": "Smugglers’ drones trigger fears of new October 7 in Israel  The Telegraph",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-23T07:05:25.656077+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4f2b0d035a70"
-    },
-    {
-      "title": "Drone Incursions Force Eindhoven Airport Shutdown - Evrim Ağacı",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHNDXzdESGZpRVRDekRoaE85MXM2cU50SGlhRzVTT0I4dTJuTkNFQ2JaQklmelFqWDVZTjlzWFRvSFIzU2laYjlhRkVrNTNOV3hmWXJkVGFGUmV0OEx3b29MMDhHdDdlWkxQaTlwU0tLT2J2VFdwaVZOVnpzY19IdGNjTGp5dlBEQmM0?oc=5",
-      "source": "Evrim Ağacı",
-      "date": "2025-11-23T05:15:45+00:00",
-      "description": "Drone Incursions Force Eindhoven Airport Shutdown  Evrim Ağacı",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-23T06:07:42.593426+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "225b30c3b912"
     }
   ],
-  "last_updated": "2025-12-30T20:06:33.702674+00:00",
+  "last_updated": "2025-12-30T21:05:31.970438+00:00",
   "total_count": 1000
 }
