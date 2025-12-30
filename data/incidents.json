@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF intercepts arms-smuggling drone from Egypt carrying 20 rifles - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlNwQlZrc1dKM1JDYzBGYXJSZXNXbXM2Q0hmVkw3YURBNTh0LXBCUFV6a0M2d0NBSHB3ZU1xUmRnU0pKdy1NNXNFdERhRkVhcEo2TDIySHp4RHdzZ1RxSWxtOGdrLTVjNVRNR0dEUjBESlhDOEtJY0l6bXYxZ0JyWm9PZkZQTUdMWG1DNWdBX2lYY2NiaXJTSHUzMFllZ1NnQlVVQm93TWE2UVhvd05FaA?oc=5",
+      "source": "The Times of Israel",
+      "date": "2025-12-30T13:28:16+00:00",
+      "description": "IDF intercepts arms-smuggling drone from Egypt carrying 20 rifles  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-30T15:06:19.453583+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9a24e60bfe31"
+    },
+    {
+      "title": "Russian Drone Strike Injures Man in Antonivka Near Kherson - Букви",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2VrY3RocWt2YVRRaWpObUFMRVh2aDVIa3ZYbzJkcXotd2taNDZaRzRxamVTeHY4ZzNqRVlrWHB4azdqd1UyTXpZcWg3YjR3ZWlDOHY2TkJoclRLMVkxdmlpMmxTVHlYbjg1VEdyODM0TlpvaDZQT2twakdCNnJsRzExdGdxYXFYNVVHNzJwMnNKMjhMZWYybNIBmAFBVV95cUxOb2VrY3RocWt2YVRRaWpObUFMRVh2aDVIa3ZYbzJkcXotd2taNDZaRzRxamVTeHY4ZzNqRVlrWHB4azdqd1UyTXpZcWg3YjR3ZWlDOHY2TkJoclRLMVkxdmlpMmxTVHlYbjg1VEdyODM0TlpvaDZQT2twakdCNnJsRzExdGdxYXFYNVVHNzJwMnNKMjhMZWYybA?oc=5",
+      "source": "Букви",
+      "date": "2025-12-30T14:49:12+00:00",
+      "description": "Russian Drone Strike Injures Man in Antonivka Near Kherson  Букви",
+      "query": "drone incident",
+      "detected_at": "2025-12-30T15:06:18.205480+00:00",
+      "location": "Near Kherson",
+      "category": "other",
+      "id": "236a5a47c267"
+    },
+    {
       "title": "IDF intercepts arms smuggling drone from Egypt carrying 20 rifles - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlNwQlZrc1dKM1JDYzBGYXJSZXNXbXM2Q0hmVkw3YURBNTh0LXBCUFV6a0M2d0NBSHB3ZU1xUmRnU0pKdy1NNXNFdERhRkVhcEo2TDIySHp4RHdzZ1RxSWxtOGdrLTVjNVRNR0dEUjBESlhDOEtJY0l6bXYxZ0JyWm9PZkZQTUdMWG1DNWdBX2lYY2NiaXJTSHUzMFllZ1NnQlVVQm93TWE2UVhvd05FaA?oc=5",
       "source": "The Times of Israel",
@@ -11975,32 +11999,8 @@
       "location": "at Eindhoven airport",
       "category": "airport",
       "id": "d18d75fd0c57"
-    },
-    {
-      "title": "In the Netherlands, weapons were used against drones over a military air base, but they flew away - news.liga.net",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0ZtTFpxS2dLZTBpRXBEQW43R3JmWWE4M1dUc01fa3NBMFNNT3hfeEN0QVFjTTA4TVhmWEpHTFVTQVQ4b3BFU3VrbWtQY0xSQlp4cnNZR3hXSjY3dDN2UVpDRjIxTGstNE9EaXdhQWlNLVlMRE9sc2M3aHpzclNOM0lxaGFKTmxHTFNKN2trMXNNX0JCODdJNWpxMU5oemdtYXZGaWI4aXRaZ3BsSzlHWFVhYXRRbG9fSGJCVE1KYlppaXZNQ1NnODU2bTg2M3fSAdQBQVVfeXFMUDZzQXF3ZjhRUDJiNmRmZ2M4c0R4ZXR0U1lqSF84elpEM09kc29MWUNBT2ZtamJvYUNSN2NOODNRUjVwaENuWEd1d2lyZ2tkVTVSODlsMkJwTlM5UC01VUJQU0JTT0h4UzZPT3lOUE1iNGt6eWlFNGxyWW5NWnB1eDlnQUxCLTVDS01PTEhjVy1ydk1KR2Uxa0xGNnlPOGExbXZtQ1hIWjRkaEtjNnJ5MU03RjdTMTVhTUN5S1JRTXJuMTBocHJldkJkMGkxd3ZQaHRTVUM?oc=5",
-      "source": "news.liga.net",
-      "date": "2025-11-22T21:18:00+00:00",
-      "description": "In the Netherlands, weapons were used against drones over a military air base, but they flew away  news.liga.net",
-      "query": "drone incident",
-      "detected_at": "2025-11-22T23:05:17.826242+00:00",
-      "location": "In the Netherlands, we",
-      "category": "terrorism",
-      "id": "f0aa5bb5ef14"
-    },
-    {
-      "title": "Dutch military fires at unidentified drones over Volkel air base - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHlwZHRMd01pc3YyVDFFMmQ5V1BpaU54U2dQNm13bEhMZGhYLVFXVkNIdEtwNU1QbVhxRE5DZ0llWTdmV2U5OHdLejNDcjJPMnNfOWFYbkpKeEVfS2t1cnVoWUlYV3B6cllpeEF3VHREN0NVWXdlU3FDaHBXbHVCenNva1N0WlZiU20tUU1tVDRZU0pfNWc?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-11-22T20:35:00+00:00",
-      "description": "Dutch military fires at unidentified drones over Volkel air base  RBC-Ukraine",
-      "query": "drone incident",
-      "detected_at": "2025-11-22T21:04:41.729615+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0a0d6ecdcf5f"
     }
   ],
-  "last_updated": "2025-12-30T14:05:48.888423+00:00",
+  "last_updated": "2025-12-30T15:06:24.364539+00:00",
   "total_count": 1000
 }
