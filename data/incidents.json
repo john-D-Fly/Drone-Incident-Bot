@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Trump Administration Live Updates: C.I.A. Conducted Drone Strike on Venezuela Port - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZEZPQk5HODhvUUgtQm1KSEY1YWJEYkJ2cmxZcWF2M0l6ZDk1aDNieUZpUGZ5WnN0WlMtaGhyS2ZFckl4UlRmUkNCcUhSWnRQdllsOHNrUkNaXzF0S0R2SkxERQ?oc=5",
+      "source": "The New York Times",
+      "date": "2025-12-30T16:03:53+00:00",
+      "description": "Trump Administration Live Updates: C.I.A. Conducted Drone Strike on Venezuela Port  The New York Times",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-30T16:07:06.076254+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4c559144bab5"
+    },
+    {
+      "title": "Police use thermal drone camera to find, arrest car break-in suspects - WBAL-TV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxBWF83cmZwaV9zVnV2aDZRcmVSNktJYnAwdXVBa1VKUHlpV1dFTGRfLTZZeHF0X1FvdWlCSFFZMGs3TFZwa2NnbnpPX2tHdFRPdDdGWVA2VmphcVEzMkhkaXM3TFh3aGwzVWgtQVpMUkM1QXVYMnpibnRxYWJKWDJvMTNxcDl2c0RDOVJRMmQ0MEZPWUNmY1U2ekRoVkQ2dVdCUnNySnQ?oc=5",
+      "source": "WBAL-TV",
+      "date": "2025-12-30T15:41:00+00:00",
+      "description": "Police use thermal drone camera to find, arrest car break-in suspects  WBAL-TV",
+      "query": "drone arrest",
+      "detected_at": "2025-12-30T16:07:01.068602+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2b5a3d7ebe8d"
+    },
+    {
       "title": "IDF intercepts arms-smuggling drone from Egypt carrying 20 rifles - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlNwQlZrc1dKM1JDYzBGYXJSZXNXbXM2Q0hmVkw3YURBNTh0LXBCUFV6a0M2d0NBSHB3ZU1xUmRnU0pKdy1NNXNFdERhRkVhcEo2TDIySHp4RHdzZ1RxSWxtOGdrLTVjNVRNR0dEUjBESlhDOEtJY0l6bXYxZ0JyWm9PZkZQTUdMWG1DNWdBX2lYY2NiaXJTSHUzMFllZ1NnQlVVQm93TWE2UVhvd05FaA?oc=5",
       "source": "The Times of Israel",
@@ -11975,32 +11999,8 @@
       "location": "near Dutch city of Eindhoven",
       "category": "other",
       "id": "3e991d8ff775"
-    },
-    {
-      "title": "Eindhoven Airport closed due to drone sightings, flights diverted - Aerospace Global News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfQWJqeFV4S2s2OTdSWU4yeVVTZmZBYV83cFE4Tzl4RUhacjViTUg3R0dhQkEyWjlxRm1EUmF5ekVSUDd0ZjFCNDctNE5jbng5YzAwVjJWZ1k5X1ZWdkV2YmNhWmE5UWRMMjgza1VxYW9IVUJmZ0c4bg?oc=5",
-      "source": "Aerospace Global News",
-      "date": "2025-11-23T00:25:38+00:00",
-      "description": "Eindhoven Airport closed due to drone sightings, flights diverted  Aerospace Global News",
-      "query": "drone incident",
-      "detected_at": "2025-11-23T00:26:19.834933+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "795d37786d1c"
-    },
-    {
-      "title": "Drone sightings disrupt traffic at Eindhoven airport - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVJ5NEV5dXd1cVE3cHJhejhDUWREYzI1ZGdZelZ2US1PdnBTSXJSRmlGTWpOT2Y0ejdwOXViRmw1c3R1aS14aDlRakpKSEhZQ29LbVhhNnNfQkdKZWtGcUl2dG5uUVByc1hFQkdXUnRCUkZBNG9YZnF1SFNSNnRIU1VhR1B1ZHhHWUNYM3FmN2YzSUp2bEZaZmNLVmozWS1qYnBadWxaN0tKX0l5QW52Q1Z1dTdsNDFRM0NQaXlLTVdEVHVreFEwWTJmUQ?oc=5",
-      "source": "Reuters",
-      "date": "2025-11-22T22:28:51+00:00",
-      "description": "Drone sightings disrupt traffic at Eindhoven airport  Reuters",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-22T23:05:20.273997+00:00",
-      "location": "at Eindhoven airport",
-      "category": "airport",
-      "id": "d18d75fd0c57"
     }
   ],
-  "last_updated": "2025-12-30T15:06:24.364539+00:00",
+  "last_updated": "2025-12-30T16:07:06.751134+00:00",
   "total_count": 1000
 }
