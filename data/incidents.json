@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZEZPQk5HODhvUUgtQm1KSEY1YWJEYkJ2cmxZcWF2M0l6ZDk1aDNieUZpUGZ5WnN0WlMtaGhyS2ZFckl4UlRmUkNCcUhSWnRQdllsOHNrUkNaXzF0S0R2SkxERQ?oc=5",
+      "source": "The New York Times",
+      "date": "2025-12-31T02:09:00+00:00",
+      "description": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News  The New York Times",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-31T02:40:56.678798+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "13ee12eea01e"
+    },
+    {
+      "title": "IDF omits important detail: Smuggling drone only caught after third trip - Israel National News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJc1BXc193LXJ0WXZ0c2hRYXVHVVY0M3Iwb1NiSjNNdndfdUJMc09FR2l2SUpGRkk3Sk5qTDY0bnpzZ29jSVJVRktGTjBxMW1sa0g2SzNTYTBSQQ?oc=5",
+      "source": "Israel National News",
+      "date": "2025-12-30T15:03:00+00:00",
+      "description": "IDF omits important detail: Smuggling drone only caught after third trip  Israel National News",
+      "query": "drone smuggling",
+      "detected_at": "2025-12-31T02:40:52.576368+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a05467a6d1e4"
+    },
+    {
       "title": "Tioga Co., N.Y. man arrested for allegedly shooting at police drone - WENY News",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdWYtamdoUldrQVdqajdIcjhZQ3Q1aHRick5VRUlkbjR5azVTSXVEMU55alBEYmZvN2wwSTVXcUxnT1o4TDFaSzFyelVEUEVSUU1LRUdidEVVcnlQZTFJR1hjT2hOUUx3YmVjODl1UUNWYXRqUWRwZE1QUE9ZTUpQMzh1UDNLT1JSaFR0MVdYWE1wN1c3VUpQaklyVkJCWVJJY0hEcFEydkh2NVdmelZuNUgyb0dUMEhqdW9relg4RDFQQ2ZqS3BjSWxsdTdhRVgzaTZtNFEzVQ?oc=5",
       "source": "WENY News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "d517a3f387b0"
-    },
-    {
-      "title": "Air traffic restored at Eindhoven Airport after drone sightings halt operations - Aviation24.be",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUktEVFRVVEN0MHNJcDRPVTBFcEFZeWYtWlBGaWtpZnlVYXZPUFlxQUlSVGJ2QWhrY3ZTV1JXQmwtY3RkX3ZjWlU1VVBBMkdxMjUwRlAxZGdEWUN4dWFHSkpRdjlEeG1HR0RMeWZjQUdqdlRRdW1Td3drWGJXQUd3eDZvczZzamFIOG9JMTNZemQ1ZHNVck9DYm5fOEFmX0V1Yk95ckpKeUs5a05adlNUZ0d1SnZRYlNLTGVGVHBTY3Bibms?oc=5",
-      "source": "Aviation24.be",
-      "date": "2025-11-23T12:49:18+00:00",
-      "description": "Air traffic restored at Eindhoven Airport after drone sightings halt operations  Aviation24.be",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-23T16:05:26.797118+00:00",
-      "location": "at Eindhoven Airport",
-      "category": "airport",
-      "id": "17207c3267bc"
-    },
-    {
-      "title": "Dutch Military Fires at Drones Over Air Base in First Recorded Incident - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdi1JS0swM3VHQjZ5V2t4VVNFY212X1dmcHVwZWVmMU14eFhXSFNZNnBGRkxTMXpmZGRHSEZrc3JGUFozMEFvYW1OOUoyNllUV1hteURUZWhyWWswYUlOU08wTzVPNGdFX3NOR1hwbmtrd3BuSk9FcHRuejRmdTc5Y3A2MWppSjEwdDQxVGNsbzlKOUVZbno5Z2hzVzdFMndVWEk0b1lB?oc=5",
-      "source": "Мілітарний",
-      "date": "2025-11-23T14:51:02+00:00",
-      "description": "Dutch Military Fires at Drones Over Air Base in First Recorded Incident  Мілітарний",
-      "query": "drone incident",
-      "detected_at": "2025-11-23T15:04:54.170692+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5dc00f73e932"
     }
   ],
-  "last_updated": "2025-12-31T01:34:30.720790+00:00",
+  "last_updated": "2025-12-31T02:40:57.188713+00:00",
   "total_count": 1000
 }
