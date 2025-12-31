@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of drone incidents have unfolded with a significant focus on Venezuela and its contested association with drug smuggling. Reports indicate that the CIA conducted a drone strike targeting a Venezuelan dock utilized for drug trafficking. Concurrently, tensions surrounding drone attacks have escalated in Russia and Ukraine, with claims of assaults on Putin's residence and subsequent rejectances from Ukrainian officials. Additionally, various arrests related to drones have been reported, highlighting ongoing issues of security breaches at prisons. The spread of drone-related activities across these regions underscores increasing risks linked to smuggling and terrorism as policymakers consider responses to these emerging threats.",
+  "totals": {
+    "smuggling": 5,
+    "arrest": 12,
+    "terrorism": 7,
+    "interference": 1,
+    "other": 22,
+    "drone smuggling": 4,
+    "drone arrest": 8,
+    "drone incident": 18,
+    "drone terrorism": 5,
+    "drone prison": 2,
+    "unauthorized drone": 4,
+    "drone security breach": 3,
+    "total_incidents": 64,
+    "by_category": {
+      "arrest": 10,
+      "interference": 1,
+      "other": 39,
+      "smuggling": 11,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone illegal": 1,
+      "drone incident": 17,
+      "drone prison": 1,
+      "drone security breach": 4,
+      "drone smuggling": 6,
+      "drone terrorism": 16,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Venezuela Drug Smuggling",
+      "rationale": "Multiple incidents linking drone activities to drug smuggling efforts in Venezuela.",
+      "incident_ids": [
+        "119fdf054652",
+        "17c8a7ebe0cf",
+        "9ff44805ab43",
+        "1f00a16815ac",
+        "dcdc4f339c70"
+      ]
+    },
+    {
+      "topic": "Russia-Ukraine Drone Tension",
+      "rationale": "Escalating accusations and claims of drone strikes targeting high-profile locations amid ongoing conflict.",
+      "incident_ids": [
+        "641884f8f9e0",
+        "47cdbb5918b6",
+        "37498ba97967",
+        "f9bd21272594",
+        "6cadb19da028"
+      ]
+    },
+    {
+      "topic": "Security Breaches via Drones",
+      "rationale": "Highlighting incidents related to drone contraband and arrests in prison settings.",
+      "incident_ids": [
+        "1261a14c8771",
+        "c347995c4296",
+        "225d2c035a1c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "119fdf054652",
+      "headline": "CIA linked to drone strike on Venezuelan dock allegedly used by drug smugglers",
+      "one_sentence": "A drone strike linked to the CIA targeted a Venezuelan dock known for drug smuggling activities.",
+      "risk_tags": [
+        "drug_smuggling",
+        "terrorism"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "641884f8f9e0",
+      "headline": "Russia Accuses Ukraine of Drone Attack on Putin Residence",
+      "one_sentence": "Russia accused Ukraine of a drone attack targeting Putin's residence, claims which were denied by Ukrainian officials.",
+      "risk_tags": [
+        "political_tension",
+        "terrorism"
+      ],
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "9d23c0ff39b9",
+      "headline": "Police use thermal drone camera to arrest suspects",
+      "one_sentence": "Police successfully utilized a thermal drone camera to apprehend suspects involved in break-ins.",
+      "risk_tags": [
+        "arrest",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "0f8b80b1b1fb",
+      "headline": "US Hits Iran-Venezuela Drone Network With Sweeping Sanctions",
+      "one_sentence": "The US imposed sanctions on a drone network allegedly operating between Iran and Venezuela.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1261a14c8771",
+      "headline": "Suspect arrested after prison drone drop",
+      "one_sentence": "A suspect was arrested following a drone drop attempt at a local prison.",
+      "risk_tags": [
+        "security_breach",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal a surge in smuggling attempts and geopolitical tensions in Venezuela and Ukraine.",
+    "linkedin": "Over the past 48 hours, significant drone-related activities have highlighted increasing risks in drug smuggling and geopolitical tensions between Russia and Ukraine."
+  },
+  "window_hours": 48,
+  "date_utc": "2025-12-31"
+}
