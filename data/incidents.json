@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZEZPQk5HODhvUUgtQm1KSEY1YWJEYkJ2cmxZcWF2M0l6ZDk1aDNieUZpUGZ5WnN0WlMtaGhyS2ZFckl4UlRmUkNCcUhSWnRQdllsOHNrUkNaXzF0S0R2SkxERQ?oc=5",
+      "source": "The New York Times",
+      "date": "2025-12-31T00:09:00+00:00",
+      "description": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News  The New York Times",
+      "query": "unauthorized drone",
+      "detected_at": "2025-12-31T00:25:05.777111+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ec82a0cc0c1d"
+    },
+    {
+      "title": "South San Francisco Police Utilize Drone to Defuse Violent Brawl, - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWUE5dU5ic3YwWHBMbEhLZDQzbFQ0TEk3MUhQQUhyQ0JSQVY3dTZSbU5wNkczNVBJcHNtSmRDTmwyV0VveWVfVTlMRTZGNlVWTTN5UzVnUXlaOGlUR01WcjFUYVY4WjN2Y0kwYWh4ZGt4ZUNVM0RhTzlOenFBQXFfSGxUVUtfX2ZoaXhxa1VDX0ZNWWU2b3owNUtiYkI4dzNWR1A4Y3p6WXgyUW4wbTI4ZlRXekJHaXpJUFd6eV9ndU1aeTh4d1lNU2V4azc0S0JlTWhjWlpEQ01kTnJ5aE80bm5YZndZUQ?oc=5",
+      "source": "Hoodline",
+      "date": "2025-12-30T23:27:39+00:00",
+      "description": "South San Francisco Police Utilize Drone to Defuse Violent Brawl,  Hoodline",
+      "query": "drone arrest",
+      "detected_at": "2025-12-31T00:25:00.515154+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "50d6fd8018a0"
+    },
+    {
       "title": "Did Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNweDV2T2RuaFFTZ0p2VzFUdTFjcWFqcnZxNFN1UjZCUWpxcFV4Y21mdmt3ZV9yRnNmUjZiWXRGZ1hhSmRCbUdJQ2laU1haU3VRbEFkUXNSWVI1aGZzazJYMGxpSzJ5TExoOXkwaGRwak9UUUhvRnpmR2lsbDZmNVlMVzFjdy1MNk9IazZZZUVQcm8wVjh2Q0dqbDJtcXIta0E?oc=5",
       "source": "The Guardian",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "c0bfc716b4a7"
-    },
-    {
-      "title": "Major European airport closed after mystery drones spark travel chaos with flights grounded - The US Sun",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb19ZZ2JkbGhQLXZBc3VEWWtjQk50WDNyblhuMk1XckNUWGFHV0tiZFJlSUwxQUl2cG5KaEdTZmdxLXVpWUlUX09HRThiRWlmUnVQMWNsU2NkVVBUZTBLeFVUQXhJWGpnREJzQURPbVJkLTdFd2U1ZVpVWjNKelJ3elgwLXRNU1NHeTBlMElraVhCNlA0M1dfZ2pmOA?oc=5",
-      "source": "The US Sun",
-      "date": "2025-11-22T23:48:45+00:00",
-      "description": "Major European airport closed after mystery drones spark travel chaos with flights grounded  The US Sun",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-23T12:07:51.342682+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "35d8aac86d42"
-    },
-    {
-      "title": "Fears of new October 7 over drones’ deadly cargo - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3BpMzllVEFTZXRfT1R3WXZPMnB5MGJfT0tBcFBicVo4RTFRd3RCWnk1ZmhfTUNsSUwzMFc3OW5VU2hzeGxMQ19Gc0tvanNTZko1N1JFYk9FYXVNNFFkX1NwUXpKUEZpX2NxM1FSTkx2ZDhyYlFNNkc1bUdaeW5FOXJXNWY1RTgwd3doVE9aMlB3bkE1QmhzNVdtTm84TU1xTkswX2RUSkJrbmVK?oc=5",
-      "source": "The Telegraph",
-      "date": "2025-11-23T06:06:00+00:00",
-      "description": "Fears of new October 7 over drones’ deadly cargo  The Telegraph",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-23T10:05:16.793987+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6e8b55675a32"
     }
   ],
-  "last_updated": "2025-12-30T22:05:33.757993+00:00",
+  "last_updated": "2025-12-31T00:25:06.429105+00:00",
   "total_count": 1000
 }
