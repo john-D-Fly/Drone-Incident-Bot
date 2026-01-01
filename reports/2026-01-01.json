@@ -1,0 +1,162 @@
+{
+  "narrative_summary": "In the past 48 hours, several drone incidents have raised concerns regarding smuggling, terrorism, and the use of drones in law enforcement. Notably, there have been multiple reports of arms smuggling, including an Israeli drone intercepted carrying rifles from Egypt. Additionally, the CIA was linked to drone strikes targeting facilities in Venezuela allegedly used for drug smuggling. On the operational front, police utilized thermal drone technology to apprehend suspects involved in vehicle break-ins. The ongoing geopolitical tensions are highlighted by accusations of drone attacks against Russian President Putin, with conflicting narratives emerging. As legal frameworks evolve, countries like the UK are adjusting drone regulations amidst these incidents, signaling a response to the increasing use and risks associated with drone technology.",
+  "totals": {
+    "smuggling": 5,
+    "arrest": 8,
+    "other": 10,
+    "terrorism": 7,
+    "total_incidents": 67,
+    "by_category": {
+      "arrest": 12,
+      "interference": 1,
+      "other": 35,
+      "smuggling": 15,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone arrest": 14,
+      "drone illegal": 4,
+      "drone incident": 14,
+      "drone prison": 1,
+      "drone smuggling": 14,
+      "drone terrorism": 13,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone smuggling incidents",
+      "rationale": "Multiple reports of drones involved in smuggling operations highlight a significant trend.",
+      "incident_ids": [
+        "e2ebfc6b53ab",
+        "1adf33b3b86f",
+        "9f490b6c90e5",
+        "11ef390a8144",
+        "aa01e0174843"
+      ]
+    },
+    {
+      "topic": "drone terrorism incidents",
+      "rationale": "Incidents involve accusations of drone attacks and geopolitical repercussions.",
+      "incident_ids": [
+        "b927c2c7bd7b",
+        "d4f769179f41",
+        "378f70c7925b",
+        "8ad64273ee0f"
+      ]
+    },
+    {
+      "topic": "police drone arrests",
+      "rationale": "Increased use of drones by law enforcement agencies for surveillance and arrests.",
+      "incident_ids": [
+        "c95069e8f0d9",
+        "9dbd7f39b9",
+        "c35ff9ac4ed3"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e2ebfc6b53ab",
+      "headline": "Four Israelis indicted for arms smuggling network across Egyptian border",
+      "one_sentence": "Four Israelis have been indicted for their involvement in a drone smuggling network across the Egyptian border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "1adf33b3b86f",
+      "headline": "CIA linked to drone strike on Venezuelan dock allegedly used by drug smugglers",
+      "one_sentence": "Reports link the CIA to a drone strike on a dock in Venezuela suspected of being used for drug smuggling.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "44c26a0d3617",
+      "headline": "India, Pakistan exchange lists of Nuclear installations amid drone incidents",
+      "one_sentence": "India and Pakistan have exchanged nuclear installation lists, coinciding with recent drone incidents near key areas.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "India",
+        "Pakistan"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "2c76713678e9",
+      "headline": "Russian drone strike on Odessa injures 6, including 3 children",
+      "one_sentence": "A drone strike in Odessa has resulted in injuries to six people, sparking outrage and condemnation.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "d4f769179f41",
+      "headline": "Russia claims 24 killed in drone attack in occupied Kherson region",
+      "one_sentence": "Russia reports that 24 individuals were killed in a drone attack in the occupied Kherson region.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c95069e8f0d9",
+      "headline": "Police use thermal drone camera to arrest suspects",
+      "one_sentence": "Authorities successfully arrested suspects using thermal drone imaging technology in a recent operation.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9b2394b01a85",
+      "headline": "US intelligence rejects Russian claim of Ukraine drone plot against Putin",
+      "one_sentence": "US intelligence has dismissed Russian claims regarding a purported drone plot against President Putin.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.65
+    },
+    {
+      "id": "4c559144bab5",
+      "headline": "CIA conducted drone strike on Venezuela port facility",
+      "one_sentence": "A CIA-led drone strike targeted a port facility in Venezuela, heightening tensions over drone use in the region.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant drone-related incidents in the past 48 hours include smuggling operations, targeted strikes, and law enforcement interventions.",
+    "linkedin": "Recent drone incidents showcase a concerning trend in smuggling, terrorism, and the use of drones for law enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-01"
+}
