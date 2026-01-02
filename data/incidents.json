@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "U.S. surveillance drone crashes in Afghanistan - Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iY2M2TUpfRWJmSFRWOFJ5c2lnMXBLOVlLYUpyZ0VuSGdvbFNaa1ppTDczQl9vZUZIckJPdVp0VXMwbTFPVEVQTWs4SUd2cXpNdGFnXzNhTDlDS0pnbGUtRWVOVXpHSFhreGdGSWF0aTJUVEh4S1pCaG9yY9IBgAFBVV95cUxORXM2TFpVRXZiSEJQcUlTTGh0X2NUT3NuUWtlX1ViSmhSQVJHNzFDVHo1TW95by05R3VpUk14elcyZFozd09WOTQ1RDhGblFNdVNtQk52bFB1aDNWNlRFZnppWWYyV09wWDEydnREbzdSYkd3NXNGNW1mNzRBc2dubQ?oc=5",
+      "source": "Defence Blog",
+      "date": "2026-01-02T13:21:48+00:00",
+      "description": "U.S. surveillance drone crashes in Afghanistan  Defence Blog",
+      "query": "drone crash",
+      "detected_at": "2026-01-02T14:06:15.173549+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b5baf0f81b3f"
+    },
+    {
+      "title": "Court issues new warrant to detain ex-President Yoon for another 6 months - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUFqR2JRRlJOTlZfTF9CS0FsME5XZHQ1dENYWEpfdGw2ODFjcXVXcUlNbk9qQ2Nva19jdUNISkZnbDRDUmNTUXJHZkZUWFhaUjFyTU5zZGlZRUJNYng4TU9sVUJleURzVzY1WEc2RnN3Q1pTakNwVVM3ckNJdlBmYnFQYkNVRXJxWE9pTTV6X1JSZndKenhMNXdiWWhNSnhNVTBUYVZpTWNHWk5Vc3RZand1ZGVOUTZ5QW1KM0xTU0NCNWM1TlNTVzhoM3RlOGw40gHQAUFVX3lxTE9hQWpHYlFGUk5OVl9MX0JLQWwwTldkdDV0Q1hYSl90bDY4MWNxdVdxSU1uT2pDY29rX2N1Q0hKRmdsNENSY1NRckdmRlRYWFpSMXJNTnNkaVlFQk1ieDhNT2xVQmV5RHNXNjVYRzZGc3dDWlNqQ3BVUzdyQ0l2UGZicVBiQ1VFcnFYT2lNNXpfUlJmd0p6eEw1d2JZaE1KeE1VMFRhVmlNY0daTlVzdFlqd3VkZU5RNnlBbUozTFNTQ0I1YzVOU1NXOGgzdGU4bDg?oc=5",
+      "source": "The Korea Times",
+      "date": "2026-01-02T10:51:00+00:00",
+      "description": "Court issues new warrant to detain ex-President Yoon for another 6 months  The Korea Times",
+      "query": "drone arrest",
+      "detected_at": "2026-01-02T14:06:12.769395+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "309d5e84cfa8"
+    },
+    {
       "title": "U.S. MQ-9 Reaper drone crashes in Afghanistan's Maidan Wardak province - İlke Haber Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUYwVGVXWDB5RV9fZXQ2azEzcVJlX3FwVFhUZmFweVpBTjJiVk1JVFFpaHNMS0JWOXBVbUZSd2pRdVV4c0FFUXFqNFQ1dGJZamU5NUxqSzF6Y3ZKOHozcVFUUlZWV0V2SDJQVXRwa3F3NElMVklUNkdERlVJRGdGV2pWb1A4cXBnYURGQ0xMZGZBT2doUGVrd0tIdVkyaEJoRy1IbjlPa1dRQQ?oc=5",
       "source": "İlke Haber Ajansı",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "4f6791961b29"
-    },
-    {
-      "title": "Squads on ground, drones in air to check illegal mining - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzcyZlpaM2RNMU5lLWM1WnZWRmZXT210LXlLUmZUWGl1bTctYTZreUtfS25qX0R6Z0djTDZzUVVZdVNmNmhPZV9aZlNXQWR4WVdsZF8xQ2N0dkFseERtM3JvT1R1d3JBbXREZW9wTHZhZkpQTkZqdjVlS1lseUZhNUNvSDRkNHc4MjR4VjZmaVlQRmVwbnpsUnBva0hxVnRQMTQ0NFJZeVhwbVdsaV9BT08zWUhyYzlqby1uMXkteXY2d1pwaHFn0gHMAUFVX3lxTFBZeEp6MWo5eF9LU1NRWTZJNmhWdjFoOEZpMzZLSkhqRnU0dTlIZXNRX0U0Qk5vQTFNQzNfZ3RVTG8wcTNaZEhzOWZITE42emhRcDdJVEdTcUgwak12WFJfMHJIczA1OE9sdnZVamdFdXpHWndOaDRES0tkcExOeVhCcFFxV2NQSWFFY241OVpWYzR5RnVkcFR2VlpHMHFDTDBZbFZTeVJlY1pib0hfSGVZNjNuS1RxSFhqN0RNb1pRYmU3U214aG9BOWdtUQ?oc=5",
-      "source": "The Times of India",
-      "date": "2025-11-24T19:24:00+00:00",
-      "description": "Squads on ground, drones in air to check illegal mining  The Times of India",
-      "query": "drone illegal",
-      "detected_at": "2025-11-25T17:06:56.463551+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2d26cdf57d12"
-    },
-    {
-      "title": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says - Worcester Telegram",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQS1SdVA1UXlYaWY4aXZwTU9iSTZnd2M4NnNfTkpTTGNPRC1YbVB2cnE3dTlRdlVNcEY3UXU4TlB4UmRTODJ6dHdxTVdsLXpVV1FJMGt5V1ZjNHdTdk1uRHlFWHBfQ21GZ0FlRDJmalJBVWlPQkc1c0ZSck82MHgxTGJNOVVqUWxscmZteDE4dzJJY1BqdW1xTjVxX1BNWm1YOUpiOHBZeTZ6LWVuc3hycFdaN2pmeVZGZy1HenlxSnZma3RnUjMzNjBuZVE?oc=5",
-      "source": "Worcester Telegram",
-      "date": "2025-11-25T01:23:26+00:00",
-      "description": "Can you shoot down a drone hovering over your property in Massachusetts? What the law says  Worcester Telegram",
-      "query": "drone illegal",
-      "detected_at": "2025-11-25T17:06:56.463551+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dcb44a70c7b7"
     }
   ],
-  "last_updated": "2026-01-02T12:09:47.121361+00:00",
+  "last_updated": "2026-01-02T14:06:18.418625+00:00",
   "total_count": 1000
 }
