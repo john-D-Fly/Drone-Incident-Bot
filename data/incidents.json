@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian Drones Kill 27 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTTB0dmVFZWR2SVZWam92UUVObERDSVhMOGpQeGtCeks1aFUwWnA1S2NhUDFsWDJ5enFkbnBiOHQwWUd0XzNoWklGYUFDQzJHbnpuTzhvN1JpYm45clFuNzlxUHJGV21YamlPYWZhanR0LU1CaWwwV1pmNWRCQjBlRjVJX0NzekJpZFdzM0kzcXNXdTlBSHVGY1k5eGZKLXFfZ1Nza0ZpYml4V1dpV3NBOUg4UzhLNHFDVkNObTBjUThkdkJkNDlCMHNKcw?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-01-02T06:51:00+00:00",
+      "description": "Ukrainian Drones Kill 27 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says  The Moscow Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-02T11:05:29.947195+00:00",
+      "location": "in Occupied Kherson Resort Town, Pr",
+      "category": "other",
+      "id": "7b30822ac6ee"
+    },
+    {
+      "title": "Court issues new warrant to detain ex-President Yoon for another 6 months - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRGNkRnNpZEMyT3JrbFpKUXlRbFhGZWFFajlHUm8xTFFyaFpadnJELV85ZjUyOWVaY3NRMGFIZkIxeGxMMTVNRGxDT3B0MUtPVHBKYXkwMjh5UQ?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-01-02T10:37:17+00:00",
+      "description": "Court issues new warrant to detain ex-President Yoon for another 6 months  Yonhap News Agency",
+      "query": "drone arrest",
+      "detected_at": "2026-01-02T11:05:26.036821+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "12a0d4229888"
+    },
+    {
+      "title": "Russia Accuses Ukraine of Drone Attack on Putin Residence as Kyiv and EU Reject Claim - kurdistan24.net",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkRGR2RQYXJyUVZVOTFSWkVxNzROWlg0cmFQbDZNeFlCUEZTb3VNdktuRkdGQmo1RVpxWmRXSUY1cFo5aTJNZHlJNWZiUWZSbVBJU0l1RW8zdS1Cdnh1b3VLSnQ4ZFRQM2JLWXlTUHBkV3ZIeUY0MEJtU2RYdEtKeGVVU1BacUU5MzZycGxHd2pIM2ZEbTZNMlNRcVJaVndFU0VUSm9DM3N2YUQ1STMtNGJLdjFhWWVJMWJBV094SmNnUWUyN1B6YQ?oc=5",
+      "source": "kurdistan24.net",
+      "date": "2025-12-31T17:49:08+00:00",
+      "description": "Russia Accuses Ukraine of Drone Attack on Putin Residence as Kyiv and EU Reject Claim  kurdistan24.net",
+      "query": "drone incident",
+      "detected_at": "2026-01-02T11:05:25.471365+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "22b1b523b072"
+    },
+    {
+      "title": "Russia claims drone evidence; CIA dismisses allegations - tickernews.co",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1R2aGxqRVhvM3pXTWpxXzRURGJRODlxUXZiTWF4Wmo2MUE2U2xQTUZMR2lGa09xR3UyWks5Nmh0YjVKci1LWU1zZ3JrcThBbGZ0bGp0VGVsLS1TeVZsSmN1S1dfeFEwZmRPeWxvNFRpLTk4Q0xRMkRlRllUV25JS1pfd9IBiAFBVV95cUxNTS1QcDBzSlZJRDFSc2V4cmhNcnhPNUtVVmd5Y1NELXl3b3dLRndqbFlaVzJnUHdtWV9PbE1OdVZtaEE1Z0RZNFFHVXZqZmRqbXBIRUF6NF93LUxIWi1yNkM4eEUtWnkyX0h0SWVUV1ozWUpOaUdNVmxFZy1hTkgxb2lGY1FxSDVl?oc=5",
+      "source": "tickernews.co",
+      "date": "2026-01-02T10:40:51+00:00",
+      "description": "Russia claims drone evidence; CIA dismisses allegations  tickernews.co",
+      "query": "drone incident",
+      "detected_at": "2026-01-02T11:05:25.471365+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "30c6f074cd86"
+    },
+    {
       "title": "Drone Warfare Yesterday, Today and Tomorrow - Part 2 - NatStrat",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3FKYVFYY0syYVBRTkZpbVhaQ25oYzZsVmRMbHFzMkhTT01kMS1KeG9INGhOLWltTjEycm16YlBjejNOVkctX3ZqdzlCNnY2aHZaU2J4ZklvcnhWcDhrSi1nbm9ucHUzYzRmTkItWWN6TDJ6akpwSzZ0eGN5OUJUZmNFSUg2LVRmT0c3Mlp2UXEzekd3d1hqV0lTeldIZnhGeXVscWRud1FoWkYw?oc=5",
       "source": "NatStrat",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "59a0cf0e10a9"
-    },
-    {
-      "title": "2 suspected smugglers held, 2 drones recovered - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDEtT2dJYzBQb0Q3ZWtiTWJ5SWFYLTc3dmk5VFlITXJHYk53eTA3ODhTYkpHQU9IRW1VVDFOYjlfMHoyMW1WZHcyeFlyc3ZzOVhuQURPa3FKWkJTS3F2U3JkWU9pREQzMk1xY2J3V0hzNks5NHRvTV9sUXBIbmszbXBtbzRuY3U2VFd2Wmlwd3RIN1EyM2UtS3I4NlB0MnprMkNJdURicXd3OVEzem5tNy1NVl9GME54aE93VW1CYTPSAcYBQVVfeXFMTzZ6bDVfc1FGTWxfMmtaTl96Q3BjUks5d25NNVc4SjFxa0xBOU1NbVdBRHp0Uzd6MEdzQktaQ1lib3JzUXBsY3ZkcmxjUXFIdFBaLURZYWp1WDdPRGZBa25kZ2hZaDJXV1pVQnRWWl9PZ3E0ZnB6S0N6czE0NUV1RTUxZUlHTkhULW1JWFViUFl4UUNOa0RRN1dvOFVsbjgwanJ4cktiRVRqMUM5OU1NaHVYbjJJa2IxeWFOZ201WTg1Z0pOSXRn?oc=5",
-      "source": "The Times of India",
-      "date": "2025-11-24T19:53:00+00:00",
-      "description": "2 suspected smugglers held, 2 drones recovered  The Times of India",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-25T17:06:53.941388+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8b143451cf62"
-    },
-    {
-      "title": "Asheville police arrest armed robbery suspect with help of drone unit - WLOS",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORHVncHJsVlhKRUY3UUp4UFJaNjVrTVdta2dRQ2ZXMHVIZ0xSa0R3bWl2VFJFa2xxTmNTaXVjbEpjOTRidmcyVGI4ejVkYl9zNmNvU0k2bjlDTUVUYzZPdTkzYnFzRGFYM0sxelcxZXNlN3FaYTBKaElJUEgwRVY3NjBVODJOOFdIRFY3bUduRHVZNnR6eUw1UHB3UmFCeUNSLWFLV3NSNGgwalEwdm5pN1ZzY0VEU21qemt4S0o2al9Ydnc1SUt5cWRjaUJxQ05RRWtTUElsN2xCX0JWWmZBYkFiNFQ0VWl0Q3VzSzR0TS1Ydllxa0doRTdaYUw2bG96Nmh1OTBnNA?oc=5",
-      "source": "WLOS",
-      "date": "2025-11-25T16:22:04+00:00",
-      "description": "Asheville police arrest armed robbery suspect with help of drone unit  WLOS",
-      "query": "drone arrest",
-      "detected_at": "2025-11-25T17:06:53.230428+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d8643b8d6e00"
-    },
-    {
-      "title": "Drones Crash in Romania, Moldova as Russia Bombards Ukraine - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTElQaUxMYm15cmRjcC1rODU1T09uRUl2MGhweklpdnpjTV9Sems2UTNNY2h3RldIdy0xcy1UUjB5UFIzNGtQTU9aSzNvTi1aVDR3WklhVVg3aVpxVlBRVjNnVHVGcThQNmI3QzdUOTRsdWhfZWgwWHFWYW9GN0hOUExB0gGHAUFVX3lxTE1XZmZzLWVuc3ozbmcwMzB3UFBSNWxFaVVrakIyYVNDek50NFAxMi12NXpmdER6X1RhMHJMa2Z4UHQ4Y3d2RUxQd1daNG5XakJDQ2Q3aFVmaVpMR0hFNnNHODM5eGJ5UDNnNjMzaTU0RXdMM3JvcFpaVmN4SE92WHplTzlYajVxMA?oc=5",
-      "source": "The Defense Post",
-      "date": "2025-11-25T14:03:32+00:00",
-      "description": "Drones Crash in Romania, Moldova as Russia Bombards Ukraine  The Defense Post",
-      "query": "drone crash",
-      "detected_at": "2025-11-25T15:05:45.672355+00:00",
-      "location": "in Romania, Mo",
-      "category": "crash",
-      "id": "b802588e566e"
-    },
-    {
-      "title": "Taliban Claims 10 Killed In Pakistani Air and Drone Strikes In Afghanistan - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0VDbE82T0VVNVdybUhuWHU0bXRkLXh1R01BakNYNUUxQWs4VGxLd2dGdHZuVEphSWNxcmpfbm8zU0tjek5IUXgtRURueFN2RTFvZHg0V0NDdVNEdVJ1Z3BXMXFFc0RkNlFoNU13OFFBWFVLdVZCT1RMRi1wQ3A4MDVQU25qWDZwTG1KdDZuazhFV1dRRU4tbTdLeUhhbjJUNEV2NDFoNWg4MjBieGZB0gG8AUFVX3lxTE5HNFVDNlNQeGVaUlBNd3JNWm0yRXJYZy1xV0hGSlNRb19BOHF3Y1Q2T296Z0NtSDNHN3VKamhaU1oyYW9VeXpLX3pGbDE2Y1RhRldjX0t4RDRTdWlzWVBqdjFvYnp2OUhMNWV1V0xoeVVRM25GMWprcUxKQVR2UE5tNzNoV3RoVHc1OTA0Qjg0Q2VHckxkd0ktUVhvVjkxcHZJbXlvRDVxZC10dXVCekZLUE80eHNabWoxWXc2?oc=5",
-      "source": "Outlook India",
-      "date": "2025-11-25T04:52:47+00:00",
-      "description": "Taliban Claims 10 Killed In Pakistani Air and Drone Strikes In Afghanistan  Outlook India",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-25T14:05:45.355690+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "50f63d8e1927"
     }
   ],
-  "last_updated": "2026-01-02T10:06:19.978009+00:00",
+  "last_updated": "2026-01-02T11:05:31.086543+00:00",
   "total_count": 1000
 }
