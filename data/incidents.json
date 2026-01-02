@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Police drone leads to quick arrest in armed robbery at Wichita gas station - KWCH",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1hwdVNWalcwZGVMNFFack1mSlpCSmU4TkFtWDF2MHBfaWtIanVZSDd5Z3Z6U0daeHZHVDM4QU5YSHVYZzhVX0lkdXBCbUxHLU5kblJGLVR5QWh2SXgtckRSS2RvUW5DeUE0cVNNMHdSTXNwREJ1bGVjNGw2NWFrOFFrR2Z0VDNwcEZ3M1AyQnhaWGhjTUNjemxxcTg3cFE?oc=5",
+      "source": "KWCH",
+      "date": "2026-01-02T22:55:00+00:00",
+      "description": "Police drone leads to quick arrest in armed robbery at Wichita gas station  KWCH",
+      "query": "drone arrest",
+      "detected_at": "2026-01-02T23:05:36.432315+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "5a435e0dbae2"
+    },
+    {
       "title": "Air Force Drone Crashes After Losing Communication - The Whistler Newspaper",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RTXdoMHd6OXJTazAyYXF0Ym44NmpqZTFaS0l0ZWFtcGhOYVJaeTNTOXJaU1BON2hNMVF3WVVRUERGVVpmdjNWOFlKRnE3NVZ6dk1JMHhNQlVfcTJpR2VDaEJiVUVSRTI0clBGdFhnVTVvb1F4WFAwSEZsWkZBNTDSAYQBQVVfeXFMUENUbG9sd1RTWmUxa0hsMHN5bHlnOFlNbmE1X0ZpSDhURUJldkNuTkR2ZlROWTJNeE1MTHpfcllfaEVHRE9EeHRycUdscHhUaGt5a2dVMy0xWVpxZnFBaGZsSUZQTUQzd3NpNndrWmtadFFRZ2ZwcjBvZ0JBWFFTSXlxeFZw?oc=5",
       "source": "The Whistler Newspaper",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "159098615770"
-    },
-    {
-      "title": "Lawmaker spotlights growing calls for interagency plan to counter drone threats in US - DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXg0ZVpFel9zTlpxRHd5VlJzUUk1alg4ajhhYXNyVzdsdUliNFViUEpoSEkxWFVVWFZtOWZEeWRFLVhjamNxX0dhakdQdlVvYXlkXzJURlhUUTdSUmJTXzFmaC1xR3BTa1Zod0NXU3dhTnIwcFdKemEzaGF2ZzJ1bzQwaWt6MkFVaHdWTHhkaU9idkdHWjZoS0gxSDFzOVU3ckExQVZQZzY?oc=5",
-      "source": "DefenseScoop",
-      "date": "2025-11-25T21:14:34+00:00",
-      "description": "Lawmaker spotlights growing calls for interagency plan to counter drone threats in US  DefenseScoop",
-      "query": "drone illegal",
-      "detected_at": "2025-11-25T22:05:12.526674+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "69a96707d97a"
     }
   ],
-  "last_updated": "2026-01-02T21:04:59.939189+00:00",
+  "last_updated": "2026-01-02T23:05:41.605170+00:00",
   "total_count": 1000
 }
