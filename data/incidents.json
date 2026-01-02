@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Large drone intended to drop contraband at Baldwin State Prison intercepted by Milledgeville Police - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX1Y4dTNVWEFUOVo5c3F2TC1pYzZERmpZbVpPY3FHV3ZIWXZaNDE1NDl1RkpjdGhXSTZ5UFI2VVJZRmR6Ry1OQnNkTWtBbkRlbkJGNl9qVXJ4M3hmMEJaV2xfOXdZTy15ZzBOWHAtWmYtQTNuS2pOX21odmV2LWlYaHY5T3Z3SjJHV0ZXOVhON2ZJblJMNDZEcG9oMWJqbVRFLXNLcWIwWGFvektfWndTNkp2cVJGd19SRnB0eDc0MDRzdlViZ3lDQ1l2NUlnMDBmbllVWV83T29JMkE1NHlGVWtXOVdsM1FCSWRlMEE5X3UycVFSdWNqY3BjaTlFM2FwcVdRN0ZTaUdObUdXcGE2TjdZZjI?oc=5",
+      "source": "13WMAZ",
+      "date": "2026-01-02T18:28:00+00:00",
+      "description": "Large drone intended to drop contraband at Baldwin State Prison intercepted by Milledgeville Police  13WMAZ",
+      "query": "drone prison",
+      "detected_at": "2026-01-02T19:04:57.394100+00:00",
+      "location": "at Baldwin State Prison",
+      "category": "smuggling",
+      "id": "5fd9885ae3a9"
+    },
+    {
+      "title": "Drone helps Madison police arrest 4 teens who stole car - Channel 3000",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeENuOWpFSWlLZkdUUEo1bTZKem5mMUh5a2VkSFRyNElZM2d6a04wYk9mWEROZTJQSm1JUXNlaXZWaHI0ajhOcEY5d184emg3TGpjZnNhWWlQS0F5Sm42WHZMUHRnTVU5c2VtUUc5dVpsQkRaSC1Ed2pXdkc1VV9BOXdZREtpLTFxZTdENV9OanlJcTA0RjF5eE5STWFyQ3E5ZERDYlNHcWlFQjlrWDExQllncFRWTGwyR3NyZFA4M3U3elo1dWt1UDVJcWVtX3Zxa2N5Zg?oc=5",
+      "source": "Channel 3000",
+      "date": "2026-01-02T18:19:00+00:00",
+      "description": "Drone helps Madison police arrest 4 teens who stole car  Channel 3000",
+      "query": "drone arrest",
+      "detected_at": "2026-01-02T19:04:56.280518+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "0832a21bd1d8"
+    },
+    {
       "title": "Ukrainian Drones Kill 28 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says - The Moscow Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEt5OVZSajlZNVRxcGt2YXB6N2lWMnJaal9zRjhacUNzRVMzUXpmX1FlRUo5WExKNXVtUDlqdVBkNkJId3FsTzdnSWVqY19yeERQV2lkOWxlamlKd2VYTHowUFVlRFo4MVBJbVV2dTQ4YnlvU2RDdVpBeG1LMGN4TkVER0RCcmtzdzhkbC1hMV9HM1RaLTduazQwbmc1RmYwSGRJZ3RiaVhwQTIxXzlSbEZET3Qxb3NabjJvcllzalcySXk1cjVRRTVlZw?oc=5",
       "source": "The Moscow Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "05c37b2b83aa"
-    },
-    {
-      "title": "Drone Defense at Home: Closing the CUAS Rules of Engagement (ROE) Gap - Commercial UAV News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS21NZFM2aE1BRnh0V2xwaDg0MnFncXU1YTlmS0FKcGRobnBnUXluTmRpQTV6emhVRVB4ZElVbE1tS1JJdWx6TGswOS1zYTVSUXZBcU5oMHZIR2VSb2JuaG40ZGR0R1FXV3c3dVJMTlRzdk1FWXpneEYzZmEwZGRMYmpDU21hT1RPbTVxSVhvX3Q3MVJwaHl0SmFpVWIzZUJ4OEE?oc=5",
-      "source": "Commercial UAV News",
-      "date": "2025-11-25T14:20:22+00:00",
-      "description": "Drone Defense at Home: Closing the CUAS Rules of Engagement (ROE) Gap  Commercial UAV News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-25T20:06:24.119850+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f085bf103129"
-    },
-    {
-      "title": "Athena Security unveils AI X-Ray Drone Defense System - Security Systems News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNxcnVwaHBPWUN4MkE0Mk1lbVd6cXZubGlCdUVjbS1RVmJpY09MNExkUm9OVENuR2E3WXBGcUh6RldZMU1yYU9ySHJsblBQcERPdUlBM0hFekN5bHFuUi1vYldJTEZqaHJHaTNnczE4VGh1dldWalBVWnlCYnlydzl4SEFtckUwYUZGa1JnLXl4OEtDQVRFVThBTTRlZw?oc=5",
-      "source": "Security Systems News",
-      "date": "2025-11-25T19:54:26+00:00",
-      "description": "Athena Security unveils AI X-Ray Drone Defense System  Security Systems News",
-      "query": "drone incident",
-      "detected_at": "2025-11-25T20:06:18.382010+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2a2d08dd8a4d"
     }
   ],
-  "last_updated": "2026-01-02T18:08:16.099811+00:00",
+  "last_updated": "2026-01-02T19:05:01.708209+00:00",
   "total_count": 1000
 }
