@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have been reported across various categories including smuggling, crashes, and arrests. Notably, several attempts to smuggle contraband into prisons have been thwarted, especially at Baldwin State Prison, where police intercepted large drones intended for contraband drops. This incident reflects an ongoing trend of drone-related smuggling in correctional facilities. Additionally, U.S. military drones continue to face challenges in Afghanistan, with several crashes reported. In Ukraine, drone strikes have escalated, with reports of high casualties in occupied territories. The rapid developments indicate increasing drone usage in both criminal and combat situations, alongside growing concerns for security and policy adaptations in various regions.",
+  "totals": {
+    "smuggling": 5,
+    "arrest": 3,
+    "crash": 8,
+    "other": 19,
+    "terrorism": 6,
+    "airport": 2,
+    "total_incidents": 45,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 9,
+      "other": 19,
+      "smuggling": 11,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 10,
+      "drone illegal": 5,
+      "drone incident": 5,
+      "drone prison": 5,
+      "drone smuggling": 6,
+      "drone terrorism": 9,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "prison drops",
+      "rationale": "Increased attempts to use drones for smuggling contraband into prisons.",
+      "incident_ids": [
+        "ff6e488a97fa",
+        "5c4644bfc4e8",
+        "5ae9b4201626",
+        "22b1b523b072",
+        "e31a1721a951"
+      ]
+    },
+    {
+      "topic": "drone crashes",
+      "rationale": "Frequent crash incidents, particularly involving military drones.",
+      "incident_ids": [
+        "5fd9885ae3a9",
+        "22e0168d3e7e",
+        "b5baf0f81b3f",
+        "fd137ba3f293",
+        "4a3f7fdc6c52"
+      ]
+    },
+    {
+      "topic": "terrorism",
+      "rationale": "Reports of drones being used in conflict zones leading to civilian casualties.",
+      "incident_ids": [
+        "1fea184186c1",
+        "b37437fca305",
+        "7b30822ac6ee",
+        "d3614bde938d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ff6e488a97fa",
+      "headline": "Suspects accused of using 30-pound drone to try to drop contraband at Baldwin prison",
+      "one_sentence": "Authorities intercepted a drone attempting to drop contraband at Baldwin prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5fd9885ae3a9",
+      "headline": "Military Combat Drone Crashes In Kontagora Forest In Niger State",
+      "one_sentence": "A military drone has crashed in Niger State, highlighting ongoing operational challenges.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Niger"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b8d7ae10a20e",
+      "headline": "Drone helps Madison police catch four teens after stolen car crash",
+      "one_sentence": "A drone was instrumental in the quick arrest of teens involved in a stolen car incident.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "a55b1c7990f2",
+      "headline": "Deputies prevent contraband delivery at Georgia prison using drone on Christmas Eve",
+      "one_sentence": "Deputies successfully intercepted contraband intended for a Georgia prison using drone technology.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "5199f144462f",
+      "headline": "Ukrainian Drones Kill 28 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says",
+      "one_sentence": "A drone strike in Kherson has resulted in significant civilian casualties, raising alarms.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents are on the rise, with increasing smuggling activities and significant military crashes reported over the past 48 hours.",
+    "linkedin": "The recent surge in drone incidents highlights growing concerns over smuggling, increased military operations, and the need for enhanced security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-03"
+}
