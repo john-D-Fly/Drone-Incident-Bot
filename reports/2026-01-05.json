@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple drone incidents have emerged primarily in Eastern Europe and the Middle East. Ukraine continues to launch drone strikes near Moscow, causing delays at airports, which was notably reported alongside the Kremlin's denial of attacks on Putin's residence. In Israel, significant efforts to curb weapon smuggling using drones have been highlighted, along with arrests linked to a local smuggling network. Furthermore, recent drone strikes in Russian border regions resulted in fatalities. There is a clear trend toward the use of drones for both military and illicit purposes, raising security concerns and prompting discussions about drone defense strategies in nations like Ireland.",
+  "totals": {
+    "other": 4,
+    "smuggling": 3,
+    "arrest": 2,
+    "airport": 2,
+    "terrorism": 1,
+    "total_incidents": 11,
+    "by_category": {
+      "airport": 2,
+      "arrest": 2,
+      "other": 4,
+      "smuggling": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 2,
+      "drone incident": 4,
+      "drone smuggling": 3,
+      "drone terrorism": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Strikes and Incidents",
+      "rationale": "Frequent occurrences of drone strikes in conflict zones raise security alarms.",
+      "incident_ids": [
+        "cc3ab1b5d7f5",
+        "163b1a9fdbe5",
+        "d23c9240048c",
+        "d53b5c2c99af",
+        "246583bf8f5c",
+        "884f6b11b9e3"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Increasing reports of smuggling activities through drone technology highlight significant risks.",
+      "incident_ids": [
+        "740805eb40cd",
+        "d23c9240048c",
+        "f40bd00d5cd1"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Law enforcement's proactive measures against drone-related crimes indicate growing concerns.",
+      "incident_ids": [
+        "d53b5c2c99af",
+        "adb552ca9def"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "cc3ab1b5d7f5",
+      "headline": "Ukraine strikes Moscow every day of new year, flight delays",
+      "one_sentence": "Ukraine's daily drone strikes near Moscow are causing significant flight delays.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "740805eb40cd",
+      "headline": "IDF blocks attempt to smuggle three M-16 rifles from Egypt via drone",
+      "one_sentence": "The IDF intercepted a drone carrying three M-16 rifles smuggled from Egypt.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d23c9240048c",
+      "headline": "Inside the weapons smuggling network threatening Israel from within",
+      "one_sentence": "An investigation reveals a complex weapons smuggling network threatening Israeli security.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "163b1a9fdbe5",
+      "headline": "Trump dismisses Kremlin claim of drone attack on Putin residence",
+      "one_sentence": "Trump has refuted claims from the Kremlin regarding a drone attack on Putin's residence.",
+      "risk_tags": [
+        "political"
+      ],
+      "countries": [
+        "Russia",
+        "United States"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d53b5c2c99af",
+      "headline": "Drone-Aided Apprehension in Northern Colorado: Six Arrested After",
+      "one_sentence": "Six individuals were apprehended in Northern Colorado through coordinated drone surveillance.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents show alarming trends in military strikes and smuggling activities.",
+    "linkedin": "The last 48 hours have seen an increase in drone-related incidents, particularly in Eastern Europe and Israel, emphasizing the need for enhanced security and defense measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-05"
+}
