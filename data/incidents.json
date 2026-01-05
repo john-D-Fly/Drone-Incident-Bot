@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "After warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bV9keDZlSmNWWTdqQ0xRTlFDVXNJZnBYcWJXNUhIZVNQZFRfaFF2ZmxkVDV6eml0MEhYenlXYkd5eWlSN2U2TkdTdWZaUTlDeWlodm9TLWpZZnE2a0xEUWtEeEd4bWdZTEFKSmtB?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-01-05T18:48:44+00:00",
+      "description": "After warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-05T20:06:30.181626+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "512ca383572f"
+    },
+    {
       "title": "Trump downplays alleged Ukrainian drone strike on Putin’s Novgorod residence - Tehran Times",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEQ5RnVxOUZtTi03N1duTGRwMEpubW9PeXc2T2xBLUI1RVIzRTMzZ3g1RWVxMmFydUwtODBtLUt4SEZacVRmR0dmcUhmTmZfV0JIbjhmZFIxVnJKRW5iSmJuUll0RzN3bldPWk81QjhmanlJRU9aTS1rb2g3VzFzbUczZTZweEhCbTVlSVdFbHhreE5MVDJwQV9KTFJReElzMTFDdS1DODQyQQ?oc=5",
       "source": "Tehran Times",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b486bfcadcde"
-    },
-    {
-      "title": "FAA probes Amazon after delivery drone snaps internet cable in Texas - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWZaZGFVb1lCUkpQZmkzWkF1Vnd6NXBfeG1uRWlpUHphbGtjNHBPYUR3Z2VsXy1lQ0UxaFZwZVhTVjloakg4dlIydVFmSHRWY2hkLU1fVnZLNHlPR3lfU0VuaDdRM09JYnpFRFRpc3V4dXVoU3EwTkU1NGFCUlhCb1RWdEpTQ2hsd2IxS2p4amhfTWhWLXpNZkFTeVc5VTZHdzBiZ3l6dEZDZTNDQW04QjZOM01wNjJFSnhLT2ZMZVRjVm9maWlXY1hJdGZhU2VHdzhGaUVB?oc=5",
-      "source": "Reuters",
-      "date": "2025-11-26T04:23:00+00:00",
-      "description": "FAA probes Amazon after delivery drone snaps internet cable in Texas  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-11-26T13:16:37.573041+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ab0a38197f76"
     }
   ],
-  "last_updated": "2026-01-05T18:09:12.144611+00:00",
+  "last_updated": "2026-01-05T20:06:31.498077+00:00",
   "total_count": 1000
 }
