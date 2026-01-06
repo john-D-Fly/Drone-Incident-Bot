@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes Ukrainian energy facilities with drones and artillery - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjZ3Zmx3UF8tVFJNS0F4TWFGWHdray1lMTJyOUdXNGM0R3BsWDVtTlpwbFBxUV9kdVBYME40ZkpwQWpGQ0VhN0pWRTZrQmpCVTd5ZFVOaGNvVnFZaDcwNTVqUzB3SjYxX0lQRk9xeEM1TVdTTVYtZ1pwTms0cmtCTTJJRzVneVdyVXFuemNRa18wMEwy?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-01-06T11:43:00+00:00",
+      "description": "Russia strikes Ukrainian energy facilities with drones and artillery  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-06T12:10:11.850553+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "23a34b510b51"
+    },
+    {
+      "title": "Drone surveillance soon to curb illegal fishing: Fisheries Min - The Goan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRHbVVvOGNmQWoyMEdUYzAzTDNvWFZsSXdGNGV6NXlGX0pKVzVYSjdqZzZPRHhabTktQlp4b1lTX3hnZjctX0hua1BaTDB5N01CUW1WSHZ4OGozQWswVDNsLUNSR0ZWdWpDWjR5eHQtaU9Cbk1JQnpFOGNIUGFwazBQWnJCU2JFclJsT1dXWG80dFBQR3MtT29JYTAxd2FoMUJiMnJTby1Ia0F3SEdWeS1Gbmowdw?oc=5",
+      "source": "The Goan",
+      "date": "2026-01-06T09:29:52+00:00",
+      "description": "Drone surveillance soon to curb illegal fishing: Fisheries Min  The Goan",
+      "query": "drone illegal",
+      "detected_at": "2026-01-06T12:10:10.589087+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "a0711db95451"
+    },
+    {
       "title": "Following warning, IDF strikes Hezbollah, Hamas in Lebanon - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bV9keDZlSmNWWTdqQ0xRTlFDVXNJZnBYcWJXNUhIZVNQZFRfaFF2ZmxkVDV6eml0MEhYenlXYkd5eWlSN2U2TkdTdWZaUTlDeWlodm9TLWpZZnE2a0xEUWtEeEd4bWdZTEFKSmtB?oc=5",
       "source": "The Jerusalem Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "dd3234acee6b"
-    },
-    {
-      "title": "Drone helps Redmond police locate injured elderly man after bike crash - Nonstop Local News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb2tmQkVjaGhvTm56T3lQcFRrWHM4V3FLQWhMMzk2UktjN1JVaDBCV3hfM084d2JuVlRpYjNseUpZRGh0QUlSOHJ2SkRTc2hhVGlVdThsb3E5OWFLczBYczMwRWY5Z1NERUpWUVpUR0RDOFppZUo5S1kzYnlSeDVJd0FmazEtdGNJUnVwQVgtdDRHSEYwYVJ3SThRX1gwRlYzeXEtcy14eGlhdFRyZWtkN256S3JhN0w4eUNhVXdKZkxTb3dmVkh5ckU0YkVTU3hpWUg4c3pBelBhRVN0aG5GZzVyeS1mOVdp?oc=5",
-      "source": "Nonstop Local News",
-      "date": "2025-11-27T04:47:00+00:00",
-      "description": "Drone helps Redmond police locate injured elderly man after bike crash  Nonstop Local News",
-      "query": "drone crash",
-      "detected_at": "2025-11-27T06:08:20.468947+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "85d7f8afe81b"
-    },
-    {
-      "title": "Diplomatic Tensions Escalate Over Drone Incursions in Moldova - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUUU1dnVhOERjLU1oS3BRV1NrVWxJbnQ0VjNlYTRIUjVaeGNhUk9QN3VOdUFhQ1B1b1BZNERrVkRZdk00dWxjekRMWUplbXVybHVZZEZQNlNPeTdSNmxoczFNUFlPRVBHalJvb1dQMzRFblNtQVc5a2R4TW9PU2EzeUVfVlRYQkg1NXZ3cE5YYUw3ZUMxSVNVT0xqNm9HdXRBUkZZTHJmTWhkckJaM29jOUpQQXhoQlZzR1pBN2dyekFoQTRITEZaNkRB0gHKAUFVX3lxTE1RRTV2dWE4RGMtTWhLcFFXU2tVbEludDRWM2VhNEhSNVp4Y2FST1A3dU51QWFDUHVvUFk0RGtWRFl2TTR1bGN6RExZSmVtdXJsdVlkRlA2U095N1I2bGhzMU1QWU9FUEdqUm9vV1AzNEVuU21BVzlrZHhNb09TYTN5RV9WVFhCSDU1dndwTlhhTDdlQzFJU1VPTGo2b0d1dEFSRllMcmZNaGRyQlozb2M5SlBBeGhCVnNHWkE3Z3J6QWhBNEhMRlo2REE?oc=5",
-      "source": "Devdiscourse",
-      "date": "2025-11-26T21:29:37+00:00",
-      "description": "Diplomatic Tensions Escalate Over Drone Incursions in Moldova  Devdiscourse",
-      "query": "unauthorized drone",
-      "detected_at": "2025-11-27T05:06:14.857691+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "500d00984ccd"
     }
   ],
-  "last_updated": "2026-01-06T10:06:45.049393+00:00",
+  "last_updated": "2026-01-06T12:10:13.135810+00:00",
   "total_count": 1000
 }
