@@ -1,0 +1,128 @@
+{
+  "narrative_summary": "In the past 48 hours, several drone incidents have surfaced globally, highlighting a mix of violent confrontations and law enforcement activities. A drone strike in Sudan tragically resulted in the deaths of 13 civilians and has raised concerns about drone use in warfare. In contrast, law enforcement agencies in the U.S. effectively utilized drones to arrest robbery suspects in Santa Cruz and Madison. Notably, Israel's IDF conducted strikes against Hezbollah and Hamas targets following a warning to civilians, underscoring ongoing tensions. Drone surveillance is also being explored in various contexts, including illegal fishing. A notable trend is the reported interception of weapon-smuggling drones, suggesting an increased focus on cross-border smuggling activities. Overall, the incidents underline the dual use of drones for both crime and military operations.",
+  "totals": {
+    "arrest": 4,
+    "terrorism": 4,
+    "other": 16,
+    "smuggling": 3,
+    "surveillance": 4,
+    "total_incidents": 40,
+    "by_category": {
+      "arrest": 5,
+      "other": 24,
+      "smuggling": 6,
+      "surveillance": 3,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 5,
+      "drone crash": 3,
+      "drone illegal": 4,
+      "drone incident": 9,
+      "drone prison": 3,
+      "drone smuggling": 3,
+      "drone terrorism": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone-related violence",
+      "rationale": "Increase in military drone strikes and attacks.",
+      "incident_ids": [
+        "befd8c859cec",
+        "84be9543b8a8",
+        "21bffbae135e",
+        "9b2c04fb1d2f"
+      ]
+    },
+    {
+      "topic": "Law enforcement operations",
+      "rationale": "Use of drones in arrests and crime prevention.",
+      "incident_ids": [
+        "2095249c0f97",
+        "7d30cad74c6e",
+        "49303727a231",
+        "d5fa29c437f1"
+      ]
+    },
+    {
+      "topic": "Drone smuggling incidents",
+      "rationale": "Reported interceptions and smuggling activities using drones.",
+      "incident_ids": [
+        "30-pound drone carrying $8K and contraband intercepted near Ga. prison",
+        "IDF intercepts weapon-smuggling drone crossing western border"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "befd8c859cec",
+      "headline": "Drone strike kills 13 civilians in Sudan",
+      "one_sentence": "A drone strike in North Kordofan, Sudan, resulted in 13 civilian fatalities.",
+      "risk_tags": [
+        "terrorism",
+        "civilian risk"
+      ],
+      "countries": [
+        "Sudan"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2095249c0f97",
+      "headline": "Drone helps Wichita police arrest armed robbery suspect",
+      "one_sentence": "Wichita police used a drone to successfully apprehend an armed robbery suspect.",
+      "risk_tags": [
+        "law enforcement",
+        "arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "469bb730d3df",
+      "headline": "Aden Security Forces Confirm Drone Incident Near Presidential Palace",
+      "one_sentence": "Security forces in Aden confirmed a drone incident near the presidential palace.",
+      "risk_tags": [
+        "security incident"
+      ],
+      "countries": [
+        "Yemen"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "84be9543b8a8",
+      "headline": "Terrorists’ war on education",
+      "one_sentence": "An article highlighted the impact of terrorism on education, specifically relating to drone attacks.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Not specified"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f5d7a730b6f4",
+      "headline": "Top-secret US weapon used in Maduro capture spotted in rare photos",
+      "one_sentence": "Photos surfaced showing the use of a top-secret US drone weapon in the capture of Venezuelan officials.",
+      "risk_tags": [
+        "military action",
+        "terrorism"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal a troubling mix of violence and law enforcement activity globally.",
+    "linkedin": "In the last 48 hours, drone incidents ranging from tragic strikes in conflict zones to effective law enforcement operations illustrate the multifaceted nature of drone technology and its applications."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-07"
+}
