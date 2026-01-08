@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "China Drone Sales Slump as Police Tighten Grip on Unauthorized Flights - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlBVaWFjSndhLXRPVVh5VG9zYUpNNjZjcjNoVmltbUxtcmVnR1M2aW1BaFpfS0d1ZTFKVEFzbGZUbVpzWUtlODZSNHhrcXBrbk9SamFIWTdlMm9zRHpiZTVULWdWZ2lhNllrVmdwQi1nazZfNE5mSWFNNG4tN1F3VjVFSkY3cEZsM3Jvc0JzdElVRzUzOXVmT2o4bU5LWk5NU3pUczI1UXlrVDk4eGppYWRQbE1FdTRKWTBpU2tHWnR1bXM?oc=5",
+      "source": "Caixin Global",
+      "date": "2026-01-08T17:25:00+00:00",
+      "description": "China Drone Sales Slump as Police Tighten Grip on Unauthorized Flights  Caixin Global",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-08T18:07:43.747589+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "1b7a7bf20a4a"
+    },
+    {
       "title": "MPD intercepts drone, other illegal items - The Union-Recorder",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGgxMkljMURYd2dMcDlrT09FSi1CXzhFN2lqSHZfLVhVZGdfNDZsYk80S0pQem56RDlVZTVtLWwzNmJrcjZ3QnBoSlJUenE4UWlFbV9OSTRtVVh2VHV0cWNqOE5MYVVGdDc1UERXRTNyT3lzT0U0WFdWQTIyNUVLMWNSQ2Q?oc=5",
       "source": "The Union-Recorder",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "947d73b83bab"
-    },
-    {
-      "title": "Drone attack causes fire at Khor Mor gas field in Iraq - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aWXZjVjZaUHNWVGVoN0tZekZ5eFh4b251NE1ZeWxBbG9qM3hXR2dkeDlQa0llVFhGc3dJOXpYSkpXWC1fV1c4UVFYY3lvVGtjdHlOb2dTU1ZqamZy?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-11-27T15:26:08+00:00",
-      "description": "Drone attack causes fire at Khor Mor gas field in Iraq  The Jerusalem Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-27T20:05:23.032552+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "90432dd74fc0"
     }
   ],
-  "last_updated": "2026-01-08T16:08:13.170170+00:00",
+  "last_updated": "2026-01-08T18:07:44.326156+00:00",
   "total_count": 1000
 }
