@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "How Milledgeville police detect drone activity near state prison - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzhvbFN6NWdZSno0dXVwZ1U5RElqcHZKam1WM0x0WmhLSWVtQTJSQ3BDcGxBdTI1YTI1bDhBRkFKUW93YW96SHYybHFtNlpZV3FtT1RkYlpUVThwYlpRYjY4UjJaRldjVzM1bURvaWR5VVNZd3JDUzFabkRqMG8wZG1B?oc=5",
+      "source": "41NBC News",
+      "date": "2026-01-08T00:31:09+00:00",
+      "description": "How Milledgeville police detect drone activity near state prison  41NBC News",
+      "query": "drone prison",
+      "detected_at": "2026-01-08T09:09:26.008564+00:00",
+      "location": "near state prison",
+      "category": "smuggling",
+      "id": "3711a4da0169"
+    },
+    {
       "title": "Russia strikes Ukraine with 97 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeU5GUDVLTVdSSk1fSU90TGc1ZTVxYmRaQVB0dHNLOXN6bXBRNnlKTWt1dnd2ajdWci1sNDk4Y0JaUGRiaGtWWEFHdnBYS2ZKUnVMZmNyeWdFeDNFbkh1NkViZ2d6NDhyNUc3VTBwby0tVnFlcVNxTG1XUy1BNzhrYlIyejJSUURqX2N2d25NaWRTOUhfMVcxbVhhYw?oc=5",
       "source": "RBC-Ukraine",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "a4d91501c6a6"
-    },
-    {
-      "title": "Moldova complains of unacceptable intrusion of Russian drone - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWF9sajdDNk8weWJMck1JQmdjNkFoNlRnc0E3ZDVqQWw1M1VvODNvM012Z09EV0lndmFfQXdpVzR6N2FyYXRjTGxiSnNxZWxkUVNSaGZ4ZFYtdlJ6di1oTU5OQkRaTGpHOFJsZTZhWDViR1NvODBwRVBCVWVHbkVQb1ZnY2N4eThHd2JpcHdxQmxmNUVkMjNCLUlxRTQ?oc=5",
-      "source": "Reuters",
-      "date": "2025-11-26T21:28:43+00:00",
-      "description": "Moldova complains of unacceptable intrusion of Russian drone  Reuters",
-      "query": "drone incident",
-      "detected_at": "2025-11-27T19:04:51.081782+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4a4d0c01595c"
     }
   ],
-  "last_updated": "2026-01-08T08:08:22.724106+00:00",
+  "last_updated": "2026-01-08T09:09:30.717639+00:00",
   "total_count": 1000
 }
