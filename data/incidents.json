@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "How Milledgeville police detect drone activity near state prison - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzhvbFN6NWdZSno0dXVwZ1U5RElqcHZKam1WM0x0WmhLSWVtQTJSQ3BDcGxBdTI1YTI1bDhBRkFKUW93YW96SHYybHFtNlpZV3FtT1RkYlpUVThwYlpRYjY4UjJaRldjVzM1bURvaWR5VVNZd3JDUzFabkRqMG8wZG1B?oc=5",
+      "source": "41NBC News",
+      "date": "2026-01-08T00:21:30+00:00",
+      "description": "How Milledgeville police detect drone activity near state prison  41NBC News",
+      "query": "drone prison",
+      "detected_at": "2026-01-08T03:34:10.626334+00:00",
+      "location": "near state prison",
+      "category": "smuggling",
+      "id": "97ce5fbb49b6"
+    },
+    {
       "title": "The New Airspace Risk: What Security Teams Need to Know About Drone Threats in 2026 - DroneShield",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDZXMG1zcjJac1gwYW1FSjIwYTB1bWMzRlhkMFlKMXJCYTFsTlY2SXhmMUxmcjlzVEhoSnZyMWFFTnRraFlTR2QtS25TMERaZ20zZHE5T3pSSDVidlBuZjNscVA1bTBpblVtYWV1Z2hsdmVmN1dKWXh2VmZVRkNCZngyZWVWWDkwcjRqM0NFLVRYTF9VR1FXS2c1UlFZY0ZxN01DenJPaDRJYTFzUWlGRUhR?oc=5",
       "source": "DroneShield",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "551a9d0b8303"
-    },
-    {
-      "title": "1,600 Chinese Drones Sold In Single Dubai Deal While US Debates Ban - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMX3hMNnVHZHN0LVQ5MWUwbHNlMzJKeU1aQlJYSzB6NmNJbEdlNnF6NUhmVmpUc0tnVmtZbnZHRHZoc0JPY1hEUWV2NTJVVmd4cjJ4Z1AwVGt6cUNFMVdZVzBKWWYxd1h0RFdkNkV5REVYUQ?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-11-27T16:43:02+00:00",
-      "description": "1,600 Chinese Drones Sold In Single Dubai Deal While US Debates Ban  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2025-11-27T17:04:58.330772+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "04fbe1366e4c"
     }
   ],
-  "last_updated": "2026-01-08T02:42:33.085179+00:00",
+  "last_updated": "2026-01-08T03:34:15.348154+00:00",
   "total_count": 1000
 }
