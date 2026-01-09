@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "Over the past 48 hours, several significant drone-related incidents have been reported, predominantly involving terrorism and smuggling. Notable among these is a drone strike on Kyiv amid ongoing conflict with Russia, which has resulted in substantial power outages across Ukraine. Additionally, Ukrainian authorities are grappling with energy terrorism amidst severe winter conditions. In the U.S., law enforcement continues to adapt drone technologies for efficient operations, while incidents of drone smuggling, particularly related to prisons, are rising. Furthermore, proposed measures to study drone incursions during wildfires highlight the growing awareness of aerial risks. Overall, the incidents indicate escalating drone use in both offensive operations and criminal activities, reflecting a pressing need for regulatory responses.",
+  "totals": {
+    "terrorism": 3,
+    "smuggling": 5,
+    "crash": 2,
+    "other": 13,
+    "unauthorized drone": 3,
+    "airport": 2,
+    "drone arrest": 1,
+    "drone prison": 5,
+    "total_incidents": 26,
+    "by_category": {
+      "airport": 2,
+      "crash": 2,
+      "other": 10,
+      "security": 1,
+      "smuggling": 9,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 1,
+      "drone crash": 2,
+      "drone incident": 4,
+      "drone prison": 6,
+      "drone smuggling": 4,
+      "drone terrorism": 5,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Increased frequency of drone strikes and military applications in Ukraine & Russia.",
+      "incident_ids": [
+        "98480e54fe20",
+        "2ec778d79e47",
+        "5c98c3ea155f",
+        "7ee35a2dd378",
+        "7c0fa050e12d",
+        "ad69e6ebed54"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Rising instances of drone use for illegal transport of goods and contraband.",
+      "incident_ids": [
+        "15ad8855a18d",
+        "5297bcb0f818",
+        "47a70fb54b48",
+        "106fd83cacbc",
+        "b485260e2ba2"
+      ]
+    },
+    {
+      "topic": "Drone Incidents",
+      "rationale": "Frequent reports of drone-related incidents necessitating safety concerns and policy discussions.",
+      "incident_ids": [
+        "6a3e5e1d0373",
+        "3711a4da0169",
+        "ce2618683f9d",
+        "d5b6bd94afee"
+      ]
+    },
+    {
+      "topic": "Drone Policy & Safety",
+      "rationale": "Emerging legislative proposals and the need for regulatory measures on drone operations.",
+      "incident_ids": [
+        "e7c2145d300a",
+        "b373a0c800c1"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "98480e54fe20",
+      "headline": "Russia Strikes Kyiv with Ballistic Missiles after Drone Attack",
+      "one_sentence": "Russia retaliated with missile strikes on Kyiv following a drone attack on Putin's residence, heightening the ongoing conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2ec778d79e47",
+      "headline": "Ukraine Battles Energy Terrorism Amidst Deep Freeze",
+      "one_sentence": "Ukraine faces significant challenges due to energy-focused terrorism during harsh winter conditions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "15ad8855a18d",
+      "headline": "ParaZero DefendAir Proves 100% Effective Against Smuggling Drones",
+      "one_sentence": "ParaZero's drone defense technology has been validated in live demonstrations against smuggling drones.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "7ee35a2dd378",
+      "headline": "Fresno PD clears car crash investigations faster with drones",
+      "one_sentence": "Fresno Police Department utilizes drones to expedite car crash investigations.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "20c1e932038a",
+      "headline": "MPD intercepts drone, other illegal items",
+      "one_sentence": "Montgomery Police Department successfully intercepted a drone carrying illegal items.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones are reshaping the landscape of conflict and crime globally, with recent incidents illustrating both their offensive and illicit uses.",
+    "linkedin": "Recent drone incidents highlight an urgent need for policy updates and innovation in security measures to combat the rising threat of drone misuse."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-09"
+}
