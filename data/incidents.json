@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Gloucestershire Police using drones to stop illegal e-bikes - Heliguy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0xWQkt3Vl9sNmw1S2lITHlvYVg3Rk5abHd5empRRmMxbFVMWUF0ZHBfNVN2amFBeWtaSXpTRmp0bVRVMEtWZDJ5NWhwUEdXNlhIdzV3LUZkNDZ0aW9KZzc1djJvZXZmNEl3dEVwRUFTRWJBcUdpdlpkdXJQUk1xY096aU5DWG01M0VCZ0t6d3Z3TnM?oc=5",
+      "source": "Heliguy",
+      "date": "2026-01-09T13:33:06+00:00",
+      "description": "Gloucestershire Police using drones to stop illegal e-bikes  Heliguy",
+      "query": "drone illegal",
+      "detected_at": "2026-01-09T14:06:43.268649+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1a4a0b86b4bb"
+    },
+    {
+      "title": "Drone Attack Hits Russia-Bound Oil Tanker In Black Sea, Vessel Diverts To Turkey - Marine Insight",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU14ZmdKeGpfaG9XMHlaWXNBMzdkUkU4bVYzcGtsNTRMY1NGczdQTk5CQ25oM2xBMURGQlRWdnNVc1pOa2RKOFpyR2ZSYmdtYUcxWUZ4bEliMmk5dWt1NUNWU2RJazU3Tmk5ak5makZWLThtSzNwbFQxaGQ2cy1MVHVvcUZNd3ZHbnNWTUF5T1BTWDZfeWNYYVo0TW8xQ3hsWGI5Z3RxVFZxVWFhNmgxUWlKRGtWcTFsZEdicU1wWlpYZw?oc=5",
+      "source": "Marine Insight",
+      "date": "2026-01-09T12:58:32+00:00",
+      "description": "Drone Attack Hits Russia-Bound Oil Tanker In Black Sea, Vessel Diverts To Turkey  Marine Insight",
+      "query": "drone incident",
+      "detected_at": "2026-01-09T14:06:39.624629+00:00",
+      "location": "In Black Sea, Ve",
+      "category": "other",
+      "id": "00bf55c63bdf"
+    },
+    {
       "title": "Russia Strikes Kyiv with Ballistic Missiles after Drone Attack on Putin’s Residence - Defense Mirror",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EWnhyMmNoQkUwZjdtWnpLbzE4dWlGUUgzNTdXWUxDZk1qczltOVR5ekdySlVpSFppRmJWX29paVJxMmVGMUd4d2xBRzI?oc=5",
       "source": "Defense Mirror",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "3c628776a170"
-    },
-    {
-      "title": "Anduril Faces Repeated Military Drone Crashes During Tests - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWRKZFZncHVURlF2S3AzWm4wQlJ3ZVVXbHNYeTB4ZFpIck9fWjI0bjhPV2d6Z1lWTWg0bjI0cWhnVTk4Q3FSNHlMeDRiZjA1Y3pVaE9xS0VYWHhaVVlTdU1reXo2b0VhMlBPTEMzU3JJNjZvTG1LQk1idzIzYTh5T2xwUG1yNjN0VE1qOUttYWxwbW1maVgxNm52WWxwUQ?oc=5",
-      "source": "Technology Org",
-      "date": "2025-11-28T09:02:36+00:00",
-      "description": "Anduril Faces Repeated Military Drone Crashes During Tests  Technology Org",
-      "query": "drone crash",
-      "detected_at": "2025-11-28T10:06:26.828979+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d9b1afbd94d7"
-    },
-    {
-      "title": "Exclusive: US defense firm Anduril faces setbacks from drone crashes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnFhVTNnYzNFd3N3QVhRUWp3R3lPMmlIbV9CNXBMM2YxMUFuUEtpS3gyYndkRWQtck11UU1XZ3VPT01GQjhYcUt6ZGUxN3ZWSDRuSER6bFlGbmh5d2xyN0E2am5JbGNQbVZwckF1SUE2ZFVJTC05OGFhaEh5ZXlsVllLLXI5U2diXzU4WGNpNDF5OWRTRjlGenlZZHY1UzI4TER0V3ZMelpMX3RiRU9IT29WQzZJZw?oc=5",
-      "source": "Reuters",
-      "date": "2025-11-28T06:02:00+00:00",
-      "description": "Exclusive: US defense firm Anduril faces setbacks from drone crashes  Reuters",
-      "query": "drone crash",
-      "detected_at": "2025-11-28T08:08:12.965296+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "0b5c44cfcd45"
     }
   ],
-  "last_updated": "2026-01-09T12:10:16.871937+00:00",
+  "last_updated": "2026-01-09T14:06:45.916242+00:00",
   "total_count": 1000
 }
