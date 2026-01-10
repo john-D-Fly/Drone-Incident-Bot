@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "How Milledgeville police detect drone activity near state prison - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzhvbFN6NWdZSno0dXVwZ1U5RElqcHZKam1WM0x0WmhLSWVtQTJSQ3BDcGxBdTI1YTI1bDhBRkFKUW93YW96SHYybHFtNlpZV3FtT1RkYlpUVThwYlpRYjY4UjJaRldjVzM1bURvaWR5VVNZd3JDUzFabkRqMG8wZG1B?oc=5",
+      "source": "41NBC News",
+      "date": "2026-01-08T03:20:57+00:00",
+      "description": "How Milledgeville police detect drone activity near state prison  41NBC News",
+      "query": "drone prison",
+      "detected_at": "2026-01-10T01:34:20.264759+00:00",
+      "location": "near state prison",
+      "category": "smuggling",
+      "id": "85806289b719"
+    },
+    {
       "title": "Child rushed to hospital after being struck by crashed Kent Police drone - NationalWorld",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQy1ZaFlTVHYtYS1rNElxd3BTRzA3QlBZNFlZRXU3ZlhpeXdSeVNlU0pEU3dRZFE1T1ZFZkdZNVBEd3NtU0xZTXdVYU82QUcxMnB6TnBlX3g2UHNDdEllUXVoWVNWdnNaZXJTcFYxZFJEaVQ0MXJETmRhQXotcm9ZUWJCbmU5WlpEc0gxd0MyYmI4QQ?oc=5",
       "source": "NationalWorld",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6e50ee1891bb"
-    },
-    {
-      "title": "Iran Condemns Terrorist Drone Attack in Tajikistan - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5WUpya3RTSjAyaU9wSkQtS3N0cmFNTUJwTURCaFBVc2wwT0gtRDFsVXA2NE5zNENnbHNCYXhHM3hnU01kbnpuNzhsYU84ZHlFT0NGdERZRzdiWlZOZFozQW5McXo0dGR6cWdiWS1vSGFTX050UWRQNDZn?oc=5",
-      "source": "WANA News Agency",
-      "date": "2025-11-28T12:37:28+00:00",
-      "description": "Iran Condemns Terrorist Drone Attack in Tajikistan  WANA News Agency",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-28T19:04:39.852178+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "8aaf1a413e52"
     }
   ],
-  "last_updated": "2026-01-10T00:24:27.880609+00:00",
+  "last_updated": "2026-01-10T01:34:24.800842+00:00",
   "total_count": 1000
 }
