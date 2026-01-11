@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Oslo airport briefly closes one runway due to drone detection - Global Banking | Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanM4dDJoSlBBdXd4d3pLMnlRcGR2bHplZmd2ZzdZYUNpcTd6MG9KbmFIRG9nQlg5N01PSzJoVDhSdEdFNklDSklYOFl1V01URzRKdWF0THZ2ZlNSWE1PbGFTVzBpZ0hyWDdRMHVJSVBqUWJIMmc2STBHUDRyME1kajZiYy1UTkRDbkZVRU43VzI5UFJIOVV3MGVaUjhwbWxa?oc=5",
+      "source": "Global Banking | Finance",
+      "date": "2026-01-11T14:02:04+00:00",
+      "description": "Oslo airport briefly closes one runway due to drone detection  Global Banking | Finance",
+      "query": "drone incident",
+      "detected_at": "2026-01-11T14:05:04.516418+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c78db75e7c08"
+    },
+    {
+      "title": "North Korean leader’s sister urges Seoul to explain drone incidents - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmNma01DajJJUTJ3TUcwWUM2M2IyWjZmaldweHRUZEJ0RG1fSFdSWFF2MHdMRm9lSGloNVo4aDRKcEJ2YjZ0S19BRkc3ZmVkQlBaVVhSd0NXV0J4WndMMlFTeThMN0xUXzZIRnA3RWVCcGJaUDRLT3Jkb1VXVGlMeXZZTHloRXBQQmxmdmZhek5ONFFTQnkya3VidHNoYzVLbEJEakN1d3hsVEZhMHE2Qm5JS3Q?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-01-11T07:26:09+00:00",
+      "description": "North Korean leader’s sister urges Seoul to explain drone incidents  Anadolu Ajansı",
+      "query": "drone incident",
+      "detected_at": "2026-01-11T14:05:04.516418+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0853960ce229"
+    },
+    {
       "title": "Army foils drug smuggling attempt using drone across western border - Ammon News",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zN0JoSG83MDdpLTBrLVBoWXI3Sy1OWjduOS00Z0V6S2xhSDR4MktVaEk4RnBaSDZmYVBjcm91aEZwUFEzS3hHT3NCVHZwZw?oc=5",
       "source": "Ammon News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d495eecb13a1"
-    },
-    {
-      "title": "Kenosha woman in critical condition after crash into grain drill - TMJ4 News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDg0OFRDYTNOUXZGclBsNXRYR1JlU253NDA0UThmNy1hYkRmN01WYXdPT3FJYXdmdTRkV0lDeWY5dFVmbmdnelppV2ZGaS03dXAwUGI3RjROSUhhNHhxWVlEVXFjNy1QZTZjT2luYlRsZHE5OGRtZGNhWmZGNEZfeXdvY2kxQUxFQ25iYmYtcm9SUEtON2xrUnlfLXk5Y09fdUlxMUhIX0I?oc=5",
-      "source": "TMJ4 News",
-      "date": "2025-11-30T13:22:03+00:00",
-      "description": "Kenosha woman in critical condition after crash into grain drill  TMJ4 News",
-      "query": "drone crash",
-      "detected_at": "2025-11-30T14:05:00.693465+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3b2fb9195382"
-    },
-    {
-      "title": "Ukraine war latest: Ukrainian delegation in US for Trump peace plan talks as deadly Russian strikes hit Kyiv for second night in a row - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEdGbjd3ZTNHdWkxWFVNdnFpMm1hUGlROFVjLTZ3UWF3N3RhM3lVbWs0SlRVUVBhTlhRVE5Nano4ZnpJSmVSXzdDZEZqM1Q1c3ljX2NpUUozeDU2MTFNSkNsbWR3a2RocnktUGU0eFRSRnpPNThvWDV2T1ZEdjRDUl9RZFZsWjc2OERNUS16alpGRmxXYWJlUFRwam02eGhJYUtGU1I1MUJQc0VXWVhuZEFQQ0pkUm5ERUpHMVRISi1LTXItYktJS3hnZ00zRmc?oc=5",
-      "source": "Sky News",
-      "date": "2025-11-30T11:18:02+00:00",
-      "description": "Ukraine war latest: Ukrainian delegation in US for Trump peace plan talks as deadly Russian strikes hit Kyiv for second night in a row  Sky News",
-      "query": "drone terrorism",
-      "detected_at": "2025-11-30T12:08:21.865978+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e5c996a74e27"
     }
   ],
-  "last_updated": "2026-01-11T11:04:56.307238+00:00",
+  "last_updated": "2026-01-11T14:05:11.076373+00:00",
   "total_count": 1000
 }
