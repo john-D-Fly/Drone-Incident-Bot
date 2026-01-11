@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "DPRK official demands ROK clarify drone incident - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQakVFY2JTQnczOERaeXZlMmZTM1NCcDhRLTVXOEF2TlRaSGIxSTkzMmhtSm93OXVLcUd4S1praDVUdjJMMGRBRzRMeENLZFptdkdrOGk1U25CdGxVdmRoQWIzS0JlM1lodGxyeDNR?oc=5",
+      "source": "news.cgtn.com",
+      "date": "2026-01-10T22:53:09+00:00",
+      "description": "DPRK official demands ROK clarify drone incident  news.cgtn.com",
+      "query": "drone incident",
+      "detected_at": "2026-01-11T07:06:50.890249+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "35a772ba8249"
+    },
+    {
+      "title": "North And South Korea Clash Over Border Drone Incident - Evrim Ağacı",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0N1TXVkN1h2STNDTWxLSGRqZm96Q0swdXUxSXcwSXhwVWhjTTBCNTNldnJTd2ZJMUkzWlBmdEY0N1hWSVE1YVpjMG1qRE9WVFpqR3Bsd2NIUTN0ck8zM0RuLUhHMHVud0pSak9oX0s5UUlzUTJScmQtU2UyQlZqZVZjNDRHX3V5RFl1UXFrY3VYQQ?oc=5",
+      "source": "Evrim Ağacı",
+      "date": "2026-01-11T06:15:44+00:00",
+      "description": "North And South Korea Clash Over Border Drone Incident  Evrim Ağacı",
+      "query": "drone incident",
+      "detected_at": "2026-01-11T07:06:50.890249+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5a53d2f57915"
+    },
+    {
       "title": "Cheong Wa Dae reaffirms no intention of provoking N. Korea over drone incursion - Yonhap News Agency",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iUkR3OEFqWTMxNHFHQmtHOTVwQnNVanc1alh2Umppc2w0RTRvemgzamNBV1JGazlZU2NOMmttOFJjNjhsQjFXdEt5QWlrMG1iRTl4RDh1Z0FaZw?oc=5",
       "source": "Yonhap News Agency",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "54a8e3b3f3bb"
-    },
-    {
-      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
-      "source": "AOL.com",
-      "date": "2025-11-30T05:44:11+00:00",
-      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
-      "query": "drone airport disruption",
-      "detected_at": "2025-11-30T08:06:25.513030+00:00",
-      "location": "at Brussels airport",
-      "category": "airport",
-      "id": "f9a84912fb66"
-    },
-    {
-      "title": "Russian drones fly undeterred over Moldova and Romania - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
-      "source": "dw.com",
-      "date": "2025-11-29T09:00:32+00:00",
-      "description": "Russian drones fly undeterred over Moldova and Romania  dw.com",
-      "query": "drone incident",
-      "detected_at": "2025-11-30T08:06:23.349895+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b91d038e41dd"
     }
   ],
-  "last_updated": "2026-01-11T06:08:19.756763+00:00",
+  "last_updated": "2026-01-11T07:06:56.315783+00:00",
   "total_count": 1000
 }
