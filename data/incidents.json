@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Oslo Airport Runway Temporarily Closed Over Drone Sighting - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGd4UWxvVnBXU0E2eUp1cnkwX3J0c09qd2lzVHRSLXF2VUEzUHBQNnIxOTNtVzY4WjZYQjlTb2FnUGRGMXlKNnYxZWNNaGRFRF9LWGtJOHlCNlpvYzJ1U2FyN1FWQXpWd3BGeHR2NW1zZjd3clFvY2MwdllmdG1lN2VrSHNXY1pWSE9lWjg0aXXSAZYBQVVfeXFMUEx0U2VtRll5bGpzLTd3MVpDUHVlN0JtaWhHeExnV0R6bWdUdkU3Smh5eG42X213SGRKOWxuWWNZemRJMkJnaDREYjVndnBiaVZmRkxmY0Z6U0RjUnhEYm96NWpidWdRcVl4T0ZRNE1BNkk3UjhhU05fSU5hVVBSQVRKWHZjMWFfd3VOQVYtZjBlUE1wV3dn?oc=5",
+      "source": "mezha.net",
+      "date": "2026-01-11T18:58:07+00:00",
+      "description": "Oslo Airport Runway Temporarily Closed Over Drone Sighting  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2026-01-11T19:04:46.236568+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5c1efd9518a2"
+    },
+    {
       "title": "Army foils drug smuggling attempt using drone across western border - Ammon News",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14WlZwRjI5VU41VHBnZk9tR3NrdnM0dUo4b2dtOEZKck5YeVVfTVFndU1laGJIY3d2UERFZ1ZqLWxmOHBlRzlBVWJET3F5Y3M?oc=5",
       "source": "Ammon News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "951855cd3071"
-    },
-    {
-      "title": "Moldova Briefly Shuts Airspace After New Drone Breach - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTDk2di1TZXF1Zm9mN01oV1Bodk95dkkxVzU0SVRxODR1a1VUeThZMTdzcjVXWEI1eGlxMVFvOFE2eUM0S3pHeXAyTk5WV1Rwc2hJY0xSZUVQWVhWVzdqUmlwNGlEVnExTHktdUhSNEFoSzNSQ1YyaHJqRnJmM2vSAYQBQVVfeXFMT2JfOEJzTHJjX015YU5CRTB5YzgwdzYwUWJxUHpGWHg0VENyOVZ2c0ZoNmdKZ08ybEVWRS1kRlNfaFNzeEc3bFphNUVKeHppSGdDVjZOTzBxYW4taUhycEFMY1BkODRsMU9RZUk0ZWd1UE1iMzVINXM2OWtma1czMlNuWUw1?oc=5",
-      "source": "The Defense Post",
-      "date": "2025-11-30T15:58:38+00:00",
-      "description": "Moldova Briefly Shuts Airspace After New Drone Breach  The Defense Post",
-      "query": "drone incident",
-      "detected_at": "2025-11-30T18:07:03.312717+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "68eb98c9b7fb"
     }
   ],
-  "last_updated": "2026-01-11T18:07:49.797621+00:00",
+  "last_updated": "2026-01-11T19:04:52.999705+00:00",
   "total_count": 1000
 }
