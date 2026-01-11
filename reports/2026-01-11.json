@@ -1,0 +1,121 @@
+{
+  "narrative_summary": "In the last 48 hours, various drone incidents have been reported, including smuggling attempts across borders and increased tensions between North and South Korea. Multiple cases of drug smuggling via drones were thwarted in Jordan and near the northern border, indicating a growing trend of using drones for illegal activities. Simultaneously, diplomatic tensions escalated as North Korean officials demanded clarifications regarding drone incursions from the South. A tragic drone crash in Kent resulted in a child being injured, highlighting the risks associated with drone operations. Additionally, attacks against ships in the Black Sea, carried out by Russian drones, underscore the ongoing geopolitical implications of drone technology in conflicts. Lastly, illegal drone activity near prisons continues to pose threats to security, calling for enhanced policy measures.",
+  "totals": {
+    "smuggling": 5,
+    "other": 30,
+    "terrorism": 4,
+    "crash": 5,
+    "unauthorized drone": 2,
+    "security": 1,
+    "total_incidents": 48,
+    "by_category": {
+      "crash": 5,
+      "other": 33,
+      "security": 1,
+      "smuggling": 8,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 1,
+      "drone crash": 4,
+      "drone illegal": 5,
+      "drone incident": 18,
+      "drone prison": 2,
+      "drone smuggling": 7,
+      "drone terrorism": 9,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple incidents of drone smuggling attempts indicate a trend in illegal activities.",
+      "incident_ids": [
+        "fd1a8163394f",
+        "9f9a88cabf48",
+        "64efeb623b98",
+        "720dd1a1d567",
+        "11f3f3eca7be"
+      ]
+    },
+    {
+      "topic": "North-South Korea Tensions",
+      "rationale": "An increase in diplomatic tensions between North and South Korea linked to drone incidents.",
+      "incident_ids": [
+        "35a772ba8249",
+        "5a53d2f57915",
+        "34eaad0b7db8",
+        "df482bfd9855",
+        "ab19b82c8e95"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "fd1a8163394f",
+      "headline": "Army foils drug smuggling attempt using drone across western border",
+      "one_sentence": "Army officials thwarted a drug smuggling attempt via drone at the western border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9f9a88cabf48",
+      "headline": "Army foils drone drug smuggling attempt at northern border",
+      "one_sentence": "Authorities intercepted another drone drug smuggling attempt at the northern border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5a53d2f57915",
+      "headline": "North And South Korea Clash Over Border Drone Incident",
+      "one_sentence": "Clashes reported as North Korea responds to alleged drone incidents from South Korea.",
+      "risk_tags": [
+        "tension"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "64efeb623b98",
+      "headline": "Jordan’s Southern Command thwarts drone drug-smuggling attempt",
+      "one_sentence": "Jordanian authorities successfully thwarted a drone operation intended for drug smuggling.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c93258ebb1b7",
+      "headline": "Illegal drone shot down at nuclear submarine base",
+      "one_sentence": "An unauthorized drone was shot down at a nuclear submarine base, raising security concerns.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8906caee6981",
+      "headline": "Child rushed to hospital after being struck by crashed Kent Police drone",
+      "one_sentence": "A child was injured when a police drone crashed, highlighting risks of drone operations.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents include thwarted smuggling attempts and escalating tensions in Korea. #DroneSafety",
+    "linkedin": "In the last 48 hours, drone activities spotlight increasing smuggling attempts and geopolitical tensions, emphasizing the urgent need for robust safety regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-11"
+}
