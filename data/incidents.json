@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Cheong Wa Dae reaffirms no intention of provoking N. Korea over drone incursion - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iUkR3OEFqWTMxNHFHQmtHOTVwQnNVanc1alh2Umppc2w0RTRvemgzamNBV1JGazlZU2NOMmttOFJjNjhsQjFXdEt5QWlrMG1iRTl4RDh1Z0FaZw?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-01-11T05:38:45+00:00",
+      "description": "Cheong Wa Dae reaffirms no intention of provoking N. Korea over drone incursion  Yonhap News Agency",
+      "query": "drone incident",
+      "detected_at": "2026-01-11T06:08:13.444717+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b3f42d4cbec7"
+    },
+    {
       "title": "Kim Yo-jong Demands Explanation on South Korean Drone Infiltration - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHZ0RjRzU0VqdFRGMkNXc3ZyTzJ5TTBkVFhkWEEyOTUwSG1Ca2NIUkhZV2c2dmZvaVl4MjRaYWx5ZmhXYzBDajhmbU9CMWlKVUZPVi1rV1NtbzJ1WUQyUEdJWU1hd1JjdFpSdm4xbTJPYjFmVkx3VnlDal9INHZ4MExNeDVXMTBV?oc=5",
       "source": "조선일보",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b91d038e41dd"
-    },
-    {
-      "title": "IDF: Troops thwarted attempt to smuggle weapons into Israel from Egypt by drone - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzB3clEyTnVQOWNFSXBpWURyZFdiX19TbktqSWwxWTFrejJ2UzlwWmxOaG5scUlPN2Z0aXJaT0V1OXMyYXBDYUhPemhRdFpNY3UwLUJDc3NXMnNvYlFwVXVDbi1HSWNuN0tLZlhGdC03NGdfYTBVemhQc1RLRDNsOFotVTR4M0dTaWxnZDBsLUpIVldFMGdpenZEZXp1dEJIOXhVaVB1MW1wc1hvaXBCanJscUJxM1VUb3A0THpadFZGZw?oc=5",
-      "source": "The Times of Israel",
-      "date": "2025-11-30T06:26:30+00:00",
-      "description": "IDF: Troops thwarted attempt to smuggle weapons into Israel from Egypt by drone  The Times of Israel",
-      "query": "drone smuggling",
-      "detected_at": "2025-11-30T07:05:28.871136+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2670036bbca7"
     }
   ],
-  "last_updated": "2026-01-11T04:24:11.352926+00:00",
+  "last_updated": "2026-01-11T06:08:19.756763+00:00",
   "total_count": 1000
 }
