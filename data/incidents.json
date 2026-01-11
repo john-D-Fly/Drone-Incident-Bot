@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Army foils drug smuggling attempt using drone across western border - Ammon News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zN0JoSG83MDdpLTBrLVBoWXI3Sy1OWjduOS00Z0V6S2xhSDR4MktVaEk4RnBaSDZmYVBjcm91aEZwUFEzS3hHT3NCVHZwZw?oc=5",
+      "source": "Ammon News",
+      "date": "2026-01-11T10:43:15+00:00",
+      "description": "Army foils drug smuggling attempt using drone across western border  Ammon News",
+      "query": "drone smuggling",
+      "detected_at": "2026-01-11T11:04:51.346028+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "fd1a8163394f"
+    },
+    {
       "title": "Army foils drone drug smuggling attempt at northern border - MSN",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGNJWUhGZ2RDTnpNX1pzOGFXY3hvNTZPUkFXWEViUjVtRmVqNWxFQ095VFhfeDVCaktpUm9Vb0FiWE1mc19Vd3VFSjZXbE1HdTlYdFM0SUdrbDV6aU9CYUVRb2ZvN3JTWURSemFhUWhpT01VQktUS3RUa19WNXI0REhtT3RQTWt5TzItVW1TYzZ0X2FwZVI4cWpQQjhpSmtoa2lVRUFuNkExMXM?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e5c996a74e27"
-    },
-    {
-      "title": "Russian drones fly undeterred over Moldova and Romania - DW",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanAzV1NVb252a1RGUmlGaVlEbEE5WmhSQjZnMlB3b3ZSSm5hbHJIOUdxM0pMb0lDSDltNkF4TGF4YjZZTXVJMjdjU25Ub0FZMy1weHNqQUFsMWQtWTI2aWV2MTBoUWN6d2tGazhLV3VaZURWa29hd05CZEU0UnV0RXRWTkkyYzVNM2lLZ2xZdjbSAZABQVVfeXFMUFJSbGpfT1hLQUFNMzA5dERxWVg4Qlh0RnlFa3pZRHlQWjA5cmxHc2hsSG94QTBZTHUxQ2RUMmlOTlVncHRVcjJ6R01RandZMy1MeW9GdDBMXzlVU28zdGpVRGRxaHpqWllFOFBFaFI4Z01MVENCQkhXUUVuNGs2X0tzNHpFdGctYVdkbUR5Umln?oc=5",
-      "source": "DW",
-      "date": "2025-11-29T19:00:59+00:00",
-      "description": "Russian drones fly undeterred over Moldova and Romania  DW",
-      "query": "drone incident",
-      "detected_at": "2025-11-30T11:04:44.231755+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a7c95ea6c474"
     }
   ],
-  "last_updated": "2026-01-11T09:06:20.583990+00:00",
+  "last_updated": "2026-01-11T11:04:56.307238+00:00",
   "total_count": 1000
 }
