@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Parks Canada reminds Cochranites to leave your drone at home - CochraneNow",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbU1YZUV3VmotYzhhNTM3eXJoR1NucWd4cUZmSGdwRVBHSjZTbS1zazNSc0pmMTJmbktJN0FEbzJic2drVWRsSXJtQ2t1VVJRWGotVkl4cU1xckxIZ3FMM2MwRzdCM0RveFhmRlZWRGNrSThEU2JHbkp4elQxWDdFZDdlMWotWjNDU2U3cUs2RnJSRWNJS20xTw?oc=5",
+      "source": "CochraneNow",
+      "date": "2026-01-12T13:24:15+00:00",
+      "description": "Parks Canada reminds Cochranites to leave your drone at home  CochraneNow",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-12T14:08:37.432894+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "28a9910acf12"
+    },
+    {
       "title": "Illegal Shooting in Washoe County Caught on Drone - KKOH-AM",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNy1RWGdhMVVSMVdfWFpPeExwYW5BbG4wZlBVZnhIajE5WC14eS10MVo5a0J5VDFrT2JrTlpJN3R3ZmQ3RXl2ZUFkQzVxWWNLMmVDeEZnNWo2Nk9iWTBzRV96VDNSRU44eWNsZXZiSHVrSG5STXBJcS1WS3R5QWhFVjZLc2x3ZmlyOUE?oc=5",
       "source": "KKOH-AM",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "30981763cb05"
-    },
-    {
-      "title": "US allegedly preparing UAV strikes in Nigeria as covert ISR flights reported - Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzZnSXVHWU5oX2t4MkpCWGRzWHdlU2ZLWEtXb3ZvS2x1QXUzQWoyWTRoSUdORHN2M2hQcjBOREZycmZNZVlMY3dMc25SSU05a3JudTkteUN3YUM2cXdNc2o3LTNzYXZXR2JQMW51bnBsVzhFblRpNEViaWsxazFnQWJEQ1hmeWVKUWRrRk5GeFNEd2NTRG85U0JNZmRhWGRkNXZMMF9ibGxRck9WX2xNLThXWQ?oc=5",
-      "source": "Businessday NG",
-      "date": "2025-12-01T04:23:35+00:00",
-      "description": "US allegedly preparing UAV strikes in Nigeria as covert ISR flights reported  Businessday NG",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-01T05:12:08.196543+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "228c445bea9c"
     }
   ],
-  "last_updated": "2026-01-12T13:19:20.837890+00:00",
+  "last_updated": "2026-01-12T14:08:38.200692+00:00",
   "total_count": 1000
 }
