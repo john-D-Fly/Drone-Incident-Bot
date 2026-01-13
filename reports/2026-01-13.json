@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant number of drone-related incidents have emerged across various regions, highlighting security breaches and law enforcement challenges. Notably, drones were sighted along the India-Pakistan border, raising security concerns, while Georgia witnessed a deadly clash in a prison linked to drone activity for smuggling contraband. In parallel, Oslo airport temporarily closed a runway due to drone detection, emphasizing airport safety protocols. Additionally, tensions persisted on the Korea Peninsula with North and South Korea exchanging accusations following drone incidents. The geopolitical landscape is increasingly impacted by drone usage, whether for smuggling, surveillance, or military applications.",
+  "totals": {
+    "arrest": 5,
+    "smuggling": 3,
+    "other": 18,
+    "security": 4,
+    "terrorism": 2,
+    "airport": 3,
+    "crash": 1,
+    "category_summary": {
+      "arrest": 5,
+      "smuggling": 4,
+      "security": 5,
+      "incident": 15
+    },
+    "total_incidents": 32,
+    "by_category": {
+      "airport": 3,
+      "arrest": 3,
+      "crash": 1,
+      "other": 16,
+      "security": 4,
+      "smuggling": 4,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 1,
+      "drone illegal": 2,
+      "drone incident": 14,
+      "drone prison": 1,
+      "drone security breach": 3,
+      "drone smuggling": 2,
+      "drone terrorism": 2,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Security Breaches",
+      "rationale": "Multiple incidents involved drone sightings at borders and airports, indicating gaps in security measures.",
+      "incident_ids": [
+        "358b57c981a6",
+        "ee81ac86a5f0",
+        "c31fd6f18026",
+        "c576a2328634",
+        "02a638a11162"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "A series of prison incidents linked to drone smuggling have highlighted increasing contraband issues.",
+      "incident_ids": [
+        "21a1a82fe67e",
+        "35d7cd2238e5",
+        "3148208eebc5"
+      ]
+    },
+    {
+      "topic": "Military Tensions",
+      "rationale": "Escalating tensions on the Korean Peninsula due to drone violations and military deployments.",
+      "incident_ids": [
+        "9a1abf905368",
+        "cd793e10dd39"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "1754862e98fc",
+      "headline": "Duke Researchers Deploy Drones for AED Delivery in Cardiac Arrest Study",
+      "one_sentence": "Duke researchers utilize drones for emergency medical deliveries in a cardiac arrest study.",
+      "risk_tags": [
+        "medical",
+        "technology"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "358b57c981a6",
+      "headline": "Drone spotted on India–Pakistan border in Jaisalmer",
+      "one_sentence": "A drone was reported hovering over a thermal power plant on the India-Pakistan border.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [
+        "India",
+        "Pakistan"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "21a1a82fe67e",
+      "headline": "Deadly prison clash amid contraband, drone surge in Georgia",
+      "one_sentence": "A violent clash in a Georgia prison is linked to an increase in drone activity smuggling contraband.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c31fd6f18026",
+      "headline": "Oslo airport briefly closes one runway due to drone detection",
+      "one_sentence": "Oslo airport temporarily closed a runway following a drone sighting in the area.",
+      "risk_tags": [
+        "airport safety"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "a16a1942d8a3",
+      "headline": "South Korea Probes Drone Incident After North Korea Airspace Claim",
+      "one_sentence": "South Korea investigates drone incidents allegedly linked to North Korean airspace violations.",
+      "risk_tags": [
+        "security",
+        "international relations"
+      ],
+      "countries": [
+        "South Korea",
+        "North Korea"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Notable increase in drone incidents over the past 48 hours, with significant security and contraband implications.",
+    "linkedin": "Analysis of recent drone activity highlights security threats and operational challenges against smuggling and unauthorized airspace incursions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-13"
+}
