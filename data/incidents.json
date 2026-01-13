@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "DHS Creates Drone Office, Finalizes $115M Counter-UAS Funding - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1VGxsOFJaLWlzSFc3cElNRjJZT3JVcVVjOWNMV2ViRlB1VmVLeG1QM2hLQjF6RC1NOExMVmd5SW84dFo5UmhTcER3TXduS0hZYXBsQ0tXd1ZmM3Jrbmc5STU4STJYcEhlMGRVQ2RLSlNvSXlQdlRGSg?oc=5",
+      "source": "AVweb",
+      "date": "2026-01-13T15:06:49+00:00",
+      "description": "DHS Creates Drone Office, Finalizes $115M Counter-UAS Funding  AVweb",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-13T16:09:17.810817+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b278ec346ff8"
+    },
+    {
       "title": "‘A growing threat’: Northumberland OPP call on public to help combat illegal drone activities near Warkworth Institution - 93.3 myFM",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdjJydHZ6Y0M2LWtrYXdFU2lQQS1Hb19HMFZYUzhYYkk3ZTlrcHZ1QnBSbkFFbmMzVUtkdnUxRGsza3RQZmJneXR4cFJ0M0RJLVI3ZlhOV1dJLWJZYXhOSUx3c0ZYdV9XMUY0OTBRYWp6aW9nRHZNX0libTcweGNUSE9nX1JmX1ZSVFVsLTVSbTlCajhWNFZMSXhsUWx0WlVvRkpvYzlubTNNWkZ3My15UGw1V3N0aHVmU3JXVHdPVmp2RlNGOXBoZ2xnQmxpRGIwOHBielFzbDNoRERBcTk0RlpiYzh6dG1ETVU1VnVyNHg4UQ?oc=5",
       "source": "93.3 myFM",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c764c6f62fc3"
-    },
-    {
-      "title": "Drones a threat to prison security - Rockdale Citizen",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGRQQlJaTklJSjh1YXJsaXJQS1JMT3F4bzZrOGl6V1dUazRFd0djb0JZWDB1bzM5QW9lb1RVZk1vNnkzZnpDeVlHWXhmN1NlYXY3MjA1MWVUT0p4Vk5KdXNYWW5WZnc3YWR4UVhoQS1iakdLeWdDLVk4X1hObWtOVGdYTDRwZlhvbjRTWEtBUFBtTDNPeWNOd1lsSlJzSWNicXVwWENoNXNlaW93dkY4Q3RvcmtsQlBwYXhxbENielRpQ2Q1QlE?oc=5",
-      "source": "Rockdale Citizen",
-      "date": "2025-12-01T22:38:00+00:00",
-      "description": "Drones a threat to prison security  Rockdale Citizen",
-      "query": "drone prison",
-      "detected_at": "2025-12-01T23:05:30.508601+00:00",
-      "location": "at to prison",
-      "category": "smuggling",
-      "id": "8efac698361e"
     }
   ],
-  "last_updated": "2026-01-13T15:07:30.731448+00:00",
+  "last_updated": "2026-01-13T16:09:18.484497+00:00",
   "total_count": 1000
 }
