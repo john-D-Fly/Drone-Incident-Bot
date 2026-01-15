@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Cracked part in fatal UPS crash flagged in 2011 by Boeing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTTZWTVRncm4yNnVpSE1wTG9BSmFTVmxISTA2S3VQWW9UOC12cW5Ia251NGFZdk5aNFFMSm1WaVJOUW52NFAwbUpmaTNHR2RNZzhUOEVQdFV3dUpyX0ZRR01HdTRJODVvNzl6LTRpbTd1SlVOY3F2UE1tanRnZ2EtYllJeXhJQ29FNFktbVRrTy1xUE8tZ1VhNlMyYmpEQ0N4Q0w4TWZxSjlDVzgwVFVPUUo1djNpUFBfcDIw?oc=5",
+      "source": "Reuters",
+      "date": "2026-01-14T21:34:06+00:00",
+      "description": "Cracked part in fatal UPS crash flagged in 2011 by Boeing  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-01-15T00:25:47.587069+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f49899390804"
+    },
+    {
       "title": "Suspected drone briefly halts Heathrow arrivals, causing knock-on delays - VisaHQ",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEFBNGhSaGlrMFAzbUU3Ny0wMVoyak5Pc3FKa3pYbzF3R1BUNW1teXRZWHFaNm5pbl8wZTQzZVRTeThIYk9mUUZlbklkNkY2OEFFQTJVM3hjTEZUZmNaNmh6bi1aUlhfV2psSG9HSXBFcEhfTUdyakhtNWxnZlpyOTBLRnJxcmxNZ3pLQnFDNUozQkQwSmN2UUdMM1ZpZmdtNzFXTEJSMU5yRTJHNVhyQUZmamQ?oc=5",
       "source": "VisaHQ",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "02f38ba6e717"
-    },
-    {
-      "title": "Lithuanian PM denies government involvement in Belarus drone incident - Caliber.Az",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHFMQUpSQ1A0TGx6dVJ6QjNXWDBoclE1T0ZCOHhtWVduT1dyU1lSRkttdUlDWVNpa21IcnJJVHVwZHpsVzVlZ1NmNENCYUZBeTluQ2dlNnluNXk4elg1NjlfbnJpYzhDTjhYNlhjNUdXYVV0ZlU0bkNSZC0yRWlRMjBkNndHQWk1UjA0S202YWYtOVhqVmZ2NFVNVkQ?oc=5",
-      "source": "Caliber.Az",
-      "date": "2025-12-02T13:49:09+00:00",
-      "description": "Lithuanian PM denies government involvement in Belarus drone incident  Caliber.Az",
-      "query": "drone incident",
-      "detected_at": "2025-12-02T22:05:19.361784+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "709d1a950570"
     }
   ],
-  "last_updated": "2026-01-14T23:05:52.286813+00:00",
+  "last_updated": "2026-01-15T00:25:54.453806+00:00",
   "total_count": 1000
 }
