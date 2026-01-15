@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have surfaced across several sectors and locations. Notably, disruptions at Heathrow Airport due to suspected drones have caused significant flight delays, highlighting security issues in air travel. Furthermore, there were multiple cases involving drones being used for smuggling operations at various federal prisons, indicating a persistent trend in contraband delivery methods. Additionally, a drone-led police operation resulted in the arrest of a wanted suspect by tracking him down in the woods. The situation underscores a growing need for effective drone regulation, particularly in managing unauthorized drone use, both in security and smuggling contexts.",
+  "totals": {
+    "airport": 8,
+    "other": 18,
+    "crash": 3,
+    "security": 1,
+    "smuggling": 6,
+    "terrorism": 4,
+    "arrest": 3,
+    "total_incidents": 49,
+    "by_category": {
+      "airport": 9,
+      "arrest": 1,
+      "crash": 3,
+      "other": 24,
+      "security": 1,
+      "smuggling": 6,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 9,
+      "drone arrest": 3,
+      "drone crash": 3,
+      "drone illegal": 9,
+      "drone incident": 15,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 1,
+      "drone terrorism": 4,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone airport disruption",
+      "rationale": "Multiple incidents at Heathrow point to security vulnerabilities.",
+      "incident_ids": [
+        "caffa2a82687",
+        "dbeb5ffeb737",
+        "eb37908f87c4",
+        "18ecdbe6c4f4",
+        "fe96136db6c5",
+        "fc55d58e0deb",
+        "fc500d13dd94",
+        "fc08213771d1"
+      ]
+    },
+    {
+      "topic": "Drone prison smuggling",
+      "rationale": "Consistent reporting suggests ongoing use of drones for contraband delivery.",
+      "incident_ids": [
+        "fe96136db6c5",
+        "bc8eb3fa38d0",
+        "95a2ffb797cb",
+        "3a0bb70b2c90",
+        "ebf869e63c53",
+        "151973fee5ae"
+      ]
+    },
+    {
+      "topic": "Drone-related arrests",
+      "rationale": "Drone technology assists law enforcement in tracking and capturing suspects.",
+      "incident_ids": [
+        "0d57b74fed0a",
+        "019c4fff2d8f",
+        "e24fe52dbb91"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "caffa2a82687",
+      "headline": "Suspected drones cause disruption at Heathrow airport with flights delayed",
+      "one_sentence": "Delays at Heathrow Airport were triggered by suspected drone activity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fc55d58e0deb",
+      "headline": "Drone used to try to smuggle drugs into Federal Prison in Grant Parish",
+      "one_sentence": "Authorities discovered a drone attempting to transport drugs into a federal prison facility.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "151973fee5ae",
+      "headline": "Corrections officials believe drone used to deliver ‘contraband’ items to Gravenhurst federal prison",
+      "one_sentence": "Drones are suspected of being used for delivering contraband items into a federal prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "fc500d13dd94",
+      "headline": "Heathrow Airport Flight Disruptions Due to Suspected Drones",
+      "one_sentence": "Flight operations at Heathrow were significantly affected due to suspected drone activities.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "18ecdbe6c4f4",
+      "headline": "Russian Drone Incident Causes Explosions in Central Lviv on January 15",
+      "one_sentence": "A drone incident in Lviv resulted in explosions, raising concerns about safety and security.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "78f84cf133e9",
+      "headline": "Californian Man Arrested After Drone-Assisted Police Pursuit",
+      "one_sentence": "Police utilized drone technology to successfully apprehend a suspect fleeing from law enforcement.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the last 48 hours, drone incidents have surged, disrupting flights, aiding in arrests, and furthering smuggling operations in multiple locations.",
+    "linkedin": "Recent drone incidents over the past 48 hours highlight increased challenges in air travel security, alongside ongoing issues with smuggling and contraband delivery."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-15"
+}
