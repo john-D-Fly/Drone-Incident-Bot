@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Military-Police Team Summons Civilian in North Korean Drone Case - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzh0aWJuOTZ2ZjNwTHRyUVNneUIwX0dmUDZzU0FMQ3NaTjd6Q1BTS3FEOW1fdzUtUklCX3QzaXo5NU5LR3BxM1J3OFR3WHU3R1gyT3JNUFZ1RFNlUU9XNlVHeU9HR1J6WWVEOUdoSnYyV09CZzRCdUZXa2JZeTV2aGRZc1pSUGZN?oc=5",
+      "source": "조선일보",
+      "date": "2026-01-16T09:03:06+00:00",
+      "description": "Military-Police Team Summons Civilian in North Korean Drone Case  조선일보",
+      "query": "drone incident",
+      "detected_at": "2026-01-16T09:08:26.128355+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8b912a572507"
+    },
+    {
       "title": "Russia strikes Ukraine with 76 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXJFY2F1UTNUeHlGNENTUjluVjJVSFlBclQ4dUNlbDRRbmVyLVdudjVuZmVUb00yZjBTQ1B4OWljeE44bXJ3Ny1TUExLeDNNOUduTlBTMVJtR19nSk9NWGhwRDZ1dHZUWm9DV1dHZ2pFZ3cwTXVoRkQ3SmJxVW5ueWVmM0tWcWVnbU51eUlmemR0Z0RRZEZrdHhtVQ?oc=5",
       "source": "RBC-Ukraine",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "317d31ac1843"
-    },
-    {
-      "title": "Iran-linked strikes push Iraq closer to Washington - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95S1RvbVVNWGRyc1FRX3JmUVN6RER5YUsyRmlhYlRYRC1Nanhsdldkbm54NVVVdHFWWElwSlF2QnRKamNXdHNXZ3dJWE5LemJlUzJlUlMwNEd0TEg5?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-12-04T06:44:24+00:00",
-      "description": "Iran-linked strikes push Iraq closer to Washington  The Jerusalem Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-04T15:06:59.379087+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bb2d3cb44e4b"
     }
   ],
-  "last_updated": "2026-01-16T08:08:11.046605+00:00",
+  "last_updated": "2026-01-16T09:08:32.469116+00:00",
   "total_count": 1000
 }
