@@ -1,0 +1,146 @@
+{
+  "narrative_summary": "In the past 48 hours, numerous drone incidents have been reported across various regions, with significant activity in Ukraine, Egypt, and the United States. In Ukraine, Russia launched over 190 drones across separate attacks, raising concerns about terrorism in the region. Israeli Defense Forces intercepted drones suspected of smuggling activities along the Egypt border, highlighting ongoing smuggling threats. In the U.S., several arrests were aided by drone technology, showcasing its growing utility in law enforcement. Additionally, incidents of unauthorized drone use have drawn attention to regulations as Massachusetts allocates $21.2 million to combat such activities ahead of high-profile events like the World Cup. This proliferation of drone incidents underscores the pressing need for enhanced security measures globally, especially in areas vulnerable to smuggling and terrorism.",
+  "totals": {
+    "other": 25,
+    "smuggling": 6,
+    "crash": 4,
+    "arrest": 8,
+    "security": 3,
+    "terrorism": 5,
+    "airport": 2,
+    "interference": 1,
+    "total_incidents": 52,
+    "by_category": {
+      "airport": 1,
+      "arrest": 7,
+      "crash": 3,
+      "interference": 1,
+      "other": 28,
+      "security": 2,
+      "smuggling": 9,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 12,
+      "drone crash": 4,
+      "drone illegal": 6,
+      "drone incident": 8,
+      "drone prison": 5,
+      "drone smuggling": 4,
+      "drone terrorism": 6,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone terrorism",
+      "rationale": "Increased drone usage in attacks and military operations.",
+      "incident_ids": [
+        "47a6afe0d50d",
+        "689164072615",
+        "69720632be9c",
+        "greece_war"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Incidents highlighting the use of drones for smuggling activities.",
+      "incident_ids": [
+        "de2e5441589e",
+        "af6e533762cb",
+        "6689642f4abf"
+      ]
+    },
+    {
+      "topic": "drone arrests",
+      "rationale": "Drones facilitating law enforcement operations.",
+      "incident_ids": [
+        "f863cee0d13f",
+        "94f9e2160117",
+        "a744e9282713"
+      ]
+    },
+    {
+      "topic": "unauthorized drone use",
+      "rationale": "Focusing on illegal flights and security threats.",
+      "incident_ids": [
+        "b36b276e89e0",
+        "0c7dca9d277e",
+        "d02653c754ee"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "47a6afe0d50d",
+      "headline": "Ukraine: Russia launched 115 drones overnight",
+      "one_sentence": "Russia launched a total of 115 drones in an aggressive overnight strike in Ukraine.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "de2e5441589e",
+      "headline": "IDF intercepts drones smuggling weapons across Egypt border",
+      "one_sentence": "Israeli forces intercepted drones suspected of smuggling weapons from Egypt, highlighting ongoing risks.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "93ecf85dd0d9",
+      "headline": "Search and rescue - Ambulance service deploys drone for first time at crash",
+      "one_sentence": "An ambulance service utilized a drone for the first time in a crash-related rescue operation.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "eae5bd2ab352",
+      "headline": "Ukraine Arrests Russian Agents Accused of Plotting Drone Attacks in Odesa",
+      "one_sentence": "Ukrainian authorities arrested Russian agents linked to planned drone attacks in Odesa.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b36b276e89e0",
+      "headline": "Mass. awarded $21.2m to combat unauthorized drone activity ahead of World Cup",
+      "one_sentence": "Massachusetts has allocated $21.2 million to enhance security against unauthorized drone activity before the World Cup.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "597b95d37a04",
+      "headline": "Anne Arundel County police: Drones help lead officers to track, arrest suspects",
+      "one_sentence": "Drones played a crucial role in tracking down and arresting suspects in Anne Arundel County.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight significant risks from terrorism and smuggling, showcasing both challenges and advancements in law enforcement.",
+    "linkedin": "The latest drone-related activities spotlight growing security challenges in the face of increasing drone use for criminal and terrorist purposes."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-17"
+}
