@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukraine: Russia launched 115 drones overnight - breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0ZYVjBxeTRqbEpQRHJud2N5RmdWaHNESWdNMUl1aHRUMUVPeEtiLUk4MDVWZmJFdjlkZTJPZzVobFdCZjIwQVVLOEZnbGlTUHlCSFU4WUs3TUUwRldMSW9SNXJRMFdOMXFOYVVyMkpCaWNCUEc1Z0pPSjZFRkoyVU5TbHhkMUp4WWJwcUYwTEVBSHJV?oc=5",
+      "source": "breakingthenews.net",
+      "date": "2026-01-17T07:50:00+00:00",
+      "description": "Ukraine: Russia launched 115 drones overnight  breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-17T13:12:51.607912+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "47a6afe0d50d"
+    },
+    {
+      "title": "IDF intercepts drones smuggling weapons across Egypt border - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKeXhET3ByU0g3b1l4SUxJRzVlOVNoakNTaG1sWTJXckpqNjhWQlhOT1B1UmFuTHpfZkt5TVFiMDNYQW9ETmhVQnJ1N2F1aWhzdXVTMUJJVQ?oc=5",
+      "source": "Ynetnews",
+      "date": "2026-01-17T12:29:21+00:00",
+      "description": "IDF intercepts drones smuggling weapons across Egypt border  Ynetnews",
+      "query": "drone smuggling",
+      "detected_at": "2026-01-17T13:12:47.834339+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "de2e5441589e"
+    },
+    {
       "title": "Drone strikes in Ukraine's Chernihiv cause injuries, property damage - PHOTO - Caliber.Az",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGVhWlNHS2tjc1ZSS1BILXpjN0RSWGxodEM2VGFXN0YxcGNYd1d6WmxMTklCVVcwNWZxUi1YZjlzZFJ5MjRqMGw3dVVUTDJ1YTU3UEZTTEVYTjNCVk1JZGpSbXhZSVBrN0xpbk56UHR6OWZoWHFxRHlfM1pzVkdIQThySXFzZzVfM2JZbDBUQ1k4TkM2V3pBMlJB?oc=5",
       "source": "Caliber.Az",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "38e716e1a451"
-    },
-    {
-      "title": "France intercepts illegal drone overflight at nuclear submarine base - Midland Reporter-Telegram",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1lLQTIyTUNuNWlQWFFpVEIxZjhmeEtQSWxJdV96TG1uQktiTWtwQmR6bjNRT1NtcEJhVlRJN0N2NThqOWQ2a292bVNsQzRWQ25DSFhOSndFU1BIeUhZYnNDZnViY1ZsMk1HOUEwUnVsaVQyX0ZRRXV5c0NjNXVrM0x0cHI2SzJiZG5yVC1hTzJVblNhMU9RMVoycXBDWE5WT0JBWjd2QQ?oc=5",
-      "source": "Midland Reporter-Telegram",
-      "date": "2025-12-05T15:47:36+00:00",
-      "description": "France intercepts illegal drone overflight at nuclear submarine base  Midland Reporter-Telegram",
-      "query": "drone illegal",
-      "detected_at": "2025-12-05T16:06:44.249696+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9d5f7e781e7c"
-    },
-    {
-      "title": "France intercepts illegal drone overflight at nuclear submarine base - The Sun Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWmdfVUVqNENDa0NuQkNxUEVmT3BVNEVQZ3gtR1lscGZRaG5zRXRmd3lROUVsaU93VWZBNnBPR0YydWZ2aFdkakZiM0t4Tm14SVVDZ29CcmNidy1TazJUSGRPbnpXc2dpdEZ5SW9ueWdNXzNwazZjZ3lBRjV6R2RYRV93X01XWm9Id1Z6RHFab3hrTWtYeU5RbWtIZm1sWGRMOTZTMGtBd3pqazRlZXA3MW04QUhLUkxweG1xZUZIZktWaTZmQ3l3WFFIRndzSDdPTml0QTc4TXh3M1pxdW9udjV2b3ZGeVJwRWhUdlFOT0I?oc=5",
-      "source": "The Sun Chronicle",
-      "date": "2025-12-05T15:31:28+00:00",
-      "description": "France intercepts illegal drone overflight at nuclear submarine base  The Sun Chronicle",
-      "query": "drone illegal",
-      "detected_at": "2025-12-05T16:06:44.249696+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2d837fa1a2ed"
     }
   ],
-  "last_updated": "2026-01-17T09:06:04.188863+00:00",
+  "last_updated": "2026-01-17T13:12:52.983716+00:00",
   "total_count": 1000
 }
