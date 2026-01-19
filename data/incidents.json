@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Former Yoon Administration Contractors Linked to Drone Sent to North Korea - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkhhZ1F4STZER005ZF83V19kbGdPQzBFVkNJS0VUTlR5WTJabkczX0U3N25DclhTbzR0TVF2ZGdGZkRCWnFtc3J4UVliYW5jQjNDUjBteWtyZlk2azhHQ0NFQ09iNlBNNkwzenpGODY0ZlhZVnk4ZEJfcGtaYUZNNDdHbTM2aVpn?oc=5",
+      "source": "조선일보",
+      "date": "2026-01-18T22:35:22+00:00",
+      "description": "Former Yoon Administration Contractors Linked to Drone Sent to North Korea  조선일보",
+      "query": "drone incident",
+      "detected_at": "2026-01-19T02:48:38.496954+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cec77ff4ab0e"
+    },
+    {
       "title": "Ukrainian drone strikes leave hundreds of thousands without power across Russian-controlled area - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm4yckJ2ZGYwdFdPdkVCcjl1cUtlTTFIRzVIYWdNTkxfbV9YemszQkhUVEgyVmlIV0k1eDRyWjF4RjI0N3o0STRSUXlCRGFWdThDNUlLbDE4Wm9yWDdRcE56Smx4VFpaUWF4dzdwaVBCODJ1Z3p0alE4OTF2eGhDaTNZV2VFRjVNYWE5NmxObkpuZTVhU3NOSm1Xc1FZNWdnVF93TDNvem1mVUxJUkdjZDh3aGZqSG5rTWdSbzAyV2k?oc=5",
       "source": "Fox News",
@@ -11987,20 +11999,8 @@
       "location": "Near Nuclear Sub Base",
       "category": "security",
       "id": "bfcac0f85608"
-    },
-    {
-      "title": "France intercepts illegal drone overflight at nuclear submarine base - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2NmZkx2R0UzYkVKSDlVWk1heFo4bk01RG9iWHpXcU1tMkpmX0RiX1JoYWpiemthQTh5WGpfN1IyZkxHZlBGb1FqZ3hDYm9KdHlUZFhQc21jR1k1NWRzYkxNaUdUTkI1NEdoMkdIS19CQWNGaXNtUk5wS3AxVlRJU1JUamVlQkhMajBuVjBjOHV4UFBQd0V2ekJGcVV2aF9wWEJ0cFMyNTZDeTJ1US1TWE1iQWs?oc=5",
-      "source": "KSAT",
-      "date": "2025-12-05T15:32:39+00:00",
-      "description": "France intercepts illegal drone overflight at nuclear submarine base  KSAT",
-      "query": "drone illegal",
-      "detected_at": "2025-12-05T22:05:10.891323+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2da69127d874"
     }
   ],
-  "last_updated": "2026-01-18T20:06:21.741754+00:00",
+  "last_updated": "2026-01-19T02:48:44.588479+00:00",
   "total_count": 1000
 }
