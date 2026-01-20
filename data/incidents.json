@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Lee orders probe, punishment over unauthorized drone flight into N. Korea - koreaherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWek9DLWdxYUt6cUJXdm93Yk80amFnTHhrWHV4U3FyWFFXRWJLYy12cmFSaTQ0anNzRzQ2T3g1VzJwQ1pMUmJkTHU0amYxN1dlYTMtVlAyVQ?oc=5",
+      "source": "koreaherald.com",
+      "date": "2026-01-20T05:51:04+00:00",
+      "description": "Lee orders probe, punishment over unauthorized drone flight into N. Korea  koreaherald.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-20T23:05:54.143975+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "8bf51401d630"
+    },
+    {
       "title": "Two Located by Drone After Cliff Accident Near Albion - kymkemp.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWczX2tPZ3VkYUZkaldmRUFvX2c1a0VZaTV1eHQ5N3Q0X0J3bTRreFhRZ3d4azM2UDJoc2xpdnVhOVN5Vzl1d3V0N3pfc3Vnbzcya3lGRGxEUUpTaDlybjNQeVN1T2NlcmlrX1Mzb2RhdElYcFFXYlFsN1lqeEpxLWJYY05uOWE3Vnh2emlB?oc=5",
       "source": "kymkemp.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b57e2d35bf91"
-    },
-    {
-      "title": "Unknown Drones Spotted Near Zelensky’s Plane in Ireland During State Visit - Букви",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejlUVFRXV0tMOGhfT1pIUENNOHl5QlFaTmZpQjRVOEV5MG0zRlM2LTZXbFhiMEZudE9LekFKd1J3YkxtYXFwenFoVWpVV0p2Q0tZZWNFWnhZbEdrSXhkckRTd05ETHRTd2VGenhlcGVxcmJ0WTJPak92Q2FOdmFIRFhEMGNjSWdTdmVic0VvVEVDTnY5eFlVTUFFSXV2LVNGRThGcHZn0gGrAUFVX3lxTFA2SHZqdFFIRjNOc0N6ZGw4b29sbmdZZHdkeS1kNVBTMWxtOHdiSmZIM18yM2M0dVhsOHQ3V1ZRY1AxaHhiR2JXNGpDT2U5dlVTRzFFRU04bjhKeERfM1FnNjdLbW9BVDJYNTRReHQ2b2NzMHI3WDl1d3phZU95VEhhRF84VExfRXBuUHJSWFpiTm5ib0dGRTR6aEpMUTZpM2VwcGFCUWVDWTRKOA?oc=5",
-      "source": "Букви",
-      "date": "2025-12-07T08:09:36+00:00",
-      "description": "Unknown Drones Spotted Near Zelensky’s Plane in Ireland During State Visit  Букви",
-      "query": "drone incident",
-      "detected_at": "2025-12-07T09:05:14.088578+00:00",
-      "location": "Near Zelensky",
-      "category": "other",
-      "id": "f9b7b01b6d2c"
     }
   ],
-  "last_updated": "2026-01-20T22:06:50.330382+00:00",
+  "last_updated": "2026-01-20T23:05:54.832229+00:00",
   "total_count": 1000
 }
