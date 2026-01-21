@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple drone incidents were reported across various regions, with notable occurrences in Spain involving drone footage of train crashes. In South Korea, unauthorized drone flights into North Korea prompted significant governmental responses, including investigations and calls for better detection systems to avoid escalating tensions. Drones were also implicated in prison smuggling activities in the U.S., highlighted by legislative moves to empower prison staff to disable smuggling drones. Additionally, drone sightings disrupted Munich Airport operations. The blend of crashes and unauthorized flights reflects ongoing challenges in drone regulation, especially concerning security and safety.",
+  "totals": {
+    "crash": 5,
+    "other": 20,
+    "smuggling": 3,
+    "airport": 2,
+    "arrest": 4,
+    "terrorism": 2,
+    "security": 3,
+    "total_incidents": 46,
+    "by_category": {
+      "airport": 2,
+      "arrest": 4,
+      "crash": 4,
+      "other": 25,
+      "security": 4,
+      "smuggling": 5,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 4,
+      "drone crash": 7,
+      "drone illegal": 1,
+      "drone incident": 18,
+      "drone prison": 5,
+      "drone smuggling": 2,
+      "drone terrorism": 2,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Incidents Reporting",
+      "rationale": "Multiple occurrences of drone incidents across diverse locations within a short time frame.",
+      "incident_ids": [
+        "8b922923f1c7",
+        "674e16d5f5ad",
+        "b992f337ad3c",
+        "c05e59a00ccb",
+        "8cb24fad8513",
+        "d6f61f198e59"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Policy",
+      "rationale": "New legislative measures proposed in response to ongoing drone smuggling into prisons.",
+      "incident_ids": [
+        "be0f9639a156",
+        "fff6f451aaa5",
+        "7aa264deb16a",
+        "4c2491b947c1"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Flights",
+      "rationale": "Incidents related to unauthorized drone flights causing governmental concern and investigations.",
+      "incident_ids": [
+        "8a9af2152680",
+        "d23f6b01bdfe",
+        "154efe412f17"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8b922923f1c7",
+      "headline": "Drone footage shows cranes lifting Iryo train wreckage at train crash site in Spain",
+      "one_sentence": "Drone footage reveals cranes lifting wreckage from a train crash in Spain.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "de87945596c9",
+      "headline": "Adygea incident caused by Russian air defence missile, independent media says",
+      "one_sentence": "An incident continues to raise alarms about drone and missile usage.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "be0f9639a156",
+      "headline": "Bill would let TN prison staff disable drones smuggling contraband",
+      "one_sentence": "New legislation aims to empower prison staff against drone-smuggling operations.",
+      "risk_tags": [
+        "smuggling",
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b992f337ad3c",
+      "headline": "Germany: Drone sightings disrupt Munich Airport",
+      "one_sentence": "Drone sightings have caused significant disruptions at Munich Airport.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "e4c930e77777",
+      "headline": "Lee orders unauthorized civilian drone flights into DPRK probe",
+      "one_sentence": "South Korea's government launches probes into unauthorized drone flights.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "twitter": "Drones continue to disrupt: from train incidents in Spain to unauthorized flights into North Korea, the landscape is changing rapidly.",
+    "linkedin": "Recent drone incidents across multiple regions highlight significant safety, security, and smuggling challenges as legislation and governmental actions intensify."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-21"
+}
