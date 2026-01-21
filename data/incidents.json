@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone footage shows aftermath of Spain's second train crash in a week - swiowanewssource.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQW5qZDJ0SWVObWdDTDcyYW5pNGlXZTNNbzJVT2hoS1hFMFNJQjItWEYxcjlnaW55dW52eDhfanJPUGZsV18yMjNrdGVteHdPcW1YdV9KYzVQYlRzUktJR1M2bDBnQ3VjUkdfVHhOak9kczMwbGtwQml2d2JvV0J1ak95Ynlqb3M?oc=5",
+      "source": "swiowanewssource.com",
+      "date": "2026-01-21T11:43:58+00:00",
+      "description": "Drone footage shows aftermath of Spain's second train crash in a week  swiowanewssource.com",
+      "query": "drone crash",
+      "detected_at": "2026-01-21T12:10:58.710242+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "674e16d5f5ad"
+    },
+    {
       "title": "Boeing chooses Drone Sky Defender C-UAS system to protect its manufacturing plants - Unmanned airspace",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUFNTbWJoZEQwWWkxOVUybGx3YVRNMEdrV0pLbS1aUWNwbkRZVC0xMjgtVVlaTVdwZS00QkxxWDhta1JacjQ4aFdqdHRjemw3ZTg1dzVqRFlYTkQyOFc1VWtVQ1JOcU12LTN3ZDZkVkV4Wmt5TEIwRm9SU0hGSVV6NjVPcldMUEdRNnVvckZ0dkw4VUhPUnh3TzYtNUdGNkp2cTJEWUxuXzJsTVMtLWM3ZjJQX1ZTTEkyNHhUZUg1TTdsblpXQTZXRjYwVm56QmtKblVmRE15VHRwXzR2amlfUVB2MFo?oc=5",
       "source": "Unmanned airspace",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "23a7431ca4f8"
-    },
-    {
-      "title": "BELPOL: In under a year, 42 drones fell in the Brest region, one exploded - Белсат",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUxVdkpKcjhIQ1dQaWhSRG9Nc3hnZXVqVjZwdGEzdlFERDFCby14R05QUWJ0WEhLUE9Lc0Y3T2diY0RuaVNsU3hZclBUa2tjZlVGVVZXa3VmYkdOVnJydzhkb0o0MTFieHRQNHlXNjcyUUFOOFN1aGdqZXVvZGpoR0NNWVd3Ry16bFc4MVNxaDN2Vi1sX0FYMl81S05kWHpVWmc?oc=5",
-      "source": "Белсат",
-      "date": "2025-12-08T11:59:00+00:00",
-      "description": "BELPOL: In under a year, 42 drones fell in the Brest region, one exploded  Белсат",
-      "query": "drone crash",
-      "detected_at": "2025-12-08T13:16:05.065555+00:00",
-      "location": "in the Brest region, on",
-      "category": "other",
-      "id": "a3c83e04d850"
     }
   ],
-  "last_updated": "2026-01-21T11:07:41.854448+00:00",
+  "last_updated": "2026-01-21T12:11:01.639535+00:00",
   "total_count": 1000
 }
