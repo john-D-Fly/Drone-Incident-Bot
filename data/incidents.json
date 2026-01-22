@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone survey of mines needs prior notice: HC - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2VCaXhwRFBwN3BRQ2RvMVJ5QTRobG56OTYtUXZPNzdIQUxEQWZoQjlyQ0tjN1ZOQXVrZC1WZmNvcnltLXMyNko0TGJGWWdKOHhGS25iY194d29aazAyN1prNlFlc2RlOUFmUmx0Zmt1aXV4NHAzS0YxQlVrTmR3U1FZRTZKUkNsSV9XREdReU5tWmRyN0RrNjdJajZRaTlubVYwZ2R5MlJLdDByY2ljQmdYY3F2ckxv0gG-AUFVX3lxTE5rUnFTeFd2ZElZWU5zSXNPOUVoNVFCSnllbktRWjRRUGwzUTlEdTlWb0VNRVFmOGR6Y05tLU1YaDc3eUFOSlNpVDVMc1pqN00xN2NaZ2lYZjAzWXlwYnFMVkQzWktjbmZnLWRqYm1Zd1UwQVpPSzJ3bnZ6emF6TWpKbXBvVG1wNnpUMGpza3hxZjhKcGZDMjFFeDlhNG8wQXp6NmJBazVXS2tfdHdGU3o2MEVSRkJhSVltZTVCRGc?oc=5",
+      "source": "Times of India",
+      "date": "2026-01-22T00:37:00+00:00",
+      "description": "Drone survey of mines needs prior notice: HC  Times of India",
+      "query": "drone illegal",
+      "detected_at": "2026-01-22T01:35:05.136515+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d7313288128e"
+    },
+    {
+      "title": "Drone crash sparks explosion at residential building in Russia - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFJkNWJNTVdlNUtmVXNteXhQbWFmRUJlRTM0UlI0dExXV1gzZ1FKOVVXcnBVbXZUT0NOcjhrd2VQdkowa3U1d2NfRU8yWTJiNThZUmlVWldUOGxXWkZIN2s0Q1pidGRNU2tDVnlfQ0dwWktqeTlzMWxQOURRYm9LWGw4aHF2U0U5?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2026-01-21T22:00:38+00:00",
+      "description": "Drone crash sparks explosion at residential building in Russia  Yahoo News UK",
+      "query": "drone crash",
+      "detected_at": "2026-01-22T01:35:04.469552+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9557b4c33fde"
+    },
+    {
+      "title": "Drone Flies Over Puri’s Jagannath Temple Again: One Detained, Device Seized - pragativadi.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHIwODJJdnY1Y3hEa2JzUlBMZ3JmeG9TQzFoTVNXd1oyNVNKeThHZ0JXcXJjaDBzd2pDX0JtRjd1aXpfb1p6Xzh3MGhSZzJZUEc2bllha1piUFRyOE9sYkw0czVCNm1IRjFDc2M0YWZpbk8wSi1JZG51TzNqaGVPRHp2aURLNXZOcU9sUGppOTRBN3FReDZSMlZLM0RrZw?oc=5",
+      "source": "pragativadi.com",
+      "date": "2026-01-21T18:26:25+00:00",
+      "description": "Drone Flies Over Puri’s Jagannath Temple Again: One Detained, Device Seized  pragativadi.com",
+      "query": "drone incident",
+      "detected_at": "2026-01-22T01:35:00.604015+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "bac5c4891747"
+    },
+    {
       "title": "Drone video captures dramatic arrest after 130-mph chase near Prineville - Central Oregon Daily",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV09XU2dKYm9RTWtieVVzWjI5aHozOG1IMDY0eHllV3E0ZEJPM3FrQ0ZiQlJKOGFIelZEODJuYnJBZEh3bld6Ni15S3F3UmFRMlM2TWxRRmNldFhzd2lia0hRc0FiT0ZUX0Y0ckZ5VVZpWWpTcFJEVFI4ZkRpODZMeVNlWWlqVXdlQ1VFLVl2RjBMSXdmelZtWkhXUGFsY1hBSVhER3lqYi1BMm8yZWJuOGhuclpxcmxXNi1xYUdZTXpTdkMzN1VfZzNIVE9mTHo1dzB4Q1pYMDloY013eXNKbA?oc=5",
       "source": "Central Oregon Daily",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fa2b15474387"
-    },
-    {
-      "title": "Inmates miss holiday feast after drone caught smuggling crab boil - WCHS",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDQwMFowSjdHdEp5Z2xGS09FNnEteDBRaUhmd1J0dHEtbzZaalpJdzJ6S3VPRnRlc3kxNDB5UlNhM1N6RzZvaGVlbzN6VnVlQnhQMUhINlJ2V3ZLWUx2ekg0RkhjWk1CTFVVdHlWYk5VenJqNGpVZHJQR25rdTRLZWZXZXhTbkdmakppcGpPU1pFWktuMm1qMDJHTFFmRFpwbzAyQkRCX0htUmRnNkNZZHQ2c3JCME5qS1V4bWZvTU1tcGhPTGh4Ym41ZjhhR3Q0ejJENktKWF9WRzAwaDk0SDZxVQ?oc=5",
-      "source": "WCHS",
-      "date": "2025-12-08T17:17:47+00:00",
-      "description": "Inmates miss holiday feast after drone caught smuggling crab boil  WCHS",
-      "query": "drone prison",
-      "detected_at": "2025-12-08T19:05:06.069724+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4ee8a8448d8e"
-    },
-    {
-      "title": "SCDC: Officials find drone delivered contraband at SC prison - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjJsWWEteUxZVjZGajdGanIyVFB6NmRJc2Y0Y1RuMktmTzNZbkJONkRCMTV5VWh1SWFGZG5DYTRuY2gtV3h6SnJoN1ByNkp3aTM2cUp0Rkl3OHd0S3dPZ2ZCMkd0UHprSlROZXRpa3ZQaGhlWHZjWFJtVHBtUGxEYzRkX3MydHdHbFRIV3BnREVjTnpVNlk4YmZmSDRoYmtR?oc=5",
-      "source": "ABC Columbia",
-      "date": "2025-12-08T18:30:26+00:00",
-      "description": "SCDC: Officials find drone delivered contraband at SC prison  ABC Columbia",
-      "query": "drone prison",
-      "detected_at": "2025-12-08T19:05:06.069724+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "1d4db9f2ea66"
-    },
-    {
-      "title": "LOOK: Drone delivery including weed, steak, crab legs busted at SC prison - FOX Carolina",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVgtQXItdmhNVS1uUU10Sm8zNXVRaDR1WFNZNFdnVjVvWFJHWGZQWTh6TkFwM2J2UHJsaE4xQk1GMWpxSE5XbzFXT28xRU5mNlBXMmI2aVpjbGQwX1YtN3NJSU5ld19NYU1BV0U0X2NQd2pkUVgzS1FJSDV3THoyXzRCTXQ1OTRUYk9kdUVhOWpYREl6STF4NlhUWjNPMG4xbWE0TUl0cFhxaTlGTWc?oc=5",
-      "source": "FOX Carolina",
-      "date": "2025-12-08T18:50:00+00:00",
-      "description": "LOOK: Drone delivery including weed, steak, crab legs busted at SC prison  FOX Carolina",
-      "query": "drone prison",
-      "detected_at": "2025-12-08T19:05:06.069724+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "e095132fee21"
     }
   ],
-  "last_updated": "2026-01-22T00:26:30.738881+00:00",
+  "last_updated": "2026-01-22T01:35:08.105818+00:00",
   "total_count": 1000
 }
