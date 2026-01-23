@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Moldovan authorities evacuate village after armed drone crash - Radio Moldova",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lbjZIYlNYeG5lN2pScXRqRlpzRk14dWwzVGlRUmY4SnMwbVBBYmV6Tll4VUduUm9XTk0tMnVlemUtV2pub2c?oc=5",
+      "source": "Radio Moldova",
+      "date": "2026-01-22T13:00:11+00:00",
+      "description": "Moldovan authorities evacuate village after armed drone crash  Radio Moldova",
+      "query": "drone crash",
+      "detected_at": "2026-01-23T06:09:25.452208+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "673fff089f07"
+    },
+    {
+      "title": "Drones and Phones Plague Georgia Prisons - State Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHU0TUZXRFI5bTNxYUlfcWMzWHNTR3NVS1pnb3pRME1na3pEYkNoVVU1NHNtczFZQlNFNFJvYmVjSVZhTGVhMlRWQVk0Q2NsV1NXZGJFTGp1WDNMbEx6R2FmUTNTRzVJVzdzUWI4azFaLTRYNHQ5eVVpZUthdGY3U1BYUmw4enQ2U1E?oc=5",
+      "source": "State Affairs",
+      "date": "2026-01-23T02:12:30+00:00",
+      "description": "Drones and Phones Plague Georgia Prisons  State Affairs",
+      "query": "drone prison",
+      "detected_at": "2026-01-23T06:09:24.254432+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "fe61928e341a"
+    },
+    {
       "title": "Indiana lawmaker pushing for increased penalties for unauthorized drone use on farms - Brownfield Ag News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3U3ZHV2VVdTd19UZkxZTnN2NkxVUkgyaUROUlktc0RzbHNabXVkSkl6aWkyT3dzU05CWjFoTGNSVlBkZGJsQ3FkMkc4Q0lLNy1XNDRZTEVld2czb2FjOVlXbFM2WFZ2TkNYRGI3R01nVW5EajlqRFZIck9pRGxLYXFsOFpNaXM1WGNZdzlTa1pPaXNKTnJua2I4Ty1tYmxYb2ltZzVlYzNCSnB5dDQxQ20tVkZzOUk0Y1NTYjRtR1U?oc=5",
       "source": "Brownfield Ag News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "f015c19696f4"
-    },
-    {
-      "title": "LOOK: Drone delivery of weed, steak, crab legs busted at SC prison - WIS News 10",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFk4dm9Xbk82TUpkMkl3TFR2WXNYSy0zdkFrOHhiR1h3NG1kTU84UVVFSWdqbHhwWlFfQmhDLVlJZUNvaTlUMVFjd1NMODREeVRwaHAwemk2bEtLcm1ISnVlNWNwVXhCV3BrbWMzcEVoeGd1ampjblVTSXlKRDFBcG91a21pZS12YzJtWjJfMkctMnl2M3RpNUw3RWNaZw?oc=5",
-      "source": "WIS News 10",
-      "date": "2025-12-08T20:54:00+00:00",
-      "description": "LOOK: Drone delivery of weed, steak, crab legs busted at SC prison  WIS News 10",
-      "query": "drone prison",
-      "detected_at": "2025-12-08T22:05:29.865599+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "6f9405c86cb5"
-    },
-    {
-      "title": "Drone drops crab legs, steak and Old Bay inside South Carolina prison - WLTX",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGlrSmhkTmZiWTR0UjMzOGljSDFFNy1Cd0pxNnZDUGZLVk5ZMnFJbDhjTTd3Sm9kdGx3YmdvdE1iakI0LVpJNlZEQTluTkJBUHgyNU9iWFI3Q2RtQzE3QVl3c2pZOV9nTG1lU1p5MVR5N0puV1JwcG5kd1k4RmI0MGVlOG02Z1dlYWduVkFNejZac2Q4YV9xOEtNYVV2SWtLSDlkQzNtUFVQOWFzVWR1ZWViSWVRc3ktQmktRTB4WHdVcnBvZWc2eVF3?oc=5",
-      "source": "WLTX",
-      "date": "2025-12-08T21:10:00+00:00",
-      "description": "Drone drops crab legs, steak and Old Bay inside South Carolina prison  WLTX",
-      "query": "drone prison",
-      "detected_at": "2025-12-08T22:05:29.865599+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0bc6e083fa48"
     }
   ],
-  "last_updated": "2026-01-22T22:06:18.073996+00:00",
+  "last_updated": "2026-01-23T06:09:28.533509+00:00",
   "total_count": 1000
 }
