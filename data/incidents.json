@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone footage shows illegal waste dump in Gloucestershire - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UDhORjlMbFFGakZQbmRhZHdyN2xjanJMZ2xUOFY0Z3VqMmxIbk5NZmoxNzlOaW9zNEFjak53TENDcUNPRWFHRGFXU20zVFBtSFZQR1JuRmdaQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-01-23T09:34:33+00:00",
+      "description": "Drone footage shows illegal waste dump in Gloucestershire  BBC",
+      "query": "drone illegal",
+      "detected_at": "2026-01-23T13:19:28.607232+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e5b14f21e9b7"
+    },
+    {
       "title": "Watch: Drone footage shows illegal waste dump hidden in English countryside - BBC",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RQlVtUUV1YlBtWU0zZWVvZVVzdW5wS1RTN2hNQmxVNi1YeG5SOVdnb2U2ZVl1SUM4czZmX1ZQM19uZ3FyVHhieHVPYzdfSVdXUlptVy1CMA?oc=5",
       "source": "BBC",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "d1e4596b7cbb"
-    },
-    {
-      "title": "Drone drops steak and crab legs for prisoner feast but South Carolina guards find it first - Seattle Post-Intelligencer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPanpUOG9NSHhqY1NkSXFNRjVjME54LUVFX252QVRWSlFnTXNvaW53N1hRV0JmMVVGWWpSZ3NYMGQzLWU1QndXeFZzWk9NM1g4czFDbXo3WXg5dUhKdUxoNHhMR0xWcVl2c2Y3aGloa2VHREhQcDVybVlhemhOYjBCTE54QVpkSHc0cWhFMm93?oc=5",
-      "source": "Seattle Post-Intelligencer",
-      "date": "2025-12-08T23:03:58+00:00",
-      "description": "Drone drops steak and crab legs for prisoner feast but South Carolina guards find it first  Seattle Post-Intelligencer",
-      "query": "drone prison",
-      "detected_at": "2025-12-08T23:05:26.066522+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "6102174ffea5"
     }
   ],
-  "last_updated": "2026-01-23T12:10:34.906254+00:00",
+  "last_updated": "2026-01-23T13:19:30.942572+00:00",
   "total_count": 1000
 }
