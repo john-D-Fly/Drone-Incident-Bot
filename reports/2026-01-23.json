@@ -1,0 +1,140 @@
+{
+  "narrative_summary": "Over the past 48 hours, various drone incidents have been reported across multiple categories. In the UK, multiple reports of illegal waste dumps captured by drones highlight ongoing environmental concerns. In Idaho, a legislative proposal aims to curb prison-related drone activities, reflecting a growing trend in policy responses to drone smuggling. Meanwhile, Israel witnesses increased threats from drone smuggling linked to weapon supplies. In South Carolina, there is a surge of drone drops into prisons, raising security alarms. The Moldovan authorities have evacuated a village due to an armed drone crash, emphasizing public safety risks. Additionally, several drone crashes have occurred, including significant incidents in Russia and Spain. Overall, the incidents reflect rising challenges posed by drones in both security and environmental contexts.",
+  "totals": {
+    "smuggling": 7,
+    "security": 3,
+    "other": 11,
+    "arrest": 6,
+    "crash": 6,
+    "terrorism": 2,
+    "total_incidents": 45,
+    "by_category": {
+      "arrest": 11,
+      "crash": 8,
+      "other": 12,
+      "security": 2,
+      "smuggling": 11,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 7,
+      "drone crash": 8,
+      "drone illegal": 7,
+      "drone incident": 5,
+      "drone prison": 4,
+      "drone smuggling": 9,
+      "drone terrorism": 2,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Activity",
+      "rationale": "Multiple incidents related to smuggling and contraband drops at prisons have been reported.",
+      "incident_ids": [
+        "ad956eda6ebc",
+        "fe61928e341a",
+        "f6c4ed0d41d5",
+        "1e136871ce57"
+      ]
+    },
+    {
+      "topic": "Illegal Drone Operations",
+      "rationale": "Incidents of illegal waste dumping and unauthorized drone usage reflect environmental and security concerns.",
+      "incident_ids": [
+        "e5b14f21e9b7",
+        "7bdab3b280bb",
+        "66f8d911cb0e",
+        "60db25409f1b",
+        "95058180cebe",
+        "1d0266bb3337"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Several drone crashes highlight safety concerns, particularly in populated areas.",
+      "incident_ids": [
+        "673fff089f07",
+        "9557b4c33fde",
+        "c587bcd4377a"
+      ]
+    },
+    {
+      "topic": "Terrorism and Smuggling",
+      "rationale": "Reports of drones being used for weapons smuggling indicate a security threat associated with terrorism.",
+      "incident_ids": [
+        "66f8d911cb0e",
+        "ff3b9c85ebd6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e5b14f21e9b7",
+      "headline": "Drone footage shows illegal waste dump in Gloucestershire",
+      "one_sentence": "Footage from a drone reveals an illegal waste disposal site in Gloucestershire.",
+      "risk_tags": [
+        "environmental"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "ad956eda6ebc",
+      "headline": "Idaho bill aims to stop drones from phone, drug drops at Boise prison complex",
+      "one_sentence": "A bill in Idaho seeks to combat drone smuggling at prisons, emphasizing security measures.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "66f8d911cb0e",
+      "headline": "Weapons smuggling via drones poses a threatening new reality for Israel",
+      "one_sentence": "Israel faces increasing risks from drone-related weapon smuggling activities.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "673fff089f07",
+      "headline": "Moldovan authorities evacuate village after armed drone crash",
+      "one_sentence": "Authorities in Moldova evacuate a village after an armed drone crash raises safety concerns.",
+      "risk_tags": [
+        "public safety"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "0d8093e35644",
+      "headline": "Drone video captures dramatic arrest after 130-mph chase near Prineville",
+      "one_sentence": "A dramatic arrest near Prineville was captured on drone footage after a high-speed chase.",
+      "risk_tags": [
+        "criminal activity"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "c587bcd4377a",
+      "headline": "Drone crash sparks explosion at residential building in Russia",
+      "one_sentence": "A drone crash led to an explosion in a residential building, highlighting safety issues.",
+      "risk_tags": [
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal environmental concerns and ongoing security threats across various regions.",
+    "linkedin": "The past 48 hours have seen an array of drone incidents, from illegal waste dumps to significant smuggling threats and legislative responses."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-23"
+}
