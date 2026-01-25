@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable uptick in drone-related incidents across different categories, particularly smuggling and arrests. A Connecticut man was arrested for using drones to smuggle drugs into a prison, while troubling reports of weapon smuggling via drones into Israel have emerged. Several police departments effectively employed drones to apprehend suspects involved in multiple burglaries and home invasions in various locations, highlighting the technology's effectiveness for law enforcement. Additionally, incidents linked to drone-related terrorism and concerns about privacy have intensified discussions around policy and security. The geographical spread remains diverse, suggesting increased drone activity across various sectors in regions such as the US and Israel.",
+  "totals": {
+    "other": 14,
+    "smuggling": 5,
+    "arrest": 6,
+    "terrorism": 2,
+    "security": 2,
+    "total_incidents": 33,
+    "by_category": {
+      "arrest": 6,
+      "other": 16,
+      "security": 2,
+      "smuggling": 7,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 14,
+      "drone illegal": 2,
+      "drone incident": 6,
+      "drone prison": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 3,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Incidents related to drone usage in smuggling, particularly drugs and weapons.",
+      "incident_ids": [
+        "79e9f74609c1",
+        "58b9e7270556",
+        "33024bd89e12",
+        "0e399b499ece",
+        "db3321da32e2"
+      ]
+    },
+    {
+      "topic": "Drone Incidents by Law Enforcement",
+      "rationale": "Use of drones by police for arrests and surveillance.",
+      "incident_ids": [
+        "465883b02429",
+        "d73c52a7ede7",
+        "e663b58b5228",
+        "90a1d7e61c74",
+        "51b1f9dc10f0"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "79e9f74609c1",
+      "headline": "A CT man allegedly used drones to smuggle drugs into a prison.",
+      "one_sentence": "A Connecticut man was arrested for using drones to smuggle drugs known as 'bath salts' into a prison.",
+      "risk_tags": [
+        "smuggling",
+        "drugs"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "58b9e7270556",
+      "headline": "Surge in weapons smuggling into Israel prompts Shin Bet step in.",
+      "one_sentence": "Reports indicate a surge in weapons smuggling into Israel via drones, prompting intervention from security agencies.",
+      "risk_tags": [
+        "smuggling",
+        "weapons"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "39c969afa2fc",
+      "headline": "Kamaal R Khan was arrested after drone mapping linked the Nalanda firing to his bungalow.",
+      "one_sentence": "Kamaal R Khan faced arrest linked to drone usage in connection with a firing incident.",
+      "risk_tags": [
+        "arrest",
+        "drone incident"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d73c52a7ede7",
+      "headline": "DeSoto police use drones to apprehend burglary suspect.",
+      "one_sentence": "DeSoto police successfully apprehended a burglary suspect using drone technology.",
+      "risk_tags": [
+        "arrest",
+        "police"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "33024bd89e12",
+      "headline": "Drone carrying drugs neutralized on Iran-Azerbaijan border.",
+      "one_sentence": "A drone carrying illicit drugs was neutralized at the Iran-Azerbaijan border.",
+      "risk_tags": [
+        "smuggling",
+        "drugs"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "46ff7b329f2a",
+      "headline": "Mali to regulate civilian drones to counter jihadist threat.",
+      "one_sentence": "Mali's government plans to regulate civilian drones as a response to the threats posed by jihadists.",
+      "risk_tags": [
+        "terrorism",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents across smuggling and arrests highlight urgent policy discussions.",
+    "linkedin": "Recent drone activity showcases both enforcement and security concerns, pointing to an evolving landscape demanding attention."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-25"
+}
