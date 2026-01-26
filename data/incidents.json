@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "A residential building in the Rostov region was damaged by a drone attack. - eng.kavkaz-uzel.eu",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yNVRMZkdDX1gyNnZpU2V4S2thOHUzU1ZKV1hWcmc5eFRpWE9WMlBiaEE0QUVCemdOOFh5d1B6c3E3YVNCUFZDMVRxSUNhVEllMFc5ZUFHMjA?oc=5",
+      "source": "eng.kavkaz-uzel.eu",
+      "date": "2026-01-25T05:03:56+00:00",
+      "description": "A residential building in the Rostov region was damaged by a drone attack.  eng.kavkaz-uzel.eu",
+      "query": "drone crash",
+      "detected_at": "2026-01-26T11:06:54.070858+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f39638588fd2"
+    },
+    {
       "title": "HSA to deploy drones to assist in serious incident investigations - clareherald.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdSdWV4VlExV0FFaW5oS1RiTTdUc3VRa0lheTQtc1VZcVNRa2tsR2xTZVhFWE96b0ZFSGc5dTUtVEJ5dThsN0VVLU1qMDFDNUdnUHp3OElnMWJfQXpNbWxqa2ZJXy1tQktBUTJOY1RvV0JidGh6OEFzaWFQTjc1U3l6czQ4ZE4zeXI4eWxuU3laZUgzdDVnd0FHUkRabEZvRTJyMF9RdWtRdGM4bTlEdnk0QQ?oc=5",
       "source": "clareherald.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d05afb26419f"
-    },
-    {
-      "title": "Inmates miss holiday feast after drone caught smuggling crab boil - WSET",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN2J4TnlRMXpZOHZIVnQ0LTJKdk0tVFhVd3R6WWZIRUE5QU9lR2wxOE1oMzFhSklpYk0tZlVmWjFKdEZNQ0NzSVRfUDJCVDFNcHNOSDlzNU42R1FUYlEyRFBFTmlrTFVacl9qeGU3cGF2OHdoc1p4M0hkSUpZaExsQ3VVWXFfRjdleHJEQzZlNzlvVEE4cVhaX1cyNG5hZWJHbThmbXRCTFBoUm41bTZTTEF1b29sS05VZUNCV3hlYTE3LVYxUk01bXpJRkFEMnVPVzU1aWk1UUh3T3I4czFTVA?oc=5",
-      "source": "WSET",
-      "date": "2025-12-08T23:37:30+00:00",
-      "description": "Inmates miss holiday feast after drone caught smuggling crab boil  WSET",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-09T04:10:56.259203+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2916acd01e67"
     }
   ],
-  "last_updated": "2026-01-26T02:52:46.032271+00:00",
+  "last_updated": "2026-01-26T11:06:56.992725+00:00",
   "total_count": 1000
 }
