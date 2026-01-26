@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "JIATF-401 Updates Guidance on Homeland Drone Threats - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSlhYZTU2ZGt3dk5rNUo2RmRFd0d2cnVwOFhTT1IwVHVZb3Nyb182cU1YYjFzS3hzdFl3d1JHTEtNLXgxZHNRQVM4T1FCTndpUEdQXzd2ZVdpcF9FY3hYaTdRbU1zcUFRcDl5Q2Fxc2RTVXk0S0ZCbkdjOEJDb21ncTRYUGhrbkk?oc=5",
+      "source": "Mirage News",
+      "date": "2026-01-26T16:42:00+00:00",
+      "description": "JIATF-401 Updates Guidance on Homeland Drone Threats  Mirage News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-26T17:11:05.988365+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "1395f5ad9f4f"
+    },
+    {
       "title": "D.C. Bolsters Counter-Drone Capability With Web of Sensors - FLYING Magazine",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fd2RPUUdFZ0VSRzB1b29vTDRsXzlhLXpPQkRsc3hIM3JlaUNSNi1tSTZkci1MQ3JtbW5mcU1JaUxtQ0UwT2dGVWhQdmlfX1N1Sk0zcXJLZWF3LV92Tl9acHdmXzg0dUJtWmc?oc=5",
       "source": "FLYING Magazine",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "0b005764350f"
-    },
-    {
-      "title": "Inmates miss holiday feast after drone caught smuggling crab boil - WLOS",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWnkxNmhhbldpRDFCN1NwQy1lTENtNXBVNzBJT2F1WmU3bmV0MWFodHlBS3Y4dld2Ti16WDZncmxjd3lKUHNtVy05LXRiQXVOZWt6WTZnRjJ6NVRpdEJfcnMtdjZkWFE5QTU1RkRQYThnZnBNa3R3RmJGLWZPQmgzbi13Y012Q1lEQ3dlRVdGYktxMHJmbUFEU1AwU3E0dzlKazlNWHhvLXAyLVdIZ0ZwaGhBUjJRS1lqZjNWR3YxTDc3TUxVd0NlZmpibjZiOTJKcTNxX0NCM1U4ZjJQREtYcg?oc=5",
-      "source": "WLOS",
-      "date": "2025-12-08T23:02:39+00:00",
-      "description": "Inmates miss holiday feast after drone caught smuggling crab boil  WLOS",
-      "query": "drone prison",
-      "detected_at": "2025-12-09T05:06:17.242950+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4e301f25f44b"
     }
   ],
-  "last_updated": "2026-01-26T16:09:34.945038+00:00",
+  "last_updated": "2026-01-26T17:11:06.833132+00:00",
   "total_count": 1000
 }
