@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Expands Counter-Drone Authority To Protect U.S. Military Bases - dallasexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenQwUXVlZ0FBTmFOSF8yNnFBLXpiZGt0bW1idXRKRHhZSzByVDJWV1gxcDdDZGNZQmRUZndnS1pqWnBkZ3ktRE1oODZyZkhwWjlNellJUl9xMU5pa3BJbElZUjFZYnBwQWJobXU4MFA3QjI5XzNaRGVvVGJLZHlCdVMyaXhwSUp0dVFGdkdhN1JaNkdOVTE0ZmZFWThkMThXM005SnU4RlVOdw?oc=5",
+      "source": "dallasexpress.com",
+      "date": "2026-01-26T19:52:31+00:00",
+      "description": "Pentagon Expands Counter-Drone Authority To Protect U.S. Military Bases  dallasexpress.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-27T02:48:41.783097+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7173daa4c53b"
+    },
+    {
+      "title": "Department Of War Task Force Announces Updated Guidance To Counter Drone Threats In The Homeland - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVFMZkdlRlAzcUJKZUdzQVcwUjBZa194V1IxMEdrUlBnVnB1SlJuY0RLeE45YkNNdkdad0VFcDcxNk1oRVAyLVFrRzhBekFyd3JqTi11b3RSSEFGUktpRzA0cTN5ZWVwelFRWDBJeURzVUVocENNakNZMWhOaDF4aWNuSVlZT1BpU0dROHZmVFVVdGQ1dndzXzFiODMwRjljOWY1VGNUY3VVYzJlR3pGZ2hRbnJFN1U3RWZ5dUQyRElmQ0NQTlE5QUhOODk2UXZJNGc?oc=5",
+      "source": "Eurasia Review",
+      "date": "2026-01-27T00:08:18+00:00",
+      "description": "Department Of War Task Force Announces Updated Guidance To Counter Drone Threats In The Homeland  Eurasia Review",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-27T02:48:41.783097+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "e10ad3793196"
+    },
+    {
       "title": "Department Of War Task Force Announces Updated Guidance To Counter Drone Threats In The Homeland - eurasiareview.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVFMZkdlRlAzcUJKZUdzQVcwUjBZa194V1IxMEdrUlBnVnB1SlJuY0RLeE45YkNNdkdad0VFcDcxNk1oRVAyLVFrRzhBekFyd3JqTi11b3RSSEFGUktpRzA0cTN5ZWVwelFRWDBJeURzVUVocENNakNZMWhOaDF4aWNuSVlZT1BpU0dROHZmVFVVdGQ1dndzXzFiODMwRjljOWY1VGNUY3VVYzJlR3pGZ2hRbnJFN1U3RWZ5dUQyRElmQ0NQTlE5QUhOODk2UXZJNGc?oc=5",
       "source": "eurasiareview.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "67011aa4aa47"
-    },
-    {
-      "title": "Inmates miss holiday feast after drone caught smuggling crab boil - KOKH",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMV9GX3M1MzNrdmlJSWFvaVdMNUJmcDE0QWg5X1lnZkMwTnA3ejN0ZkNMYlNiSlRzVVhndm8ybFpFZDc0aC1RRHkyM1YwZ1NCNG83TFNDQU94MVU5ZkNBM1RhelBiVVQ1bWpESzNMRURyQWlNcUdMMnJVRlhsRF9XejBSU3FySFVUUU9MVzNLV2NCQnFNazNhMlJqVThTVy04akpvLTBHbDlzT3dySXRVc2lZR04tRmtJU1dOTUhZczBfZkk2MF9iT21vaFNRck1XRmU0WmdGcjNMWG9rcmc5TmJSYw?oc=5",
-      "source": "KOKH",
-      "date": "2025-12-08T18:36:17+00:00",
-      "description": "Inmates miss holiday feast after drone caught smuggling crab boil  KOKH",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-09T07:07:27.657785+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f80e5b4055e8"
-    },
-    {
-      "title": "Inmates miss holiday feast after drone caught smuggling crab boil - KFOX",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYkNBV2ExWFZndWRfN3l5NUM2ZEhTclJyUHNlOXpzY0kwQ1A1amlRUGtMS0FvNTdEUzczb00ydEllR2RUNFBfSHNuM3hhVlNIZ051RGNIU1NfR1FiYXRKYzZXWkZ4N01ZYlJVbzFaeGo2Qnl3UWw0RXRFdm1aTEN0eXF2WHFUYlhCZDhFdVVSX194eW9EYnVxWlVtV3lZUTY3X1dGb0VJZjhfc2kwUENKUVEtek9mZEpBblEyZ3p6MTVkUVpaeFNUd1ZibzdPSGlpSGhIOFNqLTc0REVLZW14MXlJUQ?oc=5",
-      "source": "KFOX",
-      "date": "2025-12-08T18:31:36+00:00",
-      "description": "Inmates miss holiday feast after drone caught smuggling crab boil  KFOX",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-09T07:07:27.657785+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c6082e9effb7"
     }
   ],
-  "last_updated": "2026-01-27T00:27:01.974441+00:00",
+  "last_updated": "2026-01-27T02:48:42.490161+00:00",
   "total_count": 1000
 }
