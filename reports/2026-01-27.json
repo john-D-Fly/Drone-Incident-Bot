@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have been varied, with notable activities including a significant drone strike by Russia against Ukraine that involved 165 drones. Germany is fast-tracking a counter-drone law, as airports and utilities remain at risk from unauthorized drone activity. A crash involving a drone carrying a live pig caused a power outage in Sichuan, China for 10 hours. Counter-drone measures are gaining momentum globally, highlighted by the Pentagon expanding its authority to secure U.S. military bases and a proposed Idaho bill aimed at banning drone flights near prisons due to rising concerns about illegal drops of contraband. Noteworthy also is Jordan's Southern Command thwarting a drone drug smuggling attempt. These incidents underscore the growing integration of drones into both security protocols and illicit activities, necessitating enhanced regulations.",
+  "totals": {
+    "airport": 2,
+    "crash": 2,
+    "other": 8,
+    "smuggling": 4,
+    "surveillance": 1,
+    "terrorism": 3,
+    "total_incidents": 21,
+    "by_category": {
+      "airport": 2,
+      "crash": 2,
+      "other": 8,
+      "smuggling": 5,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 1,
+      "drone crash": 1,
+      "drone illegal": 2,
+      "drone incident": 4,
+      "drone prison": 4,
+      "drone smuggling": 1,
+      "drone terrorism": 2,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Counter-drone regulations",
+      "rationale": "Emerging policies in response to increased drone threats in various sectors.",
+      "incident_ids": [
+        "b8087b3f773a",
+        "7173daa4c53b",
+        "e10ad3793196",
+        "55a663b07349",
+        "14234616637e",
+        "f39638588fd2"
+      ]
+    },
+    {
+      "topic": "Drone incidents at prisons",
+      "rationale": "Increasing concerns over drone drops of contraband and illicit activities.",
+      "incident_ids": [
+        "14234616637e",
+        "cc1899bfcd3c",
+        "2f4ca91a489b"
+      ]
+    },
+    {
+      "topic": "Russian drone attacks",
+      "rationale": "Recent drone strikes being part of ongoing military operations.",
+      "incident_ids": [
+        "d8e5f5a4ca3d",
+        "26b4d9340988"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d8e5f5a4ca3d",
+      "headline": "Russia strikes Ukraine with 165 drones overnight",
+      "one_sentence": "Russia launched a significant drone attack on Ukraine, involving 165 drones, with air defenses reported to be activated.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b8087b3f773a",
+      "headline": "Germany Fast-Tracks Counter-Drone Law; Airports, Utilities at Risk",
+      "one_sentence": "Germany is expediting legislation aimed at countering drone threats to airports and utilities.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b255bb7037b5",
+      "headline": "Drone carrying live pig crashes into power lines, cuts Sichuan village electricity for 10 hours",
+      "one_sentence": "A drone incident in Sichuan resulted in a power outage lasting 10 hours after it crashed into power lines.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "7173daa4c53b",
+      "headline": "Pentagon Expands Counter-Drone Authority To Protect U.S. Military Bases",
+      "one_sentence": "The Pentagon has expanded its counter-drone capabilities to enhance security at U.S. military installations.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "14234616637e",
+      "headline": "Idaho bill seeks to ban drone flights near prisons",
+      "one_sentence": "An Idaho bill has been introduced to prohibit drone flights near prisons to combat contraband drops.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "84c7066e0b8f",
+      "headline": "Jordanian Southern Command foils drone drug smuggling attempt",
+      "one_sentence": "Jordanian authorities intercepted an attempted drug smuggling operation involving a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents escalate, with a major strike in Ukraine and new countermeasures in Germany and the U.S. #DroneWatch",
+    "linkedin": "In the last 48 hours, we observed significant drone activity including military strikes, new regulations aimed at airport safety, and smuggling attempts being thwarted."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-27"
+}
