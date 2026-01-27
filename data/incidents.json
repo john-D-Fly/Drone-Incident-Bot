@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "New DOD counter-drone policy gives base commanders in US wider berth - Stars and Stripes",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUtSZTF0ZHBxRC1lejBJaXEwcWtMMVd3UWFFSkZ6bWxTdzYzd0IzSzJKeVExYnAzMHYyaFV2b0FiRkI4QW5SRDVCSEVMRnBWaEFGckR5MXVmbEtHNUtPVk5KS3RHdHBwTHcxTWF5dmVURFpNMzc3QVlhZEFRa09RTWNZaGwwOWh2cHJn?oc=5",
+      "source": "Stars and Stripes",
+      "date": "2026-01-27T13:32:45+00:00",
+      "description": "New DOD counter-drone policy gives base commanders in US wider berth  Stars and Stripes",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-27T14:12:13.380113+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a3dfb50dc1d8"
+    },
+    {
       "title": "Russia strikes Ukraine with 165 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlZZTd6YVVqaHRHN3NkTUg3VnlWSkUxakVfd0dZOFJYdGJiSkxNM2l6d2RTWjZoY1JhaF85ZXZ0d3RpRTZBbUhBLXdzVE91ZEthd2JIdTUyS3NuSmxnVm5nSkNteEhkN1hoeEd0dzN1VE5XaEdCSTUwVlFQalljNWVvdUh6R180eVdZZjdhUlNMRWhlUmtYOWN6Nkk?oc=5",
       "source": "RBC-Ukraine",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "732342082a7c"
-    },
-    {
-      "title": "LOOK: Drone delivery of weed, steak, crab legs busted at SC prison - Live 5 News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHN1OUM4UXdnOWRwRk43TzczSjV3LWlaenExdW1XNTBaSURTUmI4all1YlRUVC1sbU1xaW5GVExhNnRSb3pjdFFzUWk1NklxSG1oSUhOazlBV3hLUlZrUXdLc0lxTzZZVnJsY09CX29FSkljZmptaVpxNU1iVGVCMzRfN2lGSVJxQ21XejZTV29sYlROeU0xdlpuaWVVNU1FVGxF?oc=5",
-      "source": "Live 5 News",
-      "date": "2025-12-08T20:54:00+00:00",
-      "description": "LOOK: Drone delivery of weed, steak, crab legs busted at SC prison  Live 5 News",
-      "query": "drone prison",
-      "detected_at": "2025-12-09T11:05:41.679768+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "7b369c00d5ba"
     }
   ],
-  "last_updated": "2026-01-27T08:08:53.062042+00:00",
+  "last_updated": "2026-01-27T14:12:14.114039+00:00",
   "total_count": 1000
 }
