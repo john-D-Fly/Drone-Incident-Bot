@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Expands U.S. Base Commanders’ Authority to Counter Drone Threats - SOFX",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzM5bWVQSDllQlhzcDh4SmlIT3I5VE03Y2dBMmw4RWxsNjFzTkhXenItZTNyRjhDQXEzbEpEWUptZDRLZXlSQkZyQnpMOC13RFloN3VQYzYyX3lkQ0FTWlpIbjJ5RTBqejVkaFhrY0VPOHJtS241ck9LeGl0Y203dTc1Y3lkaWl1aENrYWNDU2NRbWFnbm1QSw?oc=5",
+      "source": "SOFX",
+      "date": "2026-01-28T04:29:29+00:00",
+      "description": "Pentagon Expands U.S. Base Commanders’ Authority to Counter Drone Threats  SOFX",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-28T05:11:20.318313+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "7c857c1f56da"
+    },
+    {
+      "title": "Ukraine war latest: Russian drone strike on passenger train kills five - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjF3ajlGbTZaYTNfUGhCaDlSQVdRaTZHOEJxUjhEclJLMDZWWWZTMlpScXZlU3RWX0xudGJPWmNVV1dCU3NxYnNPd0xQQXZFLWk4bURyXzVZVWI2RS1xUVkzZFFCUTVZUThyaXJPUmlLY2E1TEdFdjcyVVhfZC15OGhvWWJtZ3hMaHpUSERETWhUV1lqUGtoX2llMFFKVmZ4SmhrZHZzdWtkY01odkdibGlfUDk1aE5sbUxvRA?oc=5",
+      "source": "The Independent",
+      "date": "2026-01-28T04:56:23+00:00",
+      "description": "Ukraine war latest: Russian drone strike on passenger train kills five  The Independent",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T05:11:19.757822+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4ef629c49d18"
+    },
+    {
       "title": "Russian strike on passenger train in northeastern Ukraine kills five, prosecutors say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFNxbEl3SkEwaGlfWWdEWlg5TFhIcDkwSU9zZEVjeVU4NTFyWnJiNVFTMmFPOHdLN3g0NUlfTGVOM2NtX3J0ZjRNanNSOGljZUpNb0NVRTYydFotb29kNzNNRUVJQWg0MmhCcXZhZkdobDM0cHhtbHZuTXRJX2dtRmlNSTJXUkNwcVlMck5CaUR2ZGdjQ2FDUG1qQ19aMEJUek44UHcyN08xN0dRWGxlMzdfMkY4N1ltMWRXVXhR?oc=5",
       "source": "Reuters",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "37814b2d30e9"
-    },
-    {
-      "title": "Drone delivery including weed, steak, crab legs busted at SC prison - FOX Carolina",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQk9maHNha2RxclFGOXdLZGJlSGJnemRQVUItM3cyUkVZOUJGMTVOcF94VHh1M1VRNnpXb1V0RU5qS01nZ1ZSeFVVaGdBYndTVjlwSEhlb2J0QkN5dnNDSjNGbDU2VVdiYmY2LXlRay1uV0NDbE5NNVJ6ZGl6cWI5RVpyU3QyTXZhQ1ViM1JCMmlEVW1PakZCUGJvQnZ4SzN2Z25TSEk4S1dhMk9L?oc=5",
-      "source": "FOX Carolina",
-      "date": "2025-12-09T17:00:00+00:00",
-      "description": "Drone delivery including weed, steak, crab legs busted at SC prison  FOX Carolina",
-      "query": "drone prison",
-      "detected_at": "2025-12-09T18:07:00.097150+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "e0ece3e9525a"
-    },
-    {
-      "title": "Drone Drops Christmas Contraband Inside South Carolina Prison Yard - La Voce di New York",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2RlNXlrMldYRGZHN3lIbEI1ek9kVFpFdWFFYnlfNGZORVJPc1hqNHhyVU1nV1hKdnZnS3QtNzBiRkhWaGJMU1BMa1FwUHR0WVVxMXdvcC1JNmJGZ1NQal8xQUVIR3VJUEFBOWp6a1cyS01jQVJJdkczOVE5aHM4cjBrUk9SWnVwLVFudEF3alg5amVtVDRPTThqb3RxdG5aMDh5c3k2Z1FsZHFuZnk1blNQN0k?oc=5",
-      "source": "La Voce di New York",
-      "date": "2025-12-09T17:40:31+00:00",
-      "description": "Drone Drops Christmas Contraband Inside South Carolina Prison Yard  La Voce di New York",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-09T18:06:59.512848+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "44c271504e99"
     }
   ],
-  "last_updated": "2026-01-28T04:22:37.271377+00:00",
+  "last_updated": "2026-01-28T05:11:21.001843+00:00",
   "total_count": 1000
 }
