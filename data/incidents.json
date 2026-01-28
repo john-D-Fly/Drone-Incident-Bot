@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Task Force Issues New Counter-Drone Playbook - MeriTalk",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTc1UDV4a3FpaWM3X1QwcHJJWC00aHJ0UEFQR0FmbW5sdHBZeUE4aGNOMGllOUhXbVpuNC1BSm1tcXRJckxHWFJ6QVo0aFFUVGUzcnAyWDJyVjhUVGdHbFIxSUR6T3REc213WWFBRVM0M0pMX0hkVUdPSFlkdzVQZ0ktWnBSbndVSTRRN1RDS0hBZw?oc=5",
+      "source": "MeriTalk",
+      "date": "2026-01-28T15:42:17+00:00",
+      "description": "Pentagon Task Force Issues New Counter-Drone Playbook  MeriTalk",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-28T22:08:33.081560+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7ea6369bf603"
+    },
+    {
+      "title": "Russian drone attack on passenger train is an ‘act of terrorism,’ Zelenskyy says - fox8tv.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjhwaTJneG9HWHFKLVVqdkUwdzNRLXZqa2RSWkVhempiVzJXVk5rWW1QTi02OFQ2QVhRelFMSGQ5UUFrcjNrQUI1TmotQTBPQlNPRF9mZ0NNQk02TXhEYTQtMlN2YWVueFB6SWZIYjBwaW5xVWdnZ2E1d0xaOUJUUTNGTkV2UTAyWjVUclpGR1hkMllpTS03aXlVSkZlajJZWUpZ?oc=5",
+      "source": "fox8tv.com",
+      "date": "2026-01-28T15:37:59+00:00",
+      "description": "Russian drone attack on passenger train is an ‘act of terrorism,’ Zelenskyy says  fox8tv.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T22:08:32.508776+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "501b2d34f5b8"
+    },
+    {
       "title": "As Ukraine accuses Russia of terrorism with deadly strike on train, is Starlink helping Moscow target civilians? - CBS News",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3pqZlk4bGJIZTgtNThab2VaSzZoWjJvd09rYkR0QTZTdU1QVGVNRGtjcGVaT2hvRUpZdjllTGZBc3QwUmxCeGpEV0MxZktOWl9tVjJqRk5tUnJLaWtHa1Z6Y3lhN182WUVBTFRWZlg5OFVfa1NDNHhWSTZndEc0RjlkRWdnWG8wbVpCNzZNaUcxZlc5aXc1Nmh2YXFkZWw4R2dFVkROMEY5WnZqUWhQY215eHlOOVNvZTZvT05rLVhCeTc0bk5XSFc2LVNBRmNzX0JXYUlZQdIB3AFBVV95cUxPUkZqcGlxdXRSWVJHLVhOUGhDTXExcWVyTXBrNU5oMmJCMEFGSDFwT2k4V1JBV09Qb012VTZEVTlfaTRzbVFrSjkwOUhQQUx6bTRVMWQzM3pDcEJqS2tnaFdHM0pjWjVYUHNERDZVR0hUTU0zY001YUlyZE5XRjhpbDFIeENSenY3ZWMyV0RMU1FMQ3ZCOGRnbjQ5UC00OUpTNTg2WFJLTjl6RDRaeGdNbnV0OHl3STVTLTM3dUJYd3ZmekpybHJUQUpIa25WVDN2VUJ2anpfRWNKT0wz?oc=5",
       "source": "CBS News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "8785992636a2"
-    },
-    {
-      "title": "The Edge: Drone tries to deliver crab legs to prison - WCCB Charlotte",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeV9VSE5ocmF5TnNBS2hfVlZJTzdUU0o2c0diS2pWcnRSS1ZxMGRKaElRODV1Um9kNVNVVVlfbUpQU3VxcklXYy13YWoteVBrQ2lBdTZQdlFzRWlZUGt5ejRaTkM3MGpjR0VKbXRSYWpHLW9NeGl6RDNWVWtqcFpxaGVQZkhDWExwR2hfQjBfaHFGVjA2NU9IUA?oc=5",
-      "source": "WCCB Charlotte",
-      "date": "2025-12-10T05:02:11+00:00",
-      "description": "The Edge: Drone tries to deliver crab legs to prison  WCCB Charlotte",
-      "query": "drone prison",
-      "detected_at": "2025-12-10T12:10:09.182446+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "34d88e9665e2"
-    },
-    {
-      "title": "Drone tries to deliver crab legs to prison - news8000.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGRkV09QUTI1dTJGc3phQTZJemdSZmI3OGlpMk0tcEdpNGxxdkg0TDJVM2dYNFBFZW9BaVZjMGc2cXNtZE50OUVMbUlCZ0xOa29Pc3llVGJZVGprS3ViU3FDam5VcXd1WkRrMkQ4NFNfT1pHX0FuZEtTU05OUGxvV3NvbVVHbVJBejl6RGxDUlpXeVZqNWFqQ21EVVhOVS02TWtfS3hCNGphUkFnMk13eEtLRDJ2VEpzYkw5NQ?oc=5",
-      "source": "news8000.com",
-      "date": "2025-12-10T10:22:18+00:00",
-      "description": "Drone tries to deliver crab legs to prison  news8000.com",
-      "query": "drone prison",
-      "detected_at": "2025-12-10T11:05:38.380498+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "928e2be8ade0"
     }
   ],
-  "last_updated": "2026-01-28T21:10:05.547779+00:00",
+  "last_updated": "2026-01-28T22:08:33.817781+00:00",
   "total_count": 1000
 }
