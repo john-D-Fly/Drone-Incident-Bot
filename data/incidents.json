@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Expands U.S. Base Commanders’ Authority to Counter Drone Threats - Small Wars Journal",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRldxNEw3UHdMVHE5d2phMWtKWE9JR2tPNVZpWFdpamdfNlJlWEhRMDVHS3BoUFphUzQ1UUhyM05ZaDh4c0NLcDYwTWs1VlpUY1dZejhRWnd2Wi0xdEtfLU1SWDVQSmd1UWJ5bHBxLU8zcXU2a1pma2pHNlNxUG9TZGp5U1R0UEFGcXF1MEcyRWZ3NUlaaUtXVjUxMzlvQQ?oc=5",
+      "source": "Small Wars Journal",
+      "date": "2026-01-28T14:39:05+00:00",
+      "description": "Pentagon Expands U.S. Base Commanders’ Authority to Counter Drone Threats  Small Wars Journal",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-28T15:10:52.438758+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "dd7e7c86d306"
+    },
+    {
+      "title": "Russian drone attack on passenger train is an ‘act of terrorism,’ Zelenskyy says - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0xqdkFVZmlvX1ZPYkFfdHd1dmt0MDZSam5qbnBkT1F0N0J1TUw3VU9JdmFkMEI1NURhSWZOdVRDYlVPZFJ4TW1oNmhTcElld0dZVWRTYWtBSHNQUVYwUjdtTnd0TlR3ZGtNNzBOZjI4UlBNSFkyRE5hYVVPUXFFa05mNmYxbXc4NE1JLTJ6NEZZZnRPdWpVNDJMMNIBoAFBVV95cUxPck1qWlp2OEFIc2pYMFRqRFB3WXp1M2hiOTBGRVZyTjI4anhuUmdtUGF3VnkyQVQxbXBxQnI4MHgtZXlGVk1xeEt6MjkxME9lcDhzc2tKWWRWcUFaejdSbEtycjVYbWFPYVVHN2ZaTjJIQUs0WkZyZ0J6X3hRSDN3SVVhdzJZa0kyZU8yM0xIS3pTaTRkMl9Vd25heVZjWXVm?oc=5",
+      "source": "Fox News",
+      "date": "2026-01-28T14:57:06+00:00",
+      "description": "Russian drone attack on passenger train is an ‘act of terrorism,’ Zelenskyy says  Fox News",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T15:10:51.780876+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "525affc73b96"
+    },
+    {
+      "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRURVQlJ3TzBCSjIzVlctaGhEVkQ1MDlVZ0dCMkRQeEFGdnlxd3VBaVFRWGtnbTRnb09RSWZ2bWJEMjlVb09xX1AtOEdUNVc4NUt3cm9XUkV1WWlVZlJGZHhPRDljakFnM0ctbk5PTmtDaTdMUDVJbk5NTHdmd0MtaEdLWDBvUQ?oc=5",
+      "source": "CNN",
+      "date": "2026-01-28T10:34:23+00:00",
+      "description": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’  CNN",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T15:10:51.780876+00:00",
+      "location": "in in Ukraine, ki",
+      "category": "terrorism",
+      "id": "d2a442e9eaea"
+    },
+    {
+      "title": "Turkey arrests 6 in alleged Iran spy plot involving armed drones - al-monitor.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGEwRXpDcVBEYTloWjBSQW55T21ZN2w5TE1VLTlicDFtWjVXZGJvUU15Q3N5dDduNHhqZ09MdjRKLUV2S0lSQ1BNc2lUbGY5c1JsZW9lQ3g3U2lXbi1NRzFRa1RLeFNDWEx2a21LUnRvb0hvT0VmMHBVcHdlS1RXY2I1Zm5ZamZTdmdQcXdNM3hTTmF5ejBRNS0weHVoTXAxdlkxbUJDYV83QQ?oc=5",
+      "source": "al-monitor.com",
+      "date": "2026-01-28T15:08:16+00:00",
+      "description": "Turkey arrests 6 in alleged Iran spy plot involving armed drones  al-monitor.com",
+      "query": "drone arrest",
+      "detected_at": "2026-01-28T15:10:47.246239+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "db3fb62d834a"
+    },
+    {
       "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’ - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelFhbGhNS1kyaGtjb1oyajVBQldfMUc2ZHBzckpZS3lLdmVzOXFVNHNzYXE2R2lCV2lJcWRBWDNIYi1HSVVxTDhxc3NPUjBCOTN3cWtNbGF5VW9fZTFHZ0Fzczk4VUlkbk1ZQ1dTSFpDQm1jZ0N3NncyREVWX21QOWNvckFEYmJr?oc=5",
       "source": "AOL.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "2d33271695f5"
-    },
-    {
-      "title": "Drone drops steak, crab legs — and a side of contraband to SC prison - LiveNOW from FOX",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd19DOVJSVVJXdEptSVZ4X0VSN0oySUZKR0hMNFZQSGM2dkZUc2hHOWRzRkpZeUlsYTM0ck1fRUswMVY5VEJZdzFpTUVoREhOWlhsS2xheERlSXlTX1VwQ0drX28wMkwtSFRMRmIwamhDSmk2YzJfT0NnRXpXT2cxNEFIbzlJbnZRYy1GVUJKRFp1dw?oc=5",
-      "source": "LiveNOW from FOX",
-      "date": "2025-12-09T17:21:51+00:00",
-      "description": "Drone drops steak, crab legs — and a side of contraband to SC prison  LiveNOW from FOX",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-10T01:34:36.891108+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "13154a40b9c1"
-    },
-    {
-      "title": "Texas Parks and Wildlife decide drones can’t be used for fishing bait or taking wildlife - CW39 Houston",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2ZfNzBWQUdQZlBkNG4wbjliYUpVUjNZTkpKdzNPMDEwREJjZGk2TFJBaXRhNjNQbkpjbHVqSXdEa2czaW9rOUkwR0VVRWsyQ0xiS2pvSVN1MUxpQ0FPZTdhRnlVd2Zjb3AzaTZXSkNsQ0ZTQWVDTU5MQkl0dWpWTEo1OTh6cWY5enVGZC1PUExSZFJnaTdOZGVrN01hcXZuV0R0Z2VpWGhNblNqc1FvdGh3aHMxUjU2N3dISHBR0gHDAUFVX3lxTE1hVEI5ekkxekhiUXJUWV9waDhaTHZYbmNISVMybldLbEVkajh3WVU4dkZtS3BSWkF2eVJvaGprZG1jcVFFMmVsbVNtaUcycHZKcGJoOHQ5WkE5ajVFdXJURjFqQzU2SUNNdjRQTXc1bTRmV0JCeEQ0S3BSSWZaZEJEZzVDN2w2aGt2azJBNnlHRkRBM3RQRzVJWkVRdTFNOUdXT2NBanFSWFZ1Z2pqRi1fTWgza2VvUU9VRmRhbWNiOVZkTQ?oc=5",
-      "source": "CW39 Houston",
-      "date": "2025-12-09T13:02:00+00:00",
-      "description": "Texas Parks and Wildlife decide drones can’t be used for fishing bait or taking wildlife  CW39 Houston",
-      "query": "drone illegal",
-      "detected_at": "2025-12-10T00:24:27.040025+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "899d8fe018a5"
-    },
-    {
-      "title": "Drone bust spoils inmates' plans for forbidden feast at S.C. prison - WRDW",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGNuTldnTGtiY0UyQm1NbHBVTUkwNWlyOHpTdnlDdXAzMkdoakMxSngwdE1PQVQwZzBQWW1LTE5pWjQxUjhzOW9vTmx2QTFoNWswdEQ3OXpUYTVPLTRQeVZKQVZJa2Q3RWE2a1I0RGozNUgtSDA1c2tJRTl6cW96czZtYjZNMjJQVnRib193NVFSaWl3UWYyU0dPa2E?oc=5",
-      "source": "WRDW",
-      "date": "2025-12-09T23:25:00+00:00",
-      "description": "Drone bust spoils inmates' plans for forbidden feast at S.C. prison  WRDW",
-      "query": "drone prison",
-      "detected_at": "2025-12-10T00:24:25.397197+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "06976e560762"
-    },
-    {
-      "title": "Drone drops ingredients for prisoner feast into yard of South Carolina prison - WYFF News 4",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1AxNGRQZGFuemhTdzBkNmR4bVR0Mjk1WjlQY1VQRC1vQjU4XzlYM2VQYlVQbFk0TF9uTlV1RFZSYmU4UDR1Qm9IZWNQeUNnVWsxaE50U2ZhVm5PcUFzWEZlRVZrOWZUQlplczlTRlhDMTFKLTRTR3dMS2M5S2w5bER2VGZza3VPejVnMUJiRXZDNWg2cTAwVzZtNA?oc=5",
-      "source": "WYFF News 4",
-      "date": "2025-12-09T23:12:00+00:00",
-      "description": "Drone drops ingredients for prisoner feast into yard of South Carolina prison  WYFF News 4",
-      "query": "drone prison",
-      "detected_at": "2025-12-10T00:24:25.397197+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0a4fbc1588d5"
     }
   ],
-  "last_updated": "2026-01-28T13:21:43.576949+00:00",
+  "last_updated": "2026-01-28T15:10:53.115342+00:00",
   "total_count": 1000
 }
