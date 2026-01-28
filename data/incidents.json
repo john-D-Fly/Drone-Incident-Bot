@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Zelenskyy condemns 'terrorism' after Russia hits train - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5",
+      "source": "dw.com",
+      "date": "2026-01-28T03:00:31+00:00",
+      "description": "Zelenskyy condemns 'terrorism' after Russia hits train  dw.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T16:11:29.445651+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "74c58467746f"
+    },
+    {
+      "title": "Police use drone to help in fatal Kansas knife attack arrest - jcpost.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSFI2MzdHcVlVQTRHd21nU1JsOXl6UEgwMWNLRU94Z2dtbXpwa3d1bGtnYWZxekJfTnR5UWhvbTRuaW1Ia1p5Rkd5b2hKaHI5bktibEd2UUlyTzc0Uk9fQ29fSVpKbUV1UVNqaGNB?oc=5",
+      "source": "jcpost.com",
+      "date": "2026-01-28T15:32:17+00:00",
+      "description": "Police use drone to help in fatal Kansas knife attack arrest  jcpost.com",
+      "query": "drone arrest",
+      "detected_at": "2026-01-28T16:11:25.190002+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "bda64fcb3c24"
+    },
+    {
       "title": "Pentagon Expands U.S. Base Commanders’ Authority to Counter Drone Threats - Small Wars Journal",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRldxNEw3UHdMVHE5d2phMWtKWE9JR2tPNVZpWFdpamdfNlJlWEhRMDVHS3BoUFphUzQ1UUhyM05ZaDh4c0NLcDYwTWs1VlpUY1dZejhRWnd2Wi0xdEtfLU1SWDVQSmd1UWJ5bHBxLU8zcXU2a1pma2pHNlNxUG9TZGp5U1R0UEFGcXF1MEcyRWZ3NUlaaUtXVjUxMzlvQQ?oc=5",
       "source": "Small Wars Journal",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "f3a3451abbdc"
-    },
-    {
-      "title": "No, you can’t use a drone to bait fish, Texas Parks and Wildlife says - KXAN Austin",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGZfNFBmSmtZRlRfVmZGR2lKZFRMQm5hYkNBeEd0ejJILUZyNThYbnFVbldra0lDUVM5NXpKa2ljX0dQaE51UTNSb0l5RXhGVUZMT3Jya0N6bEwtT3dFYTVBNS1hT3FKUmhjOHhnOGtzSzBDLTVMbmNOVWdQdU51RnQ2d0VyZlFkZ2VrVXU3ZlNTdFhGMkFTYTE1VnNlQmVo0gGmAUFVX3lxTE53OXFJekJfd01fTDJDWWNWd3l2NWhWZHVnV0x5UW80QnZJdVVzNzBPX1ZSZ3E0d1F2MDdPNk9FYmNZOXRpektvVWtsOXBpQkF2dHRsZ0RNcjBUcjhfMDUyOTllSng4b0RlbVNlT2laaTFWbmw3WkNfaDFpX2tJNjlGSjRaSzVpMjhnczRMcE5QRzVqZnNJYXZGT2JUVjYzNHJ4aGlTV3c?oc=5",
-      "source": "KXAN Austin",
-      "date": "2025-12-09T21:03:45+00:00",
-      "description": "No, you can’t use a drone to bait fish, Texas Parks and Wildlife says  KXAN Austin",
-      "query": "drone illegal",
-      "detected_at": "2025-12-10T01:34:39.805835+00:00",
-      "location": "in No, yo",
-      "category": "other",
-      "id": "898ff3d87dd0"
-    },
-    {
-      "title": "SC Prison Drone Drop That Was Loaded With Steak, Crab Legs, Weed Foiled By Corrections Staff - OutKick",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3RxaS1VSFc4SXVGQXR5bVJ1RXlYTlJpd2tEV0ZsX0tQLUI5VFBsVlk1Y25HdE9qcVFHa0VFRXY5RFczWXluQlYtVnNISmFzblhmN1dmRlZabFJBYmVQRzBvMXJ6WjI4eTk5b2NoR2VxYzUwTTNnaUZidlJ5czdYdHNaNjByLTIzWUpJSVBn?oc=5",
-      "source": "OutKick",
-      "date": "2025-12-09T23:48:03+00:00",
-      "description": "SC Prison Drone Drop That Was Loaded With Steak, Crab Legs, Weed Foiled By Corrections Staff  OutKick",
-      "query": "drone prison",
-      "detected_at": "2025-12-10T01:34:37.553177+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2d33271695f5"
     }
   ],
-  "last_updated": "2026-01-28T15:10:53.115342+00:00",
+  "last_updated": "2026-01-28T16:11:30.666133+00:00",
   "total_count": 1000
 }
