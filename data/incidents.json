@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’ - newspressnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU2pSNFZRdUNYXzdtZVF6SE1DZFJXbGxwMjZSaFpBRGVxRm1tMDdwVmlMVGdCYkptU0dYcnhPZHJPQXdnQi1OS0NNU29mbjZhQlpnMFVTbExlVWhmc1JkcEVKOTBHRHhqU0U4eVBLQW42eEJkRlpLRllGYlE0VFBlYWk3RTlNSko1TDNRTTIxaml1R2x6SldsWWxoUnhPWG44UHlDN050VjJoZXQ4U2tHbjlhS3ZoZVdocE9nVVkzRUFJX1hJZ1lSVDRkSS0yZFZZR3pwRHRZZzc4WTlON0xV?oc=5",
+      "source": "newspressnow.com",
+      "date": "2026-01-28T12:33:46+00:00",
+      "description": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’  newspressnow.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T18:11:09.273120+00:00",
+      "location": "in in Ukraine, ki",
+      "category": "terrorism",
+      "id": "025da53328a5"
+    },
+    {
+      "title": "Zelenskyy condemns 'terrorism' after Russia hits train - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5",
+      "source": "DW.com",
+      "date": "2026-01-28T03:00:31+00:00",
+      "description": "Zelenskyy condemns 'terrorism' after Russia hits train  DW.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T18:11:09.273120+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "43b132c63a0d"
+    },
+    {
       "title": "Russian strike kills couple near Kyiv as attacks hit cities across Ukraine - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2pVajZvWlZIZERZTWprWVZKNWtuNF9nWHdLSngwNEF3VzZJc19UanBLdGltTUdfWkJDRFoxcUxXRzZOV05GeFRKWnZudTRyRkVWR05SZEhqYUYxeUtnZEpuWVZ0VWp1WExoSU9zeUlENnhJM0lGZTBmZWwycHJxcU1ER282ZTlsSmhUUF9nSlQ5MnliOFRrNEJyRFFCX0owUjN1cUdVRE5NSnVjN01FMVpFWlY0TnJkWlJhaGEyemtvUnc?oc=5",
       "source": "Reuters",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "349b879e071a"
-    },
-    {
-      "title": "SCDC: Officials find drone delivered contraband at SC prison - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjJsWWEteUxZVjZGajdGanIyVFB6NmRJc2Y0Y1RuMktmTzNZbkJONkRCMTV5VWh1SWFGZG5DYTRuY2gtV3h6SnJoN1ByNkp3aTM2cUp0Rkl3OHd0S3dPZ2ZCMkd0UHprSlROZXRpa3ZQaGhlWHZjWFJtVHBtUGxEYzRkX3MydHdHbFRIV3BnREVjTnpVNlk4YmZmSDRoYmtR?oc=5",
-      "source": "ABC Columbia",
-      "date": "2025-12-08T19:03:04+00:00",
-      "description": "SCDC: Officials find drone delivered contraband at SC prison  ABC Columbia",
-      "query": "drone prison",
-      "detected_at": "2025-12-10T03:32:28.345049+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "cb4d39cf8a69"
-    },
-    {
-      "title": "MPD: Father arrested after his 3-year-old child is found walking in the street alone - WFIE | 14 News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd082QndJOEtPd2NGVFZSQXpyTmU2RXpSWFF6Tk9LVV9reXRkUzVGWGFQWEhaYzZfN1M4c294SDAzR3VFTmdYN195QVNNVl8xSnJVd3IxLVo2aDl6SlpjT2kzZ2hxR3hydEJyM0t2WUxuZGJkbFBqaEZBdjk5NDQ3QVBnemx2ZWp2WER5Q3FDd3ViVnNzNlBwSzAtN1BrMW13bTJnQ1lQZU1mUHdYcDVhTQ?oc=5",
-      "source": "WFIE | 14 News",
-      "date": "2025-12-09T14:35:00+00:00",
-      "description": "MPD: Father arrested after his 3-year-old child is found walking in the street alone  WFIE | 14 News",
-      "query": "drone arrest",
-      "detected_at": "2025-12-10T03:32:27.025731+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "455c25ce1e23"
     }
   ],
-  "last_updated": "2026-01-28T17:14:00.668530+00:00",
+  "last_updated": "2026-01-28T18:11:10.701678+00:00",
   "total_count": 1000
 }
