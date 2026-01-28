@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian drone strike on passenger train in Ukraine's Kharkiv region kills 5: prosecutors - CBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DRlZkTG42ZW16UDJDSU9YcFNlVmk3VDRwQmxvdTl1akg3WjNRXzBTSW5va1lpa01taXM1M0JXdnhpV2w5Ry1zRzM0SXk2eTN0aDd3VzNEMUVQLXRYTzlrdko0X2QyM1hGa1JtZXZRclBZN3BtcVE?oc=5",
+      "source": "CBC",
+      "date": "2026-01-27T16:11:00+00:00",
+      "description": "Russian drone strike on passenger train in Ukraine's Kharkiv region kills 5: prosecutors  CBC",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T01:35:19.464376+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "46bf6d6f1a99"
+    },
+    {
+      "title": "Russian drone strike on Ukrainian passenger train kills five - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdS05MV9jMGx4eFlURXo4UUxjc2Z4TXVtVFE4Z0EwT3l2UHVac2NEWkRaWEhLMjBHaFJvQjU3cEVUbnVjN1lYU2Z5Z29hQWNfM1l3ZGtyaDJKbDc5MGR6RXdKUDBrMkk2Z0IydkpwOUFoUmtOQ1NtT0tuSmpxV1kzRWZZRUJ4NWFDQnpmU1dnTklGLU9UX0JhSDRXbkt5RmRpYWJVUGRjOEJfQQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-01-28T00:04:00+00:00",
+      "description": "Russian drone strike on Ukrainian passenger train kills five  The Guardian",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-28T01:35:19.464376+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3b1ca15b2bbb"
+    },
+    {
       "title": "Russian drone strike on Ukrainian passenger train kills five - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdS05MV9jMGx4eFlURXo4UUxjc2Z4TXVtVFE4Z0EwT3l2UHVac2NEWkRaWEhLMjBHaFJvQjU3cEVUbnVjN1lYU2Z5Z29hQWNfM1l3ZGtyaDJKbDc5MGR6RXdKUDBrMkk2Z0IydkpwOUFoUmtOQ1NtT0tuSmpxV1kzRWZZRUJ4NWFDQnpmU1dnTklGLU9UX0JhSDRXbkt5RmRpYWJVUGRjOEJfQQ?oc=5",
       "source": "The Guardian",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "5235f22e0413"
-    },
-    {
-      "title": "Drone drops steak, crab legs into prison yard, but guard finds it first - WFTV",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGpFNEQ4V3Q0cHBfZDE3X1NjNmRZYXN5UW1UVE1nX1FvZFlYTVZHOVhHUUdPMmNMLTdCVUpwUkNiM3dhTlQ0RmE4blR0QTJIdlhoRkdOZXZpcnVUS25JQkc3Vm1HZDVJSXQtal94U2xzcWYxX0V2eWJvcVY0bjR6X1k2TlBjNTJ1TENBZHJVc0hOdS0xODRZNjREVi0xeVdETmIxVEk0ZFU0c2M3TzF2MlNlX3RRNHNBaEFnQllmR2pORnpVTWxF0gHbAUFVX3lxTE00WDRuM3BRRmlyS09wRDRNN3N1UGVVODk2VnBPSGF4WjZPU3RHbkhZamQybnIxVzh6cWlRZHMyMHAwbkZVWWVfV1VWTS13ZjlmMmptbmRwU295VkYxQW5PZVJkNEtBbGZOVDZaT01wd2lBSnY4RkxMQWIyYmx0NEszaFhFYkF0eWItY0huWWQzYnZ4Y2lFNzViU2Z3Q2k3OU9Sem9zTFJEdld1dUJCdVlSLTR6Q2dKajZKb1plcGNBbEhVUVBOeWFWcFBGQTctLURvV3AtYVBCYXJtUQ?oc=5",
-      "source": "WFTV",
-      "date": "2025-12-09T16:04:01+00:00",
-      "description": "Drone drops steak, crab legs into prison yard, but guard finds it first  WFTV",
-      "query": "drone prison",
-      "detected_at": "2025-12-09T16:07:09.603613+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5138b28f7ba0"
-    },
-    {
-      "title": "Authorities intercept drone carrying crab legs, Old Bay seasoning, weed for prison inmates - WKEF",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUjFrWTNGSVJwMmFhWE9fRHJrQzFtYmZZM1ptWkxROXMtWVNfZG5paWdCbVNlaHJNTnhPNmluaEVWRld2YlVYUVl0UW5XRHdoZnY3Z2ZTQk1neDgtYUNDeFRVN0hRbHdxNkJHM2tzdTNXTm53dVhweVd1TzRnajVrR0pIWlpUWUlPdTNWTGN0M19UczN5aTRmLXJveXUtWDZCQVF4NnJkVVMxX0xPZkZrVTAxWmJYSXRRbWhOWWxrQlhZN25iTkhybjZzZHFaSE44NTZpUE5Ma19Yck1BUE1BcGpnYlg4S01zNjdzOG5iVWRXNDlIWUFVY01nUERBZzdVbFRoYXRVaUx0dG05NmJ2Qm92aEg3NnlKUnU5V3dsTmtMWE1BS3FIV2Jlckc3cFM3N2F0M2RyekpYTXBrMWdxTm9Qanl5bnlsVVNHOWowbHEzRGxXbTVoYTZjZ05mUDgzSHE1UVRSTUU3N3RKaTczVlQyLVRucnY3cnlwOTliN3FEdFBrbzFOUV8wR1k1UTctSHhr?oc=5",
-      "source": "WKEF",
-      "date": "2025-12-09T15:34:39+00:00",
-      "description": "Authorities intercept drone carrying crab legs, Old Bay seasoning, weed for prison inmates  WKEF",
-      "query": "drone prison",
-      "detected_at": "2025-12-09T16:07:09.603613+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fad3859ef2c9"
     }
   ],
-  "last_updated": "2026-01-28T00:25:56.135059+00:00",
+  "last_updated": "2026-01-28T01:35:20.837697+00:00",
   "total_count": 1000
 }
