@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "At least three people killed in Russian attacks on Ukraine - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2dMbDBYaXNWOFVrTXFlMTVWUFZxNVJLbjBSbm5mRWs4Q05uemYyMVItVUtzSFk3YzJ4aHhURDl5ZVJfemhBRXBhMFlrbjhYTHNBeHRVMXZyQjNmZkxfamIzZ0pTYWlSSDYyTHViOHd0Wk94bGJ0cm1KeDV6eHBkckpzUFFSQUF6Y3lGMkxtMHhGdXJ20gGaAUFVX3lxTFBwVnZRdURtc1dSVzJZZTlnc201bUFmYUdhRjZ4aXZURTBQQ0ZjMWREMnQwRlFBU014RkdGNnY3YUpISFJMYzlYY3dzZGdOTXU4cUpMRXJjX2JUd3Ytd00ydXdweklMeHJQclNxTnZBZnlCSkNhZ21sVHppdVQ5enByREQ2X3RCNW10SC1EMGFRVUVDVFVkSVE2RkE?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-01-28T10:18:45+00:00",
+      "description": "At least three people killed in Russian attacks on Ukraine  Al Jazeera",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-29T08:13:12.412125+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "960425e18dc2"
+    },
+    {
+      "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FVTB1cm5QWXBNczNuSHgxNkVCQVZVSkpsUHhkRDVaSEQtZklLXzdlT0ZtMlQxRVV6V2ZMMXE3TG5Mc1dJTDJUejJmcVgzR1ZkU3FPM2RyWmgtUQ?oc=5",
+      "source": "BBC",
+      "date": "2026-01-28T16:59:02+00:00",
+      "description": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike  BBC",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-29T08:13:12.412125+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a8505c435b38"
+    },
+    {
       "title": "Retail theft suspects arrested in coastal O.C. with help from a police drone - newsantaana.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzRvWFRtY3htWFJwZDhzMkdPNkNUaEVFU0RXUTU3NU52czJvSEVNcHNuQWVFYXdDVHcyUDVKc0pTamdTN0RJTnRJaHFoSGtrb3RzVFZ1Qld5R08wcVowdzI0bWJRcVdCbG9OTG9hUXItZ0wzb29rQUw3OWxFRVpENGg1eTJjWmVLa1hZdV8wT1UydDljVTkwb0YxMUlRTmNKLXc?oc=5",
       "source": "newsantaana.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1a1f3fee6beb"
-    },
-    {
-      "title": "Drone fishing in Texas: TPWD's new clarification after public outcry - Chron",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEU2c29QY3AxTjdXTEY5Z2xUZ3V0WExtVDAzXy1iOVF0SUx6NGpicFhOT2VUZEw1ZHVyM0I4dGM1TUotaGNDNGZsYkE5QUUzalNROExXdVJ3d3dJRGNzYVBQQV84ZksyMkhJTXp5eGdtVWExNmhMcy1KWnRpNnBCc1dn?oc=5",
-      "source": "Chron",
-      "date": "2025-12-10T18:28:50+00:00",
-      "description": "Drone fishing in Texas: TPWD's new clarification after public outcry  Chron",
-      "query": "drone illegal",
-      "detected_at": "2025-12-10T19:05:24.028198+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6306afe83469"
-    },
-    {
-      "title": "Drone Carrying Cannabis And Crab Boil Contraband To Prison Taken Down Mid-Flight By Authorities - Black Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGJRVDFZQ3pjU0tnZktDV3N3VzBxakRaekxreDcyNjdMYzBFNVBoRzFpRnlaMDhHZFhOX3NRNmFPN1djNHJPQjE1czlPRTJnX0R1eGZhdl9VWGZrVlBsa2E3YndWekJzR0JpTkQ4ejF3bWY2RkU0a0JPNVkzRkVPNHo3T0xfVTVjM0E?oc=5",
-      "source": "Black Enterprise",
-      "date": "2025-12-10T16:04:51+00:00",
-      "description": "Drone Carrying Cannabis And Crab Boil Contraband To Prison Taken Down Mid-Flight By Authorities  Black Enterprise",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-10T19:05:21.483326+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2e0a4aa7f3f0"
     }
   ],
-  "last_updated": "2026-01-29T06:18:22.839943+00:00",
+  "last_updated": "2026-01-29T08:13:13.659465+00:00",
   "total_count": 1000
 }
