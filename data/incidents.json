@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Army foils smuggling attempt using drone - en.ammonnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PekhOcjIzQlAzclhOckUwQzBLREF5N0JPWTVkeXVtNDEzamg3SV9PcWdqZWYyV2RHcjlJV19Ca01kSXBCRUhGY2g5aGFBQQ?oc=5",
+      "source": "en.ammonnews.net",
+      "date": "2026-01-29T10:52:33+00:00",
+      "description": "Army foils smuggling attempt using drone  en.ammonnews.net",
+      "query": "drone smuggling",
+      "detected_at": "2026-01-29T11:13:14.350631+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e0ba925ca829"
+    },
+    {
       "title": "Man arrested Wednesday after armed standoff with law enforcement in Suwannee County - wctv.tv",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2J4NkFsQVhUY1ZEY0N2R3NnaHVTanoySzJrN1lNSzhEb29yLWFSeUg1NXJFM1ZkdzlLUzMxbTVaclg5Z1V4dFRiZ2ZkOWhJVVJBbk53ZEZFYTlvaXpmbEx1dC1lLVBOOGo3MjNGWnFrRy1jUUVZQUhXTWs2LTVxbGZZWDlVZmVCaG1JRDNXcUhROUJtMkZfenRIU2YzNHJ4Mms1b1J4X3gzbEJKYzRodTZn?oc=5",
       "source": "wctv.tv",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "f614e2eb7f4e"
-    },
-    {
-      "title": "Drone incident posed no threat to Zelenskyy's aircraft, says Irish PM - Українська правда",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHT0IwdkxtcFJ4ZllMMHJRNi05V1FwYmY0NzBZeGlBeDNhRjMwNzlnR1NxWXdoT1VVaGF2WjNRaHljaXpfSDVVVmwyemVzam8xc1MwLWltUWFwUTVUeUZibGFxb2vSAXBBVV95cUxQOG1vUVRwODRVOG1kam5Mc3FPN2ROZ3lBZ3dEWmdRYmxWUUhlT3ZBWFRRRFM3blJDWW03YmFSaTR6WXJIRmZmVm83c0x5UHRPcTV1RGFtRlhuY0JyUUN5RUtBb2txaXB2dHF0OHpXcmI3?oc=5",
-      "source": "Українська правда",
-      "date": "2025-12-10T19:48:00+00:00",
-      "description": "Drone incident posed no threat to Zelenskyy's aircraft, says Irish PM  Українська правда",
-      "query": "drone incident",
-      "detected_at": "2025-12-10T21:06:06.859789+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "be3d129ba275"
     }
   ],
-  "last_updated": "2026-01-29T10:14:45.204585+00:00",
+  "last_updated": "2026-01-29T11:13:18.866587+00:00",
   "total_count": 1000
 }
