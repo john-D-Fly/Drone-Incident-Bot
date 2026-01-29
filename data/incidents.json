@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Zelenskyy condemns 'terrorism' after Russia hits train - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5",
+      "source": "DW.com",
+      "date": "2026-01-28T20:28:08+00:00",
+      "description": "Zelenskyy condemns 'terrorism' after Russia hits train  DW.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-01-29T20:08:59.780200+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "6e9660b83e30"
+    },
+    {
+      "title": "Army Foils Drug Smuggling Attempt Using a Drone on the Western Front - Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZy1WZkM0NHVTdmhjeUdIQURFTkpKVXVmWGNVWW4xYlVMeVRnbm9MdGJRRXNUYVJ3SUhNRlNSUk0wcjRYNGJoblloekdDX25lNmFpM3B3akp3bU5XbEE3VFZ1NDk2U3BoODU2SXROcVdOcUhyUDBKOUVCckZjS2dVZHNXQXpRaUhvQlRGWVBlc09xdDhYZHRCSEoxeGlsQm9fMlNEaWxLdGxKNlJLWmZ5SVUwMGtmd09M?oc=5",
+      "source": "Jordan News",
+      "date": "2026-01-29T13:03:38+00:00",
+      "description": "Army Foils Drug Smuggling Attempt Using a Drone on the Western Front  Jordan News",
+      "query": "drone smuggling",
+      "detected_at": "2026-01-29T20:08:55.525976+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "817db6f30b0d"
+    },
+    {
       "title": "Army Foils Drug Smuggling Attempt Using a Drone on the Western Front - Jordan News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZy1WZkM0NHVTdmhjeUdIQURFTkpKVXVmWGNVWW4xYlVMeVRnbm9MdGJRRXNUYVJ3SUhNRlNSUk0wcjRYNGJoblloekdDX25lNmFpM3B3akp3bU5XbEE3VFZ1NDk2U3BoODU2SXROcVdOcUhyUDBKOUVCckZjS2dVZHNXQXpRaUhvQlRGWVBlc09xdDhYZHRCSEoxeGlsQm9fMlNEaWxLdGxKNlJLWmZ5SVUwMGtmd09M?oc=5",
       "source": "Jordan News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a030071f59bd"
-    },
-    {
-      "title": "Operation Gumbo Drop Thwarted as South Carolina Prison Guards Seize Drone-Delivered Contraband - FindLaw",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnE5RmFPcmtOS09NUzZRVHEwUDNjSjE5Q0psU3V5ZE5nZ1gtSU4tdm8za2M0X1VFYU1SRkhZVVl2MXZ0cThOSE1PN0VlWlEwWFFOM21Od0RBQU5OSGdSRndCblF6MktYd0xoZU14Z3NsYmFycVFZY2F3YW1YUE9aSTUzazl0b3FVSjg5N2JYVFdETzd4cGU4cHI4Q0JxVTJQcEVCNXhtVmpRcG1wWWZPN2k5b1QxT284Nk9yMTZVOXg1VUExVHpUeVhXOGdZNmM2NW9fbFlMYjZsbGM?oc=5",
-      "source": "FindLaw",
-      "date": "2025-12-10T18:49:59+00:00",
-      "description": "Operation Gumbo Drop Thwarted as South Carolina Prison Guards Seize Drone-Delivered Contraband  FindLaw",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-11T02:39:34.871654+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "26a7b3430670"
-    },
-    {
-      "title": "Old Bay part of contraband dropped into SC prison - Maryland Daily Record",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkpHd3VpaGtEWGFSMDdrRmtqYXVhbnh6ZGpTWVIxeHItSjNkb1dHVzUzTmhkamJ4cEJIbV9NMm8xVmVtWjYxVXZTZU9Oc3dkY19NLXMyV0owU05WNE1oS2tTak9Md3ZyUGNuZEtuYjBQNTRMVTlYSW5UNl84c05fQVhUZE95SmY3cnc?oc=5",
-      "source": "Maryland Daily Record",
-      "date": "2025-12-11T02:37:04+00:00",
-      "description": "Old Bay part of contraband dropped into SC prison  Maryland Daily Record",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-11T02:39:34.871654+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "26a579ee7d59"
     }
   ],
-  "last_updated": "2026-01-29T19:14:41.936143+00:00",
+  "last_updated": "2026-01-29T20:09:01.337918+00:00",
   "total_count": 1000
 }
