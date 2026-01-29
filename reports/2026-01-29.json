@@ -1,0 +1,138 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have highlighted ongoing tensions in Ukraine, particularly around the use of drones for terrorism and smuggling. Ukrainian President Zelenskyy condemned a deadly Russian drone strike on a passenger train that resulted in at least five fatalities, reiterating the act as terrorism. Concurrently, there were reported cases of authorities foiling drug smuggling attempts using drones in various locations. The Pentagon is expanding counter-drone policies, and the issue of unauthorized drone use is becoming increasingly prevalent, especially concerning airport disruptions in several major U.S. cities. Overall, the geographic spread includes significant incidents in Ukraine and rising concerns regarding drone-related crimes elsewhere.",
+  "totals": {
+    "terrorism": 10,
+    "smuggling": 4,
+    "arrest": 6,
+    "airport": 3,
+    "other": 10,
+    "total_incidents": 81,
+    "by_category": {
+      "airport": 4,
+      "arrest": 7,
+      "crash": 3,
+      "other": 36,
+      "smuggling": 7,
+      "surveillance": 1,
+      "terrorism": 23
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 7,
+      "drone crash": 3,
+      "drone illegal": 1,
+      "drone incident": 2,
+      "drone prison": 4,
+      "drone smuggling": 3,
+      "drone terrorism": 46,
+      "unauthorized drone": 10
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone terrorism",
+      "rationale": "Significant increase in incidents involving drone strikes and terrorism-related activity in Ukraine.",
+      "incident_ids": [
+        "2f8d770e5e2e",
+        "83e9077fa9eb",
+        "350a3b070dfd",
+        "afa0c4813ee6",
+        "960425e18dc2",
+        "1481b7509a26",
+        "7228bc6858a3",
+        "923ed22604e5",
+        "cfd71ec63771",
+        "d0805e84da17"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Notable incidents of drone use for drug and contraband smuggling activities.",
+      "incident_ids": [
+        "83e9077fa9eb",
+        "e0ba925ca829",
+        "f6664ef1f1cd",
+        "5f7ee857c485"
+      ]
+    },
+    {
+      "topic": "drone arrest",
+      "rationale": "Increasing use of drones facilitating arrests in various contexts.",
+      "incident_ids": [
+        "1481b7509a26",
+        "318a9e18f855",
+        "b794ebeb379f",
+        "d2a442e9eaea",
+        "b8b77e5ef4bd",
+        "db3fb62d834a"
+      ]
+    },
+    {
+      "topic": "airport disruptions",
+      "rationale": "Emerging trends of drones causing flight disruptions across major airports.",
+      "incident_ids": [
+        "81febde2ff3a",
+        "9f4b9fde4b01",
+        "6a38bfec635f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "2f8d770e5e2e",
+      "headline": "Russian drone attack on passenger train is an ‘act of terrorism,’ Zelenskyy says",
+      "one_sentence": "A Russian drone strike on a passenger train resulted in multiple casualties, which President Zelenskyy has condemned as an act of terrorism.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    },
+    {
+      "id": "83e9077fa9eb",
+      "headline": "Army Foils Drug Smuggling Attempt Using a Drone on the Western Front",
+      "one_sentence": "The army successfully intercepted a drone being used for drug smuggling operations.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "350a3b070dfd",
+      "headline": "Zelenskyy condemns 'terrorism' after Russia hits train",
+      "one_sentence": "President Zelenskyy reiterated his condemnation of terrorism following the drone strike on the passenger train.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "1481b7509a26",
+      "headline": "Retail theft suspects arrested in coastal O.C. with help from a police drone",
+      "one_sentence": "Law enforcement utilized a drone to assist in apprehending suspects involved in retail theft.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "81febde2ff3a",
+      "headline": "New York Airports Among Most at Risk of Drone-Related Flight Delays",
+      "one_sentence": "A recent report highlights New York airports as particularly susceptible to delays caused by drone sightings.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising tensions in Ukraine with terrorism concerns and increased smuggling activities.",
+    "linkedin": "The latest drone-related incidents underscore growing tensions in Ukraine, raising alarming concerns about terrorism and increased smuggling efforts using drone technology."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-29"
+}
