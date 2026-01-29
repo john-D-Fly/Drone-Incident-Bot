@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Updates Installation’s Drone Procedure - Association of Defense Communities (ADC)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2sxazhxeHA4NTdNanhfcDczMzlRTkFwZFEtdUcyRGVvRFM1SWlYOVB6Y1JWa1dMVl9UZFh6WHN3ZmNJUFlsNERuTk0xMHVSVmhxM0xaOTBuTUx3Y3o3MTBQdmYwd2w4endyaWZqalZBck1KaE9TWG5VTW9Cdm02V2hhMGtMMm96LXJZRFlaQ0U2dzhpMUFRN2tqTXJFRVlNWlh3?oc=5",
+      "source": "Association of Defense Communities (ADC)",
+      "date": "2026-01-29T01:48:09+00:00",
+      "description": "Pentagon Updates Installation’s Drone Procedure  Association of Defense Communities (ADC)",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-29T21:08:35.168673+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "94fce1037063"
+    },
+    {
       "title": "Zelenskyy condemns 'terrorism' after Russia hits train - DW.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5",
       "source": "DW.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "d8d01f7af8bf"
-    },
-    {
-      "title": "Drone delivery of steak, crab legs to inmates is intercepted - ABA Journal",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1JEcnFfOGpTbjFyRFljMnFrTHhBWVBqbVFrYUF1MmlpZ19fQWUyMHRpZkFaanZZUkk5ZC03ZkU2dWVfNzBna3pjRjYzMU9KTGp5d0hNenV6anlGWnpVMmpuMTJmdldqZUlRaWpHcDAtT25kOWxVc1FFcXpGdFpqTW82Q3BfWnYwdkp5SW5pQUQ0MEZoT1lfQmhFRnBMWXRsY0NxYXNiUi1ETDRFLXFuVjdiZWg1elZhU2c?oc=5",
-      "source": "ABA Journal",
-      "date": "2025-12-10T20:21:15+00:00",
-      "description": "Drone delivery of steak, crab legs to inmates is intercepted  ABA Journal",
-      "query": "drone prison",
-      "detected_at": "2025-12-11T02:39:35.492724+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a030071f59bd"
     }
   ],
-  "last_updated": "2026-01-29T20:09:01.337918+00:00",
+  "last_updated": "2026-01-29T21:08:35.735112+00:00",
   "total_count": 1000
 }
