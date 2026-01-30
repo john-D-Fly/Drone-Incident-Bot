@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Can I fly my drone at Super Bowl 60? Here's what you need to know. - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2tIdFI3QmMwdXUtNmFIcnIyMUNHZnR1NldNNUNLMTRPNmowYUlvdEM1anNpaS11ZXc5ZzVEc09TUzZCT1BwSVFRVWw5c2sxY2tpVmZtTkh5V1BFSm1KaU9SMWdFQzNQWEROeHhEeUE4QmRhLVJhMEhjS2VtNGw4eXRkdFNBaU1IdWY3bjRyTFg1ZzlHeWVfeDJlM1RSRnY1aEdqbDBYZTFRd3N5UnZ0bHdIS1d6dzZVX0lVU2dpMG4zejU0YzJybHdHeHZOYkJxSzY2Ykh0NExZeGI4T002R01wekZfMGZBeHA2YXo5MjM2TkFX?oc=5",
+      "source": "USA Today",
+      "date": "2026-01-30T18:16:00+00:00",
+      "description": "Can I fly my drone at Super Bowl 60? Here's what you need to know.  USA Today",
+      "query": "drone illegal",
+      "detected_at": "2026-01-30T19:14:33.561865+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "004c91dfcc71"
+    },
+    {
+      "title": "DRONE VIDEO: Route 222 tractor-trailer crash causes lengthy cleanup in Lancaster County - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQam9tYnJQSVRGSy1rRFhyMGgyQkRZVmU3bWtqeXRpbHpJTnF0b29LN2lDbXV6dkE2VnotZ3hkZjNpNGZaaklrYzI3VlJrWGNXUk5DaFR5UDFPWlVvajVsS1Q5dXNVTHJmQ2J4Y2JrZ0c5dWRVcWItLXI1ZjJ2djVTVGZ1RXRXS2V4V3l4aTVxbVZmVWR4?oc=5",
+      "source": "WGAL",
+      "date": "2026-01-30T18:23:00+00:00",
+      "description": "DRONE VIDEO: Route 222 tractor-trailer crash causes lengthy cleanup in Lancaster County  WGAL",
+      "query": "drone crash",
+      "detected_at": "2026-01-30T19:14:32.972445+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "032ef5f6add1"
+    },
+    {
       "title": "Pentagon Expands Base Commanders’ Authority to Counter Rising Drone Threats Following Inspector General Warning - The Debrief",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXByU1VrUGRYTlNSX2lTd1h3NXBDLWlZSmhpT1JkbkJVR0NRdWJCOXVDaFR0bDZheUh0QkNvMWFpbjM1NVoxbkwzTU81Unhsc1hZNVdaWFhQM21nQ3gtLWtidHZGN0dSSEc5aE1Dc18zdk5UMFFmVnV1ZFQwSWNfSjB1RXg4aTluZGJsVldrejg0emZHSDluS1pGMWFmN2l5WDlYb0VCdnZnZlZjc085bkV6eTVaT0xoc05qVHR6bE14ZlZDSUpOcXhtOEtXWG8?oc=5",
       "source": "The Debrief",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a1371e2a2f71"
-    },
-    {
-      "title": "Federal officials declare M&T Bank Stadium a no-drone zone for Army-Navy Game - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWJRc193ZlM4c2dBZ1dnd24tb2k4blF3SDg0ZDdZVFRrSFRxaGF0ckxBLU1xRUFOQklWYTBaRUt3amFzUjdUSDdJY3hRcjdza0Y5S2lwZFluWW9EdzJadFNwNUxVc0JodWNlSXFyUWpuRWlaZFNjQXRoa3dxVE9heWtIQ1psdS11V0RCWDJKT05kX1drTUVIVkc5M01UMnkyem0xd3VyQXZxY3hCM3o4VGh3?oc=5",
-      "source": "WTOP",
-      "date": "2025-12-11T16:03:49+00:00",
-      "description": "Federal officials declare M&T Bank Stadium a no-drone zone for Army-Navy Game  WTOP",
-      "query": "drone illegal",
-      "detected_at": "2025-12-11T16:07:47.720684+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2d3d352cfa03"
-    },
-    {
-      "title": "Ukraine Drone Strike Causes Massive Flight Disruption In Moscow, Russia Shoots Down 287 UAVs - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVTJoNlJLRDVGRm41TG4wbEZFc1VhMVNHQVA2UkxFNmlYQUVaOEVxZnFuaE1YSHdORGtUZkVMZVp6Z2J6eDhWM0JpdjRnVGRSNHNzc0paUVFPSVRaMTNKcHhVaU9UbGhZbUxGN0J0MTItQVpKWHU3el9rdUdkWmZiSDRreHpWQWNaU2dYQ0t4OHlPS09GSjhmd3JMNWRzZGpXZFE2M2l1OVpGZFdUTDBqc2dQTnFKQjVDRF9rM0VfNkpJOHl2X0ltWlFEZjR2LWkycXpMZlA4dlc5enh5d3QtQ2UxN0kzNHpFbktaUEdNOU0wYXN6UC1hYU5jcFVSSHNPUHfSAYcCQVVfeXFMTkRmVU9PeU5NZHZYajFIQUw0OTcyOUc4d0MzSDlDNTR3M21MeFE2LTJRWHFQUFVVYS0yZ3pPNW5CUVBHWjk4dzlNakRBY01TdW1IdU9pblF1WGZpRWlaZTBLQlFyUzdUU3U4XzEyTXNlSDVsbWVQd29LTzhPcnI2eUg1cUZUVlA0Y1g1REJnVlZiU3hUWjI5MjB0bmhJdzZsOTJ6Y0xtS3F5SE43VEVjc2wtOGpuNWs5Ylg5bFRwc091SExZaVdrOEJMNHhqamtFSFBieVp4eUFUZkp2R3FVNGRqRDFVXzYxcldJTGRZUFpmRmV1T3dqbE9GaUxhX1h3eFdYM0dERWs?oc=5",
-      "source": "The Times of India",
-      "date": "2025-12-11T09:53:02+00:00",
-      "description": "Ukraine Drone Strike Causes Massive Flight Disruption In Moscow, Russia Shoots Down 287 UAVs  The Times of India",
-      "query": "drone airport disruption",
-      "detected_at": "2025-12-11T16:07:46.372245+00:00",
-      "location": "In Moscow, Ru",
-      "category": "interference",
-      "id": "7123978bc170"
     }
   ],
-  "last_updated": "2026-01-30T18:13:25.895401+00:00",
+  "last_updated": "2026-01-30T19:14:35.840126+00:00",
   "total_count": 1000
 }
