@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US FAA bans drones within 30 miles of stadium for Super Bowl LX - KFGO",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZNkRvZWNENzlhcGYyS3g2b1lYYXkwclVMRUt0ekpCVEc2YzY4R2RBMzdacDB2NlhSMTFwc05wMFBNN09SSXU3TzBJNkM0cEsxUTUzUFBpUmtMXzZUTGpEQmgwdEx5MTJyQTY2dUtOSzdzc1U?oc=5",
+      "source": "KFGO",
+      "date": "2026-01-31T07:03:49+00:00",
+      "description": "US FAA bans drones within 30 miles of stadium for Super Bowl LX  KFGO",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-31T07:12:00.825549+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a5749e29c131"
+    },
+    {
       "title": "No drones allowed over S.F. or Levi’s Stadium during Super Bowl - San Francisco Chronicle",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmdfN3Z1YmY1bGpXcVQzcTFxcG8tNVgtVTBNaTNvblAtSHF5Qk5xbUUwMC1oRmZTUl9XTEQwdVhfUFhuR3FjUDJNNVdKMnZ6blhXcTJfbjRnRTF6eHBoNk9QY2JVdjJZS1puRW01S2drLU5TRmRSQ1hFa2g2bmV0bzNTdw?oc=5",
       "source": "San Francisco Chronicle",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "f3dc59728e09"
-    },
-    {
-      "title": "Mystery ship in Dublin Bay when drone targeted Zelenskyy's plane - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3VKQUNET2tJTEdScVBSbW1tSGdhaW5YbGQxQnZfbW16SHhfMDRfakM1dDZVNHNLQWxCRW9nWnhEX2lNYlI5bE5pbjlKbWVXSlFROWxWVFRzZF83OUVfTmJUQzIzcGNKcXNWZzlPbHVqVXVTQUhMOFE5MmNuUnpYbTlKTjdzUDZnbmoxUmhoTk8?oc=5",
-      "source": "TVP World",
-      "date": "2025-12-11T16:15:00+00:00",
-      "description": "Mystery ship in Dublin Bay when drone targeted Zelenskyy's plane  TVP World",
-      "query": "drone incident",
-      "detected_at": "2025-12-11T20:06:58.673959+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "446595605340"
     }
   ],
-  "last_updated": "2026-01-31T02:56:17.307653+00:00",
+  "last_updated": "2026-01-31T07:12:01.391632+00:00",
   "total_count": 1000
 }
