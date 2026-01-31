@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "No drones allowed over S.F. or Levi’s Stadium during Super Bowl - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmdfN3Z1YmY1bGpXcVQzcTFxcG8tNVgtVTBNaTNvblAtSHF5Qk5xbUUwMC1oRmZTUl9XTEQwdVhfUFhuR3FjUDJNNVdKMnZ6blhXcTJfbjRnRTF6eHBoNk9QY2JVdjJZS1puRW01S2drLU5TRmRSQ1hFa2g2bmV0bzNTdw?oc=5",
+      "source": "San Francisco Chronicle",
+      "date": "2026-01-31T01:48:24+00:00",
+      "description": "No drones allowed over S.F. or Levi’s Stadium during Super Bowl  San Francisco Chronicle",
+      "query": "unauthorized drone",
+      "detected_at": "2026-01-31T02:56:16.672738+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2c9b06743d15"
+    },
+    {
+      "title": "Drone From $775,000 Taylor Police Program Drops From Sky, Crashes During Emergency Response - Metro Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU43QWRMN1JmXzkxY3lLRHdFbERPUS04TklYLUtBeDJYaTZSR0FLTnY4cmNiNGxBOENZNGVYa0NEUUJ4VlNOVm1zUTU5aTlSQkVPNWNhanpCeEktMGZzUzZRbWpHSGo0TVBkLVZyZHVWWi1GdUM2bU05TU85N29Xb3FIak94YlpnZF9iU1ZLUzdKM2dMalRyQ1AyTGtFM25pTU9xYW81cTNEbm83QkxpSi13d3Z6YXBoc2d2YVh3?oc=5",
+      "source": "Metro Detroit News",
+      "date": "2026-01-30T23:11:41+00:00",
+      "description": "Drone From $775,000 Taylor Police Program Drops From Sky, Crashes During Emergency Response  Metro Detroit News",
+      "query": "drone incident",
+      "detected_at": "2026-01-31T02:56:10.835210+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "acb0afcfaa18"
+    },
+    {
       "title": "Taylor police drone crashes, department says online video is fake - FOX 2 Detroit",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNThmVW9SRkRPUlRNLUFtZU9wRGZvdXB3RGxuZzBOXzEzTXJQQWdFTDBrTllGUWhQQmFNdDdmU3hQUEpaMVNNRFZzN3BBR1ZjRFE3MmF1cUZKbzRTcDRMd21weThXaWsxQkZTT0V2R20zeW5WUWdrWnpNeXdoRmllcl9TR1pCWkE4Rnh2NlBOT1JHQldkRUVxMHZCd0JBZ9IBowFBVV95cUxOcWhhb2NwckwtMlJESnQza0g4UkxRY2E3NXdzb1Jib182SGduQm1ZM3pUdS1DLUNDa0xlZFQ2ZmhjSGwtbU93WFg2U0NXbHlCQW5oSkF5dnVKR1dGMl9USElhODZOb3NncEZJNUxKRWYwNWpoNFBrWU12eW80UWV3X2x1ejNSeHlmbnFGbHdOa0dMNEJlajdHTXk4djdMY05iRHNN?oc=5",
       "source": "FOX 2 Detroit",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "446595605340"
-    },
-    {
-      "title": "Exploring the Shift in Air Defense: How Drone Swarms Transform Traditional Strategies from Disruption to Saturation - DEFCROS News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUFg4TkZWckM0Ykx2QURjRjl4cWNIaGdVZE5LdWNxSWg0NG44SVNDYm9qYnlzTUhEQnZmdmpINm93ZDRQUUtKUzVvYkJfaFotVXpSWWtXOERfbkdaWVBuZTZNaEk2cmkyRC1TX1JCVy1id1pnU256OWZnOGlxV01ZUDhacWQxTVBzR3VvRWYzNTk5OUUzV3hGaXlPZVBfb1ZmNGY1dnprSXo1Nkl6bEpLNHIyengtYlRhbGkzMl9xejhLWEtFTFlVajdLMGVsMEZHQWEtWi12TQ?oc=5",
-      "source": "DEFCROS News",
-      "date": "2025-12-11T13:00:34+00:00",
-      "description": "Exploring the Shift in Air Defense: How Drone Swarms Transform Traditional Strategies from Disruption to Saturation  DEFCROS News",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-11T19:06:18.305994+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "bdfff656dc2b"
-    },
-    {
-      "title": "A Christmas feast dropped by a drone into the yard of a prison was apparently intended for inmates -- but a guard played Scrooge and got to the contraband first. - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR0hBUFNRMTJsLWN4VHR6YkNlcVFweVNGTHBQcTdRaUNGS0YwR3djaXZtZWoySnFWaUs3bi11YVpzQTBwWWtJbFpDMVlvSnhmeWpGcWZiWk5fVjM5ZlRBcjdLVmV6LWVxTzJCdFFoaWcxdmEyeXRfVkI0NDF0bnhlcnhSSDZhcjRvN1JZSW5DbF9JMEVMU0E4NDNodzVteXpyYWlFcV9PSnotbW5YYWpHa3NJU2lKR21IVThoZ3JzTk5OTEZPOUQzdWl4dDVrZ0U3UFRfZXpJZnJfanc?oc=5",
-      "source": "Facebook",
-      "date": "2025-12-11T18:00:36+00:00",
-      "description": "A Christmas feast dropped by a drone into the yard of a prison was apparently intended for inmates -- but a guard played Scrooge and got to the contraband first.  Facebook",
-      "query": "drone prison",
-      "detected_at": "2025-12-11T18:07:24.685951+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ad2826162c3b"
     }
   ],
-  "last_updated": "2026-01-30T22:06:51.534968+00:00",
+  "last_updated": "2026-01-31T02:56:17.307653+00:00",
   "total_count": 1000
 }
