@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a notable rise in drone-related incidents, primarily concentrated on smuggling and unauthorized use near significant events. In Punjab, India, authorities seized 96 kg of heroin linked to drone smuggling across the porous border with Pakistan. Concurrently, U.S. regulations have prohibited drone flights within 30 miles of the Super Bowl stadium, highlighting a focus on safety and security protocols during public events. Additionally, multiple drone crashes were reported, including one involving a police drone in Taylor, Michigan, which crashed during emergency response efforts. Other incidents involved security alerts over suspected drones in Jammu and Kashmir, suggesting ongoing threats in the region. These events underline the critical issues surrounding drone usage for both illicit activities and public safety.",
+  "totals": {
+    "smuggling": 5,
+    "airport": 2,
+    "crash": 8,
+    "other": 10,
+    "terrorism": 4,
+    "total_incidents": 34,
+    "by_category": {
+      "airport": 1,
+      "crash": 10,
+      "other": 13,
+      "smuggling": 6,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 9,
+      "drone illegal": 1,
+      "drone incident": 4,
+      "drone smuggling": 5,
+      "drone terrorism": 6,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Increased incidents of drone smuggling identified, particularly across borders.",
+      "incident_ids": [
+        "ea9878e02cc1",
+        "81d3f4d5a56d",
+        "57c720fc894f"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Multiple reports of drone crashes highlight safety concerns.",
+      "incident_ids": [
+        "acb0afcfaa18",
+        "191ae976f4e0",
+        "885514943091"
+      ]
+    },
+    {
+      "topic": "Public Safety Regulations",
+      "rationale": "Regulatory measures implemented for drone operations around major events.",
+      "incident_ids": [
+        "a5749e29c131",
+        "2c9b06743d15"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ea9878e02cc1",
+      "headline": "Porous Punjab’s border: 96-kg heroin seized in 2 days; exposes alarming ease in smuggling with drones",
+      "one_sentence": "Authorities seized 96 kg of heroin linked to drone smuggling in Punjab, highlighting security risks at the border.",
+      "risk_tags": [
+        "smuggling",
+        "drug trafficking"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "a5749e29c131",
+      "headline": "US FAA bans drones within 30 miles of stadium for Super Bowl LX",
+      "one_sentence": "The FAA has prohibited drone operations within 30 miles of the Super Bowl to ensure safety during the event.",
+      "risk_tags": [
+        "regulation",
+        "public safety"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "acb0afcfaa18",
+      "headline": "Drone From $775,000 Taylor Police Program Drops From Sky, Crashes During Emergency Response",
+      "one_sentence": "A police drone crashed during a responsive operation, raising concerns over drone reliability.",
+      "risk_tags": [
+        "crash",
+        "public safety"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "191ae976f4e0",
+      "headline": "Taylor police drone crashes, department says online video is fake",
+      "one_sentence": "The Taylor police have reported a drone crash, asserting that contrary video claims are fabricated.",
+      "risk_tags": [
+        "crash",
+        "misinformation"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3d8b46046dc8",
+      "headline": "Suspected Pakistani Drones Spotted In J&K's Samba, Security Forces On High Alert",
+      "one_sentence": "Security forces in Jammu and Kashmir heightened alert status following sightings of suspected drones.",
+      "risk_tags": [
+        "security",
+        "tension"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "c090145c747d",
+      "headline": "How timely drone blood delivery saved life in wake of road crash",
+      "one_sentence": "A drone successfully delivered blood for a critical medical emergency following a road crash.",
+      "risk_tags": [
+        "healthcare",
+        "emergency response"
+      ],
+      "countries": [
+        "Rwanda"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "A surge in drone incidents in the last 48 hours highlights threats from smuggling to public safety regulations.",
+    "linkedin": "Recent drone activity has significantly impacted security enforcement worldwide, underscoring the need for stricter regulations and monitoring."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-01-31"
+}
