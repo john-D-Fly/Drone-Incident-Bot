@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "SpaceX confirms Starlink crackdown on Russian drones worked as Ukraine moves to disconnect all unauthorized terminals - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0tqM2NPa29kQmdoaTdob1czOVFyd3V4Q2wyV0czdFVvY3RLMk9FYWxKWkR2cjkyMjF5VWROZnQxQnNTQ0lKWWhZT0lYSHR0cFMwZEFLTkhadE9sbFJvdUo0TWY4OUN6azlxcW5qZWFITHRweklmY2RrT0JreGk3dTExWUhaT3NwQTFQTQ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-02-01T15:42:11+00:00",
+      "description": "SpaceX confirms Starlink crackdown on Russian drones worked as Ukraine moves to disconnect all unauthorized terminals  DroneXL.co",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-01T22:06:09.406300+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "d9778f61c981"
+    },
+    {
       "title": "Pentagon gives base commanders more control on countering drones - Task & Purpose",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXJrMDh3cndCeHAzb19yU2lHQ242azhpX0JXMXV0TC14bXY5ZVNnUFBWVi1BZmE2MlN4RkVsWXpPR3V6NzVvQjZYWGJzVXNoWVpKdkNMSXMteUlhRHN0ak5KWEhMSGYxWEItcVZyWTVOUHBCTDhFRlJSN1pOSEJhRGlJNA?oc=5",
       "source": "Task & Purpose",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "afdac1f1f517"
-    },
-    {
-      "title": "Prison Drone Drop Turns Into A Surf And Turf Smuggling Fail - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LMEdtd2JCbTI5N0xKTE1iX0xwaWlxNEcyMml5bVYyR3VtamRNU1MxOHBHR0JWbDN3UVFJbDRzSGQ1dHJpMUhMaDNpUFVNUkcydG1vMmMxcktROV9rR3RoZW1mMjdGd28yM3c?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-12-12T14:29:40+00:00",
-      "description": "Prison Drone Drop Turns Into A Surf And Turf Smuggling Fail  DroneXL.co",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-12T15:06:13.199092+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "95edadd96b95"
     }
   ],
-  "last_updated": "2026-02-01T19:09:26.987406+00:00",
+  "last_updated": "2026-02-01T22:06:09.994979+00:00",
   "total_count": 1000
 }
