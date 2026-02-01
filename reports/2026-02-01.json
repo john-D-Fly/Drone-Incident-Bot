@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the past 48 hours, a pattern of drone incidents has emerged primarily surrounding issues of smuggling and public safety. Notably, a Connecticut man was sentenced to nine years for smuggling drugs into a prison using drones. Concurrently, concerns were raised at Strangeways prison regarding challenges in installing anti-drone grilles on historical structures. The police in Perak made arrests related to unauthorized drone use and weapon possession during a religious festival. These incidents highlight ongoing security challenges, particularly in relation to prisons and drug trafficking, while authorities are also expanding counter-drone measures. Noteworthy are substantial regulatory changes, such as the FAA's temporary bans on drones near NFL stadiums for the Super Bowl. International implications were noted with Israeli drone strikes reported in southern Lebanon, indicating an escalation in drone-related military actions.",
+  "totals": {
+    "smuggling": 5,
+    "arrest": 4,
+    "crash": 8,
+    "other": 9,
+    "airport": 3,
+    "terrorism": 3,
+    "total_incidents": 28,
+    "by_category": {
+      "airport": 2,
+      "arrest": 1,
+      "crash": 7,
+      "other": 12,
+      "smuggling": 5,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 3,
+      "drone crash": 6,
+      "drone illegal": 1,
+      "drone incident": 5,
+      "drone prison": 1,
+      "drone smuggling": 4,
+      "drone terrorism": 3,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Smuggling",
+      "rationale": "Incidents related to drone use for smuggling at prisons and drug trafficking.",
+      "incident_ids": [
+        "091d96d8c524",
+        "cbd7d76d4806",
+        "d011990b7fad",
+        "fd0f663b7e53",
+        "ea9878e02cc1"
+      ]
+    },
+    {
+      "topic": "Counter-Drone Regulation",
+      "rationale": "Emerging regulations aimed at managing drone threats during large public events.",
+      "incident_ids": [
+        "fd598dff0af3",
+        "a5749e29c131",
+        "2c9b06743d15"
+      ]
+    },
+    {
+      "topic": "Military Drone Actions",
+      "rationale": "Drone strikes reported as part of military operations.",
+      "incident_ids": [
+        "d4b4c9c63057",
+        "5f49f9ef7df9"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "091d96d8c524",
+      "headline": "Conn. man sentenced for prison drug smuggling via drones.",
+      "one_sentence": "A Connecticut man received a nine-year sentence for using drones to smuggle drugs into a prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "cbd7d76d4806",
+      "headline": "Plans for anti-drone grilles hindered by historic prison windows.",
+      "one_sentence": "Strangeways prison faces challenges in implementing anti-drone measures due to Grade II listed windows.",
+      "risk_tags": [
+        "security",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b74ac11b21cd",
+      "headline": "Men arrested for unauthorized drone use during Thaipusam.",
+      "one_sentence": "Perak Police arrested individuals for possessing weapons and flying drones without permits during a festival.",
+      "risk_tags": [
+        "arrest",
+        "festival"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "fd598dff0af3",
+      "headline": "FAA bans drones near Super Bowl venues.",
+      "one_sentence": "The FAA has imposed a temporary ban on drones within a 30-mile radius of Super Bowl LX stadiums.",
+      "risk_tags": [
+        "regulation",
+        "event security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d4b4c9c63057",
+      "headline": "Israeli drone strike kills one in southern Lebanon.",
+      "one_sentence": "A drone strike conducted by Israel resulted in one fatality in southern Lebanon.",
+      "risk_tags": [
+        "terrorism",
+        "military"
+      ],
+      "countries": [
+        "Lebanon"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Security concerns spike as drone incidents rise, from prison smuggling to military strikes in Lebanon.",
+    "linkedin": "The last 48 hours saw a surge in drone-related incidents, highlighting ongoing challenges in security and emerging regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-01"
+}
