@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Pentagon expands counter-drone authorities to help with base defenses - Task & Purpose",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXJrMDh3cndCeHAzb19yU2lHQ242azhpX0JXMXV0TC14bXY5ZVNnUFBWVi1BZmE2MlN4RkVsWXpPR3V6NzVvQjZYWGJzVXNoWVpKdkNMSXMteUlhRHN0ak5KWEhMSGYxWEItcVZyWTVOUHBCTDhFRlJSN1pOSEJhRGlJNA?oc=5",
+      "source": "Task & Purpose",
+      "date": "2026-02-01T00:06:00+00:00",
+      "description": "Pentagon expands counter-drone authorities to help with base defenses  Task & Purpose",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-01T00:34:49.515058+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cf85d875a142"
+    },
+    {
+      "title": "Unabated Drone Smuggling - Daily Excelsior",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QajV3S0JiczBwVFRILXFMR0MxU2l6cVZzOFRPVXB5Vzl3WmxLSDBPZ2pHOEFXb1NwWFJKc0h5RXFaRjlRaHVUeHY5Z1NJQlVFanU2dVRicDR2WVQzX2VLNU9BUkFpLTQ?oc=5",
+      "source": "Daily Excelsior",
+      "date": "2026-01-31T22:40:39+00:00",
+      "description": "Unabated Drone Smuggling  Daily Excelsior",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-01T00:34:44.522684+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d011990b7fad"
+    },
+    {
       "title": "Aurora police use drone to catch hit-and-run suspect in fatal crash - Aurora Sentinel",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjUwS19GNlc0ZUhRdGdvTXp2S21teDNyRExDZWM4VVAyclZaekcxS0xDVEJvYWNoaHdMQU9vbE1yTUJZRzVnZ05ibFBBQzhjRWZweHJFV2gzS3VwdGFoam9qR1M0TzRmSkZBSHdFRUx3d19pakd4TWxwREhuM3c0WEVJcjVzSDZYNEg3LVB3MW42NHU0WVJjVi1wODEyYWlVZmh3d05R?oc=5",
       "source": "Aurora Sentinel",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "952b8bd5a346"
-    },
-    {
-      "title": "Drone technology helps Suffolk County police catch an alleged shoplifter - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPODN0WS1YZVpUUlV1MTJQSU5ONW0wUHRyODA0Zlp3bk5fSHUydnBBVWpFejZHYnNfZVR4LUNDV3pfRktoYW5UV0llMzJ1QnZfZUl1XzVIa21WbWtVNnBLZkRUMTkwNlFQVU5wbWZ3SF9ieUFoRGlYMmwzUXFBUFllaTZVd3dHc3ZkcjluNEIzVFNmUjJfNUNYTnNWUWdJRjItZjZmM0UwYjdoLXFOTElrNw?oc=5",
-      "source": "CBS News",
-      "date": "2025-12-11T23:27:00+00:00",
-      "description": "Drone technology helps Suffolk County police catch an alleged shoplifter  CBS News",
-      "query": "drone arrest",
-      "detected_at": "2025-12-12T01:34:09.098092+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c03ea802b352"
-    },
-    {
-      "title": "Suffolk police use drone to find shoplifting suspect in Huntington - News 12",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUo1RFd4MDZ4XzdTZDBiZVcwSjFTVXNydEpYVURGRjRRVGpjU3FSSTNISGVCZEZRTUFKaVIzVUUzM1BVblZvaU8zM0ZvdXlseUFWOG1UcHFvQlNBZXlMMlV3RWFiUkZVYUpodUZLdkhFN01fdWhtYm0xWXZBTzN4aVFUemxIY0wtQTFuSEFGcFBmSTEwb0MzNldvOWtaekIwQUNZNEpkUUtLbnQxSU84eTBaMjhLc01OY0FwYw?oc=5",
-      "source": "News 12",
-      "date": "2025-12-11T23:26:15+00:00",
-      "description": "Suffolk police use drone to find shoplifting suspect in Huntington  News 12",
-      "query": "drone arrest",
-      "detected_at": "2025-12-12T01:34:09.098092+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9ca183373c88"
     }
   ],
-  "last_updated": "2026-01-31T23:06:01.816139+00:00",
+  "last_updated": "2026-02-01T00:34:50.067527+00:00",
   "total_count": 1000
 }
