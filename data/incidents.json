@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
+      "source": "AOL.com",
+      "date": "2026-02-01T21:53:44+00:00",
+      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-02T16:11:42.992355+00:00",
+      "location": "at Brussels airport",
+      "category": "airport",
+      "id": "84c0f31b97b8"
+    },
+    {
       "title": "Russian Drone Strikes Hit Kharkiv Market, DTEK Site, Rail Facilities Across Ukraine - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NWXU3bFIxWXpDNzlYT1ZodVZWXzBlT3ltTU42S01Zbm1RSnFfaHJRaFFQamFtd0ttWVdrbEVyaWFIRThkT0VRZWh4dw?oc=5",
       "source": "Kyiv Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "026b43b40c0b"
-    },
-    {
-      "title": "'Drone prison drops' to breach security across US a growing threat: Authorities - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUdqRXZtcWRVVFlydHRNSjd3RFV3S2p6YkdaZXl4YW8xdWU2bkVwa1puV0RhLUItQ0lYS0dTVk5CTjFIdE5oVklMcUV4YVdxSFpJbFo3T0FmQWZVbDktMUxRNGVqblREMmRab091U3pOZlpqQUJTSDBINkJsdUpPUmV2U3hsQWU5U0pZd2ZFRjY0bm5fckFBbWt5SQ?oc=5",
-      "source": "ABC News",
-      "date": "2025-12-13T01:12:40+00:00",
-      "description": "'Drone prison drops' to breach security across US a growing threat: Authorities  ABC News",
-      "query": "drone prison",
-      "detected_at": "2025-12-13T01:33:43.153900+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e357665476bc"
     }
   ],
-  "last_updated": "2026-02-02T15:17:20.551126+00:00",
+  "last_updated": "2026-02-02T16:11:46.831813+00:00",
   "total_count": 1000
 }
