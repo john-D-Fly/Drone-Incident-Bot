@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Politics: Unidentified drone falls on military site in Poland | blue News - blue News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczRfbUZUU3pGZzFvM01kM3BkZkdKQjJDbktQSzJBVEZPMEY4YVZpX3JyTUtKWGhfVENuTFhGTGVENE10TFVKN09Ma3FObFl0aWpMRS1MSWhJTXNrNFNHZHZSUExFWEM2V2dFeGFxLU5vQlFoWW9mdzRZcHh6QzViMVlyb0Q0R2RBTzRQaFpLTVRRNWwtVnBsMVNCSmtFUkpHT2lTVUlSb3Rwd3ZONmc?oc=5",
+      "source": "blue News",
+      "date": "2026-02-02T17:47:00+00:00",
+      "description": "Politics: Unidentified drone falls on military site in Poland | blue News  blue News",
+      "query": "drone crash",
+      "detected_at": "2026-02-02T18:14:28.599072+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "30ea80994421"
+    },
+    {
+      "title": "Drone Crash at Polish Military Base Investigated by Authorities - Global Banking And Finance Awards®",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkVSMmZ2a2lxMUxad3pwaUhzdEJWNFBQOTVDODBBUWpNM3Q1aFZ2MnM1WnlLdzZLdmxQYmdNdkE1dXJMbVpDb01mOEJzTnZ4RmxiQ1FFc1laNFRRNWY4dUZRdjZpUTJPWVBOV1FuRkdGS1AtUHpFUjZrZDFEQTlMd3FlYXF4dTdQaG9lVF9Vd0Uxdk1DX1NiZUd3UVBjN2s?oc=5",
+      "source": "Global Banking And Finance Awards®",
+      "date": "2026-02-02T17:04:42+00:00",
+      "description": "Drone Crash at Polish Military Base Investigated by Authorities  Global Banking And Finance Awards®",
+      "query": "drone incident",
+      "detected_at": "2026-02-02T18:14:25.298410+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ad887b33a84b"
+    },
+    {
       "title": "SpaceX cuts Russian military link to Starlink satellites, Elon Musk says - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG5mekxscF9RYmtIenQ4NU9VaTY0aW9zYlFvQVNlSFZRVkM1bmlKTmlCeEx1ZnFxR083Nnl5RWZJZVBtQXMzUUo1RzlYSjRsWFdKampuM1hpRTVaSmR2eEowY2tWSVUwbS1VbG14dV85eDg0a0RCWm9MVmM5bGhmSTctOFBBSlVqbGtsREZzYzJIM2p0dVFzWGdGa3NtSDJsTTJ6dzduZE0zMmoxUXZweFNldw?oc=5",
       "source": "New York Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6c650e971bc1"
-    },
-    {
-      "title": "State police ask to put drone detection sensors on 2 New Haven high school rooftops - New Haven Register",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2h5Z2l0TS1Wd184ZW1WOE9vNlp5bjlCa2NNa2tfejc3QUhMTVNIazVDMGpySllCaUZlZEdTZ0JPbUxiSXc2SWE1NHRUQmh0bTRlXzdrNWxZejBwWjV2NUhYa21FYWxfaGZ3eVRneW1oVkJZcjFFdWlqWUQwZkJWZVlmUzRzdVpLTzV3alYxU3pCU1pfUlB3WXo4a2hIOTVm?oc=5",
-      "source": "New Haven Register",
-      "date": "2025-12-13T10:04:40+00:00",
-      "description": "State police ask to put drone detection sensors on 2 New Haven high school rooftops  New Haven Register",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-13T11:04:46.205949+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "68fbd65d5fa9"
-    },
-    {
-      "title": "Human v robot street warfare, AI paedos & terror drone swarms - the chilling EU police report that’s scarier than sci-fi - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzYxYldLVHlpeFNMZ0ZiTUFiNGM1WjlsSGh3NXZ3S1Z6bjU5Ql9rVHMwQ3lGMU5GbXdqcWRpVVlWWmNYdXA5ZUVHWTdVNlNpUFJVR2RvdldJV3JadFBqV0dwUnI4WDYydW1yd2Z0MkRheldZRzJQYjA5TWJNMU5EZE50NVVPc1NVYzg2R3kzVUVrNHNm?oc=5",
-      "source": "The Sun",
-      "date": "2025-12-13T07:25:27+00:00",
-      "description": "Human v robot street warfare, AI paedos & terror drone swarms - the chilling EU police report that’s scarier than sci-fi  The Sun",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-13T09:05:31.125308+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "781ea32e542e"
     }
   ],
-  "last_updated": "2026-02-02T17:22:02.869347+00:00",
+  "last_updated": "2026-02-02T18:14:31.882525+00:00",
   "total_count": 1000
 }
