@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "SpaceX cuts Russian military link to Starlink satellites, Elon Musk says - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG5mekxscF9RYmtIenQ4NU9VaTY0aW9zYlFvQVNlSFZRVkM1bmlKTmlCeEx1ZnFxR083Nnl5RWZJZVBtQXMzUUo1RzlYSjRsWFdKampuM1hpRTVaSmR2eEowY2tWSVUwbS1VbG14dV85eDg0a0RCWm9MVmM5bGhmSTctOFBBSlVqbGtsREZzYzJIM2p0dVFzWGdGa3NtSDJsTTJ6dzduZE0zMmoxUXZweFNldw?oc=5",
+      "source": "New York Post",
+      "date": "2026-02-02T04:20:00+00:00",
+      "description": "SpaceX cuts Russian military link to Starlink satellites, Elon Musk says  New York Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-02T17:22:02.321750+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b7f1c19397ce"
+    },
+    {
+      "title": "Mystery drone ‘crashes at Polish military base’ months after Russian incursion - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTFULUIyTVZfNzBUN2xNNC0tZjV4V1pwMm5tVmxiLVAwWlNSM28zYlotbXE0dVdSUk9tUTdZLWlKUndENDZmNlZteVVFRzNsdV9wc3JJaV9MSkFRYVNnRUNqNGdURXhKVDJwRU0wZjFVRThocXBpREZoQkd1enFrYUh3US14MEdMMTZ3YkllWXlrQmR6RTFxWA?oc=5",
+      "source": "The Sun",
+      "date": "2026-02-02T17:06:00+00:00",
+      "description": "Mystery drone ‘crashes at Polish military base’ months after Russian incursion  The Sun",
+      "query": "drone crash",
+      "detected_at": "2026-02-02T17:21:59.773522+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "18770a130781"
+    },
+    {
+      "title": "Unidentified Drone Incident Sparks Investigation in Poland - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlmaF9lSm85VXUtLUM3d19vU3l5eUh4bXgzbUZ0QUxEWFF6eEJDdFBmcHR1YkowVFhDZS1NV2hnYXdxNllrWmlkZGhjcXlGNGp5ZFFkTjhFQ2FwNUNIS0xtbk9xaVZCeGJjYS1oVXg0YTQwemFlWFRNSjlYdWNUN09oZ2w3WlRrUXhlWldjTVduZUtsTjVLQ3BQeUhfSURTdmF6U3E5bXdFZUhfLWJGY1Q0RdIBuAFBVV95cUxQSnE4eTBPOEFOUkxCNVpEdEJlaE1jMmNoVlNLeDhFb3NhTDh5VmV0NDJDVl9OdUJhUnFyaW9JWE5OOENLSGtFXzRXSGZtLUk2bXR3MThHM1A2bHo3N1pGeGtQVHR3R1lVMEZtZWhRR3ZRdVJwMzVVQldTUzJiXzBMTUxJaWQ3enM4VDMtT2hWNnhfV1l3eF9pZHFOSXVMQmdLU01DQm5mWHVMYkU2aWhtZFo4S2E1dUdD?oc=5",
+      "source": "Devdiscourse",
+      "date": "2026-02-02T16:41:19+00:00",
+      "description": "Unidentified Drone Incident Sparks Investigation in Poland  Devdiscourse",
+      "query": "drone incident",
+      "detected_at": "2026-02-02T17:21:56.457309+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5566b830d07e"
+    },
+    {
+      "title": "Drone Crash at Polish Military Base Investigated by Authorities - Global Banking And Finance Awards®",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkVSMmZ2a2lxMUxad3pwaUhzdEJWNFBQOTVDODBBUWpNM3Q1aFZ2MnM1WnlLdzZLdmxQYmdNdkE1dXJMbVpDb01mOEJzTnZ4RmxiQ1FFc1laNFRRNWY4dUZRdjZpUTJPWVBOV1FuRkdGS1AtUHpFUjZrZDFEQTlMd3FlYXF4dTdQaG9lVF9Vd0Uxdk1DX1NiZUd3UVBjN2s?oc=5",
+      "source": "Global Banking And Finance Awards®",
+      "date": "2026-02-02T16:56:49+00:00",
+      "description": "Drone Crash at Polish Military Base Investigated by Authorities  Global Banking And Finance Awards®",
+      "query": "drone incident",
+      "detected_at": "2026-02-02T17:21:56.457309+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2f9c5fa2b6ca"
+    },
+    {
       "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
       "source": "AOL.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "781ea32e542e"
-    },
-    {
-      "title": "Human v robot street warfare, AI paedos & terror drone swarms - the chilling EU police report that’s scarier than sci-fi - The US Sun",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEhFS2dkODVVa1R5M3lCSVkxaV9KN3dBVjVOb1h1V0c0cVF5bVQ3aEl4ejQtdjRQX1FLd2ZjYlh0M1BrZjRhamlVTWZ5a3ZxTFFQM2JnX1BodlJwYXRkTWlmeXRMdWxhcHlOY1YzRlFBbEtyRXBaYnRxV2tRbnJScFp1TDBkVHZOQlVBenRhaGxlWVU?oc=5",
-      "source": "The US Sun",
-      "date": "2025-12-13T07:29:26+00:00",
-      "description": "Human v robot street warfare, AI paedos & terror drone swarms - the chilling EU police report that’s scarier than sci-fi  The US Sun",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-13T08:06:51.044739+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "d9b214580ebf"
-    },
-    {
-      "title": "L.A. wildfires: FBI seeks pilot of drone that struck Canadian water bomber - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNSEw5VTU1Z2QxVnZEaXc1MjY5ZGpKWGtMYlotZ2ZXMlVwV0pHZTB6ZU5nWWJuMFZqV0hPZXZmX3ZlS19PanJ5RDdKWmI2MU5ydkw1ak5wbHlKbVVEWWlIYV9XS0R0WEZ3UTg4dDUwZDRvOWJwNXFaM3Qwa1pQSkh1dTd5V3pkU1pSNmZSa2VwQWhkTENYdHA0Sk9FdUp0b2h5TDJmY2VEay1GLWdZdTMyb1FVOFQzcFI4WlpsV2hNQ1R5bVJ2M1l5OS04NG5HcEpxZDdSODYwTFdlTmttSnR1cGFiR2xUeDBZU2tNVGZDQ2c3UFZIcndKZ1V4MU5VMm1BMEdJdjBEeGJtZzZ1MGpsQmp0QkpPZmdJRTZZT1dPbERDTWZXalNrcURtTmVncUY5THlNZExrZndTMXV1aktid21WQWRWT0xYSDhmQ09vazlDUTQ4S3c?oc=5",
-      "source": "MSN",
-      "date": "2025-12-12T23:06:49+00:00",
-      "description": "L.A. wildfires: FBI seeks pilot of drone that struck Canadian water bomber  MSN",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-13T06:07:54.957665+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "21c2dd6aa0e5"
-    },
-    {
-      "title": "Video Prisons face escalating threat from drones - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUlETVRsLUNCdm84T1ZlMnVvMm9kQnhQUlVIYldicTdoWHJ6RHBPUW1qa2twdG1NbUhsSXdNMWVaQVpZMWdad1lXQ0xXMnpPYTlPd2twZWt4YkppbTAwb2plelBvWUZqSWJoSVBNOUFuTXp1SHFkQVBOcjYzZVVLcTdQTFVCdw?oc=5",
-      "source": "ABC News",
-      "date": "2025-12-13T02:20:40+00:00",
-      "description": "Video Prisons face escalating threat from drones  ABC News",
-      "query": "drone prison",
-      "detected_at": "2025-12-13T02:36:08.931718+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f1c1ee27f041"
-    },
-    {
-      "title": "22 Dead In Terra Drone Battery Fire: CEO Arrested Within 48 Hours - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEI3ZzhaRGM4U1FMY0RrWUVfdU9kOHN1STN0eGYxanljRG0xWGhxYkxaQU4wZ215dUFWTWNndS1TYXR6TlBucjVUZTBESUFfQ2FZM05xcGJHTkM4TzNDTFBuaEhHRnlYV3FmV0VpQmJqRlRZcFNjMy1QNXJOUEdpZGNn?oc=5",
-      "source": "DroneXL.co",
-      "date": "2025-12-13T01:53:36+00:00",
-      "description": "22 Dead In Terra Drone Battery Fire: CEO Arrested Within 48 Hours  DroneXL.co",
-      "query": "drone arrest",
-      "detected_at": "2025-12-13T02:36:07.840131+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "026b43b40c0b"
     }
   ],
-  "last_updated": "2026-02-02T16:11:46.831813+00:00",
+  "last_updated": "2026-02-02T17:22:02.869347+00:00",
   "total_count": 1000
 }
