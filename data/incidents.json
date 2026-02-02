@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Security officials warn of unauthorized drones ahead of World Cup in Kansas City - KMBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVRlWTZfVUNZd0F5cE5IWlZGWjFxMHp5UW5selVvczBDNHI1SWdublB2SzYwLUxOeHBGSGczLUtEanp4MmR2cjlSbFF4WVdIam1NSlJYUzEzbnFndHFiMl9KNGV5TnhYbGQwbE5IeWtMc3Q1aXo5X0lfZmVqak9IamcydXN0NVNaOHktc3FMeDFlZmc0ZWZ3?oc=5",
+      "source": "KMBC",
+      "date": "2026-02-01T23:24:00+00:00",
+      "description": "Security officials warn of unauthorized drones ahead of World Cup in Kansas City  KMBC",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-02T00:30:54.425617+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "980304c9b711"
+    },
+    {
       "title": "SpaceX confirms Starlink crackdown on Russian drones worked as Ukraine moves to disconnect all unauthorized terminals - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0tqM2NPa29kQmdoaTdob1czOVFyd3V4Q2wyV0czdFVvY3RLMk9FYWxKWkR2cjkyMjF5VWROZnQxQnNTQ0lKWWhZT0lYSHR0cFMwZEFLTkhadE9sbFJvdUo0TWY4OUN6azlxcW5qZWFITHRweklmY2RrT0JreGk3dTExWUhaT3NwQTFQTQ?oc=5",
       "source": "DroneXL.co",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "4ca024abefdf"
-    },
-    {
-      "title": "Video Drones dropping contraband into prisons fuel scams targeting Americans - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVBYMlJOXzE4b3JoWjU1NzZhcVM0ODU0Y1NUSGZ0SmZIaDV0MmFES0s3cDU2UG9ZT0JyLUFoRU5abnJvZXFoYXlSajU5Y2ljenN1bHl1Q3JJMU9OZVNNZmFteUpFT09TcmhJVTMwd0NfY1FGcTNmTFRSODNmSkJBUEhFNEUzRU13d3dFRHY1SnQ0QWRlNGFyWDZwOWZjYTRZdGcyWEpneFZ3a0ZPVXdhSzN1TQ?oc=5",
-      "source": "ABC News",
-      "date": "2025-12-12T12:42:38+00:00",
-      "description": "Video Drones dropping contraband into prisons fuel scams targeting Americans  ABC News",
-      "query": "drone prison",
-      "detected_at": "2025-12-12T15:06:13.781756+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "afdac1f1f517"
     }
   ],
-  "last_updated": "2026-02-01T22:06:09.994979+00:00",
+  "last_updated": "2026-02-02T00:30:55.036249+00:00",
   "total_count": 1000
 }
