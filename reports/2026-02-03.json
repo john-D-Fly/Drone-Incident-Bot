@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone incidents have been reported globally, highlighting diverse challenges from illegal operations to smuggling and security breaches. In Poland, a series of crashes involving drones have raised security concerns, especially near military sites, prompting investigations. In India, legal actions against unauthorized drone use in film production continue to unfold. In the smuggling sphere, Ferozepur police dismantled a drug smuggling network linked to Pakistan, further illustrating cross-border issues. In the UK, there were increased reports of unauthorized drone sightings near military bases amid rising tensions with Russia. These incidents collectively underscore the need for robust regulations and heightened vigilance in both civilian and military drone operations.",
+  "totals": {
+    "smuggling": 3,
+    "arrest": 6,
+    "crash": 4,
+    "security": 5,
+    "airport": 2,
+    "terrorism": 5,
+    "other": 18,
+    "total_incidents": 53,
+    "by_category": {
+      "airport": 2,
+      "arrest": 4,
+      "crash": 11,
+      "other": 27,
+      "security": 4,
+      "smuggling": 3,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 7,
+      "drone crash": 6,
+      "drone illegal": 5,
+      "drone incident": 12,
+      "drone prison": 2,
+      "drone security breach": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 7,
+      "unauthorized drone": 10
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Illegal Drone Usage",
+      "rationale": "Multiple incidents of unauthorized drone use highlight legal and security issues.",
+      "incident_ids": [
+        "a2b6d8e1d404",
+        "f8cf0d2f1bdb",
+        "ffc69de5f41e",
+        "6e4e20bf8ede",
+        "7c0a3defd2a2"
+      ]
+    },
+    {
+      "topic": "Drone Crashes in Poland",
+      "rationale": "Frequent drone crashes at military sites in Poland raise security concerns.",
+      "incident_ids": [
+        "1e4508371e35",
+        "005ceaafe80a",
+        "cd0d3a715341",
+        "23b0ca7e2e44"
+      ]
+    },
+    {
+      "topic": "Smuggling Operations",
+      "rationale": "Incidents of drones being used in drug smuggling operations indicate cross-border activity.",
+      "incident_ids": [
+        "b0228fd9a9fd",
+        "3d6245e32241"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f9720c106e82",
+      "headline": "Putin launches missiles at Ukraine",
+      "one_sentence": "Putin's recent strikes on Ukraine highlight ongoing conflict tensions.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3e0e44ea0c51",
+      "headline": "Hollister police arrest via drone",
+      "one_sentence": "Hollister police successfully used a drone to locate and arrest a suspected prowler.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b0228fd9a9fd",
+      "headline": "Ferozepur Police's drug bust",
+      "one_sentence": "Ferozepur Police dismantled a Pakistan-linked drone smuggling network, seizing over 7 kg of heroin.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5d73f2a82b69",
+      "headline": "Nuclear base drone crash",
+      "one_sentence": "An unauthorized drone was shot down over a nuclear submarine base, raising security alarms.",
+      "risk_tags": [
+        "drone illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "3d6245e32241",
+      "headline": "Competition to counter drone usage",
+      "one_sentence": "A £1.85 million initiative was launched to prevent illegal drone usage around prisons.",
+      "risk_tags": [
+        "drone prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight growing challenges from smuggling to security breaches across many regions. #DroneSafety #OSINT",
+    "linkedin": "A rise in drone-related incidents indicates critical issues around smuggling and security, particularly near military and sensitive sites."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-03"
+}
