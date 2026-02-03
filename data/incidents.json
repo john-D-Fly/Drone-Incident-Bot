@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Unidentified drone falls inside Polish electronic warfare base near Suwałki Gap - EU Today",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DTUd0VVJwZWpKSmNBSmlPZlVybnltSV9MUkwzWTBKWGpad09wTUZCV1NxeWpKVEl4TmJUV2pJV004Q2c1YlRrU1hVS0tVN1EwZ1FSWGRCQlZjXzNNMkdIUDhxQlJjRlJ1QkhFR1pqTDlKVy0yRk9PVnBn?oc=5",
+      "source": "EU Today",
+      "date": "2026-02-03T10:11:54+00:00",
+      "description": "Unidentified drone falls inside Polish electronic warfare base near Suwałki Gap  EU Today",
+      "query": "drone incident",
+      "detected_at": "2026-02-03T15:18:29.878055+00:00",
+      "location": "near Suwałki Gap",
+      "category": "other",
+      "id": "cc24ccda2198"
+    },
+    {
       "title": "Ukraine war latest: Putin unleashes 'record number' of ballistic missiles at Ukraine after strikes pause - Sky News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFpzLTR3ZGJHbkNfTmpac1ZxdktrWmJ2enVETkUyQXotbVRYdUthUGpCY1k4N3ctUkFWN3NuT0FMbTFPMmJvU3E4dEhzTDYwT2VockpOWFVlc2tUNE85NldaNmZWbW04a0o4bldZVEpmZnlJclF5bkw3bGRJNFpXeUZQVWd2Y2dKdXN5NVJEX19mSS1Ld2hKdQ?oc=5",
       "source": "Sky News",
@@ -11987,20 +11999,8 @@
       "location": "near the country",
       "category": "other",
       "id": "169a30795117"
-    },
-    {
-      "title": "Corrections leaders: Federal law blocks drone defense at Ga. prisons - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXhMd1NtZWUyTGN1X3MzeXZpV1dwQXdVa3czQWpkVnREampiUUxOc2N0UUtwRFZBcWNtS2wxcUZjTk1aTlNWN3VKa3lLV09zdTd0UmZRM1JZZ1RpVEFKdEVhMnRoMHM4R3RIaW5SYXlZYnoxVVJWMl9WODBNZG0wRE43ZjJ4UVlfUVF1eWFULWswZE5hWXFqeXF1bDk0Y0xtVElNZA?oc=5",
-      "source": "Corrections1",
-      "date": "2025-12-15T19:15:11+00:00",
-      "description": "Corrections leaders: Federal law blocks drone defense at Ga. prisons  Corrections1",
-      "query": "drone prison",
-      "detected_at": "2025-12-16T00:24:43.285143+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ae9ae89dd3e8"
     }
   ],
-  "last_updated": "2026-02-03T13:29:23.912870+00:00",
+  "last_updated": "2026-02-03T15:18:36.592118+00:00",
   "total_count": 1000
 }
