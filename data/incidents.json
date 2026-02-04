@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "SpaceX counters Russia’s ‘unauthorized’ use of Starlink to guide drones in Ukraine - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2FHWlpCS2tRcEQ2b3VEUW5qbTJ4a3lVUUpEQzhuWWdHV05OOWozUVkwOG80MGd6ZS1QbkRzOGxoeTUxNWZ5cHNaUm93NVM2bzN1RnA0Q2pROFB6MnFaTTJndHZEdkluS1NYakM5RUdreVlfMGdmSkpObXlJbjloQW5RU01RZw?oc=5",
+      "source": "cnn.com",
+      "date": "2026-02-02T19:05:49+00:00",
+      "description": "SpaceX counters Russia’s ‘unauthorized’ use of Starlink to guide drones in Ukraine  cnn.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-04T12:14:36.270128+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f764b3b2d7b2"
+    },
+    {
+      "title": "US-Iran drone incident raises fresh doubts over planned talks - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOE1UbXZNVGhkZ2prVHBCQjA3TkZBS09ZUE1GMElLeGJhSEZ0QV9Zb2gzS0pOQ0h1QzlrM3lOOWFoMy03VWh6UnBLZ25kbjJ1c1pIckxFbFVYc0E0ci1OVkduSllOaEtwekNENkNnamV4TndDTUczdW5pRzdMNzFkeHRzTGlvWmY2VTFLR3doZ1ppZ1JIb0JlUE1aVHVMYUN3T1hYekU5cFBubHhSNzctOUdWMzMyUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-02-04T07:43:20+00:00",
+      "description": "US-Iran drone incident raises fresh doubts over planned talks  MSN",
+      "query": "drone incident",
+      "detected_at": "2026-02-04T12:14:31.299933+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ef37cce2e7b3"
+    },
+    {
       "title": "Lightning strikes: F-35 shoots down Iranian Shahed drone as it heads toward US carrier - Forces News",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTlXTkVVNUxGZk82YlRheFplQUc2SnFZSm9jRWZoeV9jUEM2QVFiZ2RuX2Vrc1B4dXZya2dqOHdCRjB5N2N3NUVqVXp3ck9NajdTYmh6Ynhka1doQnp2RlF6UEN6QWl0NTNaZmdIYW45RV9BYVBIZ0NpVHRlYU9mN1BrYi02dkFoVE56QmVhTWlNQURJLTRRVGZzUVpYc2UxVWVvU3E5RmZtVnNOQnp3YUE5amx5a3piRmFFTEd3?oc=5",
       "source": "Forces News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "54c883095349"
-    },
-    {
-      "title": "Japan to expand drone bans at selected sites as terror risk increases - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjFwZTNLMVFkdWZZUE0tM21hV1ZiQ2xsbTZDLUdOWWFwcnU5bnl2X2xwWTdBMU92UEF6dW1QUUpiMkR1V01ieFAwbURGZ0ZKZUFUYzNhazRTNVh0b3NQbE0za3BFN3RncXF4dWx6NHBiU01FSkUzRjZsaS0zRmV6NjRaa1hFVnNHekZTOEVhUjk5R0tNbG9ybTlmdW5HMDlraWtIbmc2Tl9VdHlBcEVN?oc=5",
-      "source": "Japan Today",
-      "date": "2025-12-18T20:00:00+00:00",
-      "description": "Japan to expand drone bans at selected sites as terror risk increases  Japan Today",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-19T04:15:26.827302+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "e5e3ca303cea"
-    },
-    {
-      "title": "Unverified Footage Appears to Show Thai Surveillance Drone Downed Near Poipet - Kiripost",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2l2SVhvVnZ2c3M4b0ZsR3A1eFlMY0RXMjhwRWxaMDBDNEdpdFFiaUNtRWZoNFR1aXVMcU50ekk0aFRFS2Q3eXdscy1PN3p0Unl1ZTUzSnEyZktBaVdXUGpYOXRDRlh3b0dQZmJmU3ZkSFZzNndiZEVQbURrcm1EcEhoQW9PdmVNYzg4eFlhR1J4bXBiMWJTNGVMUWNpZkN2bHpMOVdEeXktZ1k?oc=5",
-      "source": "Kiripost",
-      "date": "2025-12-19T02:48:17+00:00",
-      "description": "Unverified Footage Appears to Show Thai Surveillance Drone Downed Near Poipet  Kiripost",
-      "query": "drone incident",
-      "detected_at": "2025-12-19T03:32:38.655998+00:00",
-      "location": "Near Poipet",
-      "category": "surveillance",
-      "id": "dd62077f84e7"
     }
   ],
-  "last_updated": "2026-02-04T11:15:23.973188+00:00",
+  "last_updated": "2026-02-04T12:14:36.936777+00:00",
   "total_count": 1000
 }
