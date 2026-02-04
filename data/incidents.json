@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "SpaceX counters Russia’s ‘unauthorized’ use of Starlink to guide drones in Ukraine - KESQ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUy1hd0VodzdkcnpqWTNtOWMwbG5ZV0pKaDI5N2FUajlzV0hQSElDbDZHcEw2bVhXS3JQdnJoNjJkMm00RF82akxYSlZCMG1DRVBXbzVFclE1YklOVThJeHJVSG9JWERsbDVBZU5hb2ZvMWs3Vkg2bW4yYmZ5amc3ZmFVeWQ2a2J2X25TcllBMHgxNk1QX2pYR3J1NUVkbEQzZzNwYlBEWHcxZTA0R29VWEwzM1VkOTRsNHVrcUFOWTdFTDFmUzU5M0tXVlVuTmh1VFN2cQ?oc=5",
+      "source": "KESQ",
+      "date": "2026-02-02T19:55:23+00:00",
+      "description": "SpaceX counters Russia’s ‘unauthorized’ use of Starlink to guide drones in Ukraine  KESQ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-04T17:19:40.936770+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "753f08756c4a"
+    },
+    {
+      "title": "Kiev under fire as Russia launches fresh missile and drone strikes - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yazd3cDFHX0ZkNEswQVBCSlZmTTZpZGlfaWI3U1NhVHRoSFRBcnZnT2FsdlF4WmhjVWNDSkotNzFOWTU0SzdGc2lROU91U0R5aVFHRmU4c0jSAV5BVV95cUxQLWc2ZnE3cG1SX0h2RThmY2w5Ykh1T1g4WlFQOU02dmI2NXhoQUxOR2NQOTVqcnB3LUpSTElYejNyUXB2Yi1kUllDWDByV3NCV2Y4VGMtbVJXZHFHbFJB?oc=5",
+      "source": "TRT World",
+      "date": "2026-02-03T03:31:46+00:00",
+      "description": "Kiev under fire as Russia launches fresh missile and drone strikes  TRT World",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-04T17:19:40.351787+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7df2608a5e54"
+    },
+    {
       "title": "Prisons unable to keep up with crisis of drones delivering drugs, report finds - The Independent",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXZOUVd6eXhuM1hSS2VHMzIzMEx5UVhGdUkyZElsLWROZ3VwYjJpNFBjd3JNbHpOQVpJVDFoWmlLMHh5ZWdhMTQ2THp0ZkZsVXNjN1YyUmQ2NVZDQjA5dUxRTnlFczNnYmRQQ0pwd2k1eFFIVDlCbm95eTc1RG0yd04tN2lkczJnakRWSVlxbXBXX2lqRkNpMDJFOA?oc=5",
       "source": "The Independent",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "ac56010b94c8"
-    },
-    {
-      "title": "Russian-made drone crashes in northwest Türkiye: ministry - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vSWhPSDF5cnZPNjl4WVJ0ZnJxU2N3OG9sdk9zVllaVUNIdFZfbi0zU2hYZl9pU3FsbDVSY2ZBTmRYcmVyNWwtYlRVQkkxVUZxWDVqdERWOEfSAV5BVV95cUxOdzdaaEwzMURGUndtX0w4X1czUnFwZWRHTW5hVXNfNjRHZXVzZnE0bl8tS09IY2ZfMHNGbjJOSVBNWVdrODdOd3dzN1lwN1dCS1VZMDh1c2NnODNyYmFB?oc=5",
-      "source": "TRT World",
-      "date": "2025-12-19T15:57:10+00:00",
-      "description": "Russian-made drone crashes in northwest Türkiye: ministry  TRT World",
-      "query": "drone crash",
-      "detected_at": "2025-12-19T16:06:36.014968+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4ef0e9c55c97"
-    },
-    {
-      "title": "Turkish authorities investigate drone crash days after shooting down another UAV - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1lzT0IwbFNScDd6N2VrNkdoMVBRek9Zek5TU1paTS1UWVhMOVlGTllTdkhFVGJyR2lwLWV5a01OQTJnbDRtVGdQaDlyYnplU0ppcGpKQjU1cUNXNkh6R2N6ZlVqM2VvcTJkY1ZHUHpMbEw3STg3VnpVTWdZRW50ZDdtckhyQ0hLaG1YZjJGdGhSd3pPQ3FIVVBrWk1fS3dvSnlKNGRfblFVeHRnbi1QSXBIaFJiT3pUSTRMVdIBwgFBVV95cUxPUHJqakp5RzMxNk5faWlTbk9tM0J1SFlIdmRMRlFKY0g4RnFlczAyTG1DNzBuckxycmlsQkNIa0MzMkp4RXoxY3NXbnBhc3d0QU9wZzZ6NS1neDlaWWkwLTJidUlCY21hRzFvTDlrbmJyZW93OVdmV1NwZjdTaktldkh1dk9Cc2JaVHBrdy1PVHJBS0JfcFV0dXFxdUl6V1RRT3dhNXBCbTFJVEt1QjBVcnJQQ0ZTdVpvOWd1MF95MGJpQQ?oc=5",
-      "source": "ABC News",
-      "date": "2025-12-19T15:43:29+00:00",
-      "description": "Turkish authorities investigate drone crash days after shooting down another UAV  ABC News",
-      "query": "drone crash",
-      "detected_at": "2025-12-19T16:06:36.014968+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "97fce4a270c5"
     }
   ],
-  "last_updated": "2026-02-04T16:18:19.095608+00:00",
+  "last_updated": "2026-02-04T17:19:41.538546+00:00",
   "total_count": 1000
 }
