@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "SC fights rising drone contraband drops at prisons with high-tech unit - WSOC TV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORDlUMmkzRnplTV85dXJseXhmbENBc1VxRUd5WUhZR1ZKdHM4RDMxUE85NzNqTFZNUnFURnQwYzdYR2tSTERsV25oYmVZTnhCelphcFFUMW9adjRrM2NBaDJfYXJtU1FDTGJIZU96cWk4dkZDaXZKUlQ4WWpvaVYydjFBYTE5cWdYXzdNckwyd21Wb3M5TzZURmpPVVdOelNsOEtlYVpqUmRGVnpxX1NmR2VlUlk5NFlWREZycE1FcEU1ZTh3b2EwZ1ZjSENFdw?oc=5",
+      "source": "WSOC TV",
+      "date": "2026-02-04T23:02:32+00:00",
+      "description": "SC fights rising drone contraband drops at prisons with high-tech unit  WSOC TV",
+      "query": "drone prison",
+      "detected_at": "2026-02-04T23:08:24.025815+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f7161e0b69a6"
+    },
+    {
+      "title": "Merz Visits Middle East to Curb Germany’s Energy Dependence on the U.S. - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFU0SHVrY3Q5QmdjdWxVUy1iZWh4RGlueERRTG5UZmJCZFQyV1o4bndRRkdpMzFvUEdvZVd5aXU5X3V4VGc0ckJCanFfWU1XUXMwQTdzOWxEQ2pvU20zOEV1SzQtNGtWVUdCUl9JTzBFT1MtbVZ0Qlc4VHNidVBad2tQeHBXSnA2QjFJLVhCcw?oc=5",
+      "source": "Impakter",
+      "date": "2026-02-04T17:02:20+00:00",
+      "description": "Merz Visits Middle East to Curb Germany’s Energy Dependence on the U.S.  Impakter",
+      "query": "drone incident",
+      "detected_at": "2026-02-04T23:08:21.515653+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "93153e7ea48b"
+    },
+    {
       "title": "Navy reservist was flying unauthorized drone shot down over Naval Air Station Whidbey Island - Stars and Stripes",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM01rcHdGTVNoZDNFcHpvWW83Yl9yQUNRWHFobmhGNDFMNHl0d19mbEdWZ0ZJY2ZIamdvYkJ2dG9aMUYxS2FyeVFCWFdDR25qSm14UTl4N3hkczVWSjI1SGcyNlVQcVlqOFEtQTlJQkVJLWkyT3FELXJhX0ttQnBFS1ViSW9Ha1JDQ25jeTlMNHRDcVhjOFNZamRsZTVMelp1ZS02d2h3?oc=5",
       "source": "Stars and Stripes",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "36825eed4a64"
-    },
-    {
-      "title": "Turkish authorities investigate drone crash days after shooting down another UAV - CTPost",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG1mNUNCb3NONHhCWkMtY013dXdDYmkyZjl1cVQ1QzRyc2NTYXhiZ2FsWTVJYVVDS2hoRlZhWjNWQmtNMWpleWNKWUdHU3NwWmJaOTU0Y3d0VnozbFNad2VWREF3dllmUDBuaVhNV0JEUmhUb3hvOEx6M3FXME1kSlY1ZEx6TFZWZ3A3MjFDT3U0U3k5dy1uSDZxOWVxY0dyajdsRjdR?oc=5",
-      "source": "CTPost",
-      "date": "2025-12-19T15:29:37+00:00",
-      "description": "Turkish authorities investigate drone crash days after shooting down another UAV  CTPost",
-      "query": "drone incident",
-      "detected_at": "2025-12-19T19:04:51.138251+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "66603fd1b700"
-    },
-    {
-      "title": "NEW: Drone footage shows Bondi Beach terror attack - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UG40Q1M5cE5rLWttbHA4QmlYLWxGRFlYbzhuV2ZSeVNwQVlDTFpXdzlSakpBTWNsVEgxdmo0UlpvTVVLcmNqakRWWjNod0JGVjEzS0x3?oc=5",
-      "source": "Fox News",
-      "date": "2025-12-19T17:28:17+00:00",
-      "description": "NEW: Drone footage shows Bondi Beach terror attack  Fox News",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-19T18:07:48.501013+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "ac0c32aa19f8"
     }
   ],
-  "last_updated": "2026-02-04T22:07:13.191255+00:00",
+  "last_updated": "2026-02-04T23:08:29.692262+00:00",
   "total_count": 1000
 }
