@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "From Car Bomb to Drone - The Brooklyn Rail",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5blY2TE5NSkp1bkFqcEdRMWNiTlMwLWVfa0lUOW9tRVdnT3VwQ2ltS0ROVnEwZ2x2TXhxUWFrdTlPRVA0QWxZVTdkdldKdENiZm9YM0VXZDVBNldjdXdyWV9Bcko3UTVFUmdaR0pkNzRNOVlLTms4?oc=5",
+      "source": "The Brooklyn Rail",
+      "date": "2026-02-03T22:02:59+00:00",
+      "description": "From Car Bomb to Drone  The Brooklyn Rail",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-04T04:34:58.777543+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9333fa6dccb9"
+    },
+    {
+      "title": "U.S. jet shoots down Iranian drone near carrier in Arabian Sea - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2dYaDlyMFcxN2gtVlQ3TUxybTEwRWU2N0tqT0wyOW1nYlpROXRoSmUtdjNsMFRDcEFsWjhJT2p1WjB4MWl6cDlEYU5WX1NjLWRKUUZQOTg2NU92aFZIZXdiQ2VuemVLYkRmY0tXZTRJRzVaSjY0SE40NW12MEJVS2lpdzdFM0tyZ3I2cQ?oc=5",
+      "source": "The Japan Times",
+      "date": "2026-02-03T22:29:50+00:00",
+      "description": "U.S. jet shoots down Iranian drone near carrier in Arabian Sea  The Japan Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-04T04:34:54.306358+00:00",
+      "location": "near carrier in Arabian Sea",
+      "category": "other",
+      "id": "35232b2d9a2c"
+    },
+    {
+      "title": "Iran Intercepts American Tanker in Strait of Hormuz - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelhhT2RvUE96cFAtczEzQ2hGX2lmYTNoRGgzbno4aGNoVzRRMUlZVjA5V0NPQjh0bXBxZDVEbVRSbWlSb3BLaEhfb3M3dW42X2lIV285RjhNclhmQ0Q2TERHbHNBV3EyeVZYbGRsLWlNbnFtamF5cnV5QXpyTGFGdnFIY0JVeTUzQ0M1S3RGQjRrWElqSkFMalUxd3JjZ0lfR3FN?oc=5",
+      "source": "The Maritime Executive",
+      "date": "2026-02-04T01:44:35+00:00",
+      "description": "Iran Intercepts American Tanker in Strait of Hormuz  The Maritime Executive",
+      "query": "drone incident",
+      "detected_at": "2026-02-04T04:34:54.306358+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0eda10e00093"
+    },
+    {
+      "title": "U.S. shoots down Iranian drone that approached aircraft carrier Lincoln - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjZQclk1ZF9TUGZLUTgwS1o0RVVRTXdJQUtMM3pmWlNNMFNLOHpJOTRxbUtacG1WMUI1S1YySDdqOWd4dUVVQktwVDVzRnpSWW1SdktMcS1UV1NhWVVyeUpsSDE2cnBDTGl4bzh2d3BkM3d5TEJhdUtLR1RVYS1zQ3ZzM2NmM1FwOUpCWUI3X2hqT3FMY291ZjF1cEk4c0hRbkY3Vw?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-02-04T04:19:38+00:00",
+      "description": "U.S. shoots down Iranian drone that approached aircraft carrier Lincoln  The Washington Post",
+      "query": "drone incident",
+      "detected_at": "2026-02-04T04:34:54.306358+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d26fdd4a8c19"
+    },
+    {
       "title": "Category A prison has 'ceded' airspace to specialist gangs trying to fly in contraband by drone - Sky News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakVvOURYeHZ2aWM1ZVFWYTd2ZDdvQU1BajJtVDVDb1RDX1FRZEdQMnR3cnNkUWUwNjJuLVlVNnBmei1QWEExXzFUak1GVlUyTFZEOHF3dm54NEdXN0w0Tks1Mm05akZJSjBmc0ZhdG5WSDVobVZtRUZmdXlPZmpaWDd3OWNyel9ZZzdFbzZndm1UNmtDTXY1MnYtM1B6Y0FQaTBIbUVIbzRnWGM3LTRmdWFHUFVwTk44?oc=5",
       "source": "Sky News",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "c98ad960f0d9"
-    },
-    {
-      "title": "19-year-old inmate captured weeks after escaping French prison with bedsheets - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmt4c3hocFBRTk5RSTF6UnkyR1VSTkpaeFE1WlBzWG42NFM1bDJBMGZwbWk2aVJxb2NSYmtnc0d6MHpCc0xFQ1VZanNZMkgxeTQ1OE5Jbzk3QWtiWlFOc2dSeTVTYmJwbGt5OTVfNDRsdS10SXUwYkVQMUgtZmhjbkZBbw?oc=5",
-      "source": "CBS News",
-      "date": "2025-12-18T15:48:59+00:00",
-      "description": "19-year-old inmate captured weeks after escaping French prison with bedsheets  CBS News",
-      "query": "drone prison",
-      "detected_at": "2025-12-18T16:07:46.315762+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a5e057e51283"
-    },
-    {
-      "title": "Israeli citizen arrested for smuggling weapons via drones - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kcXJ4dmZjV0t5b3kzLWtTTDcwR2hpM05uQUxvRnBLS09qREZjVFpFYkNTZDczN09zeW9nOERCV3YzbnN1MEJXSzJGb3VZZnJDWXJ4MHVGZ1hPRHNua202b2E2TE5vNTZ4WFZTaG13?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2025-12-18T14:47:44+00:00",
-      "description": "Israeli citizen arrested for smuggling weapons via drones  The Jerusalem Post",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-18T16:07:45.752200+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ff6fcc6bd258"
-    },
-    {
-      "title": "Turkey denies claims of air defense weakness after downing unidentified drone, warns Russia, Ukraine - Turkish Minute",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSmloWlNoMEFGWlNILVlyaF85aWFiREVyb1RGT296clNoQlU0WkZUQjIxWTg5Q1ZjVUZZTy0xMWJESktZNXlYOEVOYWJXeFA4ZHhhY3lDcTlJOGtSQmZwcnZMZTVudGd4R01WQnV0YTF3aXF2eE9YSHozenZfQTE2SmlkNkxsd2RhNXNIeVB5S29BallES3FSTXVKYUZQVHFSSU5oXy1GeTRESlluMDhucjNzclZlSGhmbTNudEdDTnBNT3AxRHhqV2xjTDdjRWc1MnRBSUMyMNIB3AFBVV95cUxPOHE3RVZIbXdlU2RRYkUyMXV2bElRU1Z2VURVcy05ZDZDYk43dk5wU1YtTDBUdTl5RUZoQm1uQjVhRy1JU1RrOGtzRTh4TEg2S3NHY1cteDNBb2Jvb2hSbmFZUDR0Nm5FV1g2ckZqclo1RXptby1aVTRmUjFtZ3lkLXlkTVE0ZmJ4NkJ4UlZ4Q25vaUVhYjQ0cTdZcFJJNUlIeUU2ODBVLWpUTFZnamd3X1l6MFBYd1M4c2ZjLTVKYm4wQkh1V0NnVmFjWkpOU0lRYTJKeEVOX1J6dThE?oc=5",
-      "source": "Turkish Minute",
-      "date": "2025-12-18T13:12:20+00:00",
-      "description": "Turkey denies claims of air defense weakness after downing unidentified drone, warns Russia, Ukraine  Turkish Minute",
-      "query": "drone incident",
-      "detected_at": "2025-12-18T16:07:44.352489+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a20466031ead"
-    },
-    {
-      "title": "Drone, Dog Help Nab Suspects In Violent Armed Robbery In Manchester - Patch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOajhXVHR3S1M0MGE0NTZZZGsyc0tESXpiWm1MOVhnQWxMT19LYTJ6SlhjWDhyZktNLWtCVUZfemd3YmZJbzBkX2RJRWdRNDVSQTBxMlpJMU5XaXpDUmNyRk5FSUVsNWFoU0xiUTNDaW1mUlhlUWFHMmlGWVJFenJVVzE5SWRMaS1jaDNzTEpPU0NnMkZaQ3UxZmx0dkU5alluQUZj0gG8AUFVX3lxTE5SbHM4amdTY1J6QWxGaTFHNkYxS0ZuekNaOTVwWGxqTjhuTjZVdGFEa284dm5uMW55cHpfaTQ1a081c182MkZaZTdBR0w2a0tfQlBldU5rTzB5NnQwaGFOMU1lUllKQ19nNk05RnRYS2l2c21kRFRRQlNXNlBLYm1DUGQ0T3U2cEEzZXRqd3Q0QzZqLS1rMnd0MVg3dDQ0WFNMcTNKTTB6c0hUT3VUZ2xhd0ZxYkFMVjhRYkhH?oc=5",
-      "source": "Patch",
-      "date": "2025-12-17T19:21:19+00:00",
-      "description": "Drone, Dog Help Nab Suspects In Violent Armed Robbery In Manchester  Patch",
-      "query": "drone incident",
-      "detected_at": "2025-12-18T15:06:11.920537+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "70710fbc8271"
     }
   ],
-  "last_updated": "2026-02-04T03:00:37.394504+00:00",
+  "last_updated": "2026-02-04T04:34:59.915832+00:00",
   "total_count": 1000
 }
