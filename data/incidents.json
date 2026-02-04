@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Navy reservist was flying unauthorized drone shot down over Naval Air Station Whidbey Island - Stars and Stripes",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM01rcHdGTVNoZDNFcHpvWW83Yl9yQUNRWHFobmhGNDFMNHl0d19mbEdWZ0ZJY2ZIamdvYkJ2dG9aMUYxS2FyeVFCWFdDR25qSm14UTl4N3hkczVWSjI1SGcyNlVQcVlqOFEtQTlJQkVJLWkyT3FELXJhX0ttQnBFS1ViSW9Ha1JDQ25jeTlMNHRDcVhjOFNZamRsZTVMelp1ZS02d2h3?oc=5",
+      "source": "Stars and Stripes",
+      "date": "2026-02-04T21:27:21+00:00",
+      "description": "Navy reservist was flying unauthorized drone shot down over Naval Air Station Whidbey Island  Stars and Stripes",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-04T22:07:12.629854+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "9be47e30229f"
+    },
+    {
+      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
+      "source": "AOL.com",
+      "date": "2026-02-03T23:18:36+00:00",
+      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-04T22:07:09.529796+00:00",
+      "location": "at Brussels airport",
+      "category": "airport",
+      "id": "8ac3b7c57fdb"
+    },
+    {
+      "title": "Elmira man arrested after drone-assisted search by deputies - KEZI",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNzhHUlpqUDU5N1ZJbFFDU3U5c1NsUzJxZHNQSXUtdlZDVF9HVElVMy1TVlNBZTFWazBmRFgzRzZsTHdEd1ktc291ZGt6WHZTMG5vY1lHWXJUTVZsakF3eGlzT3RqVFBFdUN1RXFKb2RaWGZZSzRwVW9KdU0zbnpCN2h2Skd1RE1JcFFwU3J2LWFTbUZzeVVsNGtUcG9nalVKREVQRlVVRlNYam1CYzd3azhQczI1aHY3VWF4Ykh0LTF4YXJZelBxYW1semctbzRRbW16QzZMZDg?oc=5",
+      "source": "KEZI",
+      "date": "2026-02-04T20:57:00+00:00",
+      "description": "Elmira man arrested after drone-assisted search by deputies  KEZI",
+      "query": "drone arrest",
+      "detected_at": "2026-02-04T22:07:07.673006+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ce519841e82d"
+    },
+    {
+      "title": "N.Korea drone incident exposes peace talks as a political illusion - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazh3aEhpcF9TMUNxdmszcXNLa09BQURMY1M2bWc4NGNLRm9ETXduYVBYeGwyOTNsSmYxdWNKWmRlZGQ3bWJlb1FGanBidzhGd2dUVzF2ZnpVTWhCX3UzWjFBcThJWkpjc2pRQUJfNzF5ZkdndGpmdVNHaUQ1ci12ZVhCeWozRVJhUVNDdHkwcw?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-02-04T21:34:20+00:00",
+      "description": "N.Korea drone incident exposes peace talks as a political illusion  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-02-04T22:07:07.083869+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c5a11fad7921"
+    },
+    {
       "title": "4 Killed in Russian Drone Strikes on Zaporizhzhia and Dnipropetrovsk Ahead of Peace Talks - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12SVcwb1ZoM1BrVnI5UWlyaFk2dzYzVGJoQmV5UENQYl9tVHNucnJkZVdSdEJVcXhPLWxfdl9Pa29QVUlsY3YtNmIzMA?oc=5",
       "source": "Kyiv Post",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "ac0c32aa19f8"
-    },
-    {
-      "title": "Ukraine Strikes Russia-Linked Tanker In The Mediterranean With ‘Bomber Drone’ - The War Zone",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkJrRTczQnFyQkhHTDVXYXBzYWM4MUhFd3Bfb1pEMkFtSmxPRzlhOG42bFhMeDd2YkNwalY4TndudmljenZaT3JvT1dJcGF0R3ZhUTRubWh4b1JLamZMX3VNT2g2aUNQQm01SlJONmFCNEhYdHZTeG5KN19qWmFYYmd4akpIWXZvRkVRYlgxNGxxckN0T05xRjVnMWd1c080WVFUaGFIbjNob2dOaGc?oc=5",
-      "source": "The War Zone",
-      "date": "2025-12-19T17:20:29+00:00",
-      "description": "Ukraine Strikes Russia-Linked Tanker In The Mediterranean With ‘Bomber Drone’  The War Zone",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-19T18:07:48.501013+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b17b34c5adf5"
-    },
-    {
-      "title": "Feds charge drone pilot after MLB stadium no-fly violation - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cFFMU2lJWmp2T2E2Q0ZpcGZjZXR3eFNuallTX2lIcmZfbjh5dE5jV0dIU1RZcEZJRWtGR0taVXVld1o5SEhoTldlZXJEQXQyX1JGVzV4Q2llZ2Z3TWV2Zm5kMDlYZG9vVEdNTw?oc=5",
-      "source": "DroneDJ",
-      "date": "2025-12-19T17:12:00+00:00",
-      "description": "Feds charge drone pilot after MLB stadium no-fly violation  DroneDJ",
-      "query": "drone illegal",
-      "detected_at": "2025-12-19T18:07:47.235793+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "38f938db7631"
-    },
-    {
-      "title": "Drone crashes in northwest Turkey: Media - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJoOWFKUk92ZjN4ZzNTSFdzLTFDeTNJS1pJX05sMTk1TWFmd2hNSGVEaDFZMWVLdnBVM3NuNHI5T3FuSlBNb096eVYwY2E0ODc0Ml8ySTRXV29WNnJlRUhKOGRaeFRfUG4xNmh4UWZUa0hJdmFpRkhZYXZKOFlfWDFUT2FCNjdSeHpuYzhIcURiM0daUGczWjlEUEdCU3FCT3d4d9IBpAFBVV95cUxPMWJoOWFKUk92ZjN4ZzNTSFdzLTFDeTNJS1pJX05sMTk1TWFmd2hNSGVEaDFZMWVLdnBVM3NuNHI5T3FuSlBNb096eVYwY2E0ODc0Ml8ySTRXV29WNnJlRUhKOGRaeFRfUG4xNmh4UWZUa0hJdmFpRkhZYXZKOFlfWDFUT2FCNjdSeHpuYzhIcURiM0daUGczWjlEUEdCU3FCT3d4dw?oc=5",
-      "source": "Al Arabiya English",
-      "date": "2025-12-19T14:01:00+00:00",
-      "description": "Drone crashes in northwest Turkey: Media  Al Arabiya English",
-      "query": "drone crash",
-      "detected_at": "2025-12-19T18:07:46.609617+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3112b28d36e8"
-    },
-    {
-      "title": "Turkey Says Crashed Drone Believed to Be Russian-Made - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGVYUmFLY09zTFRoeEo1VURFOW9CWjMzMElfRThHa2hkcjM5b0VoUFN6MDY4LTdSeEtGZ0FhNVhjWXp6RW9qSmhDdllIX0UxWG1aMmVtdDEwbHgySzlwRUpXUl96UHlpM2lGekJ5cUgwRlRnUjIwM21UUGpBeWdLYnpFZldtalJRQUJrZ1doMnRsM29FZkFHcGUzWGphckR1UHRFZw?oc=5",
-      "source": "The Moscow Times",
-      "date": "2025-12-19T17:34:22+00:00",
-      "description": "Turkey Says Crashed Drone Believed to Be Russian-Made  The Moscow Times",
-      "query": "drone incident",
-      "detected_at": "2025-12-19T18:07:43.378062+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "292af0d891d3"
     }
   ],
-  "last_updated": "2026-02-04T21:12:13.047075+00:00",
+  "last_updated": "2026-02-04T22:07:13.191255+00:00",
   "total_count": 1000
 }
