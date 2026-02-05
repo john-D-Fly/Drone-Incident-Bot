@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have occurred, predominantly focusing on unauthorized operations and military engagements. In the U.S., a navy reservist was reported operating an unauthorized drone at Whidbey Island, leading to two separate incidents of unauthorized drone operation. Meanwhile, U.S. military actions escalated as they shot down an Iranian drone approaching the USS Abraham Lincoln in the Arabian Sea, amidst ongoing tensions related to Iranian drone operations near military assets. In addition, concerns around drone smuggling have been highlighted, particularly in the context of prison contraband, with incidents involving drones delivering drugs. Globally, reports indicate a significant uptick in drone attacks in Ukraine, as Russia intensified its military drone strikes ahead of peace negotiations, further complicating the geopolitical landscape.",
+  "totals": {
+    "other": 37,
+    "security": 6,
+    "smuggling": 13,
+    "arrest": 9,
+    "terrorism": 2,
+    "airport": 1,
+    "crash": 2,
+    "total_incidents": 100,
+    "by_category": {
+      "airport": 1,
+      "arrest": 7,
+      "crash": 2,
+      "other": 66,
+      "security": 8,
+      "smuggling": 14,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 9,
+      "drone crash": 2,
+      "drone illegal": 2,
+      "drone incident": 47,
+      "drone prison": 12,
+      "drone smuggling": 6,
+      "drone terrorism": 12,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "unauthorized drone operations",
+      "rationale": "Increased occurrences of unauthorized drone flights at military bases and incidents involving navy reservists.",
+      "incident_ids": [
+        "52b9c149d1fe",
+        "eeb146413fb9",
+        "30a8a68baf41",
+        "9be47e30229f"
+      ]
+    },
+    {
+      "topic": "drone-related military escalations",
+      "rationale": "Incidents of U.S. military shooting down Iranian drones highlight rising military tensions.",
+      "incident_ids": [
+        "1ec2f904976c",
+        "f18af2517a83",
+        "b381bc81a523",
+        "a0750fb29cb7"
+      ]
+    },
+    {
+      "topic": "prison contraband",
+      "rationale": "Heightened focus on drone use for smuggling drugs into prisons has emerged, necessitating countermeasures.",
+      "incident_ids": [
+        "5b7bbbe75fdb",
+        "c678c4b9bd2c",
+        "f18af2517a83",
+        "8ab198006f67"
+      ]
+    },
+    {
+      "topic": "geopolitical tensions",
+      "rationale": "The geopolitical ramifications of drone incidents in conflict zones reflect broader international security concerns.",
+      "incident_ids": [
+        "b07f8ed4435c",
+        "f69426daf960",
+        "9c48d650cdad"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "1ec2f904976c",
+      "headline": "US-Iran talks in jeopardy? Reconnaissance drone shoot down adds to the drama",
+      "one_sentence": "The U.S. shot down an Iranian drone, intensifying geopolitical tensions ahead of planned talks.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "52b9c149d1fe",
+      "headline": "Navy reservist operates unauthorized drone at Whidbey Island base",
+      "one_sentence": "An unauthorized drone operation by a navy reservist raises security concerns at a military base.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "55743853552a",
+      "headline": "Russia's 'Massive' Drone Attack Strikes Ukrainian Railways",
+      "one_sentence": "A significant drone attack by Russia on Ukrainian infrastructure further escalates the ongoing conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "5b7bbbe75fdb",
+      "headline": "SC fights rising drone contraband drops at prisons with high-tech unit",
+      "one_sentence": "Authorities in South Carolina are using high-tech units to combat drone smuggling into prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "5c2452da5a62",
+      "headline": "Port of Rotterdam to monitor drones more closely, invests in detection systems",
+      "one_sentence": "The Port of Rotterdam is enhancing drone detection measures to prevent unauthorized activities.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight increased tensions with Iran and challenges in prison security against contraband.",
+    "linkedin": "A surge in drone-related incidents underscores the urgency for enhanced security measures in military and prison contexts amid rising geopolitical tensions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-05"
+}
