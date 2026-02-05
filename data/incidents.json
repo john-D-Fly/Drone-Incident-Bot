@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Navy Downs Unauthorized Drone At Whidbey Island Base - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yaTl0dVQ0MjJ5Uk91X0UtWjNURVFEc2NzVzAtTTVaOGk5bmZYVjFaZS1BNU5TNWpLLTloZkZDVS1pVDZGUDQ3TktzZTQzVFAzUzV6X2hhdzFrdUhOZ0VEOGx2dFF1cEZ1ZHljZEVwbWRtbnR6OXc?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-02-05T17:12:18+00:00",
+      "description": "Navy Downs Unauthorized Drone At Whidbey Island Base  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2026-02-05T17:19:30.615754+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "419089407d3d"
+    },
+    {
       "title": "Navy reservist was flying unauthorized drone shot down over Naval Air Station Whidbey Island - Stars and Stripes",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM01rcHdGTVNoZDNFcHpvWW83Yl9yQUNRWHFobmhGNDFMNHl0d19mbEdWZ0ZJY2ZIamdvYkJ2dG9aMUYxS2FyeVFCWFdDR25qSm14UTl4N3hkczVWSjI1SGcyNlVQcVlqOFEtQTlJQkVJLWkyT3FELXJhX0ttQnBFS1ViSW9Ha1JDQ25jeTlMNHRDcVhjOFNZamRsZTVMelp1ZS02d2h3?oc=5",
       "source": "Stars and Stripes",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "9cd9b14cccee"
-    },
-    {
-      "title": "Russian Orlan-10 Drone Crash in Turkey Sparks Investigation - Shop SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXZRVTU0U2NjTXFEUS1PVXVESkJERlBDcENmVU9FUVVtOWI4cG1mU3JORnZnTy1sUVdQaHVRUzZFQzNuMFF2eUZaU2ktT2s4SkhMQWw5Qzd0LUdia3pVcXZ5WUZDc0VhUXJNamxCV0dfN3FDMnlmMjcyTWx3VjhpVlcxdFp4U1FpQnFKWTNrOWF0eUxBdjkzX3BtR1I?oc=5",
-      "source": "Shop SSBCrack",
-      "date": "2025-12-20T05:03:13+00:00",
-      "description": "Russian Orlan-10 Drone Crash in Turkey Sparks Investigation  Shop SSBCrack",
-      "query": "drone incident",
-      "detected_at": "2025-12-20T06:07:43.456405+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3d7601389357"
     }
   ],
-  "last_updated": "2026-02-05T16:18:21.097111+00:00",
+  "last_updated": "2026-02-05T17:19:36.941476+00:00",
   "total_count": 1000
 }
