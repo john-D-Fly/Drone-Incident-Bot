@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Navy reservist operates unauthorized drone at Whidbey Island base - NonStop Local KHQ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDlRZGJTcmdILXFSclZiT1BkbXd4SUd6Y2xOU2llc2N0VHdLczZSXzB5bXZuT2VfZDlvZzJjbmpuZ1k3M3hpOFRobkhWOVVuMEtHNURZakhoZG5vRWVYbFVPd2p6ZjFBNVBiWWpmYkd5M0tjWVBhakFzeFVxRFRVd0Vad245VWI1Wk9jNnpxWlRnajZOMHBldU91RVZKOUNFd1gxdlFzbzlBZ0JDcGtSR2l2VHk2YVlXbGY4dUV3ZVRqcVNBQzY2aFMtdkJwQQ?oc=5",
+      "source": "NonStop Local KHQ",
+      "date": "2026-02-05T03:38:01+00:00",
+      "description": "Navy reservist operates unauthorized drone at Whidbey Island base  NonStop Local KHQ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-05T04:37:14.786726+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "057b92ef0cef"
+    },
+    {
       "title": "SC fights rising drone contraband drops at prisons with high-tech unit - WSOC TV",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVzVkX21JTzRjT0tkLU85RlFNSVUwbTJ4R2U2WUpxSWlTc3M0QmpGenpWbDRrY044Vm1hWC05bEN5V3Z1Y1BJd2ppdWYwdUplUVB1WGQtLWd1RmJIcGx0dEdIN2x4TnZJMG5HWURkQndHbjdTOUdfdVg5VUFQMXU1U2hFM2pKMmZQbG9VbERYY0JFRWdXQUVnN2RMVXUwTFVuRll3X2QwQmNqZlI0cW9hNHZNYVQ1TFRFWWF2YlhiODd3XzlVWk5setIB3AFBVV95cUxQTzAtMUFkS3pBcGI0d0ZabTg0MzRTemNnYmZpUUhBYkJoR01VSGthS0hGYkNFTG1PeUNyNDBNYTB0a3FGcDd3dzV6dENhUVpIaGs5c2FvR1pfVW9jbEVEdDZlc2F3VV8yVmk2WHpqenZQbGd2ZmdSaUVHUUYyd0lIaDNibVVwRDRFZ09CcmFCY2JZOWh0dS1fc3BEeURjMkhFeXdlNHdleklybjdmYmo2b3Y0eUtRVjJnYVg3QXZnTTZnSzFwdjdoWU1tWU4tMmgyVlV3RzRIaUppR1hZ?oc=5",
       "source": "WSOC TV",
@@ -11987,20 +11999,8 @@
       "location": "near Istanbul as Black Sea surveillance intensifies",
       "category": "crash",
       "id": "34b405b8a7fa"
-    },
-    {
-      "title": "Drone banned near airports until Feb 15 - New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUZ4WUQ4NDJabkk1Vl9PMWt6cWJjbTZzX2lWZmhlbmMyVkR3LVJZZnN4WkNJeHlrM242UWx5NWEwZmlVd0VTSWl5MGtWOEY4Qmt3NEx3d0hOWERfQkY1bHpOUFR3ZVhTc3RUZUZYMzNrRm5OR0ttX3VOUEw5bk5FNG1BcXlIM2NhREtsUA?oc=5",
-      "source": "New Age BD",
-      "date": "2025-12-19T18:52:49+00:00",
-      "description": "Drone banned near airports until Feb 15  New Age BD",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-19T19:04:56.671938+00:00",
-      "location": "near airports until Feb 15",
-      "category": "airport",
-      "id": "2ffc105837f9"
     }
   ],
-  "last_updated": "2026-02-05T01:36:41.290176+00:00",
+  "last_updated": "2026-02-05T04:37:15.346853+00:00",
   "total_count": 1000
 }
