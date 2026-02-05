@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Navy reservist operates unauthorized drone at Whidbey Island base - Nonstop Local News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDRtSUxtRzZjWl9MZmliY2h4VmVxRWJOdFd4ZjNZTEJhN3V0aHl2US1zeUlzSTJpQWZwVWowQXZNTFZHWGxBWXBTNklGcHd4TXlnRkxwMmRrb21TZ3pQaVlBaXZMUzBYbkRXOVplTDNhdUZNZ1djbnItbXRBZ0VKVnFRRFU1NURBMDlWVjNTOXBoSzducFBMelF4Y0xZU2VrLUxSUXcxb1RUeUNZd0lBZnczMS13UlpKX1N1UVVES1FoUG1pbi1BaWpmMlB3LUw0bV9EcWE0QmNTSWJ3ejRJcmRn?oc=5",
+      "source": "Nonstop Local News",
+      "date": "2026-02-05T04:52:36+00:00",
+      "description": "Navy reservist operates unauthorized drone at Whidbey Island base  Nonstop Local News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-05T08:15:47.475516+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "0381bce33f76"
+    },
+    {
       "title": "Navy reservist operates unauthorized drone at Whidbey Island base - NonStop Local KHQ",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDlRZGJTcmdILXFSclZiT1BkbXd4SUd6Y2xOU2llc2N0VHdLczZSXzB5bXZuT2VfZDlvZzJjbmpuZ1k3M3hpOFRobkhWOVVuMEtHNURZakhoZG5vRWVYbFVPd2p6ZjFBNVBiWWpmYkd5M0tjWVBhakFzeFVxRFRVd0Vad245VWI1Wk9jNnpxWlRnajZOMHBldU91RVZKOUNFd1gxdlFzbzlBZ0JDcGtSR2l2VHk2YVlXbGY4dUV3ZVRqcVNBQzY2aFMtdkJwQQ?oc=5",
       "source": "NonStop Local KHQ",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "38608eead8dd"
-    },
-    {
-      "title": "Russian Orlan-10 drone crashes near Istanbul as Black Sea surveillance intensifies - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wNXVXb2M2Y1VFS3JSVDh2Yi1vTnFGUzdDWkdUQVJ2R0pDUUxzSlZ0ejBrMS1GXzhZb3ZQVElxUTh4Yk1pT0J4cW9UeVh0QlR1Nkd1dnBOX2FBcWNQak9HcEFxR3gzWUIzejMzdks3NW1ibDJFRXRBTS1tSQ?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2025-12-19T19:30:40+00:00",
-      "description": "Russian Orlan-10 drone crashes near Istanbul as Black Sea surveillance intensifies  Euromaidan Press",
-      "query": "drone incident",
-      "detected_at": "2025-12-19T20:06:18.741463+00:00",
-      "location": "near Istanbul as Black Sea surveillance intensifies",
-      "category": "crash",
-      "id": "34b405b8a7fa"
     }
   ],
-  "last_updated": "2026-02-05T04:37:15.346853+00:00",
+  "last_updated": "2026-02-05T08:15:48.230905+00:00",
   "total_count": 1000
 }
