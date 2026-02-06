@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Amazon Drone Suffers Another Crash in Texas - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQktXbzlfbzlORFQwbUZJT3pwdW9LVHpKSWtROElqWmpuTkxXMTNYam5kazZ0c0RKZnhXc3Q2TFVOUzAwdGwzWC10dzlUU3I0T0FzdFM4SW5nSXFSNEZpSldvNG5XelBGcVZN?oc=5",
+      "source": "FLYING Magazine",
+      "date": "2026-02-06T19:29:24+00:00",
+      "description": "Amazon Drone Suffers Another Crash in Texas  FLYING Magazine",
+      "query": "drone incident",
+      "detected_at": "2026-02-06T20:09:36.640535+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b14c6325c4f6"
+    },
+    {
       "title": "Senate Judiciary clears Moody’s Drone Espionage Act to slam door on foreign spy drones - Florida’s Voice",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRS00M1pWTXJfd1B3ZjVjdWtfc3A3ejZVUURud3M1T3lVR0wtNVpOV0xUdjFqMkd5MTlPTUxMSHJTV2JQUTNnT3pGRnoxbkY0cGFNYmxWNVJtMURyZTRhZGFWUG5XOFh2SlFTZU1oTGo0ekhNY1lGaU5sZURfNmxQQ1J1anRGZVFkbWxwZWNHNm1BWGlLSUV6MHFhX1B6RlV0WW15bHlob0MzX0JMbzJv?oc=5",
       "source": "Florida’s Voice",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "24ebca2df5bc"
-    },
-    {
-      "title": "Illegal drone shot down at nuclear submarine base - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0sxUG8xWnFmOGsxU196dmNvMGNmMzdGelhiSEU5NDBXMFFYZFVOWmZBRzdRd2xyUUhJV0l3VWd0emI5OWpOV2M3RkZNREFTMDBlREtKYk9xM3Q1QXN4MV80ZWFxZDhYVTBES29fNnNjYU5EZ01GUE1US1JOOHN6QQ?oc=5",
-      "source": "AOL.com",
-      "date": "2025-12-22T13:35:42+00:00",
-      "description": "Illegal drone shot down at nuclear submarine base  AOL.com",
-      "query": "drone illegal",
-      "detected_at": "2025-12-22T15:06:22.351412+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "495f873404e3"
     }
   ],
-  "last_updated": "2026-02-06T18:18:04.390782+00:00",
+  "last_updated": "2026-02-06T20:09:42.690834+00:00",
   "total_count": 1000
 }
