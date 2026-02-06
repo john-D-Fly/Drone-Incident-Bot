@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US shoots down Iranian drone approaching aircraft carrier, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNkQ3hxd2Z6Rk9CdDh5RlZzMWJRYnpTMk1obzhzb2xYZjZmYWphZVUzcGlxNHVpY2dmakF5NFExT3lFOWhReEdwZzRNSldENG4xemFQV2F4TENGWXViN1hieFBGbTcxUFRxQkRNcnJQb1ZITWx2VnF2RWs2OW15VHlEYjZYQVNCb3pDYXhEeHNNV3RCdHZ6cWs5Z3RmUzNBMUQ4dDVFR3U3SWhQVDFZNDhibEs4Uy1mNk0yVWpkZXRUVVU?oc=5",
+      "source": "Reuters",
+      "date": "2026-02-06T07:15:25+00:00",
+      "description": "US shoots down Iranian drone approaching aircraft carrier, official says  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-02-06T07:21:44.761042+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "622ed83d8aca"
+    },
+    {
       "title": "Amazon drone crashes into an apartment - WFAA",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUE1oWDhSS21Ka2tWU1NvWE1PalpOMlR6SGhvcnRSWlJvU2paSXlEMlFYSUFadjlpbGx2clExU0NxanZSdXlWYUlpOEt2cjYyNzBMTjg4ZUdTQ3ZOeTE5S3lTV0p4ZW42UGR0M3VUMkYxUTZfOF9nNk1tSHg5NXZRU1BXQm5rQ1RTT2RPc3d3N2tJWEtBMDM3ek9lSkdYNVFZdFREdGU4ZDREOGxycGtWcEhzWmo3Z3RK?oc=5",
       "source": "WFAA",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "3df955f27fb6"
-    },
-    {
-      "title": "Drone delivering marijuana and crab legs intercepted near South Carolina prison - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNT0V6cVBGRkhLeTQ4OGdfOWYyeHpUQ2g5ZEdaOE9OTkVhZUtUd1FETldWdjFoNlZjeE42S240N3N6NjFTZnJRejRRM0lKUkN1Skp2OTVfT1FtVTkzVUxrdC1pUzg2SllGZi1XWHBPcFhIZl9sVUpCTkowbV9OQ2h6WnRCRlpSMHNsckhxejZydndTazBDVGFpZWZBeGFGanN6eDg0RWk0TFNMOGc4cmR1OF8xak1oR2hZSGtVR2k1eUJxM2p0Y2Y4aENrak9kUXBITWVDd0Rwd3N1OHdsUWVLeUZ1OURvWlhMalVWSUtpU0tOX3RyRXBucEYwbXV3SWx5M1VhZkpvd3BEYldBSzFfYUQyOHpPbTlTVVVsTTVHV2ZRUXdjRlphQlRKQkRRNHhxN05OUlpkNm5rYWJZSDFCTjVTRkh2MzhtQ1Fvdy1OWDVMemxHaTNZUUc5RHpYUQ?oc=5",
-      "source": "MSN",
-      "date": "2025-12-20T12:22:37+00:00",
-      "description": "Drone delivering marijuana and crab legs intercepted near South Carolina prison  MSN",
-      "query": "drone prison",
-      "detected_at": "2025-12-21T05:06:15.742155+00:00",
-      "location": "near South Carolina prison",
-      "category": "smuggling",
-      "id": "af8320497ff5"
     }
   ],
-  "last_updated": "2026-02-06T05:26:31.883103+00:00",
+  "last_updated": "2026-02-06T07:21:50.048740+00:00",
   "total_count": 1000
 }
