@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Amazon drone crashes into an apartment - WFAA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUE1oWDhSS21Ka2tWU1NvWE1PalpOMlR6SGhvcnRSWlJvU2paSXlEMlFYSUFadjlpbGx2clExU0NxanZSdXlWYUlpOEt2cjYyNzBMTjg4ZUdTQ3ZOeTE5S3lTV0p4ZW42UGR0M3VUMkYxUTZfOF9nNk1tSHg5NXZRU1BXQm5rQ1RTT2RPc3d3N2tJWEtBMDM3ek9lSkdYNVFZdFREdGU4ZDREOGxycGtWcEhzWmo3Z3RK?oc=5",
+      "source": "WFAA",
+      "date": "2026-02-06T04:58:13+00:00",
+      "description": "Amazon drone crashes into an apartment  WFAA",
+      "query": "drone crash",
+      "detected_at": "2026-02-06T05:26:28.964319+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c10e3039f8b0"
+    },
+    {
+      "title": "Amazon drone crashes into apartment, raises safety concerns - NBC 5 Dallas-Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb184VmFmWGs4TWUzRFZobGk2bmRjcWhqRjE2LUowbUM2OGVFbHZVQ2xIUEM2ZmZaSkppRHM1NTFwaEpHSlFqeEZQMnloNk5CR2RmeDlCWTFNc0Z4enNKS0lEWmVWeUdtVGwwRzVSRTU2bkxYSlB4a2dUZ3IwVEswNlluUlUzcmdGb0ZXMnlkX3VRRUF1ZjVmNE5GelFtbVptVEVUbHBhUTlkSXfSAbMBQVVfeXFMUGpTNVI5NkVMaVpmWFU5YmhIUkNuaUQ5OE9JV0Q4cDJ3c2xacW1BZUpxeVJ2Nk5rTl95SjlyclVvRk8wTTEyODY1WnM4RHdicVNCWXIyc2tNUC1TY1NhcmtUY0xxN1ZUWTFRNHRyS0Ixc2wxVEx2azBEQTZUTlJSX2JJd3BlV3dDNWtiZ3MyUDhTTktjbTQxOVcyMXBiRVVuSTlpam5iODl5SExjQUk5cFE1UDA?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "date": "2026-02-05T23:10:30+00:00",
+      "description": "Amazon drone crashes into apartment, raises safety concerns  NBC 5 Dallas-Fort Worth",
+      "query": "drone crash",
+      "detected_at": "2026-02-06T05:26:28.964319+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9bafa8f3e33e"
+    },
+    {
+      "title": "US shoots down Iranian drone approaching aircraft carrier, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNkQ3hxd2Z6Rk9CdDh5RlZzMWJRYnpTMk1obzhzb2xYZjZmYWphZVUzcGlxNHVpY2dmakF5NFExT3lFOWhReEdwZzRNSldENG4xemFQV2F4TENGWXViN1hieFBGbTcxUFRxQkRNcnJQb1ZITWx2VnF2RWs2OW15VHlEYjZYQVNCb3pDYXhEeHNNV3RCdHZ6cWs5Z3RmUzNBMUQ4dDVFR3U3SWhQVDFZNDhibEs4Uy1mNk0yVWpkZXRUVVU?oc=5",
+      "source": "Reuters",
+      "date": "2026-02-06T05:10:00+00:00",
+      "description": "US shoots down Iranian drone approaching aircraft carrier, official says  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-02-06T05:26:25.817199+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "01bd550e4291"
+    },
+    {
       "title": "Drone helps police nab 'serial defecator' at Stoughton park - channel3000.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1Nid1VIWm03N0FBNTRVWGFIdDEzUTVqN3IxUFBITUdZc1AxaTNxbUZJTVNVbjBMYmVaWUFlUjNneEYxRW9BOVFKck8wVzI0M1pJdHd2dEJJWTBLWmt5TEdRNEtzZXdQWHJOZ1hGUzNNNGVTWmNWU2FDMm1tMmU2U2RUcHFNOGcxSEF0ZVJoUHkyUFliYUxHdU1xQ3ZwRGhlSWtzVG9nR1d0bVVRVVBhTnNwclV6VXhnNVJEVVc2Y0ZhU0FsSmJaZTY5LTBHenlBc05FZUtDTQ?oc=5",
       "source": "channel3000.com",
@@ -11963,44 +11999,8 @@
       "location": "near South Carolina prison",
       "category": "smuggling",
       "id": "af8320497ff5"
-    },
-    {
-      "title": "President Donald Trump signs law strengthening stadium security against drones - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3NheTFoZVpwVVh2dGF5MDFQX1gtY2RzTGdWVVNiaUZkRDlXNzN3cVZ0b0pQd1IweldkQXNVMWV6TF9MS092ajZYZlFDeU9Ib3ZfanFVNzE1b0pwa3ZvSWV0dTRtcDZzMnRpR0k1ekR6RjZiUEtoUmVEVzNyRTVuc1hmUllad0t1ck1CX253?oc=5",
-      "source": "The New York Times",
-      "date": "2025-12-19T16:52:34+00:00",
-      "description": "President Donald Trump signs law strengthening stadium security against drones - The Athletic  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2025-12-20T23:05:12.831202+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2dac4dbeea16"
-    },
-    {
-      "title": "Cross-border smuggling attempts on rise amid fog - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGpSeHBtQ1pvRW5hQVVyVk5Hc2p5SWEzNUprN29razU1cmZaY25QcU1nSHZ0OTI2emFKM3JxZDFEd2RFSTZRbjFtYW5ycjM0M0N2NVZadWtvQTFHR3NOSGw3TjU2ckVycTN6dHpQaHkzejJ3RDg3b2wzS25DckxuUjlrWHN2NmttMTRzZlRVV1hIQ0NXaFdaNndnZU1ITl9MSWhGMVZBc1VJcnp1Rmh1WkxxZUFSU01xaHlWMFc3RmlLTDlS?oc=5",
-      "source": "Times of India",
-      "date": "2025-12-20T21:47:00+00:00",
-      "description": "Cross-border smuggling attempts on rise amid fog  Times of India",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-20T23:05:10.548316+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f887ab93a5b4"
-    },
-    {
-      "title": "President Donald Trump signs law strengthening stadium security against drones - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3NheTFoZVpwVVh2dGF5MDFQX1gtY2RzTGdWVVNiaUZkRDlXNzN3cVZ0b0pQd1IweldkQXNVMWV6TF9MS092ajZYZlFDeU9Ib3ZfanFVNzE1b0pwa3ZvSWV0dTRtcDZzMnRpR0k1ekR6RjZiUEtoUmVEVzNyRTVuc1hmUllad0t1ck1CX253?oc=5",
-      "source": "The New York Times",
-      "date": "2025-12-19T16:52:34+00:00",
-      "description": "President Donald Trump signs law strengthening stadium security against drones  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2025-12-20T19:04:32.607408+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "07ba0f33b2c2"
     }
   ],
-  "last_updated": "2026-02-06T03:01:21.763513+00:00",
+  "last_updated": "2026-02-06T05:26:31.883103+00:00",
   "total_count": 1000
 }
