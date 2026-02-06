@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA stepping up drone restriction enforcement ahead of Super Bowl - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlRUWTRmYzNBaWF1VUsxQTFXd3hQSUN6OElMRXdSNVFaQnkwVk0zd216Q3M4aEZqdDlxeVZ4Zk9YUTlucmFoeU5WRXJUXzNYS2pjcmQ4bnA0Z3cwRHBYWUZqc1NfS0o2VHYxckdwTUk3cWt3WEg3U2tXTFJiLWJIN3dFS2RJZ1pEQ2c?oc=5",
+      "source": "The Detroit News",
+      "date": "2026-02-06T15:43:00+00:00",
+      "description": "FAA stepping up drone restriction enforcement ahead of Super Bowl  The Detroit News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-06T16:16:05.268620+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6af39689cdc5"
+    },
+    {
+      "title": "FAA stepping up drone restriction enforcement ahead of Super Bowl - WKZO",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSDZ4SDR3T01uTFJiTS1tTWZ0YWRlSmxOcmVlWjRjVUd0Zk00NWYzVG9ibHdUaTYwaHVocjdGMjJlUExzVlFoY2dTbEY1MGFFRjVCcjZieXIzSFg0aEJNNW1mLWcyR1lQU19ReG4zTnRaMi1GYVRYSUF3cnhUMG8xUExRN29vcHM0Qmo2WDh1Y3BhdnR1aEVjNF9n?oc=5",
+      "source": "WKZO",
+      "date": "2026-02-06T16:02:02+00:00",
+      "description": "FAA stepping up drone restriction enforcement ahead of Super Bowl  WKZO",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-06T16:16:05.268620+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d1748a498a09"
+    },
+    {
+      "title": "FAA Tightens Drone Enforcement - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81Q3JobHFmak5YQXhLZXJTYnFkRWV4RlBTRkJ5MTRKZEVWQWF6NzY0ZVAwZG9Yem1CYjVZU3NBU0dDUGZTeHdxempwX3hONXhqZjYza2JVTHZ2YTUxZkNpeXpWVXlraHk5WDdpWmRkUURKN21UNDFLNVJR?oc=5",
+      "source": "AVweb",
+      "date": "2026-02-06T16:08:14+00:00",
+      "description": "FAA Tightens Drone Enforcement  AVweb",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-06T16:16:05.268620+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1b2980217730"
+    },
+    {
       "title": "Unknown drone crashes on military unit territory in Poland - Ukrinform",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEUxZm1HOXJ3bkZSSjZ6cmkxWG1GVEpPS2ZHaEpUT2QyTmJNa1Iyc3dCSS0xZUtTMzBhMy1DeWVvTlhtWGFJYnYzcFNHcEJETFN4R1JETXpnT1FCNGJIbUVXOWE2bHk3bnRwc2Fra09PaGxuZExwS3A4bUF3X2NucGdFSHhNT3BzS240em5SZDRKR1R0NjhuSE90Qm5RelMxdGVranJUT1UzMmlZcFBobGdTQkcxeTTSAbwBQVVfeXFMUDNFTGFjZGFHYjR5T1E5dkpHa1MySlVJS19MUWhlMUk2dXNyZjJidDNNdmJrUXlGbUdDZGQ5ZFV1b2l2c0c1WWVLUlRQbXhkazNwUHhJRE9MMzFnRktMUnduNzNwU3F5MU5OUy0wdUFFdW9Dam5tMlFPUVh0R3FnNk5ReE1NVVg5alZGSVhIZDY0X2M4dm10ODY0TFFhVUdwam5lVEhIU0M5dkU4QUxWZktNUXVzb0hrWHd5SEs?oc=5",
       "source": "Ukrinform",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "065917e7a6fd"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - DW",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "DW",
-      "date": "2025-12-22T03:45:00+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  DW",
-      "query": "drone incident",
-      "detected_at": "2025-12-22T04:20:41.715468+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8712e77e288a"
-    },
-    {
-      "title": "Jordanian border forces intercept drug-laden drone in southern region - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yWHZzWHdWMlB2N2k2a2VHNUY0S3VWSmFlWWQ0blAxMG1Dd2RtUGpTRnhWWWJBemx0eV84aEdMd1l4Q1JiSDBlV1Y1djN4aUxqQWt3RVFtTTk5bXE4?oc=5",
-      "source": "Arab News PK",
-      "date": "2025-12-21T17:19:43+00:00",
-      "description": "Jordanian border forces intercept drug-laden drone in southern region  Arab News PK",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-22T00:25:29.088514+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "18db37567bb2"
-    },
-    {
-      "title": "Syrian authorities foil drone and explosives plot near Damascus - The New Arab",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0RwV2llaXZWa1lnc0pRSUNUVGxRa3RRMTUxOUF0OHpGOVUzWVFHUVIwM0lVUVBzYXQxU1RObE1raUZsVHVUeHFkc09yUF8yNmNtTVZ5TVpXVjUtNUlpdGVwOWNzYURSQUJhcHFPRUhGdTBOMUM3VFBMblpxZ25XYjE2VWNDbnlBMWdKZlBJRWZnNVdpTUZhUmpkWWHSAZwBQVVfeXFMTnNEcFdpZWl2VmtZZ3NKUUlDVFRsUWt0UTE1MTlBdDh6RjlVM1lRR1FSMDNJVVFQc2F0MVNUTmxNa2lGbFR1VHhxZHNPclBfMjZjbU1WeU1aV1Y1LTVJaXRlcDljc2FEUkFCYXBxT0VIRnUwTjFDN1RQTG5acWduV2IxNlVjQ255QTFnSmZQSUVmZzVXaU1GYVJqZFlh?oc=5",
-      "source": "The New Arab",
-      "date": "2025-12-21T11:53:26+00:00",
-      "description": "Syrian authorities foil drone and explosives plot near Damascus  The New Arab",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-22T00:25:29.088514+00:00",
-      "location": "near Damascus",
-      "category": "other",
-      "id": "ca911011aa67"
     }
   ],
-  "last_updated": "2026-02-06T15:17:05.065676+00:00",
+  "last_updated": "2026-02-06T16:16:05.845632+00:00",
   "total_count": 1000
 }
