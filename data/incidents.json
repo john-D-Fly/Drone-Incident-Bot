@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Senate Judiciary clears Moody’s Drone Espionage Act to slam door on foreign spy drones - Florida’s Voice",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRS00M1pWTXJfd1B3ZjVjdWtfc3A3ejZVUURud3M1T3lVR0wtNVpOV0xUdjFqMkd5MTlPTUxMSHJTV2JQUTNnT3pGRnoxbkY0cGFNYmxWNVJtMURyZTRhZGFWUG5XOFh2SlFTZU1oTGo0ekhNY1lGaU5sZURfNmxQQ1J1anRGZVFkbWxwZWNHNm1BWGlLSUV6MHFhX1B6RlV0WW15bHlob0MzX0JMbzJv?oc=5",
+      "source": "Florida’s Voice",
+      "date": "2026-02-06T17:28:00+00:00",
+      "description": "Senate Judiciary clears Moody’s Drone Espionage Act to slam door on foreign spy drones  Florida’s Voice",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-06T18:18:03.769852+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "e5da03ca2248"
+    },
+    {
+      "title": "FAA Signals Tougher Stance on Unauthorized Drone Operations - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOC04OXpJWHM1U2kxOWtLT0RhRWV1cUV1bzZ0S3JDbHRyN2NhYkJVaEVXTFduVDc1WE1yNTMtTWJWNHZLcVlIYWpLdUpJR2hpRjBfVnNvRENmMlcwUE8yZFd2clYxMjZHSDhFNDR2Sk56S3ZZSllfR2hIZngzLTJQVURiWUFmd19wb1HSAY8BQVVfeXFMT1d1VmpyMjF0SGVEM2RVMjJMZjJYUHVXRXhIODhCaWJDT001YTc1MXd1S081aHlYZDdrbHAwSG83VHNiaXVUZkdjOExuSm93X2RMYjhpd3JjZ2tNLWRpampIOVRycVJBVFU5eU51a3RnOHVaU0JFRm8temM5V3V0clJva3ppZUM4Yk5ROXREUUU?oc=5",
+      "source": "Dronelife",
+      "date": "2026-02-06T17:48:45+00:00",
+      "description": "FAA Signals Tougher Stance on Unauthorized Drone Operations  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-06T18:18:03.769852+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f2e357df3f18"
+    },
+    {
+      "title": "New Mexican Democrats seeking support on bill to crack down on illegal cartel drone activity - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNajNiVEJXMks5cm1uaV82ZjRwNlJmYVdWaXpwdldMbUhwdG05ZzVFR0ppMlJuamZnS3pZMXNtelVjbmU0SWdOVEpoNERFOGlnMnUzN1REd0llR3pNM0JaU0tjNjI5N0dMeExmOGI1aVBFdEg2SE9HdjY1cS03RlZrNGszckc3Qll0YkhQT3BIaFcyQldJMmp1ekJDU3phczY5WVMtWUgzRF9Db0dqN0Q0V1dVdE9Ldmk0cWF3aw?oc=5",
+      "source": "KOAT",
+      "date": "2026-02-06T12:44:00+00:00",
+      "description": "New Mexican Democrats seeking support on bill to crack down on illegal cartel drone activity  KOAT",
+      "query": "drone illegal",
+      "detected_at": "2026-02-06T18:18:01.864479+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6d2313e555b8"
+    },
+    {
+      "title": "Two arrested in attempted Hancock State Prison contraband drone drop, sheriff's office says - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdWtRVGs3cHdJMmd4cjVSODYzWGtIUmJYR1oxVkRSSHVwdXZjX0VhQXhvcjRIbUJkWXFkNm1hVzkzMWJMeUdSRzJyX29QbzNSVU1zSk4tbXNDMU9MdWIzTEJiTENHT2dkUnkxOXdERnFDSHQ3c2ppMlIwczhHSDZqTDlBdW5WY2szREs4ZWVEUmI3dW9VX2s2NlZCWVhpaGhSOXlkelFtZUQ3ZmJfQWxVMDVqWGM1cG40Q0VHZ3lSQkRrM3k3akxuTHBBSllkMllpR1NMQ0k1TEoyUnV1Y21WbTR6enNaSVJyZmNmYVdZLUNmT01iRHc?oc=5",
+      "source": "13WMAZ",
+      "date": "2026-02-06T17:11:00+00:00",
+      "description": "Two arrested in attempted Hancock State Prison contraband drone drop, sheriff's office says  13WMAZ",
+      "query": "drone prison",
+      "detected_at": "2026-02-06T18:17:59.917686+00:00",
+      "location": "in attempted Hancock State Prison contraband drone drop, sh",
+      "category": "smuggling",
+      "id": "30603a3f2657"
+    },
+    {
       "title": "Drone Espionage Act Targeting Unauthorized Military Surveillance - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVmd4cXRrSnBkVTBvRUNSQzJQZ3pSVUNPMkNyR2g5RXlNVzZIYjVpTGsxVTF4bkNMdEd3SlRmNE1kX05mUzhSbDQxVU9MMUw4cE04ZFlYS3h4c0ZVc2FFVFFzbTg4ZGVWeHJPWERwaGJuUWhleHFQT2R4enN3eEtRNE54cmRjdW5yWDkxSGtxZnBXMFJhUS0tU2ptZ3paZWFkaVlTa0FCLVlqTC1PNkFaRnctWWRUYlRLRnY5X3JKSFVDSnN6TmZvTlFaQTVvNFgtdlItTUlCUEJqa1JDblJIZGEzcVNPOE0?oc=5",
       "source": "Hoodline",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "495f873404e3"
-    },
-    {
-      "title": "Second Drone in 24 Hours Found Crashed in Northwest Turkey - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oLVliZHVYWl83eGdpcVJoMVB3QmRqQkh6S3NuRkNHRUw4SVhfT2hodjZOTzhUT0FkTV9IVXBDdkdtX01rVTFLbDl1SW9Xc3c1M2dlTFlMNXhQdUkwcjhnanNlUVlVb2E3SFdn0gFwQVVfeXFMTWZTVEhGWGhjU2dpbFozOHhKUWpOYnpYV3Bndm9GMDNvbmR5NGhYS014c1p6Yk0zM3pzRzUwcXVvZWpVT01iWC1tWGNkN1pmbWUzcFp6eDVNeGpHTnZJMnk4Qm1PRHhLdzF6Ym9RZ05Wcg?oc=5",
-      "source": "The Defense Post",
-      "date": "2025-12-21T08:41:15+00:00",
-      "description": "Second Drone in 24 Hours Found Crashed in Northwest Turkey  The Defense Post",
-      "query": "drone crash",
-      "detected_at": "2025-12-22T14:06:09.349348+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "2c10527eb212"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - DW",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "DW",
-      "date": "2025-12-22T04:40:36+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  DW",
-      "query": "drone incident",
-      "detected_at": "2025-12-22T14:06:05.852045+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "92969f0249c0"
-    },
-    {
-      "title": "Germany logs over 1,000 mystery drones, mostly near military sites - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJrOUdFVDVPX3hZNm1qZnA5MDdOemY3cVc0MkFxQjdMRWV0N042ZFVIZk9aZUtDaW9YVFRWNFJlc2NKb1Y4NkVOb29ORlZfR05hR2tKQlNJMlpJZ25NbFR1TGJCSkFrVmhKSDRQZElwYnhYU01NMTBZZDg0WV9MQzZMSlE5ZURpM2laY0pxZVdUR1VMb0k4Sg?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2025-12-22T09:50:49+00:00",
-      "description": "Germany logs over 1,000 mystery drones, mostly near military sites  RBC-Ukraine",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-22T12:10:07.686174+00:00",
-      "location": "near military sites",
-      "category": "other",
-      "id": "e221e85e9ab1"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - DW",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "DW",
-      "date": "2025-12-22T04:39:06+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  DW",
-      "query": "drone incident",
-      "detected_at": "2025-12-22T11:05:20.984652+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f645fe162175"
     }
   ],
-  "last_updated": "2026-02-06T17:17:47.518021+00:00",
+  "last_updated": "2026-02-06T18:18:04.390782+00:00",
   "total_count": 1000
 }
