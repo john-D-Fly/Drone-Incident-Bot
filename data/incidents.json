@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "FAA stepping up drone restriction enforcement ahead of Super Bowl - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWNVMTlpS3NIcDFaU1FNcjFYMWUtcDZXdXFCS0gzb3VNamdIUkV3Yko5STFDTEswM0x4WnZ3VWtHVjVuUkhBSFU4Q01jczB1ckwyZEQ1MHd1endkQnhObUI2eWdrNHZWOHQyalNTTDBvMjFnUVJxbWoyQjNPNTBzZEVSeXh2aHZIVEhsNFRHRzBPUjROdTlvOGlCeEJ0cXJWSFRGRTR6ZUs?oc=5",
+      "source": "Reuters",
+      "date": "2026-02-06T14:17:49+00:00",
+      "description": "FAA stepping up drone restriction enforcement ahead of Super Bowl  Reuters",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-06T22:05:53.707238+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "9a6d6e6bceb3"
+    },
+    {
+      "title": "Operator detained after drone crash at Polish military base - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHZIeDQ0a3JtUGJPY01SMW1Gbm1NUDh2d1htN1VZNDRpWHU2ZkhBV3E1cTdkRzlIQU1kSnlDQWQtcjlkVkM1T0lGLWZyZjhQQy00VjF0ZXYtdTZGN28wWGpUZmVUTXhtcGppUWNvTTRkYV9uU1gwX251NGhuV1B2RFBJZW5kT0k?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-02-06T16:41:15+00:00",
+      "description": "Operator detained after drone crash at Polish military base  Latest news from Azerbaijan",
+      "query": "drone crash",
+      "detected_at": "2026-02-06T22:05:51.145974+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "745d993c064b"
+    },
+    {
+      "title": "Video shows Amazon delivery drone smoking after crashing into North Texas apartment building - cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWDhmMXdwRVlIZDZWc0wzaDNfdEJxX3VmNC1WTmU5TGU4amVYdU5Tb2hPS3RKcVB2ZjVhLXZJeGY4N29MX2gydmxLaWdyS1BkbmNZeVF4MjhkVzBnT2ZXREsyU2JzZXp6ckhBemlZNGYwVXRtMGVUVU43bjZ2cHRoaXlxemk2SWF1d3BuUzlacnU0ZDAzcWY5TldwcmxrZ293R0ZZaFppS2ZDQjZlZTVxbUhMRERoQ1VFcjA4Nm1fY2VDWks0Qlp6bnRR?oc=5",
+      "source": "cbsnews.com",
+      "date": "2026-02-06T17:15:00+00:00",
+      "description": "Video shows Amazon delivery drone smoking after crashing into North Texas apartment building  cbsnews.com",
+      "query": "drone crash",
+      "detected_at": "2026-02-06T22:05:51.145974+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7a015dec3f08"
+    },
+    {
+      "title": "Drone used to help capture Sun Valley DUI suspect - KOLO | 8 News Now",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjJNT0NPVDllTktaMUFBV0xVdUdMZm96SlYtaGN0NVRUQnp6VUo4MW1zNVAwVUVYZ2dUbmRFck00cVRNaTVLRjRUSkMydlkzVUxKNkZpZWpkZndKVDg3N09sVEV5bmlmb3cyRUg0bFFaQjdVYWRXaVZZMG9pRkdSa3lRQXB4eXhZ?oc=5",
+      "source": "KOLO | 8 News Now",
+      "date": "2026-02-06T21:12:00+00:00",
+      "description": "Drone used to help capture Sun Valley DUI suspect  KOLO | 8 News Now",
+      "query": "drone arrest",
+      "detected_at": "2026-02-06T22:05:48.380842+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a7a6ac572978"
+    },
+    {
+      "title": "Drone crashes at Polish military base, operator detained - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3lnUDByQ18yc3VqTVctYmpmWHl4VThJQ09CVlBtdnJzb3Z0a2ZyRHlxRVlWSXZidXE0Z0JrRF81STBfU1NCWXhNRTdNZWNtY0tKTGdYNDJad29Uai02TEl4NzBmMEFBcWJLT1pPWE9sS0hMcUhBYzBFUzc0MFpOSW10b3J0ZnVNSDRTRA?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2026-02-06T15:49:57+00:00",
+      "description": "Drone crashes at Polish military base, operator detained  The Kyiv Independent",
+      "query": "drone incident",
+      "detected_at": "2026-02-06T22:05:47.670650+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2d125ee6789d"
+    },
+    {
       "title": "Drone Espionage Act Targeting Unauthorized Military Surveillance - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVmd4cXRrSnBkVTBvRUNSQzJQZ3pSVUNPMkNyR2g5RXlNVzZIYjVpTGsxVTF4bkNMdEd3SlRmNE1kX05mUzhSbDQxVU9MMUw4cE04ZFlYS3h4c0ZVc2FFVFFzbTg4ZGVWeHJPWERwaGJuUWhleHFQT2R4enN3eEtRNE54cmRjdW5yWDkxSGtxZnBXMFJhUS0tU2ptZ3paZWFkaVlTa0FCLVlqTC1PNkFaRnctWWRUYlRLRnY5X3JKSFVDSnN6TmZvTlFaQTVvNFgtdlItTUlCUEJqa1JDblJIZGEzcVNPOE0?oc=5",
       "source": "Hoodline",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "087c27f173b1"
-    },
-    {
-      "title": "Drone captures arrest of Orlando burglary suspect hiding out on roof - WFTV",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa2NXSlJZUG1BdVZia0xrTEFoX3NSbmc0cHBka2s5LTR4djJwcGpxSzc5b1hsNldwMk0tSDNrTHlYZVNiZFk3OVBDcFowaXluRnJHX1RQXzdMRkdVMlRxTDY1NnlFd01GekJNUkJWSjN0TXd6dktfLTlGXzNLbHB4MVAtT3pTVEZRZlotSEZ0NXBEeDhuRE5kamNKeXdPWDNzam41Q0doam0zc0k3YTBOSVMxVjVnQkZpVThPWkJmSkU3b013MTloNlZSTWdTNHk4cWfSAeYBQVVfeXFMUDJRbW5SRE1rdk55eDlzUGNsdVg3RXZneWxueUxTOTEwMGVpemVhdlFIdWR3T3B3V1VZemJVOWctSkMtXzJ3cEktdlRYLS1JSTFkdHlhWDJ0T2JDWFFRelkwZnJVZmotVDZxV1BTRVo2LWZJaFUxc0hsWGN6LUJJcXpjem15eHFGNVh2VGNtMklWWXlDbHBSZklxcTBfck5ia21lRzlBV2NHekgyZUlzZmZmQnpudEppWFRqSDMxb04wMXRCc0kyT0JtRUtCQk1ITTdLZHhrazBhZUFPaG01UUZfeGQxeEE?oc=5",
-      "source": "WFTV",
-      "date": "2025-12-22T21:00:47+00:00",
-      "description": "Drone captures arrest of Orlando burglary suspect hiding out on roof  WFTV",
-      "query": "drone arrest",
-      "detected_at": "2025-12-22T22:05:21.862358+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f4f780e81eed"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - DW",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "DW",
-      "date": "2025-12-22T04:43:48+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  DW",
-      "query": "drone incident",
-      "detected_at": "2025-12-22T21:05:04.407068+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b24ee4f2e4bd"
-    },
-    {
-      "title": "Drone sightings this year have disrupted German airports, causing headaches for travelers. Germany has ordered special anti-aircraft tanks to combat the unmanned aerial vehicles. - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOF9rdklpRXpoT2Z1Z1R3ZTNwWEU0NFVtZF83RDRsZndobnpnRHNuZkJnS3RhWHdMclk4WmtSaTVROW5tMzIxMlQzaDdvbWZUMVhZeVBiYmpqaEpHOElxaTJvLVFJR2tuNXNhLTVMbFVNOHdsSlRIMHZ2cklDSXZwamQ1YWF2YS1MVjhvRk5CXzlqeEM1dWF6RmpmcldkU1luQUx4OU0zWWJhTUF3a0lic3RUQ2FNdUY4cXhhUjRyeV84dmNPTXQ2NDIwN1JPeE9KOFAyV0xUNGhZYW1wZUpibQ?oc=5",
-      "source": "Facebook",
-      "date": "2025-12-22T04:48:10+00:00",
-      "description": "Drone sightings this year have disrupted German airports, causing headaches for travelers. Germany has ordered special anti-aircraft tanks to combat the unmanned aerial vehicles.  Facebook",
-      "query": "drone airport disruption",
-      "detected_at": "2025-12-22T20:06:20.550922+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a2b8ce62a851"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "dw.com",
-      "date": "2025-12-22T04:43:48+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  dw.com",
-      "query": "drone incident",
-      "detected_at": "2025-12-22T20:06:18.281912+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "503d8e8f676e"
-    },
-    {
-      "title": "Lammy under pressure after prisoner’s death from drone-delivered drugs - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOE9wdkhMUzc4SEFhdnRtSW01Z0ZxQWZwVEp5by0yUWxNdEtsU1N4d0ZWWi1pRmV2eER1cURIaFVYMGVLQ2k4eDBIc0VFcnpqeW11Yk4tQ3BxYXd6bVdKR3Q2NmlzVUdUOVNkVjVNY2tjZ0JIRFkzNVFrSXBXajdBLXBpWmQ2RFZhZnlvTFRn?oc=5",
-      "source": "The Telegraph",
-      "date": "2025-12-22T18:28:00+00:00",
-      "description": "Lammy under pressure after prisoner’s death from drone-delivered drugs  The Telegraph",
-      "query": "drone prison",
-      "detected_at": "2025-12-22T19:05:09.626972+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "947788672d7f"
     }
   ],
-  "last_updated": "2026-02-06T21:10:20.988753+00:00",
+  "last_updated": "2026-02-06T22:05:54.316531+00:00",
   "total_count": 1000
 }
