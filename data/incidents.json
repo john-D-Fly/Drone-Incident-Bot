@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA stepping up drone restriction enforcement ahead of Super Bowl - Classic Rock 103.5 WIMZ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUdySVhxeVliVkNoek9FMXVFVnJidXBXNjdwdXJhWlJsZkdhRnNaZTJkNW5lTk9FdVFNVG5SanRJVXpTeHg5Z1FEdFJ2UHoxUGI0MnBlMFdSX3dpQ1lkY2Riblk2U2ZnWS1PWEthNzh3WnJIMGJPVV9QREhGSjRmUnlhVHZFeC1URzktVk5tNVpfTGJxeDh0cGpB?oc=5",
+      "source": "Classic Rock 103.5 WIMZ",
+      "date": "2026-02-06T23:40:54+00:00",
+      "description": "FAA stepping up drone restriction enforcement ahead of Super Bowl  Classic Rock 103.5 WIMZ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-07T16:08:00.725890+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "bf47151bd8c6"
+    },
+    {
       "title": "FAA stepping up drone restriction enforcement ahead of Super Bowl - whbl.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemtkQmVLZVBjZ3Y2SWR6T3A2bWstSDJCT2hxdDM0NTdCTmNkc001SGVfQTZmRi0xQ1RYTUxUTXdPei05UGx3b2F4cUsxclhFdnNSNjhjd0dOdHFSLXp4ODZtU20xWEhyZDkybVh1UzV3a3B1aVdKd1lCNmJ4ZXV5aGN6RHpxVGdaNHpYaUpNbEdQWVFTcHBHdHpB?oc=5",
       "source": "whbl.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a806ee2d8009"
-    },
-    {
-      "title": "Yoon denies sending drones to N. Korea to justify martial law in hearing on arrest extension - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlSU83TnZHdnFlU2ZPSUdPYVQtVWFmTE1qaWp1b0VMdVd2R2I4RUJjSVVqUFdLMHdnYXNKb2pBTGpSSHhVNko3bkswUVJnTGpRbEFtLUh3MA?oc=5",
-      "source": "The Korea Herald",
-      "date": "2025-12-23T12:15:30+00:00",
-      "description": "Yoon denies sending drones to N. Korea to justify martial law in hearing on arrest extension  The Korea Herald",
-      "query": "drone arrest",
-      "detected_at": "2025-12-23T16:06:52.810592+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "277cb8215ec3"
     }
   ],
-  "last_updated": "2026-02-07T13:19:46.828601+00:00",
+  "last_updated": "2026-02-07T16:08:01.311292+00:00",
   "total_count": 1000
 }
