@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Washoe sheriff's office uses drone in Sun Valley DUI arrest - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2Q5ZkluMks1S1R4N0xXd1RLX2lEWFJEN0Q0VUhXU29nQ09yZ3Rvak5QSW5BbmVFX01nZW13RkUwNUFhNzNRMXhzbkhwdzZUMHFDUllOY0VYN01GZFdlZjZoUHpPeDEzWnYybEg5Y2lITUEtZTFMNEo5UDlhVlNmZzNfekw?oc=5",
+      "source": "Reno Gazette Journal",
+      "date": "2026-02-07T01:42:00+00:00",
+      "description": "Washoe sheriff's office uses drone in Sun Valley DUI arrest  Reno Gazette Journal",
+      "query": "drone arrest",
+      "detected_at": "2026-02-07T08:09:12.627435+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "25db93d436ad"
+    },
+    {
+      "title": "Drone found in Moldova near Ukraine border - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNGJKZEFaQmxZQWx1NjBRNHd5dF85WGdCUEZVUGJpTS01UzJNNm1QZjh1QWUxc0VvOGw0TEZITU9VTjhMWEFCZWZFZTVQeDFPWEo2N1lDWWppN0o1S1FXVHh3SENuWERrVW5nMWs4YWtlQQ?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-02-07T07:16:26+00:00",
+      "description": "Drone found in Moldova near Ukraine border  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-02-07T08:09:12.047494+00:00",
+      "location": "near Ukraine border",
+      "category": "other",
+      "id": "dea02628c1b7"
+    },
+    {
+      "title": "Amazon Drone Suffers Another Crash in Texas - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQktXbzlfbzlORFQwbUZJT3pwdW9LVHpKSWtROElqWmpuTkxXMTNYam5kazZ0c0RKZnhXc3Q2TFVOUzAwdGwzWC10dzlUU3I0T0FzdFM4SW5nSXFSNEZpSldvNG5XelBGcVZN?oc=5",
+      "source": "FLYING Magazine",
+      "date": "2026-02-06T14:29:24+00:00",
+      "description": "Amazon Drone Suffers Another Crash in Texas  FLYING Magazine",
+      "query": "drone incident",
+      "detected_at": "2026-02-07T08:09:12.047494+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "76fa8a3a41a4"
+    },
+    {
       "title": "Amazon Prime Air MK30 Drone Strikes Richardson Texas Apartment Building Raising Fresh Safety Questions - AeroXplorer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0xacW5YRWhjWWYyZHlXMGVQMVE0MzBQcUxBVmZHRE1pa0RnOVhuRXotWnF2QTE5eUN0UVRKeUZXRTc5blJ4dkZMNHdnZVU3bEVuSVp6cFNvajUyOXF6OUViNE1NOXZBUEVzR0d0eWh0cEM1dnNwd242NXdjWHgwS040d3lRazhPckVFcHRjd2tZVkR0bzkyam5HTTAtX2tGeVltNExwN1ZsQ29nWHpHRXFwZWIzeUhtakEzTV9VRkFrUlBtTmh4bkhja0JSblNJNE1UZW1n?oc=5",
       "source": "AeroXplorer",
@@ -11963,44 +11999,8 @@
       "location": "near Amritsar amid rise in cross",
       "category": "smuggling",
       "id": "0d4d22643b02"
-    },
-    {
-      "title": "Four arrested in Bangkok hotel after Suvarnabhumi drone scare - Thaiger",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzJ6cjVwMGVYVVV0M1FMdE5FYXNxNW1nTjN0alJpazBqUEQtdzg3aU1JSzRIeXJPOEN3NXZsdExwZWRnZE93MFg2SEJrWFIyZ1JXbTVlWFBiTG5KVEg1TDcxT3Vjb1pMU1hKM3B3WjJoazQ2dlgzb0tpUXl3TlFNWkl2WFhkb0FX?oc=5",
-      "source": "Thaiger",
-      "date": "2025-12-23T10:53:03+00:00",
-      "description": "Four arrested in Bangkok hotel after Suvarnabhumi drone scare  Thaiger",
-      "query": "drone airport disruption",
-      "detected_at": "2025-12-23T13:16:51.096951+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "81cafce4d7aa"
-    },
-    {
-      "title": "Four Myanmar nationals arrested over Suvarnabhumi drone disruption - Nation Thailand",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwU1ZYaTZDVEdSQ05EdkxESkt0X2Fvck9qSjloTmFoa2huRWZYSFRtNUF4Z2diakNua05vZTJUOElvUlFHVDlzSHRpdUlzclQwZXUzV0FFTkw5TGZFWW9pQmNB?oc=5",
-      "source": "Nation Thailand",
-      "date": "2025-12-23T13:01:00+00:00",
-      "description": "Four Myanmar nationals arrested over Suvarnabhumi drone disruption  Nation Thailand",
-      "query": "drone airport disruption",
-      "detected_at": "2025-12-23T13:16:51.096951+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d2cf887c8111"
-    },
-    {
-      "title": "Molniya Drone Starts up but Crashes Just in Front of its Russian Pilots - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdW1NUE1na2dLcG14VWR5Y1VCT0xRWUdoOC05RnVOR3A1WGFucV9Kb1BJNV8tcVN2Ynd3UXowbWJHR1F2ZjREMG5iRDJLb0s5ZHE0aFR0SkdVdElicU95dWNmRTV3UThWeE9Va1lZbjZFT1c4dTk0RkN2ZlE0d0x6T2JhMm1rdndBYzJyZHdSdHJzVklIMXZxWjFYRWlHTXktWEhVbGVfVF9qUVRjMGZJ?oc=5",
-      "source": "Technology Org",
-      "date": "2025-12-23T11:23:00+00:00",
-      "description": "Molniya Drone Starts up but Crashes Just in Front of its Russian Pilots  Technology Org",
-      "query": "drone crash",
-      "detected_at": "2025-12-23T12:10:04.558224+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "595bb487df08"
     }
   ],
-  "last_updated": "2026-02-07T07:15:25.710505+00:00",
+  "last_updated": "2026-02-07T08:09:17.606476+00:00",
   "total_count": 1000
 }
