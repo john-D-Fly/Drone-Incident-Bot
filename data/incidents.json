@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "New Mexico lawmakers look to define the ‘unlawful use’ of a drone - KRQE",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTFhbFB4TE1XSTNvYWN5T093Z2JmdWdtQjIxeXhqMENkeTdqSEl5NkNNV2pFOGhhekFpcWhRT1RhWldSNVpNYVhUTUtJUUZKZHZ1SVhPR20zVXBmaHVZODExUmR6RmtLWmZfeFVhUVNQa1NGWUdQazU5TzFMN1U2dnRlV21jc0RVNVNhMVZHVHFwQTFXY3FfVmllUzVMTlRZdUtxbms5Wm9jZkNpMm9Ib3BiOHowX211U3hWZmNqY9IBxAFBVV95cUxQX0VJWlJJTHh6Q2JFVkZqZ2dta0JreVpVM3lPVXJhMG1yZnFWNXZURlh3NTJ5aVRxWmZSYzVuMFNxZnJxSk9MS2xYWGRVSW1kd2N6U2FZVHctcmNYQ2lRRmoxUTRxOUc1Qy1UTjZ3d0ZpQVhkSWNOOW84SW9wU2JtS1BDNEVsQjhhbzNiR3JaMldLOEFTWk9zUk91RHBiN1JzNWRVQW5SMGNISm0zcE1sLTVuTWNmRU9fTHBJS0M5dkFPQklC?oc=5",
+      "source": "KRQE",
+      "date": "2026-02-06T02:33:48+00:00",
+      "description": "New Mexico lawmakers look to define the ‘unlawful use’ of a drone  KRQE",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-07T02:58:11.976668+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f4b0a28e2d7f"
+    },
+    {
+      "title": "Amazon Drone Suffers Another Crash in Texas - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQktXbzlfbzlORFQwbUZJT3pwdW9LVHpKSWtROElqWmpuTkxXMTNYam5kazZ0c0RKZnhXc3Q2TFVOUzAwdGwzWC10dzlUU3I0T0FzdFM4SW5nSXFSNEZpSldvNG5XelBGcVZN?oc=5",
+      "source": "FLYING Magazine",
+      "date": "2026-02-06T19:28:52+00:00",
+      "description": "Amazon Drone Suffers Another Crash in Texas  FLYING Magazine",
+      "query": "drone crash",
+      "detected_at": "2026-02-07T02:58:09.796108+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2432f96807b5"
+    },
+    {
+      "title": "Deputies find duffel bags of contraband in thwarted Hancock County drone drop - WGXA",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNa1pDYVBXZkl0NmIweHVweDRxQjdOSjN3bXVWOTk5T1VCZG1ya3Fzd0V6c1FlLWhjc1VnMWlKVTFYRW9mdFN5RDdWU0Zoc1ZMaDBRN0JGZllnTjFHR3FYRjhxRUR1OW5HNDZxbkthRXlma3ZmdUJ5bmZZZzVJbDRBUHVVeGI5SVdyZnZUNEh0T0txaldWdnJ0VHFhYUZ2VjA4cHRhNE5hbUlNQkZUbm04SlpMU0pnV2lmaWM3dGJnWVNHdHdneUgwSTlxcHFVcDRkUWZoT252S2x3eHlNdzU5RGEwbnVjYlBsbzJfRUtpR3pHaUtxTlc2Y2JvOGRjeFRIcmJYNUZfZjV4bjVZZ0ZPVQ?oc=5",
+      "source": "WGXA",
+      "date": "2026-02-06T17:16:22+00:00",
+      "description": "Deputies find duffel bags of contraband in thwarted Hancock County drone drop  WGXA",
+      "query": "drone prison",
+      "detected_at": "2026-02-07T02:58:08.762720+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "304d3ba2f895"
+    },
+    {
+      "title": "Washoe sheriff's office uses drone in Sun Valley DUI arrest - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2Q5ZkluMks1S1R4N0xXd1RLX2lEWFJEN0Q0VUhXU29nQ09yZ3Rvak5QSW5BbmVFX01nZW13RkUwNUFhNzNRMXhzbkhwdzZUMHFDUllOY0VYN01GZFdlZjZoUHpPeDEzWnYybEg5Y2lITUEtZTFMNEo5UDlhVlNmZzNfekw?oc=5",
+      "source": "Reno Gazette Journal",
+      "date": "2026-02-07T01:36:00+00:00",
+      "description": "Washoe sheriff's office uses drone in Sun Valley DUI arrest  Reno Gazette Journal",
+      "query": "drone arrest",
+      "detected_at": "2026-02-07T02:58:07.644700+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "e45bf9248324"
+    },
+    {
       "title": "Navy reservist operates unauthorized drone at Whidbey Island base - khq.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDlRZGJTcmdILXFSclZiT1BkbXd4SUd6Y2xOU2llc2N0VHdLczZSXzB5bXZuT2VfZDlvZzJjbmpuZ1k3M3hpOFRobkhWOVVuMEtHNURZakhoZG5vRWVYbFVPd2p6ZjFBNVBiWWpmYkd5M0tjWVBhakFzeFVxRFRVd0Vad245VWI1Wk9jNnpxWlRnajZOMHBldU91RVZKOUNFd1gxdlFzbzlBZ0JDcGtSR2l2VHk2YVlXbGY4dUV3ZVRqcVNBQzY2aFMtdkJwQQ?oc=5",
       "source": "khq.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "18ecf40c6493"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - DW",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "DW",
-      "date": "2025-12-22T08:47:47+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  DW",
-      "query": "drone incident",
-      "detected_at": "2025-12-23T08:08:13.756161+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "125a80e9456f"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "dw.com",
-      "date": "2025-12-22T03:45:00+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  dw.com",
-      "query": "drone incident",
-      "detected_at": "2025-12-23T07:08:13.068293+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8f3e361d4de3"
-    },
-    {
-      "title": "Drone incursions and new escalation risks in Black Sea - Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkJfbzhIVnJ2NW96X2Nkem1PZHJ1Vk1mRWVsbE5pMHZ1a0NaMjA1UVFTUWUxYWRZQWtaRjBHNF9jRVN5R3pUOTJ2VGFtenN5NG1iRmJHUThja2NJZDRfV2c2dkwzUzZraGFmZnd5XzQ1MDdHM1pCcUR2SzlwU0p5Y2hwN2M0YzVvd21lcGFKVV9FWGNtQ21HU0dRTjQ5RnJB?oc=5",
-      "source": "Türkiye Today",
-      "date": "2025-12-23T06:07:42+00:00",
-      "description": "Drone incursions and new escalation risks in Black Sea  Türkiye Today",
-      "query": "drone incident",
-      "detected_at": "2025-12-23T07:08:13.068293+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "85c55e217d1d"
-    },
-    {
-      "title": "Suvarnabhumi holds emergency meeting after drone incident - Thaiger",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUxHeXlLaWJ6RDBMSk83SXJGUlNKUkF6akZTekFyWkJwRzRkNk9qUlB0YVRpN3VZZm44OGl6eC1FeXg3UnBPX0hTcnVEZzMyRGNNbVIwOVduT0Z5bXZuTFM2ajJEV1I5VTVJREZacTdIR0h4eEN3NmVfSnFVWkxsWENJQTRhaHRRY2c?oc=5",
-      "source": "Thaiger",
-      "date": "2025-12-23T04:30:05+00:00",
-      "description": "Suvarnabhumi holds emergency meeting after drone incident  Thaiger",
-      "query": "drone incident",
-      "detected_at": "2025-12-23T05:07:44.157669+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "13130f5f2c23"
     }
   ],
-  "last_updated": "2026-02-07T01:36:00.735769+00:00",
+  "last_updated": "2026-02-07T02:58:12.459519+00:00",
   "total_count": 1000
 }
