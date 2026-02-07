@@ -1,0 +1,155 @@
+{
+  "narrative_summary": "In the last 48 hours, various drone incidents have occurred, highlighting significant concerns surrounding unauthorized use, safety, and law enforcement. The FAA is tightening enforcement measures ahead of the Super Bowl, warning fans against flying drones in restricted areas. Meanwhile, in Sun Valley, multiple DUI arrests were made with the assistance of drones. In Moldova, authorities reported multiple discoveries of unauthorized drones near borders, raising cross-border security issues. Additionally, several Amazon delivery drones crashed, raising questions about safety regulations. Policymakers are discussing more stringent measures to combat illegal drone activities, especially when linked to smuggling and terrorism.",
+  "totals": {
+    "airport": 7,
+    "arrest": 13,
+    "crash": 8,
+    "other": 18,
+    "security": 3,
+    "smuggling": 3,
+    "terrorism": 2,
+    "total_incidents": 81,
+    "by_category": {
+      "airport": 11,
+      "arrest": 10,
+      "crash": 14,
+      "other": 32,
+      "security": 6,
+      "smuggling": 6,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 16,
+      "drone crash": 12,
+      "drone illegal": 6,
+      "drone incident": 22,
+      "drone prison": 6,
+      "drone terrorism": 4,
+      "unauthorized drone": 15
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Usage",
+      "rationale": "Multiple reports highlight increasing concerns over unauthorized drone activities, affecting security and safety.",
+      "incident_ids": [
+        "8bf65bbb6796",
+        "f4b0a28e2d7f",
+        "f2e357df3f18",
+        "f9a730167b96",
+        "6e84fcdf1da5",
+        "99e181f6f4cb"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Incidents of arrests facilitated by drone technology are becoming more frequent, indicating its effectiveness in law enforcement.",
+      "incident_ids": [
+        "e3e3fc76309b",
+        "dc9925d029b0",
+        "27eacc677241",
+        "99e181f6f4cb"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Frequent crashes of various delivery and operational drones raise safety concerns and highlight regulatory gaps.",
+      "incident_ids": [
+        "76fa8a3a41a4",
+        "f4b0a28e2d7f",
+        "2432f96807b5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8bf65bbb6796",
+      "headline": "FAA stepping up drone restriction enforcement ahead of Super Bowl",
+      "one_sentence": "The FAA is enhancing enforcement to prevent unauthorized drone flights during the Super Bowl.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e3e3fc76309b",
+      "headline": "DUI arrest made after drone tracks reported vehicle to Sun Valley home",
+      "one_sentence": "Authorities arrested a DUI suspect after tracking their vehicle with a drone.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "afbcc1960114",
+      "headline": "Moldova reports third drone discovery since start of year",
+      "one_sentence": "Moldovan officials reported their third unauthorized drone discovery at the border this year.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Moldova"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dc9925d029b0",
+      "headline": "Washoe sheriff's office uses drone in Sun Valley DUI arrest",
+      "one_sentence": "Washoe County officials utilized drone technology to assist in a DUI arrest.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "76fa8a3a41a4",
+      "headline": "Amazon Drone Suffers Another Crash in Texas",
+      "one_sentence": "An Amazon delivery drone was reported to have crashed again in Texas, causing safety concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "2c889446243d",
+      "headline": "Amazon Prime Air MK30 Drone Strikes Richardson Texas Apartment Building",
+      "one_sentence": "A delivery drone struck an apartment building in Richardson, exacerbating safety questions.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f4b0a28e2d7f",
+      "headline": "FAA Signals Tougher Stance on Unauthorized Drone Operations",
+      "one_sentence": "The FAA has indicated a more stringent approach towards unauthorized drone operations.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "2d125ee6789d",
+      "headline": "Authorities find duffel bags of contraband in thwarted Hancock County drone drop",
+      "one_sentence": "Law enforcement recovered contraband during a drone drop attempt at a local prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents are on the rise, showcasing safety concerns and enforcement challenges ahead of major events like the Super Bowl.",
+    "linkedin": "In the past 48 hours, various drone incidents highlight growing concerns about unauthorized use, safety regulations, and law enforcement's response to increasing drone-related activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-07"
+}
