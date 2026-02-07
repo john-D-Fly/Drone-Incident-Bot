@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Super Bowl fans warned to keep drones at home with flights banned over big game - cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yT2lDc0ZZNWdWdWxnT0lrclE3VmM4Wi1LS0pxdGlGaThsOHJRRjBjSl8tbmV0MWhuOEZ1N2JfVHZjSlAzaGlnXzY1eUJwSS1aa3BBSlF5UXNQcjh1WU5zS1ZIakhrdGp0bnJyYnRBdmxQalJDZ1ZYakQwc9IBgAFBVV95cUxNV2xVQ0YzUnIxT0I4M1FMR1ZKNnFKTVBwUGJySzhBQzdaSk1KUjhGeG1yMXpvdmgyTk5vcm9KdGNDN25oVzVGaWYtOHVPR3hEUjE0VkZ2cndQbnlqOThEVU5lVVBmNkVMSzI3TEhSUXMtWHR4dURFLThVLTlZMWZPOA?oc=5",
+      "source": "cbsnews.com",
+      "date": "2026-02-06T22:35:00+00:00",
+      "description": "Super Bowl fans warned to keep drones at home with flights banned over big game  cbsnews.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-07T22:06:52.481966+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bdb035fc84af"
+    },
+    {
+      "title": "Moment 'flying' pig being transported by DRONE gets caught in power line - triggering 10 hour blackout - the-sun.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGZKaXZtNzVGNTVNYnoyTWd5NlBtMllMYzM3TFhLMzZOa3k4b19Vb3E0dmJEb1l1dGZHWnJGbm44c3JVallEU3hBWGlmMGtDU0VQRFF4Ul9WRE1sbFpHeEcxTnBlOHFhaXJwNi1SZVBaQWdUTUhwdTZ4MFJ1elNwQg?oc=5",
+      "source": "the-sun.com",
+      "date": "2026-02-07T21:26:51+00:00",
+      "description": "Moment 'flying' pig being transported by DRONE gets caught in power line - triggering 10 hour blackout  the-sun.com",
+      "query": "drone incident",
+      "detected_at": "2026-02-07T22:06:47.227305+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c6b5792bbc3f"
+    },
+    {
       "title": "'Man down:' Watch Amazon delivery drone crash in North Texas - USA Today",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2ZwSHB1NGdRVi13RS0td3ppd1dJVWtIaFQwMXJiZG1odTUzeWtpZGhoQ09FTV9SSjdVSDgtQ0hnaVpmU3FyMVVBU1lZaDZOdE41bEJrV21mU2p3SzRnTlM0SHdobGNMTkxOLWtkUlN3MlFvM24xWkFlc2E4TjI3TF9qME04YVNvaW83aUVlY0YtdVpXVVhfbk4zNFVGdlZBTFhaRHBMdVJ0M3N3ZVEw?oc=5",
       "source": "USA Today",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6ea0edba3cd3"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "dw.com",
-      "date": "2025-12-23T03:00:16+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  dw.com",
-      "query": "drone incident",
-      "detected_at": "2025-12-24T00:24:17.651861+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a7599edadf94"
-    },
-    {
-      "title": "Briefly: US strikes boat in Pacific; Russian drone attack in Ukraine; Mexican Navy plan crashes in Texas - LimaOhio.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdE1hYXFjVlVaWHFiR0ZiVnpvRzNwWVdFdGhBQThHa29uNDI0YzNYNllBSnRwWnV6cEphZndTN1A2U2RHSHViczFIM08zUjJoOHFrWGRwZ0JXNDF4V1N4c2tYYzVTWjZoLWdLMjU2eC1jMFlSUHNuOXZfWUpvVGV6Sk5qLV9XbDg0OHFJMzNseXFkcE9WTUF5WDJlREp4YkI5OXR2Xy1tRTVZZFVldWdYTTFXVXZSdzhhS3V4OVUyYkE5Z3BHcExWaHladDZ3bGpmQm8zN3R5ek1BYnVhUi1WcHk5Y2M?oc=5",
-      "source": "LimaOhio.com",
-      "date": "2025-12-23T12:35:53+00:00",
-      "description": "Briefly: US strikes boat in Pacific; Russian drone attack in Ukraine; Mexican Navy plan crashes in Texas  LimaOhio.com",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-23T19:05:58.490630+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ade527c8d852"
     }
   ],
-  "last_updated": "2026-02-07T21:09:10.887743+00:00",
+  "last_updated": "2026-02-07T22:06:53.065634+00:00",
   "total_count": 1000
 }
