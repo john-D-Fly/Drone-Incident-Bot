@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "'Man down:' Watch Amazon delivery drone crash in North Texas - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2ZwSHB1NGdRVi13RS0td3ppd1dJVWtIaFQwMXJiZG1odTUzeWtpZGhoQ09FTV9SSjdVSDgtQ0hnaVpmU3FyMVVBU1lZaDZOdE41bEJrV21mU2p3SzRnTlM0SHdobGNMTkxOLWtkUlN3MlFvM24xWkFlc2E4TjI3TF9qME04YVNvaW83aUVlY0YtdVpXVVhfbk4zNFVGdlZBTFhaRHBMdVJ0M3N3ZVEw?oc=5",
+      "source": "USA Today",
+      "date": "2026-02-07T20:34:00+00:00",
+      "description": "'Man down:' Watch Amazon delivery drone crash in North Texas  USA Today",
+      "query": "drone crash",
+      "detected_at": "2026-02-07T21:09:07.605773+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6ee1c2005ede"
+    },
+    {
       "title": "Amazon Prime Air MK30 Drone Strikes Richardson Texas Apartment Building Raising Fresh Safety Questions - AeroXplorer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0xacW5YRWhjWWYyZHlXMGVQMVE0MzBQcUxBVmZHRE1pa0RnOVhuRXotWnF2QTE5eUN0UVRKeUZXRTc5blJ4dkZMNHdnZVU3bEVuSVp6cFNvajUyOXF6OUViNE1NOXZBUEVzR0d0eWh0cEM1dnNwd242NXdjWHgwS040d3lRazhPckVFcHRjd2tZVkR0bzkyam5HTTAtX2tGeVltNExwN1ZsQ29nWHpHRXFwZWIzeUhtakEzTV9VRkFrUlBtTmh4bkhja0JSblNJNE1UZW1n?oc=5",
       "source": "AeroXplorer",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "ade527c8d852"
-    },
-    {
-      "title": "Germany registers over 1,000 suspicious drone flights - DW",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNThiT0dIMWlaemNXU1pBcW8tcldJTnhiVFkzMWIwTW5NYm40eVh6MG0zYXQzTWM4SldDaUxIeHVEZWw5SF93Mm5ySGtRakQ5TW5BYTkyUkVLc3JGTHRSV1k1Nmh6UnlZVmRGR0QwMnFEWVFfZnJnLUl2dFM2X0wzWVQ1cmo1TkQ5cnBaN21wdWNJb3JtVVVuUNIBmAFBVV95cUxOdTZxbi1jVm9sVTRSTEpWMF9zUVFLUVhIc05XckNKWXU3a3JxeGc0M0hCUlNwOEVXSXNqT1ZjZ3lvamNNWlJUbnJURjhlX2RRbWxMLU5WVTNLZU12dFlmalk1Ty1qT3A5Z2hZY2lGZmtaNERMTTFBamt3M1g3UldfaGZvRVpBYUV2dEhwZXJwX0lSRF9UWXI4dg?oc=5",
-      "source": "DW",
-      "date": "2025-12-22T20:57:44+00:00",
-      "description": "Germany registers over 1,000 suspicious drone flights  DW",
-      "query": "drone incident",
-      "detected_at": "2025-12-23T19:05:53.419444+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1adcd6c05160"
     }
   ],
-  "last_updated": "2026-02-07T19:09:22.878627+00:00",
+  "last_updated": "2026-02-07T21:09:10.887743+00:00",
   "total_count": 1000
 }
