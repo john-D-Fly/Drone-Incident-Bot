@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Amazon delivery drone strikes North Texas apartment, causing minor damage - San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGl0ZV9rYWZhSldmRkxWdFI3SnJ5YVo3ZW1EV3FJRW1lVFdIS241eXU0ZjNwVE84TklYWnFpbm9hbUhwc1RXZmlBb1V0aUFkOXBRdDd0MnFoQ0dhUU1PdjZQRjJjSW54SEhrN1E1S2w4aDh6U2kydmNEdU12S1BKVWZsNDM2b0JOX2ZsRnRLWGpKalZXQzlBYTNlS3ZkcTROX0dNWkxOTQ?oc=5",
+      "source": "San Antonio Express-News",
+      "date": "2026-02-08T19:05:40+00:00",
+      "description": "Amazon delivery drone strikes North Texas apartment, causing minor damage  San Antonio Express-News",
+      "query": "drone crash",
+      "detected_at": "2026-02-08T19:10:10.259724+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ad0542748a87"
+    },
+    {
+      "title": "IDF, police intercept drone carrying 12 pistols from Jordan - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uZExNVlZGdlRHSjhMVDJYRHpZZ0JDLXU1azIzamxfenRlLUJBLXZIeS1qRGZsUFRPU2hOUldlWTNjenFrUFc0dGF0X09CTHZ5TWN6QmpxRzZucVJSMUJWUXZXUU5BMjktb2ZIdHJ3?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-02-08T08:35:59+00:00",
+      "description": "IDF, police intercept drone carrying 12 pistols from Jordan  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-08T19:10:08.037278+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4f6ebad34682"
+    },
+    {
       "title": "Watch an Amazon delivery drone crash into an apartment building in Texas. - theverge.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBeHM5cXJ6NXV3ajdCaWU2cFljM0hYQzhJbzlfODNQbF9sekJTYkJNMW9BZmNLRFV1V29fUnh2SUJkQUc0QzA0bGN3cXE4dGlvYUw0T05GRm5oR3dxSkplMTdjUFM5WXc2M0ZxS2RmZWhnZkdCSGhFMFBR?oc=5",
       "source": "theverge.com",
@@ -11975,32 +11999,8 @@
       "location": "In Maryland, Po",
       "category": "arrest",
       "id": "4db7ba7c7718"
-    },
-    {
-      "title": "Inmates could escape jail on drones, warns top prison governor - The Times",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQcVhhUmJ3Tk1GQUx0dk5TbW8wbk1UMEdUekJ0ZkVkV2JHZGM3ajlIbHNYR2xvWjcwOEJudGhXdlZ2N3phRGJUTjZBczVLSk1zQUtmd3I2aVF3N2ZVS0VkdEdHTGV2dUtrNlJJeWlpMGR1YlpVWmFaN2JlMUQzWDRkZFZyZmt1RndpQlU4Y2FLeXZ6THVqcmxfcVJRdXFWM2NyT09NcTk4NGgyclNXNm9aa05aMVowS1dNZW5MZFp0Mm5qTWZqNHYyQjRaeVk2VUhGUlhfRUx3Um83Ykk1OHY5X3h1QlhFRDZhQk1mTVdLSDE4WkdOT2l4QXlfSU1kbHdWTkFWa0luSjdYQmNyYjBWc1JMVFJIUGVpRTEwX1o1Q0VRRnY3WWVzUlQ5WnpSRTZvenZBcVU3NFBfV1hGb3JuR0dVZVZ3VWQ4d0c1dTZ3YklaWVVPX2U5SEp5OThRV2NZbFFjX2trYjRyUXpfTF9lNlcwR3hwRWc1ako3c0U1cGIxY3NjYVFMdHgyeXhMcHBBemM4WVRPcHJNUTB3M3BDZGpjYktlS1paZEJpcFZ4YTFXVTJ0aUhvYWZaQmo?oc=5",
-      "source": "The Times",
-      "date": "2025-12-24T15:55:06+00:00",
-      "description": "Inmates could escape jail on drones, warns top prison governor  The Times",
-      "query": "drone prison",
-      "detected_at": "2025-12-24T16:06:47.944944+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "63da664e5036"
-    },
-    {
-      "title": "Russian diplomat calls drone incursions into Turkey ‘possible provocation’ - Turkish Minute",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQU5kcmdwVEtOZFFnVi1DbWVxRlF6aDRqeVVRR0M0Vm1ZaUpMS1FmakdiWi1Qc0xaNk9qcGx1a3BjeHg4WDBSdndvWWpUSWw1aF9aUkV0QVF6WGNmZGxNaXRSZm5Zc1doVHN4NV9mVXdCLThSbkpvNDlIZ3ZqamJmNzBpOTZ1MHRxQzRuMWY0ZkhwZHppYzhoV1FhMlRRUENBM2N0a2RGZWVWMzRCTnJCZlBNem_SAboBQVVfeXFMT0d2clZRTGdLdlBpSm1qbFhET1RpajZIc01GejVzRTRFY0JsblVXUGoyZk5lV3owUXVabG5lU3VrTUhnVGNXWkVKSmxqWUs1Mi0zbng2Y2dQSVgwY0ZPU2FWUGE5X2lPUUlpNHc0WEl0UkNWR0JGU2dtR0JtRUI5dTRPLUNLYzU1djFLcDc5Zk1JbTE2UTJQb3pha3V5a2x0THBxTTkxSkNxWWVGX1BRZFF6OWc4bjFsRlJ3?oc=5",
-      "source": "Turkish Minute",
-      "date": "2025-12-24T15:33:20+00:00",
-      "description": "Russian diplomat calls drone incursions into Turkey ‘possible provocation’  Turkish Minute",
-      "query": "drone incident",
-      "detected_at": "2025-12-24T16:06:46.206829+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3c0854102e7c"
     }
   ],
-  "last_updated": "2026-02-08T18:10:13.977345+00:00",
+  "last_updated": "2026-02-08T19:10:13.240968+00:00",
   "total_count": 1000
 }
