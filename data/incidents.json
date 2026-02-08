@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Watch an Amazon delivery drone crash into an apartment building in Texas. - theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBeHM5cXJ6NXV3ajdCaWU2cFljM0hYQzhJbzlfODNQbF9sekJTYkJNMW9BZmNLRFV1V29fUnh2SUJkQUc0QzA0bGN3cXE4dGlvYUw0T05GRm5oR3dxSkplMTdjUFM5WXc2M0ZxS2RmZWhnZkdCSGhFMFBR?oc=5",
+      "source": "theverge.com",
+      "date": "2026-02-08T17:56:17+00:00",
+      "description": "Watch an Amazon delivery drone crash into an apartment building in Texas.  theverge.com",
+      "query": "drone crash",
+      "detected_at": "2026-02-08T18:10:11.086439+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "331f014b2a3e"
+    },
+    {
+      "title": "Israeli Security Forces thwart attempt by drone to smuggle 12 pistols into country - tribuneindia.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeER5c2p4eEZwbFhNR3hPVXdTbWpWaVZSY0dRdWxJSWFFakdPWjluem1TU3Q0c05Wdk5LSWYycmJVdzB4aGY4ekgwM1gtZ0JjTklxUlIweVlpUjhUcTJ5ajg2cmZMaHpicFRwYUxWcVVzclFFaHRVc0tKUjEyNGJiQllpREhYeHdzRHgtX3N1cFZVUk9rbGRDRWdIenJRUUJvTTJhREtrZURvUUdNd2c3M3FIakJCcDQ5d1dhb3ZtSGHSAcQBQVVfeXFMTVJrV0xDT1d5NFBoTy1fVFAwVFBZZlF4aTJoUzlLRDlSWXZHNXZSV1Y4Mk9JX1B1Y09ZcVZtMVJkWmNCYkk3dUtVb3RVMUF1SGtpa1k0aW5XbHlFRGJPTkVYMGFzS3hlMElQY3FZNmpMamRuSHdrREF3aVVybzlIaE10blItZjVQSkdJQWZDM1BjUlppdnJrblk0aFVvTEk0eEt1MGd6d01kZkZ3MGE3NHRNZzRYQVdpc2hYWE5iMENsejYxUw?oc=5",
+      "source": "tribuneindia.com",
+      "date": "2026-02-08T17:55:22+00:00",
+      "description": "Israeli Security Forces thwart attempt by drone to smuggle 12 pistols into country  tribuneindia.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-08T18:10:09.223502+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b44d4de77143"
+    },
+    {
+      "title": "Amazon Delivery Drone Crashes In North Texas - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zWXVmeWFsdGxxeEVGN3ZsN2psdzQ5bDBzZHJCbU5fSnR4OW1LazBIdTNXaUhJc2loUEdqOWJHVU9KcFl2MmtzRFdzdjYzcUl0dmhYdXF4Z2JWNDJ1MW13MkdHWUZpM0c2TGtNOTFPNHZiUQ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-02-08T17:44:20+00:00",
+      "description": "Amazon Delivery Drone Crashes In North Texas  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2026-02-08T18:10:07.603141+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "0d53a6bcdea4"
+    },
+    {
       "title": "Police use drone technology to catch ‘serial pooper’ in public park - WWBT",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmpXaUJwaGZudFF2ZVR1RFVNQkZLMDJ5cDNDUDdlQVNrWW1INUtmaklRY3h5QXREZ3cySW9meXdtOWhsb3pvU2hzZ2FzanhTQXRBX2JqaWx0dmR0b1NBa1Z2SEF4eUx3SmVSTkJIdzJfS0ZQZEtHb2NwSXE4MHVqX01mTlhyRnNHUzNsUTlod3lLT3JTTHRQZGExdkJwVUtlREHSAbYBQVVfeXFMT010RmVxbUo5eFFiR2JXNHlkYk5KTVJFNjJsNldIcENRQzMwTW9vLU03dWZkc2Nod0ZvLW9EenFRSXdxVnM0TEJ2SnpsVWtKNDNXSzFZV29wODEzWUwyVkRFczc4NElmblFUOWZ1bU5zVmprSTRzX2x5M0pIVTM2X3BycnVVOWVuR1NkVkpqY2xuZFdrb3h5RFVMYWFjSXY0aTI4aFBtazk5bG9kVXljcjBIZXRqWUE?oc=5",
       "source": "WWBT",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3c0854102e7c"
-    },
-    {
-      "title": "Estonia Admits Ukrainian Drone Shot Down Over Its Territory - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRG9XSThiYUlXT25mcHhlUHo3R3RBY3RVR0N0dVVYVVM0N2FaODhaSFJKSXhIQUk4TEI4UGRrRjUzQWYzek1udlZ3SFhsZzdiWlY0aFUxZTB6REdKd0puVXZHbVZ2eWNtWkRvRTJEWFJhcHhxRGVuNW9pd3ktLXNGSm84T0RXd3JTSmhrY1RxbnJCbC1tTEo2aExHcGtzekI00gGkAUFVX3lxTFA5RXljSEQ1WFlEb2pFUGlQcC1ZdG1vOEZpUk01bTFnZ0pjRVpHVjRQaXZTXzZzZDVWODhHaDN3VGZ1NDM4MTJnblgzYXQxWXBwMGR1RDRsbzBEY1U5dVRkNjNLODRSbFV5cFZqcjdZVXJDZ25vR1UzU21YNWwyd2czMm9VQ2p6bGhWT2p6QTd2YkdNVEYzc1djcmxvd2RMQUVKQmZs?oc=5",
-      "source": "Военное дело",
-      "date": "2025-12-23T22:24:02+00:00",
-      "description": "Estonia Admits Ukrainian Drone Shot Down Over Its Territory  Военное дело",
-      "query": "drone incident",
-      "detected_at": "2025-12-24T08:08:14.461076+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3621c8a695ca"
-    },
-    {
-      "title": "IDF intercepts drone smuggling weapons from Jordan - JNS.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxSko0XzhhTEVrZVFPdkU3T0gyUENBUUNpNWo3U25aZUU0LXVHS2RMOEdCM2dfUEVmOEFDa2NhNUVFbzJkcHFmTUw4Y1FQOHZqa3FreW9qZEtlV20wSFdRbXFfZXlQYTRRSk1KdFNjT1BQMFNFclE?oc=5",
-      "source": "JNS.org",
-      "date": "2025-12-24T06:30:44+00:00",
-      "description": "IDF intercepts drone smuggling weapons from Jordan  JNS.org",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-24T07:08:01.920136+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5bbc38c6fa93"
-    },
-    {
-      "title": "Texas Church Shares The Gospel With 1,000-Drone Show During Christmas Event - Milton Quintanilla - Crosswalk.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRUNleDlEZ1JCSGhqZnhERUMzel9WSU5RTGxVRzdOblB5dDR4NU13bWJDcl9wclZVQ0R1UWtsVWpoN05hdkRtckhVNl84QVJsNzV4UnQ1UVE4YjBsY2podlpPUGExUEtVYmplRjNsbS1RRmoxdVQ1dkUzM284VkhBczZ0M0lnNlRsYlh3WTFSeXRTM0VLWFdEbno4aG9UWGdhWlZLY0J6ZkJYY0lvUEs3U2EyQUE0MFI0eFVRNlg3bkt0UnhsQkhqUnJfeUtLSHhVN3pjU2pwcExFYWg1T2d3VQ?oc=5",
-      "source": "Crosswalk.com",
-      "date": "2025-12-23T17:45:00+00:00",
-      "description": "Texas Church Shares The Gospel With 1,000-Drone Show During Christmas Event - Milton Quintanilla  Crosswalk.com",
-      "query": "drone incident",
-      "detected_at": "2025-12-24T06:08:50.513072+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "afb06ff49f6e"
     }
   ],
-  "last_updated": "2026-02-08T13:20:20.935364+00:00",
+  "last_updated": "2026-02-08T18:10:13.977345+00:00",
   "total_count": 1000
 }
