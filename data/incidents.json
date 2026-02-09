@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Amazon Drone Crash Reported in Texas - NTD News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9STDVUY2pmVi1YMWdXSDdFSkJBdVFYLWhpa1R6XzEwTmM1Z3VNc2IwY2NMenhIQjg0MkZfcUdkNEV6WGtRX2pxYllfRnNTcGU5Z2RMYVZSWEp5U3Z0TTV2aWE2U2hrTUg2VE5fTXN0QW9SSTc2NGtCLQ?oc=5",
+      "source": "NTD News",
+      "date": "2026-02-09T01:58:29+00:00",
+      "description": "Amazon Drone Crash Reported in Texas  NTD News",
+      "query": "drone crash",
+      "detected_at": "2026-02-09T03:06:18.931315+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "91c111d2c038"
+    },
+    {
       "title": "Amazon delivery drone seen falling out of sky - cnn.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWtyQTYyMnBFaGJ3cXJObjVWcjBCMGJram52b3M4c1UwekRsRnBfZGtHSDQxZW56cks1WkNXakNDMGppX1RCNmlvUWgzUFZXRW1QaUM1YkcxeDlsUGR0eUEyZnBONlZpejRUenQxMVZxZTJnZlpSZWt5bHo4UWhEUGdtZmpuaHB1REN1YmwzTUZ3c0d0c2RWUnFxSmRNTVE?oc=5",
       "source": "cnn.com",
@@ -11987,20 +11999,8 @@
       "location": "near Amritsar amid fog",
       "category": "smuggling",
       "id": "bf6ea12038bb"
-    },
-    {
-      "title": "Ukrainian Drone Attack Sparks Blaze at Fuel Storage Facility in Southern Russia - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFdnOVFwa2pMbEpBVDNDc1JXN1ZsLUpJVEVQMEZPZWJka2c2bTM5VzN5M1ozbTBBRDItQjZCWXR2YldRZWVRdGFZUmRnc3ZpVTlwdEpCQjE3azlPX0JTa184S05BRm5Pa1lnMjUtcTk4U3h3NVNMZjJUajJsQmt4MFphbENPUkFLZGhROW5NalE3bHRQOGUtNjVzVTZzbWp0MFVVZUE2d3UxeUpZYzRyQUFaNldwbExqRnN4YVFhREZqbm8xd09N?oc=5",
-      "source": "The Moscow Times",
-      "date": "2025-12-25T09:27:16+00:00",
-      "description": "Ukrainian Drone Attack Sparks Blaze at Fuel Storage Facility in Southern Russia  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-25T10:06:18.173370+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c3fcf6a8c43e"
     }
   ],
-  "last_updated": "2026-02-09T01:37:18.678377+00:00",
+  "last_updated": "2026-02-09T03:06:22.156752+00:00",
   "total_count": 1000
 }
