@@ -1,0 +1,121 @@
+{
+  "narrative_summary": "In the last 48 hours, there have been a series of notable incidents involving drones across various contexts. In Israel, two attempts to smuggle firearms via drones from Jordan were thwarted, highlighting ongoing security concerns in the region. On the other side, multiple arrests were made in the U.S., including a notable case of police employing drone technology to catch a perpetrator dubbed the 'serial pooper' in several parks. Furthermore, several incidents involving Amazon delivery drones crashing or malfunctioning were reported in Texas, raising questions over drone safety and operational protocols. As major events like the Super Bowl approach, enforcement of drone regulations is tightening, emphasizing the balancing act between technological advancement and safety measures.",
+  "totals": {
+    "smuggling": 5,
+    "other": 12,
+    "arrest": 5,
+    "crash": 5,
+    "airport": 3,
+    "total_incidents": 33,
+    "by_category": {
+      "airport": 3,
+      "arrest": 2,
+      "crash": 5,
+      "other": 18,
+      "smuggling": 5
+    },
+    "by_query": {
+      "drone arrest": 8,
+      "drone crash": 5,
+      "drone illegal": 1,
+      "drone incident": 8,
+      "drone security breach": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 1,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "smuggling incidents",
+      "rationale": "Involves multiple reports of drones being used to smuggle firearms across borders.",
+      "incident_ids": [
+        "e3557726ebb9",
+        "8027fb542dbd",
+        "1de6de3fb00a",
+        "c5db0aa54d7d",
+        "4f6ebad34682"
+      ]
+    },
+    {
+      "topic": "arrests facilitated by drones",
+      "rationale": "Several incidents where drone technology aided police operations leading to arrests.",
+      "incident_ids": [
+        "897b8c5aa20e",
+        "839d743480ed",
+        "a71f673f9bc9",
+        "61a51f257a45",
+        "d7fcab2abd26"
+      ]
+    },
+    {
+      "topic": "drone crash incidents",
+      "rationale": "Multiple reports of delivery drones crashing or malfunctioning, leading to property damage.",
+      "incident_ids": [
+        "91c111d2c038",
+        "2755c73ffa66",
+        "bdb035fc84af",
+        "0d53a6bcdea4",
+        "331f014b2a3e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e3557726ebb9",
+      "headline": "IDF foils smuggling attempt from Jordan",
+      "one_sentence": "IDF and police reported foiling an attempt to smuggle 12 guns into Israel using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "897b8c5aa20e",
+      "headline": "Police catch serial pooper with drones",
+      "one_sentence": "Authorities used drone technology to apprehend a suspect in a public park for repeated offenses.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "91c111d2c038",
+      "headline": "Amazon Drone Crash Reported in Texas",
+      "one_sentence": "An Amazon delivery drone crashed in Texas, raising concerns over its operational safety.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "c5db0aa54d7d",
+      "headline": "Dual smuggling attempts intercepted",
+      "one_sentence": "Israeli Security Forces thwarted an effort to smuggle firearms via drone from Jordan.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "ad0542748a87",
+      "headline": "Amazon delivery drone strikes apartment",
+      "one_sentence": "A delivery drone reportedly collided with an apartment building in North Texas, causing minor damage.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent spike in drone incidents: smuggling attempts foiled in Israel & police arrests in parks, amidst rising concerns over delivery drone safety in the U.S. #DroneSafety",
+    "linkedin": "A recent analysis shows increased drone activity involving both smuggling attempts and law enforcement operations, alongside notable delivery drone malfunctions, emphasizing the need for stringent safety measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-09"
+}
