@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Amazon Prime Air launches in Kansas City, its seventh US market, days after Texas drone crash - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUVd0c0ZyMklHb2g1SnJPQ3hmcld4ZnhXS2I4WXVXVVpUQV9NdDFkTDMtWG1DZ3hfendXamNOeUY2ZThUenlldUhYRXVaMkVMcU1KZGpfSzk3M2U3QS11NHdtQkM5LTN0eUtj?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-02-09T16:02:24+00:00",
+      "description": "Amazon Prime Air launches in Kansas City, its seventh US market, days after Texas drone crash  DroneXL.co",
+      "query": "drone crash",
+      "detected_at": "2026-02-09T16:23:53.471225+00:00",
+      "location": "in Kansas City, it",
+      "category": "crash",
+      "id": "699456cac805"
+    },
+    {
+      "title": "Amazon Drone Crashes Into Texas Apartment Building - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1NQLUUxaXg1TzJEQnpsUjN1UGZNLW1jNktaQmdrdnBvLVE0V3ZxZDBwUTRDZEZHd2I2ejBvcktoVWJrYUVEZEI4VVJMalV5ZFBsNE55Uk8xYTNqaXdRMWhQS21hbXBRemdiNmp6UEJ3V0lNdzlsM2ZSQ0wySW5Cc3gtaFNwaU55cUFwM1FTbUc1MXc?oc=5",
+      "source": "AVweb",
+      "date": "2026-02-09T15:19:27+00:00",
+      "description": "Amazon Drone Crashes Into Texas Apartment Building  AVweb",
+      "query": "drone incident",
+      "detected_at": "2026-02-09T16:23:50.257908+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c66e6a061c00"
+    },
+    {
       "title": "Investigation under way after Amazon delivery drone crashes in Texas - cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEZUSVFMXzdoYUVJbk5TTXYwZ3JNWGxtOExpaTVsX3RWTFpWdS05am1XWFJxVjc2MzNiTjA4Ym5ZOXJwMzBNN0pXalpXQXZSR0RLNUFzQkxIU0pVenBBbE5kVHNhNktFUkpRY1I0WVBBWjhmZDNROEE2eUY5YTdBRkRIU1g5R0g2R0ZjbE9adi1wTldNSGc5MFlJN1VETEppMzN1RDdPVWh1dlE?oc=5",
       "source": "cbsnews.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2bac2c84978e"
-    },
-    {
-      "title": "IAF helicopter intercepts two drones during smuggling attempt from Egypt - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSU5DTjYtbHZrdVBxR3RxVzI0Ny1zMWpJTTNRVlozblBqM1YwdGc2VjZneVZCNE42NHJuTVVlQlZvVlhDS2RSSVVOVGdSa3plR1J6MHRvTmQ0TFZJNUc3a1dRUnU5eWxMZVNBV3VXLVgwcFZPNl8zUDkwYjM4ZFk3bGNEZnd1NEZhUGZCcXJCZXlBcjRtNEpVYlA1YjItVU9kcFg4Qm43SVc0TlpEaVd5b0dfUjNyQXNodUE?oc=5",
-      "source": "The Times of Israel",
-      "date": "2025-12-25T16:08:41+00:00",
-      "description": "IAF helicopter intercepts two drones during smuggling attempt from Egypt  The Times of Israel",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-25T17:05:15.151895+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d14f0efaed66"
-    },
-    {
-      "title": "Drones keep shutting down European airports. This hybrid warfare could be a sign of worse to come, one analyst says. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHhqdlFOeEZsWktmVFdPRG1ySmtWOXBqVHBQdXNJcElzcVFHZThZMzNaLThBQWVzd1NtNmhnVWVzRE40aHRxMkRjREs2Z0VsdEJDWFplcGlZZkhONHpMb1dzTGhvaHJsTjZ5OUtoeDVfRHdnNTVqYmNRTXZxVVpLT1VFcHQtbEdtaWpWdEFUVkNRbGstX2xqdVRoc2tZVHhBMlhKVXFnMDBwTXM?oc=5",
-      "source": "Business Insider",
-      "date": "2025-12-25T11:11:00+00:00",
-      "description": "Drones keep shutting down European airports. This hybrid warfare could be a sign of worse to come, one analyst says.  Business Insider",
-      "query": "drone incident",
-      "detected_at": "2025-12-25T17:05:13.959579+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "324a4ece210b"
     }
   ],
-  "last_updated": "2026-02-09T15:22:27.522790+00:00",
+  "last_updated": "2026-02-09T16:23:56.559631+00:00",
   "total_count": 1000
 }
