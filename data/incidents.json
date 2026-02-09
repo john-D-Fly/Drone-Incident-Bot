@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Lithuanian startup develops night-vision camera to track smuggling balloons - LRT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkNDWEdydDNIUUJBbUJ6YW5scTRQWHFVa2RwMW1ZMFBnZ2VlUE9UWFlNN3UyNW5wUVFWY05oakhfQUE4bEdKRVcwdjYzLUZNQTRZLWxlOFNYZ0ZydVU3RllKUkppalU5M0VLLW9RNjVPUHYwQ0JiMWlQR25tX1poS0l2WjROTWdjTVR5MElibm1ST1g3OTl4bFZmUEt6Z2RkLUlmT3V4cXU4c2dqVmIzNHd0Z0l5UjdpQm53bTlZSXMyQQ?oc=5",
+      "source": "LRT",
+      "date": "2026-02-09T15:17:00+00:00",
+      "description": "Lithuanian startup develops night-vision camera to track smuggling balloons  LRT",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-09T17:21:13.055412+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "bd06cfc3530a"
+    },
+    {
+      "title": "UK Launches £1.85M Contest To Stop Prison Drones - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpcWtqWkpmQk5lUzgyTVhhLXlYdGlZa2U5SVBuZUNiNXExZXdhaWxjZTZsUERHck82aTVEOGtRSnpZOGR2MGtlczIyUHdWbVRzdmx1QWxETXJxZER3Z2ctZEU4Rk53dw?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-02-09T14:04:46+00:00",
+      "description": "UK Launches £1.85M Contest To Stop Prison Drones  DroneXL.co",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-09T17:21:13.055412+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "09446b5c30bf"
+    },
+    {
       "title": "Amazon Prime Air launches in Kansas City, its seventh US market, days after Texas drone crash - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUVd0c0ZyMklHb2g1SnJPQ3hmcld4ZnhXS2I4WXVXVVpUQV9NdDFkTDMtWG1DZ3hfendXamNOeUY2ZThUenlldUhYRXVaMkVMcU1KZGpfSzk3M2U3QS11NHdtQkM5LTN0eUtj?oc=5",
       "source": "DroneXL.co",
@@ -11975,32 +11999,8 @@
       "location": "in eastern Poland, de",
       "category": "crash",
       "id": "822367ccb3f3"
-    },
-    {
-      "title": "IDF Says It Downed Two Drones Used for Smuggling From Egypt Into Israel - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWFc4cV9pN3dKYUlfUTVtX2tqeGp1RDY0NlNLQ2xValRjUUtubEZNVTdBMUN0emNQUjM4UUlwVjJLTzFjNDdkSEYtV3EyOXR5N2pGMWJOWS0xNGVmWDZhRzdFM1dUemVPSkg3MnBWRnE5VEtGRGpwM1NQTlE2M3hvNVdRZ0t2QnRRRDFfR2F5Y0doRHg0WVVxaWQ1VHVUbDZpeXJrVjlFamxYZDE0bks5c2NZX2I3R1ZVd2hGTjRDOVJXcVcwRWl0VTc0UGZ3MG9PUHMwWnFnem9UYno4T2tqQkNBeGRuS05XQUUyNTJQbWVlWEFJeWg0VFdEZkM1U20tS1VqMHJR?oc=5",
-      "source": "Haaretz",
-      "date": "2025-12-25T18:53:00+00:00",
-      "description": "IDF Says It Downed Two Drones Used for Smuggling From Egypt Into Israel  Haaretz",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-25T19:04:46.574533+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ddaf36fbba17"
-    },
-    {
-      "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDZFdC1EUzVGTnFjTzFPcFVfOTVxQnZfM1RZeVNHYUl5V3RjQUw0YVc3S254NERIRDF1bmxVXy1uMEdMZHVBdHlOdWRjNjZvV0syaHVONXk1Q1JlcGcwSUpjU1U0TmxrTl9zLUxiMGQtcXhGSnV1RFF2SnJPdTJzU3RGcWlTTkNLMVhZdXVlbWk4WDV4X0N6alp3ZzVJLUtZOFJ1cGVKb1BTMy1yNjVZWDB1bWNRVGRS0gG-AUFVX3lxTE1VM0FCZ3lLSmxFUEYwMXdTZ1FiMTl0Y0xfWFZXQlowRTk3blBvTkVPdFhPaXNpdC1WMTM2MDhoa0dnTzBsVzFIcTFCTTdXUWJlY0ZTQ3pYVUw2VC03QkRMNUNrNl9YNmp3N045ZEc2VHJPTy1YSnU0N3oxM3ZjWENtb3Fjdkg1NVhoUGdKNTFTRjlPNHlGaU5pMUdjdTZxUU1Ldml2N1FrbkJIT0NYLWd0eHE5XzlHRUtScU1qV1E?oc=5",
-      "source": "Al Jazeera",
-      "date": "2025-12-25T16:10:55+00:00",
-      "description": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza  Al Jazeera",
-      "query": "drone prison",
-      "detected_at": "2025-12-25T17:05:15.716216+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2bac2c84978e"
     }
   ],
-  "last_updated": "2026-02-09T16:23:56.559631+00:00",
+  "last_updated": "2026-02-09T17:21:18.137142+00:00",
   "total_count": 1000
 }
