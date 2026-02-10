@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Fresh killings, abductions heighten security fears amid drone attacks - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU5lY04tNU50cHEtaUJucHp2RUREbC12OHlBZWtRX0N6ZVplV2NvTk41ZEkzMTNzZTNXOVlqdktYOF8yZEVjbjc5UG9oVGoyak1uTDQyczA4WEIxTjZxanVmb3k3UXg4R0JhOV9DcVQwVkFaODJoMkJzQXhXR05rSlVObVNRdVRUa2xfLWVGSlFpc25MMlRrRjJ1dGR2MGc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "date": "2026-02-10T05:45:00+00:00",
+      "description": "Fresh killings, abductions heighten security fears amid drone attacks  The Guardian Nigeria News",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-10T07:27:28.275992+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6b527fbfb607"
+    },
+    {
+      "title": "Stolen vehicle crash leads to break-and-enter arrest in Prince George - Fort St. James Caledonia Courier",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXVfRXFUTzBpNTZMQklBZlBmS2JIemQxZU5HdUl6LXpCSXp0OVBWNXk2TlFOdjZJNFlSdmFKOWl5VTB1WmpqeEpfVVladEZET1ZOemhxaDJFWWRhS1N4cjhFYjlGUWJIVTVxYXJnVEFvemFNbndBT3NIeWV1TVoyMmJBRngyazFFVzJxTS1HbGR5WWNyUV9VckVaUTNFX3Z5QTRwbndjRHRnZlJGTkNZ?oc=5",
+      "source": "Fort St. James Caledonia Courier",
+      "date": "2026-02-10T00:31:33+00:00",
+      "description": "Stolen vehicle crash leads to break-and-enter arrest in Prince George  Fort St. James Caledonia Courier",
+      "query": "drone arrest",
+      "detected_at": "2026-02-10T07:27:24.341723+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d9965a4b3eb2"
+    },
+    {
       "title": "America's New FPV Drone to Gate-crash Enemy UAVs Party - Defense Mirror",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejlmUHNTZ3hLQTB5SUs1SjJTS3ZRZWhKU1ZtZmJTU09zSG5IMzMxbXRfMV9INF91enMyaVNuSXNvdWNHQ0FUc3gzcHlueE9yU0JVNEJXaVI0WFdyamxaRTYzOVRrT3dmMXdVM1dwWm5lT2VxeUVKbk9PV1l4aEVqOFZCR2ZBLUFYYnItRmgyOHZtMVh1MUE?oc=5",
       "source": "Defense Mirror",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "03aaa742a082"
-    },
-    {
-      "title": "Hanover Airport Chaos: Drone Sightings Trigger 2-Hour Shutdown, Causing Flight Cancellations and Diverted Traffic - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdi01d3NRdDZZZTJLZWRKWUJ2VFZfblpuRW90Ti0tVkpNdTBzUjVyZWNpNDlESDZaQUV1aXk1RTV2czZYaF9uZzZpTF9BY0RYTDBPWjFzYTgwT3VCUERGM08xSVNWdUtzQlI5Q3JJeTE1NkMtY0gzN2tDdWZIZHdpOEFGUHg3WTJvakl1SHBWZkdQX1dHbXJGU0xFS09xN25qYkF4X1RFWTRxNG0yT1VUR2hUZUhJNk5fWmo5UnpXS09vekFOTzBMRWRzOGxuRzhjV3cwSnE1eURxWkE2dDFxT29LRHNMZDBuQzUta095QUtCdw?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2025-12-28T11:15:14+00:00",
-      "description": "Hanover Airport Chaos: Drone Sightings Trigger 2-Hour Shutdown, Causing Flight Cancellations and Diverted Traffic  Travel And Tour World",
-      "query": "drone incident",
-      "detected_at": "2025-12-28T12:08:50.733573+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "3253903b268d"
-    },
-    {
-      "title": "Germany: Drones Disrupt Air Traffic in Hanover - vocal.media",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MMUhNbm9lNWhYQ3gyM3JPYkJONVV6clFKRzhXTng4Zlp3ekFzVjdaeEFlbkNudXNmNE8wNHFrLTZkekVJUXdTSzlPYmVaZ25KUExXd3J3MEgzNXQ2ZENwX0tUaWxjTmt6b2dhMTUyVjMwN0U1ODdrWFpmNzNTRGc?oc=5",
-      "source": "vocal.media",
-      "date": "2025-12-28T07:43:24+00:00",
-      "description": "Germany: Drones Disrupt Air Traffic in Hanover  vocal.media",
-      "query": "drone airport disruption",
-      "detected_at": "2025-12-28T08:06:59.240608+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "f6b78312150c"
     }
   ],
-  "last_updated": "2026-02-10T06:29:09.314671+00:00",
+  "last_updated": "2026-02-10T07:27:29.323157+00:00",
   "total_count": 1000
 }
