@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "North Texas police use drone to assist in arrest - WFAA",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYW90SGg4MExOMTIzZlZDS3ZEa1BXV0J4ZEhoMmlxQk5XZzlZWXdoUTAtQU1hZmcwMGZfZ0U5Wm9mTTFfVXRvTnVaMjZIQS1iTUNac2lDVzRoTTFXODZUaURhdEIzODBzODgxR0pQLUx4ZnBoVGw3Rnc1blZFckJtX2UzR091T21jODNkeUhiMFM5TFF3a3UzbjY0amhPMFJIWXBFLXg2WU92RUcwei1xbnlON1dsc0tuUGJPOV9ROFIxeWp1T3c?oc=5",
+      "source": "WFAA",
+      "date": "2026-02-10T00:42:43+00:00",
+      "description": "North Texas police use drone to assist in arrest  WFAA",
+      "query": "drone arrest",
+      "detected_at": "2026-02-10T01:37:52.625717+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1263cc0c36bf"
+    },
+    {
       "title": "Amazon Prime Air drone crashes into Texas apartment building - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUdtdk1zTThHQ296YzNBZlE1RTBUR1FLRjIzeHN1c2hIT2g2dXFnYjh6TGVSN1NydHMxR3pYM05SaDhaaEF3aktQakJEQVBUZHdJZmJCNXRfUGoxb0dkNVZjRlZ3SmJ3a09yYm1tY21XOTJGWkFJcjFQS1FwQ0FScENHVnNKaERVa2pDZUZYeTAxVjhCYW82ONIBngFBVV95cUxPYkYweHptRVpJMklfaTBNbEV4d21XNk5mVWVVeTdFWjQzTTFOcTltQzVLdWxKTXlfOW9mTllMcXl1UEVlbXZqN0ZmREh1QmM3QmppTzZnb3MwNXBWLUUxcmhscXUwUDE2MFoxSGkzNGd0Nm45ZlF1WnZYbkhXd2YtZVo5Q09ld3RPcjMyUmdEMkpfdXo2SHdUOXlJaW5zdw?oc=5",
       "source": "Fox Business",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "d1b6c569a70d"
-    },
-    {
-      "title": "China revises aviation law to regulate drones, tighten safety rules - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2RMTFlfWDJXUXEwQWVMVEVRbE1XUFJ1MTUwUGEwYVM3Nk50Nm1HNjZDcEtndGxHVE5DZHlIeUNSUTFiQXRzdUpJSlozN2NoSGxwb05ub0x5X2xidEM4MGdWMTZQaGZ5Z25aNWdCNWk4SG83YTU4QnFNX2RNOHhhc09mZlB2bVRPNFQzTjlpVDZYMHBERFE0ODg0bGVKLTlxRkRVUEYxVndKdTNGWGtDMUZtVTRnNVlYS1VDOEJub2tKcldCSXhIOFZ30gHQAUFVX3lxTE9BYlJxWnRENzBPWUVjUDludFJXdGIwX2FtSUlmWnRWeUhtUmFtTkhpd1BhVlFHV3NYdVJDbjF4azd3OGg0VExGTFBiSVZMdVFmclRJQXlra1M2Snl3NF9qaW9XVldQVTNZZE1PWkk2bW5WcmtjVVNrS0pQUlNtMnh6TnV5ZTNVWF9BLWtobzB6OFdoMnBSZ2F5el93MW41M1hCZmZWX3hvajNmcERKMFRScnYxZmlZQWpUNDBXOFFaOGRXVm9ITEZfVXVVRFpDTFM?oc=5",
-      "source": "The Hindu",
-      "date": "2025-12-27T04:52:00+00:00",
-      "description": "China revises aviation law to regulate drones, tighten safety rules  The Hindu",
-      "query": "drone illegal",
-      "detected_at": "2025-12-27T06:08:09.835803+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "b9688506bc29"
     }
   ],
-  "last_updated": "2026-02-10T00:36:30.858670+00:00",
+  "last_updated": "2026-02-10T01:37:57.883904+00:00",
   "total_count": 1000
 }
