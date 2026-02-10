@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Amazon Prime Air drone crashes into Texas apartment building - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUdtdk1zTThHQ296YzNBZlE1RTBUR1FLRjIzeHN1c2hIT2g2dXFnYjh6TGVSN1NydHMxR3pYM05SaDhaaEF3aktQakJEQVBUZHdJZmJCNXRfUGoxb0dkNVZjRlZ3SmJ3a09yYm1tY21XOTJGWkFJcjFQS1FwQ0FScENHVnNKaERVa2pDZUZYeTAxVjhCYW82ONIBngFBVV95cUxPYkYweHptRVpJMklfaTBNbEV4d21XNk5mVWVVeTdFWjQzTTFOcTltQzVLdWxKTXlfOW9mTllMcXl1UEVlbXZqN0ZmREh1QmM3QmppTzZnb3MwNXBWLUUxcmhscXUwUDE2MFoxSGkzNGd0Nm45ZlF1WnZYbkhXd2YtZVo5Q09ld3RPcjMyUmdEMkpfdXo2SHdUOXlJaW5zdw?oc=5",
+      "source": "Fox Business",
+      "date": "2026-02-09T23:13:00+00:00",
+      "description": "Amazon Prime Air drone crashes into Texas apartment building  Fox Business",
+      "query": "drone incident",
+      "detected_at": "2026-02-10T00:36:24.936899+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "708bd14859f5"
+    },
+    {
       "title": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own - SlashGear",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHNxanhCUEEzb3hKVFkzbFMwMGpEd0JaVE5xbnJqRmxCY1BqZ3lrQUFrVHBpSDRoYklvX2ZrWklrN2RXbkxDbGZEUE1wMHdZSGFhNjVZTzZaQXVZOER6ZUQ2RE5PdVFrdExtanFFbXVFajJsdTVIbjZnajNfX0Z4N0I4ZlBUUQ?oc=5",
       "source": "SlashGear",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b9688506bc29"
-    },
-    {
-      "title": "China revises aviation law to regulate drones, tighten safety rules - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXYzeGdvV3Y3RnFjaFdPX2RyYmVuNk4tZmtRSE9sbi1lMmtJYXdreVdrSlZHTUlSS2Njb1lTd05UWWpXMWRYTHBZc2Q2NXFhVm9Fc25qQ1JnazdEUVZhei13X0tMem9ELVc3QXA1Y2lndGJLc1doaHlNOWJqWkdZMURMczNPSzJTeGw4N0NXVGJXSm00Y1lBU2RaTW9jWmZwek9HUG5CTWJ1M0k2ZFJDUGJ5cVNOZXN2RVE?oc=5",
-      "source": "Reuters",
-      "date": "2025-12-27T03:58:00+00:00",
-      "description": "China revises aviation law to regulate drones, tighten safety rules  Reuters",
-      "query": "drone illegal",
-      "detected_at": "2025-12-27T05:06:53.538387+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "3be38a4dea8a"
     }
   ],
-  "last_updated": "2026-02-09T23:14:54.170398+00:00",
+  "last_updated": "2026-02-10T00:36:30.858670+00:00",
   "total_count": 1000
 }
