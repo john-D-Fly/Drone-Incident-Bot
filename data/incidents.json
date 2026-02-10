@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "America's New FPV Drone to Gate-crash Enemy UAVs Party - Defense Mirror",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejlmUHNTZ3hLQTB5SUs1SjJTS3ZRZWhKU1ZtZmJTU09zSG5IMzMxbXRfMV9INF91enMyaVNuSXNvdWNHQ0FUc3gzcHlueE9yU0JVNEJXaVI0WFdyamxaRTYzOVRrT3dmMXdVM1dwWm5lT2VxeUVKbk9PV1l4aEVqOFZCR2ZBLUFYYnItRmgyOHZtMVh1MUE?oc=5",
+      "source": "Defense Mirror",
+      "date": "2026-02-10T06:11:15+00:00",
+      "description": "America's New FPV Drone to Gate-crash Enemy UAVs Party  Defense Mirror",
+      "query": "drone crash",
+      "detected_at": "2026-02-10T06:29:06.653951+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "eb9b33cd1ca4"
+    },
+    {
+      "title": "South Korea police raid spy agency over drone flights into North - France 24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUS1VcjhDNEZfNWNiTWoxcDlFZ3J1blpDNzRjMnFURkhpSmgxU0I5czRhYm9SdkpTa1hDUUdUdlg1dUxUTmlLZVE2aVBUZ0dpN2trc09QSVZPOEU5aXd3TmxwbS1DODVOMGxlcWdPM3VzaGs1VlZwV2JBT0hiQ2xWcG82UUJ2Tzd5S0xiV2xzMmExWWVhSTN3LVJSYzF5Tk9UX1FvczFudWF1cmI4a3MwaA?oc=5",
+      "source": "France 24",
+      "date": "2026-02-10T03:51:11+00:00",
+      "description": "South Korea police raid spy agency over drone flights into North  France 24",
+      "query": "drone incident",
+      "detected_at": "2026-02-10T06:29:03.813448+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "ef3d91758701"
+    },
+    {
       "title": "S. Korea raids 18 locations in probe into civilian drone flights into DPRK - chinadailyasia.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42UXlqd3JzUVRFQ2pHSlpsTVFQTWtLa0F0cEpJV1JUU2lSNHVjM0tIOUJKNnRvLS1RSHBtdlZJcVpHd29pTzhvaWFsbTJuRHpNTTN1THVZNHg?oc=5",
       "source": "chinadailyasia.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "f6b78312150c"
-    },
-    {
-      "title": "FBI ramps up counter-drone efforts as Patel warns of growing threats from criminals, terrorists - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnRMY040S3htTlJWNWp6OTNRYjBKc1FkbGpuQkE1eEpXbHhFRGFlTlVUejFOSEhMcmtKaEVVOGl2QmJJMTZ4ZTlLOFBwdEVLWFpBaGxjZGlQcmtXakl2cnQtVExoV0pSSElITXRWREt4Y2Q0RVQtMDZ6cGRTOEhyVGpfYXZSSkxLNG81eTk4NmlRNm5lRHVMT2JUTkN3ekU4LTktbUdGdWFtTjFOZGphWW1nSFdPUy1uNkVXT3d5VF93ODVhSVdkTE9R0gHPAUFVX3lxTE0tdnU1THl0emFVN2RmdjAwWkljbUhZbmZHc1N0WHM0TnFXSlhkQUpHV2FybFl6bVFqQVh1VlFSeFctUURjRmR4OGZHVk83blQyQlNxeGd4T1ptZ2RHXzJiMUZobnNXcFFTdVJ2X3daaU9PMG5MQXlNcld6WTBaQUdiR1VRcjY4ZWhyMmE5QmM3bnN3TjM4WVhwdlJIREo4SlVPeEJiUmt2TnZvWGVkZVdmZ1FUNDFkcEktY011RFpGNDJxV0c0Wi1KcXA0ZDhvMA?oc=5",
-      "source": "Fox News",
-      "date": "2025-12-28T02:25:28+00:00",
-      "description": "FBI ramps up counter-drone efforts as Patel warns of growing threats from criminals, terrorists  Fox News",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-28T02:49:28.883625+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "93cb4d81b0c2"
-    },
-    {
-      "title": "China revises law to regulate drones, tighten safety rules - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUd3VGeW1ybzd6bG9tMDdxNUw1WWNocEgzbGxTVXFlZEUxcEZIMWZoNDZjeTEzTlEzZVZpT2Q3WE5FcUJFdnZCVzRRbTdfWjkybl9WLWRhNFZLY19OZG1XdDMwdG44MjBseUlLcFJoSVRxQ0FKUG1ncg?oc=5",
-      "source": "Taipei Times",
-      "date": "2025-12-27T16:00:00+00:00",
-      "description": "China revises law to regulate drones, tighten safety rules  Taipei Times",
-      "query": "drone illegal",
-      "detected_at": "2025-12-27T21:04:56.504004+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "52f4ba610a2a"
     }
   ],
-  "last_updated": "2026-02-10T05:34:22.411018+00:00",
+  "last_updated": "2026-02-10T06:29:09.314671+00:00",
   "total_count": 1000
 }
