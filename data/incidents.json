@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "NYPD officers to take down unauthorized drones around major events - Police1",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0RMZzBGVEpNbXFGLU1MXzhkZURVTDBsYzdzQlhJUHp3M2cwel9YODg0Yzcwd3VGam5ENmdONUM1Rm9tMmdwS0JmaVZ2WjVpMFZUbnJ2TUQ0c0VHaG5Mc3VqQUdZZnFxNFBJUF8tdGlIZVo3eVpSVWZKcHY3RHpVYWJsZzQ3eXFiMTlPVUtyNUNEMkM5SUZkZ1JueWQ4UQ?oc=5",
+      "source": "Police1",
+      "date": "2026-02-10T20:51:16+00:00",
+      "description": "NYPD officers to take down unauthorized drones around major events  Police1",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-10T21:18:02.843461+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "eb1d98c7529a"
+    },
+    {
+      "title": "Drones And Border Security: New Mexico's New Law Tackles Illegal Drone Use - KLAQ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJTHI1d3JpX052UlpiSC1lMFc5NlZ3UmN0X05DSm16dFR2anh4a2JySmV6QzY5dDc0ZlhCbGhiYjVwT0JVZkplWGRkZEMyWVNCUXdpT2xfQTd4R3ZG?oc=5",
+      "source": "KLAQ",
+      "date": "2026-02-10T20:29:25+00:00",
+      "description": "Drones And Border Security: New Mexico's New Law Tackles Illegal Drone Use  KLAQ",
+      "query": "drone illegal",
+      "detected_at": "2026-02-10T21:18:01.043556+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d75c4f430245"
+    },
+    {
       "title": "Amazon Drone Delivers Itself Into the Side of a Building - Newser",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYm1aTEJsb0NncWxNYnJNUFRSSWxOYWYtYkVibmlRWkJzbEhKdTVmVkh0ODUzc3d2U09KRmZpNDRDclowR3dlN2NMcWZBSHlsbV9VbG1UNW9uVVVWYm9kRlY3cU96NWE0UlZ5RlpBWU1pdi1GVzVXYm9leTNyZ1J1QnFpYW5rbWduQmNxQloxbVZSajZoMWRxVzJzSFdSUQ?oc=5",
       "source": "Newser",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b5af19d09523"
-    },
-    {
-      "title": "Drone allegedly flies package to prisoner at Adelaide's Yatala Prison - 9News.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0F2Y0JTdXk2T2k2S1lRSk5Hc0xGVVBiaG1WSjhZRS1xcTVFV3NVd3N2WGg5WDZLbmpQTjlPdHJ2S25zTlI3LTFac2t2ODRqTU02aFNsd2hZT1JaUW1TQ3JoUjdOQjBkRnZXNkhjaXk3MF9QMnBwSm1MS21OdGRPT1NHdU5pWnRZV0lRb3JjdWY4dXZEa19Cb1k2NXlLYWc1ZnlSd0lIY1VweWVxTXNXQ09sOVhCdnFzSV9UZmRXb3B3RjlscFowd2hqckUyal9y0gF4QVVfeXFMTmlnLXFhbTZ0bGQ3d0JSM3JiN0ZpczQzQ29YbUZSZlkyX3QycVg0YXB2M2V2aDMzc1NZNmR3cWJhTEx0b2doazdYemJBQzdOV2dtdUUzYnY4ZlZtcXY5ampncjd5cTNhLW56ZkNLUUp6RVVqbXpWeU5k?oc=5",
-      "source": "9News.com.au",
-      "date": "2025-12-29T08:51:41+00:00",
-      "description": "Drone allegedly flies package to prisoner at Adelaide's Yatala Prison  9News.com.au",
-      "query": "drone security breach",
-      "detected_at": "2025-12-29T16:06:27.000777+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "37f2110af99a"
-    },
-    {
-      "title": "Shae Gill breaks silence after drone incident at Islamabad show - Jang",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW5LYXZrWElxVU0xcGoycVdERzV5anB6Wlh4UEdPM1cyWXZrWWhZbTZZcjNSU0RaNS1kdV9yNk9uMTdIemJwM3d0WEFsX0lPS1hSTmx3bWpZUkZnTF9ERnBsMWY1cG5ldWRSTzhhS3dJcVUwQy1pVEgwR0NqdUZWVUlERjVFWFNNLUxCUDQ0ZnNEa1c1Q0plWGZnandpUQ?oc=5",
-      "source": "Jang",
-      "date": "2025-12-29T13:05:29+00:00",
-      "description": "Shae Gill breaks silence after drone incident at Islamabad show  Jang",
-      "query": "drone incident",
-      "detected_at": "2025-12-29T14:06:06.445936+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ba146e47ab7f"
     }
   ],
-  "last_updated": "2026-02-10T20:16:52.540374+00:00",
+  "last_updated": "2026-02-10T21:18:03.459869+00:00",
   "total_count": 1000
 }
