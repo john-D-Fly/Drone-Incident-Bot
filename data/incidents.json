@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Unknown Drone Crashes Into Key Polish Helicopter Base - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HTWgxVGN2WGhZcTFPWEhfRkpBbkk2c09NUWh1STI4VGh3aU0tUGRvSFJ6ZV9QNW5OZjRVMGZFMWdmeTNvMU5tMEQ5NEcxdXlIek9UOGJOV016enpnOUpsZ3pqZ1pWRElXVWxZ?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-02-11T18:53:08+00:00",
+      "description": "Unknown Drone Crashes Into Key Polish Helicopter Base  DroneXL.co",
+      "query": "drone crash",
+      "detected_at": "2026-02-11T19:25:10.457064+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "84e8eab62752"
+    },
+    {
+      "title": "U.S. Officials Have Warned About Cartel Drones at the Border - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2VEZzNwdWhpTU83NzF1ZkMxTmxzWXQ5cVc5X3RyUmZlQUR2RXZUY05GSnNQWlhtSHhlbUc2czFyd3dJOEtyaTdvTWhxRkNibW83eno3T0ZUMWNrSnhfTGxTOGVBUjZ1N3R4VDczRnM5dlBsLXYtZ0tnSEVqTHlFZnk4YUJxcVNOanBCaVFB?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-11T17:30:43+00:00",
+      "description": "U.S. Officials Have Warned About Cartel Drones at the Border  The New York Times",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-11T19:25:08.554502+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9817e6226d36"
+    },
+    {
+      "title": "FAA lifts El Paso airport flight ban after drone incident - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeDd0SUlvWlhUSmp4cnE5RkxEMmVvalUyUXFLakZrNGc0ZE15TEppRVVSdGMzQk9oeXNMQlZSdElBcHlZM0JicVFoZ1dSeEo5a1NRd1Bway15aDN5NXE3Sm9tYS04UFJmZy1RTk9EeWo?oc=5",
+      "source": "Yahoo News Canada",
+      "date": "2026-02-11T11:28:20+00:00",
+      "description": "FAA lifts El Paso airport flight ban after drone incident  Yahoo News Canada",
+      "query": "drone incident",
+      "detected_at": "2026-02-11T19:25:06.988497+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d9ac63024710"
+    },
+    {
       "title": "Mexican Cartel Drones Breach US Airspace, Forcing Temporary El Paso Airport Closure | What We Know - The Sunday Guardian",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2pTSkhjazJ3Q2RIWWY0RFM3eFhNckxHNkpYYUVnSWJLd2JIMzRyV3FseXJCZGF6WEE4eGNrekpBZ09oT0Rjd0xXbkpUTEY4WUt0a0J2c1pKT2VCY19jT0RHaGJJMGZwSmZNWEFuckZoS0wwOURCVWRDNjAtN2IydUpiWjZDQlFIclpMempkTVBVMllSdzViTzN4am1PT2p5ZURHamdmcmZSMllUdFVhbEZWckJVSlJwU1ZvX2ZmSnlic3hGSHg1cXdKbGVCald5b21aNThzUQ?oc=5",
       "source": "The Sunday Guardian",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "09bbd834c8e5"
-    },
-    {
-      "title": "Thermal drone camera leads officers to find, arrest suspects in dozens of car break-ins - WBAL News Radio",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzliYWtlZ2RIUHQzQnhfODNaSGM4SEg2VF9NNjg3TlJRZ0s2UG1GQV9zT2dBWkdGTUxwajJ5ZG8yZncyV2hFWWxBN2YtdmxlM0FlRjNJNDlKLUtidjJqRkpHckxJXzlNQl9YMllMUWxTenJnSG8xcnJQNHNpWlJ3cGNkc2Rnd0JpSWtoR1k1eHZZd0ROME0tX2RXU2Iwa3g3WVRiZGhKOTZMVDg?oc=5",
-      "source": "WBAL News Radio",
-      "date": "2025-12-30T19:02:39+00:00",
-      "description": "Thermal drone camera leads officers to find, arrest suspects in dozens of car break-ins  WBAL News Radio",
-      "query": "drone arrest",
-      "detected_at": "2025-12-30T19:04:59.827105+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "8ebb884f2f0b"
-    },
-    {
-      "title": "Kremlin rejects calls for proof over alleged Valdai drone incident as global south leaders echo Moscow’s claim - EU Today",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5RmxoczlMOFAxSklHMml2U1NfU2Z6OVNVakxRUmNweFlGZGtZMjJ5V0M5VVNNWjd0OVRtOHFQejg3eGVMcWRyNDQ5LW81VVNPNlBMYl9iOXlNRHFDSGU2MXowY2pKbkdIM2F2M2RaenE1NzhZSmhMODB3?oc=5",
-      "source": "EU Today",
-      "date": "2025-12-30T18:58:24+00:00",
-      "description": "Kremlin rejects calls for proof over alleged Valdai drone incident as global south leaders echo Moscow’s claim  EU Today",
-      "query": "drone incident",
-      "detected_at": "2025-12-30T19:04:58.916798+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f5d62c466854"
-    },
-    {
-      "title": "CIA Was Behind Venezuela Drone Strike, Source Says - The Intercept",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0VjQzJCUmlvNFdyc21xMWE5dTBRbmRtTnFsTFZZbnd0ekgxVXJXanFzd2VuallLR3FPMGdEeEhmUVpqZTNHNlNvUlMzMmV4NGlLbEJQZWZzX3V3V2dvczBCdGt5dFkybnB1MTZXb3B4Q1hNRExhdC1LeDE4WmZwTVMwTk5hQWg3R2Fz?oc=5",
-      "source": "The Intercept",
-      "date": "2025-12-30T17:35:38+00:00",
-      "description": "CIA Was Behind Venezuela Drone Strike, Source Says  The Intercept",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-30T18:08:30.379477+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a878424e4a11"
     }
   ],
-  "last_updated": "2026-02-11T18:23:42.107181+00:00",
+  "last_updated": "2026-02-11T19:25:14.618153+00:00",
   "total_count": 1000
 }
