@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "New Mexico bill targets cartel drone activity with support from Mexico - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNajNiVEJXMks5cm1uaV82ZjRwNlJmYVdWaXpwdldMbUhwdG05ZzVFR0ppMlJuamZnS3pZMXNtelVjbmU0SWdOVEpoNERFOGlnMnUzN1REd0llR3pNM0JaU0tjNjI5N0dMeExmOGI1aVBFdEg2SE9HdjY1cS03RlZrNGszckc3Qll0YkhQT3BIaFcyQldJMmp1ekJDU3phczY5WVMtWUgzRF9Db0dqN0Q0V1dVdE9Ldmk0cWF3aw?oc=5",
+      "source": "KOAT",
+      "date": "2026-02-11T15:07:00+00:00",
+      "description": "New Mexico bill targets cartel drone activity with support from Mexico  KOAT",
+      "query": "drone illegal",
+      "detected_at": "2026-02-11T15:23:53.305362+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "720621e73fea"
+    },
+    {
+      "title": "Main - Odessa Journal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkpOa2lEOWJQOXdqNzVRZGlNQVEteHhKemhwQXJhU2NqODgwSy1lejJpaFZnTC00d1FPdXYwM200T2Qzd3VGYk0tOVVHQ1NzdldiV1IwTUJ0c3hua2cyb2tCQ3BCX1pvTlpxQ3BRcjRETUt1QnRKVlU3SG5wSFhWZi1LY011QzcwQUFLNDRwcUYzcVoyTllvZU1CYU9rckM5SGs4b3RrTUo1eHVoZVBv?oc=5",
+      "source": "Odessa Journal",
+      "date": "2026-02-11T14:27:53+00:00",
+      "description": "Main  Odessa Journal",
+      "query": "drone incident",
+      "detected_at": "2026-02-11T15:23:49.528933+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f6f602aaa0ac"
+    },
+    {
       "title": "Russian drone strikes home in Ukraine, killing father and 3 children; pregnant mother badly injured - The Tribune-Democrat",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbzhIWTYtXzZsV1FQMjAzZl9LWmdQU3VVdS1oNVlzMkhYQjdYTVZLc3VBU3RVbkpVUzhmOWFhQWJrcG53Q3VkMDlzYkdjcDZSNU9wRmkxbEJ5YkFKeVVoSHQ0NDZXTUdFWDJoY29rTFFFdFlfSzFxUGZibzFadkpSMmswZk0tdEViN3AtdUtsY2U5a3FJVDRUck1JZUdMTV9tclpoRFk4Uk5RNGQ2OVp5UmZGelh4dnF5WXA2NUlzd3RiS00xMklSMHA3SEctRnh3S0R1NUZTTFZDREpJNmQzbDl1THBiTEJIRzlNeTBJTVdWSm85ajBxR1hvNXVOVDY5RVFlNjlxUQ?oc=5",
       "source": "The Tribune-Democrat",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "8aa141e04545"
-    },
-    {
-      "title": "Trump condemns alleged Ukrainian drone attack on Putin's home - Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1NVdjRXV004RkNlY0V6UXBRajl6bW9KRTNUbnd0Ql9RQkRVWFY1RC02UDk2NlF4UzRqRlZiaGVLRGxBVTV4d1Q5Qlo1SnQ1Vlk1cnlCbkhZQW9vTlJKeGRvMEZtMVd0UnlJaHBkNlhreHA4NC1DQ091UGNiRkJvYzJtUlVHaHBfb1l6Ym5TdHZCdXlRWEJtUS1oaFNkVjhH?oc=5",
-      "source": "Yeni Safak English",
-      "date": "2025-12-29T21:55:10+00:00",
-      "description": "Trump condemns alleged Ukrainian drone attack on Putin's home  Yeni Safak English",
-      "query": "drone incident",
-      "detected_at": "2025-12-30T13:17:02.295130+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f228a8d72056"
-    },
-    {
-      "title": "'Deeply concerned': PM Modi expresses worry as reports of drone strikes on Putin’s residence emerge - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTlNkdXV6NmQ3aVhWSkhHRnBzajRDSDBWbVFQM21DdE11aUtPSUUtcXkzQlBjX2xENjRxVG9vRndFRmJKb3hubkpCOE9uejdORHVSellFSEJ4Szc5aUVXZ1h0azByb3hicDk4MDRwSE5Db3hwS0lJNUl6bzlyN1NDX2Y2U0ZPVVEyUmhzNXp6TXBmWjJzYkFqTlhmZnV4WXMteTczZmNmcXplSXVHUW1vOFVoRWNyXzFZcktUWnhaSGE0ZUZPMC1LVVR2aGFMSWxTVE9vWGVmMlZFSWNU0gHiAUFVX3lxTE1pWHNnM2M1NXRZS2tqYVBJQmNaaGRqQzBRcEl4NEU2ZkZFaDhOYmlNOWNhTWI2SzlOV1pHd1hzUU5UMEU5Z2tlN3drZTFqekJTY0F5ZjdrN2NDTllBSElHeGdQUmZiYzN3RURrNkhOY2lNa0tEMTQ2N3dkanVnOHBvSHdPVk11R1dSazU3OWFfLXU3UmxlMHRuV1lVT0NHd3Ywd1ZJSWw5b3lQaVFLa0QwaWIzQXg0RUlyX1dBNWxRMHFUVW5mZGNFNTUzUC1JQm5XRGpYYjF2eWJOa3VWb0dNU1E?oc=5",
-      "source": "Firstpost",
-      "date": "2025-12-30T07:31:26+00:00",
-      "description": "'Deeply concerned': PM Modi expresses worry as reports of drone strikes on Putin’s residence emerge  Firstpost",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-30T12:10:11.099500+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8a867f2aa9c8"
     }
   ],
-  "last_updated": "2026-02-11T12:20:18.522038+00:00",
+  "last_updated": "2026-02-11T15:23:55.871029+00:00",
   "total_count": 1000
 }
