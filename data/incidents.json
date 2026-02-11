@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Russian drone strikes medical vehicle in Izium: 1 killed, 3 injured - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ONzRqU0wySm8yTTN2TF82c2RLWVF2VUN2OUdWdFljWXBjdC11Wjg4V0VjbmhWVXpGbDdVcGJDWjhxOXZCVFVldmJXMGhPTkVWUDY5bnZpR1RIVmJTYmt1aGNLdk3SAXBBVV95cUxPNlJzR19mc3VWWjdBMUhfSEw4bUlpQ1BBYl9RNzI0VElJX2JubUxWR3I0QlBaTFM5X2pISWx6aUZmeURZNVZpZG91OXFEZGpUTTZUdS16MFc2M05aeEZBUnpWZEtmYmVJcURpVjJ5aFkz?oc=5",
+      "source": "Українська правда",
+      "date": "2026-02-11T14:07:00+00:00",
+      "description": "Russian drone strikes medical vehicle in Izium: 1 killed, 3 injured  Українська правда",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-11T22:10:03.910429+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2669d0b59afd"
+    },
+    {
+      "title": "FAA abruptly lifts order halting El Paso flights, raising questions about disruption - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hQW1RYkNiSDU5SkZnUjVlTWs4Z09FQnNkaWN6aXo3blBmVUxlVmFFQXNhUk1hODUwamJTQXc4VXEySEYwdmxvTmVlRkRuZWZXRXBKMGEzZW5SQnBlczFXZGw5Wi11TUnSAWxBVV95cUxQbWpOVDI1VUlNN0tJdmFzM3poU3V0dEtZZlhLaDBrSlpWZFczR0p4S0szbkNPMi1fbm5ndzRCU21MSFJudjhHN2lSV2dLanBNWVBXbkd2VktMUGNSWGNLMlR3ZHBNbTIyR1hia1c?oc=5",
+      "source": "CNBC",
+      "date": "2026-02-11T13:29:21+00:00",
+      "description": "FAA abruptly lifts order halting El Paso flights, raising questions about disruption  CNBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-11T22:10:01.153012+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2ce9bf2b7fca"
+    },
+    {
+      "title": "Caught on Camera: Man arrested for Stella St. armed robbery following chase with deputy drone - WINK News",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRGNycTZONmRUMjRrMmx0S1ZjcEZQTzdMR1VWQ3Z4VHJZSVF5UjJnb3M2OV9kWnlPY2Y1LVQwZzBvV3dsbkFQNEkweG9WMDd0NFBwWFdGUllXaFMyY28xRmh2VkFyTjZlcC1aWloxeGYwVGxucHNYZU5iZkRfRmh5TEtfQ1dVOGFsRk5WVExvWlVEc3F5amQzOVZyRnd6YVNjaTB5dEdaMm82emY0cUNSRVZFZ1ZjU2FRczVqRkJHRkMyVEJ6ZzVuNmdUNUVHdkk5NS0yWlJlZnI3T3RITnVFcFc3MlFqcWNHbFJWTjdRQXVmZnd5MXpxQnpFWlBkcE9UMjI5ZWNR?oc=5",
+      "source": "WINK News",
+      "date": "2026-02-11T21:05:00+00:00",
+      "description": "Caught on Camera: Man arrested for Stella St. armed robbery following chase with deputy drone  WINK News",
+      "query": "drone arrest",
+      "detected_at": "2026-02-11T22:09:59.193091+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "3e510adb69d4"
+    },
+    {
+      "title": "FAA reopens El Paso airspace after cartel drone incident - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2lOM3dOWld0MHdKQmtJamhNazRCWW00NHNxS1ZWWlRWcWVZUjZwY3RzQzBYR2hFelhPTEdDLU42SzV1ZEVRVVRaQ3g5V3ZKYzdnYUU3ZG1WS2JIUk1UTG81TXZObE9fWWZMVXVoX2RyeW1iUE9EeWZoVnkzXzc0SnFrQU0?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-02-11T15:41:20+00:00",
+      "description": "FAA reopens El Paso airspace after cartel drone incident  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-02-11T22:09:58.452193+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "74c428a52332"
+    },
+    {
       "title": "ULM Installs SkySafe Drone Detection System - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qOFlmZFgwb1BnY0E4WGdMWU82dXhacUJGS0NrX0tKV0JMMjcxLUpuVkxvWWpHYWlrMHdBN1NIWUFJaERTVktKeGxVdzRVUzlkTXAtNmM3eE5tMDVkbmRLeUNFRWgybXlFaWs4a21acnBFZzQ?oc=5",
       "source": "DroneXL.co",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fd62480680ac"
-    },
-    {
-      "title": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZEZPQk5HODhvUUgtQm1KSEY1YWJEYkJ2cmxZcWF2M0l6ZDk1aDNieUZpUGZ5WnN0WlMtaGhyS2ZFckl4UlRmUkNCcUhSWnRQdllsOHNrUkNaXzF0S0R2SkxERQ?oc=5",
-      "source": "The New York Times",
-      "date": "2025-12-30T20:43:29+00:00",
-      "description": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News  The New York Times",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-30T21:05:31.328959+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "40066e2d2ca7"
-    },
-    {
-      "title": "CIA struck Venezuelan dock allegedly used for drug smuggling: reports - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkRmUjR4bXdfYjZHQm5BYnVGQVphc2NtMHJ2c0tUWFFQZmVGWDhXM3pGYUlRUjZObVctcld1aW5TaFVSLTNJV0ktaGx1aXRvbXBKVkFCQ2hXMVNpUFh1MkplOWd2TFdsNnJneDdQSkJxN3pHaUVqRUlrTnZ5QzhwdWF2TXFuRUp5SW1DOUJPZ1c4UmZhemtSOGpHb3JaSWExc2pFb0loSFAtdms?oc=5",
-      "source": "New York Post",
-      "date": "2025-12-30T17:29:59+00:00",
-      "description": "CIA struck Venezuelan dock allegedly used for drug smuggling: reports  New York Post",
-      "query": "drone smuggling",
-      "detected_at": "2025-12-30T21:05:27.135892+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "17c8a7ebe0cf"
-    },
-    {
-      "title": "Police use thermal drone camera to find, arrest car break-in suspects - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREhpT0FuN3VKaVBlbjFHTktOWWJUYU9CTVZOTGtlUUhyZUVkZDJmMExIUHRUM0VYZEdQdjZCazlOckYwMy12SnZtR2JUQkxOblFjZnBOVXFNb1JSZHNNeUJBb3NTR0Rya0RCYzl0Szk4TTkwNHI2dWNSZC1idnNDaFJTYTBOY1BnZ3VN?oc=5",
-      "source": "Yahoo",
-      "date": "2025-12-30T15:36:15+00:00",
-      "description": "Police use thermal drone camera to find, arrest car break-in suspects  Yahoo",
-      "query": "drone arrest",
-      "detected_at": "2025-12-30T20:06:27.723794+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "39f65408adec"
-    },
-    {
-      "title": "Russian Drone Strike Injures Man in Antonivka Near Kherson - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2VrY3RocWt2YVRRaWpObUFMRVh2aDVIa3ZYbzJkcXotd2taNDZaRzRxamVTeHY4ZzNqRVlrWHB4azdqd1UyTXpZcWg3YjR3ZWlDOHY2TkJoclRLMVkxdmlpMmxTVHlYbjg1VEdyODM0TlpvaDZQT2twakdCNnJsRzExdGdxYXFYNVVHNzJwMnNKMjhMZWYybNIBmAFBVV95cUxOb2VrY3RocWt2YVRRaWpObUFMRVh2aDVIa3ZYbzJkcXotd2taNDZaRzRxamVTeHY4ZzNqRVlrWHB4azdqd1UyTXpZcWg3YjR3ZWlDOHY2TkJoclRLMVkxdmlpMmxTVHlYbjg1VEdyODM0TlpvaDZQT2twakdCNnJsRzExdGdxYXFYNVVHNzJwMnNKMjhMZWYybA?oc=5",
-      "source": "mezha.net",
-      "date": "2025-12-30T14:49:12+00:00",
-      "description": "Russian Drone Strike Injures Man in Antonivka Near Kherson  mezha.net",
-      "query": "drone incident",
-      "detected_at": "2025-12-30T20:06:26.954858+00:00",
-      "location": "Near Kherson",
-      "category": "other",
-      "id": "72150f333fee"
     }
   ],
-  "last_updated": "2026-02-11T21:14:16.052413+00:00",
+  "last_updated": "2026-02-11T22:10:05.341583+00:00",
   "total_count": 1000
 }
