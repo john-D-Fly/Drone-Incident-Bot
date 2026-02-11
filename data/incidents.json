@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Georgia traffic stop uncovers drone, drugs in suspected prison smuggling scheme - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3c2bmlYU01NWGlJNmRZV3RCa2dibXZBOGNGMEZ1bmRpcjBTeW91SER2cEowOGtBWjdIWElpNmpUTkotMmNuN0JlT2dQLW9OcVM2S1F0NTZuZ3docVVnRHJDSUZPZTJnUkNBVkwxVzBUeGduUzVrNGFaWnpkRUhuUUNhU3BMUks0SEVmZzNKU0ZIcF9pOXY4LVVoZ090WEhaRmFLejJKVi1LMDZrckhqNUpTbUhnZHAybnltT2tSWGx3dlAtRllBbWhfWnFwaDJsSTcyVdIB6AFBVV95cUxQOVNJZjNUZjVtakctalctdFAyQzV4c0tnd28zSmVNMGpiSXlwNHRYdkFJb2o0OW9wRjh6eE9UeGVHdmlnZGRqQUplTjZRZ0stMEowalcyYkQ2RVZ5aGRLeVF0UGZhdTgyVEw2X2RfamJGNXNoX254QTItZ1ZGdlRIRUV5RGRvWWxTQzJYY2FIMVN4d0staWY3MVFNRmUzT0w5a0FNVEdmZXk0eDRQeU5jX3Bhc1JoTDNyTkEwd0V1Zy11Ny14OUp1a01EVF9IVk4wR1RReDRsa0NSQVV3MFRvcVRwTW9NME96?oc=5",
+      "source": "WSB-TV",
+      "date": "2026-02-11T09:50:58+00:00",
+      "description": "Georgia traffic stop uncovers drone, drugs in suspected prison smuggling scheme  WSB-TV",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-11T10:20:55.190074+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e7e55536db3d"
+    },
+    {
+      "title": "EU Unveils Plan to Combat Drone Threats - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzRaYXhjOWhrY0VPVDVlSldqSThQaWxwMmNkOUxlUVFQMUNkMXZTbUJiOFJEZlBYSFMxbkZteTlXeTBXMlBJR2I2ZHFpejEzN0FjSXVkWXdicFRMX1M1cEpBYWxfSnhjLWl4dEU5cmtINFh3TFV4eEstZ0xUTDhpVg?oc=5",
+      "source": "Mirage News",
+      "date": "2026-02-11T09:38:00+00:00",
+      "description": "EU Unveils Plan to Combat Drone Threats  Mirage News",
+      "query": "drone incident",
+      "detected_at": "2026-02-11T10:20:54.105239+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "ad757813c97f"
+    },
+    {
       "title": "Russia strikes Ukraine with 129 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGdRUXNfZnAteE5JWmh3OExzWGFFZTVpcnAtd2ZwQ09WZzFhYm9XZ1pSZ1dYSjRVQ1BvQklFc29acXJhUExYOXJQbkg0V0owMzdXV2lYTEMyNUtlYll1el9YU2NxZ1dhZndyS05EMUJFV05XY1A3OXh4VnZhc0xCY2JtYnpURXd1bjR5cmhWRHl2UzJDZDc2cHFuS1Q?oc=5",
       "source": "RBC-Ukraine",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "35a8ff59467e"
-    },
-    {
-      "title": "Drone Attack Near Putin’s Residence: Russia Claims 91 UAVs Shot Down, Zelensky Calls It a Lie - news24online.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGQ5d1lSLUhWclhfSUlxUXg1Wm5aXzhWZ1RjcmVRNExueUFsRGVkd0dyQ0FSdTUzNGZVMmlMSVhMOF82aFdTVm5CWThSY1dCdVB3Z3pFQ3V6RGMtMmhhWDY0Tlp5YVNqUDFUOWtldndmemc2UU15ZUhUcDdXN1lrVlNtT25NbHBtNEU1Z1JoM1B5TTB4dnFGeExZQU9Tb1kzWnI1cm9hWHozUnJfLW5uT0Z1WS1YYU4xR0dYMjF0cG5USXdyeXJpTQ?oc=5",
-      "source": "news24online.com",
-      "date": "2025-12-30T03:00:09+00:00",
-      "description": "Drone Attack Near Putin’s Residence: Russia Claims 91 UAVs Shot Down, Zelensky Calls It a Lie  news24online.com",
-      "query": "drone incident",
-      "detected_at": "2025-12-30T03:33:28.631745+00:00",
-      "location": "Near Putin",
-      "category": "other",
-      "id": "b0065a058d08"
-    },
-    {
-      "title": "‘I’m angry’: Trump slams Ukraine for ‘attacking Putin residence’ - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc3hkSzdLZjRadzd5VkFWM3lQSDhsLV9XenQ5V041anF6U1hGX0lwemw5QjR0NU5DTHY3LUNYNTZhYmNKT1hhUWp3RFAxQ1I2WDdHeUVRNHk1Z3B3QUd2MjdxSFpFNVRROEJuQi0zNmV1V2tRQVNDRFFnN3JXdllCblFncTRTNnR2OXFIT21GOGUtS3puUThzVGllU0trSjdtVkR5dFprSEUwT2l1Y1ZRSklrbW15dWxGQzhjemJhLUt0d1ZnbDl6NTZScTlwZW9meld3NEswQQ?oc=5",
-      "source": "The Australian",
-      "date": "2025-12-29T22:39:25+00:00",
-      "description": "‘I’m angry’: Trump slams Ukraine for ‘attacking Putin residence’  The Australian",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-30T02:41:50.957928+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eb70ff005d36"
     }
   ],
-  "last_updated": "2026-02-11T08:17:26.371506+00:00",
+  "last_updated": "2026-02-11T10:20:59.506700+00:00",
   "total_count": 1000
 }
