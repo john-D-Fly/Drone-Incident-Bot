@@ -1,0 +1,169 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have highlighted ongoing security challenges in multiple regions, particularly related to unauthorized operations and smuggling. Notably, Russia launched drone strikes in Ukraine, resulting in civilian casualties, while multiple incidents of drug delivery to prisons via drones were reported across North America. A significant development was the arrest of a Calgary man for drug smuggling involving drone drops into Manitoba prisons. Meanwhile, Texas experienced several drone crashes, including Amazon delivery drones hitting apartment buildings. Governments are responding by tightening regulations, such as the European Commission's new action plan to combat drone threats, signaling heightened vigilance towards unauthorized drone activities.",
+  "totals": {
+    "other": 25,
+    "smuggling": 6,
+    "terrorism": 3,
+    "security": 3,
+    "airport": 2,
+    "surveillance": 6,
+    "crash": 10,
+    "illegal": 5,
+    "arrest": 8,
+    "total_incidents": 71,
+    "by_category": {
+      "airport": 3,
+      "arrest": 1,
+      "crash": 12,
+      "other": 31,
+      "security": 3,
+      "smuggling": 14,
+      "surveillance": 5,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 7,
+      "drone crash": 11,
+      "drone illegal": 4,
+      "drone incident": 12,
+      "drone prison": 6,
+      "drone smuggling": 10,
+      "drone terrorism": 12,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone strikes and terrorism",
+      "rationale": "Significant incidents of drone strikes causing civilian casualties and terrorism-related responses.",
+      "incident_ids": [
+        "f915cd198555",
+        "ed8e7f29561e",
+        "5f205f78cbef",
+        "ad757813c97f"
+      ]
+    },
+    {
+      "topic": "Drone smuggling and prison drops",
+      "rationale": "Multiple incidents involve drones being used to smuggle drugs into prisons.",
+      "incident_ids": [
+        "6fd9828e6c4e",
+        "a2874e8e6f6f",
+        "921f3e935307",
+        "154b713f4577"
+      ]
+    },
+    {
+      "topic": "Drone crashes",
+      "rationale": "Increased frequency of drone crashes, particularly regarding delivery drones.",
+      "incident_ids": [
+        "b3bf0ee58b75",
+        "bc2bedb806d6",
+        "45c5f2ea8515",
+        "8c864c9ab663"
+      ]
+    },
+    {
+      "topic": "Policy responses to drone threats",
+      "rationale": "Governments responding to drone-related threats with new policies and funding.",
+      "incident_ids": [
+        "83073d404f68",
+        "4a044d2f79f7",
+        "0dae44cd33e6",
+        "d6184491b4e6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f915cd198555",
+      "headline": "Russian drone strikes home in Ukraine, killing father and 3 children",
+      "one_sentence": "Russian drone strikes resulted in civilian significant casualties in Ukraine, raising concerns about drone terrorism.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "6fd9828e6c4e",
+      "headline": "Georgia traffic stop uncovers drone, drugs in suspected prison smuggling scheme",
+      "one_sentence": "During a routine traffic stop, police discovered a drone involved in a suspected drug smuggling operation into prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "83073d404f68",
+      "headline": "TDOC requests $1.7M for drone detection technology",
+      "one_sentence": "The Tennessee Department of Correction is seeking funding for technologies to detect unauthorized drones.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "4a044d2f79f7",
+      "headline": "European Commission unveils action plan to counter growing drone threats",
+      "one_sentence": "The European Commission released an action plan aimed at addressing the increasing threat posed by drones.",
+      "risk_tags": [
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "eb1d98c7529a",
+      "headline": "Russia strikes Ukraine with 129 drones overnight",
+      "one_sentence": "Massive drone strikes from Russia targeted Ukrainian locations, indicating intensified hostilities.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "e7e55536db3d",
+      "headline": "Calgary man arrested after aerial drone drops $751K worth of drugs into Manitoba prison",
+      "one_sentence": "Law enforcement arrested a man connected to aerial drug drops into a prison in Manitoba using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d9965a4b3eb2",
+      "headline": "Amazon Prime Air drone crashes into Texas apartment building",
+      "one_sentence": "An Amazon Prime delivery drone crashed into an apartment building in Texas, leading to concerns over delivery safety.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "fbda09049e78",
+      "headline": "Judge hands down sentence in drone prison smuggling attempt",
+      "one_sentence": "A judge sentenced an individual involved in a drone smuggling attempt to deliver contraband into a prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents show escalating risks with strikes in Ukraine and smuggling operations in North America and Europe.",
+    "linkedin": "The past 48 hours have revealed a concerning increase in drone-related incidents, from violent strikes in conflict zones to smuggling operations and significant policy responses."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-11"
+}
