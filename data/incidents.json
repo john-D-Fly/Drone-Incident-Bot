@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Border airspace breached: Cartel drones test US defenses and raise new fears - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem5kV0lSY2NCWGxvb3A2UVFQWjFEalo3NWNxeXQ0cXZnNldyamRLT25hMHhSbUhLRmdYaWZLUFJrRDJNdjhLNHBvUkd3Y1E4ZmZUQVZDZXA2NENTeGEtakJuYXIxQW9qaTV2dEFNOUw0VURGNGVUblh3anF6ZnlrNVkwUUlVQU50Vm5kTmNNWmoydXI4ZEl3WnRoTVRrbkRPa1dnV1ln0gGrAUFVX3lxTE1TVWlpazZ4QWc4N014a1RsVm1CbVV0X1dsUWxRVDltVXJBMm9Td1FJZUFXWm11ZWZodWtKRkRTdUM0djFSSlliQTFXX0NBTVZ5ZHRPZEJrNWVDZzJScElnNk9rQmlzeks4eVhfdGN5cGN4RUY1ZkphSnRwZ2xxWkprUFBRWUtPZkxxRGttY3NNb3ZIWWY0N3E0V0NrbXNpbFZ3QmR1NmNnLU5fQQ?oc=5",
+      "source": "Fox News",
+      "date": "2026-02-11T22:06:09+00:00",
+      "description": "Border airspace breached: Cartel drones test US defenses and raise new fears  Fox News",
+      "query": "drone security breach",
+      "detected_at": "2026-02-12T06:27:45.722037+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "e7b4f7130c6b"
+    },
+    {
+      "title": "Breakdown between Pentagon, FAA led to flight stoppage, officials say - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd25xQi1IMlB5WHMxcmFSRkpqR3RFLXdrX1M1bzRxR2dWOHFkMVpFclZuRHc0N2RjTFlTS2pBYXFEWUVSSlJ5YXNIMDIzUEhOOGdIcTNUNEdnd1lHWlBRZVJnX2NmVHVfQkM4NHVjbHBKMVMyNmFPZm8yM0Q1OFJaaENMS1c2MzBrdmNWM1JtSnFzUkVZNlNaLUtGYW1VMWxL?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-02-12T05:53:46+00:00",
+      "description": "Breakdown between Pentagon, FAA led to flight stoppage, officials say  The Washington Post",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-12T06:27:43.896791+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "53f424c6a6c0"
+    },
+    {
       "title": "US government counter-drone testing disrupted DC flights in 2025 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTdnUUxpT1VleVhxZlVBQXA5azdOel9rMDBvNGNHSXdLd2w1a19HeWJOUmJGM29DTDFCRjdGdGdIdThhcTVkNVM1MHBzOVllcHZkenBHWVg3Z084cjZKWF9ON085T3hIWmxPYTVneEYzaV9RVkt5c0YzMUI1eFlPeDlHQXZGXzkybEJvV2otYnd4ZVoxdDVJdWY3d2kyYldiWUhsejdPR2s2ZWl6b1AtSXE3a1hUVWZRU183RVFyMVRxMWNj?oc=5",
       "source": "Reuters",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "9d23c0ff39b9"
-    },
-    {
-      "title": "Russia Shares Drone Wreckage Video Near Putin’s Residence Amid Conflict Tensions - Oneindia",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXlZS3h1WUxScW45S0k0aGVzTE4zUlMzSE9sRXpWdnpNeHJJMUd3cGxWeU5teFZ0SldYSndSNl9xSElDMlZhalQtbjV3T1ZlTHo4MmVqdGNkV2w2dkFoQ2l3UDZ3N3BOY2VKTEdncEprVkpnaTUzMnFubkpkN2dxc0UyVWZCT3YzQ29yZTdydzJpX2MzSE1NUGI4Tk1nUDh4NXhtQ3NzTWd1RXpVSmx6a3c2ZGphRFJDN05CZEh1Y0VZYnFKVEZ3QlFrOFU?oc=5",
-      "source": "Oneindia",
-      "date": "2025-12-31T11:53:24+00:00",
-      "description": "Russia Shares Drone Wreckage Video Near Putin’s Residence Amid Conflict Tensions  Oneindia",
-      "query": "drone incident",
-      "detected_at": "2025-12-31T12:09:51.759979+00:00",
-      "location": "Near Putin",
-      "category": "other",
-      "id": "47cdbb5918b6"
-    },
-    {
-      "title": "US Hits Iran-Venezuela Drone Network With Sweeping Sanctions - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fdVRHbHU1YmFadGFEcFRpTDAwdlJBYkgycmlyc0JKSjJYUzYxTlRNekFUcTNxM2h5cUVQTUVadW4wM3lEV0NyQ2t6Yw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2025-12-31T05:17:59+00:00",
-      "description": "US Hits Iran-Venezuela Drone Network With Sweeping Sanctions  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-31T11:05:43.954655+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0f8b80b1b1fb"
     }
   ],
-  "last_updated": "2026-02-12T05:32:52.724128+00:00",
+  "last_updated": "2026-02-12T06:27:47.371565+00:00",
   "total_count": 1000
 }
