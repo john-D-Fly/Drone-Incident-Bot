@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US government counter-drone testing disrupted DC flights in 2025 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTdnUUxpT1VleVhxZlVBQXA5azdOel9rMDBvNGNHSXdLd2w1a19HeWJOUmJGM29DTDFCRjdGdGdIdThhcTVkNVM1MHBzOVllcHZkenBHWVg3Z084cjZKWF9ON085T3hIWmxPYTVneEYzaV9RVkt5c0YzMUI1eFlPeDlHQXZGXzkybEJvV2otYnd4ZVoxdDVJdWY3d2kyYldiWUhsejdPR2s2ZWl6b1AtSXE3a1hUVWZRU183RVFyMVRxMWNj?oc=5",
+      "source": "Reuters",
+      "date": "2026-02-11T20:25:29+00:00",
+      "description": "US government counter-drone testing disrupted DC flights in 2025  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-12T05:32:49.403474+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "04eace4aa306"
+    },
+    {
       "title": "Breakdown between Pentagon, FAA led to flight stoppage, officials say - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd25xQi1IMlB5WHMxcmFSRkpqR3RFLXdrX1M1bzRxR2dWOHFkMVpFclZuRHc0N2RjTFlTS2pBYXFEWUVSSlJ5YXNIMDIzUEhOOGdIcTNUNEdnd1lHWlBRZVJnX2NmVHVfQkM4NHVjbHBKMVMyNmFPZm8yM0Q1OFJaaENMS1c2MzBrdmNWM1JtSnFzUkVZNlNaLUtGYW1VMWxL?oc=5",
       "source": "The Washington Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "0f8b80b1b1fb"
-    },
-    {
-      "title": "Did Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNweDV2T2RuaFFTZ0p2VzFUdTFjcWFqcnZxNFN1UjZCUWpxcFV4Y21mdmt3ZV9yRnNmUjZiWXRGZ1hhSmRCbUdJQ2laU1haU3VRbEFkUXNSWVI1aGZzazJYMGxpSzJ5TExoOXkwaGRwak9UUUhvRnpmR2lsbDZmNVlMVzFjdy1MNk9IazZZZUVQcm8wVjh2Q0dqbDJtcXIta0E?oc=5",
-      "source": "The Guardian",
-      "date": "2025-12-30T12:35:00+00:00",
-      "description": "Did Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump?  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-31T07:08:20.331297+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "37498ba97967"
     }
   ],
-  "last_updated": "2026-02-12T04:43:15.580366+00:00",
+  "last_updated": "2026-02-12T05:32:52.724128+00:00",
   "total_count": 1000
 }
