@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA abruptly halted El Paso flights over Defense Department's plans for anti-drone technology - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hQW1RYkNiSDU5SkZnUjVlTWs4Z09FQnNkaWN6aXo3blBmVUxlVmFFQXNhUk1hODUwamJTQXc4VXEySEYwdmxvTmVlRkRuZWZXRXBKMGEzZW5SQnBlczFXZGw5Wi11TUnSAWxBVV95cUxQbWpOVDI1VUlNN0tJdmFzM3poU3V0dEtZZlhLaDBrSlpWZFczR0p4S0szbkNPMi1fbm5ndzRCU21MSFJudjhHN2lSV2dLanBNWVBXbkd2VktMUGNSWGNLMlR3ZHBNbTIyR1hia1c?oc=5",
+      "source": "CNBC",
+      "date": "2026-02-11T13:29:21+00:00",
+      "description": "FAA abruptly halted El Paso flights over Defense Department's plans for anti-drone technology  CNBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-12T11:19:05.617412+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "25b2e0e6c4de"
+    },
+    {
       "title": "Breakdown between Pentagon, FAA led to flight stoppage, officials say - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd25xQi1IMlB5WHMxcmFSRkpqR3RFLXdrX1M1bzRxR2dWOHFkMVpFclZuRHc0N2RjTFlTS2pBYXFEWUVSSlJ5YXNIMDIzUEhOOGdIcTNUNEdnd1lHWlBRZVJnX2NmVHVfQkM4NHVjbHBKMVMyNmFPZm8yM0Q1OFJaaENMS1c2MzBrdmNWM1JtSnFzUkVZNlNaLUtGYW1VMWxL?oc=5",
       "source": "The Washington Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "5f98b9f2ead3"
-    },
-    {
-      "title": "3 arrested after 50 vehicles broken into on Christmas Eve in Howard County - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeV9qWTVKUldYUGZncXlTUzBVT0xiZ25tYlpHVGpoUmhaSGhDTkpzZGpkOU85d2VnWmk2bUdQOG1rcGR1Q3NkdllBU1V3VU1PYmtXNGpJazJKclJWR3NoWC03TXVMV0x4OVN6T0UzVER1cGE2LVczNTRZSWZhaXNHaEpQdFhBUDlfck9ydTNjOGVHRktWRmZPOElpSEhCd0dUOWc?oc=5",
-      "source": "CBS News",
-      "date": "2025-12-30T21:56:00+00:00",
-      "description": "3 arrested after 50 vehicles broken into on Christmas Eve in Howard County  CBS News",
-      "query": "drone arrest",
-      "detected_at": "2025-12-31T14:06:10.795896+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "2e53e193157e"
     }
   ],
-  "last_updated": "2026-02-12T09:20:07.753902+00:00",
+  "last_updated": "2026-02-12T11:19:09.629931+00:00",
   "total_count": 1000
 }
