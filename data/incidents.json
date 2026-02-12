@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF requests improved cellular coverage on Route 10, along the Egyptian border - Israel National News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83X3hXOVBPZ3EyNy1BdUpycGJSWVBIWHBJS1lkdDdIZl9GbHRhTm1PSkZvcU1QRHpNV1NjbWpUY2JidXNWSm1OdWptNTFMdkF3M1FCTHo3eDI4QQ?oc=5",
+      "source": "Israel National News",
+      "date": "2026-02-12T20:13:00+00:00",
+      "description": "IDF requests improved cellular coverage on Route 10, along the Egyptian border  Israel National News",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-12T21:11:50.308037+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4d9e6654cc3a"
+    },
+    {
+      "title": "Mexican Cartel Drones Trigger El Paso Airport Closure - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakVHM1ozN2N0VG9xTUtzSnVSWWkxZ0ZHam0yYjVvemdyMGk3RDliRExGUmpnb01PVVVISFp3VnprU3prVEdKTDFnSEgySnZhTk10VkV3aG1sSF8wbm81N3FRQzBGZmtrWWIzZEtNRjVJTjM1V1UxMzhkNHpiYXZaUWJmSm9RSHdNbUVLREFQWGswdWVaREFuY1d3V3c1eGZPN19zdW1B?oc=5",
+      "source": "Mexico Business News",
+      "date": "2026-02-12T20:21:08+00:00",
+      "description": "Mexican Cartel Drones Trigger El Paso Airport Closure  Mexico Business News",
+      "query": "drone incident",
+      "detected_at": "2026-02-12T21:11:49.055905+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "04a87fc5dcee"
+    },
+    {
       "title": "WEBINAR RECAP: Cartel Drone Operations & Related Supply Chains - University of Nebraska Omaha",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0xMVXo5RGZpNFowc2JiM01ONXNPeEZJd0lDb1dnZG9UNnR1XzVoZ3hkT1pjSXpfLURFRC1LZU9ZSWtGb2RIMkhCald1eWhJSWFsSDk1dlJnRzcyVDFMMlQ5c29pRllvRk1WWDFxc2RvLVFhd3lMbVN3VE9nUlo4S0dTbFZiLW0w?oc=5",
       "source": "University of Nebraska Omaha",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "9b2394b01a85"
-    },
-    {
-      "title": "Russian drone strike on Odessa injures 6, including 3 children - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkRNSHB1QXpfQ19RR3NOejE1dnRNWDN3ejBVdlZkTk9rVmpwbWk2WWI5QU1CU0YwX0c3bGZsQ1NvU3l1REJ1d2R6NTNEb1Q2VDdBQTJxVWNuUENBbmotb2sxMmdlcmZsSUswazZOSXhpZVJtVjhwbWIyNndVQ29jd0QxdkREMU0yWEtSSFMxSGtjZ1RzN1J2aWdB0gGfAUFVX3lxTE9SU0JKWnBrd1FUTnp2Q1lXRXhJcll4cU5NWjlnMjJubmFrdk9PVnlNekNKOTB5RnhYdGFSTEtwcGJ6RjNBbTl2Zm1KcExFWXNkSEFaYWktMXg0ZFlSaXB4X2JEOWZsbllsTEtHYnBsWTRJVEdKRGwxeVJFcndvRUlvU3Q2ZEhneFZiUTgtdlRaU2RHN1VXZXlCVzJIV2JRdw?oc=5",
-      "source": "upi.com",
-      "date": "2025-12-31T14:19:18+00:00",
-      "description": "Russian drone strike on Odessa injures 6, including 3 children  upi.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-01T10:06:28.956893+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2c76713678e9"
-    },
-    {
-      "title": "Russia Says 24 Killed in Drone Attack in Occupied Kherson Region - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3pYR3kzWmxiaXdnZW5KeGY3SERaZnJhaks5WGJURkFJY2E4LVR5REJZZ2xJZC1CQXhudjhlLVpTZzZYUVc1WktUWXdoLUR3SGVneE11R0NTaE80cVRDRS1EVnVWQXZNTWtCNVQxT2RIZzhaQ0pfWU5YTGZMdlhubkZNZXQ5T3BBWjItTHR6TUJZS3FkT3Z0QWh6a2VlVllDNDFJSG00ZUlNR3VEUUlEQ2d2bktwdw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-01-01T07:24:00+00:00",
-      "description": "Russia Says 24 Killed in Drone Attack in Occupied Kherson Region  Bloomberg.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-01T10:06:28.956893+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d4f769179f41"
     }
   ],
-  "last_updated": "2026-02-12T19:25:20.412215+00:00",
+  "last_updated": "2026-02-12T21:11:55.359783+00:00",
   "total_count": 1000
 }
