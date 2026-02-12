@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA lifts El Paso airspace closure after cartel drone breach, federal officials say - KFOX",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3Atc050LUpoVXJSWGRSTHBVSGwtbWtDWDhNUDlKNmg5Tzdfdlc3NExRVktPVzd6WEFkWlR0aWJRWG93WWRXVTRCMktHY2NoLWpGTGdSZTVNcFBzMmRoYmtBNG1nV3RSb2dnYnlUdV9ueDl3aXBXOUxSaVBtaDJzV19mSmNOOU10Q1BQY2t2WQ?oc=5",
+      "source": "KFOX",
+      "date": "2026-02-11T18:48:50+00:00",
+      "description": "FAA lifts El Paso airspace closure after cartel drone breach, federal officials say  KFOX",
+      "query": "drone security breach",
+      "detected_at": "2026-02-12T01:37:34.223370+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d55cab03de69"
+    },
+    {
+      "title": "U.S. Officials Have Warned About Cartel Drones at the Border - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2VEZzNwdWhpTU83NzF1ZkMxTmxzWXQ5cVc5X3RyUmZlQUR2RXZUY05GSnNQWlhtSHhlbUc2czFyd3dJOEtyaTdvTWhxRkNibW83eno3T0ZUMWNrSnhfTGxTOGVBUjZ1N3R4VDczRnM5dlBsLXYtZ0tnSEVqTHlFZnk4YUJxcVNOanBCaVFB?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-11T21:58:10+00:00",
+      "description": "U.S. Officials Have Warned About Cartel Drones at the Border  The New York Times",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-12T01:37:29.545935+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c2b7429b95f2"
+    },
+    {
+      "title": "Military’s Use of Anti-Drone Technology Said to Cause El Paso Airspace Closure - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmlVY2wxNXppRTVFTnNmR0RRa1FEUnJwMTFDVWpZMG54NXdSYnZ6ZC0wUGlRV0p6UHZXa2UzYjRnQjhhM2dPQy1TWXc1V1pUMTlhbjRzRTBzcUNVRkZnZHY0QlJlNlFQSnNHNUN0TF9Jc3Y5VHlsZTB0aWh4TS1IOU00SnpBQUMxc29YcVFEM0dxRl9jZ0dnR2xoM0U4ZGM?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-12T00:16:27+00:00",
+      "description": "Military’s Use of Anti-Drone Technology Said to Cause El Paso Airspace Closure  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-12T01:37:28.200644+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fbe38246b8c5"
+    },
+    {
       "title": "Breakdown between Pentagon, FAA led to flight stoppage, officials say - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd25xQi1IMlB5WHMxcmFSRkpqR3RFLXdrX1M1bzRxR2dWOHFkMVpFclZuRHc0N2RjTFlTS2pBYXFEWUVSSlJ5YXNIMDIzUEhOOGdIcTNUNEdnd1lHWlBRZVJnX2NmVHVfQkM4NHVjbHBKMVMyNmFPZm8yM0Q1OFJaaENMS1c2MzBrdmNWM1JtSnFzUkVZNlNaLUtGYW1VMWxL?oc=5",
       "source": "The Washington Post",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "dcdc4f339c70"
-    },
-    {
-      "title": "3 arrested after 50 vehicles broken into on Christmas Eve in Howard County - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeV9qWTVKUldYUGZncXlTUzBVT0xiZ25tYlpHVGpoUmhaSGhDTkpzZGpkOU85d2VnWmk2bUdQOG1rcGR1Q3NkdllBU1V3VU1PYmtXNGpJazJKclJWR3NoWC03TXVMV0x4OVN6T0UzVER1cGE2LVczNTRZSWZhaXNHaEpQdFhBUDlfck9ydTNjOGVHRktWRmZPOElpSEhCd0dUOWc?oc=5",
-      "source": "CBS News",
-      "date": "2025-12-30T21:56:02+00:00",
-      "description": "3 arrested after 50 vehicles broken into on Christmas Eve in Howard County  CBS News",
-      "query": "drone arrest",
-      "detected_at": "2025-12-31T04:18:35.829459+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "24b55791d6be"
-    },
-    {
-      "title": "Police use thermal drone camera to find, arrest car break-in suspects - WBAL-TV",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxBWF83cmZwaV9zVnV2aDZRcmVSNktJYnAwdXVBa1VKUHlpV1dFTGRfLTZZeHF0X1FvdWlCSFFZMGs3TFZwa2NnbnpPX2tHdFRPdDdGWVA2VmphcVEzMkhkaXM3TFh3aGwzVWgtQVpMUkM1QXVYMnpibnRxYWJKWDJvMTNxcDl2c0RDOVJRMmQ0MEZPWUNmY1U2ekRoVkQ2dVdCUnNySnQ?oc=5",
-      "source": "WBAL-TV",
-      "date": "2025-12-31T03:20:00+00:00",
-      "description": "Police use thermal drone camera to find, arrest car break-in suspects  WBAL-TV",
-      "query": "drone arrest",
-      "detected_at": "2025-12-31T04:18:35.829459+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f10fb2ecf1fe"
-    },
-    {
-      "title": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZEZPQk5HODhvUUgtQm1KSEY1YWJEYkJ2cmxZcWF2M0l6ZDk1aDNieUZpUGZ5WnN0WlMtaGhyS2ZFckl4UlRmUkNCcUhSWnRQdllsOHNrUkNaXzF0S0R2SkxERQ?oc=5",
-      "source": "The New York Times",
-      "date": "2025-12-31T03:12:00+00:00",
-      "description": "Trump Live Updates: Venezuela Drone Strike, Oil Tanker Pursuit and Latest News  The New York Times",
-      "query": "unauthorized drone",
-      "detected_at": "2025-12-31T03:33:40.245180+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8c26bebe9efd"
     }
   ],
-  "last_updated": "2026-02-12T00:30:46.663878+00:00",
+  "last_updated": "2026-02-12T01:37:36.393425+00:00",
   "total_count": 1000
 }
