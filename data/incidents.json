@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "University of Louisiana at Monroe campus police department establishes drone detection system - louisianaradionetwork.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WXzdiSkxBa25maTAxNDFoOFd4aGV2LVI3OTFVVVUyMm1DQ29lazRUVVZMaFQ0TlRLNEZibWNjdWtycDdsR1V6OEo1czZQZ3FQTDdfa2RtWEhERDI0cDVOUA?oc=5",
+      "source": "louisianaradionetwork.com",
+      "date": "2026-02-12T16:21:34+00:00",
+      "description": "University of Louisiana at Monroe campus police department establishes drone detection system  louisianaradionetwork.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-12T16:22:47.692236+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f943f7b96bda"
+    },
+    {
+      "title": "Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmlVY2wxNXppRTVFTnNmR0RRa1FEUnJwMTFDVWpZMG54NXdSYnZ6ZC0wUGlRV0p6UHZXa2UzYjRnQjhhM2dPQy1TWXc1V1pUMTlhbjRzRTBzcUNVRkZnZHY0QlJlNlFQSnNHNUN0TF9Jc3Y5VHlsZTB0aWh4TS1IOU00SnpBQUMxc29YcVFEM0dxRl9jZ0dnR2xoM0U4ZGM?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-12T04:42:15+00:00",
+      "description": "Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-12T16:22:40.878982+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3cd8737b1483"
+    },
+    {
       "title": "Savannah Police To Spend $54K On BRINC Drones - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FamxZNE44R2RSNE5fc1NPQXRrdGY1Q2JmQ2dnOGdHSnJDVlVtOExmME44dVpDaWk5YW5BSjFEZGR5MUlEc1I4NDZWNndPeFh1clFtNkRFeGlWUm1YMjBZWG1RWUNtaE5GUkNQUllSUmo?oc=5",
       "source": "DroneXL.co",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "55ca31fc4710"
-    },
-    {
-      "title": "Police drone tracks down 3 accused of breaking into 50 vehicles on Christmas Eve in Howard County - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeV9qWTVKUldYUGZncXlTUzBVT0xiZ25tYlpHVGpoUmhaSGhDTkpzZGpkOU85d2VnWmk2bUdQOG1rcGR1Q3NkdllBU1V3VU1PYmtXNGpJazJKclJWR3NoWC03TXVMV0x4OVN6T0UzVER1cGE2LVczNTRZSWZhaXNHaEpQdFhBUDlfck9ydTNjOGVHRktWRmZPOElpSEhCd0dUOWc?oc=5",
-      "source": "CBS News",
-      "date": "2025-12-30T21:56:00+00:00",
-      "description": "Police drone tracks down 3 accused of breaking into 50 vehicles on Christmas Eve in Howard County  CBS News",
-      "query": "drone arrest",
-      "detected_at": "2025-12-31T17:05:09.363908+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "766f4099bbba"
-    },
-    {
-      "title": "Lukashenko calls Ukrainian drone attack on Putin’s residence 'barbaric terrorism' - BelTA – News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObW5rZFlDQjZBckpyOUdxSi1mZm1PRnItemxCV1l6SzNUY1dkbU04WUhSaDF3eU9nbXBhS2FDelY0SEI1QW5aUnhHcS1QVjVmVldkTHhwWWY5ajBUdi1hN3d3OTVnN1lFMzhWa092Y1U1ZUtob2VKRmNvc3pDOHVjb2gxeURIX2NCOWZkSUhxQjBLeHNBb0dIdFNzMml1ODY4WnVnVGxoMnRRcW1oUnVTMXBhOHI3T3FXYWZucUFja3U1SllNQ1E?oc=5",
-      "source": "BelTA – News",
-      "date": "2025-12-31T08:28:00+00:00",
-      "description": "Lukashenko calls Ukrainian drone attack on Putin’s residence 'barbaric terrorism'  BelTA – News",
-      "query": "drone terrorism",
-      "detected_at": "2025-12-31T16:07:04.198141+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "418f374e45e2"
     }
   ],
-  "last_updated": "2026-02-12T15:20:30.080705+00:00",
+  "last_updated": "2026-02-12T16:22:48.659234+00:00",
   "total_count": 1000
 }
