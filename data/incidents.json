@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian drone strike causes fire at refinery in Russia's Komi region, governor says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1ZyZmw5M2F3QjlnSDVjX0xfWnhYQ0dfR1RHT3R5dE54MGN2bXJKUW9oTS1zdlRTZ1JLajFYNHhUMzQ1R1M2amJQVzVnM2pxUWZOUGtZV1hRZDI2TUI3cnRqRy12a2RSN3NuNHc5QWZqNExMQ1ZnQm16VzZ4SWw0bXU0TnhPbkZpcGxsUnA2bTZKVWhPS2VZdkRYTWJsZnROUkhZRHFQT3E1MzR1N3E1djVNaTVhcHRuSERhS000WURpVTBC?oc=5",
+      "source": "Reuters",
+      "date": "2026-02-12T09:29:20+00:00",
+      "description": "Ukrainian drone strike causes fire at refinery in Russia's Komi region, governor says  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-13T23:11:22.713935+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "696e797ac434"
+    },
+    {
+      "title": "Drones and Border Cartels - Small Wars Journal",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84NjVscXpYNERrVm9wVnk3Qk1vRnR6UEFuUGNRLWx6bmpDZzQ0TzBZRERHcXA2S0ZLVmV6dEpTaUlHSlRONFJkMTZ4RFZzMWJENUVVQVRha2lla1pibXN5d09udDhua3RIRmwtbG55SGhRamRl?oc=5",
+      "source": "Small Wars Journal",
+      "date": "2026-02-13T22:27:48+00:00",
+      "description": "Drones and Border Cartels  Small Wars Journal",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-13T23:11:18.488454+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a4d55167b196"
+    },
+    {
       "title": "Proposed law could give Kansas City-area police power to intercept drones during World Cup - KCTV",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQU1vSTV6RHZ2UklTTkRqX2RYTTdlZTRJSUlSWlJ5QjVnZkt1WUcwdzVxSW5saW92cFZCM2x5bGFnSVhjZE8zM0xaWGNOc01TVXdqM0haRGhSUkdGYzVwbVNVNzZTQUI3YjFWVzhmcHJkLTJFTkVwMm8yaGw4WVU1RWF1ck1qNV9CeHFaTGJUSmUwVUQ1T2piMHFDUldGZXVrZUJPbXJnQ1hMRzMyTGNkTk5zeXk0dkFPelUxdW9B?oc=5",
       "source": "KCTV",
@@ -11975,32 +11999,8 @@
       "location": "in Afghanistan, or",
       "category": "crash",
       "id": "5c4644bfc4e8"
-    },
-    {
-      "title": "Colombia Drone Narco War Turns Cheap Tech into City Terror - LatinAmerican Post",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTZ4OGVzRU94Szd3YXhBcndVMGhHTTRPaEtlTTJURXBwM3diV1ZNRENqYWhfQjdhcWJ0TWwxeXJlci1xank1MWdFb29ZSkExQXpaOEtjdTJDMTVSTmdNYWtKNEZJdEhpZ0NRUlVld2dCWDhXWDlWTjEtU0ZKT3JKYzRfVkVlNzkyejZCb1VqWW1ycjl3dGZ6clZNSnBaNWs?oc=5",
-      "source": "LatinAmerican Post",
-      "date": "2026-01-02T16:57:24+00:00",
-      "description": "Colombia Drone Narco War Turns Cheap Tech into City Terror  LatinAmerican Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-02T17:05:50.231235+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "1fea184186c1"
-    },
-    {
-      "title": "Israel Intercepts 'False Target' After Drone Alert Near Lebanon Border: A Step Towards Tighter Security Measures - vocal.media",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX3I4NXRIbjBzbzJRYVNyVFZIZ0U3WlMtUmp4azdnUlY2SW9pMDYxUjRSQ0pXUjV4N2FHeG9qVUx3UDhtaG1ZSEpuTzJHYUhVY3A0eFBvR1JJQWZDVEc0ei11bVh0T0xXSTFwSTh5d2VMa1llYUtxLVR2U01OYVRFdF9va1IzejBjUUFGNmNmbUdOay1EaDViUk9vYzRablE3UHRabXpfTDlTOTBNbmhaellVTHdMT0hicDMtMHF6QjVNTTBIY19PbTBFY002VVo2VDVsRQ?oc=5",
-      "source": "vocal.media",
-      "date": "2026-01-02T15:27:07+00:00",
-      "description": "Israel Intercepts 'False Target' After Drone Alert Near Lebanon Border: A Step Towards Tighter Security Measures  vocal.media",
-      "query": "drone incident",
-      "detected_at": "2026-01-02T16:06:25.297084+00:00",
-      "location": "Near Lebanon Border",
-      "category": "other",
-      "id": "d3614bde938d"
     }
   ],
-  "last_updated": "2026-02-13T19:18:53.281093+00:00",
+  "last_updated": "2026-02-13T23:11:23.945942+00:00",
   "total_count": 1000
 }
