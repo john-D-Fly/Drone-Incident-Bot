@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been significant activity and concern regarding drone incidents across various regions, particularly related to cartel activity and airport disruptions. A notable incident involved Mexican cartel drones breaching U.S. airspace, which prompted a temporary closure of El Paso Airport, highlighting increasing tensions around cross-border drone operations. Numerous articles reflect on the implications of these cartel drones and call attention to the urgent need for improved drone defense systems. Additionally, the FAA lifted recent flight bans and flight restrictions in the wake of these developments. There is also a focus on growing regulatory measures in various states aimed at curbing illegal drone use, especially in response to ongoing security threats posed by drone smuggling and terrorism.",
+  "totals": {
+    "airport": 12,
+    "other": 24,
+    "terrorism": 5,
+    "security": 5,
+    "surveillance": 1,
+    "arrest": 1,
+    "smuggling": 4,
+    "drone crash": 3,
+    "drone incident": 6,
+    "total_incidents": 86,
+    "by_category": {
+      "airport": 23,
+      "arrest": 1,
+      "crash": 1,
+      "interference": 1,
+      "other": 49,
+      "security": 5,
+      "smuggling": 1,
+      "surveillance": 1,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 10,
+      "drone arrest": 2,
+      "drone crash": 5,
+      "drone illegal": 5,
+      "drone incident": 36,
+      "drone security breach": 4,
+      "drone smuggling": 12,
+      "drone terrorism": 7,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Cartel Drone Activity",
+      "rationale": "Increased incidents of cartel drones breaching the U.S. airspace, raising security concerns.",
+      "incident_ids": [
+        "8a4a6748a4b6",
+        "77dd596c883d",
+        "d9ac63024710",
+        "f6f602aaa0ac",
+        "c2b7429b95f2",
+        "cdb458f48a17",
+        "ab1520148f6c"
+      ]
+    },
+    {
+      "topic": "Airport Disruption",
+      "rationale": "Frequent drone incidents leading to flight interruptions and airport closures demonstrate vulnerabilities in aviation security.",
+      "incident_ids": [
+        "ff874491cd67",
+        "d55cab03de69",
+        "39979e6a06a2",
+        "9a36557b1285",
+        "b21c5951216b",
+        "e7b4f7130c6b",
+        "a0a5996190bb"
+      ]
+    },
+    {
+      "topic": "Regulatory Response",
+      "rationale": "Heightened discussions about state and federal regulations to combat illegal drone use highlight the evolving legal landscape.",
+      "incident_ids": [
+        "66b4c62c8f54",
+        "ff874491cd67",
+        "aaaa5794e1b6",
+        "5a4f92e069ee"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8b65077facc6",
+      "headline": "FAA issues steep fines for recent drone incidents",
+      "one_sentence": "The FAA has begun enforcement actions against several drone operators responsible for recent disruptions.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9a0a032475ad",
+      "headline": "Russian drone strikes medical vehicle in Izium",
+      "one_sentence": "In a recent attack, a Russian drone strike resulted in casualties, emphasizing the dangers of drone warfare.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b21c5951216b",
+      "headline": "Breakdown between Pentagon and FAA causes flight disruptions",
+      "one_sentence": "A miscommunication between the Pentagon and FAA led to varied flight restrictions amid increased drone activity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dfe4cfd3e9ff",
+      "headline": "FAA lifts El Paso airport flight ban after security review",
+      "one_sentence": "Following a security review, the FAA has reinstated operations at El Paso Airport after recent drone incidents.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet_length_line": "Drone incidents surge with escalating cartel activity impacting US airspace and airport operations.",
+    "linkedin_sentence": "The recent uptick in drone-related incidents, particularly involving cartel activities, raises serious security threats and regulatory challenges for aviation authorities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-13"
+}
