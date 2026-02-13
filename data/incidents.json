@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "The Winter Olympics Drone Nightmare - Mountain Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWUVRSnU4aHM4b0tLU2Z5bmkybmt4REd0TWhCdW5USWExZTk5SmVmc3ZjWHhESDNDcXVXc2VUU29CNXVGakZuN0JsOTd1RGNoQUZuTjEwUHNEZ2F5ZDlhRWVqVkU2LVl4ZE5HVEFlSEw5bVFrejhOUjNYendGdnc?oc=5",
+      "source": "Mountain Times",
+      "date": "2026-02-11T10:01:00+00:00",
+      "description": "The Winter Olympics Drone Nightmare  Mountain Times",
+      "query": "drone crash",
+      "detected_at": "2026-02-13T01:37:01.802234+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "253286013842"
+    },
+    {
+      "title": "N. Korea warns of 'terrible response' if more drone incursions from South - The Mountaineer",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONVN2UF9yNkJJUlJYUWhnckdUNXczRkRmdGVNeG9VMUFmclZGWXBmdEdnT19ucmhPRTlBVVhxb1dWc2NTb2IyRm91S3VjRUJiNlNoN0p6VFZMempaZFY0ZDN2UUdNN0JWbjd6UU85aEVpZDhiV3BUb2dtZ05pWGdIX3BTejZvZEVHb0RfWXcycFdkZHhiMUVMaWdHQk1iSndYbk1VMEZ6bmNKelB4TTdydzIyMjZJNXBFdExYMUV6Q0ZhWEVqQVNLSHFnODBlUVNKYzdDMWh5Sk5mMUFqdC1sYVpZa282LW1qWVVFV0pmcDBVYWRFOFBFMQ?oc=5",
+      "source": "The Mountaineer",
+      "date": "2026-02-12T22:42:53+00:00",
+      "description": "N. Korea warns of 'terrible response' if more drone incursions from South  The Mountaineer",
+      "query": "drone incident",
+      "detected_at": "2026-02-13T01:36:58.772006+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "124a97a0e475"
+    },
+    {
+      "title": "Kim Yo-jong Warns Harsh Response if Drone Incidents Recur - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalhXTFJIa2l6U0xMb2VmNmtHZGdpQU41NS1vUEJIb3JWMzlzUWJta1dicDVYMzRBNDNTMEowZUZodG1KU1pQcnBRaDhPaW1sMEZlYUJuSlFsLUJ5bk00X3FNcFZVWVZiS0NIczFzUnZYMzlyUEp3Zm9kSFFBSldQTkhmOUNUVGxjTHQ4Qg?oc=5",
+      "source": "조선일보",
+      "date": "2026-02-13T00:34:31+00:00",
+      "description": "Kim Yo-jong Warns Harsh Response if Drone Incidents Recur  조선일보",
+      "query": "drone incident",
+      "detected_at": "2026-02-13T01:36:58.772006+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "155d4d066add"
+    },
+    {
+      "title": "El Paso Incident Highlights Gaps in America’s Drone Defense Industry - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kU0kxaFU5cHNZNlY0Z0hGRGgzT3JUeXJtU2l1WDQ1eGJJN2hRVU9aQVlQQXhjbEhIUGFKX0lhS1hXMTNYTXo0WGxLblo5aURVdUtoZkZHMXJCa09rMTNJYlVNSThFWkhmeks2NU56SW5rZThpR3Rtb0hGQWxPUQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-12T22:33:55+00:00",
+      "description": "El Paso Incident Highlights Gaps in America’s Drone Defense Industry  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-13T01:36:58.772006+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "820b9b73b148"
+    },
+    {
       "title": "N. Korea warns of 'terrible response' if more drone incursions from South - RFI",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFZINWN2dGxoejFONV9iaWpSRy1pSlhqZFoxQV9Pa052eUh1VDhYbmhiYlk1ZmFRaUs3cWdoQUZpcVVUa003UDRGa2k3b1Y3WWdUNDRWeTFxc3MtNXFaQ2RxT05KSHYyeXNFb1JTdF9SdjhBRkZVUTYwZ2dYdmJtMlliQXZnN1VFVS1sWVBWc25yUnNaWlljMWZORGtCWklmRUx2eDZvTVFiNU9LenVKc0dIMEswTXpiLVJobQ?oc=5",
       "source": "RFI",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "b1fc64fc7c8a"
-    },
-    {
-      "title": "Law enforcement patrols Oahu for illegal fireworks violators - Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDJIUzNXNDVrQ3hESDJNV0dlMm1uSEg5NTV2OFJ3bW83YmFGMVBmb0x6bzNLSklZTWNYSDVSVHpJcDg2eWhsSmJiZ3d5TXBGUVpZWWVQUWpOUXdQNl85SUUtMktYOUo5dFNpQllneXVjNzZObjBnYWRNRlFfSHRWOGhKTFhXMnk5ZXVmT1JxQ1M1dWVqWXE3UWtYRXlxNUXSAbMBQVVfeXFMTno3QVdGNmJQZE9JRHcxSXNFaTE1cmh5X1cwNktPUzU0eHJHYS0yaWlRaGg0MkpyWDhOdVdUYmF0ZzNCMS10N29vZzREUUZUSU9yWEc2X2JXMkd5emk5RF9jQzJlYnp3MzVpcTJjeHE0aU5qVURnVkQ5d1dKd01XUnp2ek9DeVh2UVBzcDRDaXlheVlvNjFOQVE3QktYVlNnNkphUFlfMlFjNkNXbm4zQ1l1UE0?oc=5",
-      "source": "Hawaii News Now",
-      "date": "2026-01-01T09:30:00+00:00",
-      "description": "Law enforcement patrols Oahu for illegal fireworks violators  Hawaii News Now",
-      "query": "drone illegal",
-      "detected_at": "2026-01-01T18:08:13.228103+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "354a9f22cf07"
-    },
-    {
-      "title": "Unidentified Drone Crashes In Maidan Wardak Province - افغانستان اینترنشنال",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SbUd4T2dkR3pMLTQ2YmJsRms0ZTZWYnJvcWZJM096dHdsVmhHVTAxWEhpRlFDR0RHaVMtdGpiQWNKcWRWdkFCY05nbXhqRDg?oc=5",
-      "source": "افغانستان اینترنشنال",
-      "date": "2026-01-01T16:33:33+00:00",
-      "description": "Unidentified Drone Crashes In Maidan Wardak Province  افغانستان اینترنشنال",
-      "query": "drone crash",
-      "detected_at": "2026-01-01T18:08:12.598070+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b7d5840d0b2f"
-    },
-    {
-      "title": "Israeli security forces uncover drone-based weapons smuggling network in Negev - The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSU5XODc5Z1BaeGNDaDYxdVZpU0lLazRWRG1rOEtJUlNFeVZyNDRUUVVkeElObXV0QjFJOXdxRXNUMTFQclM1S0xBRUd0X2tzUDRibVVLNHdpS2FtMmlMUEtkZ3NvdlRVQzdPaWkwc2VBM2ZGblUtN2hZaTNWeVA5YWVTYWhLZnk2cWhpSWxPaURmMHlwVlZYWVViZTQ2RTZMT2tEYThueDNrTXZsUldfbg?oc=5",
-      "source": "The News Mill",
-      "date": "2026-01-01T16:31:31+00:00",
-      "description": "Israeli security forces uncover drone-based weapons smuggling network in Negev  The News Mill",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-01T17:05:54.489101+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e31a1721a951"
-    },
-    {
-      "title": "Russia accuses Ukraine of deadly drone strike on New Year revellers - newskarnataka.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzN0N3RqZkYzQkFZQ2ZSZTMyS3NDVklUY0ZKQjFBZ0IyYWp6RDV6QWg1SHRRbURJYk5pVnlxZm9OUW5pMkU4dldwZ1JlZ0UtZjUtNi1udmEyMEFLcTRveVZfalZoT241RFQtMUZPWFByZXNWNHd6a2NzOG4zNzNkbDI4WnhSUTVLenZSR1J1S3cwRmw3dHplWmRFT24xSkhCVXZCRm0yOWgtRTJ5?oc=5",
-      "source": "newskarnataka.com",
-      "date": "2026-01-01T14:55:10+00:00",
-      "description": "Russia accuses Ukraine of deadly drone strike on New Year revellers  newskarnataka.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-01T15:06:16.236781+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "efa256f0088d"
     }
   ],
-  "last_updated": "2026-02-13T00:33:03.943317+00:00",
+  "last_updated": "2026-02-13T01:37:05.287995+00:00",
   "total_count": 1000
 }
