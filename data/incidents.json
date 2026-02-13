@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Heroin Smuggling Bust via Drone: Two Arrested in J&K - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnpJM21zbHB5RGVMTmRDaDJXVXk1WTVhZWxKX1BHZEJuM3FJRjliV1lhYjZoTEdEd0o2SE5IcVBLX0VIWkVPQURJNXpZajVBTU43ZnMyUkU5N0FNb3ctb0ZqbjZYeWJzb3haazZnOWFLYXp2MnRHYlNwd3NwN082aVR1c0FldXd4dWRBa0w3M3NPMWxMODhrWUE5cnlCQWphbEZ1Q2hKaXjSAa4BQVVfeXFMUGxGZUZCaGFYYkRyOXc5Q3hTaHlScFF3aERVQWtJek01T3JxNFZWa2FiWnpad296LWY2QkhRa0xMa2c1cEkzRllPU3Mtc2x5N2hrWjNCVXg4Z1dneXZ1RmZxVWFiM1hnaVAxTElzX2otc1NkZXZlQjZXV0ltanJ1SHlrdHptWFdHYnlwUWp5TXJrVmx1d1lDWk5scnhGMlNQenZrMDkzRE9xYTJIU09R?oc=5",
+      "source": "Devdiscourse",
+      "date": "2026-02-13T17:34:05+00:00",
+      "description": "Heroin Smuggling Bust via Drone: Two Arrested in J&K  Devdiscourse",
+      "query": "drone arrest",
+      "detected_at": "2026-02-13T18:15:57.023880+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9a00e4ebf66c"
+    },
+    {
+      "title": "Kim Yo-jong Warns South Korea of Harsh Response to Drone Provocations - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnJQT1NQdU5HMUlMZ1VlRDJTQ0NCbUdNaXpjd3NVLS1Hak9LMkN5d2V2eGZuMWhXcWFwd21FLWE3cERVV24yLXlrSnh5NUlfX3JzcFFxOEQtSklFS2ZqNjFxUUhIRm1iWExmdFR2WlFrOHVnRlhtZ2RGM09MdUVxOFRSQk1pNDA4REg0UA?oc=5",
+      "source": "조선일보",
+      "date": "2026-02-13T16:01:13+00:00",
+      "description": "Kim Yo-jong Warns South Korea of Harsh Response to Drone Provocations  조선일보",
+      "query": "drone incident",
+      "detected_at": "2026-02-13T18:15:56.354971+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a99a2b26c98f"
+    },
+    {
       "title": "Illegal drone pilot fined over 'reckless' flights said he was 'egged on' by followers - Yahoo News UK",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPX2tVeWszaGNCaldwWTlONlFVU3dIQ29mSFRmYlNfYkk4YTl1ZGpDdE5Pa1lleHY0UDR3WmYydjd4aENZNGZOc3R1ekY2dlAwaW94TmYtN1V3R0p6NTdvSjB0VXR6S0RmWHVEa0JGQjZXMnZZWGt2NjJEOA?oc=5",
       "source": "Yahoo News UK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "309d5e84cfa8"
-    },
-    {
-      "title": "U.S. MQ-9 Reaper drone crashes in Afghanistan's Maidan Wardak province - İlke Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUYwVGVXWDB5RV9fZXQ2azEzcVJlX3FwVFhUZmFweVpBTjJiVk1JVFFpaHNMS0JWOXBVbUZSd2pRdVV4c0FFUXFqNFQ1dGJZamU5NUxqSzF6Y3ZKOHozcVFUUlZWV0V2SDJQVXRwa3F3NElMVklUNkdERlVJRGdGV2pWb1A4cXBnYURGQ0xMZGZBT2doUGVrd0tIdVkyaEJoRy1IbjlPa1dRQQ?oc=5",
-      "source": "İlke Haber Ajansı",
-      "date": "2026-01-02T11:19:05+00:00",
-      "description": "U.S. MQ-9 Reaper drone crashes in Afghanistan's Maidan Wardak province  İlke Haber Ajansı",
-      "query": "drone crash",
-      "detected_at": "2026-01-02T12:09:44.266255+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "fd137ba3f293"
-    },
-    {
-      "title": "Ukrainian Drones Kill 27 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTTB0dmVFZWR2SVZWam92UUVObERDSVhMOGpQeGtCeks1aFUwWnA1S2NhUDFsWDJ5enFkbnBiOHQwWUd0XzNoWklGYUFDQzJHbnpuTzhvN1JpYm45clFuNzlxUHJGV21YamlPYWZhanR0LU1CaWwwV1pmNWRCQjBlRjVJX0NzekJpZFdzM0kzcXNXdTlBSHVGY1k5eGZKLXFfZ1Nza0ZpYml4V1dpV3NBOUg4UzhLNHFDVkNObTBjUThkdkJkNDlCMHNKcw?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-01-02T06:51:00+00:00",
-      "description": "Ukrainian Drones Kill 27 in Occupied Kherson Resort Town, Pro-Kremlin Governor Says  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-02T11:05:29.947195+00:00",
-      "location": "in Occupied Kherson Resort Town, Pr",
-      "category": "other",
-      "id": "7b30822ac6ee"
     }
   ],
-  "last_updated": "2026-02-13T17:19:29.787740+00:00",
+  "last_updated": "2026-02-13T18:16:02.722742+00:00",
   "total_count": 1000
 }
