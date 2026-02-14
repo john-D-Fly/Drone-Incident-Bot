@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "IDF kills armed terrorists emerging from tunnel near Gaza Yellow Line - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HLUJZaFJnS3M5c3lPSDdhRl9jNWZweFhiUm1DVTVsWTZDUVBJMWxkNGZ2YWZPTUVmc0pjY21KQ2FFTjdUUGVCeWhmdWQxalpCY3JxTDl3ZVY4NllN?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-02-14T21:00:38+00:00",
+      "description": "IDF kills armed terrorists emerging from tunnel near Gaza Yellow Line  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-14T22:05:53.130138+00:00",
+      "location": "near Gaza Yellow Line",
+      "category": "terrorism",
+      "id": "3b12927261cc"
+    },
+    {
       "title": "Russian air attack knocks out power, heat to thousands of Ukrainians - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1V5V0Y0R3BaSVBtaXNxOHJOekpNLUZFZko1ZDk4SG00ekZKWjVyTkkzS280MEpIWGhQWXRZNmxjWmRuV1pYNi1LbVZzZFFhVUtTY19tU05mQlBVUXl6ZkJ0cElGUHd2ZTBuMXFtN3FlVmV6N0hkWFNMYUxKeGhtQTdOSVYwTE83ek1nMFhEVTQ5UFRWT1RJV29XbDRSYjg4cEd4UHNKTTJzc1o2dDBCRDJZMnl4a252VG9wNjlMNlg?oc=5",
       "source": "Reuters",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "f40bd00d5cd1"
-    },
-    {
-      "title": "Drone-Aided Apprehension in Northern Colorado: Six Arrested After - Hoodline",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPaEV4UUFZYkNrUVJKRVRhOGRURTZDWlQ4WmZ1RDBTR1VUY0loRC1VN2llcW80anB6NEg5LW9sVUE3U2MzVVRtS3h0UW1qRXE1ZHR5T3E3a3VJWUdNY2hET1NhSUZVLXI3Zk13Qm5lajVwcHkxYnQ1TDB4YWlvbTkyZlYyODNyWS1LOWNaNl9yTEFhUXAzeTRzdURNN0Q2NXFLSnM4dDRHaTNSVVZmSGNKdU1pR2I5a3JBd21YVHVRclRWaWtMMHJEQjV6T2RpZWhyOEVPS2lROHlhNmRxb0ZuWWtsQ205Xzh0NDRISHpPb3hpdXBsUTZ6RC1YelJTMFFnTXZZRFVDTXhac05RdUFiUQ?oc=5",
-      "source": "Hoodline",
-      "date": "2026-01-04T20:21:59+00:00",
-      "description": "Drone-Aided Apprehension in Northern Colorado: Six Arrested After  Hoodline",
-      "query": "drone arrest",
-      "detected_at": "2026-01-04T21:05:03.989949+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d53b5c2c99af"
     }
   ],
-  "last_updated": "2026-02-14T20:06:57.568368+00:00",
+  "last_updated": "2026-02-14T22:05:54.302685+00:00",
   "total_count": 1000
 }
