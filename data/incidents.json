@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "You Should Never Fly A Drone Anywhere Near A Military Base For One Big Reason - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81UmRBQ01Hd2tQb1JJVDJTR1hQQ0JObGg1YWg2cVQzSk94TFMzMnk5dktIOVJzSGl3RnUyR1ZUVElxWUNNZW5md3BmREpVSnhvQVd1RmZXWGZXYW5ac19JMVdmNzBEZWFuSVloVUwyYXJENFdLQVE?oc=5",
+      "source": "bgr.com",
+      "date": "2026-02-14T14:17:00+00:00",
+      "description": "You Should Never Fly A Drone Anywhere Near A Military Base For One Big Reason  bgr.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-14T15:07:55.344064+00:00",
+      "location": "Near A Military Base For One Big Reason",
+      "category": "other",
+      "id": "be3190c4fe34"
+    },
+    {
+      "title": "Drone Strikes Kill 2 in Ukraine and Russia Ahead of US-Brokered Peace Talks in Geneva - Military.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlR6aUV5a1dhRDJlYWtKbmNxNmRXbl9lT0RKeS1RbXBWbl9lMUlLa3JlUUxsWV9DeXQ5dGZWMlZ1ZTBqU2ROb0hTbXE4bWRJQlZsNjZaSGtDSTIxRkpUMWExajhVNGF0dTVZQVd1RW9hbG1sZ0tuUTlMLXZLOWdVSEt6bTdBWHljX0FkdDFlS1VFcGM5ZXN0bnJWblAwZm1sMEtzQVBIN2hzLTFnRGx0eUhQa00tZWp3RjJoQUpqc2tPaGpOa3VpOHFaQQ?oc=5",
+      "source": "Military.com",
+      "date": "2026-02-14T14:10:09+00:00",
+      "description": "Drone Strikes Kill 2 in Ukraine and Russia Ahead of US-Brokered Peace Talks in Geneva  Military.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-14T15:07:54.816036+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "785049088689"
+    },
+    {
       "title": "IDF intercepts weapons smuggling drone - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HLUJZaFJnS3M5c3lPSDdhRl9jNWZweFhiUm1DVTVsWTZDUVBJMWxkNGZ2YWZPTUVmc0pjY21KQ2FFTjdUUGVCeWhmdWQxalpCY3JxTDl3ZVY4NllN?oc=5",
       "source": "The Jerusalem Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fd9ba0cccea9"
-    },
-    {
-      "title": "Oklahoma Prisons Step Up Drone Defenses After 6,000 Phones Smuggled In - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EQnlJbG84c3pZTlJpVi1PUTBUQUZ3TnB1ZjJtTW1BVEtlOExpOHpNbkotV3g3c2VsbVhIdzJzU2VtZzN1WWRJNHpuZTIwV3ozWGoyT2NNaWpMbVhsVXJEVlFNeTBBZ2ZiNWd1UzdEWQ?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-01-03T08:07:24+00:00",
-      "description": "Oklahoma Prisons Step Up Drone Defenses After 6,000 Phones Smuggled In  DroneXL.co",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-03T09:05:59.709982+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "39b21d9c0b52"
-    },
-    {
-      "title": "Missile Fragments Add To Evidence MQ-9 Reaper Drone Carried Out Venezuela Strike - The War Zone",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUZYMGlMRDNOMUpMSl9RMXBpMl9IT0VGYzRLc2c1ako5LTdsNmhpT25EZWJxdzhTYVYzSmlzbzdGU1dFcEFWZDVnZW5OZDJhTkdsTDBqbGd2UjU1TWdhaG40d054WENyeHAwMU8tYnRocnZpQ0pRUTYta1I3NlJfUkhkdzNOeEFMZ2lHQjBsS2thQ295d3pFLWJzMWwxUzllNmp1TFY0Yw?oc=5",
-      "source": "The War Zone",
-      "date": "2026-01-02T20:03:30+00:00",
-      "description": "Missile Fragments Add To Evidence MQ-9 Reaper Drone Carried Out Venezuela Strike  The War Zone",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-03T07:05:54.921666+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2a57d649cb6e"
     }
   ],
-  "last_updated": "2026-02-14T13:20:03.431514+00:00",
+  "last_updated": "2026-02-14T15:07:56.033607+00:00",
   "total_count": 1000
 }
