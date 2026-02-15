@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Amazon Drone Failed Miserably And Crashed Into An Apartment Building - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MR1lVa19WS0VJLU0wMmFSLUlfTkhsZG9nOXFaSUwxSWgtNU8yRG5HaTIwcjlRMFQwd1hKYTgyMHJZZ092VHVoU2p2S28tSkhBbWxEZ1JVa2dTcVRtUkFHdEplX1YxZGxMMFM2RWZqZFBHaUktQ2wwZ2hZbWo?oc=5",
+      "source": "bgr.com",
+      "date": "2026-02-15T20:17:00+00:00",
+      "description": "Amazon Drone Failed Miserably And Crashed Into An Apartment Building  bgr.com",
+      "query": "drone incident",
+      "detected_at": "2026-02-15T21:07:41.959856+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "829a640464df"
+    },
+    {
       "title": "Ukraine war latest: Moscow and Kyiv trade strikes ahead of peace talks - The Independent",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmdPRWdBdnB2aHk3dFJpRFkxY2xhdGRnUHpwM2NIU08tWV95VGo0N3hPVXd2T3FBUlp2eF9CY1F5WEFpekNtamstb1h4NjRwRWlla3BGS1VrMXR3ZDZFLWZGMDdsQ2RTeW45UUE0Y2gzWUJjeDZNVkJ1VFBNa0Ffc2kwcHdWdEF3TjZBd1RyRUV2RlE0czFhYUN5YjhEZmVfVnE5YkNuUkVoZ19JMmxCU2xqdURTODBlNWtzLWZTXzJGZw?oc=5",
       "source": "The Independent",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3de7128157b2"
-    },
-    {
-      "title": "30-pound drone carrying $8K, contraband intercepted near Ga. prison - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1JCZVAyb0VnUXJpWFJDcTFsMy1iRkpYaGltbWo3NndQZXNkTWN4NmdrT1FmVmgxbjJkc1IyZjJ4Z01vc1AwRXFLb0NzMEtzOWVqdEJFM0tqdXNLbnNRSS1KRlhqejZDTjAxTW9rU29TODRfQXNvTUxnZHZBZGMtNW5iVHZUVnNfd1VQc0FTTXcteE82VXFNZXFHdnQzM0x5eDJCT1pOSQ?oc=5",
-      "source": "Corrections1",
-      "date": "2026-01-05T18:56:16+00:00",
-      "description": "30-pound drone carrying $8K, contraband intercepted near Ga. prison  Corrections1",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-05T22:05:42.684016+00:00",
-      "location": "near Ga",
-      "category": "smuggling",
-      "id": "2a2f2d26914f"
     }
   ],
-  "last_updated": "2026-02-15T20:06:57.779619+00:00",
+  "last_updated": "2026-02-15T21:07:47.715904+00:00",
   "total_count": 1000
 }
