@@ -1,0 +1,137 @@
+{
+  "narrative_summary": "In the last 48 hours, various drone incidents have been noted, revealing significant themes in smuggling, terrorism, and interference. Notably, several cases of drone smuggling were reported, particularly around borders and jails, with interceptions of weapons and drugs by authorities. Notable police operations using drones led to multiple arrests related to heroin smuggling. Additionally, incidents involving drone terrorism were highlighted, including strikes that resulted in casualties in conflict zones. The emergence of new drone regulations in the UK and counter-drone technologies denote evolving policies in aviation safety and national security. Interference with airspace, including airport disruptions, remains a pressing concern due to unauthorized drone activity near sensitive areas.",
+  "totals": {
+    "interference": 2,
+    "airport": 3,
+    "smuggling": 8,
+    "terrorism": 5,
+    "other": 11,
+    "arrest": 3,
+    "illegal": 2,
+    "crash": 2,
+    "total_incidents": 41,
+    "by_category": {
+      "airport": 3,
+      "arrest": 1,
+      "crash": 1,
+      "interference": 1,
+      "other": 24,
+      "smuggling": 10,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 2,
+      "drone illegal": 2,
+      "drone incident": 7,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 10,
+      "drone terrorism": 10,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "smuggling",
+      "rationale": "Multiple incidents involved drone-related smuggling activities, including heroin and weapon transports.",
+      "incident_ids": [
+        "7d4488356cb3",
+        "1e94f7ecd6f7",
+        "2ee8ded5eef7",
+        "06fc7270098b",
+        "cd296efa8b81",
+        "8c7f2d57c4cd",
+        "9a00e4ebf66c",
+        "aaeddcea0ecc"
+      ]
+    },
+    {
+      "topic": "terrorism",
+      "rationale": "Incidents related to drone strikes and violence associated with armed groups.",
+      "incident_ids": [
+        "3b12927261cc",
+        "7c7b67fef3f4",
+        "de82e6f7bb4e",
+        "dc597a71e464",
+        "74ec70e57af2"
+      ]
+    },
+    {
+      "topic": "arrests",
+      "rationale": "Numerous incidents of police utilizing drones leading to arrests for various offenses.",
+      "incident_ids": [
+        "d55886cfebc6",
+        "1f6ce3e8c6ea",
+        "8590491a1733"
+      ]
+    },
+    {
+      "topic": "interference",
+      "rationale": "Occurrences related to unauthorized drone flights affecting operations, especially near airports.",
+      "incident_ids": [
+        "f2cd8dcc3a07",
+        "1a0d3dd140c1",
+        "mexican-cartel-drones-breach-us-airspace"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "7d4488356cb3",
+      "headline": "Police catch weapon smuggler in days before Ramadan",
+      "one_sentence": "Authorities apprehended an individual involved in weapon smuggling in anticipation of Ramadan, showcasing ongoing concerns over illegal arms transport.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3b12927261cc",
+      "headline": "IDF kills armed terrorists emerging from tunnel near Gaza Yellow Line",
+      "one_sentence": "In a significant escalation, IDF forces engaged and neutralized armed individuals suspected of terrorism near the Gaza border.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "06fc7270098b",
+      "headline": "IDF intercepts weapons smuggling drone",
+      "one_sentence": "Israeli forces successfully intercepted a drone suspected of smuggling weapons, highlighting ongoing security challenges.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "f2cd8dcc3a07",
+      "headline": "Medical Helicopter Disruption Underscores Demand for Counter-Drone Technologies",
+      "one_sentence": "The disruption of medical helicopter operations due to unauthorized drone usage emphasizes the growing need for counter-drone technologies in aviation.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    },
+    {
+      "id": "1e94f7ecd6f7",
+      "headline": "Under the haze: IDF failed to foil half of drone smuggling attempts on Egypt border",
+      "one_sentence": "Despite efforts, Israeli forces have reportedly failed to intercept a significant number of drone smuggling attempts from Egypt, exposing vulnerabilities.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight the ongoing challenges of smuggling, terrorism, and airspace interference across the globe.",
+    "linkedin": "In the past 48 hours, the landscape of drone-related incidents has revealed critical themes in smuggling and national security, prompting discussions on new technologies and regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-15"
+}
