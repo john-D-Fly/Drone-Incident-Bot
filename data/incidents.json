@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone prompts contraband arrest at Ventress Correctional Facility - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm5lTVVTU3JwaVNtNW5uNzdqdkR5WjZ0SEhGbVZIX1NuOFJ5TnNxdWlld0RxTTVGWkJEUU9HcVRaZ3Boa2pyUGRHemlDamg2ODJJNXJkLXVLcnVScTNIU0NvMV9kWnM3dk0wT3hGTy14YXNuSHpwdmFUMFl1TUZJRU9QTHNUU2hFRkk1ag?oc=5",
+      "source": "WVTM",
+      "date": "2026-02-16T18:50:00+00:00",
+      "description": "Drone prompts contraband arrest at Ventress Correctional Facility  WVTM",
+      "query": "drone arrest",
+      "detected_at": "2026-02-16T19:15:57.043411+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ff8fbf03994b"
+    },
+    {
       "title": "Concerns grow as Mexican cartels embrace drones for drug smuggling, attacks on rivals - Tucson Sentinel",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPZlkzUGVuOVUxVVdiTFNodFNrZHJCcmZBeV9fRDA5WUdYYU5tdUdmZUZSLVk5VWl2ZkpZNGEwSkJWdVh1X0pxZFpqdkVET0R1ZFFOdmhOWU9ESE1VbUFGQjZyT1paclllN18xU0o1ZGRPaWM?oc=5",
       "source": "Tucson Sentinel",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "353a8b676072"
-    },
-    {
-      "title": "IDF intercepts weapon-smuggling drone crossing western border - Photo - Caliber.Az",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlc1UC16U21KNnZiQlV2N0FSVERJUnpSeEJOVERWcnRQZFR5N3pyWklCSnRwRThCV2dHUXAyNy1iS0R4MEhNRmRPX2pMNFZ0amlYeXUyaWgzWlI2MDBzNUF3a3dOckZPRHhZT3dUVmktOC1BeVlRTFZQcWEzdFpYaWM4Sm9LLUNfMEJVekRIWlRmdw?oc=5",
-      "source": "Caliber.Az",
-      "date": "2026-01-05T10:34:04+00:00",
-      "description": "IDF intercepts weapon-smuggling drone crossing western border - Photo  Caliber.Az",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-06T06:08:50.758199+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "21bffbae135e"
     }
   ],
-  "last_updated": "2026-02-16T18:14:56.390352+00:00",
+  "last_updated": "2026-02-16T19:16:02.566621+00:00",
   "total_count": 1000
 }
