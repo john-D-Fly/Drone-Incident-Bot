@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone incidents have been notably diverse, with significant activities reported across various regions. In the context of the ongoing Ukraine-Russia conflict, multiple drone strikes aimed at Black Sea ports were reported, suggesting a strategic evolution in warfare tactics. Concurrently, in North America, concerns regarding Mexican cartels utilizing drones for drug smuggling are escalating, highlighting a growing trend of drone use in illicit activities. Incidents of contraband arrests at correctional facilities due to drone drops also emphasize the security risks that these unmanned systems pose. Policy discussions surrounding drone regulations have been prominent, with state police receiving funding to enhance their detection capabilities against illegal drone operations. This mixed landscape underscores the critical need for effective drone management strategies amid rising security threats.",
+  "totals": {
+    "other": 8,
+    "smuggling": 4,
+    "arrest": 3,
+    "airport": 1,
+    "crash": 2,
+    "drone terrorism": 7,
+    "total_incidents": 24,
+    "by_category": {
+      "airport": 1,
+      "arrest": 1,
+      "crash": 2,
+      "other": 14,
+      "smuggling": 6
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 1,
+      "drone illegal": 1,
+      "drone incident": 2,
+      "drone prison": 1,
+      "drone smuggling": 3,
+      "drone terrorism": 11,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Ukraine-Russia Drone Strikes",
+      "rationale": "Increased drone attacks in the Ukraine-Russia conflict hint at a shift in military strategy and escalating hostilities.",
+      "incident_ids": [
+        "916beca1791f",
+        "01c9fe843dfb",
+        "564419572455",
+        "70f10bd9e9b7",
+        "4371e6d6249a",
+        "cea744cb4be2",
+        "57f70a5d1689",
+        "82792e3f3ed9"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Trends",
+      "rationale": "Rising concerns about cartels employing drones for drug trafficking underline the growing intersection of technology and crime.",
+      "incident_ids": [
+        "8369854b9116",
+        "b13da642d392",
+        "2895cebba611"
+      ]
+    },
+    {
+      "topic": "Correctional Facility Contraband",
+      "rationale": "Several incidents of drone interference at correctional facilities demonstrate ongoing challenges in securing prisons from external threats.",
+      "incident_ids": [
+        "436306de1efe",
+        "ff8fbf03994b",
+        "4b10019634ae"
+      ]
+    },
+    {
+      "topic": "Policy and Regulation Developments",
+      "rationale": "New funding for drone detection and regulatory initiatives indicates a proactive approach towards managing drone-related threats.",
+      "incident_ids": [
+        "9759e8261bb1",
+        "aa9cf1764202"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "916beca1791f",
+      "headline": "Russian Military Reports Largest Wave of Ukrainian Drone Attacks Since Early January",
+      "one_sentence": "The Russian military has observed a significant uptick in Ukrainian drone attacks, the most substantial since January.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8369854b9116",
+      "headline": "Concerns grow as Mexican cartels embrace drones for drug smuggling, attacks on rivals",
+      "one_sentence": "Mexican drug cartels are increasingly using drones for smuggling and assaults on competitors, raising alarm among authorities.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "436306de1efe",
+      "headline": "Drone prompts contraband arrest at Ventress Correctional Facility",
+      "one_sentence": "A drone incident led to a contraband arrest at a correctional facility, highlighting ongoing security vulnerabilities.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9759e8261bb1",
+      "headline": "State police awarded millions to detect and mitigate illegal drone use",
+      "one_sentence": "State police have secured significant funding aimed at improving detection and mitigation of illegal drone operations.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "cd0071c3c0cd",
+      "headline": "Taylor police drone crashes, department says online video is fake",
+      "one_sentence": "A drone operated by the Taylor police crashed, leading to claims that an online video depicting the crash is fake.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "twitter": "Rising drone incidents over the last 48 hours, from Ukraine-Russia clashes to cartel smuggling. #DroneThreat",
+    "linkedin": "Diversity in recent drone incidents highlights escalating security concerns, from military tactics in Ukraine to illicit activities by drug cartels."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-17"
+}
