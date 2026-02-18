@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Minister Chung Pushes 9·19 Agreement Restoration, No-Flight Zones - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm9GSkhTVjBlYlAtZWQ1NnpiaDh6X0IwakYxUjl2VlFzelE5SHJEMVotZTBPSVNqTFFXcGlHUExKc0lEYXZQcmlxdEFSNDk4VzE3LVBIUHdnTzg1bEFMLXlXY1ZCRTdFMkc0X21xamlIN2NuQTlHd3VRNGl4eTBqTlBWREZFbkZj?oc=5",
+      "source": "조선일보",
+      "date": "2026-02-18T08:43:23+00:00",
+      "description": "Minister Chung Pushes 9·19 Agreement Restoration, No-Flight Zones  조선일보",
+      "query": "drone incident",
+      "detected_at": "2026-02-18T09:19:36.749958+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f1c3e425e9a3"
+    },
+    {
       "title": "Unification Minister Proposes Restoring 9.19 No-Fly Zones to Prevent Clashes - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm9GSkhTVjBlYlAtZWQ1NnpiaDh6X0IwakYxUjl2VlFzelE5SHJEMVotZTBPSVNqTFFXcGlHUExKc0lEYXZQcmlxdEFSNDk4VzE3LVBIUHdnTzg1bEFMLXlXY1ZCRTdFMkc0X21xamlIN2NuQTlHd3VRNGl4eTBqTlBWREZFbkZj?oc=5",
       "source": "조선일보",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "5297bcb0f818"
-    },
-    {
-      "title": "A net launcher that snags kamikaze and smuggling drones over key sites - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFBBSmxyRi0wRnRvdnp1aHZ0dmdyTkVmN3R1NHVKUWRna3gtUUVzQzhDbXIzZlVodXRpbG04ejlubjY3cGM4el9qVUZiTFFiUnhfYldCSTFkTDdrcmh6MFNSQVBsVDZQQXBWU3hqbHdUQ1BIbGNaSG9rSXNvaWRLVG9xMF9oQi04UkgyV3ZldlhtSTZBWko0Q21ycC1TbDc3ZGpES1ctdlBoa2pra3E4?oc=5",
-      "source": "Stock Titan",
-      "date": "2026-01-08T14:05:00+00:00",
-      "description": "A net launcher that snags kamikaze and smuggling drones over key sites  Stock Titan",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-08T15:07:22.248350+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "47a70fb54b48"
     }
   ],
-  "last_updated": "2026-02-18T08:16:19.391465+00:00",
+  "last_updated": "2026-02-18T09:19:42.790393+00:00",
   "total_count": 1000
 }
