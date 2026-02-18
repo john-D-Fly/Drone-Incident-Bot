@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Mexico prepares for possible drone threats during the World Cup - France 24",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVZFMFRMVFBXTHRtNTFmLUNKNWdzZ0x1SlFoUXdiOU1pcXJDbHhhbHloN1BVSFB3NENueVZUUnRqcnpqdDJvTmw2QkpBLWVhSTBtN0VDUnNVNXRrMks0bGt6dFBaZFJ5elRTS1ZXODJmOWhETlFrVV81SEJLSW12ZHlhMTZnNHpIbVl5a2ZFX1BwUHFqRFllQU5uN2liRDVLdDB0bzVUN0dkWExUY2Vv?oc=5",
+      "source": "France 24",
+      "date": "2026-02-18T01:13:11+00:00",
+      "description": "Mexico prepares for possible drone threats during the World Cup  France 24",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-18T01:36:52.954383+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "c3817d3a4a4d"
+    },
+    {
       "title": "DJI ROMO Security Breach: Researcher Remotely Accessed 7,000 Home Cameras — And One Hole Remains - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42ZXNGaE9Fb1BfRFhLSEZCYnczdzRNeWc4SnFuZTdZRnZwTlI1SGNKdUhxTFZCd1c2aWlxYm5PY1diZXBFUEtGcEphTVhFY0dBOG5JSmRLUVdaNnNadkN0dHNSdDhOZw?oc=5",
       "source": "DroneXL.co",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "ade8c627b890"
-    },
-    {
-      "title": "Proposed Bill Calls For FAA To Study Drone Incursions During Wildfires - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHV6TV9EdjgtVU1ISGJuZUxnYWpZTlRibXE4bVIxckpjbXRHWlEya0c2aldwRzlPQVp3Q2E3NDRSMXhVRFVVb0s0eVpjMHNSYjlGVGt3Rl9XakwxaTJUdll2d2xmTXBlTW5SRllQZjBwTFF4c1lla0l0NWtsdWdpSnBva0RocTNWMG8zWUZpUEQtdHhrSl9ySm51UUl1NEFoWnlFSF8yWHozaDh50gGsAUFVX3lxTE1kdXpNX0R2OC1VTUhIYm5lTGdhallOVGJtcThtUjFySmNtdEdaUTJrRzZqV3BHOU9BWndDYTc0NFIxeFVEVVVvSzR5WmMwc1JiOUZUa3dGX1dqTDFpMlR2WXZ3bGZNcGVNblJGWVBmMHBMUXhzWWVrSXQ1a2x1Z2lKcG9rRGhxM1YwbzNZRmlQRC10eGtKX3JKbnVRSXU0QWhaeUVIXzJYejNoOHk?oc=5",
-      "source": "Dronelife",
-      "date": "2026-01-07T14:36:57+00:00",
-      "description": "Proposed Bill Calls For FAA To Study Drone Incursions During Wildfires  Dronelife",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-07T19:06:50.794298+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e7c2145d300a"
     }
   ],
-  "last_updated": "2026-02-18T00:31:32.956906+00:00",
+  "last_updated": "2026-02-18T01:36:53.552666+00:00",
   "total_count": 1000
 }
