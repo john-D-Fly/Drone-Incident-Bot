@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Prosecutors pursue charges after drone flies into packed Lumen Field during Seahawks parade - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqcXpiX3h5QzlueHB6WmNnbTJjT1JxeWEwZVc5clVqTjQta0llc3FBYlpPZTg1UE1kRDBLZXQ1bUZDMmRXNU9GelBTWE5nTzdQRjN4cjNOR0g5eDZMZ3VuS3BjYzhPVHI2cGI0VHVqZmpCdE51SG5jRkVNZw?oc=5",
+      "source": "MyNorthwest.com",
+      "date": "2026-02-18T16:25:56+00:00",
+      "description": "Prosecutors pursue charges after drone flies into packed Lumen Field during Seahawks parade  MyNorthwest.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-18T17:25:46.916807+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "3fbcf0afa3e5"
+    },
+    {
+      "title": "EXCLUSIVE: Unidentified drone downed over Lebanon airbase, US forces block authorities from crash site - thecradle.co",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaG9jWDRHN3htNkNVb2xqWmQ2akQ5MFJrZ3V3alVDbWhaM2l5c2JXVk14eUE2X0pRZ2ZjNXpIaWpPQkcxa0JTR3dtYWtJZUE?oc=5",
+      "source": "thecradle.co",
+      "date": "2026-02-18T17:18:21+00:00",
+      "description": "EXCLUSIVE: Unidentified drone downed over Lebanon airbase, US forces block authorities from crash site  thecradle.co",
+      "query": "drone crash",
+      "detected_at": "2026-02-18T17:25:44.329298+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7fe5cbef2bc4"
+    },
+    {
       "title": "Seoul pushes to restore no-fly zone after alleged drone flights into North Korea - NK News",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fWG5JNEFXU1VNSEQzS3ZkdkJGdmR3M2VJS3NDNTc2dEJiVlk3ZEtIckNWTTZ4eFJWUFc0eDB3eVBJYjk5Y2o0?oc=5",
       "source": "NK News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "7ee35a2dd378"
-    },
-    {
-      "title": "ParaZero DefendAir Proves 100% Effective in Live Field Demonstrations Against FPV Kamikaze and DJI FlyCart Smuggling Drones - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3ExQ0VBcTk3X1JLekZ2S0RBTExSM1ZpakdlOTNodU5Mb1BYUFk0d3pkb1BvWkN6T2ZjaUtQcEZsUjZXZl9qRk5mTWlEd1RQS1dQbVJkUWRCWllvcHY5czl2dWIwX1R1emwzWHR3MGRicmFFZThvVkQ3MEcwTUNvRkRnNzJxRTFwbUx1VDJn?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-01-08T14:05:00+00:00",
-      "description": "ParaZero DefendAir Proves 100% Effective in Live Field Demonstrations Against FPV Kamikaze and DJI FlyCart Smuggling Drones  Yahoo Finance",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-09T07:09:10.934933+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "15ad8855a18d"
-    },
-    {
-      "title": "Child hit by Kent Police drone after cable 'not seen' by pilot - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPS1M4UGg1bm1mYnRRRlRNcnozcmxLcjMteHJURHVfQkJmYlM0b2wwbGt0d0VpaXF0RE5Rcm5vZXdzVW94OFI3dHNMU1hQSUxuaWw4OUR6VjhVQdIBX0FVX3lxTE5ZbEZBQlFhVjluZnZwdkRVWTZpSlJNMFE0VjJLTTB2bWlHRy1uNlItczV2SEItYXNadnNqLVFpSFdublBxTlNKT1ZtU3V1XzhYSngwTDZaQ1JxTE5TT25R?oc=5",
-      "source": "BBC",
-      "date": "2026-01-09T06:12:24+00:00",
-      "description": "Child hit by Kent Police drone after cable 'not seen' by pilot  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-01-09T07:09:09.753673+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ce2618683f9d"
     }
   ],
-  "last_updated": "2026-02-18T15:20:39.769314+00:00",
+  "last_updated": "2026-02-18T17:25:47.525441+00:00",
   "total_count": 1000
 }
