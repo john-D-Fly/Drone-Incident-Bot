@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Seoul pushes to restore no-fly zone after alleged drone flights into North Korea - NK News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fWG5JNEFXU1VNSEQzS3ZkdkJGdmR3M2VJS3NDNTc2dEJiVlk3ZEtIckNWTTZ4eFJWUFc0eDB3eVBJYjk5Y2o0?oc=5",
+      "source": "NK News",
+      "date": "2026-02-18T08:24:20+00:00",
+      "description": "Seoul pushes to restore no-fly zone after alleged drone flights into North Korea  NK News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-18T15:20:39.172352+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "09fde87618fb"
+    },
+    {
+      "title": "DJI Flip: The no-stress drone is now cheaper - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZUNnUTdlb3JnNVZXb3FrcDBfZG5qbjJGc0ZFVzZ4Tm1wbVc1ZDRZQnl0VXJYLW43WV9TQ1hYcGFzb2lobGxMclkwVFVLbmttSHJQWkhLbExjN1NxSVNPdVgxQ3llaGJQQWtyWA?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-02-18T15:00:00+00:00",
+      "description": "DJI Flip: The no-stress drone is now cheaper  DroneDJ",
+      "query": "drone crash",
+      "detected_at": "2026-02-18T15:20:36.929554+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5d80759df399"
+    },
+    {
       "title": "Police use drone to track, arrest Las Vegas car thief - KLAS 8 News Now",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU5MUThrTGhQb0o5V0h4b2YwLUZGVllpem1wM1MwWVZZSE5tWXJNUGU2S0ZHQW9pcWRaejJPUU13bHNXakQwMjl0emMwSmxudFIzVFc4bmRFNnQ3QzdxbmFwbHpaMHRxVFdfaU9ySmkydlUydFhoM0tsUW5kVHNsajhyZDJ6eU1FZTVWN3h4NVN3WGVFTXhkVWFHQmpBOFHSAZ8BQVVfeXFMTkFOTFE4a0xoUG9KOVdIeG9mMC1GRlZZaXptcDNTMFlWWUhObVlyTVBlNktGR0FvaXFkWnoyT1FNd2xzV2pEMDI5dHpjMEpsbnRSM1RXOG5kRTZ0N0M3cW5hcGx6WjB0cVRXX2lPckppMnZVMnRYaDNLbFFuZFRzbGo4cmQyenlNRWU1Vjd4eDVTd1hlRU14ZFVhR0JqQThR?oc=5",
       "source": "KLAS 8 News Now",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ce2618683f9d"
-    },
-    {
-      "title": "Man dies after being hit head-on in Garden City crash - WSAV-TV",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSVRhSzM0dndFU2NKNl8xZV9lcnpXMDFoUjUzUXI1NERNTmFYb3VyNXN4MWdlOThGbXE5cnJ1X080Q21hV3ZWX1RyMUlacWVjcUFnaEhJWUpDbXBhSC1KejYyakFCYWdsZktLRENWZVZyLTQwUGhBQVlPM1pXZktmS1NrWUQ1QmM5bWxyQTNtTTMwQdIBlwFBVV95cUxOS2lkTHBlZmdyRWs4T0tBMzRtUlhHekZyN0dxMUx2YUFDNV8wa2VEaVlQeEhHYWVGd21kWE1VNnhsakd2NDMwM1V2WHFKMjBpLXFJdzI5YkcxclRuM0c3YUYydXVLQThRcXJuNFhJYzE3c2xFOVVoMkEwdElMZ2lGS3IyNFhYNzhxRmdGbXA0d2pIV2xmNUxJ?oc=5",
-      "source": "WSAV-TV",
-      "date": "2026-01-08T23:35:11+00:00",
-      "description": "Man dies after being hit head-on in Garden City crash  WSAV-TV",
-      "query": "drone crash",
-      "detected_at": "2026-01-09T03:34:00.966733+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "eebf3160c7d6"
-    },
-    {
-      "title": "Police use drone during investigation in East Davenport - KWQC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGNtcGRiX2FPSF93bWZIVzR5TGowTmFDVktYUUtERUVmZHBubWJndmpiMDVEbjF0THROaGRjcnktd282cy1NUkhnWlVfOFNickk4dTZHOGw5c1RTaWxQYjd5VU1EWDl2S0tTMzEySFNhSDd2M2s0SHhPSU5aMEFiNnFqYjdLRHZTYk80RVlR0gGiAUFVX3lxTE4xVDlhWFVNLTZWb1U0M01HYTVQOGx2SjBkY19IT3VqVFg2TGY3UGVWUzRpQWFiSFZIOGRjTzhYZXBmd0pxMm9XODJMWkwySVA5OEZ6NTdMLWNhbDB5ZHpwRUk3aFludUJ1RkhUTWViQ2VXRXVHRnNwRWM5Vy1uSXJBT2RkaXFLVFBSNmlZX1NyV1N0X1ByOEdiLVlRWEZ3X0RqZw?oc=5",
-      "source": "KWQC",
-      "date": "2026-01-07T13:42:00+00:00",
-      "description": "Police use drone during investigation in East Davenport  KWQC",
-      "query": "drone incident",
-      "detected_at": "2026-01-09T01:34:29.755483+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b485260e2ba2"
     }
   ],
-  "last_updated": "2026-02-18T14:20:40.936997+00:00",
+  "last_updated": "2026-02-18T15:20:39.769314+00:00",
   "total_count": 1000
 }
