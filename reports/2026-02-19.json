@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple incidents involving drones have emerged across various regions. Reports reveal that prisons are struggling to counter the influx of drones delivering contraband, notably drugs, posing significant challenges to security. In Lebanon, US personnel responded assertively to a drone crash at a military base, highlighting geopolitical tensions. In Sudan, drone strikes have raised alarms for civilians with reports of civilian casualties and compromised humanitarian aid. South Korea is revisiting its no-fly zones amid concerns over civilian drone incursions into North Korean airspace as countermeasures to unauthorized drone activities intensify globally, especially concerning threats from drug cartels. This surge emphasizes the evolving role of drones in smuggling, security breaches, and the enforcement of international borders.",
+  "totals": {
+    "smuggling": 7,
+    "crash": 5,
+    "other": 28,
+    "arrest": 15,
+    "security": 5,
+    "terrorism": 3,
+    "airport": 1,
+    "total_incidents": 60,
+    "by_category": {
+      "airport": 2,
+      "arrest": 16,
+      "crash": 4,
+      "interference": 1,
+      "other": 24,
+      "security": 3,
+      "smuggling": 7,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 18,
+      "drone crash": 3,
+      "drone illegal": 2,
+      "drone incident": 10,
+      "drone prison": 2,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 4,
+      "unauthorized drone": 14
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Smuggling",
+      "rationale": "Increased incidents of drones delivering contraband to prisons highlight a growing security crisis.",
+      "incident_ids": [
+        "bc229f8f3d7d",
+        "2b5552208b8c"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Rising awareness of unauthorized drone incursions into sensitive areas and public events emphasizes the need for enhanced security measures.",
+      "incident_ids": [
+        "2ae23ffa8a51",
+        "3d891e56861e",
+        "af28e77881fd",
+        "4fc37bf8628e",
+        "4fbcd59e6489",
+        "7c99d56016cb",
+        "27959f3ecc9a"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Security Incidents",
+      "rationale": "Incidents involving drone crashes are raising alarms, particularly near military facilities and public gatherings.",
+      "incident_ids": [
+        "cbb7d8ff7d82",
+        "243d4e2cea4f",
+        "54fb4cddaa32"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "bc229f8f3d7d",
+      "headline": "Prisons unable to keep up with crisis of drones delivering drugs, report finds",
+      "one_sentence": "AOL.com reports prisons are overwhelmed by drones delivering drugs.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "cbb7d8ff7d82",
+      "headline": "US personnel draw weapons on Lebanese officials following drone crash near Hamat base",
+      "one_sentence": "Tensions flare as US personnel respond to a drone crash in Lebanon.",
+      "risk_tags": [
+        "crash",
+        "international"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "22dd9139cac2",
+      "headline": "Drone strikes in Sudan's Kordofan region take a toll on civilians and aid operations",
+      "one_sentence": "Drone strikes in Sudan raise alarms over civilian casualties and impact on humanitarian efforts.",
+      "risk_tags": [
+        "terrorism",
+        "humanitarian"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "7c99d56016cb",
+      "headline": "South Korea to reinstate no-fly zone along border with North in bid to build trust",
+      "one_sentence": "South Korea moves to reinstate a no-fly zone with North Korea amidst rising drone security concerns.",
+      "risk_tags": [
+        "security",
+        "international"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "434629cd493f",
+      "headline": "Drones helps Licking County deputies arrest 3 after attempted car break-ins in Pataskala",
+      "one_sentence": "Drones assist law enforcement in apprehending suspects linked to car break-ins.",
+      "risk_tags": [
+        "arrest",
+        "law enforcement"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "twitter": "Emerging drone incidents raise security concerns, highlighting challenges for prisons, military, and public safety.",
+    "linkedin": "Recent drone incidents underscore the mounting complexities in security and policing, particularly around smuggling and unauthorized flights."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-19"
+}
