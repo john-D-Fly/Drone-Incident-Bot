@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Laredo BP uses drone to apprehend 6 undocumented immigrants - KGNS",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkt5eVV2VUF6OGdRZVdfcm1NWjROd09fclJmLXhLQ3B2V25abnNwT0RSS2s1T0JiSGQ4dm51MEJZN3MtTXVKalpCZWRhNnNPOEJHeW5Eb3ZtUDJRNjl4WERRczE5VllUNjRVM0NlcGM3NDZlYXlIeG44bFI3WmpsWUlUZFliSGdYeWtPVUtfY29zZw?oc=5",
+      "source": "KGNS",
+      "date": "2026-02-19T22:14:00+00:00",
+      "description": "Laredo BP uses drone to apprehend 6 undocumented immigrants  KGNS",
+      "query": "drone arrest",
+      "detected_at": "2026-02-19T23:10:50.177139+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b7de362b281a"
+    },
+    {
       "title": "‘Illegal’ Drone Flight Over Seahawks SB Party Raises World Cup Security Fears - NEWStalk 870",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUEZkWERaXzFreTgzTzl2TDBUcmFZMTcxUjBlT3V6Qm1wdzhmNkhDVXo0ZWhjRzFrUUlwQnU1TjZpdDNTLXJKZ09DUzg1cW9idjFyR1ZmSS1iWGl6d3pTM3BRcTdEWmlkdy04?oc=5",
       "source": "NEWStalk 870",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5e49fcb15068"
-    },
-    {
-      "title": "Illegal Drone Activity Near Ontario Jails and Prisons Pose Threat to Public Safety - NetNewsLedger",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnBybnBmNDV4ODAzSHduVWNBdVhJRS1SbDN6TlBjUmF1cy1zWFYzamhDWFE0UVZZOXlGbUpWT3Q4UVhNTXhRaWNTLW9mOXFjV1AwWnBOeHphTjBmLVpWY2E0Mm4zcnJFZG9lMVZVVEVGTnJ5UVdIM0h3U2pLZHg4bDZFU2tLMTBXbUlfam1IbkM2SUZIRkFQY0YxVlRhSml2ZkJ2d1ZpcjhyMVNhU1F2eVRRdFlPZ0tqLUNGVFgyRWk4UQ?oc=5",
-      "source": "NetNewsLedger",
-      "date": "2026-01-10T16:36:38+00:00",
-      "description": "Illegal Drone Activity Near Ontario Jails and Prisons Pose Threat to Public Safety  NetNewsLedger",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-10T17:05:03.192260+00:00",
-      "location": "Near Ontario Jails and Prisons Pose Threat to Public Safety",
-      "category": "smuggling",
-      "id": "9b1e9b9c6467"
     }
   ],
-  "last_updated": "2026-02-19T22:09:41.881763+00:00",
+  "last_updated": "2026-02-19T23:10:56.301592+00:00",
   "total_count": 1000
 }
