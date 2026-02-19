@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US personnel draw weapons on Lebanese officials following drone crash near Hamat base - Harici",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0VtOUp4UVkyRFg0a3lCV1hRSFBhUU82S19GbDFndEhnYW5vTjV3TFdEN25LdjVRR0ZwV0VGcDJWR0tfMFA2LWc0MzkxZVFxb2x2ejh2QVdEYXZhT3FnNk15ZjVPM0lJZGN4N3RRZ3V4Rl9UbWlmalJaTGkyWUY5RGxIVjFrWVJqVlAwallvVmljMHlyYkdlNUJuNTlyYVJzS2hvTXBMWHN2WTFDXzBLV9IBsAFBVV95cUxQc0VtOUp4UVkyRFg0a3lCV1hRSFBhUU82S19GbDFndEhnYW5vTjV3TFdEN25LdjVRR0ZwV0VGcDJWR0tfMFA2LWc0MzkxZVFxb2x2ejh2QVdEYXZhT3FnNk15ZjVPM0lJZGN4N3RRZ3V4Rl9UbWlmalJaTGkyWUY5RGxIVjFrWVJqVlAwallvVmljMHlyYkdlNUJuNTlyYVJzS2hvTXBMWHN2WTFDXzBLVw?oc=5",
+      "source": "Harici",
+      "date": "2026-02-19T10:36:42+00:00",
+      "description": "US personnel draw weapons on Lebanese officials following drone crash near Hamat base  Harici",
+      "query": "drone incident",
+      "detected_at": "2026-02-19T11:18:32.173698+00:00",
+      "location": "near Hamat base",
+      "category": "crash",
+      "id": "cbb7d8ff7d82"
+    },
+    {
       "title": "South Korea to reinstate no-fly zone along border with North in bid to build trust - Hankyoreh : English Edition",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45NV91ZXJHdmJkdExFWHphV0R6TWpOenBBSEFmYzBVRkpYZl9IaV81TFpneW1zdjIyanVJS1F6MWNxSWhPcDBXOWFPNGlvaEo5Y09ydDlNazVrbWNlQ29mUWc0LVVYNmZISmZTalhpdUNmMXFBUXVIZjNmTHRTQQ?oc=5",
       "source": "Hankyoreh : English Edition",
@@ -11987,20 +11999,8 @@
       "location": "in Odesa region, Ky",
       "category": "other",
       "id": "08b3ead2aee9"
-    },
-    {
-      "title": "Ukrainian drone hits oil depot near Volgograd ᐉ News from Fakti.bg - World - fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHdUNEl2a1JDNGhvMm9iaXhvR3Rub3UycTFyS0pzS3NVUHZYQUowOEg5aE80MHNkV3hkeUtxZjJmWHBIZ1YzcFpjWEJBY1U0WnFIUHV0bzZ1MmJHLUNRd01adnppQ3pPNkJ6b0NmNzZ2ZHpfZ0pkWVJRdHk0UHBIT1IxbFN6Zw?oc=5",
-      "source": "fakti.bg",
-      "date": "2026-01-10T03:58:00+00:00",
-      "description": "Ukrainian drone hits oil depot near Volgograd ᐉ News from Fakti.bg - World  fakti.bg",
-      "query": "drone crash",
-      "detected_at": "2026-01-10T05:06:54.969421+00:00",
-      "location": "near Volgograd ᐉ News from Fakti",
-      "category": "other",
-      "id": "ab26cae6d2cb"
     }
   ],
-  "last_updated": "2026-02-19T09:19:04.169978+00:00",
+  "last_updated": "2026-02-19T11:18:37.661285+00:00",
   "total_count": 1000
 }
