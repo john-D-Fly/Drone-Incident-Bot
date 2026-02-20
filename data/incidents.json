@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drones to gather evidence at illegal waste dumps - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hdzd5VDdoUGN2RkhtVHlnZFJVZlhGRXZfZlo2Z0hlRkl3Q1JlenoyWEZoZTFRV01jZmNxS1UyWm8zcEY3eVJPRVVtcWlTY3BQNWJWWmw0RURlZw?oc=5",
+      "source": "BBC",
+      "date": "2026-02-20T06:25:02+00:00",
+      "description": "Drones to gather evidence at illegal waste dumps  BBC",
+      "query": "drone illegal",
+      "detected_at": "2026-02-20T07:22:46.324768+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ab267d87e5f9"
+    },
+    {
+      "title": "Police Seek Arrest Warrant for Student in Drone Infiltration - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWpoSkZiY29RV3FRVXF3WlQxUzRhRTJfV3k2d3RlV3ZIZTl1S0JQTUpOOTNQODZjd1BmdGhGRGg0TnN6dEdOLTdESXE1bzNUYlNYSnA0OFBVTEJCOEQ5c05CRXhCQ0ozaWpWN3RubWhxaVJ6X2pua1l2bkdTR1ZpaC01YXVONUFj?oc=5",
+      "source": "조선일보",
+      "date": "2026-02-20T07:09:37+00:00",
+      "description": "Police Seek Arrest Warrant for Student in Drone Infiltration  조선일보",
+      "query": "drone arrest",
+      "detected_at": "2026-02-20T07:22:43.540507+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "cad1f645966a"
+    },
+    {
+      "title": "Military Drone Incident Highlights Growing Demand for Counter-UAS Security - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2Zmd2p0OG1YWEpPNm5WWFZTa0FaTG9PdVNCVHRVcm1JaGRXaHdveGgwNE1tR2VqVjVvdHphbDFVeVVaalNxNndoUW5SN3RvM0pRcFFQanp0V3BHb3czazRUNE52a2ZabzA3UjliQmh6TVM3RExZZ0lfdU5lRHJrN0x2MkozVHNCUWtfWFUycWhPUGFkdlY4TE5oeFVfZ1UtQndZYWtCSWExejRGWFZBbGdveWdoZGhpRzczYTBINA?oc=5",
+      "source": "TipRanks",
+      "date": "2026-02-20T06:36:02+00:00",
+      "description": "Military Drone Incident Highlights Growing Demand for Counter-UAS Security  TipRanks",
+      "query": "drone incident",
+      "detected_at": "2026-02-20T07:22:42.888534+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "afcb27e2305b"
+    },
+    {
       "title": "'We will stop you': Environment Agency launches new drone squad to tackle waste criminals - BusinessGreen",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkhRVGhvVGdTdmxBY3h6bVcyM2hRT1N6NHlscVFFSDUtZk9CWnVLSGtOaVNyNUt2cFJYT0V0MTVSSmtucV9icVVqbFZUWDZLOFM0WlFRSFFKWnZ4dU5FNUM2SU9mV0x3OERCTmFRZGhlRHgzVUM5TDNPQmxXU1AwVXZvWDREQ3VmOFQzVXowVlVKYXlvSDZlU044MzNpaGRnNU1UM1NHSkk2RDBDd3BR?oc=5",
       "source": "BusinessGreen",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b3f42d4cbec7"
-    },
-    {
-      "title": "Kim Yo-jong Demands Explanation on South Korean Drone Infiltration - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHZ0RjRzU0VqdFRGMkNXc3ZyTzJ5TTBkVFhkWEEyOTUwSG1Ca2NIUkhZV2c2dmZvaVl4MjRaYWx5ZmhXYzBDajhmbU9CMWlKVUZPVi1rV1NtbzJ1WUQyUEdJWU1hd1JjdFpSdm4xbTJPYjFmVkx3VnlDal9INHZ4MExNeDVXMTBV?oc=5",
-      "source": "조선일보",
-      "date": "2026-01-11T03:39:16+00:00",
-      "description": "Kim Yo-jong Demands Explanation on South Korean Drone Infiltration  조선일보",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T04:24:04.556676+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "34eaad0b7db8"
-    },
-    {
-      "title": "DPRK official demands S. Korea clarify drone incident: KCNA - China Daily - Global Edition",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZTVGtFT2lsTF9IcGRYQklFVVRSRkF2alBxYUx4eFhqd3l4emlZV0czTmlFSzdQeWVNMVZvYzFQU0dLVDFvRWpYRndLVHduZWJmSnVycDk3bk9IOFVVMWY2d01GSWZUdHJZOEdscDdqZVYzdkNsYnNjUWZEXzVfNVVR?oc=5",
-      "source": "China Daily - Global Edition",
-      "date": "2026-01-11T03:01:40+00:00",
-      "description": "DPRK official demands S. Korea clarify drone incident: KCNA  China Daily - Global Edition",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T03:36:14.437048+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ab19b82c8e95"
-    },
-    {
-      "title": "Drone footage caught illegal shooting in Washoe County - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLWlVUTlpbEN5WVhsakt0RzVsNFRvdHc3WWhud2otemFBLWpXejlHSVNMSDFKQXFoZUdzRkZvLV9jQXQwWU5GbmxzX29kdXZFNHhvNmN0V3g0X0VFU1hLX21OTElMWWF0dnRRbVFYOEVxNE1LZ256WkluMGhIRmNPM09JaWRTUWZRdmQ3Q1JhTkZaYzV6UTFTOWNKUkFrRTJOdkp3MXNZSEx4c0NhNi1aVWYwVlNWd2htVDJuRXpBaHZsNFpTUlBMbzdNWmwzQUxIT2NOaVpldzdTb2JaXzVaWQ?oc=5",
-      "source": "KTVN",
-      "date": "2026-01-11T01:13:00+00:00",
-      "description": "Drone footage caught illegal shooting in Washoe County  KTVN",
-      "query": "drone illegal",
-      "detected_at": "2026-01-11T02:50:43.386461+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3159f596d89e"
     }
   ],
-  "last_updated": "2026-02-20T06:22:12.723689+00:00",
+  "last_updated": "2026-02-20T07:22:48.633481+00:00",
   "total_count": 1000
 }
