@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "New drone unit to investigate illegal waste dumping across England - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnRZeXNaSENPVF9zN1ZjWG9iM0w3ZE5aN1BudXNEZ2pTZmtRcVd4QjJwbzhfZjNnc2hCMWt6a2V3a0Y1T2RZeVZCRG9QQkpEd0xvV3N0M1N1d3dwQXFVNHNGSmhvdjVyZ3JFanFqYWdaV0hleEVIdXp4b25ZVTJnOTF1RHZpYy05TTlvclBlSk42dnprMk9hdGhuNkRvOW1BeHhVa3JRZGlnQVVqYzlESG5VVUR5Y2pWRGc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-02-20T05:00:00+00:00",
+      "description": "New drone unit to investigate illegal waste dumping across England  The Guardian",
+      "query": "drone illegal",
+      "detected_at": "2026-02-20T05:26:49.980807+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3ed7ea6334d1"
+    },
+    {
+      "title": "Drone falls near security tower of Modern Jail Kapurthala - Tribune India",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczNNNkhXa3E5dW1qeUVxZkVkM0dKTmIwM0NwaE1FVkFybmpKY1NYR05nQnJmajdUTXV5eUxIbk5ZdFlKUVE1MnowSmlYaHQ5WUk0YUdLWlVaNWJXSURscGNwSjM0eWRqTEhhTW5FV2gxQTJHMHp0ME5QVllXRFIxdjlDODZ1UVZDTDZNclZoeEFoQ0tHaFJWS1hGVUV1TkFKWEdaNNIBqAFBVV95cUxNZ1JwRGh4NXF3NjZ3ZUUxQTM0eUo1WDNaYXlTMFdwRzBWc2NMNDBaZk9td1hEN01pR2dCTkMxZHRaRWg3TkdEOEFQV3lSZWNkcTBwcnJmSnczaVlFNFhMRkhpc01lQUtWQm5XTGxoRmdiNnJJa3pvQTJOZ0taXzd0NkRvaGRCS1R0djZPczlZOXFKU2txLWpsSVVKY0VPSFBzck9Ha3FnUUI?oc=5",
+      "source": "Tribune India",
+      "date": "2026-02-20T05:15:45+00:00",
+      "description": "Drone falls near security tower of Modern Jail Kapurthala  Tribune India",
+      "query": "drone prison",
+      "detected_at": "2026-02-20T05:26:48.435062+00:00",
+      "location": "near security tower of Modern Jail Kapurthala",
+      "category": "smuggling",
+      "id": "583adbb634f6"
+    },
+    {
+      "title": "Seoul, Pyongyang make rare exchange of statements over drone intrusions - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2lFZnNGM0hhNExxZXNLc3NPckZBOERoeFVMbksxZXNPMzNYd2tuWXQ3aExkVXM1RUlHbkZQU3gzOTNhazljcDR1YUdoT24wWVZXUHVuOFFFU2oyQmRHT3B2Y1hMTXhnamJTQ09wSVhkVEplZUVHTE1CU1BCaXRzS3V6M2pfSjVBRWxsMXVqY01XSWw5T0x5S0gwcjlhVmJPUlM1bWl1aTVkTFpIRTNCekVfRTdhcmJuTjF1RWI5dGtmWmxidjVPdzZuSHhpVVHSAdQBQVVfeXFMUHpsUWs2LU1IRUUwOVFGSnBjd3BkT2pJU0xxSzRmdGNtR2VHNTdkV21ZRHplVWRMRm5RQUZCNjVTVTdqaDJmanZIXzdaNHlJZktaWnEwQjJ1VEpqWGRmNUNzM1FZbkJ3NlhsbXZTeXIwY2dzc1FJQldWUnNaX0hyQ1REZ0xMeEgwOTMxdjByQVZJMUxPWG5jY1ozY3BjMDlLVXdlNF9nMTd6N05iWEhudTFIdWp0TS1CV3U1N1pnSjNZX2gwbWx6MWcybUNRNnI2UVpXNjY?oc=5",
+      "source": "The Korea Times",
+      "date": "2026-02-19T07:08:01+00:00",
+      "description": "Seoul, Pyongyang make rare exchange of statements over drone intrusions  The Korea Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-20T05:26:46.793869+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "91f1e9bd2c38"
+    },
+    {
       "title": "Drones armed with lasers to tackle illegal rubbish dumps - Sky News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTm5DektHaHFscXY3a0w0VTlGa282bFRxM0tTMDFXYlNPTWFUQlZ4SWpXdUVUUl9QbnZlTF9ZOFNwZ2d5TGlsMlh6YzI3MWl0S1B5QmZQNWRzdWJHdXU0bFF4d0tiTjFSWTI3cHV6LWhIcWNsc0NuZHF1YUNhMllMSVBWaFo5bUNIcUdHQ3Fuc1Zsa0lYampZ?oc=5",
       "source": "Sky News",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "027872713843"
-    },
-    {
-      "title": "Kim Yo-jong Commends South Korea's Stance, Demands Drone Explanation - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHZ0RjRzU0VqdFRGMkNXc3ZyTzJ5TTBkVFhkWEEyOTUwSG1Ca2NIUkhZV2c2dmZvaVl4MjRaYWx5ZmhXYzBDajhmbU9CMWlKVUZPVi1rV1NtbzJ1WUQyUEdJWU1hd1JjdFpSdm4xbTJPYjFmVkx3VnlDal9INHZ4MExNeDVXMTBV?oc=5",
-      "source": "조선일보",
-      "date": "2026-01-11T00:34:45+00:00",
-      "description": "Kim Yo-jong Commends South Korea's Stance, Demands Drone Explanation  조선일보",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T01:34:52.309132+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d081ac500d6e"
-    },
-    {
-      "title": "DPRK urges ROK to make explanation about latest drone incident - chinadailyasia.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5UzJGQlBHVWhaeFBnT05oUy1SdldNVGlFR1Ytazk5WUJjRWtaUlphcFB6cFJHbWt2TGlQRXM3NmVRQ28xc2RjQzA1X2o0VGRZRTd0YzVPcno?oc=5",
-      "source": "chinadailyasia.com",
-      "date": "2026-01-11T01:29:32+00:00",
-      "description": "DPRK urges ROK to make explanation about latest drone incident  chinadailyasia.com",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T01:34:52.309132+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "011547e973fd"
-    },
-    {
-      "title": "Kim Yo-jong Demands South Korea's Drone Infiltration Explanation - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHZ0RjRzU0VqdFRGMkNXc3ZyTzJ5TTBkVFhkWEEyOTUwSG1Ca2NIUkhZV2c2dmZvaVl4MjRaYWx5ZmhXYzBDajhmbU9CMWlKVUZPVi1rV1NtbzJ1WUQyUEdJWU1hd1JjdFpSdm4xbTJPYjFmVkx3VnlDal9INHZ4MExNeDVXMTBV?oc=5",
-      "source": "조선일보",
-      "date": "2026-01-10T22:37:33+00:00",
-      "description": "Kim Yo-jong Demands South Korea's Drone Infiltration Explanation  조선일보",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T00:28:05.775402+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "df482bfd9855"
     }
   ],
-  "last_updated": "2026-02-20T04:36:38.300159+00:00",
+  "last_updated": "2026-02-20T05:26:51.982135+00:00",
   "total_count": 1000
 }
