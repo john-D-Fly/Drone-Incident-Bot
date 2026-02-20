@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war latest: Deadly drone attack hits port in Crimea, Russian officials say - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUttb3lxYkQyRWU0WFlHcTJYTGlhNEl6dDdteTFFVWRhaVRrSlRNa0ZBR1h2SVNBci05VUlyUVhnYnRtMTlubUFtaWpHR0JvRWdvMzZ4LXBMZldhODZiTzRQdGh6U3NyTmJEOUxWaU1KY050V1VmNkxVa01KdW83NHpvcVFpaTE2dktzVTNjSXpRWUhwQXlodXB2N19lU1VQWUpRcEJoTEx1UQ?oc=5",
+      "source": "Sky News",
+      "date": "2026-02-19T07:43:00+00:00",
+      "description": "Ukraine war latest: Deadly drone attack hits port in Crimea, Russian officials say  Sky News",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-20T09:16:38.731976+00:00",
+      "location": "in Crimea, Ru",
+      "category": "other",
+      "id": "a49e9ec51252"
+    },
+    {
+      "title": "‘It is not a question of if, but when’: BOP director warns of firearm risk inside prisons - Corrections1",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQajQ5a29LWVdBRHhCWmpTbzczNHV3UVAtZ05wWkJ5ZlR1bUpQMVltYm1mYXdZaGpWd0UtYzQ0UnJaUzdQam5IY0hqVE5WVjRPN2VRRi1sc21zRFAyRXZUbjNjV3Y3Y0FwUVp1YkxXWFlvMUZ3R1dRbkhRTGtBYVRSa1lpZEwzaldwYl82Nm5vRmFSaFFmMHBoUzA0NG5fUG0yZE1zMVVsSWxIUFdtbE02Sl9idHo1X1ZYS1h3LW1CLTNsRF9jbjlDMA?oc=5",
+      "source": "Corrections1",
+      "date": "2026-02-19T20:37:05+00:00",
+      "description": "‘It is not a question of if, but when’: BOP director warns of firearm risk inside prisons  Corrections1",
+      "query": "drone prison",
+      "detected_at": "2026-02-20T09:16:36.280388+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6325c179cf43"
+    },
+    {
+      "title": "Kanawha deputies utilize drone to assist in arrest of man accused of domestic violence - WCHS",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmxZdGN3NXhLQnhqRHNKTUlheTNSVVk3dndHRWtWYVVSVWV2OWNMUE94NGlLOEh5eTVQaUJEOGlSMmYtTjdyNThtWXJWMVNWcjAxaDhUTXRjYlhYYlVEeXZ3dnlnNzg3bFhnWUF4dldXTi1MZFNiY3ktOFl6Ti1fdHllbURqZ0lQY2I2WGgtWG5uc1phT1cwOGFPU2xRcWFNX0VXMmRR?oc=5",
+      "source": "WCHS",
+      "date": "2026-02-20T03:01:13+00:00",
+      "description": "Kanawha deputies utilize drone to assist in arrest of man accused of domestic violence  WCHS",
+      "query": "drone arrest",
+      "detected_at": "2026-02-20T09:16:35.283307+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "fb03da511776"
+    },
+    {
       "title": "Investigators request arrest warrant for graduate student allegedly behind drone flights to N. Korea - Yonhap News Agency",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04WlVaZ3JDR0tSVkNWQkZ5dFZ0dkZlVkdqOExMbmh1TkhSS3JEUGttRTBmLVY4ZGJCM3o2d0s5bDc5eGZCem56Zmw1NThSUTUxMzM3WDU3WFZLdw?oc=5",
       "source": "Yonhap News Agency",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "0853960ce229"
-    },
-    {
-      "title": "Army foils drug smuggling attempt using drone across western border - Ammon News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zN0JoSG83MDdpLTBrLVBoWXI3Sy1OWjduOS00Z0V6S2xhSDR4MktVaEk4RnBaSDZmYVBjcm91aEZwUFEzS3hHT3NCVHZwZw?oc=5",
-      "source": "Ammon News",
-      "date": "2026-01-11T10:43:15+00:00",
-      "description": "Army foils drug smuggling attempt using drone across western border  Ammon News",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-11T11:04:51.346028+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fd1a8163394f"
-    },
-    {
-      "title": "Army foils drone drug smuggling attempt at northern border - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGNJWUhGZ2RDTnpNX1pzOGFXY3hvNTZPUkFXWEViUjVtRmVqNWxFQ095VFhfeDVCaktpUm9Vb0FiWE1mc19Vd3VFSjZXbE1HdTlYdFM0SUdrbDV6aU9CYUVRb2ZvN3JTWURSemFhUWhpT01VQktUS3RUa19WNXI0REhtT3RQTWt5TzItVW1TYzZ0X2FwZVI4cWpQQjhpSmtoa2lVRUFuNkExMXM?oc=5",
-      "source": "MSN",
-      "date": "2026-01-10T23:36:47+00:00",
-      "description": "Army foils drone drug smuggling attempt at northern border  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-11T09:06:15.980613+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9f9a88cabf48"
-    },
-    {
-      "title": "DPRK official demands ROK clarify drone incident - news.cgtn.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQakVFY2JTQnczOERaeXZlMmZTM1NCcDhRLTVXOEF2TlRaSGIxSTkzMmhtSm93OXVLcUd4S1praDVUdjJMMGRBRzRMeENLZFptdkdrOGk1U25CdGxVdmRoQWIzS0JlM1lodGxyeDNR?oc=5",
-      "source": "news.cgtn.com",
-      "date": "2026-01-10T22:53:09+00:00",
-      "description": "DPRK official demands ROK clarify drone incident  news.cgtn.com",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T07:06:50.890249+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "35a772ba8249"
     }
   ],
-  "last_updated": "2026-02-20T08:16:11.569527+00:00",
+  "last_updated": "2026-02-20T09:16:39.643932+00:00",
   "total_count": 1000
 }
