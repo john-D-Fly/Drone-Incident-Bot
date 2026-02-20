@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Troops kill three ‘terrorists’, arrest alleged drone supplier in Northeast - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUhVX0tKSV9qRmRhZlhvT3BvRFRUM293dlZxZHZEbnFSN1pDcFpPYTdVLVNUQVB4clFZS0thTUZHR19tQVlaeGoxUDlvbXRWVWIxdmk5TkVUNkhzY3ExbzNLNldLWlJmRGxhZTRnYjh5dllJWDZpclZGQzNLR0pvVVZsdDdyUEM2YVg5Zll0X3VodmcwVDJaeGRua2hGbGZMYTNLYdIBqgFBVV95cUxPd1VaWjBtNDI0RXFFU3R6UGVFa1NYMjhSbDc2TG8wSkhZelpvMVN0SEtBdzNNM1ZGRkliNFA0bU9rVmhLZXBEbVhrcDg3OWFrU0g5VXhvclc3UFd3OXpFRENKN3NUeEFOWUoyNExGM1ZTZUttTTljRVA1ZUxfR05fUmVsbnNwXzR6S0hLQ1FpX0FTWWx6VTc5VzBRQmhkUmRnSEVTc2dtZ0dBQQ?oc=5",
+      "source": "The Nation Newspaper",
+      "date": "2026-02-20T08:56:52+00:00",
+      "description": "Troops kill three ‘terrorists’, arrest alleged drone supplier in Northeast  The Nation Newspaper",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-20T10:14:39.212945+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "88eb51738551"
+    },
+    {
+      "title": "Investigators seek arrest warrant for student linked to North Korea drone flights - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRTRUMkpRYmlCLWhUSmdyXzExcmk4NjlKNG9kZnZuR0gyNGRyNnliREJmOVBkU2Z5ZHZvNjRsRE5OZzdlWG5ZZ2pLMlZWeklkTUtHRER2bEMwUVEtLUFpelpYRzFUZVduREw3V0pZaERLdDNWblRtYWEwYTBITmZOdTNsdTc4S0pTQ19oUWNyMjVJcWgyUDQ4djY3QnJGLV9XcDM5SW5lclUtY2QwMWpPWlF0MVNqdXFaX1NlMzRfZFBTQVVUX3JoZ0t0S3otZnZIYXl6Qll5aWQwRjNMX1BuaUw2Y1RFQ2YxaVRYQkNCcUVyTGJtMWZqVg?oc=5",
+      "source": "Korea JoongAng Daily",
+      "date": "2026-02-20T10:05:31+00:00",
+      "description": "Investigators seek arrest warrant for student linked to North Korea drone flights  Korea JoongAng Daily",
+      "query": "drone arrest",
+      "detected_at": "2026-02-20T10:14:35.693491+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "e74cda4a828e"
+    },
+    {
       "title": "Ukraine war latest: Deadly drone attack hits port in Crimea, Russian officials say - Sky News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUttb3lxYkQyRWU0WFlHcTJYTGlhNEl6dDdteTFFVWRhaVRrSlRNa0ZBR1h2SVNBci05VUlyUVhnYnRtMTlubUFtaWpHR0JvRWdvMzZ4LXBMZldhODZiTzRQdGh6U3NyTmJEOUxWaU1KY050V1VmNkxVa01KdW83NHpvcVFpaTE2dktzVTNjSXpRWUhwQXlodXB2N19lU1VQWUpRcEJoTEx1UQ?oc=5",
       "source": "Sky News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "bdcd30592349"
-    },
-    {
-      "title": "Oslo airport briefly closes one runway due to drone detection - Global Banking | Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanM4dDJoSlBBdXd4d3pLMnlRcGR2bHplZmd2ZzdZYUNpcTd6MG9KbmFIRG9nQlg5N01PSzJoVDhSdEdFNklDSklYOFl1V01URzRKdWF0THZ2ZlNSWE1PbGFTVzBpZ0hyWDdRMHVJSVBqUWJIMmc2STBHUDRyME1kajZiYy1UTkRDbkZVRU43VzI5UFJIOVV3MGVaUjhwbWxa?oc=5",
-      "source": "Global Banking | Finance",
-      "date": "2026-01-11T14:02:04+00:00",
-      "description": "Oslo airport briefly closes one runway due to drone detection  Global Banking | Finance",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T14:05:04.516418+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c78db75e7c08"
-    },
-    {
-      "title": "North Korean leader’s sister urges Seoul to explain drone incidents - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmNma01DajJJUTJ3TUcwWUM2M2IyWjZmaldweHRUZEJ0RG1fSFdSWFF2MHdMRm9lSGloNVo4aDRKcEJ2YjZ0S19BRkc3ZmVkQlBaVVhSd0NXV0J4WndMMlFTeThMN0xUXzZIRnA3RWVCcGJaUDRLT3Jkb1VXVGlMeXZZTHloRXBQQmxmdmZhek5ONFFTQnkya3VidHNoYzVLbEJEakN1d3hsVEZhMHE2Qm5JS3Q?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-01-11T07:26:09+00:00",
-      "description": "North Korean leader’s sister urges Seoul to explain drone incidents  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T14:05:04.516418+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0853960ce229"
     }
   ],
-  "last_updated": "2026-02-20T09:16:39.643932+00:00",
+  "last_updated": "2026-02-20T10:14:40.192675+00:00",
   "total_count": 1000
 }
