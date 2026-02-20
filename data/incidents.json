@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Investigators request arrest warrant for graduate student allegedly behind drone flights to N. Korea - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04WlVaZ3JDR0tSVkNWQkZ5dFZ0dkZlVkdqOExMbmh1TkhSS3JEUGttRTBmLVY4ZGJCM3o2d0s5bDc5eGZCem56Zmw1NThSUTUxMzM3WDU3WFZLdw?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-02-20T07:54:03+00:00",
+      "description": "Investigators request arrest warrant for graduate student allegedly behind drone flights to N. Korea  Yonhap News Agency",
+      "query": "drone arrest",
+      "detected_at": "2026-02-20T08:16:06.751563+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "41ca3429cddf"
+    },
+    {
+      "title": "Drone deployment assists in arrest in Charleston - WCHS Network",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkVWMzlzY1dVUTU4SGVIZGVwb0NmTU9UWWZ4OF83a1FfSlg2dm84Y3g2Sl9yNDY3clM5TWNJQmpPQjl6Z0NvYl9tUFo4MHRYZnlzaTFPYmJjek0yNkJxcTFBZXV5OGMwaFh5a2gxSU5YVHRndHVWTDBFVWRHMEw1anlkN1ViN2Q0dlBQTA?oc=5",
+      "source": "WCHS Network",
+      "date": "2026-02-19T23:58:31+00:00",
+      "description": "Drone deployment assists in arrest in Charleston  WCHS Network",
+      "query": "drone arrest",
+      "detected_at": "2026-02-20T08:16:06.751563+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9da1f07da78a"
+    },
+    {
       "title": "Drones to gather evidence at illegal waste dumps - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hdzd5VDdoUGN2RkhtVHlnZFJVZlhGRXZfZlo2Z0hlRkl3Q1JlenoyWEZoZTFRV01jZmNxS1UyWm8zcEY3eVJPRVVtcWlTY3BQNWJWWmw0RURlZw?oc=5",
       "source": "BBC",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "35a772ba8249"
-    },
-    {
-      "title": "North And South Korea Clash Over Border Drone Incident - Evrim Ağacı",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0N1TXVkN1h2STNDTWxLSGRqZm96Q0swdXUxSXcwSXhwVWhjTTBCNTNldnJTd2ZJMUkzWlBmdEY0N1hWSVE1YVpjMG1qRE9WVFpqR3Bsd2NIUTN0ck8zM0RuLUhHMHVud0pSak9oX0s5UUlzUTJScmQtU2UyQlZqZVZjNDRHX3V5RFl1UXFrY3VYQQ?oc=5",
-      "source": "Evrim Ağacı",
-      "date": "2026-01-11T06:15:44+00:00",
-      "description": "North And South Korea Clash Over Border Drone Incident  Evrim Ağacı",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T07:06:50.890249+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5a53d2f57915"
-    },
-    {
-      "title": "Cheong Wa Dae reaffirms no intention of provoking N. Korea over drone incursion - Yonhap News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iUkR3OEFqWTMxNHFHQmtHOTVwQnNVanc1alh2Umppc2w0RTRvemgzamNBV1JGazlZU2NOMmttOFJjNjhsQjFXdEt5QWlrMG1iRTl4RDh1Z0FaZw?oc=5",
-      "source": "Yonhap News Agency",
-      "date": "2026-01-11T05:38:45+00:00",
-      "description": "Cheong Wa Dae reaffirms no intention of provoking N. Korea over drone incursion  Yonhap News Agency",
-      "query": "drone incident",
-      "detected_at": "2026-01-11T06:08:13.444717+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b3f42d4cbec7"
     }
   ],
-  "last_updated": "2026-02-20T07:22:48.633481+00:00",
+  "last_updated": "2026-02-20T08:16:11.569527+00:00",
   "total_count": 1000
 }
