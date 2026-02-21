@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Visual drone detection moves into critical infrastructure playbooks - The Robot Report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1hCRnFiSnB3RllZdE1rX0FsQWxXWGp6aEdVa0NOd2ZkeDl2b3VSRU5BRVdTQ0hJRzFXUkFoOS1vZVZxdGI4LU43Ti1XLXlNU0czOVphM2dZUkt0VXNQWEJ1SklwQjkxYWFpVTRtTFNfU0NURUhrQVcwNWYxbXJ2Z29HQmZ5RUN1NVU2cGNlbm1wZ25ZRDhsWFFNdlEzTFo0?oc=5",
+      "source": "The Robot Report",
+      "date": "2026-02-21T14:05:58+00:00",
+      "description": "Visual drone detection moves into critical infrastructure playbooks  The Robot Report",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-21T14:08:24.806267+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e38121735161"
+    },
+    {
       "title": "Government upgrades drones, deploys joystick tweakers to catch illegal dumpers - theregister.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XSmRyMUM2UFdlSm10WjlFbWxjX3lqZXNxR2FhRnRTV1p2TUVJbjc3MVV5alVCb0I0WlZyYjVnQzF1a0g4eElHMXlDYmozWTRtNkRmZHZ4MA?oc=5",
       "source": "theregister.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "02a638a11162"
-    },
-    {
-      "title": "Russia begins massively mining \"Shahed\" crash sites: What the danger is - ТСН",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVl9qRjZ2aE5hV2EzOUY5bUR1azN5M2s0bm1pTE4yLWE4TWNJamdUVThBRGxQMTZkTXRuU3M2cnBLVEtuNEdlZnItU21uczFENHlGWEZFRTk2Y0JfVkU2d1NtZWhFUEFrdXJVdEJkOXFsLXFINVNUZzM1MDdzUzN2bC13bnd1UkxOb0hEX0xmXzRzazJmRTZHWS1pdTlMaXA4WUdrNEhfT2xqRG5f0gGyAUFVX3lxTE1FNXBGVWtJa2lvWXRjS0VkLTR5V2RNXzdhWGR6VmNuSm8zQTZfZmFkOWlCLVFDZm84UWE3QkZOaHVieTNwR0tzV1FUYWJDX0E2WDM4cF82d2ZEQU5OWld0WU9naVVUdjdQYmNaVUlaTXBveWJhTEFnd2hfU1JicGtKdUhNMTIyZV93Wkp3dHV2VmZ1WThYU1A1SFBUQ0lmNzZiLXU5bzhWcXFDMVRWTkdjd3c?oc=5",
-      "source": "ТСН",
-      "date": "2026-01-12T11:42:01+00:00",
-      "description": "Russia begins massively mining \"Shahed\" crash sites: What the danger is  ТСН",
-      "query": "drone crash",
-      "detected_at": "2026-01-12T17:08:23.192718+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "cf943110a40d"
     }
   ],
-  "last_updated": "2026-02-21T12:10:25.147316+00:00",
+  "last_updated": "2026-02-21T14:08:25.369448+00:00",
   "total_count": 1000
 }
