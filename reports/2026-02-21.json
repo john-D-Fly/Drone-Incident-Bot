@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have been reported, highlighting ongoing issues with drone-related crimes and security risks. Significant incidents include a drone strike in Sudan that killed three individuals and arrests related to drone smuggling near military facilities in the U.S. Numerous reports emphasize the need for stricter regulations and improved enforcement against illegal drone activities, particularly in waste management and within prison systems. Notably, the introduction of law enforcement initiatives and the use of drones to track illegal dumping practices have been noted in various regions. Additionally, there have been significant enhancements in government drone capabilities for policing purposes, reflecting a shift towards utilizing technology to combat these challenges.",
+  "totals": {
+    "other": 17,
+    "arrest": 10,
+    "smuggling": 3,
+    "terrorism": 5,
+    "interference": 2,
+    "crash": 5,
+    "security": 4,
+    "total_incidents": 48,
+    "by_category": {
+      "arrest": 13,
+      "crash": 2,
+      "interference": 1,
+      "other": 28,
+      "security": 1,
+      "smuggling": 3
+    },
+    "by_query": {
+      "drone arrest": 13,
+      "drone crash": 3,
+      "drone illegal": 14,
+      "drone incident": 7,
+      "drone prison": 3,
+      "drone terrorism": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone regulations and enforcement",
+      "rationale": "Increased focus on illegal activities and emerging technologies to enforce drone laws.",
+      "incident_ids": [
+        "fded0c031e66",
+        "5f06fd41e744",
+        "249ad15a1b55",
+        "3d89aedfa275",
+        "fe5653bc9c2e",
+        "339a129b943c",
+        "a49e9ec51252",
+        "ab0be7bf5322"
+      ]
+    },
+    {
+      "topic": "drone terrorism incidents",
+      "rationale": "Incidents reflecting risks associated with drone strikes in conflict areas.",
+      "incident_ids": [
+        "5f06fd41e744",
+        "d33f711e942b",
+        "d91979b476af",
+        "8b3e6943b71f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5f06fd41e744",
+      "headline": "Drone strike hits aid convoy, killing 3 in Sudan's Kordofan region",
+      "one_sentence": "A drone strike in Sudan's Kordofan region has resulted in the deaths of three individuals attending an aid convoy.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Sudan"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "3d89aedfa275",
+      "headline": "Drone used to drop tobacco, lighters inside Kapurthala Central Jail seized",
+      "one_sentence": "A drone dropping contraband into a prison has been apprehended by authorities in India.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "42d051af51e7",
+      "headline": "Troops kill terrorist commander, arrest ‘drone supplier’ in Adamawa",
+      "one_sentence": "In Nigeria, troops killed a terrorist commander and arrested a suspected drone supplier linked to Boko Haram.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Nigeria"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "249ad15a1b55",
+      "headline": "Maryland man accused of flying drone over Raven Rock base, other military facilities",
+      "one_sentence": "A man in Maryland faces charges for allegedly operating a drone over restricted military airspace.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "42d051af51e7",
+      "headline": "Congressman Eric Burleson has introduced the Counter Drone State and Local Defender Act.",
+      "one_sentence": "New legislation has been proposed to enhance local capabilities for countering drone threats.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight the urgent need for better regulations and enforcement against illegal activities.",
+    "linkedIn": "A surge in drone incidents has led to increased calls for more stringent regulations and the use of technology for enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-21"
+}
