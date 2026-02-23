@@ -1,0 +1,156 @@
+{
+  "narrative_summary": "In the past 48 hours, various drone incidents have been reported across different regions, highlighting ongoing concerns regarding security and safety. In Krasnodar, a drone attack resulted in damage to a residential building, raising alarms about drone terrorism. Meanwhile, Lebanon and Jordan intercepted drone smuggling attempts involving drugs. India has unveiled its first anti-terrorism policy emphasizing drone threats, particularly in cross-border contexts. In Vietnam, unauthorized drones disrupted over 50 flights at Da Nang International Airport, indicating a significant operational interference. These incidents underscore a trend of increasing drone misuse, pushing discussions around policy and safety practices.",
+  "totals": {
+    "airport": 5,
+    "smuggling": 3,
+    "terrorism": 2,
+    "other": 7,
+    "arrest": 3,
+    "interference": 3,
+    "total_incidents": 24,
+    "by_category": {
+      "airport": 5,
+      "arrest": 2,
+      "interference": 3,
+      "other": 8,
+      "smuggling": 3,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone incident": 7,
+      "drone prison": 1,
+      "drone smuggling": 3,
+      "drone terrorism": 5,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "airport disruptions",
+      "rationale": "Repeated incidents of drones disrupting air travel indicate a growing pattern impacting aviation security.",
+      "incident_ids": [
+        "ff6274f850bc",
+        "629dbf7338b1",
+        "320f8146958a",
+        "e280fd06746b",
+        "fe0f89a4a8bc"
+      ]
+    },
+    {
+      "topic": "drug smuggling",
+      "rationale": "The foiling of multiple drone drug smuggling attempts suggests a persistent threat along borders, necessitating enhanced surveillance and response measures.",
+      "incident_ids": [
+        "a75e71773633",
+        "f4f96823d6d7",
+        "e38121735161"
+      ]
+    },
+    {
+      "topic": "terrorism policy",
+      "rationale": "India's introduction of a drone-related anti-terrorism policy points to a significant policy response to emerging drone threats.",
+      "incident_ids": [
+        "d36f7b022587",
+        "464218e4d4e7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "68d7623542b2",
+      "headline": "A residential building in Krasnodar was damaged by a drone attack.",
+      "one_sentence": "The incident involved significant damage to property.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d36f7b022587",
+      "headline": "India unveils first-ever anti-terror policy addressing drone threats.",
+      "one_sentence": "This policy aims to counter cross-border and cyber threats.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "a75e71773633",
+      "headline": "Jordan foils drone drug smuggling attempt.",
+      "one_sentence": "The operation highlighted ongoing challenges with drone smuggling.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Jordan"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "464218e4d4e7",
+      "headline": "India rolls out first anti-terror doctrine focused on drone threats.",
+      "one_sentence": "The doctrine aims to fortify national defense against drone terrorism.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "ff6274f850bc",
+      "headline": "Drones disrupt flights at Da Nang International Airport.",
+      "one_sentence": "The incident led to significant operational delays.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "629dbf7338b1",
+      "headline": "Unauthorized drones disrupt more than 50 flights at Vietnam's Danang airport.",
+      "one_sentence": "This disruption raises safety concerns about drone operations near airports.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f4f96823d6d7",
+      "headline": "Army foils drone drug-smuggling attempt on western border.",
+      "one_sentence": "The operation reflects ongoing border security issues.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e09038bf084f",
+      "headline": "Russian missile and drone barrage hits Kyiv suburbs, killing 1.",
+      "one_sentence": "This attack underscores the continuing threat of drone usage in conflict zones.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising security challenges globally, from airport disruptions to anti-terror measures! #DroneSecurity",
+    "linkedin": "The past 48 hours have seen a notable surge in drone-related incidents, emphasizing the need for robust measures against threats ranging from smuggling to terrorism."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-23"
+}
