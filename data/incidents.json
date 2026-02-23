@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drones disrupt flights at Da Nang International Airport - VOV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzBMMVN4LU91SXl1eHVxa0NNUHBUcE1MYVgtNHB1eWdHTFA0SFlLNnBLaHdFVUhlS0x2OHp0dk9ZQ01WWWYzRHJUVDNQeEdmbThpdGYyVU1rSHNGbGt4b2dhZlNQS3E3aDh2WlFTeUE4VEwtR3JXUlJoTm1kTWdqU1JiNndkTUFGRFY3WHcwNFZESXAxWnl0UXVGUGc4OUEtRk5kQVdRNEg?oc=5",
+      "source": "VOV",
+      "date": "2026-02-23T03:31:23+00:00",
+      "description": "Drones disrupt flights at Da Nang International Airport  VOV",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-23T09:22:02.416969+00:00",
+      "location": "at Da Nang International Airport",
+      "category": "airport",
+      "id": "ff6274f850bc"
+    },
+    {
+      "title": "Unauthorised drones disrupt more than 50 flights at Vietnam's Danang airport - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXhXXzBUcnVtWkNZajVBX3lHMVJRc09iaFpXZDNLOU1vYjFSb0ZIZzdfUGxDZW1OMzRYMmFqODlNdldxdFc5WlhjemdrNDJjbHRnVTJkekNIT0ptbUZYNWJOY2hnbXlUYkRRbDRNT0lHYk1wSEd2cTRSNHVXRXFycVBucTktLUhHcENRV0V5bW02SlM5UnZ2cnJuUGlwQlFLeVhITUlxVGYxSEc5eVBDMzBLckdQd3lqMXZPTFZDN0lRSmRh0gHKAUFVX3lxTE51ZzhpblRyRmh4VnBMMkEzMWpiZVFBcXRhZWJhUFQ5X204THBsSmQ4RW1Rd281Z2Y3S2dGclNxbkRTUlhNNmdXTHB1bGxkbXhYdWN6XzNtVms2S3RzYnZIYUVqaGxrMDg2M3o2V1gwNlNCTXRZMWNFeDdEYjVJMVNrdlFoUVhrZWNBVHJhVDVzV0hfazk1S3h2SzJBNHN2eS1HemhKWUdNbjUwVWw5Y1lvVzEzSzcyWDk5QWQtZmpraHlmSkdGeUNYb3c?oc=5",
+      "source": "Firstpost",
+      "date": "2026-02-23T08:57:46+00:00",
+      "description": "Unauthorised drones disrupt more than 50 flights at Vietnam's Danang airport  Firstpost",
+      "query": "drone airport disruption",
+      "detected_at": "2026-02-23T09:22:02.416969+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "629dbf7338b1"
+    },
+    {
       "title": "Drones disrupt over 50 flights at Vietnam’s Danang airport - The Sun Malaysia",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGhNY1JQaEZIWW1qd0pfVVBpYnU5cDdDVHBxbGlnc0dsYk5Fb25HemRaSHJ4TWFxZ3dvOG96eGE3al9XdDJrQVFWeVZlVFJvRExSeTJackx4VFczS19PUHEtaHc2andlYjlfUzlhRDZwazhJSDFmaExLMTllUTRQamcxVDFVUHB4N2NhWHpqRnZjSksza1AwTXVLa1lWQQ?oc=5",
       "source": "The Sun Malaysia",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f00fe073544e"
-    },
-    {
-      "title": "Drone pilot gets $2,000 fine after flying in helicopter path at Lake Louise - Rocky Mountain Outlook",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1QwWnpkbmxaYk9mcWs2RVZlM3lzbklLeXRTYkFXVm5FTjNIdzZJYnZkY2w5MjZ0cmFVMVczYldRVDN5YVJFbnNFa0p0N3lpcDhmRGlBRm9KUTRaRUk2QW5Ha1lIT1lKSEZ2YTdDeTZSWjlHWHZfdDFVaVVTZ1dvYnctdlZhcWx4QzNlMks1V2lwbVRpamdWYUlrT2l1WHBWdnI1a3BVN2ZiVXhoUWZJVkI4dXFsNGtabEdNWg?oc=5",
-      "source": "Rocky Mountain Outlook",
-      "date": "2026-01-13T17:05:38+00:00",
-      "description": "Drone pilot gets $2,000 fine after flying in helicopter path at Lake Louise  Rocky Mountain Outlook",
-      "query": "drone illegal",
-      "detected_at": "2026-01-13T17:09:27.701295+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "753990e823b4"
-    },
-    {
-      "title": "DHS Creates Drone Office, Finalizes $115M Counter-UAS Funding - AVweb",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1VGxsOFJaLWlzSFc3cElNRjJZT3JVcVVjOWNMV2ViRlB1VmVLeG1QM2hLQjF6RC1NOExMVmd5SW84dFo5UmhTcER3TXduS0hZYXBsQ0tXd1ZmM3Jrbmc5STU4STJYcEhlMGRVQ2RLSlNvSXlQdlRGSg?oc=5",
-      "source": "AVweb",
-      "date": "2026-01-13T15:06:49+00:00",
-      "description": "DHS Creates Drone Office, Finalizes $115M Counter-UAS Funding  AVweb",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-13T16:09:17.810817+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b278ec346ff8"
     }
   ],
-  "last_updated": "2026-02-23T08:17:35.239666+00:00",
+  "last_updated": "2026-02-23T09:22:05.973668+00:00",
   "total_count": 1000
 }
