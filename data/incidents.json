@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzlPS3hScjdHQ3hiV2RzRTc1aWk3bDRFdHZrcWdxVkFidGdzTUQxQkdJUzZxaE0yUkxYdzFxUWY5WGkwdFVjVmthVWd5dUdaakZaRVpEZEZQMTNXNkNJcmcxWC13UlE3ZkZCbDB2N3lwRVIwTERYMXNPUlF3VmY0bHNTUkZvRHc?oc=5",
+      "source": "AOL.com",
+      "date": "2026-02-23T08:20:02+00:00",
+      "description": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own  AOL.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-23T14:22:20.655987+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "65e0d1f8e747"
+    },
+    {
+      "title": "Army Thwarts Drug Smuggling Attempt via Drone... - Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXVuekFKX1NjbVV0R3ItQzFrbHo2ZGstU2dnVF94WmEzNlh1RXRMMVJwZ3hNNzBVQThqT2VDcXkwUTJ0N2I1Z1JtTjN6a1BtVUk5Z25BeDRHMk1tdjBSalV5d1ZhWUhVaGtScGNlUDBKSEJFRFVXYUphaGd0WFFraldtQWN3LXd4NXY3b3N2WlVZN3RVVjBGdnN3?oc=5",
+      "source": "Jordan News",
+      "date": "2026-02-23T13:00:14+00:00",
+      "description": "Army Thwarts Drug Smuggling Attempt via Drone...  Jordan News",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-23T14:22:16.287110+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c5258f1aa8c2"
+    },
+    {
       "title": "A residential building in Krasnodar was damaged by a drone attack. - Caucasian Knot",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91ZGRCdmVTaXFiLTd0Mk40SVk3ZXdMel9LWUpMazA1VjF3bHRpVkpxWXlPRG80WTFUeFhiTU5NaWdJN3NNTGZqNV9rTVR4WHNyaUdqMWlkek0?oc=5",
       "source": "Caucasian Knot",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fcc518367577"
-    },
-    {
-      "title": "New Drone Law Takes Effect - KBND",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OaDFpcTc3LURZenpqMi1MVG1OODNBTHVQN0FOb1c1RHJNenBHTm1zMkhnQVlrbGhPMngwUDhZZGN4SkpZQXU2NTF0Q0FZOFowd0pzTDQ0YVZoYXlxMEE?oc=5",
-      "source": "KBND",
-      "date": "2026-01-13T17:19:56+00:00",
-      "description": "New Drone Law Takes Effect  KBND",
-      "query": "drone illegal",
-      "detected_at": "2026-01-14T00:25:45.828033+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c9548d2b01de"
-    },
-    {
-      "title": "Drone pilot fined $2,000 after flying in helicopter path at Lake Louise - Rocky Mountain Outlook",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1l6YWtKc19yUHRDRi0tbUt0WTV2aFM2N3dEQjMzUW83U29Xc2JxWVJ5eVFEcFV0UXl3TmVBRGJLVGVlQXYwR0gzajNxSUVVUFNvdnVLYlI3amhQRUxvNl9oazB1UVc0SWYwSGU2X1dmb09LZ0UyUG03Y0VKR0JCNDNNMnRxQ0dOM19HVjdIUzFqLTNiN05VbllDVVV5MG5iUks2d3BmZ0lVaXhtdVYyS0R4WTZSeE0?oc=5",
-      "source": "Rocky Mountain Outlook",
-      "date": "2026-01-13T17:05:00+00:00",
-      "description": "Drone pilot fined $2,000 after flying in helicopter path at Lake Louise  Rocky Mountain Outlook",
-      "query": "drone illegal",
-      "detected_at": "2026-01-14T00:25:45.828033+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a5d08c811ba9"
     }
   ],
-  "last_updated": "2026-02-23T13:32:29.952921+00:00",
+  "last_updated": "2026-02-23T14:22:21.212479+00:00",
   "total_count": 1000
 }
