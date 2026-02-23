@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone video shows massive waves crashing into homes in Massachusetts - CNN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLThwc3dyWUpUNEo5Mm05SG5oQmtBdW1MLWdkeUxHcWdIUGw0ZmhJTmtMQ05yUnhXMTllcnB0a21GUU8zNi1WRUZhNGNLQzZXLUNpdjJPM08xeFlIRUN5OTFOeDJUa2ZkczhkbDh0MVJ0dUtyYldJeW43S29QWFBHeGNwWTd1MnhFVGlxUHk2RDYzYlE5NEJCTGlZS0hNUFY3UXA1eURfTkRMa0hv?oc=5",
+      "source": "CNN",
+      "date": "2026-02-23T21:42:00+00:00",
+      "description": "Drone video shows massive waves crashing into homes in Massachusetts  CNN",
+      "query": "drone crash",
+      "detected_at": "2026-02-23T22:17:45.896001+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7cdc702d3e7d"
+    },
+    {
       "title": "Picogrid and Guardian RF Partner to Deliver Drone Defense for Space Launch Operations at Vandenberg Space Force Base - markets.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdkhldHVFdmk3ak9qZ2lRTHNPUkgwbGlnY0wtN3RnQ0txbkRUeTE1VXRuYWdlWTJkd3d5SndJSGRER2VKYkZOcnJMUWtsMUJFazFBMDJKVTdFdnNjaU9RTzJudlk1dHdiZHRYcVo5eTE4WnFIS1RPcW5oTEloZnhVTTJ5cUFTc1phWnZua2xhODZOdExzZVdYRXlJT1BEa1JUU3oyM0hBWGpMVWl6dGtrRDZCd1U3cks5d1lDVDRxSHcxbjNYSGpoVHdLRV9wcFc1ZVFqU2x2WEtRdDEyMjVJdzYyZEhEZXFidHlTcGFmSUZCUTNRbU5jZHBPTk5Ba2phaUdLRnFR?oc=5",
       "source": "markets.businessinsider.com",
@@ -11987,20 +11999,8 @@
       "location": "at Heathrow airport",
       "category": "airport",
       "id": "0d57b74fed0a"
-    },
-    {
-      "title": "Heathrow airport disruption as suspected drones cause delays - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUG0tdWJvZ3VjenpYX0FzN3U5d3E5TjRIOTZIMlpWb3ozZVY4VkVVdWVudlhlWDB3ZUxKTVE1RG96NHpUNWNWbXhERFFneDZoWlRtX1JOYjU5alh3anJoQTdSNURkLVlXU2hpUnFydmlFSE8yeHhCQ1hJQUdIcVZOQU13MkdwMlVkS2trTWx3VUdjZEQ5SG5pd1Q2Zw?oc=5",
-      "source": "The Independent",
-      "date": "2026-01-14T17:00:00+00:00",
-      "description": "Heathrow airport disruption as suspected drones cause delays  The Independent",
-      "query": "drone incident",
-      "detected_at": "2026-01-14T18:08:55.108700+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ea27abc95524"
     }
   ],
-  "last_updated": "2026-02-23T21:19:04.702481+00:00",
+  "last_updated": "2026-02-23T22:17:48.863731+00:00",
   "total_count": 1000
 }
