@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "A residential building in Krasnodar was damaged by a drone attack. - Caucasian Knot",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91ZGRCdmVTaXFiLTd0Mk40SVk3ZXdMel9LWUpMazA1VjF3bHRpVkpxWXlPRG80WTFUeFhiTU5NaWdJN3NNTGZqNV9rTVR4WHNyaUdqMWlkek0?oc=5",
+      "source": "Caucasian Knot",
+      "date": "2026-02-23T09:57:00+00:00",
+      "description": "A residential building in Krasnodar was damaged by a drone attack.  Caucasian Knot",
+      "query": "drone incident",
+      "detected_at": "2026-02-23T13:32:23.773249+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "68d7623542b2"
+    },
+    {
       "title": "What Is PRAHAAR? India Unveils First-Ever Anti-Terror Policy to Counter Cross-Border, Cyber & Drone-Based Threats - The Sunday Guardian",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWVlwd1lnUHNCaXFHcThGLVAwZW5kemVOd2NINnRBUVRNekg4Z0d1R0RsNmU5bk5vdy1TZ243dXBDTGN4OTBPbmthczdqU3JTUVgtZXBoQmlUMGY1WDZlck92ZW5qVkV2Wml3TUxsUDBBZEIwQWZBVXFDNjBrdEdPZFNCc0xDY3pwTTJkMUpab2xxRUFvSFRYLXNmNjh6cUZkVmhPWXpmeWNIOVcwaXZlRFcxeEZBdm5tRTAzaThZU2pCSmJtbU9aZGNwZHFaaXVURFZhZ05VRkxjbWl3eFNPaXg3dWVadFlobmc?oc=5",
       "source": "The Sunday Guardian",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a5d08c811ba9"
-    },
-    {
-      "title": "Stark County Sheriff's deputies use drone to find wanted man who fled crash into woods - WKYC",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcHhmY1ZNSG1YNm4xdDZUenA3a294U0V0QUY1TVZpRVNaVThIUlVGQkR4cDF2dTQwTUNMelR2ZXpwS1R5XzBCdGlwT2hfMnJmZG9teXJ1Y2RxeUxuaHBXVnpsTmN1MGVXbXJ1bzFmYTB6MUM5dzBhRGdGdG9EOTREUk04VnQ3MW1DQUJHVElNdjJ5aXdVaDctZWtqT2pzOEk4TUgwbDlrY2s2WmZnVUlrUVdWY3ZZdU9XT0tRR3l1bnZGWFRCQ3JWU1c1c0ZJVmxJbjhaOFJxalRlZW1wZzFQRVhnekJJdF82N2k4SEF6WTdaZ2lFYmRDc0dmTlFHVGo3VkZnMw?oc=5",
-      "source": "WKYC",
-      "date": "2026-01-13T23:16:00+00:00",
-      "description": "Stark County Sheriff's deputies use drone to find wanted man who fled crash into woods  WKYC",
-      "query": "drone crash",
-      "detected_at": "2026-01-14T00:25:45.222885+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "fc08213771d1"
     }
   ],
-  "last_updated": "2026-02-23T12:17:26.868730+00:00",
+  "last_updated": "2026-02-23T13:32:29.952921+00:00",
   "total_count": 1000
 }
