@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Army foils drone drug-smuggling attempt on western border - Ammon News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wSE9WTDNqWU9SdnRFRnVVbFMwRU16Z0E2WFNWTkx6N3Q1b1JNeGR2cjRhSTFaM3hXNU93SzN1b1RfRjdrdDlfcEU5Sl8tc2c?oc=5",
+      "source": "Ammon News",
+      "date": "2026-02-23T12:48:32+00:00",
+      "description": "Army foils drone drug-smuggling attempt on western border  Ammon News",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-24T03:03:24.084550+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "48c3d70eb2c3"
+    },
+    {
+      "title": "Army Thwarts Drug Smuggling Attempt via Drone... - Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXVuekFKX1NjbVV0R3ItQzFrbHo2ZGstU2dnVF94WmEzNlh1RXRMMVJwZ3hNNzBVQThqT2VDcXkwUTJ0N2I1Z1JtTjN6a1BtVUk5Z25BeDRHMk1tdjBSalV5d1ZhWUhVaGtScGNlUDBKSEJFRFVXYUphaGd0WFFraldtQWN3LXd4NXY3b3N2WlVZN3RVVjBGdnN3?oc=5",
+      "source": "Jordan News",
+      "date": "2026-02-23T14:01:04+00:00",
+      "description": "Army Thwarts Drug Smuggling Attempt via Drone...  Jordan News",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-24T03:03:24.084550+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e98a521c15b9"
+    },
+    {
       "title": "Jordan foils drone drug smuggling attempt - Roya News",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sd1MwdElHSEJERUp2QWN1S2hScGNCWG1ZMHNDc2RCX3QxbHpzSlVzUTNCVW9UTlFBMjg2THR3UktsWmlVTXNsTw?oc=5",
       "source": "Roya News",
@@ -11975,32 +11999,8 @@
       "location": "at Heathrow airport",
       "category": "airport",
       "id": "eb37908f87c4"
-    },
-    {
-      "title": "Suspected drones cause flight delays at Heathrow airport - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnlpX282MFVLLXZQVmtucDVpcFpRMnZDeWZhOFY4cmNMV1FodzJmOGV0N3FfdlRYdnFzYzRWZTNlbUNaR3NDRlV0RHh4SnN5MklPa2ZrUFZ2bVpSdXVGT21lXzNQcmpsTjFRZW50S1k0MFZNV2JsRGExZUxPd3BZZF8zV01KdVdxamVUWEwwVkFNYWpaVzhTeXVRS2xSWWF0TnZvWW9BNG1LWDdi?oc=5",
-      "source": "The Independent",
-      "date": "2026-01-14T17:00:00+00:00",
-      "description": "Suspected drones cause flight delays at Heathrow airport  The Independent",
-      "query": "drone airport disruption",
-      "detected_at": "2026-01-14T20:05:28.438321+00:00",
-      "location": "at Heathrow airport",
-      "category": "airport",
-      "id": "dbeb5ffeb737"
-    },
-    {
-      "title": "Orland Park Man Arrested Following Drone-Assisted Pursuit - Hoodline",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRPNUhDeEFUb2ozSWhYZVVxdEFYUFM2eW8wOWV5aFhWUlk0SERpeEplbFNEQU56NlhjbDNOSkVtVmJFRnlnN0VVMkpOZWdCT25HZkFCNE5RR05oa21EanF3dGo4dWlFV0VnOFRzTUk0SXNiY1pEMWdVb3FFQWQ2SFdJS09tN2VHVFQxeU1DcjMxd0pZbWo5MVVveUQ1WUhZUkNNd3ZONFZjUQ?oc=5",
-      "source": "Hoodline",
-      "date": "2026-01-14T19:31:42+00:00",
-      "description": "Orland Park Man Arrested Following Drone-Assisted Pursuit  Hoodline",
-      "query": "drone arrest",
-      "detected_at": "2026-01-14T20:05:26.387841+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e6982f9a4073"
     }
   ],
-  "last_updated": "2026-02-24T00:29:36.606622+00:00",
+  "last_updated": "2026-02-24T03:03:28.743066+00:00",
   "total_count": 1000
 }
