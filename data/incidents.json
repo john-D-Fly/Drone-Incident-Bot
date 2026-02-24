@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Jordan foils drone drug smuggling attempt - Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sd1MwdElHSEJERUp2QWN1S2hScGNCWG1ZMHNDc2RCX3QxbHpzSlVzUTNCVW9UTlFBMjg2THR3UktsWmlVTXNsTw?oc=5",
+      "source": "Roya News",
+      "date": "2026-02-23T16:16:03+00:00",
+      "description": "Jordan foils drone drug smuggling attempt  Roya News",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-24T05:30:14.668844+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "92bbb5ef29fc"
+    },
+    {
+      "title": "MNA passenger plane at Myitkyina airport struck by suicide drone during late-night attack on Northern Command - eng.mizzima.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmWC1SRTZGaFBPXzJQLTN6MEc2NXNqUlZGR2RjUExNOU5UWlZ4NnMxcE1qcXFDejlYY1NoU29NWVowb2ZkYjlpLTgxRHJ1eVR6bGc?oc=5",
+      "source": "eng.mizzima.com",
+      "date": "2026-02-24T03:44:52+00:00",
+      "description": "MNA passenger plane at Myitkyina airport struck by suicide drone during late-night attack on Northern Command  eng.mizzima.com",
+      "query": "drone incident",
+      "detected_at": "2026-02-24T05:30:13.477192+00:00",
+      "location": "at Myitkyina airport",
+      "category": "airport",
+      "id": "b78d65ade674"
+    },
+    {
       "title": "Terrorists target ambulances carrying FC casualties to hospital - The Express Tribune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWW5mSkFtb2FvaTBSc05uNi1JN1RjWU9uU1BRX0NJbk1rc0dsU1lhOTJRZDlhWHJkbGkwQ281RGdmRXIteDFydnFzRmduR3NmU3pLOGxJZDRCcmhRWHktXzlvdkJpdXF4TGlQR1ViWDk2SlJSdEt3aFpmdDluLVF4el82OXZYYW1VY0tzRk5taThOdXJLQnVGNHJ0cFV5T09MTlHSAaoBQVVfeXFMT0tGUEY1SnhTSnZTdmp6S3ljMDFtRGFtRG9DaXdtZG02US1nRnR3Tmt4V0dYdVZ2aVZvaGtoeTlHTkI2U2ktVG5iMmxCOFYyUDk3XzJrZEJrdXFEU3JoSmJWUy0wd0JiVUJ0akl5bUM5UU9sVzA3RjhPYTdEUWFIdnB1TDQwZzREdE1uN1U2bk1Ea0h4ckFlN01Xa2ZhNDBFX2lyaTBsS0c2T1E?oc=5",
       "source": "The Express Tribune",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "fc500d13dd94"
-    },
-    {
-      "title": "Drone used to try to smuggle drugs into Federal Prison in Grant Parish - KALB",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzA2dlFZSTZBUmFHVEN6LV9uMlJKLUhFTHFnLXJUQXVGd3VoM3MxMll3cmxSSF9oVHVQZ1FPeFVXUjk0WnU1Y0s0ZEJoOWZhQTFSV0FLdHJCZFJKYlc3QjdPVUp4TEZOaUF5TklSc1FodVZ2MnJZWDlWTEF0bUIzZlNwd0pKOEJzcWg5dTJTNnpwNy02ZW1yZWF3?oc=5",
-      "source": "KALB",
-      "date": "2026-01-14T21:50:00+00:00",
-      "description": "Drone used to try to smuggle drugs into Federal Prison in Grant Parish  KALB",
-      "query": "drone arrest",
-      "detected_at": "2026-01-14T22:06:28.322890+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fe96136db6c5"
-    },
-    {
-      "title": "Drone and K9 help catch suspect in Greene Co. domestic incident - WTHI-TV",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQalBoU09sazZYVC1ENFRnUW94Nm5fQl9mbDZqbUMwcC1zTU8tc0RfOS16ZTNMbDRFeExaMU96Mk1HQkNZMFNVVFdjTWZrUGlHeUY1NHVWb1RuVndCVUdiajJwM3Q0dktnT29Uc0s0X3lxTTlOMzNxZ1RKbngzcnpWR3FFNGNOSzM2cEV6eFV6NDB4enc2ZE5kYWZWcmlieVljcGozWVMzc3NGX3FrZUxrLWtrZll4dy1fbFRTb3hOZkxFbVdwWklyUkRMVzhsUUxaX0tJN2E2WQ?oc=5",
-      "source": "WTHI-TV",
-      "date": "2026-01-14T21:09:00+00:00",
-      "description": "Drone and K9 help catch suspect in Greene Co. domestic incident  WTHI-TV",
-      "query": "drone incident",
-      "detected_at": "2026-01-14T22:06:27.649749+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0d7bdaaabe0d"
     }
   ],
-  "last_updated": "2026-02-24T04:38:57.411132+00:00",
+  "last_updated": "2026-02-24T05:30:18.933089+00:00",
   "total_count": 1000
 }
