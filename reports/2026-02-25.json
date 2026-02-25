@@ -1,0 +1,143 @@
+{
+  "narrative_summary": "In the last 48 hours, a series of drone incidents have highlighted ongoing issues with smuggling and unauthorized operations. Notably, multiple reported attempts to smuggle drugs, technology, and combat materials via drones have emerged from various regions, including charges against individuals in Poland for attempting to export drone technology to Russia. Further, allegations of drug smuggling attempts using drones were reported in Jordan, while the United States faced persistent challenges with drones being used for illegal deliveries to prisons. In security updates, unauthorized drone activity disrupted flights in Da Nang, Vietnam, and illegal drone operations were addressed by military and law enforcement agencies across several countries. The proliferation of drones raises significant concerns about privacy, safety, and security in both urban and border areas.",
+  "totals": {
+    "smuggling": 12,
+    "terrorism": 4,
+    "arrest": 8,
+    "other": 9,
+    "security": 4,
+    "airport": 6,
+    "interference": 4,
+    "crash": 1,
+    "total_incidents": 63,
+    "by_category": {
+      "airport": 4,
+      "arrest": 5,
+      "crash": 1,
+      "interference": 3,
+      "other": 13,
+      "security": 4,
+      "smuggling": 29,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone arrest": 7,
+      "drone crash": 1,
+      "drone illegal": 4,
+      "drone incident": 7,
+      "drone prison": 7,
+      "drone smuggling": 22,
+      "drone terrorism": 9,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "smuggling",
+      "rationale": "Multiple incidents involving drones used for smuggling drugs and technologies",
+      "incident_ids": [
+        "12edd3e6abdd",
+        "d92dfd294008",
+        "f59441352945",
+        "2b9091633b04",
+        "46202f6a024b",
+        "fa2983234efe",
+        "c609c954e2c0",
+        "a668d5f78915",
+        "48c3d70eb2c3",
+        "e98a521c15b9",
+        "08f0e663414",
+        "f60b4d8a0c2d"
+      ]
+    },
+    {
+      "topic": "illegal drone use",
+      "rationale": "Incidents highlighting unauthorized drone operations affecting security and safety",
+      "incident_ids": [
+        "75a4a9905969",
+        "909435b9bc9b",
+        "a7d8f1aef909",
+        "ae25bf44d167",
+        "be247a3628c0",
+        "c4ddce03c880",
+        "640b8bc5588a",
+        "67cfc3a5888a",
+        "08d2279cdc4f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "12edd3e6abdd",
+      "headline": "Alleged smugglers caught after cartel drone support falters",
+      "one_sentence": "Law enforcement apprehended alleged smugglers who were reportedly using drones supported by cartel operations.",
+      "risk_tags": [
+        "smuggling",
+        "crime"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2b9091633b04",
+      "headline": "Six charged in Poland for plot to smuggle drone tech to Russia",
+      "one_sentence": "Authorities in Poland have charged six individuals in connection with a scheme to transport drone technology to Russia.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f59441352945",
+      "headline": "Picogrid, Guardian RF Partner to Boost US Space Force Drone Defenses",
+      "one_sentence": "A partnership was established to enhance drone defenses for the US Space Force amid rising security threats.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "be247a3628c0",
+      "headline": "Georgia lawmakers target prison drone deliveries",
+      "one_sentence": "Legislators in Georgia are taking steps to address the issue of drones delivering contraband to prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "c609c954e2c0",
+      "headline": "Louisville police use drones to help officers arrest 2 people in stolen car",
+      "one_sentence": "Police successfully utilized drones to assist in apprehending suspects involved in a car theft.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8a6636b118ad",
+      "headline": "Unauthorized drone disrupts flights over Da Nang",
+      "one_sentence": "An unauthorized drone operation caused major disruptions at Da Nang airport, highlighting security vulnerabilities.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the last 48 hours, drone incidents highlight ongoing smuggling and security challenges in multiple regions.",
+    "linkedin": "Recent reports reveal a surge in drone-related incidents involving smuggling, unauthorized operations, and security breaches, prompting renewed focus on regulatory measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-02-25"
+}
