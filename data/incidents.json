@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZoUWdCYVF3NGIyd1RJQkdWWExqNkZrYVh3Vk1LTTRhNXdTRE8zYk9GRWVUVk1kRy0zOUNxd09OOS16SkprQnNoWUdwcEJkREFQbGFjOFJKMnFTUmdZZnA0R0NlUDRyZ3hja1lyWVdJYjNHRkxqRDktTzF1eUhid2xxUFJqZEx5YzZJZWJVWnlIQmVrTEZXSXFkN3E?oc=5",
+      "source": "bgr.com",
+      "date": "2026-02-25T02:17:00+00:00",
+      "description": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own  bgr.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-25T03:04:26.500843+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "0beb1da7b1e9"
+    },
+    {
+      "title": "LAPD secures $9.8 million DHS grant to protects city’s airspace from drones - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0w3dWpXUXJqV3dOdFBhdkNoWmdOdFlwNVVFUU13LW1RNVFKcGZZTURnWWE5S2RXdG1kRlJQSjF2QVVNandTRGQ4Vzk1OVJhSVYwM05CdmlraWhUMFE0NUNfUzFsTDJQek1yNHRRaFNmTDEwSTkyRWdLbkVpLUlfdzlSeUJHdUxIVDNGY0xtanQwaUppd2ZXTUp2ekJCWWkzZFFRNng4VlE5azlBMUlvaENhWV80TWdtXy1lamRtY043b1F6cUE?oc=5",
+      "source": "New York Post",
+      "date": "2026-02-24T21:06:00+00:00",
+      "description": "LAPD secures $9.8 million DHS grant to protects city’s airspace from drones  New York Post",
+      "query": "drone illegal",
+      "detected_at": "2026-02-25T03:04:24.747744+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3745ecd573c0"
+    },
+    {
       "title": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzlPS3hScjdHQ3hiV2RzRTc1aWk3bDRFdHZrcWdxVkFidGdzTUQxQkdJUzZxaE0yUkxYdzFxUWY5WGkwdFVjVmthVWd5dUdaakZaRVpEZEZQMTNXNkNJcmcxWC13UlE3ZkZCbDB2N3lwRVIwTERYMXNPUlF3VmY0bHNTUkZvRHc?oc=5",
       "source": "AOL.com",
@@ -11975,32 +11999,8 @@
       "location": "in Banff National Park last year, sa",
       "category": "other",
       "id": "5254f8a3d615"
-    },
-    {
-      "title": "Drone incident near Lake Louise underscores risks for helicopters, rescue crews - CBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMGVDNzByTmRoa2VRN2JGc0hWakFCU3ZPR3VOQ0NjRjN6cVlyV2NFa0RLdFFxX2RrcHVSZG50M3dyek1RbmRqaWpuaW5uVWVzb3FiXzZDVzk1bGRSclpoZGY4Z3RGVEN2cV94cG5jYTVYWVMt?oc=5",
-      "source": "CBC",
-      "date": "2026-01-15T20:22:24+00:00",
-      "description": "Drone incident near Lake Louise underscores risks for helicopters, rescue crews  CBC",
-      "query": "drone incident",
-      "detected_at": "2026-01-15T21:06:14.748821+00:00",
-      "location": "near Lake Louise underscores risks for helicopters",
-      "category": "other",
-      "id": "1d72e1bbf080"
-    },
-    {
-      "title": "Drone incident near Lake Louise underscores risks for helicopters, rescue crews - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sbGtsb3BWQ1RhNUh3YzVTM1M1QzRBUzB1elhUeTRrQkNEVFhLbUJPOTladU14a0ZlOGUxanZDWFZMdF9zbUlTekZiaEE4T0Jf?oc=5",
-      "source": "CBC",
-      "date": "2026-01-15T19:25:46+00:00",
-      "description": "Drone incident near Lake Louise underscores risks for helicopters, rescue crews  CBC",
-      "query": "drone illegal",
-      "detected_at": "2026-01-15T20:07:04.910409+00:00",
-      "location": "near Lake Louise underscores risks for helicopters",
-      "category": "other",
-      "id": "70af36a54899"
     }
   ],
-  "last_updated": "2026-02-25T01:39:23.909498+00:00",
+  "last_updated": "2026-02-25T03:04:27.024204+00:00",
   "total_count": 1000
 }
