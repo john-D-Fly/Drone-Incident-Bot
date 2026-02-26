@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Hamas Turns to Seaborne Arms Smuggling - Foundation for Defense of Democracies",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWN0MVRoOWZJTVJsQ1dTY1FuOTYzZmZoTzE1OWIyZ00tVFRsMDlfVGtyWmhMY210M1hnS0NUNFVNNVJwNERHZ1lmUzVtSjFrQUQ0a2IxTjJLcTBkWm1DOXFFX01zM1R6cFJqdmFOSlRPOWM4THJxeVdtenhkdHNVZWpvVjMxQQ?oc=5",
+      "source": "Foundation for Defense of Democracies",
+      "date": "2026-02-26T19:41:15+00:00",
+      "description": "Hamas Turns to Seaborne Arms Smuggling  Foundation for Defense of Democracies",
+      "query": "drone smuggling",
+      "detected_at": "2026-02-26T20:13:09.041753+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ee732fd1658e"
+    },
+    {
+      "title": "Man arrested with help of drone equipped with thermal imaging - Citrus Heights Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXJkZFpmaElnRDNoWW83VFFBb041OUVGeV9NVDRWZnFRa0I2ZVgxenltdHdXcDNrZ0k5eDlPWE9wMUd0ZmFPUnBGS1NLNUJyMHl0OVBuYVgxb3JYRFNHaGZNR2lWYzNtODVzWUdmTURZQml0bGlyeHdYYTBzcXpoblliay1uMk1scDVjT1J2YXVjX0VHZWhyUXUta2Q5N1doQXRaSTZGMXN0MTQ?oc=5",
+      "source": "Citrus Heights Sentinel",
+      "date": "2026-02-26T19:12:08+00:00",
+      "description": "Man arrested with help of drone equipped with thermal imaging  Citrus Heights Sentinel",
+      "query": "drone arrest",
+      "detected_at": "2026-02-26T20:13:08.265287+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c865e80aa2a8"
+    },
+    {
       "title": "Suspect in drone flights to N. Korea arrested after hearing - The Korea Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTNfYlA4eWkwXzU1dWd5M1o1NVFCc1NlSk9IZnNOZ29jLTJuTEFtMWstaE94VmJqRDVfUW9oT3gwVFdMWWhnTm1od1VXajVLaTdDdEowY0VZd3RiTTVyZTR0endzaWhJQWo5WTVCd1NMdkxQek0wWC1QYjg4SEVVWkE0ajhEU0I1a2F1T1J0a2JoX0x0UEhIbk1JOW1tUVk2b0hrQXVHdW5LT2vSAbABQVVfeXFMTmJVZDB6NkZCVXJEdDZOX0hhT0oyR29XWVQyVXZnM25URF9tMW50Uk8wT29XOWRwVVhEWkNwM1pJY25DOG5xbG5uN2NmMVJVTnJoMThsaFhKQjVCcVI4eWF3QTJHd2VudDRIVko2TDBKYVBvSkdzOWtkeGJzTTFXQUtDZmxReTNxZzBvSmhHOGpQaVo4QTN0dVBPY0FlRU9ZbGxZSzNUanhnVjhiMWhQa2k?oc=5",
       "source": "The Korea Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "c0fd52d4088f"
-    },
-    {
-      "title": "Ukrainian drone strikes cut power to hundreds of thousands in Russia-occupied southern Ukraine - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN29oeDlkbGpLRlJuVDVZZFpJa04wWDRvckx5aFdNN3lSeFZfT2o1QzJSbGNPOWNtYTVOWnR1NmtKS3JJalpVQ01PZTdpN3RwOVl5RGpTbXhEYmVXVWxIQUZVQkJaMmViZHA5UUxvUlJQdTdBNUhGMklSNG5HSmp0TlB5MWxxVENPb2NKZWtTdmZrVExBOVY4d3BGWW5kMnFzT3VUTC1BTXloOWdXU3FIUnVRdnd2ZU5fWUh4QzdKT0Z1bVFETVZjS2h1WGVjd2V3eG5Mc1NCZXFiNG84alBKcHhlTQ?oc=5",
-      "source": "CTV News",
-      "date": "2026-01-18T14:30:14+00:00",
-      "description": "Ukrainian drone strikes cut power to hundreds of thousands in Russia-occupied southern Ukraine  CTV News",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-18T16:06:17.844826+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dd89f118f205"
-    },
-    {
-      "title": "Drone incident near Lake Louise underscores risks for helicopters, rescue crews - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm5ROUFCSHg4TU55VDU3eGxJaFRpa2t2RVdvQ0FvMHVOeXhFX2t0bVFUc0ZlTFdDdXNEREdTREJTekwxMEpWMWFQdXR2c2huWWI1a3FvZmhSaUVqaTNhUDJkenBrU19jeEc4VmhiOS0tNGNWQVA3SG44UldMcWhpdl9WS0tiTXRkZ3N3M2w4WEZkRkdoOC01Z3hDTjJjWkVJVndYMWVOLVZ2ZlFMREg5SEs4SlpZQlkxTFFUdGpXV1FyS3pveWJz?oc=5",
-      "source": "MSN",
-      "date": "2026-01-18T12:50:38+00:00",
-      "description": "Drone incident near Lake Louise underscores risks for helicopters, rescue crews  MSN",
-      "query": "drone incident",
-      "detected_at": "2026-01-18T15:05:09.111652+00:00",
-      "location": "near Lake Louise underscores risks for helicopters",
-      "category": "other",
-      "id": "52a16febf87f"
     }
   ],
-  "last_updated": "2026-02-26T19:19:45.241085+00:00",
+  "last_updated": "2026-02-26T20:13:13.990749+00:00",
   "total_count": 1000
 }
