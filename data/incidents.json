@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukraine war latest: Russia makes Moscow 'terrorist attack' claim as Geneva hosts new talks - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2JpeTZ5LTBGNkFmc3FXTzR2WHZWc0N6MDdCeHYwRHJsTnRqUmlUY1lPcllwWmZvcllvOE1Yamdqc2lfa2xVUGUxdGdOcGUyTXJFbEZLczhfQ04ycFZ3d3Fic3h6VHZKeXpBRm5wanFHcllSTDU3dTJaTEVtUDQyUXlCU29CN3B2MVNfTXNWUGlDM21FaHQ0YkJtZVR6cXBqZE4yTXllaE1ESTRaOF9BNEhKSnc5MmtVZ2NhdQ?oc=5",
+      "source": "Sky News",
+      "date": "2026-02-26T12:03:16+00:00",
+      "description": "Ukraine war latest: Russia makes Moscow 'terrorist attack' claim as Geneva hosts new talks  Sky News",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-26T14:23:03.214934+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "57654cdb7f9b"
+    },
+    {
+      "title": "(2nd LD) Suspect in drone flights to N. Korea arrested after hearing - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pUGo3cjdtQmUxQjZubjYtelV3V0xoc2paeGV4akttQmFkcktWSDZxcHVpNlZGSUtIeExDamZDOGdRSFVNTmNiRW9fT1ZtMUNWTTJtYW5xUTNKQQ?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-02-26T13:37:32+00:00",
+      "description": "(2nd LD) Suspect in drone flights to N. Korea arrested after hearing  Yonhap News Agency",
+      "query": "drone arrest",
+      "detected_at": "2026-02-26T14:22:59.191336+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "5b9d29e816be"
+    },
+    {
       "title": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZkx5Y2hpTnF6UFA0V0IyYWZuMWNhZ1ZzbWZmc0xLd2xKcnpZSjQ5OVZaX2tnVHozZFJfWFRCMW43ZDdheEsxOWlONnJ4V1BsM2I0WURkR2FQcFJ3SHJJVW9OV2lqWHRpRGtRdHJOQzBOSXhSb1VYejVJNGk0VUk?oc=5",
       "source": "AOL.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "0abe7a01bba6"
-    },
-    {
-      "title": "Ramapo Police Drone Program Leads to Swift Arrest in Domestic Assault - Monsey Scoop",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGltT1U2aWkzR0RqckViYzRDMkI1Tm9XeWk2SUJXY3lJMERHQUFYNzM2Q0FnYk8zRERyR2l6cGNfUkVpbkxSOXgwNmZDZzVqbXREQ1JzdGcwMHlhRWpIa2IyQ251a01xSWhMZ1hrRnhfc2FRWEVQNGdKOVNYaGVVdEJoRWMzT1I5bGlKRzRURVRIZl9ybFRoMnlR?oc=5",
-      "source": "Monsey Scoop",
-      "date": "2026-01-17T23:07:31+00:00",
-      "description": "Ramapo Police Drone Program Leads to Swift Arrest in Domestic Assault  Monsey Scoop",
-      "query": "drone arrest",
-      "detected_at": "2026-01-18T00:27:19.378915+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e3e9530d6a84"
-    },
-    {
-      "title": "Acid thug Arthur Collins under investigation over 'prison drone drops linked to organised crime' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXdielRXazZtWkc3SU9yN3FONEJScjh3YW54MXptUGN2RVk0aWF6UlZBbGk3U0dsVUtRakVib0JpSko4Vm5MekpySWtRZGdhVGFaVG9VSVliUG1UVUhNbE5sUTRCdm0yc01JckM5bXZMczdrNVRncUVSYXVMZy1vaFhNODhtaFY2bm9ENmluMk1OLUxsTEdIOXg3aUtXVmNJdUc0bE82OXV3M0dWYzlja0lvMkNLbFBDdGl6Mm05WVNSRXVWY0sweXVkS19BUU5tV3VFWnJOV09DcUk?oc=5",
-      "source": "MSN",
-      "date": "2026-01-17T21:37:30+00:00",
-      "description": "Acid thug Arthur Collins under investigation over 'prison drone drops linked to organised crime'  MSN",
-      "query": "drone prison",
-      "detected_at": "2026-01-17T23:05:16.063810+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f8d87ff62cc3"
     }
   ],
-  "last_updated": "2026-02-26T13:32:58.376392+00:00",
+  "last_updated": "2026-02-26T14:23:04.501914+00:00",
   "total_count": 1000
 }
