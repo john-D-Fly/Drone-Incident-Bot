@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "‘Russian drone intercepted near French aircraft carrier in Sweden’ - Brussels Signal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3hzdjlhMnlzbDJQUDM1LWVaUE85U2FGUzRwaDh1YUVHRXlnMWlmQVBTWTlvR2lJeHhXVjRIMFRKQW44bEVRRFhKVW9DUWp1OG5BQVB0TGk2VTJQdHh2TU9EUXdQWi1OVVBEb1NTaUNNZlJxbG43bVM2TlRFdFpuRVpybXlGWjk3aG1oRlk0UDVqMDB0TkY0Ym1ESVdlRjV1?oc=5",
+      "source": "Brussels Signal",
+      "date": "2026-02-26T15:55:38+00:00",
+      "description": "‘Russian drone intercepted near French aircraft carrier in Sweden’  Brussels Signal",
+      "query": "drone incident",
+      "detected_at": "2026-02-26T22:10:17.999399+00:00",
+      "location": "near French aircraft carrier in Sweden",
+      "category": "other",
+      "id": "37f5c771f989"
+    },
+    {
+      "title": "iran May Have Shot Down Second U.S. MQ-4C Triton Drone — In Exact Same Spot as 2019 Incident - Defense Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlhvU0VHcjZtQnBWRmIyLWZHZkVvNnNRa0YtUlJLbFAxSjhhWUpDN1VqOEs3M0ZSNGVDRTI1TGhzTXBPYkI1Zmt1aVpuQjJHLTUzYWNDWnRCY01hUnJfUE9Qazc3NVY1cVN6c2dKaGxhUm1WYk9HZGhjNDdlMkdlMUN3Tk9hN19BTy1EM3IzaGx0ZnNaaVc3cHhrUG9UZElUWVhVdjlUMEFZTVVtU2RMaHc0d0lkVGZMN204S1pncTl6eGVQVXV2RkhR?oc=5",
+      "source": "Defense Express",
+      "date": "2026-02-26T18:06:46+00:00",
+      "description": "iran May Have Shot Down Second U.S. MQ-4C Triton Drone — In Exact Same Spot as 2019 Incident  Defense Express",
+      "query": "drone incident",
+      "detected_at": "2026-02-26T22:10:17.999399+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "863e37c3d1b3"
+    },
+    {
       "title": "Russian Drone Crash Sparks Fire in Chernihiv Region Home - mezha.net",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2RnOHZHUFZFTFdoRHZlaEllcGxvLUpnZmVaUXZERzJ3OHdjUS1CdmUxS0hOMTZMNk1vMVl1NFR4X2VUUU9UWTFEcVpRX2xYOHNfM0ZmblhuaU1OTnhuLWR3ZkFpY29QOE1XY2I2allrWUhBUllhYnVCOEUwRGhqU1NFdHBpQ1RVLXUxNHRB?oc=5",
       "source": "mezha.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "cec77ff4ab0e"
-    },
-    {
-      "title": "Ukrainian drone strikes leave hundreds of thousands without power across Russian-controlled area - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm4yckJ2ZGYwdFdPdkVCcjl1cUtlTTFIRzVIYWdNTkxfbV9YemszQkhUVEgyVmlIV0k1eDRyWjF4RjI0N3o0STRSUXlCRGFWdThDNUlLbDE4Wm9yWDdRcE56Smx4VFpaUWF4dzdwaVBCODJ1Z3p0alE4OTF2eGhDaTNZV2VFRjVNYWE5NmxObkpuZTVhU3NOSm1Xc1FZNWdnVF93TDNvem1mVUxJUkdjZDh3aGZqSG5rTWdSbzAyV2k?oc=5",
-      "source": "Fox News",
-      "date": "2026-01-18T19:07:16+00:00",
-      "description": "Ukrainian drone strikes leave hundreds of thousands without power across Russian-controlled area  Fox News",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-18T20:06:20.288998+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f74e9dedad43"
-    },
-    {
-      "title": "Russian Gerbera drone falls on Moldovan territory - The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR09BU05sejF5dGtIVkdhWW16VFFwV0ZsMGdVZFJNSDNteDlKaU9kQU1ONFA1OW0tVFY5QmdrZTV3MlJwdVNqQjl5bjFXQ2ZXZTNmY1R0WGtQVks1VFZZVFFFRkdTVUl0SFJLd0VBMXd3YTZMZl9OSWZidUxCV05Da3kwTzNraVpUZkdTVW9KMXZMczUxMFVGNnlB0gGWAUFVX3lxTE5iOFlpS09PSk10eU02a2xEdjBxOEt5U1RFOEVxVnB1bE1Xam8ydVBXUGctckxvQ3RMMEF5R1dmZ09vTk9mWFI0Z1ZyZURaU1dzSmZtYjNNYURPMUdxSGZEbGpPMDh5cndJSDFHWFJhenFTaGctSEh0RFNVZXl3Q2RicHd6Rzg5Uy04SU80eXpBcFJqSzFCQQ?oc=5",
-      "source": "The New Voice of Ukraine",
-      "date": "2026-01-18T18:25:00+00:00",
-      "description": "Russian Gerbera drone falls on Moldovan territory  The New Voice of Ukraine",
-      "query": "drone crash",
-      "detected_at": "2026-01-18T19:04:39.234794+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "34b3c61d38f6"
     }
   ],
-  "last_updated": "2026-02-26T21:13:35.069333+00:00",
+  "last_updated": "2026-02-26T22:10:23.834288+00:00",
   "total_count": 1000
 }
