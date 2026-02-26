@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Spokane deputies use drone to find driver after crash - FOX 28 Spokane",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUk84QXdBZFY4ekJHRmFVSlh5eXVuQ1ZrY1VCWWRJY1V0UlY3SzhaNE0xcVJEcTZYb3NnTjV2eTNQRXJUbmxfSDdqUmQwbzJDNkNFcmQtT0w3dGtYVmhIU09aeFN3S0IzdzlTRW51UVZVakpraFJ6OUlUNHdTZEZzUEVuRFFOWW52MU9j?oc=5",
+      "source": "FOX 28 Spokane",
+      "date": "2026-02-25T21:43:00+00:00",
+      "description": "Spokane deputies use drone to find driver after crash  FOX 28 Spokane",
+      "query": "drone crash",
+      "detected_at": "2026-02-26T03:01:27.587109+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "396a4b0dbdf9"
+    },
+    {
+      "title": "Suspect in drone flights to N. Korea attends arrest warrant hearing - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TX0c0MmZrZktpbjItOXlmOURHZ01SSmw5VkM0VGhuRWJFN0lYTFphRjhUVG5zQ09ET1RUWDVzcExCZmxqSE1JNkpTZzBPdnRtV1JabUZWd0o3QQ?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-02-26T01:37:04+00:00",
+      "description": "Suspect in drone flights to N. Korea attends arrest warrant hearing  Yonhap News Agency",
+      "query": "drone arrest",
+      "detected_at": "2026-02-26T03:01:25.320616+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9bc6fc641aee"
+    },
+    {
       "title": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZkx5Y2hpTnF6UFA0V0IyYWZuMWNhZ1ZzbWZmc0xLd2xKcnpZSjQ5OVZaX2tnVHozZFJfWFRCMW43ZDdheEsxOWlONnJ4V1BsM2I0WURkR2FQcFJ3SHJJVW9OV2lqWHRpRGtRdHJOQzBOSXhSb1VYejVJNGk0VUk?oc=5",
       "source": "AOL.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "97471f165509"
-    },
-    {
-      "title": "Ukraine Arrests Russian Agents Accused of Plotting Drone Attacks in Odesa - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85VE9fbUFMeVp4RWRVMFozMjZuNTByNmtaLWVMbndZak41cTUtcnhqblFJT01DeUpqN095NGJXNlY1OGJyX1RvQ1dZaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-01-16T10:18:35+00:00",
-      "description": "Ukraine Arrests Russian Agents Accused of Plotting Drone Attacks in Odesa  Kyiv Post",
-      "query": "drone arrest",
-      "detected_at": "2026-01-16T23:06:07.359035+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "eae5bd2ab352"
-    },
-    {
-      "title": "Greta Thunberg Flotilla Incident: Drone Strike Or Self-Inflicted Misfired Flare In Tunisian Port? - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWFGZU13NE5wVTl3a3RCRTU3b3h2VWw1b0VIMTJCTGFYTjZJVU5Pa19rSnlmTnZULWRXU3QzUXlLV3ZrOGVyeEJoRkk0TWRheFMwQmRhNWpoWDRVLVllNndnVGJ4UExkRnhCd3hhVmtWSWdzRlFfd3FwMnBuUzh1M1d3SEs?oc=5",
-      "source": "AOL.com",
-      "date": "2026-01-16T19:59:45+00:00",
-      "description": "Greta Thunberg Flotilla Incident: Drone Strike Or Self-Inflicted Misfired Flare In Tunisian Port?  AOL.com",
-      "query": "drone incident",
-      "detected_at": "2026-01-16T23:06:06.685001+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6689642f4abf"
     }
   ],
-  "last_updated": "2026-02-26T01:36:26.147118+00:00",
+  "last_updated": "2026-02-26T03:01:30.369633+00:00",
   "total_count": 1000
 }
