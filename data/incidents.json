@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "U.S. military used a laser to shoot down a Border Protection drone - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlVYTlV5VWtKcDMxMWFMSmhSOTRpVDhJWkhtb29LWnYyOHNJZlFkeDUzeS00MTZfbEFMQm41X0RfMGlmRGxaakktdF9DRnBQV2Z3LVpkM1ZQd2xzTzB5d19fYTZsSWQwaWdVNEhXUFh6bGRBdHZnZEpWbHhpcHQ1bHg0aEkydzZpM3Juc1dMX1JBLTZoM1ZV?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-02-27T22:10:48+00:00",
+      "description": "U.S. military used a laser to shoot down a Border Protection drone  The Washington Post",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T23:07:49.757358+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4cb7ba21f0df"
+    },
+    {
       "title": "Unauthorized Russian drone stopped by Swedish military during NATO exercise - The Mirror",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXRIMklWbkpHa3N3NjU4ZFc1dkFnM19oZTVfMTJYUUVPYXY0NUZnTkluOUR0MThkNmtuSVd6WnR3bWE5NGZaV0sxMkxzYW82V3BrNmRVV2pzYS1KLVdXYlV4QWMyal8yOGoySUw1Y2t5cWRncDZ1Z0VaQk02YWFZSzZJVDRhY25MWmRfeEFKT25UNkxad0tz0gGcAUFVX3lxTE83RlZ3QjFWNTU0dG0wNXN5NGhrUjdhb01iOE9SSGFsWWk1N21qX0tZeklvOUZrQ3JZLWVxTGxxQWtDUjMtN2xsWVhyblRhX0JCUVNtUDVva251REhOS0dENFN0aEZCU09JWldYZWtqOUZWM2xXU1E5WnZtRmtoc25oNk1MV3RTOTJWaWFmbWJXYVRnem1DQnN4SnV1OA?oc=5",
       "source": "The Mirror",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "be3f0948b308"
-    },
-    {
-      "title": "Drone video captures dramatic arrest after 130-mph chase near Prineville - centraloregondaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV09XU2dKYm9RTWtieVVzWjI5aHozOG1IMDY0eHllV3E0ZEJPM3FrQ0ZiQlJKOGFIelZEODJuYnJBZEh3bld6Ni15S3F3UmFRMlM2TWxRRmNldFhzd2lia0hRc0FiT0ZUX0Y0ckZ5VVZpWWpTcFJEVFI4ZkRpODZMeVNlWWlqVXdlQ1VFLVl2RjBMSXdmelZtWkhXUGFsY1hBSVhER3lqYi1BMm8yZWJuOGhuclpxcmxXNi1xYUdZTXpTdkMzN1VfZzNIVE9mTHo1dzB4Q1pYMDloY013eXNKbA?oc=5",
-      "source": "centraloregondaily.com",
-      "date": "2026-01-22T01:24:40+00:00",
-      "description": "Drone video captures dramatic arrest after 130-mph chase near Prineville  centraloregondaily.com",
-      "query": "drone arrest",
-      "detected_at": "2026-01-22T21:07:02.558723+00:00",
-      "location": "near Prineville",
-      "category": "arrest",
-      "id": "0d8093e35644"
     }
   ],
-  "last_updated": "2026-02-27T22:06:37.658975+00:00",
+  "last_updated": "2026-02-27T23:07:55.387788+00:00",
   "total_count": 1000
 }
