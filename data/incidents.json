@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA closes airspace in Fort Hancock, Texas after reported accidental use of anti-drone laser - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmRjODVLajV5alVoV1VXZ09NSEFDbjBpRmxjU3FkZEVBcFRfSWZETmxuT0MwV29TQUdmOE43Mlg5RFByMmdHY1dFdUM2LTB0Wm9ZWkFRWUZlYVZHdkhqQmdpdkJLY29nYWlqajVPVzVieU5HVUZNSVlDbUQ4and3M29zSDFaalNDRkVoX3JKS2o2NEc5LTRRQU9EeE1xTDBXaDVlN3RCRnRQME1ldUpaOFpnc3VxTk5QWHJ0UkNhTzJoWHNGQ3J3SWR3?oc=5",
+      "source": "New York Post",
+      "date": "2026-02-27T05:48:06+00:00",
+      "description": "FAA closes airspace in Fort Hancock, Texas after reported accidental use of anti-drone laser  New York Post",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T07:21:51.845093+00:00",
+      "location": "in Fort Hancock, Te",
+      "category": "airport",
+      "id": "c5cfd1cb37a6"
+    },
+    {
+      "title": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
+      "source": "ABC News",
+      "date": "2026-02-27T06:34:09+00:00",
+      "description": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials  ABC News",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T07:21:51.845093+00:00",
+      "location": "near El Paso",
+      "category": "other",
+      "id": "b6bcba78f4ea"
+    },
+    {
+      "title": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1drelpqVG9qcGlYY1lzdzhzYmNKOXVwUWZwc1RuM1hrSnNGXzRFVDh0QjVHcVJ6M2xUMUxvRzZWaTBLVHVNN3lGcXh2aHB0VkFLZDFmekpPV1RGQ1hkT0ZsX0x2UFFuRk1kblZzbFp3V3h1Y1JzaTFmOEt1UkIybXRJVzNWNkx6NHRtWXBibWNLRThpd0NxcUY2bElQekVnTmp1bzdqQmc2YWZlaW1XRWhYR04?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-02-27T04:10:00+00:00",
+      "description": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas  Bloomberg",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T07:21:51.845093+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9df40bd4cd10"
+    },
+    {
       "title": "‘Polish drones used by India in Op Sindoor, no disagreement on terrorism’—envoy Piotr Świtalski - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1EtcG5hN25vb1kwZ1o5RjlESVpRQkhTZnRCRlZucEt6elUzZkNnWHQzUTNaU0ZuWlpFYWw3U0l6MlUwczJKYkE5M0lSazdDeVd2YnIwQkdYZUV2bzJmUU5ZZHE3LVpndkJZaW9QTDdHR0ZQblloTHowUlEyX3J3VnZ6cGphVEpaSU00SzdMcnA2dDdzaTh1Nm40NFE0OGYxTkZxd3pXaUJYV2Yyc0lWRjhtNktSX2NHVnRFU2tZV3JWUE1FVXMwdm1nQdIB0AFBVV95cUxOcWhMUUt3TFpLaFJTU05CYjVIOUtSV0ROenlvXzlsMHhNQTF0N0p4a2RzLVJqaWRTeWVaWnVMWUFSaUYxRkNiMDRrdHpKcWVyZ2NoR1FoTjlLN2NSM2hTZGdFdUFMX2JvYjMxaDNHQW1mR3JSaU9lTEhvc2FGZ09ya1pKc2ZsbE5Mdi1kdWRqclVDWVhHaWJuODBfNHpSNl9xNVRHZEZfTEJxeVducmVsSVBWOUVnVTd3NzlLc2M0RDNYc3hpZVN5RjdZeGctRmVl?oc=5",
       "source": "ThePrint",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "8bf51401d630"
-    },
-    {
-      "title": "Two Located by Drone After Cliff Accident Near Albion - kymkemp.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWczX2tPZ3VkYUZkaldmRUFvX2c1a0VZaTV1eHQ5N3Q0X0J3bTRreFhRZ3d4azM2UDJoc2xpdnVhOVN5Vzl1d3V0N3pfc3Vnbzcya3lGRGxEUUpTaDlybjNQeVN1T2NlcmlrX1Mzb2RhdElYcFFXYlFsN1lqeEpxLWJYY05uOWE3Vnh2emlB?oc=5",
-      "source": "kymkemp.com",
-      "date": "2026-01-20T04:05:35+00:00",
-      "description": "Two Located by Drone After Cliff Accident Near Albion  kymkemp.com",
-      "query": "drone incident",
-      "detected_at": "2026-01-20T22:06:43.197923+00:00",
-      "location": "Near Albion",
-      "category": "crash",
-      "id": "19967cb3812e"
-    },
-    {
-      "title": "Acid thug Arthur Collins under investigation over 'prison drone drops linked to organised crime' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPaE5IdHh4LUpPY21QLWpaTUtkZlRncGRnS014YndOV1p5TTdwSkpiWE53Wk13dktvSUNlS0R2SG5ZNHJtU0FEZDYzRGZObFpzUlFpaDd0eUdaRU1uNzA1VU44WHJpMzFXSU8wbXBkcF8wMFhvVXFqWlFvMzlHU1hNMXMzSi01NG9FdFpHLWxxeDdGZ1VHQlAzYWdpT29WVzFzeXVVMjFiYkR0R2RreWdpX0hlNVl0Q1dxM0ZxRkFkMWZOc0RqSlllU3JzLWl1M0FnSWU2M010NllnQWVkWHZsbjVvR0pocU1BMExpV3UtQ3VzVEw4dGFxRXVNNzFuWmh5Zjk5LXhvTTFPNlZKVGljSFJsRHdGYTVvbVdkNTl0THZpMHhDcUVTN192SFlOcGI1RkNkWUtNT0ZqTUZpS2tVeUV5blpLNmQ4NGtOM1J5LTFJUXZmcXE0UXJ5UmtwWlRGTWZ0MTZyckFXRnNYRC1NZUhR?oc=5",
-      "source": "MSN",
-      "date": "2026-01-20T09:16:35+00:00",
-      "description": "Acid thug Arthur Collins under investigation over 'prison drone drops linked to organised crime'  MSN",
-      "query": "drone prison",
-      "detected_at": "2026-01-20T21:06:31.520859+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fff6f451aaa5"
-    },
-    {
-      "title": "WATCH: Police share video from drone that helped Cincinnati officers arrest suspect - WLWT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOGJ1V2VOaUdKcUhScmdtbkEtcHdwajYwUWt4RUdaMFl1Y0xpU2U0MmJNT3ZwbGFXbXNrQU9IZTRmcTZXaXQtTFVEbXJDZWs4ZGZpU0lGZEVMdXFxN1A1U0RMaXh6RU9xTmRRRWc1a0tjeHRoaUw2ejNYcFhJSUZxQlZiNE9MUWRJX1JLTlZ0dm1sbjZudmc?oc=5",
-      "source": "WLWT",
-      "date": "2026-01-20T20:53:00+00:00",
-      "description": "WATCH: Police share video from drone that helped Cincinnati officers arrest suspect  WLWT",
-      "query": "drone arrest",
-      "detected_at": "2026-01-20T21:06:30.257389+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "4c2491b947c1"
     }
   ],
-  "last_updated": "2026-02-27T06:20:56.966923+00:00",
+  "last_updated": "2026-02-27T07:21:57.372406+00:00",
   "total_count": 1000
 }
