@@ -1,0 +1,154 @@
+{
+  "narrative_summary": "In the past 48 hours, several notable drone incidents have emerged, particularly highlighting the ongoing international tensions and security concerns. A Russian drone approached a French aircraft carrier near Sweden, prompting military responses, while the U.S. military's accidental shooting down of a Border Patrol drone in Texas led to airspace restrictions and investigations. Smuggling activities are also in the spotlight with reports of arrests related to attempts to transport drone-making equipment to Russia. Additionally, increasing drone-related violence and arrests related to drone activities were noted in various regions. Overall, these incidents underscore the growing ramifications of drone technology in both security and warfare contexts.",
+  "totals": {
+    "other": 16,
+    "interference": 4,
+    "airport": 7,
+    "arrest": 6,
+    "terrorism": 8,
+    "crash": 4,
+    "smuggling": 3,
+    "security": 3,
+    "total_incidents": 91,
+    "by_category": {
+      "airport": 6,
+      "arrest": 13,
+      "crash": 10,
+      "interference": 3,
+      "other": 36,
+      "security": 5,
+      "smuggling": 11,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 16,
+      "drone crash": 6,
+      "drone illegal": 4,
+      "drone incident": 28,
+      "drone prison": 1,
+      "drone security breach": 4,
+      "drone smuggling": 8,
+      "drone terrorism": 15,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "U.S. Military Actions",
+      "rationale": "Involves incidents related to the U.S. military's engagement with drones, including crashes and airspace management due to drone threats.",
+      "incident_ids": [
+        "6771375ca998",
+        "f6b66fec3a67",
+        "32e559065264",
+        "1b5b633749fc"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Focus on incidents involving attempts to smuggle drone technology or components, indicating international trafficking concerns.",
+      "incident_ids": [
+        "2c8e35d1c438",
+        "f9e8cc2e5a06",
+        "b7418c0e757f"
+      ]
+    },
+    {
+      "topic": "Russia and Ukraine Tensions",
+      "rationale": "Incidents tied to tensions between Russian and Ukrainian forces involving drones, reflecting ongoing conflict dynamics.",
+      "incident_ids": [
+        "ef7f4b5b5be9",
+        "7b8b19b85a04",
+        "f8e94f6b9f14"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "932597c9fecc",
+      "headline": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+      "one_sentence": "A drone near a French aircraft carrier was likely of Russian origin, prompting security escalations.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2c8e35d1c438",
+      "headline": "Afghanistan claims successful drone strikes on Pakistani military targets including in Islamabad",
+      "one_sentence": "Afghanistan reported drone strikes targeting Pakistani military positions, highlighting regional tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "32e559065264",
+      "headline": "US military shoots down govt drone in Texas, leading to flight disruption",
+      "one_sentence": "The U.S. military's accidental downing of a government drone in Texas has caused significant air traffic disruptions.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "731783f46b88",
+      "headline": "Man arrested with help of drone equipped with thermal imaging",
+      "one_sentence": "Law enforcement utilized a thermal imaging drone to arrest a suspect, demonstrating the effectiveness of this technology in policing.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "2a324ad1dfe2",
+      "headline": "FAA closes Texas airspace after military accidentally downs CBP drone, lawmakers say",
+      "one_sentence": "Following the military's accidental downing of a drone, the FAA has restricted airspace in Texas.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8806bd0c420e",
+      "headline": "U.S. military reportedly used a laser to shoot down Border Protection drone, sparking new air closure",
+      "one_sentence": "A military laser reportedly downed a Border Protection drone, resulting in an airspace closure.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "426c85494368",
+      "headline": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone",
+      "one_sentence": "The FAA has enacted airspace restrictions following the Pentagon's downing of a Customs and Border Protection drone.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1fe1f8ed0c21",
+      "headline": "Hamas Turns to Seaborne Arms Smuggling",
+      "one_sentence": "Hamas is reportedly shifting to seaborne methods for smuggling arms, raising security concerns in the region.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2026-02-27",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
