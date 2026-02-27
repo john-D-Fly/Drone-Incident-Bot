@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Sweden jams suspected Russian drone near French carrier as NATO war fears rise - 930 WFMD Free Talk",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkY5SGI0NGhXTGhCU21LZFFvd3VWdGw3UWd3NFY2LXlxc0dmZmhzeElJN2taMngyektsRVJKRHAzb3N3aENqTHJDYTliTUU4ckh3VXhzMFVkT2doR1pOSm1HclNUd2Z4WG00d1MxTGxyWlpOZkgxVk9aWWIyRGgzaGs0S2Z6VUNJRmREa0FDSmZsN1N4aTlfUDZQX2RacXNkSExSc2FrTnlqVGZkUzFFUg?oc=5",
+      "source": "930 WFMD Free Talk",
+      "date": "2026-02-27T03:52:38+00:00",
+      "description": "Sweden jams suspected Russian drone near French carrier as NATO war fears rise  930 WFMD Free Talk",
+      "query": "drone security breach",
+      "detected_at": "2026-02-27T04:36:19.272014+00:00",
+      "location": "near French carrier as NATO war fears rise",
+      "category": "interference",
+      "id": "0330cb1fd7c4"
+    },
+    {
+      "title": "Illegal drone sightings cause delays, diversions at Da Nang airport - Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGhTbWxMSDVabkpMNVVBcGxQUFhlM3NnTExjSmxXNFRUb1dwVEljYWVmT1ZJSDlpMjhRTHdQSHkxUDZGX1NxcHphZk5XZXI3b2NuMkVRcThGdFE1Tmk5VEFOVWdBdWxtclplamdhdFNBazZtUDFnV29Ea2lJaGpLbmxMcU42ZUpRVy1nekxsNVN3ZUR1VkxDQU9qSGdLZTBoUWg5VDU3RQ?oc=5",
+      "source": "Báo VietNamNet",
+      "date": "2026-02-27T03:21:00+00:00",
+      "description": "Illegal drone sightings cause delays, diversions at Da Nang airport  Báo VietNamNet",
+      "query": "drone illegal",
+      "detected_at": "2026-02-27T04:36:18.720273+00:00",
+      "location": "at Da Nang airport",
+      "category": "airport",
+      "id": "e2c1e83863e3"
+    },
+    {
+      "title": "FAA restricts Texas airspace after drone incident - breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRl9hX2lIV2dWZ0ljWjdVeWRHdWxPOExfRWdVMHY0MlRFRzBTTVVEajB5c3g3dC1hcC1FenYwSDNEMENFQXhZT3dzWWY1ZmdybWhlR1NXQnB4NzU3dEVsMDYwejlQYndiN0d3OUc2cjJlcWZsYzViNjFJbEV6akU4aTlWeklUcFpNX2U0TVdnbElzSWZrOW5BcUVn?oc=5",
+      "source": "breakingthenews.net",
+      "date": "2026-02-27T03:23:00+00:00",
+      "description": "FAA restricts Texas airspace after drone incident  breakingthenews.net",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T04:36:15.334769+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "afe6e0097864"
+    },
+    {
+      "title": "US military accidentally shoots down own drone at Texas border, lawmakers say - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnVMbjc5S0ZhTy1ubURkTm15aHlJLWhyWnVsT0hrZnphVjBqQlNVR251cUVkLU5fS1ZBNDNlby1fY2tnTE56UGY2QTJlN1docTF5bTJFRDFuTm5UWUhBQWFtVUhhaVlmclNraTBGa1oyNF9sT2x0LXNSUm9VNy1nV3ZRblVtS3ptU1hlONIBkgFBVV95cUxOdjR4bzNZaXNfN2NlcXBsT0FUZ1ZvMzBjUnBtMFF6emN0T29BaXBqelFmSVZZZFc5UDFPSHN3WGJOYWF5Q255WmM0bThkOUh5cnhkWGkyYk1maC1WOWhfUE1Gd3Jta3hXUGdlYU1HSWdsUmY1RE5HYmtjRzhKWFd1OV81REcwR2RoejJ6OFNuREFNUQ?oc=5",
+      "source": "FOX 10 Phoenix",
+      "date": "2026-02-27T03:06:55+00:00",
+      "description": "US military accidentally shoots down own drone at Texas border, lawmakers say  FOX 10 Phoenix",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T04:36:15.334769+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6b7754ff485e"
+    },
+    {
+      "title": "US military laser shoots down government drone in Texas incident - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzdsbjhTcVI5ZmNaV01iMFFMVDd5M0dzZDJIalRWdVpvR1c4Zl9kQnJmVllaT3h5b0E0RzhmODZpZ2k3RzQ3QWJ1cDcwX2VacXViUUo4aGdhTDNzZFF3cUlFcUFKN1BjeTV6aVA0ZEUtZkF0VEU3ZXJXX3E3MU5aNXUxeUEtbmw2RE9WaHFsYXlranhKdnlxS1V2QTRhcDJCR1VMNlItSENyQVN1M2w5QTVMOEZqVXYyUFA2bEZpUmVWNWJlLXBIOVFR0gHKAUFVX3lxTFAxWVpOZ1JuVVkteFQtc3dxR2FSbnBMMnZuR2FGMDVHNW5DdmRzanhoMVNJTkdwMldndFo0MTZSZmZSTG4yWlNKazBBRnRkUmdPaDRIQnpUQS1WR2JLYWpoV0VkY1ltSFNqNDA4ZkNVUjZ2bzhkQWNwN2FkYV9hakJUZ0FfLXdaMUV6c1ZBVGM2bS1UTFJoQTkxMzBGcHdiYnBDWEJJVVp1WEJfbkt2VHBzUFBfUGJzXzdkdGcxVGlhaHF6am9TYURJUkE?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-02-27T03:36:29+00:00",
+      "description": "US military laser shoots down government drone in Texas incident  South China Morning Post",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T04:36:15.334769+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a9df3debf928"
+    },
+    {
+      "title": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1drelpqVG9qcGlYY1lzdzhzYmNKOXVwUWZwc1RuM1hrSnNGXzRFVDh0QjVHcVJ6M2xUMUxvRzZWaTBLVHVNN3lGcXh2aHB0VkFLZDFmekpPV1RGQ1hkT0ZsX0x2UFFuRk1kblZzbFp3V3h1Y1JzaTFmOEt1UkIybXRJVzNWNkx6NHRtWXBibWNLRThpd0NxcUY2bElQekVnTmp1bzdqQmc2YWZlaW1XRWhYR04?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-02-27T03:16:00+00:00",
+      "description": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas  Bloomberg.com",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T04:36:15.334769+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9589ef96a948"
+    },
+    {
+      "title": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
+      "source": "ABC News",
+      "date": "2026-02-27T03:56:15+00:00",
+      "description": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials  ABC News",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T04:36:15.334769+00:00",
+      "location": "near El Paso",
+      "category": "other",
+      "id": "d370feba4d0f"
+    },
+    {
       "title": "UC Irvine Scientists Uncover Major Security Flaw in Autonomous Drone Technology - bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUFiT2x2WjkzR3Jna0poVi1mUGtrQVRHQ2F3MzhrelJPZmgwN1Zwc29wQVY5d0pRVDN3WElIU05xNWZtWmZjNFN5LWtBMGFsYzhvY2ZMemhNVTdsN3dsbXVNUS0wUmhfLUxfWl81em5HU0N0ZzBiR3VCQ1NjcDRuSDBCMEQwR2lxZnNNZFJ1WFY3WW1XU3RhWDh6d2JaYktXQ0pWd0tsSQ?oc=5",
       "source": "bioengineer.org",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "331b91230635"
-    },
-    {
-      "title": "From ground to sky: How drones are reshaping Punjab's drug war - India TV News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWndCRHBZOE5TcjRQRk9pMTY1NzZCUWVCRE1oSE5VcGVOUzNsMmZSTXA4WVh0NW5lYWNuN0FLMDNKbW1kanE4QmlwSGhBcHE1QWRFWmlrVHJCalIyUndjdTFXS0RNWW1TYmFvR1AwVFdhTFhzdW9XY0FQdjJ6cWJUeDBKejBGaDlkMURRR2Q1TzhaMERWd0dmcGZ1bkxhZmvSAaQBQVVfeXFMT2FXOWhHX0JFU1V3QnJyV2p2czA1UExXUVE2aG94RUlSbkFyVDNIRWNGaGtQQ19JZ00yaWZSWFhBcmdnQmoyU3JRMnU3V09RYnR5UmhNM2pKRWI5UVFIVER0LU8yOVJBTjFUME1DQ2szOTh4d0pVWjNuY244dVlCbUNJdWVVOVdheEpWUE05QlNRYS0xSXNmd2Zod3N4QU1kVUplcXU?oc=5",
-      "source": "India TV News",
-      "date": "2026-01-20T07:23:44+00:00",
-      "description": "From ground to sky: How drones are reshaping Punjab's drug war  India TV News",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-20T08:08:44.934230+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "290600f5b3ae"
-    },
-    {
-      "title": "South Korea’s Lee calls for improved drone detection to avoid provoking North Korea - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zaW1GV1ZhaC11UVgta0NiVEpMa1JCNm51bVY2MnBieC1DYzFEYWhZbTN6U0lCTnNTeTJzT0tPdFcxLW5Ec21Cd09aZ0stRWtDMEk3anNB?oc=5",
-      "source": "朝日新聞",
-      "date": "2026-01-20T04:00:00+00:00",
-      "description": "South Korea’s Lee calls for improved drone detection to avoid provoking North Korea  朝日新聞",
-      "query": "drone incident",
-      "detected_at": "2026-01-20T08:08:43.647634+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "154efe412f17"
-    },
-    {
-      "title": "Lee orders unauthorized civilian drone flights into DPRK probe - chinadailyasia.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4eHVzQnZuRTRuSkxHci02S2hkOENlbDg2dDZtTUZZbU1ieHJQbDJvU1kyYVN4Z1hadjlEei1LOVV6ZlpHVnZiSFJWN3haQjUybkJNQ2ZpeXI?oc=5",
-      "source": "chinadailyasia.com",
-      "date": "2026-01-20T04:58:10+00:00",
-      "description": "Lee orders unauthorized civilian drone flights into DPRK probe  chinadailyasia.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-20T07:11:16.360619+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "e4c930e77777"
-    },
-    {
-      "title": "Lee orders probe, punishment over unauthorized drone flight into N. Korea - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWek9DLWdxYUt6cUJXdm93Yk80amFnTHhrWHV4U3FyWFFXRWJLYy12cmFSaTQ0anNzRzQ2T3g1VzJwQ1pMUmJkTHU0amYxN1dlYTMtVlAyVQ?oc=5",
-      "source": "The Korea Herald",
-      "date": "2026-01-20T05:51:04+00:00",
-      "description": "Lee orders probe, punishment over unauthorized drone flight into N. Korea  The Korea Herald",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-20T07:11:16.360619+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "9b95f85755d8"
-    },
-    {
-      "title": "'Embarrassing': Ireland's defence capabilities questioned over drone incursion during Zelenskiy visit - BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUxTcXNKN1NXS0RjSGpRYUlkS3A0NzV2U002LXg3YlVhSmNXWVNMc1JRLUt5alNIYmtUa3NBLTJjSWk5OVF3X1FWT0lpWVpUQlY2OGI0dENrb0NpTUhlOHItYnZsVzVGUlhvLXJaNGdvUDdiTlpaeGszS0NiZV8tMnlaSlR4R252enBlUlRtVnR5NDI2V3k2ZTU1cjRHQ21BbVBjWGo0RUpHbFRwTkhnbXJ0ajQ4TFpWRGNobHJiemwtRmZqTEF0SXlnQ0wwVnZVZHY3M1FzZTJPZWxXcmUw?oc=5",
-      "source": "BreakingNews.ie",
-      "date": "2026-01-20T06:37:13+00:00",
-      "description": "'Embarrassing': Ireland's defence capabilities questioned over drone incursion during Zelenskiy visit  BreakingNews.ie",
-      "query": "drone incident",
-      "detected_at": "2026-01-20T07:11:11.243513+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b42c26dd7ea6"
-    },
-    {
-      "title": "Lee orders unauthorized civilian drone flights into DPRK probe - chinadailyasia.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4eHVzQnZuRTRuSkxHci02S2hkOENlbDg2dDZtTUZZbU1ieHJQbDJvU1kyYVN4Z1hadjlEei1LOVV6ZlpHVnZiSFJWN3haQjUybkJNQ2ZpeXI?oc=5",
-      "source": "chinadailyasia.com",
-      "date": "2026-01-20T04:58:19+00:00",
-      "description": "Lee orders unauthorized civilian drone flights into DPRK probe  chinadailyasia.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-20T05:12:16.222675+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "151b8f9e223d"
-    },
-    {
-      "title": "Two Located by Drone After Cliff Accident Near Albion - Redheaded Blackbelt",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWczX2tPZ3VkYUZkaldmRUFvX2c1a0VZaTV1eHQ5N3Q0X0J3bTRreFhRZ3d4azM2UDJoc2xpdnVhOVN5Vzl1d3V0N3pfc3Vnbzcya3lGRGxEUUpTaDlybjNQeVN1T2NlcmlrX1Mzb2RhdElYcFFXYlFsN1lqeEpxLWJYY05uOWE3Vnh2emlB?oc=5",
-      "source": "Redheaded Blackbelt",
-      "date": "2026-01-20T04:05:35+00:00",
-      "description": "Two Located by Drone After Cliff Accident Near Albion  Redheaded Blackbelt",
-      "query": "drone incident",
-      "detected_at": "2026-01-20T04:22:59.442965+00:00",
-      "location": "Near Albion",
-      "category": "crash",
-      "id": "70c517522f6f"
     }
   ],
-  "last_updated": "2026-02-27T03:01:02.419452+00:00",
+  "last_updated": "2026-02-27T04:36:21.068392+00:00",
   "total_count": 1000
 }
