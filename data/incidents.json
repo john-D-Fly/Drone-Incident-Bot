@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Fires Another Laser at Drone, Prompting New Air Closure - The New York Times - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BXzZuUk94NVFLQzFVbXoycTNrWXJqVFN3U0V4UGF4TGxzVFRvVHRCU1BJWDVLOVJMeUxFWGpwVWpEZVJpSWUxcHBWX2UwNnZBYmhqNzRKbzN2cGxJOGJoeUk0b1VSazFnSWxwSXRFNmRMREVLT1BZNW53QnJJZw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-27T05:25:00+00:00",
+      "description": "Pentagon Fires Another Laser at Drone, Prompting New Air Closure - The New York Times  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T13:27:29.651661+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6771375ca998"
+    },
+    {
       "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVbnVUY1VKTVAwX2hhNG9Sc2Q3OFpWdXlGRDJvS2phREVfYzhxUndSRENYdlh5dUVuclVZTzU1R2FQcTFYWlRfazExaGZxNk9idnRhVXB0YkoxQQ?oc=5",
       "source": "BBC",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b992f337ad3c"
-    },
-    {
-      "title": "South Korea raids suspects over drone flights into North - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOERLeWRsV3BhWGJ4MF9mbHRaSHpoOEFmV2I0REtUNkNNVnN3Q1NrYUo4Z1ZXX0ZDODBveUJkaFlpb1o0THpnNTBIdXlaemNsMG9aZG9Tc3Y2cUdIX2lUakw3cnBKLXZLTXBINE5ObjAxM1N5UXJmRDBqUzVpSkpQeGNaYnR6VHVhcXg5X2szZ3dIN2paX0hVTlpfaVd5Zw?oc=5",
-      "source": "The Japan Times",
-      "date": "2026-01-21T03:15:00+00:00",
-      "description": "South Korea raids suspects over drone flights into North  The Japan Times",
-      "query": "drone incident",
-      "detected_at": "2026-01-21T10:07:44.096135+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8cb24fad8513"
     }
   ],
-  "last_updated": "2026-02-27T12:14:31.295691+00:00",
+  "last_updated": "2026-02-27T13:27:35.226779+00:00",
   "total_count": 1000
 }
