@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized Russian drone stopped by Swedish military during NATO exercise - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXRIMklWbkpHa3N3NjU4ZFc1dkFnM19oZTVfMTJYUUVPYXY0NUZnTkluOUR0MThkNmtuSVd6WnR3bWE5NGZaV0sxMkxzYW82V3BrNmRVV2pzYS1KLVdXYlV4QWMyal8yOGoySUw1Y2t5cWRncDZ1Z0VaQk02YWFZSzZJVDRhY25MWmRfeEFKT25UNkxad0tz0gGcAUFVX3lxTE83RlZ3QjFWNTU0dG0wNXN5NGhrUjdhb01iOE9SSGFsWWk1N21qX0tZeklvOUZrQ3JZLWVxTGxxQWtDUjMtN2xsWVhyblRhX0JCUVNtUDVva251REhOS0dENFN0aEZCU09JWldYZWtqOUZWM2xXU1E5WnZtRmtoc25oNk1MV3RTOTJWaWFmbWJXYVRnem1DQnN4SnV1OA?oc=5",
+      "source": "The Mirror",
+      "date": "2026-02-27T20:45:00+00:00",
+      "description": "Unauthorized Russian drone stopped by Swedish military during NATO exercise  The Mirror",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-27T21:09:07.077210+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "7dc0fcbf8b1f"
+    },
+    {
+      "title": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hX3FXc3FoelBlb3NkOWJObWxjakxnQWh4OTJmT2pZeDZJcXE0MlNIb0dWbWNJRFJzd2plNEZaQ0JZZ3pJUUhCMXRkblNFTVV4Qk04dXN4Smo0WTVTNGdaRFVQZjg5S3E0UWRObA?oc=5",
+      "source": "Boston Herald",
+      "date": "2026-02-27T19:32:58+00:00",
+      "description": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden  Boston Herald",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-27T21:09:07.077210+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "e4d7854a4593"
+    },
+    {
+      "title": "Pentagon Fires Another Laser at a Drone, Prompting a New Air Closure - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BXzZuUk94NVFLQzFVbXoycTNrWXJqVFN3U0V4UGF4TGxzVFRvVHRCU1BJWDVLOVJMeUxFWGpwVWpEZVJpSWUxcHBWX2UwNnZBYmhqNzRKbzN2cGxJOGJoeUk0b1VSazFnSWxwSXRFNmRMREVLT1BZNW53QnJJZw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-02-27T04:57:21+00:00",
+      "description": "Pentagon Fires Another Laser at a Drone, Prompting a New Air Closure  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T21:09:01.183616+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "384a49f4b9a6"
+    },
+    {
+      "title": "France says drone incident near aircraft carrier would be ‘provocation’ if Russian link confirmed - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdThfaV9wdW1SQWpoWk1tR1dzZEV3dnRtVTEwckdFMEhYSnV4MzNJQS02YTVqQkc3bkNNeUUtQXJLU3lCcWhPRHZlV1ljTDcwUTFJM0lIdVlNbE5oQVl1SFMwYmlhN2VNbXl3UXVBcEdueFFHTUpzblNPWFh5YTJlcVktN2VoTHR5VmNGalFjTkFmLXczRUFmUEVVQlB1ckJ4UmZmd1gzbE5aVFA0d1Q0aHQ5eXEwRnNhNDh6aVdISXhSeUVB?oc=5",
+      "source": "WTVB",
+      "date": "2026-02-27T15:27:10+00:00",
+      "description": "France says drone incident near aircraft carrier would be ‘provocation’ if Russian link confirmed  WTVB",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T21:09:01.183616+00:00",
+      "location": "near aircraft carrier would be",
+      "category": "other",
+      "id": "de5af71c4baf"
+    },
+    {
+      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVbnVUY1VKTVAwX2hhNG9Sc2Q3OFpWdXlGRDJvS2phREVfYzhxUndSRENYdlh5dUVuclVZTzU1R2FQcTFYWlRfazExaGZxNk9idnRhVXB0YkoxQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-02-27T19:58:25+00:00",
+      "description": "Drone jammed near French aircraft carrier was probably Russian, says Sweden  BBC",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T21:09:01.183616+00:00",
+      "location": "near French aircraft carrier was probably Russian",
+      "category": "interference",
+      "id": "9dbcc205b9dd"
+    },
+    {
+      "title": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
+      "source": "ABC News",
+      "date": "2026-02-27T19:02:10+00:00",
+      "description": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials  ABC News",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T21:09:01.183616+00:00",
+      "location": "near El Paso",
+      "category": "other",
+      "id": "79d5e71bae53"
+    },
+    {
       "title": "Swedish military confirms that a Russian drone carried out an unauthorized flight off Sweden earlier this week. - citizentribune.com",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTUhkLVN4ZGVUWXZWaVBtVU9WaW5vSkRFWlhvSnNfOWVUVm1fRHRIR2RPYk9qRUwxeUpYcm9KcWM3WENGbEtMVXo0cmE4WGE0Z0JnaG4xQXlkalA4Z2Jqd2xKSGFhcW8xY3NVRmt4LXRpUHhWbGRLZTFWU0EtekF1RDNMbWtXS1hFRXJBWVVNMUVoQXBzNktZSFAyamVGQUdwS3FkOEV2c0lmS3oxX0tuWG5SZzNHVVdVOWRYYjFXajRLVGVRQUFhend3eEl0Rzc1c282M2lmMTJjdWJ1UDRhOVdrSEJVYkptY2lvTlBPeXpiTG9WZnhTMUR1b0FTX0RuNTF0bGxlRnFrcU5Cc0k2QVRQcWtSakp5MHZnYw?oc=5",
       "source": "citizentribune.com",
@@ -11927,80 +11999,8 @@
       "location": "near Belarus border",
       "category": "other",
       "id": "0be3a367b03e"
-    },
-    {
-      "title": "Drone video captures dramatic arrest after 130-mph chase near Prineville - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV09XU2dKYm9RTWtieVVzWjI5aHozOG1IMDY0eHllV3E0ZEJPM3FrQ0ZiQlJKOGFIelZEODJuYnJBZEh3bld6Ni15S3F3UmFRMlM2TWxRRmNldFhzd2lia0hRc0FiT0ZUX0Y0ckZ5VVZpWWpTcFJEVFI4ZkRpODZMeVNlWWlqVXdlQ1VFLVl2RjBMSXdmelZtWkhXUGFsY1hBSVhER3lqYi1BMm8yZWJuOGhuclpxcmxXNi1xYUdZTXpTdkMzN1VfZzNIVE9mTHo1dzB4Q1pYMDloY013eXNKbA?oc=5",
-      "source": "Central Oregon Daily",
-      "date": "2026-01-22T01:24:40+00:00",
-      "description": "Drone video captures dramatic arrest after 130-mph chase near Prineville  Central Oregon Daily",
-      "query": "drone arrest",
-      "detected_at": "2026-01-22T19:08:54.942893+00:00",
-      "location": "near Prineville",
-      "category": "arrest",
-      "id": "68e16a13d321"
-    },
-    {
-      "title": "Weapons smuggling via drones becomes Israel's new reality - jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14Qmo5alVTU0k2Vzd0YTNZSjZfMEp5UkN5ZlM2Qm01UGFabUY2bkU5RF9nTUxiSzV0WVhJV1BCclRmQXVaY3pRdVlpSzJTZ1M4MEhveFNrU3ZZN1hs?oc=5",
-      "source": "jpost.com",
-      "date": "2026-01-22T15:10:23+00:00",
-      "description": "Weapons smuggling via drones becomes Israel's new reality  jpost.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-22T16:09:40.855236+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b7c7a34a6705"
-    },
-    {
-      "title": "Drone weapons smuggling is new threat to Israel - jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14Qmo5alVTU0k2Vzd0YTNZSjZfMEp5UkN5ZlM2Qm01UGFabUY2bkU5RF9nTUxiSzV0WVhJV1BCclRmQXVaY3pRdVlpSzJTZ1M4MEhveFNrU3ZZN1hs?oc=5",
-      "source": "jpost.com",
-      "date": "2026-01-22T13:45:02+00:00",
-      "description": "Drone weapons smuggling is new threat to Israel  jpost.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-22T14:12:32.388266+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ff3b9c85ebd6"
-    },
-    {
-      "title": "Space Force installing counter-drone system at Cape Canaveral - talkoftitusville.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTZBWEFQZzJiLTcxaWZodlBlZ3hUMWRQeExZQlpPdnRVYWdtZEl5Y3lvRnBOd2pRQWZIY21KczJFLWJDZjJtVjdibDJzeWItRUVvOGxUX2FabEEyUWwwN1VNYXI4TldnekRuQ0d5clV0TnE1UVV0cElYS0FtcDNEQ0NnR2xTRzYwY1pyWjk0b2Z4UWVTZ0ZHT3FsaXhEWUNVNGo1SA?oc=5",
-      "source": "talkoftitusville.com",
-      "date": "2026-01-22T11:58:48+00:00",
-      "description": "Space Force installing counter-drone system at Cape Canaveral  talkoftitusville.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-22T12:11:07.961649+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b5edc8c5c9f2"
-    },
-    {
-      "title": "How Pyongyang's claim of South Korean drone incursion threatens Lee's ambitions - koreajoongangdaily.joins.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYkR4RktiNHdwZFYxU1RMelFIcVNiQzFfSWlBT0s1YlpxTHhXQ3NxQ21zS3NtRzF4T0pkbktzdXgzMGZyWTk3REdhY040ekdORG13dDBmZlhZWC1VdDRtSmRhb2xwYXJFOXpjUEYtQmN2REh3ZUM4ZFhra1pvZ2ZZTjBKYW02b3M4TkdHelUxTHI0WHdzNjhPdFd4YVl4OEVfU2hURC15WkpkOEJRYXd1azJ6MmNxUU04aVFiXzVsQ2EtR2ZiX3pSVkpNcXA1RmgybzI5UzA0M3p0azBnTXctUDZGMzEtbzJDcUVQaTRaaw?oc=5",
-      "source": "koreajoongangdaily.joins.com",
-      "date": "2026-01-22T09:26:58+00:00",
-      "description": "How Pyongyang's claim of South Korean drone incursion threatens Lee's ambitions  koreajoongangdaily.joins.com",
-      "query": "drone incident",
-      "detected_at": "2026-01-22T11:07:59.093137+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "1fd1c1cf9b1b"
-    },
-    {
-      "title": "Drone video captures dramatic arrest after 130-mph chase near Prineville - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV09XU2dKYm9RTWtieVVzWjI5aHozOG1IMDY0eHllV3E0ZEJPM3FrQ0ZiQlJKOGFIelZEODJuYnJBZEh3bld6Ni15S3F3UmFRMlM2TWxRRmNldFhzd2lia0hRc0FiT0ZUX0Y0ckZ5VVZpWWpTcFJEVFI4ZkRpODZMeVNlWWlqVXdlQ1VFLVl2RjBMSXdmelZtWkhXUGFsY1hBSVhER3lqYi1BMm8yZWJuOGhuclpxcmxXNi1xYUdZTXpTdkMzN1VfZzNIVE9mTHo1dzB4Q1pYMDloY013eXNKbA?oc=5",
-      "source": "Central Oregon Daily",
-      "date": "2026-01-22T02:50:00+00:00",
-      "description": "Drone video captures dramatic arrest after 130-mph chase near Prineville  Central Oregon Daily",
-      "query": "drone arrest",
-      "detected_at": "2026-01-22T10:08:32.146704+00:00",
-      "location": "near Prineville",
-      "category": "arrest",
-      "id": "189f04ecbe45"
     }
   ],
-  "last_updated": "2026-02-27T20:09:37.402479+00:00",
+  "last_updated": "2026-02-27T21:09:07.649665+00:00",
   "total_count": 1000
 }
