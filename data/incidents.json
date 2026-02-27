@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Swedish military confirms that a Russian drone carried out an unauthorized flight off Sweden earlier this week. - citizentribune.com",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTUhkLVN4ZGVUWXZWaVBtVU9WaW5vSkRFWlhvSnNfOWVUVm1fRHRIR2RPYk9qRUwxeUpYcm9KcWM3WENGbEtMVXo0cmE4WGE0Z0JnaG4xQXlkalA4Z2Jqd2xKSGFhcW8xY3NVRmt4LXRpUHhWbGRLZTFWU0EtekF1RDNMbWtXS1hFRXJBWVVNMUVoQXBzNktZSFAyamVGQUdwS3FkOEV2c0lmS3oxX0tuWG5SZzNHVVdVOWRYYjFXajRLVGVRQUFhend3eEl0Rzc1c282M2lmMTJjdWJ1UDRhOVdrSEJVYkptY2lvTlBPeXpiTG9WZnhTMUR1b0FTX0RuNTF0bGxlRnFrcU5Cc0k2QVRQcWtSakp5MHZnYw?oc=5",
+      "source": "citizentribune.com",
+      "date": "2026-02-27T19:20:43+00:00",
+      "description": "Swedish military confirms that a Russian drone carried out an unauthorized flight off Sweden earlier this week.  citizentribune.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-27T20:09:36.769321+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "98fb53464afd"
+    },
+    {
+      "title": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden - Oskaloosa Herald",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZzdNb3R6VWEtazd6dTUyeVZXSjdWQjdKSFg1Y1RGVWVPRmVPa2VOcER3TkQwdV9pZTNOd04tUkxCYkVLczJMVEJkZG1nb3hJNnpNanc3WG1adU1pUmtpT2dkVzRmM014Q250aXVncEFoMUhRTGJ4ZENOdHBCNjZGaGExbS11c3pjYl9ZTDJicEhsT25XeFlGNEhhZF9aV2JXeUFnRmRPZDlSM0JBa2JLN1RraHR2TUNFZlBoelhtNlgwQmpTUmxjaVlqcGV2M0ZTY1dPd2tRc0hUaDFfNDhjVDc0b0h4MWpCSnFybVpqRFBVOW10R3NyUUJNYmpPUG1McUw2Z0VGYnZXV2JQ?oc=5",
+      "source": "Oskaloosa Herald",
+      "date": "2026-02-27T19:23:45+00:00",
+      "description": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden  Oskaloosa Herald",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-27T20:09:36.769321+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "efa3dd24eef9"
+    },
+    {
+      "title": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjhKV2Jubno2YmtJcHRMQzdxTnhmdU9wcnpxWHM0eTlpRlh0X0I2NHJVYkplVGYyR1FBMGVaWWRMbmhmMlNpWW1BTkhMcVU2OEVBWW1JNEFLLUJzR0d5N1BjVTFwaS1zOEZmLUtRM2FiTVFraFF5LXBjT1dBN3ItMnlqdmh5STNCal9idHh4SXE?oc=5",
+      "source": "The Boston Globe",
+      "date": "2026-02-27T19:32:35+00:00",
+      "description": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden  The Boston Globe",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-27T20:09:36.769321+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "b208e8b0d0b3"
+    },
+    {
+      "title": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYWt5YTFrQWk2cXhHU0VuTjNSSTJqN2phSnVKR3BrSFVTdXFIN2JBZUp2Uy0yYWRkaFNZakJIaTR3ZDFuT1VHTW8xMXhVVXI2cERicGw3M01wZGNLY3Z3bU0zeDUwcFEzamc?oc=5",
+      "source": "Pioneer Press",
+      "date": "2026-02-27T19:29:16+00:00",
+      "description": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden  Pioneer Press",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-27T20:09:36.769321+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "9edf83ff1023"
+    },
+    {
+      "title": "Did Taliban Use Drones In Pakistan? Afghanistan Claims Deep Strikes As Border Tensions Turn Into 'Open War' - News18",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2VfVElIdENac3hKbllWcXdaN3FLVUhrdEU0RmZuN1NoZy1tTWtQWW5EZFk4RHBvbHNtRGFNOW1JSlNwMTNsaFFyOXBnd0k4ODhDUXdFbUxTd2tfWkRVUUgwNUNmenlYSlNHMFZvZFF6TmFYYktoUnFqeUQtZE1rUDczTEtSY3psQnUtd1BOc2ZOeDljM0Z0emhWenl3c2VScktkek15dUdQaEotY0RJR3NxLXd2VHo5QWxNUnJFWWxFbzdQNmR1QnlDMVN5alVKVGdF0gHYAUFVX3lxTE1vSmY1ZW81eWhBVFdZTldsN29DczJYenc5eVpWV1EwT1FhaV9ubThOcWV4NzE0ZDJDaENGYUNpdk5qYVREYmg4cWg2aVprYlBwRXBuRGF6OWZHanRCSHk1X1pfUWNLdmw5aGRYdEVWOVRIbEliZm93WXFRZ1JjUDU5SmVsb21Uc1BMcDl3S0gxXzNDZGZ0Nk4ydWNoNWFpZHM3YlRvTUNSSS1uUHlFZWM1YnhoLWdWaWR4YTMtYmRQajJxUFRoNmdUSkl6cjV5b1F6UldfODFSQQ?oc=5",
+      "source": "News18",
+      "date": "2026-02-27T11:50:58+00:00",
+      "description": "Did Taliban Use Drones In Pakistan? Afghanistan Claims Deep Strikes As Border Tensions Turn Into 'Open War'  News18",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-27T20:09:36.183431+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "47aea45eac03"
+    },
+    {
+      "title": "U.S. military used a laser to shoot down a Border Protection drone - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlVYTlV5VWtKcDMxMWFMSmhSOTRpVDhJWkhtb29LWnYyOHNJZlFkeDUzeS00MTZfbEFMQm41X0RfMGlmRGxaakktdF9DRnBQV2Z3LVpkM1ZQd2xzTzB5d19fYTZsSWQwaWdVNEhXUFh6bGRBdHZnZEpWbHhpcHQ1bHg0aEkydzZpM3Juc1dMX1JBLTZoM1ZV?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-02-27T20:08:56+00:00",
+      "description": "U.S. military used a laser to shoot down a Border Protection drone  The Washington Post",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T20:09:31.553045+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1334322ef8e3"
+    },
+    {
       "title": "Military shoots down Customs and Border Protection drone with a laser - Task & Purpose",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZWUtbWhoSkpLSUxoRW5zNFRzcERWVjVJb296WUdsWjFrSjk3TVB6Z01lUElvUGpsNzVlRzVwTXZjaWRZZTBpYWRqY2NzSkFmYXluZUV1MTdmdzFLZ1pncFdMaVBSeEtrcEZLd01MeVE?oc=5",
       "source": "Task & Purpose",
@@ -11927,80 +11999,8 @@
       "location": "near Prineville",
       "category": "arrest",
       "id": "189f04ecbe45"
-    },
-    {
-      "title": "Drone video captures dramatic arrest after 130-mph chase near Prineville - centraloregondaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV09XU2dKYm9RTWtieVVzWjI5aHozOG1IMDY0eHllV3E0ZEJPM3FrQ0ZiQlJKOGFIelZEODJuYnJBZEh3bld6Ni15S3F3UmFRMlM2TWxRRmNldFhzd2lia0hRc0FiT0ZUX0Y0ckZ5VVZpWWpTcFJEVFI4ZkRpODZMeVNlWWlqVXdlQ1VFLVl2RjBMSXdmelZtWkhXUGFsY1hBSVhER3lqYi1BMm8yZWJuOGhuclpxcmxXNi1xYUdZTXpTdkMzN1VfZzNIVE9mTHo1dzB4Q1pYMDloY013eXNKbA?oc=5",
-      "source": "centraloregondaily.com",
-      "date": "2026-01-22T02:50:00+00:00",
-      "description": "Drone video captures dramatic arrest after 130-mph chase near Prineville  centraloregondaily.com",
-      "query": "drone arrest",
-      "detected_at": "2026-01-22T09:11:38.636723+00:00",
-      "location": "near Prineville",
-      "category": "arrest",
-      "id": "a345672cb4be"
-    },
-    {
-      "title": "Queensland man flies drone to second foreign fishing boat in Australian waters - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzRGVS1YcXJVOWs3SFN4VG1NZkpCTzl2NzZ3WVBRSDRscE95eW9zNGFUVjFra3lyWlpfM2dQSFNhQklMQzZtb1RRTTY0Q0lIQ2V3QjQ1R3oyLWd1SGNfWlc3THN5b1JYblpJNmp6S0RyenNablNCSmxBU3VyZEZFYUNYOFYzNHRvZTJfSXdxR3NfOWtzVzM2b3NVU2FKQWtEN0JpcndRLXVjUQ?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2026-01-22T06:53:35+00:00",
-      "description": "Queensland man flies drone to second foreign fishing boat in Australian waters  Australian Broadcasting Corporation",
-      "query": "drone illegal",
-      "detected_at": "2026-01-22T08:08:25.860127+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ac720806f292"
-    },
-    {
-      "title": "Drone footage shows cranes lifting Iryo train wreckage at train crash site in Spain - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZks3clJrWnBFblQzV2t3QkYxeGtyQUFLSTdNdlZsUVlZU25xSnBLd0Q0Q0daVi1QTkswQThCcUk1bGFFR0dHVmZzc0NoZ1ZKamhCaWNXTWRFdV9zckhVU2FKc2paWGt2aXNYUnc5T3FqWlhRWmRtamhTU0pxdjVxWVVSMkhRNlVjLWx0UEdXYkFxNFk5UUcyNjFsWGVGMFFPVXJsWnRtbEM3SEFSV3VZdUdrYzAxSUQ2b19DMHpfOE5iNzlZUTlIcXJJMDE?oc=5",
-      "source": "MSN",
-      "date": "2026-01-22T03:18:02+00:00",
-      "description": "Drone footage shows cranes lifting Iryo train wreckage at train crash site in Spain  MSN",
-      "query": "drone crash",
-      "detected_at": "2026-01-22T08:08:25.218268+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "95058180cebe"
-    },
-    {
-      "title": "IDF thwarts attempt to smuggle pistols from Jordan using a drone - timesofisrael.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVI1RWNjRXBsNDd5UEMydmE5Rk5HUVAyZzQ0VnhMUmhHUUdoeEludFhuY2RISTdLRjg0UDF0T0JzaE9SZFhlbDQyaGZTcTlNNG5SWU1Dd0huLUpOWjN6RGtMY3JWcE81akFWWFNFV050RzZpVExuS3FsczRUSVctczl2U1hXRC02Rzd0bExFN210ZV9heVN2SlEzYVZ4WTN2b2NiX0Qwb0YzMVNTa0hZ?oc=5",
-      "source": "timesofisrael.com",
-      "date": "2026-01-22T07:39:40+00:00",
-      "description": "IDF thwarts attempt to smuggle pistols from Jordan using a drone  timesofisrael.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-22T08:08:23.329984+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "641131a1d166"
-    },
-    {
-      "title": "Queensland man flies drone to second foreign fishing boat in Australian waters - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzRGVS1YcXJVOWs3SFN4VG1NZkpCTzl2NzZ3WVBRSDRscE95eW9zNGFUVjFra3lyWlpfM2dQSFNhQklMQzZtb1RRTTY0Q0lIQ2V3QjQ1R3oyLWd1SGNfWlc3THN5b1JYblpJNmp6S0RyenNablNCSmxBU3VyZEZFYUNYOFYzNHRvZTJfSXdxR3NfOWtzVzM2b3NVU2FKQWtEN0JpcndRLXVjUQ?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2026-01-22T06:55:06+00:00",
-      "description": "Queensland man flies drone to second foreign fishing boat in Australian waters  Australian Broadcasting Corporation",
-      "query": "drone illegal",
-      "detected_at": "2026-01-22T07:11:11.614096+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7064d5ead4d0"
-    },
-    {
-      "title": "Drone video captures dramatic arrest after 130-mph chase near Prineville - centraloregondaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV09XU2dKYm9RTWtieVVzWjI5aHozOG1IMDY0eHllV3E0ZEJPM3FrQ0ZiQlJKOGFIelZEODJuYnJBZEh3bld6Ni15S3F3UmFRMlM2TWxRRmNldFhzd2lia0hRc0FiT0ZUX0Y0ckZ5VVZpWWpTcFJEVFI4ZkRpODZMeVNlWWlqVXdlQ1VFLVl2RjBMSXdmelZtWkhXUGFsY1hBSVhER3lqYi1BMm8yZWJuOGhuclpxcmxXNi1xYUdZTXpTdkMzN1VfZzNIVE9mTHo1dzB4Q1pYMDloY013eXNKbA?oc=5",
-      "source": "centraloregondaily.com",
-      "date": "2026-01-21T20:14:00+00:00",
-      "description": "Drone video captures dramatic arrest after 130-mph chase near Prineville  centraloregondaily.com",
-      "query": "drone arrest",
-      "detected_at": "2026-01-22T06:09:20.459727+00:00",
-      "location": "near Prineville",
-      "category": "arrest",
-      "id": "fc0d60038b2b"
     }
   ],
-  "last_updated": "2026-02-27T19:15:44.945019+00:00",
+  "last_updated": "2026-02-27T20:09:37.402479+00:00",
   "total_count": 1000
 }
