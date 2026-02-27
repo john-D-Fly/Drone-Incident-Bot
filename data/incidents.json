@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "U.S. military shoots down Border Protection drone, sparking new air closure and derision from lawmakers - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZUTEwyTE5heFRwUE1nLVA3ejhINlJFT2d2S2JKaDBUOFNSQ25tbjU1SkJTSGRlUWxjTDhsY1VYU2JyOUhqaGliVkY2aDJKZDU5MnQzTGEtQTJ2TTI0cFQ5UXcweFM5QUxvc2hDYkh1VGhrMlh0TEJLYWVSd29GamtNQlprb2FmdVZZNnZ5NHp0eDd4bEItSHlpd2U3X0dKNk1rWVg3NThwQVEwYy1wR1JzejM?oc=5",
+      "source": "NBC News",
+      "date": "2026-02-27T03:47:00+00:00",
+      "description": "U.S. military shoots down Border Protection drone, sparking new air closure and derision from lawmakers  NBC News",
+      "query": "drone incident",
+      "detected_at": "2026-02-27T08:15:20.984134+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6d84cf850aeb"
+    },
+    {
       "title": "FAA closes airspace in Fort Hancock, Texas after reported accidental use of anti-drone laser - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmRjODVLajV5alVoV1VXZ09NSEFDbjBpRmxjU3FkZEVBcFRfSWZETmxuT0MwV29TQUdmOE43Mlg5RFByMmdHY1dFdUM2LTB0Wm9ZWkFRWUZlYVZHdkhqQmdpdkJLY29nYWlqajVPVzVieU5HVUZNSVlDbUQ4and3M29zSDFaalNDRkVoX3JKS2o2NEc5LTRRQU9EeE1xTDBXaDVlN3RCRnRQME1ldUpaOFpnc3VxTk5QWHJ0UkNhTzJoWHNGQ3J3SWR3?oc=5",
       "source": "New York Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a58169ab55d3"
-    },
-    {
-      "title": "Lee orders probe, punishment over unauthorized drone flight into N. Korea - koreaherald.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWek9DLWdxYUt6cUJXdm93Yk80amFnTHhrWHV4U3FyWFFXRWJLYy12cmFSaTQ0anNzRzQ2T3g1VzJwQ1pMUmJkTHU0amYxN1dlYTMtVlAyVQ?oc=5",
-      "source": "koreaherald.com",
-      "date": "2026-01-20T05:51:04+00:00",
-      "description": "Lee orders probe, punishment over unauthorized drone flight into N. Korea  koreaherald.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-20T23:05:54.143975+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "8bf51401d630"
     }
   ],
-  "last_updated": "2026-02-27T07:21:57.372406+00:00",
+  "last_updated": "2026-02-27T08:15:26.460061+00:00",
   "total_count": 1000
 }
