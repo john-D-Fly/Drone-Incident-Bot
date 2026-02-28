@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Sweden confirms Russian drone intercepted near French aircraft carrier - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHhjUUJCVVd5ZmVKNmJzbnl4dk85TUJ0TjllVXUtRlUzdHI0ZTdDOFJzN1R6SnUtUWhKTjV0clpnMklVbzc4Q0hVSFlfd0k1VVZ5M1NKMzZXLU8xUXRYZUlDd2tYcUNtYVBsM3FhQXNRNDlmR0hlWEQ5UFR5ZjNyQUMzZUl5MUZfLU0xX0h6VTFjd203MmdHUGh3WjhmNFZ5WTlndkN3WGtXbnh6aGNSYtIBtgFBVV95cUxNeTdRLXJiZ0JsQjl0N05JdVVRUkx2ZWRKeEdaeXVkbkFGNERVQVRrWGZnSnEybUNBQTY5a2JLWjdqN2wycFRGa3g4MGtoTEU4OXNXNDJadkhZM2VHV2Z1clR0ekJvSDJIa01aajhQbE1OOWJoWDFUV1Z1Mkx4RUJhMzgzeXZ1UGFBbWlhdndRRG1aN2cyc0VEUVg5YzVhb2lVSWxLQWFtbVRrdTJhZm5MN29DTXNwUQ?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-02-28T08:52:53+00:00",
+      "description": "Sweden confirms Russian drone intercepted near French aircraft carrier  Al Jazeera",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-28T09:08:05.340602+00:00",
+      "location": "near French aircraft carrier",
+      "category": "other",
+      "id": "3677603a4a63"
+    },
+    {
       "title": "Swedish military confirms that a Russian drone carried out an unauthorized flight off Sweden earlier this week. - Goshen News",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMEh1a0NDN0VQWlZLZmJ1WnZmMnVWTy0yMEVoVGJCVmpnVnNXQUxXMEFLY0t4V2V1Z0MtNEhONzdSN3JtR0MyQWFvLXlpMXJGSTktN2N5Qjg5RWppTldya29RcFBvQ1NOTTNNOXNJbElaSGtiU3JacDVGVk1rendIanJYc3ZEcEh0V0JMaWx0MzlxSUxqYl9kaHkzZTAway1RSG5fNW54d3drRWF0X0ZnbTlpVEtyYm9KMDJqZlJFSVRRQmlfRmRlX3JEaUNsandzbFMxenJYZ2poQnZFLWFITGt0MnFrdWo1OWR2bzBhTnp0emhnUXRrdjFxMGJaSmVoSDdzbGJjMVlkYWt3QW1aRjh3SmJRTG9KNVkwZERVbWtWQQ?oc=5",
       "source": "Goshen News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ccd7fe6a5854"
-    },
-    {
-      "title": "Drones aid WCSO in arrest of home invasion suspect in Sparks - 2news.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT2hINlprS09Zc2RDZENpLWZqeEl3T3JHWm05bktrZ1ZRcm02SGZSY3RSWUhYcUJybTJYSWJKMW9VWmRaOTc2OEtybE95V2cydW5SZFJYQVFBMWgzNFhMWVVkMEE2eERQbXpaVUVvSFN2S2l5cjNNOWlMRzdPaFBwWGJWN0c0RVNMZW1nSkp4TzhFcWh2LTNPLThNUjhua1RXNUM3Ti1JMGJpemlKT0RSQWt2WnpVY2M5SEIxSFVsSDRKaDRVZVNxdkxUWTNiR1JFNURtNkp5QldCRzNrWGFsUw?oc=5",
-      "source": "2news.com",
-      "date": "2026-01-23T21:53:00+00:00",
-      "description": "Drones aid WCSO in arrest of home invasion suspect in Sparks  2news.com",
-      "query": "drone arrest",
-      "detected_at": "2026-01-23T23:06:06.075140+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "145fb55a79ab"
     }
   ],
-  "last_updated": "2026-02-28T08:08:00.864337+00:00",
+  "last_updated": "2026-02-28T09:08:05.820704+00:00",
   "total_count": 1000
 }
