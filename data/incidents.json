@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Iranian drone strikes skyscraper in Bahrain - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XM21POGROc1A3X3o4dUJ2dWJXQ3N6OEtheXRLQ0hITEdZVVdpd2N0dWY3YnZ5RE05Wlo0TEozZmFURnAzZkV3Ull5SW5hRzZYenc5cnQ0dXNFQVVWbURVcWtBVTY2OHdLZXNSUDgzVVp5UElUZkJhSGlB?oc=5",
+      "source": "Caliber.Az",
+      "date": "2026-02-28T18:28:33+00:00",
+      "description": "Iranian drone strikes skyscraper in Bahrain  Caliber.Az",
+      "query": "drone terrorism",
+      "detected_at": "2026-02-28T19:06:21.168269+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c8d9f6a54b0b"
+    },
+    {
+      "title": "Texas airspace shut after Pentagon shoots down border patrol drone - Axios",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlBnTFR6ejJIYUdBamFPUmdJekxmbkR3RFJfTGtxSUQ4ZWhLek9PbG5xMjhBU2lvMzEzSFlyOXFSMWQ2dnZCTERzN0xjZVpxM1ZvdlFQanVlUGc4bHRMUEZEaFhtTEprTHhFQXpKelJmRjVBWGdIUzlxeGZGbS1BUkRBZGVyNE5xVjhxdm1YVGxFWDBUT0Zj?oc=5",
+      "source": "Axios",
+      "date": "2026-02-28T06:12:58+00:00",
+      "description": "Texas airspace shut after Pentagon shoots down border patrol drone  Axios",
+      "query": "drone incident",
+      "detected_at": "2026-02-28T19:06:16.196291+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e9675c1c33c6"
+    },
+    {
       "title": "Pentagon shoots down Customs and Border Protection drone in Texas, federal officials say - CBS News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFBLeXhhVVpZcXJNMFhNbDc0c09uTlFPX0FIVlVXRjBZQ2UtNXVteS1hTFJZclV1SHlUaWZMZWVueW5KOEM0b05fcU1xX3RqeW9aNjg4LVJXQUlCRVluTGxIMnhBMWt0N2U2eE4yb3hZa2Zrdk1KeTl5dUl5dHBHZTdoMVNHZnpfWml5RnVHaGhnX29uR0x30gGcAUFVX3lxTE1rS3U0MGtyaUJRXzlUT3Y4OXdBNzZoVWFVMWlQbWdHbWJaZ0k5SzhVYjRLRmhQR2p5V3VtdWdfVU01VGtzR0hCNmphSHk3T1A3c2NZajZwa3RsbkZld2drRkxaWEhGTkY1LUpFM2UwRDhtZ2JEelMtbGh3MFlWeEZGeWpxY0R0aWZOZ1VBSmVyU1lGaFZUZUJGdEV1VQ?oc=5",
       "source": "CBS News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "d3ec7a616865"
-    },
-    {
-      "title": "Greece Police use drone technology to catch suspect - whec.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHF4TVlXTlpjSzI2MGpoRm1wT01ack5XNDRRRXJIUTdkdUh3QjZBd1Z4eFZhZVJZcVJQMFBPS3lJcjVCMThvTkhvOHNUZngyNS14MHA2emc0WUR2dnh4UGRCOVFpNzlHcFpPUFNoVW5fOGRQLUVhSnRmcmg1LTJCdFA2Ry03bWlBcGc?oc=5",
-      "source": "whec.com",
-      "date": "2026-01-24T01:20:13+00:00",
-      "description": "Greece Police use drone technology to catch suspect  whec.com",
-      "query": "drone arrest",
-      "detected_at": "2026-01-24T12:09:22.943907+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ebced3099ae9"
-    },
-    {
-      "title": "Farmer's fury over 'trespassing' drone 'vendetta' photos of 'illegal waste site' - worcesternews.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0U4Tm5QaWltcmtQMzRZVzhzTm8xS2ItT1V5U0Y0bE1hZjM0dUhHeUFJcU5NWlF5TXVyYmxfQ185Wlp1R2VvLU5XdjVWb3ExUDFwaW1hWWJWRk16TFdzMkNFeE52YkhYaGRJbG5pLXg2T1IwU0U0NUp2MVBLRE9QWlNjTFZ1VGFtRWlnRUpxMVV1b2NFd2JzWVBhNA?oc=5",
-      "source": "worcesternews.co.uk",
-      "date": "2026-01-24T05:00:00+00:00",
-      "description": "Farmer's fury over 'trespassing' drone 'vendetta' photos of 'illegal waste site'  worcesternews.co.uk",
-      "query": "drone illegal",
-      "detected_at": "2026-01-24T11:05:13.182513+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "cb3508eded26"
     }
   ],
-  "last_updated": "2026-02-28T16:07:01.736357+00:00",
+  "last_updated": "2026-02-28T19:06:22.390923+00:00",
   "total_count": 1000
 }
