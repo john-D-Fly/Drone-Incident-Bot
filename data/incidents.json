@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Swedish military confirms that a Russian drone carried out an unauthorized flight off Sweden earlier this week. - Herald Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWlFNdUk3QnQ4TnMtMDNhOEQxaFFCdmgyZ0NTa0d2N1BfTkJsd2VHNnVsaFhZZDNaWW5WWEtfNDJpc01OSFByVHpBTE0yRzE2eHhvSkRNaEZrMG5kemdnVVdBYzd2MEgtWFFkOXp4WUgxb0tQeVprWW1QUlhwSFMwZC1weTVhaWJ1RklLZVpxcHJiZ21BUUlqRGRlb2pZbzFLQ2YxbEQ1YS1Oa2FZWlliWktLSURtR2RzeTRQVlZqUmVTRGdwZ0dfdnpSZ2tuX1VNTjhQMzBoSGpQT1p3N1V1elpLclhrdlJMYUlaQk5XaWFSX0t3blVnOURfc1ZYOTdhQWpXWGY3Q29OcFRicmlGelhHR3FNNUVVRGt5QUZoZnFfcHRna3c?oc=5",
+      "source": "Herald Bulletin",
+      "date": "2026-02-27T19:20:43+00:00",
+      "description": "Swedish military confirms that a Russian drone carried out an unauthorized flight off Sweden earlier this week.  Herald Bulletin",
+      "query": "unauthorized drone",
+      "detected_at": "2026-02-28T03:38:29.427305+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "d4f0c7e0c26f"
+    },
+    {
       "title": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden - The Boston Globe",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjhKV2Jubno2YmtJcHRMQzdxTnhmdU9wcnpxWHM0eTlpRlh0X0I2NHJVYkplVGYyR1FBMGVaWWRMbmhmMlNpWW1BTkhMcVU2OEVBWW1JNEFLLUJzR0d5N1BjVTFwaS1zOEZmLUtRM2FiTVFraFF5LXBjT1dBN3ItMnlqdmh5STNCal9idHh4SXE?oc=5",
       "source": "The Boston Globe",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "4872b546e581"
-    },
-    {
-      "title": "Exclusive: Pak shifts tactics, turns drone launchpad for narcotics, arms smuggling into India - India Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGZ0NmxlUm1HdTBhMU5EdlBac09CNlh3RG81ZWY2REktODhLbTFyTEVXX0w3OEV5X0VIeEhTTjZTZ3dMQU5MN3Q4dEZQV1BTeE5UU1ZGYy1kbHhQdzRqaU0zQmlsYXFlSHZiMVB6TlRtVUl0dXB0UDU2dVFEekhpRGE4V2pxY2xEanhnTDZfbnpTZnd4aGFxeXJrb2d5MEgyRllnd3pGUXJNRk9hSWt1NTRCLU16Zk54QUJUWG1xSzlUN0ZZenhRdUV6aVDSAdIBQVVfeXFMUEpodWVWYS04cTFkOEtOVTJybE9OMUM2azFQbWwyQkE5aExtRThmc0UyNWFOUTZtTjdjaXhKM1V1bDZQeFplSWRPZ3h6RjFzU21rV085UDVIekxUenhrRHRJa3VVSHNoaFZCVXh3aGJvMmp3b05OVEdWSTllWVJfWG1vVU9NZXpaOTZRWFpPS24zdVE0Ny1sWXMzSnU2VFZzNFpZX3dJNU95M2g4SE5ZeThLdktRQnV0azdwdXQ4ZFpDNGVQWEt2LU80VmJVZnNTV0xR?oc=5",
-      "source": "India Today",
-      "date": "2026-01-23T14:21:00+00:00",
-      "description": "Exclusive: Pak shifts tactics, turns drone launchpad for narcotics, arms smuggling into India  India Today",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-23T15:08:01.766295+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3052497ff879"
     }
   ],
-  "last_updated": "2026-02-28T02:50:48.523388+00:00",
+  "last_updated": "2026-02-28T03:38:30.061851+00:00",
   "total_count": 1000
 }
