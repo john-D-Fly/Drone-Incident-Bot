@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "At least 6 dead after Iran retaliates with strikes in 9 countries and US naval base - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3BqZ3pMUFBEcG95aDFEMkNlY0NieWw0ZHF1YmVmeU52NGl2X25WYm14U3BPYlFqQ1M4dkNYM3RRZE9tVTZKeHVNWFFFSXY0eTAxN0s0RlAyU2VYLWlYYk03NGUybmZFQ0JtckQ5aUlJM2FGWUR2RmY1WUdNZHF1MnFLS0ltazYzLWgtVWl6a0tuMjFyalRzOEpfdVM2a3cxS3BvaFc0dHQ?oc=5",
+      "source": "New York Post",
+      "date": "2026-03-01T06:00:07+00:00",
+      "description": "At least 6 dead after Iran retaliates with strikes in 9 countries and US naval base  New York Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-01T16:07:21.549588+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7e67b7ebaff5"
+    },
+    {
+      "title": "Flights cancelled and new travel warnings issued after Iran strikes - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
+      "source": "BBC",
+      "date": "2026-03-01T15:22:44+00:00",
+      "description": "Flights cancelled and new travel warnings issued after Iran strikes  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-01T16:07:18.793167+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5a70ff2fb6a4"
+    },
+    {
       "title": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElKcXM3YmRWWjIzRGtLeE92cG1FMG9oR0tCbGxvMXRsMndRa3doVzdaMF9WS1E5eXZEcDhNLWZ6SGdmZmxwbTN0Y0xQYnY2eXc5djlhS2pHZndFTW43TTRVN1BUeFl4c3NSTzRZTFBKalBuT3RIck5jdGY0cXRoWjRoN1N2SDd0?oc=5",
       "source": "AOL.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b8087b3f773a"
-    },
-    {
-      "title": "Drone carrying live pig crashes into power lines, cuts Sichuan village electricity for 10 hours - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQjVkWHZCXzB2OFhsc1dIVWljSUstLVM0VFRvWUN4Xzg4ckpuMmE1UFVXeXBqaDhxaUpBdzlPX2VaRzhRWWFwVXFqcnRCM2pfc1VBRi1ZdXd0QWZwaEhrTWxVYVZuLTg3dlRzcGpZeWozeHRBZGZPdE9rbHAwZVRzSEFnSWEtRW9lMTlPR0owZlc4cllYVkN2eG12WDlMaVRKUmpJZnVZQzl4b1hZWWZ3RnFndE5NWkE2R3o3X1E2RW1saFhMMm1BNFdvLWVWajN3WnAxODUxRDFPTmtBNFBObXRxeENfdw?oc=5",
-      "source": "The Standard (HK)",
-      "date": "2026-01-26T17:52:00+00:00",
-      "description": "Drone carrying live pig crashes into power lines, cuts Sichuan village electricity for 10 hours  The Standard (HK)",
-      "query": "drone incident",
-      "detected_at": "2026-01-27T03:36:08.652617+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b255bb7037b5"
-    },
-    {
-      "title": "Pentagon Expands Counter-Drone Authority To Protect U.S. Military Bases - dallasexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenQwUXVlZ0FBTmFOSF8yNnFBLXpiZGt0bW1idXRKRHhZSzByVDJWV1gxcDdDZGNZQmRUZndnS1pqWnBkZ3ktRE1oODZyZkhwWjlNellJUl9xMU5pa3BJbElZUjFZYnBwQWJobXU4MFA3QjI5XzNaRGVvVGJLZHlCdVMyaXhwSUp0dVFGdkdhN1JaNkdOVTE0ZmZFWThkMThXM005SnU4RlVOdw?oc=5",
-      "source": "dallasexpress.com",
-      "date": "2026-01-26T19:52:31+00:00",
-      "description": "Pentagon Expands Counter-Drone Authority To Protect U.S. Military Bases  dallasexpress.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-27T02:48:41.783097+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7173daa4c53b"
     }
   ],
-  "last_updated": "2026-03-01T15:06:34.341319+00:00",
+  "last_updated": "2026-03-01T16:07:22.720152+00:00",
   "total_count": 1000
 }
