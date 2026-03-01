@@ -1,0 +1,128 @@
+{
+  "narrative_summary": "In the past 48 hours, various drone incidents have been reported, predominantly around the Middle East and Europe. Notably, Iran's drone activities have escalated tensions in the Arabian Gulf, particularly with strikes targeting airports and hotels in Dubai, leading to injuries and evacuations at Dubai International Airport. Simultaneously, Swedish military forces intercepted unauthorized Russian drones near French naval vessels. Moreover, a series of incidents where U.S. military drones were shot down by military lasers have prompted temporary airspace closures in Texas, sparking political outrage. Overall, the patterns indicate increased security concerns related to drone operations, reflecting geopolitical tensions and the need for robust policies in airspace management.",
+  "totals": {
+    "crash": 3,
+    "airport": 15,
+    "other": 23,
+    "security": 7,
+    "arrest": 3,
+    "smuggling": 1,
+    "total_incidents": 101,
+    "by_category": {
+      "airport": 11,
+      "arrest": 2,
+      "crash": 2,
+      "interference": 4,
+      "other": 62,
+      "security": 18,
+      "smuggling": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 3,
+      "drone crash": 2,
+      "drone illegal": 1,
+      "drone incident": 46,
+      "drone prison": 2,
+      "drone terrorism": 15,
+      "unauthorized drone": 25
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Middle East Tensions",
+      "rationale": "Increased drone strikes by Iran and military responses affecting regional stability.",
+      "incident_ids": [
+        "add8cbedaedb",
+        "c339fee038f1",
+        "cb5d0278f160d",
+        "c1adc1fa48d3",
+        "c86355cbd315"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Incidents",
+      "rationale": "Multiple reports of unauthorized drone flights, particularly Russian drones intercepted by Sweden.",
+      "incident_ids": [
+        "9c90582ef4fc",
+        "44e31b0a924c",
+        "73545b623466",
+        "3677603a4a63",
+        "e9675c1c33c6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9c90582ef4fc",
+      "headline": "Sweden says it intercepted Russian drone during visit by French aircraft carrier",
+      "one_sentence": "Swedish military confirmed that they intercepted a Russian drone near a French aircraft carrier.",
+      "risk_tags": [
+        "unauthorized drone",
+        "security"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "add8cbedaedb",
+      "headline": "Iranian Drone Targets Dubai Hotels and Airports, Disrupt Gulf Tourism and Aviation",
+      "one_sentence": "Iranian drones struck Dubai airports and hotels, causing significant disruptions and injuries.",
+      "risk_tags": [
+        "drone terrorism",
+        "airport disruption"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c1adc1fa48d3",
+      "headline": "One dead and others injured at Abu Dhabi and Dubai airports",
+      "one_sentence": "A drone attack led to one fatality and multiple injuries at Abu Dhabi and Dubai airports.",
+      "risk_tags": [
+        "drone terrorism",
+        "airport disruption"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "c339fee038f1",
+      "headline": "Iran fires missiles at US bases across Middle East after American strikes",
+      "one_sentence": "Iran retaliated against U.S. strikes by launching missiles at bases in the Middle East.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "eb06f568d228",
+      "headline": "Man detained for sending drone to North Korea",
+      "one_sentence": "Authorities detained a man for illegally operating a drone sent to North Korea.",
+      "risk_tags": [
+        "drone arrest",
+        "illegal operation"
+      ],
+      "countries": [
+        "North Korea"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones escalate tensions: Iranian strikes cause chaos in Gulf, while Swedish military intercepts Russian UAVs.",
+    "linkedin": "Recent drone incidents reflect growing geopolitical tensions, with Iranian attacks in the Gulf and unauthorized drone activities in Europe."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-01"
+}
