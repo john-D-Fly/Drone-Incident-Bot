@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Suspected Iranian drone strike hits high-rise building in Bahrain - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2dDX1lDdGtFRUN3ZVlWbVR3OFI0SlI3Vzd3Xy03VkR6S3ltWHAycEp2RUlNWnEwOEZQVFU0UFc2R2t6ZXRYSWNIZlRncFE3cGV1Ukg0VnpLcmVJS3hmQ3pKTjJxNVc1aFZweDM3bjZ6VnFDN0t6amhqMzNCQTRTU3JoOURzaHc3cXpNeHI4NlRHaXhQVlc2NDhINjJ0aHc3RFpDRw?oc=5",
+      "source": "The Independent",
+      "date": "2026-02-28T21:25:00+00:00",
+      "description": "Suspected Iranian drone strike hits high-rise building in Bahrain  The Independent",
+      "query": "drone crash",
+      "detected_at": "2026-03-01T09:09:35.574734+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d339fee038f1"
+    },
+    {
       "title": "Swedish military says a Russian drone made an unauthorized flight off southern Sweden - Orlando Sentinel",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZjhrSkNrbGQ5OU01WWJvYjNBVWJCVUpZM0E4SFlteldXMzQ1UFJ0ZGFUdEZTTEdzdmdGaUlJcVVhYlNEdVBzTzdjamVTSE83M3UzQ2xMd3RTVzc5d3NlS1F6dFFocE5JRkVBanA2MkM?oc=5",
       "source": "Orlando Sentinel",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "e088ca4c737f"
-    },
-    {
-      "title": "JIATF-401 Updates Guidance on Homeland Drone Threats - Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSlhYZTU2ZGt3dk5rNUo2RmRFd0d2cnVwOFhTT1IwVHVZb3Nyb182cU1YYjFzS3hzdFl3d1JHTEtNLXgxZHNRQVM4T1FCTndpUEdQXzd2ZVdpcF9FY3hYaTdRbU1zcUFRcDl5Q2Fxc2RTVXk0S0ZCbkdjOEJDb21ncTRYUGhrbkk?oc=5",
-      "source": "Mirage News",
-      "date": "2026-01-26T16:42:00+00:00",
-      "description": "JIATF-401 Updates Guidance on Homeland Drone Threats  Mirage News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-26T17:11:05.988365+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "1395f5ad9f4f"
     }
   ],
-  "last_updated": "2026-03-01T08:09:09.684534+00:00",
+  "last_updated": "2026-03-01T09:09:38.020497+00:00",
   "total_count": 1000
 }
