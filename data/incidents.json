@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Popular Spanish airport closed for hours after drone sighting - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGNSRmstamYxN3BHbWlBRGIwR0JXYTZkRTBVb0RFZHRHRzBvc3RpcWgtVVl4WXJOX2lHOEplZk9NSmZFTjlpT0NDWXlFTlE4cHdfWDFibTlYdDJJQkdqYzVIN2NRZmh1Vnh0NHl6RGV2Ylo3Y3IwaVBNRGNrWnVZZDJKN090NDg?oc=5",
+      "source": "AOL.com",
+      "date": "2026-02-27T07:48:00+00:00",
+      "description": "Popular Spanish airport closed for hours after drone sighting  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-01T01:35:48.503689+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c1adc1fa48d3"
+    },
+    {
+      "title": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzlYMlpkMktUTTRERmdoOGVSWkFwWWJUZ202NlJLUHdkWldpWmVIUkV4azdXck9SaWFhSHd5dVh1eW04UHBPeEsweVFESTNaaW9oUC1semF4TXBKUHJDMGxwdUNRMFRIR1V3Qnk5ejltbG9qQm1kc1FHb1E5TDhJMWRzYkExc2lrZzd0UWtkREpXOWZrSVZCUFN3ZFV4Ul9UOTFxZlFEazV2MnRONmVYNnZjM3FIcE5sS2F5TEItVHIybm1NanktRUpWVXhYQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-02-28T22:07:56+00:00",
+      "description": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-03-01T01:35:46.268488+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e35c9baf5591"
+    },
+    {
       "title": "Dubai’s worst nightmare unfolds as Iran strikes Gulf neighbors - Fortune",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3JSU3QzcHltXzhweGZkbWdvbTRFMTM1UHp5Z3ZocHpURzBNTVFkOF8zaU1pMnI3c1BScHJ2ZFpUUjA3RUJIV3dNQktFUU1XMk9VeXdTSE56QWUtT0Z3WEhRcENxWDNEX3k2ZktQd3V2dWdIYzJEdW5MZHVYX1VnYkZ2TFhuVWlqZjRYdWJ6Y1o0bnh6dVE?oc=5",
       "source": "Fortune",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e9642e1aa4ed"
-    },
-    {
-      "title": "Jordanian Southern Command foils drone drug smuggling attempt - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kUk5WNmphTEs1NXUxYlJPdzFNSXVQUVBsN1lPOTg0UVhVeTI5djFDczFVYWF1eWdfU0dwVVoweG1tZnY0YlJCXw?oc=5",
-      "source": "Roya News",
-      "date": "2026-01-25T16:49:29+00:00",
-      "description": "Jordanian Southern Command foils drone drug smuggling attempt  Roya News",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-25T22:05:33.272706+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "84c7066e0b8f"
-    },
-    {
-      "title": "South Korea Seeks Drone Detection Fix After NK Incident - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fQllNRHQtTTRsc0VYV0VKWDhsNm9fMWwzUmxfYXBMd0R5VTkwSDM4d1VwMWNwZE9OcFN2VEJ3bTRhd3cyOVEybURLZ2xoX3pzNDBnWkpsTVVreGt1cFhnM3puWG9wRk02V3JPZw?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-01-25T16:42:16+00:00",
-      "description": "South Korea Seeks Drone Detection Fix After NK Incident  DroneXL.co",
-      "query": "drone incident",
-      "detected_at": "2026-01-25T17:04:58.661328+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0f9fba3339c9"
     }
   ],
-  "last_updated": "2026-02-28T23:06:26.068284+00:00",
+  "last_updated": "2026-03-01T01:35:51.910566+00:00",
   "total_count": 1000
 }
