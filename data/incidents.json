@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Iran retaliates after U.S.–Israel strikes, triggering regional fallout across Middle East - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjNxc1p6bUtmY2xRMU4wVmYyRmlPYXYwMmVzSDZyU1ZzMWV3R1VVeEhtTTlEQUxPOERrWEZZd3paVXBjNktMYVFDSmk3eGRrdVRmVzR0Yi1XVGdOdUVyd1pfano2VFpUV3FxcDBVWjY5ZndxY2VtQVFqdXhsMVplREh6aWpESUIyTkE?oc=5",
+      "source": "Axios",
+      "date": "2026-02-28T20:31:48+00:00",
+      "description": "Iran retaliates after U.S.–Israel strikes, triggering regional fallout across Middle East  Axios",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-01T20:06:39.405009+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "65e929dc1790"
+    },
+    {
+      "title": "Flights cancelled and new travel warnings issued after Iran strikes - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
+      "source": "BBC",
+      "date": "2026-03-01T18:05:14+00:00",
+      "description": "Flights cancelled and new travel warnings issued after Iran strikes  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-01T20:06:37.271872+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7f7d5afee804"
+    },
+    {
       "title": "Drone crashes in northern Tafilah, security cordon imposed - Roya News",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cERsVW9XTFFLaHQzQUxuanZ1VEVRcVI2N2VnRzA5YmJ0cnlBWHdqVDFfYjVocFJ3VnJrSFgtaFJCbWxROWVSNg?oc=5",
       "source": "Roya News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "2a371a5c03d6"
-    },
-    {
-      "title": "Pentagon expands counter-drone authorities beyond ‘fence line’ - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU42S2ZrdjUyeVU1aktIaGs1NkZBSWlCbWhqdUVrR09fVDJFTExIaURJZUJJd203NGtpOUdIQTg3UEh5UzViNFZULVlaVXdSZnVuT1ZiZE9YR0puYU00Y3FsZkRYS0hmZzFjVUVKc3FhX1c1ME9KVXA0REdjMTJKZlVzT3Ixb2QzQk13Y1N4QUZTSkRCTmdWTEhBTzU4Wi15YUphT0t6VGVJQ09XYmRTdG5KYWE0ZG1BelQtV1l6SkRqZWJkdHc?oc=5",
-      "source": "Breaking Defense",
-      "date": "2026-01-27T18:41:55+00:00",
-      "description": "Pentagon expands counter-drone authorities beyond ‘fence line’  Breaking Defense",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-27T19:11:01.398098+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f36ff08373a0"
-    },
-    {
-      "title": "Winter Flight Disruption Study Finds Drones Are Emerging as a Major Cause of U.S. Airport Delays - Markets Herald",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUxOUlppQmpJcE15bHVLSVFLbUVoYTdFaGdHeG1UOFBXVkR0WjZTZXdNLWxNT0tybXA1N0JKcFE5U2ZpVU9pbmFDVmhXWVJOTTllUHRuVlF3b2lnREFrMzB5d3N4eG9CRkRoc082U3Y4bXRBeW1yeTJvVW13eVloc01CVkhLSzl6WUhWc0tscUVyTDZTSFNMdU1laHN5LVdIZTNYM2ZOcnUzQS1JNUZTaXJlX21BWXJYLWxrdnZvYw?oc=5",
-      "source": "Markets Herald",
-      "date": "2026-01-27T17:44:59+00:00",
-      "description": "Winter Flight Disruption Study Finds Drones Are Emerging as a Major Cause of U.S. Airport Delays  Markets Herald",
-      "query": "drone airport disruption",
-      "detected_at": "2026-01-27T18:10:50.894176+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "6c710cf5f498"
     }
   ],
-  "last_updated": "2026-03-01T19:07:57.204317+00:00",
+  "last_updated": "2026-03-01T20:06:40.570639+00:00",
   "total_count": 1000
 }
