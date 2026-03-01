@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in northern Tafilah, security cordon imposed - Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cERsVW9XTFFLaHQzQUxuanZ1VEVRcVI2N2VnRzA5YmJ0cnlBWHdqVDFfYjVocFJ3VnJrSFgtaFJCbWxROWVSNg?oc=5",
+      "source": "Roya News",
+      "date": "2026-03-01T14:15:01+00:00",
+      "description": "Drone crashes in northern Tafilah, security cordon imposed  Roya News",
+      "query": "drone crash",
+      "detected_at": "2026-03-01T19:07:54.213713+00:00",
+      "location": "in northern Tafilah, se",
+      "category": "crash",
+      "id": "8189809cbb9f"
+    },
+    {
       "title": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElKcXM3YmRWWjIzRGtLeE92cG1FMG9oR0tCbGxvMXRsMndRa3doVzdaMF9WS1E5eXZEcDhNLWZ6SGdmZmxwbTN0Y0xQYnY2eXc5djlhS2pHZndFTW43TTRVN1BUeFl4c3NSTzRZTFBKalBuT3RIck5jdGY0cXRoWjRoN1N2SDd0?oc=5",
       "source": "AOL.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "6c710cf5f498"
-    },
-    {
-      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
-      "source": "AOL.com",
-      "date": "2026-01-27T09:38:04+00:00",
-      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
-      "query": "drone airport disruption",
-      "detected_at": "2026-01-27T18:10:50.894176+00:00",
-      "location": "at Brussels airport",
-      "category": "airport",
-      "id": "6a38bfec635f"
     }
   ],
-  "last_updated": "2026-03-01T18:08:48.798412+00:00",
+  "last_updated": "2026-03-01T19:07:57.204317+00:00",
   "total_count": 1000
 }
