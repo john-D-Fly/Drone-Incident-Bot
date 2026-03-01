@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in northern Tafilah, security cordon imposed - Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cERsVW9XTFFLaHQzQUxuanZ1VEVRcVI2N2VnRzA5YmJ0cnlBWHdqVDFfYjVocFJ3VnJrSFgtaFJCbWxROWVSNg?oc=5",
+      "source": "Roya News",
+      "date": "2026-03-01T12:13:01+00:00",
+      "description": "Drone crashes in northern Tafilah, security cordon imposed  Roya News",
+      "query": "drone crash",
+      "detected_at": "2026-03-01T13:18:18.097568+00:00",
+      "location": "in northern Tafilah, se",
+      "category": "crash",
+      "id": "ff819fe7cd0b"
+    },
+    {
+      "title": "The Latest: Drones 'highly targeted' to disrupt UK airport - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2VGbGdXM25HTl9NNzdZQ3VkUEJFZTUtMjhuSHJjTm5xOG9uTG9VN2x2cVJhcGY3ZGNLdkZCeXlMc0JwQmx2dVhhSENNSHZLeHFmcF8yVFN5QldqT18xTFRVdmJHaUY1MDhtZGF6aFV4QUxmSlR1UW9TWjM3aTBaWUFtVjBjMGs4c0lWNzNnQkJMMXE1ai0tM3Noaw?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-01T10:18:39+00:00",
+      "description": "The Latest: Drones 'highly targeted' to disrupt UK airport  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-01T13:18:17.565966+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f7731e475b32"
+    },
+    {
       "title": "Iran retaliates after U.S.–Israel strikes, triggering fallout across Middle East - Axios",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjNxc1p6bUtmY2xRMU4wVmYyRmlPYXYwMmVzSDZyU1ZzMWV3R1VVeEhtTTlEQUxPOERrWEZZd3paVXBjNktMYVFDSmk3eGRrdVRmVzR0Yi1XVGdOdUVyd1pfano2VFpUV3FxcDBVWjY5ZndxY2VtQVFqdXhsMVplREh6aWpESUIyTkE?oc=5",
       "source": "Axios",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "e10ad3793196"
-    },
-    {
-      "title": "Department Of War Task Force Announces Updated Guidance To Counter Drone Threats In The Homeland - eurasiareview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVFMZkdlRlAzcUJKZUdzQVcwUjBZa194V1IxMEdrUlBnVnB1SlJuY0RLeE45YkNNdkdad0VFcDcxNk1oRVAyLVFrRzhBekFyd3JqTi11b3RSSEFGUktpRzA0cTN5ZWVwelFRWDBJeURzVUVocENNakNZMWhOaDF4aWNuSVlZT1BpU0dROHZmVFVVdGQ1dndzXzFiODMwRjljOWY1VGNUY3VVYzJlR3pGZ2hRbnJFN1U3RWZ5dUQyRElmQ0NQTlE5QUhOODk2UXZJNGc?oc=5",
-      "source": "eurasiareview.com",
-      "date": "2026-01-27T00:08:18+00:00",
-      "description": "Department Of War Task Force Announces Updated Guidance To Counter Drone Threats In The Homeland  eurasiareview.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-27T00:27:01.356806+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "55a663b07349"
-    },
-    {
-      "title": "Spike in illegal drone flights near Prague Airport prompts calls for tighter air-space policing - VisaHQ",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQampTTDdqNkVKd2syUW5TNm5mdkMyeXRlNGF1RENvSERvMlp5RmRkMmlhWHA1UUtyOTFKZVNFRVJXODEzNUI4QnhLU2FGRDhwOFlyU1A0SWV2YnNsNGF3NW9NNTNGVTlsMUNUR29aQlgtRjZhbGpCQWZpbnpVR2JXSHY4ZEl1MkVQdFYyYnN6S1UwQlY0Wk1uWlNlNWFtNy1OMlJQWDEzc09URWJRdXphQUNmRllGWVhaNE1PQ0Y4R3R6UWxXdDA0d1FGd3VEX2xwcTB4cQ?oc=5",
-      "source": "VisaHQ",
-      "date": "2026-01-26T14:46:32+00:00",
-      "description": "Spike in illegal drone flights near Prague Airport prompts calls for tighter air-space policing  VisaHQ",
-      "query": "drone illegal",
-      "detected_at": "2026-01-27T00:26:59.166340+00:00",
-      "location": "near Prague Airport prompts calls for tighter air",
-      "category": "airport",
-      "id": "37d06eba6d81"
     }
   ],
-  "last_updated": "2026-03-01T12:11:11.337088+00:00",
+  "last_updated": "2026-03-01T13:18:20.866800+00:00",
   "total_count": 1000
 }
