@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Several US jets crash in Kuwait, crew survives: defence ministry - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZzVvdVlRbzdUSDZUZUFYZnk1LWNId3RDaUxYV0sxMDl1bms2RXVMdXRUNVJaeFotREg3QWZRaENpNHZmamFUU2xUUlpwQk1KMUYyd18yQXDSAV5BVV95cUxOR1ZuMF9aX3Q4alpfV084TW9yMUVJa3NQQU5JLURyMHpXSXZSV0Iyc291ank1OW5CUk4tX0FqVHB3NEVmbDVPeFdyNnZxZ2dOOXFDUFVQOWpTdmdpUWNn?oc=5",
+      "source": "TRT World",
+      "date": "2026-03-02T07:28:21+00:00",
+      "description": "Several US jets crash in Kuwait, crew survives: defence ministry  TRT World",
+      "query": "drone crash",
+      "detected_at": "2026-03-02T10:19:18.388216+00:00",
+      "location": "in Kuwait, cr",
+      "category": "crash",
+      "id": "33af64c504f3"
+    },
+    {
+      "title": "UK plans mass evacuation as Iran strikes close Middle East airports - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlE0Q2l6UVoyTDJKWXlZbjRRUjd1Ym5fcWg4ZDZYaWFFdXNFMHdKak5rX2dYdVRGRUlmZVZPWDFTVHNGQXNycVNHOWtNNFp4WVFHY0trT0QtSVFBSGlqWm9mWFVpXzNrUmphbE5wTmZDc1dyenNYT0pGbnpISEw3TjY3UG5VSUJWdC1mSV9jSXNUOWEzSDRKT1I0UGxNSHdhOVVNcnJQZXJ0elJmT0gzQ3ROOXdLU2JsTnVieExQWQ?oc=5",
+      "source": "Sky News",
+      "date": "2026-03-02T09:01:30+00:00",
+      "description": "UK plans mass evacuation as Iran strikes close Middle East airports  Sky News",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-02T10:19:17.813653+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1f24a2e706a1"
+    },
+    {
+      "title": "Cyprus postpones EU ministers' meeting due to drone incident - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZWYxc1NwOERpTGJqRzhqUFBHMm5GOUwyVVd4MFAxVERzXzY5LXpzd1M3U0FveG41TU5hTVd6MUdTdnc2NTVWay16azZUZTZERWFRZ190Q3N1UHN0UXJPaGM3ZFE2cjZwVndrVXhCTHVwdkYtZGFVU3JZYXRCRWFaTzdoYXVBX3IwWWhYNl9QYUgyZXp3OXR0WTFhMHpxR1NUZHZZdUgzTW9pNW1RYmNqdGJB?oc=5",
+      "source": "marketscreener.com",
+      "date": "2026-03-02T09:11:24+00:00",
+      "description": "Cyprus postpones EU ministers' meeting due to drone incident  marketscreener.com",
+      "query": "drone incident",
+      "detected_at": "2026-03-02T10:19:15.495557+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9bd49fbe1c59"
+    },
+    {
+      "title": "EU ministers’ meeting in Cyprus postponed after drone incident at British base - eKathimerini.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYk9NNDBZN0tsNndkU0ZnRmhGTGZ0RHBwTFp1S3h0a01NalA5c200b1FhcmF3X05iNl9zc0x0Mmt2OUItTURJeTVPZ3l0d2F4dGF2WFdzNndyQ3I0VVVPTmozVXNHWlVoQTdYT2c5dnByOGh2bmluOF9idTFGYXlXNkZzeDdUZkNLdG5jbEJMYXdMdmlQXzNjVXhWSlM4eHZscGRRVy03YXd0bnFvNUVLZElsdUxSNlBTWHI3QUFQUzc1aU5CTTBXczh6UHBveHdhT09MenhR?oc=5",
+      "source": "eKathimerini.com",
+      "date": "2026-03-02T09:56:25+00:00",
+      "description": "EU ministers’ meeting in Cyprus postponed after drone incident at British base  eKathimerini.com",
+      "query": "drone incident",
+      "detected_at": "2026-03-02T10:19:15.495557+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d22bed78ea4a"
+    },
+    {
       "title": "Drone Attack on Ras Tanura: A Security Breach in Saudi Oil Infrastructure - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0tkNmlKWjFfZEd4QjB3aExBX0s3aUhlYloxa2JOWURQRllqVXlyMVc0SW5UcUsyZjh0Q3RISFB0ckl6aXpIT3g0Q1JDQldnbWhJOUJpb0JMTjJBZmJ4cnpFc092eVF2eFlLd1BudzljRDdObXAwNXYyZ3FmMHJ1cVF4aVlONDIyNEpiRkp5V3VHT3lHZWVhRnVFX0xXWFl3OFBYcTdPa3Z4QXh6Y1BSb0tpWFl3YXpJSjh4bWVLMUN5eWZpdEHSAcsBQVVfeXFMT044Q3Bxd0pyaXpwVWoxQUZjWERKdlNMN05KWTlNaWdVOGZWUVQyb0otV25NanBtT1NUUW5NckxuTVpkOTNYc0VfWkhiVGtid1c3R29NS1R4Unk0UkprNlJULUd1OHJBWkJnU2hLamEyNERBUnllVXV3RjhGU05MdHdyMVg4RzlFdGhtcm9RNXc2ODY0X3hjUlVYRDdYallaanROdGhWeVd1LVN4SllGQlRQNnFjajM2VnZOVkEzeUlYc3J1dzFWblNyMWM?oc=5",
       "source": "Devdiscourse",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c2475e53cb4a"
-    },
-    {
-      "title": "Russian drone strike on Ukraine passenger train kills five - RailTech.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHAwdnFUeUIyaGdwTkVYVlVaODhjT2F0RGtqemFHOXZwalFtSUg1ejJ0UU5XQnZnX0FnaTdYRFBTS1JZdFhCbUduSzNjVExURVpuSUtudWRFazJMWmVsZGh2WUFzSzdndHZOYi1INkhPYnBCY0hTOFRsS3VnbWtFdUVFblk4UnlOQTRnYjY5Sk9JR1BWSV95MnZVQ0kxbk1a?oc=5",
-      "source": "RailTech.com",
-      "date": "2026-01-28T07:52:08+00:00",
-      "description": "Russian drone strike on Ukraine passenger train kills five  RailTech.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-28T09:12:33.771229+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b502f834c414"
-    },
-    {
-      "title": "Ukraine war latest: Russian drone strike on passenger train kills five - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjF3ajlGbTZaYTNfUGhCaDlSQVdRaTZHOEJxUjhEclJLMDZWWWZTMlpScXZlU3RWX0xudGJPWmNVV1dCU3NxYnNPd0xQQXZFLWk4bURyXzVZVWI2RS1xUVkzZFFCUTVZUThyaXJPUmlLY2E1TEdFdjcyVVhfZC15OGhvWWJtZ3hMaHpUSERETWhUV1lqUGtoX2llMFFKVmZ4SmhrZHZzdWtkY01odkdibGlfUDk1aE5sbUxvRA?oc=5",
-      "source": "The Independent",
-      "date": "2026-01-28T07:38:52+00:00",
-      "description": "Ukraine war latest: Russian drone strike on passenger train kills five  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-28T08:08:41.798943+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "81460d39588c"
-    },
-    {
-      "title": "New Round Of Russian Strikes Kills 9, Knocks Out Power In Several Areas Of Ukraine - Radio Free Europe/Radio Liberty",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzRfSnBNY1Y1a0p3dFdlakoycS1kTHNYX1lMY2Y0XzdxVkphaHJZRHFhYXUwUTV2bXVNbHFNeHBLdW9RdTJKbk5CZWQ5SndtLURhNEZHbDdXQzZONlpsZ0hBVVJ2cUlRY3lXTEZWRDNvZl9EWU5iNVVVeDRwdVlSSXBqTUt6aFJzVjRjWlFJSjl2Y03SAZYBQVVfeXFMT3RTZDRJcFAzY1VQWjdWVlZmdVlaRE85QmQ5eFZJQkZyVUw3c2xzTG94aDhhMFJWQ2RxajBuRzR4anpXQWdWYXJELWNvMFVYSHFScjVqa2hQczlNNDQ0aG50cWhyZFZtZE45YnV1TlJfX3hUYnQyRkpNWDdyNWVZUjNla3RYRTB2OW1KQ3czaU4yX091UGp3?oc=5",
-      "source": "Radio Free Europe/Radio Liberty",
-      "date": "2026-01-27T12:00:41+00:00",
-      "description": "New Round Of Russian Strikes Kills 9, Knocks Out Power In Several Areas Of Ukraine  Radio Free Europe/Radio Liberty",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-28T07:10:14.512841+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "189d29dae6d5"
-    },
-    {
-      "title": "Zelenskyy condemns 'terrorism' after Russia hits train - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5",
-      "source": "DW.com",
-      "date": "2026-01-28T03:50:58+00:00",
-      "description": "Zelenskyy condemns 'terrorism' after Russia hits train  DW.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-28T07:10:14.512841+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "9d8ac4f6fd37"
     }
   ],
-  "last_updated": "2026-03-02T09:20:18.638379+00:00",
+  "last_updated": "2026-03-02T10:19:21.232488+00:00",
   "total_count": 1000
 }
