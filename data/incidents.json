@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Police Stop Drone Deliveries of Contraband to Greek Prisons - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2xwYnBVczNDaFZyZXFpcGdUWEE3R2ktMWVxUVhyZFJMLW5PWUFnaUhEcWZlM1M0NG9vRy1tUDRJcms4YTFBdVdScWhLN0tTMHdyaXc5Q3hxUW9KbUlvOWRCNU9sdU5nTzE2OUVpcU1CZWF0NzloRUl4dkVXeUdSR3FkS1pKOGNWd0hEZjBidFR4RHl0Y1NlYzdMVlpaUWc?oc=5",
+      "source": "Greek City Times",
+      "date": "2026-03-03T05:18:11+00:00",
+      "description": "Police Stop Drone Deliveries of Contraband to Greek Prisons  Greek City Times",
+      "query": "drone prison",
+      "detected_at": "2026-03-03T05:25:14.860300+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b180a8db2873"
+    },
+    {
       "title": "In maps: Strikes across Iran and the Middle East - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRUpYN0FvVmZYemhQRWd5aE8wVXk0VVhVWkNBVkZQQVRvWDd1OThuSGdvclZBaTd4UFpjS3ctUjlBZlBodnNLaUNYbnJFUDBLenR2cnZzVV9lZw?oc=5",
       "source": "BBC",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "658717e8477f"
-    },
-    {
-      "title": "Zelenskyy condemns 'terrorism' after Russia hits train - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWZXRklOdTBFa0p2Vzd2eENrTXk2c3J4LWFMZ21Vam5fRExXdjlOZm5PT0M0bGFiajFhb2VTaHo5c2hCdEl0OGtNbktzVFZjU0Q1VE9tTzBlLW1UNnVoWnh4U3hoVWFSUm42ZGcweUtwb1pRWm43WU1XZHZHRXRELWdHczc4a2ZVUjBuQXNpU2w5TC1kUE9TUEYxT2nSAZwBQVVfeXFMUDNBY3JrV3lnM3habkRTNGx5VHppN1c2aUJxdkxITkl2a1ZKd3lQYnZ5YnNpUEpyQzA0a0hlVGhfMmllNEJORlVudVFFQUMxczdIUDVSTnZ2a2hQTjRXMTJUMGUxY3hSQUE0NlljTHpuNm9GTHA2WkNJdnFVREpYMUMtcjhiZUtWSkRvcTM3bGxPVkJINHJ2aUlzd0VC?oc=5",
-      "source": "dw.com",
-      "date": "2026-01-28T20:28:08+00:00",
-      "description": "Zelenskyy condemns 'terrorism' after Russia hits train  dw.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-29T18:15:00.230393+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "be0712fd35f6"
     }
   ],
-  "last_updated": "2026-03-03T04:36:41.764635+00:00",
+  "last_updated": "2026-03-03T05:25:19.117267+00:00",
   "total_count": 1000
 }
