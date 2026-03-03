@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Iran conflict: Fairmont Palm and DXB attacks reveal coverage gaps for Dubai terrorism buyers - Global Reinsurance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNGd6LUIzVWVNcG5za3h6cWxsSkh6MENnX0F5d0tpZGU0N1V2dGRhQnFjQjd2NmFkT1dvWUF4aVcwXzZVRmZuUVZVS2ZtWm0xcG5WTkpXWF9ZbDZBSk1QT3lHLW5VMV9GT05mdFlxdnVqRVQxUVlvT004V2NCVWE0bjdGNVBaZEtjRzVLWm9FSVhjdzFLMVFJV3AxVXJXZjBZbUNaRl9LbnBjUFVzOU13X29HSEFMVEU4MEl3TUdJY3dQbXJPMGk3aTJNc1c3Ui1iUVlPaWU4a0N6ZDJkZXd3?oc=5",
+      "source": "Global Reinsurance",
+      "date": "2026-03-03T15:24:43+00:00",
+      "description": "Iran conflict: Fairmont Palm and DXB attacks reveal coverage gaps for Dubai terrorism buyers  Global Reinsurance",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-03T22:08:34.245847+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "78f737930c8f"
+    },
+    {
+      "title": "Iran war: Much of Gulf, Israel halts oil, gas production - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBVM1RNT1RoMUR1MFdPOG12RVl3MDdjV2I3dUdKOWJnYm5pWlNlR2VrUk05ekV4OU51ZXM0QVJvSDBWdXZDTElIN2kxT3JqNG1wX2NteGZqcUZwQ2RiTXAzdDBNSlEwd01HMFM1eXlOZVZ6UTFPMjhqRUlNYmJvRkU1eFkxUXNQUWN5ZWlB?oc=5",
+      "source": "dw.com",
+      "date": "2026-03-03T03:52:01+00:00",
+      "description": "Iran war: Much of Gulf, Israel halts oil, gas production  dw.com",
+      "query": "drone crash",
+      "detected_at": "2026-03-03T22:08:32.527790+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1e2226189695"
+    },
+    {
+      "title": "A drone downed near Baghdad airport: official - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGY3MnR6ZmlBOFlwN1I4VVNpOTFVelZORDlTYzE5c004cnFMQzZnVVJfcTNJbDFEUFdwRkt2ZUVkN0FIdTc0ZTN1Ym8tai00RUx0bC1PdkE5TF9mZ0d2Rmcwc3JEX3NQQVV6b3cwY01iRzNaaWw2UnVMUFVqa2FkaWZpdmlSRnNyVHpnNkpoZFRzUdIBpAFBVV95cUxPaWRpSHVDbFJ0NE15eUsxZHVqVDJ5UkZidWR2R09KeVh6Zk5DY0hmMWdxc3RUSWpvSUtRNUJabHNfdnYxMVZBclVWZmJMcXdHcnY3V0FtbVNVQVp5ZlliRUhsNUhRbXdDRDFLdlVMQWc1X3IyWjAzTFpSdXM3aUJXcXMtVU90OWhJYVowWi1ZYmM1TUk2bWhGSFRJRnBUdXNMaHMwTg?oc=5",
+      "source": "Gulf News",
+      "date": "2026-03-03T20:56:45+00:00",
+      "description": "A drone downed near Baghdad airport: official  Gulf News",
+      "query": "drone incident",
+      "detected_at": "2026-03-03T22:08:29.629406+00:00",
+      "location": "near Baghdad airport",
+      "category": "airport",
+      "id": "f0ac631e3b40"
+    },
+    {
+      "title": "Officials say fire caused by drone strike on US consulate in Dubai has been extinguished - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenBtOElsM19QeUMyYWxGclRjNndyRHcxanVleWRLc05GX3pCM29xMEtwMGg0Xy00TUlYQTRGNE9oLW13SjVWSnA5RW5tNnp6WUZDVWxQNnRIUTJ1cUJXdnIzUzk5X1ZUb2RVMjFSTTBpUTFzNEJnXzB0TDVVM25LSHpuMHE1Zmt0dnc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-03-03T21:31:47+00:00",
+      "description": "Officials say fire caused by drone strike on US consulate in Dubai has been extinguished  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-03-03T22:08:29.629406+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c42568fcc46f"
+    },
+    {
+      "title": "An Iranian drone has struck the US consulate in Dubai. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSF9hQTdjSjJFdzZ3UFBQOEdxbGNVZi1iT1RycmdFT3Q3ZWlHelhfdDlRTUg4cFVab2Vzbnk3RHhNaW1JYnNQWDhnRHlwNzJ2ZUllZnVCSk42TFBhQkpFd3Zqei1SckdDVmJoQVRCUTlZem9KLVE4RHZ4dDVPZS1BQzVaVWcyYnVEWTZITHotdFh4d1A3anhZLUIzM3dlcktRUkdWdHE1NVo5SkVuQ1d6M0xhVmhoZVFtenNj?oc=5",
+      "source": "facebook.com",
+      "date": "2026-03-03T22:00:08+00:00",
+      "description": "An Iranian drone has struck the US consulate in Dubai.  facebook.com",
+      "query": "drone incident",
+      "detected_at": "2026-03-03T22:08:29.629406+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2e4dbebd001b"
+    },
+    {
+      "title": "Video: Drone carrying campaign poster causes chaos at Houston polling location - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdRbEl6ckM0bzU0QXpMNEFZbko1UUo5bjN0SFk0QVR5S3hGV0ZiWWVjalEyS2FUSE5yVjRrZWNpckpkRk5TSWl5ZmVzV1ZqZXN2eFU5cHNER1BncUIxc25PcVkwU1Y5UF91UjlJTUp3LVFXaW1wbEVZNmc4MVZaYThOd3c3czN6RnRiblBuSTgzVjNORGEwY1pvbXBKOTNPdGRPdEVEVFRlb2lXaTdUNzhIWQ?oc=5",
+      "source": "Houston Chronicle",
+      "date": "2026-03-03T21:35:33+00:00",
+      "description": "Video: Drone carrying campaign poster causes chaos at Houston polling location  Houston Chronicle",
+      "query": "drone incident",
+      "detected_at": "2026-03-03T22:08:29.629406+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "139c418b8c1c"
+    },
+    {
       "title": "Iranian drone strikes damage Amazon data centres in UAE – customers warned of outages - Mezha",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUzNVUmg1a210WnlocTFtRFlzbzNCc3dtTHdSRkU5NFd1d0NPLTZ2RDdURTY0OVdna0Y0cnlibDdSQnAtczF2S3NWWUFBSklpLTBlMXV0NHJlRGZtWjlUNEhkSWvSAWpBVV95cUxOQlhZSEdzdFI3MU5ZdXhCMUExTTk3Rm55RERVa0dveUt1bDN5RzhzX2E5VkswVk4xY3hnSF82ODM5b0lqenV4WlEyN1FIemM0M1h0S1RUN1FZaW56ampwQzJ1REtfbjQ2WThB?oc=5",
       "source": "Mezha",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "30ea80994421"
-    },
-    {
-      "title": "Drone Crash at Polish Military Base Investigated by Authorities - Global Banking And Finance Awards®",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkVSMmZ2a2lxMUxad3pwaUhzdEJWNFBQOTVDODBBUWpNM3Q1aFZ2MnM1WnlLdzZLdmxQYmdNdkE1dXJMbVpDb01mOEJzTnZ4RmxiQ1FFc1laNFRRNWY4dUZRdjZpUTJPWVBOV1FuRkdGS1AtUHpFUjZrZDFEQTlMd3FlYXF4dTdQaG9lVF9Vd0Uxdk1DX1NiZUd3UVBjN2s?oc=5",
-      "source": "Global Banking And Finance Awards®",
-      "date": "2026-02-02T17:04:42+00:00",
-      "description": "Drone Crash at Polish Military Base Investigated by Authorities  Global Banking And Finance Awards®",
-      "query": "drone incident",
-      "detected_at": "2026-02-02T18:14:25.298410+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ad887b33a84b"
-    },
-    {
-      "title": "SpaceX cuts Russian military link to Starlink satellites, Elon Musk says - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG5mekxscF9RYmtIenQ4NU9VaTY0aW9zYlFvQVNlSFZRVkM1bmlKTmlCeEx1ZnFxR083Nnl5RWZJZVBtQXMzUUo1RzlYSjRsWFdKampuM1hpRTVaSmR2eEowY2tWSVUwbS1VbG14dV85eDg0a0RCWm9MVmM5bGhmSTctOFBBSlVqbGtsREZzYzJIM2p0dVFzWGdGa3NtSDJsTTJ6dzduZE0zMmoxUXZweFNldw?oc=5",
-      "source": "New York Post",
-      "date": "2026-02-02T04:20:00+00:00",
-      "description": "SpaceX cuts Russian military link to Starlink satellites, Elon Musk says  New York Post",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-02T17:22:02.321750+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b7f1c19397ce"
-    },
-    {
-      "title": "Mystery drone ‘crashes at Polish military base’ months after Russian incursion - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTFULUIyTVZfNzBUN2xNNC0tZjV4V1pwMm5tVmxiLVAwWlNSM28zYlotbXE0dVdSUk9tUTdZLWlKUndENDZmNlZteVVFRzNsdV9wc3JJaV9MSkFRYVNnRUNqNGdURXhKVDJwRU0wZjFVRThocXBpREZoQkd1enFrYUh3US14MEdMMTZ3YkllWXlrQmR6RTFxWA?oc=5",
-      "source": "The Sun",
-      "date": "2026-02-02T17:06:00+00:00",
-      "description": "Mystery drone ‘crashes at Polish military base’ months after Russian incursion  The Sun",
-      "query": "drone crash",
-      "detected_at": "2026-02-02T17:21:59.773522+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "18770a130781"
-    },
-    {
-      "title": "Unidentified Drone Incident Sparks Investigation in Poland - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlmaF9lSm85VXUtLUM3d19vU3l5eUh4bXgzbUZ0QUxEWFF6eEJDdFBmcHR1YkowVFhDZS1NV2hnYXdxNllrWmlkZGhjcXlGNGp5ZFFkTjhFQ2FwNUNIS0xtbk9xaVZCeGJjYS1oVXg0YTQwemFlWFRNSjlYdWNUN09oZ2w3WlRrUXhlWldjTVduZUtsTjVLQ3BQeUhfSURTdmF6U3E5bXdFZUhfLWJGY1Q0RdIBuAFBVV95cUxQSnE4eTBPOEFOUkxCNVpEdEJlaE1jMmNoVlNLeDhFb3NhTDh5VmV0NDJDVl9OdUJhUnFyaW9JWE5OOENLSGtFXzRXSGZtLUk2bXR3MThHM1A2bHo3N1pGeGtQVHR3R1lVMEZtZWhRR3ZRdVJwMzVVQldTUzJiXzBMTUxJaWQ3enM4VDMtT2hWNnhfV1l3eF9pZHFOSXVMQmdLU01DQm5mWHVMYkU2aWhtZFo4S2E1dUdD?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-02-02T16:41:19+00:00",
-      "description": "Unidentified Drone Incident Sparks Investigation in Poland  Devdiscourse",
-      "query": "drone incident",
-      "detected_at": "2026-02-02T17:21:56.457309+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5566b830d07e"
-    },
-    {
-      "title": "Drone Crash at Polish Military Base Investigated by Authorities - Global Banking And Finance Awards®",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkVSMmZ2a2lxMUxad3pwaUhzdEJWNFBQOTVDODBBUWpNM3Q1aFZ2MnM1WnlLdzZLdmxQYmdNdkE1dXJMbVpDb01mOEJzTnZ4RmxiQ1FFc1laNFRRNWY4dUZRdjZpUTJPWVBOV1FuRkdGS1AtUHpFUjZrZDFEQTlMd3FlYXF4dTdQaG9lVF9Vd0Uxdk1DX1NiZUd3UVBjN2s?oc=5",
-      "source": "Global Banking And Finance Awards®",
-      "date": "2026-02-02T16:56:49+00:00",
-      "description": "Drone Crash at Polish Military Base Investigated by Authorities  Global Banking And Finance Awards®",
-      "query": "drone incident",
-      "detected_at": "2026-02-02T17:21:56.457309+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "2f9c5fa2b6ca"
-    },
-    {
-      "title": "Flights halted at Brussels airport again after possible drone sighting - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZjQmtwZURKQjZTVnRZdFJjdG9XcS13d3duM1lKVHBONGd6MGlHamJDQjFESnlJR1J0d0x0Xzg3RUtORXM0bXJPTTV0MXE4R2RuRlhlUTk0bXlDdmU4M1dnSnBPcHdod0phbERybThRaE1wekNBU0Y0RE53REZsd2VjZVNveWpm?oc=5",
-      "source": "AOL.com",
-      "date": "2026-02-01T21:53:44+00:00",
-      "description": "Flights halted at Brussels airport again after possible drone sighting  AOL.com",
-      "query": "drone airport disruption",
-      "detected_at": "2026-02-02T16:11:42.992355+00:00",
-      "location": "at Brussels airport",
-      "category": "airport",
-      "id": "84c0f31b97b8"
     }
   ],
-  "last_updated": "2026-03-03T21:12:01.571139+00:00",
+  "last_updated": "2026-03-03T22:08:35.357717+00:00",
   "total_count": 1000
 }
