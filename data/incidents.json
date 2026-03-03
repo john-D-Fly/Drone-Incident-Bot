@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "High-rise residential building struck by Iranian drone in Bahrain - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJ5Zk9sSndlRE51dXQwajhnRi10d2daTm5iV2RJakF1Q3J1a1BlMHprdWxnc1Y2U3M2emVFeElKUGZKdFp5SXRoRHo0aHhyVW5mTXc4bmR1ZVF2YnBGQ2xRV0hCWE1NRGlMbVV5S25uNW9HZFRhZDBFc0FHLVN4dmxkZVkyb1B6LWc?oc=5",
+      "source": "CNN",
+      "date": "2026-03-02T01:51:00+00:00",
+      "description": "High-rise residential building struck by Iranian drone in Bahrain  CNN",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-03T00:31:14.774374+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b9b555f475f1"
+    },
+    {
+      "title": "Iranian drone crashes into US base in Kuwait - VIDEO - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXWDJ1OTViaHZTQ0hXXzFJZ1VkQUlRM0thakNjUW5RQnJIcHVsSXlsQjZuYjFaZEtsZ1lrQ2RrTUNRX3dwWHJpdm01bjBfaWlvbk5zdUllSlVtaGdMSnBQWDhVbmNsZkVZem80eThHOE9RMWNDQzFwOFRHTQ?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-03-01T15:53:51+00:00",
+      "description": "Iranian drone crashes into US base in Kuwait - VIDEO  Latest news from Azerbaijan",
+      "query": "drone crash",
+      "detected_at": "2026-03-03T00:31:12.937925+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c7273931af60"
+    },
+    {
       "title": "Gulf states intercept hundreds of Iranian missiles and drones, issue joint condemnation with US - Fox News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWFVxN3cwc2pkT09GTHVwRzNZSlB5bGpGWmxtMVJyYkVNQURWNXFXdVdFeElCZkM0THlGVWRYc3ZFQW9rV0dqQlNxM1lQRTJVc0JaVlctcUVjMGViNjVQaFVaWDgtUkxHU3NRaWgyZF9pZUFjcGV4X3hTc0VfejJqWm5DQkJOMkkwUXJLUEc3QTcyUkxEQ2laelRRMkVqcW4tV08tUUlJS041R0RoUXg2N0xR?oc=5",
       "source": "Fox News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "7228bc6858a3"
-    },
-    {
-      "title": "Five killed in Russian drone strike on passenger train - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3N0M2I5TE9FbVFicWpfV1ZyUE5rNkhFakVxekNjSmxPa3drYklrMHFqVkpXSHdJNzVodjN5aE5KWkg4RFNIZHduY0trallrRW96RjBfTGxLRVZleTJydWRRNGZMc3NzWVFhT1VaWW1XQjc3WFJQMl82RTZ2bmZYLXp3eGl2WkFRakZR?oc=5",
-      "source": "Yahoo",
-      "date": "2026-01-28T12:21:33+00:00",
-      "description": "Five killed in Russian drone strike on passenger train  Yahoo",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-29T02:58:57.844418+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "923ed22604e5"
-    },
-    {
-      "title": "Drone technology helps EPS make arrest in snowmobile theft - sasktoday.ca",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnpfSTQ0WTVreGsxb0xLaXFXME1GcEVsRGVXNGFCOUFkdGh2TWFuQXRpcE5BRDZrVVpwLUd6YXBST3BQakx4dXJid25KaTlFSVlRQUltSXdKX1BTSUlUazllNlV1X1U2MzUyUnpUY0pLQnktb0t5YzNZWFZ3SUVxR1dNZWUxYUxyMEVTWnRlY24zREtTbUtCcTlFczBRQ2FsTEFiNE43UXFMaXpfMzMw?oc=5",
-      "source": "sasktoday.ca",
-      "date": "2026-01-28T20:00:00+00:00",
-      "description": "Drone technology helps EPS make arrest in snowmobile theft  sasktoday.ca",
-      "query": "drone arrest",
-      "detected_at": "2026-01-29T02:58:53.750536+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b794ebeb379f"
     }
   ],
-  "last_updated": "2026-03-02T23:07:11.548626+00:00",
+  "last_updated": "2026-03-03T00:31:15.902184+00:00",
   "total_count": 1000
 }
