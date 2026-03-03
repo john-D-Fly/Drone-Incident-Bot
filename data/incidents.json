@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Kuwait shoots down US jets in friendly-fire incident, US CENTCOM says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGNVeGNGRTJkUnRDR3JRRW1lYTVDanJYcjREYVYxR1Fpd1NybHdJazhNVC1sNDAtSkZudElQeXhOb2I0UldQT19vREs5b3ZZMHFtZk9KYzJhT3piRmR5STlSdC1LTkRpc1JDa0w0MnlwVVhDYzJJekZVMDJjc2FBUmtBMFdSeGR3WE5HNkd2TDE2aWY3V1pUam9ob09LTUcyMUpyRUtEYWM1cUllRm5OdnFtZ0tGWi1IeTVvaVVn?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-02T13:35:37+00:00",
+      "description": "Kuwait shoots down US jets in friendly-fire incident, US CENTCOM says  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-03-03T20:10:26.529205+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e6cfddb6e129"
+    },
+    {
       "title": "LATEST IN IRAN: Trump unsure of who will take over in Iran, Iranian drone strikes U.S. embassy in Saudi Arabia - Toronto Sun",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSUy1KU2Y5XzBWa0taZDlWcUpqd3JOeS12MEc3M0lVUGx0X3QzT0JjLWVNR0V4SS1rc3Nsejhfb1NnRWhoTk1Tbk1vZ2NPc0d2Y3JDbTRNbWVRWFh3Szctc0ZSei1HVDNT?oc=5",
       "source": "Toronto Sun",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a48f65c02306"
-    },
-    {
-      "title": "SpaceX has stopped Russia's 'unauthorised' use of Starlink against Ukraine, Musk says - France 24",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHRIQ1h3N3BpTTAwM2RwT2pwdWtka1o0WlNSQzdyTEZ2OGxUZUJKVXlhTERDLXdRMnpRdERTRDdveWk5NG1qalo5b0FVaWNQQWVRdVRyVHdmNmdlWkR0UU9lZ1BmcldOOWZJTVhUaDMtckc4WnN4Nld5WmJWNk1oYWNsZE9kbC1wODFmd2F6UFZKUmQySFc0?oc=5",
-      "source": "France 24",
-      "date": "2026-02-01T10:46:27+00:00",
-      "description": "SpaceX has stopped Russia's 'unauthorised' use of Starlink against Ukraine, Musk says  France 24",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-02T06:27:48.664996+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9e7142af74b2"
     }
   ],
-  "last_updated": "2026-03-03T19:18:41.792975+00:00",
+  "last_updated": "2026-03-03T20:10:29.884211+00:00",
   "total_count": 1000
 }
