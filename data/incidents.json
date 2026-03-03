@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone used for Walmart deliveries crashes, catches fire in Kemah | Local News | The Daily News - galvnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNWlESXZJNGpBQnA2a3ZKbk4zSmlpVEJRSGI5cU0xZ013bTNQekZMUXFzZkRWbzF3b2FuUVNHZy1sTGsyMktYVnctZkl3ZmwwLWxaV1dtdjVZMEc5eFVCYnRaY0o4ajhPY1FnVDZxamV5TV92a01hRUFPZDhTQWxlTV9XWnVNZmxfZnB1a3VvMmFnYnRrcXpHU25MRVlqUTMzRkcwMnp2eldiME93LWp2a29HV3paenhKeWJJYkFia1BDZ0FWZzFLYnd0MVBGUHVnazhUdW5BR3puNFE?oc=5",
+      "source": "galvnews.com",
+      "date": "2026-03-03T00:30:00+00:00",
+      "description": "Drone used for Walmart deliveries crashes, catches fire in Kemah | Local News | The Daily News  galvnews.com",
+      "query": "drone crash",
+      "detected_at": "2026-03-03T03:03:56.254642+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6d802f3e7f44"
+    },
+    {
+      "title": "3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnFsU2x3RXZMTTRyOHlKNm8zczdhWWJPclJkRHpfOFQ0ck16Z19ITExLOXZtNE5yLUpYaXI3M014ZmhnaVVVZE01ZktkcHI0OTB6X3BoWFVHQjQzQ3dJd3ltcno1SlB0SW1zRHlvNXJyZnNlWGJkSDJYdWxQT2Vxajc5T1pDRlgwc0tDa3RR?oc=5",
+      "source": "The New York Times",
+      "date": "2026-03-03T00:27:31+00:00",
+      "description": "3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says  The New York Times",
+      "query": "drone incident",
+      "detected_at": "2026-03-03T03:03:52.847555+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "038752f45693"
+    },
+    {
       "title": "Video: High-rise residential building struck by Iranian drone in Bahrain - CNN",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJ5Zk9sSndlRE51dXQwajhnRi10d2daTm5iV2RJakF1Q3J1a1BlMHprdWxnc1Y2U3M2emVFeElKUGZKdFp5SXRoRHo0aHhyVW5mTXc4bmR1ZVF2YnBGQ2xRV0hCWE1NRGlMbVV5S25uNW9HZFRhZDBFc0FHLVN4dmxkZVkyb1B6LWc?oc=5",
       "source": "CNN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "afa0c4813ee6"
-    },
-    {
-      "title": "Army foils smuggling attempt using drone - en.ammonnews.net",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PekhOcjIzQlAzclhOckUwQzBLREF5N0JPWTVkeXVtNDEzamg3SV9PcWdqZWYyV2RHcjlJV19Ca01kSXBCRUhGY2g5aGFBQQ?oc=5",
-      "source": "en.ammonnews.net",
-      "date": "2026-01-29T10:52:33+00:00",
-      "description": "Army foils smuggling attempt using drone  en.ammonnews.net",
-      "query": "drone smuggling",
-      "detected_at": "2026-01-29T11:13:14.350631+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e0ba925ca829"
-    },
-    {
-      "title": "Man arrested Wednesday after armed standoff with law enforcement in Suwannee County - wctv.tv",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2J4NkFsQVhUY1ZEY0N2R3NnaHVTanoySzJrN1lNSzhEb29yLWFSeUg1NXJFM1ZkdzlLUzMxbTVaclg5Z1V4dFRiZ2ZkOWhJVVJBbk53ZEZFYTlvaXpmbEx1dC1lLVBOOGo3MjNGWnFrRy1jUUVZQUhXTWs2LTVxbGZZWDlVZmVCaG1JRDNXcUhROUJtMkZfenRIU2YzNHJ4Mms1b1J4X3gzbEJKYzRodTZn?oc=5",
-      "source": "wctv.tv",
-      "date": "2026-01-29T04:12:00+00:00",
-      "description": "Man arrested Wednesday after armed standoff with law enforcement in Suwannee County  wctv.tv",
-      "query": "drone arrest",
-      "detected_at": "2026-01-29T10:14:39.155661+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "1481b7509a26"
     }
   ],
-  "last_updated": "2026-03-03T01:37:06.904184+00:00",
+  "last_updated": "2026-03-03T03:03:59.151111+00:00",
   "total_count": 1000
 }
