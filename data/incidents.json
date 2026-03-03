@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Iran war: Much of Gulf, Israel halts oil, gas production - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBVM1RNT1RoMUR1MFdPOG12RVl3MDdjV2I3dUdKOWJnYm5pWlNlR2VrUk05ekV4OU51ZXM0QVJvSDBWdXZDTElIN2kxT3JqNG1wX2NteGZqcUZwQ2RiTXAzdDBNSlEwd01HMFM1eXlOZVZ6UTFPMjhqRUlNYmJvRkU1eFkxUXNQUWN5ZWlB?oc=5",
+      "source": "dw.com",
+      "date": "2026-03-03T03:22:26+00:00",
+      "description": "Iran war: Much of Gulf, Israel halts oil, gas production  dw.com",
+      "query": "drone crash",
+      "detected_at": "2026-03-03T15:19:51.035797+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eec86a2f8337"
+    },
+    {
+      "title": "Drone gang ‘operated like Deliveroo’ for prisoners - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXg5N0lFVkhmVHdqN1ZNSWFjLW5MNmp0RXUxRWcyVEd0UjFTR3pkUDdhY0RIMDFwREpuUy0xbjZhek14Wmx4RFNoVElleXJqME8ycWtEOG4zcEhlX2NnZkNsOWxQM1U3d21ZM1JvcnZqQks0TkdYNWNYOWhCZVdyalhlR2ZINWNyek9iRUR2dmtIUzRvUE5lbQ?oc=5",
+      "source": "The Telegraph",
+      "date": "2026-03-03T15:08:00+00:00",
+      "description": "Drone gang ‘operated like Deliveroo’ for prisoners  The Telegraph",
+      "query": "drone prison",
+      "detected_at": "2026-03-03T15:19:49.823231+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8370db5a21b0"
+    },
+    {
+      "title": "Gang jailed for drone smuggling scheme likened to ‘Uber Eats for prisoners’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzZfaDdaLXdmWUVWQ0xMTkhvN0VqZ2VEZnU4U1U1THc3c3hPekNkMjZRa0tyWXdKNXJMZVV1SHppZ2ZFck9lMFF3UGdqT1NpU05sQzFLTW9xb1M0UDh0bVJ0Z01RWnc0a0tSUTdlMFRRWVdBMTRtd3ZhY0Y1ZFNsRFE5SHVNLTA0OWdtUnF1b1hxbGc?oc=5",
+      "source": "The Independent",
+      "date": "2026-03-03T14:34:00+00:00",
+      "description": "Gang jailed for drone smuggling scheme likened to ‘Uber Eats for prisoners’  The Independent",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-03T15:19:49.229177+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8486a73c2abe"
+    },
+    {
       "title": "US embassy in Riyadh hit by Iranian drones as Israeli troops enter southern Lebanon - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXVfVzVBQlZmQnpDX042TFZTSlhfVFh1d0tDb21ZLWxySWtydVQ0OWF4Y0VHaVRnUGoyYU85NG5OU0lVc2kxZWZ5MDl4TnMwN3dFUFdPQ2VPYXNhd3RONDRWSXhNanhJMHl2Um44RGtGNnk0VXh3OFNDWktDV3dqSExENlRsREJzQlk5T1l4SlN6cWNhQmRrZVpMblNNNzM3OWVLdHpidDNFMlR6empSWVRHMjI?oc=5",
       "source": "The Guardian",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "fd0f663b7e53"
-    },
-    {
-      "title": "One killed in Israeli drone attack on southern Lebanon - Mehr News Agency",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2Vvc3RYRGZ5dC1pQVdlcnQ0NXpMSXhmUVctc0taYUx2Umd1aE9uV3NpZVQ1V0o0OGUzR3VDNG5odDk4TXpCRzUzdFV0b1BJWVBDMkxreWtyOFpxckRERTBZZGtZNEswdzZyaXZHdGFpaWZvTGZFbDR4Z1RNOFNMc0lWanNtSERDY3BOeVRZektINmhU?oc=5",
-      "source": "Mehr News Agency",
-      "date": "2026-01-31T14:54:00+00:00",
-      "description": "One killed in Israeli drone attack on southern Lebanon  Mehr News Agency",
-      "query": "drone terrorism",
-      "detected_at": "2026-01-31T16:06:43.629027+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d4b4c9c63057"
-    },
-    {
-      "title": "Newly Obtained Photos Show Taylor Police Drone Broken Into Pieces After falling from sky - Metro Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnoxOGREQTdmdHZnbWRzbWdHcjRzempNVmVuZzJrOGFFZDJhbW80LWNENUhoWnZDVkRSbTIxNEFyTWVQNlZLM2J3cTNQaEYyLWMtNWpwS0MtbUR1YmtJMGJxOXZtc3RuWmxZdVBoTXotbXVhQnRiV2N0Wm84OFN3cTBjNEFBLU85UzBZcENBaVZVTmtfR21lVjJFTnlsTmhuUi1TS0xiM0JfS2FYcVlKMTN3dWc2cjJXVnFrLTh3?oc=5",
-      "source": "Metro Detroit News",
-      "date": "2026-01-31T14:56:41+00:00",
-      "description": "Newly Obtained Photos Show Taylor Police Drone Broken Into Pieces After falling from sky  Metro Detroit News",
-      "query": "drone incident",
-      "detected_at": "2026-01-31T16:06:38.581321+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "34e78375b397"
-    },
-    {
-      "title": "US FAA bans drones within 30 miles of stadium for Super Bowl LX - The Mighty 790 KFGO",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZNkRvZWNENzlhcGYyS3g2b1lYYXkwclVMRUt0ekpCVEc2YzY4R2RBMzdacDB2NlhSMTFwc05wMFBNN09SSXU3TzBJNkM0cEsxUTUzUFBpUmtMXzZUTGpEQmgwdEx5MTJyQTY2dUtOSzdzc1U?oc=5",
-      "source": "The Mighty 790 KFGO",
-      "date": "2026-01-31T07:03:49+00:00",
-      "description": "US FAA bans drones within 30 miles of stadium for Super Bowl LX  The Mighty 790 KFGO",
-      "query": "unauthorized drone",
-      "detected_at": "2026-01-31T14:07:12.156974+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fd598dff0af3"
     }
   ],
-  "last_updated": "2026-03-03T14:18:52.688345+00:00",
+  "last_updated": "2026-03-03T15:19:53.907632+00:00",
   "total_count": 1000
 }
