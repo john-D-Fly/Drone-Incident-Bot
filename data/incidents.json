@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Drone strikes near U.S. consulate in Dubai as Iran expands attacks - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSU9TNzFqZ0F0WE1iY0RQS3R2VjJZTG9VN1A3NDEzZkJrU295T0FnRzR6Ql9PNEVXUGNycEhWRG9HeUZSZElmS0FHRmR6cFU1ZmhORlBkdEdBaUhhVndaQW9TLWZGNWpuWEc0eTdEZWFQMVZiTVZTUHVzWkFHR0s0RHE2djJ2OENVblZpSHRNY2RzLXBCbVlXRFZWNkNOWVpwZEZWWGc2M290T3Z1TnZXcHFjMzUxbE1CM0NsT3h3?oc=5",
+      "source": "NBC News",
+      "date": "2026-03-04T00:16:52+00:00",
+      "description": "Drone strikes near U.S. consulate in Dubai as Iran expands attacks  NBC News",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-04T01:36:24.496627+00:00",
+      "location": "near U",
+      "category": "other",
+      "id": "f415a13358e3"
+    },
+    {
+      "title": "Qatar, Saudi Arabia arrest Israeli intel spies 'planning bombings': American journalist - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDBmRlpjNkhKWHhsX3ctVnhWajJEUVJ0RGl5RVM3VURrbExxWXhUaF85RVFmTFVKa1hKMnRLZEJiS0FkWXU0ZWZZM0dBMVBDVV9ISnlXMGo3cGNBUVBjaWwyd3lWWmZHTmZLVlJwbnlXbkYwOVRTOUZfN1JWUFpMdEJTUzJ5VFFxQ29TZnZ5Ml96RENNX3NPbTYySTRrYWVQN3FoLW53eHFteDZ4RTZqWkxHR1A5ZlNqSDhzN0Z0ZHFXT2xYQTRj?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-03-03T10:06:28+00:00",
+      "description": "Qatar, Saudi Arabia arrest Israeli intel spies 'planning bombings': American journalist  Anadolu Ajansı",
+      "query": "drone arrest",
+      "detected_at": "2026-03-04T01:36:20.459981+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "35edd2381024"
+    },
+    {
+      "title": "Drone downed near Baghdad airport: official - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGY3MnR6ZmlBOFlwN1I4VVNpOTFVelZORDlTYzE5c004cnFMQzZnVVJfcTNJbDFEUFdwRkt2ZUVkN0FIdTc0ZTN1Ym8tai00RUx0bC1PdkE5TF9mZ0d2Rmcwc3JEX3NQQVV6b3cwY01iRzNaaWw2UnVMUFVqa2FkaWZpdmlSRnNyVHpnNkpoZFRzUdIBpAFBVV95cUxPaWRpSHVDbFJ0NE15eUsxZHVqVDJ5UkZidWR2R09KeVh6Zk5DY0hmMWdxc3RUSWpvSUtRNUJabHNfdnYxMVZBclVWZmJMcXdHcnY3V0FtbVNVQVp5ZlliRUhsNUhRbXdDRDFLdlVMQWc1X3IyWjAzTFpSdXM3aUJXcXMtVU90OWhJYVowWi1ZYmM1TUk2bWhGSFRJRnBUdXNMaHMwTg?oc=5",
+      "source": "Gulf News",
+      "date": "2026-03-03T20:56:45+00:00",
+      "description": "Drone downed near Baghdad airport: official  Gulf News",
+      "query": "drone incident",
+      "detected_at": "2026-03-04T01:36:19.921888+00:00",
+      "location": "near Baghdad airport",
+      "category": "airport",
+      "id": "3752362c36ff"
+    },
+    {
+      "title": "See reports on drone activity over Suffolk County from 2025 - Newsday",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXg3NWV6VG5fbFhkRzY3NWhqT253UmtORDdFMFBaRGlwTFpoczcyUDFOWVdIejlIVlVzYzlUX1l2cm5heTVPOHFlZHpnQkxPVVk3UF9EVnR6ZEU4WFhaYThHV2w1QXZ4NDRrTjRTWktia1NVWkdvOHZqakQ4cmplN0R3?oc=5",
+      "source": "Newsday",
+      "date": "2026-03-04T00:41:10+00:00",
+      "description": "See reports on drone activity over Suffolk County from 2025  Newsday",
+      "query": "drone incident",
+      "detected_at": "2026-03-04T01:36:19.921888+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bb2f1763bf67"
+    },
+    {
       "title": "Alabama Senate committee OKs bill prohibiting unauthorized drones at concerts, sporting events - Alabama Reflector",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUEzLW1ISERxNy1McjcyR2tsVS1jSHBFdW01aTg0bkVGX1dTcnNJOFNsLWhQRGl4Y3NJSHRXNUt6MXZ3eVhOMmUxNGxEeldURWw0ajFLUUZCdHNqeGFzT3JCbmYwMVU2TXdNX3pnWXBFSTEzYkxOcTJ3X2pzaHMtMzBuUnpKQTZUcFplcENmRTZucnY0M2p2anpjMWE3Y05YYjZldnh2RTNVVHhYVHQ1VmVidDVsZkQ3VXBfQ1ZXNTM3OUlnZjEzZEtn?oc=5",
       "source": "Alabama Reflector",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "58c2326d3a8c"
-    },
-    {
-      "title": "Drone crashes near Polish military arms depot, prompting investigation - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOHI0bjl4Vi1ZOWJTeXNid2p2aFYxZjI2Wl8wSWRrU1pMVWNmS0V5SU9QbTV2eV9XV1JxRGg0MGlzZjA2anpDamYtVnpEMnJEVVRoNmF6cC0zRmk2N0ZhcmNlYXl0MVFHQXZMNXFQN1NySzR2eE9iZXJKUWpIeDE0WktSRkd3aE9yWm5VMEg4ZENFbTJDajRLTWVnQlFQUG1DNmpEV0dYRGNONE1nS2c?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-02-03T05:31:45+00:00",
-      "description": "Drone crashes near Polish military arms depot, prompting investigation  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T06:20:37.130544+00:00",
-      "location": "near Polish military arms depot",
-      "category": "crash",
-      "id": "0232774e7d0d"
-    },
-    {
-      "title": "Drone Crash at Polish Military Base Sparks Security Concerns - Global Banking And Finance Awards®",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkVSMmZ2a2lxMUxad3pwaUhzdEJWNFBQOTVDODBBUWpNM3Q1aFZ2MnM1WnlLdzZLdmxQYmdNdkE1dXJMbVpDb01mOEJzTnZ4RmxiQ1FFc1laNFRRNWY4dUZRdjZpUTJPWVBOV1FuRkdGS1AtUHpFUjZrZDFEQTlMd3FlYXF4dTdQaG9lVF9Vd0Uxdk1DX1NiZUd3UVBjN2s?oc=5",
-      "source": "Global Banking And Finance Awards®",
-      "date": "2026-02-02T17:04:42+00:00",
-      "description": "Drone Crash at Polish Military Base Sparks Security Concerns  Global Banking And Finance Awards®",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T05:26:04.330688+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "247156b170f8"
-    },
-    {
-      "title": "Rueben Dass on the Nexus Between Emerging Technologies and Terrorism in India - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUlua0hyenRnc1F6dGN4UnI0d1kxaThiOTgwV2RoeUNmbUFqdlNzSTBxbFNXb3g4UW5Vb2ZqUHBJNlFYZWVOZXZRSGVULXBtN3lPeWtzazVKa2xjUVp5cm84S21PYmVfWU1RWTJVQ1VRcnRxWHRWWDlRbVJWRWMySW16SzBYREVXQWlEWk1zTHlIZXp0cncyTm1Ba1owemxvNms0MC16UXJRQjVfaDBz?oc=5",
-      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "date": "2026-02-02T13:33:18+00:00",
-      "description": "Rueben Dass on the Nexus Between Emerging Technologies and Terrorism in India  The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-03T01:36:54.405066+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "16fafcbe1aa3"
-    },
-    {
-      "title": "Toy Drone Crashes Near Ammunition Depot at Polish Military Base - News Ghana",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjhJYlZlcVlYbW1HSHJkQnlaeXVYS1RfMmhlSlhPaHVzb0ZOSmM2Mm9ROTdXU3duLWo3LVlYZVZScGtHWmRJdzFISElQeFJCU2FETl9MMTF3SmNZYUFYeEY4OVUtUVRfZ1BhQ2VYV3I2S3dyNFM3LWg1VkZaQ1hyUGx5YURZYWRZMnJZWkVNakU4Wi1QZ0ltYQ?oc=5",
-      "source": "News Ghana",
-      "date": "2026-02-02T23:38:05+00:00",
-      "description": "Toy Drone Crashes Near Ammunition Depot at Polish Military Base  News Ghana",
-      "query": "drone crash",
-      "detected_at": "2026-02-03T00:31:23.328112+00:00",
-      "location": "Near Ammunition Depot at Polish Military Base",
-      "category": "crash",
-      "id": "3cba1e8e9919"
     }
   ],
-  "last_updated": "2026-03-04T00:29:39.206761+00:00",
+  "last_updated": "2026-03-04T01:36:25.599268+00:00",
   "total_count": 1000
 }
