@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzlPS3hScjdHQ3hiV2RzRTc1aWk3bDRFdHZrcWdxVkFidGdzTUQxQkdJUzZxaE0yUkxYdzFxUWY5WGkwdFVjVmthVWd5dUdaakZaRVpEZEZQMTNXNkNJcmcxWC13UlE3ZkZCbDB2N3lwRVIwTERYMXNPUlF3VmY0bHNTUkZvRHc?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-04T10:24:09+00:00",
+      "description": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own  AOL.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-04T14:17:15.566915+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "fa30a84089ff"
+    },
+    {
+      "title": "It flew around five times and crashed, — eyewitnesses describe drone attack on train in Mykolaiv - НикВести",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWp6dXJ5YWIyRDgwRWNTQ0JrVFlVSHZaMlUyT1NmZWZ6RndXa3JET3JJQVdWYko5N2ZTcWktbDJNRlFMLTBUUUdYM19seFBLQmYzWFpWVUZZc0lHVlV1ZmhnOVp3ZTQzN0VyZThZb1lJa0pKaW9oNE1Dalk0VHRGaUUzN0d6c0JmNS1TTkR6RXM?oc=5",
+      "source": "НикВести",
+      "date": "2026-03-04T08:14:00+00:00",
+      "description": "It flew around five times and crashed, — eyewitnesses describe drone attack on train in Mykolaiv  НикВести",
+      "query": "drone crash",
+      "detected_at": "2026-03-04T14:17:12.641627+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "cd9e760e910d"
+    },
+    {
       "title": "Pentagon Reveals Identities of 4 Out of 6 US Troops Lost in Drone Strike, Plus Additional Major News Updates - stl.news",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM0ZwazlzbXI2QmVrc1piM0g4c1doZUhIS0I4U21PMWxrVUJWb3Blc1pxUExtUWRzbUUtU2hLM1N6OFRweUtDNnV2SFRNWnE5aTV1NVV6bHM2ZUpicWZ4SzBmX2xLc0diakMxUjY1NUNJRW1HMmg4emxIZ0ZWS0xzTGVBbmxxVDZtd3czZkd0bUV0N0E1amQxTE5jM3ZfVlF5MkVobnQ0WmxEc0RSRS1iM29waUhKZWJpRnd4TjlWV1N1bEV4TkhNYQ?oc=5",
       "source": "stl.news",
@@ -11975,32 +11999,8 @@
       "location": "Near USS Abraham Lincoln",
       "category": "other",
       "id": "b0198e1d1b6a"
-    },
-    {
-      "title": "US downs Iranian drone approaching navy aircraft carrier - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12N21vVXVGN21FYjlnejY3QVZNQmlHN2RncHdPNE5lOXVZVVBMR3VuNWM2SVl5ZkJKcDdjdS01Znk0bHFESk1STUhkLUJ6em40dVBHNkNRcEhwNWZl?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-02-03T17:55:24+00:00",
-      "description": "US downs Iranian drone approaching navy aircraft carrier  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T18:21:27.011265+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d1176f85f6af"
-    },
-    {
-      "title": "US Jet Shoots Down Iranian Drone Near Carrier in Arabian Sea - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFFjT3djLWJDUVZrX2RGd05SVU81OEI3ekdCVzBNeXVBd2Y3MTJFNjBaaHdudHVEckRTaGJ2N09LdmhiUTl1SUJxandVWWYzM2tkLTNxeU1adjd0aS14QVV0SERnRzB1clRhNTBsS0swb1hSYk93c05GbVhvZjV6ZTg1SGxPeW85N0R2ZzlFQzZxb3dmX3dMLXc0UHIzU2NlY2gxWl9xSGJwRFI4N2VkQll2R3FxUQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-02-03T17:53:27+00:00",
-      "description": "US Jet Shoots Down Iranian Drone Near Carrier in Arabian Sea  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T18:21:27.011265+00:00",
-      "location": "Near Carrier in Arabian Sea",
-      "category": "other",
-      "id": "119f40520722"
     }
   ],
-  "last_updated": "2026-03-04T13:27:04.122490+00:00",
+  "last_updated": "2026-03-04T14:17:16.114029+00:00",
   "total_count": 1000
 }
