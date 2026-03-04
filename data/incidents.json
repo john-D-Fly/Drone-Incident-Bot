@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone 5: Tractor-trailer crash closes Wade Avenue in Raleigh - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejVVYU1GMlNHb1dJSnl3WFMzQ3JyNjhEWWxwbThHNVdib3kybURQbm5OYkdaUFlfZmVLM05nRHQ0aFBCRjdMQ1RTNXZPdHBFYTNfRlBwMnpjV3hGSmtHWEc5dFRMWWN4Yndubjh2UTU3cnpCOTFXYVl4b1RfeTM5dzdkOXotREhJZTUwaG1OMmduVFpPaVFhZHMxTy0?oc=5",
+      "source": "WRAL",
+      "date": "2026-03-04T16:38:32+00:00",
+      "description": "Drone 5: Tractor-trailer crash closes Wade Avenue in Raleigh  WRAL",
+      "query": "drone crash",
+      "detected_at": "2026-03-04T17:17:04.390635+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b4f6d17afb84"
+    },
+    {
+      "title": "Cyprus Added to Middle East Flight Chaos as Drone Fears Grow - thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmdTVW1OSFh0aW9uWnI1QnF6Y1YyUURKVWhLNU1TdG13WmV4NGRleEo2bkxqUVFOSGpaaWZ2RFkwMWVnaFBkTkUxOHBfeTJzdTVuR243NVBFR2w4NlhKN0pZUXQ0aUN3dHlxN25oLW5fYlFYd0lPQnNabER0U2J0QXZfR2h4VFVtckYwUEtudHhmOHM?oc=5",
+      "source": "thetraveler.org",
+      "date": "2026-03-04T16:22:51+00:00",
+      "description": "Cyprus Added to Middle East Flight Chaos as Drone Fears Grow  thetraveler.org",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-04T17:17:03.738475+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "41527238b523"
+    },
+    {
+      "title": "Amazon cloud unit's data centers in UAE, Bahrain damaged in drone strikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObEZGODhUazJocmh0R05fQTZQbjMxS01KYXJITXhFX2lJTGdVSEF2aDdHMTFqemVTOHlscUFNaHBkMFBSR1YzZEtETzZ1Y2EzdWVoZW11UkFvOTNGUFlkVURwcGJ4bkxBTjZMSmpPRm4yUjhna2o4dUc0MWUyWnEteE1aWk9MN0UySUV4Y0ZBUTllQXIyNTFFOUlyWU5vZkRULWFLVWtyRzlIWjV4aHduRE5uU2dwUUdJUHgtVmdtdDFlWTBMVkE?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-03T21:53:03+00:00",
+      "description": "Amazon cloud unit's data centers in UAE, Bahrain damaged in drone strikes  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-03-04T17:17:01.469293+00:00",
+      "location": "in UAE, Ba",
+      "category": "other",
+      "id": "e580d408700b"
+    },
+    {
       "title": "Iran war: Israel hits Beirut, Tehran with fresh strikes - dw.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdXVoeklwcHJGRTBST293emNTbGJpSzNGR2pGbDMzc0FaQ2gzQVJQVGdSeDZDZzIxVkdxVHJ4ODlack1xcEJISkJTU1Nob3lITWVOU2NIbEVKLTVlLW5YWHhpMm5VYno0WkN4RXFZWXNkUVo5RWtGd19MTjlRTzVqR25sRWJHaDRzUWFF?oc=5",
       "source": "dw.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b9ded225dd89"
-    },
-    {
-      "title": "US says it shot down Iranian drone flying towards aircraft carrier - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVTJ6RGFxVUZpZEh2NGlRenk4c3hOWkdkVUVLVFhwLW1TeTQwQjRvOERVNXhhYUI2TU9VUHp0UzVxcXRVZG1SVV9kckJpTzBYSTU2ajc5OVRwZw?oc=5",
-      "source": "BBC",
-      "date": "2026-02-03T18:45:14+00:00",
-      "description": "US says it shot down Iranian drone flying towards aircraft carrier  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T19:20:14.468334+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bd20c64ba30a"
-    },
-    {
-      "title": "Exclusive: US shoots down Iranian drone approaching aircraft carrier, official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNkQ3hxd2Z6Rk9CdDh5RlZzMWJRYnpTMk1obzhzb2xYZjZmYWphZVUzcGlxNHVpY2dmakF5NFExT3lFOWhReEdwZzRNSldENG4xemFQV2F4TENGWXViN1hieFBGbTcxUFRxQkRNcnJQb1ZITWx2VnF2RWs2OW15VHlEYjZYQVNCb3pDYXhEeHNNV3RCdHZ6cWs5Z3RmUzNBMUQ4dDVFR3U3SWhQVDFZNDhibEs4Uy1mNk0yVWpkZXRUVVU?oc=5",
-      "source": "Reuters",
-      "date": "2026-02-03T17:22:59+00:00",
-      "description": "Exclusive: US shoots down Iranian drone approaching aircraft carrier, official says  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T19:20:14.468334+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "40f34c5c9879"
-    },
-    {
-      "title": "US shoots down Iranian drone approaching aircraft carrier, official says - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9makJoWnJ6QXRpQ2ZCN2NhaFBILVBjV1NIUEo0X25Ga3JZZ3h0RlJzLTAzMzZ4b3puZmpqZFZtdDQxUzNIemxYSzhvUnZidVBtSlkxWmZFOVJxenRZSjRXVkdnSkNUUdIBa0FVX3lxTE5JQkZITHp0ZkhIQ3QyQ09Oa0FBNmRmcFJKQTZBcHNUU045MW96TkFxMU03WFczd0hvUnRSWC01ZjB1V2dpOGxlXzZUNGRSMDdhV09VVEJyYnlKdjN0NG9GYnRUSk9Xa3BsQjZJ?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-02-03T13:53:07+00:00",
-      "description": "US shoots down Iranian drone approaching aircraft carrier, official says  The Times of Israel",
-      "query": "drone smuggling",
-      "detected_at": "2026-02-03T18:21:28.297372+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "628e666b13ef"
     }
   ],
-  "last_updated": "2026-03-04T16:14:15.577219+00:00",
+  "last_updated": "2026-03-04T17:17:07.394442+00:00",
   "total_count": 1000
 }
