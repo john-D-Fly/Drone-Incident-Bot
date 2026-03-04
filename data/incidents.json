@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Amazon data centers struck, damaged by drone strikes in Middle East - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3kyS1JYajNkaXpMT1hmX01oZ2piZWhMTDBCUHpsQVRLRURrSk9SUnFfUjlxMjJ6amVzc3ZlYi1DbkpZSll1ZjRoQ01wNmU1NkJmVk9nUmtDVzJyWWdCNi1EQmtpOGFHRjhVenFjWmJRQldKb2NCRS1RaW04R0xoektFcl9YbnA1NzJobXYzeU1DVTlF0gGaAUFVX3lxTFB3NkV3WExjNUdONVgyaUVjeXBHbXlYNVRsekNqR0dIdFRRX1pINUdCSHJXYnhraF9Lc00wU3pPYW8tcTJhbG9KUFJjOGhTOUpNVUxqWDVoWkFCc0FBNlg2Z1JWekp3aHZHblVnUG9DWnduaERQb2Q1MVFaYWJzS0J5RXROdGRLckVIWi00Q0hlbUxxM3N4RGhNSlE?oc=5",
+      "source": "The Hill",
+      "date": "2026-03-03T21:01:00+00:00",
+      "description": "Amazon data centers struck, damaged by drone strikes in Middle East  The Hill",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-04T23:10:03.604158+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1a295426c107"
+    },
+    {
+      "title": "US to hold classified briefing for senators on Texas drone incidents - American Journal of Transportation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE5vZUVhVmhTaDc4LXlKN2Nsakd4Sk5IQmdhUlI1TUQ4SVJ5T0lkTUYyS3ZHZk1hSS1KRFNRSVd2VVpTOURnOXBtdWw3RE9ISWpjWVI4OE9NZGxrZHZxS09BMmxJZERLaU1IQWJfdlpPQ2dnNVBSVk96alE2MzE0X3dBX0REU2s0Vm9zcUQ5RXIzVTFjRkxlWUpR?oc=5",
+      "source": "American Journal of Transportation",
+      "date": "2026-03-04T17:34:00+00:00",
+      "description": "US to hold classified briefing for senators on Texas drone incidents  American Journal of Transportation",
+      "query": "drone incident",
+      "detected_at": "2026-03-04T23:09:58.431687+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "618ba7dd0880"
+    },
+    {
       "title": "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVdIeXh4LWZOc040TTJBMDJSemd5bTNyTjh4djk2ZlVjeFYxcTVRdmFaTlFvTURmTVMxZFcxV1RZUDN5TF9TRnNEbUtsZ3NZUklDTkJOcHVkWnBmZE9lSGxhV0V1S2hYekhuaUlHSFROT0E4eVRZWmFwUTVHNS1QQ0x1c2tjb1dONGVJS0pfamZ5RjM3UDc5SEdPcW9QRW1DU1g4N1ZnSEwwMlRSQ21JQ2RydW9KZ9IBuwFBVV95cUxOLUhDdDBfbXYwamJRRG5yWDFPWmE1aE45aTBQUlVuWGxMeWdEanhGOXYtNGFGbXcycEpUYlFtODJLYTRlZHRkT1M3Q0FIbnE3Q2JucUZ2MnNVYWVEdVRwYWJ1V1BSWTFjajZOTWFLZkQ4OXRWQ0V2alFVVUJmdnl1UGtoYm5uSWdlMjl0aVZYZDFiMUlmSURRUU9iX3ZaVTJQcE5EQzBPMG5IVFBBc3V3X2oxdHJtNGUtbUF3?oc=5",
       "source": "Al Jazeera",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7522ce8c83c5"
-    },
-    {
-      "title": "US F-35 Shoots Down Iranian Drone near Aircraft Carrier; F-16s Escort Threatened Tanker - Air & Space Forces Magazine",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92eUdDRFRCTnREX3dJdFhraW1nX0dTc2gzOHJLRTZDNGtvazdmVzVtWXBmTWJ2OGEtX0VzSERfd1VRSXhSc0xCeHJMY0g5OUFrUWk0Z3JwaE5idnhwNUhRNWNENmM2M2RRamVFZFN5cDhsa3VtV1NsUVRkNlN6RUE?oc=5",
-      "source": "Air & Space Forces Magazine",
-      "date": "2026-02-03T19:54:26+00:00",
-      "description": "US F-35 Shoots Down Iranian Drone near Aircraft Carrier; F-16s Escort Threatened Tanker  Air & Space Forces Magazine",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T20:12:23.973505+00:00",
-      "location": "near Aircraft Carrier",
-      "category": "terrorism",
-      "id": "17c90cc35365"
-    },
-    {
-      "title": "Nigerian court charges ex-justice minister Malami with terrorism offences - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42QzN1SXdDS3BtVHE2NFVCb01ZTDh0RHpJZHJMaGF6ekdhZkZmZkhEWmowaU80X05EV3BtNExkNG9tQk9HVWZReklGQ2pKUnBmRXpZSnlOdHHSAV5BVV95cUxQMHZnZ1pRTks0M0NtY3EwbjE3NlF0cWUyQW5oTXRsLTdUYnppMk10c1VSZldTYVpvMVdvMUFyUHhEaWhTc1dSMzI2bWM3a2g2azZ3anRFWU44c2l1aUl3?oc=5",
-      "source": "TRT World",
-      "date": "2026-02-03T18:29:01+00:00",
-      "description": "Nigerian court charges ex-justice minister Malami with terrorism offences  TRT World",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-03T19:20:19.361712+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "539a712844d6"
     }
   ],
-  "last_updated": "2026-03-04T22:09:45.143520+00:00",
+  "last_updated": "2026-03-04T23:10:04.956341+00:00",
   "total_count": 1000
 }
