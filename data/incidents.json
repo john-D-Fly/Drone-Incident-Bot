@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "US embassy in Riyadh hit by drones, Saudi defence ministry says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnF3VmtwTUxHT1lpbGxfY0NCOWZLOWpVMzNTR3BlTmtZbWh0T0ZjblB6WXRHc0JhSFVuTTJmVEJsa184dnNHR2NhY0RHZnlUdXAzMVFKWnA3UFo0U0t2aUVlRkhmNElXRDhjZUp6SFVyVUNXMlF2SHZIQjhCNWN3NEM1QzNXRWNhV0VueXNJZW1pRnhfOUFoZkpIU2tNa2xua01wTw?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-03T00:23:00+00:00",
+      "description": "US embassy in Riyadh hit by drones, Saudi defence ministry says  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-04T03:52:00.344375+00:00",
+      "location": "in Riyadh hit by drones, Sa",
+      "category": "other",
+      "id": "f9afcc622679"
+    },
+    {
+      "title": "Fire caused by drone strike on US consulate in Dubai has been extinguished, officials say - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenBtOElsM19QeUMyYWxGclRjNndyRHcxanVleWRLc05GX3pCM29xMEtwMGg0Xy00TUlYQTRGNE9oLW13SjVWSnA5RW5tNnp6WUZDVWxQNnRIUTJ1cUJXdnIzUzk5X1ZUb2RVMjFSTTBpUTFzNEJnXzB0TDVVM25LSHpuMHE1Zmt0dnc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-03-03T20:13:00+00:00",
+      "description": "Fire caused by drone strike on US consulate in Dubai has been extinguished, officials say  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-03-04T03:51:55.538884+00:00",
+      "location": "in Dubai has been extinguished, of",
+      "category": "other",
+      "id": "834075d06a28"
+    },
+    {
       "title": "Seven jailed for 50 drone drops into London prisons - Hounslow Herald",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFI1T2otQld2OWYxYTVwYkMxMXJ1OVVjZXVBeG9XNUUzUWF4SDBJT0phWG53ZHM1bGdkQXBsdktwaGM4bktsOUE2ekM0MWstaUxfNk01d1RnMzJzMl9DYm5haXpsLWtZMGdCaUNtUmUyckRHVVJzemZ4V2JXWVRGTFNKUFJTUFp3MkVlZ3FqX1hwdzQ1?oc=5",
       "source": "Hounslow Herald",
@@ -11975,32 +11999,8 @@
       "location": "near arms depot",
       "category": "crash",
       "id": "005ceaafe80a"
-    },
-    {
-      "title": "Louisville police use drone to help find shooting suspect hiding in bushes - WDRB",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUpqWk4tbXZoXzhOQjRnMGhaeXZzTzBBTThTMnFJQ0FpR0VaUkNEUWJPWVNkNkhaNGlYS2kzbVNmZWdVN3R6cVBueGJTUExEYnpYM1FXT1BfYUFSNU1MQndrdmxENUNKSTFwLUdMcGVUU0lyMDZTV2VFMDRtZkd1MHM5aWtQeUxuV2NQQUVsR0Z3Uy1vRXd6LUdvOXdRNjNmVGVPVEVoU3RRS2I5RmFXdnhrbDhCcWhONVFrM1lWTUc4aHRYU1JFSlRISW95T3FRR1A2aU9oR0hmY0xQQ09uM3JybnYxTS1QQ3MySGM3RFpMVFpBWUEw?oc=5",
-      "source": "WDRB",
-      "date": "2026-02-02T22:48:30+00:00",
-      "description": "Louisville police use drone to help find shooting suspect hiding in bushes  WDRB",
-      "query": "drone arrest",
-      "detected_at": "2026-02-03T07:20:22.104701+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7c0a3defd2a2"
-    },
-    {
-      "title": "Airbases drone inquiry ends without any suspects - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TVDZCb2ppdENjVGhIYl9jV3BvVHpnX0dlSDZNaEY1VW1keDJtemRfSXJLOGpGTkNWQVpwMy1ZSU11THY5eHRCNHpDWG1mUVQyU0xmbm44VlNDTllV?oc=5",
-      "source": "BBC",
-      "date": "2026-02-03T06:17:24+00:00",
-      "description": "Airbases drone inquiry ends without any suspects  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-02-03T07:20:21.568633+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f8cf0d2f1bdb"
     }
   ],
-  "last_updated": "2026-03-04T02:59:17.064901+00:00",
+  "last_updated": "2026-03-04T03:52:01.349651+00:00",
   "total_count": 1000
 }
