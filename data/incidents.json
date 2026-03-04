@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Kremlin blames Ukraine for drone strikes on Russian ship in the Mediterranean - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmx0QlpNV3czSG9KOU52NFJuV2s3WkJvNGxuU1BVRVlRdWVGbF9CeV8zZFJyZzZpU2k3clhOLVBNOUcyRHlPaDM0bi1aR19lMzZaa1N3NUVRRS0xbXBwLXlpRXhWWjVnMXRGZ3Z4ZFJPQThQVS1Ta0RaQ3dSQmlhUS1tZTlKVXJOXy1WQnRLaGVVMG5ZWDkyazJrMm00OElMMllfbA?oc=5",
+      "source": "The Independent",
+      "date": "2026-03-04T10:36:00+00:00",
+      "description": "Kremlin blames Ukraine for drone strikes on Russian ship in the Mediterranean  The Independent",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-04T11:12:03.303984+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "015732a04f60"
+    },
+    {
+      "title": "US F-15E Shot Down by Kuwaiti F-18 in ‘Blue-on-Blue’ Incident? Report Points to 3 Missiles Fired Amid Iranian Drone Threat - The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSEFpUEhsTTlFMTVjMFRxLWw1TDJOTkl2UW1jREdoVVMwR0ZvR0o2NjJ0bG1uSm1DTlBMQ3dTR0kyUC1kZXA1ZEhDOVdnMzVUTUE0OFF6N3JlMTczV0NkcDBnX3ltRVYtT1ZNaFUxMjVLSHJNZlVfdE1tWGFxMVotcjZHYzEwUVdaRG42UGt4ZjhIZVdBekhPNUlGN2ZTRTVKQ2U0TUdmMzNTendwZGJpekJWWF9nQ2QxUE00RW1ucml5dEhZWlpCbXBzN2Rac21VYk0zekdFb3pqaXphMndYMmktMTQ0OFZCMjZqSS1MclBDZF9PRVVn?oc=5",
+      "source": "The Sunday Guardian",
+      "date": "2026-03-04T10:51:21+00:00",
+      "description": "US F-15E Shot Down by Kuwaiti F-18 in ‘Blue-on-Blue’ Incident? Report Points to 3 Missiles Fired Amid Iranian Drone Threat  The Sunday Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-03-04T11:11:58.795275+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "2d971163e157"
+    },
+    {
       "title": "Iran war: Israel hits Beirut, Tehran with fresh strikes - dw.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdXVoeklwcHJGRTBST293emNTbGJpSzNGR2pGbDMzc0FaQ2gzQVJQVGdSeDZDZzIxVkdxVHJ4ODlack1xcEJISkJTU1Nob3lITWVOU2NIbEVKLTVlLW5YWHhpMm5VYno0WkN4RXFZWXNkUVo5RWtGd19MTjlRTzVqR25sRWJHaDRzUWFF?oc=5",
       "source": "dw.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "3d6245e32241"
-    },
-    {
-      "title": "Ferozepur Police dismantle Pak-linked drone smuggling network, recover over 7 kg heroin - Babushahi.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uUzJXRWdvZHY3NnBtcG9TRm1DOWNhbTBsaGQzam1FOFRoQ25zVW9PMV9rVmtHYkZPUE5XMTdENDlJVnNVSHhIS3JBbG1NRWEzWHN6VU1JUUw0c1d2TXc?oc=5",
-      "source": "Babushahi.com",
-      "date": "2026-02-03T12:58:00+00:00",
-      "description": "Ferozepur Police dismantle Pak-linked drone smuggling network, recover over 7 kg heroin  Babushahi.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-02-03T13:29:18.752990+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b0228fd9a9fd"
-    },
-    {
-      "title": "Ranveer Singh’s Dhurandhar The Revenge faces legal hurdle over unauthorised drone use in South Mumbai | Bollywood - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSGtVZ3RnMEN0SllTbGJSakNuSlR2N3JZRjBCR3ZVVXRnWTJxU0FWU1dUZDB2V1dxUUtHUy1idHVySm1WYTdQbDRmejliWVF6T0U2UVk0TEJKVzJjUWZyTTBlUUw2VnlJR19rVlN3MXRUUjRTZVd5RHhoYlpfeV9DTWNOTWdfYlA2RVJqQVRVeE9KdnR6b1NLMTJPaTY1LW9HbmVONEJwbEUtRlhVNllFQnRQLVB1eW1WVFUxN0RKTjV5MjFtZDFSY0NhWnpmLVNVVVpjbzFHXzNtMXl1R3VLVzFSWXRwY3BmM2xWdGhqN2VvVzFXbW90Z1NFTWltQWloWGVTb1lpMzXSAY4CQVVfeXFMT2ZNS002eE5mdUNJVW01b3FncGxUMU5RR3oxT2hJdkdLbDdJSlNtRWZzQVVUVkJpWHRjWnd0SlVlTU9ETnZtYkt3QldUMS1BMXowb3RvVWJONlgyWXpTWWxWeHZfS0lWWnlfRnUzYWplcGgyNzBMV0FTSExabUVZbFNQc0lNU1JETWtDZWM5T1MzVDVvMUdPVVJRaWg1ZXAybnh2OHVTNE04QjRJcXNGcjJ6bjF5Y1hrYTAxbm5LWjA2aWNoYTY3eHpFcllMMlgwdHpJcFN5QlJEaURoaGZLRF9KYTUxdVEzT01hS05acFZwcE5mRUhMeGhWSTRsaTBjaXhQbmdxUmFnNjJKcWlR?oc=5",
-      "source": "Hindustan Times",
-      "date": "2026-02-03T11:36:01+00:00",
-      "description": "Ranveer Singh’s Dhurandhar The Revenge faces legal hurdle over unauthorised drone use in South Mumbai | Bollywood  Hindustan Times",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-03T12:14:45.777270+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2602907cfb62"
     }
   ],
-  "last_updated": "2026-03-04T10:13:48.302207+00:00",
+  "last_updated": "2026-03-04T11:12:04.433521+00:00",
   "total_count": 1000
 }
