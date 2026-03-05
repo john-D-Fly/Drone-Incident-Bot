@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Azerbaijan demands urgent explanations from Iran over drone attacks on Nakhchivan - Aze.Media",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1Z0bGNaaU44OGticElqdzhLYlNKZVh4cWR4SDYxT25reFRzR1lHbnV2ODJCVUhYdFp5Z3Vua1VoWmlkNVZ1bHdVYU5ISUpXckc1ZGNSMGxjVzl6ZGFPQkp5TjBUQjBoUW15T05sTlNaSEsxV3g0aXB0Qzgzejc2UjZtb2c3SHVKaHFxQ2g4b0hiUlRMOUE5aURYYmx2UU5ZNUE?oc=5",
+      "source": "Aze.Media",
+      "date": "2026-03-05T08:50:06+00:00",
+      "description": "Azerbaijan demands urgent explanations from Iran over drone attacks on Nakhchivan  Aze.Media",
+      "query": "drone crash",
+      "detected_at": "2026-03-05T10:16:46.118518+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9a7ee0154717"
+    },
+    {
+      "title": "Wanted fugitive arrested in southern Laurel County after drone-assisted manhunt - LEX18",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTd5Q0kyUG9NLWUtNURWQVVTTWZxeFB3bUphaVhkR09SM092ZU1HSzVvelVuNnB5VjhBZGQ4YVAyeVFaNVk4TTc2d1ZhZXVHQnhDOFp2V2tjUURNekpOeUd4dnVFaHNfOEk0dEhFNDQtTVpHUEZBYUxNTGJyeVFxVF92bDBVa2w5cjFyOHBkNlNZUmdZRGpNMFpIYTc1amtuMkRMNkZvcVd0WTFjS1JMRG93WmoxbVctejczNDdTUzUzNURkRkFz?oc=5",
+      "source": "LEX18",
+      "date": "2026-03-04T15:52:37+00:00",
+      "description": "Wanted fugitive arrested in southern Laurel County after drone-assisted manhunt  LEX18",
+      "query": "drone arrest",
+      "detected_at": "2026-03-05T10:16:44.106747+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2c354ddc0f2b"
+    },
+    {
+      "title": "Drone targets US base in Iraq as Iran attacks hit region amid US-Israel war - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE82LWtMSHBycUZUc0VHandOcmdJWGNDbDlENHIyMTVSY08wWFdtT1RSV2lGbk5rbU5NYjVkdU9jLWM0aDlEcXRVMUFSV3Y4YWkzSHlQemkxYXdUSmJpamdMZWd1X2FZc2hBTThKWXVzR2Z0MW9LNkR5cVlIMG9ySTNWTDhRS1BjZ3BkM0ZmVVV6Mmlwa2tIMmpUeFhrbHJjTkFLRTlzZER1SjFlbVZqbnBldHNUQdIBuwFBVV95cUxQR01lSjhnbDZKYkZXUUJacmI3RTl1cER6WkJlbElyUWZMbm5JQmU5QWp5V0dxUFI0WDA0X0tLWC1Qck0tUkUzNmtSeU0xU3FEQzM2RjhBSjJGcjJiekJndTZGMEgzQXdTSzNSdzhBMlJUcmpxWHc5emZNOFdyYmc5eV85QXpXVHNHWVIxOWQyRXJ2Mk1vNzktOEtzdEpzaThWd1U0UzRKamtycEE5MzYweFE2bzlqdmZ3M0xn?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-03-05T08:52:18+00:00",
+      "description": "Drone targets US base in Iraq as Iran attacks hit region amid US-Israel war  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-03-05T10:16:43.565452+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c2e8d65ad61e"
+    },
+    {
       "title": "Ukraine Behind ‘Terrorist’ Attack on Russian LNG Tanker, Putin Says - The Moscow Times",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3o2Z0QySUZYbzZhdzNBVmgyNkRoNW9YYkF1NmlsM3RDTFRLWFY1M0Y1Z0t5bXg3YngtNHpVeTZ5ZmkwOUhYX2tTN2h1bkRQSnNpZmZKS2V3dENRS3NOMGsta2xtd2lVWktmLURjbzNWY09xWVJwc2lzeTFheVRXYkJsTzJGQjhQLVRITjRIZ1VRc3Y2Zi10Z1dzWEhVN1ViQ0NfWUFaU05SZHdYYWNlMFl4SQ?oc=5",
       "source": "The Moscow Times",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "cef0b16a2091"
-    },
-    {
-      "title": "Oil Ends Day Higher After Drone Incident - Rigzone",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGlHOUZxM2tpZjlQTTVLME5KRVktVGNINDBnOE9TQnZwNTAwbkxDaVlGM1JnQzRITklOb1AwSVBJYmhTWU5faFNzNm0xcHJISmhqaTAydG5rTVUwMEF3WHZIMmxUUlRqdDFmOFQxS25uUk5KYWZwQVg3V1hBb3lQSUkwa25reTg3eGVLU0o0V0RVYUZ4MHpfRlphVDF3MVI3aGVlcw?oc=5",
-      "source": "Rigzone",
-      "date": "2026-02-03T22:04:00+00:00",
-      "description": "Oil Ends Day Higher After Drone Incident  Rigzone",
-      "query": "drone incident",
-      "detected_at": "2026-02-04T00:27:56.220846+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a3e1be84c826"
-    },
-    {
-      "title": "Drone crashes inside Polish military base near arms depot - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzSFhjT3ExTVZYMjEzeUFBaHZRV1Q1QjZhNUpoN3U4QzdqNzF3RHMzU3d6bFBpaE1Mb1N2M2FIaU9CTDhIY3BYckFZZFk2YWQ0UVZvdHcxbkvSAV5BVV95cUxOdnNWMlcxTWM0akY3NGtSVkJ1ZmNtbFZGN1d3X19jRUtlNThURGZneUNGMUJVSlJyR2ttbXM3THBNZzFnNW1mYVZEV3ViSk5YRUJkNVhwbE5nTnBONlV3?oc=5",
-      "source": "TRT World",
-      "date": "2026-02-03T06:23:58+00:00",
-      "description": "Drone crashes inside Polish military base near arms depot  TRT World",
-      "query": "drone crash",
-      "detected_at": "2026-02-03T23:09:54.694607+00:00",
-      "location": "near arms depot",
-      "category": "crash",
-      "id": "6296c0deb3c3"
-    },
-    {
-      "title": "Drones are dropping contraband into prisons; VirTra trains officers to stop them - stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2piTWRONklXaFBMVC1Ea3ZYUDdNYnkzcmE1di1uVnNyMVlRUjdRTGVQSXJsRmgzb2hrTktZb1ViTVZIVHpDSFM3MEI4NzdkclJIMnFhWk5nSEl6bkRtY2UxWnE5MV8zRGlIT21Ud3FrTnNndHJOeS1Cb3g4VWJKYU9Wb0ZkR2lQdk1SNnFwNjA4MzhLS1Z2Q0dMeS1sUUdJMF9PTXZFa1dfZ21MSjRqTzUtR1NGNnpOdkJPQg?oc=5",
-      "source": "stocktitan.net",
-      "date": "2026-02-03T21:05:00+00:00",
-      "description": "Drones are dropping contraband into prisons; VirTra trains officers to stop them  stocktitan.net",
-      "query": "drone prison",
-      "detected_at": "2026-02-03T23:09:53.556500+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a777a3148a58"
     }
   ],
-  "last_updated": "2026-03-05T09:17:30.209910+00:00",
+  "last_updated": "2026-03-05T10:16:48.734378+00:00",
   "total_count": 1000
 }
