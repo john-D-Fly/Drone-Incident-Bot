@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "In the past 48 hours, numerous drone-related incidents have emerged, primarily concentrated in conflict zones like Iraq and Azerbaijan, amid heightened tensions linked to the ongoing Iran-Israel conflict. Notably, Azerbaijan has reported accusations against Iran for drone strikes targeting airports that led to injuries. Additionally, there have been multiple drone strikes against U.S. bases in Iraq, indicating a worrying uptick in aggressive drone use in warfare. Moreover, there were arrests related to drone smuggling operations in Israel, highlighting concerns over drone-operated criminal activities. Meanwhile, legislation is being discussed in various regions to address the rise of drones over sensitive areas like prisons, reflecting a growing policy response to mitigate risks associated with drone misuse.",
+  "totals": {
+    "airport": 7,
+    "other": 35,
+    "smuggling": 10,
+    "arrest": 5,
+    "security": 4,
+    "terrorism": 10,
+    "crash": 9,
+    "total_incidents": 114,
+    "by_category": {
+      "airport": 8,
+      "arrest": 3,
+      "crash": 6,
+      "other": 66,
+      "security": 4,
+      "smuggling": 20,
+      "surveillance": 1,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 5,
+      "drone crash": 15,
+      "drone illegal": 2,
+      "drone incident": 33,
+      "drone prison": 8,
+      "drone security breach": 2,
+      "drone smuggling": 14,
+      "drone terrorism": 29,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Iran-Conflict Related Drone Activity",
+      "rationale": "A significant proportion of incidents involve drone strikes and threats associated with Iranian operations.",
+      "incident_ids": [
+        "bcee4702f2f2",
+        "4ef81ad3748b",
+        "4f925a33ab0b",
+        "c2e8d65ad61e",
+        "7dac56aa7b43"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Criminal Activities",
+      "rationale": "Several related arrests and incidents are associated with smuggling operations using drones.",
+      "incident_ids": [
+        "851fba54c133",
+        "7b5d609a22f6",
+        "7f7f3b2d88f4"
+      ]
+    },
+    {
+      "topic": "Drone Crash and Incidents",
+      "rationale": "Multiple incidents of drone crashes are reported, emphasizing operational risks and equipment failures.",
+      "incident_ids": [
+        "24bcf5a30add",
+        "9a7ee0154717",
+        "f39782422049"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "bcee4702f2f2",
+      "headline": "Azerbaijan accuses Iran of drone attack on airport that injured two people",
+      "one_sentence": "Azerbaijan has accused Iran of conducting a drone attack on its airport, resulting in injuries.",
+      "risk_tags": [
+        "airport",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4ef81ad3748b",
+      "headline": "Drones strike US base in Iraq, Doha explosions start rising tensions",
+      "one_sentence": "US bases in Iraq have been struck by drones amidst growing regional tensions attributed to Iranian operations.",
+      "risk_tags": [
+        "other",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "851fba54c133",
+      "headline": "Security bodies say 3 men arrested in January after trying to smuggle firearms from Jordan via drone",
+      "one_sentence": "Three individuals were arrested in connection with a drone-based firearms smuggling operation from Jordan.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6b693ddeee72",
+      "headline": "Drones from Iran crash near Nakhchivan airport, nearby schools evacuated",
+      "one_sentence": "Drones from Iran crashed near an airport in Nakhchivan, leading to the evacuation of nearby schools.",
+      "risk_tags": [
+        "airport",
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "24bcf5a30add",
+      "headline": "Horror moment drone crashes into Azerbaijan international airport",
+      "one_sentence": "A drone crash occurred at an Azerbaijan airport amid escalating tensions with Iran.",
+      "risk_tags": [
+        "airport",
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising tensions in Iran and drone incidents triggered a spike in security concerns for airports and military bases in the region. #DroneNews #Security",
+    "linkedIn": "With increasing drone incidents related to geopolitical conflicts and smuggling operations, authorities are ramping up security responses across airports and sensitive sites."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-05"
+}
