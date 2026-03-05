@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZkx5Y2hpTnF6UFA0V0IyYWZuMWNhZ1ZzbWZmc0xLd2xKcnpZSjQ5OVZaX2tnVHozZFJfWFRCMW43ZDdheEsxOWlONnJ4V1BsM2I0WURkR2FQcFJ3SHJJVW9OV2lqWHRpRGtRdHJOQzBOSXhSb1VYejVJNGk0VUk?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-05T18:24:50+00:00",
+      "description": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own  AOL.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-05T22:09:28.024292+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "4989086271ef"
+    },
+    {
+      "title": "Louisiana men describe terror as missiles fly overhead in Middle East conflict - fox8live.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWNCVkwtXzN5ZTdrc1hhYjJPWmh1Zm14el81aXJtSXNUYUd1QlBiX1laR1ZIMzZMZVN1Qk5lM0dGOHdadU50eDZkZ0FuZ01aR2pWNl9VcnFMRjRFaUJCbjNySVJMZGZXVUVSdGdvNk91a3J1LUJETzJLb0VCTUtvWjB2eUxKTlBBV2tiLUluXzJ0eUotRmtVb0ZwTkNWeEVGWExFUUR0NFQwNUFkU0E?oc=5",
+      "source": "fox8live.com",
+      "date": "2026-03-05T21:30:00+00:00",
+      "description": "Louisiana men describe terror as missiles fly overhead in Middle East conflict  fox8live.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-05T22:09:27.300144+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "5414735af5dc"
+    },
+    {
+      "title": "Azerbaijan accuses neighbor Iran of a drone attack and vows to retaliate - fox5sandiego.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS3A2MnlUZndYNGN0eGY2RFUzNmVaUVBRUE9CU091MlNUM2pPM0NuamVDcGkyZzZkQ3RlOTRubG95MGhBcWctTFdkTzFING04U1FBaTRWM29PZldmaEFTcGJ3NGQwbkVxNElPVUFDRHZRSm95OUxXRHA1dzBaS04wOE5makJkaVJnNG1VOXoydm1oVTYwME4zOENXcndPTzBmUDU1UUwxQzMtb1h5d0F3MzdNWVlvaWxZSFdVeHZWZkdJX0ZUQXfSAcYBQVVfeXFMTUtwNjJ5VGZ3WDRjdHhmNkRVMzZlWlFQUVBPQlNPdTJTVDNqTzNDbmplQ3BpMmc2ZEN0ZTk0bmxveTBoQXFnLUxXZE8xSDRtOFNRQWk0VjNvT2ZXZmhBU3BidzRkMG5FcTRJT1VBQ0R2UUpveTlMV0RwNXcwWktOMDhOZmpCZGlSZzRtVTl6MnZtaFU2MDBOMzhDV3J3T08wZlA1NVFMMUMzLW9YeXdBdzM3TVlZb2lsWUhXVXh2VmZHSV9GVEF3?oc=5",
+      "source": "fox5sandiego.com",
+      "date": "2026-03-05T08:54:37+00:00",
+      "description": "Azerbaijan accuses neighbor Iran of a drone attack and vows to retaliate  fox5sandiego.com",
+      "query": "drone crash",
+      "detected_at": "2026-03-05T22:09:25.550684+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "796572b2fe04"
+    },
+    {
+      "title": "Azerbaijan threatens ‘Iron Fist’ in response to Iranian drone attack - Eurasianet",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVhrQlpTYkRTZ1lzbXZQQUpaVTdwbE5TUmtoRXp5c3FjenVmME5DV0lhOFNxOV83aUhlaEFtSVZsMlc5Y20xdTVJa1p6R2FhdDFjRnlDTHhiQVlqTE95dG9OaWJybFdXZFNrZ0FsVlpqXzlGU2pDUlNVOUNUdkx5VXpVMmJlV0ZQRGNyOEdMV0hTUjg?oc=5",
+      "source": "Eurasianet",
+      "date": "2026-03-05T21:19:04+00:00",
+      "description": "Azerbaijan threatens ‘Iron Fist’ in response to Iranian drone attack  Eurasianet",
+      "query": "drone incident",
+      "detected_at": "2026-03-05T22:09:22.458933+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "074c03cf37ef"
+    },
+    {
       "title": "Azerbaijan vows retaliation after blaming Iran for drone strikes on Nakhchivan - Dailynewsegypt",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT09zTmttejRpcnd0bWV5WDZfMFNDM3g5QnlXVG9uZ2ltTDRmOWpNakJHbXdya2xvY0R4WnZRaklwLWhsY19mTmlrbHhpOV9vRlRCbHF5bmdrcEFfUlFFNXVudzdTQ3R2cUd3OEd6b1RXZWNYSDRYT0F6UTVvNkhzZE43ZVphdWdCb2ZEazJmbjJtQjQ0QVRBeDhJbDlNczhTS0hMUzRXUEhzZmJMMW8zdmlEVkxGdHhpWVpwSWt3?oc=5",
       "source": "Dailynewsegypt",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "fad439699c40"
-    },
-    {
-      "title": "SpaceX counters Russia’s ‘unauthorized’ use of Starlink to guide drones in Ukraine - KESQ",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUy1hd0VodzdkcnpqWTNtOWMwbG5ZV0pKaDI5N2FUajlzV0hQSElDbDZHcEw2bVhXS3JQdnJoNjJkMm00RF82akxYSlZCMG1DRVBXbzVFclE1YklOVThJeHJVSG9JWERsbDVBZU5hb2ZvMWs3Vkg2bW4yYmZ5amc3ZmFVeWQ2a2J2X25TcllBMHgxNk1QX2pYR3J1NUVkbEQzZzNwYlBEWHcxZTA0R29VWEwzM1VkOTRsNHVrcUFOWTdFTDFmUzU5M0tXVlVuTmh1VFN2cQ?oc=5",
-      "source": "KESQ",
-      "date": "2026-02-02T19:55:23+00:00",
-      "description": "SpaceX counters Russia’s ‘unauthorized’ use of Starlink to guide drones in Ukraine  KESQ",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-04T17:19:40.936770+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "753f08756c4a"
-    },
-    {
-      "title": "Kiev under fire as Russia launches fresh missile and drone strikes - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yazd3cDFHX0ZkNEswQVBCSlZmTTZpZGlfaWI3U1NhVHRoSFRBcnZnT2FsdlF4WmhjVWNDSkotNzFOWTU0SzdGc2lROU91U0R5aVFHRmU4c0jSAV5BVV95cUxQLWc2ZnE3cG1SX0h2RThmY2w5Ykh1T1g4WlFQOU02dmI2NXhoQUxOR2NQOTVqcnB3LUpSTElYejNyUXB2Yi1kUllDWDByV3NCV2Y4VGMtbVJXZHFHbFJB?oc=5",
-      "source": "TRT World",
-      "date": "2026-02-03T03:31:46+00:00",
-      "description": "Kiev under fire as Russia launches fresh missile and drone strikes  TRT World",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-04T17:19:40.351787+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7df2608a5e54"
-    },
-    {
-      "title": "Prisons unable to keep up with crisis of drones delivering drugs, report finds - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXZOUVd6eXhuM1hSS2VHMzIzMEx5UVhGdUkyZElsLWROZ3VwYjJpNFBjd3JNbHpOQVpJVDFoWmlLMHh5ZWdhMTQ2THp0ZkZsVXNjN1YyUmQ2NVZDQjA5dUxRTnlFczNnYmRQQ0pwd2k1eFFIVDlCbm95eTc1RG0yd04tN2lkczJnakRWSVlxbXBXX2lqRkNpMDJFOA?oc=5",
-      "source": "The Independent",
-      "date": "2026-02-04T14:59:00+00:00",
-      "description": "Prisons unable to keep up with crisis of drones delivering drugs, report finds  The Independent",
-      "query": "drone prison",
-      "detected_at": "2026-02-04T16:18:14.335861+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c678c4b9bd2c"
-    },
-    {
-      "title": "New report says prisons are too slow to respond to drone smuggling threat - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGlkVGx2azRJdDN0N09sOWZmc3ExTkJVaEk2Q2RlTVRSUHp4MTJoXzlYV2JKQjZBS1E2V0puTzEyaV9ZVXc3VWRSS1RRNXhQUUlVVk93aDh1QzA5UWxxbjhKRkQ4U0JnZC1JX3ZDTmZwTlRzbTI1Rk9GSEZmZUsxaHVSZUQxUEctOW5LZEtEUGx2TXVlMjgzZw?oc=5",
-      "source": "The Independent",
-      "date": "2026-02-04T15:37:00+00:00",
-      "description": "New report says prisons are too slow to respond to drone smuggling threat  The Independent",
-      "query": "drone smuggling",
-      "detected_at": "2026-02-04T16:18:13.699436+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f18af2517a83"
     }
   ],
-  "last_updated": "2026-03-05T21:12:22.098094+00:00",
+  "last_updated": "2026-03-05T22:09:28.550512+00:00",
   "total_count": 1000
 }
