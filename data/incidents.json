@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Drones strike US base in Iraq, Doha explosions, as Iran hits region in war - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE82LWtMSHBycUZUc0VHandOcmdJWGNDbDlENHIyMTVSY08wWFdtT1RSV2lGbk5rbU5NYjVkdU9jLWM0aDlEcXRVMUFSV3Y4YWkzSHlQemkxYXdUSmJpamdMZWd1X2FZc2hBTThKWXVzR2Z0MW9LNkR5cVlIMG9ySTNWTDhRS1BjZ3BkM0ZmVVV6Mmlwa2tIMmpUeFhrbHJjTkFLRTlzZER1SjFlbVZqbnBldHNUQdIBuwFBVV95cUxQR01lSjhnbDZKYkZXUUJacmI3RTl1cER6WkJlbElyUWZMbm5JQmU5QWp5V0dxUFI0WDA0X0tLWC1Qck0tUkUzNmtSeU0xU3FEQzM2RjhBSjJGcjJiekJndTZGMEgzQXdTSzNSdzhBMlJUcmpxWHc5emZNOFdyYmc5eV85QXpXVHNHWVIxOWQyRXJ2Mk1vNzktOEtzdEpzaThWd1U0UzRKamtycEE5MzYweFE2bzlqdmZ3M0xn?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-03-05T10:22:18+00:00",
+      "description": "Drones strike US base in Iraq, Doha explosions, as Iran hits region in war  Al Jazeera",
+      "query": "drone crash",
+      "detected_at": "2026-03-05T12:15:47.060935+00:00",
+      "location": "in Iraq, Do",
+      "category": "other",
+      "id": "fb126bee7780"
+    },
+    {
+      "title": "Drones from Iran crash near Nakhchivan airport, nearby schools evacuated - Aze.Media",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1ZySUFuWW11cXRrTExqZXFZTUNkS0VRb1NWTGRNY011QkIxZjNGaUdlVUdtb0p4Z2J0cmxYZVN0eHVjXy1IM1FSREN3WDB6NEtNSVd3VkxmQTYwSzVOZWxpV1JRdlhzSEI2NDdiRjJyMGRfQm0tOXFRNzBhd3Z0d2hxVFR0NUE?oc=5",
+      "source": "Aze.Media",
+      "date": "2026-03-05T08:20:08+00:00",
+      "description": "Drones from Iran crash near Nakhchivan airport, nearby schools evacuated  Aze.Media",
+      "query": "drone incident",
+      "detected_at": "2026-03-05T12:15:43.973685+00:00",
+      "location": "near Nakhchivan airport",
+      "category": "airport",
+      "id": "6b693ddeee72"
+    },
+    {
+      "title": "Drone Incident Highlights Growing Counter-UAS Demand in Civil Aviation - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX213RGZ2T1VTYmFLdkM4VXJwS0RfTFlXbTRFMUdMQmIyV0R1dWdVLXBid2VROFVrX1haMmc4ZWZYeXpSaUI1RnlUMWk5TnBybWRQVDlodE5Dc3hpY0pMWGZPVGZuZVFoNVZhQWlfT0hOVUt5MXFyOGQzbmVyV3Nwc0tlNE5NUTFJNkNWQzA4c3BQTUVsT3AtNHBqMXJkODM1M2dhZ3puaDVSREI0R3hBRFVVSk1TRDFOaUE?oc=5",
+      "source": "TipRanks",
+      "date": "2026-03-05T12:10:55+00:00",
+      "description": "Drone Incident Highlights Growing Counter-UAS Demand in Civil Aviation  TipRanks",
+      "query": "drone incident",
+      "detected_at": "2026-03-05T12:15:43.973685+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e08360560f6d"
+    },
+    {
+      "title": "Drone helps Santa Fe first responders save man's life - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWxqbnAtRDFoQkZOTWJzRXVrU25Za3BfeHVDYzBNcGNEZnI1RjhtclZPVlNxRUJ1QUdRQmJjcTZyYU9DX2FmQXZLRUhWNmRvX3d3SkNZcUxPV3lHUzFlX1NlWTJQYUpaaV9oZ2pEaGNwamxpWDNMYUxNYnhBOEFWM01PVFlBLXd3Nzl1RHVB?oc=5",
+      "source": "KOAT",
+      "date": "2026-03-05T11:52:00+00:00",
+      "description": "Drone helps Santa Fe first responders save man's life  KOAT",
+      "query": "drone incident",
+      "detected_at": "2026-03-05T12:15:43.973685+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7dac56aa7b43"
+    },
+    {
+      "title": "Iranian drones hit airport in Azerbaijan’s exclave as US-Israel war widens - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUWF5X3pnaUQ1VGMtQU0yVzhlaHZMRVQ0SkQybEc5RUxwaXlVVTYxUHpZdm1tbnhrZFVObU1RMVBfa1pURUtVNWsyUlJZY28xa2hhOXBQRFVrNFFSSF93c29xajU2cV9Bd2lvWG9Td0dpYXFMb01nSFZPT2wybEl1aDIyc2lmcVN4MVkwWGJpY2Jsc1FIUzdzZjNZX0xYb0FCWGZUSE5wa1ZxM01EeVBYVWlna9IBuAFBVV95cUxQcVhiSXBQdTE2bkxnaGtFa0J1TWlaQ3M3MjBKWXhxSzJuc3RyTzV0YTdKTkVnVGVlTkg2d1FrYzZJVnNPQXFJbnBveXlSTTZxYzVGVXg0NlJUVGhxOGRDSnhqMTEteWhyQUJEOVpqQU5oOW9EeGJ6MEVPbW1zN3QyN3ZOak1yWHMwZ2gxMzBneGREYnZEMkQ5UjNqMHFXeUgwY3dLaENtc0FNakRPOTFHUTRHVHRHajBG?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-03-05T10:25:17+00:00",
+      "description": "Iranian drones hit airport in Azerbaijan’s exclave as US-Israel war widens  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-03-05T12:15:43.973685+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "4f925a33ab0b"
+    },
+    {
       "title": "Security bodies say 3 men arrested in January after trying to smuggle firearms from Jordan via drone - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWZ1XzZZcU9Fb0stay0xSmljSXppakJqVGNmMU9BQ2dlVTNXbzNONm91RDRBaFZqQkZ4SVNZdEZvYk52Ny1FSjl4RUlOazFaYXY3R0dxXzNjRTBZSGpDMWFHaHhyQXZRYkZjN2lqS2JTcGdZLXFjZ210MHFaSVJ1Qk1YOFdmQk82WWpzOHA3X1ptUE1MM0p4ekZwZ0tnYnpiN01VZE1wbHFLd0R2NkVPRE5ldVBOcmFPTVBSUkE3eU50WTNjOWwxdk1ieUVKajZza1VJZTB3RE5ORlZWRjVr?oc=5",
       "source": "The Times of Israel",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "b4f82dd4e9d5"
-    },
-    {
-      "title": "Iran eyes other locations for talks that US had planned in Istanbul - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9makJoWnJ6QXRpQ2ZCN2NhaFBILVBjV1NIUEo0X25Ga3JZZ3h0RlJzLTAzMzZ4b3puZmpqZFZtdDQxUzNIemxYSzhvUnZidVBtSlkxWmZFOVJxenRZSjRXVkdnSkNUUdIBa0FVX3lxTE5JQkZITHp0ZkhIQ3QyQ09Oa0FBNmRmcFJKQTZBcHNUU045MW96TkFxMU03WFczd0hvUnRSWC01ZjB1V2dpOGxlXzZUNGRSMDdhV09VVEJyYnlKdjN0NG9GYnRUSk9Xa3BsQjZJ?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-02-03T13:53:07+00:00",
-      "description": "Iran eyes other locations for talks that US had planned in Istanbul  The Times of Israel",
-      "query": "drone smuggling",
-      "detected_at": "2026-02-04T01:36:28.380447+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "da81a3b2490a"
-    },
-    {
-      "title": "US shoots down Iranian drone flying towards aircraft carrier, navy says - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVE0ZV9NdUdycThaMUg3aDJGallicTRDb21kR2tneGJCQi1GTFUzRXVTZGc5M1laTW5XMjVsdWpHZXktdmp6dzhsYjM4UjV0aGlTLXZXX2ZUam1zbEV4LV9wWjV1MW5DQkRxM2tmVFFSNF9IOVBKT2xvUGUzajl4aG1hYWMwd2NaSVh4WXhaR2tpZF8yRlVGU1JjNTA3UTA?oc=5",
-      "source": "The Guardian",
-      "date": "2026-02-03T18:58:00+00:00",
-      "description": "US shoots down Iranian drone flying towards aircraft carrier, navy says  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-02-04T01:36:26.993557+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b3b60592e328"
-    },
-    {
-      "title": "U.S. shoots down Iranian drone that approached aircraft carrier Lincoln - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjZQclk1ZF9TUGZLUTgwS1o0RVVRTXdJQUtMM3pmWlNNMFNLOHpJOTRxbUtacG1WMUI1S1YySDdqOWd4dUVVQktwVDVzRnpSWW1SdktMcS1UV1NhWVVyeUpsSDE2cnBDTGl4bzh2d3BkM3d5TEJhdUtLR1RVYS1zQ3ZzM2NmM1FwOUpCWUI3X2hqT3FMY291ZjF1cEk4c0hRbkY3Vw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-02-04T01:18:33+00:00",
-      "description": "U.S. shoots down Iranian drone that approached aircraft carrier Lincoln  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2026-02-04T01:36:26.993557+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "20890c149c33"
-    },
-    {
-      "title": "IAAPA Supports New Federal Measures to Address Unauthorized Drone Activity at U.S. Fixed-Site Amusement Parks - amusementparkwarehouse.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXd2c3pPTTZ5TExoNFFLSkFqaUcxT2lhNFZ1S0ppMTJiMy1BRGF6VURGRWdMRWxVMF8zQnV6QnlNd3ZfT3poQjZiZmpCUFBlNERydVRCZjhwSldZQWhDSS03SUpQRV9oMkFvQ3pMUWd4QUhWMHFveUdrUktycTNQQjh5MkVnQ2QyckJpUVhFRURmSVdZY0Y3aVNtNjVJMzdMU0o4WVFZVWg4cjdEcVVWZ3NlOGRBTVh0ZXZMek5JNW5ydnlwZXVlRnE5Nzlsbk9TYnZHM3lndlVfd0xzeTl2c0xSN0FSTnd6Slk0eDVXdEU3aHlkZVF5aQ?oc=5",
-      "source": "amusementparkwarehouse.com",
-      "date": "2026-02-03T18:53:22+00:00",
-      "description": "IAAPA Supports New Federal Measures to Address Unauthorized Drone Activity at U.S. Fixed-Site Amusement Parks  amusementparkwarehouse.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-04T00:28:03.046663+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "7b470c11b062"
-    },
-    {
-      "title": "Iran’s president seeks 'fair and equitable' negotiations, while US shoots down drone - Huron Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWRsYllESjdYd2F5S0xaa2I3NW5uSkc5WENfS3Uzd1RNZmNmcVZZb3VGLW1iMmI5WUJaNkRaRkJRMC1ab0dVQWpVWWFoaldqelQ0QmNRdTlBNXVreGs1UXlfdl9qLVl5Q2s3aldVRG9fV3ZsRFcxUkpLbjRZZzJSWEFjcWVrWl91UEpfVm9mSFpKSzh5aGdxZThxX3JKTDRVMFZzV2xOOA?oc=5",
-      "source": "Huron Daily Tribune",
-      "date": "2026-02-03T22:30:00+00:00",
-      "description": "Iran’s president seeks 'fair and equitable' negotiations, while US shoots down drone  Huron Daily Tribune",
-      "query": "drone incident",
-      "detected_at": "2026-02-04T00:27:56.220846+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e226c09ea6a6"
     }
   ],
-  "last_updated": "2026-03-05T11:14:58.225000+00:00",
+  "last_updated": "2026-03-05T12:15:49.991825+00:00",
   "total_count": 1000
 }
