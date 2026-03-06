@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "FCPD Launches Drone as First Responder Program to Enhance Emergency Response - Fairfax County Police Department News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFhhOVR0WXFXb0x6OWR4WVhjeU9PRFpXaXdwTkhsYWxKNlpwU25EWVBRZTR5YlFyNU1kbmxvZV82VUNqSlBiTktKUFVaSHptTlhMRDdMLXZKS2lhcTdiRmNKcWFGMXJPYXdnZ3ppanZuRVAxUDFYU1kwbVZPX0JnRzQzZGprSXpvRVhaQXEwNHc0Rkp5ZFVlREZFYnFyU2JQNDVfYnVackx3bkdUaFRWYmh3TGV1TnA1VWJJ?oc=5",
+      "source": "Fairfax County Police Department News",
+      "date": "2026-03-06T14:00:00+00:00",
+      "description": "FCPD Launches Drone as First Responder Program to Enhance Emergency Response  Fairfax County Police Department News",
+      "query": "drone arrest",
+      "detected_at": "2026-03-06T20:09:59.358488+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e14dc4949d3e"
+    },
+    {
+      "title": "Azerbaijan quietly mobilizes military following Iranian drone incident - Eurasianet",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0JGQ1JkVjNlTFQwa3J2a2pYX1d5VndTcXdKZmxQQVNyQ2ZaamJaQ05Yd1Y2dHhqWW5wNGNZQ2VuR1Q4UmNiQ3RCVjE4QnhNaE5RQkZIeHJSZEdpc0xqUFdnb1JGQXNPUEdXTkRtTXlzeC15QVhtcmVURmFxdnp5NjlCNVkzcm5rWG55N2JSM3ZxWlRyNkN4MA?oc=5",
+      "source": "Eurasianet",
+      "date": "2026-03-06T20:02:11+00:00",
+      "description": "Azerbaijan quietly mobilizes military following Iranian drone incident  Eurasianet",
+      "query": "drone incident",
+      "detected_at": "2026-03-06T20:09:58.761300+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b0fcf60988cb"
+    },
+    {
       "title": "Amid growing regional tensions | Drone believed to be Iranian crashes on farmland in Daraa - المرصد السوري لحقوق الإنسان",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RZHhZbjFkSFJnR0xaaERmdDFkcUhYZHNCamZOZFhWZEhHNndHbEt4T2NydkVZYVVGUFk5M09sSEFHRGYxYVZZc3dn?oc=5",
       "source": "المرصد السوري لحقوق الإنسان",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "2adf739ce19b"
-    },
-    {
-      "title": "State Security Service: Terrorists may turn to drones as a new trend in Europe - Baltic News Network",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTEtQXEyV1hycVZXa0E4SnpKVzJabUZ0U3JIVUlBTjhGRG9Jd01rODc5VjZjajNZcXBtOEdPLUNHMFNjQmxtNHp3Tlo1bWFoMDc2UFJGR0ZaM1FpM1N2UjFmY0ZFbkstY3B2YWhhNWJSWlRDYVpyQVRxb1ZEdnBoX1BySER4akN0VVcwR1VTN3lzNGpvcHJ1RFBJYUFlM29ZeFlFV3dvYzM?oc=5",
-      "source": "Baltic News Network",
-      "date": "2026-02-06T07:48:12+00:00",
-      "description": "State Security Service: Terrorists may turn to drones as a new trend in Europe  Baltic News Network",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-06T08:15:11.900020+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "4a2f79ff5c1c"
-    },
-    {
-      "title": "Seanad Hears Clare-Made Drones Could Police Illegal Fishing Off West Coast - Clare FM",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW1GRzhuU1ladTE4VFgyNXdQWmtuQWFYUGFRUEo4TWl5TnFfM2R2LUJkeHNVX2FXU3dDdE1MQ05IUkRDRklkaml6cHpQWDlBWHNMckhhdnF3OGNQWm84TjNqOVl1RTZiNVI4WjZGbDlYbmR3bDNRc1BTbG0xWTA1a0JpNU9MQmltM1AzeTBYYTN2YV9LVjdlQnNmYndNMEIwbTEw?oc=5",
-      "source": "Clare FM",
-      "date": "2026-02-06T07:30:23+00:00",
-      "description": "Seanad Hears Clare-Made Drones Could Police Illegal Fishing Off West Coast  Clare FM",
-      "query": "drone illegal",
-      "detected_at": "2026-02-06T08:15:10.807684+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4244e7ced3fa"
     }
   ],
-  "last_updated": "2026-03-06T19:16:11.679464+00:00",
+  "last_updated": "2026-03-06T20:10:05.368953+00:00",
   "total_count": 1000
 }
