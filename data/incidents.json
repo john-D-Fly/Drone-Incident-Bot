@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "The Latest: Drones 'highly targeted' to disrupt UK airport - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2VGbGdXM25HTl9NNzdZQ3VkUEJFZTUtMjhuSHJjTm5xOG9uTG9VN2x2cVJhcGY3ZGNLdkZCeXlMc0JwQmx2dVhhSENNSHZLeHFmcF8yVFN5QldqT18xTFRVdmJHaUY1MDhtZGF6aFV4QUxmSlR1UW9TWjM3aTBaWUFtVjBjMGs4c0lWNzNnQkJMMXE1ai0tM3Noaw?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-07T04:00:17+00:00",
+      "description": "The Latest: Drones 'highly targeted' to disrupt UK airport  AOL.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-07T07:12:13.503464+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c5fbebd86bd2"
+    },
+    {
+      "title": "Gang used drones to smuggle phones and drugs into Warwickshire jail - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80UnlFS1FYNnljdXIwVUJUT1VfZG5XRWRVMXNrR1k1WWwyenA1QnFPak1WaThHeG1RN0o5b3JVSEJ5S3djdFNCWXlBZlA1WlNPV2VubHIxZ0FfZTN6c1VReWtGM0NJamNYUG1iN1dGZnY0QUU3Q0xLRmpnT1A?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2026-03-07T06:00:00+00:00",
+      "description": "Gang used drones to smuggle phones and drugs into Warwickshire jail  Yahoo News UK",
+      "query": "drone prison",
+      "detected_at": "2026-03-07T07:12:12.996114+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "add5b52c2f55"
+    },
+    {
       "title": "Erbil Governor Says Most Drones Targeting City Intercepted, Blames Baghdad for Security Breach - Kurdistan24",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSkQ3NzRYQmszTHMtMVVZbVRQVTFmb3ZadUJ3YTJnSzVNZHFzQUVCazRQekdaT05xSGJjYUtXbVJxVzM2QTdqbHI5THdjNVdzNG5ldk9rOHd2ZV84TkdnaksyeHQyZG9PWEFaWFpMY2hBUjBrT3dsVFBPVEIwSjBkOGljRndYMEZTUHp1YmJjSUY2alpLSVNTVzZjVkdMWFV4SzBjT1BDSi12TnhqNFFnWGxrV0U4amhYMkZHcUJPVDRWYlpVRXAxcXIwYzc0bzdjRndV?oc=5",
       "source": "Kurdistan24",
@@ -11975,32 +11999,8 @@
       "location": "in attempted Hancock State Prison contraband drone drop, sh",
       "category": "smuggling",
       "id": "53c0f1d16f00"
-    },
-    {
-      "title": "Operator detained after drone crash at Polish military base - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHZIeDQ0a3JtUGJPY01SMW1Gbm1NUDh2d1htN1VZNDRpWHU2ZkhBV3E1cTdkRzlIQU1kSnlDQWQtcjlkVkM1T0lGLWZyZjhQQy00VjF0ZXYtdTZGN28wWGpUZmVUTXhtcGppUWNvTTRkYV9uU1gwX251NGhuV1B2RFBJZW5kT0k?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "date": "2026-02-06T16:37:51+00:00",
-      "description": "Operator detained after drone crash at Polish military base  Latest news from Azerbaijan",
-      "query": "drone incident",
-      "detected_at": "2026-02-06T17:17:40.382397+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b591949d977a"
-    },
-    {
-      "title": "FAA stepping up drone restriction enforcement ahead of Super Bowl - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlRUWTRmYzNBaWF1VUsxQTFXd3hQSUN6OElMRXdSNVFaQnkwVk0zd216Q3M4aEZqdDlxeVZ4Zk9YUTlucmFoeU5WRXJUXzNYS2pjcmQ4bnA0Z3cwRHBYWUZqc1NfS0o2VHYxckdwTUk3cWt3WEg3U2tXTFJiLWJIN3dFS2RJZ1pEQ2c?oc=5",
-      "source": "The Detroit News",
-      "date": "2026-02-06T15:43:00+00:00",
-      "description": "FAA stepping up drone restriction enforcement ahead of Super Bowl  The Detroit News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-06T16:16:05.268620+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "6af39689cdc5"
     }
   ],
-  "last_updated": "2026-03-07T06:12:58.560445+00:00",
+  "last_updated": "2026-03-07T07:12:16.795470+00:00",
   "total_count": 1000
 }
