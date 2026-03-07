@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "Over the past 48 hours, tensions in the Caucasus have escalated with Azerbaijan accusing Iran of drone attacks targeting its territory, leading to increased military mobilization. The regional conflict has raised security concerns, prompting Azerbaijan to shut its airspace near Iran amidst retaliatory threats. Multiple incidents of drone crashes have been reported across various locations, including airports in Azerbaijan and near major cities. In a notable event, a drone crash disrupted a LIV Golf event in Hong Kong, highlighting growing operational risks in civilian areas. Moreover, drone assistance in law enforcement has been highlighted by arrests related to drug smuggling and robbery attempts in the U.S. Overall, the intertwining of terrorism, law enforcement applications, and accidental disruptions suggests a complex landscape for drone operations and policy implications.",
+  "totals": {
+    "airport": 14,
+    "arrest": 5,
+    "security": 3,
+    "smuggling": 3,
+    "interference": 2,
+    "incident": 22,
+    "other": 15,
+    "crash": 12,
+    "terrorism": 6,
+    "total_incidents": 108,
+    "by_category": {
+      "airport": 17,
+      "arrest": 6,
+      "crash": 13,
+      "interference": 4,
+      "other": 51,
+      "security": 3,
+      "smuggling": 5,
+      "terrorism": 9
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 11,
+      "drone crash": 21,
+      "drone illegal": 4,
+      "drone incident": 27,
+      "drone prison": 5,
+      "drone security breach": 4,
+      "drone smuggling": 1,
+      "drone terrorism": 23,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Regional Drone Warfare",
+      "rationale": "Incidents in Azerbaijan and Iran reflect escalating drone-related conflicts.",
+      "incident_ids": [
+        "45e514c77818",
+        "1c6bba5cf315",
+        "c5fbebd86bd2",
+        "cde6fc5d228a",
+        "7d174e102f76",
+        "bca8fa1da44d",
+        "b4da21d61e8d"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Disruptions",
+      "rationale": "Recently reported crashes are impacting various public events and operations.",
+      "incident_ids": [
+        "dee7fb684241",
+        "3ce879a82f87",
+        "4ec71555faf0",
+        "c69f884b8d27",
+        "8bc7a55536f6"
+      ]
+    },
+    {
+      "topic": "Law Enforcement Applications",
+      "rationale": "Drones are being utilized effectively in arrests and tracking of suspects.",
+      "incident_ids": [
+        "870d3ca764bb",
+        "abcc1ad29015",
+        "2f0def11abfe"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "45e514c77818",
+      "headline": "Azerbaijan furious with Iran after drone attacks",
+      "one_sentence": "Azerbaijan has accused Iran of drone strikes in its territory, escalating regional tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "330be78f521c",
+      "headline": "Russian drone injures ambulance crew",
+      "one_sentence": "A drone attack in the Kutsurubska community injured both an ambulance driver and a medic.",
+      "risk_tags": [
+        "incident"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "870d3ca764bb",
+      "headline": "Drone aids capture of robbery suspects in Orleans County",
+      "one_sentence": "A police drone was instrumental in arresting two men with prior convictions in Orleans County.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "518e2cbfdc7a",
+      "headline": "Dubai Airport resumes operations after disruption",
+      "one_sentence": "Flights resumed at Dubai Airport after an earlier drone incident caused significant delays.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "4ec71555faf0",
+      "headline": "Travel chaos at Dubai due to drone strike reports",
+      "one_sentence": "An Iranian drone attack disrupted airport operations in Dubai, leading to massive travel delays.",
+      "risk_tags": [
+        "airport disruption",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Heightened regional tensions with drone warfare in Azerbaijan and Iran, coupled with disruptions across global airports.",
+    "linkedin": "A surge in drone incidents globally, from warfare in the Caucasus to significant travel disruptions at airports, underscores the evolving risks in drone operations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-07"
+}
