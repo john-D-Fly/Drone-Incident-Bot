@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Azerbaijan furious with Iran as war spills over its border - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00VlpjQnVDTWNVdVoxMXRvOW13MG9mYjNXbE1sdVFnSmEzRlJyalN3NlF1ZzlaNkgwWXh0c1VPRGdBbW5LQk9aQS1qRTk0QW0zMTQ3OW1VblNCQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-03-06T11:39:00+00:00",
+      "description": "Azerbaijan furious with Iran as war spills over its border  BBC",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-07T13:17:50.664327+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "45e514c77818"
+    },
+    {
+      "title": "Russian FPV Drone Attacks Ambulance in Kutsurubska Community, Injuring Driver and Medic - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zT19iU3pXNWowQU42cl9Xd2VaM3VBVlAtYVczU0tyNmFKdjBvNWl6ZXpGMUpIRlA1N2VsQ3F1VXdfSDlxSTJqS3pLX0ZfWXU0bk5Mc3VyOGlNZw?oc=5",
+      "source": "mezha.net",
+      "date": "2026-03-07T12:46:57+00:00",
+      "description": "Russian FPV Drone Attacks Ambulance in Kutsurubska Community, Injuring Driver and Medic  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2026-03-07T13:17:45.846533+00:00",
+      "location": "in Kutsurubska Community, In",
+      "category": "other",
+      "id": "330be78f521c"
+    },
+    {
       "title": "A drone helps officers arrest 2 men with prior convictions in Orleans County - WGRZ",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1kzMXBqSnNTNEUyYmU0a0pnSDJ1blRRb3hodWRUZzlPMVdmS3VISDdtdm5NMm9fUDk0N0JLSXk2cFJNQVpZVUZjbmhvWWlLQjUxR29teE44VTltbHVtWlg1R0hTNW9qZTdsdkdaTjZDbXNtS3VOckZXdTRRVzVoSjdaZEtJcWFJcFB6TlpPT3JfeEQ0T0s4WjlEYUdFNERSczB4YWtQd2FFSkdDdUw0QUJ0RGF4TG5DdkVUbWFjeFRMUQ?oc=5",
       "source": "WGRZ",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b4326f78e71e"
-    },
-    {
-      "title": "Amazon Drone Suffers Another Crash in Texas - FLYING Magazine",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQktXbzlfbzlORFQwbUZJT3pwdW9LVHpKSWtROElqWmpuTkxXMTNYam5kazZ0c0RKZnhXc3Q2TFVOUzAwdGwzWC10dzlUU3I0T0FzdFM4SW5nSXFSNEZpSldvNG5XelBGcVZN?oc=5",
-      "source": "FLYING Magazine",
-      "date": "2026-02-06T19:29:24+00:00",
-      "description": "Amazon Drone Suffers Another Crash in Texas  FLYING Magazine",
-      "query": "drone incident",
-      "detected_at": "2026-02-06T20:09:36.640535+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b14c6325c4f6"
-    },
-    {
-      "title": "Senate Judiciary clears Moody’s Drone Espionage Act to slam door on foreign spy drones - Florida’s Voice",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRS00M1pWTXJfd1B3ZjVjdWtfc3A3ejZVUURud3M1T3lVR0wtNVpOV0xUdjFqMkd5MTlPTUxMSHJTV2JQUTNnT3pGRnoxbkY0cGFNYmxWNVJtMURyZTRhZGFWUG5XOFh2SlFTZU1oTGo0ekhNY1lGaU5sZURfNmxQQ1J1anRGZVFkbWxwZWNHNm1BWGlLSUV6MHFhX1B6RlV0WW15bHlob0MzX0JMbzJv?oc=5",
-      "source": "Florida’s Voice",
-      "date": "2026-02-06T17:28:00+00:00",
-      "description": "Senate Judiciary clears Moody’s Drone Espionage Act to slam door on foreign spy drones  Florida’s Voice",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-06T18:18:03.769852+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "e5da03ca2248"
     }
   ],
-  "last_updated": "2026-03-07T12:10:36.674227+00:00",
+  "last_updated": "2026-03-07T13:17:51.826154+00:00",
   "total_count": 1000
 }
