@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Crashed drone led police to drugs network - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45anBMVEkwNTMwWDljMFVNTFI1Q3B4LTRCbXM1MEIxdVctblFJNlNVTTN1U3JXdFNOU1c3eUI4d0UtQ0k4b1ZzSjFQSnlUa3FSS2xEOThWWEJHNUR0ZEhaUDBXOC0yczlYVnhhTlhGdjY1MDdOdUVlSk9rcFIxSkE?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-06T14:06:18+00:00",
+      "description": "Crashed drone led police to drugs network  AOL.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-07T05:18:07.914287+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ceae2b74c59f"
+    },
+    {
       "title": "DJI robot vacuum cameras accidentally hacked in security nightmare - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjX2tZWWRTeF84S0p4dXdaSll4aEJxVnIxbVhZRHNSaDZJOFBJR29HOTN5d3dCWTdqSGItQUV4LWlvcUdIWDI4MXdDMEtBaFY0V2tjOTFlX3JVazA0R0I0UEp2VEZNWURRWEE?oc=5",
       "source": "Mashable",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "d1748a498a09"
-    },
-    {
-      "title": "FAA Tightens Drone Enforcement - AVweb",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81Q3JobHFmak5YQXhLZXJTYnFkRWV4RlBTRkJ5MTRKZEVWQWF6NzY0ZVAwZG9Yem1CYjVZU3NBU0dDUGZTeHdxempwX3hONXhqZjYza2JVTHZ2YTUxZkNpeXpWVXlraHk5WDdpWmRkUURKN21UNDFLNVJR?oc=5",
-      "source": "AVweb",
-      "date": "2026-02-06T16:08:14+00:00",
-      "description": "FAA Tightens Drone Enforcement  AVweb",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-06T16:16:05.268620+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1b2980217730"
     }
   ],
-  "last_updated": "2026-03-07T02:53:55.699523+00:00",
+  "last_updated": "2026-03-07T05:18:12.812861+00:00",
   "total_count": 1000
 }
