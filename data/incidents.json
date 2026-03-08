@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Excessive Engagement with North Korea Undermines National Security - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEVMNWdqVExCalRYSU1zQzB5YjV2VHlGMUxOaG83aDgxT2xtUHN4ZlJPLVd0T3VSYzR0MHUtcnBOZUZiWklpWmVlMHVVc3RmR2tPdC1fNUNLRmJiNm5QbkFoVEhCRnJVSFBDZUYxWkRMRkFOZ1l5MVhpdGlqU08tV1pSVWZYck0?oc=5",
+      "source": "조선일보",
+      "date": "2026-03-08T15:00:54+00:00",
+      "description": "Excessive Engagement with North Korea Undermines National Security  조선일보",
+      "query": "drone incident",
+      "detected_at": "2026-03-08T15:06:59.285542+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0fa0f736d4cc"
+    },
+    {
       "title": "Russian drone strikes Ukrainian train with 200 passengers on board - The Kyiv Independent",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXRVaWdJeGdBUGF6VE1EZGgwemxZN3dKSWd5aTlSOTY0QWNXYzBVUlNKTG9EYXZiS3BJTnJubXBDalVTeTcwWGoxajJVLXpXeGtEUkdfc0hvOXFoNlFLdGJNazJFMk56ZjVDZWUyX08zeExROWh5Y0hjcVFXM2k4OC14b3lxN2x2eTRUYnN0cVhjT0M0cVdOTFl3ZGpLbktQVnFxZQ?oc=5",
       "source": "The Kyiv Independent",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c6b5792bbc3f"
-    },
-    {
-      "title": "'Man down:' Watch Amazon delivery drone crash in North Texas - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2ZwSHB1NGdRVi13RS0td3ppd1dJVWtIaFQwMXJiZG1odTUzeWtpZGhoQ09FTV9SSjdVSDgtQ0hnaVpmU3FyMVVBU1lZaDZOdE41bEJrV21mU2p3SzRnTlM0SHdobGNMTkxOLWtkUlN3MlFvM24xWkFlc2E4TjI3TF9qME04YVNvaW83aUVlY0YtdVpXVVhfbk4zNFVGdlZBTFhaRHBMdVJ0M3N3ZVEw?oc=5",
-      "source": "USA Today",
-      "date": "2026-02-07T20:34:00+00:00",
-      "description": "'Man down:' Watch Amazon delivery drone crash in North Texas  USA Today",
-      "query": "drone crash",
-      "detected_at": "2026-02-07T21:09:07.605773+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6ee1c2005ede"
     }
   ],
-  "last_updated": "2026-03-08T13:18:37.035610+00:00",
+  "last_updated": "2026-03-08T15:07:06.126398+00:00",
   "total_count": 1000
 }
