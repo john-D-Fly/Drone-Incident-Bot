@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Explosion at US embassy in Oslo investigated as possible terror act - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEN1MS1sSGRjRXEyYm1zMzF1WWZsLWdUMTZpeGFheHk2OElrRWw5Q0UwV3UzSkRiX2tLVWdZTUtzV19wOWpBRnhOd0s4dy1IdHYyU0ZzRklzZE1zVnJlZXlFM2p3OURPVEFnU0dERVEtak01d2Vxck9VRjVkTzFpUVFScw?oc=5",
+      "source": "politico.eu",
+      "date": "2026-03-08T20:26:00+00:00",
+      "description": "Explosion at US embassy in Oslo investigated as possible terror act  politico.eu",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-09T12:15:37.419244+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "0665dd66199f"
+    },
+    {
+      "title": "Chaos at Dubai airport after flights suspended following drone attack - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEdZelJYdk91ck9ETk84NnFRcXQ1Szh3M3RtZVlFRlFtYnFuak9GTVhpSGNNTG9KVWY2UEJ2dHZFam91WnRfTm5qVV9ZcDlfd0QxWDRKZEEtRmZTVXZFRjRGVTNhZlBLYWhFTjNCeXpHZXpPN1FOal9uRGZ3Y21NSXlZZ084aWkzMEV2bGV5dnZFOXlCOWhEbW9PbTFlQnpvNWZlOHowRXU2bDA?oc=5",
+      "source": "The Independent",
+      "date": "2026-03-07T12:44:00+00:00",
+      "description": "Chaos at Dubai airport after flights suspended following drone attack  The Independent",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-09T12:15:35.304911+00:00",
+      "location": "at Dubai airport",
+      "category": "airport",
+      "id": "31d0cdb857d2"
+    },
+    {
       "title": "Norwegian Authorities Investigate Potential Terrorism After Blast Damages U.S. Embassy in Oslo - SOFX",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGFLaXN1ajduejNZQWlLak5BRHRpZDRqeXY4TkxZWlRQY05UZm5WVUY2WnZUTzVQbklHSXZjdmltbHJHVUx3Z1RPUGs2b05TVXhHdVEwRnpBY3dlNXplMVg2VldudGxiZERQdEdaUzBMeG5ibUd2aUVnSWgxTTk1dTZycDFKQjA2cktDb2xlc1VUM3FLQ3hCY0xSV3V2ZWEwZTVmMWVxZ2hxaHBwdmdOMkRjYjFiUQ?oc=5",
       "source": "SOFX",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "91c111d2c038"
-    },
-    {
-      "title": "Amazon delivery drone seen falling out of sky - cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWtyQTYyMnBFaGJ3cXJObjVWcjBCMGJram52b3M4c1UwekRsRnBfZGtHSDQxZW56cks1WkNXakNDMGppX1RCNmlvUWgzUFZXRW1QaUM1YkcxeDlsUGR0eUEyZnBONlZpejRUenQxMVZxZTJnZlpSZWt5bHo4UWhEUGdtZmpuaHB1REN1YmwzTUZ3c0d0c2RWUnFxSmRNTVE?oc=5",
-      "source": "cnn.com",
-      "date": "2026-02-08T08:42:00+00:00",
-      "description": "Amazon delivery drone seen falling out of sky  cnn.com",
-      "query": "drone incident",
-      "detected_at": "2026-02-09T01:37:12.032118+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2755c73ffa66"
-    },
-    {
-      "title": "Civil Aviation Authority issues warning on Drone safety: Zero tolerance for violations - News Room Guyana",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhMOTRmQ3dZVk9pQUZpVGpoRUY0dmpuWjM1UkpKQzVfdEh1cjdIUDN4ejFIblhpT2l5cWNvSDVLbV9mTXZQeE1iMG9FZWkxVmpLYTVxaUlCUzZmVURXLWRWX0pFLTV1Mld5akVKOWxUOHRYTHhTbFlLWThYcGhTcHBMWGtrMUI3TkRvVTN0TGo1ZTRlT1R5Q3ZMaUZUSjNJbWh3dEJtb0xGTms?oc=5",
-      "source": "News Room Guyana",
-      "date": "2026-02-08T20:11:33+00:00",
-      "description": "Civil Aviation Authority issues warning on Drone safety: Zero tolerance for violations  News Room Guyana",
-      "query": "drone security breach",
-      "detected_at": "2026-02-08T22:07:28.478008+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "cbdc0d51c457"
     }
   ],
-  "last_updated": "2026-03-09T11:17:09.625419+00:00",
+  "last_updated": "2026-03-09T12:15:38.523123+00:00",
   "total_count": 1000
 }
