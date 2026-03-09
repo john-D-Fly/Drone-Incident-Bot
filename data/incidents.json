@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Texas Women Used a Drone to Sneak Drugs Into a Prison - 106.3 The Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mWHFDbnJGYS16ZkdYeXI3MVpTNEtSVnV4N0ZLU25qWEdvbWR4N3NhaWZjTkhtcUdueURKblEwUXB0QmpWMUF3aEo3QXNCb25FelZaWXZMVlB1b1VF?oc=5",
+      "source": "106.3 The Buzz",
+      "date": "2026-03-09T21:37:57+00:00",
+      "description": "Texas Women Used a Drone to Sneak Drugs Into a Prison  106.3 The Buzz",
+      "query": "drone arrest",
+      "detected_at": "2026-03-09T22:08:20.715900+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "0c8d951a4124"
+    },
+    {
       "title": "Texas women arrested for using drone to fly bird decoys into Grant Parish Federal Prison - KALB",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREdNWnpCMlRuTWNxZFItdVF0bVgxUE9BRTVpWjYyZGRGVVZWVldBRHF4RU5FaFY5ZnVLNVRpREttUUU4Ynlyd29EME82VlFST2lfazVSclNxUlBmcVZFRW8zX05TZGtBckM1TWxUN1FrdGs0UFZ2MXUyZERxM1JpV3ZWZU9sbFRIVzlONjczTWhMNk9ZaEs1dG5SY1FsRHZpVFlMd1hn?oc=5",
       "source": "KALB",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "bc2bedb806d6"
-    },
-    {
-      "title": "Illinois drone bill would ban pictures during emergent circumstances - Jacksonville Journal-Courier",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUNYOXJMNkpwUnJxMEcxSjk2QUE1cERxbnR5QS1GRWpJUG9IZ0pENlpTOENuNW80Z0lVaC04blM3TWsyVFZHUl90WElESlNvME13cGE1M0VLUDlaclZVcGp2VkJ0UGFEYXNaXy1QY0duc0h4V2xMamlZUkR0eXplMm9haUt3VnlQdGc?oc=5",
-      "source": "Jacksonville Journal-Courier",
-      "date": "2026-02-09T19:43:17+00:00",
-      "description": "Illinois drone bill would ban pictures during emergent circumstances  Jacksonville Journal-Courier",
-      "query": "drone illegal",
-      "detected_at": "2026-02-09T20:14:48.792570+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f3a95cfb1682"
     }
   ],
-  "last_updated": "2026-03-09T21:10:47.884355+00:00",
+  "last_updated": "2026-03-09T22:08:38.671451+00:00",
   "total_count": 1000
 }
