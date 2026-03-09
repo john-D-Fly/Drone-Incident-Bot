@@ -1,0 +1,120 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents have surged across multiple regions, with significant activity highlighting risks in airports and within prison systems. A high-profile drone strike near Dubai Airport caused substantial disruption and chaos, while several incidents of drone smuggling to prisons have come to light, including a drone carrying mobile phones shot down near Trikala Prison. Additionally, a drone crash halted the LIV Golf event in Hong Kong, prompting concerns over safety in public events. The tense geopolitical context is underscored by reports of drone attacks and arrests linked to terrorism, particularly in areas affected by conflict, including Iran and Iraq. Increased scrutiny on drone regulations and public safety measures is evident as authorities respond to these escalating concerns.",
+  "totals": {
+    "crash": 12,
+    "smuggling": 5,
+    "terrorism": 6,
+    "airport": 7,
+    "arrest": 5,
+    "other": 6,
+    "total_incidents": 58,
+    "by_category": {
+      "airport": 21,
+      "arrest": 2,
+      "crash": 7,
+      "other": 20,
+      "smuggling": 4,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 8,
+      "drone arrest": 4,
+      "drone crash": 9,
+      "drone incident": 22,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Increased incidents affecting airport operations have been recorded, highlighting safety concerns and potential weaknesses in airport security.",
+      "incident_ids": [
+        "31d0cdb857d2",
+        "w62a1",
+        "fbc7968e6064",
+        "f0d23bee02ea",
+        "24e0c"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling to Prisons",
+      "rationale": "Multiple incidents reveal ongoing smuggling efforts into prisons, indicating a persistent challenge for law enforcement.",
+      "incident_ids": [
+        "99d0ec575cf8",
+        "25dc5afc8887",
+        "6f0affbffdf4"
+      ]
+    },
+    {
+      "topic": "Geopolitical Tensions",
+      "rationale": "Incidents suggest heightened geopolitical tensions, particularly with implications for security policies and regulations.",
+      "incident_ids": [
+        "dst0",
+        "af5bbaadf482",
+        "c44d37fe4bf6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "31d0cdb857d2",
+      "headline": "Chaos at Dubai airport after flights suspended following drone attack",
+      "one_sentence": "A drone attack led to chaos and halted flights at Dubai airport, raising safety concerns.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "99d0ec575cf8",
+      "headline": "A young aspiring priest killed by a drone in Haiti",
+      "one_sentence": "A drone incident in Haiti has resulted in the tragic death of a young priest, raising concerns over drone-related violence.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "25dc5afc8887",
+      "headline": "Jail terms for seven-man drone gang responsible for drug drops to London prisons",
+      "one_sentence": "Authorities have sentenced a gang responsible for the majority of drone drug drops to London prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f0d23bee02ea",
+      "headline": "Explosion at Dubai Airport after drone hits site",
+      "one_sentence": "An explosion took place at Dubai Airport due to a drone strike, causing massive disruption.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.95
+    },
+    {
+      "id": "ad791e13d719",
+      "headline": "Iranian President pledges investigation of drone incident",
+      "one_sentence": "Iranian leadership has committed to investigating the recent drone incident affecting relations with Azerbaijan.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.88
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge, impacting airports and prisons, raising urgent safety concerns.",
+    "linkedin": "Recent drone activities have highlighted critical safety and regulatory challenges across airports and prison systems."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-09"
+}
