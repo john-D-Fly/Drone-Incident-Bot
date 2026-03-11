@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "California could be attacked by drones because of Iran war, memo warns. Officials downplay threat - Los Angeles Times - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkxxeWNSb3dKOTNoYVlIcVVmc0pVRlI3SWx0U0szQzQ3emVwNDJoWHBsdHNxVmFsbHltUktrT3NKVWlVd3A2bTBHV2ZIaDZFNXRVaVlfX3VUWDQ3TWN0QkpJV2dMYjNac1owNWEwQUJKSUdjR1ZHM21ScmY3R0ZmczdIbFY4TktHdFljc0RMSVZxc1hLaG01OEMtT2JGd0hJaURuSTREY2dYV1ZxeGpUQWlHR0htdEl2WTcyU3dB?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-03-11T18:22:52+00:00",
+      "description": "California could be attacked by drones because of Iran war, memo warns. Officials downplay threat - Los Angeles Times  Los Angeles Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-11T20:11:05.772627+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "6212b756426e"
+    },
+    {
+      "title": "Shreveport man sentenced to ten years for pointing illegal gun at police drone - KSLA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFRvVkFTQjYzVXJFU0dBbzE5MjVJcGFXZlFmM3FEVWVUWXFzLXpQRlc2VVdNdHlsVjBrdXllWTl3WmVnWlNzRFUyODhnNXdpZ0xIZDB4ZFpqLTlVYmQ5azFfNUxqNUQ3SlVoSmFVNnR2cHpuSWhxZGVTUHZ4czFUX2xvTnItdGpKUGdYTERYXy05TDRESU8xUlVmZlV0S0lBcGpoNjBKaUd1Mlk?oc=5",
+      "source": "KSLA",
+      "date": "2026-03-10T22:55:19+00:00",
+      "description": "Shreveport man sentenced to ten years for pointing illegal gun at police drone  KSLA",
+      "query": "drone illegal",
+      "detected_at": "2026-03-11T20:11:04.681398+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d8b5a8afe5ea"
+    },
+    {
+      "title": "New drone incidents near Dubai airport deepen aviation disruption - Gamereactor UK",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVlaTXlCbXJTRnBMUndUcE1BT2JFRGpKM0IzMUxxNWk5WkZzcHR4UDZIOENJZkM4UTNYSVNwalllM1JESFUtQzNhdmY2MGM3QWhqcExLX1hCT3BHLThsSmxaZjN0SzBfOGN0TzdkcEh5Nlh0RERKTmVyQ0Q5b3hvV2N3WWFOemw3b2MzRFE3ZWN1eE9qNmU2R0JlUzdvY2Z0Q3lJ?oc=5",
+      "source": "Gamereactor UK",
+      "date": "2026-03-11T15:06:00+00:00",
+      "description": "New drone incidents near Dubai airport deepen aviation disruption  Gamereactor UK",
+      "query": "drone incident",
+      "detected_at": "2026-03-11T20:11:00.980290+00:00",
+      "location": "near Dubai airport deepen aviation disruption",
+      "category": "airport",
+      "id": "dfc139a8e6b1"
+    },
+    {
       "title": "Over 1,200 killed in Haiti drone strikes, including 60 civilians: Report - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0Z2ZE5PZ0V1SVhxaEJoNTN2VDNUSVlsd0otUW1ROTkyMkwxYllkSmR5OW9sMS1XUTYyN2g2bUVzUW9hNmhGZkNCMzRtWWlyd000LVBxckM0anFoNnlBM21QRjZEV0hoUkdNcTZQeVNlbmNpb0h5X3d3NE03LXl2RXVNdHplc282eHlMYjlETzdxc2VkbnVTcUs1bVhqSXBCSHczV1ZkdU12ZVVBaVHSAbMBQVVfeXFMTVZQY3Q1bTg2cllMdG1QbkNZSjFtdGdoWk8xUF9JOWFYNDI4SXJLRTh6TEt3M3JscUtaSFM4d0lzOTVEQXBSWmVubkpXSzJUVzFqcmlZaTFKbUt4ZFI0M2VZODR3Z1RQenZKUXROWl9HLXRjTmtOQVB0NDgwOTh6WFlWVk9mUzVuLVZDRUdqQmRaTEptbllwdVhwYXFjX3UyTkdIc1NWb3FJRjIzOE53V2V5WjA?oc=5",
       "source": "Al Jazeera",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ba0a39432b68"
-    },
-    {
-      "title": "El Paso Incident Highlights Gaps in America’s Drone Defense Industry - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kU0kxaFU5cHNZNlY0Z0hGRGgzT3JUeXJtU2l1WDQ1eGJJN2hRVU9aQVlQQXhjbEhIUGFKX0lhS1hXMTNYTXo0WGxLblo5aURVdUtoZkZHMXJCa09rMTNJYlVNSThFWkhmeks2NU56SW5rZThpR3Rtb0hGQWxPUQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-02-12T22:33:54+00:00",
-      "description": "El Paso Incident Highlights Gaps in America’s Drone Defense Industry  The New York Times",
-      "query": "drone incident",
-      "detected_at": "2026-02-13T00:32:57.576780+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "10ec0b9c606f"
-    },
-    {
-      "title": "N. Korea warns of 'terrible response' if more drone incursions from South - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEl2UGNrUHk0OFFTdmdNbV81Z05kcnFES3dOdVJ4LWh1Wm1UM0llUVl4QWU4NWtPN0RxOUR2aVZRZXdET0licmRINlNzTi1iY3phTm5FdGNqWTNLM2JnV0pBeE02ZHJCMVJ6bUY1VkNRUElWRnAzVm5uQkdLei1KaGR1aWhHUEpmNnFINDJZMUFPdmhPRGtJUVlUQURhb2FIMEpHS0JNX0d1U3FyWGJ1SjVqZDVEM1E4?oc=5",
-      "source": "France 24",
-      "date": "2026-02-12T22:45:13+00:00",
-      "description": "N. Korea warns of 'terrible response' if more drone incursions from South  France 24",
-      "query": "drone incident",
-      "detected_at": "2026-02-12T23:09:41.240950+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "840c9f904d4d"
-    },
-    {
-      "title": "El Paso Incident Highlights Gaps in America’s Drone Defense Industry - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kU0kxaFU5cHNZNlY0Z0hGRGgzT3JUeXJtU2l1WDQ1eGJJN2hRVU9aQVlQQXhjbEhIUGFKX0lhS1hXMTNYTXo0WGxLblo5aURVdUtoZkZHMXJCa09rMTNJYlVNSThFWkhmeks2NU56SW5rZThpR3Rtb0hGQWxPUQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-02-12T21:57:57+00:00",
-      "description": "El Paso Incident Highlights Gaps in America’s Drone Defense Industry  The New York Times",
-      "query": "drone incident",
-      "detected_at": "2026-02-12T22:09:59.809562+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "68368e30c268"
     }
   ],
-  "last_updated": "2026-03-11T19:19:19.105639+00:00",
+  "last_updated": "2026-03-11T20:11:10.202300+00:00",
   "total_count": 1000
 }
