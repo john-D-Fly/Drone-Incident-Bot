@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple drone incidents, particularly near Dubai, caused significant disruptions to airport operations and safety. Notably, drone crashes and strikes related to escalating tensions with Iran resulted in injuries and flight cancellations at Dubai International Airport. Concurrently, in the U.S., two women were arrested for using drones disguised as crows to smuggle drugs into federal prisons, highlighting an ongoing trend of drone use in contraband smuggling. Reports of drone-related incidents are emerging globally, from contraband issues in Nigeria to drone crashes causing damage in Iraq, emphasizing a widespread need for tighter security measures and regulations regarding drone operations.",
+  "totals": {
+    "airport": 13,
+    "smuggling": 12,
+    "crash": 5,
+    "terrorism": 8,
+    "other": 12,
+    "total_incidents": 118,
+    "by_category": {
+      "airport": 16,
+      "arrest": 2,
+      "crash": 12,
+      "other": 37,
+      "smuggling": 47,
+      "surveillance": 2,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 9,
+      "drone arrest": 18,
+      "drone crash": 14,
+      "drone illegal": 3,
+      "drone incident": 21,
+      "drone prison": 23,
+      "drone smuggling": 11,
+      "drone terrorism": 15,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Increased incidents near Dubai disrupt airport operations.",
+      "incident_ids": [
+        "63030ce035e3",
+        "2af6c292c031",
+        "a66b2ee397ef",
+        "1ea8bac1288f",
+        "1b47882a7f79",
+        "9cc403704cfb",
+        "1b47882a7f79",
+        "17fb74057c4f"
+      ]
+    },
+    {
+      "topic": "Drug Smuggling via Drones",
+      "rationale": "Incidents involving drones used to smuggle drugs into prisons are on the rise.",
+      "incident_ids": [
+        "1b47882a7f79",
+        "70c4da2ccde3",
+        "2c14c674ddb8",
+        "eafecc9f4ea4"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "63030ce035e3",
+      "headline": "Gulf Airspace Crisis: Drone Incidents Near Dubai",
+      "one_sentence": "Multiple drone incidents caused major disruptions in Gulf airspace, particularly affecting Dubai's airport operations.",
+      "risk_tags": [
+        "airport disruption",
+        "drone incident"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2af6c292c031",
+      "headline": "Drones Fall Near Dubai Airport, Four Injured",
+      "one_sentence": "Drones crashed near Dubai airport resulting in injuries and flight cancellations.",
+      "risk_tags": [
+        "airport disruption",
+        "injury"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1b47882a7f79",
+      "headline": "Texas Women Arrested for Using Drones in Smuggling",
+      "one_sentence": "Two women were arrested for using drones disguised as crows to smuggle meth and spice into a federal prison.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "1ea8bac1288f",
+      "headline": "Drone Incident Reported Near Dubai International Airport",
+      "one_sentence": "A drone incident reported near Dubai International Airport contributed to ongoing air traffic chaos.",
+      "risk_tags": [
+        "air traffic",
+        "security"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "9cc403704cfb",
+      "headline": "Drone Use in Drug Smuggling on the Rise",
+      "one_sentence": "Recent incidents suggest an alarming increase in the use of drones for drug smuggling into prisons.",
+      "risk_tags": [
+        "smuggling",
+        "drug-related"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Major drone incidents near Dubai disrupt air travel; meanwhile, U.S. women face charges for using drones to smuggle drugs into prisons.",
+    "linkedin": "The past 48 hours have seen significant drone-related incidents affecting airport operations in Dubai and illegal drug smuggling activities in the U.S., underscoring the urgent need for enhanced drone regulations and security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-11"
+}
