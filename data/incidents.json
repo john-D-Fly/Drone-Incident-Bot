@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Iran war: Authorities probe drone crash near Dubai Creek Harbour - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGFURHRTYzRLaDlRVTY1bWV3OGhMR05LcjlGV2hRY0lwaHpaZlgtTUVXMEtjVFBjRDg2bE8wMTQ2V1h6NWtCU1pZM1pIQk0xYjk0V1lhZ2hWMS1aZmpBYU15blFIVkVkM2t6UTAwMy0taG5OWjQ1WUFJenk3RkN4QkVkYmpIVDE1azMxQUZiR2ZWZU5SN2RQTG1SSFQtTUlEaWxmM2xSWjV1UVpxakFzLVBpaVppd9IBtgFBVV95cUxPWGFURHRTYzRLaDlRVTY1bWV3OGhMR05LcjlGV2hRY0lwaHpaZlgtTUVXMEtjVFBjRDg2bE8wMTQ2V1h6NWtCU1pZM1pIQk0xYjk0V1lhZ2hWMS1aZmpBYU15blFIVkVkM2t6UTAwMy0taG5OWjQ1WUFJenk3RkN4QkVkYmpIVDE1azMxQUZiR2ZWZU5SN2RQTG1SSFQtTUlEaWxmM2xSWjV1UVpxakFzLVBpaVppdw?oc=5",
+      "source": "The Hindu",
+      "date": "2026-03-12T17:47:17+00:00",
+      "description": "Iran war: Authorities probe drone crash near Dubai Creek Harbour  The Hindu",
+      "query": "drone crash",
+      "detected_at": "2026-03-12T18:20:11.536915+00:00",
+      "location": "near Dubai Creek Harbour",
+      "category": "crash",
+      "id": "03a32c495dbd"
+    },
+    {
+      "title": "Dubai: Handling of Drone Crash in Al-Bada with No Injuries - Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tbkpTRXhhNGhaWWIwX1VsUS1xWk44LWFlWUlPdmYxa1FVSWhCZV9wUVJ5bVVDUEp2YkRkaERELW5QMFlqaFl3Wlh0cjRaYnhfNXc?oc=5",
+      "source": "Yemen Online",
+      "date": "2026-03-12T17:59:09+00:00",
+      "description": "Dubai: Handling of Drone Crash in Al-Bada with No Injuries  Yemen Online",
+      "query": "drone crash",
+      "detected_at": "2026-03-12T18:20:11.536915+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ef93086a46d2"
+    },
+    {
+      "title": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue - TravelPirates",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmhWV25lRWRaNk9ocjQxYXlYZWw4dnA3ZmdIVlRUVkJmanZ2VDE2aVM0dTJ1YUxBX1pJRl9HOS05MlBFUk9tWlU5SkctMFBxanB3ZktjR3hWcGd1T3NhWnlTcjFvdE13cVhyNHVqNnhIQTRscUFsSXQ5V094ZzMtc0pDUUVjNVEyeWhSbnFkN3l1TmJ4RWt4RVJ3?oc=5",
+      "source": "TravelPirates",
+      "date": "2026-03-12T12:10:22+00:00",
+      "description": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue  TravelPirates",
+      "query": "drone crash",
+      "detected_at": "2026-03-12T18:20:11.536915+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f526f72695e7"
+    },
+    {
+      "title": "Army seeks masked thieves who lifted drones from base as Iran retaliation fears spike - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONjRUbFhaVDM1OE5zSThZRldJblo1T3VfYUdpYk5WaktsRXczcVktZnpWektFVDNQMTMtRGlKR1kxNW1iTDQ3bVJ1aEpSa3k1Ukpjdi1yTVhNS3l5MldmMVp6QlU5NXhENEhuNDVUXzJOZlJxNE43TW1UZllsTUpKQVo4VHpiT0pGeXMzLWlLWm8wcmhqZWtnWjN5R2w5RENpWTZ5bl96ZW54STJiaFdKYTVYaVRfZUk2bmROdnMzZFcyOUc2Qmc?oc=5",
+      "source": "New York Post",
+      "date": "2026-03-12T17:21:20+00:00",
+      "description": "Army seeks masked thieves who lifted drones from base as Iran retaliation fears spike  New York Post",
+      "query": "drone arrest",
+      "detected_at": "2026-03-12T18:20:08.983407+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b591386e103c"
+    },
+    {
+      "title": "US-Israel war on Iran, day 13: Iran's new supreme leader issues first message; minor drone incidents in Dubai - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTBQUkduSXpIaFhzWlYxVWNOd1U1ZzBvaUlkcjllSXBMWS1XOFdHZHFVaXRNNDZqY216UlFiVUNiV0lXaXNFblgtZldIbks2Ym9VRlR6VjgtXzlOZHBpZEEzaW5ZM1VKUEFEdEhyT2NXTTl6X1g2T2hZZFYxNUc5ZGVZbjF0V183UDllVTQxU0FxWTJWRDFGS2YzOXBSekNWQVVKQWtWLUgxZFh0UWZUN0daa3BVNFU1M1ozaGx30gHOAUFVX3lxTE5HRjFxZUcwNjl3U3ZYbTJlRWRSdklGNm5lWTZRMTU0eWR5WGFYRkdvM05oY3BEY3BBQVpZLWVQYk9sQS1UcDhIUVZralNpSVlqYm1fak8xajAtNFlpUF9kSTZ0d2tMaVY5TGZjS1V3VGhSYXQwSjlRSkFnMzJxZDNoYThtVHFzOVdOdU54QW05LUFRa3BRazJ2bWNieHdNaGJqNXhFYXJZMFVNemNDUE45dG1ZOHRreGlTeVZFcmwzb19OUk5zMm5XSDNoNjdn?oc=5",
+      "source": "Gulf News",
+      "date": "2026-03-12T17:50:36+00:00",
+      "description": "US-Israel war on Iran, day 13: Iran's new supreme leader issues first message; minor drone incidents in Dubai  Gulf News",
+      "query": "drone incident",
+      "detected_at": "2026-03-12T18:20:08.083559+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cb894bdfa2a0"
+    },
+    {
       "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
       "source": "abcnews.com",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "ff8fbf03994b"
-    },
-    {
-      "title": "Concerns grow as Mexican cartels embrace drones for drug smuggling, attacks on rivals - Tucson Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPZlkzUGVuOVUxVVdiTFNodFNrZHJCcmZBeV9fRDA5WUdYYU5tdUdmZUZSLVk5VWl2ZkpZNGEwSkJWdVh1X0pxZFpqdkVET0R1ZFFOdmhOWU9ESE1VbUFGQjZyT1paclllN18xU0o1ZGRPaWM?oc=5",
-      "source": "Tucson Sentinel",
-      "date": "2026-02-16T14:43:26+00:00",
-      "description": "Concerns grow as Mexican cartels embrace drones for drug smuggling, attacks on rivals  Tucson Sentinel",
-      "query": "drone smuggling",
-      "detected_at": "2026-02-16T18:14:51.626078+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b13da642d392"
-    },
-    {
-      "title": "Taylor police drone crashes, department says online video is fake - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXdQbG1wV1E0elJOSG95RTAtMFlBRUpGbGFkOHJHdlBCOE1JUVR0UHpZQUxYV1Z2MXpTWFUtN2VDbk1IVWpuaG95Nm96WV9wcWM2UmVaTGpkOUdLNVdvUUxuaEJXNW5XMXFhV1NNVmlhQnNUd3ZfVXFKUGNxZzdjRXFHRzE?oc=5",
-      "source": "AOL.com",
-      "date": "2026-02-16T05:31:02+00:00",
-      "description": "Taylor police drone crashes, department says online video is fake  AOL.com",
-      "query": "drone crash",
-      "detected_at": "2026-02-16T15:17:16.102466+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "cd0071c3c0cd"
-    },
-    {
-      "title": "Suspected drone drop leads to seizure of contraband at Collins Bay Institution - The Kingston Whig Standard",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzdkOGI0ZGNveHUwc1lEQjB4WEs2c255TVBSS0dFX0JCdkgweURpdlJSZ21TWmhXQmJWY0h6cl80Qmgteml2NFkxeHN6OHF6dnBPQXFYXzUtOGpneTJZcTNjUnhVSDBsSnpfbjFUdUhBc2YzcUQ0bGh5TU1YTWNzNnhqRFZjc1JOSXNuZzg4Ym9UWkd2WEVGVWhqQ0NMaFdZVmdPdHhZV1VmazY3MjhyTVJPNlROR2dYdXc?oc=5",
-      "source": "The Kingston Whig Standard",
-      "date": "2026-02-16T13:11:14+00:00",
-      "description": "Suspected drone drop leads to seizure of contraband at Collins Bay Institution  The Kingston Whig Standard",
-      "query": "drone prison",
-      "detected_at": "2026-02-16T14:20:28.951621+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4b10019634ae"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Kyiv drone strikes hit Black Sea ports ahead of crucial US-backed peace talks - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWlpUG9ROXVKTjJVMHkxc0JZUURMVi0yQ0RjNUp3VHJPdDBXdUQ3YkQycGNXRkVGTndjNkxaX3VicTdoX0RjcF9EYmk3WUx3RGZPMF9TMWRsNl82dHY0b0RJTnZDbXVsQ0k0eE9lZnlhSmJNMlkwSlRFWVdHLUxzRVFqVjltYzUyckphR211OHRrRVZKblN5RWwwY1hZQ0EwRUZKMkNoa0pjWGRydmF1em03aw?oc=5",
-      "source": "The Independent",
-      "date": "2026-02-16T12:05:28+00:00",
-      "description": "Ukraine-Russia war latest: Kyiv drone strikes hit Black Sea ports ahead of crucial US-backed peace talks  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-16T12:16:44.074542+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "01c9fe843dfb"
-    },
-    {
-      "title": "How the UK’s Groundbreaking 2026 Drone Rules Will Revolutionize Airport Safety and Cut Flight Disruptions with Cutting-Edge Technology and Enforcement Tools - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTEhXQi1BNkwwN1dWUWlzbFBhMF9mNm1EWVZoelcwUGd2dW9JekFnY0N2empPcVY2ODNoSW5ocXd4R1NJMV9pSnBicXg2WVZOMVRyZ1ZKejZTM09WbGhTemg5Z0Z4bjVtcFJnT25HSmVPUDQycnd4WV92b1duZmtXZi1VN2xwRjJ5ZnBGOHAwNU9aamtxdlktR0ZIOE51OTdqTm1uR01tWGR2Y1Exb0R0ZFBUbFZWd1dsN0pHcWNZR045YXBLeGhzd0RPd3JKQk80Wm1DcXJ3VUhfRmZ5c0FEOGREV0JUdDcyV2ZqVVdrQUZ1MjVoN0JaZEtxQWZvU3NMQl91Z3VOOXJfZk5tdk1SMzFkVzREREdjSGpmZDRfRXk5RTI3bGdfLUtwWF8?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-02-16T11:06:51+00:00",
-      "description": "How the UK’s Groundbreaking 2026 Drone Rules Will Revolutionize Airport Safety and Cut Flight Disruptions with Cutting-Edge Technology and Enforcement Tools  Travel And Tour World",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-16T11:18:09.450957+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "aa9cf1764202"
     }
   ],
-  "last_updated": "2026-03-12T17:21:11.121669+00:00",
+  "last_updated": "2026-03-12T18:20:14.663237+00:00",
   "total_count": 1000
 }
