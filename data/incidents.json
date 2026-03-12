@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "‘No known threats to San Diego’ after FBI warns of possible drone strikes on West Coast - San Diego Union-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFNpZHlNZVVLNGZoMFZhbFhLMTMzeFNvLVhMSU1rNjQ4MVBpcGZaOG5NVjlOcnR2VFI2bDF3UElhNTE0eDY0VFVUMmNGTzBNTy16R3A1MExYdUNGVkQydFppR1JTZW5LazlTNmwxbFRxZm0zT084N1VsM29wY3JXLXl0cEpuV2RLaFJrZmVBUmJxOWlmaDZmVTlZY3NLb1N4cFRWeDV5UzAyc1VaSkkyNnhHeDlYRmFfUVZvaF9RWWhWVWpMLWVCRU9ndG1MVVk?oc=5",
+      "source": "San Diego Union-Tribune",
+      "date": "2026-03-12T02:59:29+00:00",
+      "description": "‘No known threats to San Diego’ after FBI warns of possible drone strikes on West Coast  San Diego Union-Tribune",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-12T04:36:58.510206+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "377d57738f80"
+    },
+    {
       "title": "Gov. Newsom addresses questions about California's security amid Iran war, says no 'imminent threat' - KCRA",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNFpmMk91N3ZhbUdCVnFtbm9BSURUTkRqRjlFb3VUWm9UZzhZX0NzVm5Bd1E1NkN2Q3QzVEJCc21nUEhfMS0wanl3b3pCYmlKZTcwalRHLTl2ZDVFX3NYeXZvcC1vYXpVem9HM1ItSVBDY2d2RmtSTTNxTnlCanBpbUZYbw?oc=5",
       "source": "KCRA",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c25b903655f6"
-    },
-    {
-      "title": "Fishers K-9, drone used to apprehend suspect - Current Publishing",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnZSUm92RXNXcl9FRTNiTmpfY1lFeGU2UDFDVWhXY2dOTVZzTVVuUHlxbUhYRl9FdDczMmF4Y0ZINk13bm5FemJkalRic1hCRFladkk4YWlLZU15OGRSSWpDTmN3dTc3YWF3NzI4UFBwZW4wUzhhWnppSEZqczluNmRfWkNrQk5w?oc=5",
-      "source": "Current Publishing",
-      "date": "2026-02-13T18:52:04+00:00",
-      "description": "Fishers K-9, drone used to apprehend suspect  Current Publishing",
-      "query": "drone arrest",
-      "detected_at": "2026-02-13T19:18:47.890771+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1496c3501737"
     }
   ],
-  "last_updated": "2026-03-12T03:02:17.891454+00:00",
+  "last_updated": "2026-03-12T04:36:59.711432+00:00",
   "total_count": 1000
 }
