@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "French soldier killed and several wounded in attack in Iraq's Kurdistan region, confirms Macron - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNkZrRG5hSDdaOGI3WkVkMWZsMm5zamdSU2FfQUc3Wm1IWnQzVUdGN2lZM1BqWVlrVGhfXzUzTDBQNnNaVUFLekU1T01vMjBfRjRxbm5VNUlnUzRTWVVjdERxNTktb3FlWFlyVzdVUDZnV1pvSlJ0ZHlkSkd2Zm5YR2hUT1BzS3pPWEtxY3pLdi1oLXE2Z2kyWk5fS0pjR0NLN0dDMW5ZWTdYVVJaeDlBNDZqano2ejE3aFB5TFJfbVQwWjNQMm95dDc0UUtoSm1VSU9zSUYtLWVFaTBtTDJ1c3RB?oc=5",
+      "source": "Le Monde.fr",
+      "date": "2026-03-13T01:30:10+00:00",
+      "description": "French soldier killed and several wounded in attack in Iraq's Kurdistan region, confirms Macron  Le Monde.fr",
+      "query": "drone crash",
+      "detected_at": "2026-03-13T12:14:47.479354+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "43786974e3bf"
+    },
+    {
       "title": "At least 2 killed in drone crash in Oman - Armenia News",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84MHVNQUZuNWJsUTdmdnlNVlpkS29CdUE0UWJWdUVobk5wTnJtU0FaM2R6d2JTcXFXVFdNSmcxMlF6bkV4dDBZaVZta3I?oc=5",
       "source": "Armenia News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "243d4e2cea4f"
-    },
-    {
-      "title": "Criminal charges sought after more than 30 unauthorized drones over Seahawks parade - WGXA",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPOW11YjVQRGdjN3U0UEJxS0dZYmlESEtVNUlYbmRkZm1rUlkzQmNPanNsYnBfMWRTalBsNmhTQW40Q3pacFdSamZlVTB6bGdtNGEtaFg2M0toVWR4MFNYUDd1eXRXMnQybkctN0l3TTVSTzAtOFZPRUJIWFpHaXNRakJIUGlMZkFMa0FvLXVLUU45QXozY0MyNEJhOHhqUms3SFJ1S2ZRQUxlTGxuaEwwOEZ0NlV1N1BRUG05RzRTTy16aHZyZXZfMkhaZU5sdFZpbllVTFFGb0JsMEd4LW1ad25xaEVYUTdFQXhYTnh5alBaSTJmcnZvQktLamJ4ZG0xV2V0YkRYTnVYci1fT1doMGdZSWZ1NFdBZEpJ?oc=5",
-      "source": "WGXA",
-      "date": "2026-02-17T08:00:00+00:00",
-      "description": "Criminal charges sought after more than 30 unauthorized drones over Seahawks parade  WGXA",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-19T03:04:22.243874+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "2ae23ffa8a51"
     }
   ],
-  "last_updated": "2026-03-13T11:13:13.573629+00:00",
+  "last_updated": "2026-03-13T12:14:50.194106+00:00",
   "total_count": 1000
 }
