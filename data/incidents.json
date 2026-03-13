@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Senator seeks US watchdog probe into Texas drone incidents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm42NVdzM3Q3U2lnTmoxMTZMdGowazg3eW81bzFNMkdkVG1FSjdFTk1ZNFBmU2pYRVR0eVZ3WWltMVpjUEpaRVdQQVhRRTlSOXg1ekhtUDFZT0VqZ1FxcXh1eTY2SnE1Mm5QWUd3MVZZWTFWZk42LVo5dXZsQjRyZjN6anM1by1nbGliTjZPMEc3YnJ0NUtiRGlIRUc1dTAwSlE?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-13T11:14:35+00:00",
+      "description": "Senator seeks US watchdog probe into Texas drone incidents  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-03-13T14:19:09.541386+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f26693216eba"
+    },
+    {
       "title": "French soldier killed and several wounded in attack in Iraq's Kurdistan region, confirms Macron - Le Monde.fr",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNkZrRG5hSDdaOGI3WkVkMWZsMm5zamdSU2FfQUc3Wm1IWnQzVUdGN2lZM1BqWVlrVGhfXzUzTDBQNnNaVUFLekU1T01vMjBfRjRxbm5VNUlnUzRTWVVjdERxNTktb3FlWFlyVzdVUDZnV1pvSlJ0ZHlkSkd2Zm5YR2hUT1BzS3pPWEtxY3pLdi1oLXE2Z2kyWk5fS0pjR0NLN0dDMW5ZWTdYVVJaeDlBNDZqano2ejE3aFB5TFJfbVQwWjNQMm95dDc0UUtoSm1VSU9zSUYtLWVFaTBtTDJ1c3RB?oc=5",
       "source": "Le Monde.fr",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "454629cd493f"
-    },
-    {
-      "title": "EXCLUSIVE: Unidentified drone downed over Lebanon airbase, US forces block authorities from crash site - thecradle.co",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaG9jWDRHN3htNkNVb2xqWmQ2akQ5MFJrZ3V3alVDbWhaM2l5c2JXVk14eUE2X0pRZ2ZjNXpIaWpPQkcxa0JTR3dtYWtJZUE?oc=5",
-      "source": "thecradle.co",
-      "date": "2026-02-18T23:49:45+00:00",
-      "description": "EXCLUSIVE: Unidentified drone downed over Lebanon airbase, US forces block authorities from crash site  thecradle.co",
-      "query": "drone incident",
-      "detected_at": "2026-02-19T04:39:41.827713+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "243d4e2cea4f"
     }
   ],
-  "last_updated": "2026-03-13T12:14:50.194106+00:00",
+  "last_updated": "2026-03-13T14:19:15.784260+00:00",
   "total_count": 1000
 }
