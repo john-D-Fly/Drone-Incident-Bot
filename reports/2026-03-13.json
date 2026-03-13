@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant increase in drone-related incidents has been reported, particularly in Dubai, where multiple crashes and strikes caused disruptions and injuries. Notably, two drones crashed near Dubai Airport, injuring four people, while various incidents involving drones took place throughout the Gulf, reflecting escalating tensions in the region amid the ongoing Iran-Israel conflict. In addition, multiple arrests have been made in Texas where individuals attempted to smuggle drugs into prisons using drones disguised as birds. The incidents indicate heightened security concerns related to drone activities, particularly in areas exposed to potential threats from hostile entities.",
+  "totals": {
+    "crash": 12,
+    "airport": 7,
+    "other": 20,
+    "smuggling": 9,
+    "terrorism": 6,
+    "interference": 1,
+    "illegal": 5,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 15,
+      "arrest": 3,
+      "crash": 16,
+      "interference": 1,
+      "other": 50,
+      "smuggling": 23,
+      "terrorism": 12
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 13,
+      "drone crash": 30,
+      "drone illegal": 5,
+      "drone incident": 27,
+      "drone prison": 8,
+      "drone security breach": 2,
+      "drone smuggling": 10,
+      "drone terrorism": 19,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes Near Airport",
+      "rationale": "Multiple drone incidents were reported near the Dubai Airport, creating harmful situations for civilians and flights.",
+      "incident_ids": [
+        "d4ee3fc623f1",
+        "b2515aa33680",
+        "c981e74be878",
+        "81f1d1737444",
+        "5960466f4805"
+      ]
+    },
+    {
+      "topic": "Escalating Drone Attacks",
+      "rationale": "The ongoing conflicts have led to drone strikes escalating in the Gulf region, especially impacting military fronts.",
+      "incident_ids": [
+        "1e9b7114b670",
+        "2fa3040bb431",
+        "e92e9c72d103",
+        "e37df9626c90"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling Attempts",
+      "rationale": "Arrests related to the use of drones for smuggling contraband into prisons have emerged in Texas.",
+      "incident_ids": [
+        "8f57fc771b0f",
+        "4cf8750b03ff",
+        "ba7496b10ae4"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "bfbad1661a26",
+      "headline": "Drone Incident Near Dubai Airport Injures Four",
+      "one_sentence": "Four people were injured due to drone incidents near Dubai Airport amid ongoing tensions.",
+      "risk_tags": [
+        "airport",
+        "incident"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d6b2d4298f78",
+      "headline": "Drone Crash in Chernihiv Region Kills a Child",
+      "one_sentence": "A drone crash in Ukraine's Chernihiv region resulted in the tragic death of a child.",
+      "risk_tags": [
+        "crash",
+        "incident"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f59a86308830",
+      "headline": "FBI Warns of Possible Drone Threats Amid Iran Conflict",
+      "one_sentence": "The FBI has issued warnings of potential Iranian drone threats against California amid war escalations.",
+      "risk_tags": [
+        "terrorism",
+        "threat"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "74c71c3c7a1d",
+      "headline": "Texas Pair Arrested for Smuggling via Drones",
+      "one_sentence": "Two men were arrested for reportedly using drones to smuggle drugs into a federal prison in Louisiana.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8e03b27460cd",
+      "headline": "Drone Crash Halts LIV Golf Event in Hong Kong",
+      "one_sentence": "A drone crash disrupted the LIV Golf event in Hong Kong, drawing attention to drone safety.",
+      "risk_tags": [
+        "crash",
+        "event disruption"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Increasing drone incidents across the Gulf highlight rising security concerns, particularly near Dubai Airport where multiple crashes occurred.",
+    "linkedin": "Recent drone incidents in Dubai and surrounding regions signal escalating security challenges, emphasizing the need for enhanced oversight and preparedness."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-13"
+}
