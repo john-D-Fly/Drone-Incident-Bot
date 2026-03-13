@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Universal Is Trying to Ban Drones from Snooping Around Its Newest Theme Park Currently in Development - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcnBLb3RlOGRxTWZ2Q2sxbUY1NWxLZktmRFVzcG9sOW9UYWVTLTBWekpaaVVpR2VlM0ZmNkUtRHdLVG9mTHB1WHIxOEdCMFRUTXJZX2g0NWtDU3lVUjNrY2x1ZXhfQURNUG5MUll0NFdTTGZDQVp6YzRtOHI4ZkdDVndTWU9oNDg?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-13T18:12:38+00:00",
+      "description": "Universal Is Trying to Ban Drones from Snooping Around Its Newest Theme Park Currently in Development  AOL.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-13T18:13:51.453706+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "282a291b053b"
+    },
+    {
+      "title": "Universal Is Trying to Ban Drones from Flying Over Its New Theme Park Currently in Development - People.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzdFdWJDaHNUWDF5YjJGWGtBS0VKOWlkMTlfNEpVT1dCOTRBd1laN2RYNFRwNFVSakNNb1l3amxRRTQtcnh4VjNUTENiYzZQdDF5MVluSnQtRUtzUHppcE5hWHNZdkVCdUJZZEowRlYwYl81VmNKZ1F4ZnNvV2ZYWVJaSEM1WGt2aDNkTmYtdVJVWC1zajdESE9QcGx3UQ?oc=5",
+      "source": "People.com",
+      "date": "2026-03-13T18:04:29+00:00",
+      "description": "Universal Is Trying to Ban Drones from Flying Over Its New Theme Park Currently in Development  People.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-13T18:13:51.453706+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "39ad778a0dbb"
+    },
+    {
+      "title": "Parliamentary Push for Drone Surveillance in Forests - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTcxdmRDQ2RWZUl2V0o0UWtPWG51djJGTWdUcW52aTVpX0k3VlU4cFpxenRvMWZWb0xLd0c0M1dGZ0hyR043dDE4X2xSSldLdFc3aTNkWHNTUmd0QTBBYnQ0OHZqN0pvelAxX0Z0aEpWVlJFSk8tS0J1eGp1a1NCeW5qSm9nQjEtdUg3UHIxU0VwOXc2NjY2VExpSDRaQkJYV0tDRF85d2p2clJsTTc0TWdOY0VBcDh00gG-AUFVX3lxTFBfVTFzTDJDMzY1TG12RDJXZVpvb3lMYTlBOTU2ZUk2YTdDSFdtcDhjNXgyU3pCYS1hN1BWcWt5UnZHWHNWTUlBWHlBV1MyZ2U0OGdoX1JmZW5lRlZmSWE0TFB3X20wNjI5b0dYd3NrVzQ1ZFZ1dG9YUldaRlNFcWRVTXpaMEE3OGl0U2trT0tiQUZienRSLWtIZmkyYklFaHRLaUI5dXVqbWI5eUtwXzh1dU9hZENqczZpUU1fZHc?oc=5",
+      "source": "Devdiscourse",
+      "date": "2026-03-13T17:17:31+00:00",
+      "description": "Parliamentary Push for Drone Surveillance in Forests  Devdiscourse",
+      "query": "drone illegal",
+      "detected_at": "2026-03-13T18:13:49.627240+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "c0a01430a381"
+    },
+    {
+      "title": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue - TravelPirates",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmhWV25lRWRaNk9ocjQxYXlYZWw4dnA3ZmdIVlRUVkJmanZ2VDE2aVM0dTJ1YUxBX1pJRl9HOS05MlBFUk9tWlU5SkctMFBxanB3ZktjR3hWcGd1T3NhWnlTcjFvdE13cVhyNHVqNnhIQTRscUFsSXQ5V094ZzMtc0pDUUVjNVEyeWhSbnFkN3l1TmJ4RWt4RVJ3?oc=5",
+      "source": "TravelPirates",
+      "date": "2026-03-12T14:10:13+00:00",
+      "description": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue  TravelPirates",
+      "query": "drone crash",
+      "detected_at": "2026-03-13T18:13:49.050238+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ae6488cc86f8"
+    },
+    {
+      "title": "Expats killed in Sohar drone incident identified as Indian nationals - Times of Oman",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUxkeDZtRklwc3MzV3FrUVNndjdIdUQ4alJ2aHdUN2IzRjVjTVptRW42dnNyeU5LbElHa1QtLUFHMnZ1dm5aWmRkMFpCMnI5dzdyTFBsYXZEcU1WaXNyTmMtTENqLUJKYndvVFN2WjVmNG9RLVNNU3ZlOGFxaUpfNnhmM3JYakpzTldwMHloMkVzQ29PTjFzNWJSNG1ZYVhXcXF0ZTdTUHh0LU0?oc=5",
+      "source": "Times of Oman",
+      "date": "2026-03-13T12:00:00+00:00",
+      "description": "Expats killed in Sohar drone incident identified as Indian nationals  Times of Oman",
+      "query": "drone incident",
+      "detected_at": "2026-03-13T18:13:45.741605+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "50dbcc1004a4"
+    },
+    {
       "title": "Chico police use K-9, drone to search for suspect in reported home burglary - KRCR",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd214YTFMSzRvTk1hbXJLV3NRU3N6YVpzNHlGa0RXd1FueHlnRC1HTlpkRHpKNExOMzZmOTVTZjNFYjRrVFU2dzllVUduTmlCSmQxR2JNSmZkRlhFbE8zaTdvdzRfaVdrMU5qTlo5dUd6cDduMVRJX1hNNkZZM1Z4c3poM090Qy1TeTNlOGxtM2VSM3pvQlFFOFBFYl9BYTJlVnFwODd4Zw?oc=5",
       "source": "KRCR",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "af9b29cdb397"
-    },
-    {
-      "title": "DJI Flip: The no-stress drone is now cheaper - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZUNnUTdlb3JnNVZXb3FrcDBfZG5qbjJGc0ZFVzZ4Tm1wbVc1ZDRZQnl0VXJYLW43WV9TQ1hYcGFzb2lobGxMclkwVFVLbmttSHJQWkhLbExjN1NxSVNPdVgxQ3llaGJQQWtyWA?oc=5",
-      "source": "DroneDJ",
-      "date": "2026-02-19T07:00:00+00:00",
-      "description": "DJI Flip: The no-stress drone is now cheaper  DroneDJ",
-      "query": "drone crash",
-      "detected_at": "2026-02-19T17:22:16.928802+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ce423c613813"
-    },
-    {
-      "title": "Russia's violation of NATO airspace surged 200% in 2025, a warning of what may be coming - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzRLR1hxUWhDTmZ5dUtTWS13THRvVTVHanZuZ0FpSHlfZTdIdnNnUGtmX3dyLVRCRUtpejdGTVRGZ0VQZGRGckR1WUZyQXBuT0gxQzN0eGtCYi1YNnB1WUhTZi1obGdJaV95Z2pWWmlsYzJmcWFpRU9fOHRodWctZVphVm9VMURpQzNqU2x4REp2dDA?oc=5",
-      "source": "Fortune",
-      "date": "2026-02-19T17:00:00+00:00",
-      "description": "Russia's violation of NATO airspace surged 200% in 2025, a warning of what may be coming  Fortune",
-      "query": "drone crash",
-      "detected_at": "2026-02-19T17:22:16.928802+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d31fb8bd50d5"
-    },
-    {
-      "title": "US troops block Lebanese forces at gunpoint from accessing drone crash site at Hamat Base: Report - PressTV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnFPT2s3Q3JSOGxnNWEyUjQ3X1FXdXdSX08zM0YzekhhcDVpTmZoLUw3MUJVR3E5WGFkOVVXbjl2S0lKM0FZeENNRDZGMU5mZWxGT2dxa0wwaTU0dTNvd29Bc3F1eFlHSWl0WnhSdVl1MXhKWk1IWlQwYWQ3alBJWGMyOG9wdHd0S3dqbllELWxFUUVlUjZ6X05xVjFTZ3pyQV8wTElGQU5KRGlKSkZxVHUxU3NMZw?oc=5",
-      "source": "PressTV",
-      "date": "2026-02-19T15:48:00+00:00",
-      "description": "US troops block Lebanese forces at gunpoint from accessing drone crash site at Hamat Base: Report  PressTV",
-      "query": "drone incident",
-      "detected_at": "2026-02-19T16:20:19.471057+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4a4c87a622d4"
-    },
-    {
-      "title": "Prisons unable to keep up with crisis of drones delivering drugs, report finds - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFg3Uy1tVzM5T2FmQ2w4NUdjbmFYeFMyX1JQMk1BSVppdXVhZGhFZC0wdlBndkk4VVFwUFl4RGg0TENvOENvbUNjV0l2WDllU3lDT2ctRXhmVWtIa1lEclRVV0pXNGpGcXpVNGZicjZsODliY2VCZnlQU3NIS3RoQ0pqNA?oc=5",
-      "source": "AOL.com",
-      "date": "2026-02-18T20:14:49+00:00",
-      "description": "Prisons unable to keep up with crisis of drones delivering drugs, report finds  AOL.com",
-      "query": "drone prison",
-      "detected_at": "2026-02-19T12:17:07.373952+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "bc229f8f3d7d"
-    },
-    {
-      "title": "US personnel draw weapons on Lebanese officials following drone crash near Hamat base - Harici",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0VtOUp4UVkyRFg0a3lCV1hRSFBhUU82S19GbDFndEhnYW5vTjV3TFdEN25LdjVRR0ZwV0VGcDJWR0tfMFA2LWc0MzkxZVFxb2x2ejh2QVdEYXZhT3FnNk15ZjVPM0lJZGN4N3RRZ3V4Rl9UbWlmalJaTGkyWUY5RGxIVjFrWVJqVlAwallvVmljMHlyYkdlNUJuNTlyYVJzS2hvTXBMWHN2WTFDXzBLV9IBsAFBVV95cUxQc0VtOUp4UVkyRFg0a3lCV1hRSFBhUU82S19GbDFndEhnYW5vTjV3TFdEN25LdjVRR0ZwV0VGcDJWR0tfMFA2LWc0MzkxZVFxb2x2ejh2QVdEYXZhT3FnNk15ZjVPM0lJZGN4N3RRZ3V4Rl9UbWlmalJaTGkyWUY5RGxIVjFrWVJqVlAwallvVmljMHlyYkdlNUJuNTlyYVJzS2hvTXBMWHN2WTFDXzBLVw?oc=5",
-      "source": "Harici",
-      "date": "2026-02-19T10:36:42+00:00",
-      "description": "US personnel draw weapons on Lebanese officials following drone crash near Hamat base  Harici",
-      "query": "drone incident",
-      "detected_at": "2026-02-19T11:18:32.173698+00:00",
-      "location": "near Hamat base",
-      "category": "crash",
-      "id": "cbb7d8ff7d82"
     }
   ],
-  "last_updated": "2026-03-13T17:15:09.311500+00:00",
+  "last_updated": "2026-03-13T18:13:52.135604+00:00",
   "total_count": 1000
 }
