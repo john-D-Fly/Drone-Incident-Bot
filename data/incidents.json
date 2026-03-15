@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone strike causes fire at Iraqi refinery - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVmV4MGRhdXk1bDFQMGdqWWlkQjhHUEtDWkZFRVRTSnh4NGRQdXFRM1NpNG5JbHlqN1FLb0tjQ2VUd0VnOEM0V2hsWGJwZVBfM0ZIYloyY1pnMENtdXl5Z29EYXZLYXVKRmc?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-03-15T00:18:11+00:00",
+      "description": "Drone strike causes fire at Iraqi refinery  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-03-15T05:33:22.272693+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "02560b3b147b"
+    },
+    {
       "title": "Pakistan shoots down Taliban drones after strikes on Kabul - DW.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3dhUjNXYi1IYV93UnNPUmNwZ3RzXzJCWW1uYjBUZV9OdzBDREdtbXhKeUJwRTdpVXctOWl1OVpST2ZNWWdXQkJ2Q2k4elhUeTNQYnc4VW9sdHpnczc1WjJBcWNnMzduNHVXUnlCYWpvd2lYQWpuT0xTVnNGWHpHNV9taGjSAYQBQVVfeXFMTTF4OVA0VWJ4VmhEYUJwWE9OVVBGcm9WaFlLaVQ2N3VFREhyd21JRW55elBDZWx4R2NGbFFpNzBCem9maWU5UGlsdjhIcFBVU3JZX1NfN0EzRzlrRmtCVEgzeDFIWmcxaGZSTXp0WFV0SUJDY1J6WjB1cHlRZExQX2VoZEd0?oc=5",
       "source": "DW.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "feb89a9d8b45"
-    },
-    {
-      "title": "Dealing with drone disruption: Luxembourg researchers aim to make skies safer - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHlqRVlrUHdYcUgwU1FJUFVQMFhoa2ZsNUl0X2wxRF95eFZXTWpqeDA2YnNKdVh3elljeG9IcTdCWF8wVXJ3UVZJaXNtdVlweGs0cnk1NHM1bXpyNUItdXhsTWd5dUVsckNEMjFtb2x6anB0X3IxZm5zZW9uZ3I1SklKTk9nU0txaWU0ZVFleVREY0wtZDEtR1dZUGlEOEgzMmFLcXF6N1l1ODJqQ3k1cklWYVhsOVZBRmEtX1RNZTNUc25h?oc=5",
-      "source": "Luxembourg Times",
-      "date": "2026-02-21T15:44:44+00:00",
-      "description": "Dealing with drone disruption: Luxembourg researchers aim to make skies safer  Luxembourg Times",
-      "query": "drone airport disruption",
-      "detected_at": "2026-02-21T16:07:22.790695+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "8525b498104e"
     }
   ],
-  "last_updated": "2026-03-15T04:49:23.490975+00:00",
+  "last_updated": "2026-03-15T05:33:28.036783+00:00",
   "total_count": 1000
 }
