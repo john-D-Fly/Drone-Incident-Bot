@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xb0RBdGJkUjlfbnQzb1NZTzVfNHVRdXVJa1hiWVpVT3NDLWtSalJOaGFHOTZtVXI5aTd4X0ZfQ09aT2I0Wk05ZW8tcno4VGFfWWtoYk94RUNpSWZoZFNaYWRHMkZCMVQ5S3VtZ2NMSlNQZw?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-13T13:42:09+00:00",
+      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  AOL.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-15T07:22:01.521381+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "af69365611a3"
+    },
+    {
+      "title": "Police drone helps officers track, arrest suspect after reported battery on Las Vegas Strip - KBTX News 3",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkphX1UzUlgwYnduWWhhQ3lwQlV2VTU2bDFMSHFEelpkZnVTNmdqQjl2XzRaQU0tNUotUU1kMllTT2VWS3l0NkRGTnIyaHpJdEQ1SG00dlRNTEdJU0IzRkpydG1raWtfckhYZkVyd0JubUVWTWh6UXdvUm1lSTVlVjVZVTZZX3ZNQXUzMWdRekFhZnlibXliRVpzQnNpQnMtdFB6NUdveXJkREk2LUxyV1pISG8wNzlpTERldENMcGo5T0VT?oc=5",
+      "source": "KBTX News 3",
+      "date": "2026-03-14T12:28:16+00:00",
+      "description": "Police drone helps officers track, arrest suspect after reported battery on Las Vegas Strip  KBTX News 3",
+      "query": "drone arrest",
+      "detected_at": "2026-03-15T07:21:58.010638+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "3f6f5287aa7f"
+    },
+    {
       "title": "Fact Check: Is Iran Planning Drone Attacks on California? What the Reports Actually Say - Palestine Chronicle",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazFDdGdFZGI5ZWdNTU42Mjh1dno3TFpDSS02WjdNdEZyVzRhcE4wbmlULUJaUXo5N1laLUE1NDZGbFQ0ZW0zd0toTU54akR1anlZNUYwZkJrRGdMY0FHYVEtZ2RJc1RiaWJXQjc0ZTZyZ3R4M3RiWHlyRUZNUG54SFU1d2E0QVU1aGpOYUpjS0hIT2g4NmVkZXk5TG13U2JMdTFpRXRSaXRqck5oSDZLY1N0ZXNROWVTVTZvb2hR?oc=5",
       "source": "Palestine Chronicle",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "8c75fa3a8c83"
-    },
-    {
-      "title": "Four injured in violent incident in Kafr Kana - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5maDRsWVVtQktMakpyZUgtaE9aNlF0WjZOT2dtcEc2X2drc3F6TUtOeXdIaUlzbm5HQWdBeXpnb1phSWVxSXNQQ29sT0o3Q1dhZ1otcGVFSTk5MGZwTkxKNTNTQVVNWWw3TDVWRnVEM21zUQ?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-02-21T21:25:46+00:00",
-      "description": "Four injured in violent incident in Kafr Kana  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-02-22T00:30:47.123864+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cd349930fbcf"
-    },
-    {
-      "title": "Dealing with drone disruption: Luxembourg researchers aim to make skies safer - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHlqRVlrUHdYcUgwU1FJUFVQMFhoa2ZsNUl0X2wxRF95eFZXTWpqeDA2YnNKdVh3elljeG9IcTdCWF8wVXJ3UVZJaXNtdVlweGs0cnk1NHM1bXpyNUItdXhsTWd5dUVsckNEMjFtb2x6anB0X3IxZm5zZW9uZ3I1SklKTk9nU0txaWU0ZVFleVREY0wtZDEtR1dZUGlEOEgzMmFLcXF6N1l1ODJqQ3k1cklWYVhsOVZBRmEtX1RNZTNUc25h?oc=5",
-      "source": "Luxembourg Times",
-      "date": "2026-02-21T16:00:00+00:00",
-      "description": "Dealing with drone disruption: Luxembourg researchers aim to make skies safer  Luxembourg Times",
-      "query": "drone airport disruption",
-      "detected_at": "2026-02-21T22:06:15.099653+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "1d0e913da95a"
     }
   ],
-  "last_updated": "2026-03-15T06:24:35.518380+00:00",
+  "last_updated": "2026-03-15T07:22:02.597516+00:00",
   "total_count": 1000
 }
