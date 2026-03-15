@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a notable increase in drone-related incidents, primarily focused on smuggling and security concerns across multiple regions. Reports from Punjab indicate the dismantling of cross-border arms and drug smuggling modules, with six arrests. In Russia, drone debris sparked a fire at an oil facility, while police in Las Vegas utilized drones for arrests related to reported assaults. Concerns about drone attacks have been raised in relation to Iranian threats against California and increased security measures in Pakistan regarding Taliban drone activities. Additionally, drone crashes in Dubai caused significant fire incidents, emphasizing the ongoing challenges in drone airspace safety. Overall, the incidents highlight escalating tensions linked to drone use in both criminal and security contexts.",
+  "totals": {
+    "smuggling": 2,
+    "other": 30,
+    "arrest": 6,
+    "terrorism": 5,
+    "airport": 2,
+    "crash": 6,
+    "security": 3,
+    "surveillance": 1,
+    "total_incidents": 68,
+    "by_category": {
+      "airport": 3,
+      "arrest": 5,
+      "crash": 9,
+      "other": 41,
+      "security": 3,
+      "smuggling": 4,
+      "surveillance": 1,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 8,
+      "drone crash": 11,
+      "drone illegal": 2,
+      "drone incident": 14,
+      "drone prison": 1,
+      "drone security breach": 4,
+      "drone smuggling": 4,
+      "drone terrorism": 18,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple incidents indicate a trend in drone usage for smuggling.",
+      "incident_ids": [
+        "d9c05593cc8e",
+        "3c80161efc4a"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Incidents",
+      "rationale": "Significant drone crash incidents in urban areas impacting infrastructure.",
+      "incident_ids": [
+        "ef4eb8968322",
+        "df2c6e4f7d3e",
+        "c0ddeb0a0771c"
+      ]
+    },
+    {
+      "topic": "Terrorism Concerns",
+      "rationale": "Rising threats and incidents tied to drone usage in terrorist activities.",
+      "incident_ids": [
+        "af69365611a3",
+        "3bc763fa1574",
+        "bdc553cb9f30"
+      ]
+    },
+    {
+      "topic": "Security and Policy Responses",
+      "rationale": "Increased discussions on drone regulations and responses to threats.",
+      "incident_ids": [
+        "7b899ce30b5",
+        "0dbe2c3fa391"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d9c05593cc8e",
+      "headline": "Two cross-border arms-drug smuggling modules busted in Punjab; six arrested",
+      "one_sentence": "Authorities in Punjab have arrested six individuals involved in two cross-border arms and drug smuggling operations using drones.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "3bc763fa1574",
+      "headline": "Drone debris sparks fire at oil facility in Russia's Krasnodar region",
+      "one_sentence": "A fire at an oil facility in Russia was sparked by drone debris, causing significant concern for industrial safety.",
+      "risk_tags": [
+        "fire"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6802c62b61cd",
+      "headline": "FBI warns Iran aspired to attack California with drones in retaliation for war",
+      "one_sentence": "The FBI has issued a warning regarding potential drone attacks planned by Iran against California amidst rising tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "68efa8bce8cd",
+      "headline": "Police drone helps officers track, arrest suspect after reported battery on Las Vegas Strip",
+      "one_sentence": "A police drone was instrumental in tracking and arresting a suspect linked to a battery incident on the Las Vegas Strip.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "0d943fcf1fb5",
+      "headline": "Chico police use K-9, drone to search for suspect in reported home burglary",
+      "one_sentence": "Law enforcement in Chico employed a drone alongside a police K-9 to locate a suspect involved in a home burglary.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f26693216eba",
+      "headline": "2 Dead After Drone Crashes in Oman’s Sohar",
+      "one_sentence": "A drone crash in Sohar, Oman, has tragically resulted in the death of two individuals.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Oman"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents highlight security challenges and smuggling operations in various regions over the last 48 hours.",
+    "linkedin": "Recent drone-related incidents demonstrate escalating challenges, from smuggling operations to severe safety risks, indicating the need for tightened security protocols."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-15"
+}
