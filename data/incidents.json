@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Fire reported after drone incident near Dubai airport - Dubai Eye 103.8",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1BiYzZhVGd2VmxUQkpvZ0RXNkFzU3dXbXJjU2Raa01LSW4zRDZaLVd4bzdSMzZobVNrYVBKWUQwS211VFZxcDFkakU4dnA3OFN3ZDlRYTlRU3p1eTFXVWNJNlEzYkFDX0U2SUZtRkZOcnhBX0VsOVB0QnhvN0pMaUFIOHlDekZNcFZGbXNuSDVXc3laMHByTzdn?oc=5",
+      "source": "Dubai Eye 103.8",
+      "date": "2026-03-16T00:04:34+00:00",
+      "description": "Fire reported after drone incident near Dubai airport  Dubai Eye 103.8",
+      "query": "drone incident",
+      "detected_at": "2026-03-16T00:35:03.578318+00:00",
+      "location": "near Dubai airport",
+      "category": "airport",
+      "id": "41e260cae539"
+    },
+    {
+      "title": "Dubai airport news: Videos show fire, explosion near DXB terminal amid drone incident; watch | World News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQXNwZm9RbnZxNmRsLThUQmJpNTlZcm1CcDI1Ykx0YjRnR01VTGhLQWJ1bDAwZXNYNHhWNGFBZklvbEZBUEY3SlBkQUJYSXhGUzItYlBETkI0Zm1WcmdPNFlPb2lsc1cweDB5RWFQZWo4X2lSYnlOTm1Xc1laTlBxbHlYZUFVelNpb081MFo5bThxamFFaTdFQXVnY2NTSEZhX1F0REVxcjlTZmVra25qVnFSdjZzdUgyenJyVUNybHRLdGFob2Z6UFE3enJaSDZaeTd0WGt6OVlFTzdKTzlDeWU4a0Q4bGvSAewBQVVfeXFMTldTZDJQamJ0X0R5b1F6TmdLeXM5b0ViVkFmZkJVMUdWbGFGY0VvWHZDZUxfMTY0cXNuRGo3QkE2bHdCTzdEYVpKY0VrMEJtbUNkam44THE3eUMzYjh6X2ZyaUtWaXpUcUZ4UWpJNWFrcHZ2Y19oSTdFU2RYVmszTFZ4aldOdXA4QlFmRXFJU3VaQjFKaFlqWjNOMUkwa3hiTnV4MEV4VWthbENWMnQyTlZLeVRlQmVqczQ2RjJaNWVCaHVaY0Y0MHQ5dnpYbjRXcXdLSzRZVEl2T2JqU09FQWFvaGJGaTZvX1RKX0Y?oc=5",
+      "source": "Hindustan Times",
+      "date": "2026-03-16T00:26:42+00:00",
+      "description": "Dubai airport news: Videos show fire, explosion near DXB terminal amid drone incident; watch | World News  Hindustan Times",
+      "query": "drone incident",
+      "detected_at": "2026-03-16T00:35:03.578318+00:00",
+      "location": "near DXB terminal amid drone incident",
+      "category": "airport",
+      "id": "51f1238aaa60"
+    },
+    {
+      "title": "Rogue Drone Incident Briefings Underscore D-Fend Solutions’ Counter-Drone Focus - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNNSlhfQUV2UXc1OGs2c0EtTnZqS2JqdGs5bHRPTldDOXlKY0pobXo5RlNFcy1EdG9xU0cxY2xrUHJnWUJCeDdmZ3hTMnd1NEhTOEVaQ2h5Q250Uno4NktfakthMUJpcTFKQjRFZUllOXV2dEgxSWJkN2hzV2h6YmpMNzlDTFhYSm5teTZybUVwa3Y0UTVQUExpUno0QjVWOF9KZndvZFRVcnhkN1pJdGNhd0I4bklGRzhudWVNeWpQMXBs?oc=5",
+      "source": "TipRanks",
+      "date": "2026-03-16T00:07:22+00:00",
+      "description": "Rogue Drone Incident Briefings Underscore D-Fend Solutions’ Counter-Drone Focus  TipRanks",
+      "query": "drone incident",
+      "detected_at": "2026-03-16T00:35:03.578318+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fa641dacb757"
+    },
+    {
       "title": "Prisoner brags he 'ordered Five Guys burger that was delivered to his cell by DRONE' in shock TikTok video - The Sun",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVY0b1kyRHFEUFBMOGhodW15RGZCVnQyRWdWYV93SmNqUUpiQ05mTWdFajlRMmRncnJlLXA4bk1LUGNPZm5Xa2I4WGNMajNnMTZkNHZmX1gwVjFLMW42T29jV3ROdTgwRDZWUG5PVDd5S0VtWEYxQ0NmeWF2TzY3UlRERVppOEFwNFQ1VER1OXlSMU9KMEdLUUdNbEFaTEtq?oc=5",
       "source": "The Sun",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "a932041651e0"
-    },
-    {
-      "title": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzlPS3hScjdHQ3hiV2RzRTc1aWk3bDRFdHZrcWdxVkFidGdzTUQxQkdJUzZxaE0yUkxYdzFxUWY5WGkwdFVjVmthVWd5dUdaakZaRVpEZEZQMTNXNkNJcmcxWC13UlE3ZkZCbDB2N3lwRVIwTERYMXNPUlF3VmY0bHNTUkZvRHc?oc=5",
-      "source": "AOL.com",
-      "date": "2026-02-23T08:20:02+00:00",
-      "description": "Navy Base Shoots Down Unauthorized Drone, But The Pilot Was One Of Their Own  AOL.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-02-23T14:22:20.655987+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "65e0d1f8e747"
-    },
-    {
-      "title": "Army Thwarts Drug Smuggling Attempt via Drone... - Jordan News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXVuekFKX1NjbVV0R3ItQzFrbHo2ZGstU2dnVF94WmEzNlh1RXRMMVJwZ3hNNzBVQThqT2VDcXkwUTJ0N2I1Z1JtTjN6a1BtVUk5Z25BeDRHMk1tdjBSalV5d1ZhWUhVaGtScGNlUDBKSEJFRFVXYUphaGd0WFFraldtQWN3LXd4NXY3b3N2WlVZN3RVVjBGdnN3?oc=5",
-      "source": "Jordan News",
-      "date": "2026-02-23T13:00:14+00:00",
-      "description": "Army Thwarts Drug Smuggling Attempt via Drone...  Jordan News",
-      "query": "drone smuggling",
-      "detected_at": "2026-02-23T14:22:16.287110+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c5258f1aa8c2"
-    },
-    {
-      "title": "A residential building in Krasnodar was damaged by a drone attack. - Caucasian Knot",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91ZGRCdmVTaXFiLTd0Mk40SVk3ZXdMel9LWUpMazA1VjF3bHRpVkpxWXlPRG80WTFUeFhiTU5NaWdJN3NNTGZqNV9rTVR4WHNyaUdqMWlkek0?oc=5",
-      "source": "Caucasian Knot",
-      "date": "2026-02-23T09:57:00+00:00",
-      "description": "A residential building in Krasnodar was damaged by a drone attack.  Caucasian Knot",
-      "query": "drone incident",
-      "detected_at": "2026-02-23T13:32:23.773249+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "68d7623542b2"
     }
   ],
-  "last_updated": "2026-03-15T23:09:13.093526+00:00",
+  "last_updated": "2026-03-16T00:35:09.183260+00:00",
   "total_count": 1000
 }
