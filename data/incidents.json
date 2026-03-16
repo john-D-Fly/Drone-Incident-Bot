@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Russian “Lancet” AI drone crashes in central Kyiv - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVJCeG1vV3ZNUk1UQzVHUUhEVzJ5aDVJQlpnb3lVdXlyV3NvVi1ad1d4VWx4Y2hSdFJiSGlDRF83aXpPOExCSFFJbndoUGtpWU9sTHk2Tmt6TWFvZWlRMThXN2lTTmxxM0dwdzdBZjJ3cTA1R242UF9Ra1VmeFV3bG5FbHJfR1k?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-03-16T12:59:33+00:00",
+      "description": "Russian “Lancet” AI drone crashes in central Kyiv  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-03-16T19:25:39.041762+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8560d8f4b5e0"
+    },
+    {
+      "title": "Drone strike disrupts ops at Dubai airport; landing suspended, flights cancelled - Tribune India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHlvTUZKd1ktRFc0WkJWaWczZmJzMXFfdmlmbmdkcVpGclJwV0pEZ1VsUXN5dHlubXEyQzBQZ3JCU3Y2d1BJVl9hZ3Bjdi1QLWF0M1FOY1ZWZjVjWVVfcnBoVlBQUVhqU0FOcngwZ1ZMN29HeTFUcWNXVWptLV85ekV4MjVzeTU3Z3ROcjVuenN5QnBSLVVQZ3I4VXdjcWNQeTJadF80dUlPczdUZUh5WXJId3I1c1RTTXFV0gG_AUFVX3lxTFB5N1F0RW44ZVVGYnhYajJwRG9tRXhmY2NXblo2eVZwRVY5SGJBS0lUY1dpRlZ1eFZXdy1uTTEwd2dSSHpGN3BQSEUxVjc4aGJKQ2lFTmdzbHA0c3d5NkhGOUxDYm5ETjhBbHZEQkk3TXVEREtlMjB4enRmdERvMGVKS3lUbmlmVXNMeFlGZ25lZEpDdnZMOU9RdHJ4NnRod1lFZWlHaTBtVS0tVnBFLTVaNC1GUFZIUlV0cVlyTVhJ?oc=5",
+      "source": "Tribune India",
+      "date": "2026-03-16T18:41:43+00:00",
+      "description": "Drone strike disrupts ops at Dubai airport; landing suspended, flights cancelled  Tribune India",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-16T19:25:38.447354+00:00",
+      "location": "at Dubai airport",
+      "category": "airport",
+      "id": "22d3276a73be"
+    },
+    {
+      "title": "Drone strike halts flights at Dubai airport - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd293clBKT09XajR6bzdVZHdzUFpBTzVpQWx1WnBVbzVCWFdNeG93OFlzdVZCY3kyQUVzcDFPLURyQ3VKRVRodXpOMm5XdVZueV9PMWJoZ2lXZGZ6elN0V1R3eU8yVHBPaWJOejQ5aVZoUU5WWDZQYjZ2cndaS0pPSG9fZnRaVjlmNHVYOUNVSkNrT191Mk9NdnpuZjlhSjBjdFZabTN4LVd0aEtnUzJWQ2J3dFhxeHNCU19GTG0tR2ZzY1p5bWxWR2JYSFJFeTMtczNrWEQ1ZXJHWFlidHc?oc=5",
+      "source": "MSN",
+      "date": "2026-03-16T15:39:15+00:00",
+      "description": "Drone strike halts flights at Dubai airport  MSN",
+      "query": "drone incident",
+      "detected_at": "2026-03-16T19:25:36.099386+00:00",
+      "location": "at Dubai airport",
+      "category": "airport",
+      "id": "4afb8eb8444d"
+    },
+    {
       "title": "Dubai arrests Iranian drone strike survivors after they sent explosion photos to loved ones | Trending - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOEFkNlVoMDJDREY0MENVX1JvWVlLdlZReXBScFVFOG5oNElybG9sckh3cHdvY043bXdIUEpnb0Yzb3JtZGxqZmhOUFNmZTEzUE40WGpVZ0RzSTFOMTFseXA0TjFCSWVMdk81WldRU1Fsa0JoSWRobm9ScmtzYlJqWG91SklULTFpb0xVZmdoVVc2bXpjQ2FuczhKaWUxMm1SZmI1RnhjbGlLblRfcnZrUHRyckFIMTBRaU5GNkxVRGpYU1hVMmxWYXp4RFVZWVlLcWctQWNLZWtMSlk0TEF6cDZCdzNwQnfSAewBQVVfeXFMTm50SjlQVXA4WWJZVFE3eUhNeUNSU2xEWkVDaDdJSjJ2c0NDVGZHandYSmhBLUNta19vV1A0T0VCOFlFekFNU1dTSTBOM0VFalMtZnkxcElkMTlXMjJETjFsU3pmNHdLUjBmdzBmSW9pNGduZHRfc245RDZSdXc3Mk1ERkN6MVpnb19pQU5FQkFVSmV3bk5FeHBqNmRsVGItdWFBSWdFMUl0eGhGa1lmZks4V2xTeXE2X284SFlyYTQ1emlYMkZkYWNtXzNlcVQwZFFOem5xRXU3X0lrM0dNZHNJU0t6TVBDTzVGS0I?oc=5",
       "source": "Hindustan Times",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "79b2194dd1a3"
-    },
-    {
-      "title": "Russian drone approached France’s flagship aircraft carrier while docked in Sweden - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1JJNmpRYk1VTGE0RWpTcjJDTkpIaWEzV3BiSGNYQWxvUWs1M0JkejBoUm1XRC04d1FQX3lNUEZvMVVUcXBzeFBYX3piREFrTFI0Um5oaVhtUjkzVmx0bXlucm1SdUFuYWtUNGdfVnE1enk1N2tZSUNXeWVzdTJNVHdzdUc3c1FNRXE0WlhKM29faG5aVEx6VzJMSWtuUU1vNFUzZzg3TkNub192eVVqUEpLZkF6eDYxN2ZhRE1n?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2026-02-26T18:49:45+00:00",
-      "description": "Russian drone approached France’s flagship aircraft carrier while docked in Sweden  Euromaidan Press",
-      "query": "drone incident",
-      "detected_at": "2026-02-26T19:19:39.039808+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e6d54ee0481c"
-    },
-    {
-      "title": "Drones, dark web, sleeper cells: How India plans to tackle Pak-sponsored terror - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd2gxTnBTcWNlRnRmOG44Y0J5UzBjMG1MdGQzTWd5dGtFbW9qNFJycndZbWlzei1ZNzAtc1F3eXJaeUR2RFpiT2t6NjRCZ0E0aFNUUjJ1QTJPX1hacEZSVXlwUDBqZHlGRVRGaDJvSWZRSHJSV0dMdG9MajBHQklRTUpOQnl6Mm9TOXNXekVnZnhySmx1RDJfbWtBb0U0MnhIdmtXY1p3YnFaRFgtLV9Pdk1tN000TU9NdWVhTUVoZWFVekNjUzVBSXdJYVR4QVdpTGdoZE1jMUJRa0M1SWpRWUZfcDVXVFl6N2VhX2dQZk1uTktWUGRn0gH8AUFVX3lxTE1TOVlaREw3OGhsMjN5eVJiakZTeWFuRXI4eXQ2RUt4UkxHMU0tQTE4eDlNUVkteWRKZDNBOUJSWTVhRS1tQkl2dGRWa3VXZmV2aDJPUXpCa0Y1bEFGX3M5cnZEaWNpZzNuZHgweEx5M2FNSG9aZnRwQWxZbkVaU3ZEVkVPb1dhWnhWTDNDZ2ZaWmMtQml6TkF0dHVDd0tDVGxuWE4xOWRRb2t5ekR2OVVvT0tOOGNmd1hJc2RoRkJGZUNLVEhGRjZTU3RFSGlRSnhWN2ZDTzRuTUx0eDYwalFETEMwT25rdUt4ZGZ3dWZ1U25GdEdqWWNSZ0lyUg?oc=5",
-      "source": "The Times of India",
-      "date": "2026-02-26T08:35:00+00:00",
-      "description": "Drones, dark web, sleeper cells: How India plans to tackle Pak-sponsored terror  The Times of India",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-26T18:18:35.915493+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "8fca03d01c44"
-    },
-    {
-      "title": "NATO scrambled as Russian drone heads for Europe's biggest aircraft carrier - the-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTRVVUkyT0dqWHQ4a2VHcXBoalZwa21HcFlnUUhWQndiUHpPLXREQ1diREJBejkxVjFTLUZERWVuODhKNGRnVUhjeEVJMDdwUjlZUEN3U0U5M0l2Z1E4V0EtbUY0NHkzZU5mT3VpVkFFRk1Ra2VlY3MyTjRCcHdWdE9sSFoxdTk2WW9UbU8yU04?oc=5",
-      "source": "the-sun.com",
-      "date": "2026-02-26T15:58:28+00:00",
-      "description": "NATO scrambled as Russian drone heads for Europe's biggest aircraft carrier  the-sun.com",
-      "query": "drone incident",
-      "detected_at": "2026-02-26T18:18:30.820519+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a7494532f935"
     }
   ],
-  "last_updated": "2026-03-16T18:23:36.672682+00:00",
+  "last_updated": "2026-03-16T19:25:41.861013+00:00",
   "total_count": 1000
 }
