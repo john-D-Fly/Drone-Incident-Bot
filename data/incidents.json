@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEZJVlN4NURSU3RUYXg4QzJueHFfc3h6bmM4T3ZoNGhnRkVTLUVIVFB3TDdfN3M4cFJIb3VYNUxZWmpqelJwQXBydHBMdHJjbU9SNW43REpHdnlwaWh1bkt0MHdDb2pjRkxDYk5HVUlTN0dsUzgweFh3Vy1hOVNpcVJWdlhrOXRPdlpraVJncWsyYk5TTUpoZGllNHZ3ekg3THhxLS1BXzNObVXSAbABQVVfeXFMTmItejg1aDdhRF81alZpSFpFNC1td3hEVFFyaU1xTlNyd2x5UTk1VDQxRks1SVFRYlUtX1B5UUYxVFA2NTJKaW9wcFVOblJoZFF4cV80ZFVPajFQZ3VNOWJIXzBjYVFiMFJnd0dhcHNVdm9QTEV2YlYwUk5qZy1vTnZ4X0NUanBGZ1cxeHhLaFo2Q0NfMEFTYm03aC1FOHJKMHc3eWZRMnh5V3RzSkp5dTk?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-03-16T11:44:54+00:00",
+      "description": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-03-16T12:21:17.712366+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "745eae431ca9"
+    },
+    {
       "title": "Ukrainian Drone Strikes Cost Russian Oil Industry Over $12 Billion - UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbklQNTB0cHZCdjN3aFNyY25DY0E4TXd1Z3BJbnlsUi1JaDRfMzNQdkFleVVVcFpGTVlSWTNWT2VLTThXVTJYR3lxMExMWXBBZ25aZzlsc01NcG12cVhKUThoMWM0ZFNzUExqNnQyMnRvNnk2V19OUmh4TXQzT2JVZlpGWWtRcl9iazYxV2tSWVRtTXFZLUd5RzV4VEx4ZlpoY3JGOElZbWV4TFpQeWc?oc=5",
       "source": "UNITED24 Media",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "645193a74fc6"
-    },
-    {
-      "title": "Russian Drone Crash Sparks Fire in Chernihiv Region Home - Букви",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2RnOHZHUFZFTFdoRHZlaEllcGxvLUpnZmVaUXZERzJ3OHdjUS1CdmUxS0hOMTZMNk1vMVl1NFR4X2VUUU9UWTFEcVpRX2xYOHNfM0ZmblhuaU1OTnhuLWR3ZkFpY29QOE1XY2I2allrWUhBUllhYnVCOEUwRGhqU1NFdHBpQ1RVLXUxNHRB?oc=5",
-      "source": "Букви",
-      "date": "2026-02-26T06:49:46+00:00",
-      "description": "Russian Drone Crash Sparks Fire in Chernihiv Region Home  Букви",
-      "query": "drone incident",
-      "detected_at": "2026-02-26T07:24:42.836472+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a3fd58ebd19f"
     }
   ],
-  "last_updated": "2026-03-16T11:21:06.856119+00:00",
+  "last_updated": "2026-03-16T12:21:23.909236+00:00",
   "total_count": 1000
 }
