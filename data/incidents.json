@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "UAE temporarily closes airspace as Middle East war forces wider flight disruptions - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlBqbkN5MzZpX1k5bUpLZ216ZlJPZzJSXzhTV2k5M1NsTy1ZMFFfM1lJWHJwT0Nod1VXTTNCakVNeG5QeFJMQ0NLTmp0bVVNZHp4SWNKNWtzSkIxOTBhMkRuY3FqTUcxYVFReTRVV29uOV9zMDdTZEYxeUw4SUhHRTB6TmVpbFAzMEpJRlFjZ1BlTms4UW1ZZ0VvNGNjQzd2VWhPVHZ4QdIBrAFBVV95cUxOMUE0QzQ5S3pIZVFfZDgzcjF4Y3ZKWHlTU2FTb0R2ek9KQWEzSGFyN0NhMTFqQzdSdlN6VmVaQXdWY1k5NlZ4VngwRnZ1ajhWc0s0QlpGWVplaWZmMDZFQXVzT1FWR3NISmlnTGppR1RrU0tjaDVPRHNvQ2Y0Z0V4SU1CTk9KQ2JBR0lINEhYQ215dzFEMlpZM19PMUs5azhZUWFTOGpWdzNzUEtj?oc=5",
+      "source": "CNBC",
+      "date": "2026-03-17T00:58:00+00:00",
+      "description": "UAE temporarily closes airspace as Middle East war forces wider flight disruptions  CNBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-17T01:36:53.749794+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "eb3f3b045a12"
+    },
+    {
+      "title": "Drone Strike Forces Dubai Airport Shutdown And Cancellations - Evrim Ağacı",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmFjSXVSODA2cUE3VV9zVDRTLTloUnJNdkFJSFdhaU9zbk9EWEJYOEs1QU9qbzNEY1dHZC1fUGxBZE1Zc1ZjX3lLTjhoaFphQ1VueHU3TzR0VHlTNjZ3VExhN1pFMXJzR3lTQXlRQWwwYmZZX1J5Y3ZLbE9EMmVpUzNhMUdLeTRPN1pmUlZlODROV3NmUTczTExR?oc=5",
+      "source": "Evrim Ağacı",
+      "date": "2026-03-16T15:21:11+00:00",
+      "description": "Drone Strike Forces Dubai Airport Shutdown And Cancellations  Evrim Ağacı",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-17T01:36:53.749794+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "046facadb2a3"
+    },
+    {
+      "title": "Three “traumatised” survivors of an Iranian drone strike in Dubai have been arrested after sending photos to their loved ones - an act that violates local security laws in the authoritarian Gulf city. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZk85YVJ1bzg3Qy1TN2hQWUxtU0k5V2Jpd3JoVTVFXzMwcTRSR3NJY29WaXMwRmM0ekpPUmEwOVR1SE04TWthSkFJMGE0YjRPSmIwTldVcHJndXhTSG9xemQ1VVJ5QVpOU1pMeDI0R29nRkQyWVgxVXFJQmRkckRFUnVnS0NqLWtiVnJWZENLaEdxRlJiY2R2TVY0M1ZSSE4wZ3UwVE9FSUpkVHl4QmktcG5NZkVOTW9TTVczc0lDQ3FRRW14MU9wUktyMU9nby1oU1ZvWkd1Q2VYeHRaYTUw?oc=5",
+      "source": "facebook.com",
+      "date": "2026-03-16T23:35:20+00:00",
+      "description": "Three “traumatised” survivors of an Iranian drone strike in Dubai have been arrested after sending photos to their loved ones - an act that violates local security laws in the authoritarian Gulf city.  facebook.com",
+      "query": "drone arrest",
+      "detected_at": "2026-03-17T01:36:51.657900+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "5ea52e68e354"
+    },
+    {
+      "title": "Death toll in UAE rises to 7; drone incident near DXB temporarily disrupts flights - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFJBVEdUSE1LOVhpc2tzUlpXQmhnT1BIX3Bmd0ozTENPel9ZclRKN0NGMTNnU21VTjhsR1BiNEJPRGVCYXVURjZ5Z1pLZ3pNT2Y0VFNXSlVuMmc1TEV4RjFSQlJxZHk1elNETWo2OTY1YVBRVmNSZFp2cDk0WTEzRkxNU1E?oc=5",
+      "source": "Khaleej Times",
+      "date": "2026-03-16T03:24:42+00:00",
+      "description": "Death toll in UAE rises to 7; drone incident near DXB temporarily disrupts flights  Khaleej Times",
+      "query": "drone incident",
+      "detected_at": "2026-03-17T01:36:50.930376+00:00",
+      "location": "near DXB temporarily disrupts flights",
+      "category": "interference",
+      "id": "3071b6c2fac6"
+    },
+    {
       "title": "Drone attack targets Balad air base in Saladin - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2RDNWVOYkdHWlNBY0FNSDVDVnZpWE1TQVlwMGJmUGhlYUhEcXFCc3ZFWGQzWW5EZ0JiUnpHWFVCZmlqdEJkdTJ3NHB0WC0yVDVwTm5YWEhMUkNMVkRHVHozcUE0U3F6bWYwQU1iS1ZjUDVPdzJJSEkxTmdHTWtCbFpwaw?oc=5",
       "source": "شفق نيوز",
@@ -11951,56 +11999,8 @@
       "location": "at Da Nang airport",
       "category": "airport",
       "id": "e2c1e83863e3"
-    },
-    {
-      "title": "FAA restricts Texas airspace after drone incident - breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRl9hX2lIV2dWZ0ljWjdVeWRHdWxPOExfRWdVMHY0MlRFRzBTTVVEajB5c3g3dC1hcC1FenYwSDNEMENFQXhZT3dzWWY1ZmdybWhlR1NXQnB4NzU3dEVsMDYwejlQYndiN0d3OUc2cjJlcWZsYzViNjFJbEV6akU4aTlWeklUcFpNX2U0TVdnbElzSWZrOW5BcUVn?oc=5",
-      "source": "breakingthenews.net",
-      "date": "2026-02-27T03:23:00+00:00",
-      "description": "FAA restricts Texas airspace after drone incident  breakingthenews.net",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T04:36:15.334769+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "afe6e0097864"
-    },
-    {
-      "title": "US military accidentally shoots down own drone at Texas border, lawmakers say - FOX 10 Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnVMbjc5S0ZhTy1ubURkTm15aHlJLWhyWnVsT0hrZnphVjBqQlNVR251cUVkLU5fS1ZBNDNlby1fY2tnTE56UGY2QTJlN1docTF5bTJFRDFuTm5UWUhBQWFtVUhhaVlmclNraTBGa1oyNF9sT2x0LXNSUm9VNy1nV3ZRblVtS3ptU1hlONIBkgFBVV95cUxOdjR4bzNZaXNfN2NlcXBsT0FUZ1ZvMzBjUnBtMFF6emN0T29BaXBqelFmSVZZZFc5UDFPSHN3WGJOYWF5Q255WmM0bThkOUh5cnhkWGkyYk1maC1WOWhfUE1Gd3Jta3hXUGdlYU1HSWdsUmY1RE5HYmtjRzhKWFd1OV81REcwR2RoejJ6OFNuREFNUQ?oc=5",
-      "source": "FOX 10 Phoenix",
-      "date": "2026-02-27T03:06:55+00:00",
-      "description": "US military accidentally shoots down own drone at Texas border, lawmakers say  FOX 10 Phoenix",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T04:36:15.334769+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6b7754ff485e"
-    },
-    {
-      "title": "US military laser shoots down government drone in Texas incident - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzdsbjhTcVI5ZmNaV01iMFFMVDd5M0dzZDJIalRWdVpvR1c4Zl9kQnJmVllaT3h5b0E0RzhmODZpZ2k3RzQ3QWJ1cDcwX2VacXViUUo4aGdhTDNzZFF3cUlFcUFKN1BjeTV6aVA0ZEUtZkF0VEU3ZXJXX3E3MU5aNXUxeUEtbmw2RE9WaHFsYXlranhKdnlxS1V2QTRhcDJCR1VMNlItSENyQVN1M2w5QTVMOEZqVXYyUFA2bEZpUmVWNWJlLXBIOVFR0gHKAUFVX3lxTFAxWVpOZ1JuVVkteFQtc3dxR2FSbnBMMnZuR2FGMDVHNW5DdmRzanhoMVNJTkdwMldndFo0MTZSZmZSTG4yWlNKazBBRnRkUmdPaDRIQnpUQS1WR2JLYWpoV0VkY1ltSFNqNDA4ZkNVUjZ2bzhkQWNwN2FkYV9hakJUZ0FfLXdaMUV6c1ZBVGM2bS1UTFJoQTkxMzBGcHdiYnBDWEJJVVp1WEJfbkt2VHBzUFBfUGJzXzdkdGcxVGlhaHF6am9TYURJUkE?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-02-27T03:36:29+00:00",
-      "description": "US military laser shoots down government drone in Texas incident  South China Morning Post",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T04:36:15.334769+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a9df3debf928"
-    },
-    {
-      "title": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1drelpqVG9qcGlYY1lzdzhzYmNKOXVwUWZwc1RuM1hrSnNGXzRFVDh0QjVHcVJ6M2xUMUxvRzZWaTBLVHVNN3lGcXh2aHB0VkFLZDFmekpPV1RGQ1hkT0ZsX0x2UFFuRk1kblZzbFp3V3h1Y1JzaTFmOEt1UkIybXRJVzNWNkx6NHRtWXBibWNLRThpd0NxcUY2bElQekVnTmp1bzdqQmc2YWZlaW1XRWhYR04?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-02-27T03:16:00+00:00",
-      "description": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T04:36:15.334769+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9589ef96a948"
     }
   ],
-  "last_updated": "2026-03-17T00:29:55.961056+00:00",
+  "last_updated": "2026-03-17T01:36:57.653451+00:00",
   "total_count": 1000
 }
