@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Tourist drones disrupt 83 flights, trigger military action in Vietnam - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OREF2REZ0UmFMVkZnRmZOZ2VPa2hTNUpzWGloVzdzZ0NDZ0hSMEo5RTJ0ZldSX2g3MHByRFc0OE9ucEZkYlJYRXZLaDJkbEpRbmhYV0hyZnhfWjl2aldCR3g0RFhFMXBsYkprelhR?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-03-17T07:22:29+00:00",
+      "description": "Tourist drones disrupt 83 flights, trigger military action in Vietnam  DroneDJ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-17T07:26:15.848777+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "73c989894adc"
+    },
+    {
+      "title": "Rocket and Drone Attacks Targeted Baghdad International Airport and Counter-Terrorism’s HQ in Baghdad - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GY19HV0hzdXlXZ0JmNXNZNEc4ODlOazRFdjBfR19NR3lCcEgxYmotXzgwUEY3aFBHbHFuVnZnMFU1Y3p1WFpBRHhQdUNuSHRsS2NWTXFR?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-03-16T21:00:00+00:00",
+      "description": "Rocket and Drone Attacks Targeted Baghdad International Airport and Counter-Terrorism’s HQ in Baghdad  Kurdistan24",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-17T07:26:15.223339+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "308f63164ff3"
+    },
+    {
+      "title": "Rogue drone pilots face new FAA tracking system - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBOHFtSGdOLXY4aHBOM1UyRzRnNmdsd2pRcGFvMUhRYnFaV2N2REdKN3JlYnQ3dm1mbHFEZXQ1bXA3V0VUYnp6Y29FTWVkLV9MZjNybTNPNUpkX1dZM2NhdE9KWDloQUNnUXMzUElWaw?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-03-17T07:12:18+00:00",
+      "description": "Rogue drone pilots face new FAA tracking system  DroneDJ",
+      "query": "drone illegal",
+      "detected_at": "2026-03-17T07:26:14.083688+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "edc4905f86fc"
+    },
+    {
+      "title": "Dubai Airport Disruptions After Drone Attack Hits Fuel Facility - newspress.co.in",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNk55UUwwVHVZT3kxRnFWVzMyaEg4MUd0UExvZFZQS1pMRE5xbHZKQlRQVWtJOVl5eWwzUUtNYXBhTEJlSk9RNGNSSXkxZ0cyTDM4RkFKc1FJSXpEUXZ0MXdEc1YyUjdrTFNQbnY1d2FfekI2NDVGWmQ1bEM4eEhVNWVmcmtaWm1SU0kwSm1rUVZmdw?oc=5",
+      "source": "newspress.co.in",
+      "date": "2026-03-17T07:11:32+00:00",
+      "description": "Dubai Airport Disruptions After Drone Attack Hits Fuel Facility  newspress.co.in",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-17T07:26:12.992498+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d27b74b33282"
+    },
+    {
+      "title": "Dubai resumes flights after drone incident - TravelMole",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEhOX21jMzNoY05mODRUWU1YT1hmMFNLOXU4UHB3WVpjazJ4UHprcGFmamFRODdnd3IwNTNDaFo1Z3M1c2VsXzhzOThXbGNXRF9YbTFCekExck42dnh0YVRYNnNPb3FBV3Jfb0NGWVB5M1N6N1BLRXB5RWhMc2o3Ug?oc=5",
+      "source": "TravelMole",
+      "date": "2026-03-17T05:46:59+00:00",
+      "description": "Dubai resumes flights after drone incident  TravelMole",
+      "query": "drone incident",
+      "detected_at": "2026-03-17T07:26:10.860403+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dabc72ddc126"
+    },
+    {
+      "title": "Chaos In Dubai: Foreign Carriers Barred From DXB After Drone Hits Fuel Tank - Simple Flying",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVHpSNC0xb3lISFBBZjhjTWdmcmNydlVVM2xZTDRhOUdLYnRxNUxJLTVPaDFaTWM2cEpGN0JlYV96VFhxSjVoeEhfTUE0VU9aSHJVSjBELUNfcEp2Z2l6bVBNVjVIS0xEV2FjcXFkc21CTjF2RTRvYkJkMlBDcVF5TXVSR3VyeE14?oc=5",
+      "source": "Simple Flying",
+      "date": "2026-03-17T04:02:46+00:00",
+      "description": "Chaos In Dubai: Foreign Carriers Barred From DXB After Drone Hits Fuel Tank  Simple Flying",
+      "query": "drone incident",
+      "detected_at": "2026-03-17T07:26:10.860403+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "88785a295c51"
+    },
+    {
+      "title": "UAE suspends Shah gas field operations after drone attack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2pTaGZWZzBITzVpMmFoMlZld1ZmcFhzUDh6aVp4Nkp4ODRvc2dZcjN0ai1aVk5yenVIcEFSTHp0V3JTRFNVRElJQ1NZblh6SWdqWHNEUVg1ZU80SXpucGRKcnlyNVBUTC04Q2M2Ymo0eFl3VnRJVXcyWk4zQ05yTGZHMk4xN0JtN0x1RUZFZzNtZ1hacklzNTlyM3hDVklSYkxsNzk4X3dUZU01b1dqZlNWWUVPeXE0aWREWkpyRWdVZjVFMGg4Qw?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-16T21:27:44+00:00",
+      "description": "UAE suspends Shah gas field operations after drone attack  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-03-17T07:26:10.860403+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7978b2c4d471"
+    },
+    {
       "title": "Two Emirates Flights from Indonesia Diverted After UAE Drone Crash - Tempo.co English",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWpvTHllYy1IVVJqcUdrTEVBc2tUdXUzaW9Ud2JBTmw3Q1NNclJyTE9pTURuTlNMOXhHRC13SHMwaVdzNkpnSnp6aXlvSXZNMkJWUGtnTjZwWUxVMXo4UTZnbFRyVjZWb0xJdzFvLUdURWxvNDhpMHlESFNGOEk5RjRhYkMtLUNfWGItZDlSY3VCbFU1Mk5PeGlQZ1RHeVdR?oc=5",
       "source": "Tempo.co English",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "6481d97570e3"
-    },
-    {
-      "title": "🚨🇺🇸 BREAKING: FAA closed airspace near Fort Hancock, Texas after a military laser system accidentally shot down a US government drone. Earlier this month, the same type of system shut down El Paso's airport for eight hours after border agents used it to s - x.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ydXkxQXNFS0R2NkJsMnZLaTJRRTR4cFd4OEN0Ui1VMWF6T0Q2dWJFXzd2TlBMaEtERWx3RTFiaVJseU1YRWNXbGtvbkttdGxsUTYxbV9aeTR4SEczRXVvbDZR?oc=5",
-      "source": "x.com",
-      "date": "2026-02-27T02:36:16+00:00",
-      "description": "🚨🇺🇸 BREAKING: FAA closed airspace near Fort Hancock, Texas after a military laser system accidentally shot down a US government drone. Earlier this month, the same type of system shut down El Paso's airport for eight hours after border agents used it to s  x.com",
-      "query": "drone crash",
-      "detected_at": "2026-02-27T09:16:56.157295+00:00",
-      "location": "near Fort Hancock",
-      "category": "airport",
-      "id": "647a01d01aea"
-    },
-    {
-      "title": "Texas airspace closed after military downs CBP drone, lawmakers say - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWjlrZzJLaWpCaTFvUnhFczVTVFYweGZoWlBIcDBvUHJ5WWx1SlVrZFBlZkhYdmxoMHBSaHJTbGZ5YXVjS1FKWDZyTXpzcDZUSnhNZW84ODk4VVFzdm1WRDktdldHQ2wxY1lFQW8wYk5EZWhpUHphNVZZRGtCRTRRVE5iNDJHMzNsMlNScFdLdy1jRkJYQzhnR2h6UWNmSDdyOHlwNjlKWUQ4NTRtVEk5NHBRZW9PbFNpYUFBZW1fVTkzOThjZFRuU0dETEJQQQ?oc=5",
-      "source": "USA Today",
-      "date": "2026-02-27T05:28:12+00:00",
-      "description": "Texas airspace closed after military downs CBP drone, lawmakers say  USA Today",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T09:16:53.472723+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "98f5354fd2ba"
-    },
-    {
-      "title": "Drone incident near French carrier in Sweden points to possible Russian link - RFI",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlpNb3FtckFtVnV0T05xeGlrNkk0VTVEUnZJelBIUnBab0QxeXlVYzR5V1ZKWnp5ZE42T0VseE9iaWFHWG0wNURGQm5vdE1wb0pZQWUtZWVqb3hBWGcyUEVraENIMGlvcF9oRVBWU2JrMnVoUmxzbzhlaHNmVzlfYVIyYS10VGxtZ0h4RDdPc3l4ekxTRUUwMnNWSjlYYVh2dUpaYzRYV1dyX2hhQXlWbmRvcDg?oc=5",
-      "source": "RFI",
-      "date": "2026-02-27T08:22:27+00:00",
-      "description": "Drone incident near French carrier in Sweden points to possible Russian link  RFI",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T09:16:53.472723+00:00",
-      "location": "near French carrier in Sweden points to possible Russian link",
-      "category": "other",
-      "id": "f6b66fec3a67"
-    },
-    {
-      "title": "U.S. military shoots down Border Protection drone, sparking new air closure and derision from lawmakers - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZUTEwyTE5heFRwUE1nLVA3ejhINlJFT2d2S2JKaDBUOFNSQ25tbjU1SkJTSGRlUWxjTDhsY1VYU2JyOUhqaGliVkY2aDJKZDU5MnQzTGEtQTJ2TTI0cFQ5UXcweFM5QUxvc2hDYkh1VGhrMlh0TEJLYWVSd29GamtNQlprb2FmdVZZNnZ5NHp0eDd4bEItSHlpd2U3X0dKNk1rWVg3NThwQVEwYy1wR1JzejM?oc=5",
-      "source": "NBC News",
-      "date": "2026-02-27T03:47:00+00:00",
-      "description": "U.S. military shoots down Border Protection drone, sparking new air closure and derision from lawmakers  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T08:15:20.984134+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6d84cf850aeb"
-    },
-    {
-      "title": "FAA closes airspace in Fort Hancock, Texas after reported accidental use of anti-drone laser - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmRjODVLajV5alVoV1VXZ09NSEFDbjBpRmxjU3FkZEVBcFRfSWZETmxuT0MwV29TQUdmOE43Mlg5RFByMmdHY1dFdUM2LTB0Wm9ZWkFRWUZlYVZHdkhqQmdpdkJLY29nYWlqajVPVzVieU5HVUZNSVlDbUQ4and3M29zSDFaalNDRkVoX3JKS2o2NEc5LTRRQU9EeE1xTDBXaDVlN3RCRnRQME1ldUpaOFpnc3VxTk5QWHJ0UkNhTzJoWHNGQ3J3SWR3?oc=5",
-      "source": "New York Post",
-      "date": "2026-02-27T05:48:06+00:00",
-      "description": "FAA closes airspace in Fort Hancock, Texas after reported accidental use of anti-drone laser  New York Post",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T07:21:51.845093+00:00",
-      "location": "in Fort Hancock, Te",
-      "category": "airport",
-      "id": "c5cfd1cb37a6"
-    },
-    {
-      "title": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
-      "source": "ABC News",
-      "date": "2026-02-27T06:34:09+00:00",
-      "description": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials  ABC News",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T07:21:51.845093+00:00",
-      "location": "near El Paso",
-      "category": "other",
-      "id": "b6bcba78f4ea"
-    },
-    {
-      "title": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1drelpqVG9qcGlYY1lzdzhzYmNKOXVwUWZwc1RuM1hrSnNGXzRFVDh0QjVHcVJ6M2xUMUxvRzZWaTBLVHVNN3lGcXh2aHB0VkFLZDFmekpPV1RGQ1hkT0ZsX0x2UFFuRk1kblZzbFp3V3h1Y1JzaTFmOEt1UkIybXRJVzNWNkx6NHRtWXBibWNLRThpd0NxcUY2bElQekVnTmp1bzdqQmc2YWZlaW1XRWhYR04?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-02-27T04:10:00+00:00",
-      "description": "Pentagon Laser Shoots Down Customs Border Patrol Drone in Texas  Bloomberg",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T07:21:51.845093+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9df40bd4cd10"
     }
   ],
-  "last_updated": "2026-03-17T06:27:11.930680+00:00",
+  "last_updated": "2026-03-17T07:26:16.360267+00:00",
   "total_count": 1000
 }
