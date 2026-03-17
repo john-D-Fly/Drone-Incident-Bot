@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Dubai flights delayed or cancelled after latest drone and missile attacks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZTFLNEIyWTVKemE4d2YwamszN0JjSDFTeUFUcHF2WFdtR1Z4d2lQaHNwSHhRSXJmMVZmTVlybklWWXhMRXRaV2FLVDE3WUtPS2dsTzJPeFhBV3kzQzFtN0E1SDRzaTZoMnNvSVBJdTM?oc=5",
+      "source": "Financial Times",
+      "date": "2026-03-17T09:06:36+00:00",
+      "description": "Dubai flights delayed or cancelled after latest drone and missile attacks  Financial Times",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-17T10:19:50.388722+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7578d444d307"
+    },
+    {
       "title": "The War in Iran: Operational Progress, but Challenges Remain - Institute for the Study of War",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHlIa2s1d2FNU1lLTk5qd0dZSlVWMG5EVE55NVBqdGNudFVRN0FpczZZVWlFeEg2SjNJZ0hRcEU5QWVqTVR0Z3FtVk50Vkd5Y3hENnkwV2JwZ0o5ZGFBNDBjV00zU2JVcFNzSnZ2dHdOLS1lNGh2TF9Bb3Blem5lNmlFNkJ6VVpHdzdycGlzUVdmY3lCTVdFRVQ3M1BWWm92SHQ4Vi02MHcteXRsZlE?oc=5",
       "source": "Institute for the Study of War",
@@ -11987,20 +11999,8 @@
       "location": "in Texas accident, co",
       "category": "crash",
       "id": "1b5b633749fc"
-    },
-    {
-      "title": "U.S. military reportedly used a laser to shoot down Border Protection drone, sparking new air closure - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZUTEwyTE5heFRwUE1nLVA3ejhINlJFT2d2S2JKaDBUOFNSQ25tbjU1SkJTSGRlUWxjTDhsY1VYU2JyOUhqaGliVkY2aDJKZDU5MnQzTGEtQTJ2TTI0cFQ5UXcweFM5QUxvc2hDYkh1VGhrMlh0TEJLYWVSd29GamtNQlprb2FmdVZZNnZ5NHp0eDd4bEItSHlpd2U3X0dKNk1rWVg3NThwQVEwYy1wR1JzejM?oc=5",
-      "source": "NBC News",
-      "date": "2026-02-27T09:06:00+00:00",
-      "description": "U.S. military reportedly used a laser to shoot down Border Protection drone, sparking new air closure  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T11:14:02.212572+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8806bd0c420e"
     }
   ],
-  "last_updated": "2026-03-17T09:21:29.361604+00:00",
+  "last_updated": "2026-03-17T10:19:54.190050+00:00",
   "total_count": 1000
 }
