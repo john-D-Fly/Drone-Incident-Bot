@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Universal Is Trying to Ban Drones from Snooping Around Its Newest Theme Park Currently in Development - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcnBLb3RlOGRxTWZ2Q2sxbUY1NWxLZktmRFVzcG9sOW9UYWVTLTBWekpaaVVpR2VlM0ZmNkUtRHdLVG9mTHB1WHIxOEdCMFRUTXJZX2g0NWtDU3lVUjNrY2x1ZXhfQURNUG5MUll0NFdTTGZDQVp6YzRtOHI4ZkdDVndTWU9oNDg?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-17T07:39:19+00:00",
+      "description": "Universal Is Trying to Ban Drones from Snooping Around Its Newest Theme Park Currently in Development  AOL.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-17T20:13:50.273433+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0378bdeff9b6"
+    },
+    {
+      "title": "Europe must prepare for drone strikes by terrorists and criminals, warns Zelenskyy - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDdDLS1xRk5oUWFpLS1Teno2QVA5X0dSODdWWVNTRjRLVHRLcHpEVm4zbFRvSUJKeUhWcDNyOGNoNXJwNWNHemtWVEtDSm56Y3hxNWlubUpkS0ZpSGdWRjYzQTJSRllUUXNaMEhjZjlNbW44SnQzQ3pFQmVDZXF0dHpQRmNNOGhsdXh2NjhUbC1FLUJodTdOQlJPck94c19kdGtrUF93?oc=5",
+      "source": "The Guardian",
+      "date": "2026-03-17T19:38:00+00:00",
+      "description": "Europe must prepare for drone strikes by terrorists and criminals, warns Zelenskyy  The Guardian",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-17T20:13:49.641774+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "0e64ad4b2a7b"
+    },
+    {
+      "title": "Drone crashes in US Embassy compound in Baghdad - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0V4d2pCZWY5blZaRTFzMUIzZkpsWkhHQ3JEa3Rwdy01VE5aZDFCTjU0T1RuQU1YUHhoSlcyOGhnbGNCTU9qQkNOVi14aDlRY0xFVW1pa1lLOW5SUkJQX0dNZ1QxZDdsZVpibzFaQUMwU2hpU2JTbzRrR0ZPNjNiSTRLaG5UdFAwQktQdzBmbkhibGFzZWNhSHNQZDZUX3E2bmQ0eFF1TDY?oc=5",
+      "source": "AP News",
+      "date": "2026-03-17T18:01:00+00:00",
+      "description": "Drone crashes in US Embassy compound in Baghdad  AP News",
+      "query": "drone crash",
+      "detected_at": "2026-03-17T20:13:47.672881+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "5363d0ac1802"
+    },
+    {
+      "title": "Crow drones used in Louisiana drug-smuggling attempt - Axios",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFB5NlZONWExSWxYQk1jWjFlaDI5NXB0VW1TVjFNZzgxTWlEQmxnckNESWhieTRqZEdsV0hmTGVFN3pzTTFxNHhRMTZvZTNmb1pvODdRWjl5U0tvMENZTnF0TWJjVWRwOWttZnpmMHFDc240NS1zdUtZRzZ4eUpYUDh6VzNMWXRCdjhJUHdZN1dmYVRDV3N5WXJXdnZaSTVXY2RJZEJn?oc=5",
+      "source": "Axios",
+      "date": "2026-03-17T11:27:53+00:00",
+      "description": "Crow drones used in Louisiana drug-smuggling attempt  Axios",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-17T20:13:45.775850+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "bf1ceb3bc310"
+    },
+    {
       "title": "Iraq Warns Drone Strikes Could Trigger al-Qaeda Prison Break - ASHARQ AL-AWSAT English",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXQ1aTZUX3RDVmVnY1pIUXR3SDhBNE54M3Zzdk0yYzREbTQwelUxT0haeWRLQWp5aXZNdHRTOUUyaWRfbUdHbDJyMlhYT09Kck9pVDV6VmtlekptYWoxbTlWdTJtd2I0VUFBRmpnWVlMR0RILWxCMS1CaElfYlZQYWNCSjUxcnUybTFzMlJBcjZWYWtGeDZQRjU1Y0ZMTnoxMDhIWkR6ZE96UQ?oc=5",
       "source": "ASHARQ AL-AWSAT English",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "bbf619771a8a"
-    },
-    {
-      "title": "U.S. military shoots down Border Protection drone, lawmakers say - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlVYTlV5VWtKcDMxMWFMSmhSOTRpVDhJWkhtb29LWnYyOHNJZlFkeDUzeS00MTZfbEFMQm41X0RfMGlmRGxaakktdF9DRnBQV2Z3LVpkM1ZQd2xzTzB5d19fYTZsSWQwaWdVNEhXUFh6bGRBdHZnZEpWbHhpcHQ1bHg0aEkydzZpM3Juc1dMX1JBLTZoM1ZV?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-02-27T17:08:56+00:00",
-      "description": "U.S. military shoots down Border Protection drone, lawmakers say  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T18:13:22.070751+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a62020a532a8"
-    },
-    {
-      "title": "Democrats Decry ‘Incompetence’ After U.S. Military Reportedly Shoots Down Government Drone Using Laser - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2IyTDEwQWV1eDR4RHExbzNWZDBBcXZCN3ZpZ3ZHaU52eVNma1lCam9HNW1yZng1QlRpSFpTWnprOEVWa3FjNlNGNEtJTS1KVE1qeW1rXzVheUlaU290VGRRNG9KREp5SWdnbHcwZUZ4M1pkSzE4ajhnaldRN090eEEzZ1BtY1oxd3pOU0dVNGVyOGFMOWc?oc=5",
-      "source": "Time Magazine",
-      "date": "2026-02-27T16:31:03+00:00",
-      "description": "Democrats Decry ‘Incompetence’ After U.S. Military Reportedly Shoots Down Government Drone Using Laser  Time Magazine",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T18:13:22.070751+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "761ad8427bb1"
-    },
-    {
-      "title": "Defense: Another drone incident enrages Congress - Punchbowl News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONENUMG55eHExTUhtUGxLa25OM0pIeDl0b21ERnEyR2QzQ0xrYnBXM3VuMFJwa0x1MkFlU1FiaDNtQXkycEw2cTNLUzB6QzM0aGVWUmFfUWh1U3VxNkVQcmdJc256QzNEOTJzZ0FXNmxPM3JHeXJVYmJTY3NfZUNzZzNR?oc=5",
-      "source": "Punchbowl News",
-      "date": "2026-02-27T18:06:18+00:00",
-      "description": "Defense: Another drone incident enrages Congress  Punchbowl News",
-      "query": "drone incident",
-      "detected_at": "2026-02-27T18:13:22.070751+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "945201455dc7"
-    },
-    {
-      "title": "'Leave Israel while flights are available': US issues evacuation advisory for non-emergency government st - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeU9iRklUYVpSNm5LZDJvdGxTZjZzVXg1OHE2T0x2RmN2TUpvTTBGdlVhOFFxRnk3OU9XQkwtb1NscXZ0ZWZnNUJtRXdPMmszT1JoRVRKRVVCWHJUdVpzRXBMRWdCc1g3TXhWU29leEhMZm5mWk85aG51TE96TUpfWG93azd0RlRtaURyWXZidnUwM0FLdXVabHlXcTE0ZnhMOWpleXJtYlFXSlRVellBdGNXa0JseGhFUzhQMGJrYzhmMnYyTzJlM0FaQXRHUG1GR1dZOWxJcEd1dTV2NjVBYVJuaER4dnVfbEEzLVU4S2NyamlMSTFkVUhtVXJTc2RFd2dqR2w1a9IBjAJBVV95cUxNTG5ZNXFQUXpBWDZGZVdlV2YwYU9reXZpd1RQRlVneEtRRUNJcHZTV2J5R18tX1kxMFpRdzdmaUY4dGVrVzRNTWVWZUF6eG9zY2xhcDVIM3g0clFWVzNyeHY2UFNIVzhRS2kwTkhXa2pPa3RtNHRBTEhhbV9fS2dES1ZXWEJ2VFdYZ2hKTkhhX0lvcldva3ZoVTg2RU1WOVgtWkJQWWdVd0FXYjZCd28yNGZsS2Y3UmhKcDJFbzdmWHV2emhlM011enlXTG4xbjk1bFRYOWhSaHpRVERzTWxrZEZGY0pzVjFkS05aM2pCSmd0RXZ3Vy05Zk5qclhJeDFqbjMzLXBmbDA1RkZq?oc=5",
-      "source": "The Times of India",
-      "date": "2026-02-27T10:55:00+00:00",
-      "description": "'Leave Israel while flights are available': US issues evacuation advisory for non-emergency government st  The Times of India",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-27T17:13:42.580202+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e003a73b12cc"
     }
   ],
-  "last_updated": "2026-03-17T19:25:58.805370+00:00",
+  "last_updated": "2026-03-17T20:13:50.820070+00:00",
   "total_count": 1000
 }
