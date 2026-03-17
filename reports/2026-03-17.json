@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "Over the past 48 hours, a surge of drone-related incidents has sharply disrupted operations at Dubai International Airport, largely due to strikes that induced fires affecting fuel tanks. These disturbances resulted in widespread flight cancellations and delays across the Middle East, as airlines scrambled to reroute flights. A parallel concern emerged with Iraq raising alarms about potential prison breaks linked to ongoing drone strikes, particularly affecting al-Qaeda inmates. Meanwhile, the US is reportedly enhancing defense measures in response to Iranian drone activities. Observations indicate a clear pattern of heightened threats associated with critical infrastructure, signaling an urgent need for robust security policies across the region that could address the escalating risks.",
+  "totals": {
+    "airport": 38,
+    "smuggling": 4,
+    "other": 8,
+    "terrorism": 7,
+    "interference": 5,
+    "arrest": 8,
+    "crash": 8,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 60,
+      "arrest": 13,
+      "crash": 5,
+      "interference": 8,
+      "other": 20,
+      "smuggling": 9,
+      "surveillance": 2,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 34,
+      "drone arrest": 18,
+      "drone crash": 11,
+      "drone illegal": 4,
+      "drone incident": 37,
+      "drone prison": 5,
+      "drone security breach": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 7,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone disruptions at airports",
+      "rationale": "High frequency of drone-related incidents disrupting multiple flights at Dubai International Airport.",
+      "incident_ids": [
+        "6757405f7970",
+        "74958ed714bc",
+        "1f9978cdcb21",
+        "a9a07d41ed4e1",
+        "9b61dc8e8e6f"
+      ]
+    },
+    {
+      "topic": "threats associated with drone strikes",
+      "rationale": "Multiple reports indicate increased risks from drone strikes leading to potential terrorism and security breaches.",
+      "incident_ids": [
+        "b13a37f0a250",
+        "094a03b46137",
+        "3ffd746bbabe",
+        "a05ce007ad04"
+      ]
+    },
+    {
+      "topic": "arrests linked to drone activities",
+      "rationale": "Notable arrests following drone incidents, indicating ongoing enforcement actions against violations.",
+      "incident_ids": [
+        "83b77a0ffc6c",
+        "2893059c36ef",
+        "9b61dc8e8e6f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6757405f7970",
+      "headline": "Dubai Airport Hit by Drone Strikes and Airspace Closures",
+      "one_sentence": "Drone strikes at Dubai Airport resulted in significant flight cancellations and chaos in aviation.",
+      "risk_tags": [
+        "disruption",
+        "aviation",
+        "security"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "b13a37f0a250",
+      "headline": "Iraq Warns Drone Strikes Could Trigger al-Qaeda Prison Break",
+      "one_sentence": "Authorities in Iraq express concern that drone strikes may lead to a rise in prison breaks involving terrorists.",
+      "risk_tags": [
+        "terrorism",
+        "security"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d70b94387cc1",
+      "headline": "UAE suspends Shah gas field operations after drone attack",
+      "one_sentence": "A drone attack led to the suspension of operations at the Shah gas field in the UAE.",
+      "risk_tags": [
+        "infrastructure",
+        "disruption"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dd161c3253f0",
+      "headline": "Three 'traumatised' survivors of drone strike arrested",
+      "one_sentence": "Survivors of an Iranian drone strike in Dubai were arrested for violating security laws by sharing images of the aftermath.",
+      "risk_tags": [
+        "arrest",
+        "terrorism"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "dabc72ddc126",
+      "headline": "Dubai Airport Disruptions After Drone Attack Hits Fuel Facility",
+      "one_sentence": "A drone attack that targeted a fuel facility disrupted operations at Dubai Airport.",
+      "risk_tags": [
+        "disruption",
+        "aviation"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Chaos at Dubai Airport as drone strikes disrupt operations, leading to widespread cancellations. #AviationSafety",
+    "linkedin": "Drone strikes in Dubai have resulted in significant disruptions to air travel, highlighting the need for enhanced security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-17"
+}
