@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "DJI Avata 2 prices crash ahead of new 8K FPV drone - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NUFwS09IRmFjZXdPckZvdnZfcDQ0b1VoRkxqU3BubFlleEpZVDI3Z0NEekdtbkxxeWpkVXNJQUx6YWsyZjIyc0Zyc1pOQ2hqTFp1ZzNyNjdCaXlZZ2xiVzJvQ2JaWGlu?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-03-18T19:00:00+00:00",
+      "description": "DJI Avata 2 prices crash ahead of new 8K FPV drone  DroneDJ",
+      "query": "drone crash",
+      "detected_at": "2026-03-18T19:23:13.596259+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "611dbbdae4d3"
+    },
+    {
+      "title": "Officials investigate after a drone dropped knives and other contraband into a New York prison - Newsday",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2NnRlNRWUdhaTJXcm9pNW9VRHhuenBLODd2V3c1WW5hX3ZHcG1fbFRQdS1qU0o2d2xEVHFrMkxNS3Fqbmtob0xJNGN0N3AxcFRkZ0xsZXNzQWNxZjZ3enFpRElVYzdVamNTZEJWdHZ2b3VOZ1RycTdiTkt1UUdtMw?oc=5",
+      "source": "Newsday",
+      "date": "2026-03-18T18:52:44+00:00",
+      "description": "Officials investigate after a drone dropped knives and other contraband into a New York prison  Newsday",
+      "query": "drone prison",
+      "detected_at": "2026-03-18T19:23:12.486857+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8c60cd42117a"
+    },
+    {
+      "title": "Drone with contraband seized at Marcy Correctional Facility - MyChamplainValley.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1VjYVlfT2ZNaEdTQUN6alZKaFJyb3lfU29reFA2cjZ4OS04Q2FXNDVkSzFjUm43WkFiT2NsZEI0SWs2T2plbmR5UVhvQW5keklsRThhXzY5UE5MV0VXalhPcE9fOEdRcHJxMEk2WWR6OWx0RWZxd0xseERBbkh1WXBxbkgyT0UzeTVHdlhpMXVidDB0ZF9ndUQwemRPSHJPbXJyMHY1UHFEN3RIQ21hMG5ITzhTUE5QbUNz0gHAAUFVX3lxTE9pWXpZNG1waVdvcUE0bHFHdzJ6YUlwRUNWRW5vMTFCSWFtaUlaX2FPWngzU3I0X2NrY0k3WEl6V2RVekFaS2pHTkp4bzRidnFpa21yOGtlZ1dDd3VQc1lwZlhRdk9Ma2I5clRxMTBKRUFlcWFYak41OHIyQkVkNnk4c2RwWlA3bWhEbWd6VENKWmxTUU8zb1o5aVFJQUVuclNrWXdJVnBLQVNoVGFDYkl2MDZlUnNQdU42YXFhcW5Law?oc=5",
+      "source": "MyChamplainValley.com",
+      "date": "2026-03-18T17:50:24+00:00",
+      "description": "Drone with contraband seized at Marcy Correctional Facility  MyChamplainValley.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-18T19:23:11.729163+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e436f2c9e7ce"
+    },
+    {
       "title": "Drone with contraband seized at Marcy Correctional Facility - NEWS10 ABC",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2s1Y3c2WUZyX1RzVmdFZTM3NGxKSS1yYzlKeXRoMjRpTk1YZElKMUxQMEs5UTVCSm91TlNnM0VHQm1hWWo4UWx0RW9fLTNqT1lMVDBBWDZKSl80ajhrY0N1aWlQdHZBOUYzbFBicnhNaHlWdDQ5UDJvVjdMZUVkcWZoYkFOZXNfSG5JaXQ2V1lIQS0yd21yQ20yN2nSAaIBQVVfeXFMTURmZXlEN1hiaEl4QXFRZUJtSFRVQVZ1MDRpMnFORXQ4cXhURnhmTTJJSDRjM3N0OExwa1l5Y2ZRLWJ1NUFuOFJkdDJxSGljU2hQcHB4VDhqWUNyTXAxcGsxZU9Db2VfX1U4c3RZOE9ZYVJCT2NBUDdVS2dmQkdtUjJxNGYwVFVma3o1bnJIdzZQbkt3LXpuaUVnR3BKeHN2OUhR?oc=5",
       "source": "NEWS10 ABC",
@@ -11963,44 +11999,8 @@
       "location": "near French aircraft carrier was Russian",
       "category": "interference",
       "id": "44e31b0a924c"
-    },
-    {
-      "title": "UPDATED: U.S., Israel Launch Strikes Against Iran, Tehran Retaliates Across Region - USNI News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWNEOTlBa2hiZDAzdFp6SG15ZldneUV3NWNvUEdrSk9OUFdlUThoY3g1WXFGcmY3NHlKYnc0WUxhOHRwRnhMMVU1RGtoVnVpSjlZZUZHS0M4ZUpPQ1RvT1pwb3dsRVVpLUhuRHFBYktWR0FlSVFqNlZhS3g1MXdMZ0pZeU53U0VabEZMR041cl9VbEt6a3UxdWxuX2ZDSWFvOW1ncEY0a2JHZnctZ0NOM2d6Zkpxdw?oc=5",
-      "source": "USNI News",
-      "date": "2026-02-28T16:37:00+00:00",
-      "description": "UPDATED: U.S., Israel Launch Strikes Against Iran, Tehran Retaliates Across Region  USNI News",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-28T22:06:07.036848+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a79ced036868"
-    },
-    {
-      "title": "Air attacks on Kabul push Pakistan-Taliban crisis into uncharted territory - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2ZYMkowcEEyMmd4cS05MlhQV3p3YmQySzF4dGVYQmNMSDdtcUZVYjdPdTJVSGZPX29BUjNNLVQ0SldTRjMyeUpicExYOXczRWVESGVoemlWTmFtcks4VVU1al84MmllMkdaQ1BNZkoyc3dja1M5SVM0UjBBNHhNU1F4eFNqeHJNRWZDT3NHbGhfZTZCT3VGa1REb1FSVmZQNGJxaUtJR1ViYlEwSDlPYUdsejkwZ9IBuwFBVV95cUxOdkJubkp5dHdoV2xPa3BOeHVjY2EwRnNrcDFnUXlOdmxUYk40NWhPQUtZYkdXNmFvYTd5M3hOSVQzdHBFOGZfdDdRV19pRWdNeV9jS3VlV0MySDZzbHBoLWZmSHo4RXhKcGhOSDh3RTl3OUUtYWlTaGxlT3lkdU9uSm5jcHJmckE1R2pMM2xUVGJFVnJqV3dhVVJBSFdZdkdCUk5tRnIwRktFNkJQLTJDeFZ6bVZqLVhuTzBR?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-02-27T12:58:18+00:00",
-      "description": "Air attacks on Kabul push Pakistan-Taliban crisis into uncharted territory  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-28T22:06:07.036848+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6430e584e9ab"
-    },
-    {
-      "title": "Iran fires missiles at US bases across Middle East after American strikes on nuclear, IRGC sites - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR19ETkoxRUVLVDdBSEtkazBWbFp5Zmc4Z2J1UC13OUs4ZFMtNTJlMWxhTEhTdHRLcG1aQ05abmRtbzc5LTdsbzR3amp2QWIwV0ZwTHE5dEJwTmphQUhqZVRKN3Azd01Ja0N3R2UxWUFXZkFXNjNxdjlDQ2FObXF1VVNrM2p6UDZuSXlld3YxRXFOR0gwY1JJcFhUS1VmUDNEN2dmOXhSa2tXYnNvVUF2bWdxc0poQTE3a2VzQ3RJSdIBxAFBVV95cUxPb2wwdk84Qk9pdUxHM3dKMl90OEwyeWRaX0xMc205bGJrN0xTaUIzNjRNcFNJNlhzOWNDcmxtNnN6WEt1U2UxVGJteVFrY1Nmb3FDYURESzRNZ2FOYmdIUDZmUDlnZjFZcUZmY3NrMmduQVBpRjUyUUhFbzJwSTJMSVFTMkttbHNFWEMxcTA4ODI1d184Q3l5MlJoZkwyMkYxWkxLQ3dURjBvYklZVDE3TlBTNUtBenVKbkE0clZUUVdWZmc4?oc=5",
-      "source": "Fox News",
-      "date": "2026-02-28T15:15:47+00:00",
-      "description": "Iran fires missiles at US bases across Middle East after American strikes on nuclear, IRGC sites  Fox News",
-      "query": "drone terrorism",
-      "detected_at": "2026-02-28T20:06:33.481187+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b5d0278f160d"
     }
   ],
-  "last_updated": "2026-03-18T18:23:49.920148+00:00",
+  "last_updated": "2026-03-18T19:23:16.290253+00:00",
   "total_count": 1000
 }
