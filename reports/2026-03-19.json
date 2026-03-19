@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone incidents have dominated news across various categories, highlighting ongoing concerns with smuggling, prison contraband drops, and airport disruptions. Significant attention has been drawn to the arrest of Matthew Van Dyke, linked to cross-border drone smuggling operations. The incidents involving unauthorized drone use near prisons in New York have led to multiple seizures of contraband delivered by drones. Concurrently, a drone strike disrupted operations at Dubai airport, spurring discussions on the implications for regional security. In response to the rising threats, politicians and authorities are advocating for stricter drone regulations. The incidents underscore a continuing trend in drone-related activities affecting public safety and security.",
+  "totals": {
+    "smuggling": 18,
+    "arrest": 8,
+    "crash": 10,
+    "airport": 5,
+    "terrorism": 6,
+    "security": 3,
+    "other": 7,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 8,
+      "arrest": 8,
+      "crash": 14,
+      "interference": 4,
+      "other": 19,
+      "security": 3,
+      "smuggling": 57,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 8,
+      "drone arrest": 15,
+      "drone crash": 15,
+      "drone illegal": 10,
+      "drone incident": 9,
+      "drone prison": 30,
+      "drone security breach": 2,
+      "drone smuggling": 19,
+      "drone terrorism": 10,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Contraband",
+      "rationale": "A significant number of drone incidents involve contraband drops at prisons, indicating a trend in using drones for smuggling.",
+      "incident_ids": [
+        "29fec3e1a855",
+        "d59bfe59a53c",
+        "f5093abc1c56",
+        "cd3a304992b0",
+        "5e1fc7f795c7",
+        "1189a7d9f29f",
+        "a4f656cd96dc",
+        "8b24d18d5d36",
+        "2b2957fe08bf",
+        "bd2320b320dd"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Investigations",
+      "rationale": "Multiple incidents point to narcotics smuggling and trafficking applications of drones, along with law enforcement actions.",
+      "incident_ids": [
+        "13d04a64ce67",
+        "5c2ca87da05d",
+        "404c5026a549",
+        "69add83f07da",
+        "d8a341b6672f"
+      ]
+    },
+    {
+      "topic": "Drone Airport Disruptions",
+      "rationale": "The disturbances at major airports due to drone incidents reflect the ongoing challenges faced in air traffic management.",
+      "incident_ids": [
+        "df90ed16c2e1",
+        "665ff8fb8613",
+        "665ff8fb8613"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "13d04a64ce67",
+      "headline": "US mercenary Matthew Van Dyke at core of NIA probe into cross-border drone smuggling",
+      "one_sentence": "US mercenary Matthew Van Dyke has been linked to a probe regarding drone smuggling operations.",
+      "risk_tags": [
+        "smuggling",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "29fec3e1a855",
+      "headline": "Drone dropped package of contraband onto prison grounds in upstate N.Y.",
+      "one_sentence": "A drone successfully dropped contraband onto prison grounds, revealing ongoing smuggling operations.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "dbc028f556f1",
+      "headline": "JPSO’s drones have been in the air for 4 months. How many suspects have they helped capture?",
+      "one_sentence": "Local police drones have contributed to numerous arrests over four months.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "df38558a6971",
+      "headline": "Dubai airport resumes flights after drone strike disrupted operations",
+      "one_sentence": "Dubai airport operations were temporarily halted due to a drone strike before resuming.",
+      "risk_tags": [
+        "airport disruption",
+        "terrorism"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "c567669ae6b9",
+      "headline": "The West is embracing drone crashes and losses as the costs of learning — but with limits",
+      "one_sentence": "A growing acceptance of drone crash incidents raises concerns about operational risks.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight ongoing smuggling issues, potential airport disruptions, and a persistent problem with contraband deliveries at prisons.",
+    "linkedin": "The last 48 hours have seen significant drone-related incidents, including smuggling and arrests, demonstrating the challenges posed by drone technologies in security and law enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-19"
+}
