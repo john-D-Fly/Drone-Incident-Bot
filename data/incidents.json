@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "DJI Avata 2 prices crash ahead of new 8K FPV drone - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NUFwS09IRmFjZXdPckZvdnZfcDQ0b1VoRkxqU3BubFlleEpZVDI3Z0NEekdtbkxxeWpkVXNJQUx6YWsyZjIyc0Zyc1pOQ2hqTFp1ZzNyNjdCaXlZZ2xiVzJvQ2JaWGlu?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-03-19T07:00:00+00:00",
+      "description": "DJI Avata 2 prices crash ahead of new 8K FPV drone  DroneDJ",
+      "query": "drone crash",
+      "detected_at": "2026-03-19T12:15:55.679135+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "34279257d08b"
+    },
+    {
+      "title": "Drone dropped package of contraband onto prison grounds in upstate N.Y. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTk9TS1V5YUJrT3pldEl3ZUJXdzk4akpxU2tCWUhWUXF2ek9EcG14V2NPMTNEbmVSNDE2aXhqVUhjQ3luaVA4SUltRzM0dExPdUFmdHkzTkpxN3RyRm5XVWU5VUtHU3ZyNXhrOXBOM21TMldaSFlVR2pCVmVzMEpOYkx1XzBBRUd3RUlZcy1RTVNOaWVJeXcwYkJ1MHctVFlPSlVvZ0h6QndmVzZHcVE?oc=5",
+      "source": "CBS News",
+      "date": "2026-03-18T21:39:00+00:00",
+      "description": "Drone dropped package of contraband onto prison grounds in upstate N.Y.  CBS News",
+      "query": "drone prison",
+      "detected_at": "2026-03-19T12:15:54.532500+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "29fec3e1a855"
+    },
+    {
+      "title": "US Mercenary Matthew Van Dyke Linked to NIA Probe on Drone Smuggling - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeWhwX2VPNEF3TlZjLUZrdzBSYzdrUnRoVGk2TEl4dC1xVFF4N254VUhNS18xM3BTTzV0OEFCbWRQaXQ1T3pnajdPRXo1UXBncDhRaXhuTUVCc0xycm03STZRTG1fbjNQMTBmai1DZGo0ZE1uWUNjTjhxRUI2d21nejA1SU1tckdyaDNUM3lHY3dSbHVrZWtOdEhxTUQ4cmtWaGZnejFFNUFzTzVXOXVvMDlZVUg5U0xWSEg1U2pmd3FoRlRFek82QlpSR2hYOXJLRlNfeEhhdV9EVFctSmp1ODl5M2R5RnJKODZycHNoONIB9AFBVV95cUxNX24xLW0wX2MzQ3FBeGt1RjVKMWxRcmx1eG4tN3NlTUoyOFN2QTBJVkw0Nmh3RDV5eWp0MldQelFINHRtUXhkS19oZGNydmMzMjFKVDBWcl9XcGI3b1NDOUVDUGJ6bXZwVkY5TGVncDYwY0ZDLXk4ZFdYd1FCSl9YdlZsX0JZem5sb1VfUlNDdTByRmRDY0dGUzBIeWQ2VWdIcVh6eWt4bnBxMVZycFZfYlhuLTFpTkRuNzU2XzJsZE1mUmlTQjl3dkdNdTFlSV96UnY3c3JXWjUxTUs3Z0RzY3dEOURIRndOZnJ4MlFFUXF5MW9U?oc=5",
+      "source": "Deccan Chronicle",
+      "date": "2026-03-19T11:26:48+00:00",
+      "description": "US Mercenary Matthew Van Dyke Linked to NIA Probe on Drone Smuggling  Deccan Chronicle",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-19T12:15:53.870230+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5c2ca87da05d"
+    },
+    {
       "title": "The West is embracing drone crashes and losses as the costs of learning — but with limits - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSS15LVZPRzdsQ0ZlOTRwRVUtQ0JfNUVycWJBMlBnMENoWEV2QkRjcmlRcU1kMHZUQzE2Q3EySFN3T05hNUx3ZnA5aE44YmVjMUxVQmpXZEJ0el9tUXI4N0tJVFVSUVp4RHJxWmRJUUNLdmhwM0pWaDRhSlowNTlrNkxqY1hwXzZxMk1wcUpyQnFYNXVzNlI4YXh6aFliaXBLX0t5bkxHR2o?oc=5",
       "source": "Business Insider",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6742f1ff0cb0"
-    },
-    {
-      "title": "Unmanned drone hit runway on UK Cyprus base: British FM - Hürriyet Daily News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVFPbi1NQVNXQUJMcW56eHV3ZjROaUZIYjVzRlNPaXlEUmxVR1NOVjdlbUp0ZklZNnluSU51VmtycVZwUy1oZkFlejZiYWQ4RFR1LXVZNjdySUhpdk5hRTF5a2RqUWRXd2ZfOFlBN1F2c2xSR2tRY1ZHbjdQVUVDeXQ0czNQMjRPcWthd0x0aFRSYzIxS0NCX2tqMnlqM0VfM0hWYi130gGrAUFVX3lxTE9wTlJaZUdYcjZ2d2tOVUlzSWRwZjdDdU1SNXNQcHJCN3hfeFVJUXR2YlpQaWdFMVlIT0FsVHVLYnFVQXI1TnNaaUpnVFkyZWhldHhYNDFxZlRtWFhKa3Ffa0ZfNklua1ZEckFEUmd4Ykd2UlRrU09Cck1DWlVSOTRPSTZBa0p6MDhrUkpYLVNmWFJiMEFGcC1HVTR3UVNfSXo2TlJBYlJEV2w1UQ?oc=5",
-      "source": "Hürriyet Daily News",
-      "date": "2026-03-02T05:24:00+00:00",
-      "description": "Unmanned drone hit runway on UK Cyprus base: British FM  Hürriyet Daily News",
-      "query": "drone crash",
-      "detected_at": "2026-03-02T11:16:47.897300+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9ecb3ba04faa"
-    },
-    {
-      "title": "EU ministers’ meeting in Cyprus postponed after drone incident at British base - eKathimerini.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYk9NNDBZN0tsNndkU0ZnRmhGTGZ0RHBwTFp1S3h0a01NalA5c200b1FhcmF3X05iNl9zc0x0Mmt2OUItTURJeTVPZ3l0d2F4dGF2WFdzNndyQ3I0VVVPTmozVXNHWlVoQTdYT2c5dnByOGh2bmluOF9idTFGYXlXNkZzeDdUZkNLdG5jbEJMYXdMdmlQXzNjVXhWSlM4eHZscGRRVy03YXd0bnFvNUVLZElsdUxSNlBTWHI3QUFQUzc1aU5CTTBXczh6UHBveHdhT09MenhR?oc=5",
-      "source": "eKathimerini.com",
-      "date": "2026-03-02T10:30:00+00:00",
-      "description": "EU ministers’ meeting in Cyprus postponed after drone incident at British base  eKathimerini.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-02T11:16:45.146423+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9b43d6e66c3b"
-    },
-    {
-      "title": "Several U.S. military aircraft crash in Kuwait as Iranian strikes continue - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGNVeGNGRTJkUnRDR3JRRW1lYTVDanJYcjREYVYxR1Fpd1NybHdJazhNVC1sNDAtSkZudElQeXhOb2I0UldQT19vREs5b3ZZMHFtZk9KYzJhT3piRmR5STlSdC1LTkRpc1JDa0w0MnlwVVhDYzJJekZVMDJjc2FBUmtBMFdSeGR3WE5HNkd2TDE2aWY3V1pUam9ob09LTUcyMUpyRUtEYWM1cUllRm5OdnFtZ0tGWi1IeTVvaVVn?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-02T04:38:00+00:00",
-      "description": "Several U.S. military aircraft crash in Kuwait as Iranian strikes continue  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-03-02T11:16:45.146423+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "67326891cfd4"
     }
   ],
-  "last_updated": "2026-03-19T11:16:08.509253+00:00",
+  "last_updated": "2026-03-19T12:15:58.640105+00:00",
   "total_count": 1000
 }
