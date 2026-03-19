@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "A drone drops knives, bandannas and hair clippers into a New York prison - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRC0tcEVhQUVBSVNrY1lQd2QyQUlCeFpGR19uLUxUUFBCWWxlc3FObWp5T3Y1V1VwMzkxOU1ZOExhUkVzZEg1elN6TGlxbUlGSVI0el9kUHI0X1FtbUtsNml0akF6RkFiSDE0ejhWOGlrN0hSZ3dDa1Y3V1diRDczaXVBT0ZZLXpMaEljQnQ1cmhrMURyXzkw?oc=5",
+      "source": "AP News",
+      "date": "2026-03-18T21:07:00+00:00",
+      "description": "A drone drops knives, bandannas and hair clippers into a New York prison  AP NewsDrone drops a package of knives, phone and other contraband into a Central NY prison  Syracuse.comDrone with contraband seized at Marcy Correctional Facility  CNYhomepage.comDrone caught delivering contraband at Marcy Correctional Facility in Oneida County  WHEC.comDrone drops knives, phone, other contraband in NY prison yard  Times UnionCriminal drone drops drugs, knives, cell phones into NY prison during daring ea",
+      "query": "drone prison",
+      "detected_at": "2026-03-19T01:37:20.422597+00:00",
+      "location": "in NY prison yard  Times UnionCriminal drone drops drugs, kn",
+      "category": "smuggling",
+      "id": "5cd9a3c87b61"
+    },
+    {
+      "title": "Drone with contraband seized at Marcy Correctional Facility - CNYhomepage.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXN6bjNfenZrU3BnQVhKMFdaalhWWkw1dFRhWFJkd3pFTmUxNkNqZEMyN0NBSzFGdi15UEo2c09xUUh2YUZqTXFvd19LMktyMkhieGdCblZGeGlvY2lMX2xSSnJFZ0JiQTJ6MkxLSEFWa0p4TlAzQUZtVGdOdUd5WC1fYmVDbmJFcXRyREdoeDFQUERPejUtTtIBngFBVV95cUxNTllvWEVha2RRaWp5dFFOWDQ0UE5JU1lqQ25HUGZCdWZhVmQ5ZFNuQTA3bkFiM2dlZEdNYmtDbTRPN3JWRjM0a0psQ09ZWTdCcEtRTEVFYjdzaFhacnhSQzVfVHJHc29MdE55MVpiY1Z6dS11SU1Kakt1YUdpVzZaYkFMVGUzUEFVbjFqTWl2S1FYTV9sU1VQVzVGYnItUQ?oc=5",
+      "source": "CNYhomepage.com",
+      "date": "2026-03-18T16:31:47+00:00",
+      "description": "Drone with contraband seized at Marcy Correctional Facility  CNYhomepage.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-19T01:37:19.559375+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "2ce721b89ed4"
+    },
+    {
+      "title": "Drone helps capture shooting suspect on Tucson's southside - KVOA",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNTN1ZW1tV1lMb2ZfVVotSXd2TzV5N1Z5SF9aVmEzR0g1RVhYTTBnaUgxZWxMbG1zOVFlR18yN0FVTDVKVndOdnBLMTJDSFFyTGRaaFNyYWFEQWNrMTJHUC1WdGZjMWkyTXppZ1ZMUEJVSEtGTU5iVXplVUJPQ0hMaGx3YnpyR1VIaS1LZm1DNVI5akxHTUhTUk84MXE1VHM0Q3oyVjJEa1duNXNnVXNvYVNFUk5IWTMyaEZ2YnpsTVZ6ZlljZlMwbllKYS0?oc=5",
+      "source": "KVOA",
+      "date": "2026-03-19T00:17:00+00:00",
+      "description": "Drone helps capture shooting suspect on Tucson's southside  KVOA",
+      "query": "drone arrest",
+      "detected_at": "2026-03-19T01:37:18.757691+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "51d90e5d416e"
+    },
+    {
+      "title": "A drone drops knives, bandannas and hair clippers into a New York prison - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3dwZHVFZHVxbzBSR2Rzd1I2Z29PbE5UbkNnNHZOVE1ZZkVKRV82emkyRW5PaktvWGFzUllzVXhiTjZNbUZvcFE0a3JQaXd0Um1sM29OaG14OVJKWHBpa1ZSaWdwaUlaUWRXN2lUWEZqcGVCQ3lsWDN6YlJaZXFqZW9WT1RSeGJwaThNWXhSaVhmRk5zcDA0OFJMcEY?oc=5",
+      "source": "WCAX",
+      "date": "2026-03-18T20:24:00+00:00",
+      "description": "A drone drops knives, bandannas and hair clippers into a New York prison  WCAX",
+      "query": "drone incident",
+      "detected_at": "2026-03-19T01:37:17.990246+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a4f656cd96dc"
+    },
+    {
       "title": "Officials seize drone carrying contraband to state prison in Marcy - WRVO",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXNwVTYtOVZ4eEV0Z3dibFBYX1NzbHFxdWZ4bkV2YzFESGRvRzI5OHFzWnlGc0Z3dXROcWhwQWR2aVdtaWhpcTJmbUlEYUVyRGtHRmJrUXh2NUZ0Sk5iV3dCVlZZVDVZRUIzcWp0VFNaZFBGa3NfakxnWTM0OUZXRmlPR0ZValhYSDgxVmFEUlRMTEsxdXdVS1FvWHRhLVk?oc=5",
       "source": "WRVO",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7f7d5afee804"
-    },
-    {
-      "title": "Drone crashes in northern Tafilah, security cordon imposed - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cERsVW9XTFFLaHQzQUxuanZ1VEVRcVI2N2VnRzA5YmJ0cnlBWHdqVDFfYjVocFJ3VnJrSFgtaFJCbWxROWVSNg?oc=5",
-      "source": "Roya News",
-      "date": "2026-03-01T14:15:01+00:00",
-      "description": "Drone crashes in northern Tafilah, security cordon imposed  Roya News",
-      "query": "drone crash",
-      "detected_at": "2026-03-01T19:07:54.213713+00:00",
-      "location": "in northern Tafilah, se",
-      "category": "crash",
-      "id": "8189809cbb9f"
-    },
-    {
-      "title": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElKcXM3YmRWWjIzRGtLeE92cG1FMG9oR0tCbGxvMXRsMndRa3doVzdaMF9WS1E5eXZEcDhNLWZ6SGdmZmxwbTN0Y0xQYnY2eXc5djlhS2pHZndFTW43TTRVN1BUeFl4c3NSTzRZTFBKalBuT3RIck5jdGY0cXRoWjRoN1N2SDd0?oc=5",
-      "source": "AOL.com",
-      "date": "2026-03-01T15:59:09+00:00",
-      "description": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone  AOL.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-01T18:08:47.736063+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "74ccd33ccaed"
-    },
-    {
-      "title": "Iran launches retaliatory strikes at targets across Middle East - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0SGJGVW40Y0NzOTE3VWtKakFISVVxTzZIRmI1NklLNXBBMFAyblhiWkx3dHR0ZXdGSkxNZTVGRWpabXB2M0liZmJkZVNwU015LThPTXhSeV90Zw?oc=5",
-      "source": "BBC",
-      "date": "2026-02-28T18:15:02+00:00",
-      "description": "Iran launches retaliatory strikes at targets across Middle East  BBC",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-01T18:08:47.736063+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c9cc44e7876c"
-    },
-    {
-      "title": "Drones Target Kuwait Airport in Security Breach - FilmoGaz",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LUXRBRThTQ0drY3I1Nl90NVlQeVJFd3l4VThVZ3hqQXRuNVFVanhzZEhDVXhBY2Z6SUVpRUJ5MDZ3MzlUdkE?oc=5",
-      "source": "FilmoGaz",
-      "date": "2026-02-28T16:23:05+00:00",
-      "description": "Drones Target Kuwait Airport in Security Breach  FilmoGaz",
-      "query": "drone security breach",
-      "detected_at": "2026-03-01T18:08:47.205448+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "3519e07dd597"
     }
   ],
-  "last_updated": "2026-03-19T00:32:35.887529+00:00",
+  "last_updated": "2026-03-19T01:37:30.629356+00:00",
   "total_count": 1000
 }
