@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone drops knives, 'green leafy substance' in NY prison, staff says - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0NkaXJVRmtzbS1qS3owaGp6TnpqSWEwcFJQRTlubnQ1eHRoVGhTZkhTb1RNVWtjRFg2VWlQZ2szcHAyOVpXODV3VnVqTEJNOGZremgtYmZ0Njh2NTdKMkVYaURnUEZqNHlCV00wQ2JZbnhFbWpfNUpFc0tOc0dGdkRSeWNIc2FDMXNrcm5lVkw2U0Y2WTFkYlJmeExCNUw2M05abktobGI?oc=5",
+      "source": "USA Today",
+      "date": "2026-03-19T06:22:00+00:00",
+      "description": "Drone drops knives, 'green leafy substance' in NY prison, staff says  USA Today",
+      "query": "drone incident",
+      "detected_at": "2026-03-19T07:23:44.140414+00:00",
+      "location": "in NY prison, st",
+      "category": "smuggling",
+      "id": "6bb4df08c207"
+    },
+    {
       "title": "Dubai airport resumes flights after drone strike disrupted operations - MSN",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZkQ2Y3ZVNGtPQ0FoeXBHRi02UngwODNReXAyWGJjUklOekRqc1FuYTFkXzIzYjZRYTVKQ1ZXZU5GVWhoV01MRnN6WV9HNGZ5N0ZLWlFQT1RYZWE0b29UeDN0dFNmZWo0b2tPc3phWWFycE01aDdmaGxBR3dLZlhrNlZyeWlRLVBndWMzc29DeTdyUW5XUjZ4cVhlRTNrMjFiby1JOEJnRTRhTDlKN3Y3MGV2TEF5b1pVT2pka3NZV21ZeFZvXzQ4dzEwS0JRVmExeEl0d3U4bEZJZkJ2a2tHQnhWZlBTb1VXYTF3NngtUlhLV0FNQkh0ZzBEZlV1a1ktX0dBU3hmLUY2SnFiTHpSdmptMVZwMGt0WDhlNUhyc2hEUEo4ZzFXWEhJejBjQ3UtdkZIaHdzYjhFZ3RxZkJTMjBHOXZGbG1fdC15N0hLS1c?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "75fb664bd0ee"
-    },
-    {
-      "title": "Drone crashes in northern Tafilah, security cordon imposed - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cERsVW9XTFFLaHQzQUxuanZ1VEVRcVI2N2VnRzA5YmJ0cnlBWHdqVDFfYjVocFJ3VnJrSFgtaFJCbWxROWVSNg?oc=5",
-      "source": "Roya News",
-      "date": "2026-03-01T17:15:01+00:00",
-      "description": "Drone crashes in northern Tafilah, security cordon imposed  Roya News",
-      "query": "drone crash",
-      "detected_at": "2026-03-02T00:30:13.555754+00:00",
-      "location": "in northern Tafilah, se",
-      "category": "crash",
-      "id": "25ef7c3376c8"
     }
   ],
-  "last_updated": "2026-03-19T06:25:00.350024+00:00",
+  "last_updated": "2026-03-19T07:23:49.724392+00:00",
   "total_count": 1000
 }
