@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "‘Not a Big Brother situation’: Fulton sheriff uses Flock drone to keep out jail contraband - WABE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDRHM3h3WWZ6UmNEWnFDMlpoX0hlM3dmZ3hXY1VNWnFITnJOVzNpbWNqcnNlN2pWc3VjVHd5RVVWdGE3QWZKbGVtS000U0xERVhvX0IzMWoxekk0d00xSVlNSzFvajFxcDE5LU9CM1p5VnYyYi00aDVXNHB0eWFwYkNpbzZRN0s1OFMtRlBSLVd6Uk5mNjRsdUJYS3N3TmNWVklTdVNjMFNfekFIM3c?oc=5",
+      "source": "WABE",
+      "date": "2026-03-20T21:51:48+00:00",
+      "description": "‘Not a Big Brother situation’: Fulton sheriff uses Flock drone to keep out jail contraband  WABE",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-20T22:08:16.408756+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "29b5605c8ef6"
+    },
+    {
+      "title": "Czech authorities probe suspected arson at a drone technology company - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnVkRVp5V3NaRnh4RzV0V0JCZjU5VWVQRlRROUtSLTdTWnBKc2Z5Rzk5endza2JIelhfSlY2VkU4NmUtZENtSWJzdk4ySUFUcUpQeHFUMXpFQnFtTm0yaVFaRmlxazhXVWVfWkk4QVowTlpmcExRZ3RvVXVVcGNqeUVNUGllX1ZvdElyckNPM3B5XzhTZEtOMWdWU2EzN1U0TnVXN2dZeDM?oc=5",
+      "source": "WRAL",
+      "date": "2026-03-20T15:26:38+00:00",
+      "description": "Czech authorities probe suspected arson at a drone technology company  WRAL",
+      "query": "drone terrorism",
+      "detected_at": "2026-03-20T22:08:15.906263+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0b4044ac66af"
+    },
+    {
+      "title": "Delano man sentenced for dropping meth from drone into prison - The San Joaquin Valley Sun",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlXZ1daWl9mZXo5VGpkWngyejVuOEVXSlRxVDdMNjJReEppUi05dGdzbC1mOWd4RDVicVJZU18zMW5leUlKV1o4NW9lamdVZUs2akxUbjV0LUxoZUpEMDNlNXZqQXZZZGxKd2V6dU5KUDFGT3ZvZUhCYmo1TVBSenR1Y2FDTmJvT2FDb3BqZ2ZOVmpERFZEYWtDUlRLM3c?oc=5",
+      "source": "The San Joaquin Valley Sun",
+      "date": "2026-03-20T21:39:28+00:00",
+      "description": "Delano man sentenced for dropping meth from drone into prison  The San Joaquin Valley Sun",
+      "query": "drone prison",
+      "detected_at": "2026-03-20T22:08:12.933792+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b6ecd9a98f19"
+    },
+    {
+      "title": "South Bend police use new drone to track suspect after motorbike chase - WNDU",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0VTdjVEMmVqZGhkZVZ1TmhzSC1NbUZUak9sclFYeGFuOExrRHU4OTRLcXBDcnJPVFpaQkI5QlhSUm03TEs4WFhQLW8tUkMzWUJHclZjR3dKblNxZ1R2M21nWmpFUkpUbkpQaVZhd3UxZ3FKajhFbGZReGFBY3hMYWhLOHhpak1PVUJPeEQzNUJyRGdQNlNFRk9KY2FrN3M0UXfSAbYBQVVfeXFMTTNGU2pwbENqUUFIcVFNTnY1ZXZlTTRJeU1YTTRyZmJ1dlN1TjNOUVZUcTBuNHVzWnFpTW1xeGhuSnluQVY2b0MwQ0dxVGl4LTE1QXIwQVVrTEpFV2hua1hwRWFKOHFkenp0TWhrWGl4LWladjA5RGt0UndWaXJ2OTgyaFFOSFR5QzFTNDJkaVBfMC1aX2ZteFR1VU0zMUlIdnNSd0Qta1VWaUJ6V3F2U2Q2UWhueWc?oc=5",
+      "source": "WNDU",
+      "date": "2026-03-20T19:00:00+00:00",
+      "description": "South Bend police use new drone to track suspect after motorbike chase  WNDU",
+      "query": "drone arrest",
+      "detected_at": "2026-03-20T22:08:11.813685+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b5bbc41d43e0"
+    },
+    {
+      "title": "San Francisco police credits surveillance drones with aiding crime decline but some have privacy concerns - ABC7 San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONnVtRDZKWlFiaXdMQUwwelRZRlkyN1dlQnlZUXRQVWsxWDFqU05kWmJaOE1GMnYxN01RczFNZ1ljc0tQUDFJbWp1Snloc1ZnS0hnTlhmTnY0RkhPcjhmNTBOcnJPWVNhbEN3ZGpQWnBvSlg1U25vSjhDSGctRWdGVlkxbzBaaFl1aUlaSE94TVVpS3dWdUtRNWxzeERYWDNfVUpHQVBBbnYwZUREcF9LOExBa0pZcWhUeGdGdkVraEpnbnNJa1HSAcsBQVVfeXFMT3pmWGZrMnp3M0lHUE9yVXk1M21iaWotRi11Q20wX2stTGluaFp2cUF6RGRLQzhpdXhSa3BydWVPbC1FMDNIdmUtNlo4ZkhlWWE4RGJZNzVxVkRSaGJYLWdXMkFoMmlvLWJPYjk0MkhXa1VwMmhfQnhyMHNxZWgyREZiazM5b2tCUVZhM2wwTVZrSmYzVjRIT256WmM5bzZuUFVtX0o3YXhaaXAtZHZqOGN0eXJjemlLMkJzdWJJd3A5dlpvc01mdGxFUDA?oc=5",
+      "source": "ABC7 San Francisco",
+      "date": "2026-03-20T20:06:38+00:00",
+      "description": "San Francisco police credits surveillance drones with aiding crime decline but some have privacy concerns  ABC7 San Francisco",
+      "query": "drone arrest",
+      "detected_at": "2026-03-20T22:08:11.813685+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "34894e8f16b3"
+    },
+    {
+      "title": "Barksdale Airforce Base investigates drone incident - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnIxVDA5eXJjaGVkMGY2dU9lNkhuWENNYmpVbzVtN0xQTEYtSmtycTI5azlNV3FsZmJVZFZLR3R0S2FzX2FKbEpjemtJVDcyX3JHZlVHNFZ2RVdac3FsTHNCdlVTbjM1YmVEdF8yRUl0T1R2RWExVzhlSTZCaU5zd04tS3RMRndGQ19xekVCYXFQQQ?oc=5",
+      "source": "WRBL",
+      "date": "2026-03-20T18:58:18+00:00",
+      "description": "Barksdale Airforce Base investigates drone incident  WRBL",
+      "query": "drone incident",
+      "detected_at": "2026-03-20T22:08:11.176126+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a97132e8cc1e"
+    },
+    {
       "title": "Czech authorities probe suspected arson at a drone technology company - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSVJ2THpZVXZDRWRxNHM4dHdrRmF2dG0xUnR2dVhfRjliY3A3b3JNVVZSdE1fZmNIUm1XRkdQOE5ZYXZ5R2sxQzlGTHlvcmdsZ1lCblFOajFxemNYUDQ3WklUbDdZZ1piOWI1NXJtWUlPXzZJdDV0dlpKTzQ5QUNkMm54ZUF0T1RUSmhLclN0X3F2cTNJVDhLdF9QVHVnQ3lRZzFfUkZvc2VZY0xXQUloX2ZpOHRWMzFNQmR6M3BRUjJfUDlkc0RCampHQ2hLZw?oc=5",
       "source": "The Washington Post",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "8370db5a21b0"
-    },
-    {
-      "title": "Gang jailed for drone smuggling scheme likened to ‘Uber Eats for prisoners’ - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzZfaDdaLXdmWUVWQ0xMTkhvN0VqZ2VEZnU4U1U1THc3c3hPekNkMjZRa0tyWXdKNXJMZVV1SHppZ2ZFck9lMFF3UGdqT1NpU05sQzFLTW9xb1M0UDh0bVJ0Z01RWnc0a0tSUTdlMFRRWVdBMTRtd3ZhY0Y1ZFNsRFE5SHVNLTA0OWdtUnF1b1hxbGc?oc=5",
-      "source": "The Independent",
-      "date": "2026-03-03T14:34:00+00:00",
-      "description": "Gang jailed for drone smuggling scheme likened to ‘Uber Eats for prisoners’  The Independent",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-03T15:19:49.229177+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8486a73c2abe"
-    },
-    {
-      "title": "US embassy in Riyadh hit by Iranian drones as Israeli troops enter southern Lebanon - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXVfVzVBQlZmQnpDX042TFZTSlhfVFh1d0tDb21ZLWxySWtydVQ0OWF4Y0VHaVRnUGoyYU85NG5OU0lVc2kxZWZ5MDl4TnMwN3dFUFdPQ2VPYXNhd3RONDRWSXhNanhJMHl2Um44RGtGNnk0VXh3OFNDWktDV3dqSExENlRsREJzQlk5T1l4SlN6cWNhQmRrZVpMblNNNzM3OWVLdHpidDNFMlR6empSWVRHMjI?oc=5",
-      "source": "The Guardian",
-      "date": "2026-03-03T11:29:00+00:00",
-      "description": "US embassy in Riyadh hit by Iranian drones as Israeli troops enter southern Lebanon  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-03T14:18:51.437476+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e205ba4869b9"
-    },
-    {
-      "title": "Iran war: Much of Gulf, Israel halts oil, gas production - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBVM1RNT1RoMUR1MFdPOG12RVl3MDdjV2I3dUdKOWJnYm5pWlNlR2VrUk05ekV4OU51ZXM0QVJvSDBWdXZDTElIN2kxT3JqNG1wX2NteGZqcUZwQ2RiTXAzdDBNSlEwd01HMFM1eXlOZVZ6UTFPMjhqRUlNYmJvRkU1eFkxUXNQUWN5ZWlB?oc=5",
-      "source": "DW.com",
-      "date": "2026-03-03T03:22:26+00:00",
-      "description": "Iran war: Much of Gulf, Israel halts oil, gas production  DW.com",
-      "query": "drone crash",
-      "detected_at": "2026-03-03T14:18:49.452937+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d9870feb7e48"
-    },
-    {
-      "title": "Seven jailed for 50 drone drops into London prisons - Hounslow Herald",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFI1T2otQld2OWYxYTVwYkMxMXJ1OVVjZXVBeG9XNUUzUWF4SDBJT0phWG53ZHM1bGdkQXBsdktwaGM4bktsOUE2ekM0MWstaUxfNk01d1RnMzJzMl9DYm5haXpsLWtZMGdCaUNtUmUyckRHVVJzemZ4V2JXWVRGTFNKUFJTUFp3MkVlZ3FqX1hwdzQ1?oc=5",
-      "source": "Hounslow Herald",
-      "date": "2026-03-03T13:52:40+00:00",
-      "description": "Seven jailed for 50 drone drops into London prisons  Hounslow Herald",
-      "query": "drone prison",
-      "detected_at": "2026-03-03T14:18:47.751943+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d54a51b2b547"
-    },
-    {
-      "title": "How a drone smuggling gang ran ‘Uber Eats for prisoners’ - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUJRUHZiVDg4dG9sVjYxb1BwVkxaTTVST3hNcGRxdTdyTnN5WXBLNHUwcGFhTV81TkZMekxJSm9Uc0puNFJsRVRBR1VDZFh2STNLWGJtNjZNSGtKR2VxZTlUMnlfQUtRU2lJdlJlenJLOU5CNUUtRENNVDRrMHJUWHFmTEJLT0dVMk9kamtSLXZrS1U1ZTU1M2lFS0w4Ry11Rk5ZY21sTjNQWHdJZUthUlln?oc=5",
-      "source": "The Independent",
-      "date": "2026-03-03T13:54:00+00:00",
-      "description": "How a drone smuggling gang ran ‘Uber Eats for prisoners’  The Independent",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-03T14:18:47.137598+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "037dab264474"
-    },
-    {
-      "title": "Gang that used drones for prison drops jailed - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YbHZQMko5WENVdWpSTllvcmx6ZTNZM0NvaTJ5YmR4X00tcVpJbHNZWTloNWNDNjMzMm9qSDlrSkJMRmJOaVFZRUQxc2xlZFYtR2lTbF93WUtBZVl1?oc=5",
-      "source": "BBC",
-      "date": "2026-03-03T11:51:43+00:00",
-      "description": "Gang that used drones for prison drops jailed  BBC",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-03T14:18:47.137598+00:00",
-      "location": "at used drones for prison",
-      "category": "smuggling",
-      "id": "a8f28c3283d5"
     }
   ],
-  "last_updated": "2026-03-20T21:09:57.683442+00:00",
+  "last_updated": "2026-03-20T22:08:16.931649+00:00",
   "total_count": 1000
 }
