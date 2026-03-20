@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "'Multiple waves' of unauthorized drones spotted over strategic US Air Force base - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDREVGlPcFdnU3J6Y3l3WjI2MHU3bFlqY0Zpc2JlRjg0ZnRINjU2NmdPWUp6QXF2SHg5b0FoSklZU2dlc3ZSNHpqWWMzUFVxTVBJaEN0SnhJZ0g0LW9XSTB6UVJWalNlemd3dV9ZUTRBSkFCSlJLSk5ydkc2bC1ra1Z2YUo3ZDRYaXhzZWo4Zw?oc=5",
+      "source": "AOL.com",
+      "date": "2026-03-20T10:52:34+00:00",
+      "description": "'Multiple waves' of unauthorized drones spotted over strategic US Air Force base  AOL.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-20T11:12:49.015097+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "026ea05ca8ad"
+    },
+    {
       "title": "Drone Drops Contraband From Sky Into New York Correctional Facility - hudsonvalleycountry.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VdWZqRWZtazZyNDVyRUZWbG1waFR0a0pQWnUxTXdZS0NkdzRMMU9ZVzR4WEVRU1cwcGt2OFlIbFRmNFc4UXBiTWRZWXpYeXJDQWZnUExnZjBWWXZPcVFYRzBKYUlWTU9RT29yNms5aTd0QkxtZjZmYg?oc=5",
       "source": "hudsonvalleycountry.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "a800de6a1abe"
-    },
-    {
-      "title": "Iran war: Much of Gulf, Israel halts oil, gas production - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBVM1RNT1RoMUR1MFdPOG12RVl3MDdjV2I3dUdKOWJnYm5pWlNlR2VrUk05ekV4OU51ZXM0QVJvSDBWdXZDTElIN2kxT3JqNG1wX2NteGZqcUZwQ2RiTXAzdDBNSlEwd01HMFM1eXlOZVZ6UTFPMjhqRUlNYmJvRkU1eFkxUXNQUWN5ZWlB?oc=5",
-      "source": "DW.com",
-      "date": "2026-03-02T20:15:00+00:00",
-      "description": "Iran war: Much of Gulf, Israel halts oil, gas production  DW.com",
-      "query": "drone crash",
-      "detected_at": "2026-03-02T22:09:23.285662+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9a3d5c8c07d3"
     }
   ],
-  "last_updated": "2026-03-20T10:14:22.338890+00:00",
+  "last_updated": "2026-03-20T11:12:49.498768+00:00",
   "total_count": 1000
 }
