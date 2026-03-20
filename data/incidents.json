@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "'Multiple waves' of unauthorized drones reportedly flew over sensitive areas at Barksdale - The Shreveport-Bossier City Advocate",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbkhVOEdhQUF0VkhBQ0hQcTU3OTAzVjZzTzlWQ1hPQ3BIUTdpUVlXWV84T01YTUNsREgtVmRHUEQwbFFsY3l6VWZ2TDdRcE5oakM1eF82MGNGZUdzRlZxRzF3SVRYdlZKZV9JbE9LYWRQZlljQ0dFQ0FuTUNIUFNtaXdKQUwyOU9rNEhTeTBRcFR4b2NqeDRBSXFXYVZFVUpuR2lEY0pJbXJBVkxaMzNoQmtDR1U5M0hqdFE3WXJkWG5iYjJ6S2NmQmhzcWM2X2x3a29NYjZEN2pPbXRFcWJFX3lMa1JsRGhmV0dReFJsaVRWMnBiRW5ySV91SHBhWTQwYU5jZXpkcmJ0MTJtMFZzMFZB?oc=5",
+      "source": "The Shreveport-Bossier City Advocate",
+      "date": "2026-03-20T16:08:00+00:00",
+      "description": "'Multiple waves' of unauthorized drones reportedly flew over sensitive areas at Barksdale  The Shreveport-Bossier City Advocate",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-20T17:16:41.048937+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "a163b327b164"
+    },
+    {
+      "title": "US Interagency Task Force Emphasizes Zero-Tolerance Policy, Cracks Down On Drones In Restricted Airspace - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3RENGhuRnZzNkZ4a1hUWDBWY1ZUMGtFV1p6ZDhHby0tdWZCZlhZSUZyWHBDRmxybXdJTmNKem0tN1Q4N1NGcUhjeFdmVGpHdEFYMk8wT1hOZS1QNWhIN0NjeWlOVGJwdE0yMkRJelNiUGdtWm5NdjFGNmF2ZVBseFM3RVcyZFlIQW9QSThDYUxUOTZGMTI1Nmlwc29HM3VMRFRxbE9EczI0TXM0QXdySnQ1U1lQZmdYd1pvUUFiOUdSQmt2OFpDMi14RHU1bUYtUmRYRV8wS2FucFU?oc=5",
+      "source": "Eurasia Review",
+      "date": "2026-03-20T17:12:02+00:00",
+      "description": "US Interagency Task Force Emphasizes Zero-Tolerance Policy, Cracks Down On Drones In Restricted Airspace  Eurasia Review",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-20T17:16:41.048937+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "1176b2d7bd27"
+    },
+    {
+      "title": "Unauthorized Drone Activity Over Barksdale Raises National Defense Concerns - News Radio 710 KEEL",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91N1FwQjA1RGFnTF9yeDdqMmFJV0YtUnJLamtaRFZLRjBUbjlNZUtMZTBTMmp6V01YcGI4UG9OamNPVVV3OFVKU2lwU3pBc2ptTnFtc1lGVm8?oc=5",
+      "source": "News Radio 710 KEEL",
+      "date": "2026-03-20T16:47:14+00:00",
+      "description": "Unauthorized Drone Activity Over Barksdale Raises National Defense Concerns  News Radio 710 KEEL",
+      "query": "drone security breach",
+      "detected_at": "2026-03-20T17:16:39.880056+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "53580ff0987b"
+    },
+    {
+      "title": "DOD threatens ‘severe consequences’ for drone operators flying in restricted airspace - DefenseScoop",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmNIYnhLaThIb21LQUxWNHRFeUNRNzZfRk1tY1F4Z2VNWTk0Z056TjFSZXJ3TzdSWkRmRWNJNVdjOE56TkFZZ2VFaF9CQ3pheWFVZmxwZWVpdmdQVGltSHQzeVBSeTVDYm1kekh5bkE3czR6ZTYwNGJ6dXFTYUdyWXR3Yi15eEFvM3BjNXNRY3NVbmp0UWU1cWRWX2FGRmJW?oc=5",
+      "source": "DefenseScoop",
+      "date": "2026-03-20T16:43:46+00:00",
+      "description": "DOD threatens ‘severe consequences’ for drone operators flying in restricted airspace  DefenseScoop",
+      "query": "drone illegal",
+      "detected_at": "2026-03-20T17:16:39.060451+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "3243d06ae62f"
+    },
+    {
+      "title": "Man gets nearly 13 years for trying to deliver meth by drone over Kern prison - KMPH",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjF1bzNYeVEwVXdNaVpublF4U0Utb0ZmY3ZPVmVLTTVpLUU2VWtCVGx4c2ZBaXBCOENST3hrNTNQWGtPOVl1Yk1sMU1YakMtVTZVV1pZRU05OXpYUjFNalFwMUItRlJtem1kX1lMWXdCbVhTbFd1TzQyZnM4YXU3blNrSDkteWFSNzRlLUZtVTItVGJsRHpPY0V3RXRYZHU4eDV3em1IMTE?oc=5",
+      "source": "KMPH",
+      "date": "2026-03-20T16:28:36+00:00",
+      "description": "Man gets nearly 13 years for trying to deliver meth by drone over Kern prison  KMPH",
+      "query": "drone prison",
+      "detected_at": "2026-03-20T17:16:37.102849+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "065c9cd0acc3"
+    },
+    {
       "title": "Kuwait Warns Against Illegal Drone Use Amid Heightened Security Measures - Arab Times Kuwait News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHQ5Qk1qN0ZnVWJ1N1ZWZmo3N3o2M21FbXdNVEVJclZ6MVJ5MTZpWmFLYVpRaFpXRzZnRFhXZVNSY0ZkeWdBNEMyZFZOQi1YMzNQQTlZc1Y0Sk02YW5SYW44c1otbDhGYkRBZHJMNVI4eUFDUEtpbjFXVERnbGVmRnQ2RlVOYkFfMzN5cTJpOE4zTjc3bXpCQVVLdlZ3bm1aZ3JLYm9ldnBhQkxMSU53?oc=5",
       "source": "Arab Times Kuwait News",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "91fdcf59fc88"
-    },
-    {
-      "title": "Iran war: Much of Gulf, Israel halts oil, gas production - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBVM1RNT1RoMUR1MFdPOG12RVl3MDdjV2I3dUdKOWJnYm5pWlNlR2VrUk05ekV4OU51ZXM0QVJvSDBWdXZDTElIN2kxT3JqNG1wX2NteGZqcUZwQ2RiTXAzdDBNSlEwd01HMFM1eXlOZVZ6UTFPMjhqRUlNYmJvRkU1eFkxUXNQUWN5ZWlB?oc=5",
-      "source": "DW.com",
-      "date": "2026-03-02T07:13:29+00:00",
-      "description": "Iran war: Much of Gulf, Israel halts oil, gas production  DW.com",
-      "query": "drone crash",
-      "detected_at": "2026-03-03T08:14:13.124510+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "936bf71859f4"
-    },
-    {
-      "title": "Hezbollah claims drone attacks on Israeli bases - breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHZjQ2F4ekpQZUhvWTZNWDliSWRQR1YxUXp1amxYcmVFdlBVSzJmQ3B6RVBTdjhBYlFHd1BaVTJKWHg2aHNiYUFQaUktMThkdjRfeE11LVBXRnhhQlpIREo3WWRFb0oyS2pMd2F3NjI3TU5rX1FObWI0ZWdzenBzNWZUYVB6eVptWGVYWG51Tnl5SzZYZ19Z?oc=5",
-      "source": "breakingthenews.net",
-      "date": "2026-03-03T06:51:00+00:00",
-      "description": "Hezbollah claims drone attacks on Israeli bases  breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-03T07:20:12.728112+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d64ee7ced7c9"
-    },
-    {
-      "title": "Suspected drone infiltration sirens sound in series of northern communities; IDF: incident over - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHByNl9hUVRUUGpZYUlwc1YtVkoyNkFKX2ZjN3hxRzRMTW9UbklnMUpfOEdIUUhhLW9aaEEzVWpHbEx5cHkzYTd3a3BqeUM0ZUhJLUJyc1FLdWQwMWtZNFE3eFVkUUN1U2FrWllaMTdaUkkybmlNcXhxZTZ0a0FTRmtWdnY1RThrcmFrVHZ4cDVTWndnRlJ5QkNRaEd5WGFtdGd2OF9rXy1lQlowbTdPbEpZNFg0WTJ3Z0JpOW5R?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-03-03T01:28:47+00:00",
-      "description": "Suspected drone infiltration sirens sound in series of northern communities; IDF: incident over  The Times of Israel",
-      "query": "drone incident",
-      "detected_at": "2026-03-03T07:20:08.341078+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f294adb3495e"
-    },
-    {
-      "title": "Police Stop Drone Deliveries of Contraband to Greek Prisons - Greek City Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2xwYnBVczNDaFZyZXFpcGdUWEE3R2ktMWVxUVhyZFJMLW5PWUFnaUhEcWZlM1M0NG9vRy1tUDRJcms4YTFBdVdScWhLN0tTMHdyaXc5Q3hxUW9KbUlvOWRCNU9sdU5nTzE2OUVpcU1CZWF0NzloRUl4dkVXeUdSR3FkS1pKOGNWd0hEZjBidFR4RHl0Y1NlYzdMVlpaUWc?oc=5",
-      "source": "Greek City Times",
-      "date": "2026-03-03T05:18:11+00:00",
-      "description": "Police Stop Drone Deliveries of Contraband to Greek Prisons  Greek City Times",
-      "query": "drone prison",
-      "detected_at": "2026-03-03T05:25:14.860300+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b180a8db2873"
-    },
-    {
-      "title": "In maps: Strikes across Iran and the Middle East - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRUpYN0FvVmZYemhQRWd5aE8wVXk0VVhVWkNBVkZQQVRvWDd1OThuSGdvclZBaTd4UFpjS3ctUjlBZlBodnNLaUNYbnJFUDBLenR2cnZzVV9lZw?oc=5",
-      "source": "BBC",
-      "date": "2026-03-02T18:55:18+00:00",
-      "description": "In maps: Strikes across Iran and the Middle East  BBC",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-03T04:36:40.608200+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8551e8ee4763"
     }
   ],
-  "last_updated": "2026-03-20T16:16:42.732953+00:00",
+  "last_updated": "2026-03-20T17:16:41.609014+00:00",
   "total_count": 1000
 }
