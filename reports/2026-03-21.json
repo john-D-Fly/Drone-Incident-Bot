@@ -1,0 +1,135 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple incidents involving unauthorized drones have raised security concerns, particularly over U.S. military installations housing nuclear-capable aircraft. Reports detail waves of such drones detected at various air force bases, prompting military investigations. Additionally, there were notable disruptions at airports, including a shutdown at Dubai airport due to a drone strike. Incidents of drone smuggling into prisons continue, with one offender sentenced for dropping methamphetamine from a drone into a U.S. state prison. Policy discussions are emerging regarding stricter regulations for drone usage, highlighting a crackdown on illegal drone activities as authorities enhance monitoring strategies.",
+  "totals": {
+    "security": 11,
+    "other": 9,
+    "arrest": 6,
+    "smuggling": 9,
+    "crash": 6,
+    "terrorism": 6,
+    "airport": 5,
+    "total_incidents": 110,
+    "by_category": {
+      "airport": 7,
+      "arrest": 9,
+      "crash": 5,
+      "other": 34,
+      "security": 18,
+      "smuggling": 30,
+      "surveillance": 1,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 16,
+      "drone crash": 6,
+      "drone illegal": 10,
+      "drone incident": 11,
+      "drone prison": 15,
+      "drone security breach": 4,
+      "drone smuggling": 4,
+      "drone terrorism": 12,
+      "unauthorized drone": 29
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity Over Military Bases",
+      "rationale": "Multiple unauthorized drones detected near U.S. military installations, raising national security concerns.",
+      "incident_ids": [
+        "92e46b98abe9",
+        "2d9b4b0edd8f",
+        "c1a50d7d83e1",
+        "c04cb536978d",
+        "89e6fcf82b14",
+        "b36f7392375b"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling into Prisons",
+      "rationale": "Ongoing incidents of drone drops involving contraband into prison facilities.",
+      "incident_ids": [
+        "13044152b041",
+        "9b9d99f9d570",
+        "ee40e995e5e2"
+      ]
+    },
+    {
+      "topic": "Disruptive Drone Incidents at Airports",
+      "rationale": "Drones causing significant disruptions at airports, requiring immediate response actions.",
+      "incident_ids": [
+        "56fc45efc899",
+        "2ae09e7a03e5",
+        "d5bd34cf225f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "92e46b98abe9",
+      "headline": "Unauthorized drones detected over US Air Force base housing nuclear-capable B-52 bombers",
+      "one_sentence": "Unauthorized drone activity reported at a U.S. Air Force base raising security concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2d9b4b0edd8f",
+      "headline": "Multiple waves of unauthorized drones recently spotted over strategic US Air Force base",
+      "one_sentence": "Waves of unauthorized drones detected, prompting military investigations.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "13044152b041",
+      "headline": "Delano man sentenced for dropping meth from drone into prison",
+      "one_sentence": "A man was sentenced for using a drone to smuggle drugs into a California prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c1a50d7d83e1",
+      "headline": "Unauthorized drones detected over US base hosting B-52 bombers",
+      "one_sentence": "Unauthorized drone activity raised alarms at another U.S. military base.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "56fc45efc899",
+      "headline": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits",
+      "one_sentence": "A drone strike led to the shutdown of Dubai airport, affecting numerous flights.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "2f89da1a2fbf",
+      "headline": "Drone report raises concerns about unauthorized activity over sensitive military sites",
+      "one_sentence": "Reports suggest unauthorized drones are increasingly spotting sensitive military areas.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "twitter": "Unauthorized drones raise security alarms over US military bases; incidents of drone smuggling continue. #DroneActivity #SecurityConcerns",
+    "linkedin": "Recent drone activity raises significant security concerns at U.S. military bases while ongoing incidents of drone smuggling present challenges in correctional facilities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-21"
+}
