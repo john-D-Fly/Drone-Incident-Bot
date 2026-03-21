@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Middle East tensions: Fire near Dubai airport after drone incident, temporary suspension of flights - What we know so far? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNajcxV0dMYzJ2T2pJSEVMV1FpX2ZzTmFVUEFRcTk4UGdHMFV0V0hHQjFiZHFieTUtRWVzTU5kSzNlN1FONExlZXdaWGw1TFVMTWluS0U5b0wzbkloc05sbTRMZTItX0w3NTNiem5rVkpPUlFfQ2d3YmhDT2pMUERzZkZ6eFlaV3JzQ092MnVFRDN1RG40QmoxdWI1NlB2dmZyd1EyeEQwc3ZVNmVWNkxJRHJPZDFQVldFMUxiUEdrNVhiOGlRdS1yYUw5YjNHNGtTRGI4Q0RhNUduWW5YT0lNdTgyZVFHalBoS1RYY2pUczJqbWFvLXFpbEpB?oc=5",
+      "source": "MSN",
+      "date": "2026-03-21T16:21:28+00:00",
+      "description": "Middle East tensions: Fire near Dubai airport after drone incident, temporary suspension of flights - What we know so far?  MSN",
+      "query": "drone incident",
+      "detected_at": "2026-03-21T21:07:52.744935+00:00",
+      "location": "near Dubai airport after drone incident",
+      "category": "airport",
+      "id": "272ee05d506b"
+    },
+    {
+      "title": "Bahrain says Patriot system intercepted drone over homes - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGg1TXc0RHJHdXVTNTd5SHBCQ3daUEhHQ21FNDdkYnBYWExaOFVPWWNwRVFVcVZ2MkNwWnBPYkpXek5yM1BTWEJKZU5uNzhqQmc2MER2UVRXOWtldzNubVhpZnVfNWpJVWJwMjJBVFJzd1NXRk9hVzFLU0paaWp6RWNWaU9vZG1QdWRJQVFyRjB1X0xXNE1yWVYtUkk0QdIBowFBVV95cUxOWVc1WEpPUGR5a2Qyb3FIemtfcVFsa1dwM0o2MmcxYy16Y3dFM0QxQ3c0OW40cHBEQWNqdGdHTlR3emJSY2ZZb0QyQXdxcmdVWGxYSGRzR0JUTDB1dmZnWWZPNzNhMmRDTFRiNGVJYzdFYzdkckt4d2k1NHVtbFN5aW15MUtwNjc1S2dLZGpOUDJmelhjR05ZREFuWGpMRmJiQzJj?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-03-21T16:12:53+00:00",
+      "description": "Bahrain says Patriot system intercepted drone over homes  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-03-21T21:07:52.744935+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b81a2d265906"
+    },
+    {
       "title": "Exclusive | NYPD’s new million-dollar, state-of-the-art SUV launches drones, can take down terror devices - New York Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd09DQTQ5TU5fOWJOTF9CeExjUzYzMTd5bVRjYkJSa1FFRmFuMUNKdmJ1MWRWWl9OUnlHQmo1ZlZrWjJjTzdBcW1RRWhDSjJGb0dXNU1XY3hITjQ2b3NRdDZsQUdhNlV1SVY0X29pWjg2dXFubjQxMnhlN3RZWDZPdjlJa2tsNGNlM1IzTUxIcXNZby1uNGNXQ0d0T3RmV0wxM1pFR3YyaVFXcnZUUDFhSENEMGs3dw?oc=5",
       "source": "New York Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "232fb2ddd7e6"
-    },
-    {
-      "title": "Iran war: Israel hits Beirut, Tehran with fresh strikes - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdXVoeklwcHJGRTBST293emNTbGJpSzNGR2pGbDMzc0FaQ2gzQVJQVGdSeDZDZzIxVkdxVHJ4ODlack1xcEJISkJTU1Nob3lITWVOU2NIbEVKLTVlLW5YWHhpMm5VYno0WkN4RXFZWXNkUVo5RWtGd19MTjlRTzVqR25sRWJHaDRzUWFF?oc=5",
-      "source": "DW.com",
-      "date": "2026-03-03T07:29:59+00:00",
-      "description": "Iran war: Israel hits Beirut, Tehran with fresh strikes  DW.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-04T04:35:18.631675+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ddf79916e9e1"
-    },
-    {
-      "title": "Amazon's cloud unit says drone strikes damaged UAE and Bahrain facilities - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnVxbTU2elByNjJJRTd5eUdmMjREc0NuMkFROUN3OW84eV9Xa1A5SWdZTUZQSjlqTFdJTUxnRFlFcG9WaWdzSElxTnhCSXpoSHM4M0hwdGF2enA3V2tPd250WlRxN2lYZmxCTGNJUTdReENfN0NoSktWR2dfZEtNOElQV1V2bFFQdjdCU3lySVpEWWFBUXBUeWVPeGFwbFktU0x1WnE1UDRra1RCY1hZeXFESksxNEIxeV92YTdzcw?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-03T00:32:10+00:00",
-      "description": "Amazon's cloud unit says drone strikes damaged UAE and Bahrain facilities  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-04T04:35:18.631675+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "da7b76e08014"
     }
   ],
-  "last_updated": "2026-03-21T20:06:43.046102+00:00",
+  "last_updated": "2026-03-21T21:07:58.647389+00:00",
   "total_count": 1000
 }
