@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "South Bend Police drone program leads to first arrest after minibike pursuit - 95.3 MNC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0VLdktzQVBWSDdZZkhhbG5STXZrVWNzaGlqcnhQZ1ZVQXJzLXQwRDkzU2pfVGJ1a04wSHQ2TjJjam1NLVRpNDRlYzcwU01vTWVOdGFsdjVGak5HeU1kV2JkLXc1S3ZGTE9yamFYWDFjX19EQ09QaWxmOFRqNC1XVzIyN183eG1MMnZsWEliOFNueGVCUFJVNF82bGQ0elJJRnJRNXphZ193d0IwOTM0RA?oc=5",
+      "source": "95.3 MNC",
+      "date": "2026-03-21T01:00:52+00:00",
+      "description": "South Bend Police drone program leads to first arrest after minibike pursuit  95.3 MNC",
+      "query": "drone arrest",
+      "detected_at": "2026-03-21T01:36:07.902909+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f7931b389c75"
+    },
+    {
+      "title": "REPORT: Man arrested after allegedly attacking man in wheelchair on Las Vegas Strip - FOX5 Vegas",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlhNdDBKVmctT2RHNkU2T1dPVTIxM285b0kxYnlKTkZJazJrc1J2cnJwOXlzTllndXpURzJDbktnelhCcjd6dk55WlRqcFlNb0h0MUc3NTNCcjFlandhSU9DeDJ0SS1jMVNSLXFNVDBPb19FRlV0RlpBdHhHZkFSTkMxME51WldXWTlHcEVKZVAxUXV5WTdkcVBMOGt1NHZOTVdRTzJhaXRPZldVdVJfS2dWWWhIcHVmMEN0RU1CbndwX3VO?oc=5",
+      "source": "FOX5 Vegas",
+      "date": "2026-03-21T01:20:00+00:00",
+      "description": "REPORT: Man arrested after allegedly attacking man in wheelchair on Las Vegas Strip  FOX5 Vegas",
+      "query": "drone arrest",
+      "detected_at": "2026-03-21T01:36:07.902909+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "31b1394d5789"
+    },
+    {
       "title": "Understanding Terrorist Innovation: A Case Study in Drone Adoption - Global Network on Extremism and Technology",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVVEaHJRRzNwbjZsTTh0Ul8xY09IUVE3ZlpwcGNocnBnakNyLVRESjdxSlgxQ2lEM2hyQUR1T01MbS0zc3czTzNUX1hhcVFwa3RqNlVhb1ljWEpSTUJwUS1VaVRMZUl1elpDeUV5bjBLeUhyTkhBcDhEWk1EZWhhUzZtV1Z0dzlZNVd4dEg3RFBxNDEzZ1FKaXludV8zZ0Rrcmp2YmRn?oc=5",
       "source": "Global Network on Extremism and Technology",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d43559f33766"
-    },
-    {
-      "title": "Gang that used drones for prison drops jailed - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VMkNpMjFOUUNDVmMwc2c3ZFNOeU5wbVh4cDlQczVqMFdjOUEwTDdBMGs4NU5xR3ZBaVhGejk1N0pJWWozSGxFUS1pcnpldjExcmhIcGEyUjNoUQ?oc=5",
-      "source": "BBC",
-      "date": "2026-03-03T12:07:39+00:00",
-      "description": "Gang that used drones for prison drops jailed  BBC",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-03T18:17:58.787844+00:00",
-      "location": "at used drones for prison",
-      "category": "smuggling",
-      "id": "da1c348ba984"
-    },
-    {
-      "title": "Gang jailed for drone smuggling scheme likened to ‘Uber Eats for prisoners’ - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LcFBxdXJGaHltUUdnOVlOTWdhTXJFSWxLZV9oNG1HLWZVNW00N2Y5UUVvVVVJaElBanNMSmdNVEp0TVRvOGowYThVSGZ3QjRSeTZCVTJab3hIRlE1dllPT011TlZlaFR0UzVXNm5rMmtaSFZocDVOVXJySC1NR2M?oc=5",
-      "source": "AOL.com",
-      "date": "2026-03-03T15:24:19+00:00",
-      "description": "Gang jailed for drone smuggling scheme likened to ‘Uber Eats for prisoners’  AOL.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-03T18:17:58.787844+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a444a5b852c5"
     }
   ],
-  "last_updated": "2026-03-21T00:29:23.109237+00:00",
+  "last_updated": "2026-03-21T01:36:13.442377+00:00",
   "total_count": 1000
 }
