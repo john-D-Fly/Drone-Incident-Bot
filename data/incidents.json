@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Video New details on drone that shut down Louisiana Air Force base - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91QW04ZVZfQ2JkaHBncmFPUEFOZ2pLTFgxSUt1Tk1GV3RCRlF0TVhIWU0yWldiMnVXWE5KYUExVEJPdmRUMndqdEtkV04?oc=5",
+      "source": "abcnews.com",
+      "date": "2026-03-21T18:46:40+00:00",
+      "description": "Video New details on drone that shut down Louisiana Air Force base  abcnews.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-21T19:09:08.040892+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ec1bbc3d9832"
+    },
+    {
       "title": "Unauthorized drones detected near US base housing B-52 bombers in Louisiana: Report - PressTV",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1JzRklpMDhJWlNMY2tsdWFvZ0dzcC0taHBBWUNPWkxybktydEx3WXVYTnlYQXZQTVRtRWtvcGJlSEYwT1lwMExFcGJOVFUySEI1VHl0Qk5XNmdIeHVOWUlYaldkQmFCSDVpZzFPMHVzLXBHaDhCMUtkeWdkdFA5Y19HZ0VSc2gxOWJFU1I3LVg4dXVwY096THVoTTRZLWR5eDhsZ0hKWENYWjhLRmQweUJGVmx6bTZkOXl2eGRiMEpyOGRGeUp4bA?oc=5",
       "source": "PressTV",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "782c8273e8bf"
-    },
-    {
-      "title": "See reports on drone activity over Suffolk County from 2025 - Newsday",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXg3NWV6VG5fbFhkRzY3NWhqT253UmtORDdFMFBaRGlwTFpoczcyUDFOWVdIejlIVlVzYzlUX1l2cm5heTVPOHFlZHpnQkxPVVk3UF9EVnR6ZEU4WFhaYThHV2w1QXZ4NDRrTjRTWktia1NVWkdvOHZqakQ4cmplN0R3?oc=5",
-      "source": "Newsday",
-      "date": "2026-03-04T01:04:55+00:00",
-      "description": "See reports on drone activity over Suffolk County from 2025  Newsday",
-      "query": "drone incident",
-      "detected_at": "2026-03-04T02:59:11.485975+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dc9269ddcdfc"
     }
   ],
-  "last_updated": "2026-03-21T18:09:48.251146+00:00",
+  "last_updated": "2026-03-21T19:09:08.652840+00:00",
   "total_count": 1000
 }
