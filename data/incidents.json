@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3EzUm1fTGJIZFJYQkdHTk9ScHZBV2ZZeDllbFBrSUdTWFRfbHA4M0N2bTVqRFYtb2ZwakM3RFdZMzFJZm5UbFZiLVcwa2l5VmpLMGtkSjNma2YxaFhJWUl2bVROeHVIbXVUcDk4MTRaME5QRklnM0VYaHJTMEtCYlBScVN6eFpjMlBWU0hZQnhneExvYVZmamZoODFKN1ZLXzg5MDR6RVJKMmlqcEtCbWhPOGRyVF80OFRaeHk0U0RrcmRMQUhpQzZUUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-22T07:52:20+00:00",
+      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-22T15:08:09.244073+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "70dc33448143"
+    },
+    {
+      "title": "Middle East tensions: Fire near Dubai airport after drone incident, temporary suspension of flights - What we know so far? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdkNsUFRCcURVblB2S0F6bWQwMkZEcVR1c3pSQXlneWtJeklTc0pTRHdCUTdvNFJfNzVPSy1TazhMYjh4UG1qaXNGVkxVQTdvSHNYbkc0cEVreG41Y2VBWm9kRXIwanhhakN6NXpOd1dUdFdLLVJyMGw4T0dEYUkzcnJUd0g4dGduLVozbFVFMk05c3EzU0VkeTFCYWFKZmpNUVdzQVFPclp6RmVubnFXWHYwMWhobTA5alNOSkZ2WVU5ZzhxN2FPNHdON1FhXzZVenRLU25nOTU4Y2VuNENnOTZ5ZGtJUGNZM0ViM2F0Y0dkbnFydkVBekRQQUNhZ2FPQXVtdk9PcHNObXM4UUlqNVJoVHFHUWU1OWxJLXNOcXU3RWt1UUhMN0pKOFpQa2s2aFc4YXQ4dEJHbE0?oc=5",
+      "source": "MSN",
+      "date": "2026-03-22T05:25:48+00:00",
+      "description": "Middle East tensions: Fire near Dubai airport after drone incident, temporary suspension of flights - What we know so far?  MSN",
+      "query": "drone incident",
+      "detected_at": "2026-03-22T15:08:07.088920+00:00",
+      "location": "near Dubai airport after drone incident",
+      "category": "airport",
+      "id": "ebe1e062a092"
+    },
+    {
       "title": "Mystery drone swarm breaches US nuclear bomber base in chilling 'waves' - MSN",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVFaRDFxZGRGejZhVEJUdjdDT0FuT3pWSHJYb09xb0NLVl9Wbkp2YUtibmZycExCbFJFSGU3aVlmRUZJLXd4dlljeExISmw4Vkd5QTZqdkswbmZMMWtjT1lrUU1zVmsySV9OTzBiaGlPb0F0dTJaQzlRV0ZjNmRmcGxELUVQaVJaY29FYVhCbG1NUXR5UVpGOThJd0lMd2xrTDlKbDQxcGFoOS0yX2hJbHBsY2J1TWxtcmc?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "aa43c5be4298"
-    },
-    {
-      "title": "Maharashtra govt to expand drone surveillance to curb illegal excavation, says state revenue minister - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV0JUQVN5QVEwdXhkWXFuTUZ6Rl9Mb3hHbGgxWlNUZG1veUdCSmQ3TktvNk1wdlllZmtQd0VSX0UxTUV0bjJZYjVJSGVEQnhVbmQzZlhzb2dfY19Ya3dJVHBBMWxSWXZiZXNuSlhIUlpUa0NmbTRndnk5ODVWNHNVcnktSS1XNFkwZGp3SEZlNU1BUUk5SEludnFmalUxUEJkRnJ0dmg2QW84cXgxak5ZRHlPVl9Wc2JRdjk2MDdVdVVsQkszbnd0eWlXQWluY01fUjJHWjA5WlJwdy1YbnI2Y3hqVXJfb3lTV1E3VFJCa0FWV2pUQjctMzhQbjNvbmJYd2R6NdIBigJBVV95cUxOT1NVc0hoU3pGRzJVVVJTS3VZTWhOeGZDbjRUZE9FdVkyNUR0OVBvVTRWTGhmUDJzWHBqenhYUjdxOUdZMjBydE1QclZ6MVo2ZXhHbkI2aHM5RFppNm9jRGlWbDVNQnpGSU5LZnNPMExKeUpqMk9MMERObW5SaDNzXzdkMHp1NENHTUdwNV95X1FTWnVobm9qUWJhN3RLQ09sT1dINjJZZzdNRS0yVk9BWmVMRlVTRHVyUGNTc1FvMnBzaHVNYl9BZ1pKNk5ZRFZQUTRiaHhHNzMtRUNjWE1QYjJBYjNLQ2dPMHJLTHZ5bndwUUh4NWw4Zm1Da0ZFNWFfeUVPSGxoZFZPQQ?oc=5",
-      "source": "The Times of India",
-      "date": "2026-03-04T18:55:00+00:00",
-      "description": "Maharashtra govt to expand drone surveillance to curb illegal excavation, says state revenue minister  The Times of India",
-      "query": "drone illegal",
-      "detected_at": "2026-03-04T19:17:35.613508+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "1c2422c4416c"
-    },
-    {
-      "title": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZkx5Y2hpTnF6UFA0V0IyYWZuMWNhZ1ZzbWZmc0xLd2xKcnpZSjQ5OVZaX2tnVHozZFJfWFRCMW43ZDdheEsxOWlONnJ4V1BsM2I0WURkR2FQcFJ3SHJJVW9OV2lqWHRpRGtRdHJOQzBOSXhSb1VYejVJNGk0VUk?oc=5",
-      "source": "AOL.com",
-      "date": "2026-03-04T16:40:07+00:00",
-      "description": "This US Navy Base Shot Down An Unauthorized Drone, But It Was Flown By One Of Their Own  AOL.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-04T18:16:48.559031+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "daf2bd685211"
     }
   ],
-  "last_updated": "2026-03-22T14:10:14.767651+00:00",
+  "last_updated": "2026-03-22T15:08:12.498696+00:00",
   "total_count": 1000
 }
