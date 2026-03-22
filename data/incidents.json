@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Drone swarms breach nuclear bomber base - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0x1U205d3NaZkx1YUpBMF9MeFlfeDVLb25rOFpUMDdOZ28tRE1leTdiNV9EX01sbjN1NnhqM3ZKVmg0STJiMnFNR3RkekVOdXMtY05hYzZMX3JFNDNZWWtpRzRENjVCQ3BRcDhlMWdPQ0FwNjZGSE5kajA3Um96LU5BM3NtWXZobEJ6N1dSbVYtZEFwaGxvclpzMlg3VGZXb3hJZEZZQk5lVU5iTUlCTHVzamIydkNwbTljVXc5VXNlWE1fOGZHRTVrRHEwTjd1TG1vbnc4YlQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-20T19:11:53+00:00",
+      "description": "Drone swarms breach nuclear bomber base  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-03-22T19:10:38.638993+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "d181a2ab3218"
+    },
+    {
+      "title": "Drone swarm breaches US nuclear bomber base - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdlJfS2hLVnBpcDBZTTZnRlZ4UXg5Ums0Tk5DX3RVYklxNTN0QTZyWU02dFRZY1d4LWRqYlE2QVotQ1p4RHU5b1IwUmNlNldndGY2ajJoVFdwenpvZlhWOU0tajJxQTNCNF9FaHNmT3JsQTFJOUNTbmxibm5XNTVyTFRHaldNeHgza0VCakVSZnRia00wek9OOTRjREZMNDR0bVhLWGsyWnFSZDFsLWxhSXJ3UjhKQWpHRmVKa2V2UE9uR1JHampPX2xxdW9pWjNPOVBEZWxyQzg4X3Q0S3c?oc=5",
+      "source": "MSN",
+      "date": "2026-03-22T06:35:27+00:00",
+      "description": "Drone swarm breaches US nuclear bomber base  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-03-22T19:10:38.638993+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "b36c5c0daf86"
+    },
+    {
+      "title": "Drone strike hits fuel tank near Dubai airport grounding flights - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3EzUm1fTGJIZFJYQkdHTk9ScHZBV2ZZeDllbFBrSUdTWFRfbHA4M0N2bTVqRFYtb2ZwakM3RFdZMzFJZm5UbFZiLVcwa2l5VmpLMGtkSjNma2YxaFhJWUl2bVROeHVIbXVUcDk4MTRaME5QRklnM0VYaHJTMEtCYlBScVN6eFpjMlBWU0hZQnhneExvYVZmamZoODFKN1ZLXzg5MDR6RVJKMmlqcEtCbWhPOGRyVF80OFRaeHk0U0RrcmRMQUhpQzZUUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-22T07:52:20+00:00",
+      "description": "Drone strike hits fuel tank near Dubai airport grounding flights  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-22T19:10:36.918505+00:00",
+      "location": "near Dubai airport grounding flights",
+      "category": "airport",
+      "id": "99b9b096e967"
+    },
+    {
+      "title": "San Francisco police credits surveillance drones with aiding crime decline but some have privacy concerns - ABC7 San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONnVtRDZKWlFiaXdMQUwwelRZRlkyN1dlQnlZUXRQVWsxWDFqU05kWmJaOE1GMnYxN01RczFNZ1ljc0tQUDFJbWp1Snloc1ZnS0hnTlhmTnY0RkhPcjhmNTBOcnJPWVNhbEN3ZGpQWnBvSlg1U25vSjhDSGctRWdGVlkxbzBaaFl1aUlaSE94TVVpS3dWdUtRNWxzeERYWDNfVUpHQVBBbnYwZUREcF9LOExBa0pZcWhUeGdGdkVraEpnbnNJa1HSAcsBQVVfeXFMT3pmWGZrMnp3M0lHUE9yVXk1M21iaWotRi11Q20wX2stTGluaFp2cUF6RGRLQzhpdXhSa3BydWVPbC1FMDNIdmUtNlo4ZkhlWWE4RGJZNzVxVkRSaGJYLWdXMkFoMmlvLWJPYjk0MkhXa1VwMmhfQnhyMHNxZWgyREZiazM5b2tCUVZhM2wwTVZrSmYzVjRIT256WmM5bzZuUFVtX0o3YXhaaXAtZHZqOGN0eXJjemlLMkJzdWJJd3A5dlpvc01mdGxFUDA?oc=5",
+      "source": "ABC7 San Francisco",
+      "date": "2026-03-20T20:57:01+00:00",
+      "description": "San Francisco police credits surveillance drones with aiding crime decline but some have privacy concerns  ABC7 San Francisco",
+      "query": "drone arrest",
+      "detected_at": "2026-03-22T19:10:35.229596+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "1c66cd07ed7c"
+    },
+    {
+      "title": "Conflicting accounts emerge as experts link Bahrain explosion to US missile - The Arab Weekly",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVBSdUFfMm1nVUJ6cEJBZm5UNGNMZC1PRThhSmo3d2k5VDNmeEkwVHlsaDhWZUpnWlplX2RMRGZWSHFnYUhwQXhKX3hmbHhybjdwTEw5SzFVaEpmdFZzaDFNNkx5MEdBeUlsSEk2Slp6RGJsWUN0NjI5NktoeVJhMk9PNzdzX1hUVnBXSEVPaldWYzJpNGFxVjVHVQ?oc=5",
+      "source": "The Arab Weekly",
+      "date": "2026-03-22T13:58:46+00:00",
+      "description": "Conflicting accounts emerge as experts link Bahrain explosion to US missile  The Arab Weekly",
+      "query": "drone incident",
+      "detected_at": "2026-03-22T19:10:34.637253+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "522544ddff6e"
+    },
+    {
       "title": "The ungoverned sky: Drones and the domestic extremist threat - Lowy Institute",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVktsc2ZsYUhWZ3YyWDJKUHAzaHQ4QnRIcEFUOUlnbXpvenBsdzUxc1Q1eEgwNG1iWmo3ZTN1ZTZnTFNobUJES1BqTFlwTTk5NTZEVWFVT1VOMndyMkQzTHFibXhvZU5rajZKY05Ua29ub3M1Z2U0d3B1RjZPY2VNQ29CVHhqRnZTVi1JQUgwXzh4MVVn?oc=5",
       "source": "Lowy Institute",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d773a1c344c9"
-    },
-    {
-      "title": "Kuwait shoots down US jets in friendly-fire incident, US CENTCOM says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGNVeGNGRTJkUnRDR3JRRW1lYTVDanJYcjREYVYxR1Fpd1NybHdJazhNVC1sNDAtSkZudElQeXhOb2I0UldQT19vREs5b3ZZMHFtZk9KYzJhT3piRmR5STlSdC1LTkRpc1JDa0w0MnlwVVhDYzJJekZVMDJjc2FBUmtBMFdSeGR3WE5HNkd2TDE2aWY3V1pUam9ob09LTUcyMUpyRUtEYWM1cUllRm5OdnFtZ0tGWi1IeTVvaVVn?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-03T09:33:19+00:00",
-      "description": "Kuwait shoots down US jets in friendly-fire incident, US CENTCOM says  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-03-05T00:30:35.076589+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9cac30fa3feb"
-    },
-    {
-      "title": "Four children killed in #Djibouti 'drone strike' explosion: official, NGO Four children were killed in southern Djibouti in an explosion, authorities said late Tuesday, with a human rights group saying it was a drone strike. The children died in an explosion in the #D - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaVJJQTI5U2d5dkZDaEFUWU5TMUZDR2dWenpOeWRUZmE2bkRZOExSbnZkODAxalE1Zm1sMnc4VTdrMFlSbzNTY0hyN3NlZ09ob0xmN1hTSmF5c09qc0dFSklYWFl3S1JxbDZkLVBEUUV5T1B2UVdERDM4SkVLRHFzSE41aTluUGkwVzYtRWoxaDdhMlN4Qy1jZ2hDczQ3SFNMLTB5VWZOZXlHQ2Fad3BNZl8tSThGYTVPRmQ2RXhQS0dHekFZdUhTRTRDOVVtM3BmY1JZQUJ0blJITUw4VUdN?oc=5",
-      "source": "Facebook",
-      "date": "2026-03-04T21:34:41+00:00",
-      "description": "Four children killed in #Djibouti 'drone strike' explosion: official, NGO Four children were killed in southern Djibouti in an explosion, authorities said late Tuesday, with a human rights group saying it was a drone strike. The children died in an explosion in the #D  Facebook",
-      "query": "drone incident",
-      "detected_at": "2026-03-05T00:30:35.076589+00:00",
-      "location": "in southern Djibouti in an explosion, au",
-      "category": "other",
-      "id": "58283656fb0a"
-    },
-    {
-      "title": "Amazon data centers struck, damaged by drone strikes in Middle East - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3kyS1JYajNkaXpMT1hmX01oZ2piZWhMTDBCUHpsQVRLRURrSk9SUnFfUjlxMjJ6amVzc3ZlYi1DbkpZSll1ZjRoQ01wNmU1NkJmVk9nUmtDVzJyWWdCNi1EQmtpOGFHRjhVenFjWmJRQldKb2NCRS1RaW04R0xoektFcl9YbnA1NzJobXYzeU1DVTlF0gGaAUFVX3lxTFB3NkV3WExjNUdONVgyaUVjeXBHbXlYNVRsekNqR0dIdFRRX1pINUdCSHJXYnhraF9Lc00wU3pPYW8tcTJhbG9KUFJjOGhTOUpNVUxqWDVoWkFCc0FBNlg2Z1JWekp3aHZHblVnUG9DWnduaERQb2Q1MVFaYWJzS0J5RXROdGRLckVIWi00Q0hlbUxxM3N4RGhNSlE?oc=5",
-      "source": "The Hill",
-      "date": "2026-03-03T21:01:00+00:00",
-      "description": "Amazon data centers struck, damaged by drone strikes in Middle East  The Hill",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-04T23:10:03.604158+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1a295426c107"
-    },
-    {
-      "title": "US to hold classified briefing for senators on Texas drone incidents - American Journal of Transportation",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE5vZUVhVmhTaDc4LXlKN2Nsakd4Sk5IQmdhUlI1TUQ4SVJ5T0lkTUYyS3ZHZk1hSS1KRFNRSVd2VVpTOURnOXBtdWw3RE9ISWpjWVI4OE9NZGxrZHZxS09BMmxJZERLaU1IQWJfdlpPQ2dnNVBSVk96alE2MzE0X3dBX0REU2s0Vm9zcUQ5RXIzVTFjRkxlWUpR?oc=5",
-      "source": "American Journal of Transportation",
-      "date": "2026-03-04T17:34:00+00:00",
-      "description": "US to hold classified briefing for senators on Texas drone incidents  American Journal of Transportation",
-      "query": "drone incident",
-      "detected_at": "2026-03-04T23:09:58.431687+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "618ba7dd0880"
-    },
-    {
-      "title": "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVdIeXh4LWZOc040TTJBMDJSemd5bTNyTjh4djk2ZlVjeFYxcTVRdmFaTlFvTURmTVMxZFcxV1RZUDN5TF9TRnNEbUtsZ3NZUklDTkJOcHVkWnBmZE9lSGxhV0V1S2hYekhuaUlHSFROT0E4eVRZWmFwUTVHNS1QQ0x1c2tjb1dONGVJS0pfamZ5RjM3UDc5SEdPcW9QRW1DU1g4N1ZnSEwwMlRSQ21JQ2RydW9KZ9IBuwFBVV95cUxOLUhDdDBfbXYwamJRRG5yWDFPWmE1aE45aTBQUlVuWGxMeWdEanhGOXYtNGFGbXcycEpUYlFtODJLYTRlZHRkT1M3Q0FIbnE3Q2JucUZ2MnNVYWVEdVRwYWJ1V1BSWTFjajZOTWFLZkQ4OXRWQ0V2alFVVUJmdnl1UGtoYm5uSWdlMjl0aVZYZDFiMUlmSURRUU9iX3ZaVTJQcE5EQzBPMG5IVFBBc3V3X2oxdHJtNGUtbUF3?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-03-04T21:11:15+00:00",
-      "description": "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-04T22:09:43.950971+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "417a06f38cae"
     }
   ],
-  "last_updated": "2026-03-22T18:10:12.746704+00:00",
+  "last_updated": "2026-03-22T19:10:40.234841+00:00",
   "total_count": 1000
 }
