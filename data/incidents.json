@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Which flights are suspended or delayed at Dubai and Abu Dhabi airports? - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOG5PNGJWdnNLQ0FGRWNOYTZlSllVdWdEWDdzRG8xdWhTbDgtYmMtbFItY0NHTWlaMDNaeEpUbVQtbk1FaldHcm45THd1VndBMVctOWZtNk1HOVdQeEFtVVEyam5faDgwdnZVSE5SbjIwZFVVcXl6V0lQUzZfWndoMTJUS29KY1RFNldhVDZFMUJDY25YOEFYU1hHOHYxakVVVjBjakRNMW9DR1BqTmJiZEp0akx2VmVfajU4ek13?oc=5",
+      "source": "thenationalnews.com",
+      "date": "2026-03-23T08:05:04+00:00",
+      "description": "Which flights are suspended or delayed at Dubai and Abu Dhabi airports?  thenationalnews.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-23T08:23:07.945240+00:00",
+      "location": "at Dubai and Abu Dhabi airport",
+      "category": "airport",
+      "id": "18c39c9fbbe9"
+    },
+    {
+      "title": "Emirates Flight from Edinburgh to Dubai Diverted Over Egypt Due to Drone Attack – Everything You Need to Know About the Disruption Impacting International Travel - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNV1JZSzJaNUdmTFVzelJUVW1WUExsMEZhMGxOd1NEcm5KSmgxVzlaWVliT1hrb0kxbkRiVFRDUk45MEdNT2V5aVlHSjBPUmpRM194aEFNaXV2VlB1dEZtRmw3dHNHQ2dSTm1NVWlLY0QwZ3QtYlBiUnNjbWFLWFFMNXdxeHFmTlU0ZVdqVm1Wb0t4MzVfOVBvSE0tVm1IX2lISHA4ZFBhc0M2SXhWRWR0QzljcElmVXFxS1ZFb2hwZ1VyZzRUU2VGUmswWVVJczVXdUF2cW1aYXhYYnhiRHU3cnFXdWRsVkQyNlkzM1c2N2h4NmFELTA5cVFGYURMVXJyTEtEZUVQcV9URVhJN1lzS3F6eFA3Q2dpTEh6QktZbGNwRFFkQV9UeEx1QjVGWWphd0E?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2026-03-23T07:41:15+00:00",
+      "description": "Emirates Flight from Edinburgh to Dubai Diverted Over Egypt Due to Drone Attack – Everything You Need to Know About the Disruption Impacting International Travel  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-23T08:23:07.945240+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "2832e2a3ed06"
+    },
+    {
       "title": "Drone swarms breach nuclear bomber base - MSN",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTlta08tODZkTU5PM0hNRjlDR1ZiVWJXeU4wU1hBMjJpQXFSbzhqOUViZ09JLWxuYkV0alExWTV4aVVLaWtmYlBhN2dNZnB6TWZ4OGFnZnVJa18zMVJXbG0tTGIxWHVCUjltRmQ2VndIMjBxMXVWUWZ4MlNhazJGRnM2NkVwVnNqaFltc1NZeEs5ODdwNGJv?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5e85389c3819"
-    },
-    {
-      "title": "First drone passengers may be combat casualties and criminals - New Scientist",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemIzOV9Ed25IXzVIMzA4X1loejltY1JieUJnZEM2RTMtNV9ESkJzM0hWVm5CT3I0X2k2WUc5cTI5cWo4SkZGRFZnUTRzaVNpSjJmR2NnWFVnYVk4aUN2NU1vOTlxUmotZ1FMY2loLXRXbmNwM291VUxub0tydThaZ1J5Y2lCQ1hRYjI5eFgzTlBIZjZRZVB6LXRnN2l4bWtWMFhVcnlfWXVfaEk?oc=5",
-      "source": "New Scientist",
-      "date": "2026-03-03T08:02:23+00:00",
-      "description": "First drone passengers may be combat casualties and criminals  New Scientist",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-05T03:01:08.591617+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "87089403a12b"
-    },
-    {
-      "title": "Drone strikes near U.S. consulate in Dubai as Iran expands attacks - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSU9TNzFqZ0F0WE1iY0RQS3R2VjJZTG9VN1A3NDEzZkJrU295T0FnRzR6Ql9PNEVXUGNycEhWRG9HeUZSZElmS0FHRmR6cFU1ZmhORlBkdEdBaUhhVndaQW9TLWZGNWpuWEc0eTdEZWFQMVZiTVZTUHVzWkFHR0s0RHE2djJ2OENVblZpSHRNY2RzLXBCbVlXRFZWNkNOWVpwZEZWWGc2M290T3Z1TnZXcHFjMzUxbE1CM0NsT3h3?oc=5",
-      "source": "NBC News",
-      "date": "2026-03-04T00:17:02+00:00",
-      "description": "Drone strikes near U.S. consulate in Dubai as Iran expands attacks  NBC News",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-05T00:30:43.711073+00:00",
-      "location": "near U",
-      "category": "other",
-      "id": "ef9adb763463"
     }
   ],
-  "last_updated": "2026-03-23T03:07:33.699465+00:00",
+  "last_updated": "2026-03-23T08:23:10.964834+00:00",
   "total_count": 1000
 }
