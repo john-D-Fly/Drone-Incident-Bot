@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "In the past 48 hours, significant drone-related incidents have occurred primarily in the Middle East, particularly surrounding Dubai, leading to widespread airport disruptions. A notable drone attack resulted in Emirates Flight from Edinburgh to Dubai being diverted, alongside multiple shutdowns affecting thousands of travelers at Dubai and Abu Dhabi airports. Additional incidents included new drone attacks near Pulkovo Airport in St. Petersburg, contributing to further flight cancellations. Security threats manifested with breaches at U.S. nuclear bomber bases due to unauthorized drone swarms. Arrests linked to drone-related incidents such as smuggling and attacks highlight continuing public safety and border security concerns across various regions. Overall, drone activities reaffirm the urgent need for enhanced security measures at critical infrastructure and airports.",
+  "totals": {
+    "interference": 2,
+    "airport": 14,
+    "arrest": 5,
+    "security": 6,
+    "smuggling": 4,
+    "terrorism": 3,
+    "other": 5,
+    "total_incidents": 67,
+    "by_category": {
+      "airport": 15,
+      "arrest": 4,
+      "crash": 3,
+      "interference": 2,
+      "other": 17,
+      "security": 14,
+      "smuggling": 6,
+      "surveillance": 1,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 13,
+      "drone arrest": 5,
+      "drone crash": 3,
+      "drone illegal": 1,
+      "drone incident": 16,
+      "drone prison": 1,
+      "drone security breach": 9,
+      "drone smuggling": 5,
+      "drone terrorism": 7,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport disruptions",
+      "rationale": "High frequency of drone incidents leading to flight cancellations and diversions.",
+      "incident_ids": [
+        "5fe44ff08ee4",
+        "3afc43cb4ba8",
+        "e4e35effd204",
+        "2b5ead2bf26c",
+        "f78c7ffbe62c",
+        "e49616d03809",
+        "97d951df8520",
+        "99b9b096e967",
+        "70dc33448143",
+        "f64286f2074a"
+      ]
+    },
+    {
+      "topic": "Security breaches",
+      "rationale": "Unauthorized drone activities threatening military and critical infrastructure.",
+      "incident_ids": [
+        "8762ddb05d29",
+        "5475e33fb2d1",
+        "b36c5c0daf86",
+        "8af6cfa8f389",
+        "304e52b2b29b",
+        "40e528e3b91e"
+      ]
+    },
+    {
+      "topic": "Smuggling incidents",
+      "rationale": "Emerging trends of drones used for illegal activities.",
+      "incident_ids": [
+        "1f5d67c80cfa",
+        "6456b5c4a589",
+        "4a0e1d88cd7a"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5fe44ff08ee4",
+      "headline": "Emirates Flight from Edinburgh Diverted",
+      "one_sentence": "A drone attack caused Emirates Flight from Edinburgh to be diverted over Egypt, highlighting airport security vulnerabilities.",
+      "risk_tags": [
+        "interference",
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3afc43cb4ba8",
+      "headline": "Dubai Airport Shutdown After Drone Strike",
+      "one_sentence": "A drone strike caused significant disruptions at Dubai airport, affecting thousands of passengers.",
+      "risk_tags": [
+        "airport",
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4445313d99f9",
+      "headline": "Woman Charged After Shooting Incident",
+      "one_sentence": "A woman was charged after a shooting incident involving a police drone in Schuylkill County.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "8762ddb05d29",
+      "headline": "Drone Swarm Breaches US Nuclear Bomber Base",
+      "one_sentence": "A drone swarm successfully breached a U.S. nuclear bomber base, raising serious security alarms.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2b5ead2bf26c",
+      "headline": "Hundreds of Flights Canceled Near Pulkovo Airport",
+      "one_sentence": "A new drone attack forced unprecedented airspace shutdowns near Pulkovo Airport in St. Petersburg.",
+      "risk_tags": [
+        "airport",
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "twitter": "Recent drone incidents have led to major airport disruptions in Dubai and St. Petersburg, highlighting security concerns.",
+    "linkedin": "The latest wave of drone incidents has significantly impacted airports in the Middle East and Eastern Europe, underscoring the urgent need for enhanced security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-23"
+}
