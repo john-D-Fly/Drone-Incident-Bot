@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Foreign tourists fined, two drones seized after unauthorized flights over Norway's main northern naval base - Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXo0OWx6cGo2LXduRXVWMDBWZ1BJOVE3dkd0WG84dWU5NjJKdV9jVENnLXV1MmgtX0FGakpzY19NckRlMFhGSjBwdzA0SzNHaHQzMjdLRE9oQ2p5dnBYeUZPcEJLR3N0R3dSOURGcGU5ZHM3OE84LUlralU0bGdGa1ZlQkZaZ0k3dGJRUlhKZVRZSmFPLV9sMWtOeTM2cGpMZTgtRlZiNm5BSDN6QzVER3hxR0NIc2pBZm5udTZMRFQ5dkh6OElfYTl1dkhnOU13a0dDUTgtSEt6ZzFfT3c?oc=5",
+      "source": "Euromaidan Press",
+      "date": "2026-03-23T16:42:43+00:00",
+      "description": "Foreign tourists fined, two drones seized after unauthorized flights over Norway's main northern naval base  Euromaidan Press",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-23T17:21:08.641038+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "75ee7aa6e410"
+    },
+    {
+      "title": "Man convicted of drone-dropping contraband in Florida prison sentenced - Pensacola News Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYktOMWNRMzNLU0hVSjlINEhqcU9fVVFqTHVQQzhOeGp5XzN2UVNNQmIxV2Jja1FRbHpJakRHenBNLWhHMTljOGZKRzh3OHdaMWxoUFZJbWdtUVpQWWZEak1TVWR0QWVSQ2hDeE00TEl6Q2stUXhEaVR5a2ZpNG1EbU1kelk1NElsVVl0Rm1MOC1XMk80STJBWmRmQkVDSmwtRTRwb3YtLTNWSU1FVGtiakMzRGNOY0hSUG5uUm5ZelJHM1hEVUVZNjVpS1g?oc=5",
+      "source": "Pensacola News Journal",
+      "date": "2026-03-23T16:52:15+00:00",
+      "description": "Man convicted of drone-dropping contraband in Florida prison sentenced  Pensacola News Journal",
+      "query": "drone prison",
+      "detected_at": "2026-03-23T17:21:04.818827+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "7a73e2b577d4"
+    },
+    {
+      "title": "Florida officials announce 81-year sentence for ‘drone kingpin’ smuggling $1.5M in contraband into state prisons - Florida’s Voice",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlB3M3RPOXU1OUVYVVF4UFlvVDhOS1gtRGdYZWtFdmlPOXhNNFY5X1JMUjh1U1o1ZnhSTk1WY0NoUmgwWjNtNXpiYVd2ZEVDZmM5T2cwZExoZDZibVljN1dOcHNORG5maHRKTzdqUFlKR3g1QmtQQk5YUkl5OVFhV3l3VEJDYWdEdlgzczBma2VzUjNtMHlaaGdIbm5lTlVXM2l3V2g1U3BZaHJFcTlkVkEtc3JRMUtDRzR5ZDh4VVpyWUpqZk5PVG1TZG5sT2c?oc=5",
+      "source": "Florida’s Voice",
+      "date": "2026-03-23T16:45:46+00:00",
+      "description": "Florida officials announce 81-year sentence for ‘drone kingpin’ smuggling $1.5M in contraband into state prisons  Florida’s Voice",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-23T17:21:04.281945+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "09ce6d8da527"
+    },
+    {
+      "title": "Woman charged after shooting incident, damage to state police drone in Schuylkill County - fox56.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUdSOEs4dEZDTDYxZTZOY0Qxb0J0RlVjUlR4azdKZFc1bUtlRnJYZW5tVHBIM2haaGU2czMtZTN4MnpXWEhrc2o2RlROM1BxMkdXMVFJcXhudmMwMnRsallmU3BrT0lDTlNvbHVQbkJVV3JxcEJ4UkI0SmFGU2txd2xyMnNJbUFJaDJWMzRJcXNyb3dMNnZJWUF3Zmc5bHpqd1VkSFZxSHljUTFxdlBFazYyNE52QUk?oc=5",
+      "source": "fox56.com",
+      "date": "2026-03-23T15:22:14+00:00",
+      "description": "Woman charged after shooting incident, damage to state police drone in Schuylkill County  fox56.com",
+      "query": "drone incident",
+      "detected_at": "2026-03-23T17:21:03.005348+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "569104ca7273"
+    },
+    {
       "title": "Suspected drone crash reported in border district overnight – NKVC - Delfi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYms3dHV6aGtPQ3c5d2JwV1FxRWlqenhnTVBQRVdHaS00WmZ5Z1pvYThkaXc1MDFYV2xVNjVEVjNKREUza0JCRWVDYjlob3gwQ3ZEb1loVGlKVGRCdWo0Y01uVDhMNHE2aFZmUlJLM21DdE0wdmw2XzRLem9OR3JVZkdwQkFiaGFpS3JsLXVFV013Wk9oeTVNNTdoU195UEFsR0JaZWJhc1JTc2s?oc=5",
       "source": "Delfi",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "477dc998adca"
-    },
-    {
-      "title": "Horror moment drone crashes into Azerbaijan international airport as Iran war spreads - Daily Express",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWxRb0hLNTJzX0ZQVnljZlFhQjdFcEtTXzJsamFxQWQyVFF6VDdYMmJWXzdKV2g4LVI5SG4zT0J6OGRPNVVtbFh1bURXbnFGdldlTldTMEY4ejB6NFJFYWZ0RGFqUnBwUmZ1RU1uTWVPdVlxV04yczVtLXlGVWRtb19YNWstN084aGdj0gGQAUFVX3lxTE81WWFZZWppMEZxUTFKVzFjQ1lFZjgtNC1LV2s2QUJhQ2pwc1dJSlNUVDFUV0NGemZMdlIzZGREeDBrSk01MGFxVW1QTlRrUk1XMTRQNGtWWXMyLU1IeWZjQVJ4czRuOUNGNS1ZdXRPckpIZnM0XzZJSHJfZXVNS2N3YTZ0TjRDcTVWVzVHOVlrcw?oc=5",
-      "source": "Daily Express",
-      "date": "2026-03-05T08:48:00+00:00",
-      "description": "Horror moment drone crashes into Azerbaijan international airport as Iran war spreads  Daily Express",
-      "query": "drone crash",
-      "detected_at": "2026-03-05T14:19:24.119407+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fb48b5317ecd"
-    },
-    {
-      "title": "Azerbaijan accuses neighbor Iran of a drone attack and vows to retaliate - Newsday",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUdIeDd0ZGk0Tk1YWTB1VkE5RlV1UENZeGxVNnRvRVR3blNnODhrM3VFcjA1WDNGVTB4Mjl4amVucS1PQlVLVVNLN3BwZWhoRWxaWXZiVmV4RVctN1d4eUpacG80WlpQdFRtR1lwV3dxU0p6TnRyQ0pRTEJIQ3VWSXNMby1YdExuT21URHF3?oc=5",
-      "source": "Newsday",
-      "date": "2026-03-05T14:14:16+00:00",
-      "description": "Azerbaijan accuses neighbor Iran of a drone attack and vows to retaliate  Newsday",
-      "query": "drone crash",
-      "detected_at": "2026-03-05T14:19:24.119407+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ec394674f98b"
-    },
-    {
-      "title": "Horror moment drone crashes into Azerbaijan international airport as Iran war spreads - Express.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWxRb0hLNTJzX0ZQVnljZlFhQjdFcEtTXzJsamFxQWQyVFF6VDdYMmJWXzdKV2g4LVI5SG4zT0J6OGRPNVVtbFh1bURXbnFGdldlTldTMEY4ejB6NFJFYWZ0RGFqUnBwUmZ1RU1uTWVPdVlxV04yczVtLXlGVWRtb19YNWstN084aGdj0gGQAUFVX3lxTE81WWFZZWppMEZxUTFKVzFjQ1lFZjgtNC1LV2s2QUJhQ2pwc1dJSlNUVDFUV0NGemZMdlIzZGREeDBrSk01MGFxVW1QTlRrUk1XMTRQNGtWWXMyLU1IeWZjQVJ4czRuOUNGNS1ZdXRPckpIZnM0XzZJSHJfZXVNS2N3YTZ0TjRDcTVWVzVHOVlrcw?oc=5",
-      "source": "Express.co.uk",
-      "date": "2026-03-05T08:48:00+00:00",
-      "description": "Horror moment drone crashes into Azerbaijan international airport as Iran war spreads  Express.co.uk",
-      "query": "drone crash",
-      "detected_at": "2026-03-05T13:29:54.673895+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "24bcf5a30add"
-    },
-    {
-      "title": "Azerbaijan accuses Iran of drone attack on airport that injured two people - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGlIQVZQT0dHTmxMcHQ5ZWp0Q2pqR0JTb2ZEWXZTUDFLODAzb2M5ZndwR0ZUeS1BMTFxS3h5SGV6UHRFVEZ4WTVCdElHYTVyYi1kWFBkblJwTkhsZ2R0ZHA0bDlFZ05OQ21mdmlYRXBmUXVYQ0VsWnNPX3lNR29qSUdoNzY0UFlzMjBPX0ZUM1E5SHJ2Z25DRXBVRld6YTItTXZOQ0RWT0k?oc=5",
-      "source": "The Guardian",
-      "date": "2026-03-05T12:53:00+00:00",
-      "description": "Azerbaijan accuses Iran of drone attack on airport that injured two people  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-03-05T13:29:51.294675+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "bcee4702f2f2"
     }
   ],
-  "last_updated": "2026-03-23T16:22:55.329272+00:00",
+  "last_updated": "2026-03-23T17:21:09.129224+00:00",
   "total_count": 1000
 }
