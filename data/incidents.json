@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "DOD, Feds Threaten ‘Severe Penalties’ for Drone Use in Restricted Areas - MeriTalk",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQjdLRVNMYUhpOG1vVmJXMVREUUxnSG5CTzRVNnVqTWhrMS05M2pVMFk1ZExSbEY4YWdPOFo0Y3h3MU9VYkhxRDM1c2NLdFV4NGd3bGdHbTVkZUhWZUM2NzZFQUZqbno3MmIyT3RMcU5feWpVTG1PYS1Fbk90bTVSVXdEdEY2bGpUazBudmJTNHdhSFNaOHMzRHFSNWtYNDdhdHM4RERR?oc=5",
+      "source": "MeriTalk",
+      "date": "2026-03-23T19:52:11+00:00",
+      "description": "DOD, Feds Threaten ‘Severe Penalties’ for Drone Use in Restricted Areas  MeriTalk",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-24T11:19:38.802937+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f0cde9f1fa6c"
+    },
+    {
+      "title": "Drone swarms breach nuclear bomber base - MSN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTlta08tODZkTU5PM0hNRjlDR1ZiVWJXeU4wU1hBMjJpQXFSbzhqOUViZ09JLWxuYkV0alExWTV4aVVLaWtmYlBhN2dNZnB6TWZ4OGFnZnVJa18zMVJXbG0tTGIxWHVCUjltRmQ2VndIMjBxMXVWUWZ4MlNhazJGRnM2NkVwVnNqaFltc1NZeEs5ODdwNGJv?oc=5",
+      "source": "MSN",
+      "date": "2026-03-22T12:48:24+00:00",
+      "description": "Drone swarms breach nuclear bomber base  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-03-24T11:19:37.654445+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "7aa906fba29a"
+    },
+    {
+      "title": "Japan Govt OKs Bill for Wider Drone No-Fly Zones - JIJI PRESS",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lVWltVVNxWU9qcVJkUFZaNFQzbWE5eFYzNXFSS0h2dWsyeEVrNUFNZkN0bzQ1aU9hSVQ1TzBSX1NfRFotendtS3N4TzN0V0lYYlhnWkhKVF9Lam8?oc=5",
+      "source": "JIJI PRESS",
+      "date": "2026-03-24T04:26:07+00:00",
+      "description": "Japan Govt OKs Bill for Wider Drone No-Fly Zones  JIJI PRESS",
+      "query": "drone illegal",
+      "detected_at": "2026-03-24T11:19:37.011378+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d36157540cb3"
+    },
+    {
+      "title": "Drone that crashed in Lithuania came from Ukraine, PM says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkUyeWs3MF9uOVJyVmJNa1dFRGtVWVNDblNPT2N2bE9oSDVNUFZfYklCVGh5ZU45Zzc3VER3MUVaNnRBR2RxV1hDZGM2YXBGWEMwRWJZQ1d2Smdmdmx4c25FM0NmNXh1c0hMOE5xQkxIeGFUeU9wZkdsenpuS192aS1MVkdlVjFPUXBKU0ZGZUo3RVdnRWV3MUVLQVM3WlluV3Rxbg?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-24T09:26:31+00:00",
+      "description": "Drone that crashed in Lithuania came from Ukraine, PM says  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-03-24T11:19:36.316228+00:00",
+      "location": "in Lithuania came from Ukraine, PM",
+      "category": "crash",
+      "id": "e5687f8bab40"
+    },
+    {
+      "title": "Amazon says AWS' Bahrain region disrupted by drone activity amid Middle East tensions - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX093YnpvdGRNaTdmOEhyeVhoaFJvTy1iS0ZFa3RGQmFoZ0tEWVlpMHlhRWt5WnN6QUlMSXlXYXpXc05OSnhrb2FZUW5IeDZFeS05UFBUdEQxa3RfNmttQTY2RGx1R2F2MUFRVjNaN3RRRVpnR1R4RmtpZjhFelhPUHp1Q0lxYXFSakFNRGhZeFNyU1JJMkdheVRQMkdyVGl5a2I3cHY0dDFWZ0R3YkVKcVZMaWpZVU0wNGpLQ3U0YTZJejJRZzNaREd1emFZaFJpT216VUhvNGpGWlRoSWpHN2FJNEF5ZUJuSlVqZjQyeWhQNUV3Q2xV?oc=5",
+      "source": "The Times of India",
+      "date": "2026-03-24T07:01:00+00:00",
+      "description": "Amazon says AWS' Bahrain region disrupted by drone activity amid Middle East tensions  The Times of India",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-24T11:19:35.643489+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "033447bafbb2"
+    },
+    {
       "title": "Lithuania investigates possible drone crash - bnn-news.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yLUhPVm1YS2IxaXVPN3gteE4zVjZ4NHN5VWdPOWVPRFF6WlMtYV9mNnowcFFseVNJaXo1Q1hQbEVUY1ZxQlg2WGNFUExzZzNGMnQySGtmbUg2SVUtRDlCSGtQUEVaUkZxdXAxczNJNTEtay1IZEw0OFB6bw?oc=5",
       "source": "bnn-news.com",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "369cd4dfb6c6"
-    },
-    {
-      "title": "Public warned that taking or resharing footage of drone and missile incidents is illegal in UAE - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZmRENzFsbzgweGljekpnZlJfbEJPVXJsTDQ4TS0zSnEycDlvUDMwemhzaFRUVi1KdTJvcnBEUDNIeHY2RXl4UFdKdGlhc2RkV0J6YmhCaWxnbGpyd0NUWEw0Y3ZSYi1QdlQySnprbVR5Sjg1Q1JIVTZHYS1TZXk1QmdZSm8xRzl4bkhnMzl0TUl3WFkybmR5Z3RIVTVkV2NhU1gxLXdsczlMNWtLLWFONzVjX2pJX3FobVBmZHBBQlppYnV1enhCby0tYjRyZWRzaVE4WVZCVnNFdEVNRVQyZmxn?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2026-03-06T10:52:30+00:00",
-      "description": "Public warned that taking or resharing footage of drone and missile incidents is illegal in UAE  thenationalnews.com",
-      "query": "drone illegal",
-      "detected_at": "2026-03-06T11:11:06.419013+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "75bb751caa03"
-    },
-    {
-      "title": "Pakistan expresses solidarity with Azerbaijan amid drone attacks, urges de-escalation - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56TDUtT2hNZnZONEFHcjlFZlRTMnU4bGIteVZZYUdnZTZvUHpQT3R3ZGRhV1htQzBZWHRZTjdfNWhWMjlvMmFCODJDMUJQejVfT2tHQTA2d1E?oc=5",
-      "source": "Arab News PK",
-      "date": "2026-03-06T04:31:01+00:00",
-      "description": "Pakistan expresses solidarity with Azerbaijan amid drone attacks, urges de-escalation  Arab News PK",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-06T10:12:38.977139+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9142ebddbecb"
-    },
-    {
-      "title": "Law enforcement warns of no fly zones for drones - KOTA Territory News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeVFoN1QtbE1HOG1tbEZULWd4czBiOXkxS2hibnp6ZTh0RnFnMkxLOFc4T3luT3hYQ0wtYmRHbjQtY0NEb2tvck1qdzI3WkxLU2VXZjc5aVZJdGpzbHFUdURuclRBVHF5UGNqRjhrUElYX3diME9VYi1HdjNvSVVqVUxR0gGWAUFVX3lxTE9pVnRCRG9xaGdPTHVEZGxSdGNqT3NReGRwSXIyTWktbXJCck5JWTNSYi1IbHMwSHlYZ1duTWk5Y3dqd2pGZ1A5QXFxUTRndXNBLXRhWWlSZkx6ZW1kSjRUaE9DczJQeWZKLUEwWlhOLTZlTmVCSG83aFBYQW9rRlRaR24yenZCejk3MU43ejMwMlJ0enprUQ?oc=5",
-      "source": "KOTA Territory News",
-      "date": "2026-03-06T08:53:00+00:00",
-      "description": "Law enforcement warns of no fly zones for drones  KOTA Territory News",
-      "query": "drone illegal",
-      "detected_at": "2026-03-06T10:12:37.820280+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "90a28d589317"
-    },
-    {
-      "title": "9 Wounded in Annexed Crimea After Intercepted Ukrainian Drone Crashes in Residential Neighborhood - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUw5eFAySVotMVlHX1FlRGF3Y1FQOGJLM1E4SWQ1TjN5ZVBQV1ZQWHFERUwtVWhvVE9RSWQzSGZlRmFIcXp4RzJJM0NsME1RRVFBcDVULVBEVGE1ekxFTllHQkl4b25Gak02V2g4Mk91djBMNVZ2aFhzVmh0ZlJ6Z2NGSkROWUxWTUwtaFVOb3FxUnFNSXlEcmpkTGlZdmRJNk0xTy1fVTg5cUdZcmNSZHdYUENkVWdUWlF2VHZlZmVObWxQM3pNTE9YY00ta2p5TXVKVXRGTTBuWWg4am1r?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-03-06T09:50:03+00:00",
-      "description": "9 Wounded in Annexed Crimea After Intercepted Ukrainian Drone Crashes in Residential Neighborhood  The Moscow Times",
-      "query": "drone crash",
-      "detected_at": "2026-03-06T10:12:37.166529+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e318849e644b"
-    },
-    {
-      "title": "Iran’s threat to airline travel: The Gulf’s skies are now a chokepoint too - Lowy Institute",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHRYc3B2Q1BMZGhHRnh3Q2E0WFVMOXRQc1YzR0RNRlBvNThMTGt1Wk1nVmhyQ0lFOERPRTVOalB3THFTMUhjdXhpWU5KaGFTVjR6RGtuT2FNci0wZnI4WGd2LXFTWlAwS0ppZmJweGZfZG9HU1Via1hoZTZaNDByaU92NVByRHdoU2l2Zmg4bzdzYzM0ZkdHUk9uRERuZE1kZDFwZ0ZDNXAxMjNkTTYw?oc=5",
-      "source": "Lowy Institute",
-      "date": "2026-03-04T23:56:52+00:00",
-      "description": "Iran’s threat to airline travel: The Gulf’s skies are now a chokepoint too  Lowy Institute",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-06T10:12:36.543817+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "333e328858ba"
     }
   ],
-  "last_updated": "2026-03-24T10:20:27.511951+00:00",
+  "last_updated": "2026-03-24T11:19:39.392344+00:00",
   "total_count": 1000
 }
