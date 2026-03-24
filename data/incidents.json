@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone swarms breach nuclear bomber base - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0x1U205d3NaZkx1YUpBMF9MeFlfeDVLb25rOFpUMDdOZ28tRE1leTdiNV9EX01sbjN1NnhqM3ZKVmg0STJiMnFNR3RkekVOdXMtY05hYzZMX3JFNDNZWWtpRzRENjVCQ3BRcDhlMWdPQ0FwNjZGSE5kajA3Um96LU5BM3NtWXZobEJ6N1dSbVYtZEFwaGxvclpzMlg3VGZXb3hJZEZZQk5lVU5iTUlCTHVzamIydkNwbTljVXc5VXNlWE1fOGZHRTVrRHEwTjd1TG1vbnc4YlQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-23T22:10:46+00:00",
+      "description": "Drone swarms breach nuclear bomber base  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-03-24T23:10:26.242896+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "9ac54505875e"
+    },
+    {
+      "title": "New drone helps Union County deputies apprehend wanted man - 10TV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRnJCM25jNnQ4cUJ3V255UE40bm1Bd0sxZjlIMldoTTNaZFJVVkdFOGVHSE0wWlM0ZGszZkVZVThoQ3d3N0JVT2w5MG53ODdsOTYwWmhGYmg1RHNzZkF6cHNVc2RVb3A4TE5sNUxvU0phTElCVFhoOWt4c0ZiRm5HaWZlZDdVQUJSclhPa1U3Vy1pbXUwLVFSS0JVQVRlaWMxV1ZSM2R4WDlYUE9ISGdEQ0VZZ29ud0tkWmh0dHFTSExsWC04YnZaQTRoN1ZwV3FGRUFR?oc=5",
+      "source": "10TV",
+      "date": "2026-03-24T22:19:00+00:00",
+      "description": "New drone helps Union County deputies apprehend wanted man  10TV",
+      "query": "drone arrest",
+      "detected_at": "2026-03-24T23:10:22.626365+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c6b71a2a66a6"
+    },
+    {
       "title": "Cabinet approves tighter drone rules, expanding no-fly zones - Japan Today",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXYyQmxUQWkwb2ItWkx3TUxtcnQ3Sm9Lb21MUVQtdEFJUkxMeDdmSXM3S1NyOXpJVVltWERfVHY0NVZiTVJOZnNKQWVjNDV2S3Zaa2xUZkRzX3ZYNzF3WFRFMlROTlJLbmhYdXZuaDFZZ1Y1bU1ESmZoX3hIZzhVRkZ6eWM3N0VEdUgxUXJEYVlMTWJhSjU4RmlSNl9ZNkhkV0hNUnlTaTQzUQ?oc=5",
       "source": "Japan Today",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "6a837af2d8e4"
-    },
-    {
-      "title": "Dubai Airport Is Open Today: Flights Resume After Drone Incident This Morning - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGp3X0JyQ2pOUTdwUGdiUU9TNmpVSVZ6UW1EenhDXy04eTNRSlNuWF9fUFlMUElXYmR0ZzdSa1p0S3pMN0FJSEhRMzFOdGl0RE9tVmE3RlFXQjBkbUJ6Q3BwMmVoSWN6V3E3M2xhZWtEMkdIZjVTT0RvUGJYZU1EcS1KTkFUbzR6ekF0dTRRM1lqZnl6S256R2VKMGJKNGI3?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-07T10:58:39+00:00",
-      "description": "Dubai Airport Is Open Today: Flights Resume After Drone Incident This Morning  TravelPirates",
-      "query": "drone incident",
-      "detected_at": "2026-03-07T15:06:21.644517+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ece7303f5303"
-    },
-    {
-      "title": "Explosion At Dubai Airport; Massive Smoke & Chaos After Drone Hit Despite Pezeshkian Apology - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2dMWjNMckM1Nm42eUNRcDZ6UlM1UnNBeWo2bGR3NWE5T0xkOXFqb0M4cTI2dGNHSDJSd3lPdWhET3YyVzlQWjFlMkNWM3JTVC1aQ0ZIaTVVdUpQcV9TQlBYaF81ZVN6aFAxOWNWeF9URk5wQWRMWEZCbW1WQXB4SktvcTY0aDlvQklGdUhPc043OW51bWtnMEd6b29MRzJ2YUNwZHlOTjRuS3NUTUFpTFBYMmtYc0FleWRMQ2dCX0hLOTd1MXMtWFlReEFVbTlKSkcyM3d2amRZQVA5Y1ZJaDNWZGowR09BdVg4TEZZZTQxZkl0NXZuRDJLVGxNaWfSAYQCQVVfeXFMT2VBZzI0b05ZTHZ3ekhHT3l5N3ZxZ0RzR21FdlRPbW14bHMzR0tHU05lWVJSSWgyU3NuRHhtUGJRVHl3Z2d2Ym8wUDNHSEVxSnc2LXNJdzQ4LTFLZUtWYkdWQ3UxNjhwcWhiYXl5QmJNWEZwNU5veDVSLUh1RWlLY05ISm9fTnNocERiaWoyNWVCQ0ZnVnhOYmI0U2VqZnFLc2dnSFQzOFFaS0JOanNhMDJMeURYU1NUX1E3YjBfVUgwWWpMdTRzekREb093a2NDUk05cjA4WTJ0eC1BUVdyMmdETXY1NW1MMGV4eGp2d3FYX3QwaW1OVlNjU0lyU2Y2bDloYzI?oc=5",
-      "source": "The Times of India",
-      "date": "2026-03-07T13:12:02+00:00",
-      "description": "Explosion At Dubai Airport; Massive Smoke & Chaos After Drone Hit Despite Pezeshkian Apology  The Times of India",
-      "query": "drone incident",
-      "detected_at": "2026-03-07T14:06:50.625554+00:00",
-      "location": "At Dubai Airport",
-      "category": "airport",
-      "id": "f0d23bee02ea"
     }
   ],
-  "last_updated": "2026-03-24T22:10:46.021651+00:00",
+  "last_updated": "2026-03-24T23:10:28.118816+00:00",
   "total_count": 1000
 }
