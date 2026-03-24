@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Israeli forces seize 100 illegal drones in northern Samaria raid - JNS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlg2RjJ0WnR5Nkp3TWltOU14eVdLSWFHMzY0eWNHbXV1ZS1XdWRwT2FpMzB5SlNValpGa0lqVlpJbXpwb1FNRGt4ZmtKR3VIUXo2QkM2TkdMTjQ2dWVzcDNjMG1uZ09UR1JyMFR2a05PcS1sUE5ZVmdNUlRPZEtJMnJLMmlhVDlfOUhlazFIT0F5ZjJrWEVKWGRnY0JjbWIyYlVz?oc=5",
+      "source": "JNS",
+      "date": "2026-03-24T13:02:43+00:00",
+      "description": "Israeli forces seize 100 illegal drones in northern Samaria raid  JNS",
+      "query": "drone illegal",
+      "detected_at": "2026-03-24T13:34:05.242597+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5e768dbc8ba5"
+    },
+    {
+      "title": "Lithuania says drone that crashed near Belarus border may have been Ukrainian - The New Voice of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUFNRRDdyZUp6aFJxWWNEV2xuNGJJVlkzUGRwVWdpM25RTGkyeTViTGt3YnpkQ1JwZ1F3SGZxdGhnTDFkWVh5eTBPT2FFaTY4aVlkQlZVZHg4cV9Pb0xmQ3I5emMxZlFDNE5aQUV0R3lhUFUwcENTSGJDMnRMOVF6OFpwekJ6ekZ5QXVkTnYxNFNlMFp3LXJWNWhHMW41Tjkwa1BVS29OeWZyaFhfRkM1ZDcyZHFlVl9LT2tfazVZdDZsakXSAbgBQVVfeXFMTjNQZWVuUFVkZFFfRjdnWndrNFZDanpVU3NNVmJzN3BucVh6QlVjUEVzTkZ2b2N4VFBSc285WGtpRXZnTXZ0c2R4ekNRMWRBSlE2RlhOZUJwZERmZ2RYOHNnUmNIU2NuZVRFblhOSnp6SWdzb3QwNGVxYWVBODgwUVh5cmNqS3lMT0s0UDRyS0lQTV9BT0Rja09LVnlqT1RibHNLZjlLa0pfbnF1d1p5Zm9fNlJGb3dncA?oc=5",
+      "source": "The New Voice of Ukraine",
+      "date": "2026-03-24T12:45:00+00:00",
+      "description": "Lithuania says drone that crashed near Belarus border may have been Ukrainian  The New Voice of Ukraine",
+      "query": "drone crash",
+      "detected_at": "2026-03-24T13:34:04.681681+00:00",
+      "location": "near Belarus border may have been Ukrainian",
+      "category": "crash",
+      "id": "c94375916b86"
+    },
+    {
+      "title": "Drone that crashed in Lithuania came from Ukraine, PM says - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVBoYWd1Z1BwQklyYzJVVkdkc1JvV1pyNjNCWlJfcTRWMWhhT3RHd3ZpUlk1SmJRX1RybnhYQjNsWFBjWGZyYmZOclRER29GRkZCMl9uZGhuXzV6NDZsX3I3TG5qR3ZNVWU3U3NWUHd5bk5QalR0Q0g5NGd2MGVkeEE5RFZrQlhlQmFzc0VqREQ?oc=5",
+      "source": "Yahoo",
+      "date": "2026-03-24T11:29:29+00:00",
+      "description": "Drone that crashed in Lithuania came from Ukraine, PM says  Yahoo",
+      "query": "drone crash",
+      "detected_at": "2026-03-24T13:34:04.681681+00:00",
+      "location": "in Lithuania came from Ukraine, PM",
+      "category": "crash",
+      "id": "6c8fac5ced8a"
+    },
+    {
+      "title": "Amazon cloud “disrupted” by drone activity in Bahrain - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1YzbjVIeVF2SHprbWhmRUhQLXh2dEFiOUJvMXlVZVJnNGIzdWdJbUdLUWJfaWhWU2VQam83XzJnUU1DNEs2U3cwVXpsQlQwaS1mZnd6LWNZUkloal9MekRuUFZWNExvaGtsM1ZTUFdfX2dRZVBucFVyVkVRRmpENmJqZnRoNmtZalIyT2p3?oc=5",
+      "source": "Gulf Business",
+      "date": "2026-03-24T07:02:14+00:00",
+      "description": "Amazon cloud “disrupted” by drone activity in Bahrain  Gulf Business",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-24T13:34:04.094227+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "a56426d2b832"
+    },
+    {
+      "title": "Report: Dubai 'arrests foreign survivors of Iranian drone strike' - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDA1cjYweFZLb011OS0tNTNXLWowX3dlQzR1MXhHRXhQSDV6LWhSR3dOWWZlckpGeE5UakJLVFBVS0ZBbDBhdVdsZWZRT2E0UUt1bUYyeGRZdzROeG5oanB4enA4RWVzWEU3azY0WExWNkNyYVJ1S3Y0clBjTlBHdXNqZl90Ql9hV3BoT1dhblo3eEw3UHdqdFRpRkFac2lKRjNvR3ZacGRaZ3FsTmVTRQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-24T09:11:01+00:00",
+      "description": "Report: Dubai 'arrests foreign survivors of Iranian drone strike'  MSN",
+      "query": "drone arrest",
+      "detected_at": "2026-03-24T13:34:02.231855+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "b45e62937be8"
+    },
+    {
+      "title": "Drone That Crashed in Lithuania Came From Ukraine, Lithuanian PM Says - Global Banking & Finance Review®",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObExBd2p1X0hNYzIydnF4RmV5dGNRWjZFcmt2UkJFaEZldXdadVR2WnV2N2JhUlp6VFl4eG41RTZOWjFLZ1pjaHdNc3ZjSXZvbkQ5OHowaHpyVjgzRTVTdFh2dlhlZWFLVGt2MjBMS1pfbzJRaVItcnFYbzJqMklmSGMtVW9vQ3lTX0w2RkM4bkhZTW54X3c?oc=5",
+      "source": "Global Banking & Finance Review®",
+      "date": "2026-03-24T11:36:45+00:00",
+      "description": "Drone That Crashed in Lithuania Came From Ukraine, Lithuanian PM Says  Global Banking & Finance Review®",
+      "query": "drone incident",
+      "detected_at": "2026-03-24T13:34:01.560630+00:00",
+      "location": "in Lithuania Came From Ukraine, Li",
+      "category": "crash",
+      "id": "95d6111ee9fb"
+    },
+    {
       "title": "A Flock Drone Now Guards Georgia’s Most Notorious Jail - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFX0ZQX0tVZldVS3ZvbmdRWGxTUGd0MTNITmxneGFyTmRvY1h2U2tOUmtCRzd1RkRFT2hyYmhMenI4SEtkdUY5dTJnSFpaSG9SV3plOEdTZzZ2UlpSVXpibWZCNUdhcDlHU2NzMTRDTQ?oc=5",
       "source": "DroneXL.co",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "c69f884b8d27"
-    },
-    {
-      "title": "Weekly UAS News: Oregon Exposes FCC Ban Costs, DJI’s 96% Market Share, Export Rule Changes, Illegal Drone Deer Scouting, and a 925-Foot Tower Rescue - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oR0VRQVhJME4tTTV5dWYwcDBkdjBqU2R1dlltMHFJdkl2MlZVcUNQVnRQbURhUHB0ODkxV1pnNWktRTZJc2s2alNHVm81eGNIQ3BZRUc4T21JdmwxR19jTy1HWk93d0pwdVhNOUxEbS1RQkNJcThxejBB?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-03-06T13:01:54+00:00",
-      "description": "Weekly UAS News: Oregon Exposes FCC Ban Costs, DJI’s 96% Market Share, Export Rule Changes, Illegal Drone Deer Scouting, and a 925-Foot Tower Rescue  DroneXL.co",
-      "query": "drone illegal",
-      "detected_at": "2026-03-06T16:13:22.789020+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8a9294e05a83"
-    },
-    {
-      "title": "Drone crash halts LIV Golf event in Hong Kong as distracted Sergio Garcia tries to line up putt - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeUN6QkY3X0xNRjZnRlQ3YnB1ZG8ySlJtckJ4UHAyeUozYm9QTTcxR3dtQ3owZXhpVE9BTS1LUzFJNm4xWm9YNHM0Vk12amhNdXVhT3lrbDFURmZ4M0F0YzhuMVZmdXFESWpaYWEtYmRjOE5FM0NaU1JkRTVOMnFWYlRJcUdkME9GaHZBSUNmcUZCd0VENGtaZTlNaVAzbDNHUTVMQ2REYVl0Qm1CcFRCMGRvbWRIRjlpVk5uZUg1TGFUUG9QNTdtWnlKZmREQVRsaHNtRW1qY0VkLUZP?oc=5",
-      "source": "MSN",
-      "date": "2026-03-06T05:57:37+00:00",
-      "description": "Drone crash halts LIV Golf event in Hong Kong as distracted Sergio Garcia tries to line up putt  MSN",
-      "query": "drone crash",
-      "detected_at": "2026-03-06T16:13:22.250288+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ebf9b441848b"
-    },
-    {
-      "title": "Abkhazia reacts to drone attack: authorities say situation under control, opposition doubts it - JAMnews",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tcG5Xb29HZEVwUzFmckl3cXFyMl9BaURSNVdLVk1SMllPMUpsTnE1RGxnd2FDVFA2WVc1VTd2V3pKSDlWV290R1hrY3VrX0hKWEpSZ1g3QzdFNWg3XzU3RTdYbTM1YWlu?oc=5",
-      "source": "JAMnews",
-      "date": "2026-03-06T10:25:40+00:00",
-      "description": "Abkhazia reacts to drone attack: authorities say situation under control, opposition doubts it  JAMnews",
-      "query": "drone incident",
-      "detected_at": "2026-03-06T16:13:19.251971+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "e26fd4943ce4"
-    },
-    {
-      "title": "Safer Skies Act strengthens drone protections for parks - Amusement Today",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONjI4Vy1SSHFUNEtGeGdtR1FocjhIN0Y1SkVCYWNGaUJWWEJjNnJzSTZEekRPNE9RMGJ6a2FvZHZfRGNHVlRfQWpUY2FUWTgySG1nS2h6ZGZaZW5JVGREYnM4NkxkY1hOYnBsRzFXa1RuVUNTcHBkWUwtbXMtMWtmTkVlQ0hCd1dnczdUNW14UGtwZ3RtUUE?oc=5",
-      "source": "Amusement Today",
-      "date": "2026-03-06T14:23:29+00:00",
-      "description": "Safer Skies Act strengthens drone protections for parks  Amusement Today",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-06T15:14:00.419332+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b9d77f441a3c"
-    },
-    {
-      "title": "Flight paths squeezed as Iran conflict closes more airspace - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45aUtBVU9IRUF1REpqaVp0RWRCaDJkM2lScHJTdWp2ejZ1UjVSTzloZDlqVjREQXhlOFJlZTVqXy1tMm9UanlBcDdIUmhhcnlvcWJDdlhvRVFFQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-03-06T13:30:08+00:00",
-      "description": "Flight paths squeezed as Iran conflict closes more airspace  BBC",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-06T15:13:57.491507+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7369e3ef94ea"
-    },
-    {
-      "title": "Nikita Casap gets life in prison for killing parents - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQlpta2xkS3gwRlhXa3kzcUJxdzBCYjI1R0RWTE9fbGZqRGpLMkRwV1dndV9Sd0FLRW01R0lVdG03OXVmaXBfUi1YNXV3eWxNQTVRbnR6M0Y5V05BS3U3aTJCSXNpaVZTS2dzLWx2NUtybkVrLTQwRDk0VGZxV2dURTJ3cjdJYmZDZnYwQloyNkxwYlloVGhvemwxS0hxYTFIQjBnYkF4S21EQkJ0NHgyYnIzSFZxeUZGakh3?oc=5",
-      "source": "Spectrum News",
-      "date": "2026-03-06T12:29:00+00:00",
-      "description": "Nikita Casap gets life in prison for killing parents  Spectrum News",
-      "query": "drone prison",
-      "detected_at": "2026-03-06T15:13:56.896471+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7a553e4175c9"
     }
   ],
-  "last_updated": "2026-03-24T12:20:57.109085+00:00",
+  "last_updated": "2026-03-24T13:34:07.462194+00:00",
   "total_count": 1000
 }
