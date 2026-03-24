@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Six held for illegal drone use - Kuwait Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzVUdTdscDItZjUzWElYOHNnalJFOXVyTk93a29IU3JsMkRrUUozSmJBbThxSHdBR21GTWhKN1FadjFfWEd2TkZLcjlRcmljMW56X1J4dzRSc0FLV1U5MEJzWjV6TF9ycVNiYlRGNWx0WEhUTThOaF9kTk51bG5PdVRsRXRacTJ1ZGFZR3lxVETSAZQBQVVfeXFMT3hPbEtzOGpkTjktSDMyaUtfQzFVUVUzRHAwbWVqZkRmeGI1RnI3eFlkTlBCZ2lmZ3U1Q2F6V3o3V08wOHF3b1NTY0FJQ3VLTlhJeDhpTURIRVdPYXdVaDBnbXNCMTIxU3FQWHJETjNmTEpsd2V3VnVNVUNCaGFsejhXUzJFVlhhSzkxUFh2RUhfLWo4Rw?oc=5",
+      "source": "Kuwait Times",
+      "date": "2026-03-24T19:46:51+00:00",
+      "description": "Six held for illegal drone use  Kuwait Times",
+      "query": "drone illegal",
+      "detected_at": "2026-03-24T21:14:43.579476+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8efdec440a80"
+    },
+    {
+      "title": "Suspected drone explodes and crashes into Lithuanian lake near Belarus border - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1VtdWEzdWtIMDMwVm9zcE12Z21wT0RabnJ4VGJJZUthWWFqQURJbjNfVEswVEpHekU1ejd6dGp2R0VuLWtnWEZ4TG9aSjJORVRCRGxic1JvQWNsUjRNS0VlTGM1NE5BS2FRQnA3VVZCaFNYUi1Zc2I2QTdtQkVCZXp5b3BzeVdFcVBCNlItZm1jM054TkZoVl9nY1V3UQ?oc=5",
+      "source": "The Independent",
+      "date": "2026-03-23T18:42:00+00:00",
+      "description": "Suspected drone explodes and crashes into Lithuanian lake near Belarus border  The Independent",
+      "query": "drone crash",
+      "detected_at": "2026-03-24T21:14:43.021328+00:00",
+      "location": "near Belarus border",
+      "category": "crash",
+      "id": "38333a7d6270"
+    },
+    {
+      "title": "Czech police arrest 3 over arson at drone warehouse supplying Ukraine - Ottumwa Courier",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeGJHeXhuZ25nM3BvYTdGdF9QSDF5dnliN2IzMkdhVURTQmwwU0pZNWhFcjdMc083aF9xdl9XTUdHVm5sR3RJOHV4X3JPLUlZbDlwUk1vQ1p5MC1ZUHRZWUhvRks5SEI5b1FJTXVlYmd2VW5CbDVzWXg4UEFIZW5YSmNZRS1JbDAxeXctckU2aHc0dTI0dVRBeDUwMG44NmxMYXVrQ0dXNkNPNzdyaFQ5bFVoNnQ2a2FfSnpDUllfSTg5T0pLUllpS1NkWTBxMDZtelAxVzBsZlAwdWExWHlHOGVZcmY2OTlNUzFkaS1ndVdqbzVpR3pxSVlnbG9Kdw?oc=5",
+      "source": "Ottumwa Courier",
+      "date": "2026-03-24T14:46:28+00:00",
+      "description": "Czech police arrest 3 over arson at drone warehouse supplying Ukraine  Ottumwa Courier",
+      "query": "drone arrest",
+      "detected_at": "2026-03-24T21:14:40.285571+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "fcdc21401ed3"
+    },
+    {
+      "title": "Assault Suspect Arrested with Assistance from First Responder Drone and K9 Partner - El Paso County Sheriff’s Office",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE54NGJBNVJybEM4LWxoVE0yTHRmVDBKYm1Xay1iMUMzRTFHc0hMekFlRXZweTZpaE41c3pWMDEyY0xPN2ZtZWNoVURkR2tsRUxvcDd3WUFpazdqNTZhUm5mbnNveGdJNV9VenBWVlY0SkhlMThjRWNkNURYeXBqaHViSDh3YllDaGpaeGkyVThaTE9YRzFqMHBhSEtoZFBGNDNSajctb3ZBN0JRYkktWmdJUQ?oc=5",
+      "source": "El Paso County Sheriff’s Office",
+      "date": "2026-03-24T17:12:13+00:00",
+      "description": "Assault Suspect Arrested with Assistance from First Responder Drone and K9 Partner  El Paso County Sheriff’s Office",
+      "query": "drone arrest",
+      "detected_at": "2026-03-24T21:14:40.285571+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "7d497f7b7e03"
+    },
+    {
+      "title": "Ukrzaliznytsia issues new evacuation rules after fatal drone incident - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43Q2g3UzJxb2dMWTNYMWZRZEczMGdFZk1iOS1FRW8wVHI3WUxDem5WLThRVUR5emxsT1luOXNkMjBMcEUxNFVtd1A2SUFaMDFzUHRRaGNlTVZhM09veEdmOEhYNTVaem9CeFI0SlhHdWxhWUU?oc=5",
+      "source": "mezha.net",
+      "date": "2026-03-24T20:17:34+00:00",
+      "description": "Ukrzaliznytsia issues new evacuation rules after fatal drone incident  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2026-03-24T21:14:39.637044+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8b4fa3f7f4c1"
+    },
+    {
       "title": "Chicken sandwiches, cigarettes and tools: Ga. jail using drones to stop contraband - Corrections1",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdvTV9RbVhoNGFTdmxyQ21rSzB2eVF0Q3pHWDk4SERQMFQxbFhmcU1zWUJCTXlUY0tKMzh2ckpCUk5ONEZuZGJ5Q3VQTHZmN2htcXMyajB1X0RvMnBhcFNRc3o5R0NUVDA1VnJwRzdNbk1LRDhEYjB6YkY3Y0s5TXZ5UUhXVjdHYkg3T2Y4OThianJVbmhoaVJzeEQxbDA0UW9Zcm9OZzVJcTE3YTdjSVE3clBVQQ?oc=5",
       "source": "Corrections1",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "870d3ca764bb"
-    },
-    {
-      "title": "Azerbaijan pulls diplomats after Iran drone strikes - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOalJOdlBPV0J3QTB0ZF9ZanhXR28tOXAtaW9Ob2NBV1dNUXV0elo3a1JQX3NvcTJ0NTFuVjhBWEs4bXpKLWdIOXZKWFNXazl4cFlpX3JxdnFsU3FnMC1HVkpBQlI5LWFESGhoTDY3RXNLU3NLZE9FQ3VURnhuclRmYlo3YjFUVGFKRzRxeUdYTmNIV3BBRDNTZWtoN1FFcE40YmpVaTFJZzljbVBET0FXQ01taXlyNjdtclBqRk9jVFpxbXNtSGNWd3M0NHpkcUprVkk1UkhuaUJmZ29fNHA3M3BGaVRObVBM?oc=5",
-      "source": "MSN",
-      "date": "2026-03-06T15:07:02+00:00",
-      "description": "Azerbaijan pulls diplomats after Iran drone strikes  MSN",
-      "query": "drone incident",
-      "detected_at": "2026-03-07T12:10:31.429680+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "65d7097d5950"
-    },
-    {
-      "title": "Dubai Airport Is Open Today: Flights Resume After Drone Incident This Morning - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGp3X0JyQ2pOUTdwUGdiUU9TNmpVSVZ6UW1EenhDXy04eTNRSlNuWF9fUFlMUElXYmR0ZzdSa1p0S3pMN0FJSEhRMzFOdGl0RE9tVmE3RlFXQjBkbUJ6Q3BwMmVoSWN6V3E3M2xhZWtEMkdIZjVTT0RvUGJYZU1EcS1KTkFUbzR6ekF0dTRRM1lqZnl6S256R2VKMGJKNGI3?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-07T10:04:10+00:00",
-      "description": "Dubai Airport Is Open Today: Flights Resume After Drone Incident This Morning  TravelPirates",
-      "query": "drone incident",
-      "detected_at": "2026-03-07T11:05:43.841034+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "518e2cbfdc7a"
-    },
-    {
-      "title": "Erbil Governor Says Most Drones Targeting City Intercepted, Blames Baghdad for Security Breach - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSkQ3NzRYQmszTHMtMVVZbVRQVTFmb3ZadUJ3YTJnSzVNZHFzQUVCazRQekdaT05xSGJjYUtXbVJxVzM2QTdqbHI5THdjNVdzNG5ldk9rOHd2ZV84TkdnaksyeHQyZG9PWEFaWFpMY2hBUjBrT3dsVFBPVEIwSjBkOGljRndYMEZTUHp1YmJjSUY2alpLSVNTVzZjVkdMWFV4SzBjT1BDSi12TnhqNFFnWGxrV0U4amhYMkZHcUJPVDRWYlpVRXAxcXIwYzc0bzdjRndV?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-03-07T09:32:00+00:00",
-      "description": "Erbil Governor Says Most Drones Targeting City Intercepted, Blames Baghdad for Security Breach  Kurdistan24",
-      "query": "drone security breach",
-      "detected_at": "2026-03-07T10:06:32.951306+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "0722dce5e49f"
-    },
-    {
-      "title": "Travel Delays Mount as Iranian Drone Attack Disrupts Dubai International Airport - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazVsb1JTUnRRSEF3Qm84NEVCTjJoWlk5dEMtRldFNzNhb1VjQ1pYNk5BRDFDYldpNUhrRG5ZbXpmMEJzSm5ucUduYnZYYWIxZER1WHdndUZfaTF3U0NFMWRIV19XVVpKV1ExeWU4Mk1SWDZNVTgyNUREcUtHV3NTWnlza2d2MVBfY1M3YU9VaG9IWTUtaXVkZXNLUU9QZkN3ZGMzcVZSblpRaE5FYmpOLURHOTJhenduY1A5cFhQTzNhMVdqa0oxNg?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-03-07T09:40:53+00:00",
-      "description": "Travel Delays Mount as Iranian Drone Attack Disrupts Dubai International Airport  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-07T10:06:31.590237+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e103cb49f48f"
-    },
-    {
-      "title": "Travel Chaos Grows as Iranian Drone Strike Halts Dubai Flights - thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnVQWmRYRGtFOXJSMVR5VXpYcWc4ZUR3bnhVWkozUnRDRWhOWHVzTFptU3ZnTC1UcmJLcTFrMzZpQ0t1R0VMb1puRFI5QnNiM3ktMnRSV3dHWUZTMEt6SlZiY3JZSjNMRlJ2aVl6N1pVc3NOenJONEI0VnUtTzdvTjVpc1ByRnFreTZGT29aeGNsZUt6b3c?oc=5",
-      "source": "thetraveler.org",
-      "date": "2026-03-07T09:45:00+00:00",
-      "description": "Travel Chaos Grows as Iranian Drone Strike Halts Dubai Flights  thetraveler.org",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-07T10:06:31.590237+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4ec71555faf0"
     }
   ],
-  "last_updated": "2026-03-24T20:14:46.276733+00:00",
+  "last_updated": "2026-03-24T21:14:45.870034+00:00",
   "total_count": 1000
 }
