@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
+      "source": "LSM",
+      "date": "2026-03-25T15:59:08+00:00",
+      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-03-25T21:13:43.785324+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "fdeb930fdb6c"
+    },
+    {
       "title": "Barksdale AFB drone intrusion may have involved more than a dozen coordinated vehicles - Magnolia Reporter",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2ZXN085ZkUtbmJwWHZscWpNU0hvaFFfaGxqTDRGMDJBZVUxZ2dka1NXN0pSdDc5N3d6dEx0TDNJblM2bGZkX2t0elN2TzkyYzIwMUlZVHFpcEZjdUY0TUx1UHNsQXVXeExycDBMRldGVHBPTjVrZjM0dG1pT0xTNXIweHRWYVBjU2J5V1BqcV8tcEVGRW9ROTd0TnJmWnZXU0tEMlVjVEkwNjFvQkRWTV9VLTM3cDg?oc=5",
       "source": "Magnolia Reporter",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "de8a036540f3"
-    },
-    {
-      "title": "Two Women Used Drones Disguised as Crows to Fly Contraband Into Louisiana Prison - 97.3 The Dawg",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qcmZxcC0xNkNEdlBPUDZMVXpYdno1TjR4N3JYR1NIWXZDanYwbjlGVV8wZnVGQmg0VjNPVVJZWXhlcHp4NmRjeG16bEg4cDZZNXB5R1JDdFJQZ3hxRmR6UVpaM2J5eDNGbkswMDVXZXc?oc=5",
-      "source": "97.3 The Dawg",
-      "date": "2026-03-09T18:51:09+00:00",
-      "description": "Two Women Used Drones Disguised as Crows to Fly Contraband Into Louisiana Prison  97.3 The Dawg",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-09T19:18:49.899079+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3ae426a08776"
     }
   ],
-  "last_updated": "2026-03-25T20:14:19.716152+00:00",
+  "last_updated": "2026-03-25T21:13:46.711797+00:00",
   "total_count": 1000
 }
