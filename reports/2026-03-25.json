@@ -1,0 +1,127 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant series of drone incidents has emerged, primarily centered in the Baltic regions of Estonia and Latvia, where drones, likely of Ukrainian origin, caused notable disruptions by crashing into power plants and other areas. This spate of activity seems to be tied to ongoing conflicts, including speculation of intentional incursions. Simultaneously, several arrests and incidents involving smuggling and contraband deliveries via drones have been reported, especially in the United States. Debates over stricter drone regulations are intensifying globally, underscoring a growing awareness of the associated risks and legal implications. Several nations are also evaluating or implementing policies to mitigate unauthorized drone usage, reflecting an urgent need for robust security measures.",
+  "totals": {
+    "crash": 20,
+    "other": 47,
+    "airport": 15,
+    "arrest": 19,
+    "smuggling": 3,
+    "terrorism": 5,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 12,
+      "arrest": 21,
+      "crash": 35,
+      "interference": 4,
+      "other": 35,
+      "security": 4,
+      "smuggling": 7,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 14,
+      "drone arrest": 24,
+      "drone crash": 19,
+      "drone illegal": 6,
+      "drone incident": 36,
+      "drone prison": 4,
+      "drone security breach": 3,
+      "drone smuggling": 3,
+      "drone terrorism": 7,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes in Baltic Region",
+      "rationale": "Multiple drone incidents are reported in Estonia and Latvia, presumably connected to ongoing military tensions.",
+      "incident_ids": [
+        "308b3608cfda",
+        "4a0c3c4c333f",
+        "e966603703e8",
+        "2dcd6ccdc936",
+        "1f2fa7366966",
+        "aa015ac2204c",
+        "e9242448e872",
+        "aa015ac2204c",
+        "3fafb513af2f"
+      ]
+    },
+    {
+      "topic": "Regulatory and Security Measures",
+      "rationale": "Nations are moving towards tighter drone laws amidst increasing incidents of unauthorized use.",
+      "incident_ids": [
+        "ed53baa6a0e2",
+        "7bb19f360e99",
+        "3bfc44144650"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Several reports highlight the use of drones for smuggling contraband into prisons, leading to arrest and sentencing.",
+      "incident_ids": [
+        "410d81a19f76",
+        "2a8e33fec7cb"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "aa015ac2204c",
+      "headline": "Ukraine drone strikes halt Russian Baltic oil exports",
+      "one_sentence": "Ukraine drone strikes have significantly disrupted Russian oil exports in the Baltic region.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2dcd6ccdc936",
+      "headline": "Estonia and Latvia report drone incursions",
+      "one_sentence": "Estonia and Latvia have reported multiple drone incursions, primarily in rural areas near power plants.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Estonia",
+        "Latvia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "aa015ac2204c",
+      "headline": "Drones crash into power plants in Estonia and Latvia",
+      "one_sentence": "Drones have reportedly crashed into power plants in Estonia and Latvia, raising safety concerns.",
+      "risk_tags": [
+        "safety"
+      ],
+      "countries": [
+        "Estonia",
+        "Latvia"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1f2fa7366966",
+      "headline": "Florida man receives 81 years for contraband drone delivery",
+      "one_sentence": "A man has been sentenced to 81 years for using drones to deliver contraband to Florida prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Major drone incidents hit Estonia and Latvia as tensions rise. Multiple arrests made for smuggling operations in the U.S.",
+    "linkedin": "Significant drone incidents reported in the Baltic region with growing regulatory scrutiny in response to increasing unauthorized drone activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-25"
+}
