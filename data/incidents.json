@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3EzUm1fTGJIZFJYQkdHTk9ScHZBV2ZZeDllbFBrSUdTWFRfbHA4M0N2bTVqRFYtb2ZwakM3RFdZMzFJZm5UbFZiLVcwa2l5VmpLMGtkSjNma2YxaFhJWUl2bVROeHVIbXVUcDk4MTRaME5QRklnM0VYaHJTMEtCYlBScVN6eFpjMlBWU0hZQnhneExvYVZmamZoODFKN1ZLXzg5MDR6RVJKMmlqcEtCbWhPOGRyVF80OFRaeHk0U0RrcmRMQUhpQzZUUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-24T21:19:12+00:00",
+      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-25T09:21:02.900716+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "cfe7a495e96e"
+    },
+    {
+      "title": "Assault Suspect Arrested with Assistance from First Responder Drone and K9 Partner - El Paso County Sheriff’s Office",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE54NGJBNVJybEM4LWxoVE0yTHRmVDBKYm1Xay1iMUMzRTFHc0hMekFlRXZweTZpaE41c3pWMDEyY0xPN2ZtZWNoVURkR2tsRUxvcDd3WUFpazdqNTZhUm5mbnNveGdJNV9VenBWVlY0SkhlMThjRWNkNURYeXBqaHViSDh3YllDaGpaeGkyVThaTE9YRzFqMHBhSEtoZFBGNDNSajctb3ZBN0JRYkktWmdJUQ?oc=5",
+      "source": "El Paso County Sheriff’s Office",
+      "date": "2026-03-24T20:26:10+00:00",
+      "description": "Assault Suspect Arrested with Assistance from First Responder Drone and K9 Partner  El Paso County Sheriff’s Office",
+      "query": "drone arrest",
+      "detected_at": "2026-03-25T09:21:01.116379+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "a6ec59dab0c9"
+    },
+    {
+      "title": "Drone crashed in Lithuania – stray Ukrainian strike on Russia - Baltic News Network",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFVxMkJ6X3RRRk9xSzIwbWZpUWhpekw2d3I4Nm0tLWtSSnBtSWpoTW1MazVVZ0xrRlc3WGVMeXMxUkp3SGx1SlZzbTdfMk9FSVhVQ3NEbEh4QzlNcXg2ZDZaalVlVWtRdGJoT1laNzJjSE1xNzNsd014TTQ2eklvZHp5Y2RNSkZmeFFONlVna0o?oc=5",
+      "source": "Baltic News Network",
+      "date": "2026-03-25T09:15:17+00:00",
+      "description": "Drone crashed in Lithuania – stray Ukrainian strike on Russia  Baltic News Network",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T09:21:00.452556+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f37a0ec90614"
+    },
+    {
+      "title": "Estonia Says Drone Enters From Russia, Hits Power Station, Err Reports - Global Banking & Finance Review®",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEN5MXV5RTFCX2p4ZGtoU2lLeXZySWRuRXhqSzBVLVBxZTAtbWJLUFBJU0tudmkzVG04cTEtbE1pTVItRm9JQnNTZk9zVkFobjVjb2pCT2JNSVlBSDJ2cWlQcFpBVUd2V0xVbW1pUEwwZkhMN2lpaXhHVHY1R3NPTGZxM091RWtPV1JacjBaMDctc2dYT3RMSUszck54OW0x?oc=5",
+      "source": "Global Banking & Finance Review®",
+      "date": "2026-03-25T08:37:05+00:00",
+      "description": "Estonia Says Drone Enters From Russia, Hits Power Station, Err Reports  Global Banking & Finance Review®",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T09:21:00.452556+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9115f7809b88"
+    },
+    {
+      "title": "NATO Ally Hit By Drone From Russia - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kaTFNRXozb1YyWXp4U00tdWhBOHVicWgzSGhBd2RvSlRQbXZNaFZDV241LXdxclY0Y240NkNjYXBoTk9ucGtpc29qYjlMNVdaLW1BRWJ4dUxGczV2bFdVSkZha2V2b2g3?oc=5",
+      "source": "Newsweek",
+      "date": "2026-03-25T07:13:00+00:00",
+      "description": "NATO Ally Hit By Drone From Russia  Newsweek",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T09:21:00.452556+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "82dc97283e3f"
+    },
+    {
       "title": "Drones enters Latvia, Estonia from Russia, crash near the border - LRT",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNl82V3N6M1g0OVBReWJUeUNVa0VTVnFaUExTeGtuNTFzeEx0X2E1Ukt5UWo1QjFNTXVPWEE1NEhNZFU1blVzU3RIUmFjUmFfMndFamFQTEYxMTQ5S3kwUjc1dk1MSlo0dUZNbHd4YVpqMXlySnkzX0dOTFJyVGxJdjVDR1hMLXZSQVNsRXk0bVRVc3dBeGgxd1llRTVnTV9JYV9DZWlPcGNvRkltLXlObA?oc=5",
       "source": "LRT",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6556c04d6867"
-    },
-    {
-      "title": "Iran war: What is happening on day nine of US-Israel attacks? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFJkeTNPZWl1R2RaTVJLd1pqbjRnUlJLSlJ0Q2h3Y1BEcGxrLUUtWFhwUm5RN2R2SzRfcFh6QVUtcDRvRVh6OTJGODJ4cGl6WUxsWXNNSnVPM3M3SWdtVnRwTnRpOG02YU1wa1hmRlUzMVNjSmxiWk9aQzdlM3pfNnREUEIzQWFsWUdCTFZQbzc5dWZ2bFJwX1JxS0JxRkM10gGmAUFVX3lxTE5PbUhKQUh1MTRLOHVCZ1FBNlBRMnp0eGpFUkxIUk1oajRPUkQwVlpTS3dtS2d3ZE1qOTVMaUxvMGFobmVhdFRaUFRTQ3NGQzhJRnNxVHVDWlVjdnBEbTYwdHhfRVVDb21Sd29VZWxXdjNRaFVzeG5BNlhQZ25oZW5RbTJ1TDBIZENlamZsNzNyTTR5azJsdng1V2QzcjFUYnlSeTMyRkE?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-03-08T13:18:59+00:00",
-      "description": "Iran war: What is happening on day nine of US-Israel attacks?  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-08T17:07:29.871206+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "af5bbaadf482"
-    },
-    {
-      "title": "Fundraiser aims to repair pet rescue, veteran training drone destroyed in Manasquan Inlet crash - News12 | New Jersey",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG1lLXhlTDBTNUU2Z2hQTEE1dXViVEV1NEFxdHJiU0lRRVJEam9nUXZJelFsX1ZLbkN6WmdrYzNEdTIzSC1HTVFYVm1oakNyTEFKY2dITFdDVHdCYUtjcnBUTHF5MFpZLUoxZGpFS3hyT24ydUhqT1FERlZXUnNIWFJkWWhwMkxBRzhubDV3VXhTV2hLTE1kaVdrcDQ2NUZWeXREZ0FKZEpZV193aGs1cTJyZmQ0SHlScmd1YTZXdkM?oc=5",
-      "source": "News12 | New Jersey",
-      "date": "2026-03-08T17:03:01+00:00",
-      "description": "Fundraiser aims to repair pet rescue, veteran training drone destroyed in Manasquan Inlet crash  News12 | New Jersey",
-      "query": "drone crash",
-      "detected_at": "2026-03-08T17:07:27.892452+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ecbae1995d05"
-    },
-    {
-      "title": "South Korea refers 3 civilians to prosecution over alleged drone flights to North Korea - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3aHI4T2VUV1kwVTJaaS0zem5lV0VXM05GRDlCNnBBZ0pGWV9CM0hmUFBZMFd6clZ5SXBOd2xfS0NUSzg4Z0tjcktYMzNoTGtLOWlSMGVXZWFaNGdvdktySmFtWXEtbWZETWczNExhcGJCbkFLcTd1c2w1b2VIODlHT1BGMUhCeXRxbVFrcU15VTlTYXJieExzNzNFQU42eV9SN0VKcHBENzVqdldNa3RIaUowMTVUUnFLYy16d1BTUkRkcEJVa2lsMUVUZw?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-03-07T11:18:48+00:00",
-      "description": "South Korea refers 3 civilians to prosecution over alleged drone flights to North Korea  Anadolu Ajansı",
-      "query": "drone arrest",
-      "detected_at": "2026-03-08T16:07:18.530070+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "778c0b5ef818"
-    },
-    {
-      "title": "Excessive Engagement with North Korea Undermines National Security - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEVMNWdqVExCalRYSU1zQzB5YjV2VHlGMUxOaG83aDgxT2xtUHN4ZlJPLVd0T3VSYzR0MHUtcnBOZUZiWklpWmVlMHVVc3RmR2tPdC1fNUNLRmJiNm5QbkFoVEhCRnJVSFBDZUYxWkRMRkFOZ1l5MVhpdGlqU08tV1pSVWZYck0?oc=5",
-      "source": "조선일보",
-      "date": "2026-03-08T15:00:54+00:00",
-      "description": "Excessive Engagement with North Korea Undermines National Security  조선일보",
-      "query": "drone incident",
-      "detected_at": "2026-03-08T15:06:59.285542+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0fa0f736d4cc"
-    },
-    {
-      "title": "Russian drone strikes Ukrainian train with 200 passengers on board - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXRVaWdJeGdBUGF6VE1EZGgwemxZN3dKSWd5aTlSOTY0QWNXYzBVUlNKTG9EYXZiS3BJTnJubXBDalVTeTcwWGoxajJVLXpXeGtEUkdfc0hvOXFoNlFLdGJNazJFMk56ZjVDZWUyX08zeExROWh5Y0hjcVFXM2k4OC14b3lxN2x2eTRUYnN0cVhjT0M0cVdOTFl3ZGpLbktQVnFxZQ?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-03-08T12:45:16+00:00",
-      "description": "Russian drone strikes Ukrainian train with 200 passengers on board  The Kyiv Independent",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-08T13:18:36.038139+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c44d37fe4bf6"
     }
   ],
-  "last_updated": "2026-03-25T08:18:21.032687+00:00",
+  "last_updated": "2026-03-25T09:21:06.636926+00:00",
   "total_count": 1000
 }
