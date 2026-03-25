@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Stray Ukrainian drones hit Estonia, Latvia, including power station, officials say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5nWWJfLUp6WEhfSDViVzNpWWtBMDI1c0hxdl9aRlVQLV9hdlRyNVM1eThrdXhnUktWaXRWbmdaTHlNMF9fXy1OZWdPR2JibV9uVFBSTTlVMkxtdWlUT2U4SGFIV3JvZ3pBbkcxWGFFT3JjUTJxNTAydjZoc3hWNjUydi1ZVkRJUkVUT0c4eE5namtkMXZ4UHJ1NWxrX0hLMklJdnhFUUlVSnkxWkZra253?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-25T08:27:02+00:00",
+      "description": "Stray Ukrainian drones hit Estonia, Latvia, including power station, officials say  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-03-25T13:34:01.407863+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "308b3608cfda"
+    },
+    {
+      "title": "Airport Drone Disruption Highlights Growing Demand for Counter-UAS Solutions - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVc3YnVaT3pyTlIxSjhNSWVVVUJYMzhBcXBHNEI3TW5ibGMxNUJMUEZmNmpoYThVbXVZc1ZLWnFFV082TkpBYzVFS2RKTWNLTHo0a0hNN0d4RG5EWG44RmNqTll6Yklld1JxelZISmJ3RkJCNmVaQ3lNSGFrYWo4YWNTVEtlb0xISURJQzNWU20zTjdFbUdndElkZ3MtYUQ1MXdvMEdoUUNoTVNLSlNzQi1hN3VnTW1XZS1OU2d3LXE0Zw?oc=5",
+      "source": "TipRanks",
+      "date": "2026-03-25T12:27:56+00:00",
+      "description": "Airport Drone Disruption Highlights Growing Demand for Counter-UAS Solutions  TipRanks",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-25T13:34:00.814179+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2735603ed328"
+    },
+    {
+      "title": "Latvia and Estonia confirm crash of Ukrainian drones - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVcxX0FrcV9xcmo5YTdmSnJJNU5weWZaQ3gta1dmWDR0RzlmVFBOd0lxUUxkeE5CNk5rdWl5SXBUTm5QdUdBMWZnMU9IaDdBUW54ZmJpVzU1X2hpMS00WEZzWUY2U3RKbjZmSkM2OG92OXBaNjFRUW54U2djYjhTd3k1VHJwNVNiem5uQW5ad0I3eDZETG44Ymc2WHlFSHpGQllmZXc3aGZEMkXSAbABQVVfeXFMTVdfY0pXR2pLaW9ZWGhNWkpiQmpGWTNHZzRISDVOWkNLUm1mN0VoVnBLaTlITnMtMTU2aGtselZBS2JqdHc0YXItdU82bHdES2hjS0FvQ3BLdjZ3MUJzdTdDR0hmZXhmNkljME51WnBncGxUZFN2elVja1FFZWU5djVkbG5DQ2xFWlQ1WGE3cmd1RDhnUlg0Zi05SzJkNGVIeTgwcXN1Q3F5bWlBZGw3SnY?oc=5",
+      "source": "Ukrinform",
+      "date": "2026-03-25T12:14:00+00:00",
+      "description": "Latvia and Estonia confirm crash of Ukrainian drones  Ukrinform",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T13:33:58.529853+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4a0c3c4c333f"
+    },
+    {
+      "title": "Drones crash in Estonia and Latvia overnight — stray Ukrainian or deliberate Russian, origin unclear - Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXZuMHZGWE1lakRQa0xMMXdQcl90dmVEbElJNnJJYk93R05mVEpXSHZCUG9nUkFIQ1RIWVh6RGpCYlE5VC1kYVNUbjVDcUhubjBhV19udGFSRXZnazNEVW81ZkhmSmIzN0JLOTlyZmlRR2NKTkhfUE9UY0NXU1R0RHdPRTdyVGpsVkRpZGtGM1V2U1ZlZmtIM1Rzem0tejNEVnpVRGpmZGxTdDBfYzVPWHFSbFNCNlNFQ0pBeDNHVEV6TmFrTXR1UlJVMldnRlVRdHY0?oc=5",
+      "source": "Euromaidan Press",
+      "date": "2026-03-25T11:45:37+00:00",
+      "description": "Drones crash in Estonia and Latvia overnight — stray Ukrainian or deliberate Russian, origin unclear  Euromaidan Press",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T13:33:58.529853+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e966603703e8"
+    },
+    {
+      "title": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmhsVFgtYkRLb2twUFhHa2k2Mk9XTTl6ZUZGbjdlVklONmlXLW1XdDlLaEJFbmNTNE5lTzV6MDFzeGxMTmdzNk00Sm5hdEFKTTZLbjA3NXViTjViR3hLRnhzSkFvVjJUSnlZMk1pQUlLazItZVo4WjdlNlQxY0Z1Q2ptR2xySzhmR1l2dzdwR0NuT0NpMFpHS1VWX01kS1IzN3BPU0g1U3JaWmhISlNV?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-03-25T11:27:14+00:00",
+      "description": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia  Bloomberg",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T13:33:58.529853+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3fafb513af2f"
+    },
+    {
+      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WUtVVFNQYWJGR1ZnQ3JiUzA1MTNkU3hxWXVXaG5rQkhqRGJRSmVvOUMwZm9mS0ppWXVOZ3hnMnBSWXJza0pIOFZVT3NQOUhFU3pwaDBCN0QyUQ?oc=5",
+      "source": "BBC",
+      "date": "2026-03-25T12:42:14+00:00",
+      "description": "Estonia and Latvia say territories hit by stray Ukrainian drones  BBC",
+      "query": "drone incident",
+      "detected_at": "2026-03-25T13:33:58.529853+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2dcd6ccdc936"
+    },
+    {
       "title": "Ukraine drone strikes halt Russian Baltic oil exports, fuelling market uncertainty - AnewZ",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFFuRzd0ZUtEZzMxVWc1WXNubnRVUFRaLWdxOTZiMkM3RWh2QjlMZ0RGeXRjdlE0Y1N2azlYMHNLMExEODBaMWRkeFh5SHEwODNndFR1b1NpcFY4VkFYZFdLYUdCRmhtSmd0TXNoc0N1SGFTTU1MRmJJM0lxS2x5UDRuczV6dzh6T3lJQ293dnlIRU9QQXI1X2hGWFprWnM?oc=5",
       "source": "AnewZ",
@@ -11927,80 +11999,8 @@
       "location": "at Dubai airport",
       "category": "airport",
       "id": "31d0cdb857d2"
-    },
-    {
-      "title": "Norwegian Authorities Investigate Potential Terrorism After Blast Damages U.S. Embassy in Oslo - SOFX",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGFLaXN1ajduejNZQWlLak5BRHRpZDRqeXY4TkxZWlRQY05UZm5WVUY2WnZUTzVQbklHSXZjdmltbHJHVUx3Z1RPUGs2b05TVXhHdVEwRnpBY3dlNXplMVg2VldudGxiZERQdEdaUzBMeG5ibUd2aUVnSWgxTTk1dTZycDFKQjA2cktDb2xlc1VUM3FLQ3hCY0xSV3V2ZWEwZTVmMWVxZ2hxaHBwdmdOMkRjYjFiUQ?oc=5",
-      "source": "SOFX",
-      "date": "2026-03-09T04:49:19+00:00",
-      "description": "Norwegian Authorities Investigate Potential Terrorism After Blast Damages U.S. Embassy in Oslo  SOFX",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-09T11:17:08.558365+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "454c92eaf642"
-    },
-    {
-      "title": "Jail terms for seven-man drone gang ‘responsible for 75% of drug drops to London prisons’ - Inside Time",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1Job1pjdkJFQkctSFgxeWE2Y0s3ZDNEV2NmQWRqTGxtTHlITWRMZ3MzRE0xLXdvTHlmWDZWaXFnWk92bVlSMTRvc2JtaUoySmtxYzl2aU56ZnhiR2kycm5aZ01OeDZDcEZReFNzZUQ1SHl1bG1lZDR3Rmhka3pJUUIzVm8tcEJPdi1ybEs5bEdBbkZkLXh6UTJBR2Yxang5T08xcm9PSGhhb2pKdG9kaFlid0RzelV1S3NJUA?oc=5",
-      "source": "Inside Time",
-      "date": "2026-03-09T09:50:27+00:00",
-      "description": "Jail terms for seven-man drone gang ‘responsible for 75% of drug drops to London prisons’  Inside Time",
-      "query": "drone prison",
-      "detected_at": "2026-03-09T10:19:42.116264+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "25dc5afc8887"
-    },
-    {
-      "title": "Azerbaijan Reopens Border with Iran Following Brief Closure After Nakhchivan Drone Incident - Republic World",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnJfSzBXdVlRU0g2MVVENGQ2YlBMcW4tekM4U1R6OVlTdW5WY1c5dFpkUGJJSE5fZ25NWS04bWFkbTQtZDVjU29PbEVDQ2VkOEdPN0lCNl9zakRSZTlHWF93ZV8zMXNNRjN5ZEVUdUlhNEQySzEwbjlvZE9ObVVHc19Jd21XUkF1VS1fdXI4Q1RkVTczTDdEYzBlWGEzSHcyai1DVm5rRnZ0ZlJUa0Q4M3VyNWl4UGxuSWFYOFlDOW1aUjdJUVpwYWhFZnPSAdIBQVVfeXFMT2tZNk9DMmxlTVdKbzliU2hIUFdHam9YWE5HSHlMZlhycG1iWXlmVk04LVo3d1BNcTkzODFuZW96YVhfcTRfX2NyV2hDY1VnSmFaZWowMWZqZjhmNGxjUDJaVmZPekk2aFhWbUF2WVZoRHRDVFNXekJHaWZES041REFFZlhUTXJmc1hacXB2ajd1dUx6ODZsTmpYTjJBRkluZjkwQ3ppdm5TYzJXWGNwZVpDRlBrZGtUYlRUV3F0R25oaTRJaXJVQkpyVVZ2T2NDQVdn?oc=5",
-      "source": "Republic World",
-      "date": "2026-03-09T08:28:56+00:00",
-      "description": "Azerbaijan Reopens Border with Iran Following Brief Closure After Nakhchivan Drone Incident  Republic World",
-      "query": "drone incident",
-      "detected_at": "2026-03-09T09:19:55.320511+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "79cadaa0b974"
-    },
-    {
-      "title": "Azerbaijan Reopens Iran Border to Cargo Traffic After Drone Incident, TASS Reports - U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYV9rYnQ5a2xCdHJ6dmR1LThWQVhIakF1TlZPZnhzaTNKMS05SkFZdlhlN3FEY2VPRlZjZFVNTC02OGh3cndfbjZkbE56ZTBUME1pTFlMdi03YzROZzVGTWxJMDhId1pZM2VuamNXTjA5Tk11U0hDMXIyLUhUemk0aGNNNW9fMlpyeU1WaU9HM1J5MnNpa3JKRFBLMVphQ1B3cHRsdEtFemRJVDFTUzh4WjNkbTRiLWd1SXNyOWVTUU1qU0pvb1RONkpkY05kMWM2?oc=5",
-      "source": "U.S. News & World Report",
-      "date": "2026-03-09T07:18:00+00:00",
-      "description": "Azerbaijan Reopens Iran Border to Cargo Traffic After Drone Incident, TASS Reports  U.S. News & World Report",
-      "query": "drone incident",
-      "detected_at": "2026-03-09T07:25:18.453093+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9c2d383a71b6"
-    },
-    {
-      "title": "Azerbaijan reopens Iran border to cargo traffic after drone incident, TASS reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZVhtM19DazA2azh0ZTVINjJPZmV6aFBPcTNyWDY1MHg1RFBTVU00WnJpZFJmek9KMHdZOFpsckFlZTFZZVBLVXYydTh0MFR0cm9ibVRhRFBBYXdaSmtKWW5aY0FFMzNzUUNCcDlxclhBWWhHeUtRRGZpSDBnS3ZLMTZGZlRFVGozSmt4RlB3RzU2cHZXVzUxdHRGaHg2NnRpb2VrbEloWklwS0F3MnM5a3NuTjE0cVFsNTRIZUJqTXBfR1h5TEQzN21OWEg?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-09T07:18:52+00:00",
-      "description": "Azerbaijan reopens Iran border to cargo traffic after drone incident, TASS reports  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-03-09T07:25:18.453093+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8454cfe53c0e"
-    },
-    {
-      "title": "Ahmad fled southern Lebanon for safety. Then a drone hit the hotel next door - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclA4T05Sb0VTTGIyZ2RXWjNZYU9BN0E5QkVvR042V1Q1TmxlVkxRNXBnMXVRY2NSX1NjbWViZkNDbnFyMllYeVh0ZzhXV2NaN0ZSWVFWMUp6ZmhBRTVUaXEzX0E3aGhGSXNKR0hsZWhsNDZGaWhwOUpkQmxXNmJPdzZqMzFxYWIxTDI1aFUxOWpETy1CRmdmWjAzam41OEFOb2hGVE1ETFAxak5DeHhNMXdNZUdWOUh3SjZkN1dPRm9BSi16QWdzbkdHQUtJTTlSYk5F?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-03-09T04:45:00+00:00",
-      "description": "Ahmad fled southern Lebanon for safety. Then a drone hit the hotel next door  SMH.com.au",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-09T06:25:52.471599+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "793543ca166c"
     }
   ],
-  "last_updated": "2026-03-25T12:19:53.106859+00:00",
+  "last_updated": "2026-03-25T13:34:04.301596+00:00",
   "total_count": 1000
 }
