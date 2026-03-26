@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian Drone Crashes in Latvia, Others Detected Near Estonia - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SNEx3endPZ0RwMXlqejRjczc4NFdkbXFaR1JTZk5aUUlnX0tydlIxZnB0UnVIYWZKeDhXRFBaX1l6cklKdEhXWGJ6cw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-03-25T10:41:04+00:00",
+      "description": "Ukrainian Drone Crashes in Latvia, Others Detected Near Estonia  Kyiv Post",
+      "query": "drone crash",
+      "detected_at": "2026-03-26T01:37:25.604033+00:00",
+      "location": "in Latvia, Ot",
+      "category": "crash",
+      "id": "44aa443db177"
+    },
+    {
       "title": "Amusement parks seek drone policies that balance authorized, unauthorized uses - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXZucmdOcnludjlCUFZnRlBXdVlWWDZYUlJmWHdGZXB2RkYySmU5ZFNnUmxyanZERFJINWlsNkswUUFHZjBMZzdJREdic1loUFVmRVkxVWVGUG1iclhjUWhvVjNaUEVlcW14cHhFRVlYSzJoZXNoNzF2YjhuYVYwTWc4NkF2TFRJVFlvaTFJYUFxVms?oc=5",
       "source": "Yahoo",
@@ -11987,20 +11999,8 @@
       "location": "in Louisiana, sh",
       "category": "other",
       "id": "cc4f3d44977a"
-    },
-    {
-      "title": "UAE denounces drone crash near its consulate in Erbil - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODJTUjZLRGVITjhCY3hfeWJrdGwwUHhud1EwOEIzX3pPbGZRd2JtLVRLMFlFc2dJY2poMlplMl9iRVQ0Qlo4WV9PSVhpUEhiYUpIcE1yM1JGUGN4WG4xclExdHZuYkhJUWxobFdXTnVzQXF3WVBKel9ISmtUQ19GNHVuTUNqSjJwOXllamtn?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-03-09T22:36:28+00:00",
-      "description": "UAE denounces drone crash near its consulate in Erbil  شفق نيوز",
-      "query": "drone crash",
-      "detected_at": "2026-03-09T23:08:45.163403+00:00",
-      "location": "near its consulate in Erbil",
-      "category": "crash",
-      "id": "e9b2859d1e60"
     }
   ],
-  "last_updated": "2026-03-26T00:34:24.180812+00:00",
+  "last_updated": "2026-03-26T01:37:28.593035+00:00",
   "total_count": 1000
 }
