@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Dublin Airport warns of disruption to Middle East flights today after drone attack in Dubai - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlFlZDA0Z3BhdmlUNHVTbnBrbUdadGI3c1hLVTJnSFRqZWVTay0xVThRRTdCQm40eVlXWnBlTGR1azYzbFFQal8xLXM1Q042eGpad3JPZlpiTFUzQ1hqM1FLYmFoYkFtS1Naa0gwdHA0dmphT3BhT2pnN3NUWmRpQ2dKUTZfME5odXNfSDJqTHNITDhOYlRuOVYzVldGSHRLQVNETFhFYmNJMkp2YzdrajRpT0FMNjZFMGdaUHFyU2lLbkJiSk5pMjBiNWtMc2hHcF8wNldsNA?oc=5",
+      "source": "MSN",
+      "date": "2026-03-25T23:45:35+00:00",
+      "description": "Dublin Airport warns of disruption to Middle East flights today after drone attack in Dubai  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-26T09:24:29.055486+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ba38d01bf571"
+    },
+    {
+      "title": "Drone Crashes in Western Kazakhstan - Caspian Post",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwTWhlSFJzeEdqR2hiRG1sQTVKSnJ2dm52REcyZVY5SlNQa1hrQm43SEFLd2tZWW1kT2FnUlZ0X3dyTThDVU5MODVZdDdlSHZER3dZSlFRZHVCLU90TWVHZ1ZLbkYzNDkwYWVLV29nWXdyR1hhcGU4c1lR?oc=5",
+      "source": "Caspian Post",
+      "date": "2026-03-26T08:59:34+00:00",
+      "description": "Drone Crashes in Western Kazakhstan  Caspian Post",
+      "query": "drone incident",
+      "detected_at": "2026-03-26T09:24:27.054682+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "14d1524a0aa0"
+    },
+    {
       "title": "Drone crashes in Romania after Russia strikes Ukraine - Al Arabiya English",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFR2Vm96eTRHWHN1b0RnYXRmTVM1Tlp5RUlKV01naGhYS3BoellLemNMNjQ0ZWxGazBsa3o5NU5XQzBMdHZCSm1XZ0psWm5WZlZLTGpPbmxaNHVZbWpZME5UaWJpZ05YWXZBVHhEOVRyTE9PTUU3N1N3OXk2T0VmOEVRbUtuUEJMWGZKYW91Qm43Qi1kNTIzb2NSTWt6SW13SjgtUURja0s0Z9IBrwFBVV95cUxPRXdqdjRFQjRaYmdhWm81aFhfZ0hncW91eXl5Z05fOHNRMHZHZW5rdFlOU2lLQ2x0VnIwbmJRRHllT0o2VUdtUWxJNVU0blVaN2dTdWdBcVFrWnZKeTVLSzRnbjM1NGpYS2NLZWgtT3lFaEZiWkFOVGpXcnBXSzRkb1paUGoyQmhCbE0tNF96OS1EZk1HdkNSbWlOZWJPOFZJSjdTVU5vZExoczJLMnJV?oc=5",
       "source": "Al Arabiya English",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "19cbd87277aa"
-    },
-    {
-      "title": "Barksdale Airforce Base investigates drone incident - wspa.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFctSWVUMVRQV3Z3S2Rfa0dFd2ZDeExydWpOTEtLVnJBd2JWb243aGFwU3hMb0ZocTdUR2RROU9BOWdPZjJVRklzTHBTSmxOcnZwM0FfU051dzNBOXRrV2JaYm5RRmhSRVZyUmRSU1ZtRTJtZVRrOFZvZVdDVzNkX0dLZklCaGlPZU5GWHBJNDc2dw?oc=5",
-      "source": "wspa.com",
-      "date": "2026-03-09T22:04:37+00:00",
-      "description": "Barksdale Airforce Base investigates drone incident  wspa.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-10T02:59:33.330768+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7d7e3b53c473"
-    },
-    {
-      "title": "The Beast Of Kandahar: How One Captured Drone Changed Modern Warfare - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOEZpNzRXV2t4SUlzUjhXTHNlcGdhbjVHRUlqUXVRa3d1bmdMQXQ0aXpDUlFXMkJUUzNuUmF5UzYtdTg3ZUtEY19fSDQxWHFBVlRKdWpYUDFELWsyUXR4UlA1TWZQdFZzSlU2RkptWnVPa1kzY3NWaEdvUkhRb0tQYlVhdU9pOGRTVll6THNSd1M4U0g5VGM5SUNCX1ZRWmIxYzlTQUVzV2FJY1FuaFF5Zm5jamxjb1dTRk5YRjJocDY3VG42RUhJR1ZlQlhFelUweTZ2Uy1OVnBOWjA?oc=5",
-      "source": "NDTV",
-      "date": "2026-03-09T13:55:41+00:00",
-      "description": "The Beast Of Kandahar: How One Captured Drone Changed Modern Warfare  NDTV",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-10T01:36:36.419165+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3c2fe34db0e2"
     }
   ],
-  "last_updated": "2026-03-26T08:21:12.567521+00:00",
+  "last_updated": "2026-03-26T09:24:32.144549+00:00",
   "total_count": 1000
 }
