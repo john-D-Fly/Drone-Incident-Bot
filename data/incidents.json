@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - msn.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEd6ODZsbWRFTFpnZjFFc0V1NmFfcTNuQWlRWGJoYnRBNm5jU3BDQ1ZNZUhvSHZlaktySkdnWF9fQkRpcHFLWktxS0ViNkJFVVJvYVNndkNrOVBrWWRYWFozTlFzeTBtU0YxaDMtVDctZC13OXhHMUtRdFZGM2s3U3RLeTNhSl83MGlGcERRZWFYdTVUVVhhdmgtTWdKX3ptYmg3NFh0WHM0aGVpSFZLWWF2dHF0YnBseC1EX1d2alhyYnRlSXN1REl5Yw?oc=5",
+      "source": "msn.com",
+      "date": "2026-03-27T19:23:23+00:00",
+      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  msn.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-27T23:12:17.177154+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "9d6d9b5f765c"
+    },
+    {
+      "title": "Drone caught attempting to smuggle drugs into Wilcox State Prison - walb.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXpjREFfa2JCbVdFWm9lVWp1Umx3LXVOaTVvb2tfQ2dJTEVEaER6eUxWSHpKSXpmajNUZS1rNndGWXA3NkxmU2R4VEJ0OVVRdkN0a19kWWxvaVRfc3hfUGpTb1diLUU5SkVZeWh1eFJHMVZKd2JSeG43dlRDVVVydmtzUlZZMWp3VmY3OHZSMmtWQXNVT1JZUEdwSmVCbGU0djYw?oc=5",
+      "source": "walb.com",
+      "date": "2026-03-27T17:59:05+00:00",
+      "description": "Drone caught attempting to smuggle drugs into Wilcox State Prison  walb.com",
+      "query": "drone prison",
+      "detected_at": "2026-03-27T23:12:16.646435+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d7cee9e2df5c"
+    },
+    {
+      "title": "Drone caught attempting to smuggle drugs into Wilcox State Prison - walb.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUl82MjdQWWUtdVd5QkdTVFl3VUh4OF9HTFhvV3NmQlJiUEpHNUlXdEpJbkt3RlVXWU4ydjdjQWVJQWJuVnFxWEo2V1Zod3hQU0VOXzBGMW50Yi13c2xnTk5fdUNsakVXRXRKcVJ2dURMOWVJNW9iM2E1VWFVRVQ3eUk3Y2t6akM5T3BFRE5rdlZ2NV9VUE1HMjVQVdIBrwFBVV95cUxPVjRIMjVCVkRodDcyeDk5UldOc0hUT2tIOTVxbDlaQUswS0ZJcjdtOFJZeDUxU1ZBcGotRlF0ekJsMlF2ZHN2ZzJTVm0tb0Z1UDMyN29CMk9idXNWQlFyQzNmR2hfbjB5SXN2dnBBMGZmUWV6YjhMTzBDWEt5Z1JxdGZfX3dnMUZVR0JGUnlGakxlSjNlaThGOEtwNmc5NlBZV3RrTmdQMFFacl9Qc0ZJ?oc=5",
+      "source": "walb.com",
+      "date": "2026-03-27T18:00:00+00:00",
+      "description": "Drone caught attempting to smuggle drugs into Wilcox State Prison  walb.com",
+      "query": "drone prison",
+      "detected_at": "2026-03-27T23:12:16.646435+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b155e95f2c85"
+    },
+    {
+      "title": "Drone helps Huntsville police arrest shooting suspect Thomas Joiner Jr. - WAFF",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2ZCeHktT1JyNHFOSGNUQ0FhS0JMRDNuaDJmUm1OOE10bGw4eE13Y21pZnYwNmhBS3V5cGR5ZHl2QXJxVnFSUENhM0llWnhmaTJmYnlfa29iQXl5U2Y2cDE0U2FIQlRua1hHcWdtNEl6UU5mTGJUd2RHZHRFNGJQanhRN1dpZXhmczRxbjVKdVdWSHM3Rlkw?oc=5",
+      "source": "WAFF",
+      "date": "2026-03-26T11:30:00+00:00",
+      "description": "Drone helps Huntsville police arrest shooting suspect Thomas Joiner Jr.  WAFF",
+      "query": "drone arrest",
+      "detected_at": "2026-03-27T23:12:15.397347+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c155ebd5706f"
+    },
+    {
       "title": "Randhawa criticises Centre, state govt over 'rising drone smuggling' in Punjab - MSN",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzF3TEUzdU1meEFJVWI5WnV4LWx5SGhkWERBeEFwQ1Y0eFJ3U3Rya01JNk5hcTA4VWZZVXNFWnBQQ3FhaDRLeElNZlJFSWQ3ZDk1Vmx1ZHcxcVhqSjFHcDhpUHRRdmc5M1lJVlRoUW5mdHhKemJIcEs0T3A4T3ZYbkdGdWszMkF3MDBwVTNNRHJfQUlmX1M5bXZWZWk5UnlrVXEzdHpSRlFqOVRndFc3NEZSX1RQRXIxS1JJb2tRcE45NmhaQ2R6TGthVUY2VTNTTWc?oc=5",
       "source": "MSN",
@@ -11951,56 +11999,8 @@
       "location": "near Dubai airport leaving four people injured as flights are axed",
       "category": "airport",
       "id": "2af6c292c031"
-    },
-    {
-      "title": "Dubai Airport chaos as city hit by huge Iran drone strike - flights cancelled - Daily Express",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1BBV2p3azd4RWVFaWpHemlLUE82TDVoUFNOV2ZIRDV1QVBuOGlRdVNvZWFpcmNBRUYxMEcxZi1vNDBCZ1hnR0I4dVY2OG5sdGZucGhiSkhaY2NKTzZJYVJNSm5wT05RV1Fkc3BiWFhTZUZhSklUY05TSndCVTVmdjJRSEdONGJQQWRWcXR3T0xGaXplWjlYblJR0gGfAUFVX3lxTE5YV19iN3E0dklfM1lkWGxycDBMTGxId2JiV3lHc0U1d2Z5MGJJRnhOLXZrZnZVSnhsOFA3R054MVlVelJyZXlaTW5VM0luelZlN2ltRnFuV21SYmxWSjR4RHJFTnhEYkY4czVRdlJ5NV9XclZGSDl0M3N1a0t1MmtRYVdPMFRjc0dDVlVlUU03QWdWUkJnenFlWTVsNGJCaw?oc=5",
-      "source": "Daily Express",
-      "date": "2026-03-11T11:26:00+00:00",
-      "description": "Dubai Airport chaos as city hit by huge Iran drone strike - flights cancelled  Daily Express",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-11T13:30:50.342496+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a66b2ee397ef"
-    },
-    {
-      "title": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison - WKRC",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxONXA1ZUpnQklYZFJWN3NrbVlmY0VEcXVwTGg1dWVmbVg4MHlJaHdLLUZTUzdoYy1PVnpKNUs3d3ZjVlE4bVJZUWJkTHBvQXBDZG1QQTdVT3pQU3RZbUl1VDdUUUxmZjlNWGtsZ0pVcWJpQmpocFVxaXJZaEUwWGZnVEtGaVliTGtQMXgzMVlQbW5OVVJPTGxveG93UXYwUWN1WDRDTGRkZ3ZDdGdyUGFXb3ZXS09FTThnY1ZNbjA5b2hVa2pGVlhGYkRLRzZUbFlwYWtSdlBYOW84YUxnRkVNNGVoLTI1ZmpvcnJBSHlqUUFiNFc5ZjFRSUhTbzlIdVV0RjBCQk42eG9iLWRLUkFBVk1zelpCa25lV0dSRFItOUZvMTBfMVIydGNnMHNTZWFSTGpqdUJoZU5HUjR0SmpQVnZOb1B3ME1NUklrbFBDbU5JYkxKNmgtVl94eEdEWTFLWDcyU010UzBJRjlfeEZhZHdsaExnTmxSOWUwVjNKaG1XZVFhUEFHYkh4eHgwNWVtRkFabFdTZXE?oc=5",
-      "source": "WKRC",
-      "date": "2026-03-11T08:33:58+00:00",
-      "description": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison  WKRC",
-      "query": "drone arrest",
-      "detected_at": "2026-03-11T13:30:48.365564+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1b47882a7f79"
-    },
-    {
-      "title": "Drone Incident Reported Near Dubai International Airport - Gizchina.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYU5uWXN5dXBMWXNWWEtJeVdzaGFBNkdfcnoyVlpjNW4xUmUwR0Nld1F0MUIyM2lybm9HeUpHaFk3cE5lVmVYVGRSZ1ZqVDhkaWhQcWRLTEZuVEpaRldRbHViZEtzdzFzbng1TTVBRkxLYk5vem93aDRQXzNaQzBRb29JWHFCNmVzX1ZMYWxIYzlpUQ?oc=5",
-      "source": "Gizchina.com",
-      "date": "2026-03-11T11:11:23+00:00",
-      "description": "Drone Incident Reported Near Dubai International Airport  Gizchina.com",
-      "query": "drone crash",
-      "detected_at": "2026-03-11T12:16:00.841058+00:00",
-      "location": "Near Dubai International Airport",
-      "category": "airport",
-      "id": "1ea8bac1288f"
-    },
-    {
-      "title": "Dubai Airport chaos as city hit by huge Iran drone strike - flights cancelled - Express.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1BBV2p3azd4RWVFaWpHemlLUE82TDVoUFNOV2ZIRDV1QVBuOGlRdVNvZWFpcmNBRUYxMEcxZi1vNDBCZ1hnR0I4dVY2OG5sdGZucGhiSkhaY2NKTzZJYVJNSm5wT05RV1Fkc3BiWFhTZUZhSklUY05TSndCVTVmdjJRSEdONGJQQWRWcXR3T0xGaXplWjlYblJR?oc=5",
-      "source": "Express.co.uk",
-      "date": "2026-03-11T11:26:00+00:00",
-      "description": "Dubai Airport chaos as city hit by huge Iran drone strike - flights cancelled  Express.co.uk",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-11T12:16:00.280479+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9cbd257efab3"
     }
   ],
-  "last_updated": "2026-03-27T21:13:01.083700+00:00",
+  "last_updated": "2026-03-27T23:12:20.920869+00:00",
   "total_count": 1000
 }
