@@ -1,0 +1,120 @@
+{
+  "narrative_summary": "In the past 48 hours, incidents involving drones have intensified, showing significant geographic activity primarily in the Baltic region and the Middle East. Notably, Estonia and Latvia have reported multiple drone crashes, which officials attribute to stray Ukrainian drones, raising concerns about air defenses. Concurrently, there were warnings from the FBI regarding airspace restrictions due to the upcoming World Cup, calling attention to unauthorized drone activity. In the Middle East, the use of drones in militant operations was highlighted by Hezbollah attacking an Israeli tank and Iranian-backed groups launching drone assaults. Additionally, Dubai airport faced disruptions from drone incidents, reflecting the ongoing risks to air traffic. A notable trend is the criminal use of drones for smuggling, particularly drugs into prisons, as numerous arrests compound the issues presented by unauthorized drone operations.",
+  "totals": {
+    "security": 7,
+    "other": 20,
+    "crash": 14,
+    "airport": 9,
+    "smuggling": 12,
+    "arrest": 5,
+    "terrorism": 4,
+    "total_incidents": 105,
+    "by_category": {
+      "airport": 18,
+      "arrest": 7,
+      "crash": 20,
+      "interference": 1,
+      "other": 25,
+      "security": 8,
+      "smuggling": 24,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 16,
+      "drone arrest": 8,
+      "drone crash": 18,
+      "drone illegal": 1,
+      "drone incident": 19,
+      "drone prison": 8,
+      "drone security breach": 1,
+      "drone smuggling": 18,
+      "drone terrorism": 7,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "UAV Criminal Activity",
+      "rationale": "High number of drone smuggling incidents and arrests.",
+      "incident_ids": [
+        "400c7d1dc89a",
+        "f87ff973df75",
+        "a9d4010ac11a",
+        "8ece7877e82c"
+      ]
+    },
+    {
+      "topic": "Geopolitical Drone Events",
+      "rationale": "Significant occurrences of drone crashes attributed to geopolitical conflict in the Baltics.",
+      "incident_ids": [
+        "e6bf6f6d2cdc",
+        "4a0c3c4c333f",
+        "e36ae2be507b",
+        "df42ba318529"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8ece7877e82c",
+      "headline": "FBI warns drone operators about upcoming airspace restrictions during World Cup games",
+      "one_sentence": "The FBI has issued a warning to drone operators about airspace restrictions due to the upcoming World Cup.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3f0ecd4480e9",
+      "headline": "Hezbollah Strikes Israeli Merkava Tank with FPV Drone",
+      "one_sentence": "Hezbollah has conducted a drone strike on an Israeli Merkava tank.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ba1a3d93773e",
+      "headline": "Estonia and Latvia blame Russian aggression for Ukrainian drone crashes",
+      "one_sentence": "Estonian and Latvian officials blame Russian aggression for recent drone crashes on their territories.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Latvia",
+        "Estonia"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "dc97a43f25f6",
+      "headline": "Peacekeepers clear road of crashed armed drone amidst fighting",
+      "one_sentence": "Peacekeepers have cleared a road after an armed drone crash in a conflict area.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "be5be366a529",
+      "headline": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits",
+      "one_sentence": "A drone strike caused a shutdown of Dubai airport, disrupting thousands of travelers.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "twitter": "Drone incidents surge as geopolitical tensions rise; monitoring of unauthorized activities and severe disruptions at key airports.",
+    "linkedin": "Recent drone incidents highlight significant security risks and operational disruptions, particularly in the Baltic states and major international airports."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-27"
+}
