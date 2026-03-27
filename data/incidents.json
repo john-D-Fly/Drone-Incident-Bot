@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Thai cyber police, NBTC raid Bangkok warehouse, seize illegal drones - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tX1d0RnVRbTRXZGZLalBmTktjeGxEa2M3bDFOaUQtNXloZUg4d0RaVHVHVGJ4RS1fYlV5dTNVT3pZRWpROUFGem9WVTdmYVFzUFJ1QmQ3SzlOQTVWOF90V2JUZUFHRWk2ZXc?oc=5",
+      "source": "Nation Thailand",
+      "date": "2026-03-27T06:30:00+00:00",
+      "description": "Thai cyber police, NBTC raid Bangkok warehouse, seize illegal drones  Nation Thailand",
+      "query": "drone illegal",
+      "detected_at": "2026-03-27T08:18:51.752970+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a9d4010ac11a"
+    },
+    {
+      "title": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights - TravelPirates",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG5HVjg1ZUQ0dFYzLUVEVTlMN1JmdVAyWnlXZ2x3SzdWMS1zaUFHZ3BpSVZqbHItbTI2MTJsdVFxbGNtWVN2blpGdU9STVlEWFpIYXdLMjBWX3lndjZ2YWx6VW5ydXlJWl9rXzNIM2xyekkySHdGczhNNTRwYmEwVGYxcC1aWlpLQXJwMWJ2cnNscFUtQkJ2Zkd4b210cl9FLUtxelRCZXRkRHF3TGc?oc=5",
+      "source": "TravelPirates",
+      "date": "2026-03-26T09:31:58+00:00",
+      "description": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights  TravelPirates",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-27T08:18:50.700493+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e60cb7b4b2b5"
+    },
+    {
       "title": "Iran-backed Iraqi militias attack Kurdistan over 450 times since beginning of war - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6dDJKRDdNM3hQVXJpR1BXZHhvek9xckdmVjJYVk41OTBfYmVHajRPOWZBQ3VNb2hLcFFOR1gwVVhSc0pjemNoR21TS01YVVdFaUZ6a0J5MGpwS0FBdnZyaGdKZmdjanFoNVE?oc=5",
       "source": "The Jerusalem Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "33ba2ebee4c2"
-    },
-    {
-      "title": "UAE’s AH-64 Apaches Swat Down Iranian Shahed Drones with M230 Chain Gun - The Aviationist",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GVEN5LWxYVkhhS0ZIeTUxejNUa1NVN1YwX1lRRGNmRXVSbW0tdElZSmxxekRqTjZqOUJZMzRTdmFZYlFMb2k0ejZ5TFB1M2VUS3pRa2JfTGtuODdGSFJ4V2FGVjluOHpfbjJwSTFrSWpyZVdselBTMFlR?oc=5",
-      "source": "The Aviationist",
-      "date": "2026-03-10T13:09:54+00:00",
-      "description": "UAE’s AH-64 Apaches Swat Down Iranian Shahed Drones with M230 Chain Gun  The Aviationist",
-      "query": "drone crash",
-      "detected_at": "2026-03-11T01:36:23.838765+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "add7c6362b90"
-    },
-    {
-      "title": "Drone crashes near house in Baghdad - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ09QVGpvWEMzdmY5ZVNxNHBrM1ZrR1hsb0dGSk1WWXdQLVE1NkktcDZfSHh4eEo4cmR3cDBtVHUtbDdRaS1CbG1CYWNhQXdTVDhiVFQyWEpFWUk4ZDhsdWtVbFVubXlsY2dTZmVBUE9aOXYyZUhEbkxTbmU3azZITTJpTUlYU0k?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-03-11T01:02:07+00:00",
-      "description": "Drone crashes near house in Baghdad  Anadolu Ajansı",
-      "query": "drone crash",
-      "detected_at": "2026-03-11T01:36:23.838765+00:00",
-      "location": "near house in Baghdad",
-      "category": "crash",
-      "id": "9e0cebafbace"
     }
   ],
-  "last_updated": "2026-03-27T07:29:47.130150+00:00",
+  "last_updated": "2026-03-27T08:18:53.870708+00:00",
   "total_count": 1000
 }
