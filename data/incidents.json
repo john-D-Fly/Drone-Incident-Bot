@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Senator Cassidy reveals new details on Barksdale Air Force Base drone incidents - KSLA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZktLejk2SW8tNWVfM3VneFJaQTV6bTlSNWpEenIzZ0N6T3hUeTc0ejdsbWdwM2t3MGtLV2hveGxETjRDM3l2U3YzeHg4bWNqUmJHTElmUFR2aUVqVWNNclIwcEtTNGZfcVJvSU55aHI0OEtGWEU3UnNwSzlfeW5uUE5BZks4V2NaU0M0TmJKVXQzeDdGQUR1eWpOc0twRDNEb0owRExJNFpfQ2lMUkHSAcIBQVVfeXFMUHVjeHNNSnNNNW0wc0h3X18zcFpmdHlpaXFIU3NrRXFwelg4S1B0T3h4NkNkWHFTQ2FEYk4tQUsxMlZLSENGNFlOX3pDUzMxVi0zRklNUFQyUW1saGd5by1EbU5Zajc0akNzQWZBMjU1VTNPbWdMdGxsTC1lODU3cFM0bjBSRklSTnZ2Sm5ELVNIeUFCaW1LaVRuSF8wUmxsWG1qOHdkYkRzZmVoY0s2Q3ZNMXhxazNKbEtQVGQ3ZXAxNEE?oc=5",
+      "source": "KSLA",
+      "date": "2026-03-28T02:42:00+00:00",
+      "description": "Senator Cassidy reveals new details on Barksdale Air Force Base drone incidents  KSLA",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-28T03:04:41.573176+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8c7746f7b333"
+    },
+    {
+      "title": "Iran's drone attacks raise concerns about U.S. readiness for next-gen threats - PBS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXltdDVsTkVkNG5tTFNzS2taMVczNWJDbDBNZWh4WkRWSXRhNjdCc2Z3cnExNlV4LXRHLUNpTDFYLWxQNWFpSjRrRlZMaldUYjF1NEtObzM5ajFQX0EwZDBWX2kzdXhGX0wyYXhIdl9KMjMxSnZrcWVuOVVhRXlUbl80aXBnMzhOR0RLMUtkWEF1UXh4M1ZWaVltX085MmlmVm9kT2R4V25LRHo0dnc?oc=5",
+      "source": "PBS",
+      "date": "2026-03-27T22:35:03+00:00",
+      "description": "Iran's drone attacks raise concerns about U.S. readiness for next-gen threats  PBS",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-28T03:04:41.573176+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "11038be05c00"
+    },
+    {
+      "title": "HPD drone program helps lead to safe arrest in shooting case - 256today.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQW5GLXVaRVFnVGVCTmJ4bWhsNVZjWU5ZdG9DZEdwcnJxa1pCWG1hR1QtczNkM2VreEt3MVVLeGlUNC1zdkdpQ2F1ZFB0Vm1meU5zNVpsbWo1RmRRdmpHVkJCRTZNQjlZRW00RDBYSHQ0YmhfTFFhc0JYd0dpdUVtRHhBY21IcmhXMlE?oc=5",
+      "source": "256today.com",
+      "date": "2026-03-27T16:00:12+00:00",
+      "description": "HPD drone program helps lead to safe arrest in shooting case  256today.com",
+      "query": "drone arrest",
+      "detected_at": "2026-03-28T03:04:37.336524+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "93d1c906e824"
+    },
+    {
       "title": "Ukrainian drones hit all three Baltic States − did Russia redirect them? - defensenews.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmlYMm8ycjVsQmFSb0Y5UXR1UTB3VHVkaTYxUzgwQnVFV1Z6dzM0YmZHNVVjZnFHZ1NCNWpuSjhKcS1EenVLWjFzbU9sSjc0RURkcm5SMVk1NHJ4Y2J1YzZaTnNuTUxteWNiOFlQWnJHbFBlYmctc2NkRHRzZ0R4SUNlc19tQUc1Wmc4bmstRW03RUhRQUhzdGRPaWVJeEpjRGkwazFFVndscDZMYzBmNmlTN3hMUnJ1TWlXUTVyS3o?oc=5",
       "source": "defensenews.com",
@@ -11963,44 +11999,8 @@
       "location": "near Dubai airport deepen Gulf aviation chaos",
       "category": "airport",
       "id": "fe85c3d51eba"
-    },
-    {
-      "title": "Women accused of using drone to fly bird decoys into federal prison - WCTV",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1lrUVA3SVBRcnBfMl9VdDNSYUkxaWZua3dTSWZCY3Y0LXZqa2pfR1pFU2JZa2hUbXJXeXdoYnlfcnNXdnFoeHB3OUhiZnRaRGVpeEc5U3MzelRkWHVWbkxfRDV4ZlRsYk8wNGtXY3hVMTBEZnFhaWktdmNIMUFxeE9XbWFpYWIweWRNcGV6Q3pYd2FCbFZHY9IBrAFBVV95cUxNUXJMVUxCNlVQMlBLTERiaXZISlN4bG1iTTllXy12SHFkcE93dGJDblFhUVdacWVQM29ZdHo3c0V1bi12c25USk52Z0d2VFJ0aFRKRjZYWURxM0ktQllGT1dkYjBVS00wOEFJX1JxWEtOWmR5WjBtX19pTm5pUmhoTWtYSW1PeXU5NVBTMFBVazBhQmlULVh4cEtnbzZYdmtvR09ISlk0VS1NUkc5?oc=5",
-      "source": "WCTV",
-      "date": "2026-03-10T20:14:00+00:00",
-      "description": "Women accused of using drone to fly bird decoys into federal prison  WCTV",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-11T15:18:29.043976+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c5f26a28e61d"
-    },
-    {
-      "title": "Four injured after drones fall near Dubai Airport as Iran conflict continues - AeroTime",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSngtUm51R3NFRU1fVUtsN05RbjdyTHZJdDc1MnB1eDJfMXJFNDFVZFZRZU51UF8ydUozcHJlTzFnX0NfSXlMU2tUTlh3RlljZVRGc3FYOVRFVWpEX2NsaHFQbVhPd1hua2FuQ3ljSGZ3SkhQQlVlYkRQVFBpb21xUzUwZXVGVXZ2cDgyS2Q3eGJnMXVvM1I2N2FPY3FrNUxtMzBQYlAwXzFxd3J4SHNSaNIBtgFBVV95cUxNdE9Xc0N4WS1Mb1RfYzRROHh6cHZOTEtBMDdBNEcyR3hyT2VDdnBnSV9TVHNPU3Qtd3VleDY0N1djVVpKSHA2YkctWFFkVjZWNDA2WFBUSkIycjh2UHlsbVFMeTRjOHd4d3luMUJjajZubnRJTTkzSTc4SWlLenBObTZBUHhKS2JlYmFlV19waWZXa1VLYUU3RFE5OUxjajRLQ3BFTmlZbnk2ckZ2enMwYlJNTmxPZw?oc=5",
-      "source": "AeroTime",
-      "date": "2026-03-11T13:51:01+00:00",
-      "description": "Four injured after drones fall near Dubai Airport as Iran conflict continues  AeroTime",
-      "query": "drone incident",
-      "detected_at": "2026-03-11T15:18:27.871104+00:00",
-      "location": "near Dubai Airport as Iran conflict continues",
-      "category": "airport",
-      "id": "79bed0a3fd4e"
-    },
-    {
-      "title": "«Pure terrorism», — Kim on the drone attack on an ambulance in Mykolaiv region - НикВести",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMTZMcG5mOHZRYzFLNTZHbjNXMG00OVpVOGpfY181bTZNWUNMcWhqTHJLWl9kRzh2RmlpRmVxMWJtdkRzRUFYNFhNdTR4bFVSRkxidVJ6LWpIOGl6Rk9ObUJ2VVczMktNWGVGMEUza1JWYU1zOXdQYXJEdTNqZ1kxWmV6NnNlUGlMNUxOelpvTmdyUWlZVTd4bndMY0RRa09RdEJ3?oc=5",
-      "source": "НикВести",
-      "date": "2026-03-11T07:45:00+00:00",
-      "description": "«Pure terrorism», — Kim on the drone attack on an ambulance in Mykolaiv region  НикВести",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-11T14:20:51.023769+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "c7285dee470c"
     }
   ],
-  "last_updated": "2026-03-28T01:36:53.311769+00:00",
+  "last_updated": "2026-03-28T03:04:42.107509+00:00",
   "total_count": 1000
 }
