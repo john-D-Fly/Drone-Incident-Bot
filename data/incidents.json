@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Drone swarms over key U.S. military bases raise concerns - PBS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXltdDVsTkVkNG5tTFNzS2taMVczNWJDbDBNZWh4WkRWSXRhNjdCc2Z3cnExNlV4LXRHLUNpTDFYLWxQNWFpSjRrRlZMaldUYjF1NEtObzM5ajFQX0EwZDBWX2kzdXhGX0wyYXhIdl9KMjMxSnZrcWVuOVVhRXlUbl80aXBnMzhOR0RLMUtkWEF1UXh4M1ZWaVltX085MmlmVm9kT2R4V25LRHo0dnc?oc=5",
+      "source": "PBS",
+      "date": "2026-03-27T22:35:03+00:00",
+      "description": "Drone swarms over key U.S. military bases raise concerns  PBS",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-28T06:24:16.495378+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ffa0842f400a"
+    },
+    {
+      "title": "UAE travel advisory: Which flights are suspended or delayed at Dubai and Abu Dhabi airports? - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVsel9Qcmp4YmtOY0VrWmlLc0lOUExQemxtb29qU1kwNXNxTUx5WURTclJYdDBkVlJhbmIyeEl2bThPcHZjRThHZ3hMSDQwOGVFa29hUFFIU3FPb3ZOM1lXbkU2eUVzNm00YmtFaXk2T1dWTHlaTGVibzBRVkZ6UDBGalBZYzFWSUlYZGxOODh2U0pTZzRGYmJobTh4Ykp4VGFCZy1FTTJldnk2RDJVZGhpbnBrZUg4LXJiN3dn?oc=5",
+      "source": "thenationalnews.com",
+      "date": "2026-03-28T05:36:00+00:00",
+      "description": "UAE travel advisory: Which flights are suspended or delayed at Dubai and Abu Dhabi airports?  thenationalnews.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-28T06:24:14.008407+00:00",
+      "location": "at Dubai and Abu Dhabi airport",
+      "category": "airport",
+      "id": "44a78b0d8ece"
+    },
+    {
+      "title": "Is Dubai International Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights - TravelPirates",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG5HVjg1ZUQ0dFYzLUVEVTlMN1JmdVAyWnlXZ2x3SzdWMS1zaUFHZ3BpSVZqbHItbTI2MTJsdVFxbGNtWVN2blpGdU9STVlEWFpIYXdLMjBWX3lndjZ2YWx6VW5ydXlJWl9rXzNIM2xyekkySHdGczhNNTRwYmEwVGYxcC1aWlpLQXJwMWJ2cnNscFUtQkJ2Zkd4b210cl9FLUtxelRCZXRkRHF3TGc?oc=5",
+      "source": "TravelPirates",
+      "date": "2026-03-26T09:20:50+00:00",
+      "description": "Is Dubai International Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights  TravelPirates",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-28T06:24:14.008407+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e859a6f06f7d"
+    },
+    {
+      "title": "Man takes selfie with drone used to smuggle drugs into prisons - indianagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbWFhdGozNkdXcFJFZTNQT2pOZXhud2d3bXdqUmhYTkZvanBtR0pQTDFoTTVzeHNCZmZuOWhqbTkxVVVBdmpXOGYyUGJyUWZ5WXVyeWc4UXBSQlR3dkFSd2RRY1pzaVk0dW93VS1mOXNYcVJ4RDV2V0FVOHlWeGJpUUgtYndXZlc0XzNzMXBtWjBqRG1WV3BlZ25VQ0loQmR4d0ludm9hOGNEb0lnbzVlQ2Z1RFFBMEdyWktPZF9RRmdsU3NlLWd2ZTFiWU5IRzRnOTgyS0lxSU43MC1pcEdrLXZLbDVLdw?oc=5",
+      "source": "indianagazette.com",
+      "date": "2026-03-26T16:55:30+00:00",
+      "description": "Man takes selfie with drone used to smuggle drugs into prisons  indianagazette.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-28T06:24:13.090791+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3335f7b405e3"
+    },
+    {
       "title": "Iran's drone attacks raise concerns about U.S. readiness for next-gen threats - pbs.org",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXltdDVsTkVkNG5tTFNzS2taMVczNWJDbDBNZWh4WkRWSXRhNjdCc2Z3cnExNlV4LXRHLUNpTDFYLWxQNWFpSjRrRlZMaldUYjF1NEtObzM5ajFQX0EwZDBWX2kzdXhGX0wyYXhIdl9KMjMxSnZrcWVuOVVhRXlUbl80aXBnMzhOR0RLMUtkWEF1UXh4M1ZWaVltX085MmlmVm9kT2R4V25LRHo0dnc?oc=5",
       "source": "pbs.org",
@@ -11951,56 +11999,8 @@
       "location": "near Dubai airport leaving four people injured as flights are axed",
       "category": "airport",
       "id": "3e7b5838b585"
-    },
-    {
-      "title": "First Ukraine, Now Iran: A New Era of Drone Warfare Takes Hold - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOalZjVzZzajg4M3JlY0VxQ2otc0pLWTBaeEFRSTZhYTQxa2kyQUJNR2tMLUJXRGswMVlxZG9qQllITkRaVEVnOWxsN2FHTHVOWm5MdnowQWl2aXlGcEg0WmwtQUNhM0RnZ2g0MjRpS0xOR2ZWVmRRZ0xCeGNBSWtmLTZ3?oc=5",
-      "source": "Council on Foreign Relations",
-      "date": "2026-03-09T22:02:22+00:00",
-      "description": "First Ukraine, Now Iran: A New Era of Drone Warfare Takes Hold  Council on Foreign Relations",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-11T18:21:28.040047+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5d00e81894dd"
-    },
-    {
-      "title": "Park managers warn of surge in illegal drone use - The Mercury",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpSVlJHanVlbzNCQkxGelk0bDFlX0UzcC1ob2ZRYnhRNzBXcDE2T3h6OEdYVHBLRk1QZ3gxTWFHeEFNcnpnRTh3QnlvRkpYUjhiU1hvd2djaUNfd0pFVXdYb0lzYWxLZkVQTk5SR1NOVmFQLTFpYXBUR0Y3M3RPRl9rQWgxc1pMRFZnMnk5Z2owNzhhbkNpNXVjbXZqU09rcDE5a050NFp0NkNIcmI0eENHbHNmNk5oUmRfcHJTNmVXc0pYNHBlRUoxR3pqYjVKZHpNX1JZcDN0cGREdC00V2FiT3o0VktXOVJVNGFFc1dod2NoT1JZVF9RZUtxWkNHcTF5SUVaTmN1TEk?oc=5",
-      "source": "The Mercury",
-      "date": "2026-03-11T18:13:06+00:00",
-      "description": "Park managers warn of surge in illegal drone use  The Mercury",
-      "query": "drone illegal",
-      "detected_at": "2026-03-11T18:21:26.443025+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bf7adf50f58e"
-    },
-    {
-      "title": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison - WPEC",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZ0IxcXFrY0oxSHdmZUFNVXgtY2piWVJvSTZJTXBEcTgxWFdYVnl0Z0pZNFphNlRnZGFoZ0lWQUIzY0NPUHZGVzdDbXJWOTRBem9JUGIzVzhGekRacHhPMUdCMzVPUWUybUtvRFcwRU1HaUtpbFRMWlZfdGF4TzA0aFR0THpIZ3I4UEpsWTVSRWRfTG12QS03d0xzQTRWZWY1ZHJNZUt1bnpwUWM3cVQ2QXh6MnJ0azl2Rkx6bmV1ODBJQXpuOGlxbTAzSWh3aHZGSENNaE5IQXdrZmVBRnFMall5Q1lCXzZNOWZicnRKTzlEamRTRGxzczhEdzNsOFZBUzRPd2c0Q2ZzRzNNeHU5S09yVURLUDZ3WGRKdmpqT25pSGhER3VQYUMtRWwyY1VtOEtqazhhanlsVHVpbjBhMGZpWEI5cEY5d0pBRHktenJXdHk0ekpvaWthSTVDbGYwVlFpczNxM0tKRTByY09WNm1tb1JIY0ZSR3ByNmI4X3g0aHl0aGJidEh6dTdsRDRrTmtjdVptX3pmeGRrY2kzWQ?oc=5",
-      "source": "WPEC",
-      "date": "2026-03-11T17:20:20+00:00",
-      "description": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison  WPEC",
-      "query": "drone prison",
-      "detected_at": "2026-03-11T18:21:24.361157+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c8bcd0b672f0"
-    },
-    {
-      "title": "Drone attacks on Iraq's ISIS prisons increase security concerns - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHM3N2FsZWpGMFpsTXVKT2ZPMjFfRG9DWnVQOGhvbnBWSmJJRmItXzRFSVZvVDZmMEx3eWh5NmdTbWVqNHM4SDlyS0RyWGNGR3dJekNqRFZ5TWdPSXU5clQ0cFFlUXR0NmdTNGFpUkx4T2Q5eW5hU2hlSFlxdGRaenBPWGo1WmJlTzZoZ2QxNzQ4Nzl4WHhEWUZGUVJ0aFhoMDZOMmRoTGtaZnVMV1FyQW1YcUxDVkk?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2026-03-11T11:40:35+00:00",
-      "description": "Drone attacks on Iraq's ISIS prisons increase security concerns  thenationalnews.com",
-      "query": "drone prison",
-      "detected_at": "2026-03-11T18:21:24.361157+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8f03d2394dc0"
     }
   ],
-  "last_updated": "2026-03-28T05:30:00.669446+00:00",
+  "last_updated": "2026-03-28T06:24:16.973742+00:00",
   "total_count": 1000
 }
