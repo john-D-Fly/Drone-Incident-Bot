@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "'Multiple waves' of unauthorized drones recently spotted over US Air Force base - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGttR1JJc2RxQi1BQ2ZlSUY5OEgwN0RHWFoyYnYzX0RvbHZtU0l4Q0JLTkhVN09EbXJLQ29YSHJlckYxdFRUNkVsS3oxWE5DWEZ3SW9Pai1WaDJ1RkFYOWphdjJpYXh2LUwyZkhPSzNFR0RxWEFYS1VzS2NJVGNkUzJ0OGVOUVF6WlotQnFfN1QzV0hTaktLSzlDQzFxUUluNjNLRnRHN3loUFNsQVRnOFcwQkFKTDJkNnNJR0xnNWlvUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-03-28T01:27:29+00:00",
+      "description": "'Multiple waves' of unauthorized drones recently spotted over US Air Force base  MSN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-28T16:10:09.088974+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "6aa15aa2cb4e"
+    },
+    {
+      "title": "Travel Kuwait International Airport Shuts Down: Drone Strikes Ground All Flights - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTNTSDllQWhURW56ZklqeVJsRWtjYjJ1dTdPTnFSdk5DSHVEeUhZTmUtUzY0c1JnYzlzZUxjTVlaSlAyaU4yM2E4RFZsQ2Q3Ui1UUEZseklIUHJJN2Ezc1BVTTA5RUxVbHRXcUp2andLUHdXTndKaVA5dHRkLUxZVUtON3BneVhCaDNR?oc=5",
+      "source": "Nomad Lawyer",
+      "date": "2026-03-28T15:57:28+00:00",
+      "description": "Travel Kuwait International Airport Shuts Down: Drone Strikes Ground All Flights  Nomad Lawyer",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-28T16:10:06.114547+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "479c4f96a983"
+    },
+    {
+      "title": "Jail time, drones and bumpy walls: Inside a Florida city’s homeless arrest machine - Tampa Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1dEdXVObWRvaVNGMUZjQUkxMHlxWXR1NFl1d250a285RVdBdnFLUmFIREh0a2JuTldzMl9qOFY5MEd5c0FFeEd3ZHdzaHNaV2ZteEZLZU5VQjBITWpubnZfbnhXMVZMTnBqMVpidFNLSGFhQjJScDFEVjZjaFFqc1JaSWd2eGJwRUdVMnVicw?oc=5",
+      "source": "Tampa Bay Times",
+      "date": "2026-03-28T14:16:00+00:00",
+      "description": "Jail time, drones and bumpy walls: Inside a Florida city’s homeless arrest machine  Tampa Bay Times",
+      "query": "drone arrest",
+      "detected_at": "2026-03-28T16:10:04.468666+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "044b14e786b2"
+    },
+    {
+      "title": "A drone crashed in the Majnoon oil field in Basra, causing no damage - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcG53STBSNHNEVk9wUHVvUDlJMHVBQ1BoYWpBWnJYTFNpYy1HN0czVTY4Y2h0TmI1T3dtV2JRb3gxSERKWlVjUmFDRUZYZ2Q0d2dQZkRqaVdicUluNXM1UWZCSjk3NnhrNG5aYWxfeWhzQUJUT0Q0M0loeXNoZC02VVNfZjZ1MUVnLWtBVDVPaV83NEgxVFN0TXloaFJaUDVveHVVMnJvRGc5Y0w3LXhsRE84UDllb2EzWTZR?oc=5",
+      "source": "صوت الإمارات",
+      "date": "2026-03-28T10:32:47+00:00",
+      "description": "A drone crashed in the Majnoon oil field in Basra, causing no damage  صوت الإمارات",
+      "query": "drone incident",
+      "detected_at": "2026-03-28T16:10:03.739498+00:00",
+      "location": "in the Majnoon oil field in Basra, ca",
+      "category": "crash",
+      "id": "ee58324f7eef"
+    },
+    {
       "title": "Jail time, drones and bumpy walls: Inside a Florida city’s homeless arrest machine - Tampa Bay Times",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1dEdXVObWRvaVNGMUZjQUkxMHlxWXR1NFl1d250a285RVdBdnFLUmFIREh0a2JuTldzMl9qOFY5MEd5c0FFeEd3ZHdzaHNaV2ZteEZLZU5VQjBITWpubnZfbnhXMVZMTnBqMVpidFNLSGFhQjJScDFEVjZjaFFqc1JaSWd2eGJwRUdVMnVicw?oc=5",
       "source": "Tampa Bay Times",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "623503b99747"
-    },
-    {
-      "title": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison - The National News Desk",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNSzY1d0VHMGw0c1BOTGh4emE5c1JQb0d5RGd4RHM0UVpDRFBVd0haMWhMYkJ6SjJMcVIzWnp6TTZ4VUV1VlhhQ2FRV2FXRDRFd2F2b3NTNnR1MjJLWjJUWDQ5aFVmcktCMmdPZk9mSG5CanVLTnZ1cVpVYUVxUjJMa1lWSXU4TmduLTlpZ3RzS005TUdQQzNrYlZYYXIxZFlMLUNaY1JNUzZ0aHppb1VKNU1fV3hrZ1hFQjV2N19mNUxBUUdBS0F6b183WUVfN3VwSU41RFpVQUt3OXhPa2tzcEE3cnVYS0owb01lMHpsMEFTbm9OMHRsbEdzOHlYbnNZZmFqeml5TDk3TTI3OS1vVGF0aTNfUUx4akRDRnA0cGd5STNiQjdxTEE4RUw4Qy1ERHVCX3dsQU1oSS1Ic3pBblk3eEswcGZrakFBVUhMUVN6Y2I3dURlUGtNZ0hsZlVGRHNSc1JZeXltU2YtREp6MHRIUTFXa0NIdnh2VFU0bUN6NnJpMHJHRVlOeFdWYWlvTTVsempTclBrX1RyUVlmTHdfWkJtVTZCR3c?oc=5",
-      "source": "The National News Desk",
-      "date": "2026-03-11T08:30:55+00:00",
-      "description": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison  The National News Desk",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-12T00:26:03.967317+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "6bbad57ef076"
-    },
-    {
-      "title": "Border Patrol Drone Downed By US Military In Friendly Fire Incident - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81cmo5cjg0WjJvN0M4Y29nMWtXTWlmMGhjRXQ1NTBmRW5uaV9oYVZuV0dRR2JmTU56ME9MNDNfWEdOSjhZal9EMEZ5V09lNk5vNkN2c0dIaXM4T2hScm0xcXMtWVdxWXFVUFNZY1lYT3licGl3VWp1VGtzV3dTUQ?oc=5",
-      "source": "AOL.com",
-      "date": "2026-03-11T11:43:41+00:00",
-      "description": "Border Patrol Drone Downed By US Military In Friendly Fire Incident  AOL.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-12T00:26:02.851452+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "31560500d235"
-    },
-    {
-      "title": "California could be attacked by drones because of Iran war, memo warns. Officials downplay threat - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkxxeWNSb3dKOTNoYVlIcVVmc0pVRlI3SWx0U0szQzQ3emVwNDJoWHBsdHNxVmFsbHltUktrT3NKVWlVd3A2bTBHV2ZIaDZFNXRVaVlfX3VUWDQ3TWN0QkpJV2dMYjNac1owNWEwQUJKSUdjR1ZHM21ScmY3R0ZmczdIbFY4TktHdFljc0RMSVZxc1hLaG01OEMtT2JGd0hJaURuSTREY2dYV1ZxeGpUQWlHR0htdEl2WTcyU3dB?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-03-11T22:09:00+00:00",
-      "description": "California could be attacked by drones because of Iran war, memo warns. Officials downplay threat  Los Angeles Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-11T23:08:05.894272+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "8ab85363aa22"
-    },
-    {
-      "title": "Safer Skies Act creates new tools for defending against drones - Facilities Dive",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWxtcXhqMXhleDIzVHh5cE1mVENjRTZQUnBCVk16QmNQeVBLXzd2WTdHYmtCSlkxT0pBWXgyTnpwNkNQT01tVFpfeDlvSHczUjlISGt4bnA5Vy14Q0FMMkhnZWxvLXZyeGM5SmJEbkNQUTVEZ1k1Z1NNbGZOckxhTUQ4S3VyM2JXZzdKNmpmN3RtQ1Z6UzFvTW9janY2bHc4MmpV?oc=5",
-      "source": "Facilities Dive",
-      "date": "2026-03-11T16:31:11+00:00",
-      "description": "Safer Skies Act creates new tools for defending against drones  Facilities Dive",
-      "query": "drone incident",
-      "detected_at": "2026-03-11T23:08:01.074617+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fe1ef90d95d5"
     }
   ],
-  "last_updated": "2026-03-28T15:10:47.320473+00:00",
+  "last_updated": "2026-03-28T16:10:09.674142+00:00",
   "total_count": 1000
 }
