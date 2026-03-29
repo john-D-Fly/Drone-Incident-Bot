@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "In the past 48 hours, a pattern of drone crashes and incidents has emerged, particularly involving Ukrainian drones in Finland and Latvia. Multiple crashes were reported, raising concerns about the safety of aerial operations in these regions. Simultaneously, arrests in the UAE highlight increased scrutiny on drone activities amid geopolitical tensions. In the United States, several unauthorized drone sightings over military installations, such as Barksdale Air Force Base, have triggered investigations due to rising security threats. Additional incidents reported disruptions at several airports, including Dubai International Airport, emphasizing the ongoing challenges posed by unauthorized drone operations.",
+  "totals": {
+    "crash": 9,
+    "arrest": 10,
+    "security": 6,
+    "airport": 8,
+    "other": 7,
+    "total_incidents": 113,
+    "by_category": {
+      "airport": 20,
+      "arrest": 11,
+      "crash": 16,
+      "other": 27,
+      "security": 18,
+      "smuggling": 18,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 17,
+      "drone arrest": 14,
+      "drone crash": 10,
+      "drone illegal": 2,
+      "drone incident": 17,
+      "drone prison": 7,
+      "drone security breach": 11,
+      "drone smuggling": 9,
+      "drone terrorism": 8,
+      "unauthorized drone": 18
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes and Security",
+      "rationale": "Increased number of drone crashes and security breaches at military bases indicate mounting risks.",
+      "incident_ids": [
+        "32fc86fb7c22",
+        "48a6f5a25619",
+        "fb8a7b296f46",
+        "d8d46f26144e",
+        "8b2e24dc81cf",
+        "bcef58aba89c",
+        "f8739c39e3d5"
+      ]
+    },
+    {
+      "topic": "Drone Arrests in UAE",
+      "rationale": "High-profile arrests related to drone activities reflect escalating enforcement actions amidst geopolitical tensions.",
+      "incident_ids": [
+        "d8d46f26144e",
+        "b5d3341c0ede",
+        "f0ca94d01bde",
+        "5b31453f83ba"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions due to Drones",
+      "rationale": "Significant disruptions at airports reinforce the ongoing challenges posed by unauthorized drone operations.",
+      "incident_ids": [
+        "39d161b8a95",
+        "8e1dc7b3c79e",
+        "30ea02f960d2",
+        "dcecaa835858"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "32fc86fb7c22",
+      "headline": "Two Ukrainian drones crash in southeastern Finland",
+      "one_sentence": "Two Ukrainian drones crashed in southeastern Finland, leading to confirmed incidents by the air force.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d8d46f26144e",
+      "headline": "Dozens of Britons detained for filming Iranian attacks",
+      "one_sentence": "In the UAE, numerous Britons were detained for filming drone attacks and missile strikes related to Iranian operations.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "48a6f5a25619",
+      "headline": "Unidentified drones crash in Finland",
+      "one_sentence": "Unidentified drones have crashed in Finland, prompting concerns about drone safety and operations.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "fb8a7b296f46",
+      "headline": "Major security breach at US Army base",
+      "one_sentence": "A significant security breach was reported following a drone sighting over a US Army base, prompting investigations.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "39d161b8a95",
+      "headline": "Drone strikes cause shutdown at Kuwait airport",
+      "one_sentence": "Kuwait International Airport was shut down due to drone strikes, disrupting operations and affecting travelers.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [
+        "Kuwait"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "5b31453f83ba",
+      "headline": "Drone discovered smuggling drugs into US prisons",
+      "one_sentence": "Authorities uncovered a drone attempting to smuggle drugs into Wilcox State Prison, highlighting ongoing drone-related smuggling issues.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal rising concerns over crashes and security breaches across multiple regions.",
+    "linkedin": "The past two days have seen a significant increase in drone-related incidents, highlighting security risks and enforcement challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-29"
+}
