@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
+      "source": "LSM",
+      "date": "2026-03-29T10:29:43+00:00",
+      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-03-29T11:10:05.424741+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "fb8a7b296f46"
+    },
+    {
       "title": "US, Iran Trade Blame for Drone Attack on Kurdish President's Residence - deccanchronicle.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGN1ZXJSX01jNGlLMEhMczR1bTZyUU15VzdETjZHVnBFMTlIN21YbE1Bc0VHanl3ZDhmWXJ4ajE0Rnp5UUlSV2xWNXAxbGFnaGVFWWFkS3g4cGNpaGFHblh3MmNHS1RVZTh6bUNVNmdidkViSFRsb2hESHFIVGw3ZzI3UjR6NzRmRzkzWHJHemF1Tkx1aWlVT0JZT2huM0IxcGFHbVlGWGFQS0FIdUt4S0k4aUk5cy12b1HSAb8BQVVfeXFMT3prd3E5b1dOTjVpRm1IRUxVWVREZzlobEJkQnRwX2dVaF9GdzhCeExGMnhUZGxjeXh4ZnpHLTlRTUJ3TW0tcHVKN1h0ZmJiVDlUTzF0STBrcDdhNy1hQWNYV1R3TFd3VV9aWDVWeUZWT1FGcDFVaklHY0g3RmNVbXJ1anA5bGFfMWRpMzFVWmlsRnRSRWJRWkRYS3h5WlNsaGJ3UGFBbFFkZHlOWUJCbEQ0YWVMTDF5cUVHcWxhcDQ?oc=5",
       "source": "deccanchronicle.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "55fd74d03b46"
-    },
-    {
-      "title": "Four injured after Iranian drone strike near Dubai Airport - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2ZBblpBQmd2X0UwRy1Xdi1FbzJvZG9MU2VqSnBCVzYydTRRZGtLV2pwMncxbEM5djc1LThUSzNnYXVza3hzNGZjMWhqeEFQN0FFaGRDNWpjMWJXWUs5ZTAtUVZoMXN6cGxTQmJiLXVsSk9ZTWFPY2c3Umh4bmN3eTNsSmxoVC04TTVvZnE3X0xkeGtYdUdadlBreXhHdHhxdElCN2pkeHhUU0x2eXFLMw?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2026-03-11T15:08:31+00:00",
-      "description": "Four injured after Iranian drone strike near Dubai Airport  thenationalnews.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-12T11:14:16.934628+00:00",
-      "location": "near Dubai Airport",
-      "category": "airport",
-      "id": "0bc585c09aa2"
     }
   ],
-  "last_updated": "2026-03-29T10:11:45.979601+00:00",
+  "last_updated": "2026-03-29T11:10:08.352648+00:00",
   "total_count": 1000
 }
