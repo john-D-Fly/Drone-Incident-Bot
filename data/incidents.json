@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
+      "source": "LSM",
+      "date": "2026-03-29T07:29:06+00:00",
+      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-03-29T08:14:25.021295+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "29dc41c951e9"
+    },
+    {
       "title": "Jail time, drones and bumpy walls: Inside a Florida city’s homeless arrest machine - tampabay.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1dEdXVObWRvaVNGMUZjQUkxMHlxWXR1NFl1d250a285RVdBdnFLUmFIREh0a2JuTldzMl9qOFY5MEd5c0FFeEd3ZHdzaHNaV2ZteEZLZU5VQjBITWpubnZfbnhXMVZMTnBqMVpidFNLSGFhQjJScDFEVjZjaFFqc1JaSWd2eGJwRUdVMnVicw?oc=5",
       "source": "tampabay.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a58a36e5c93c"
-    },
-    {
-      "title": "Drone and Crow Model Smuggling at U.S. Federal Prison - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFdqdk1qSkhzSjBMZU84dWhHTFJjOXVHdDdSNUdfQkRDQ1lueGNFS0tkZWJqY2NqVlhybTFqMEgwVlo5ZUxFdXYzbVFnYmxvbnZJQXVNbTVhcDZKQklVZU1tUTYxVXV6cWZRcTlzMVBvZ0lGV3ZGNWtWa09YRGZySXBiWm4?oc=5",
-      "source": "조선일보",
-      "date": "2026-03-12T06:17:08+00:00",
-      "description": "Drone and Crow Model Smuggling at U.S. Federal Prison  조선일보",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-12T10:16:42.648617+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "59b717fd60d3"
     }
   ],
-  "last_updated": "2026-03-29T07:25:21.578050+00:00",
+  "last_updated": "2026-03-29T08:14:28.125685+00:00",
   "total_count": 1000
 }
