@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone spotted near Trump's plane, airport urgently imposed restrictions - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWZvLXpTMktXWjZIR19wa3M1Wk5GTHQ2eTZSWnIwTU9rX0hSUVdMWkpYLUQ1WUNqNS1Tb1haeHFEVEFRa2F2bWRGUWhETnFvOTlOTy1abENEd3R0VFpzOHByOGR6d2NDOVdpcGpqUFVQdmJEZEd5YzdsUFJxMno4OGxvc19wM0s0Uno3NzZYMlFNWUwtTFZj0gGWAUFVX3lxTE1faWRBc2NBcjU4WmFNZXV6aGpad2RENHphcHVadmZtT1BqYUhXSE9yMVpBT1BFSnJsYWtLbUw3R3dpWU56Nm90UjRXZ2xUb21Qa1o1UnRBSlNzc212amtveGxJRW9mOFdNNTY5Tm1nU1VVN2Fwc2pNdVZ4MnRQRVpKcm9fOWNzREgyZ2VoR3hOb0pJbEVndw?oc=5",
+      "source": "Українські Національні Новини (УНН)",
+      "date": "2026-03-29T20:14:03+00:00",
+      "description": "Drone spotted near Trump's plane, airport urgently imposed restrictions  Українські Національні Новини (УНН)",
+      "query": "drone incident",
+      "detected_at": "2026-03-29T21:10:21.954338+00:00",
+      "location": "near Trump",
+      "category": "airport",
+      "id": "96461c9e414d"
+    },
+    {
+      "title": "Stubb says no military threat to Finland after drone incident - ukrinform.net",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHdpZGZLdEJRTGVzdWViYmlnaWIzRTlhMFhuVUhocFFwUk9qQVgya0dVNUR0TUItRzdmZHJmVmtMTFV5ZFhjczRwN1piMHB3RnE1TDNYSXFTdlRLUFkwOUlOak5rTndJSzZjLUFrVFRKdXZwTzVadG9nYVpVbzNqVUlZblBiS3RETzNrNVduS05uTFRfSzI2YWFhcUNHeVNpUXl3RktmYzhYZEwyNXVuSE1IZDc1WHdZVDlJ0gHAAUFVX3lxTFB2YzQySFdVTHcyUmRCRU1odUQyVXM0bl9QQVROd1lPdDZNR3FURWUxbE9GRlVUeVJoQXhtaHM1dUM5STItOW0xaFlCWDZQY3d3VUVqMGZwUE04VnJWbEJCWDZyLS1YRjRpd3F3R1Bpa3hOWk5jSDdJNVRNU0pFTDhDSWdBeEVCNzRldkFDOFU3bFFVekxreS1LeDFHWmJHWHktVmhCUXR0cmw5eHVoVUF4OWxlY2NIZjBWWS1zMnRabQ?oc=5",
+      "source": "ukrinform.net",
+      "date": "2026-03-29T19:10:00+00:00",
+      "description": "Stubb says no military threat to Finland after drone incident  ukrinform.net",
+      "query": "drone incident",
+      "detected_at": "2026-03-29T21:10:21.954338+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "327a166c1fe7"
+    },
+    {
       "title": "United Arab Emirates laws explained as up to 70 Brits locked up for ‘filming drone and missile attacks’ - LADbible",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnZFMU92MW5ZREVLY2hnYmprd2NXdEo4NXQzZnlYcHJqWnFmbi00dzFwUkJ4dHRDOVZ2VjlQbmM3N1dvc1NtV1hnWUt5TXhNUkN3anFjUkVNdlViRFNBM0ZIVk5tTHBWVllBc1RrOGhNMGFGSTh3akREUkg4Nm1kLXExTUxlb1NzSnN3ZGlMLUJ6OWtuRU5LNGFodFVNZjhSaTJXcTVBWkNYSGVyQV9z?oc=5",
       "source": "LADbible",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "87130c047408"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "abcnews.com",
-      "date": "2026-03-12T18:07:08+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  abcnews.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-12T21:11:34.460386+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6a7815907df7"
-    },
-    {
-      "title": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmhWV25lRWRaNk9ocjQxYXlYZWw4dnA3ZmdIVlRUVkJmanZ2VDE2aVM0dTJ1YUxBX1pJRl9HOS05MlBFUk9tWlU5SkctMFBxanB3ZktjR3hWcGd1T3NhWnlTcjFvdE13cVhyNHVqNnhIQTRscUFsSXQ5V094ZzMtc0pDUUVjNVEyeWhSbnFkN3l1TmJ4RWt4RVJ3?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-12T12:54:02+00:00",
-      "description": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue  TravelPirates",
-      "query": "drone crash",
-      "detected_at": "2026-03-12T21:11:32.712297+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "bdb9edbea09e"
     }
   ],
-  "last_updated": "2026-03-29T20:09:31.248016+00:00",
+  "last_updated": "2026-03-29T21:10:27.435659+00:00",
   "total_count": 1000
 }
