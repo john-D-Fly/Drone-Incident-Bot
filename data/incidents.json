@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in southern Iraq’s Maysan province - shafaq.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHQyV3cwYmozem1jQjRfd19tSkJpRlNKS29GbnFnbHNWcVk4YUxsdE5Nd1RaQ0RZdDFYSFVac2w5YUJpX1FiOHh1dW9FYkR0ZDhrLXAtNUhyWUxOMUhzdFZ4SWlZRXRLWlE5WDAxdm9yUF9UOU9Cc2RFa1VZTVVERnRvamp5dw?oc=5",
+      "source": "shafaq.com",
+      "date": "2026-03-28T18:39:16+00:00",
+      "description": "Drone crashes in southern Iraq’s Maysan province  shafaq.com",
+      "query": "drone security breach",
+      "detected_at": "2026-03-29T06:28:40.257565+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "755d57d41aa8"
+    },
+    {
       "title": "US, Iran Trade Blame for Drone Attack on Kurdish President's Residence - Deccan Chronicle",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGN1ZXJSX01jNGlLMEhMczR1bTZyUU15VzdETjZHVnBFMTlIN21YbE1Bc0VHanl3ZDhmWXJ4ajE0Rnp5UUlSV2xWNXAxbGFnaGVFWWFkS3g4cGNpaGFHblh3MmNHS1RVZTh6bUNVNmdidkViSFRsb2hESHFIVGw3ZzI3UjR6NzRmRzkzWHJHemF1Tkx1aWlVT0JZT2huM0IxcGFHbVlGWGFQS0FIdUt4S0k4aUk5cy12b1HSAb8BQVVfeXFMT3prd3E5b1dOTjVpRm1IRUxVWVREZzlobEJkQnRwX2dVaF9GdzhCeExGMnhUZGxjeXh4ZnpHLTlRTUJ3TW0tcHVKN1h0ZmJiVDlUTzF0STBrcDdhNy1hQWNYV1R3TFd3VV9aWDVWeUZWT1FGcDFVaklHY0g3RmNVbXJ1anA5bGFfMWRpMzFVWmlsRnRSRWJRWkRYS3h5WlNsaGJ3UGFBbFFkZHlOWUJCbEQ0YWVMTDF5cUVHcWxhcDQ?oc=5",
       "source": "Deccan Chronicle",
@@ -11987,20 +11999,8 @@
       "location": "near Dubai airport",
       "category": "airport",
       "id": "755f757f4d8d"
-    },
-    {
-      "title": "Drone falls on building in Dubai's Creek Harbour, residents evacuated - Khaleej Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnVTNkthMk1LVjgzMHZMaFFVVDY5Y2tVT1RJQXJ2SENRajhTb0Q3YlBOYmkzQ00tMnNMd01WSnZOVkJWMUJiNlM4T1BHZldkWi0zd1VHamZKUHlGSTN5MTNsUTVKMkRFblNzZm91OTRuN1ZyeUlRWGJlNFpJVS1QV0xWTVNfZ0IyV2JGdXNSdVdiX2RadUpXM3pQY185bUlwVzlSRnEwS0xWLVhCSWg3SlBqNVhjSm9JdW5CYtIBxAFBVV95cUxQdlpZOTB5N0d5NXVqYk9Zc1dPNDhVLWk3ZWt5NEt0dXVoRWNZVFJxQXBnZnl0dUlJdjNCYlFHU1lQdlhnNHV2eFQxTjA4cldreHhXUlJPaHJsbWxpRDdVWEJ6THFub0R2SFNuNElUU0l1dFNKS2ZFektSalN0X2s4Tmp2ckNTTXVCdGRLVVJ5aFhZNzVoWEJ5bXBpaHdTVkYyNFpGTExwVTk1Q2gyZFVPQTdPSnNJZWJDeTNfWVZtN1FRRjBl?oc=5",
-      "source": "Khaleej Times",
-      "date": "2026-03-11T23:53:09+00:00",
-      "description": "Drone falls on building in Dubai's Creek Harbour, residents evacuated  Khaleej Times",
-      "query": "drone incident",
-      "detected_at": "2026-03-12T10:16:41.672413+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ce13a288a95a"
     }
   ],
-  "last_updated": "2026-03-29T04:52:39.004950+00:00",
+  "last_updated": "2026-03-29T06:28:41.796827+00:00",
   "total_count": 1000
 }
