@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russia handed diplomatic note over crash of Ukrainian drone in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYXVPalJUeWY5VHhTZDQ1NTNpc0ROTzFKWjQ1c3FNcktLYUNMQUxkcHNHcW5RV0dYdjVnNE5sc2hVekxYLUNQaURfZmVaWmZvZGlzYzlyVkpFaVdJeUxyZlNOTWtMZUtLZ3NZLXhiMHlCVmhId1c5QjFpOVJILTM2cG1vZ1hUUWxQaTlheG9QaHJVbHBnMFNNbE5SQmZhRlZtQ3lmWEgtZEluMHpVV2hWZ2Z5Nk5zdklQYVlXcVNiN3hEeEx0ZVQ2WWhZeWZYOHFX?oc=5",
+      "source": "LSM",
+      "date": "2026-03-30T10:02:00+00:00",
+      "description": "Russia handed diplomatic note over crash of Ukrainian drone in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-03-30T10:32:09.815726+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ffd2a7d23d8c"
+    },
+    {
       "title": "Finland Warns Drone Activity to Continue After Airspace Breaches - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVZGVTRST19Eb2x4M09jcThyTEQwSU5MaTc5ekM5TnVWMjVMLXVTSkl0UDBYX1l5V3NSZVpnRlUwVk1ETkpiWkQzQUkwME1SdTdKajRaRGtKTmJ0akxzaUNCcl9uYnBLTkxkNFctdVRfZS1wS3QyMHJfaEJSQkdjRE1FZDJHRGZFVmctZHF1V3ZmWVZrLUluQXpDenU3dGRqTHIzOGlDajZwZTFBZGJ1SlFHb1BDZw?oc=5",
       "source": "Bloomberg.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "5541a2a3abea"
-    },
-    {
-      "title": "UAE intercepts 10 ballistic missiles and 26 drones on Thursday - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlB4WV9jS3FIdmtGdG11LUVWZFJZMGFPX1Z0VFlmUk1xbC1uUkFDekZFb3otVnMtNWI1MmQ5NThsRXY5blVZNUxpWlRxWmU0TlZuNkptQlRSdXUzVWdYUmFIVS1vandDLTg3Rk1BcmJCREpkNXJfVm1fZGxiU1JwbUg5R21uYTRPWktNcUpWVFlPc3R1SDA3UVRNMWNrSGhCUUtuWDNTSnVOdV9sUnNHdVJqTUdnQXpMRk1oeQ?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2026-03-12T00:45:42+00:00",
-      "description": "UAE intercepts 10 ballistic missiles and 26 drones on Thursday  thenationalnews.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-13T00:30:14.633754+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "86ea5443904b"
     }
   ],
-  "last_updated": "2026-03-30T08:36:17.514849+00:00",
+  "last_updated": "2026-03-30T10:32:12.199789+00:00",
   "total_count": 1000
 }
