@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Finland reports territorial violation by drones, at least one from Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUtUbDhHOFRXOXJGNjI3OUEtZ3VvWEZIamdhWUx0QURHNVZiaGJlR2FxYjhaSlpJbEJnU3JtelBiWWUxUWg0cm9ub0FZZVYtMDA3MmRrRUE3OWZ2RU5JandPSkdsTlJuNzZZNFI2dHU4QkdoU2FNWll4X1VnMzV4WmxGTExYbEZuam5SZktKTXVDV1JBazlWR1pGemNNY29r?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-29T10:58:00+00:00",
+      "description": "Finland reports territorial violation by drones, at least one from Ukraine  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-03-30T12:23:27.935608+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9ddc1ab0abe3"
+    },
+    {
+      "title": "EU concerned over Ukrainian drone crash in Finland but says \"Russia is to blame\" - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tODN2emgxQ25rNkFvZjhGVF9iLUllbUxSZGpmdUlyU1d2Y21Uc3RHNncwRTZHQmRBU2x4ZzdDaFNOWjl2NUwyQno3T0xvNjNCYkhlOTFzMGE2R0FYX3VhVUlrSEHSAXBBVV95cUxNbUZ5TlI2Z2N4VXpfdkpkUWl2cENTcUsyMjAyZWtsaUY2M2ptYTNIZUtjcTUzeEJpd2hZVUsyT3N4cjBRcG5ER3A1UlQ5eEs3aThpdDl0RURQODBLRWVPRjFiLS1nU1ZIb3Q1dHBMYXVj?oc=5",
+      "source": "Українська правда",
+      "date": "2026-03-30T11:28:00+00:00",
+      "description": "EU concerned over Ukrainian drone crash in Finland but says \"Russia is to blame\"  Українська правда",
+      "query": "drone crash",
+      "detected_at": "2026-03-30T12:23:27.935608+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d19785972466"
+    },
+    {
+      "title": "Finland Warns Drone Activity to Continue After Breaches - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVZGVTRST19Eb2x4M09jcThyTEQwSU5MaTc5ekM5TnVWMjVMLXVTSkl0UDBYX1l5V3NSZVpnRlUwVk1ETkpiWkQzQUkwME1SdTdKajRaRGtKTmJ0akxzaUNCcl9uYnBLTkxkNFctdVRfZS1wS3QyMHJfaEJSQkdjRE1FZDJHRGZFVmctZHF1V3ZmWVZrLUluQXpDenU3dGRqTHIzOGlDajZwZTFBZGJ1SlFHb1BDZw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-03-30T07:26:13+00:00",
+      "description": "Finland Warns Drone Activity to Continue After Breaches  Bloomberg.com",
+      "query": "drone crash",
+      "detected_at": "2026-03-30T12:23:27.935608+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "de619b937d64"
+    },
+    {
+      "title": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare - kyivindependent.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSUI5LWVQdHpPdzQzRDJHQW96TXdfRm1KSDlKeXpJanc3NURXXzgxV2x2c2xnQ0tJa05HQzNWaGJBVGVsS1dMcjFLNERNYTFJNThOWWZzUzQ1UkNTLXAtbVM4Y2d4RVMxNTNCSU1EZ0FGYXhfQ0tuV19ma0hQdw?oc=5",
+      "source": "kyivindependent.com",
+      "date": "2026-03-30T11:15:00+00:00",
+      "description": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare  kyivindependent.com",
+      "query": "drone incident",
+      "detected_at": "2026-03-30T12:23:24.426411+00:00",
+      "location": "in Finland, Ky",
+      "category": "crash",
+      "id": "dbb7ca63e52d"
+    },
+    {
+      "title": "Drone strike on key container hub hits liner services - Tradewinds News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3Q0T29hZ1YtNFNhN0UwMUk0ZktCaWZBM21YMy04NzJUUGpXdXN2aWRxb2RKYk5MUDBNa1d4bmo3UUVIbDRQazZBOVhVdW1pemlZam5FYmk1NDM2dHJEU0RGd0hPVWNsQ0xtanI4ZURhWnFEZHFjYWtKdTNNN09xcmdpMWFBd19SYUxtcWtfTDg3bV9vdFBCa1JsSk9DbVUtdlpnUnczLWhOVGM?oc=5",
+      "source": "Tradewinds News",
+      "date": "2026-03-30T11:58:16+00:00",
+      "description": "Drone strike on key container hub hits liner services  Tradewinds News",
+      "query": "drone incident",
+      "detected_at": "2026-03-30T12:23:24.426411+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3a59afb44c71"
+    },
+    {
       "title": "Russian Drone Crashes in Romania Overnight During Attack on Odesa Region - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNzJWNG44empmY3FidFVDVllfNDBJTmI2N1dNQ19zQzEyMWtDT1JBYVlNRjItWC1hZVZpODBnMHFIbkNlb1RfaGYzcXEyMlRGYWRYX29IeUd4UEpiT0phT1A1eWJPM1FfcjNzWXIyamJQWHl2MkdNN3lWR3JFN1U?oc=5",
       "source": "Мілітарний",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "d6b2d4298f78"
-    },
-    {
-      "title": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmhWV25lRWRaNk9ocjQxYXlYZWw4dnA3ZmdIVlRUVkJmanZ2VDE2aVM0dTJ1YUxBX1pJRl9HOS05MlBFUk9tWlU5SkctMFBxanB3ZktjR3hWcGd1T3NhWnlTcjFvdE13cVhyNHVqNnhIQTRscUFsSXQ5V094ZzMtc0pDUUVjNVEyeWhSbnFkN3l1TmJ4RWt4RVJ3?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-12T12:10:23+00:00",
-      "description": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue  TravelPirates",
-      "query": "drone crash",
-      "detected_at": "2026-03-13T03:00:40.494211+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "31aa71d72579"
-    },
-    {
-      "title": "At least 17 killed after drone strikes school in Sudan - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV05VMXlTc0R5djBqOTV3UWloS0gwc1BXUUdxS1RiaDAwX1lDWGhqQ09DS3NOZVVuREFOQ2xQQzdSaDdBRUVVTENsV2NTRDBZN1BwSHFJZXJzMzM5UlVLSWkzTExrMUZ2ZXRjQTY1SUdJVHUybDE2Tmc2VlBtOU9LQjRHVmMwMkQ3bGtHT3hwMjhZSVpuV2VUWkdmR0VNT2dXVkE?oc=5",
-      "source": "The Guardian",
-      "date": "2026-03-11T22:03:00+00:00",
-      "description": "At least 17 killed after drone strikes school in Sudan  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-13T01:36:32.861372+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f814264b4b32"
-    },
-    {
-      "title": "‘Eyes in the sky’: Friendswood law enforcement expands drone as first responder program - Community Impact | News",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOXzdOWTB4MWZUVGNLTGNaSHctYmhQd1k2bGo4YTdwbWpFUnFzaFBrajNlMUFjREpfTDA2T2dmaTQ2SlpSWUE5RW9DOS13SFl5d1c0NExsX3FDSFE1LUhPX1hmNG5tM1pqamVSbFJFZDE2YkZhdVNlUmpWTG0zdThNal9nbWhNVWNSV2VIcmh6Z282WERFV1FhR1gtT2lvUXJIRHRRZWVXTnptQzRxVDRyNjRqRTh3eVhMZ2xza0Q2VlprRWo1dk8xZU5FUW80QjBMeTA4YjQ5aTZxaGpuMTJVaUhHdzRjQU5YQkdEOVVULWNWY0w5aDlvMTFrcUpKV2Yt?oc=5",
-      "source": "Community Impact | News",
-      "date": "2026-03-12T18:50:00+00:00",
-      "description": "‘Eyes in the sky’: Friendswood law enforcement expands drone as first responder program  Community Impact | News",
-      "query": "drone illegal",
-      "detected_at": "2026-03-13T01:36:31.744913+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "903be5175364"
-    },
-    {
-      "title": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmhWV25lRWRaNk9ocjQxYXlYZWw4dnA3ZmdIVlRUVkJmanZ2VDE2aVM0dTJ1YUxBX1pJRl9HOS05MlBFUk9tWlU5SkctMFBxanB3ZktjR3hWcGd1T3NhWnlTcjFvdE13cVhyNHVqNnhIQTRscUFsSXQ5V094ZzMtc0pDUUVjNVEyeWhSbnFkN3l1TmJ4RWt4RVJ3?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-12T12:14:41+00:00",
-      "description": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue  TravelPirates",
-      "query": "drone crash",
-      "detected_at": "2026-03-13T01:36:31.127942+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c24819f7f540"
-    },
-    {
-      "title": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison - The National Desk",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNSzY1d0VHMGw0c1BOTGh4emE5c1JQb0d5RGd4RHM0UVpDRFBVd0haMWhMYkJ6SjJMcVIzWnp6TTZ4VUV1VlhhQ2FRV2FXRDRFd2F2b3NTNnR1MjJLWjJUWDQ5aFVmcktCMmdPZk9mSG5CanVLTnZ1cVpVYUVxUjJMa1lWSXU4TmduLTlpZ3RzS005TUdQQzNrYlZYYXIxZFlMLUNaY1JNUzZ0aHppb1VKNU1fV3hrZ1hFQjV2N19mNUxBUUdBS0F6b183WUVfN3VwSU41RFpVQUt3OXhPa2tzcEE3cnVYS0owb01lMHpsMEFTbm9OMHRsbEdzOHlYbnNZZmFqeml5TDk3TTI3OS1vVGF0aTNfUUx4akRDRnA0cGd5STNiQjdxTEE4RUw4Qy1ERHVCX3dsQU1oSS1Ic3pBblk3eEswcGZrakFBVUhMUVN6Y2I3dURlUGtNZ0hsZlVGRHNSc1JZeXltU2YtREp6MHRIUTFXa0NIdnh2VFU0bUN6NnJpMHJHRVlOeFdWYWlvTTVsempTclBrX1RyUVlmTHdfWkJtVTZCR3c?oc=5",
-      "source": "The National Desk",
-      "date": "2026-03-11T08:30:55+00:00",
-      "description": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison  The National Desk",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-13T01:36:29.415356+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "6b571b68500e"
     }
   ],
-  "last_updated": "2026-03-30T11:24:53.603372+00:00",
+  "last_updated": "2026-03-30T12:23:31.273461+00:00",
   "total_count": 1000
 }
