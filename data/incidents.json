@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Drones Crash In NATO Territory - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVmlkSm5JaTVISTFnLTR2UXJObFY0UmNyOG12bkFHQUs3QXVoQlI3S2FFMENZYmdxNTNUdVBhdEw4T0dhbG5OTW5BamFuQzZKNmJLdnlldks0aTZLWEdqUDUzU1ExN0FxNUFYVmkyOVZqZw?oc=5",
+      "source": "Newsweek",
+      "date": "2026-03-29T12:00:00+00:00",
+      "description": "Drones Crash In NATO Territory  Newsweek",
+      "query": "drone crash",
+      "detected_at": "2026-03-30T13:35:09.014089+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "bb66552b1142"
+    },
+    {
+      "title": "Exclusive: European aviation body eyes safety risks as conflict squeezes flight corridors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzZFVFdxVUtteC1TQVRoQ2ZpZW9ydzAwSHA0a1lLV3p6Sl9EVmxWMkVWaldZVmJIM2ExbW5aMWlEODVpV1F1YV9mX3RRdDBTempjR09XcHlVRTlKU2VhR3RINzh0Vi1DQ2VVSVdnTmxJb183WlNpUElIbm4tM2ZuNmx3Qkh0dkItcVZmQ0JEWmF5QU53QTdIVUxnVk5KYXZrU1RjVnJNRXlyQzBFLVdpNy1vZXV0b2g0ODgwMm9tMjZlUExmQTNOejRRN180NmtmbFl0Tw?oc=5",
+      "source": "Reuters",
+      "date": "2026-03-30T06:09:00+00:00",
+      "description": "Exclusive: European aviation body eyes safety risks as conflict squeezes flight corridors  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-30T13:35:08.384663+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "85f670377b96"
+    },
+    {
+      "title": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB - TravelPirates",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ozaE9rTkJBSEZpanhLRHlrdGpDcW1DZ1Z5ekdQWDM1NVNONjZJcUlYamUyY0xOVFRoWDgtTWVfd182S2YxN0VCRFZMTjRfeG5GdGo4cTJFcnZZd01xNXpNRFpnS3cxMF9UVUNSejd2RndYMks4dVd5blE3d2pWT1BGRWQzTW92U29hQkVJVGREY0pCYzhMNTBqbjMwUFlRZ2lKLXlpcW5Jblk?oc=5",
+      "source": "TravelPirates",
+      "date": "2026-03-30T12:55:18+00:00",
+      "description": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB  TravelPirates",
+      "query": "drone airport disruption",
+      "detected_at": "2026-03-30T13:35:08.384663+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c46b60ac97b5"
+    },
+    {
+      "title": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSUI5LWVQdHpPdzQzRDJHQW96TXdfRm1KSDlKeXpJanc3NURXXzgxV2x2c2xnQ0tJa05HQzNWaGJBVGVsS1dMcjFLNERNYTFJNThOWWZzUzQ1UkNTLXAtbVM4Y2d4RVMxNTNCSU1EZ0FGYXhfQ0tuV19ma0hQdw?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2026-03-30T11:15:16+00:00",
+      "description": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare  The Kyiv Independent",
+      "query": "drone incident",
+      "detected_at": "2026-03-30T13:35:06.204883+00:00",
+      "location": "in Finland, Ky",
+      "category": "crash",
+      "id": "d15cb4e2cc73"
+    },
+    {
+      "title": "Russian Electronic Warfare Sends Ukrainian Drone Into Finnish Airspace, Kyiv Apologizes - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0VGQ2pzSDh2TF9xVWVObXJrNmdLQWZPRFJ0RG9lRUJTci1QR2N1NTlmdnpHUVdfSHJsbmx0MEJWU3ctSWFQZUlWQjhYNFdGWmtPNnlRa0w3RlE4WU1QR1N4b1ZFWEVHWmZ4elZTaVNzalNSYVdObEpDbFE3ZHU0SFhaWEpKT1EtTHRJRDE3YS02bjRlU2x3UXRkRDE4czQ4Ujh0UlozQlpiOXl2MzlneUtYQUZ6dFZmTXR1MmV2Wms4MFNQYl9zYi1B?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-03-30T12:27:51+00:00",
+      "description": "Russian Electronic Warfare Sends Ukrainian Drone Into Finnish Airspace, Kyiv Apologizes  UNITED24 Media",
+      "query": "drone incident",
+      "detected_at": "2026-03-30T13:35:06.204883+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7f995734c3a6"
+    },
+    {
+      "title": "Zelenskyy discusses Ukrainian drone incident over Finland with Stubb - Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTNmVjh1VER4NHMwVG1DWEs1NEFTZWNxSXEwSlVNZUtmbDFvTmNPUWtYaUd0VzJaVS1VU0hua2lBczlYZ09JY0JaazRCc2N0YXlTWmR0dUh4SFdpRjlDOGUzZ3Frem03Z05zUFpyZHZ0V1k5T01Bb1ZxR05SX3NzNUpkQzc0MjhhYWU4STFtZ1NiY1VkQmtaNXNtSU5CcWoweVgyN3pDeG1mMEk?oc=5",
+      "source": "Yeni Safak English",
+      "date": "2026-03-30T12:38:40+00:00",
+      "description": "Zelenskyy discusses Ukrainian drone incident over Finland with Stubb  Yeni Safak English",
+      "query": "drone incident",
+      "detected_at": "2026-03-30T13:35:06.204883+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bba2806a98d1"
+    },
+    {
+      "title": "Zelenskyy talks to Finland's president over incident involving Ukrainian drones flying over Finnish airspace - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaTZUTUJUbWN0U0EyVEc2ekhfR2J5OUhuNnd1UnQ0U1VRN0kzREJXX0tobVM5OVlBcXJ4Y3R3SGtaNkg2UFUzVlZhOVhiMnNZS1pnWkNBb3MwNXB0cnFkS2tKckhhTTlrOTVzRndLdXJ1bzBPVnJjejFEWmVyMXZSaUdmYU82VXk5ZmF3ZlZrODlkbzFhVDlieWtEcGRoWC1mc3JfQjNNX0RmMjZ6RFpDVmRkcmFqbXVqWjdZT1JWNXBFSjhqX1plOU4yR3k2bnhLczJITjdXcXJzYUJrUkwwMGZnQURtTjlE?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-03-30T13:13:37+00:00",
+      "description": "Zelenskyy talks to Finland's president over incident involving Ukrainian drones flying over Finnish airspace  Anadolu Ajansı",
+      "query": "drone incident",
+      "detected_at": "2026-03-30T13:35:06.204883+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "91357483a0d9"
+    },
+    {
       "title": "Finland reports territorial violation by drones, at least one from Ukraine - Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUtUbDhHOFRXOXJGNjI3OUEtZ3VvWEZIamdhWUx0QURHNVZiaGJlR2FxYjhaSlpJbEJnU3JtelBiWWUxUWg0cm9ub0FZZVYtMDA3MmRrRUE3OWZ2RU5JandPSkdsTlJuNzZZNFI2dHU4QkdoU2FNWll4X1VnMzV4WmxGTExYbEZuam5SZktKTXVDV1JBazlWR1pGemNNY29r?oc=5",
       "source": "Reuters",
@@ -11915,92 +11999,8 @@
       "location": "Near Bahrain Airport",
       "category": "airport",
       "id": "4dfa4250cd27"
-    },
-    {
-      "title": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison - KMTR",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNQkw2TzlsMVoyRGJ6LU4wUUVxcjJPdHo1X3NkUFhHZGYzZjdvNVRZdkNvaGxwZzR4QnV3VWVET3VJYUczeW5ya1BWdnA4NFVXUGQzdVZub2o5UGxGQVQyQmZlbWpmam5EQ1o5N3RFRnRmeFp5ZTAyZzdqcS1kaVF3U3VCdjRzRmcwQzBhTjZKYThSSWJTRkdpRURLaDI4MnFVU19DMGdGZHRpUnAwd1dmMUdCTkh2U2NVRkRkUWh4QlBxcEw4M3k5bUFxQ0VZY2JrNjV6Y2RwYUR4cnFyamdpRUVVUklHLXpOVHlvNGk4c1NVb3F2cTJRY09GUDhsakhuYjRhSmc0Y05OSWlPYnRSME5aNlczbUVnZmRwQXFEY1NYMGpfRk8wU1FDX1dRM1lxTGNZZnBqLXpfTXB3aUNtTDRBZVRTY2lfc3VDd1BWMDBnZjN2a1M3R1J3NmxMTnVHU2Vha0t5Q3lCd3l0WHVrUXFyM2FsaDZTbXozbDRQdGFnZDBnWEwwdlJQaEF2MGFWczNaTWNR?oc=5",
-      "source": "KMTR",
-      "date": "2026-03-11T17:22:22+00:00",
-      "description": "2 women arrested for using drone, crow decoys to allegedly smuggle meth, spice into prison  KMTR",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-13T05:24:46.137340+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "cc1e0c910cfc"
-    },
-    {
-      "title": "Louisiana Air Force base on lockdown after mysterious object chillingly enters airspace - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGtnSkpRazBIamtGOVFuS3NQS3oyX2stSlpudU9nMk9MU2VmR2RBNy1oLTZiY1pkQlRONkN2bE9Ca3gteHd0OGthS2pod1ZNZ0FqQnBrT1gxa3NYcHFCenpjWDROdTFuSGtJYXFKOFVCX2p2bndGSUpsbXd0MnJaWTBLclFqUQ?oc=5",
-      "source": "AOL.com",
-      "date": "2026-03-13T03:21:27+00:00",
-      "description": "Louisiana Air Force base on lockdown after mysterious object chillingly enters airspace  AOL.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-13T04:36:19.119093+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c686e66553ee"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "abcnews.com",
-      "date": "2026-03-12T08:46:48+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  abcnews.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-13T04:36:18.506109+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "aa108b32407a"
-    },
-    {
-      "title": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmhWV25lRWRaNk9ocjQxYXlYZWw4dnA3ZmdIVlRUVkJmanZ2VDE2aVM0dTJ1YUxBX1pJRl9HOS05MlBFUk9tWlU5SkctMFBxanB3ZktjR3hWcGd1T3NhWnlTcjFvdE13cVhyNHVqNnhIQTRscUFsSXQ5V094ZzMtc0pDUUVjNVEyeWhSbnFkN3l1TmJ4RWt4RVJ3?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-12T12:22:00+00:00",
-      "description": "Dubai Airport Open on March 12: Overnight Drone Strikes Hit Residential Buildings as Regional Attacks Continue  TravelPirates",
-      "query": "drone crash",
-      "detected_at": "2026-03-13T04:36:16.714204+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "254eda2351fa"
-    },
-    {
-      "title": "US-Israel war on Iran, day 13: Iran's new supreme leader issues first message; minor drone incidents in Dubai - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTBQUkduSXpIaFhzWlYxVWNOd1U1ZzBvaUlkcjllSXBMWS1XOFdHZHFVaXRNNDZqY216UlFiVUNiV0lXaXNFblgtZldIbks2Ym9VRlR6VjgtXzlOZHBpZEEzaW5ZM1VKUEFEdEhyT2NXTTl6X1g2T2hZZFYxNUc5ZGVZbjF0V183UDllVTQxU0FxWTJWRDFGS2YzOXBSekNWQVVKQWtWLUgxZFh0UWZUN0daa3BVNFU1M1ozaGx30gHOAUFVX3lxTE5HRjFxZUcwNjl3U3ZYbTJlRWRSdklGNm5lWTZRMTU0eWR5WGFYRkdvM05oY3BEY3BBQVpZLWVQYk9sQS1UcDhIUVZralNpSVlqYm1fak8xajAtNFlpUF9kSTZ0d2tMaVY5TGZjS1V3VGhSYXQwSjlRSkFnMzJxZDNoYThtVHFzOVdOdU54QW05LUFRa3BRazJ2bWNieHdNaGJqNXhFYXJZMFVNemNDUE45dG1ZOHRreGlTeVZFcmwzb19OUk5zMm5XSDNoNjdn?oc=5",
-      "source": "Gulf News",
-      "date": "2026-03-13T02:26:34+00:00",
-      "description": "US-Israel war on Iran, day 13: Iran's new supreme leader issues first message; minor drone incidents in Dubai  Gulf News",
-      "query": "drone incident",
-      "detected_at": "2026-03-13T04:36:13.537007+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a2d075b97db1"
-    },
-    {
-      "title": "Dubai Abu Dhabi news live: Blasts in Dubai, sirens from Sheikh Zayed Road day after twin drone incident | World News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcFhUYXVLUUNRUUxNQkdxaWJmaTdXbkdyT0NSM1M2b2xET1ZFSWVjOXpsOVNnNHB3NFdYWk5lSVUzNjVISjFjZ01SV2RydDFVUUpCMlBDbW9MUWxFeHdqckIteXdNM09IdUVzVmIxR1dSWGxZdnVvbml5QmE1NlotQUJ4VzVkUnRpRDNBWTU5YXE1Q3ljdERyaThqTFFqdEhreFAtRHpjYnFSeUFiWTBYNFlVUDVrNzEtWTRMTnNSdmhJRDZMU052NVVMN0xJei0wSEZHSjVqNGRYaHNVVXpPbzBfQld2bGJVX0twbjVZS0hxWkZubGs0X3doVUFLcG5rWHMyN2tqa21hWHFqRnZJ0gGUAkFVX3lxTE5DVHVCVUFVanpwckpVeDVuT0hCeUU5NUhCR1lSV1k4THM5Tl96RXRCY3FHRE9sWXg2QXNGNk1kOU5WNFNwQnhjcEQzZ2tTb1BMdmEtM1kyRXV4UnhHYi12X3BJZUdIVkpqdnp5eklmd3pwQmVESlJQMllyaU1ObmtXZGpTSkMzUVY5SWthQUxfTWI2cEp1Z3A4UnlVaHBaQmpBRmdxY3lZamhSYjFQVTJnMUV6NzFieW14WlJWcXFYMlRTM0tUZm5hZDRTakFFcXdacUhta3VhUFJaa3Q3T09Ybmx3azd5TDNIdFVPQU5PQTlScmFETE9WRjhkTW1FRTJWVlZBM1QzcHRFZmJ3SnhWdnRpQw?oc=5",
-      "source": "Hindustan Times",
-      "date": "2026-03-13T04:31:29+00:00",
-      "description": "Dubai Abu Dhabi news live: Blasts in Dubai, sirens from Sheikh Zayed Road day after twin drone incident | World News  Hindustan Times",
-      "query": "drone incident",
-      "detected_at": "2026-03-13T04:36:13.537007+00:00",
-      "location": "in Dubai, si",
-      "category": "other",
-      "id": "b4b392c68814"
-    },
-    {
-      "title": "Ukraine Unlocks Battlefield Data to Supercharge Drone AI Development - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVZ4ZTVyTHp5T1p4N0FrVjNvTm5wUWFCOTVNclNwY3NyZlpjTXVaYk5BaFVDZUNXYkEtQUtSTzFsMzlwRkd4a0NENjdKaTlma0Q1N2dpak1xaXNuRWVaRVR3MDF5UURDdlZweFhMN1JVc3hpS3FUd1R6eXV1RThnbExTTXN5U3ZoVmp4X28xc2UzUzltNzBqbFhwSndVVWdjVVM1WVpDYl91Ty1TUmhaSUxhX0gtMkNTN0YwME8xZmFXZ1dWQUHSAcYBQVVfeXFMTlFWeGU1ckx6eU9aeDdBa1Yzb05ucFFhQjk1TXJTcGNzcmZaY011WmJOQWhVQ2VDV2JBLUFLUk8xbDM5cEZHeGtDRDY3Smk5ZmtENTdnaWpNcWlzbkVlWkVUdzAxeVFEQ3ZWcHhYTDdSVXN4aUtxVHdUenl1dUU4Z2xMU01zeVN2aFZqeF9vMXNlM1M5bTcwamxYcEp3VVVnY1VTNVlaQ2JfdU8tU1JoWklMYV9ILTJDUzdGMDBPMWZhV2dXVkFB?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-03-12T22:58:23+00:00",
-      "description": "Ukraine Unlocks Battlefield Data to Supercharge Drone AI Development  Devdiscourse",
-      "query": "drone security breach",
-      "detected_at": "2026-03-13T03:00:41.597577+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d6b2d4298f78"
     }
   ],
-  "last_updated": "2026-03-30T12:23:31.273461+00:00",
+  "last_updated": "2026-03-30T13:35:11.815119+00:00",
   "total_count": 1000
 }
