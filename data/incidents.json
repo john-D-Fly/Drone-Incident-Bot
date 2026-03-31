@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "South Carolina Considers New Drone Laws - National Today",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZU5NLU5XRUxyQlBWVlVrUlRJa2RmYjlUMnIyWlcteThma3o5VWpTQ2lZNUhCUkhURzZXTjFKWVJZQVZ0NnNoYktsRnBzejlrTnJYTzBMWGVIeTN1UldDajlBY3cxX1FZNDJBYnJaTFBoc1JYbE9aNUpiaXYyX19XVUswQlBZYm9IQmh2S09OS1FuZzJnR2J0UmlHSXlaTndlQ2lVYVZCYm9pTmVuNDVPNWJBeEp2YjEwZ1E?oc=5",
+      "source": "National Today",
+      "date": "2026-03-30T22:29:54+00:00",
+      "description": "South Carolina Considers New Drone Laws  National Today",
+      "query": "drone illegal",
+      "detected_at": "2026-03-31T01:37:13.819633+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "104ce8e93e81"
+    },
+    {
+      "title": "South Carolina lawmakers consider new drone restrictions, penalties - WIS News 10",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObENmQlBQSkUxNnNWWmhDc0k5cjNGUWFpc05ENXIyUHhWSmpScU9KM3NNcUZ2ZkR1YW1RYndVZXRRUTJCOWVTRllvUEdhbzR5ZTR0T0dMT3Y4dzJHaEFwdFd5WjNpTWtmcTgyRFJsMEFXRnNmSDhCaUtBM0g2ZFI1YzZQTTNRYkRTdF9ZZ3lvTGJzNXV6cFVVOHh5OFhqalZqRHfSAbYBQVVfeXFMUGNOdEEyRW1kV050VGc5Y2JrOC1Vc2ZHS280MmhfTzExVnpsemlNbFZtNzNlUEhYV0JTTDFhbUd2Y0V5N25kcmxCQUFNb1FXMGxIN1VCdUhIWklSek9kV2t6QUo2LVlVRFpCdkZvZUQ2cXdTbFlZclNMeEdBYVJ3cnNqTWZEcHJhQ2I3VGZYUklVVDVwZVlIdjc5OWdoMXVmQnQyZ3ZyWnFmdkMwclpVNElqUkFoY1E?oc=5",
+      "source": "WIS News 10",
+      "date": "2026-03-30T23:24:00+00:00",
+      "description": "South Carolina lawmakers consider new drone restrictions, penalties  WIS News 10",
+      "query": "drone illegal",
+      "detected_at": "2026-03-31T01:37:13.819633+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "528a2b784e4d"
+    },
+    {
+      "title": "Matthew Van Dyke Under NIA Probe for Drone Smuggling in Assam - The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkpxbThQaUFnSnhDaFF1anFSbmZaX0FqZjhXNmRfbGotcVdYOTloYVRYNGc5UFpoeDU3U0o2aTNUbHJGVXByQkhIUFh6eGtyZ2IxeDlEMjFQS19JWFB5bEctbW5WNjJQa1ZsaGY0VDBhdTFWdUI1c2xmZURBZmo0bUxhcW5yRmd3dnFsM09PTTdhQnlQM2FnS0RiWFFoT2ZEMzMyYmpZMklIS3dpZHN1TjBkLWtQSm94WWFMTFZrNjA5VFU?oc=5",
+      "source": "The News Mill",
+      "date": "2026-03-30T09:37:46+00:00",
+      "description": "Matthew Van Dyke Under NIA Probe for Drone Smuggling in Assam  The News Mill",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-31T01:37:11.332012+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "7a47f5e07bb2"
+    },
+    {
+      "title": "States demand power to stop drones delivering drugs, weapons into prisons - aol.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmJXTERIc2FDMFFrMkozSlNMb2s5eExVTTB2cWNYelBhV3VWdktCMmc3RzRFODhjZXQzWWc1dnNOVTNWM0ZtcW1TLUZwckNXRU12SVVkMWxKal9NbUpQTnNjMzBQTVNXc1IyQi04MlJEWGEydWtNZVBlM1JCN196Vw?oc=5",
+      "source": "aol.com",
+      "date": "2026-03-30T18:51:51+00:00",
+      "description": "States demand power to stop drones delivering drugs, weapons into prisons  aol.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-03-31T01:37:11.332012+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "0ebabecc635c"
+    },
+    {
       "title": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB - TravelPirates",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ozaE9rTkJBSEZpanhLRHlrdGpDcW1DZ1Z5ekdQWDM1NVNONjZJcUlYamUyY0xOVFRoWDgtTWVfd182S2YxN0VCRFZMTjRfeG5GdGo4cTJFcnZZd01xNXpNRFpnS3cxMF9UVUNSejd2RndYMks4dVd5blE3d2pWT1BGRWQzTW92U29hQkVJVGREY0pCYzhMNTBqbjMwUFlRZ2lKLXlpcW5Jblk?oc=5",
       "source": "TravelPirates",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2ee05bbf6bf8"
-    },
-    {
-      "title": "Police drone helps officers track, arrest suspect after reported battery on Las Vegas Strip - FOX5 Vegas",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWdoWE91TkVpQ2UtSlpRRnFFbGNSX1o5cmZBZEVRZXVlU21SV2Jick5mX19tRW96bkhraTlUYmhhcFhnRGttbmN5N1JmZE5ueUhXVU1RU3IwNVJpbzQ4Rmczb0FTU1M4U3lmampjdUdMNzBLZDFTN3pVelU0MVVTeXYtc0NYXzRLVTBRRkMwYmlYcnhSZ3FCYmFUc2xrdnNtdjV0Xy16NHZIRGFrTjE5LXEwbUZyUUtlNjhONzFLR0tCODNicDhoWkFVZw?oc=5",
-      "source": "FOX5 Vegas",
-      "date": "2026-03-14T08:14:40+00:00",
-      "description": "Police drone helps officers track, arrest suspect after reported battery on Las Vegas Strip  FOX5 Vegas",
-      "query": "drone arrest",
-      "detected_at": "2026-03-14T17:09:10.283309+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "1be04d15a0c8"
-    },
-    {
-      "title": "Moldova condemns overnight Shahed drone breach, calls it threat to sovereignty - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52dTQyYlBVTjFRWkpjSnA4R1RzdEZPdUlZWGJmRnkxdnhrLU80VmhYTHY2T1ptb0d4YzJXZ2ZMaEhoYmNNRXFZdEJ3WHhrY1ZkbGlQTTNaZ0dZQkdkcE56S3ktaUw2UQ?oc=5",
-      "source": "mezha.net",
-      "date": "2026-03-14T13:59:55+00:00",
-      "description": "Moldova condemns overnight Shahed drone breach, calls it threat to sovereignty  mezha.net",
-      "query": "drone security breach",
-      "detected_at": "2026-03-14T14:10:26.839036+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4c674d916a41"
-    },
-    {
-      "title": "Pakistan shoots down Taliban drones after strikes on Kabul - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3dhUjNXYi1IYV93UnNPUmNwZ3RzXzJCWW1uYjBUZV9OdzBDREdtbXhKeUJwRTdpVXctOWl1OVpST2ZNWWdXQkJ2Q2k4elhUeTNQYnc4VW9sdHpnczc1WjJBcWNnMzduNHVXUnlCYWpvd2lYQWpuT0xTVnNGWHpHNV9taGjSAYQBQVVfeXFMTTF4OVA0VWJ4VmhEYUJwWE9OVVBGcm9WaFlLaVQ2N3VFREhyd21JRW55elBDZWx4R2NGbFFpNzBCem9maWU5UGlsdjhIcFBVU3JZX1NfN0EzRzlrRmtCVEgzeDFIWmcxaGZSTXp0WFV0SUJDY1J6WjB1cHlRZExQX2VoZEd0?oc=5",
-      "source": "dw.com",
-      "date": "2026-03-14T10:57:31+00:00",
-      "description": "Pakistan shoots down Taliban drones after strikes on Kabul  dw.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-14T13:21:20.106357+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e73fb74ed8e9"
-    },
-    {
-      "title": "Pakistan prez Zardari warns of ‘red line’ breach after Taliban drone attacks. Details inside - WION",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlBxTDFoU25JcXVCYjEtVVEwcVFWNnFxSk4wOTN6TDllVUR0THVlNlVHdW1YU050VmNoUi1OOERyVlI2Mkp2ZHc4aTZBOFJYNllmeVFQODlFRndtUkJKR2k4Q2xiVDZGaGQtNG5vcWc0M281VU5qeUhROUpuRnFNYVFWTlFBczJPdk9LNDVuejdMeHJWVVJJRVY2Q0U3TjhIa2NWY1dYSVVRWXV0SThPbGtzT0pqZjM4N1FJRFUtdW9pcEstVjkxeDZMUFY0UdIB0wFBVV95cUxNNllQOVRkMzMzR2M1d0JFLS1DbFZvRkp6MkprNEJCWGotbEtHdkdCVGVWRlBDLTViQWhhT0dIcDlIcUhHZ1MxZjhYX2lkVHpUcmNWT2d5QjcxZG05LWtFcDhaT3VvZDJ6eHcySF9TLURSMzRmWlBOakpGVEIzWEs1aDBzTTJmNGhjYXFUUVZPNDRxbTBZV19HWk1aVFVLZmxaLWd3WTZpdzVvX0FoaWFDb3BhMWJvUVpINi1YbkF6N2tUd01vNVJhMTNoVkhUZW1MMTc4?oc=5",
-      "source": "WION",
-      "date": "2026-03-14T12:06:00+00:00",
-      "description": "Pakistan prez Zardari warns of ‘red line’ breach after Taliban drone attacks. Details inside  WION",
-      "query": "drone security breach",
-      "detected_at": "2026-03-14T13:21:19.585494+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4afda8186cd4"
     }
   ],
-  "last_updated": "2026-03-30T23:14:10.835625+00:00",
+  "last_updated": "2026-03-31T01:37:16.203916+00:00",
   "total_count": 1000
 }
