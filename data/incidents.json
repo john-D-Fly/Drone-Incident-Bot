@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Barksdale Drone Incursion - bossierpress.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wS0FNRHU2ZEJWOHQ5N0o1OFFKVnExaWdDOVdsLXUxdE9EUl83bjlRMWhzSGNpaUU5ZkZyV04yelRpT1pUUXljNFdmODM1M3g0RHozdzJaRm1OblMzV3ltVg?oc=5",
+      "source": "bossierpress.com",
+      "date": "2026-03-31T15:23:52+00:00",
+      "description": "Barksdale Drone Incursion  bossierpress.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-31T23:12:06.351819+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7f43322789d1"
+    },
+    {
+      "title": "Barksdale fact-checks drone coverage - ksla.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90d2xTVkIwRmZfLXBkeUhLOF9XVTRiQ2stTFBtTXozQW5HSTNZT1ZZOXdkWGd5WUJRZUhBYk1vRUluSVRZQlRZT0pweW1yZVZVT3htc1hkaWx5ODJZZWloWTNtcERHamZmV2FwY2l0ZGJkenB0TUQwWtIBjAFBVV95cUxNSGFXUy1MWXR5bDVQLWQ2VTlqTUdYaFJ0YnItRUViVzdIbEpvR1JPQmZ4elhEUzBDay05cDVqZlZhMWhVc0pEYzhFSVF5UG9ObXp5LVJhRXo1ODBReURreEg4YUpfaHVwZWRUT2hjWGRybVhGZzFoYXVzaWhmNzdVVkwxV1pUcUNlMW9fTQ?oc=5",
+      "source": "ksla.com",
+      "date": "2026-03-31T16:03:00+00:00",
+      "description": "Barksdale fact-checks drone coverage  ksla.com",
+      "query": "drone incident",
+      "detected_at": "2026-03-31T23:12:00.063829+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bace6fd2e0ac"
+    },
+    {
+      "title": "Ukraine apologises to Finland over drone incident - pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwbHRFWm1iWEtVN3lpQW9CdFhlTGZNN0JwN3psYWJVSWM3aHhXd2MtRlFUOHg0RUVsWEZjMUFQTmJRZ3VqZG1sV0RyRUV1V1dXOWFaZTExS3Z6aGNCLUY2UXMwbWrSAXBBVV95cUxNZFdYSXVVZkJMOHZyNE5IZzVxOVZIc0QxSmhKVlhOeVlTV3BRLUxYanFVdk5TRkt6UGpXUVFVaWZjOEVuUFJ1bEVkYnZqeXFYZVNsVVV3cHh5VFdGeXl2M2tZRjN3eklQRlNkdURidVE2?oc=5",
+      "source": "pravda.com.ua",
+      "date": "2026-03-30T10:10:00+00:00",
+      "description": "Ukraine apologises to Finland over drone incident  pravda.com.ua",
+      "query": "drone incident",
+      "detected_at": "2026-03-31T23:12:00.063829+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7e84940fb97f"
+    },
+    {
       "title": "Pentagon Mulls Anti-Drone Lasers Near Rubio, Hegseth Homes - National Today",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1RuaG9jUXRWYU5FX3MtY3pXUWlta3Z4ZWJnSkhfdEJDSHNkQ29NdVdQYXhLY2R5RVI2S2E1VFdPTWsxdXBReEtoVUUtYncycGNGU3lvd0RydkQ5VENIU3lURWhSVmtZdUx6Z0hlZFpXOFdzR1g1SnMtLWd4OWswRWZIMVBmMWRPWmZZOUFNNmhrcGFzbVN0SEJNNGtfSFU5QzdreEF2NWU2Y2Y5NldaV0g1RzJuVG9WZEVn?oc=5",
       "source": "National Today",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "e4a5b6b5f7b5"
-    },
-    {
-      "title": "Dubai International Airport gradually resumes some flights - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1VoXzRNZDBCV09FOU85amlSakFsVFRrMWR1MFR3dnhYR0htZDJ3bTRVZlRFNF9zek0zd0UwWHNDazBOMzJNUEdPY1VXd01IbWFCNzkxNnpEV1o0Y2RMMy1qaFpVYzEwR0RmV1FPQlNHQ3h5NmNEWTFpdVhXMjFFeGtLbmtjRG5FYWc1T2hGa2xkZDZTeTM00gGnAUFVX3lxTE1adk53VnN2YWxGelhSM05FM193U2F0R0RwWGZmRnJNcFdjOFl2cjBBYmlCYkVxQXFoNUgyTkdWRzZXaUM2Mk5mcXl3ZWotRWxvdlhEdzhuVC1xREVNdHMtUFZNZTYtVWowem9SVjJqX1JMRWFFeGtTVkVNMTNoX0Q3bkhUTkpDWUpOM25nTU8yeEdJM1hUSWFIMnFJcVFhUVpOdnl0ME9Z?oc=5",
-      "source": "Gulf News",
-      "date": "2026-03-16T01:32:27+00:00",
-      "description": "Dubai International Airport gradually resumes some flights  Gulf News",
-      "query": "drone incident",
-      "detected_at": "2026-03-16T09:27:27.950873+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c4316e7a649d"
-    },
-    {
-      "title": "What Does the Iran War Mean for the Threat of Attacks in the U.S.? Here’s What Experts Say - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUxaa0tTMVNlZFh2bTBobVg3TjNaWm8wdnp3UUVsMVhuZjBDdlMtaGVQaVYyOVR4clFReGI4RUMyM0tuM3h5bWRqN0FIMlpQVEZTTEFIZWpGSXhyc19yMjVJTW9ISUlwQVdMOF9ZQUE5QnpWY1o0bnpHQmQ2dk9nVGxPbldwRFJHbFRIT3pkRjBUTVFLS2E5RnNWa1pvVUdxUFFJ?oc=5",
-      "source": "Time Magazine",
-      "date": "2026-03-14T20:00:54+00:00",
-      "description": "What Does the Iran War Mean for the Threat of Attacks in the U.S.? Here’s What Experts Say  Time Magazine",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-16T08:26:52.810957+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "54a356b143af"
-    },
-    {
-      "title": "Emirates flights to Dubai suspended AGAIN after drone strike at airport - Renfrewshire Gazette",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlV3NFBvWlVOWlIxQ1B4MTZGQUxIclM3b3hwSjB3WlhYWGNXbDkwcXg5Sk1PQnFMVW5mSnZCNVYwU2JlejEyakVXODlxeHpwNENEdVFMclkwLXQ5NnZwamZmcTk3REx0TFI1Ui1fNjBONXRmVzU5cDRGVTVvelByNkRQY1ExOU9TS0Y1WDgtZkFMSzZaRlJIUDRsNURfUQ?oc=5",
-      "source": "Renfrewshire Gazette",
-      "date": "2026-03-16T07:54:48+00:00",
-      "description": "Emirates flights to Dubai suspended AGAIN after drone strike at airport  Renfrewshire Gazette",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T08:26:50.730052+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2d4e4403acc5"
     }
   ],
-  "last_updated": "2026-03-31T22:13:09.871781+00:00",
+  "last_updated": "2026-03-31T23:12:06.948391+00:00",
   "total_count": 1000
 }
