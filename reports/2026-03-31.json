@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "In the past 48 hours, there have been multiple incidents involving unauthorized drone activities across various locations, including the United States and Finland. Significant highlights include drone incursions at prison facilities in West Virginia, which spurred discussions on legislative power to combat such smuggling attempts. Meanwhile, drone crashes in the West Qurna oil fields raised concerns about regional security, particularly amid increased drone activity in Ukraine and potential risks from Iranian-origin drones. Also notable were incidents related to drone interference in airports, especially affecting Dubai International Airport. Such patterns indicate heightened scrutiny and calls for improved counter-drone measures, while emphasizing the complexity of managing drone regulations given their evolving operational landscape.",
+  "totals": {
+    "security": 10,
+    "crash": 10,
+    "smuggling": 11,
+    "airport": 5,
+    "other": 15,
+    "arrest": 6,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 12,
+      "arrest": 4,
+      "crash": 22,
+      "other": 44,
+      "security": 11,
+      "smuggling": 26,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 12,
+      "drone arrest": 10,
+      "drone crash": 12,
+      "drone illegal": 5,
+      "drone incident": 43,
+      "drone prison": 16,
+      "drone security breach": 2,
+      "drone smuggling": 15,
+      "drone terrorism": 1,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drones and Legislative Response",
+      "rationale": "Emerging patterns of drone smuggling into prisons prompting legal action.",
+      "incident_ids": [
+        "8734386064fc",
+        "017d2fbfdadc",
+        "a9119f1afcd1",
+        "03adf526fa52",
+        "80a8909d6af1",
+        "ebfe56bc6482",
+        "0d5f5b28f9d4f",
+        "5f467481096a"
+      ]
+    },
+    {
+      "topic": "Incidents Involving Drone Crashes",
+      "rationale": "Significant number of drone crashes indicating operational risks within various sectors.",
+      "incident_ids": [
+        "ff31c4aea2b5",
+        "700fdf4c21b1",
+        "1a4df36f4447",
+        "b1d9209a09f6",
+        "f8eeae464051",
+        "eafc9cda64ba",
+        "d15cb4e2cc73"
+      ]
+    },
+    {
+      "topic": "Security Concerns and Regional Tensions",
+      "rationale": "Increased drone incidents raising questions on surveillance and regional security measures.",
+      "incident_ids": [
+        "242e904b5738",
+        "bb66552b1142",
+        "c46b60ac97b5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8734386064fc",
+      "headline": "Do Red State AGs Want Power to Shoot Down Drones Dropping Mobile Phones into Prisons?",
+      "one_sentence": "States are pushing for authority to counter drone smuggling into prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ff31c4aea2b5",
+      "headline": "Drone Crashes in West Qurna 1 Oil Field, Missile Hits House in Anbar, No Casualties",
+      "one_sentence": "A drone crashed in West Qurna, raising concerns about safety in the oil sector.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d2d7b791dc0d",
+      "headline": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB",
+      "one_sentence": "Drone fire resulted in delays at Dubai International Airport, highlighting aviation vulnerabilities.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "242e904b5738",
+      "headline": "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks",
+      "one_sentence": "Drone activity related to military tensions in the Gulf has sparked safety concerns.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "a9119f1afcd1",
+      "headline": "Attorney General Alan Wilson joins states calling for prison drone crackdown",
+      "one_sentence": "Legal actions are being discussed to curb illicit drone activities in prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Increasing drone activity raises security concerns and prompts new legislation across various states.",
+    "linkedin": "Recent incidents reveal urgent calls for enhanced regulations in drone operations, especially concerning smuggling into prisons and the aviation sector."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-03-31"
+}
