@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Barksdale fact-checks drone coverage - KSLA",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90d2xTVkIwRmZfLXBkeUhLOF9XVTRiQ2stTFBtTXozQW5HSTNZT1ZZOXdkWGd5WUJRZUhBYk1vRUluSVRZQlRZT0pweW1yZVZVT3htc1hkaWx5ODJZZWloWTNtcERHamZmV2FwY2l0ZGJkenB0TUQwWtIBjAFBVV95cUxNSGFXUy1MWXR5bDVQLWQ2VTlqTUdYaFJ0YnItRUViVzdIbEpvR1JPQmZ4elhEUzBDay05cDVqZlZhMWhVc0pEYzhFSVF5UG9ObXp5LVJhRXo1ODBReURreEg4YUpfaHVwZWRUT2hjWGRybVhGZzFoYXVzaWhmNzdVVkwxV1pUcUNlMW9fTQ?oc=5",
+      "source": "KSLA",
+      "date": "2026-03-31T16:03:00+00:00",
+      "description": "Barksdale fact-checks drone coverage  KSLA",
+      "query": "drone incident",
+      "detected_at": "2026-03-31T16:25:25.942896+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ee3b4911c2d8"
+    },
+    {
       "title": "Barksdale confirms multiple drones entered its airspace week of March 9 - MSN",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPek10eEJKZUZCQUVEMm1sZDVoNFpuNkNFUGpFNFNMNmpkLVpxRkJwT09NTkVQcGx5YkNtQUJhMHdlN0dPXzB5b3dQZFU3T2x4bE1DUmRVSGFTc1NqM0RLcmcyQU1YVF95R2VkdVo0cWFnRm1CSk1sZHp3ODVUZXBEeGZpRW5HQUlEOC1OQjBCdEhVUHlXWVhmd3VYaW9MaWFEeVNIdVdFOG13MUF0V2h2NFN2N2tHcEFrZ0J1ZjJmNFJZcXpfVENHX1F4TkozZTJZTmp1dmhndTBWYzNtalNKZkE1NG9ySUk0Q2hseDF4Sk9MSmI4TFcwYm5VOElFQ3hCdTJrbWNHbFhNU2p4TTY3eEpaS1hBWnJtTXByUF9NRVlpZWRSNHFOTGlUTDg4U1lXR0kyX3RvMnd3Mm1nQ2tkVksxWkh3WTVmWWdCSmhVLVdZQUx1aEhxQzlRdTZjRVhId0N2V0lWY0NYU1JrejBHeG81eTFHTFNoRzFZTXp6NjF3UzBORHNpSV80UUFaamc?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "at Dubai Airport",
       "category": "airport",
       "id": "c95971037a14"
-    },
-    {
-      "title": "Drone Strike Near Dubai Airport Sparks Fire and Travel Chaos - thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2VicGZTSUp3RmdiVnpGZVNrTng3dXN6aHY4NjRnSU9yellxbmxxOE1PcUZCQ0hmQWNTWmFLZjZUczZfOXpwOHhBbTJ2YjlZU0hSODRqRTJ3RENXSUhlbzBnSEh6Y0J5cUxKYnZjWUZBRHlSRExHVWIwZlVhRG4tOFFPMG05YVZxdGZFUDBsXzBzOTQ?oc=5",
-      "source": "thetraveler.org",
-      "date": "2026-03-16T02:07:12+00:00",
-      "description": "Drone Strike Near Dubai Airport Sparks Fire and Travel Chaos  thetraveler.org",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T04:55:44.749700+00:00",
-      "location": "Near Dubai Airport Sparks Fire and Travel Chaos",
-      "category": "airport",
-      "id": "7514a0e91f7e"
     }
   ],
-  "last_updated": "2026-03-31T14:34:44.732076+00:00",
+  "last_updated": "2026-03-31T16:25:32.002381+00:00",
   "total_count": 1000
 }
