@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Pentagon Mulls Anti-Drone Lasers Near Rubio, Hegseth Homes - National Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1RuaG9jUXRWYU5FX3MtY3pXUWlta3Z4ZWJnSkhfdEJDSHNkQ29NdVdQYXhLY2R5RVI2S2E1VFdPTWsxdXBReEtoVUUtYncycGNGU3lvd0RydkQ5VENIU3lURWhSVmtZdUx6Z0hlZFpXOFdzR1g1SnMtLWd4OWswRWZIMVBmMWRPWmZZOUFNNmhrcGFzbVN0SEJNNGtfSFU5QzdreEF2NWU2Y2Y5NldaV0g1RzJuVG9WZEVn?oc=5",
+      "source": "National Today",
+      "date": "2026-03-31T18:53:07+00:00",
+      "description": "Pentagon Mulls Anti-Drone Lasers Near Rubio, Hegseth Homes  National Today",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-31T22:13:09.302848+00:00",
+      "location": "Near Rubio",
+      "category": "other",
+      "id": "0181f8e89559"
+    },
+    {
+      "title": "Barksdale Drone Incursion - Bossier Press-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wS0FNRHU2ZEJWOHQ5N0o1OFFKVnExaWdDOVdsLXUxdE9EUl83bjlRMWhzSGNpaUU5ZkZyV04yelRpT1pUUXljNFdmODM1M3g0RHozdzJaRm1OblMzV3ltVg?oc=5",
+      "source": "Bossier Press-Tribune",
+      "date": "2026-03-31T15:23:52+00:00",
+      "description": "Barksdale Drone Incursion  Bossier Press-Tribune",
+      "query": "unauthorized drone",
+      "detected_at": "2026-03-31T22:13:09.302848+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a5a7f5a707cf"
+    },
+    {
+      "title": "Indiana joins 20 states urging Trump administration to help combat prison drone deliveries - wthr.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMThMbGJZemdra0toY0hmNnU4MUtKMkJYRm5BeXdtelU3STBmYUpQMklOTllRRkJZSVBSSzh6YkJtamVIVk9UekEzQVpoR3R4RnlqM01kMS1HeFp6V1g2bEQ0SzhTblFRZUxKLTJSMGpHSUVfMEU2Q25yYTd0RGljSWNTVU9xdXkyX3VxZTdaZW1CZ3RVaGRocVJnNm54WjZRelBQc0NNYUVNU3p5aHFRT0g2Zkh0RGFGLTFHMC1hdEhxUlBFM1FPQktlUXU5cTJfbTlTd29WNnMteHQ0NTM0Zkl6NlNScEN1ZEg0eEI4b0ZaaGhIWXU5WEp3WUpGQQ?oc=5",
+      "source": "wthr.com",
+      "date": "2026-03-31T20:30:00+00:00",
+      "description": "Indiana joins 20 states urging Trump administration to help combat prison drone deliveries  wthr.com",
+      "query": "drone prison",
+      "detected_at": "2026-03-31T22:13:05.508247+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "de8f2e41c3ae"
+    },
+    {
+      "title": "Indiana joins 20 states urging Trump administration to help combat prison drone deliveries - wthr.com",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPY0xINEJEZktaMlU0ZkZkTC1SaFdCUEZfVjE1WnQ1X3hEMEM3dEdBWVhHZGJscDBEZS1GR1NTT2lkWm43d0wtQm5DWUZwVlJlNFh0Y0ZDaHFNQW5uOE40bG1URUJKRGtock92a3RxZEZqaXJEcDdJYk1KZHNYVEVaa0VOOGNoRUg3WFJyQVpLSGw5REVaRl9sMlQ2YVY3dTFaLXJ0QlVzQzRpNGlJSkpDRWZaWlh2UTRkVzk0NlMtbFJwUjBBdDlOM3RYTVl1ekhGMHF2eXIyZUlQdzlFTjdMRmdGTmgxQnVjSDhZdU9RNUQtTnltODEyWFBQNU0zNDBiNmppUnItdlYwVDdtSFhQcjNtTlB6dTdfLVVWMFVwUGdTUQ?oc=5",
+      "source": "wthr.com",
+      "date": "2026-03-31T20:04:00+00:00",
+      "description": "Indiana joins 20 states urging Trump administration to help combat prison drone deliveries  wthr.com",
+      "query": "drone prison",
+      "detected_at": "2026-03-31T22:13:05.508247+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4a64512cd79a"
+    },
+    {
       "title": "Webinar 23/04: Integrating Layered Counter-Drone Defense for the Homeland - hstoday.us",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3dMZFFYVmhlTGxlX0dEa2YwQm8xdXZXbWl1ZkFqaU9RN19mRi1GOGpwOHFDNXAyUGN1SlBOVmoyMlZ0Vy1CT1ozMTFFbEsxbGxQdEtjMmc3M0luUGpZTnBNdmpKcnlyenlkdEZJd2Q4Y3RLenRReXJQYW9CV1g5S2V1LVViN1lHSmRrMS1SOWNmaU1mdnZCeFVwei04V2Z2SWxGYUtpYU8?oc=5",
       "source": "hstoday.us",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "2d4e4403acc5"
-    },
-    {
-      "title": "Drone Strike Near Dubai International Airport Disrupts Flights, Operations Gradually Resume - eTurboNews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQjRjVzlHR3dJMWFWYWZVRms0aDhHSUFVNFA3UkdKOXAtX284QVVOc20yd3BoWUdUR1JTUGUteDNZeklfcHRFMnRjV1kyUzZzSUVZdTFWVkEtb25nOElPVm5yY3FGY3ZvZW5IQ2YtbUtXMndpN01LQjBEWi1ZRTQ?oc=5",
-      "source": "eTurboNews",
-      "date": "2026-03-16T07:51:30+00:00",
-      "description": "Drone Strike Near Dubai International Airport Disrupts Flights, Operations Gradually Resume  eTurboNews",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T08:26:50.730052+00:00",
-      "location": "Near Dubai International Airport Disrupts Flights",
-      "category": "airport",
-      "id": "451fed08e50d"
-    },
-    {
-      "title": "Emirates cancels flights out of Dubai Airport after drone strike causes big fire - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHdaeEV0US1qcW9uZTdiYll0UHZYTHoxUU55UkNPSWRHZXBPaFBUUS0xajFYU2N2NEtMNGpFVFRWczBwQ0gySXA0M0ZXejhNQ2huUURTRl9GNkEzR2hZMEFtNlIyMkdyc1JXRXNMUV9wQkozMG9JN2NIbnA2Y2hwQ2lud3RiRnhqVEN3b9IBkgFBVV95cUxPLXBUNE96YnBVUVlNLTZ6b2JESks2eFVVQ2pxYk8wbFJsdXV5MVlRUlRkUDRwOU1ZcUFBSERyVktEN3FweEVYYlR6SG95MFpmOVg2ZDVsWExGVkVReVlzNmp3WjNuZGJyMEtqb2kzMjQ0QmdWbWtjZ2NSWnJxRWRuVURmMklDM0JRVmNxRkhqVXAxZw?oc=5",
-      "source": "The Mirror",
-      "date": "2026-03-16T06:51:00+00:00",
-      "description": "Emirates cancels flights out of Dubai Airport after drone strike causes big fire  The Mirror",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T08:26:50.730052+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e70200ad9ce4"
-    },
-    {
-      "title": "Texas pair arrested for using fake crows flown by drone — to smuggle these illegal items into Louisiana prison - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xd000SGFpS0E5dDRHQ3FNa296c2J6aHNnUEU4cENTVF9ROWlnZURCdzFmVm5SVktJbkQ4UmM0Ui1wZ0hLVmdNWTZBaVVQaUNSLU82NkdyZFg3dFdZc3FUNVZzdUJiVnlGWm9vblg2RkRoTVp0ZjlsZEZR?oc=5",
-      "source": "AOL.com",
-      "date": "2026-03-15T17:54:42+00:00",
-      "description": "Texas pair arrested for using fake crows flown by drone — to smuggle these illegal items into Louisiana prison  AOL.com",
-      "query": "drone arrest",
-      "detected_at": "2026-03-16T08:26:49.223208+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3769e20e55b0"
-    },
-    {
-      "title": "Dubai Suspends Flights at Main Airport After Fuel Tank Attack - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1RBVnNGdHdxeWlJaWE1emtTUVM4MVJwS2hJX1E0QlZpeGFYSHFkNS1wRkMwbl9jcEJwYnZBN1ByQXVmazJpN1BlREhVTnBXSjVVS3Mwc0JxSmsxTmR5TlhSLUlaNVZ6VFhWelk5U09JbTNnazV5SDViME9kazZlZFluV2NlTUhsNmh4VmtJaHVmcGd1ZnN4dlhwcjI2WmJGZmRkVTFxNTRLOWRGdWxBY2tB?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-03-16T06:41:00+00:00",
-      "description": "Dubai Suspends Flights at Main Airport After Fuel Tank Attack  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-16T08:26:48.684063+00:00",
-      "location": "at Main Airport",
-      "category": "airport",
-      "id": "83e5419a3999"
     }
   ],
-  "last_updated": "2026-03-31T21:15:05.333879+00:00",
+  "last_updated": "2026-03-31T22:13:09.871781+00:00",
   "total_count": 1000
 }
