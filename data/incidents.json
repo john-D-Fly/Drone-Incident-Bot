@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Barksdale AFB on drone sightings: No threat to operations - EverythingLubbock.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHVBYXFCTlBmSDQ1LVQ1ZnkzYU5td01waGlmYjNDM0RSSGZSWG03QWJPUzlQSFJuNFZhV0lLeDV3dXA3RW93c3FzNDlNeS1PNXF3a1AycG5tY2xBTFFVOTk3cDNaUl9TalRNMGJZQ1lBVzQ3Sk5zVzlxLTJVVUxqQkpqVXYxWTZYUld1OXRPOGxoNlFDZ0x6REZEVklRMzFpZlRqRF84ZFQ1SlXSAasBQVVfeXFMTmx1QWFxQk5QZkg0NS1UNWZ5M2FObXdNcGhpZmIzQzNEUkhmUlhtN0FiT1M5UEhSbjRWYVdJS3g1d3VwN0Vvd3NxczQ5TXktTzVxd2tQMnBubWNsQUxRVTk5N3AzWlJfU2pUTTBiWUNZQVc0N0pOc1c5cS0yVVVMakJKalV2MVk2WFJXdTl0TzhsaDZRQ2dMekRGRFZJUTMxaWZUakRfOGRUNUpV?oc=5",
+      "source": "EverythingLubbock.com",
+      "date": "2026-03-31T17:45:55+00:00",
+      "description": "Barksdale AFB on drone sightings: No threat to operations  EverythingLubbock.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-01T03:07:56.496331+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "aaf0a3869582"
+    },
+    {
+      "title": "Ukrainian Strike Drone Crashes In Finland With Live Warhead - dronexl.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpY0NrUGdpVWNmaDNOd0FaVEFBUHFMaHdxQkotdjJKbG40cE5UVnZROXJOeHdkSGpkZloySTRXcDAzVV92Wjl6WWhuNEU5Z0R3MC1jaVJIdmFYbF81cHFMQkppLTNqU3FLLWFTRENR?oc=5",
+      "source": "dronexl.co",
+      "date": "2026-03-31T13:23:00+00:00",
+      "description": "Ukrainian Strike Drone Crashes In Finland With Live Warhead  dronexl.co",
+      "query": "drone crash",
+      "detected_at": "2026-04-01T03:07:54.375307+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "093bfb2b88bb"
+    },
+    {
+      "title": "Drone-related fire briefly shuts Dubai International Airport, causing fresh wave of diversions and delays - VisaHQ",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1Fab1g3c2M3Q196c0xPRFJJZE9ibDFGeUF0VEVZbXBzOGdwZDlrTFBtbjZ1eHRqb2VUUHhaZXNwcTQ1LVhpX2pNOVFyeElaeHExRDExdE9tVXo5OEZGR3Vid1FFR2pCbXpzVXJfZEFPRjZGRW9hT0hTMDBPN0doMHBrR1VmV0pUWm9scTB3TTd2aEN4UXBLcWJoVERfaEdWeE51b01PYWwzcF91N0tYbnlYWXMwTG12MS02TmZBb3p2SHF3QVEtNzRnSDhzWjFUTk5qbkxDT1M4MFFoQms4UA?oc=5",
+      "source": "VisaHQ",
+      "date": "2026-04-01T02:20:25+00:00",
+      "description": "Drone-related fire briefly shuts Dubai International Airport, causing fresh wave of diversions and delays  VisaHQ",
+      "query": "drone airport disruption",
+      "detected_at": "2026-04-01T03:07:53.844488+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "64c67c775fb0"
+    },
+    {
+      "title": "Baton Rouge police use drone to help arrest peeping tom suspect - WBRZ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3AyQm5jeXVqXzVMME9LNEV3bXhzQnNoMlVZRUVKMnFVVHVMd2c5SXAxWkVGZ3ZtSE5SZWxtY2FrblE4MU5JQ1hVQ1Z4OG8tSHZnbDEtbl82T1BhWWc2WElLT2dYb3BxNk1iOGNucHg0RFp1b3ZGcUtwTWp0bTdEMkk1RjBYdjhyT05tWFZWcW5aQmM3?oc=5",
+      "source": "WBRZ",
+      "date": "2026-04-01T00:28:14+00:00",
+      "description": "Baton Rouge police use drone to help arrest peeping tom suspect  WBRZ",
+      "query": "drone arrest",
+      "detected_at": "2026-04-01T03:07:52.247999+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "eeb5321661ee"
+    },
+    {
       "title": "Drone crashes in Iraq’s Nineveh - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14TnZDTzJjQURTdjJNaHh4S0tReHBGQ3lqZVNuTjc1QUUzNURyekNqTmRPT1pVeWxqSlduazRDRm9tOEZ0WXBXand2LXJqYWZkX3NNbzFqb2R1b1A3ZE1KRXRoYVNfWUVUZlN5Z3BiWQ?oc=5",
       "source": "شفق نيوز",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "a90fc77d0417"
-    },
-    {
-      "title": "Lithuania to use drones to counter smuggling balloons from Belarus - Белсат",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnIxcnJrdzcyOGtJdkxuS090U0lJT090YzVGVmFzUzYxVVJrbXhfaDFwQ2g0ZmZwclVWNDkycVN3V0F1NDNxZnFHU2Z2LVQzN0xCR1pNZVlLeTBqbFpmVlpDSFdOXzR2TGhWQ3BNcEs5UDNfOUYxS29XSWNrUml6NzFTZ05Tak56aWd2MFZsR0pIX1pYRzZQbGhRSkY?oc=5",
-      "source": "Белсат",
-      "date": "2026-03-16T09:29:00+00:00",
-      "description": "Lithuania to use drones to counter smuggling balloons from Belarus  Белсат",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-16T10:25:39.727366+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "15ef3c96d7cb"
-    },
-    {
-      "title": "Dubai International Airport resumes 'limited' flights after drone attack - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0VrbWFseFFfNURoTDM5MldNTWI3LVJ6dXNYRmxjN3F4YzdHZmZhRVlwZ25VQ2xmTGtqQnZRYTNSTDl0Z2JEZWhLWXE5RHF3cWhuUnRYQ2hKTlpQVlJHblBzRkdvWTVwQnVDTmE0ckR5Q0huUTZsX1pTSDdlcW9vczlla084b03SAYwBQVVfeXFMUHNrd2M1elhvLXVzb0VCRk1wb2hES0JTemo4ejNnYmhacGRWSEFQY09aZTB0TFk5Wmc5d1hSd0k5SWxXelhoSVdqZlRMVUlHTEZYQUhGSW1XNkU1cU1XU3ZCcG1yMW9rLTVJMTBHdjdnbnNPVFBtQnZUSXBkQWNYNTk3RjU4Rm1MM3BLMWo?oc=5",
-      "source": "CNBC",
-      "date": "2026-03-16T07:32:58+00:00",
-      "description": "Dubai International Airport resumes 'limited' flights after drone attack  CNBC",
-      "query": "drone incident",
-      "detected_at": "2026-03-16T10:25:38.526925+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "7d2f8240a4d5"
-    },
-    {
-      "title": "Dubai airport resumes some flights after drone attack caused fuel tank blaze - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkJxVXltdE1yUU96Wi1tR1llTm1mNmU3cktLUERocXBEbTVYV21mZFU4SmZjX3dqY1BDNlpla084ZUJUenFrY0YtU3dWczlkQzE4WmVyWWhqQ0I2N3gxWU45YnRob0hyQWRYUkhIWDN5QWU1enNTb0NoME1MTXZHUUFoVVdKNVMybi1VVEQ1R3lBRmE5MUdfcUZ6aWZIakNyc1Q4LVlJbU5nclVWamloWHNQX19NdGtYaFlMNlBQenFBWkV1VkhkMl9HQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-16T01:12:00+00:00",
-      "description": "Dubai airport resumes some flights after drone attack caused fuel tank blaze  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-03-16T10:25:38.526925+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2c721d66a207"
-    },
-    {
-      "title": "Dubai Airport Security Breach Exposes Global Aviation Vulnerability - streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0QtdWJKMzVwWWVDNG52Rlktc25MdXJydXZ5QnJ4N1BuWmhZZTlKc0JoakJ1c216bGxWMGUzSVpqTDlYSjFDUWpIampKdlQ4dkV1M1l2UW05SWpVREVSY0ZfdVdvbk1FWTFUUmlwdlY0ZUhwNVNMRkI4WldtdkJNVWk4S2FydExxODNzUWNxM3dCeTNyTWxOT0ctMFFyU1pmeTJv?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "date": "2026-03-16T08:18:29+00:00",
-      "description": "Dubai Airport Security Breach Exposes Global Aviation Vulnerability  streamlinefeed.co.ke",
-      "query": "drone security breach",
-      "detected_at": "2026-03-16T09:27:31.670847+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "0e01a9216f62"
     }
   ],
-  "last_updated": "2026-04-01T01:36:56.378851+00:00",
+  "last_updated": "2026-04-01T03:07:57.007146+00:00",
   "total_count": 1000
 }
