@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in Iraq’s Nineveh - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14TnZDTzJjQURTdjJNaHh4S0tReHBGQ3lqZVNuTjc1QUUzNURyekNqTmRPT1pVeWxqSlduazRDRm9tOEZ0WXBXand2LXJqYWZkX3NNbzFqb2R1b1A3ZE1KRXRoYVNfWUVUZlN5Z3BiWQ?oc=5",
+      "source": "شفق نيوز",
+      "date": "2026-03-31T18:11:53+00:00",
+      "description": "Drone crashes in Iraq’s Nineveh  شفق نيوز",
+      "query": "drone crash",
+      "detected_at": "2026-04-01T01:36:53.785035+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "192d4356ef7f"
+    },
+    {
+      "title": "Baton Rouge police use drone to help arrest peeping tom suspect - WBRZ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3AyQm5jeXVqXzVMME9LNEV3bXhzQnNoMlVZRUVKMnFVVHVMd2c5SXAxWkVGZ3ZtSE5SZWxtY2FrblE4MU5JQ1hVQ1Z4OG8tSHZnbDEtbl82T1BhWWc2WElLT2dYb3BxNk1iOGNucHg0RFp1b3ZGcUtwTWp0bTdEMkk1RjBYdjhyT05tWFZWcW5aQmM3?oc=5",
+      "source": "WBRZ",
+      "date": "2026-04-01T00:29:06+00:00",
+      "description": "Baton Rouge police use drone to help arrest peeping tom suspect  WBRZ",
+      "query": "drone arrest",
+      "detected_at": "2026-04-01T01:36:51.781901+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "0cc4895fb68f"
+    },
+    {
       "title": "Drones guiding smugglers from across the border - BorderReport",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDJKTkZwRW04eS1NVDRGSndfNThIRDB2U0FHMURsRmtGUTItcFpQYTBhOGczU041ekh3ZWU3ZlVzRTUtR3ptNVZpbjNKY3F5Y1cxRUxMSUNTMGEyZ1B6YjVZZE9BTFJ2Wi1YanFjVVEwdjZkYWljcUF6VnZoZXdVNHFDMjlTemcxTUxYUFRKNGlmS2JDcnI0bUVZcEJGYzAySWprTVZhblkwX0hXVFHSAbMBQVVfeXFMTlZ2a0tfTjhDcnM1RUN0aWxybjFaaXVHQjJMYUdDYURBX19mV2liX2oyd0h1SnlDZFBXdXJyek90QnhoRTdyckdIVEt6c1pNVHdrR2Rjal9TTmJJVWoydmJqbGVhYU91cFZnbHgwU3NISFVXZzNCWDRXbWZiNHZWN2l1ZTBYMVZ6RTFmQ1VBSDlWZE1jWWEzZmVqS1duU2tRQVVoZTd5LVFua3RlVFBIbFVxMEk?oc=5",
       "source": "BorderReport",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "0e01a9216f62"
-    },
-    {
-      "title": "Iran war briefing: Dubai airport in chaos after third drone strike suspends flights - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmFzeTRFZy0yX3ZkaUpES0RNbzJsQm52SlRuWjJvVVgxTFRhczVKbEpfUVJvWXJiZ2dfa1RkTWx3aXVkTmI0bUFDLUE2dTFob3R2NFg3c1NYdjJFRmNTSTJGZERYRlRPZnhGOE0xMEUzNDc2T0J4Wkt0THlZdWoyTVlDUzFxY0xYVUQ2Zm5CNWloZ3JNb2tuYQ?oc=5",
-      "source": "The Independent",
-      "date": "2026-03-16T08:06:00+00:00",
-      "description": "Iran war briefing: Dubai airport in chaos after third drone strike suspends flights  The Independent",
-      "query": "drone crash",
-      "detected_at": "2026-03-16T09:27:30.593165+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "0de9ed86b45e"
-    },
-    {
-      "title": "Dubai airport resumes flights after drone strike disrupted operations - India Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdmE2QUkteU9yTlBSZV9xV2ZINVZUSWY5dng2SlFRZkdjZ3kzTGM4MEcwMHM3SkJzUkI5SkRjZ0x5S1l5Zm1aVzdLNWxuems0dVFGYXc2bHZaZWdqZ3hIcEZhblZ3QmVWcEhjeFdncWJwc0VGUFBKbURKdWxnZmgxS0k0UkxScExPV1RxcVNkRGhiRTlZMzA2N1h3cU82TnJBWTlvdkhiLWVmT1FpZ1hqSnFLVkNqMzdXWEF5V3ppNUpLdUVydjlNNlZsUHLSAdIBQVVfeXFMT1lSekl6VGhleEY0XzMxQWRBeFZQaHpSSWVGSGlNZGt5U29scDd3UkptX2g0aWk0RVBYVDNhMWFwS2pJWnFCNjU2a2l5anFiY1o5TUV5cHdDS2gyc2FZbkZJUWFCSzZOVnVkeDVzSzljeDdsdVhIN1A5MzZGWU1nYmo3MW43U3JYVGVrZ1BBb1QtOHY1aWI2c2xUYmRlM2hfdGFJVlYtdGgyT2hwcWNteC0wMG1ibGZHbXhremZPdWdUaUx2T1dDN3ZPVEszMF9CbnlR?oc=5",
-      "source": "India Today",
-      "date": "2026-03-16T09:02:21+00:00",
-      "description": "Dubai airport resumes flights after drone strike disrupted operations  India Today",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T09:27:30.058479+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "b9c5696b0380"
     }
   ],
-  "last_updated": "2026-04-01T00:38:42.340089+00:00",
+  "last_updated": "2026-04-01T01:36:56.378851+00:00",
   "total_count": 1000
 }
