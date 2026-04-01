@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Finnish Border Guard confirms Ukrainian-made combat drone crashed on frozen lake near Russian frontier - VisaHQ",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTERPYXlZRnZ2X1JpN1duXy1UeURIVnpISWpXQUFJeUF4OGN2NlAtOXFOS0xXWEd6QXpHMGpkQnV6aHZRbDJZQWpjLXRZNEZuQm9MVFNRNmRsdW0xdDBIV0gtYUtmQTdtWVpuOVB5ZGhsT0wwVG50cG1fYjlOdDd1VkJfWnFxNkJTeGh6bldUTHlXenhBRzBCMTZnSXFmZnp3LU9fM3kzSFhHamNhN1FtU0szOU9nWjVGblhTa0F2ZjZGSXQ4blhMQWpWcEw2Mnlfd1ZBZ3k3cjI4bVJmdmc?oc=5",
+      "source": "VisaHQ",
+      "date": "2026-04-01T23:02:55+00:00",
+      "description": "Finnish Border Guard confirms Ukrainian-made combat drone crashed on frozen lake near Russian frontier  VisaHQ",
+      "query": "drone crash",
+      "detected_at": "2026-04-01T23:14:41.335874+00:00",
+      "location": "near Russian frontier",
+      "category": "crash",
+      "id": "ee6b32b3c053"
+    },
+    {
+      "title": "Drones Reportedly Being Used to Help Smugglers Cross the U.S.-Mexico Border - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUW1ZbTBsWWRFSzByTGtfMHFpX21CWmNMODBkZ081SGJGRXFsTDg5dlliYzdOVmFxZ1FhQTFSWE5sWnB3eFZMcnR5dFh6Vkl2UmVDa3N6S0g0NW5mZU9Ec1BSVWszZWprOFNiRGV4SUJBc2hCYzM5c2pUUkhzbXlXeXE5b3puUUZaS1hMdnNZT0daZWF5dm54Mnh1N0RUSkE?oc=5",
+      "source": "International Business Times",
+      "date": "2026-04-01T21:06:50+00:00",
+      "description": "Drones Reportedly Being Used to Help Smugglers Cross the U.S.-Mexico Border  International Business Times",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T23:14:39.674732+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c2d6a3cddf8f"
+    },
+    {
+      "title": "Report: Dubai 'arrests foreign survivors of Iranian drone strike' - msn.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUm4xUlFvQVFaNXRhRF9INTZXRFphZDFSRENKZ3Nubk45RFlxY0JGLWhZS0lKT2VUN0x4blREY0ZSS0RnbU8tSC0tS0VqSVlOb3VBMkZnOUFfREJsRWk4QWY2U29zOVdkQllOeFF6Yk5wTVFtemdlb1NTcnRnNm1WZThqODFLTE40VUZMUUg2Sy1Ub3BfU1AxcE40VjJBcC1vdWc3b3J3REtpaFNPUFpKcg?oc=5",
+      "source": "msn.com",
+      "date": "2026-04-01T17:57:46+00:00",
+      "description": "Report: Dubai 'arrests foreign survivors of Iranian drone strike'  msn.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-01T23:14:39.097230+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "dc9b2be750d4"
+    },
+    {
+      "title": "Ukraine Apologizes After Drones Crash in Finland - The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3RmxUcV9xcEtpck9yanNIQ2N5V21PS0xocEhabjI5LWoxd0o3X3U2NEpzOC16TVBzcUVuRFZ3U2tfVWFSVU84c1hQUG0wNmJfTjBtdlJXTkVjU2tqWTFrZjZBb1E0NWwwOWpHWmZCWWRUN3VRbWfSAXtBVV95cUxPTUVPQTl3RWM4MVRyalAwUVdkdHBzcWdNcFdMV0pjdTZvUExMMFlVZUxKd19ZdWNnVU5hMGMxWkducDdJa0ppYUpqTC1GbVI1dGJEN3JXLWxkbDFlbDZ6NlBEczlDYWE5c1dDcTBMVUZMNExnOGJfdHZoZEE?oc=5",
+      "source": "The Defense Post",
+      "date": "2026-03-31T06:42:03+00:00",
+      "description": "Ukraine Apologizes After Drones Crash in Finland  The Defense Post",
+      "query": "drone incident",
+      "detected_at": "2026-04-01T23:14:38.502558+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a5a8baf5ec79"
+    },
+    {
       "title": "Drone crashes near Baghdad International Airport without casualties - shafaq.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2YwdWhZYWhKYWIzWUZ5RVZvcmVDUVQ1Y18xTUxnQTdVeEk1NzllUklMRjFCeGtxWFhPUjBtQmoyOEl3UkNIczZ4WlFfV3k5ZzY4RF9VNDRud3FHaE0yNmlXZ21PbWtteERFUVplZjh6NjAzVmtSVFlxMlUtUkJBdTI0U1JqQ1RjMVBrWGkzcUxCRjQwX21KWkV1ODEtUTg?oc=5",
       "source": "shafaq.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7d7ed4bfbf26"
-    },
-    {
-      "title": "UAE temporarily closes airspace as Middle East war forces wider flight disruptions - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlBqbkN5MzZpX1k5bUpLZ216ZlJPZzJSXzhTV2k5M1NsTy1ZMFFfM1lJWHJwT0Nod1VXTTNCakVNeG5QeFJMQ0NLTmp0bVVNZHp4SWNKNWtzSkIxOTBhMkRuY3FqTUcxYVFReTRVV29uOV9zMDdTZEYxeUw4SUhHRTB6TmVpbFAzMEpJRlFjZ1BlTms4UW1ZZ0VvNGNjQzd2VWhPVHZ4QdIBrAFBVV95cUxOMUE0QzQ5S3pIZVFfZDgzcjF4Y3ZKWHlTU2FTb0R2ek9KQWEzSGFyN0NhMTFqQzdSdlN6VmVaQXdWY1k5NlZ4VngwRnZ1ajhWc0s0QlpGWVplaWZmMDZFQXVzT1FWR3NISmlnTGppR1RrU0tjaDVPRHNvQ2Y0Z0V4SU1CTk9KQ2JBR0lINEhYQ215dzFEMlpZM19PMUs5azhZUWFTOGpWdzNzUEtj?oc=5",
-      "source": "CNBC",
-      "date": "2026-03-17T00:58:00+00:00",
-      "description": "UAE temporarily closes airspace as Middle East war forces wider flight disruptions  CNBC",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-17T01:36:53.749794+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "eb3f3b045a12"
-    },
-    {
-      "title": "Drone Strike Forces Dubai Airport Shutdown And Cancellations - Evrim Ağacı",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmFjSXVSODA2cUE3VV9zVDRTLTloUnJNdkFJSFdhaU9zbk9EWEJYOEs1QU9qbzNEY1dHZC1fUGxBZE1Zc1ZjX3lLTjhoaFphQ1VueHU3TzR0VHlTNjZ3VExhN1pFMXJzR3lTQXlRQWwwYmZZX1J5Y3ZLbE9EMmVpUzNhMUdLeTRPN1pmUlZlODROV3NmUTczTExR?oc=5",
-      "source": "Evrim Ağacı",
-      "date": "2026-03-16T15:21:11+00:00",
-      "description": "Drone Strike Forces Dubai Airport Shutdown And Cancellations  Evrim Ağacı",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-17T01:36:53.749794+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "046facadb2a3"
-    },
-    {
-      "title": "Three “traumatised” survivors of an Iranian drone strike in Dubai have been arrested after sending photos to their loved ones - an act that violates local security laws in the authoritarian Gulf city. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZk85YVJ1bzg3Qy1TN2hQWUxtU0k5V2Jpd3JoVTVFXzMwcTRSR3NJY29WaXMwRmM0ekpPUmEwOVR1SE04TWthSkFJMGE0YjRPSmIwTldVcHJndXhTSG9xemQ1VVJ5QVpOU1pMeDI0R29nRkQyWVgxVXFJQmRkckRFUnVnS0NqLWtiVnJWZENLaEdxRlJiY2R2TVY0M1ZSSE4wZ3UwVE9FSUpkVHl4QmktcG5NZkVOTW9TTVczc0lDQ3FRRW14MU9wUktyMU9nby1oU1ZvWkd1Q2VYeHRaYTUw?oc=5",
-      "source": "facebook.com",
-      "date": "2026-03-16T23:35:20+00:00",
-      "description": "Three “traumatised” survivors of an Iranian drone strike in Dubai have been arrested after sending photos to their loved ones - an act that violates local security laws in the authoritarian Gulf city.  facebook.com",
-      "query": "drone arrest",
-      "detected_at": "2026-03-17T01:36:51.657900+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5ea52e68e354"
-    },
-    {
-      "title": "Death toll in UAE rises to 7; drone incident near DXB temporarily disrupts flights - Khaleej Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFJBVEdUSE1LOVhpc2tzUlpXQmhnT1BIX3Bmd0ozTENPel9ZclRKN0NGMTNnU21VTjhsR1BiNEJPRGVCYXVURjZ5Z1pLZ3pNT2Y0VFNXSlVuMmc1TEV4RjFSQlJxZHk1elNETWo2OTY1YVBRVmNSZFp2cDk0WTEzRkxNU1E?oc=5",
-      "source": "Khaleej Times",
-      "date": "2026-03-16T03:24:42+00:00",
-      "description": "Death toll in UAE rises to 7; drone incident near DXB temporarily disrupts flights  Khaleej Times",
-      "query": "drone incident",
-      "detected_at": "2026-03-17T01:36:50.930376+00:00",
-      "location": "near DXB temporarily disrupts flights",
-      "category": "interference",
-      "id": "3071b6c2fac6"
     }
   ],
-  "last_updated": "2026-04-01T22:13:55.044746+00:00",
+  "last_updated": "2026-04-01T23:14:44.187631+00:00",
   "total_count": 1000
 }
