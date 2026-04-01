@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Kuwait International Airport operations disrupted by drone attacks - Construction Week Online",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByQTlpRGYzSWZQeWh0VW9aeTB2b2huR1l6UXhQenIwS2dpYThycDhtMkVkdkJ0My16VkxyTDNlTTA3YmxNbGtnaUZuVlFKMXBQa1dZUkJ1NGZNRVdQcm14LUpmbnNRSUxReG41RXZzcFVrbUJwcTlwQk9Vd2Q?oc=5",
+      "source": "Construction Week Online",
+      "date": "2026-04-01T06:32:54+00:00",
+      "description": "Kuwait International Airport operations disrupted by drone attacks  Construction Week Online",
+      "query": "drone airport disruption",
+      "detected_at": "2026-04-01T07:35:15.725751+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "9c8ab86b0338"
+    },
+    {
+      "title": "Drones guiding smugglers from across the border - WCBD News 2",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmtQOTAzY1ljaTJuTWRyYkJ0WkVqam54d3hDcXFvakJJWWhOOF9ybFBMTFM3Z19rbXJIUGgyTHZNVmtjbzF0NUZpMG9ZX0JoY0cwYjFXRnZqTENxMl9JQVI3bVFkNlRLVXhYMHBYQ0lZWE1jSGNsRGxXNndKYlFaOHlNSTNlVGY4V1RtRWNmeG9CZXZZYklN0gGcAUFVX3lxTFBtY3hOWmIxWUJwamI4QkVDMDJOXzlHNVd3Q1p6TzVUUnJfX19sb1VLeG4xY1o1WGE2TWxIUVhHUXVzcHpjSU5ZeDVMQkVzREM4dXVMd0RPLUdCZmhWQjhZLVM0VGl4dWhZNjgzbmtBcDJzeXd3c3ViTE95Yy1DdjRIeGJZbklaOXFTRjdwbG1FS1VQNHAyLU5jZzItUA?oc=5",
+      "source": "WCBD News 2",
+      "date": "2026-03-31T23:34:03+00:00",
+      "description": "Drones guiding smugglers from across the border  WCBD News 2",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T07:35:14.718365+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "906cc398c2b8"
+    },
+    {
+      "title": "21 State Attorneys General Call for ‘Multiple Means Necessary’ to Stop Prison Drone Smuggling - broadbandbreakfast.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHBibXFKWGFHUmpNZVpkUDk4V0FzZGdXSkZOSmlSSGg2TTBFbTFHSFJPX05UTWIyckstWU0tUlpxWllsRm5seS1MeERNUnllWGN0SG5xN3BKTkRzV21manlQRnozQnQ2M05Mcy1aWmxpZnNOXzZtS1Ewd1JIZ0s1YjhTRFBqUGFNQ012UVBTNm93T2d0bmZrNFJZZ2lLNXYxWlpVTFpxSlk5d3lyWERKZnVhZ2FnLWQtaGlrQkNvS1RYUnZyckZ0d2tPdw?oc=5",
+      "source": "broadbandbreakfast.com",
+      "date": "2026-03-31T18:49:54+00:00",
+      "description": "21 State Attorneys General Call for ‘Multiple Means Necessary’ to Stop Prison Drone Smuggling  broadbandbreakfast.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T07:35:14.718365+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4113f2d2e1d7"
+    },
+    {
+      "title": "In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’ - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2hQRTllbVBkWXpWN2I1RUlUOHZrd3ZvNzZISkFjaFcxVFgzV1JLcFRBQ3gydllKSVhxUFRRV3k4RzV6SklxZGhtOVJQS1ItV2ZnazdwOXlCSU9XV0NNLUFlQkJSb1EyQzR1MlJKU19aQ2dURU1DeVkzQklZTVQtTUd4SFdWV1d0?oc=5",
+      "source": "The New York Times",
+      "date": "2026-04-01T04:01:05+00:00",
+      "description": "In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’  The New York Times",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T07:35:14.718365+00:00",
+      "location": "In UK Prisons, Dr",
+      "category": "smuggling",
+      "id": "c84647df8f1a"
+    },
+    {
+      "title": "Baton Rouge police use drone to help arrest peeping tom suspect - wbrz.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3AyQm5jeXVqXzVMME9LNEV3bXhzQnNoMlVZRUVKMnFVVHVMd2c5SXAxWkVGZ3ZtSE5SZWxtY2FrblE4MU5JQ1hVQ1Z4OG8tSHZnbDEtbl82T1BhWWc2WElLT2dYb3BxNk1iOGNucHg0RFp1b3ZGcUtwTWp0bTdEMkk1RjBYdjhyT05tWFZWcW5aQmM3?oc=5",
+      "source": "wbrz.com",
+      "date": "2026-04-01T00:28:35+00:00",
+      "description": "Baton Rouge police use drone to help arrest peeping tom suspect  wbrz.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-01T07:35:14.192454+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "98b5847e4990"
+    },
+    {
       "title": "Drones guiding smugglers from across the border - FOX16.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFJRaERMODV2Y3BCeTdiaTh0R29PcjN6bnowQTlWSWZnd2hXOUdjbWI3Q3F6OE1zbEdzWUMzMzVnaXVaQmtBOUhGMTRlRXJtZk9TbkNPcGsyajV4M2dVZWlaYndRQ0Z5dEJjanpETE92d1BDNTE1eUxWaGtVYUw0NjJFMEtONVdId3pDMEhISndlLVXSAZgBQVVfeXFMTTFWX29jRFRVVlZSZE5aQXJIbGhCUmQ0S0ZETW92X20tRE1nSU1tYWdFVzJQWHRRMWFsSHF0cFpqWFlOOHVjTXJHelE4SUc1X0dyNzF2aEw2TGJ6U3pVSUhZS2VBUS1Ba0FrVl94aGZIVjZCdFhMeWJ3c0IyWm5FMkhXVXNXamtQV1ZFU0d3X2NkREhZbUZmcnY?oc=5",
       "source": "FOX16.com",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "0ef8eb86f124"
-    },
-    {
-      "title": "Dubai Airport Shutdown Triggers New Global Travel Nightmare as Flights from London, Manchester, Edinburgh, Gatwick, and Other Major UK Airports Are Forced to Turn Around and Reroute Amid Iranian Drone Attack Disruption Bringing Chaos to Internation - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPcEt5S2RKZHVyMDhNeUdlckRaNDNOWUVFVW1XMWZ4Zm9BbE5uVjBWS2FIVmdBY2Jkc2RKZTlSSkZ5TmpQV2xjQzFOU2RGWEwzbDMtTjZ2eUVRbHI2SU0wSnBPVEw3a3J4Vk5SYWt5eTdIV2ZJT1M4U1ZwR0tGamlKU2ZyQjhXM1E3NWxPY0JmMU10TW5iMUNoRWppZEZJNmJkM090XzZLQ3loY1EtdU1ZRjJNcm13RlUyMkxDNHJwZTk3ZW9oU1ltX1RUZnE2LTl4RjlzTUhScHVNa0lDV2dHakxMNVQ0SkhqTXZPb3pKNU4zTWYzeFhoeUlPOHg1T3dDOUxEYkFOS05VaWJwbDJGdFNBcFFWX1E5T2JpYmoxclRIMjZqS3VBWkxHMFpvbnhMd3JqVFhaaVVfeDJtQXdpalNxUEJMQTlTY1EzOWVaNC10V1ZPNGxBTFdET29xNVVfY29B?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-03-16T10:57:41+00:00",
-      "description": "Dubai Airport Shutdown Triggers New Global Travel Nightmare as Flights from London, Manchester, Edinburgh, Gatwick, and Other Major UK Airports Are Forced to Turn Around and Reroute Amid Iranian Drone Attack Disruption Bringing Chaos to Internation  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T11:21:03.733948+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2756d5ddea02"
-    },
-    {
-      "title": "Emirates cancels all flights again after drone strike at Dubai Airport - Thenational Scot",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajZseENORHczZm8yUWdFR01kTFlIbk1uaXdQQnRzM3lTU0VuZmNEd2pwcUlWdUdtXzdJSnhVYWtZSmlyNmpwR2Y3WEpNOUtVWS11Tk9YajRKOXRybkxoMWpFWV9rLWpHdWczOERDYy1BdFhldTQzWGxHQlpxLWlsMk9JM1pmbE1lYmV0NVl6UUhNdzhaVHBtenBLSTc?oc=5",
-      "source": "Thenational Scot",
-      "date": "2026-03-16T09:54:24+00:00",
-      "description": "Emirates cancels all flights again after drone strike at Dubai Airport  Thenational Scot",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T11:21:03.733948+00:00",
-      "location": "at Dubai Airport",
-      "category": "airport",
-      "id": "1f9978cdcb21"
-    },
-    {
-      "title": "Drone attack forces Dubai Airport to suspend flights for several hours - FTN news",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2dWSW5Kb192RU5LcnFuMU91SGdwVExsbU0tMl9QSjdDSVp5VThIQlZmVUg4a0I3OThVUGYxeXA5NXBvUVlSNWZBWGQ4UTlHcnJUU3dfaXNLVGxiTU1sUHVjNUpFM1h6cHZwZEhVcmJiNGs5dlE5RGZ2NnBERkZkRnAwTTl5enMxY3RIRzlKYko1Z0ltbUhvTW9hTDlJMjNwbW4wRzZCbGFERElzTm5kOVBn?oc=5",
-      "source": "FTN news",
-      "date": "2026-03-16T10:29:17+00:00",
-      "description": "Drone attack forces Dubai Airport to suspend flights for several hours  FTN news",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T11:21:03.733948+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2243c5d8e0f1"
-    },
-    {
-      "title": "Dubai cops ‘arrest drone attack survivors for sharing pics of blitzed high-rise’ - The US Sun",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVB4c2F6aUotMTZEeV8wUjZnVmU5d1pyeTk4OUhTWDRLd2VNN3Y1SUxuV2h2NUh0TjJOM3o1WU9pR2dyUGh4b2RfYzhGc0Z0eFhmcTFycXVIZ0V3Zi1OeEMteGx0c2lIaENkaVFaMnRWS3RkV3ZzR0JVcXRLX2VNN05zVXcwUQ?oc=5",
-      "source": "The US Sun",
-      "date": "2026-03-16T10:56:25+00:00",
-      "description": "Dubai cops ‘arrest drone attack survivors for sharing pics of blitzed high-rise’  The US Sun",
-      "query": "drone arrest",
-      "detected_at": "2026-03-16T11:21:01.970645+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "65bb9aa941ec"
-    },
-    {
-      "title": "Flights temporarily suspended at Dubai’s airport following nearby drone incident - Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMENDd0ZHbDlNV3RZMkZ5ekZvYkwzUVY0UlVNSTU5MlA1aGUxU3JjRjE4SHlPejU3U3BrMFdya3ZwTEtRMVdpTWtLMVp2bUZKVHZmdjlpdHRrVmUxdDdwa1NVV3dPbkl6SlM1UnBTM1BTUzZYTFJEVjZpbmdDbzhMNE9jNC1PWHhWQWhvbzJHb2FYWjhxRFM3Ylo4UWY1bUNZVkRZLUEtRl9DaTI2WmdVSFRiRTI0RmtVU2pzZ1hCYnhtYW1FLWExRm5MRTRKdGPSAdQBQVVfeXFMT1V3dnhrNHpSZ3lJVGlhUVdKOE10UTN3X0F5bjdULUlUWWxWRXhUb29Ub3hjVzJjV2ZjNUZQYVh0VV9sNFFqaGJNaGlicFZoN3dUTktaOXE0TWFibGJvcl8xSnlTcWctazZGa2ZjQzJKaVItUmxxZDU0bDVTT1NyRng4UjFOREpMQVhkWThOV1pHWDlWSkpGdUw2Rm5KZHhXZXJvOWNzM1dhUDNEU21Fd1pzNl9hUzNNWF9lTGoteXlBQVpmcWVCWDJHSmpuRWFqdlhHWGQ?oc=5",
-      "source": "Malay Mail",
-      "date": "2026-03-16T03:02:30+00:00",
-      "description": "Flights temporarily suspended at Dubai’s airport following nearby drone incident  Malay Mail",
-      "query": "drone incident",
-      "detected_at": "2026-03-16T11:21:01.307586+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1986db639921"
     }
   ],
-  "last_updated": "2026-04-01T06:39:05.651264+00:00",
+  "last_updated": "2026-04-01T07:35:18.751094+00:00",
   "total_count": 1000
 }
