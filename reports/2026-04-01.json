@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "Over the past 48 hours, several drone-related incidents have emerged, highlighting security concerns across various regions. In Barksdale, Louisiana, unauthorized drone flights prompted recovery operations, while in Baton Rouge, drones aided in making arrests, showcasing their dual-edged nature in law enforcement. Smuggling activities via drones have spiked, particularly across the U.S.-Mexico border, indicating an increasing trend of using drones for illicit activities. Additionally, there are discussions about new regulations to curb illegal drone use in prisons. Meanwhile, several drones crashed, including an armed Ukrainian drone in Finland, and there were notable disturbances at airports in Dubai and Kuwait due to drone-related incidents. This period underscores the growing implications of drone technology on security and law enforcement.",
+  "totals": {
+    "security": 6,
+    "smuggling": 10,
+    "arrest": 7,
+    "crash": 6,
+    "airport": 4,
+    "other": 12,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 9,
+      "arrest": 10,
+      "crash": 20,
+      "other": 40,
+      "security": 11,
+      "smuggling": 26,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 13,
+      "drone crash": 16,
+      "drone illegal": 3,
+      "drone incident": 34,
+      "drone prison": 9,
+      "drone security breach": 5,
+      "drone smuggling": 17,
+      "drone terrorism": 3,
+      "unauthorized drone": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activities",
+      "rationale": "Increase in unauthorized drone sightings and incidents across various locations, indicating a broader trend.",
+      "incident_ids": [
+        "d4612aea60e5",
+        "9c570102d6b2",
+        "d2d7b791dc0d",
+        "b4fcf157b219"
+      ]
+    },
+    {
+      "topic": "Smuggling Via Drones",
+      "rationale": "Rising number of incidents highlighting the use of drones for smuggling operations, particularly across borders.",
+      "incident_ids": [
+        "93fd2b68a3c6",
+        "6b30...",
+        "29bef2df0d4d"
+      ]
+    },
+    {
+      "topic": "Drone Crash Incidents",
+      "rationale": "Multiple drone crash incidents reported across varied regions, raising concerns about operational safety and security.",
+      "incident_ids": [
+        "6b03091207df",
+        "9533c7c6fe40",
+        "f880fa9ea5c7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d4612aea60e5",
+      "headline": "Two drones recovered after unauthorized flights over Barksdale",
+      "one_sentence": "Drones were recovered after unauthorized flights over Barksdale, indicating security risks in the area.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "93fd2b68a3c6",
+      "headline": "Drones guiding smugglers from across the border",
+      "one_sentence": "Reports emerge of drones assisting smugglers across the U.S.-Mexico border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6b03091207df",
+      "headline": "Baton Rouge police use drone to help arrest peeping tom suspect",
+      "one_sentence": "Police utilized a drone to track and arrest a peeping tom suspect in Baton Rouge.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f880fa9ea5c7",
+      "headline": "Drone crashes near Baghdad International Airport",
+      "one_sentence": "A drone crash occurred near Baghdad International Airport, raising security concerns.",
+      "risk_tags": [
+        "crash",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9c570102d6b2",
+      "headline": "Stabbing suspect tracked down by police drone in Las Vegas",
+      "one_sentence": "Las Vegas police successfully tracked down a suspect involved in a stabbing using a drone.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "acf268b4d3f3",
+      "headline": "Lawmakers consider new drone restrictions in South Carolina",
+      "one_sentence": "South Carolina lawmakers are debating new measures to impose restrictions on drone usage.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone-related incidents on the rise: from smuggling and unauthorized flights to crackdowns and arrests, the operational landscape is changing rapidly. #DroneWatch #Security",
+    "linkedin": "A surge in drone-related incidents highlights evolving challenges in security, with increasing risks of smuggling and unauthorized flights, as authorities adapt regulations and operations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-01"
+}
