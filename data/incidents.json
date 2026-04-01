@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes near Baghdad International Airport - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGpwenZ2dkc2ZGxKOGxTM1djdGJYTmlvT1BHNURQWkNjbVlXSWtsVHZZWHFkUjM2WXpaaVVHank1M0xkam5GQ3VzdEJIdXJLc2NVeDdySlhLZEdkS1JLYWFkbWh1TE10OW5yd3B6cF9EMVduRlY1cmRtSTVsRGNnTHNzblpib0JiT3pWWDNn?oc=5",
+      "source": "شفق نيوز",
+      "date": "2026-04-01T20:45:44+00:00",
+      "description": "Drone crashes near Baghdad International Airport  شفق نيوز",
+      "query": "drone security breach",
+      "detected_at": "2026-04-01T21:17:33.265963+00:00",
+      "location": "near Baghdad International Airport",
+      "category": "airport",
+      "id": "129008d14c11"
+    },
+    {
+      "title": "Drone-related fire briefly shuts Dubai International Airport, causing fresh wave of diversions and delays - visahq.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1Fab1g3c2M3Q196c0xPRFJJZE9ibDFGeUF0VEVZbXBzOGdwZDlrTFBtbjZ1eHRqb2VUUHhaZXNwcTQ1LVhpX2pNOVFyeElaeHExRDExdE9tVXo5OEZGR3Vid1FFR2pCbXpzVXJfZEFPRjZGRW9hT0hTMDBPN0doMHBrR1VmV0pUWm9scTB3TTd2aEN4UXBLcWJoVERfaEdWeE51b01PYWwzcF91N0tYbnlYWXMwTG12MS02TmZBb3p2SHF3QVEtNzRnSDhzWjFUTk5qbkxDT1M4MFFoQms4UA?oc=5",
+      "source": "visahq.com",
+      "date": "2026-04-01T02:20:25+00:00",
+      "description": "Drone-related fire briefly shuts Dubai International Airport, causing fresh wave of diversions and delays  visahq.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-04-01T21:17:31.687872+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2ebbe6d7d9e1"
+    },
+    {
+      "title": "Attorney General Alan Wilson joins states calling for prison drone crackdown - wach.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd3g5dE96LW5ubFd2dmhGQ0xzLVpBeWNRdFo0V0JUeFFMUzMtQjlsaTdvb3hlRDQ0cmtTbWlKYzA2QW02djNHQWs5X01Ed1V0MXM2djVCMEJwMGFZQ251aVF5cjdNWGQtZTYwLVFYY04zc003aXE4bWNNeUU5WFp0eG15bElsUDhJZWV0LTc2ZzZlYVpOWVVKT2IxYUJ0OGJxdURGZk1EQnUyVnhpbFFEa2V1bllBY2VlZlNKVHdIY1pubUdKTHZpU2Jub2xmVXVPNlNmcWNxZldkZFRETGs4dUlSQUR6QXFkYzdUSTcybTNiSWhfdno4?oc=5",
+      "source": "wach.com",
+      "date": "2026-03-30T21:25:25+00:00",
+      "description": "Attorney General Alan Wilson joins states calling for prison drone crackdown  wach.com",
+      "query": "drone prison",
+      "detected_at": "2026-04-01T21:17:31.125272+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "1f7c8ceb52b8"
+    },
+    {
+      "title": "Army Foils 10 Drug Smuggling Attempts in Specialized Operation Using Balloons and Drone - Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRCS2FqMFhYWVdaMEZNMVNJelY1bnBsRUV2N0ExQzF0T2VyWkFGSlRWV3FnUy1hR3hYUEFNOFRLdk5hdlhCQlNuZEFadVZJQmhJamZoRVlHX21fRUhGSlYwT016ZjA3UE5OZHhpQUY0b3NsdkFLY0FzWEdJbFc5MWJoYW9RVEJPa0dGd25tV3dwMFR0Yk1IZ2o3Rjgzc3ByamhKM3dHVFE0M3VLdGNfUU14STZmckVFckVfaWFFSHo5cTd4ejc2WmVValVRWjVNZmc?oc=5",
+      "source": "Jordan News",
+      "date": "2026-04-01T08:41:32+00:00",
+      "description": "Army Foils 10 Drug Smuggling Attempts in Specialized Operation Using Balloons and Drone  Jordan News",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T21:17:30.617690+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "481a0cca50da"
+    },
+    {
+      "title": "Drones Reportedly Being Used to Help Smugglers Cross the U.S.-Mexico Border - ibtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUW1ZbTBsWWRFSzByTGtfMHFpX21CWmNMODBkZ081SGJGRXFsTDg5dlliYzdOVmFxZ1FhQTFSWE5sWnB3eFZMcnR5dFh6Vkl2UmVDa3N6S0g0NW5mZU9Ec1BSVWszZWprOFNiRGV4SUJBc2hCYzM5c2pUUkhzbXlXeXE5b3puUUZaS1hMdnNZT0daZWF5dm54Mnh1N0RUSkE?oc=5",
+      "source": "ibtimes.com",
+      "date": "2026-04-01T21:06:50+00:00",
+      "description": "Drones Reportedly Being Used to Help Smugglers Cross the U.S.-Mexico Border  ibtimes.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T21:17:30.617690+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5a09a8f467cb"
+    },
+    {
+      "title": "Drones guiding smugglers from across the border - nbc4i.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVHNuZlppRHJkRkM1ZEh0SWRFZUVTY3cxV1hmWkZjU1pmaElneXNsTTFqV0lBUlluVTZzNEt5RDhreUlQVVBWY0pjeEhDNFhnM3lmTk92LVNuODZRa1NHSTJUWklLLVR4OHg4VVo3WERxMWlVQjZpTDdKamtuMEZEcWFfSE91c1c1b0J4bEtNU1JIVkXSAZgBQVVfeXFMTlJQd0R1NUVGUTVTc0UzMlZJUEhseHR0eHpmQldtVDFmeURKNkpEYkZPb2tTN3JUN1F6WGtyckZSUTB0dlZWaXltclZFY2I5czdJTTllWUVhM0M1R2FfWUJXMlY5OWtYSE50Z3FYUEtFUnF0U1ZYLTBKd1h4dXpzWHJ1RmQyRDJxS2RLM2QtWGVFb0x6U2pXNU4?oc=5",
+      "source": "nbc4i.com",
+      "date": "2026-03-31T23:33:11+00:00",
+      "description": "Drones guiding smugglers from across the border  nbc4i.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-01T21:17:30.617690+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4ee0e5781a38"
+    },
+    {
       "title": "Approached the crash site of an enemy drone out of curiosity - the prosecutor's office revealed the circumstances of the death of four people in Cherkasy region - unn.ua",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaTZiTkRTTDh6X2d5RDNUblJuNzBsU042QTl1U2FDRWNzSE9XRW5kcW90cndHY0hPVmQ4ZkxKQkhSNkVkdDlGYWQ2cVFKTTZCZkJ0dzF4a2d6QTU4Y2VKZWx0SXZCMU5TS21VUXVxUDNNWDJ2UmZJTm8wbWRkTmZLbjgyaTFBMExCb215Vlp3YVZjVHNSendZdl9pb3lIb1ZlQ0JVM0tiWWcyNGJKdmpCTGdPS2FvbGhTUmVseTJ6Nk52bTlWSVpQRkI2RXVrbHE4MzlzcElvQ2RxeDQwZ3ltTFdlSnJfcGQtRWw1Yll0ekk1c1lyOTRFNDFNU0ptZWVScjFqUmZza3Jya2du0gGLAkFVX3lxTE12ZUp4VFFvaDRNd2E5dGwtNHl0b2lodG1mWmFlU284Y2NzQXYtTVQzUUxtTHJTbzRSXzZQZWV2LWdPMTd1aVRlWEZKLXVBdTNmQkhZRWFadUJDVU9QNkdSN1ZKUGlWMmlkaEFhcGhDelpmX0p1b0xZSHl1Q0w0VHY4MHpBVmFELUQyVWs2SUx6TWV4Rm9KUVNKTEw2QzMySkJrYlFZekl0WkhnZXhnT0U3c28zbGswSHA5ZGE2c3hRRkNnNTNQT0ItdDFtYW5kWHIwbkEwYlZDVWQ2eVdHeFIxRkJyMzRka1E1NDE1R3BpRmwzdTJmOGFudHAxLU5zMXdNZ1FRcllxVUZjSQ?oc=5",
       "source": "unn.ua",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "eaa49a460ca0"
-    },
-    {
-      "title": "VIDEO: Man accused of peeping through Fairfax County homes caught within seconds - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbmN2NzlVWDdFNnp3MHNna1RJYlNia016Y2s2Q0tQMVlJYXNNaTJ2b000NkJVRV9vS2xIdl9aek5tYUNDd2w0SURTaERIWkdPcS1vTTllMFNBcXdDS0k1SnBLU25WNi1vcWhRcmMxYWRkUUU3WDJxTkhvbk4xNW40OFhYUzhpQXB3MWhxNjd2MS1XSkZQOTh0UFBKQnJ5Z201V0RPdGFnSXVzRnM5b2VNODMtV2tFczlHVVU1NGtZaUhmNGhKclhIZGowMWozUzRXeWU3d2ZWU25SNEZNeDROOUlHVnB5MDY4V2ZDd3hYejJ5eU9ReTZpTk5fTVdXUmFqMmtPWFU5ekNibkI4cTlfX00yMU80TkZTRVZpc0dfMkRwZXVQYWc4STVnMWp0MXVoXy11MVpldV9FejhEY2RhNVpLU04?oc=5",
-      "source": "WJLA",
-      "date": "2026-03-16T14:39:07+00:00",
-      "description": "VIDEO: Man accused of peeping through Fairfax County homes caught within seconds  WJLA",
-      "query": "drone arrest",
-      "detected_at": "2026-03-16T23:10:17.118065+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "d8cdc4167f83"
-    },
-    {
-      "title": "Fairfax Police drone helps arrest man for looking into window of Reston home - wusa9.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVpzMnBka2piT0hWMUcwc0JFTjFONUVMUDR5ZzNYYXdlZW9VSU1LZkl6REloNEIxYktBaHVSam1qWlVvdEs5elRKQXB3TnJ0ek1QOTZDOVZJc1llOVVTd0UtRnNrQkZzQlVNN1N3UVZoY3Z5OXRSX0Z0a19Ncm5zUXA5c2hUQXhIaU5rSmVJaXZfVnRXRzdWYkV4dXllVGhtSGFnUEV5Y3hmVTlEMWc2NEZZblVnX0NscGEzQw?oc=5",
-      "source": "wusa9.com",
-      "date": "2026-03-16T14:45:00+00:00",
-      "description": "Fairfax Police drone helps arrest man for looking into window of Reston home  wusa9.com",
-      "query": "drone arrest",
-      "detected_at": "2026-03-16T23:10:17.118065+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "282a2e6bc556"
-    },
-    {
-      "title": "FDNY Explores Convergence of Robotics for Public Safety Operations - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnR1S29STm1ncTNoZ2pjd1lLMl9rVExvcDRsRDlVb0Y5a1ZZV3Riakk5QkRQY01BOEtHR3VTSWFRTWk0c2NQSDF0X0JpY1psaHFDME8wcExMbWJmbWhtXzNRNkE4bm9BaWd4YjRtVnlYeWY5QTRFaDBHUjcxT3RZYkoxS2QyVGlncU9XMg?oc=5",
-      "source": "Dronelife",
-      "date": "2026-03-16T15:27:23+00:00",
-      "description": "FDNY Explores Convergence of Robotics for Public Safety Operations  Dronelife",
-      "query": "drone incident",
-      "detected_at": "2026-03-16T23:10:16.469494+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "47fecadf07d3"
-    },
-    {
-      "title": "Wanted man arrested following collaborative response - Cheshire Constabulary",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2pSTm1LU1VKRjBFVVlaVU4zUmZGNkJaZHlFQjJJSDVyeTA5YWlzcEFYZ2RpUW96TzF5c01VQ2xFRTdneXpVZ3MtS3hEMW1BTDhTUnNkNkpRcFc5UEY5MUlMMzNiaUpiVlJ6Q0wtRGdEaTNJSkw4a3E1MTM4OGppNU9EYnIxSVVycUxKTlM5LXRZMFYxenJIejAwcE1jOXBrWnYzSzdwbTNjY1JNdmJNZXhHTm1TbHhFV0Nj?oc=5",
-      "source": "Cheshire Constabulary",
-      "date": "2026-03-16T15:18:00+00:00",
-      "description": "Wanted man arrested following collaborative response  Cheshire Constabulary",
-      "query": "drone arrest",
-      "detected_at": "2026-03-16T22:12:11.599984+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "82ed178aadd5"
-    },
-    {
-      "title": "Thousands of Emirates passengers endure ‘flights to nowhere’ after drone strike shuts Dubai airport - Aerospace Global News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXZUNUVwZE8wS3lNa0l3LXNlS1NWNFlsOElZeWNnQjNDcGFoaXE2YUExTUx4OHp4TWF5NWZ6ZTZIWlB5UnBZc1lhbTBmQ0FkcUliUHRuUzBobm96LWpFYUs1bUlLVVhtbGZMTk5fUHJHMFoxOVpmeE1HTERCWnlEUHdWRF9ZZ1RfN21vZ0duX0tiYXc?oc=5",
-      "source": "Aerospace Global News",
-      "date": "2026-03-16T14:43:22+00:00",
-      "description": "Thousands of Emirates passengers endure ‘flights to nowhere’ after drone strike shuts Dubai airport  Aerospace Global News",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-16T21:15:28.868468+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "d8ba4fdf0784"
-    },
-    {
-      "title": "Iraq Warns Drone Strikes Could Trigger al-Qaeda Prison Break - Asharq Al-awsat - English",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXQ1aTZUX3RDVmVnY1pIUXR3SDhBNE54M3Zzdk0yYzREbTQwelUxT0haeWRLQWp5aXZNdHRTOUUyaWRfbUdHbDJyMlhYT09Kck9pVDV6VmtlekptYWoxbTlWdTJtd2I0VUFBRmpnWVlMR0RILWxCMS1CaElfYlZQYWNCSjUxcnUybTFzMlJBcjZWYWtGeDZQRjU1Y0ZMTnoxMDhIWkR6ZE96UQ?oc=5",
-      "source": "Asharq Al-awsat - English",
-      "date": "2026-03-16T18:09:04+00:00",
-      "description": "Iraq Warns Drone Strikes Could Trigger al-Qaeda Prison Break  Asharq Al-awsat - English",
-      "query": "drone prison",
-      "detected_at": "2026-03-16T21:15:28.349859+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9ddc6859a283"
     }
   ],
-  "last_updated": "2026-04-01T20:16:25.164656+00:00",
+  "last_updated": "2026-04-01T21:17:34.806167+00:00",
   "total_count": 1000
 }
