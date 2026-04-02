@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Was the crashed Batroun drone headed to Hamat airbase? - Naharnet",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3NobTE2WjdCSTlrMXVFeURJZlNZdVYtQjE0R09nTlJhb1pOQkZWbl9sMG9EQVUyWUdETU5FemgxOEszbzFQN3pWLTcteG83SG5DMjRyTGx4bjRvc09ZY0lURnFLdDk1bVpHTkJFQzdKS281cVJpX01wRGJ0R29YVnBKUDhaeUtaRm9xX1REeEpKV0wtaGpROE4tTGc?oc=5",
+      "source": "Naharnet",
+      "date": "2026-04-02T14:21:00+00:00",
+      "description": "Was the crashed Batroun drone headed to Hamat airbase?  Naharnet",
+      "query": "drone crash",
+      "detected_at": "2026-04-02T14:30:09.104336+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d0b66f31e163"
+    },
+    {
+      "title": "Drones guiding smugglers from across the border - KTSM 9 News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjMxZW5IOGNMUS15SnVOTTNFS203RVZESG0yUXo4cmN6bjRrWkdXWTlfcjBBTmozNkplWjU4T1VlX2RTUFZhZnJjZXEySWtFQ1F0X2tlZVdsbVRZQ0J3WHRWQVQ3TUtJcjcweEtYQzVtS0VSbURxNjN2MEM0VE5CVjlQb2RETjBvOUFWUExFUThpeGJOa2JyNDZMNmxoNEgx0gGXAUFVX3lxTE9GWEV6YW12N1BkTXd4X0h1eTE3d2dlQ1EwUGFDand5dWRSN0x1cEFtcE9wczZIMlFRcVBGQVdCZHJCRXlNMmVGWVBsNXlSVldzbGZUNWs2NFZqNzkwYmNPbWxxMkpCSm1rRnpJT01GdTVSYzJKN1Zhb0JPOWtnd0RveTZhd2tXdGM4V0o2MlNXUnM1S3pzNWc?oc=5",
+      "source": "KTSM 9 News",
+      "date": "2026-03-31T23:33:23+00:00",
+      "description": "Drones guiding smugglers from across the border  KTSM 9 News",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-02T14:30:07.576711+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5f10f979bca4"
+    },
+    {
       "title": "Amazon Prime Air MK30 at XPONENTIAL Europe Düsseldorf: A Heavy Drone With a Crash Problem - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNHdldzdfLWNES2VPbm1mblg0blBLdVc0Zk80Ql8tczV3UmM5ZHFFMmdSOUZ1Nm9fcURmU28weWoxT0FpbW1tb2ZyXy1ldDQ4MFdvNVYtWmtxVENscjlGeUlGUklnVUI0ZVhKSg?oc=5",
       "source": "DroneXL.co",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "f9ac937cb704"
-    },
-    {
-      "title": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHVLa19JbWhHSDYtSW1ITFlueDJWQXdHb1dQd2hfaWxJbWhVdGdEWTZuNURva0JIcVZFSXF1VDNjZ281ZHUyQl91OGN5TGU1djJCRWRTM0lONjQwSW9sTFlRU1oyYVdVWm43OHNNM2FQb2VNNTlOMHNWUGlDbXR4azVMMVdtWDN3VmxfdW85dmFkWlI0U1JsVXFtU0x4QVZJYmp5VGJEb3FPRmRjSjBrMmZn0gG3AUFVX3lxTE4yc0RtUXU3RzZTeW95bjFSck5VTFA4Q1VRelVfc1ZmZVg0cnZLSDIwZ1JrMjRCNTJzcE1QMnBfV3hTT0FFQzhhcHVsUHZCOTg0WXZlb0luY2YzY294X3VNNlFCREVEVlNzb3lfTlpIYWh6bTEwRUF1cVJCNWlzSmZVQWg1bmV0eTRvb2JNUGhVQlltSUdua0xHQXBoSGJLOXAtTFJHd29keVZ4R1RTa1pxbEpwZmF3dw?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-03-17T12:17:14+00:00",
-      "description": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2026-03-17T14:28:54.543094+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9712319511e4"
-    },
-    {
-      "title": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHVLa19JbWhHSDYtSW1ITFlueDJWQXdHb1dQd2hfaWxJbWhVdGdEWTZuNURva0JIcVZFSXF1VDNjZ281ZHUyQl91OGN5TGU1djJCRWRTM0lONjQwSW9sTFlRU1oyYVdVWm43OHNNM2FQb2VNNTlOMHNWUGlDbXR4azVMMVdtWDN3VmxfdW85dmFkWlI0U1JsVXFtU0x4QVZJYmp5VGJEb3FPRmRjSjBrMmZn0gG3AUFVX3lxTE4yc0RtUXU3RzZTeW95bjFSck5VTFA4Q1VRelVfc1ZmZVg0cnZLSDIwZ1JrMjRCNTJzcE1QMnBfV3hTT0FFQzhhcHVsUHZCOTg0WXZlb0luY2YzY294X3VNNlFCREVEVlNzb3lfTlpIYWh6bTEwRUF1cVJCNWlzSmZVQWg1bmV0eTRvb2JNUGhVQlltSUdua0xHQXBoSGJLOXAtTFJHd29keVZ4R1RTa1pxbEpwZmF3dw?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-03-17T07:40:53+00:00",
-      "description": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2026-03-17T13:34:29.844273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "df4b2f4e6ca6"
     }
   ],
-  "last_updated": "2026-04-02T13:34:18.074144+00:00",
+  "last_updated": "2026-04-02T14:30:11.562203+00:00",
   "total_count": 1000
 }
