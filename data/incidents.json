@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone used by Dane County Sheriff’s Office to arrest fleeing driver - WMTV 15 NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemhzVTlwQjRxS045Yzdpc2JOaE9mNXlvcnhpMktJTC02QUZkUFdVaTBjU0RKTlVRdTFYeXZSWWxtTWpXZ2t0dkUtSVdZTEVGOGh3OGZoRGZEbG1fOVdlNGJBam9Yei1VVFNKbmpndXpnR0tJaFBxMnkxcmZWSHZlUHJOQ0l1N1loTVIxT2JxN19LRk1NdHotTWQtNXJlbERFcXg0OXpfb0dPbG9t?oc=5",
+      "source": "WMTV 15 NEWS",
+      "date": "2026-04-02T17:31:00+00:00",
+      "description": "Drone used by Dane County Sheriff’s Office to arrest fleeing driver  WMTV 15 NEWS",
+      "query": "drone arrest",
+      "detected_at": "2026-04-02T18:21:24.710773+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "51c091ce4577"
+    },
+    {
       "title": "Dubai Flights Disrupted After Drone Fire Halts DXB Morning Traffic - thetraveler.org",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVFiSGkwZ1E5bUhmR0M0R2VRXzRYclBsc2VrQ1Q1UHNaWEVUTEw1MndELThWbE9ENUFhY0hocXBtZ3lRU2g4bnAxbDZzVGp1ZU5UWTV3OFp4Wk04MnVQeEJmbWhVNkQzN2lsX3ROeTFUWVF3RHhwZ2pqVVRlTV9nVDZHZW92V3lrUlUxb3JlaHhTSDZFUkxiLURKSQ?oc=5",
       "source": "thetraveler.org",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "a14a2199a9c0"
-    },
-    {
-      "title": "Academy Awards beefs up security after reported Iranian drone threat to Los Angeles - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl95MHpaTGFEYjFlNFJDMjdXTlg5VWkyeGh2bFlMTzlsMU45R3d0WkNXX2ZDS2x3cVlIUG90RzdnODZKN0VqTnhiX3dXZVNYUUhCMTEyWGVITkxuOS10bDNxeVVYb0F0RE1kQkFiQ1dsYVFTX0J2RjV3OUh6Z2h0cEVpb0xhQTFSZkRwQVpNdlJCb3NFaXBtMmg5eVlhak5Oem5EYjZHeXNhUjdkNFBlV3F4Z1bSAboBQVVfeXFMTzRNNGREd09yNkRtME9xTEk2bkVrY3ZyQlhBaHNYLV9HMHVBeGVvU2pSYjZ3V1ZPN3pfd21QMXFwbTFKRVY3U0FWV2dqRUlUZGRnUjhHTGdHZllWNF93MUJEa0E3djA5RUZwTENpNXQzZHhDaTQxMTJ6WmpucjF0VDVIUmVNUV9jX1VvT3pibmNtT3VoSjFWaGFlTzZVRTJNenktSkFwZ3kxYlZhUUFDSWJFdG1GVXRlakJR?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-03-15T14:32:00+00:00",
-      "description": "Academy Awards beefs up security after reported Iranian drone threat to Los Angeles  The Times of Israel",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-17T14:28:59.467500+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "01017b053744"
     }
   ],
-  "last_updated": "2026-04-02T17:20:28.789232+00:00",
+  "last_updated": "2026-04-02T18:21:29.656211+00:00",
   "total_count": 1000
 }
