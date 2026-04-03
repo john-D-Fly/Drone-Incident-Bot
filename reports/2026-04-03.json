@@ -1,0 +1,178 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone incidents have surfaced across various regions, highlighting concerns about terrorism, smuggling, and public safety. In Ukraine, Russia's sustained drone strikes have raised alarm, alongside reported drone attacks affecting Kuwait and Saudi Arabia. Notably, the legal framework surrounding drones is under scrutiny in Slovakia, which is taking steps to address growing threats from cross-border drone activity. In a domestic context, several arrests have occurred in Texas related to smuggling operations involving drones delivering contraband to prisons. This period is marked by a clear pattern of increased drone utilization in illegal activities, alongside a need for stricter regulations and measures to ensure safety and security.",
+  "totals": {
+    "other": 34,
+    "terrorism": 5,
+    "smuggling": 11,
+    "crash": 12,
+    "airport": 8,
+    "arrest": 16,
+    "total_incidents": 102,
+    "by_category": {
+      "airport": 11,
+      "arrest": 14,
+      "crash": 14,
+      "interference": 1,
+      "other": 29,
+      "security": 2,
+      "smuggling": 29,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 18,
+      "drone crash": 13,
+      "drone illegal": 2,
+      "drone incident": 7,
+      "drone prison": 6,
+      "drone security breach": 8,
+      "drone smuggling": 21,
+      "drone terrorism": 17,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "The prevalence of drone incidents related to contraband deliveries to prisons highlights a significant smuggling issue that necessitates targeted action.",
+      "incident_ids": [
+        "7fa954b613f9",
+        "cc64136e4ba2",
+        "592d226f3176",
+        "bdaee972ef5a",
+        "f03d5a370730",
+        "2fec127cfc618"
+      ]
+    },
+    {
+      "topic": "Cross-border Smuggling",
+      "rationale": "Several incidents detailing drones guiding smugglers across the border indicate an organized effort exploiting drone technology.",
+      "incident_ids": [
+        "495bef5b32ae",
+        "d02e3bb9e4c3",
+        "c68fe571d243",
+        "3e14b2cc0e9e",
+        "6b03091207df"
+      ]
+    },
+    {
+      "topic": "Drone Attacks and Terrorism",
+      "rationale": "Multiple drone attacks reported under terrorism-related inquiries point to the ongoing threat posed by drone technology in conflict zones.",
+      "incident_ids": [
+        "d638d557d899",
+        "27a0467a15b6",
+        "b84bffc9fa48",
+        "a1b32997632d",
+        "c403168318fd"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d638d557d899",
+      "headline": "Russia Launches Sustained Wave Of Aerial Strikes Across Ukraine",
+      "one_sentence": "A wave of drone strikes has targeted various regions in Ukraine by Russian forces, raising significant international concerns.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "568c65e3d57d",
+      "headline": "Kuwait races to contain damage after drone strikes oil refinery",
+      "one_sentence": "Kuwait is working to manage the aftermath of drone strikes that have disrupted operations at a key oil refinery.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Kuwait"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "ff10e3e53a21",
+      "headline": "Seven arrested in drone‑driven contraband scheme at Texas prison",
+      "one_sentence": "Law enforcement has arrested seven individuals involved in a drone smuggling operation targeting a Texas prison.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "7fa954b613f9",
+      "headline": "Overnight drone attacks hit Saudi Arabia, Kuwait and Bahrain amid war in Mideast",
+      "one_sentence": "Drone assaults have struck Saudi Arabia, Kuwait, and Bahrain, contributing to escalating tensions in the region.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Saudi Arabia",
+        "Kuwait",
+        "Bahrain"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2f286fe63ae9",
+      "headline": "Kuwait races to contain damage after drone strikes oil refinery",
+      "one_sentence": "Kuwait is mobilizing resources to deal with the consequences of drone impacts on its oil infrastructure.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Kuwait"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "b2a2f1e5e9a8",
+      "headline": "Drone crash in Poltava region: Injury toll rises to six, including three children",
+      "one_sentence": "A drone crash in Ukraine has resulted in injuries to six people, intensifying discussions around drone safety.",
+      "risk_tags": [
+        "drone crash",
+        "safety"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "a36cb98df7a0",
+      "headline": "Finnish Border Guard confirms Ukrainian-made combat drone crashed on frozen lake near Russian frontier",
+      "one_sentence": "A combat drone, believed to be of Ukrainian origin, has crashed in Finland close to the Russian border.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "priority_score": 0.65
+    },
+    {
+      "id": "34be8fcce05c",
+      "headline": "Drone crash in Poltava region: Injury toll rises to six, including three children",
+      "one_sentence": "The Poltava region has seen a drone incident lead to multiple injuries with children among the victims, raising safety concerns.",
+      "risk_tags": [
+        "drone crash",
+        "safety"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Multiple drone incidents over the last 48 hours underscore the increasing risks of smuggling and terrorism globally.",
+    "linkedin": "Recent drone incidents highlight the urgency for enhanced policies and safety measures to combat rising risks of smuggling and terrorist activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-03"
+}
