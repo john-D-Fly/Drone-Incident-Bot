@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "McCuskey joins fellow AG’s to combat drone use to smuggle prison contraband - wvmetronews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXRNQUV6OXY0eHJHNHpjeVkwU2ZkN2pwaGRScmVUczV1LTRFUUJRemtBNnRxdk9SQzB2YU1UNXZTZnZ5VFU2aHp6YkFjNWgwVDZBeDRnYXJ3NEJFSmVzYmNvY2ozeXM1WVZlaUpseE9tMWRIa3VXcFJqR3lkX1puZzVvam1CdllVZ0xQSzc1VUFIR3ZtbzFEOWpyVXFORnpqSE9EWTdyd01fWjFkQ2F4Sw?oc=5",
+      "source": "wvmetronews.com",
+      "date": "2026-04-03T16:51:47+00:00",
+      "description": "McCuskey joins fellow AG’s to combat drone use to smuggle prison contraband  wvmetronews.com",
+      "query": "drone prison",
+      "detected_at": "2026-04-04T04:38:07.137478+00:00",
+      "location": "at drone use to smuggle prison",
+      "category": "smuggling",
+      "id": "960fb800fa0e"
+    },
+    {
+      "title": "7 Accused of Using Drones to Smuggle Drugs, Cell Phones into Texas Prison - National Today",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVc1T04yYjFKSUdieDgtTklBUXJWSExyMEhkVEZWTFdYdExhZlhvQTVIQlJSZDVZRXRGOVVQck1uc1c3N2FEQTNQXzZ2SlB4eUN4OTItVWZLaFlXb0xFaHd6WkhONVAwOThmX2ZRODBTVGVYVEhBaVBVTVQtdnp0RnpoV25CMDRSTDk0clVXOXFaMU5VSVF5RjFpS3NIRHI5NE9yNngza2FUNTN6TU5leTdLU1JwUDRZR1dQTVFURmtzUWowdGFTVg?oc=5",
+      "source": "National Today",
+      "date": "2026-04-03T16:50:26+00:00",
+      "description": "7 Accused of Using Drones to Smuggle Drugs, Cell Phones into Texas Prison  National Today",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-04T04:38:06.503333+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9b4315028e7b"
+    },
+    {
       "title": "Hill Air Force Base commander: Keep rogue drones out of our airspace - deseret.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DSG5WbkhMdGVXaE1kTG9BY3NBby1CN1RGcjVsOXVIUWpvNmI2TVA3bmRvSWM2QTNTaXFldzNTSUVIVUpaZEgwUFljaGg1Q3B5Z2NYN3NlMUh2SjZxTWxKTTNqanJOZw?oc=5",
       "source": "deseret.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "9642f9c2a29a"
-    },
-    {
-      "title": "Monroe Police drone arrest - WCCB Charlotte",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNU0pISVIxVXlVRl9KTmhRMTIyTUFSUXdoVFFPMnNMbm45NUJCb1V2UTVOVWRmWGFNbHpYQW5ObExUTkJkekVXY3BpSFJJOFlYb2RIYXFtZHZ1angxRUFSVElZekFPamp3TjU0dG5LNEhRSFVBSGk0LXM1cnBIeWRGblBXa1k2WjVmcXRYSHpNWlZjbmJ4RkQ4MHZiMGJIU0dLWGpiT0RhVEw4cE82YXExaEZzMUYwUC1ieEJ0bGYwN2ZPYWZ1VXlsSVFwbEpubFNteVh1aU4zMUZWYVpJWmVEZEVEWEZUcUN3cjYzTnlqZFFQSmNUYW1OVXRqeVdJWGk4UTVFWG1WdmJiaTBw?oc=5",
-      "source": "WCCB Charlotte",
-      "date": "2026-03-18T13:08:22+00:00",
-      "description": "Monroe Police drone arrest  WCCB Charlotte",
-      "query": "drone arrest",
-      "detected_at": "2026-03-18T17:25:30.361944+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5fff8ca4a382"
-    },
-    {
-      "title": "New York prison officials seize contraband drone near Marcy facility, urge tighter laws - WRGB",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNVTk2dGFMY0FWQTN2aG1hbEcwZ3l1UDRMZEEzSl9TUjZUemUwSzhKOEZneERTbm5JZ0YtMC1OSTRqWTY2dlpnUmhxdS00WmVlZUt2UHZ5VGRTN24yLUhpVk1GM1hCM25hLWo3anREU2JEREFhV3Aya3BBLTZfYUZ0NEVyWEtRVFpGaF85bWl4MHBFX1ZLUUo5ZVZoWWVfZ204eFI3ZEtYY2JkTW5jYXhCaGlsbVlpN0tYSkpDeTZWV242SDFtQ0s1b2hHdmlueENJSHVBd3V3aHBmX0gtczV2ZVl2RTU0ajFjbi10LUF0VEVic1J1TTkwV1VwUFY2ZVAxcHo3UnEwN1RGSmNSUWJzRjByNUUzSUZBUEtSU3FkaE1NUWlvNGdtTl9NVzhkRFR0eWlNalF6YTFYV1FhUEFXYXJmVFA4OTdEcnRCME9ZbXdadVEyUzIzVWlLUnBOR2ZHd2NjT3hmNGNXaWxTWmFvaHp1NE9LOHVWV2U2cGtkRENjNG9YUUZhZUpqRXZmYW5sMmhLQXVlRUZHM1VC?oc=5",
-      "source": "WRGB",
-      "date": "2026-03-18T16:12:11+00:00",
-      "description": "New York prison officials seize contraband drone near Marcy facility, urge tighter laws  WRGB",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-18T16:25:46.500041+00:00",
-      "location": "near Marcy facility",
-      "category": "smuggling",
-      "id": "a1961f1aae27"
     }
   ],
-  "last_updated": "2026-04-04T00:32:36.979937+00:00",
+  "last_updated": "2026-04-04T04:38:11.110300+00:00",
   "total_count": 1000
 }
