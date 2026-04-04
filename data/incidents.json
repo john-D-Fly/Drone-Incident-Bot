@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Desk-sized drones and 30‑pound drops at SC prisons. State AG asks Trump for help - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnYlVrcDM4bjNXNTVWMHpqa2h3T2JDS0RXUU5lcTN1WUZGMVpDUENfTFpFWTZuRVBmc0RQcndXM3kzR0g3VVd3aTdOZUxnRnJfN3h6dTFWWmhLSEwtVkptQTJrSHU4aFpoNWcyMFRyUTZOUEZC?oc=5",
+      "source": "AOL.com",
+      "date": "2026-04-04T07:39:42+00:00",
+      "description": "Desk-sized drones and 30‑pound drops at SC prisons. State AG asks Trump for help  AOL.com",
+      "query": "drone prison",
+      "detected_at": "2026-04-04T15:10:39.977354+00:00",
+      "location": "at SC prison",
+      "category": "smuggling",
+      "id": "32a6666c5c89"
+    },
+    {
+      "title": "Unmanned Military Drone Lands Near Las Vegas in 'Mishap' - National Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVFLV2RrYk1XSlk0NnllVWhZWDd2Skd6bDhRN2hkQlRCeHY4bnI0c1NTWVA0X3JMX1hjZDRiWmNFUVAteWNTNS1nUDZERDg4YngwNThpcjY0aUE0WXdCX2E4Vzg2N2pQWC14UlJvZko4NXBEZGowOHphRDZLZzNOUEdKMVg5aTlnZjg5UWNnMDRQbW03bnc0QlRFSm1wWWRHY3V4dlhtTU44aWtBYzlWYnJjZw?oc=5",
+      "source": "National Today",
+      "date": "2026-04-03T21:35:18+00:00",
+      "description": "Unmanned Military Drone Lands Near Las Vegas in 'Mishap'  National Today",
+      "query": "drone incident",
+      "detected_at": "2026-04-04T15:10:38.477089+00:00",
+      "location": "Near Las Vegas in",
+      "category": "other",
+      "id": "d5be533b9c57"
+    },
+    {
       "title": "BRETT VELICOVICH: ‘Mystery’ drones are no mystery, they are a dangerous threat to national security - wfmd.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGUtWjJRX3RUWDJlUGI1QlJsRUkzRjdVRkNPQ0FzSjRuVGlDOWNfWkN0N3BBSGp3UTF2S1M3dERqcDZZR29ySWdqZ0pTRENCMDBFMkE1dEItZ2VFdG01eTZYQ01NQjVsdFJhaFJ3blJZcENnejA2TkFodllUR2dfUnRQdTcxZEJhU0JLeDBPZ0xfOEpEX25VODN5NkdKMEJ5OFctN3liMklwbUFDMlJIQUVGVEJ3ZWV1ZERLdkRXbTNFMlZPREYw?oc=5",
       "source": "wfmd.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "571f0fc936d5"
-    },
-    {
-      "title": "DJI Avata 2 prices crash ahead of new 8K FPV drone - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NUFwS09IRmFjZXdPckZvdnZfcDQ0b1VoRkxqU3BubFlleEpZVDI3Z0NEekdtbkxxeWpkVXNJQUx6YWsyZjIyc0Zyc1pOQ2hqTFp1ZzNyNjdCaXlZZ2xiVzJvQ2JaWGlu?oc=5",
-      "source": "DroneDJ",
-      "date": "2026-03-18T19:00:00+00:00",
-      "description": "DJI Avata 2 prices crash ahead of new 8K FPV drone  DroneDJ",
-      "query": "drone crash",
-      "detected_at": "2026-03-18T19:23:13.596259+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "611dbbdae4d3"
-    },
-    {
-      "title": "Officials investigate after a drone dropped knives and other contraband into a New York prison - Newsday",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2NnRlNRWUdhaTJXcm9pNW9VRHhuenBLODd2V3c1WW5hX3ZHcG1fbFRQdS1qU0o2d2xEVHFrMkxNS3Fqbmtob0xJNGN0N3AxcFRkZ0xsZXNzQWNxZjZ3enFpRElVYzdVamNTZEJWdHZ2b3VOZ1RycTdiTkt1UUdtMw?oc=5",
-      "source": "Newsday",
-      "date": "2026-03-18T18:52:44+00:00",
-      "description": "Officials investigate after a drone dropped knives and other contraband into a New York prison  Newsday",
-      "query": "drone prison",
-      "detected_at": "2026-03-18T19:23:12.486857+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8c60cd42117a"
     }
   ],
-  "last_updated": "2026-04-04T13:25:31.572641+00:00",
+  "last_updated": "2026-04-04T15:10:43.670339+00:00",
   "total_count": 1000
 }
