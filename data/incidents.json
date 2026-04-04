@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone Crash Damages Homes in Erbil’s Karezan Neighborhood - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85ZVUwekVaX0xCbGpCU0QxQjEzeE1xZjNCOUJlelk4T1FSZ2ZuSUZEcG9DOVF1T2EtU1RGcC1EdU13cWhzLTJBVTRuZ3Q1Q1NtV25WSTF3?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-04-03T15:40:44+00:00",
+      "description": "Drone Crash Damages Homes in Erbil’s Karezan Neighborhood  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-04-04T08:15:08.235925+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "edaf6632e27e"
+    },
+    {
+      "title": "Unmanned military drone involved in ‘mishap’ outside Las Vegas - 8newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzgtMFpfYVBnV0ppT3A3M01fZFI3OURYZG1Na1I4ekpjdXFWUlJWWGRJeTY1blVsYmxZZkNlcUpDdGV1dE5TVEhvUE54SWNRUnNIY3FidkJPMDYtbDlGTDd0YWRJTVdzQXZrUHd4bjRVeDV0Q0tMQVVPWjFGUk9xYTBQeFhUMTIwWFRxR1Z3TmNFZjZPVjlrVkQzTzgyaF9KWEhuQ9IBqgFBVV95cUxPR05tX1Z2bEhkS0lmMFpPbXdSRlVXemZKMUY2S2M1U01BelYzZS1fbWNMUVhjNXJUNjVpdk5nbGFVR0FqdVRPaHYtQ0kxOFlFWVlIUzdqLU5nRjdheU0tTTg2a2hzSm03bXNwS1l3SkhGUGhQYXVtc2dqQ0JvZGctWTJtZlA3X190TlVPNGpTRi1MRTF6dFQ3dHJJeXRrR1VBVk9tWTdndGJoQQ?oc=5",
+      "source": "8newsnow.com",
+      "date": "2026-04-03T20:48:17+00:00",
+      "description": "Unmanned military drone involved in ‘mishap’ outside Las Vegas  8newsnow.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-04T08:15:08.235925+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8169be5a67e4"
+    },
+    {
       "title": "Drone contraband becoming problem for jails - timesdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXRHdHVVYm9pZEJ0WFctS3ZvUUJhbU9ZVldMVmU4RjdrWVUwYkcxeVZfa0FNUWEwNy1JMEFWUndMQXEwZFRYbmF3dTZxWWZmbGItVENJdWZnWHBfai1wS3pDMEhObkEyaG93WlVEeV9GTDB5ZnFWbDlYZ2NfMXo0TzRibU5CMGFIdktZSW80RHktWXdISl90LTkwLWJWX0cyTjlHczdBM3MzbHNnQms1NjAwbHpYdGh6SzQ1WEZRRzNYRVBQRXNrNkMwTQ?oc=5",
       "source": "timesdaily.com",
@@ -11975,32 +11999,8 @@
       "location": "at NYS prison",
       "category": "smuggling",
       "id": "ffa103789198"
-    },
-    {
-      "title": "Drone drops knives, 'green leafy substance' and other items at NYS prison, officials say - 13wham.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRGdQY1dFYldHWUdERmRZU18ycG95RFdsTTlueThyVWFWU1VZOGNpXzF2MFV0ZzlCYXYySDZiRkZ5b3FhcFBBN2ZFb2VNWnB1b3JOTnRmd0FsQ0tvOUJaVUNBdXI5RkhDdTFkYzJpMzF0eVRzSVRyWFVyZWxjM0VYTjRUanBhZmhxUzZsUmhUeExtMzdBOWJXTW9sUzVqNWU4MnBNWS0wWVRYUGhTMHFmbnpxM0Y2VDJ6aDh6SHNRdE91cVVnTkNaZXVwUFd4TU5pa2NhV3RaSWxiLUR3cUJCbXZUWjNxUEZCN0tncGt6YzFaeVhyNlZQbE90NGhSYzhXMzA5WXBJREk?oc=5",
-      "source": "13wham.com",
-      "date": "2026-03-18T16:39:24+00:00",
-      "description": "Drone drops knives, 'green leafy substance' and other items at NYS prison, officials say  13wham.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-18T17:25:30.968523+00:00",
-      "location": "at NYS prison",
-      "category": "smuggling",
-      "id": "5a022ad95e03"
-    },
-    {
-      "title": "Drone attempts to smuggle contraband into Marcy Correctional Facility - Utica Observer Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZms1NDN4cDVKN2ZyamwzM0hGMVRhaF9IMnBsYmx5aFRJemZQTjRJZXcwYVk5UWNiWGRudEVvMlJrOWZ2S0U3cERsSmVOVlZBWGl2emdvSXhhamhhT1NLeFF1Nm5GQzhzdmxiUmhoUVloRUNkSDU1OXpTeU1pQVRHOVY5eEhHYk1RUHBWZ3k0bFFsRXM3dDlFWnNYVHl4ajBhZ2xkNkExbkJBSXRsbi1mSFV1a3I2OU5LVnRWVkg5MlhwYTNFRDNNYjBKcEx4bW8?oc=5",
-      "source": "Utica Observer Dispatch",
-      "date": "2026-03-18T17:03:18+00:00",
-      "description": "Drone attempts to smuggle contraband into Marcy Correctional Facility  Utica Observer Dispatch",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-18T17:25:30.968523+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "601b98f3f27f"
     }
   ],
-  "last_updated": "2026-04-04T06:25:24.802900+00:00",
+  "last_updated": "2026-04-04T08:15:13.437566+00:00",
   "total_count": 1000
 }
