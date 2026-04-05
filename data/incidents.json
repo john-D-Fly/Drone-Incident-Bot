@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Villagers panic as drone crashlands in wheat field - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVAzdGpBSklMandiZlE1U1ppR3N0YWpxajlJV2hHejZGVUgyRFoxSlU2YUFwaFI1UWxDb2tIY2JLS3FHU0dUWjV5TGQxM1ItX0g0RGM4U3dNeUVEd1owZTFDcUJLOVM5SzIzNEdpX2NWRTZXNHgxWTJRUjFVWmhFeVdtNVROeWN6VTQtTUZyWGhMdFYxQWRaS0UxT0dCOHBHVV8zcDVJZ095ZmRIX1NYOU00MVZkZGdidXdiNUhMemtqUdIBxwFBVV95cUxOaHFkZFVpZ0Utck01WXAxTnctcjNBd1lzYVZ0MW5oV0dhUWg0VHdYRU5vNUcxbkpTUEwtTGZxSDBUc1hWUm9fTEYzVzM2SUQ5VWtsbHZRb1JxUVNKSU9BcFBSR2w0aU80X21TQ3lTTUFsY3R3X0hqOFB1WGlxR1c5LW1TUmI4ME52YVBIcTc4UUpnTkViREJ5bzBIQ1lSamdBMzlFaDBucUZrSWVicE9reWRpQk5DQ3JzRGRaUUV5UmVXbVdpS3A0?oc=5",
+      "source": "The Times of India",
+      "date": "2026-04-05T00:11:00+00:00",
+      "description": "Villagers panic as drone crashlands in wheat field  The Times of India",
+      "query": "drone crash",
+      "detected_at": "2026-04-05T00:36:39.629061+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6e6f0ca98d55"
+    },
+    {
+      "title": "Mich. sheriff’s office DFR pilot leads to arrest on day of program launch - police1.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmJxSUtWNzI2NE54SWtibHlRVGp1WHpLUlNnQVVkZXgxemVWVFVaVldmRzZKRTJxVTBFU0I3aWwtZkk5aTRIYWg3NG83ckNyNmFmdy1mcGxiZnhOOW45VXowM3RHc09wWldxNXVQMnUxWHphWVVuMGVRQlJxOUNmZTVfUnBTY3ltcTFtdGhFcjZJa0prN2dfZHE1b3FkaVJydm5BSw?oc=5",
+      "source": "police1.com",
+      "date": "2026-04-03T21:17:45+00:00",
+      "description": "Mich. sheriff’s office DFR pilot leads to arrest on day of program launch  police1.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-05T00:36:37.283848+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "034b0c5612a4"
+    },
+    {
       "title": "Drone guides deputies to suspect after pursuit and head-on crash in Beaverton - Beaverton Valley Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0VSWUphWlNrNS16MDd3dUhHaHFZZXUwemJvREx3OHByZld5REZSSXAwYkpQMU94Zi1uT1gwR3FSdEduNlp0MlhTSXFURWhReE8wUWdRMTZSVl9ydU1WNGZHNWo0czBnSnpNTUFrbE5ldkNabG54S1NFejkybEswdFpxSEFicDZRdjh0SEVHdnBWZ0RXYTRZNHhzMEhBcHZSU0FFeV9oRTE3NzdHcEJiV2FDQjBkUGdWSWlUQTQtVQ?oc=5",
       "source": "Beaverton Valley Times",
@@ -11975,32 +11999,8 @@
       "location": "at New York prison",
       "category": "smuggling",
       "id": "8b24d18d5d36"
-    },
-    {
-      "title": "Officials investigate after a drone dropped knives and other contraband into a New York prison - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRC0tcEVhQUVBSVNrY1lQd2QyQUlCeFpGR19uLUxUUFBCWWxlc3FObWp5T3Y1V1VwMzkxOU1ZOExhUkVzZEg1elN6TGlxbUlGSVI0el9kUHI0X1FtbUtsNml0akF6RkFiSDE0ejhWOGlrN0hSZ3dDa1Y3V1diRDczaXVBT0ZZLXpMaEljQnQ1cmhrMURyXzkw?oc=5",
-      "source": "AP News",
-      "date": "2026-03-18T18:52:00+00:00",
-      "description": "Officials investigate after a drone dropped knives and other contraband into a New York prison  AP News",
-      "query": "drone prison",
-      "detected_at": "2026-03-18T21:14:04.297144+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d8a341b6672f"
-    },
-    {
-      "title": "A drone drops knives, bandannas and hair clippers into a New York prison - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnNUMjFsSWsxbTR4eFlROHdWSjNtRjh0QW02NHVtSGVJYUJFUE5fcjBhMUgzbFoxSHJRT1lOTk5yZnYwblBaMnZmSW15ak96VDFHNGdVX0ttd0xpaEVYQVlhbldiRHdzVkg3OFNMUktvaDdYcVV4eXU4TzVuaFZSLXJxYlU4M25VNTdOQjhaajJ1TTBkVmR2eEQ2SS1Qa01CSUFlalUtMlJwM3c?oc=5",
-      "source": "WRAL",
-      "date": "2026-03-18T21:11:43+00:00",
-      "description": "A drone drops knives, bandannas and hair clippers into a New York prison  WRAL",
-      "query": "drone prison",
-      "detected_at": "2026-03-18T21:14:04.297144+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "78e32b2b8864"
     }
   ],
-  "last_updated": "2026-04-04T21:10:15.409371+00:00",
+  "last_updated": "2026-04-05T00:36:42.477005+00:00",
   "total_count": 1000
 }
