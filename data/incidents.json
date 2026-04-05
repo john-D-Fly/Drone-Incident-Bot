@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Security forces locate drone in southern Iraq desert - shafaq.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3hHd0I2MDhsY2NMT2VMUlZLcTJZZVNnX2VUUDRGWGFLMmVZRnA4aE9OVGhRbUtqVFV1Q0lLVDFDZFFoWnR4b1o3Q2pHR2t5ekxkdVVfUm9kbHpERjdfWTdhQ2QwZVQ4eWhKMUpnQnFfWTdtMmY1NDB3alBPWkZSci05djRUeWZBdkVn?oc=5",
+      "source": "shafaq.com",
+      "date": "2026-04-03T18:55:55+00:00",
+      "description": "Security forces locate drone in southern Iraq desert  shafaq.com",
+      "query": "drone security breach",
+      "detected_at": "2026-04-05T18:12:44.248120+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "79381015ef36"
+    },
+    {
+      "title": "States aim to clip wings of drones smuggling contraband into prisons - Straight Arrow News - SAN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnlyNTdkOTNsTV84YUEwajRHYm90WkJxb1dZc3ZKdThHaC1ubzBuV19vM0R2RXVORUtNVjF6aUo4dzhudnFPN0JOTW4tVU9ocndrOS1XbG9YaDRLVHRXRHdZWXItdVp3M3lkbmpSeURyREZlb1h4TjNDZXBqYThlSTZB?oc=5",
+      "source": "Straight Arrow News - SAN",
+      "date": "2026-04-05T13:00:00+00:00",
+      "description": "States aim to clip wings of drones smuggling contraband into prisons  Straight Arrow News - SAN",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-05T18:12:40.817540+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "39836e1630bd"
+    },
+    {
       "title": "Trump’s Drone Policy: The Continuation of a Legacy - Georgetown Journal of International Affairs",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUVg4b053bVA5MFJVN25YS1N0NmR3dTM2OUJLMFFNdjdCMnEzcVFnT2tENGFTWjBKXzNFY1BQa3gwdjQ3UWcwdjZNbTRSdVRmVnhzcHhlQXNxZ0NvM3JHbE1pZzFJRWlMN1BpdXRDZVowRms?oc=5",
       "source": "Georgetown Journal of International Affairs",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "df38558a6971"
-    },
-    {
-      "title": "Matthew Van Dyke Under NIA Probe for Drone Smuggling in Assam - The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkpxbThQaUFnSnhDaFF1anFSbmZaX0FqZjhXNmRfbGotcVdYOTloYVRYNGc5UFpoeDU3U0o2aTNUbHJGVXByQkhIUFh6eGtyZ2IxeDlEMjFQS19JWFB5bEctbW5WNjJQa1ZsaGY0VDBhdTFWdUI1c2xmZURBZmo0bUxhcW5yRmd3dnFsM09PTTdhQnlQM2FnS0RiWFFoT2ZEMzMyYmpZMklIS3dpZHN1TjBkLWtQSm94WWFMTFZrNjA5VFU?oc=5",
-      "source": "The News Mill",
-      "date": "2026-03-19T10:22:15+00:00",
-      "description": "Matthew Van Dyke Under NIA Probe for Drone Smuggling in Assam  The News Mill",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-19T11:16:04.303099+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "36fafde0ffb1"
-    },
-    {
-      "title": "US mercenary Matthew Van Dyke at core of NIA probe into cross-border drone smuggling, insurgent training network - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQ2ZuT2ZUb0czd0xjWmNVbHl3WGtJQV9hQzhhbExrWUFzNy10d19oZ055NHZZT0F2aVUwN0ZQMFdFVU9QUldINmJhangyMEduOXVxV01yOXBjTFhCR3liWmxQUzF3UGFRSndpTEN5Q3NyWHQyVzJCejNTbmlCdEcybFdvMmFuWUNOOHZfZlVDb0hNZDZrTmVSMFYwUkFhTFFfMWp1YzJVbmJlWXltY0xsX1EzaEFpMThYb3dUVVpUMWVfMjlhWVNjUUZROTh1VTZYZ2FTSlhvYUhVQjRvNDFqVkxjWWJTbEVUbTVVZW95NndpSnRLWGpyRlpoUUlYN01uUUs2ZllR0gGOAkFVX3lxTE1MRXA5Rk1SRHJZQVRsX3BVajRDMDhzXzZzODlfMEJrVDlHMlQ1TjRzb2NyWGtiLUFjaVpiRlZ4VWt1SzdaMEV1QzI0YWJ2YmR4dFp5dVlhalZESUItV0t5UHc0OURkbmNQcjBHSHFnUm40LW1XM25ZOXNmaVUxekF1bVhON05zY3VGMFVqdklNMV9SUC1QYjNScF9oUHVTVXVjWmNab2tIMFdHZHo0dFdMVW54YVpQVDZ0VUUxUERfcDV1TkxSeV9PSmJiRWQyaGJ1QmpPVjN3MVBjZG96RklKWEc2Qm5aSGVBNkZoUkp4SjhoRmFFNXNhQTVpdXhEV2xtWEZYcXJRbkp5NS1Gdw?oc=5",
-      "source": "ANI News",
-      "date": "2026-03-19T10:19:00+00:00",
-      "description": "US mercenary Matthew Van Dyke at core of NIA probe into cross-border drone smuggling, insurgent training network  ANI News",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-19T11:16:04.303099+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "55b3c96b5f15"
     }
   ],
-  "last_updated": "2026-04-05T17:11:34.702605+00:00",
+  "last_updated": "2026-04-05T18:12:46.383311+00:00",
   "total_count": 1000
 }
