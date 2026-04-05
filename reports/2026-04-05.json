@@ -1,0 +1,167 @@
+{
+  "narrative_summary": "Over the past 48 hours, various drone-related incidents have been reported globally, mainly concerning smuggling and disruptive acts around airports. A flight attendant in Dubai was detained for sharing images of a drone attack, underscoring security concerns at airports. Meanwhile, several states are intensifying efforts against drone smuggling into prisons with multiple arrests in contraband schemes. Notably, drones disrupted operations at Munich Airport and dropped contraband in U.S. prisons, highlighting the ongoing challenges of managing drone-related risks. Incidents also included drone crashes linked to military operations in Iraq and a monitoring drone assisting police in apprehending suspects. These events reflect urgent calls for stricter regulations and improved coping mechanisms to address the rise in unauthorized drone activities.",
+  "totals": {
+    "airport": 6,
+    "smuggling": 5,
+    "arrest": 17,
+    "crash": 12,
+    "terrorism": 5,
+    "security": 1,
+    "other": 9,
+    "total_incidents": 88,
+    "by_category": {
+      "airport": 5,
+      "arrest": 13,
+      "crash": 20,
+      "other": 31,
+      "security": 1,
+      "smuggling": 15,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 23,
+      "drone crash": 16,
+      "drone illegal": 4,
+      "drone incident": 12,
+      "drone prison": 6,
+      "drone security breach": 2,
+      "drone smuggling": 8,
+      "drone terrorism": 10,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling into Prisons",
+      "rationale": "Increased incidents of smuggling activities via drones into correctional facilities indicate a significant trend requiring policy intervention.",
+      "incident_ids": [
+        "2d161d5144ca",
+        "7 Accused in Drone-Aided Prison Smuggling Scheme - nationaltoday.com",
+        "7 Accused using Drones to Smuggle Drugs - National Today",
+        "Ala AG Urges Action As Prison Drone Smuggling Rises - wiregrassdailynews.com",
+        "mccuskey-join",
+        "Houston-Area Links in Drone Contraband Ring at Michael Unit - Hoodline"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions and Risks",
+      "rationale": "Multiple incidents involving drones at airports indicate elevated risks affecting aviation security and necessitate enhanced safety measures.",
+      "incident_ids": [
+        "Munich Airport Reopens After Drone Sightings Halt Flights - MSN",
+        "Debris fall in Dubai marina after aerial interception - The Jerusalem Post",
+        "Dubai airport shutdown after drone strike causes disruption - MSN"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "385a1660504b",
+      "headline": "Brit Flight Attendant Locked Up in Dubai After Sharing Photo of Airport Drone Attack",
+      "one_sentence": "A flight attendant faces legal issues in Dubai after sharing images of a drone attack at an airport.",
+      "risk_tags": [
+        "airport",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2d161d5144ca",
+      "headline": "States aim to clip wings of drone smuggling into prisons",
+      "one_sentence": "States are working to enhance regulations and counter drone smuggling incidents into prisons.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "65e9b05c2e41",
+      "headline": "An unidentified drone crashed near Baghdad International Airport",
+      "one_sentence": "A drone crash was reported close to Baghdad International Airport, raising security concerns.",
+      "risk_tags": [
+        "airport",
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f49bc6cc0862",
+      "headline": "WATCH: Drone video shows area officers arrest registered sex offender",
+      "one_sentence": "A drone was utilized in a video that captured an arrest of a registered sex offender.",
+      "risk_tags": [
+        "arrest",
+        "law enforcement"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "a39e1cfb2b5a",
+      "headline": "WATCH: Drone video shows area officers arrest registered sex offender",
+      "one_sentence": "The police deployed a drone to assist in capturing a registered sex offender in a recent operation.",
+      "risk_tags": [
+        "arrest",
+        "law enforcement"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f6b48924225b",
+      "headline": "Beaverton man arrested after police chase ends with crash, drone search",
+      "one_sentence": "A man was arrested following a police chase that ended in a crash, with drones aiding the search.",
+      "risk_tags": [
+        "arrest",
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "e4be2a1dbd4a",
+      "headline": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+      "one_sentence": "China's crackdown on drone activities highlights the nation's focus on controlling its aerospace operations.",
+      "risk_tags": [
+        "policy",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "4cc44687d333",
+      "headline": "Munich Airport Reopens After Drone Sightings Halt Flights",
+      "one_sentence": "Flight operations at Munich Airport resumed following a drone sighting that caused significant delays.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    },
+    {
+      "id": "ae2f34dc708f",
+      "headline": "Iran Army conducts drone strikes against US bases in UAE, Kuwait",
+      "one_sentence": "Drone strikes conducted by the Iranian Army targeted U.S. bases, heightening tensions in the region.",
+      "risk_tags": [
+        "terrorism",
+        "military"
+      ],
+      "countries": [
+        "UAE",
+        "Kuwait"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight increasing security issues at airports and in prisons amid rising smuggling threats.",
+    "linkedin": "The last 48 hours have seen a concerning rise in drone-related incidents, particularly involving prison smuggling and airport disruptions, emphasizing urgent needs for policy interventions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-05"
+}
