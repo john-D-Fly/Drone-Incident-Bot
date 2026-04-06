@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Kuwait contains fires after drone incident at energy facilities over the weekend - Oil & Gas Middle East",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PY2ZCQ3BKa183eGZwRE5XZzNDakwtRUdza09lTmQxaTFFUEh3ZGFOeXV6ZUwtRWxTc01ZUVlITGloZlNvU2Y4TW5ZZ2llT0lCLU1ZYXAtV2FtQkZrQ2piZlhCOFVCREFIZW1ManpUUWpPQzVJRkl4UjUxLW5oZw?oc=5",
+      "source": "Oil & Gas Middle East",
+      "date": "2026-04-06T08:00:00+00:00",
+      "description": "Kuwait contains fires after drone incident at energy facilities over the weekend  Oil & Gas Middle East",
+      "query": "drone incident",
+      "detected_at": "2026-04-06T08:36:09.102092+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "824c94538ea9"
+    },
+    {
+      "title": "South Korea President expresses regret to North over unauthorized drone incident - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTHhxLXJTN3NSRFFTNkU5cDZHWTNEd09XbDhDZnpIV2tmVlFfQ2dPUVpQajlwSC1kQmtjOVUwQW1hSnY0QTN5bEl1OFhzOEtteUd0R1FmMHJ0X1lmeFFnNUktX2FyMHVGS0Zkag?oc=5",
+      "source": "mezha.net",
+      "date": "2026-04-06T08:07:17+00:00",
+      "description": "South Korea President expresses regret to North over unauthorized drone incident  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2026-04-06T08:36:09.102092+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "c7023880d017"
+    },
+    {
       "title": "South Korea’s Lee Regrets Unauthorized Drone Incursion Into North - Khaama Press",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSElCdEdseXBycnJkRl9yZmlTVlFJOVZycFozeFV1VEctaUhFZGZ3ejJaeHEwWkR6LVJMdExjYTBJeFFHQ0R0TE8xY3BhUVBLbTRsUHl0UjFxSm1HSExwRXNKWlBTdUxsQ2pzZWNZU1M2aUFMTTI4cFR3TEU3QkhwbVhxWDBXa3NsYVhWZTc2TE44QdIBkgFBVV95cUxPSElCdEdseXBycnJkRl9yZmlTVlFJOVZycFozeFV1VEctaUhFZGZ3ejJaeHEwWkR6LVJMdExjYTBJeFFHQ0R0TE8xY3BhUVBLbTRsUHl0UjFxSm1HSExwRXNKWlBTdUxsQ2pzZWNZU1M2aUFMTTI4cFR3TEU3QkhwbVhxWDBXa3NsYVhWZTc2TE44QQ?oc=5",
       "source": "Khaama Press",
@@ -11975,32 +11999,8 @@
       "location": "near airports",
       "category": "airport",
       "id": "7f9777a5ad16"
-    },
-    {
-      "title": "Drone Drops Knives, Drugs Inside NY State Prison - Newser",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzZWMVRLSVVKSWdGX09sRWY0OHY1ejRCUG5EMmExcHdVRUE3aW9kd1BhLV8zWWNZdndiVHpyckpjTFdMSUZfVExHQVIyYjduS2UzVzRQWFpJVTFleDROWHJPVGJhalB0Rm9mc2ZyMTd3WkZMT09WUFZ3aEstR2lBRGlrVTFVM0ZBSC1Kek5VNF90bDJiUWt0dA?oc=5",
-      "source": "Newser",
-      "date": "2026-03-19T19:39:00+00:00",
-      "description": "Drone Drops Knives, Drugs Inside NY State Prison  Newser",
-      "query": "drone prison",
-      "detected_at": "2026-03-20T01:36:48.324001+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ec761261b13e"
-    },
-    {
-      "title": "Authorities searching for escaped inmate in Pike County, Missouri - KHQA",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNclFLNFQ0d3YxQ2c1QXFoOGdjTVNDY0xPcXRtaGZ3REc3eE5oZkNLazhDSVhOQWI0dW9SS3RYaEREazFtTUdXdHR0WUtvSUVMM3lSTDVmUWd2bjVsM0JzLVg4RUlMTlFYVER5SDF4MDhZWWxmOGJqbTc4VlNxWjlBYzktSXlGcWZuOEdDSlBVcmFjZVhFdmRuSUNxV0FCRW5jdndwTjk0TjJud1JaZUxCZ1VoOVpwTG43TmFVRkRxd3BFRjFpVUI1aGdqMXVmNF9QVTZ4ZkVXSzBKRVBnM0U4?oc=5",
-      "source": "KHQA",
-      "date": "2026-03-19T22:06:00+00:00",
-      "description": "Authorities searching for escaped inmate in Pike County, Missouri  KHQA",
-      "query": "drone prison",
-      "detected_at": "2026-03-20T01:36:48.324001+00:00",
-      "location": "in Pike County, Mi",
-      "category": "other",
-      "id": "b136e45c88bf"
     }
   ],
-  "last_updated": "2026-04-06T07:36:01.138782+00:00",
+  "last_updated": "2026-04-06T08:36:14.366609+00:00",
   "total_count": 1000
 }
