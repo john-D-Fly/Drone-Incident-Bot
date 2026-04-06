@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Child injured in Kharkiv as result of Russian drone crash - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjFLdEZpR0hKZzg4SEIzWkx0YUhqZUk4VnpTQjVPcXlfam1ldDJHYzNoU1d1RGItVnFENE5HSlZ2VmV4Rl9XRTUybUl1QXdCNlFtVlNrSEpfUnFZTFlsajJfQzF4a3djNTF6OV81Vl8xVDFESVJ3TTZnZm53N2lkUUNLTFBSVWxMRU8wSHZhTzBGQWpzbUxJOFlza0k3Zi1rRWxTdXpLNWpkQTTSAbABQVVfeXFMUEFvQjJQM3hHWWgwTmVYLTZPWjJuTGRyQnM2Wjh4YWlyVk5CWmFxWGNRU0E2blRaLUcxT0xHMDhBeHo4VmpTQlAxemd0OGF0ZDk3N3dLTmtORzlWS1RackJ5QXJpYkg1QnIxRkU5ZTJPMGtOWkxSS3NiRnZJc0lQRmExY21xLUZJY3VsYUxXajAzV1EwWjY3VDhmMUpSNHVkOWxpa1JEcUxCVHJMYmJiUkQ?oc=5",
+      "source": "Ukrinform",
+      "date": "2026-04-04T12:45:00+00:00",
+      "description": "Child injured in Kharkiv as result of Russian drone crash  Ukrinform",
+      "query": "drone crash",
+      "detected_at": "2026-04-06T06:42:42.456895+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b3f53f26c5bc"
+    },
+    {
+      "title": "Man arrested after police chase ends with crash, drone search in Beaverton - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2NueTI1UGFKMURHNnRVdmo1TWxoS1JyVmZhMHgzN0ZadzlJcnVZb2J1LUZSeE9mdGhWa1RDSC12LWRVdHhXTWdCYTB6ZnBHaXVJUDJjeVZxc2hfY0dHazBWUVhONjRLblZLdVNIZWpuUWxfLXlxTlMwZlBiMS1rU0E5UzBHeTdCRHR6VGpvTDluVndocVlMa1NzMGlIa1hGbUhrZ1M4THphNlF0NWc?oc=5",
+      "source": "WSFA",
+      "date": "2026-04-06T05:25:00+00:00",
+      "description": "Man arrested after police chase ends with crash, drone search in Beaverton  WSFA",
+      "query": "drone arrest",
+      "detected_at": "2026-04-06T06:42:40.016364+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "5235dcd2ca70"
+    },
+    {
       "title": "South Korea expresses regret over drone flights to North - News.az",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVW43akhoTFk2ZEZCdkdVQzIydGdIdUxSejJwUnBjWkRGQ0EwdU1XN2xUUXFqR19VdlV6SDBISTB4NEM5YkdEMWpMZ2NHbXpjUm51RnU4dnBPcklIRFJDMEttb3c2czUzTDZTX0w2MzZoQVd3S3drN2tGVk9tcHNqRW54VQ?oc=5",
       "source": "News.az",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "e1bc08bc1760"
-    },
-    {
-      "title": "Drone drops weapons and illegal items into Marcy Correctional in Utica - NCPR: North Country Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQazBxd1N4b2x6QTZwMXJMZWhubTJQZnBoVG1KSjY0MWZwLVZfT0FLVnJnWXhkTmZtT3dFZHRiQ2JOeE1ZRzZwQXg1ZjB1cFVka09Dc1JBcFJlNkpNVDUtY212UWtROVlSTG5HSkxab21HT1FDRmhocGR3YUpYd0dsQXJLMGFJQzdiT0VQN1dVYkxQQnUtQ0dFUVpxWjBkTFRBUUJCWC1KOGlYRWpVMFVBRVFLUnRqQUY5R21veHJqTENrOG82LUFKaU9aWXV6cGk3VWc?oc=5",
-      "source": "NCPR: North Country Public Radio",
-      "date": "2026-03-19T21:43:30+00:00",
-      "description": "Drone drops weapons and illegal items into Marcy Correctional in Utica  NCPR: North Country Public Radio",
-      "query": "drone prison",
-      "detected_at": "2026-03-19T22:07:27.970093+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "46289e8eea2f"
-    },
-    {
-      "title": "Fulton jail launches drone to stop contraband — from drugs to chicken sandwiches - AJC.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWZCaE8tXzAtSkJRTE9WamVlNS1RYWtUeVlwSzNlVEYxdjJLd3NRSDNYLVZRdXFySTZvU2g0cVNlMFUxOW1iMTVZVnYwbVBSOXRBR3ZaZUlWcFU3cUdtUjRXRUNsRUlxcFJLV1ZBb1dOczBGRDNYVzZUODhXYlFGN2dreDVudlVZd1E1UzJPTWRJektfaDcwSzV4OHFyLWxnaTd0XzB3N0gwVExVSmozOXVB?oc=5",
-      "source": "AJC.com",
-      "date": "2026-03-19T19:03:34+00:00",
-      "description": "Fulton jail launches drone to stop contraband — from drugs to chicken sandwiches  AJC.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-19T21:13:22.844069+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "43edf28fe2ee"
     }
   ],
-  "last_updated": "2026-04-06T05:49:16.975604+00:00",
+  "last_updated": "2026-04-06T06:42:45.285903+00:00",
   "total_count": 1000
 }
