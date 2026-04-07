@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "General Atomics CCA drone wingman prototype crashes in California - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFE4OXl1RDNDckR5NFhrWjRWUjJ5a3JiYzQ3YlNiYm9nVUFZd2ZONnVoc0F5Tmx2SS1TQVVuRW9rNFV3cVduUUgyQmdhRDBQNkswQ3BteHRxc2VybzFKU1hMMjdvMmNCZXNTZFlxRk9oU28xTmdjbnU3b08wNnRIS09PQVZZSG1ERmJqMjR2QTRrRGNOaFo4eVBEdEZOZjlFN3FOYw?oc=5",
+      "source": "Breaking Defense",
+      "date": "2026-04-07T00:21:14+00:00",
+      "description": "General Atomics CCA drone wingman prototype crashes in California  Breaking Defense",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T00:36:02.798652+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "909ebcca9a71"
+    },
+    {
+      "title": "Iran drone crashes into Iraqi Kurdistan home, kills two — authorities - timesofisrael.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWtnSUN0SUg0S2JoRXUtV0ktdVBjTWM1RWIwOHdtaHA3aHJGYnJiMzJlRGV1Qnd1N0FfVWpIRTJfM1IyMVlQUlN3OGdwVTFsU0QwQWQ2V1p6NHQ0WFp6UHByLTdVVmp1R283UC02U2hCVG5QYWw2WFVzelpHbl9aekJWWEp2b00tVzY4OGplN00wVEhuNTBfY1NsTmd5TGRRVFBIdEZaUmVuWVJBSEJMLUlB?oc=5",
+      "source": "timesofisrael.com",
+      "date": "2026-04-06T23:04:00+00:00",
+      "description": "Iran drone crashes into Iraqi Kurdistan home, kills two — authorities  timesofisrael.com",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T00:36:02.798652+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c2f46b26c7a1"
+    },
+    {
+      "title": "Video: SFPD Uses Drone to Track Robbery/Auto Burglary Suspects, Four Suspects Arrested - sfist.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3FGRHN0WXUwV0l0WjRsTFVNSjcwUzYtWFJSeU1yUWZ1QnU1ZmJ6R3ViMlVCQ05hMl9XZXpEMEVfNVFsM1pjWjVEcDFRM3FoX2UxaldNOE1mU1JBUGNfNWxWcGJmRjN4SzNEbTE0bzVTZVNRV3MtLVpaNzRjX0VBb1FnX2l6THp1ai1JcDE1d1ZVX0ozRDVOeUl1TXJyTDUtSm8wMmVWVllFbWtvZTVHTXhULW4?oc=5",
+      "source": "sfist.com",
+      "date": "2026-04-06T19:43:36+00:00",
+      "description": "Video: SFPD Uses Drone to Track Robbery/Auto Burglary Suspects, Four Suspects Arrested  sfist.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-07T00:36:00.615220+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "bf43bddb07f0"
+    },
+    {
       "title": "Directorate General of Counter Terrorism Says Iran‑Launched Drone Strike Kills Two Civilians in Erbil - Kurdistan24",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQnFMS3FlNDV1ekd0eGlKNUc4LXhTYlF2MzRFVUJUN09UdTQtOTJDOXE1VF9ZRHV1ZlJVbkV2TTNFRkZYd3piMzJJR0E4SXYxOUtqVzVWZERtdHJ1a0I4dEtpZzM4ckRVZk9hbDJEV0ZWUUlFRG1LclQtanhpTVlNOWE3VGIxeFpPdTlBSzBqM3dBVjlvWFZWa1Nkb2xDLUdqaEVlLWN3bTg5V29jU3BHbldVVDAwN3FtdE9VcTB0V2VFa09aSVhKVWVXOXRaZUhLUVpOS2R3OHhlRS00?oc=5",
       "source": "Kurdistan24",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e743cb38c477"
-    },
-    {
-      "title": "Unauthorized drones detected over U.S. Air Force base housing nuclear-capable B-52 bombers: military - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnA4aXpMWkZMTFJwTzJPLWdVdGEyOU0zdk0wUFhmSVp0U2FrUkFvU1c4M3hQNG5YT1dZU2U5ODhKbkpDLS1ZR1E4anN3YlRZWnc5eVVFTmhPY09IZmZialV1MnRrR3pkRl9Nd0RrX2NxLUNBT3pzekJiY3BLNG5NN3k3eUFxRFVfQWF0T3h0N3RIWDZSanFLcmRfeWhvbW94ak5uU2R5SjNwaEQ0UFpRZmtHVmlKeDAwM19XSXhITUNsTW_SAcgBQVVfeXFMTXY1eXdkdjhSeU9HcHE1bXdoZl9Nb1U2UlctRXN2YnBjTkdWWkp4RDR1NFhJSmlYdzU0TzUzRzA2ZDhLYk1WX2xKZ3U1el84QTU2eGJFR0RhOUU3ODhLRE8yTW1JaE1DUzhOZkluNG1qVmpYNmhxZTBKdFZ0S3daSzhCbXZmNi04WGpydXJOTmN6Sk5hMDNRNUdJdFdZZzRzYV9FbnplRWFOOFUzYWY4WVltaml1VGZyYU1FRkd5b00xNE1uSENsVEU?oc=5",
-      "source": "Fox News",
-      "date": "2026-03-20T22:18:46+00:00",
-      "description": "Unauthorized drones detected over U.S. Air Force base housing nuclear-capable B-52 bombers: military  Fox News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-20T23:09:18.866557+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "89e6fcf82b14"
-    },
-    {
-      "title": "Fire at Czech Drone Maker Investigated as Possible Terror Attack - Fine Day 102.3",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWFzMjA5eU1vakZZbFhUaG5RMTJKUGpNOVl4QUo5VERDc1hULUc0aG9jdTRHcHpqcWgtc3BJTElFQ1d6TnQ1aG5xWkh0Wk02bjIxb0MyczhVeDBpeUUtSktpOUpxME5rTy14UTNlbXB6ZWphRjlDcUlOaUliMWVrNXp1ajVwbld1NjNDUzFHWDQ2aElLREw3Q0VJRjZEb3RpcFVsUGJZU2JFc05xejk3MDdlelhUektFdW9pTTNpYw?oc=5",
-      "source": "Fine Day 102.3",
-      "date": "2026-03-20T16:56:56+00:00",
-      "description": "Fire at Czech Drone Maker Investigated as Possible Terror Attack  Fine Day 102.3",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-20T23:09:18.346489+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "e76c4c7c8309"
-    },
-    {
-      "title": "UAE brands Iranian missile and drone barrage ‘terrorist attacks’, tightens entry controls - VisaHQ",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTZMc0JiMUY0VVpDMU5fMTYtOExNQkxtRndZd1pLYy1mcUt2VzBpbGttaEdJYVNlaFJIWU1EQ1VzZno4MG91bnpHUmtNWnprSzI3X0pReWdTZ0IxeGo0aEo5aWdvMU1fWU54SU5ydVZTdU1qMUV0ZFV6RmhzLWlySEUxaEVnWFVuemlWRk1kWlI5Q2doVUFHMmxXbDZTX0psOGd4Q3hjWGY1YlJhcmRTT3ZyQjlaVGdCb1h5U1pOWlVFRVZjTGdTRg?oc=5",
-      "source": "VisaHQ",
-      "date": "2026-03-20T22:55:46+00:00",
-      "description": "UAE brands Iranian missile and drone barrage ‘terrorist attacks’, tightens entry controls  VisaHQ",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-20T23:09:18.346489+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "582c76a6f45b"
     }
   ],
-  "last_updated": "2026-04-06T23:14:28.807346+00:00",
+  "last_updated": "2026-04-07T00:36:05.577110+00:00",
   "total_count": 1000
 }
