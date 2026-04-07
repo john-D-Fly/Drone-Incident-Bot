@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone incidents have raised security concerns across various locations. South Korea's President Lee expressed regret over unauthorized drone flights into North Korea, leading to responses from North Korean officials describing the regret as 'wise behavior'. In Iraq, drone strikes linked to Iran resulted in civilian casualties in Kurdistan. Drone crashes were reported in California, causing suspensions of testing for several prototypes. Additionally, unauthorized drones have been spotted near military bases in various regions, igniting debates on counter-drone policies and security measures in sports and civilian areas. The incidents hint at a growing challenge in managing drone use amid tensions and evolving public safety policies.",
+  "totals": {
+    "crash": 12,
+    "terrorism": 3,
+    "security": 4,
+    "interference": 1,
+    "other": 16,
+    "smuggling": 6,
+    "arrest": 5,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 1,
+      "arrest": 6,
+      "crash": 32,
+      "interference": 1,
+      "other": 54,
+      "security": 7,
+      "smuggling": 15,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone crash": 23,
+      "drone illegal": 2,
+      "drone incident": 33,
+      "drone prison": 8,
+      "drone smuggling": 8,
+      "drone terrorism": 11,
+      "unauthorized drone": 23
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized drone usage and military tensions",
+      "rationale": "Multiple incidents involve unauthorized drones near military locations and international tensions.",
+      "incident_ids": [
+        "c3c640f59dc3",
+        "a525bad2e674",
+        "61b99988f402",
+        "772556018755",
+        "x"
+      ]
+    },
+    {
+      "topic": "Drone crashes and testing failures",
+      "rationale": "Several recent drone prototypes crashed during testing, highlighting issues in drone technology reliability.",
+      "incident_ids": [
+        "c3c640f59dc3",
+        "a2b1ab75df9d",
+        "d42a7a9cf09c"
+      ]
+    },
+    {
+      "topic": "Drone terrorism and civil unrest",
+      "rationale": "Drones are being used in terrorist incidents, posing risks to civilian populations and heightening security concerns.",
+      "incident_ids": [
+        "d42a7a9cf09c",
+        "e139573c9a67",
+        "b3f53f26c5bc"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a525bad2e674",
+      "headline": "US Air Force YFQ-42A Drone Prototype Crashes Minutes After Takeoff",
+      "one_sentence": "The US Air Force's YFQ-42A drone prototype experienced a critical failure shortly after launch.",
+      "risk_tags": [
+        "drone crash",
+        "technology"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "be062e611bdb",
+      "headline": "President Barzani Calls Deadly Drone Attack in Erbil 'Blatant Crime'",
+      "one_sentence": "President Barzani condemned the drone attack which resulted in civilian fatalities in Erbil.",
+      "risk_tags": [
+        "drone terrorism",
+        "civilian impact"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c3c640f59dc3",
+      "headline": "General Atomics’ Dark Merlin Drone Crashes During CCA Flight Test",
+      "one_sentence": "The Dark Merlin's crash during a flight test raises concerns over unmanned vehicle reliability.",
+      "risk_tags": [
+        "drone crash",
+        "technology"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9c8bc54ecd2e",
+      "headline": "General Atomics Confirms YFQ-42A Fighter Drone Crash",
+      "one_sentence": "Recent crashes of the YFQ-42A fighter drone during tests have led to a halt in flight operations.",
+      "risk_tags": [
+        "drone crash",
+        "technology"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c5d99a017c90",
+      "headline": "British Flight Attendant Faces UAE Jail for Drone Strike Video",
+      "one_sentence": "A British flight attendant could face imprisonment in the UAE for sharing a video of a drone strike.",
+      "risk_tags": [
+        "drone arrest",
+        "policy violation"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents are on the rise, highlighting the need for robust security measures and regulations.",
+    "linkedIn": "Recent drone-related incidents underscore significant security challenges and the urgent need to enhance counter-drone policies."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-07"
+}
