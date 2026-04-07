@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized Drones Keep Flying Near Our Military Bases - NewsRadio 740 KTRH",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1p1VTlUOUM5SnRjMzJ6YjdZSXhmR0cxS0phZWVIdGg2Rkhyd0lWRkF2VEJkRTlhaHJNbFhuSXNTVlFydEExX2dTQnFsQl9lNThURVY5MEJLNXhGQWdCOER2dWVlbE5KZE5SazlrdlVTUHpiRHNHdmcwSDU2RlZOaERlRE9yUWlzMWFfd2ZpOWMxTmlLY1B5VHA1VndYX3dPTnlJWWplMGVHaGpKMWdtZzQ4MW5jVGxjTVpjWDlrZUUtY0hJWXfSAagBQVVfeXFMTVFzMF9KQjQzVkVITFZCQ3RydDFwY0U4MkhTenNmUGMwRUhfOEJNel9FZzltSm9FRXVtMWpyWk42c2JvQXQtbU44WjlySVZXQm80VTBxNlJsQWFwWjVkbFBveG93VUx2RDVGdWIwLUNVQUJRX3JmOGNBMUdmUzZKcm9LWDNMd1FFREk5Y0E5QmlFNDRtSHFtMkpsYTBlcDNTbUM1QnA4bzRK?oc=5",
+      "source": "NewsRadio 740 KTRH",
+      "date": "2026-04-07T08:30:07+00:00",
+      "description": "Unauthorized Drones Keep Flying Near Our Military Bases  NewsRadio 740 KTRH",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-07T12:24:04.367758+00:00",
+      "location": "Near Our Military Bases",
+      "category": "security",
+      "id": "a525bad2e674"
+    },
+    {
+      "title": "Iranian Army Reports Drone Strikes on Al-Kharj Base and Camp Al-Udeiri - WANA News Agency",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktYbnEzWVVQSFkxZ2dnLUxLME01b0t0c19Vd1NkbV9qUTJIbGVrdGVUWHlwczdIMjIxcUhScVFJVWhxaWMtenBFZnljZHdTWTJOZUZ5dnMxTUl5LTdxR1hfZHpxUExiVkI5S01jcDFGVUtUREpqVUZ4bXlNS1NjU1BrT1lINGJVWWpkdG1IaVZaQWtq?oc=5",
+      "source": "WANA News Agency",
+      "date": "2026-04-06T15:03:54+00:00",
+      "description": "Iranian Army Reports Drone Strikes on Al-Kharj Base and Camp Al-Udeiri  WANA News Agency",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-07T12:24:03.810167+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "821a2a3a1325"
+    },
+    {
+      "title": "US Air Force YFQ-42A Drone Prototype Crashes Minutes After Takeoff - Aviation A2Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGtSVGtlSWJEaVpQUzdkMG9MWHhvQUNJS05DQ1VqV0x1NGsyV0FuSUVUczUxZ2djTnloQXYxSHBHN0JmY3ZwaTc1MU9GMkJwUWdSZW4tUXo0cWRGQzh2Q1VuT19yUTRHQWJ4dGltd1UwNlJ5TXR4REczVWtmR1VNSXF5ZUFvUkhGcm9PZVFaT2tORlBW?oc=5",
+      "source": "Aviation A2Z",
+      "date": "2026-04-07T12:12:41+00:00",
+      "description": "US Air Force YFQ-42A Drone Prototype Crashes Minutes After Takeoff  Aviation A2Z",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T12:24:01.904408+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a267706c0b84"
+    },
+    {
+      "title": "BREAKING : US AI war drone crashes seconds after takeoff attemp - News.az",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzFud0I0eEtrZFBhUXRKZTg5bE9ZR2piQW9NQzczaXhuNHNBak5jczZSNlFEbTl1QkRCSmhNTmx5S1pqVWZpREk1bE1SeWx2SFBqTmlHc29ubGM3SGtOTHdmSGI1NnhJVnZJMjMtbnJyam1yRWNlWjlxN2VkOURPUjZWTDBveXpYQnc?oc=5",
+      "source": "News.az",
+      "date": "2026-04-07T12:17:10+00:00",
+      "description": "BREAKING : US AI war drone crashes seconds after takeoff attemp  News.az",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T12:24:01.904408+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "764e1d734456"
+    },
+    {
+      "title": "Drone Disruption at English Football Match Highlights Demand for Stadium Counter-Drone Security - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS2Fia2U4VnBiYTQ5RUo1aEczLVViY2ZvSGRXZ2o5ZGRxd3dSVlFQaENxazNpWDIwTUxoX0VhSHFuYmh3WDNTeURMakFyUUxhd2FFTFpsSmpTdGlKMFpuQW8zQkUtaVFCaWVucE96T3FuVFgxYXlJdDRJbnRhcEVYZ1FUUjNub2MwRnFjRnJ0d2dVblExNm83cnJHeDlxVzFwZGl6NU1MV0QzWHpkcUdlMUNDQnFGeUlrNXZOcHJSaWRTbkZhQmthbG5rNElOaHEyWTdCam4waHFiODQ?oc=5",
+      "source": "TipRanks",
+      "date": "2026-04-07T12:06:40+00:00",
+      "description": "Drone Disruption at English Football Match Highlights Demand for Stadium Counter-Drone Security  TipRanks",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T12:23:58.869829+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "445adf581b95"
+    },
+    {
       "title": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress' - The Korea Times",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0h3ekZTc2tobV9RUWIteXRzdk1Pd3JmaEJDQWtpNDZic2lYNFlrSlNydjR0YS1reG5PQ0VTSnhMNWMwU3dRR0dNTUczbkhVUTFzdkRZYURudnBmVWF2d1hMYms5YmhsY0NaWXNMREo5TWozZDhvTGdZWmtVcm5WMTdiUm0zZnpBY0RVbTFLVWJHRFE0SXVRT0VCQnNCdXVpaml1RmlvbllLS3FSdndTNjFyUEVVRXdxUW1CWHhPSjNDZTRsdE9EdUppWTQ5bUNsR3BUMHBqUEJKWmd2eVBqQkltUWRmbXRQRHRIUtIB7AFBVV95cUxNd0h3ekZTc2tobV9RUWIteXRzdk1Pd3JmaEJDQWtpNDZic2lYNFlrSlNydjR0YS1reG5PQ0VTSnhMNWMwU3dRR0dNTUczbkhVUTFzdkRZYURudnBmVWF2d1hMYms5YmhsY0NaWXNMREo5TWozZDhvTGdZWmtVcm5WMTdiUm0zZnpBY0RVbTFLVWJHRFE0SXVRT0VCQnNCdXVpaml1RmlvbllLS3FSdndTNjFyUEVVRXdxUW1CWHhPSjNDZTRsdE9EdUppWTQ5bUNsR3BUMHBqUEJKWmd2eVBqQkltUWRmbXRQRHRIUg?oc=5",
       "source": "The Korea Times",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "5b4c5632e443"
-    },
-    {
-      "title": "Mysterious drones swarmed US Air Force base home to nuclear bombers - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeG1kM3RrX2JQTnJwbE5Hd1U1MTVMaVh5dFN6UkJWazVwT0hsMUFiSWt4UFpRcjBIVDlHUEpUdjVCamJRZlpxMzFHN0FmTWJKbGxaT3NtR09Ldmtnc1R5LXNSSVh5dWFLNG5NUXZkb1BQNVhob1RDdnhBeE52cDF4SDJ3dWQxakFwaFFrMndrOTNCNkVybWdGZUlCWXQtem1oU1FYYS1raHdudw?oc=5",
-      "source": "New York Post",
-      "date": "2026-03-21T20:26:00+00:00",
-      "description": "Mysterious drones swarmed US Air Force base home to nuclear bombers  New York Post",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-21T23:08:04.792403+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "91e7038cb476"
-    },
-    {
-      "title": "Groups of Unknown Drones Spotted Over US Base Housing B-52 Bombers - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmpJTjk2MlIwZXJMUTdfMTZISlZhX1VVelBmU2pWQ2FiRWRvdkhKYXZHVzRUWjZUbUp6MExjYWl0TjVCYWw2Umh2VTZDemhnTWZDdEFXYU1BdDd3eXVqM1hvc2dydWdYYTBGaFFfRFFiaEozeFkySWdmUTBlQU5FQQ?oc=5",
-      "source": "Мілітарний",
-      "date": "2026-03-21T14:36:34+00:00",
-      "description": "Groups of Unknown Drones Spotted Over US Base Housing B-52 Bombers  Мілітарний",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-21T22:06:09.644433+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9b5f34b9c645"
-    },
-    {
-      "title": "Exclusive | NYPD’s new million-dollar, state-of-the-art SUV launches drones, can take down terror devices - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd09DQTQ5TU5fOWJOTF9CeExjUzYzMTd5bVRjYkJSa1FFRmFuMUNKdmJ1MWRWWl9OUnlHQmo1ZlZrWjJjTzdBcW1RRWhDSjJGb0dXNU1XY3hITjQ2b3NRdDZsQUdhNlV1SVY0X29pWjg2dXFubjQxMnhlN3RZWDZPdjlJa2tsNGNlM1IzTUxIcXNZby1uNGNXQ0d0T3RmV0wxM1pFR3YyaVFXcnZUUDFhSENEMGs3dw?oc=5",
-      "source": "New York Post",
-      "date": "2026-03-21T20:38:00+00:00",
-      "description": "Exclusive | NYPD’s new million-dollar, state-of-the-art SUV launches drones, can take down terror devices  New York Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-21T22:06:09.131860+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "c26ee58195be"
-    },
-    {
-      "title": "Middle East tensions: Fire near Dubai airport after drone incident, temporary suspension of flights - What we know so far? - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNajcxV0dMYzJ2T2pJSEVMV1FpX2ZzTmFVUEFRcTk4UGdHMFV0V0hHQjFiZHFieTUtRWVzTU5kSzNlN1FONExlZXdaWGw1TFVMTWluS0U5b0wzbkloc05sbTRMZTItX0w3NTNiem5rVkpPUlFfQ2d3YmhDT2pMUERzZkZ6eFlaV3JzQ092MnVFRDN1RG40QmoxdWI1NlB2dmZyd1EyeEQwc3ZVNmVWNkxJRHJPZDFQVldFMUxiUEdrNVhiOGlRdS1yYUw5YjNHNGtTRGI4Q0RhNUduWW5YT0lNdTgyZVFHalBoS1RYY2pUczJqbWFvLXFpbEpB?oc=5",
-      "source": "MSN",
-      "date": "2026-03-21T16:21:28+00:00",
-      "description": "Middle East tensions: Fire near Dubai airport after drone incident, temporary suspension of flights - What we know so far?  MSN",
-      "query": "drone incident",
-      "detected_at": "2026-03-21T21:07:52.744935+00:00",
-      "location": "near Dubai airport after drone incident",
-      "category": "airport",
-      "id": "272ee05d506b"
-    },
-    {
-      "title": "Bahrain says Patriot system intercepted drone over homes - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGg1TXc0RHJHdXVTNTd5SHBCQ3daUEhHQ21FNDdkYnBYWExaOFVPWWNwRVFVcVZ2MkNwWnBPYkpXek5yM1BTWEJKZU5uNzhqQmc2MER2UVRXOWtldzNubVhpZnVfNWpJVWJwMjJBVFJzd1NXRk9hVzFLU0paaWp6RWNWaU9vZG1QdWRJQVFyRjB1X0xXNE1yWVYtUkk0QdIBowFBVV95cUxOWVc1WEpPUGR5a2Qyb3FIemtfcVFsa1dwM0o2MmcxYy16Y3dFM0QxQ3c0OW40cHBEQWNqdGdHTlR3emJSY2ZZb0QyQXdxcmdVWGxYSGRzR0JUTDB1dmZnWWZPNzNhMmRDTFRiNGVJYzdFYzdkckt4d2k1NHVtbFN5aW15MUtwNjc1S2dLZGpOUDJmelhjR05ZREFuWGpMRmJiQzJj?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-03-21T16:12:53+00:00",
-      "description": "Bahrain says Patriot system intercepted drone over homes  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2026-03-21T21:07:52.744935+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b81a2d265906"
     }
   ],
-  "last_updated": "2026-04-07T11:22:36.120664+00:00",
+  "last_updated": "2026-04-07T12:24:04.996884+00:00",
   "total_count": 1000
 }
