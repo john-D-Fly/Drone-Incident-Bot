@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "BREAKING : US AI war drone crashes seconds after takeoff attemp - news.az",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzFud0I0eEtrZFBhUXRKZTg5bE9ZR2piQW9NQzczaXhuNHNBak5jczZSNlFEbTl1QkRCSmhNTmx5S1pqVWZpREk1bE1SeWx2SFBqTmlHc29ubGM3SGtOTHdmSGI1NnhJVnZJMjMtbnJyam1yRWNlWjlxN2VkOURPUjZWTDBveXpYQnc?oc=5",
+      "source": "news.az",
+      "date": "2026-04-07T12:17:10+00:00",
+      "description": "BREAKING : US AI war drone crashes seconds after takeoff attemp  news.az",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T17:24:06.643997+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "86c42583258e"
+    },
+    {
+      "title": "Idaho AG joins multistate push to curb prison drone contraband drops - Dailyfly News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbV8tWWtITXdjeTFCNTZaR1pRN2lvZDJqYS1fdEN4NGI4Mm8zVG9OLUFTMjNxb2x1alE3WU94Q2dnRzRodE5Ud2RlWVNBdVZpbFFOQkFGc0RvTkdrSVh0LWc2X3BSRl9LV2FRd3ptT3JPOGRQMHlGZFZJdllIQkxpRjhyT0xranRINWhVcDFMdUdnR1ZsbmJsUWVrNmFaT2dSM1dXUkNMUVY?oc=5",
+      "source": "Dailyfly News",
+      "date": "2026-04-07T17:07:11+00:00",
+      "description": "Idaho AG joins multistate push to curb prison drone contraband drops  Dailyfly News",
+      "query": "drone prison",
+      "detected_at": "2026-04-07T17:24:05.468090+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "dc0a8a2e93ad"
+    },
+    {
       "title": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies. - OODAloop",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVhrcE1BS1VBNDR4aEV6SERhVGpnY1N5elRvTEFoaEtzTlRNWHZpejVTM0p2eE8zWURaV2dFTzhRSUpENnBpRF9NT2hGdWZQVDIwcUp5d2pMZHpZX3dzR3BNMjM5aDRWTUFYX1E5VVBQX1h5MlA2dmRDak1SbkhXTTAyRmhmaFhkUXNQSnpjZU9mRDRBY3dMWndpSHJaTVRSOU1reXhtUnFuYXN4Q2Jv?oc=5",
       "source": "OODAloop",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "fad798caabdb"
-    },
-    {
-      "title": "4 Israelis indicted on smuggling charges after interception of drone carrying M-16s - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1RJR2tDM2F0V3VrMU9vMDZfcWNjZXdORG8yTERTajVNd2pTdXpRRXNrcXM3OTlPR2F4SEsyelBadmR6NDBCN2l2eng3WnZxWG85ZE43R3k5T2NKdlB3RzBraW1qbmx0Rjh6c3FxU3dLSFJxcHIwVWFOYUIzdDRwbExsNWZYUW9ObzIzV3lkVDRVUkJaWUVSYVpHOGVFcklPVVFuWWhKUm56c1JRSlE5dzJPVFZXZU85R01nSTdqd3cwb2NYVHp3ag?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-03-22T14:08:41+00:00",
-      "description": "4 Israelis indicted on smuggling charges after interception of drone carrying M-16s  The Times of Israel",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-22T14:10:10.012818+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e2d2bfebb674"
-    },
-    {
-      "title": "Hezbollah drone hits open area in Western Galilee; no damage or injuries reported - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3FyLS12NjZwX0E2Uy1mMEI1OWFXbFlWT3RsczV5QmVDN0lTaU5GS08tRmhyWW9YbldqalZsMTZWalhxSUJTU281dkdXX29qekFBTFlwWTBmVlU1WDZjY2V1SmhXSEZ1RXgtbldBbkRZYmp4VXVLWUdhUXYyRTVXWF9MOUc5bkFYaDh5azFMQU5YQ1dwVG1wNGdWcV91R1Z3RGRxbTZIRlZ1NTRXNWtyX1JXaE9HMk1nRUYwbzdoVUFKaHZH?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-03-22T06:53:41+00:00",
-      "description": "Hezbollah drone hits open area in Western Galilee; no damage or injuries reported  The Times of Israel",
-      "query": "drone crash",
-      "detected_at": "2026-03-22T13:20:07.765051+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f64286f2074a"
     }
   ],
-  "last_updated": "2026-04-07T16:25:40.640973+00:00",
+  "last_updated": "2026-04-07T17:24:09.474544+00:00",
   "total_count": 1000
 }
