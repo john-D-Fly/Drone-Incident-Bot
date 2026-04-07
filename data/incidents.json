@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress' - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0h3ekZTc2tobV9RUWIteXRzdk1Pd3JmaEJDQWtpNDZic2lYNFlrSlNydjR0YS1reG5PQ0VTSnhMNWMwU3dRR0dNTUczbkhVUTFzdkRZYURudnBmVWF2d1hMYms5YmhsY0NaWXNMREo5TWozZDhvTGdZWmtVcm5WMTdiUm0zZnpBY0RVbTFLVWJHRFE0SXVRT0VCQnNCdXVpaml1RmlvbllLS3FSdndTNjFyUEVVRXdxUW1CWHhPSjNDZTRsdE9EdUppWTQ5bUNsR3BUMHBqUEJKWmd2eVBqQkltUWRmbXRQRHRIUtIB7AFBVV95cUxNd0h3ekZTc2tobV9RUWIteXRzdk1Pd3JmaEJDQWtpNDZic2lYNFlrSlNydjR0YS1reG5PQ0VTSnhMNWMwU3dRR0dNTUczbkhVUTFzdkRZYURudnBmVWF2d1hMYms5YmhsY0NaWXNMREo5TWozZDhvTGdZWmtVcm5WMTdiUm0zZnpBY0RVbTFLVWJHRFE0SXVRT0VCQnNCdXVpaml1RmlvbllLS3FSdndTNjFyUEVVRXdxUW1CWHhPSjNDZTRsdE9EdUppWTQ5bUNsR3BUMHBqUEJKWmd2eVBqQkltUWRmbXRQRHRIUg?oc=5",
+      "source": "The Korea Times",
+      "date": "2026-04-07T03:09:00+00:00",
+      "description": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress'  The Korea Times",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-07T11:22:35.593771+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "39b9e6e00499"
+    },
+    {
+      "title": "General Atomics CCA Drone Crashes After Takeoff, Company Pauses Flight Tests - autoevolution",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1sS3R6Uy13NGhaYThubjdJSnZxcWpBNVFqSXpBV2w1RGVrNWhCQllnejRoZlJKS2VLLWN6T2haLWhkdHNZV3NIVjczSThFdF8wRkhNMGJxNzdodkdMNDU4R2RCLXR5UUMwTkcxQ3BEcDJMY2ViWmpDRFBmZ2o4UjROMXo1NnVldnNtUjJTZ1JsekoycXYwM0hhVjU1WnVtNUNJcnhOX3Q5N0lCRTQtd283UEdmTkdJX2RoUXVoSQ?oc=5",
+      "source": "autoevolution",
+      "date": "2026-04-07T10:48:07+00:00",
+      "description": "General Atomics CCA Drone Crashes After Takeoff, Company Pauses Flight Tests  autoevolution",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T11:22:33.492030+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a2b1ab75df9d"
+    },
+    {
+      "title": "General Atomics’ drone wingman prototype for US crashes during tests in California - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVRQNUVsbDNjUW5lZXRRQWxmX3VQTHJyNjlQbGh5ZHZ2MTBiVG9TVUp3UklJM1MwTTlmdmRUOWdHRjNtYi12c0otMjQ2TmdmMlRaSWhIMEd2cDYxbGlaLS1XNWh1UnlfcGhJRFlfemxPQ3ExV3gzQ2JUVTRBYnBpVFNSdnNlZzd6SkE3VW1JaXRCRmVxQnJF?oc=5",
+      "source": "Interesting Engineering",
+      "date": "2026-04-07T10:41:00+00:00",
+      "description": "General Atomics’ drone wingman prototype for US crashes during tests in California  Interesting Engineering",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T11:22:33.492030+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9c8bc54ecd2e"
+    },
+    {
+      "title": "YFQ-42A drone crashes in California test, flights paused - Air Data News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmJJaERwOEh5Uzc0ZzlwMkxfa1Q1NDZYa1R5Ul9SNGItYjllSFVJbm9hUDNPZExYaUJwRGltYU5ScEtCWVRUSHVrVzdLbER6QU1pZUl2Q0tuLTR5M3N3QjZ0OFhZVDBQdnBaNndpT3c4ejdoTjZJV1hSYVczdEwzNDRiV19tY01Ec2czcVRn?oc=5",
+      "source": "Air Data News",
+      "date": "2026-04-07T07:59:53+00:00",
+      "description": "YFQ-42A drone crashes in California test, flights paused  Air Data News",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T11:22:33.492030+00:00",
+      "location": "in California test, fl",
+      "category": "crash",
+      "id": "d42a7a9cf09c"
+    },
+    {
+      "title": "GA-ASI confirms YFQ-42A ‘fighter drone’ crash during test - defence-blog.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlU0MTBwUVljNnNaaVRmMkZ6QldYTjJOeWM2OWV3N2xDMlpnZFRab21Qa19rSzBhMk5YNGU3N0x4SkU1VUl3a2tLM1Zyd1JnVl93TllOVTNGY1NMcjRPRkJ5Mnp1NDBfeFJUY0lzaUtfejY4NzV1NTVjaDRxaHdoVVM2Yl9CMmVh0gGOAUFVX3lxTE5fNndtZHB5N20xdW9JbkJLUk5Edl9GbDdlY3A4WnBRNnN1TkZPVUVMZ1hUNTJ0dmlFSTY5RVczZ3o3SUhFLVBSbjBKcEx4WVhxOFplQVJpQmphY18tSEp3RnV4Nk9XaHA3TjR5V1dIQS1ncUZGeS0zZmpmQ2xELVFqQWJGMkJGOXNRaTlhT1E?oc=5",
+      "source": "defence-blog.com",
+      "date": "2026-04-07T06:56:21+00:00",
+      "description": "GA-ASI confirms YFQ-42A ‘fighter drone’ crash during test  defence-blog.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T11:22:30.880426+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3a9773e5ff26"
+    },
+    {
+      "title": "President Barzani Calls Deadly Drone Attack in Erbil 'Blatant Crime and Grave Injustice' - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGlzakhGSHlwTnA0NTN5Sld6TmdMalFwdFQ1Sk9jNlFZTHJ5WWNWZkpEWXEyNzJ6UGZnSFM5b2M1anE2NkRRc004ZEJJd3dkdE4tS0VVVHhkMVk3S3BncFlEM0k2NWEzUTFjWGNXYlBxZnVBRHVwQjZYeF9zQ3FRQi1mLWlOZFVDel9DM3VIa3NHRThZREVyTzZMNWFiN3BQYVlqcXVWZjNLdk1WLWZhd2V6bnB1d3J5a1JmMGw0TjhtV1Q2aGxrNlJR?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-04-07T10:20:00+00:00",
+      "description": "President Barzani Calls Deadly Drone Attack in Erbil 'Blatant Crime and Grave Injustice'  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T11:22:30.880426+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "be062e611bdb"
+    },
+    {
       "title": "South Korea apologizes to North over unauthorized drone flights - MSN",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNekk5ak9sWkpPellqR2xOX0pEWlhmRG1tbHFITUtIaG80RFhHdHN6UHlRQmpTc3N2VUxjbzhYdmx4bkZHeTNFMUV5RFA3VFROUWdRNm5XMlpYLS04NHlyenViR3Exd1BaSHdOSjNxMlM4cFJoZjRzMkpxdUJMdVZ4dDZKUlJ1NXV2a2Yxcnd4d2RIQThQb1ktR3lsZXhrZ2l0ZHB0MHotQm5oaTRuQUxLQlFvVlJSWUJVRGxxZkVpOFpxb3B1dFlYR2VCbWNxSVI5OGRpQWFReFRpWVNFQjRTUElIVThDdUhp?oc=5",
       "source": "MSN",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b81a2d265906"
-    },
-    {
-      "title": "Exclusive | NYPD’s new million-dollar, state-of-the-art SUV launches drones, can take down terror devices - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd09DQTQ5TU5fOWJOTF9CeExjUzYzMTd5bVRjYkJSa1FFRmFuMUNKdmJ1MWRWWl9OUnlHQmo1ZlZrWjJjTzdBcW1RRWhDSjJGb0dXNU1XY3hITjQ2b3NRdDZsQUdhNlV1SVY0X29pWjg2dXFubjQxMnhlN3RZWDZPdjlJa2tsNGNlM1IzTUxIcXNZby1uNGNXQ0d0T3RmV0wxM1pFR3YyaVFXcnZUUDFhSENEMGs3dw?oc=5",
-      "source": "New York Post",
-      "date": "2026-03-21T20:00:02+00:00",
-      "description": "Exclusive | NYPD’s new million-dollar, state-of-the-art SUV launches drones, can take down terror devices  New York Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-21T20:06:41.985702+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "5bad22afe98c"
-    },
-    {
-      "title": "Drug deliveries by drone: Shocking French prison case exposes growing security gap across Europe - Euro Weekly News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1dsa3ZtUUZrZmZZMjJtcEJtWXU3Unh1QzcxR3lydmhxWWV1UkphRkp4NFk4RXk5cENvVXdGTVhSaWt1bnYyOEJwWmV2WU93QzdrOE5YS2c3RUh0VHpFT0p4R2FNSm4xdDRvQkF3STk0bE9LSnpoT3hKcWFtZmktMmY0cjE0aW5oT1V4WElQR2I3eDZaY3pUZE1YVGNoUTBYZDAyanVsbzJ6WG0tY2JHZFNmemh2YnRISk0ycVdjWVVfMUhaLXVkZ2JIX283MFk?oc=5",
-      "source": "Euro Weekly News",
-      "date": "2026-03-21T13:35:10+00:00",
-      "description": "Drug deliveries by drone: Shocking French prison case exposes growing security gap across Europe  Euro Weekly News",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-21T20:06:38.794451+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5646190d5180"
-    },
-    {
-      "title": "Report: Dubai 'arrests foreign survivors of Iranian drone strike' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ21vNzAzQzRUSENWYW1JanQ1VHljSElSRjBncm03aFZKd3plNFRvN2tHWWYzbUFmdzc0U1l3bFVFeHZmZGMyT0NtdjlMdE1oaU5ybGJiUktWc1R6M2thWEpZamRzWnBCTHpXck9JMDBaVnZkaWxDNEdBc1pPNlIzdGxrMERPZUY3XzczX2xnV1JIYlI5WDFrUnZjVUFtMXdHV096X2dqTEFuMEs1aG83SDdkSmpWZGF3S3J1WXJvNG1NOXZfNjZFdkdVdjBtOTZUTEFMdXFGNA?oc=5",
-      "source": "MSN",
-      "date": "2026-03-21T08:46:01+00:00",
-      "description": "Report: Dubai 'arrests foreign survivors of Iranian drone strike'  MSN",
-      "query": "drone arrest",
-      "detected_at": "2026-03-21T20:06:38.198357+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "93295db67930"
-    },
-    {
-      "title": "South Bend police use new drone to track suspect after motorbike chase - WNDU",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVlQb3hfc0VQMjFIUUliVUJ3RC1CMk16OFhhcmlFU1B1NDZjQlMzT0lmNjI5ZGFxZnJnOW5VU1VZUDJRZXBMNnlvYjNDRVFQLWxBRTJabnJ4SzlsMkVaejJ5TWd6QzBMaVpUSVEzaXphNVRNS2FMaDFQcUhUaVp4cFl2RnNmZkhlQTBlTDZsZ1VpVlY0UVZfTkF4c0lwTzJqcjFDejBWUm4xZw?oc=5",
-      "source": "WNDU",
-      "date": "2026-03-20T22:10:00+00:00",
-      "description": "South Bend police use new drone to track suspect after motorbike chase  WNDU",
-      "query": "drone arrest",
-      "detected_at": "2026-03-21T20:06:38.198357+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c271b2ef1da2"
-    },
-    {
-      "title": "Video New details on drone that shut down Louisiana Air Force base - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91QW04ZVZfQ2JkaHBncmFPUEFOZ2pLTFgxSUt1Tk1GV3RCRlF0TVhIWU0yWldiMnVXWE5KYUExVEJPdmRUMndqdEtkV04?oc=5",
-      "source": "abcnews.com",
-      "date": "2026-03-21T18:46:40+00:00",
-      "description": "Video New details on drone that shut down Louisiana Air Force base  abcnews.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-21T19:09:08.040892+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ec1bbc3d9832"
-    },
-    {
-      "title": "Unauthorized drones detected near US base housing B-52 bombers in Louisiana: Report - PressTV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1JzRklpMDhJWlNMY2tsdWFvZ0dzcC0taHBBWUNPWkxybktydEx3WXVYTnlYQXZQTVRtRWtvcGJlSEYwT1lwMExFcGJOVFUySEI1VHl0Qk5XNmdIeHVOWUlYaldkQmFCSDVpZzFPMHVzLXBHaDhCMUtkeWdkdFA5Y19HZ0VSc2gxOWJFU1I3LVg4dXVwY096THVoTTRZLWR5eDhsZ0hKWENYWjhLRmQweUJGVmx6bTZkOXl2eGRiMEpyOGRGeUp4bA?oc=5",
-      "source": "PressTV",
-      "date": "2026-03-21T17:07:00+00:00",
-      "description": "Unauthorized drones detected near US base housing B-52 bombers in Louisiana: Report  PressTV",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-21T18:09:47.539131+00:00",
-      "location": "near US base housing B",
-      "category": "security",
-      "id": "fd0d218c4885"
     }
   ],
-  "last_updated": "2026-04-07T10:24:52.413407+00:00",
+  "last_updated": "2026-04-07T11:22:36.120664+00:00",
   "total_count": 1000
 }
