@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Russia Reports Drone Attack on Caspian Pipeline Consortium Facility - Caspian News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXRmVVc0UmZyaFJLbzVWdXFjMEhlODZPLW5QWnBRNFZnZTVNMmNGaFlTUzNpQVlJQ3VrTkFQQmZZU2FOaXFEbmI4cmotMEctTjhHamduRThYdUZQRHJQSUNpTVNGeHRjbnRqVXdscV9fX0lqallIeGVlbFlENnIxa2RHSlk2VDE1WlRVcE9aclFYeXc5eUxMUDRTUXFpRGlZcnlBVkUzUXpOSEdCNlhYVEFnNVBER28?oc=5",
+      "source": "Caspian News",
+      "date": "2026-04-07T19:05:14+00:00",
+      "description": "Russia Reports Drone Attack on Caspian Pipeline Consortium Facility  Caspian News",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-07T19:27:31.964102+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5959049a9126"
+    },
+    {
+      "title": "General Atomics CCA drone wingman prototype crashes in California - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFE4OXl1RDNDckR5NFhrWjRWUjJ5a3JiYzQ3YlNiYm9nVUFZd2ZONnVoc0F5Tmx2SS1TQVVuRW9rNFV3cVduUUgyQmdhRDBQNkswQ3BteHRxc2VybzFKU1hMMjdvMmNCZXNTZFlxRk9oU28xTmdjbnU3b08wNnRIS09PQVZZSG1ERmJqMjR2QTRrRGNOaFo4eVBEdEZOZjlFN3FOYw?oc=5",
+      "source": "Breaking Defense",
+      "date": "2026-04-07T00:21:31+00:00",
+      "description": "General Atomics CCA drone wingman prototype crashes in California  Breaking Defense",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T19:27:30.315294+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a718479177e2"
+    },
+    {
+      "title": "Kim Jong Un Praises South Korea’s Lee for Apology on Drones - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFNMYTVJU1BySXFjQzFwUUYtLWhEeEMyck1YQjBoSFZrOWdxVHFHMVlIZGtyenp3SWVYVHVCUDdGcktnVWhhV05DYzktS0E4Z1RfMHltVjhaaERnLUYyRTlQWDI5TzFlR1ZlbUtwZ2RQaW1yUGZkX3hBRDB6Y2hPQnVxVy1XMU9CYVh0UzkyczZiXzZhQXllSldCdlRjNWlSZmxkanJDem1jWlBzaWFIdy1R?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-04-07T04:15:00+00:00",
+      "description": "Kim Jong Un Praises South Korea’s Lee for Apology on Drones  Bloomberg.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T19:27:27.388851+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "068bab564712"
+    },
+    {
+      "title": "North Korea welcomes Seoul regret over drones as 'wise' - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJ2cVZMZkFjOXZkaWV4bHRnN3pRRkRPdWNvT0FOSGZVbVpiRlctODJIR0xsbUtzQlZXLWpnWGdHdTFBTUZobGhFU1padFdRbVM2X19kbTJnOFRMWjRaZjd0YjB6SngwTnFzYmJpUk5YRnVGTUN0NVYwenB3T1ZIWUJGdUpzQXljNUJOTFhYNNIBjwFBVV95cUxQUjRRclJqN01SUnNxWWNKWktrTnM3OE1tQ0lmNEswT3pucElYbV9KTl9iOF9aMGE1cFhUdUNLcmxRMHlGQ3Z5Z0ZDRVFTNmpEQ2NOSHlHVGdtYWxPOEtzci1mZEEtazM3SGJWRUJZdkRjUHBvdGhFUF9SdUpINTdaaHpKLUNJVW5UendoQTBZaw?oc=5",
+      "source": "dw.com",
+      "date": "2026-04-07T04:34:51+00:00",
+      "description": "North Korea welcomes Seoul regret over drones as 'wise'  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T19:27:27.388851+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dfc8afc88d4f"
+    },
+    {
       "title": "State issues reminder to keep drones away from wildfires - Alexandria Echo Press",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEhZMUxNQmNNb3A5bEpxV0VpRDRwZktaM0J4ZS1aUzlDWHNCZ09aaHJTTEdZZVlsOEFTSHNYTDM0RlJsTXg3dzVwbEdEMHB4VFpaSUJVQUlSZVJyQ2hCRU42S29pdUdqLXRNemdJWXFGZUM1OEtaYVZPbjU2a1RzcWhNbmdxVUMxb25waTZUTzQ?oc=5",
       "source": "Alexandria Echo Press",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "b36c5c0daf86"
-    },
-    {
-      "title": "Drone strike hits fuel tank near Dubai airport grounding flights - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3EzUm1fTGJIZFJYQkdHTk9ScHZBV2ZZeDllbFBrSUdTWFRfbHA4M0N2bTVqRFYtb2ZwakM3RFdZMzFJZm5UbFZiLVcwa2l5VmpLMGtkSjNma2YxaFhJWUl2bVROeHVIbXVUcDk4MTRaME5QRklnM0VYaHJTMEtCYlBScVN6eFpjMlBWU0hZQnhneExvYVZmamZoODFKN1ZLXzg5MDR6RVJKMmlqcEtCbWhPOGRyVF80OFRaeHk0U0RrcmRMQUhpQzZUUQ?oc=5",
-      "source": "MSN",
-      "date": "2026-03-22T07:52:20+00:00",
-      "description": "Drone strike hits fuel tank near Dubai airport grounding flights  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-22T19:10:36.918505+00:00",
-      "location": "near Dubai airport grounding flights",
-      "category": "airport",
-      "id": "99b9b096e967"
-    },
-    {
-      "title": "San Francisco police credits surveillance drones with aiding crime decline but some have privacy concerns - ABC7 San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONnVtRDZKWlFiaXdMQUwwelRZRlkyN1dlQnlZUXRQVWsxWDFqU05kWmJaOE1GMnYxN01RczFNZ1ljc0tQUDFJbWp1Snloc1ZnS0hnTlhmTnY0RkhPcjhmNTBOcnJPWVNhbEN3ZGpQWnBvSlg1U25vSjhDSGctRWdGVlkxbzBaaFl1aUlaSE94TVVpS3dWdUtRNWxzeERYWDNfVUpHQVBBbnYwZUREcF9LOExBa0pZcWhUeGdGdkVraEpnbnNJa1HSAcsBQVVfeXFMT3pmWGZrMnp3M0lHUE9yVXk1M21iaWotRi11Q20wX2stTGluaFp2cUF6RGRLQzhpdXhSa3BydWVPbC1FMDNIdmUtNlo4ZkhlWWE4RGJZNzVxVkRSaGJYLWdXMkFoMmlvLWJPYjk0MkhXa1VwMmhfQnhyMHNxZWgyREZiazM5b2tCUVZhM2wwTVZrSmYzVjRIT256WmM5bzZuUFVtX0o3YXhaaXAtZHZqOGN0eXJjemlLMkJzdWJJd3A5dlpvc01mdGxFUDA?oc=5",
-      "source": "ABC7 San Francisco",
-      "date": "2026-03-20T20:57:01+00:00",
-      "description": "San Francisco police credits surveillance drones with aiding crime decline but some have privacy concerns  ABC7 San Francisco",
-      "query": "drone arrest",
-      "detected_at": "2026-03-22T19:10:35.229596+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "1c66cd07ed7c"
-    },
-    {
-      "title": "Conflicting accounts emerge as experts link Bahrain explosion to US missile - The Arab Weekly",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVBSdUFfMm1nVUJ6cEJBZm5UNGNMZC1PRThhSmo3d2k5VDNmeEkwVHlsaDhWZUpnWlplX2RMRGZWSHFnYUhwQXhKX3hmbHhybjdwTEw5SzFVaEpmdFZzaDFNNkx5MEdBeUlsSEk2Slp6RGJsWUN0NjI5NktoeVJhMk9PNzdzX1hUVnBXSEVPaldWYzJpNGFxVjVHVQ?oc=5",
-      "source": "The Arab Weekly",
-      "date": "2026-03-22T13:58:46+00:00",
-      "description": "Conflicting accounts emerge as experts link Bahrain explosion to US missile  The Arab Weekly",
-      "query": "drone incident",
-      "detected_at": "2026-03-22T19:10:34.637253+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "522544ddff6e"
-    },
-    {
-      "title": "The ungoverned sky: Drones and the domestic extremist threat - Lowy Institute",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVktsc2ZsYUhWZ3YyWDJKUHAzaHQ4QnRIcEFUOUlnbXpvenBsdzUxc1Q1eEgwNG1iWmo3ZTN1ZTZnTFNobUJES1BqTFlwTTk5NTZEVWFVT1VOMndyMkQzTHFibXhvZU5rajZKY05Ua29ub3M1Z2U0d3B1RjZPY2VNQ29CVHhqRnZTVi1JQUgwXzh4MVVn?oc=5",
-      "source": "Lowy Institute",
-      "date": "2026-03-22T11:33:28+00:00",
-      "description": "The ungoverned sky: Drones and the domestic extremist threat  Lowy Institute",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-22T18:10:11.529198+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "9b1f9ff99594"
     }
   ],
-  "last_updated": "2026-04-07T18:22:30.931629+00:00",
+  "last_updated": "2026-04-07T19:27:33.059583+00:00",
   "total_count": 1000
 }
