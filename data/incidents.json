@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized Drones Keep Flying Near Our Military Bases - woai.iheart.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRG5rSDJEQXNlNmFTTDhfRzAyNXVZQW16Z0FKNmlGWlNnakZKZlZMQUJ4QWRNdElCN2paVzA5eGJlMTN6LWRidU10ZEJmSnFVdnB6ay1rbXlLOEJDQ1FBb1pGb0dxUGQtekxYdG9ONmxGQTVKU0VjdUlZd2JRa1hhNHlreFBwYVNTQ3otRmlDOERqVGNLRzNoM2JyMzZrMkNUX1RTVVdBWDU5LUpDd3ozaXVwTG40amc0YTJ6RlZldmZDdFJSeC1CNXN1cWg?oc=5",
+      "source": "woai.iheart.com",
+      "date": "2026-04-07T08:30:07+00:00",
+      "description": "Unauthorized Drones Keep Flying Near Our Military Bases  woai.iheart.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-07T15:33:05.788106+00:00",
+      "location": "Near Our Military Bases",
+      "category": "security",
+      "id": "277ea2b49200"
+    },
+    {
+      "title": "Amazon Prime Air Adjusts Course After Richardson Setbacks - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9Ka1hhR045U2twb1dIOE1XdEtGUVNfc295VEVDV0htY0RmdW9OcUFacTRFWGdRMkhMSVlVWGtJdUhOTlpZUkhBZ0VJQnNBMmtpUkRYT1BHM25QVE1GS21FNW82b2tjTU80RE40SGFQOG9QLVQxSEl5SURkUmNfQ2RBTXhUNjQ?oc=5",
+      "source": "Dronelife",
+      "date": "2026-04-07T14:53:29+00:00",
+      "description": "Amazon Prime Air Adjusts Course After Richardson Setbacks  Dronelife",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T15:33:03.252464+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1b019d5aff2b"
+    },
+    {
+      "title": "Lasers to shoot down drug drones delivering to prisons - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORENGaWQwbXJKOHpJQ2w4SXFOM1pKQ1hTWXlodWNnZnltNFFLMXhaQUZXOUVSZ2w2ZzkyWkZIRENKNEVRSEwtOEY1TU5yVWZKNWtkb3hmVTRWd0tpX0gtUFdVQzFEYW4ya0w0b19CMlJHUUpGTFRCbFg0MG43MV95al80NW9BdEwxdVhKamwwTkdFQ3VKUDhKTXk1SkFOd25uSmxCU3Y1OA?oc=5",
+      "source": "The Telegraph",
+      "date": "2026-04-07T14:07:00+00:00",
+      "description": "Lasers to shoot down drug drones delivering to prisons  The Telegraph",
+      "query": "drone prison",
+      "detected_at": "2026-04-07T15:33:02.066006+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ad7f71c3fdbb"
+    },
+    {
+      "title": "‘We’re catching people all the time’: Colorado Springs first responder drones helping make arrests - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFkQ1BpX0FvcDRzTWNFYlVSZkI0VzZENGh4bk1LMVJXSHV3cndhSVBJcG5BSjk5RXNWdGt1MmthNFZPWXdqdDBWdG5DR3pLX1dWaU9Sd29wYnBYSzg0ZlRTTnB3N2dUTnVQcGtjZGJVSkJBWm9DZzA1ZnZNN1JEaTBGMU9fT3BZX1ZGSUV0TER6V0g4N1RqZTdWUUdaOGVJbDR3b2pQTm05MjdjakYzR1V4c3psRGVFMUhPQ051aDLSAdQBQVVfeXFMUHM0SzNkS0lKQS1HNThXREtRV05qY1pUc2REZUExVDhuV3VHcGRfamxVVjJqZlJmckUwV0F2Wl9rY1R1WUVSVnBpb2xWU2xnQlMyM0g5ZEhROFBub3JWa19QTXVwYTgxV2hiWGhKbDBQV2pyYjRPYlhtQXVHLS1aRUlUNGNVeVlDNWhMbEdNZ2FZcDBKaU1ZaUpQbFREc2U5aDRPZDgxdlZQWmxkVWZia3lKTE1Ual95eGlWSzlwdXNybUktN2F6QUJNSlN6S0t3Yng0aEI?oc=5",
+      "source": "KKTV",
+      "date": "2026-04-06T14:17:00+00:00",
+      "description": "‘We’re catching people all the time’: Colorado Springs first responder drones helping make arrests  KKTV",
+      "query": "drone arrest",
+      "detected_at": "2026-04-07T15:33:00.723016+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "3ba7a360bdcf"
+    },
+    {
+      "title": "President Lee Expresses Regret to North Korea Over Drone Incident - chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUwtZ0lFbDJERGJqbWdMcERVRXdYUFdiWUdJSDRwMzVER1hQQmtUTTV1TG52TGtsa1otbWw0Y3lPN1NzQWIyWVM1R3lGSTloSVhyREtMbEdjUVpTTnhBVzZkX2dOUHdUczhhdFdVZXVhcmxvWG1zTHBxOG9COUN2Y1hwcXFLbG5U?oc=5",
+      "source": "chosun.com",
+      "date": "2026-04-06T02:48:12+00:00",
+      "description": "President Lee Expresses Regret to North Korea Over Drone Incident  chosun.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T15:33:00.153291+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "74414284097e"
+    },
+    {
+      "title": "Kim Yo-jong calls President Lee Jae Myung 'honest' over drone incident regret - koreaherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TekNoMkU0anF5U2w0OUtTdnFvOWtjTFNWb0VxcnNjbUN2X2RHR3BpblZDaEtHRkNzWGhSa3l2SlpOM3dCUXdwQ055Y1pLSU5ESUFxMC1COA?oc=5",
+      "source": "koreaherald.com",
+      "date": "2026-04-06T13:02:00+00:00",
+      "description": "Kim Yo-jong calls President Lee Jae Myung 'honest' over drone incident regret  koreaherald.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T15:33:00.153291+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "504ab160dd6f"
+    },
+    {
+      "title": "President Barzani Calls Deadly Drone Attack in Erbil 'Blatant Crime and Grave Injustice' - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGlzakhGSHlwTnA0NTN5Sld6TmdMalFwdFQ1Sk9jNlFZTHJ5WWNWZkpEWXEyNzJ6UGZnSFM5b2M1anE2NkRRc004ZEJJd3dkdE4tS0VVVHhkMVk3S3BncFlEM0k2NWEzUTFjWGNXYlBxZnVBRHVwQjZYeF9zQ3FRQi1mLWlOZFVDel9DM3VIa3NHRThZREVyTzZMNWFiN3BQYVlqcXVWZjNLdk1WLWZhd2V6bnB1d3J5a1JmMGw0TjhtV1Q2aGxrNlJR?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-04-07T15:00:39+00:00",
+      "description": "President Barzani Calls Deadly Drone Attack in Erbil 'Blatant Crime and Grave Injustice'  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-04-07T15:33:00.153291+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9dfd835f3651"
+    },
+    {
       "title": "South Korea apologizes to North over unauthorized drone flights - msn.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNekk5ak9sWkpPellqR2xOX0pEWlhmRG1tbHFITUtIaG80RFhHdHN6UHlRQmpTc3N2VUxjbzhYdmx4bkZHeTNFMUV5RFA3VFROUWdRNm5XMlpYLS04NHlyenViR3Exd1BaSHdOSjNxMlM4cFJoZjRzMkpxdUJMdVZ4dDZKUlJ1NXV2a2Yxcnd4d2RIQThQb1ktR3lsZXhrZ2l0ZHB0MHotQm5oaTRuQUxLQlFvVlJSWUJVRGxxZkVpOFpxb3B1dFlYR2VCbWNxSVI5OGRpQWFReFRpWVNFQjRTUElIVThDdUhp?oc=5",
       "source": "msn.com",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "430118cdd10f"
-    },
-    {
-      "title": "South Bend Police's new drone helps locate suspect - WSBT",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa09UcDRUTkl0S3hrSkxtckw3ZHBKYUFBb0NhNEFLSk1LRVpabFlHdGJXSWNQYy1nYmJjeWNxUWx3T0ZKSXhRMGctUF8xNDBkSk5iU0VGSVVhZTVsQU1YZE1ydm5MckU3V2NtTHlRY0dobmY0Y2plSDZ6cDRERVZTMWNnSkRSNUFPRUxHZ2JQUkpGV3hXU1JuT3RDeV9RTnJqLVZYcmk3RkdSeWljOG90R21pYXBkRFNXejUzLXR6VGUyQ29zRU9DX3BISGxKZGh6VlczMTRYcXRfNTZpNTBpUTFSakdDZUJ2TjJj?oc=5",
-      "source": "WSBT",
-      "date": "2026-03-20T18:34:02+00:00",
-      "description": "South Bend Police's new drone helps locate suspect  WSBT",
-      "query": "drone arrest",
-      "detected_at": "2026-03-22T13:20:05.259669+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c564dcc04092"
-    },
-    {
-      "title": "The ungoverned sky: Drones and the domestic extremist threat - Lowy Institute",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVktsc2ZsYUhWZ3YyWDJKUHAzaHQ4QnRIcEFUOUlnbXpvenBsdzUxc1Q1eEgwNG1iWmo3ZTN1ZTZnTFNobUJES1BqTFlwTTk5NTZEVWFVT1VOMndyMkQzTHFibXhvZU5rajZKY05Ua29ub3M1Z2U0d3B1RjZPY2VNQ29CVHhqRnZTVi1JQUgwXzh4MVVn?oc=5",
-      "source": "Lowy Institute",
-      "date": "2026-03-22T11:34:06+00:00",
-      "description": "The ungoverned sky: Drones and the domestic extremist threat  Lowy Institute",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-22T12:11:25.384865+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0cc30d700dd6"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTRIM296NDVFbDV0SVRNa0dkQzM3Y3RPS3FkYXdtTGdzb2NzcWRRYUowSkpnbkdBQmpKQ0dtY2J5NGJPTEM2ZXJ1SWFZanFjV0VrMHBVZVJyaTNTb2c3bVpkdGx5elA0VGx2Rlo2SmZQSDZqZnBjS2ZoWXJDYk12WGVtODdNQ3hoZ2s3YlRfemRES05UOG9kNGo0Z2Q0MkhQenpOUThJa1VqRUZiLXFLSWlqRzZwSmpKQVlyTW1yWG5IbFN1bzVoVlA0ZUk?oc=5",
-      "source": "MSN",
-      "date": "2026-03-22T01:10:56+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-22T12:11:23.257897+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ad2a0c6fa910"
-    },
-    {
-      "title": "Barksdale Airforce Base investigates drone incident - myarklamiss.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUtrcFJxOUk0SWZad3FQU1BxYVV1NjJWS3RQbzlPUUt6SW9wdXVtbXQ2aVoxMS1vbU1PamxFanRmbFYxYkVaT2xxQU9VQkRMYmUxckRVNUdyUWtfOW41U3NFbGhGRGdJV252Nmh3bXk0bkhuNS13a2UxeUJJLVRyOG1vNm1aWG1WQ0gweDIyX1hoM2hHX2tkSU9ISQ?oc=5",
-      "source": "myarklamiss.com",
-      "date": "2026-03-21T23:19:00+00:00",
-      "description": "Barksdale Airforce Base investigates drone incident  myarklamiss.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-22T12:11:21.143743+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e11b7f4fd775"
-    },
-    {
-      "title": "Waves of 'Unauthorized Drones' Spotted over U.S. Air Force Base in Louisiana - National Today",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDhlQXRMcnQwYzI5dXo5Rmc3OHozc3dnZkJQbmJfM1FYSWpCeU9TOTRmSEZuRV9LZzZpcmtMTHNqMmRBOXRXX2JLWXZBRXBkc0tyM2o4WFRsaHZwSjVILTljaVQxQWJDd29uTUoyOXRYdFlWaEstT29DcFJ6STQ4NVRXa3ZRaUk5TEYzZm10TlNGMjdoOWZkRGhyamlpdXoyRTlyZG5kR0ZSZUxOcF9sSnV4bjhRWUFZbEVSOGpxT3hOY29qcktXZl9LUmFlR0Vx?oc=5",
-      "source": "National Today",
-      "date": "2026-03-21T15:52:07+00:00",
-      "description": "Waves of 'Unauthorized Drones' Spotted over U.S. Air Force Base in Louisiana  National Today",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-22T07:19:00.363480+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "3657a78c6315"
-    },
-    {
-      "title": "Drone swarms breach nuclear bomber base - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0x1U205d3NaZkx1YUpBMF9MeFlfeDVLb25rOFpUMDdOZ28tRE1leTdiNV9EX01sbjN1NnhqM3ZKVmg0STJiMnFNR3RkekVOdXMtY05hYzZMX3JFNDNZWWtpRzRENjVCQ3BRcDhlMWdPQ0FwNjZGSE5kajA3Um96LU5BM3NtWXZobEJ6N1dSbVYtZEFwaGxvclpzMlg3VGZXb3hJZEZZQk5lVU5iTUlCTHVzamIydkNwbTljVXc5VXNlWE1fOGZHRTVrRHEwTjd1TG1vbnc4YlQ?oc=5",
-      "source": "MSN",
-      "date": "2026-03-22T04:53:04+00:00",
-      "description": "Drone swarms breach nuclear bomber base  MSN",
-      "query": "drone security breach",
-      "detected_at": "2026-03-22T07:18:59.185578+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "998b21cb33c9"
-    },
-    {
-      "title": "Dubai airport shutdown after strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLWEzT2NxZVFveWdybGZaU2gteEk0MjhRREFOWWQ0SnN4aVhXejR1SEZ2YmQ5Y3FzVHdDWDd1SFB1QlpTMDVmRWRmc05FTDlhS3V6dWNMM1dOM3N4OTlPQndHYkpjbjBWc21VSVQxVXVvNGRYemJRbFNnc1dyUldaWW9HZHhWdHYta085WU8wR3RBX3Y4XzFVUjNGYlVHeURocU0tOTBJVmpkSmJnMkVSaUZITE5CbVBMQTFJVE82Z00tS2dGM0NtdzlVdnotYXpqYzhSTkpWNEtoUU5CLTh1R3dSSk5pRWlmcTkxR3czaXJJaFhYQk5OR1BBTFpvOF9HZVVqWkNqWQ?oc=5",
-      "source": "MSN",
-      "date": "2026-03-22T05:27:01+00:00",
-      "description": "Dubai airport shutdown after strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-22T07:18:57.471150+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "f81c52efe570"
     }
   ],
-  "last_updated": "2026-04-07T14:36:47.406473+00:00",
+  "last_updated": "2026-04-07T15:33:06.443833+00:00",
   "total_count": 1000
 }
