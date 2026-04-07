@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "General Atomics’ drone wingman prototype for US crashes during tests in California - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVRQNUVsbDNjUW5lZXRRQWxmX3VQTHJyNjlQbGh5ZHZ2MTBiVG9TVUp3UklJM1MwTTlmdmRUOWdHRjNtYi12c0otMjQ2TmdmMlRaSWhIMEd2cDYxbGlaLS1XNWh1UnlfcGhJRFlfemxPQ3ExV3gzQ2JUVTRBYnBpVFNSdnNlZzd6SkE3VW1JaXRCRmVxQnJF?oc=5",
+      "source": "Interesting Engineering",
+      "date": "2026-04-07T16:59:00+00:00",
+      "description": "General Atomics’ drone wingman prototype for US crashes during tests in California  Interesting Engineering",
+      "query": "drone crash",
+      "detected_at": "2026-04-07T23:15:26.359590+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f226b1e4865d"
+    },
+    {
       "title": "Black Sea oil hubs in crosshairs after drone strikes - splash247.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVNzSE9TaEpmSzM0ZUFjV25RbUZmRzJtN3NITUtYbFQ5UlRoZmNoS3JqRGlvcVRUODB1ZGU0STN5ZHFKSl9BRlFjTVotNXFSdGVUV08zeVJqem45UnZaVWpQVEFXQzFIQmhVd0Z5ZVFkNndHUTlsLW8wajdRNlVCTg?oc=5",
       "source": "splash247.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "3afc43cb4ba8"
-    },
-    {
-      "title": "Woman charged after shooting incident, damage to state police drone in Schuylkill County - WJAC",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDBFYU53YUhSVTVCMXowMDM5X3YxYmYzTDRPdUVFOUhmcXZWQUNfbnNZOHZoYVRKVXJnN0dONERPbVdfVEgzdktJNkNHZTVYYVdKMU5oTW5qNndmZDY3cjcxcjc4X2Q1Y1o4ZWdZbF80bkExZ2NFcmk3NTUzUGd6RU9tekRFZEs2RWtXQmlOS2paVlZKSjhVTmE0eEN2WXpjSm9lbXhwTnRITldycnN1V2NXSE9YM0w1ZURKVnVLUWY?oc=5",
-      "source": "WJAC",
-      "date": "2026-03-23T12:50:15+00:00",
-      "description": "Woman charged after shooting incident, damage to state police drone in Schuylkill County  WJAC",
-      "query": "drone incident",
-      "detected_at": "2026-03-23T13:34:37.336648+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "4445313d99f9"
     }
   ],
-  "last_updated": "2026-04-07T22:15:11.773918+00:00",
+  "last_updated": "2026-04-07T23:15:28.983884+00:00",
   "total_count": 1000
 }
