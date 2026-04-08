@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Ondas Selected to Deploy Counter-Drone Protection for the 2026 FIFA World Cup - swxlocalsports.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdjJodURoc1BNb3htWHFid0k1eV82SHBiaTVwY3pZb1dpZHJLWFFFbXl4aWxEb2loNDMzaXlWbmcyaFVFYkV2OFZrWFFTQi1IVmloWmJwYmRpQWtlSkxkemFURm52OE5EaUhMNW5PalJicWNwT3FSWlF6ZFVrRG9MeGFVSXF2RmNYYXFyeTc4a3ZOckxWZTBVMEFuZWh0dXpaMkJCdlJ3SDhxT3JlcUY4bzBOblUzUnZ1N2NKOHZuNVMzSTBSc3VWSkVBeFUyZG9ncTZ2U1poc2dUcXoyYjUyMExSRXphME1ET2tlY1JvTQ?oc=5",
+      "source": "swxlocalsports.com",
+      "date": "2026-04-07T12:31:56+00:00",
+      "description": "Ondas Selected to Deploy Counter-Drone Protection for the 2026 FIFA World Cup  swxlocalsports.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-08T14:37:42.164116+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2fe8899b1f5b"
+    },
+    {
+      "title": "Russia Reports Drone Attack on Caspian Pipeline Consortium Facility - caspiannews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXRmVVc0UmZyaFJLbzVWdXFjMEhlODZPLW5QWnBRNFZnZTVNMmNGaFlTUzNpQVlJQ3VrTkFQQmZZU2FOaXFEbmI4cmotMEctTjhHamduRThYdUZQRHJQSUNpTVNGeHRjbnRqVXdscV9fX0lqallIeGVlbFlENnIxa2RHSlk2VDE1WlRVcE9aclFYeXc5eUxMUDRTUXFpRGlZcnlBVkUzUXpOSEdCNlhYVEFnNVBER28?oc=5",
+      "source": "caspiannews.com",
+      "date": "2026-04-07T19:07:23+00:00",
+      "description": "Russia Reports Drone Attack on Caspian Pipeline Consortium Facility  caspiannews.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-08T14:37:41.481668+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7264023ac2c1"
+    },
+    {
+      "title": "Idaho Attorney General looking to stop prison drone drops - KREM",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTBIeUM0emVuV3RzaXR0WTZTQUt3VWE3OHZuT3E2Vk9EWDZraC1oYTktZHVVZFlKOUh5cW43a0xqdm1Hd1VDS3hfVTJDWHhEaWxLYXJiLUlhamR1UUZtRlpzWm1WZFFqV0oxdWcxZDQ3eVJHWm5UNnFXekM0VGlEc3JHSERub0JfbmZQUWNJZWhreXpYMWllVkpBUnpQczktc2ZJSkRRS0NCRXZZUHJSMVZpOFBsbEVlV05XcmdHamo1RVI5eHJQa1gzdnF0clVFTVNFZ3hXTXAwQQ?oc=5",
+      "source": "KREM",
+      "date": "2026-04-08T14:21:00+00:00",
+      "description": "Idaho Attorney General looking to stop prison drone drops  KREM",
+      "query": "drone prison",
+      "detected_at": "2026-04-08T14:37:38.449326+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "cd0a069cb68b"
+    },
+    {
+      "title": "25-year-old British flight attendant arrested in Dubai for sharing image of a drone strike - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1dEeFBVU3BaYkpyVnpUMldsbVRTTDhCcnRRWmtxcFpjNl84Q3ZqaEp5RUJidWVwOWgzamprSE14cHN2Z21oWEZoRlZlQzJad2RDY2UxUmw3ejZIbklDQ0k5b0lPRzFhc3JhZ010RGF2YmxDbkR4T2FJZnpXZGpmM3lNSlh1S0xsOUdNRy1yYjV0eXUwVUNGM1NpdzF5M2Qwd2ZibFctbVFfRXZUWFFwN1FSOW1US0JraGZFSWVRY0l2RE9SbWRhNWE5d1h4Wjl6VFNCRUFB?oc=5",
+      "source": "MSN",
+      "date": "2026-04-08T07:31:21+00:00",
+      "description": "25-year-old British flight attendant arrested in Dubai for sharing image of a drone strike  MSN",
+      "query": "drone arrest",
+      "detected_at": "2026-04-08T14:37:37.239300+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4bbd9f253548"
+    },
+    {
       "title": "Meet the Drone Pilot Who Flooded Ohio Prisons With Drugs - Cleveland Scene",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVY5UmgtcVF3MTIyYXdYeE4tZnpQRUpXRERiaUx2UEJLcDYtQ29aTkoybjhvWUJsOTJEYjZZdnhpcFZQTHE2UV96Uk1TRHMzYXVMektyZWhMUWFkd2xmajhYeDNnQ3JRdE1JQ2xpMmZRbWhBb040NUZ4bXJrX09IVjNWMmQwTWliTW0tdTVwdV8tRTNDUmQ3My1qQ2ZxRHBo?oc=5",
       "source": "Cleveland Scene",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "2110095e7cb4"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTdxaVBncGlFZVVORDJGT01QMWNmd3VKejhHeS1haElDMk1uaWdsWm96S2RaS2NWTllaLWR3Wjh2SmlSTjdzalpJcXNNb0toRk12Xy1WMlFSYXNVX3I5SnBhbHhLWjExUzhWNlUtQWxuZWdCcnVmeWFHYXdYa1lNV25WSDUxa0hJNkIwbWxhanpvU3pYT0NJUE5yNFN3dVA0anF3SUlzcEFubVJhM3hkcE5zbw?oc=5",
-      "source": "MSN",
-      "date": "2026-03-23T21:26:55+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-24T01:36:42.848485+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "61af74500448"
-    },
-    {
-      "title": "Police: Drone-assisted patrol leads to 5 arrests, fentanyl seized in Lakewood - KKTV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUZKaUpLVkpCM1BTZE53SGFXYUhvNDF3X2ZJVXdXeHNLLVlvTXlyQ3ZEUldTY0tkZWlPVjFUZTRtOTNGLW92YVNVZUh3U1dobnljbmZWVzlFUFFKeURIUHVuM19XLXNtT3RRR3N6THFiVVp2d1NkRk1oT0tKY3hCLXYwUGVnYjNod1lSVlI5bktmQWU1d0hHTHdlWGU2SWxhZlJzS9IBuAFBVV95cUxPZzBObE8wRGU0ZHc4TGp1Y3JwS0MxZHJrdkY0MXp1Vnp2UVBVcDJvSTdjRnpiaWF1aHdRS2ZHenJjSDRhMFl1TG5sNlVXdjhxTC01bVE3OUhxcmJaNnJZajRqNjJCRHBlVmtyeTAzWUtaVXlEWWZlNkJoOHF1eVdySlMzU3FFN0Z4SldKVGtiWkhuX0MwUjNTUzA2YU1aNmdMVlNyWmJMV0lRVldGdWI0a1dheG1BMW1k?oc=5",
-      "source": "KKTV",
-      "date": "2026-03-24T00:44:00+00:00",
-      "description": "Police: Drone-assisted patrol leads to 5 arrests, fentanyl seized in Lakewood  KKTV",
-      "query": "drone arrest",
-      "detected_at": "2026-03-24T01:36:41.182819+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a2ca973eaf31"
-    },
-    {
-      "title": "Lithuania says a suspected drone enters its airspace, crashes into lake near Belarus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVNqQzRxOGhTdEpkM2hDQ1NIMk4wNVB6akoyVkhBTWk4VnNnaHRMX1JLeEcySG1PNGZMQUVUUlJsclNneWdLYlplMUdEejlPbVd5WXhvSS14V2ZLWWxpWkMyS2RHcHg4RG5Ta3JIVEdwZ0J4Y0dKM2pvWEtKT2lLM09FNnFlRnhqTmVLUUFvdGJxbzBPNHlyejB0ODdnUndCT1R5MnNqSFRscTN5NlB2Uk1ySlZmQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-23T17:42:26+00:00",
-      "description": "Lithuania says a suspected drone enters its airspace, crashes into lake near Belarus  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-03-24T01:36:40.530646+00:00",
-      "location": "near Belarus",
-      "category": "crash",
-      "id": "6f8f3fdd3620"
-    },
-    {
-      "title": "Suspected drone crashes into frozen lake in Lithuania, probe underway - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW5jc3JKMlhNYm5MeXNwMUNMZ1hKdnVTQUtYMFFzNkhnaXc5amR5SHJoYlk2OXZGV085R3Uwbzg2bERwaUR6OU8wLWVaZ096VVFWWWRaTVNfY1lZNlJ3R1I4MjBOZE55WXdWckNXanZ6LXh3X0M2ZlM0OEhkSVd6RkxCQ3Jna1N6TkhqRUxkU0tHbjNUczVidHplSi1zTnpvN1pWOGp4OHlCSnBtOU1naS0xcDDSAboBQVVfeXFMUFhoNEpWMmg1VVg4Y0RUVHgxVFM3OUxNNnBUODdTSVh0NGZpTzlqRGlIS0dZVFNXdXlGVzl5ZHdGOE8zV1ExNFZaRkwtbmdaTXhxVWstQWJsRTE3M0c4WXdVUzRTVF9yRW5qbWZORnN0T1BVZUhIMS1CUm40anNYZVRPR2RwMEpoU0NMcVI3dnJIRjQzMlY2V2xqd3VUUXA4YU1qY08tTmRRSHNOa2JELVRZM1NqRE9XVFFR?oc=5",
-      "source": "Firstpost",
-      "date": "2026-03-24T00:15:57+00:00",
-      "description": "Suspected drone crashes into frozen lake in Lithuania, probe underway  Firstpost",
-      "query": "drone crash",
-      "detected_at": "2026-03-24T00:28:11.569966+00:00",
-      "location": "in Lithuania, pr",
-      "category": "crash",
-      "id": "10b26812dbdc"
     }
   ],
-  "last_updated": "2026-04-08T13:35:35.529156+00:00",
+  "last_updated": "2026-04-08T14:37:42.679646+00:00",
   "total_count": 1000
 }
