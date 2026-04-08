@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Cincinnati police recover stolen car and two guns after drone operation, arrest four - WLWT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYldRdk1sSUNNTlNrVFVMaHZPWmMzTFlzbzRVS24xcTF6YXhNUlNybG1lTDgwNjdCWHhRZ3ZlUV9iQU9MUW5IM2dLRlRWd05EM0YydUNjbXpqVUE5bkVCRUlDUTF3blNDaFMtdG4xbzB4WXBsNWh4U25oRjhReVZ5VGVBYngyXzZSc3FIVUUyTGZseS03dDF6NXZQS0pMSHpKT3U4S21MRWxYNWJHUzBhZ2djWnhPa1ItTVo2Ym53?oc=5",
+      "source": "WLWT",
+      "date": "2026-04-08T20:45:00+00:00",
+      "description": "Cincinnati police recover stolen car and two guns after drone operation, arrest four  WLWT",
+      "query": "drone arrest",
+      "detected_at": "2026-04-08T21:18:43.393722+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4e608c2a20d8"
+    },
+    {
       "title": "General Atomics reported an incident involving one of its YFQ-42A collaborative combat drones - Zona Militar",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaThQSF9saWUyNG1NRVVEa2pOdTJqNHNVRTM4ZmNib1ZiOUNlUktiOWY2RVBtMHo0SDFYMlpYZ3ZFcFdFcXNZdkN4ZXlJSDF6aGlJaWdyT3c1Z2lGaTdqcWE2eWhuMWhSOUFNci1iQ3RXUV8wLVh6Z2h2bnFDajZjbGRxa0lndXJ6cGw4VHlGT0FPZjNwT1J5bmdEa29aRHZFbGN2UTd1QnlBeDBLc0Z4RjZQbUJDdGI1ZDFrY2ZTNjQtdW5NVDRTeGtnSXY5WVM5SHFB?oc=5",
       "source": "Zona Militar",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "629d8ee9e604"
-    },
-    {
-      "title": "Drone Attack Shuts Pulkovo Airport, Disrupting Global Routes - thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWHJpY3J0d0pkMlJEOW50eGk3cjJkWTA4akxEWnZiUHZ0NWwxSzZOYXhTdnBoUC1BbWRibmlDU0JqNUR3T3ZDUEY3ODlGbE1EWWNRQmRmXzl4VW9jN3BycGdJRGF3TWMxU3VOS2t1bllLQXFuTXo5YlQ3QVZMTGRweFpsQXpOSG9yWm9TYVZUdWpqQQ?oc=5",
-      "source": "thetraveler.org",
-      "date": "2026-03-23T22:55:45+00:00",
-      "description": "Drone Attack Shuts Pulkovo Airport, Disrupting Global Routes  thetraveler.org",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-24T09:21:44.893671+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c76e5d35b608"
     }
   ],
-  "last_updated": "2026-04-08T20:15:51.613874+00:00",
+  "last_updated": "2026-04-08T21:18:48.121844+00:00",
   "total_count": 1000
 }
