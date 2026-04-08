@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "General Atomics CCA Drone Crashes After Takeoff, Company Pauses Flight Tests - autoevolution.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1sS3R6Uy13NGhaYThubjdJSnZxcWpBNVFqSXpBV2w1RGVrNWhCQllnejRoZlJKS2VLLWN6T2haLWhkdHNZV3NIVjczSThFdF8wRkhNMGJxNzdodkdMNDU4R2RCLXR5UUMwTkcxQ3BEcDJMY2ViWmpDRFBmZ2o4UjROMXo1NnVldnNtUjJTZ1JsekoycXYwM0hhVjU1WnVtNUNJcnhOX3Q5N0lCRTQtd283UEdmTkdJX2RoUXVoSQ?oc=5",
+      "source": "autoevolution.com",
+      "date": "2026-04-07T10:48:07+00:00",
+      "description": "General Atomics CCA Drone Crashes After Takeoff, Company Pauses Flight Tests  autoevolution.com",
+      "query": "drone crash",
+      "detected_at": "2026-04-08T00:36:16.330342+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "fce3930c0399"
+    },
+    {
+      "title": "General Atomics YFQ-42A drone crashes during California test flight - aerotime.aero",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDFGUlFsdS1WT1BpaHlHYXo4cFMxMmRzeUtXcXpoRXkxcmc1WmtFZ3JKU2IxN0R5dTZnbFkwWm9MT3dhM1g5TUF4YnMtcnp2UVBSeTY0TXdRT1FHajVJU2pXXzVISVpCc3ZBbm16eG9HckhJS01wWGNGSzVZQkN0YXgtTUdqZ9IBiwFBVV95cUxPa2hfcTFWVDVhcGlIS0VScFBaSlBRQ281OU5fRXd3UHlhLU9TajI0SUF3dlBIa05KalpMMUFsdjZSelAwbEZidm1RMDlHXzVLdzFsUi1mZkRhUng5WkxVX2hSNWNxVWhnVmJSN1N2TkZiVk4xLVlISm9udVRDVTlFd25YWTBUZnRmRTFR?oc=5",
+      "source": "aerotime.aero",
+      "date": "2026-04-07T07:13:22+00:00",
+      "description": "General Atomics YFQ-42A drone crashes during California test flight  aerotime.aero",
+      "query": "drone crash",
+      "detected_at": "2026-04-08T00:36:16.330342+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "13abab870e26"
+    },
+    {
+      "title": "General Atomics’ drone wingman prototype for US crashes during tests in California - interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVRQNUVsbDNjUW5lZXRRQWxmX3VQTHJyNjlQbGh5ZHZ2MTBiVG9TVUp3UklJM1MwTTlmdmRUOWdHRjNtYi12c0otMjQ2TmdmMlRaSWhIMEd2cDYxbGlaLS1XNWh1UnlfcGhJRFlfemxPQ3ExV3gzQ2JUVTRBYnBpVFNSdnNlZzd6SkE3VW1JaXRCRmVxQnJF?oc=5",
+      "source": "interestingengineering.com",
+      "date": "2026-04-07T16:59:00+00:00",
+      "description": "General Atomics’ drone wingman prototype for US crashes during tests in California  interestingengineering.com",
+      "query": "drone crash",
+      "detected_at": "2026-04-08T00:36:16.330342+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f7f218e3832b"
+    },
+    {
+      "title": "Police arrest 45 after March street takeovers. See newly released photos - cincinnati.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNm1pak5IX1VES1JqRHVwamZhU0VMWnQwbHZzWGFRWEkxcGMxZjJtbC1qQXA0Z0JVUWpJbWtOOENvMkJZSkhGdDk2SUVwYUxvMDlFX1Ywb2o5UE5OQ090bS1XUDRoSlQzVGFENW5HZXNmd3I0VlI5aHNjeW54eDhHek9YZXFjR0xtSElNYjVLU1FsSkxUN0U0RVdNNm9ieGl0WHd1elJHdWpHUlhncndtNFEzb3UtLVFWTTR2cTBBQ0M1QnVvVVZiMWJSamMyeG5WWmllU3pScDZ0NTg?oc=5",
+      "source": "cincinnati.com",
+      "date": "2026-04-07T17:25:00+00:00",
+      "description": "Police arrest 45 after March street takeovers. See newly released photos  cincinnati.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-08T00:36:13.982212+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "e9790b321705"
+    },
+    {
+      "title": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered - local12.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTERPdGhTWVVfZ25hUUtEN3BZWE9yRFpxWnBCTkxETnJkTUIyaHFZVk8xQjJ0eFdlbjh2Rk15bnJKeVpLZ2ZLdG8wek5ldzgtUkpZOC1VWkVMd3EtUzZpYkF1aEg2N2pxRHhWRGxDT0JWQU9fWjNjNXJwUDMzWG9sNzlleVdZYXUweEdYTngwWmdTZ0RvSFZQR012a0JmYW1FMDFsZXAxQ1V5YkJ5ZDFPTVU0Ni1YRS1WUzBCT1VHbTJyT0JReWlIQWp4T05FOUxmZVhsU0V0VVZ1M2ZVV0hWc05CcmJvN1VseGNCc25hOGVONXlOMHRQT3lQcHhnMTc1ZTFSSmU4VVB6M1VqX05VaFYwanlweWFlai10WmwzWkJodnp3U2VRWVdhYU1YeEpnR2xiRk1aNE83OTFZNDNDWloxOA?oc=5",
+      "source": "local12.com",
+      "date": "2026-04-07T21:33:38+00:00",
+      "description": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered  local12.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-08T00:36:13.982212+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "d3d56f6992ac"
+    },
+    {
       "title": "General Atomics’ drone wingman prototype for US crashes during tests in California - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVRQNUVsbDNjUW5lZXRRQWxmX3VQTHJyNjlQbGh5ZHZ2MTBiVG9TVUp3UklJM1MwTTlmdmRUOWdHRjNtYi12c0otMjQ2TmdmMlRaSWhIMEd2cDYxbGlaLS1XNWh1UnlfcGhJRFlfemxPQ3ExV3gzQ2JUVTRBYnBpVFNSdnNlZzd6SkE3VW1JaXRCRmVxQnJF?oc=5",
       "source": "Interesting Engineering",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "d01852ff6e11"
-    },
-    {
-      "title": "Drone drop was 1 of at least 12 at state prisons in past year, DOCCS com­mis­sioner says - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakdXRV9MSW1xWjJlbHgwbzFZNXJ1dU9NekZBaHpnTjFTNGxsUGtobmUxQnp1SWdVbDcydm5adjF5eXdiN2czVGZwVVgyemZOVU52LTMxZWpSSEhQSUg0S2xSZkdwMTVWdGs4dGc4WlVyTm1aY2FnNm9SRk9kYVJMcHAzMkpuSXdNWXFfZUl1RWVMZEs2ZGVvcnhKOTdsdVZlS0w1Zw?oc=5",
-      "source": "Spectrum News",
-      "date": "2026-03-23T13:46:00+00:00",
-      "description": "Drone drop was 1 of at least 12 at state prisons in past year, DOCCS com­mis­sioner says  Spectrum News",
-      "query": "drone prison",
-      "detected_at": "2026-03-23T15:25:01.856707+00:00",
-      "location": "in past year, DO",
-      "category": "smuggling",
-      "id": "13cf322dd437"
-    },
-    {
-      "title": "A fleet of drones temporarily closed one of the Air Force’s most important airbases - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVBQOVVjcGZuWEpNZmk0OXpxSGJiOURiZFozS1g4U0pRX05GTDc0TFAwQkVLSXJyYW9rOXZXV182M2tpajRzaDVYX0N4cHU0Ny05Ty1ySFdINmF6X2NSdTh4a194dzBtcHFycGJlVmNsdFBjSzA0UWRod3lXSUxGQnM5Y09JN2JaWDJUMHZLS1R4UDJkdXlrNi1mVE43QXNCRHlqUjBadE8tbFpxbzJuUzRGVVI?oc=5",
-      "source": "DroneDJ",
-      "date": "2026-03-23T15:20:40+00:00",
-      "description": "A fleet of drones temporarily closed one of the Air Force’s most important airbases  DroneDJ",
-      "query": "drone incident",
-      "detected_at": "2026-03-23T15:25:00.021124+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3b00040c624c"
-    },
-    {
-      "title": "Woman charged after shooting incident, damage to state police drone in Schuylkill County - fox56.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUdSOEs4dEZDTDYxZTZOY0Qxb0J0RlVjUlR4azdKZFc1bUtlRnJYZW5tVHBIM2haaGU2czMtZTN4MnpXWEhrc2o2RlROM1BxMkdXMVFJcXhudmMwMnRsallmU3BrT0lDTlNvbHVQbkJVV3JxcEJ4UkI0SmFGU2txd2xyMnNJbUFJaDJWMzRJcXNyb3dMNnZJWUF3Zmc5bHpqd1VkSFZxSHljUTFxdlBFazYyNE52QUk?oc=5",
-      "source": "fox56.com",
-      "date": "2026-03-23T14:42:34+00:00",
-      "description": "Woman charged after shooting incident, damage to state police drone in Schuylkill County  fox56.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-23T15:25:00.021124+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "6377d45d66c4"
-    },
-    {
-      "title": "Emirates Flight from Edinburgh to Dubai Diverted Over Egypt Due to Drone Attack – Everything You Need to Know About the Disruption Impacting International Travel - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNV1JZSzJaNUdmTFVzelJUVW1WUExsMEZhMGxOd1NEcm5KSmgxVzlaWVliT1hrb0kxbkRiVFRDUk45MEdNT2V5aVlHSjBPUmpRM194aEFNaXV2VlB1dEZtRmw3dHNHQ2dSTm1NVWlLY0QwZ3QtYlBiUnNjbWFLWFFMNXdxeHFmTlU0ZVdqVm1Wb0t4MzVfOVBvSE0tVm1IX2lISHA4ZFBhc0M2SXhWRWR0QzljcElmVXFxS1ZFb2hwZ1VyZzRUU2VGUmswWVVJczVXdUF2cW1aYXhYYnhiRHU3cnFXdWRsVkQyNlkzM1c2N2h4NmFELTA5cVFGYURMVXJyTEtEZUVQcV9URVhJN1lzS3F6eFA3Q2dpTEh6QktZbGNwRFFkQV9UeEx1QjVGWWphd0E?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-03-23T07:41:59+00:00",
-      "description": "Emirates Flight from Edinburgh to Dubai Diverted Over Egypt Due to Drone Attack – Everything You Need to Know About the Disruption Impacting International Travel  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-23T13:34:39.675142+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "5fe44ff08ee4"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN0w4cmo1U1hHWktkWTJfeG5CTTJMbmVBNnp2NFZYOHlsMTJHc2lvTEpEd0hid0oxeHV2cElESnF0MnB5ZU16MFpKRlc1MzQ3Wl9Hd2xJdkxITmhMUWJmTk5DT2NnQ2l1ejNVUXlNcDdmeDlnYjA1V0JGQThRa2h1V3FVOW5pc1NySV8zTHhyU20wM1pGY3hELXEwajNsem0tSVM5RFZkaEduNUF4M0x1S0kzT0pqY2JNNXVkTDF5S2ZUVkx2OThmZzQzMkdlemlkdHhseWk0TGppcDNXOUVZbmtZNkdfenROVVgxdDhlZDcwQ0NRV0FGc2k3bDdCRkJNNHpJWXNtd3hfZm8?oc=5",
-      "source": "MSN",
-      "date": "2026-03-23T07:10:48+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-23T13:34:39.675142+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "3afc43cb4ba8"
     }
   ],
-  "last_updated": "2026-04-07T23:15:28.983884+00:00",
+  "last_updated": "2026-04-08T00:36:19.277049+00:00",
   "total_count": 1000
 }
