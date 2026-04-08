@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "General Atomics reported an incident involving one of its YFQ-42A collaborative combat drones - Zona Militar",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaThQSF9saWUyNG1NRVVEa2pOdTJqNHNVRTM4ZmNib1ZiOUNlUktiOWY2RVBtMHo0SDFYMlpYZ3ZFcFdFcXNZdkN4ZXlJSDF6aGlJaWdyT3c1Z2lGaTdqcWE2eWhuMWhSOUFNci1iQ3RXUV8wLVh6Z2h2bnFDajZjbGRxa0lndXJ6cGw4VHlGT0FPZjNwT1J5bmdEa29aRHZFbGN2UTd1QnlBeDBLc0Z4RjZQbUJDdGI1ZDFrY2ZTNjQtdW5NVDRTeGtnSXY5WVM5SHFB?oc=5",
+      "source": "Zona Militar",
+      "date": "2026-04-08T17:20:00+00:00",
+      "description": "General Atomics reported an incident involving one of its YFQ-42A collaborative combat drones  Zona Militar",
+      "query": "drone incident",
+      "detected_at": "2026-04-08T20:15:46.049373+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a7961bf89299"
+    },
+    {
       "title": "Third Pole held for Czech factory arson - tvpworld.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnRPZndhNUQxazJkRzlLT1N5ZUNwQno1SG84Z1JIdmpqQnAyNlQ4Q3YwMWxVUTFLVHhMU25xRFhxMkx6MV9Xa2xMZmZ5NDJ2VG5jZzV2SFZnT1Z4Yklkb2g2Tm1nQUh6bUFrYWFBTVBtYU9pTE1tMTRKQW02VUtiM3RUal8tOS1CN2Q3Ym5ydGwtVERRVWJKd3lST1ZWQVBJSnVGUWdzdmU5Q1E?oc=5",
       "source": "tvpworld.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "c76e5d35b608"
-    },
-    {
-      "title": "Drones Incursions Over B-52 Base Spark Concern - Air & Space Forces Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG1WNkctOE9QLWJ0eXhKUlN3d3IxQzhwcFZWTDdlaGd2QXBKMEhZZ2dSMm9xaTg3d3FLNUoyRDVnWWZWV2hfY0NOanFDT3dEMGtPc2tEVEtXS2FYVENMOVFjVTRxOERyT1A0YWM1c1QydXhjTnVlTnRISDh2dUoxNTl3OFpGRXVYbkNWZkZ3?oc=5",
-      "source": "Air & Space Forces Magazine",
-      "date": "2026-03-24T04:16:10+00:00",
-      "description": "Drones Incursions Over B-52 Base Spark Concern  Air & Space Forces Magazine",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-24T08:18:27.319996+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5f592aacb32b"
     }
   ],
-  "last_updated": "2026-04-08T19:31:38.900480+00:00",
+  "last_updated": "2026-04-08T20:15:51.613874+00:00",
   "total_count": 1000
 }
