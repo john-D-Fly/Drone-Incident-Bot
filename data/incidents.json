@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "General Atomics pauses drone wingman flight tests after crash - defenseone.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlhHSmNkTk9HdGFRcDdPc3ZkV2FFNzBGZ2E3aUhhUWMwMkdJZGJ3eUIxXzM1U05RUkJhZDFMajBrNFpxMVdIUUxVWWxzc1puNDhkTDVFcXd6Q3BJUjZaWmFlLTlIdzJyZThsd1ltVlBRSnB1Q0N6ZlpYLThSZ1ZZclBFYWdIbU5zX2ZQd2VrS2ZhLW9kMklNbmJhM19uMkZDT0lEWVBlX1pzVEFpQVA2bDc5bWF5LUV0NWtDaw?oc=5",
+      "source": "defenseone.com",
+      "date": "2026-04-07T01:16:15+00:00",
+      "description": "General Atomics pauses drone wingman flight tests after crash  defenseone.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-08T09:28:12.679738+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1775757b11b8"
+    },
+    {
       "title": "Drone crashed in Duhok despite US-Iran ceasefire - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmQ5NV8tUHBBYjFzSWFiOVFYWGp6ZGpnTFhIZm5KWUhXWklzMklMTzViNm1lQ1ljRXBZcENVWjlKUmZEUkYtWEx0enpQUVUtMW9FV3lYdU1YNG9xOUV5eTBwejlGZ0Q2M3ltcXVsTVlIUEpQYWh6WTUzaUhWdl85RnpKS3pnMzg?oc=5",
       "source": "شفق نيوز",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "da54cd241d45"
-    },
-    {
-      "title": "Florida officials announce 81-year sentence for ‘drone kingpin’ smuggling $1.5M in contraband into state prisons - Florida’s Voice",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlB3M3RPOXU1OUVYVVF4UFlvVDhOS1gtRGdYZWtFdmlPOXhNNFY5X1JMUjh1U1o1ZnhSTk1WY0NoUmgwWjNtNXpiYVd2ZEVDZmM5T2cwZExoZDZibVljN1dOcHNORG5maHRKTzdqUFlKR3g1QmtQQk5YUkl5OVFhV3l3VEJDYWdEdlgzczBma2VzUjNtMHlaaGdIbm5lTlVXM2l3V2g1U3BZaHJFcTlkVkEtc3JRMUtDRzR5ZDh4VVpyWUpqZk5PVG1TZG5sT2c?oc=5",
-      "source": "Florida’s Voice",
-      "date": "2026-03-23T17:41:00+00:00",
-      "description": "Florida officials announce 81-year sentence for ‘drone kingpin’ smuggling $1.5M in contraband into state prisons  Florida’s Voice",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-23T23:11:15.000151+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "37ea8ba8ade2"
     }
   ],
-  "last_updated": "2026-04-08T08:29:34.422772+00:00",
+  "last_updated": "2026-04-08T09:28:18.036228+00:00",
   "total_count": 1000
 }
