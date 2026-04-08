@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "AWS Data Centers Hit by Drone Strikes in Middle East War Zone - techbuzz.ai",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGllbVo0eFRMakU0RTRzTkxySk1vRjlqbC1ELWlRRkhpeXNEVGVia2lOTVNDcXg3NmdhaWVtYTd0NEZnUkFVbmlSRGdGd3IxYXRLZEduUUFvRWM1bVE4OU1UREZqNWJZT0gyRk12TkF5bWVaV0U3YnVMX3JuZ2U2VUdCU003dHpRTUEtUTE4YXMwc2J6cWx3N1VB?oc=5",
+      "source": "techbuzz.ai",
+      "date": "2026-04-07T19:21:00+00:00",
+      "description": "AWS Data Centers Hit by Drone Strikes in Middle East War Zone  techbuzz.ai",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-08T03:07:41.169935+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "56304df4dee5"
+    },
+    {
+      "title": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered - WKRC",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTERPdGhTWVVfZ25hUUtEN3BZWE9yRFpxWnBCTkxETnJkTUIyaHFZVk8xQjJ0eFdlbjh2Rk15bnJKeVpLZ2ZLdG8wek5ldzgtUkpZOC1VWkVMd3EtUzZpYkF1aEg2N2pxRHhWRGxDT0JWQU9fWjNjNXJwUDMzWG9sNzlleVdZYXUweEdYTngwWmdTZ0RvSFZQR012a0JmYW1FMDFsZXAxQ1V5YkJ5ZDFPTVU0Ni1YRS1WUzBCT1VHbTJyT0JReWlIQWp4T05FOUxmZVhsU0V0VVZ1M2ZVV0hWc05CcmJvN1VseGNCc25hOGVONXlOMHRQT3lQcHhnMTc1ZTFSSmU4VVB6M1VqX05VaFYwanlweWFlai10WmwzWkJodnp3U2VRWVdhYU1YeEpnR2xiRk1aNE83OTFZNDNDWloxOA?oc=5",
+      "source": "WKRC",
+      "date": "2026-04-08T02:17:10+00:00",
+      "description": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered  WKRC",
+      "query": "drone arrest",
+      "detected_at": "2026-04-08T03:07:37.455014+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "aa4151dc7171"
+    },
+    {
+      "title": "Vilkovo Strike Linked to Azov Sea Drone Attack Incident - voennoedelo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVJxTUpjcXJZbEJmU0tRWkZ1ZFY1Um9vTTNQY0pDLUYxVzVpMm5UbDFRLVZJS2Rkc3lmak05Ym9Ka0hPUTAzRG41YV9kRFg2Uzd6LVhkSlN2ZDNCdEZwZzdPaFNqMVBpVTFEMUtjUVJGUGlnTG9SVllqZ0pmZ3lfaHVnQ2VXQUJYYlk5Z0p2VE50TFFJX09XU2tBTjLSAaABQVVfeXFMUHpuNkF1M0ZZaTBqNHh0TjNrTXhhZ1RTWkFORnZnM0tFQXhTRlUxNXBBTE51M294aW9IWmpBUlltRmtwTnY0bW5aV21sM3BIT2hPamtra1RrR1ljNjlIbTlwNG9TY0lIQ3YxdGNKdjZEQlJWaGlvZXB2c1U1aUZmeFN4ODBXNDV3UFF5M3UwSExCeXZhRGJWMGJSMi0wbUw5Rw?oc=5",
+      "source": "voennoedelo.com",
+      "date": "2026-04-07T10:41:03+00:00",
+      "description": "Vilkovo Strike Linked to Azov Sea Drone Attack Incident  voennoedelo.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-08T03:07:36.892060+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6e556bb0dc6c"
+    },
+    {
+      "title": "General Atomics Pauses Autonomous Drone Tests After YFQ-42A Crash - Thomasnet",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42aTlDaExSekZ0ZE0zSkQ2SVZPTy1JNkFSaGhmU2pmUlVyclRzM2VrX28zbkNTUGtkU2ltNjloNUxvc2FESWpwdWsxOWhpa09ERGZWWDBHVjVDb1doTkhFZ3hHWnBjbUV2VWtJV1ozazRjWDg?oc=5",
+      "source": "Thomasnet",
+      "date": "2026-04-07T19:38:58+00:00",
+      "description": "General Atomics Pauses Autonomous Drone Tests After YFQ-42A Crash  Thomasnet",
+      "query": "drone incident",
+      "detected_at": "2026-04-08T03:07:36.892060+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f60bf7f2b2bf"
+    },
+    {
+      "title": "General Atomics pauses drone wingman flight tests after crash - Defense One",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlhHSmNkTk9HdGFRcDdPc3ZkV2FFNzBGZ2E3aUhhUWMwMkdJZGJ3eUIxXzM1U05RUkJhZDFMajBrNFpxMVdIUUxVWWxzc1puNDhkTDVFcXd6Q3BJUjZaWmFlLTlIdzJyZThsd1ltVlBRSnB1Q0N6ZlpYLThSZ1ZZclBFYWdIbU5zX2ZQd2VrS2ZhLW9kMklNbmJhM19uMkZDT0lEWVBlX1pzVEFpQVA2bDc5bWF5LUV0NWtDaw?oc=5",
+      "source": "Defense One",
+      "date": "2026-04-07T01:19:20+00:00",
+      "description": "General Atomics pauses drone wingman flight tests after crash  Defense One",
+      "query": "drone incident",
+      "detected_at": "2026-04-08T03:07:36.892060+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a3680c03061a"
+    },
+    {
       "title": "Russia Reports Drone Attack on Caspian Pipeline Consortium Facility - Caspian News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXRmVVc0UmZyaFJLbzVWdXFjMEhlODZPLW5QWnBRNFZnZTVNMmNGaFlTUzNpQVlJQ3VrTkFQQmZZU2FOaXFEbmI4cmotMEctTjhHamduRThYdUZQRHJQSUNpTVNGeHRjbnRqVXdscV9fX0lqallIeGVlbFlENnIxa2RHSlk2VDE1WlRVcE9aclFYeXc5eUxMUDRTUXFpRGlZcnlBVkUzUXpOSEdCNlhYVEFnNVBER28?oc=5",
       "source": "Caspian News",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "75ee7aa6e410"
-    },
-    {
-      "title": "Man convicted of drone-dropping contraband in Florida prison sentenced - Pensacola News Journal",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYktOMWNRMzNLU0hVSjlINEhqcU9fVVFqTHVQQzhOeGp5XzN2UVNNQmIxV2Jja1FRbHpJakRHenBNLWhHMTljOGZKRzh3OHdaMWxoUFZJbWdtUVpQWWZEak1TVWR0QWVSQ2hDeE00TEl6Q2stUXhEaVR5a2ZpNG1EbU1kelk1NElsVVl0Rm1MOC1XMk80STJBWmRmQkVDSmwtRTRwb3YtLTNWSU1FVGtiakMzRGNOY0hSUG5uUm5ZelJHM1hEVUVZNjVpS1g?oc=5",
-      "source": "Pensacola News Journal",
-      "date": "2026-03-23T16:52:15+00:00",
-      "description": "Man convicted of drone-dropping contraband in Florida prison sentenced  Pensacola News Journal",
-      "query": "drone prison",
-      "detected_at": "2026-03-23T17:21:04.818827+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7a73e2b577d4"
-    },
-    {
-      "title": "Florida officials announce 81-year sentence for ‘drone kingpin’ smuggling $1.5M in contraband into state prisons - Florida’s Voice",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlB3M3RPOXU1OUVYVVF4UFlvVDhOS1gtRGdYZWtFdmlPOXhNNFY5X1JMUjh1U1o1ZnhSTk1WY0NoUmgwWjNtNXpiYVd2ZEVDZmM5T2cwZExoZDZibVljN1dOcHNORG5maHRKTzdqUFlKR3g1QmtQQk5YUkl5OVFhV3l3VEJDYWdEdlgzczBma2VzUjNtMHlaaGdIbm5lTlVXM2l3V2g1U3BZaHJFcTlkVkEtc3JRMUtDRzR5ZDh4VVpyWUpqZk5PVG1TZG5sT2c?oc=5",
-      "source": "Florida’s Voice",
-      "date": "2026-03-23T16:45:46+00:00",
-      "description": "Florida officials announce 81-year sentence for ‘drone kingpin’ smuggling $1.5M in contraband into state prisons  Florida’s Voice",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-23T17:21:04.281945+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "09ce6d8da527"
-    },
-    {
-      "title": "Woman charged after shooting incident, damage to state police drone in Schuylkill County - fox56.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUdSOEs4dEZDTDYxZTZOY0Qxb0J0RlVjUlR4azdKZFc1bUtlRnJYZW5tVHBIM2haaGU2czMtZTN4MnpXWEhrc2o2RlROM1BxMkdXMVFJcXhudmMwMnRsallmU3BrT0lDTlNvbHVQbkJVV3JxcEJ4UkI0SmFGU2txd2xyMnNJbUFJaDJWMzRJcXNyb3dMNnZJWUF3Zmc5bHpqd1VkSFZxSHljUTFxdlBFazYyNE52QUk?oc=5",
-      "source": "fox56.com",
-      "date": "2026-03-23T15:22:14+00:00",
-      "description": "Woman charged after shooting incident, damage to state police drone in Schuylkill County  fox56.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-23T17:21:03.005348+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "569104ca7273"
-    },
-    {
-      "title": "Suspected drone crash reported in border district overnight – NKVC - Delfi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYms3dHV6aGtPQ3c5d2JwV1FxRWlqenhnTVBQRVdHaS00WmZ5Z1pvYThkaXc1MDFYV2xVNjVEVjNKREUza0JCRWVDYjlob3gwQ3ZEb1loVGlKVGRCdWo0Y01uVDhMNHE2aFZmUlJLM21DdE0wdmw2XzRLem9OR3JVZkdwQkFiaGFpS3JsLXVFV013Wk9oeTVNNTdoU195UEFsR0JaZWJhc1JTc2s?oc=5",
-      "source": "Delfi",
-      "date": "2026-03-23T16:02:46+00:00",
-      "description": "Suspected drone crash reported in border district overnight – NKVC  Delfi",
-      "query": "drone crash",
-      "detected_at": "2026-03-23T16:22:51.999704+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "52df74f12e1e"
-    },
-    {
-      "title": "James Uthmeier: Man sentenced to 81 years for using drone to drop items to prisoners - Florida Politics",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlRzSkhvOFFzVnJ3R2RfZVZaVWZRWVBMUUliT296R1g5T244djRLalphRUVEMG9NX2s4d3Fpa01hT21mekphT0hYV3ZSZXV3d2tnWE96WDNCMXBKZk1xdklvOFlnWkpkR0lGeEFINFY2ZVRaWUxxcWgzT2ZUbHIwUlJJaHpMS0NCUVU1UkxpNGgxaVJuZDMwQVNsSnRXWmJlSXNXNUVOSmdubkRrU3pvZHQzcy05TU1YVldlZ3dST00wNGlQUXpv?oc=5",
-      "source": "Florida Politics",
-      "date": "2026-03-23T16:00:49+00:00",
-      "description": "James Uthmeier: Man sentenced to 81 years for using drone to drop items to prisoners  Florida Politics",
-      "query": "drone prison",
-      "detected_at": "2026-03-23T16:22:50.721451+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "23a62492f31f"
     }
   ],
-  "last_updated": "2026-04-08T01:37:17.182310+00:00",
+  "last_updated": "2026-04-08T03:07:42.201012+00:00",
   "total_count": 1000
 }
