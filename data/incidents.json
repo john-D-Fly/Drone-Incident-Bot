@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Desk-sized drones and 30‑pound drops at SC prisons. State AG asks Trump for help - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnYlVrcDM4bjNXNTVWMHpqa2h3T2JDS0RXUU5lcTN1WUZGMVpDUENfTFpFWTZuRVBmc0RQcndXM3kzR0g3VVd3aTdOZUxnRnJfN3h6dTFWWmhLSEwtVkptQTJrSHU4aFpoNWcyMFRyUTZOUEZC?oc=5",
+      "source": "AOL.com",
+      "date": "2026-04-09T01:42:17+00:00",
+      "description": "Desk-sized drones and 30‑pound drops at SC prisons. State AG asks Trump for help  AOL.com",
+      "query": "drone prison",
+      "detected_at": "2026-04-09T03:07:28.339101+00:00",
+      "location": "at SC prison",
+      "category": "smuggling",
+      "id": "caa7f358615b"
+    },
+    {
+      "title": "Iran: Child Killed, Six Others Injured After Drone Downed in Shushtar - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEU1MzFRME9BMXNjaUtteFdlX1pPMmxtWEx4aXNrc1ltT1lUeGVBSXROOFVheEo5T3kzaDZJLS1MendSdXI1ZkY0YnFwNmxnODh5dFJyTmFfQ3cwanFXQ0ZJSlRaaHFTUkl3eTAzbWlrelo0Y0RpSzdxYjJLVlJaM2dPeWNya2RPWDh3U3pkM2tJdFU3YklhbnNpQXRveUlpWUtVdHBuZDUyaUZyVEEwOVpVMEZOUVFQQnZF?oc=5",
+      "source": "صوت الإمارات",
+      "date": "2026-04-09T02:18:24+00:00",
+      "description": "Iran: Child Killed, Six Others Injured After Drone Downed in Shushtar  صوت الإمارات",
+      "query": "drone incident",
+      "detected_at": "2026-04-09T03:07:26.748739+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3fdc4197e9b7"
+    },
+    {
       "title": "Hill AFB reminds public: base and ranges are ‘No Drone Zones’ - Tooele Transcript Bulletin",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXBJa1lnVUpPUWU1S3NzZnBWQ05DV0ktTlBIcG4wb3NqcUlIX0xoNVRCWGl3UjJ5NHdyR1h4bThRamo3OTlFTVhYbXotQ1B2Ung4MXM4UXVLVWVUcFlEczFKZjdWSEZRRjZZb0c3WFEtV0s3TlJjZk5QNTdSajhxTmQzX2pDNlExTlQ4TlRPTmxLaG9YOUpiQzNzRHQyNnN1Ny1vZQ?oc=5",
       "source": "Tooele Transcript Bulletin",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "468e1b91481e"
-    },
-    {
-      "title": "Dublin Airport warns of disruption to Middle East flights today after drone attack in Dubai - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlFlZDA0Z3BhdmlUNHVTbnBrbUdadGI3c1hLVTJnSFRqZWVTay0xVThRRTdCQm40eVlXWnBlTGR1azYzbFFQal8xLXM1Q042eGpad3JPZlpiTFUzQ1hqM1FLYmFoYkFtS1Naa0gwdHA0dmphT3BhT2pnN3NUWmRpQ2dKUTZfME5odXNfSDJqTHNITDhOYlRuOVYzVldGSHRLQVNETFhFYmNJMkp2YzdrajRpT0FMNjZFMGdaUHFyU2lLbkJiSk5pMjBiNWtMc2hHcF8wNldsNA?oc=5",
-      "source": "MSN",
-      "date": "2026-03-24T08:56:33+00:00",
-      "description": "Dublin Airport warns of disruption to Middle East flights today after drone attack in Dubai  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-24T10:20:24.663838+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "7858844c58c0"
-    },
-    {
-      "title": "AWS Bahrain cloud services face disruption due to drone incident - verdict.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHTEw5a19yNnZiMTFJdXJLR3BaNUVNTzhGTXVHUVZTd0tqN0QtX1VSZnZIYk1lVkxrTUdJeGJiWEJiSEk5Mmw4UGdaRjBBM2M1bk1rSVVFaXd1eE1VVXZDZlgyUWh0cklsbzlsVEMzZkhQdw?oc=5",
-      "source": "verdict.co.uk",
-      "date": "2026-03-24T10:18:59+00:00",
-      "description": "AWS Bahrain cloud services face disruption due to drone incident  verdict.co.uk",
-      "query": "drone incident",
-      "detected_at": "2026-03-24T10:20:22.551203+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "6901bf763b31"
     }
   ],
-  "last_updated": "2026-04-09T00:30:10.207070+00:00",
+  "last_updated": "2026-04-09T03:07:31.861195+00:00",
   "total_count": 1000
 }
