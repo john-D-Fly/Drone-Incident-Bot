@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Hill AFB reminds public: base and ranges are ‘No Drone Zones’ - Tooele Transcript Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXBJa1lnVUpPUWU1S3NzZnBWQ05DV0ktTlBIcG4wb3NqcUlIX0xoNVRCWGl3UjJ5NHdyR1h4bThRamo3OTlFTVhYbXotQ1B2Ung4MXM4UXVLVWVUcFlEczFKZjdWSEZRRjZZb0c3WFEtV0s3TlJjZk5QNTdSajhxTmQzX2pDNlExTlQ4TlRPTmxLaG9YOUpiQzNzRHQyNnN1Ny1vZQ?oc=5",
+      "source": "Tooele Transcript Bulletin",
+      "date": "2026-04-08T18:01:49+00:00",
+      "description": "Hill AFB reminds public: base and ranges are ‘No Drone Zones’  Tooele Transcript Bulletin",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-09T00:30:09.528600+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1c645e616853"
+    },
+    {
       "title": "2 arrested in high-speed chase, prison drone drop plot - FOX 5 Atlanta",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVFZuM2ZBeGtyNUgtdlJjTEM5WE85dFhDdFNMR2JZb1NmQ1N6SGlURG5nbGhxQU9UcVhkdklJVXlqRGZtOEpOaXY2eGhmX0RUUjlQTnhlMmVJMWE2VHZJWWVmVEJmdFdFcC1vNC0tMW5MNWxxU1ZQOC14SHB6VGwzSEYxdmZQXy1XREFlbEdjUklVdXVMVVRVa9IBngFBVV95cUxOckpYTEo4VVlWamJNZHF5SGtSM0gwVm9VZzVvMDRCSTlZYVJXWjFMRERaNFRSUDBKUWFqeWUwZHUyVF81VHhMRlg5ZmlXNTdPTVhkNG55aFJhNVBzVzdLVnVJS0piRW5KOVZNYkdQQ2l0TmxOSXZNS0J0Q3lKTUhqNGRGY3JhWDNESE9wcHlrbl9NU01WVnA2UVJsZkJBUQ?oc=5",
       "source": "FOX 5 Atlanta",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "6901bf763b31"
-    },
-    {
-      "title": "Lithuania says crashed drone likely Ukrainian - The Defence Blog",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52X2N0WV9WckY5M1V0NmxmdnJrMklkanlhNm1jU085Y2s4TjMwM2FRb2R4ZzVpWWFUdWc5WDZhTnZzenhneGJYZVFpVjh5M1hnaDBhMU44NURMSUVkWXg3OGNRNWhWTGpmbWdia3VpOEdoV3pCRW1EdUE1VdIBgAFBVV95cUxQdm40clNtbnRIZFNuOUpXd0ZEMTgyZTFlYzJBa280NkloSHZ1amt1SGtUQk5pcUhhS1RLTnRCb2U2aG5TZUU2d0JWcXJoRUVfaWZPMk9hU3NXUGlNV052VmNPV3BQbmJjTnY5ZUlfUG9zb1NQLXFCN0dGMnB3X09jQg?oc=5",
-      "source": "The Defence Blog",
-      "date": "2026-03-24T09:18:06+00:00",
-      "description": "Lithuania says crashed drone likely Ukrainian  The Defence Blog",
-      "query": "drone incident",
-      "detected_at": "2026-03-24T10:20:22.551203+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "0eef63e8e1bf"
     }
   ],
-  "last_updated": "2026-04-08T23:16:20.600534+00:00",
+  "last_updated": "2026-04-09T00:30:10.207070+00:00",
   "total_count": 1000
 }
