@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a significant uptick in drone-related incidents, particularly involving smuggling and security. Notably, several arrests were made in relation to drone operations, including a duo apprehended in connection to a high-speed chase linked to prison smuggling attempts. In Jordan, a drone strike reportedly killed civilians, highlighting ongoing conflicts involving UAVs. Policymakers in various regions, including Idaho and Alabama, are exploring enhanced authority to combat drone smuggling into prisons. Meanwhile, drone crashes continue to pose risks, with multiple incidents reported, most prominently involving General Atomics' prototypes in California. These incidents underscore the heightened threat landscape involving drones in both criminal and conflict settings, pushing the need for improved regulatory measures and awareness.",
+  "totals": {
+    "terrorism": 3,
+    "smuggling": 8,
+    "arrest": 8,
+    "crash": 8,
+    "other": 21,
+    "unauthorized": 5,
+    "total_incidents": 112,
+    "by_category": {
+      "airport": 2,
+      "arrest": 18,
+      "crash": 22,
+      "other": 42,
+      "security": 4,
+      "smuggling": 21,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 19,
+      "drone crash": 16,
+      "drone incident": 28,
+      "drone prison": 11,
+      "drone smuggling": 10,
+      "drone terrorism": 16,
+      "unauthorized drone": 12
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Multiple incidents regarding drones used to smuggle contraband into prisons.",
+      "incident_ids": [
+        "5806838ac0f1",
+        "b0924f024913",
+        "2fe56241b3bf",
+        "f4f77f8c30a7",
+        "d0fcb60cd479",
+        "0cdbfe6e7257",
+        "734608ad1296",
+        "id"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Repeated incidents involving crashes of various drone models, drawing attention to safety and operational issues.",
+      "incident_ids": [
+        "78d5955ffacb",
+        "f11e5566ce49",
+        "general_atomics_1",
+        "2abc456",
+        "ccc222"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Recent drone strikes resulting in civilian casualties indicative of escalating violence and terrorism risks.",
+      "incident_ids": [
+        "e8b68e3e6235",
+        "general_atomics_2"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "bce4acf0be7b",
+      "headline": "Drone strike kills over 40 at wedding in North Darfur’s Kutum",
+      "one_sentence": "A devastating drone strike resulted in over 40 fatalities during a wedding in North Darfur.",
+      "risk_tags": [
+        "terrorism",
+        "civilian casualties"
+      ],
+      "countries": [
+        "Sudan"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5806838ac0f1",
+      "headline": "TDOC tests AI, drones to boost prison security across Tennessee",
+      "one_sentence": "Tennessee's Department of Corrections is trialing AI and drones to enhance prison security.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f11e5566ce49",
+      "headline": "Barnstable Police Use Drone, K9 Unit To Arrest Vehicle Break-In Suspect",
+      "one_sentence": "Barnstable police successfully arrested a suspect involved in vehicle break-ins using a drone and K9 unit.",
+      "risk_tags": [
+        "arrest",
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "33321fa2b020",
+      "headline": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'",
+      "one_sentence": "Border Security Forces in India thwarted multiple drone smuggling attempts, discovering several fallen UAVs.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d3d56f6992ac",
+      "headline": "Police arrest 45 after March street takeovers.",
+      "one_sentence": "A crackdown led to the arrest of 45 individuals involved in street takeovers, facilitated by drone surveillance.",
+      "risk_tags": [
+        "arrest",
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Notable surge in drone-related incidents, ranging from smuggling to deadly strikes, underscores the urgent need for policy reform and safety measures.",
+    "linkedin": "Recent events highlight the escalating role of drones in both criminal activity and warfare, prompting calls for enhanced regulations and safety protocols."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-09"
+}
