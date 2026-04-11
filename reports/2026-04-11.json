@@ -1,0 +1,121 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a significant range of drone-related incidents reported across various regions, highlighting issues related to smuggling, prison security, and terrorism. In Ukraine, drone strikes and strategies against Russian forces have escalated, while prisoners have been exchanged amid geopolitical tensions. The U.S. is seeing a spate of unauthorized drone bans in light of potential security threats, especially around public events. Smuggling incidents involving drones continue to be a concern, with various states exploring policies to mitigate risks in prisons. The Islamic State's use of drones for psychological warfare has also raised alarms. Overall, the incidents reflect the multifaceted challenges drones present to security, civil liberties, and law enforcement.",
+  "totals": {
+    "arrest": 9,
+    "smuggling": 5,
+    "terrorism": 6,
+    "other": 29,
+    "drone prison": 6,
+    "drone incident": 6,
+    "unauthorized drone": 6,
+    "total_incidents": 39,
+    "by_category": {
+      "airport": 1,
+      "arrest": 6,
+      "other": 22,
+      "smuggling": 7,
+      "surveillance": 1,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 7,
+      "drone illegal": 3,
+      "drone incident": 6,
+      "drone prison": 5,
+      "drone smuggling": 3,
+      "drone terrorism": 10,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Strikes and Warfare",
+      "rationale": "Involves various incidents related to military operations using drones in conflict zones.",
+      "incident_ids": [
+        "c566879d9c73",
+        "921242d448c5",
+        "d9ed5caa70f7",
+        "2c1ed65412bb",
+        "bce4acf0be7b"
+      ]
+    },
+    {
+      "topic": "Drastic Measures Against Drone Smuggling",
+      "rationale": "Highlighting responses to prevent drone smuggling into prisons.",
+      "incident_ids": [
+        "cf57ac465db4",
+        "24fbc62de6ae",
+        "91c6992789f5",
+        "678c89831eef"
+      ]
+    },
+    {
+      "topic": "Government Response to Drone Threats",
+      "rationale": "Includes government actions and proposed bills regarding drone security and regulation.",
+      "incident_ids": [
+        "573040788285",
+        "45dc9c1901c8",
+        "8020aff9ed98",
+        "55e91bc117e8"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c566879d9c73",
+      "headline": "Islamic State playbook with COTS drones",
+      "one_sentence": "The Islamic State is focusing on consumer drones to enhance psychological impact.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "123c6dd68ba5",
+      "headline": "Russia and Ukraine trade prisoners, drone strikes",
+      "one_sentence": "Amidst tensions, Russia and Ukraine have engaged in mutual prisoner exchanges and drone strikes.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "921242d448c5",
+      "headline": "Drone ban set for NFL Draft sites",
+      "one_sentence": "Pittsburgh enforces a drone ban at NFL Draft events due to potential threats.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "4161276cef03",
+      "headline": "Georgia AG ready to stop drone smuggling",
+      "one_sentence": "Georgia's Attorney General expresses readiness to use countermeasures against drones used in smuggling.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "8c48554d9c6a",
+      "headline": "Drone incident highlights on privacy and liability",
+      "one_sentence": "A drone incident in France raises concerns regarding privacy and liability risks.",
+      "risk_tags": [
+        "surveillance"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones continue to reshape security dynamics with a mix of smuggling, arrests, and geopolitical tensions over the last 48 hours.",
+    "linkedin": "Recent drone incidents illustrate ongoing challenges in mitigating security risks across various sectors worldwide."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-11"
+}
