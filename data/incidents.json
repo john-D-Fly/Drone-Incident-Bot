@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Video: Redmond police use drone to arrest suspect - MSN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXRRM1ZiaVJ6VmZCamltd1VVZW92VXBhaGYwaS1OOVd1bHJnR21SWllCZ0JObnFBZDVrUEthUGtreEJjeHB0QWxLWDRhaExiSGc1dlFOOHJNYm9oTlZUWTg0cE9jaHhWV0dDSWVEU3NtQ2I0bUhiOWVwZmd5eE1xNHYzWUc5LVBSdWZCNmQwU3FOa3poeWRtdDZCckdQQQ?oc=5",
+      "source": "MSN",
+      "date": "2026-04-10T20:53:37+00:00",
+      "description": "Video: Redmond police use drone to arrest suspect  MSN",
+      "query": "drone arrest",
+      "detected_at": "2026-04-11T06:26:26.725197+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "8020aff9ed98"
+    },
+    {
       "title": "Drone ban set for NFL Draft sites in Pittsburgh - TribLIVE.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVB6eWlFcnFfZVhNclNDXzVvRUllSEV0Y3E4eUY3NjkwMms3UVZwbTVvTExWbXJXQ1htQ19nRm9rckNuNzhuUDd4THAtemw5REFJSmJYTEVKSTdOUGNVMy1SbVRWRmUyeW8xVnF2Zjloc1hnb2E5WXpDTHpjZWlxTjBGbXJDeEFTTTMtc0NWWFZLb2lpUmZ3MGlKelJEUTNi?oc=5",
       "source": "TribLIVE.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "3bbebd049373"
-    },
-    {
-      "title": "Lithuania investigates possible drone crash - Baltic News Network",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yLUhPVm1YS2IxaXVPN3gteE4zVjZ4NHN5VWdPOWVPRFF6WlMtYV9mNnowcFFseVNJaXo1Q1hQbEVUY1ZxQlg2WGNFUExzZzNGMnQySGtmbUg2SVUtRDlCSGtQUEVaUkZxdXAxczNJNTEtay1IZEw0OFB6bw?oc=5",
-      "source": "Baltic News Network",
-      "date": "2026-03-24T09:17:11+00:00",
-      "description": "Lithuania investigates possible drone crash  Baltic News Network",
-      "query": "drone crash",
-      "detected_at": "2026-03-24T17:23:22.011651+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b9ecb2b7508a"
     }
   ],
-  "last_updated": "2026-04-11T00:33:45.037429+00:00",
+  "last_updated": "2026-04-11T06:26:31.305460+00:00",
   "total_count": 1000
 }
