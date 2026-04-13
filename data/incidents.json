@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "🚨 The man from Manchester was among four detained and faces prison time in the US if convicted - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNkJ4aVhWWXpPdVdONXhaWkpwTTJudEZCbV9SWXdQTlQxdmlJclU0QXdfMThzeVF2aDVfX2ZGY180UDhKdW5tNHJ0ZG9IZjJXUkdBR3BVbTdpd0t1N094aWZkMm9ZS3F4a055MDVFM19CYU5xRWdWYkM0djNhNlNKRm5uVWtEVEdCY0RmR3lraEhPMV95M2YtT01aMnZGTnJFUWRYamt5LVhqeENUbmY2dmdjcmNDX3F0cU9CcU1FYkhyZUhfRmxsM185T3dPVWFMUGZrTzBsSGNvRnozcmpVRzJ6NGlrdw?oc=5",
+      "source": "facebook.com",
+      "date": "2026-04-13T10:07:05+00:00",
+      "description": "🚨 The man from Manchester was among four detained and faces prison time in the US if convicted  facebook.com",
+      "query": "drone prison",
+      "detected_at": "2026-04-13T10:36:15.393235+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "90c910527e00"
+    },
+    {
+      "title": "Drug cartels are now using hulking drones to smuggle goods over the border - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSE9qYkVaSEd0eEhVNUk4VS1uT3RIdzZ4d244OWZQbnhNaHp6N0U4blJKOW5qa29XVVFBRm9tdmpPeldSRnBUcDAzNmVJVlVaSEhzN2V1SVdMNmR3akNZ?oc=5",
+      "source": "Mashable",
+      "date": "2026-04-11T20:13:10+00:00",
+      "description": "Drug cartels are now using hulking drones to smuggle goods over the border  Mashable",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-13T10:36:14.860279+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4849555ef47e"
+    },
+    {
       "title": "D-Fend Solutions Secures Awards Event Using RF-Cyber & Counter-Drone Technology - Unmanned Systems Technology",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaG5IeXFPamI5RS1GVmFHMThwc2NoWmtNenliZ1ZYUklCQU1YYjBFSC1xcWJpMWVEWTJFQi1tM3p6Yk55aE9rNjJSdHhOMTBlRWU2STNBVU5HWHBrdFZNTkJicXljQk9UMFVDSU9DeHhwaFpDRENkWlZQQjVueDlhSzk0OTJyS0tYWmRNWnMyTG1UN0x3THhrNkZpelJLdm5DdG5ISXNmeDR6UnoyN1k1VTJ1R0RLelZ4WnV3NV93bU9aMDE3VldF?oc=5",
       "source": "Unmanned Systems Technology",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "f37a0ec90614"
-    },
-    {
-      "title": "Estonia Says Drone Enters From Russia, Hits Power Station, Err Reports - Global Banking & Finance Review®",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEN5MXV5RTFCX2p4ZGtoU2lLeXZySWRuRXhqSzBVLVBxZTAtbWJLUFBJU0tudmkzVG04cTEtbE1pTVItRm9JQnNTZk9zVkFobjVjb2pCT2JNSVlBSDJ2cWlQcFpBVUd2V0xVbW1pUEwwZkhMN2lpaXhHVHY1R3NPTGZxM091RWtPV1JacjBaMDctc2dYT3RMSUszck54OW0x?oc=5",
-      "source": "Global Banking & Finance Review®",
-      "date": "2026-03-25T08:37:05+00:00",
-      "description": "Estonia Says Drone Enters From Russia, Hits Power Station, Err Reports  Global Banking & Finance Review®",
-      "query": "drone incident",
-      "detected_at": "2026-03-25T09:21:00.452556+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9115f7809b88"
-    },
-    {
-      "title": "NATO Ally Hit By Drone From Russia - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kaTFNRXozb1YyWXp4U00tdWhBOHVicWgzSGhBd2RvSlRQbXZNaFZDV241LXdxclY0Y240NkNjYXBoTk9ucGtpc29qYjlMNVdaLW1BRWJ4dUxGczV2bFdVSkZha2V2b2g3?oc=5",
-      "source": "Newsweek",
-      "date": "2026-03-25T07:13:00+00:00",
-      "description": "NATO Ally Hit By Drone From Russia  Newsweek",
-      "query": "drone incident",
-      "detected_at": "2026-03-25T09:21:00.452556+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "82dc97283e3f"
     }
   ],
-  "last_updated": "2026-04-13T08:46:25.359355+00:00",
+  "last_updated": "2026-04-13T10:36:19.020644+00:00",
   "total_count": 1000
 }
