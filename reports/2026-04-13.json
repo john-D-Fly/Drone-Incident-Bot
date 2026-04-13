@@ -1,0 +1,120 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a noticeable increase in drone-related incidents, particularly linked to smuggling activities and law enforcement actions. Several reports highlighted drug cartels employing drones for cross-border smuggling, along with prison-related incidents where drones were used for illegal deliveries. Notably, arrests have been made in the U.S. and elsewhere, where drones facilitated criminal activities or were monitored by law enforcement. Moreover, drone incidents disrupted airport operations, especially in Russia, where multiple closures occurred due to drone threats. There is also ongoing investigation into drone fragments found in Estonia and incidents involving unexploded ordnance. The operational landscape emphasizes the persistent challenges posed by unauthorized drone usage and the need for enhanced counter-drone measures.",
+  "totals": {
+    "smuggling": 5,
+    "arrest": 4,
+    "crash": 4,
+    "airport": 7,
+    "other": 10,
+    "total_incidents": 41,
+    "by_category": {
+      "airport": 7,
+      "arrest": 5,
+      "crash": 4,
+      "other": 16,
+      "smuggling": 8,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 8,
+      "drone crash": 5,
+      "drone incident": 9,
+      "drone prison": 2,
+      "drone smuggling": 5,
+      "drone terrorism": 5,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "smuggling",
+      "rationale": "Drone incidents primarily related to the illicit transportation of goods.",
+      "incident_ids": [
+        "9ca58a18dcb2",
+        "4849555ef47e",
+        "0ad65721dddc",
+        "87567c9b0a34",
+        "164c62b6c4ab"
+      ]
+    },
+    {
+      "topic": "arrest",
+      "rationale": "Multiple incidents of arrests facilitated by drone surveillance.",
+      "incident_ids": [
+        "90c910527e00",
+        "dd55962a2219",
+        "44ab7043bb34",
+        "11ab8b92bc83"
+      ]
+    },
+    {
+      "topic": "airport disruption",
+      "rationale": "Drone threats causing significant interruptions at airports.",
+      "incident_ids": [
+        "cb6c41be6022",
+        "fc6ac7310ef2",
+        "79ba2a582c30",
+        "1351c8e888b7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9ca58a18dcb2",
+      "headline": "Prison Smuggling Case Underscores Growing Demand for Counter-Drone Security",
+      "one_sentence": "A recent prison smuggling case highlights the need for enhanced counter-drone measures.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "90c910527e00",
+      "headline": "The man from Manchester was among four detained in the US",
+      "one_sentence": "A man from Manchester faces potential prison time in the US after being detained in connection with drone smuggling.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "4849555ef47e",
+      "headline": "Drug cartels are now using hulking drones to smuggle goods over the border",
+      "one_sentence": "Drug cartels have turned to large drones for smuggling operations across borders.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "7d39814c5819",
+      "headline": "11-time felon arrested after chase tracked by drone",
+      "one_sentence": "Law enforcement utilized drones to track and arrest an 11-time felon after a vehicle chase.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d92f41eb48ac",
+      "headline": "Ukraine: Russia launched 98 drone strikes overnight",
+      "one_sentence": "A significant wave of drone strikes was reported by Russia in Ukraine, totaling 98 strikes overnight.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents in smuggling, arrests, and airport disruptions highlight ongoing security challenges.",
+    "linkedin": "In the past 48 hours, we've seen a surge in drone-related incidents, notably regarding smuggling and law enforcement activities, underscoring crucial security implications."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-13"
+}
