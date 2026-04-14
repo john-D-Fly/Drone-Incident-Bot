@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone alert sirens sound in Metula area; IDF says incident over - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMms0N183ZkNtVmtpaDhIbUt6Q0I5T2lLMDJzRjFWcWZrQV9rNlJtWDJMUGt6OWlLS0RCUjduYkxPZ0NUOHk3LTgtUnpQcm9ZZDVVRFZGT3hXajJpeG82Yi0wN0oyUkRSNG4yOFZFYkdfSy1QckNlOWdkX0hGajhoS21laFVpYzBBcG90Q1JkRDhJVGZuUmNuSmZpTGYwX0g1bVRiSkNPQTc0YVRt?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-04-13T05:17:00+00:00",
+      "description": "Drone alert sirens sound in Metula area; IDF says incident over  The Times of Israel",
+      "query": "drone incident",
+      "detected_at": "2026-04-14T11:26:16.216744+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "75dfdb0b275e"
+    },
+    {
       "title": "Bahrain Summons Iraqi Diplomat Over Drone Incident - News of Bahrain",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yU1dxcmZNcmpQRDVQRGJpN2FlSEtXejJ3ZkZ6MWNTZWo1aTE2UUJzM2V4bDFqYXJDbHRqVnRuNjRfVU4tVDJmTUgyMnZwSGlPb1V2V2RoNFlPS3RzNEE?oc=5",
       "source": "News of Bahrain",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "984073b701ea"
-    },
-    {
-      "title": "Iran and proxies continue attacking regional airports, energy facilities, military bases, and residential areas (March 20-23 updates) - The Long War Journal",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNU1ud0ZRbGxHdnQ5ZUpHRU9PZTkwVG1SVV9vWWRVLXRDeEp1SzVkM2ZacTJsSWhlLTNRR1E2bk1tMGNyM3RCeHRPU0p6ZjUtek9DLTN3THEwb3AwemVTb3BWc19zVjU2WFNGSXhBQWZqazltcFlhVnhrZ2dsSV9Lc0pJbjZyZTdtZFQ1NDVyRGV3RU81eEFQeEt0Tk9sRkdWUTRwTHNxRzIxTFVvb2xFR0NaNkIxT0hqb01INE5ick9kVEhwN0VfNnVHeS1IZHNlTGxKTERna2dJTk5mQlJsaVAxbEFWSThsVVluRGtNbmdjYXBxcERhdHcxOWFVdGRwTS11T0l0cmwweHU0?oc=5",
-      "source": "The Long War Journal",
-      "date": "2026-03-23T23:15:58+00:00",
-      "description": "Iran and proxies continue attacking regional airports, energy facilities, military bases, and residential areas (March 20-23 updates)  The Long War Journal",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-25T15:28:56.825478+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fb7ab1fc6a1e"
     }
   ],
-  "last_updated": "2026-04-14T10:31:43.963504+00:00",
+  "last_updated": "2026-04-14T11:26:21.183355+00:00",
   "total_count": 1000
 }
