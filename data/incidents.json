@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Corpus Christi police arrest man suspected of targeting women in multiple southside apartment break-ins - KRIS 6 News Corpus Christi",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOFZqdC1wZnAyYUJIU2FVVk5zamNQa3dNZDRMcU1KTUV5WEdmN2NURy0xTllGWERFcmprMmwzTU1XbjN4REljYnU0X1BPbEpkbGhwNF9QR1U1TDRoNThqTF9Ec2pFOW94dWFrVGZ0dV90eFdRVVBaeXdPZkJIcy1vZGxJa1ZiMXF4VW5rR095LVFsaGZKcnVTVHB4VjJFejBPeU40c1l6MC1rQTJMcExGQTdfcHBLaWlyUVlySjdweDVibGphdlE3MldOcU4wUzBkaU4wYWozRGpjaWtUWW9TazhXR3pmN0dmM0JmTEVudWJTeHdfWHVWWW81RVNrLV9WNW44SmxoX3U4UHpzbVo3Zk9ZSGJaZUk?oc=5",
+      "source": "KRIS 6 News Corpus Christi",
+      "date": "2026-04-13T21:17:36+00:00",
+      "description": "Corpus Christi police arrest man suspected of targeting women in multiple southside apartment break-ins  KRIS 6 News Corpus Christi",
+      "query": "drone arrest",
+      "detected_at": "2026-04-14T01:37:05.053203+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2fab12cc4de9"
+    },
+    {
+      "title": "FAA lifts El Paso airport flight ban after drone incident - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHpjc0d3WnhNZVBLWnVmNFpMeXFpQ2JYdnZoVmJvREV6blNIZ01JUzROQXdpUlpPZ2QxWnREN2stNHN3d0xqdVh3SzVtYlhQOGotTF9ZNzM3bkN1TVVBbWdxX3JHci1Tc2dMaGJNRjV2Z2otYXF5SGdoenJ2UUE1d0xCcmgyVmtNcktjbEV2emxLNWZXUWVhVElkVFlmejhucXJnSDFQbEticUp2eTJDdGJIY2piVUl0bEtGRGkxMWQ?oc=5",
+      "source": "MSN",
+      "date": "2026-04-13T11:38:59+00:00",
+      "description": "FAA lifts El Paso airport flight ban after drone incident  MSN",
+      "query": "drone incident",
+      "detected_at": "2026-04-14T01:37:04.351646+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f751c22493af"
+    },
+    {
       "title": "HMP Manchester: Inspectors warn of rats, filthy kitchens and drugs delivered by drone - Sky News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2JzQy1pck1USVFFdUpIV2VKck5fb0RPZXN1WEZhUTVDVXN6RUUzdkdReGo0bnNUYWJucDZmVXoweElxS3ZrcW42MFdBWllHcWM0aUZwazBPbm52SWVFQ3EzbE1FNnNFWHpNcVhYMmtTdnJrUWxnTWJQQXN5Zm9wQkVTTFgzTnVDVmIyY2xKdTBZMkQ1ajRUMUthZWQzQWhFcWdhYVlYVnRyb25IU2w2TXBnLUJFN1F0VXlv?oc=5",
       "source": "Sky News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "4a0c3c4c333f"
-    },
-    {
-      "title": "Drones crash in Estonia and Latvia overnight — stray Ukrainian or deliberate Russian, origin unclear - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXZuMHZGWE1lakRQa0xMMXdQcl90dmVEbElJNnJJYk93R05mVEpXSHZCUG9nUkFIQ1RIWVh6RGpCYlE5VC1kYVNUbjVDcUhubjBhV19udGFSRXZnazNEVW81ZkhmSmIzN0JLOTlyZmlRR2NKTkhfUE9UY0NXU1R0RHdPRTdyVGpsVkRpZGtGM1V2U1ZlZmtIM1Rzem0tejNEVnpVRGpmZGxTdDBfYzVPWHFSbFNCNlNFQ0pBeDNHVEV6TmFrTXR1UlJVMldnRlVRdHY0?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2026-03-25T11:45:37+00:00",
-      "description": "Drones crash in Estonia and Latvia overnight — stray Ukrainian or deliberate Russian, origin unclear  Euromaidan Press",
-      "query": "drone incident",
-      "detected_at": "2026-03-25T13:33:58.529853+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e966603703e8"
-    },
-    {
-      "title": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmhsVFgtYkRLb2twUFhHa2k2Mk9XTTl6ZUZGbjdlVklONmlXLW1XdDlLaEJFbmNTNE5lTzV6MDFzeGxMTmdzNk00Sm5hdEFKTTZLbjA3NXViTjViR3hLRnhzSkFvVjJUSnlZMk1pQUlLazItZVo4WjdlNlQxY0Z1Q2ptR2xySzhmR1l2dzdwR0NuT0NpMFpHS1VWX01kS1IzN3BPU0g1U3JaWmhISlNV?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-03-25T11:27:14+00:00",
-      "description": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia  Bloomberg",
-      "query": "drone incident",
-      "detected_at": "2026-03-25T13:33:58.529853+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3fafb513af2f"
     }
   ],
-  "last_updated": "2026-04-14T00:40:32.759148+00:00",
+  "last_updated": "2026-04-14T01:37:10.336711+00:00",
   "total_count": 1000
 }
