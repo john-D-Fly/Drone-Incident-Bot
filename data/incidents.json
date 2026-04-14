@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ondas' Sentrycs selected to provide counter-drone security for 2026 FIFA World Cup - UAS Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWVXTF9LM3hsaTN5cmNsSVE4d3BOVWMyRERPbEVuX0lZQVZzbGM1VHlCSWg0X1RvZHVQeFQ3WGZkZWVfcmxYX2duT2pBZkE0ek9BanE5LWVDckVoTFpfbEttcmdmS1ExamhWUmR5MnVkY1lIOHNnMTJfeVdSRUJRdXVGdVpvekNNTEVTTF9JSDBaNTJGV09TXzkxZ2pfbzRUR0xiS2tSc19NQUdQbXF0UElMWlo?oc=5",
+      "source": "UAS Magazine",
+      "date": "2026-04-14T21:20:18+00:00",
+      "description": "Ondas' Sentrycs selected to provide counter-drone security for 2026 FIFA World Cup  UAS Magazine",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-14T22:18:23.574347+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "72d2b7730fdf"
+    },
+    {
+      "title": "Navy MQ-4C Triton Surveillance Drone Crash In The Middle East Finally Confirmed - The War Zone",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2RDSFNaVGRmOW5ZdjhhdVo3SDlpdmY4Wko2ZkY1aGozRE1EdUZSV0g5S2Jlb25UZzlaMnNELUtOLUFnaGRidGFpbE9PdlpjTUhMV1k0WVlQb04zVGZUdVhEQ1lrcUc3R3IyaEtQcFFLSl9XX2c3dW52YWVxeHRNNllWalgzQm9hdkx0c29QRmdDdUF0OE81eERQTFc4cEZvOE5GcTJB?oc=5",
+      "source": "The War Zone",
+      "date": "2026-04-14T21:57:59+00:00",
+      "description": "Navy MQ-4C Triton Surveillance Drone Crash In The Middle East Finally Confirmed  The War Zone",
+      "query": "drone incident",
+      "detected_at": "2026-04-14T22:18:18.695251+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7cc47b26f0b1"
+    },
+    {
       "title": "Drones assist in finding stolen vehicle; alleged thief arrested on drug charges - Laredo Morning Times",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWQybE9PYjZZZTVtem9fSnJiX1RhTGtpYkdpMXNIRVA2OGxoUEVHVm52U1YwNng1aU80RnlVOUlSQzZiSXR0NURtYW9DejRUTFpRY0RKWHQyMGdNbnI1cld0M0dmSHE2NUNxVzhqVmlCVVYySUMtZmRBWkV0MmxzSmh2N1dzUHBOMEhPbElEbElvOF9lZkZ5Tkdob05fejdq?oc=5",
       "source": "Laredo Morning Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "967780e0eeaa"
-    },
-    {
-      "title": "Man who flew drugs into prisons using drones jailed - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWlpRnl3alVIVG94QVRnUl95VkVvMWZvb05BNXoydW5iLXdzMFVUalNVTUhNY3E4aFBKbGROdmIyMWdEejdnS29maC02MURiTDZqN1pYZm5aYTJhbTdoV2hESVplczZmTTE1RlRqRk5pRWliSFhZWjFqU2FSbVVVTUpzZ0I2Zw?oc=5",
-      "source": "Yahoo",
-      "date": "2026-03-25T15:59:18+00:00",
-      "description": "Man who flew drugs into prisons using drones jailed  Yahoo",
-      "query": "drone prison",
-      "detected_at": "2026-03-25T22:13:34.401120+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "abaebf19a6b7"
-    },
-    {
-      "title": "Man who flew drugs into prisons using drones jailed - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMzR1QmdFbHVZX0Fib0FYZVJXWjRyNGd1dDV3eGZqREYtRkpWcDQ0bWxwc1N3anVsSmhoMnZYb25ScWNGclY4MDMxSkVRLVcwU29CUUhwR1ZUQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-03-25T15:59:13+00:00",
-      "description": "Man who flew drugs into prisons using drones jailed  BBC",
-      "query": "drone prison",
-      "detected_at": "2026-03-25T22:13:34.401120+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5c50b1c18917"
     }
   ],
-  "last_updated": "2026-04-14T21:19:49.953880+00:00",
+  "last_updated": "2026-04-14T22:18:24.108590+00:00",
   "total_count": 1000
 }
