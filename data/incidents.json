@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "\"Drones Have Become Intruders in Daily Life... We Need an Integrated Shield for Detection and Interception\" - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFbWo1RFJRQzFLQnp5YWdTNVducER5N3F4Z2FmeFFLNUdDS0haUjFOVXY0TW9jVnJLeDlZWmQ1MkZDTC1EbV9idFRhLXkwNkFVQ3Fv?oc=5",
+      "source": "매일경제",
+      "date": "2026-04-15T08:01:35+00:00",
+      "description": "\"Drones Have Become Intruders in Daily Life... We Need an Integrated Shield for Detection and Interception\"  매일경제",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-15T08:38:09.837615+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "50adf51a32d9"
+    },
+    {
       "title": "U.S. Navy Confirms Crash of Advanced MQ-4C Triton Drone in Persian Gulf - WANA News Agency",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnFpTjBRWmJ6ZEhTNi16bU9vbUp6aVp0a2VVb1ZNaTlQR19uWU5aZzhiMEZHQjBfYkRDSEpaemFvcFZJejVyMkZCT3c3NzRUNEQ3ajd3WDRTUVBRTUdtZ2JXVE5CZG1qbk8tMnlIaUZIUjZWMGMtT2c3UHFGcEl0dXcwVjhTbTM5Y1ZTa055bkN3T0h0?oc=5",
       "source": "WANA News Agency",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "ba38d01bf571"
-    },
-    {
-      "title": "Drone Crashes in Western Kazakhstan - Caspian Post",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwTWhlSFJzeEdqR2hiRG1sQTVKSnJ2dm52REcyZVY5SlNQa1hrQm43SEFLd2tZWW1kT2FnUlZ0X3dyTThDVU5MODVZdDdlSHZER3dZSlFRZHVCLU90TWVHZ1ZLbkYzNDkwYWVLV29nWXdyR1hhcGU4c1lR?oc=5",
-      "source": "Caspian Post",
-      "date": "2026-03-26T08:59:34+00:00",
-      "description": "Drone Crashes in Western Kazakhstan  Caspian Post",
-      "query": "drone incident",
-      "detected_at": "2026-03-26T09:24:27.054682+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "14d1524a0aa0"
     }
   ],
-  "last_updated": "2026-04-15T07:36:23.091027+00:00",
+  "last_updated": "2026-04-15T08:38:10.370970+00:00",
   "total_count": 1000
 }
