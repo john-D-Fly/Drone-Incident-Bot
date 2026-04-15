@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Barksdale confirms multiple drones entered its airspace week of March 9 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORnl0OW9LVFRNcUNESEZiZ1RENm10S0x1SERzVGE0VWdhVWlfa3AwUFlUZ2c3VDc0NndfVlJMRFBBN2tPZ2NQb2wyeGxnVWc3REdCcjBsVjVEN2VQdFYtNlZ5NXZUVDJUT0NYUkRyeGdqbDlxaS1WdzB4WHh5eVJCR1VmbUlTQTdzMVpEaDNtWVFwSTJQbWF2aC14aHZHMUk0cU5mQ2VYQlBrek04TmRMazZFbEZLbHZncEEtNkJ4UDNzMzlDZ1VLRmI1bU5CTlhXWEFpaTV1QTVfU054S0lWVjJSbDZiUmlwLU90SjZIVUlLZ3psVkt6VTln?oc=5",
+      "source": "MSN",
+      "date": "2026-04-15T04:36:42+00:00",
+      "description": "Barksdale confirms multiple drones entered its airspace week of March 9  MSN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-15T13:36:14.536070+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8b209f5e5068"
+    },
+    {
+      "title": "US confirms crash of $240M drone in Persian Gulf - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWdXbGNMdmY4WW9ya3FHRjc5c3JOWDFZN1lwZElyY1BDRlAtWVQ2ZlVkblltZEN1SUFROFMtLUk1dDBVV3ROQllMdkxVNDM3M3FmNVJOLXNXUG9Fa25YLWswNENMckVhZTU2T3dBUkszRUdQRzF5d01Pd01GTFRzMWVfWlI1cmZodjNheThqbzkyMjJPdTA2WTJLR2swQQ?oc=5",
+      "source": "NewsBytes",
+      "date": "2026-04-15T12:28:30+00:00",
+      "description": "US confirms crash of $240M drone in Persian Gulf  NewsBytes",
+      "query": "drone crash",
+      "detected_at": "2026-04-15T13:36:12.364921+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a937d8a0f33f"
+    },
+    {
+      "title": "Drone strike hits KDPI headquarters in Erbil - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzVQYVJsV0pIdDBRMTFScVFRQzdJakpJamlZUUZSN3FsV2ZUcFVRcmR2ek11VTBaX1lPYS1zOFYxR25UblJrbWZHZGN0TUJPbW1BN2hKWlFkYUJpWk9DWDJHaVU4NFVBR1BPbzc0S3VCRkRwQW1yMktjWFIzSk5PYWZ3?oc=5",
+      "source": "شفق نيوز",
+      "date": "2026-04-15T12:35:00+00:00",
+      "description": "Drone strike hits KDPI headquarters in Erbil  شفق نيوز",
+      "query": "drone incident",
+      "detected_at": "2026-04-15T13:36:09.571665+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9bb3924cd538"
+    },
+    {
       "title": "US confirms MQ-4C Triton drone loss after crash in Persian Gulf - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFh2eGpLamVjbHdpUGNUUGo4YUhMREp5aDNOU3p1aHBfLTRtNmVHeEYwQ1c1WXBXclp0a3BzTWtIQXlRdjduNUswTEhWaUtQM2k3NTdyTXBHcG5nNVR4RVJRTGxyMmVTOEd5Zk1oOWFuNzF1VHd5akFDUVhJUTVfUi1JQkhRY0FoUURPU2lYb05faXI4QjFPX0dRdnFMN0HSAaQBQVVfeXFMTTROZ1l2OUlFVDFEa1EzVWNXS3U5YTE1c0hYaWxKN215SWN5Mkp3eHlsa0Y5SGI3RmQwX2hia3I4YVY1SXIxYlpHdWN1NVJKYVFpOVV3SUhkTno0VEhfYTBzZFppSVZQWkpFbmtrY2FNdjQ5aUF6VDYybXFzRDRpUG5vT25mVHhDY1dRSUZiU29KWGZ0QXRfeXZZclRjaHhDdERyRE0?oc=5",
       "source": "ThePrint",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a2ad8695e54b"
-    },
-    {
-      "title": "Two drone strikes on civilian targets kill 28 people in Sudan - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEdoaTVZV1dtUDlXMC1UbXNpTHJPLVRGdUlITVM1UDA4LTJwSEJZMWhWNERNSUVzT2tnNXdUMHdnSE9EUEY2bXNGZE5VSmRZaFpkWXJRUnM5YWhYcU9aLW1Qb0dXdkJXdUNfb2VKdjRETjgwcE1GRUVmWWpCbUlON2pTamxzMWkyaFY2T1VRQTl1dFczaTl5TllNcmpubElYXzlSdnl5aFZKWWkzYm5RM1pzYkZ6WXBudjJuSFk3Q0c?oc=5",
-      "source": "The Guardian",
-      "date": "2026-03-26T10:51:00+00:00",
-      "description": "Two drone strikes on civilian targets kill 28 people in Sudan  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-26T13:34:14.268841+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d5b8a3cba9b8"
-    },
-    {
-      "title": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG5HVjg1ZUQ0dFYzLUVEVTlMN1JmdVAyWnlXZ2x3SzdWMS1zaUFHZ3BpSVZqbHItbTI2MTJsdVFxbGNtWVN2blpGdU9STVlEWFpIYXdLMjBWX3lndjZ2YWx6VW5ydXlJWl9rXzNIM2xyekkySHdGczhNNTRwYmEwVGYxcC1aWlpLQXJwMWJ2cnNscFUtQkJ2Zkd4b210cl9FLUtxelRCZXRkRHF3TGc?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-26T09:29:55+00:00",
-      "description": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights  TravelPirates",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-26T13:34:11.618549+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "39186a2d8766"
-    },
-    {
-      "title": "AWS Bahrain cloud services face disruption due to drone incident - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOazBGUVFzM2tQSWpuTnQ3UUtLV1BlT2ZGYzBtckZaUktMNTBSVTl3LS14Sm93YlZaWjROam1nWG9wTU55bHdSNGlfMWNMaDQ3NzJjTmN3NkhHcDF3dE9USWFfcm5sZHR0ck1VcHk1YmFweXhVb2J3SFRqNkxZYzlrTkt5OVAzdkVQLTZ1ejlRd3V6ZzVqd3lHejk1eFdNQ0JrRzcxQ0x3VVlBRlMtMjFUTV9tNTdveU5vaHA0RS10S1FycklOaURTMy1TeW9DUERUX0lvbjlJbDNBU05uamhLZE9manE2WnNyWm9wQWczdXZFakpv?oc=5",
-      "source": "MSN",
-      "date": "2026-03-25T08:07:18+00:00",
-      "description": "AWS Bahrain cloud services face disruption due to drone incident  MSN",
-      "query": "drone incident",
-      "detected_at": "2026-03-26T13:34:08.255645+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "e6bf6f6d2cdc"
     }
   ],
-  "last_updated": "2026-04-15T12:26:33.338253+00:00",
+  "last_updated": "2026-04-15T13:36:15.058103+00:00",
   "total_count": 1000
 }
