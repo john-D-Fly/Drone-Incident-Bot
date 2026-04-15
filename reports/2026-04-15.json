@@ -1,0 +1,151 @@
+{
+  "narrative_summary": "Over the past 48 hours, a variety of drone-related incidents have emerged, with notable incidents including multiple drone crashes involving US military drones in the Persian Gulf, highlighting potential operational vulnerabilities. In the UK, persistent drone disruptions led to the shutdown of Dubai airport, impacting thousands of travelers. Smuggling activities using drones have also come to light, particularly in prison environments, raising alarm over security lapses. A surge of unauthorized drone sightings has been recorded in various locations, suggesting an increase in potential threats to airspace safety. The international scene remains volatile as Russia continues drone strikes in Ukraine, contributing to ongoing tensions in the region.",
+  "totals": {
+    "other": 20,
+    "crash": 10,
+    "airport": 3,
+    "smuggling": 4,
+    "arrest": 22,
+    "terrorism": 3,
+    "total_incidents": 66,
+    "by_category": {
+      "airport": 4,
+      "arrest": 13,
+      "crash": 10,
+      "other": 31,
+      "smuggling": 7,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 21,
+      "drone crash": 6,
+      "drone illegal": 3,
+      "drone incident": 14,
+      "drone prison": 7,
+      "drone terrorism": 7,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Frequent occurrences of drone crashes involving military drones in critical regions indicate operational challenges.",
+      "incident_ids": [
+        "a937d8a0f33f",
+        "fedebf260665",
+        "ef3838a4bd1b",
+        "500e83f96e65",
+        "d6981f006a01",
+        "d9f6227451a5"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Sightings",
+      "rationale": "A pattern of unauthorized drone entries highlights increased security risks in airspace.",
+      "incident_ids": [
+        "8b209f5e5068",
+        "50adf51a32d9",
+        "4b47cc13e55a",
+        "4b2087f34a57",
+        "1aade97121fd"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Incidents affecting airport operations due to drone activities demonstrate significant impact on travel.",
+      "incident_ids": [
+        "ee0ea41f5911",
+        "7ca7aabc7c83"
+      ]
+    },
+    {
+      "topic": "Drone-Related Arrests",
+      "rationale": "Multiple arrests related to drone activities denote law enforcement's response to criminal use of drones.",
+      "incident_ids": [
+        "5d8fc527a889",
+        "57b0b366dca8",
+        "8e720d9ee36e",
+        "1025ae99a709"
+      ]
+    },
+    {
+      "topic": "Smuggling and Drug Deliveries",
+      "rationale": "The usage of drones for smuggling drugs into prisons illustrates notable exploitation by criminal organizations.",
+      "incident_ids": [
+        "271f6dc75c6c",
+        "14b4e64967be"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8b209f5e5068",
+      "headline": "Barksdale confirms multiple drones entered its airspace week of March 9",
+      "one_sentence": "Barksdale reports multiple unauthorized drone entries into its airspace.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "a937d8a0f33f",
+      "headline": "US confirms crash of $240M drone in Persian Gulf",
+      "one_sentence": "A US drone crash in the Persian Gulf raises concerns about military drone operations.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ee0ea41f5911",
+      "headline": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits",
+      "one_sentence": "Dubai airport faced shutdown due to a drone strike, affecting thousands of passengers.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fedebf260665",
+      "headline": "US confirms MQ-4C Triton drone loss after crash in Persian Gulf",
+      "one_sentence": "The US confirms the loss of another MQ-4C Triton drone in the Persian Gulf.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d9f6227451a5",
+      "headline": "Drone attack hits Iranian opposition Komala sites in northern Iraq",
+      "one_sentence": "A drone attack on Iranian Kurdish camps resulted in civilian casualties.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "in Iraq"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1e08c82ece3a",
+      "headline": "Clovis Police Drone Tracks Down Donut Shop Tips Jar Thief",
+      "one_sentence": "Clovis police utilized a drone to successfully track and arrest a thief.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the past 48 hours, we've seen significant drone incidents from military losses to unauthorized surveillances impacting public safety.",
+    "linkedin": "Recent drone activities include military crashes and unauthorized intrusions, raising critical questions about airspace safety and law enforcement responses."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-15"
+}
