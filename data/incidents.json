@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US Navy confirms $238m Triton drone crash in Gulf - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQXRRRVhWS0JvTGdrNTJjdzlfN0Q1TmFJSXo2Vk9WLWxfeWNpNi1idWxuQlNJcHlwTFR5S1hLMmlCS2RZc1JVVVhtNHZyaWRYdF9PR1otZnRrY09qOEVUNzdCV2VxLXg3bWZ3clQ5X25TQTd3MkI0d25ZNWZsMWlMV29oelM0WlZ4cU1CZ2dydEZidUlvc1dFdzZGdEJmZ1ozMkxiR3BsNXlBT0JKLW9CRmxpWFFQSzFVd0lnYW9fNU5VdmZ3YVZWalJMaGlGOU81RE9VemJR?oc=5",
+      "source": "MSN",
+      "date": "2026-04-15T00:58:15+00:00",
+      "description": "US Navy confirms $238m Triton drone crash in Gulf  MSN",
+      "query": "drone crash",
+      "detected_at": "2026-04-15T11:24:36.599669+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "ef3838a4bd1b"
+    },
+    {
       "title": "Russia Unleashes Mass Drone Strikes Across Ukraine - Modern Diplomacy",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSi1CaVY2TEpGdGVrSXdVYVIxUlVBUFFYeG9OakMxRDRpTmFaLVR2OGgxZ2NJSHFqRzJFNHBkUUU2WXB6akNLRjBrMlVDdzBweTg4LWtJelFfWl9hVElQaDd6VjI0eW81ZEhhWmNMTWJuR3VHS2paOU1scmNTSnhkcmFrZGRxRTRJNGJpZTBsQkFKLW8?oc=5",
       "source": "Modern Diplomacy",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a5e1b154da1c"
-    },
-    {
-      "title": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG5HVjg1ZUQ0dFYzLUVEVTlMN1JmdVAyWnlXZ2x3SzdWMS1zaUFHZ3BpSVZqbHItbTI2MTJsdVFxbGNtWVN2blpGdU9STVlEWFpIYXdLMjBWX3lndjZ2YWx6VW5ydXlJWl9rXzNIM2xyekkySHdGczhNNTRwYmEwVGYxcC1aWlpLQXJwMWJ2cnNscFUtQkJ2Zkd4b210cl9FLUtxelRCZXRkRHF3TGc?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-26T08:51:56+00:00",
-      "description": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights  TravelPirates",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-26T12:23:34.378365+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a511dd25e633"
     }
   ],
-  "last_updated": "2026-04-15T10:30:54.892917+00:00",
+  "last_updated": "2026-04-15T11:24:39.487031+00:00",
   "total_count": 1000
 }
