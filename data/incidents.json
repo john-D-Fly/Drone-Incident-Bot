@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Oakland Taps DJI Mavic 3 Drones To Fight Illegal Dumping - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQWZDTEVxdG14c0hCLWRsVUc2WDFjeXJSdTdJRU93UWxfb3VRbFVwSnA1WUE5ZEx5NDNnYUFGemZlOHJxazJKR0F2NnZGS2dwYVNWRTNOSXhsdXNnQ01ueGt3RTUtWC0waWtpcXZKMi1hVVE?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-04-16T23:02:21+00:00",
+      "description": "Oakland Taps DJI Mavic 3 Drones To Fight Illegal Dumping  DroneXL.co",
+      "query": "drone illegal",
+      "detected_at": "2026-04-16T23:17:30.700210+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "64556fd785ba"
+    },
+    {
+      "title": "Drone sightings in restricted airspace at Colorado Rockies games prompt warning from authorities - Plainview Herald",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3IwYUVkTDBJVkdpMGJSeWp5Q3AzOE1aVWhXTVVBdFZoOGNoYXpKai1XeFNYUnI3akFfM05HMFdUU0gzRVowS3ZOQzdBdkJSOUZxbkdlOFZqb25aSVlRNl9CakNnS0dvN0RFNFZfa2RhVlZUcEpGUjg2ZU40eGxTU21hOTFkTDZGa0ktaHYzQmt2bXNPV2s5ZGlUejJTZw?oc=5",
+      "source": "Plainview Herald",
+      "date": "2026-04-16T22:34:23+00:00",
+      "description": "Drone sightings in restricted airspace at Colorado Rockies games prompt warning from authorities  Plainview Herald",
+      "query": "drone illegal",
+      "detected_at": "2026-04-16T23:17:30.700210+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "36442cf59309"
+    },
+    {
       "title": "FAA Moves to Close Drone Enforcement Gap with New DETER Program - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FSzVHbFRKN1BwY2FFeXBHNXhVNzRzVVFEanJDNlVjNmRQTUxQYU1EcW1zbFlUbkROS05aNWJqMVNkbUVId1puOUFZcU80ZkJFUkV3amRFMVdpTTlfUkl5SFhGVl90b3RKekQ5MXlDRnp2SHkwQWpONA?oc=5",
       "source": "Dronelife",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "4d290483a6ef"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - msn.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEd6ODZsbWRFTFpnZjFFc0V1NmFfcTNuQWlRWGJoYnRBNm5jU3BDQ1ZNZUhvSHZlaktySkdnWF9fQkRpcHFLWktxS0ViNkJFVVJvYVNndkNrOVBrWWRYWFozTlFzeTBtU0YxaDMtVDctZC13OXhHMUtRdFZGM2s3U3RLeTNhSl83MGlGcERRZWFYdTVUVVhhdmgtTWdKX3ptYmg3NFh0WHM0aGVpSFZLWWF2dHF0YnBseC1EX1d2alhyYnRlSXN1REl5Yw?oc=5",
-      "source": "msn.com",
-      "date": "2026-03-27T19:23:23+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  msn.com",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-27T23:12:17.177154+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9d6d9b5f765c"
-    },
-    {
-      "title": "Drone caught attempting to smuggle drugs into Wilcox State Prison - walb.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXpjREFfa2JCbVdFWm9lVWp1Umx3LXVOaTVvb2tfQ2dJTEVEaER6eUxWSHpKSXpmajNUZS1rNndGWXA3NkxmU2R4VEJ0OVVRdkN0a19kWWxvaVRfc3hfUGpTb1diLUU5SkVZeWh1eFJHMVZKd2JSeG43dlRDVVVydmtzUlZZMWp3VmY3OHZSMmtWQXNVT1JZUEdwSmVCbGU0djYw?oc=5",
-      "source": "walb.com",
-      "date": "2026-03-27T17:59:05+00:00",
-      "description": "Drone caught attempting to smuggle drugs into Wilcox State Prison  walb.com",
-      "query": "drone prison",
-      "detected_at": "2026-03-27T23:12:16.646435+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d7cee9e2df5c"
     }
   ],
-  "last_updated": "2026-04-16T22:17:02.550922+00:00",
+  "last_updated": "2026-04-16T23:17:33.052036+00:00",
   "total_count": 1000
 }
