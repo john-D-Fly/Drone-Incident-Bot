@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Russian strikes kill 17 across Ukraine in worst attack of 2026 - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWJEOTBvRDZXcjlWVWNidGFTbnluZi15SlluSnB3OE15NUdMUnhXaEstbUs1MkNUcmFodU1OY1UxSUhHWkpFWnAwWW1xdF91ZGV4Mk9kYmtJc0loX2cwWUNvcWI1M0cyUGxsTmx5ekFPcDRtX1F3TTRTeGFIVjZMRVIxbWl1WDFBZWFlNjBYQ2dMZlVlZi1CYlZuTmNQeXJFOVR6c1E0bw?oc=5",
+      "source": "The Straits Times",
+      "date": "2026-04-16T09:21:18+00:00",
+      "description": "Russian strikes kill 17 across Ukraine in worst attack of 2026  The Straits Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-16T12:27:49.857352+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3150019bb85a"
+    },
+    {
+      "title": "Oakland is turning to AI drones to help solve its illegal dumping problem - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUhEb25McWpsNXVqcmdsU1N0WjVGUzlPclpVMW42dHdVSzE5NXY1NUVGdFFkZ1d4RFpYa1BWNkJxajBSOV82M3lUd1g5V2Z5RUFXTmFFdjdmZ2NGX2oxeGVGTk0tTkxIUXJxZXRwTFRVVS16QktNdlduWVlsakdXRVhsUzR1dGJWNFE?oc=5",
+      "source": "SFGATE",
+      "date": "2026-04-16T11:35:12+00:00",
+      "description": "Oakland is turning to AI drones to help solve its illegal dumping problem  SFGATE",
+      "query": "drone illegal",
+      "detected_at": "2026-04-16T12:27:48.911809+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "209a7ae5a614"
+    },
+    {
+      "title": "US Navy confirms $240m Triton drone crash in Persian Gulf - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaWM0UnhDMUNBYlJjb1ZvTm5TUU0wT0ZGZk4tWUxSaXRYaUkzZzgzOGpzdE1IbHN3a0d2Y2otMjBuUEw2SS1haWxiRHdxT05MUUxLWW9rMjJyU3Frakt6aWhySnRERGs1OGdLOEVTRDduNS15WVFidlNhbFo1RVJ3aElJUl94cFgwZXE0RDBMdGtkZGw0UkxaRW9jTVgzVXFvV2ItaVUtN19Vbmw4ZGNselQ3cTZ3S1BWMnpKMVZNVzlSeUlyN2ZlYXRZejBtVjd1RTlieUxKMFVXOU1VS2RpNA?oc=5",
+      "source": "MSN",
+      "date": "2026-04-16T10:49:55+00:00",
+      "description": "US Navy confirms $240m Triton drone crash in Persian Gulf  MSN",
+      "query": "drone crash",
+      "detected_at": "2026-04-16T12:27:48.384821+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "5708cb1bf7ff"
+    },
+    {
+      "title": "Drone in the sky leads Bernalillo County deputies to quick arrest - KOB.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjctNlByVmVuVW5aWHJCWU1FQ0VNdjZDNHo1bGpMeDhMcmpudEZRX3NzR1c1QS04WXpfR3RNVXc5SW1ZTjJBeEpuNTZqcUN3SzBKcHZ0eF9Sa092SXZfM1lkMXVBVVhKSWZsUUIzNWY1NDEwRzc5MjVOeVJjclN1dVZYRXRsaXBwaEU3bkxCYnNRa2tjM3FJZnhoY3hRZw?oc=5",
+      "source": "KOB.com",
+      "date": "2026-04-16T00:14:29+00:00",
+      "description": "Drone in the sky leads Bernalillo County deputies to quick arrest  KOB.com",
+      "query": "drone arrest",
+      "detected_at": "2026-04-16T12:27:46.362595+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "bd85a4279b42"
+    },
+    {
+      "title": "High-end $240 million US drone crashes off Hormuz; circumstances under review - ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zODBWUFRFY2dfZXRkd0U5bmtxUEQ4M3pUay1qQzhMNE9CLVhSZWpKUW9XT25vcWFSY25CMEROaXBtWUtxY1c0NEQ2TzhLc1J1RHprQnpCVQ?oc=5",
+      "source": "ynetnews",
+      "date": "2026-04-16T10:22:00+00:00",
+      "description": "High-end $240 million US drone crashes off Hormuz; circumstances under review  ynetnews",
+      "query": "drone incident",
+      "detected_at": "2026-04-16T12:27:45.722933+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a13d1eadb02c"
+    },
+    {
       "title": "Park Rapids Firefighters launch fundraiser for search-and-rescue drone after fiery crash - Valley News Live",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlRSWUNkVmNnN25xSVlYeHJIUllDZEFoSm1pdWx4THRULS1ZUHlJWFdldUVTdmR6c0NvVTVPSUNQaXhKM0F4QzNRdUp6RHV0TG5ld2M3Mk4xWTNSRG51RjBWTWZtZVRiMFZhRTQyWFZiLXBtaDZjeEN0b1k4ck9KN1BEeGFqNUUzWHplOTFtc0Fua2hwOVBZODA3U3VCWHhLS19BeExrUmhnS2hfUklHVEFEenRWVWpTSFFjeWc3V0plOWdyY3fSAdoBQVVfeXFMUEV4NTFzdVRzZ2t6NFA4ZWxUUmljMUFTOHZBM3R2YlFwSS0tanVrVzNBRG9RNTRDTG81VDhXWUxwbHZJcUstOFhLaU9vS21neURtR3FscjRqOHlhd1lsazAyVVVqUFhVRDBJVGE4b3YyVTI4TGdvUjVnNnFzUEFKZExwS3I5WHlWTThrRlY1S3JmLWpHWDg3Q2UweDV5V2NCbFRid2VnRE5JVmczVDVIcTk5cDZ5cWEwT200Q0pUbklPWDdtMHhXcDNYa2lOOTVQNUtyNjFFWFIzdlE?oc=5",
       "source": "Valley News Live",
@@ -11939,68 +11999,8 @@
       "location": "near Rajasthan border",
       "category": "smuggling",
       "id": "50f3ba148d06"
-    },
-    {
-      "title": "FBI warns drone operators about upcoming airspace restrictions during World Cup games - The National News Desk",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOYi1EZUNMLU43aWJEcFJ5UVVlTDhWbWlseTdtOUhONk5fTHpTWjhHOUliVTJ5TkI3b1V0YmRySEQweDU3d0lqcDM5N1o2b3RQXzZ2NWFqenAtNnJxTlAtTVo1NzNxVnVjNDdsU1htUlZjbFJaUnJMUHNtajJVVGVSQ3dFSjM5a3RPbDVTYldUN2xQV2lfcTd5QkFEUDRwdC1jRG5yNVRZSzlOWDlYWjZaVHRNaWhMSlM0SERVU1lfZUk3ai1wbmJGM1E4emRlWnQwclVoeVhGdzZPVWI5XzBaODdMNlRhYVB5aHpTOHBWaE1uNTVFZXYtX1JnTFJPUnB6cWdZLV9uZWw0OG9IMS1kdElqMVBaOWtyRHhlaUpFV0w5cHlUdGU5Sy1HTHZmd2VNWFJlWFcxdVFIbHIxcDgwM3o2QQ?oc=5",
-      "source": "The National News Desk",
-      "date": "2026-03-26T01:23:23+00:00",
-      "description": "FBI warns drone operators about upcoming airspace restrictions during World Cup games  The National News Desk",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-27T13:32:30.243060+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "8ece7877e82c"
-    },
-    {
-      "title": "Hezbollah Strikes Israeli Merkava Tank with FPV Drone - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52Rmk1cHpuc2lEZDV2STZKQXhiWGtJQjlCUmYwRVRCclVYc3RpdlFfS1V3WHBrVFBiVnZNUzJ0YVBSd09oUnpCNzZBNnZSU3hjWTVFeWJ1M0hSNEhudkwtLW5WY1FSb2xDSHZ1M19LTjBsZk5YMlREVXVLc04?oc=5",
-      "source": "Мілітарний",
-      "date": "2026-03-27T12:53:44+00:00",
-      "description": "Hezbollah Strikes Israeli Merkava Tank with FPV Drone  Мілітарний",
-      "query": "drone terrorism",
-      "detected_at": "2026-03-27T13:32:29.610009+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3f0ecd4480e9"
-    },
-    {
-      "title": "Estonia and Latvia blame Russian aggression for Ukrainian drone crashes - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Q1JRaW0zMk41ZVB2M05kcmJnT0RrQWNralZYc3hpYjlPTklCejc1MHFjbXVTRHIzTTc0N0gxSlFhV241OTYtNVdWQnlreE9uRkdwUWFuMDVDMDg?oc=5",
-      "source": "mezha.net",
-      "date": "2026-03-27T12:18:18+00:00",
-      "description": "Estonia and Latvia blame Russian aggression for Ukrainian drone crashes  mezha.net",
-      "query": "drone crash",
-      "detected_at": "2026-03-27T13:32:27.850236+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ba1a3d93773e"
-    },
-    {
-      "title": "Peacekeepers clear road of crashed armed drone amidst fighting - unifil.unmissions.org",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0dMTkl0UXhENDBqV3g5cExaLTM2U216OWhnUmhyc2RMQkl3ZGJ6U01kd3FaUWtrMm4tdm01RWV1MDJibjFRUzFEa01uZ09pU0cyZEk1N2k0ZkkyY2lka3J5WDZiV0dGY2xBRkVIM0Q5a2pSM29PTWhlR0dtUkxvaXNvVENJWWdfQ3hfS2lxWjI5TWN3Q09reGZEWkN5UQ?oc=5",
-      "source": "unifil.unmissions.org",
-      "date": "2026-03-27T10:50:27+00:00",
-      "description": "Peacekeepers clear road of crashed armed drone amidst fighting  unifil.unmissions.org",
-      "query": "drone crash",
-      "detected_at": "2026-03-27T13:32:27.850236+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "dc97a43f25f6"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTRIM296NDVFbDV0SVRNa0dkQzM3Y3RPS3FkYXdtTGdzb2NzcWRRYUowSkpnbkdBQmpKQ0dtY2J5NGJPTEM2ZXJ1SWFZanFjV0VrMHBVZVJyaTNTb2c3bVpkdGx5elA0VGx2Rlo2SmZQSDZqZnBjS2ZoWXJDYk12WGVtODdNQ3hoZ2s3YlRfemRES05UOG9kNGo0Z2Q0MkhQenpOUThJa1VqRUZiLXFLSWlqRzZwSmpKQVlyTW1yWG5IbFN1bzVoVlA0ZUk?oc=5",
-      "source": "MSN",
-      "date": "2026-03-27T01:39:21+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-27T13:32:27.280527+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "be5be366a529"
     }
   ],
-  "last_updated": "2026-04-16T11:26:51.478279+00:00",
+  "last_updated": "2026-04-16T12:27:50.849343+00:00",
   "total_count": 1000
 }
