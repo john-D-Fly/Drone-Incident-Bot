@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEFfeVVHbUxXbW1CeXBuUXFFZ0xIX2NuZE5CbFdDc2p6RUJVZXBua2ZYc3RFN3RtYjlqV08xbXlRenlGX2Fyb3ZMa0NGMWxJUjZVVUhncGVpRWtyZ0NPR05nTXBxdGswLWh3M24zT3ZDQm1hMVRiQzRMelF6RGdOcnlxN0p1VGZiZGF1aGphcTRUWFFJd1k2ZU1Zdk5IUWphQ0ZBMEctNzZUcDF3VjNnbXJQams?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-04-16T16:43:00+00:00",
+      "description": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games  Bloomberg.com",
+      "query": "drone illegal",
+      "detected_at": "2026-04-16T17:32:16.442868+00:00",
+      "location": "Near MLB",
+      "category": "airport",
+      "id": "dd14f61b4897"
+    },
+    {
       "title": "Be Aware of No Drone Zone at Coors Field on Game Days - Van Nuys News Press",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUVTLWZFOE91eTVjWmhWX1RKMHZTbzZnOHJZRmpKVjYyNjdiZ1RVeDhGOFRwSjNhZXNKanFoQVpJTV9TVEJ4bXQzM2NrU2c0bzdTcVVsTmxkc1FSMzBTdVVLQW44RUExUHZvU0hQdWpHekdEZUhaLTJWWnU2ZURsRC1lSnZXd2xnNHptXzdUWkU?oc=5",
       "source": "Van Nuys News Press",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d080ff9bba5f"
-    },
-    {
-      "title": "Barksdale Air Force Base drone incursion: What to know about incident over home of B-52 bombers - Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXFkVDh6R3JxMl9mbElzU1BqN3lkTHNlX09UNjBBdWNoSks3a2MxLU1uSHRIUjdMa3pBQ3NqM1kwdXJYMFhqUFp2RVF4MjJraExSVXRNNEVuQi1Jb0ExUHh1N0xtMUx2ZGNyX0lYU2N0M1ItZ2FEZkU2OFlJdWszWGxRSTRoNUFablc3WHZUN2REMFlydGkwbFhlWEZ1T2c?oc=5",
-      "source": "Washington Examiner",
-      "date": "2026-03-27T17:34:42+00:00",
-      "description": "Barksdale Air Force Base drone incursion: What to know about incident over home of B-52 bombers  Washington Examiner",
-      "query": "drone incident",
-      "detected_at": "2026-03-27T18:21:40.695657+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dd5ca6cc7735"
     }
   ],
-  "last_updated": "2026-04-16T15:35:51.056519+00:00",
+  "last_updated": "2026-04-16T17:32:18.812252+00:00",
   "total_count": 1000
 }
