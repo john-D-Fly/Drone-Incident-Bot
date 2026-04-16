@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA Launches Faster Drone Enforcement Program - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVS1PWnpiY0x2TFFhRWVvOWZOU2Vzc2tzVUp3QXRNRmZ5VUdKdUowWlc0RUd6U0M2aVFZSDNPTEdJNVlJc2Q4NzBfc1MyU1ZKX3JJTGNLYjFqUjZGZF9ZQmtCcHFNVWlCYWt6NDZ4eHZRUWlKZU5LMlg5cTd3cDR6b2dUSGQ?oc=5",
+      "source": "AVweb",
+      "date": "2026-04-16T19:15:48+00:00",
+      "description": "FAA Launches Faster Drone Enforcement Program  AVweb",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-16T19:31:22.377787+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "edf13c932258"
+    },
+    {
+      "title": "Westmeath Local Authority Using Drones To Detect Illegal Dumping - Midlands 103",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOThDUm1OdzVfWG5vOEY4MWlOU0pCYnZqeElfWTZMYWRfZE5PS0ZtSjFUSFFyVlBaMDZNSXZkemVKUlM5V1Q3dlNSYXhUNm5zajdOWHpleFZ2V3RLYVpoSWh0NWZab0lwc1FIS1lZWDFwTkRmei11dmMyYW5RZUVMWTBMNFJhRlh1WmY1U2MtVXdielB3SFB3a3JpcWVUS2JKN1VxbmVaVlBvcFh1RTNfU3p3?oc=5",
+      "source": "Midlands 103",
+      "date": "2026-04-16T13:23:56+00:00",
+      "description": "Westmeath Local Authority Using Drones To Detect Illegal Dumping  Midlands 103",
+      "query": "drone illegal",
+      "detected_at": "2026-04-16T19:31:20.720167+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e348b83b5372"
+    },
+    {
+      "title": "US Navy confirms $240m Triton drone crash in Persian Gulf - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb3dUQ1NCblU2UnlUTGxQaHAtZVVoYTVwYm1POWdiOHdVMUl5Q181QzBIR0dCWDM4OElubmJDcEpNa2JlRHJPaUZ3eFhockJaT21LNExtdUR1bnBWd1FERzdOU3IyTktKUkNVUl8tQkU0VlZxa0JBdTlBbG9sYWE5TEVwMFBJNUttRGgzcXI1cFJsU3BzTXdZN21VY3ZDaGVacTJvRnBKV1pvaHB0RUNCQ0FhcUh1OGVCQWJ5c2p1QTZ4Q2NVb2ZmRF9EYVV5c3JQWFRoa2Jma1I0dXc5bFhScQ?oc=5",
+      "source": "MSN",
+      "date": "2026-04-16T01:28:43+00:00",
+      "description": "US Navy confirms $240m Triton drone crash in Persian Gulf  MSN",
+      "query": "drone crash",
+      "detected_at": "2026-04-16T19:31:20.150623+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b7e71164f444"
+    },
+    {
       "title": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEFfeVVHbUxXbW1CeXBuUXFFZ0xIX2NuZE5CbFdDc2p6RUJVZXBua2ZYc3RFN3RtYjlqV08xbXlRenlGX2Fyb3ZMa0NGMWxJUjZVVUhncGVpRWtyZ0NPR05nTXBxdGswLWh3M24zT3ZDQm1hMVRiQzRMelF6RGdOcnlxN0p1VGZiZGF1aGphcTRUWFFJd1k2ZU1Zdk5IUWphQ0ZBMEctNzZUcDF3VjNnbXJQams?oc=5",
       "source": "Bloomberg",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1adc29d24a73"
-    },
-    {
-      "title": "Defence Ministry Unveils Drone Security Framework to Eliminate Chinese Components, Mandates Rigorous Testing - bharatshakti.in",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWdqWkItY1F4LWJkUEtVOXNGakpTMkNUUUkzcHhTYkk1eFRKSHE5VHdzRHNRUUl2c1ZEWDF4d294ZGlqVEVRVXhMeW5KT29tLVdyUXJvU2FPTklmQzNZR21jT2lIakQxR05oUTJVdW52eGJMNjVfLS1QSzlvSzdjVXg5eWM1djg2WWlfWmxGd1o1Yi16b0IzZnptM2hQZW5Mc1N1dkpXVzRDNGNGeDVGY3QzVkFqS2p6TWxYTjBNdTFkanZFWWo4STBpalE?oc=5",
-      "source": "bharatshakti.in",
-      "date": "2026-03-27T02:59:01+00:00",
-      "description": "Defence Ministry Unveils Drone Security Framework to Eliminate Chinese Components, Mandates Rigorous Testing  bharatshakti.in",
-      "query": "drone security breach",
-      "detected_at": "2026-03-27T19:19:25.919647+00:00",
-      "location": "in Defence Ministry Unveils Drone Security Framework to Eliminate Chinese Components, Ma",
-      "category": "other",
-      "id": "895de5b447ad"
-    },
-    {
-      "title": "US investigating unauthorized drones detected early March over base hosting B-52 bombers - Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2czbWJDSzBFRW1CUjRYNlZhZ242b3JfQ2w3ZURVNms2cEZBY3U3ZGFpWXFBTmY0WjEyRjhtV1RfNkNDdzFieFhxalBOMlRYcGNGaXhJaTNoalh3ak1MQnVUNmVlMHUzdWg4YWJHU2l6Sk5abzNsUzNkMURsWlBCOVlUQmNRZERENERRNFVEVTZLRVd2cEhMbzZaMk0wXzA5ZTQyaC1ONHp0aW9BSHZPamxEYWc3ZlJEczZaRDFabmhmTXpvc0VlMTBkTUvSAdIBQVVfeXFMTWJxUTF1aG93THV3TFIxVzFKbEkwTDZrekhDMExoeGxQdGRWaTY5WGtiRGx6Z1o0Rm9COS02aVVtclZFOUNXeWx2Z0JNRGNYMjFPSG82dDVuSXVXUVlpTFNQcHNNX0pfLVYyblN6ZlVSRUJad0ZSczYzS00ya0JhUEFNT3hoM3U3ZmlzNkdwcS1oT0g2SEk3QVVObG5JNWZtUlBaMy1DS2VZV25kZ0hNMk9PdldvTThuUmpTSHllbEVHRlRPUUtORlQ1bVY1OEJXQmJn?oc=5",
-      "source": "Middle East Monitor",
-      "date": "2026-03-27T17:34:00+00:00",
-      "description": "US investigating unauthorized drones detected early March over base hosting B-52 bombers  Middle East Monitor",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-27T18:21:45.852834+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "8b7e240a5702"
-    },
-    {
-      "title": "Drone caught attempting to smuggle drugs into Wilcox State Prison - WALB",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXpjREFfa2JCbVdFWm9lVWp1Umx3LXVOaTVvb2tfQ2dJTEVEaER6eUxWSHpKSXpmajNUZS1rNndGWXA3NkxmU2R4VEJ0OVVRdkN0a19kWWxvaVRfc3hfUGpTb1diLUU5SkVZeWh1eFJHMVZKd2JSeG43dlRDVVVydmtzUlZZMWp3VmY3OHZSMmtWQXNVT1JZUEdwSmVCbGU0djYw?oc=5",
-      "source": "WALB",
-      "date": "2026-03-27T17:59:05+00:00",
-      "description": "Drone caught attempting to smuggle drugs into Wilcox State Prison  WALB",
-      "query": "drone prison",
-      "detected_at": "2026-03-27T18:21:42.407808+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2ce29187bacc"
     }
   ],
-  "last_updated": "2026-04-16T18:29:16.649039+00:00",
+  "last_updated": "2026-04-16T19:31:22.958129+00:00",
   "total_count": 1000
 }
