@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEFfeVVHbUxXbW1CeXBuUXFFZ0xIX2NuZE5CbFdDc2p6RUJVZXBua2ZYc3RFN3RtYjlqV08xbXlRenlGX2Fyb3ZMa0NGMWxJUjZVVUhncGVpRWtyZ0NPR05nTXBxdGswLWh3M24zT3ZDQm1hMVRiQzRMelF6RGdOcnlxN0p1VGZiZGF1aGphcTRUWFFJd1k2ZU1Zdk5IUWphQ0ZBMEctNzZUcDF3VjNnbXJQams?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-04-16T16:43:00+00:00",
+      "description": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games  Bloomberg",
+      "query": "drone illegal",
+      "detected_at": "2026-04-16T18:29:13.800608+00:00",
+      "location": "Near MLB",
+      "category": "airport",
+      "id": "856242757835"
+    },
+    {
       "title": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEFfeVVHbUxXbW1CeXBuUXFFZ0xIX2NuZE5CbFdDc2p6RUJVZXBua2ZYc3RFN3RtYjlqV08xbXlRenlGX2Fyb3ZMa0NGMWxJUjZVVUhncGVpRWtyZ0NPR05nTXBxdGswLWh3M24zT3ZDQm1hMVRiQzRMelF6RGdOcnlxN0p1VGZiZGF1aGphcTRUWFFJd1k2ZU1Zdk5IUWphQ0ZBMEctNzZUcDF3VjNnbXJQams?oc=5",
       "source": "Bloomberg.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "2ce29187bacc"
-    },
-    {
-      "title": "Drone caught attempting to smuggle drugs into Wilcox State Prison - WALB",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUl82MjdQWWUtdVd5QkdTVFl3VUh4OF9HTFhvV3NmQlJiUEpHNUlXdEpJbkt3RlVXWU4ydjdjQWVJQWJuVnFxWEo2V1Zod3hQU0VOXzBGMW50Yi13c2xnTk5fdUNsakVXRXRKcVJ2dURMOWVJNW9iM2E1VWFVRVQ3eUk3Y2t6akM5T3BFRE5rdlZ2NV9VUE1HMjVQVdIBrwFBVV95cUxPVjRIMjVCVkRodDcyeDk5UldOc0hUT2tIOTVxbDlaQUswS0ZJcjdtOFJZeDUxU1ZBcGotRlF0ekJsMlF2ZHN2ZzJTVm0tb0Z1UDMyN29CMk9idXNWQlFyQzNmR2hfbjB5SXN2dnBBMGZmUWV6YjhMTzBDWEt5Z1JxdGZfX3dnMUZVR0JGUnlGakxlSjNlaThGOEtwNmc5NlBZV3RrTmdQMFFacl9Qc0ZJ?oc=5",
-      "source": "WALB",
-      "date": "2026-03-27T18:00:00+00:00",
-      "description": "Drone caught attempting to smuggle drugs into Wilcox State Prison  WALB",
-      "query": "drone prison",
-      "detected_at": "2026-03-27T18:21:42.407808+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d080ff9bba5f"
     }
   ],
-  "last_updated": "2026-04-16T17:32:18.812252+00:00",
+  "last_updated": "2026-04-16T18:29:16.649039+00:00",
   "total_count": 1000
 }
