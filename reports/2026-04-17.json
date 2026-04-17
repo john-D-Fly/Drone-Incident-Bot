@@ -1,0 +1,145 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a heightened focus on drone incidents involving security threats and crashes. In London, counter-terrorism efforts have been mobilized following alleged drone activity near the Israeli embassy, while multiple reports highlight a significant spike in the wrongful use of drones, including smuggling and contraband incidents over U.S. prisons. Simultaneously, the U.S. Navy confirmed a costly drone crash in the Persian Gulf amidst increasing tensions with Iran, further complicating military operations in the region. Airports across various locations experienced disruptions due to unauthorized drone activity. The convergence of these events underscores ongoing threats posed by drone technology, prompting calls for tighter regulations and enhanced enforcement measures.",
+  "totals": {
+    "terrorism": 3,
+    "other": 13,
+    "crash": 15,
+    "smuggling": 2,
+    "arrest": 6,
+    "airport": 4,
+    "security": 1,
+    "total_incidents": 101,
+    "by_category": {
+      "airport": 9,
+      "arrest": 11,
+      "crash": 32,
+      "other": 35,
+      "security": 1,
+      "smuggling": 8,
+      "surveillance": 2,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 14,
+      "drone crash": 31,
+      "drone illegal": 14,
+      "drone incident": 19,
+      "drone prison": 3,
+      "drone smuggling": 2,
+      "drone terrorism": 9,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone security incidents",
+      "rationale": "Increased security measures and concerns with drone deployment near sensitive locations.",
+      "incident_ids": [
+        "56ea53a628f7",
+        "dbca7df53e13",
+        "e3718a86e7af",
+        "f7632ad74f31"
+      ]
+    },
+    {
+      "topic": "Drone crashes and military implications",
+      "rationale": "The substantial loss of military drones raises concerns regarding operational risks and geopolitical tensions.",
+      "incident_ids": [
+        "76203b26bc65",
+        "b348758ccb94",
+        "2d7b4bcc096b",
+        "a4efa05afb5f"
+      ]
+    },
+    {
+      "topic": "Drone smuggling in prisons",
+      "rationale": "Emerging trends of drone use to smuggle contraband into correctional facilities.",
+      "incident_ids": [
+        "f48978153216",
+        "48ba24462a80"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "56ea53a628f7",
+      "headline": "Counter-terror police probe claims of drone threat to Israeli embassy",
+      "one_sentence": "Counter-terrorism efforts have ramped up in response to alleged drone threats near the Israeli embassy in London.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "dbca7df53e13",
+      "headline": "UK police investigate security incident near Israeli embassy",
+      "one_sentence": "UK police launched an investigation into a security incident involving drones near the Israeli embassy.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "76203b26bc65",
+      "headline": "US Navy confirms $240m Triton drone crash in Persian Gulf",
+      "one_sentence": "The U.S. Navy confirmed a $240 million Triton drone crash in the Persian Gulf amid rising tensions with Iran.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "e3718a86e7af",
+      "headline": "Police investigating video of radioactive drone incident at Israeli embassy",
+      "one_sentence": "Authorities are investigating a video purportedly showing a radioactive drone near the Israeli embassy.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "f48978153216",
+      "headline": "Drone contraband is becoming a problem in prisons",
+      "one_sentence": "Increasing incidents of drones used for smuggling contraband into prisons are raising alarms.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f7632ad74f31",
+      "headline": "Dubai airport shutdown after drone strike causes disruption",
+      "one_sentence": "A drone strike led to the shutdown of Dubai airport, affecting thousands of travelers.",
+      "risk_tags": [
+        "airport",
+        "security"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent days have seen a surge in problematic drone incidents, from security threats to costly military crashes. #Drones #Security",
+    "linkedin": "The past 48 hours highlight the growing concerns around drone usage in security, military operations, and unauthorized activities, prompting calls for regulatory measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-17"
+}
