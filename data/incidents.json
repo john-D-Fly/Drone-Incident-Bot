@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "MQ-4C Triton Drone Lost over Strait of Hormuz, US Navy Says - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUpqQTE1OGtDUU9NempLaC01ZV9tVTVQd3AzcXZNWk1YRml3NGNDWUlEMEVmRjNCdWsxbklOYmRMOUI0bVRvRGNJbUExTF9EYWMwZHZ2SjJEdGRmQkdmV3JsWVoweEZKb09wOFRwcVNGQUhmVnFubDRJWi14QTRzSzFOcWxBVVJLWGFvbWtNQ2VydVhVMlV0YnRUSkkyTUR4Um5PYTVTdjR2eVU?oc=5",
+      "source": "The National Interest",
+      "date": "2026-04-16T18:05:23+00:00",
+      "description": "MQ-4C Triton Drone Lost over Strait of Hormuz, US Navy Says  The National Interest",
+      "query": "drone crash",
+      "detected_at": "2026-04-17T05:02:30.492225+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a4efa05afb5f"
+    },
+    {
+      "title": "Drone video shows moments Weston jewelry heist suspect is captured in Indiana - WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblFONVJTMy1SeXBDQU83RkpuREdzUzZWbUVkQWVtVlY1Q2pHdTVCQnlMdzVqS013bW9BODU0UUs5LUFIT0JveXZQQV9DZW5id3lmRGgwOU5QY0pLbkliMDlNeUItMTVxQVUyQzUtcTlPc0MyNmtsa2NQODJIWUcweDYyS3M0TWVlclhjeDVISEY0UDNKYTlGbTdNclZ3NG1kVzdhZGh4b05mSS10SHBUNzhNVVI1QkotMUY5NXluSzNiZw?oc=5",
+      "source": "WPLG Local 10",
+      "date": "2026-04-16T12:22:06+00:00",
+      "description": "Drone video shows moments Weston jewelry heist suspect is captured in Indiana  WPLG Local 10",
+      "query": "drone arrest",
+      "detected_at": "2026-04-17T05:02:28.323237+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2d1920dbb36a"
+    },
+    {
       "title": "Federal authorities issue warning after multiple drone sightings above Coors Field - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWliOERxNnB0MVZxNEdjTEhSWm1iclJtTURpc3hwa0d1U3lUNUppQ3J4bnI3WE9mWUZiWEFLaG5OcW5aUmkyTHlpTXZTLTZteFA3MS1kRE4zV05hR3I1NVNoai1QV1IwUmJadldONEVoY2R1T3drc29vTGwyREhPM3JMQ1M2ZTc5NXdNZGdQeW5QeDA2WTVHTXVfSnN5bDB4ckF2UEpfSUI?oc=5",
       "source": "New York Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "cd4dc9387b2d"
-    },
-    {
-      "title": "Drone-related incident sparks fire near Dubai’s international airport - msn.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR29xY0FBaUVMTVZOOERGa2NPNW1BcC1KZXZORUMycllLQnpiajVfS2ZQVGZ6TEY0a3hMZVFOZGN6UHZoRUw3ZENNZWNqYjRsVjZFMHpJRVo1MGdVMldsYUlUcGdBN1k1VVR0QndoOGtubFhPcTZObnBRZzl5TThOb1RCR3NOdGVGX2lsTk12QktPdFllblF3ZU1kNWdRT2R1Q0JMMWZOWkdndGxaYWJOc3ROd2pfVFFQUEE?oc=5",
-      "source": "msn.com",
-      "date": "2026-03-26T18:17:20+00:00",
-      "description": "Drone-related incident sparks fire near Dubai’s international airport  msn.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-28T04:40:24.267248+00:00",
-      "location": "near Dubai",
-      "category": "airport",
-      "id": "e410bd9b6d99"
-    },
-    {
-      "title": "Senator Cassidy reveals new details on Barksdale Air Force Base drone incidents - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZktLejk2SW8tNWVfM3VneFJaQTV6bTlSNWpEenIzZ0N6T3hUeTc0ejdsbWdwM2t3MGtLV2hveGxETjRDM3l2U3YzeHg4bWNqUmJHTElmUFR2aUVqVWNNclIwcEtTNGZfcVJvSU55aHI0OEtGWEU3UnNwSzlfeW5uUE5BZks4V2NaU0M0TmJKVXQzeDdGQUR1eWpOc0twRDNEb0owRExJNFpfQ2lMUkHSAcIBQVVfeXFMUHVjeHNNSnNNNW0wc0h3X18zcFpmdHlpaXFIU3NrRXFwelg4S1B0T3h4NkNkWHFTQ2FEYk4tQUsxMlZLSENGNFlOX3pDUzMxVi0zRklNUFQyUW1saGd5by1EbU5Zajc0akNzQWZBMjU1VTNPbWdMdGxsTC1lODU3cFM0bjBSRklSTnZ2Sm5ELVNIeUFCaW1LaVRuSF8wUmxsWG1qOHdkYkRzZmVoY0s2Q3ZNMXhxazNKbEtQVGQ3ZXAxNEE?oc=5",
-      "source": "KSLA",
-      "date": "2026-03-28T02:42:00+00:00",
-      "description": "Senator Cassidy reveals new details on Barksdale Air Force Base drone incidents  KSLA",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-28T03:04:41.573176+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8c7746f7b333"
     }
   ],
-  "last_updated": "2026-04-17T03:08:27.598120+00:00",
+  "last_updated": "2026-04-17T05:02:33.293989+00:00",
   "total_count": 1000
 }
