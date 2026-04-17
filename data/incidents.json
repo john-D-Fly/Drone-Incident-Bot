@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US Navy confirms $240m Triton drone crash in Persian Gulf - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaWM0UnhDMUNBYlJjb1ZvTm5TUU0wT0ZGZk4tWUxSaXRYaUkzZzgzOGpzdE1IbHN3a0d2Y2otMjBuUEw2SS1haWxiRHdxT05MUUxLWW9rMjJyU3Frakt6aWhySnRERGs1OGdLOEVTRDduNS15WVFidlNhbFo1RVJ3aElJUl94cFgwZXE0RDBMdGtkZGw0UkxaRW9jTVgzVXFvV2ItaVUtN19Vbmw4ZGNselQ3cTZ3S1BWMnpKMVZNVzlSeUlyN2ZlYXRZejBtVjd1RTlieUxKMFVXOU1VS2RpNA?oc=5",
+      "source": "MSN",
+      "date": "2026-04-16T00:17:06+00:00",
+      "description": "US Navy confirms $240m Triton drone crash in Persian Gulf  MSN",
+      "query": "drone crash",
+      "detected_at": "2026-04-17T07:36:20.824929+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "07ba761c30c7"
+    },
+    {
       "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTlpU19WdlIyU0E4aUJ1emxxU1BmUDRKcUJBQkt2a2tuT01ndGhITVhhdlBIdzBfdHVOZG9vTTI5MTFVSDRzRjFwRk9OSmVnNFRqRFNGV0lpUVpocjdHZXJDUGdhOTQ1eTFuTWZ0NkFrQmdfOWVEUWhNYVJJM2RJM3l1SzI0Tlo2dURkckd2WlBqREZxZHZMVUFteWdDNFhWNXZaNUl6Ri0wOWc1RzBDbVFqQ2xXUHVNUkZPdHU1Q2tKWlU1eVo4V0NhV3NNQmVWckZKM2pRbzYwM1E?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "4d6a6f190ecb"
-    },
-    {
-      "title": "US investigating unauthorized drones detected early March over base hosting B-52 bombers - aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzFwVnVwM3VuTmdtZnhNcnFrczEyWkVJcjc2WHZtVG1ad3hlRXBXX1NKSzZjeDhsOWRrVFhhdThGVk1BeW1fNmpHTmIwZjJiNURHS09vUldSWTNOZ3doeDc4VGFpX1pFSkRnY0NCMWlZZWIxZkZSQ2hYR1Y3c1RRQVJKWGx5X05TMk5yR3cyQ2FPY3lZMlpsWWt6UnBhU3JGUGdpVm5FNUR3LVF5by1MSEVqUFVKeEFEcGZ0b0dUMnpuRl9BcHByc3pn?oc=5",
-      "source": "aa.com.tr",
-      "date": "2026-03-27T17:12:25+00:00",
-      "description": "US investigating unauthorized drones detected early March over base hosting B-52 bombers  aa.com.tr",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-28T04:40:30.002422+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "590cc1993236"
     }
   ],
-  "last_updated": "2026-04-17T06:42:32.158340+00:00",
+  "last_updated": "2026-04-17T07:36:23.571101+00:00",
   "total_count": 1000
 }
