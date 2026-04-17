@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Counter-terror police probe claims of drone threat to Israeli embassy in London - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEZOSnhDUmZ6S1dwNWNsVC1CMEROMktVdmlkaVd4WEx0QjItXzV3dVdiOUdhV0o1TWtWV1F5dkFjOTBLRGdWTlA0WEZsMklGUkJUeTYzQzlaWGZLNUtvYVNFUm81NGp0blg1UF9QbkRzcXhoaXFZZVlUS0Ztc19BS1Q5MVJ6OEMtYUVOMWZlWmF6UDNURkktREc3X3NuSHdKZDgzUVJB?oc=5",
+      "source": "The Independent",
+      "date": "2026-04-17T12:28:00+00:00",
+      "description": "Counter-terror police probe claims of drone threat to Israeli embassy in London  The Independent",
+      "query": "drone incident",
+      "detected_at": "2026-04-17T13:34:32.777459+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "56ea53a628f7"
+    },
+    {
+      "title": "UK police investigate security incident near London's Israeli embassy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSktBYi1MWGkwZ00wU0NzZTZWaHVDaWd6bWhtZVZRYWdqVjFUQ05FZGcxYnF2b3ZMd1VUQjNlb1pxMzhvRHhoTlNjSmtHaFpWcUpYT3NaUmFxZmkyNVc2V1BVUGs2TUJMcXJIUkZYamo5UFAxUnBzbnFNR19QZjkxZnpBV0lJeUhHRUdmQjdlQ09yYm4wRnRWY0JHZ0I3clE?oc=5",
+      "source": "Reuters",
+      "date": "2026-04-17T12:31:43+00:00",
+      "description": "UK police investigate security incident near London's Israeli embassy  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-04-17T13:34:32.777459+00:00",
+      "location": "near London",
+      "category": "other",
+      "id": "dbca7df53e13"
+    },
+    {
       "title": "US Navy confirms $240m Triton drone crash in Persian Gulf - MSN",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb3dUQ1NCblU2UnlUTGxQaHAtZVVoYTVwYm1POWdiOHdVMUl5Q181QzBIR0dCWDM4OElubmJDcEpNa2JlRHJPaUZ3eFhockJaT21LNExtdUR1bnBWd1FERzdOU3IyTktKUkNVUl8tQkU0VlZxa0JBdTlBbG9sYWE5TEVwMFBJNUttRGgzcXI1cFJsU3BzTXdZN21VY3ZDaGVacTJvRnBKV1pvaHB0RUNCQ0FhcUh1OGVCQWJ5c2p1QTZ4Q2NVb2ZmRF9EYVV5c3JQWFRoa2Jma1I0dXc5bFhScQ?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "54aa60e2fc5f"
-    },
-    {
-      "title": "Drone Crashes at Majnoon Oil Field in Basra Without Damage, Ministry Says - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE1SLVUyTEdQMnBhUDA1dGxZT0NKYjlNeTkxd0ZPUzlRcmNjV3dOLUxqU2dnMzB6YjZlWVFLdmNSWUFxOTJYcDFKSmI0UENtWnp4bnl6YU5hOFN2YjRTUl9aSUFVSnFmV1hwak03TDdiM3FiZDAtamx3bmJzWEgwbGVmeXk4QWM3WVFFcC13dVBvOW9kUnZvMFphSXo2REQ0T3dzcVJkTmF5SlBsQVlKdjF2b1R3NzQ?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-03-28T09:47:31+00:00",
-      "description": "Drone Crashes at Majnoon Oil Field in Basra Without Damage, Ministry Says  Kurdistan24",
-      "query": "drone incident",
-      "detected_at": "2026-03-28T10:10:35.062670+00:00",
-      "location": "in Basra Without Damage, Mi",
-      "category": "crash",
-      "id": "a4b6d23b486e"
-    },
-    {
-      "title": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWxEUDdFc1dhaF9JZjhkSFotTldqcVBvaWt2UE42QjFnQ29UZkFHQkFEMFhxTWxXcmlwLVQzdE1CNUo4bkpZeDBBc0RiZU9BNWYwdE5qX3ZmY2d3dXBmeWZOY29vTkh2cVdDVVIyZnExZzRoLVN5Y3ZyODlrVFpZcmZHcGp5czBKcy1DMy1MaXlTNWc0TU5nQ2ZtSjE?oc=5",
-      "source": "nytimes.com",
-      "date": "2026-03-27T08:55:32+00:00",
-      "description": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks  nytimes.com",
-      "query": "drone arrest",
-      "detected_at": "2026-03-28T08:14:14.919700+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "ebafcc84539a"
     }
   ],
-  "last_updated": "2026-04-17T12:25:04.179425+00:00",
+  "last_updated": "2026-04-17T13:34:38.705672+00:00",
   "total_count": 1000
 }
