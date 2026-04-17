@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEFfeVVHbUxXbW1CeXBuUXFFZ0xIX2NuZE5CbFdDc2p6RUJVZXBua2ZYc3RFN3RtYjlqV08xbXlRenlGX2Fyb3ZMa0NGMWxJUjZVVUhncGVpRWtyZ0NPR05nTXBxdGswLWh3M24zT3ZDQm1hMVRiQzRMelF6RGdOcnlxN0p1VGZiZGF1aGphcTRUWFFJd1k2ZU1Zdk5IUWphQ0ZBMEctNzZUcDF3VjNnbXJQams?oc=5",
+      "source": "bloomberg.com",
+      "date": "2026-04-16T16:43:00+00:00",
+      "description": "FAA Probing Illegal Drone Use Near MLB’s Colorado Rockies Games  bloomberg.com",
+      "query": "drone illegal",
+      "detected_at": "2026-04-17T00:39:47.330428+00:00",
+      "location": "Near MLB",
+      "category": "airport",
+      "id": "8056590a9c34"
+    },
+    {
+      "title": "Drone sightings at Coors Field prompt warning from authorities - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZFdNYlFHWV9zNmh3MlZxQzdxcVJ0VUZLOG1remoyVTFQMU9LWGNuSXFyemdWYm9nbmFpS05QZUhDblJscWdLdWlLYWdmYjlERnFXbi10Ynh4cTVZa2lYQzRKUW9nNk9xN192NndOQjFCemgtdnhNMGw3bUpLV2xCVHFSRTNwcWZKVkt6Tm1qdU9BX1R1WDMya0hwUUZKN2xCNGc?oc=5",
+      "source": "ESPN",
+      "date": "2026-04-16T22:43:00+00:00",
+      "description": "Drone sightings at Coors Field prompt warning from authorities  ESPN",
+      "query": "drone illegal",
+      "detected_at": "2026-04-17T00:39:47.330428+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "37665a0b4557"
+    },
+    {
+      "title": "MQ-4C Triton Drone Crash April 17: $240M Loss Confirmed - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlFQRV83OEx0UVlQUmdLaG55Q083cFhHaHdJeXNzbjYxQ3gwd1JKZDVUdlVmWm0ycXRDaHhPUHVVYjZDOU1hX2xrQlBtVWtGTHVsRTNQZlhpRi1HY3ZtNHZCTlhfTTNjbjJJLUxOTDVCUkk0M28wbGE5aXFqZWhjVVNNek5DU1V0TXc?oc=5",
+      "source": "Meyka",
+      "date": "2026-04-17T00:32:58+00:00",
+      "description": "MQ-4C Triton Drone Crash April 17: $240M Loss Confirmed  Meyka",
+      "query": "drone incident",
+      "detected_at": "2026-04-17T00:39:44.071416+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "20bfa9a6a9ff"
+    },
+    {
       "title": "Oakland Taps DJI Mavic 3 Drones To Fight Illegal Dumping - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQWZDTEVxdG14c0hCLWRsVUc2WDFjeXJSdTdJRU93UWxfb3VRbFVwSnA1WUE5ZEx5NDNnYUFGemZlOHJxazJKR0F2NnZGS2dwYVNWRTNOSXhsdXNnQ01ueGt3RTUtWC0waWtpcXZKMi1hVVE?oc=5",
       "source": "DroneXL.co",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1b98afc3f239"
-    },
-    {
-      "title": "Drones broach restricted Barksdale air base; no details on source or response - lailluminator.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHdFNqZ2staC1QeUtZVVEyalJaSWozU25ZNW9hT3dscmVJSEFCdExZOU5xTmFTalJ1YWVRS2l3a0lMTE1vRFIxMWJYQkE4TGtmS2JuVjlyV095MGJhMXlDR2g4VWdQaGF1QW0tUW9MeXB0YnFBeW01YjVn?oc=5",
-      "source": "lailluminator.com",
-      "date": "2026-03-27T21:07:35+00:00",
-      "description": "Drones broach restricted Barksdale air base; no details on source or response  lailluminator.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-28T01:36:47.700530+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4307097b0096"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEd6ODZsbWRFTFpnZjFFc0V1NmFfcTNuQWlRWGJoYnRBNm5jU3BDQ1ZNZUhvSHZlaktySkdnWF9fQkRpcHFLWktxS0ViNkJFVVJvYVNndkNrOVBrWWRYWFozTlFzeTBtU0YxaDMtVDctZC13OXhHMUtRdFZGM2s3U3RLeTNhSl83MGlGcERRZWFYdTVUVVhhdmgtTWdKX3ptYmg3NFh0WHM0aGVpSFZLWWF2dHF0YnBseC1EX1d2alhyYnRlSXN1REl5Yw?oc=5",
-      "source": "MSN",
-      "date": "2026-03-27T19:23:23+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-28T00:31:42.708861+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "26d1e351b440"
-    },
-    {
-      "title": "Drones broach restricted Barksdale air base; no details on source or response - Louisiana Illuminator",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHdFNqZ2staC1QeUtZVVEyalJaSWozU25ZNW9hT3dscmVJSEFCdExZOU5xTmFTalJ1YWVRS2l3a0lMTE1vRFIxMWJYQkE4TGtmS2JuVjlyV095MGJhMXlDR2g4VWdQaGF1QW0tUW9MeXB0YnFBeW01YjVn?oc=5",
-      "source": "Louisiana Illuminator",
-      "date": "2026-03-27T21:07:35+00:00",
-      "description": "Drones broach restricted Barksdale air base; no details on source or response  Louisiana Illuminator",
-      "query": "drone incident",
-      "detected_at": "2026-03-28T00:31:40.423624+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4d290483a6ef"
     }
   ],
-  "last_updated": "2026-04-16T23:17:33.052036+00:00",
+  "last_updated": "2026-04-17T00:39:49.656324+00:00",
   "total_count": 1000
 }
