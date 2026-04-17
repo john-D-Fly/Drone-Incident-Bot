@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTlpU19WdlIyU0E4aUJ1emxxU1BmUDRKcUJBQkt2a2tuT01ndGhITVhhdlBIdzBfdHVOZG9vTTI5MTFVSDRzRjFwRk9OSmVnNFRqRFNGV0lpUVpocjdHZXJDUGdhOTQ1eTFuTWZ0NkFrQmdfOWVEUWhNYVJJM2RJM3l1SzI0Tlo2dURkckd2WlBqREZxZHZMVUFteWdDNFhWNXZaNUl6Ri0wOWc1RzBDbVFqQ2xXUHVNUkZPdHU1Q2tKWlU1eVo4V0NhV3NNQmVWckZKM2pRbzYwM1E?oc=5",
+      "source": "MSN",
+      "date": "2026-04-17T04:53:52+00:00",
+      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-04-17T06:42:28.700016+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f7632ad74f31"
+    },
+    {
+      "title": "Russia: Flights disrupted at St Petersburg airport amid drone threat - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGtJOUpTbnpZVGU1YmdmYVFveHF3Y29uY1RhWGtvQksyc2hzNzZwMUt5TVFMVkhTb0x1Ty1JTWRIeVdYekhTVHZycmxzQU9QdUdFeXZ1Y09BamNFMXhveGhyUjR0V1JGVUgzOVNmWVFWSmdRX0hDc0pwZXk2WWlCYUlxeDdUQ29sYlZNek9ESnNJMWtWZmZjMXdR?oc=5",
+      "source": "Caliber.Az",
+      "date": "2026-04-17T05:09:30+00:00",
+      "description": "Russia: Flights disrupted at St Petersburg airport amid drone threat  Caliber.Az",
+      "query": "drone airport disruption",
+      "detected_at": "2026-04-17T06:42:28.700016+00:00",
+      "location": "at St Petersburg airport",
+      "category": "airport",
+      "id": "3260a420f5e2"
+    },
+    {
       "title": "MQ-4C Triton Drone Lost over Strait of Hormuz, US Navy Says - The National Interest",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUpqQTE1OGtDUU9NempLaC01ZV9tVTVQd3AzcXZNWk1YRml3NGNDWUlEMEVmRjNCdWsxbklOYmRMOUI0bVRvRGNJbUExTF9EYWMwZHZ2SjJEdGRmQkdmV3JsWVoweEZKb09wOFRwcVNGQUhmVnFubDRJWi14QTRzSzFOcWxBVVJLWGFvbWtNQ2VydVhVMlV0YnRUSkkyTUR4Um5PYTVTdjR2eVU?oc=5",
       "source": "The National Interest",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "590cc1993236"
-    },
-    {
-      "title": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights - travelpirates.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG5HVjg1ZUQ0dFYzLUVEVTlMN1JmdVAyWnlXZ2x3SzdWMS1zaUFHZ3BpSVZqbHItbTI2MTJsdVFxbGNtWVN2blpGdU9STVlEWFpIYXdLMjBWX3lndjZ2YWx6VW5ydXlJWl9rXzNIM2xyekkySHdGczhNNTRwYmEwVGYxcC1aWlpLQXJwMWJ2cnNscFUtQkJ2Zkd4b210cl9FLUtxelRCZXRkRHF3TGc?oc=5",
-      "source": "travelpirates.com",
-      "date": "2026-03-26T09:20:50+00:00",
-      "description": "Is Dubai Airport Open on March 26? Tornado Risk, Drone Debris, and Major Storms Disrupt DXB Flights  travelpirates.com",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-28T04:40:26.962101+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "469bded6050a"
-    },
-    {
-      "title": "HPD drone program helps lead to safe arrest in shooting case - 256 Today",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQW5GLXVaRVFnVGVCTmJ4bWhsNVZjWU5ZdG9DZEdwcnJxa1pCWG1hR1QtczNkM2VreEt3MVVLeGlUNC1zdkdpQ2F1ZFB0Vm1meU5zNVpsbWo1RmRRdmpHVkJCRTZNQjlZRW00RDBYSHQ0YmhfTFFhc0JYd0dpdUVtRHhBY21IcmhXMlE?oc=5",
-      "source": "256 Today",
-      "date": "2026-03-27T16:00:12+00:00",
-      "description": "HPD drone program helps lead to safe arrest in shooting case  256 Today",
-      "query": "drone arrest",
-      "detected_at": "2026-03-28T04:40:25.060596+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "cd4dc9387b2d"
     }
   ],
-  "last_updated": "2026-04-17T05:02:33.293989+00:00",
+  "last_updated": "2026-04-17T06:42:32.158340+00:00",
   "total_count": 1000
 }
