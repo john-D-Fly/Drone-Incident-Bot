@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Sask. launching pilot project to combat ‘unauthorized drones’ - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTZpZWl6Rm56Z3ZvRTd1Z2VlalQzY1R5Z2o0QUF2T0IxZXp2LTRTajlTSTZJWXdKZ2xUa2Jqemt6dUFkb1hhQVc1WDF0ckZFQWw1SUxaaWF0eUlvTVNPM3FURlhKaU5pZU1PZDVqY1JKb0p1UmxZTGltdTR1bDd5X3lSUWVDUHdUamhpYUpwOG9Da2NUOHN1LTRCRDZsZw?oc=5",
+      "source": "CTV News",
+      "date": "2026-04-18T19:42:15+00:00",
+      "description": "Sask. launching pilot project to combat ‘unauthorized drones’  CTV News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-18T22:11:03.732603+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "d16981842656"
+    },
+    {
+      "title": "Drone contraband drop intended for Johnson State Prison intercepted by authorities - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzZiampqTjlqM0laTDE5TUczV3NHRDNGaXFkOGtVUjYzTlV2UHNUYjVXRTdnMjViRHphUk9uSmRkVnlaWGE5ZGQzS3Z6Y3FDUTBjVWtsWmVWYkJwSG55UGNsaW92SXloTDh0TWVoRzVJaE5iN1VFMXZyNTlYOVRYcXJHY1V6U3dFdGxyUkYzVTE5eFE?oc=5",
+      "source": "Yahoo",
+      "date": "2026-04-18T20:39:58+00:00",
+      "description": "Drone contraband drop intended for Johnson State Prison intercepted by authorities  Yahoo",
+      "query": "drone prison",
+      "detected_at": "2026-04-18T22:11:00.324934+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4f4795629235"
+    },
+    {
       "title": "Drone contraband drop intended for Johnson State Prison intercepted by authorities - 13WMAZ",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOek16QUlheTNUdnlLdzZxd3FhWmEtMm1FdHE0ZVVPN0F2MTlFVWZVcG83OVBvUlZtTkthRGhLRWhVS3d2ckRremZTNTB5U2RJRFpHQ18zN2tXN25HVF9aRG83eFdiUXBJOEx3Y0tJdXVCZEI4UjR0aGkyYTZTYWFTdnJWUDRTUGFtaVVsbmoyUnpQTHhBcWlqd1k3Tnd0YTF6anZ5bkIyMXpScWpyc2p2d3k4TkFzNEw5b3JWS2Y5VndpS19nV1k2MUlFLXFycGRIYmJ4MlpUd1FlQnFkUWRxTDRGYlNTczVVV3BLQjZIQ1AzZw?oc=5",
       "source": "13WMAZ",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "8b59ba94cbab"
-    },
-    {
-      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
-      "source": "LSM",
-      "date": "2026-03-29T07:29:06+00:00",
-      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
-      "query": "drone crash",
-      "detected_at": "2026-03-29T08:14:25.021295+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "29dc41c951e9"
-    },
-    {
-      "title": "Jail time, drones and bumpy walls: Inside a Florida city’s homeless arrest machine - tampabay.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1dEdXVObWRvaVNGMUZjQUkxMHlxWXR1NFl1d250a285RVdBdnFLUmFIREh0a2JuTldzMl9qOFY5MEd5c0FFeEd3ZHdzaHNaV2ZteEZLZU5VQjBITWpubnZfbnhXMVZMTnBqMVpidFNLSGFhQjJScDFEVjZjaFFqc1JaSWd2eGJwRUdVMnVicw?oc=5",
-      "source": "tampabay.com",
-      "date": "2026-03-28T14:00:11+00:00",
-      "description": "Jail time, drones and bumpy walls: Inside a Florida city’s homeless arrest machine  tampabay.com",
-      "query": "drone arrest",
-      "detected_at": "2026-03-29T07:25:16.575512+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1e9007393e69"
     }
   ],
-  "last_updated": "2026-04-18T21:12:38.220060+00:00",
+  "last_updated": "2026-04-18T22:11:04.221805+00:00",
   "total_count": 1000
 }
