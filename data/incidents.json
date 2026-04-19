@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA probing illegal drone use near MLB’s Colorado Rockies games - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2JrdlRBNnhLSENTbndPZS1xb2l5azA3dmh4NXNHaUIzU1NzaWxoVTkzWm42clh1VHItaGRKZUJZU2Zfdy0xNkw2S1hzUlBmZXYzRzVHQ0c3YmlyWVh0RXE3NExSVFVqREhQWXdNYmpkSXhMZ2xrbmhnUlhzRUpmMUFoREpNak9OM0VkUFYyX3NuSW1yWTYxX01rT2IycWpuNk4wVXhmMzFfdTRoSG5sT2tR?oc=5",
+      "source": "MSN",
+      "date": "2026-04-18T20:38:27+00:00",
+      "description": "FAA probing illegal drone use near MLB’s Colorado Rockies games  MSN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-19T11:15:34.403920+00:00",
+      "location": "near MLB",
+      "category": "airport",
+      "id": "bfca3c792c1f"
+    },
+    {
       "title": "Chernihiv under massive drone attack, explosions reported in city - Ukrinform - Ukrainian National News Agency",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2hBR0JtWXk0NkhWZXdPbEZpTVEtYmRhQ3NXSm9Cd3RMMnZGZ0JtWnVxWkx1dHpkbWhxeVhDeEZDanVTQnJXV3NTdm9oUnl4V0RvR1dSV3NiWVcyRTBDbnRuZU9jcm5nR0d5SDU5bFRSS0RfZEt3MHNGc3pVZFlpbmxuOTN1VldCa2FsSkpvRGtRaEFNTlpKMUhYMFhJdVBfR1IzejFvMGMxelpBZU9wcW9ETU_SAboBQVVfeXFMTWhDY1oxdlJEY2VzTGVIZDVkSzN6VjFXU2JjNFNtQ085U0hBdTRwaDVFUlFtZWZKR1V2d25yMldFR25PVEVJWVlNcEdZeEV4OXNJa2ZkYXdKN2R0NThCRTFPRS11QXlnLVRIdHpDZUJxTE1lLWRObDd6LTZZWHE0YlZHMUFwZmlwYXdGZzhaWFJRU21rcmlJNFRUbWw2a0UtRWdtVHlXYWNuYzQ2YS1Hb3BSdnFaZkJnM25R?oc=5",
       "source": "Ukrinform - Ukrainian National News Agency",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "8b2e24dc81cf"
-    },
-    {
-      "title": "Report: UAE detains dozens of Britons for filming Iranian missile, drone attacks - ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WQlMzbC1ZS3p1OGQwcGxHQmF0eUJOVENPVUpWYUU2djlvVHVFWXdSbUQ1clRtR2JFM2Q2VlR2amxQSG85d29zUGc1S09aVVVoeFVzcW9R?oc=5",
-      "source": "ynetnews",
-      "date": "2026-03-29T11:13:24+00:00",
-      "description": "Report: UAE detains dozens of Britons for filming Iranian missile, drone attacks  ynetnews",
-      "query": "drone prison",
-      "detected_at": "2026-03-29T12:13:13.927359+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b5d3341c0ede"
     }
   ],
-  "last_updated": "2026-04-19T10:17:02.978320+00:00",
+  "last_updated": "2026-04-19T11:15:34.893468+00:00",
   "total_count": 1000
 }
