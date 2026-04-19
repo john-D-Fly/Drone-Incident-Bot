@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Enemy drone crashed in Chernihiv, damaging two homes and a school - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pXzhVRXhoMm1JQ0MzanV2Q3loNnZNLWFFblJyd1A1NXdGTU42VzhoQlJadHJaOXlfcGlvcXhOYThHeE1wWm5aMmtOYUFZLTA1LXI4cE9xXzF5YVZ3?oc=5",
+      "source": "mezha.net",
+      "date": "2026-04-18T23:45:38+00:00",
+      "description": "Enemy drone crashed in Chernihiv, damaging two homes and a school  mezha.net",
+      "query": "drone incident",
+      "detected_at": "2026-04-19T00:39:52.979411+00:00",
+      "location": "in Chernihiv, da",
+      "category": "crash",
+      "id": "a754a67bba8d"
+    },
+    {
       "title": "Sask. launching pilot project to combat ‘unauthorized drones’ - CTV News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTZpZWl6Rm56Z3ZvRTd1Z2VlalQzY1R5Z2o0QUF2T0IxZXp2LTRTajlTSTZJWXdKZ2xUa2Jqemt6dUFkb1hhQVc1WDF0ckZFQWw1SUxaaWF0eUlvTVNPM3FURlhKaU5pZU1PZDVqY1JKb0p1UmxZTGltdTR1bDd5X3lSUWVDUHdUamhpYUpwOG9Da2NUOHN1LTRCRDZsZw?oc=5",
       "source": "CTV News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3c5cae9f9a49"
-    },
-    {
-      "title": "Meet the dad who flooded Ohio prisons with drugs using drones - dispatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUV9TSlRRVXA0aVpUZW1lV2dlR1NNclFuVXFZNlV0amhrajl4N2RnZU1FT1BCcHg1dGhkV3luN1NCYlNJaTJsXzdBUXM3bFY0cVpuZUV4ZkI4cFIxMFJZamJveHl2WmRQMjhRVl84dlRuOEFTcjc3WGYwaUNiWFRIRHB1T0l4RUpScEQ0ODdZVkNlYUc0Vm41TVY4azhlY1hiMldMcDdhNWZ3UGlNNkI5Y1QybUhHZ3hZQUNFRTdnSXJXU2dtY3pJVDBR?oc=5",
-      "source": "dispatch.com",
-      "date": "2026-03-29T04:16:00+00:00",
-      "description": "Meet the dad who flooded Ohio prisons with drugs using drones  dispatch.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-29T09:14:59.573712+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8b59ba94cbab"
     }
   ],
-  "last_updated": "2026-04-18T22:11:04.221805+00:00",
+  "last_updated": "2026-04-19T00:39:58.119329+00:00",
   "total_count": 1000
 }
