@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Large drone carrying contraband crashes near Georgia prison - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjZLV1d1T0dINVo4YXAzSTZjS2FhVTlKd0wwOFl6QTRiWVlRYWFyVlhMajBxU0RueDJaX3VKWXZZbFY1QngxXzlPdmFsODRqd0l6QUU4SEpFMTNDZmcwc0VoTGpmV1p1cHlrc09Qd1ctZVpjYm1UNGJ3WE9mRm4xWHRPd1E4Zw?oc=5",
+      "source": "AOL.com",
+      "date": "2026-04-18T19:20:27+00:00",
+      "description": "Large drone carrying contraband crashes near Georgia prison  AOL.com",
+      "query": "drone crash",
+      "detected_at": "2026-04-19T01:37:04.067475+00:00",
+      "location": "near Georgia prison",
+      "category": "smuggling",
+      "id": "7fce0c6daedc"
+    },
+    {
       "title": "Enemy drone crashed in Chernihiv, damaging two homes and a school - mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pXzhVRXhoMm1JQ0MzanV2Q3loNnZNLWFFblJyd1A1NXdGTU42VzhoQlJadHJaOXlfcGlvcXhOYThHeE1wWm5aMmtOYUFZLTA1LXI4cE9xXzF5YVZ3?oc=5",
       "source": "mezha.net",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "0d2f8441dacf"
-    },
-    {
-      "title": "Relatives Behind Russian Drone Company Involved in 'Illegal' Wheat Trade - Organized Crime and Corruption Reporting Project | OCCRP",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzFuVVdNRDR4UjY0emxEalFFemtYVXh6VTZDZ1QydjdDMkpCek01MHZKVHJfcC1vcjdlNEdCcEdIQkpLbnM2WFMwajVfYmpSQV91NzF0clpWcFZnd2JMVjNsTW1CNlk5SWhuZG1NX3RMTnJXcm1vb0FFelpsQmtqZWI5VXQtQ1BaMWlKbjRJN0xkWHlhY19EMVcyZG9PUjRLeHc?oc=5",
-      "source": "Organized Crime and Corruption Reporting Project | OCCRP",
-      "date": "2026-03-27T13:51:07+00:00",
-      "description": "Relatives Behind Russian Drone Company Involved in 'Illegal' Wheat Trade  Organized Crime and Corruption Reporting Project | OCCRP",
-      "query": "drone illegal",
-      "detected_at": "2026-03-29T09:15:02.272337+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3c5cae9f9a49"
     }
   ],
-  "last_updated": "2026-04-19T00:39:58.119329+00:00",
+  "last_updated": "2026-04-19T01:37:06.899338+00:00",
   "total_count": 1000
 }
