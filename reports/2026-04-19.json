@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "Over the past 48 hours, numerous drone-related incidents have been reported across various locations, highlighting ongoing concerns around illegal use, smuggling, and targeted attacks. Prominent cases include Russia downing 13 drones, Chernihiv facing extensive drone attacks, and increased scrutiny on illegal drone activities near MLB venues. A significant incident involved a drone crash carrying contraband near a Georgia prison, further emphasizing the threat of drone smuggling operations. Authorities in Israel also dealt with potential drone threats to the London embassy, signaling a concerning trend towards using drones for terrorism across borders. Additionally, drone safety measures are being discussed amid news of dangerous incidents, suggesting a need for stronger policies and regulations.",
+  "totals": {
+    "terrorism": 13,
+    "airport": 5,
+    "smuggling": 5,
+    "security": 1,
+    "other": 15,
+    "crash": 7,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 5,
+      "crash": 6,
+      "other": 26,
+      "security": 1,
+      "smuggling": 11,
+      "surveillance": 2,
+      "terrorism": 10
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 2,
+      "drone crash": 7,
+      "drone illegal": 8,
+      "drone incident": 11,
+      "drone prison": 7,
+      "drone smuggling": 3,
+      "drone terrorism": 13,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Threats",
+      "rationale": "Increased incidents of drone threats, particularly near embassies and high-security areas.",
+      "incident_ids": [
+        "c38c2cc4f2e6",
+        "0a3c0c3b899c",
+        "ed0f38fb2514",
+        "52baef0a784",
+        "dbca7df53e13"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Recent uptick in drone smuggling operations near prisons highlights ongoing security vulnerabilities.",
+      "incident_ids": [
+        "4f4795629235",
+        "7fce0c6daedc",
+        "e59c5b15ce48",
+        "2c4dc9cdd8f7",
+        "4baac094658e"
+      ]
+    },
+    {
+      "topic": "Drone Crash Incidents",
+      "rationale": "Several recent drone crashes raise concerns about safety and regulation in drone operations.",
+      "incident_ids": [
+        "a754a67bba8d",
+        "4687b665a2ca",
+        "70e68c90af30",
+        "c8eea2d1438b",
+        "bcf5ec3787d7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c38c2cc4f2e6",
+      "headline": "Nothing suspicious found after ‘dangerous substances’ threat to Israel’s London Embassy",
+      "one_sentence": "Authorities found nothing suspicious following a drone threat at the Israeli embassy in London.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b18f52797201",
+      "headline": "Russia downs 13 drones overnight",
+      "one_sentence": "Russia reported the downing of 13 drones in a single night amid ongoing military tensions.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "bfca3c792c1f",
+      "headline": "FAA probing illegal drone use near MLB’s Colorado Rockies games",
+      "one_sentence": "The FAA is investigating reports of illegal drone activity near Coors Field during MLB games.",
+      "risk_tags": [
+        "airport",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "7fce0c6daedc",
+      "headline": "Large drone carrying contraband crashes near Georgia prison",
+      "one_sentence": "A drone carrying contraband crashed near a Georgia prison, highlighting smuggling efforts.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "67677059de77",
+      "headline": "FBI forced to send warning about ‘illegal drone activity’ at Rockies’ Coors Field",
+      "one_sentence": "FBI warnings have increased regarding illegal drone activities during baseball games at Coors Field.",
+      "risk_tags": [
+        "airport",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "d16981842656",
+      "headline": "Sask. launching pilot project to combat ‘unauthorized drones’",
+      "one_sentence": "Saskatchewan is initiating a pilot project aimed at tackling unauthorized drone operations.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents signal rising security and surveillance challenges worldwide, especially around prisons and embassies.",
+    "linkedin": "Growing concerns surrounding unauthorized drone activities and their implications for security and public safety are reflected in recent incidents worldwide."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-19"
+}
