@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot' - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQSDZNSXEzSUpmTDFPZGJpakZyQVB6aXRCemN0OVFsQl8xMUlJVGdnWlB6WlFPUGxIb2FwMGtsMk1kX0FjR0JHYlVRX3Y3aWc5bUZFa3FROW5HY3RhOHFiaGJWR0syc3FWa3luN2lEdkJNMXViazdCOWp4U0R5ckhMY1NvQ0NoOVhRU3ZkUzA0WFJhampZcC1SV1huM1Y2dUF1Tkw4TlpEbUI1ZHNXZUhBVHhKZGluVEhmaGk5Rjl1YTM4OFN2ZFpKa2R3eG0tVzNNNVV5WFNubEVCdXZBR0E0cGlMbm0yUXZQQVNfRGRUQk1hTFFqSUR3R09HWGFPNjlnRjlLN1ZGR2E3aThpNkdoZFZwYmc4OExZNXpVRzVqanJTTGc4Mk5YYWFXd0wtSjI0WjBNNHZmblItS19QaHlIby0zX1ZuWk9XaDNnakR5TmV5MHhzVXB6cU9CN1R0QXlMNmxyWGQtT0h5TmRTbHpwcG5pRjd0TnF6a3B2UTBqM2QzQTc4QjZidm5xYWxzTk9V?oc=5",
+      "source": "MSN",
+      "date": "2026-04-19T19:18:31+00:00",
+      "description": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-20T15:32:51.314201+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8e46c745e7db"
+    },
+    {
       "title": "Say bye to drones under 'bubble' law supported by NASCAR, NFL team & LiveNation - the-sun.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck1CbXA0VkZsckNIdnNRVlY3LWZiSjRVMERZTXg0VVhjSkhSS1NxUzQwZngwelJNc2xrSGdzakF2S21TQUdpeTc4emlJemJkNWZCTUhDdktaQi1BNThDMTJUZUx3MGl6QmZIOTBBeEk3OTd4LUJXTUEyeGZtWk1zOXNIODdrSmxTOWZZLV91cG1YdnBjUVcw?oc=5",
       "source": "the-sun.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "91476192048e"
-    },
-    {
-      "title": "Two Possible Ukrainian Drones Crash in Finland Close to Russian Border - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VaFVlUDFHZDVsSUxwMG9zTTVFclhyX3dyMWFUOU1nNl9QcDJxMkVZOGlJWWtrMVRuOUZSaUJtNktrb25JdTVxWTc1SQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-03-29T18:28:39+00:00",
-      "description": "Two Possible Ukrainian Drones Crash in Finland Close to Russian Border  Kyiv Post",
-      "query": "drone incident",
-      "detected_at": "2026-03-29T20:09:25.352211+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "efe213b476f6"
     }
   ],
-  "last_updated": "2026-04-20T13:36:56.613410+00:00",
+  "last_updated": "2026-04-20T15:32:57.616031+00:00",
   "total_count": 1000
 }
