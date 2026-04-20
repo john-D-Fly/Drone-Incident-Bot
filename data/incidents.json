@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "SBU arrested FSB agent near Kyiv, prevented new rocket and drone strikes - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TeU5oNkhZYkRXak5oMGd2bXd4UkZNeHNzY0ppY2I4cjBMRmVoYnZtaTMxNHJNMWI3M3FsMlBqYnVQaEhMYU10LTRrenF1azc0NTE1X1RZZzA?oc=5",
+      "source": "mezha.net",
+      "date": "2026-04-20T08:08:32+00:00",
+      "description": "SBU arrested FSB agent near Kyiv, prevented new rocket and drone strikes  mezha.net",
+      "query": "drone arrest",
+      "detected_at": "2026-04-20T08:49:45.830077+00:00",
+      "location": "near Kyiv",
+      "category": "arrest",
+      "id": "26cd5ce637ab"
+    },
+    {
+      "title": "India arrests officials at aviation regulator, Reliance in drone bribery probe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbjYxX01Lal90S2dON3hTbFlCZHJLVnpnaGxQVUI1a3RrQU9BU29LUmxfRk9JQ3U0WExsME9hUC05dUZ4TThpYWVnejI0ckRpVEhNS3lSd3JDSldmbG1pUHV2TkdWQ19qX2k4MVRPNWRpQnJvSmJVUVI0MS14ZFpFQWFCbzlfelMzM0V0Vk1WX0Z3TjRTM3NtZG9KN3BxYTkyclREczg5bjRpQ05remE3c29mcU5qMTVmREln?oc=5",
+      "source": "Reuters",
+      "date": "2026-04-20T07:38:20+00:00",
+      "description": "India arrests officials at aviation regulator, Reliance in drone bribery probe  Reuters",
+      "query": "drone arrest",
+      "detected_at": "2026-04-20T08:49:45.830077+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "284dc5842443"
+    },
+    {
       "title": "No-Drone Zone At Coors Field On Game Days - Aero-News.net",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnJDWThxUFpsTTVfLU5GWUR2cjJEaGlnOF9TYUI2Z19QU1g0cE14TXFObnFpLVhodmhIdEJSbnQ3aWxYNUp3LXE3a2ZXYkhtRkZLdFFMNmsxcHpoMTVsZEZtNEFjamd3VFVueWlMQUFNMXdzMUY4bEgtRkl2QmVzZUNvcWRLYjkyZE1ta1NNZHdQM2QtbnlF?oc=5",
       "source": "Aero-News.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5446c765d984"
-    },
-    {
-      "title": "Two Possible Ukrainian Drones Crash in Finland Close to Russian Border - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VaFVlUDFHZDVsSUxwMG9zTTVFclhyX3dyMWFUOU1nNl9QcDJxMkVZOGlJWWtrMVRuOUZSaUJtNktrb25JdTVxWTc1SQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-03-29T15:01:44+00:00",
-      "description": "Two Possible Ukrainian Drones Crash in Finland Close to Russian Border  Kyiv Post",
-      "query": "drone incident",
-      "detected_at": "2026-03-29T18:12:10.992811+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "275f8c4b4b94"
-    },
-    {
-      "title": "Two cross-border drones crash in Finland - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhUG5VUWNxU0tGYkowLUMycHNuZ2JBbXRqT3VMeUJpZDRlWGxpNmctekhPd2VfMVA2ZWFlWXlhV1pucGZqQzlsanlBY0g1R2tRSXY5c25mZ2RVSXcydExVcjAtaDY1dDlXZWhnZk1Tc3M3WVpFTkVGMzd2cFNVQQ?oc=5",
-      "source": "politico.eu",
-      "date": "2026-03-29T15:45:00+00:00",
-      "description": "Two cross-border drones crash in Finland  politico.eu",
-      "query": "drone incident",
-      "detected_at": "2026-03-29T18:12:10.992811+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "340802c42cbc"
     }
   ],
-  "last_updated": "2026-04-20T05:06:19.844702+00:00",
+  "last_updated": "2026-04-20T08:49:50.647956+00:00",
   "total_count": 1000
 }
