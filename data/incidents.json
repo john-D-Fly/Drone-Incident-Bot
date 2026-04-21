@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Amusement Parks Push FAA for Drone Flight Restrictions Before Summer - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVQzUlZqQUc2ZUMxem5GS1JoX1ZQUm9tT2tmcGphTHpYWDBMbTZ0RkhPZVJGLWh6SmFMNktheXBtcUhzNnhWNnhwZGs2TmhmeFp4Qk5Wd0cyUnhWY0RheS1yOXViUGdQMlpTMThEQks4VzBuMFZWU0l6RHl5czUwdUpQWTB0cGJENjI3TExvM0Fqb1JNbXNLM0J5dy1MNnZySmVwVA?oc=5",
+      "source": "Dronelife",
+      "date": "2026-04-21T14:22:28+00:00",
+      "description": "Amusement Parks Push FAA for Drone Flight Restrictions Before Summer  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-21T21:18:24.743862+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d823bdd30480"
+    },
+    {
+      "title": "Meth, steroids and sparkly iPhone found in grass-disguised package dropped in B.C. prison yard - CBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzQtajFya2pqV0lKbFdlanlFeE9BMnpOaXVlZWh1SVFtQjJaVUdCT29qZDJ6X3lQdVpnNEdVRXFPbXNYVGFhcmdZakI1T0I1UzBKRnNKWC0zdmNTV0w3MGNmSVdCTEZQcnZmcjFPN3BNbVJ5QTVfWV9FQk9nV1lxVlFNWEdsVndpMHBKVk9hMTZJeGpleWNHS1FMSFJLYlBIVURQcHJB?oc=5",
+      "source": "CBC",
+      "date": "2026-04-21T18:36:09+00:00",
+      "description": "Meth, steroids and sparkly iPhone found in grass-disguised package dropped in B.C. prison yard  CBC",
+      "query": "drone prison",
+      "detected_at": "2026-04-21T21:18:21.436470+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "38836e301dd4"
+    },
+    {
       "title": "Sask. plans test of tech for finding drones smuggling drugs into prisons - CBC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjNvQ2JyeGRkX3E1c0FoXy1zU1BTUHowUEUyekVZUnlKMzlhemRWdERBTUZzd3lBNkxRR2ZxeW1ESmg2VG5QYkVLenYwUTZsTmFaYTluR3N0anJ3eUxEN0ZkTmRoU3RxYmhoSWQ2QXNLcm5PMXZZQXZ1ZDU2U3RrQld6bkkzYUw0LWRGSGRMUTlPakEtWlgya0Fwdw?oc=5",
       "source": "CBC",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "0424cacd2faf"
-    },
-    {
-      "title": "Meet the dad who flooded Ohio prisons with drugs using drones - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUV9TSlRRVXA0aVpUZW1lV2dlR1NNclFuVXFZNlV0amhrajl4N2RnZU1FT1BCcHg1dGhkV3luN1NCYlNJaTJsXzdBUXM3bFY0cVpuZUV4ZkI4cFIxMFJZamJveHl2WmRQMjhRVl84dlRuOEFTcjc3WGYwaUNiWFRIRHB1T0l4RUpScEQ0ODdZVkNlYUc0Vm41TVY4azhlY1hiMldMcDdhNWZ3UGlNNkI5Y1QybUhHZ3hZQUNFRTdnSXJXU2dtY3pJVDBR?oc=5",
-      "source": "The Columbus Dispatch",
-      "date": "2026-03-29T04:18:07+00:00",
-      "description": "Meet the dad who flooded Ohio prisons with drugs using drones  The Columbus Dispatch",
-      "query": "drone smuggling",
-      "detected_at": "2026-03-30T14:35:33.012435+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "003ad232e339"
-    },
-    {
-      "title": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare - kyivindependent.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSUI5LWVQdHpPdzQzRDJHQW96TXdfRm1KSDlKeXpJanc3NURXXzgxV2x2c2xnQ0tJa05HQzNWaGJBVGVsS1dMcjFLNERNYTFJNThOWWZzUzQ1UkNTLXAtbVM4Y2d4RVMxNTNCSU1EZ0FGYXhfQ0tuV19ma0hQdw?oc=5",
-      "source": "kyivindependent.com",
-      "date": "2026-03-30T11:15:16+00:00",
-      "description": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare  kyivindependent.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T14:35:31.776977+00:00",
-      "location": "in Finland, Ky",
-      "category": "crash",
-      "id": "b5199bcb0593"
     }
   ],
-  "last_updated": "2026-04-21T19:30:23.694608+00:00",
+  "last_updated": "2026-04-21T21:18:25.265633+00:00",
   "total_count": 1000
 }
