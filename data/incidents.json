@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Russian defense vulnerability exposed as leak reveals 90% dependency on Chinese drone parts - Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlptOUloTEJOM1ZzSm81aWs1NFFqaDd4OEFMTFQ0YWtsTWZvekxaOVhoRmcyTkxjOG9Cd2d5ekJxMHhSTlA0V2ExQ1YwSFItQVdiLVZvTDYtMDNvU2k1UVpMcWlhRGx1Q2NQVDhBQVA4YXYxb0FQVkpQZzkwWkJYZkh3UGdJSGFoUVFYcU5LZEJwb1dKVV9SaElTMnRScFpjZzRxclhDVGdYTzJjRk9PVEdzcG1KaG9kVXc?oc=5",
+      "source": "Moldova 1",
+      "date": "2026-04-21T11:18:11+00:00",
+      "description": "Russian defense vulnerability exposed as leak reveals 90% dependency on Chinese drone parts  Moldova 1",
+      "query": "drone security breach",
+      "detected_at": "2026-04-21T15:32:25.125335+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e6244a85b03e"
+    },
+    {
+      "title": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot' - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU2phZkpvdUZEVGdUWHhSOGJSeEVNemt4TXdXdkJmNXhSVDJGc1dRZTRpX3NfVzRWclZEVFotS2kzd3hMSzV4LUh3QmpScEU5NGZvd2Jsamh5YUxveVRueWpiOWdDamRVVnBxVlBLa19tUkZLd21lWEh4S3U2NTVKN0Z5QmlHN1pwazZoa1NJblp4ZkstVmtMT0c3ZDhmQ2NoQjFwc0hqaHdtVGZ1alUzS3d0UXI1RDlNWmFMaEtJNElyRkc2TkRQU1M3N3lfei13OUVGc1BIOWMxbE1YMHpWdW1sU3FGZ0hxMFdDWmtETDhaNG1tZ2RNaldoWWZfWERSeGxmanNvYUY0T0pBSmJWMHFoMmJVMk1RLWJUQVJyc3B2SlgzZVFxaF9UbDdURjN2SnNFZWpCYVpYNklDclItbTRjMEVlZXJvQ1kxQXQ3Z0hOcWxQNGlfc2M5UkRheUk?oc=5",
+      "source": "MSN",
+      "date": "2026-04-21T13:07:30+00:00",
+      "description": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-21T15:32:22.376966+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "15bb4235c66f"
+    },
+    {
+      "title": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons - TownAndCountryToday.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdFU2Z3R0MHc2cjhWMGVuRFpCOWFsZllnZXpoSXNPM21GMXo5bHh0Q1VnV25sLUFVTlNRaXNQSkNuQVFIVzE5ZFJXSU54YXJVX1c2NE9ySjRJM0VLTlF1VEczZnVHdW95cjBrblFjdDVuNFc2WVJtZFdPWU5tSGpfeTVJWWoxRVRERV9xSTc4NFVEV2NOSVZ5aTlYb0h1ZFNGNTFQWl9SUDZYTlNudmY3RlRUWXdUSG9wS2x4ZW5CelprVURua2Q2dTlSYTluTTBnalJwNg?oc=5",
+      "source": "TownAndCountryToday.com",
+      "date": "2026-04-21T08:42:24+00:00",
+      "description": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons  TownAndCountryToday.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-21T15:32:22.376966+00:00",
+      "location": "at detects drones smuggling drugs into prison",
+      "category": "smuggling",
+      "id": "c15920faad24"
+    },
+    {
       "title": "Amusement Parks Push FAA for Drone Flight Restrictions Before Summer - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVQzUlZqQUc2ZUMxem5GS1JoX1ZQUm9tT2tmcGphTHpYWDBMbTZ0RkhPZVJGLWh6SmFMNktheXBtcUhzNnhWNnhwZGs2TmhmeFp4Qk5Wd0cyUnhWY0RheS1yOXViUGdQMlpTMThEQks4VzBuMFZWU0l6RHl5czUwdUpQWTB0cGJENjI3TExvM0Fqb1JNbXNLM0J5dy1MNnZySmVwVA?oc=5",
       "source": "Dronelife",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "85f670377b96"
-    },
-    {
-      "title": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ozaE9rTkJBSEZpanhLRHlrdGpDcW1DZ1Z5ekdQWDM1NVNONjZJcUlYamUyY0xOVFRoWDgtTWVfd182S2YxN0VCRFZMTjRfeG5GdGo4cTJFcnZZd01xNXpNRFpnS3cxMF9UVUNSejd2RndYMks4dVd5blE3d2pWT1BGRWQzTW92U29hQkVJVGREY0pCYzhMNTBqbjMwUFlRZ2lKLXlpcW5Jblk?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-30T12:55:18+00:00",
-      "description": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB  TravelPirates",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-30T13:35:08.384663+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c46b60ac97b5"
-    },
-    {
-      "title": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSUI5LWVQdHpPdzQzRDJHQW96TXdfRm1KSDlKeXpJanc3NURXXzgxV2x2c2xnQ0tJa05HQzNWaGJBVGVsS1dMcjFLNERNYTFJNThOWWZzUzQ1UkNTLXAtbVM4Y2d4RVMxNTNCSU1EZ0FGYXhfQ0tuV19ma0hQdw?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-03-30T11:15:16+00:00",
-      "description": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T13:35:06.204883+00:00",
-      "location": "in Finland, Ky",
-      "category": "crash",
-      "id": "d15cb4e2cc73"
-    },
-    {
-      "title": "Russian Electronic Warfare Sends Ukrainian Drone Into Finnish Airspace, Kyiv Apologizes - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0VGQ2pzSDh2TF9xVWVObXJrNmdLQWZPRFJ0RG9lRUJTci1QR2N1NTlmdnpHUVdfSHJsbmx0MEJWU3ctSWFQZUlWQjhYNFdGWmtPNnlRa0w3RlE4WU1QR1N4b1ZFWEVHWmZ4elZTaVNzalNSYVdObEpDbFE3ZHU0SFhaWEpKT1EtTHRJRDE3YS02bjRlU2x3UXRkRDE4czQ4Ujh0UlozQlpiOXl2MzlneUtYQUZ6dFZmTXR1MmV2Wms4MFNQYl9zYi1B?oc=5",
-      "source": "UNITED24 Media",
-      "date": "2026-03-30T12:27:51+00:00",
-      "description": "Russian Electronic Warfare Sends Ukrainian Drone Into Finnish Airspace, Kyiv Apologizes  UNITED24 Media",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T13:35:06.204883+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7f995734c3a6"
     }
   ],
-  "last_updated": "2026-04-21T14:38:19.280969+00:00",
+  "last_updated": "2026-04-21T15:32:26.769450+00:00",
   "total_count": 1000
 }
