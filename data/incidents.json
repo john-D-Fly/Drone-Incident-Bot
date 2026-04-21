@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Sask. plans test of tech for finding drones smuggling drugs into prisons - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjNvQ2JyeGRkX3E1c0FoXy1zU1BTUHowUEUyekVZUnlKMzlhemRWdERBTUZzd3lBNkxRR2ZxeW1ESmg2VG5QYkVLenYwUTZsTmFaYTluR3N0anJ3eUxEN0ZkTmRoU3RxYmhoSWQ2QXNLcm5PMXZZQXZ1ZDU2U3RrQld6bkkzYUw0LWRGSGRMUTlPakEtWlgya0Fwdw?oc=5",
+      "source": "CBC",
+      "date": "2026-04-21T19:12:26+00:00",
+      "description": "Sask. plans test of tech for finding drones smuggling drugs into prisons  CBC",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-21T19:30:18.808828+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "189b4ff1e6a5"
+    },
+    {
       "title": "Russian defense vulnerability exposed as leak reveals 90% dependency on Chinese drone parts - Moldova 1",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE52c3k5YkhMc2gxeFMyZ1pkS0ZoMEE3anlPd0R0T0JOZW9ld0RoNFBGbzdPSmdnZWx6b01QRWsyd0g?oc=5",
       "source": "Moldova 1",
@@ -11987,20 +11999,8 @@
       "location": "in Finland, Ky",
       "category": "crash",
       "id": "b5199bcb0593"
-    },
-    {
-      "title": "Finland Warns Drone Activity to Continue After Breaches - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVZGVTRST19Eb2x4M09jcThyTEQwSU5MaTc5ekM5TnVWMjVMLXVTSkl0UDBYX1l5V3NSZVpnRlUwVk1ETkpiWkQzQUkwME1SdTdKajRaRGtKTmJ0akxzaUNCcl9uYnBLTkxkNFctdVRfZS1wS3QyMHJfaEJSQkdjRE1FZDJHRGZFVmctZHF1V3ZmWVZrLUluQXpDenU3dGRqTHIzOGlDajZwZTFBZGJ1SlFHb1BDZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-03-30T10:54:36+00:00",
-      "description": "Finland Warns Drone Activity to Continue After Breaches  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T14:35:31.776977+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4514d75c923c"
     }
   ],
-  "last_updated": "2026-04-21T17:25:04.559854+00:00",
+  "last_updated": "2026-04-21T19:30:23.694608+00:00",
   "total_count": 1000
 }
