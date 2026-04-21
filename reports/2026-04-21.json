@@ -1,0 +1,163 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have been reported across various categories, including smuggling, arrests, crashes, and unauthorized use. Notably, multiple cases of drones being used to smuggle contraband into prisons emerged, particularly in Saskatchewan and South Carolina. Additionally, law enforcement in several regions, such as California and New York, intensified their responses to illegal drone activities. A drone crash in Chihuahua, Mexico, involved US personnel and raised concerns over sovereignty issues. Counter-drone measures are becoming increasingly relevant as authorities address safety and policy challenges related to unauthorized drone flights, including new technologies for detection in domestic settings. Overall, the continuing integrations of drones into both criminal and enforcement activities underscore the urgent need for regulatory adaptations.",
+  "totals": {
+    "security": 1,
+    "smuggling": 6,
+    "other": 15,
+    "crash": 2,
+    "airport": 4,
+    "arrest": 10,
+    "total_incidents": 38,
+    "by_category": {
+      "airport": 5,
+      "arrest": 10,
+      "crash": 2,
+      "other": 22,
+      "security": 1,
+      "smuggling": 13
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 12,
+      "drone crash": 4,
+      "drone illegal": 5,
+      "drone incident": 7,
+      "drone prison": 6,
+      "drone smuggling": 9,
+      "drone terrorism": 3,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "prison smuggling",
+      "rationale": "Multiple incidents of drones being used to smuggle drugs into prisons highlight an emerging pattern.",
+      "incident_ids": [
+        "864b49040f38",
+        "3fac60c0f76e",
+        "af40f5eb6426",
+        "ed24cb380b49",
+        "152e8600fce1",
+        "2e15b85fc4ad"
+      ]
+    },
+    {
+      "topic": "drone crashes",
+      "rationale": "Several drone crashes were reported recently, raising concerns over operational safety among both authorities and civilian airspace.",
+      "incident_ids": [
+        "ebad0735e93d",
+        "5e5e5eeff46b"
+      ]
+    },
+    {
+      "topic": "arrests related to drone activities",
+      "rationale": "A series of arrests connected to drone offenses indicates law enforcement's increased vigilance and response.",
+      "incident_ids": [
+        "a9dc9d498e84",
+        "1e58746fec2a",
+        "a9dc9d498e84",
+        "b61b1b4cd6e9",
+        "80c26b6e2173"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5648355d4ce2",
+      "headline": "Unauthorized Stadium Drone Activity Highlights Demand for Counter-UAS Solutions",
+      "one_sentence": "Unauthorized drone activity at stadiums raises concerns for security measures in public spaces.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "864b49040f38",
+      "headline": "Saskatchewan to test technology detecting prison drone smuggling",
+      "one_sentence": "Saskatchewan plans to implement technology for detecting drug smuggling via drones into prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3fac60c0f76e",
+      "headline": "Drones are smuggling drugs into South Carolina prisons nightly",
+      "one_sentence": "South Carolina faces a growing challenge with drones smuggling drugs into prisons regularly.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "aee55ab4e186",
+      "headline": "'No GPS, no pilot, no cloud': Indian drone startup's innovative approach",
+      "one_sentence": "An Indian startup has gained attention for developing drones operating without GPS or pilots.",
+      "risk_tags": [
+        "innovation"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "2e15b85fc4ad",
+      "headline": "Drones Sighted Over Field During Baseball Game Led to FAA Warning",
+      "one_sentence": "The FAA issues warnings after drones were spotted near a baseball game, signaling potential airspace violations.",
+      "risk_tags": [
+        "airport",
+        "unauthorized"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dbd3f1f08acf",
+      "headline": "BSF foils several drone smuggling attempts",
+      "one_sentence": "The BSF successfully thwarted multiple drone smuggling attempts, emphasizing border security challenges.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "41f8210fc7df",
+      "headline": "Los Angeles County man sentenced for delivering fentanyl via drone",
+      "one_sentence": "A man was sentenced for using a drone to deliver fentanyl, underscoring the evolving drug smuggling landscape.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a9dc9d498e84",
+      "headline": "Iranian woman arrested in US for alleged arms trafficking via drone",
+      "one_sentence": "An Iranian woman was arrested in the US for allegedly trafficking arms through drone dealings.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f6b10d34114f",
+      "headline": "AV Man Who Used Drone to Deliver Fentanyl Sentenced to Federal Prison",
+      "one_sentence": "A drone operator involved in fentanyl delivery has been sentenced to prison, highlighting drug-related drone crimes.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight the dual use of drones in both smuggling and enhancing security protocols.",
+    "linkedin": "The latest surge in drone-related incidents underscores the urgent need for innovative countermeasures in smuggling and security."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-21"
+}
