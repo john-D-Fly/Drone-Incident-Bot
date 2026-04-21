@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "'No GPS, no pilot, no cloud': How an Indian drone startup using 'physical AI' reached 'Sam Altman-led' Y C - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQWh0SlJ6OUpKVmVVNGhYZ0ZpUDNyLVZIRkZ3R2tIM1A1REgwcTJJXzN3b1dBdlhvajZ3ZmhjRF90LTVWTDNiNTVBMnVEZDZ0Tmo1YnNaUFdVWWtDaVNjc0pPLUFGN3VMeUNvYmo5M216dTBKZXVMcjYyUHVHV2I4MTFLdG5PLWllSmFiSjhWaWtvMW5LRlE3RjVBZk5EVWJkUzYwT3JCZDNkSF9wSFFFNDUtSnh3ck5FVzFKOVhEdzk5cDVhTHBLeDZvY2VldzlJTzhxbndfYzhGVXR2c25hX25wRWNRMGdyQ20zcE04WWRIVFlVVVF0bWNHYVVzbGczMFlITHVwSHBldUtTbmgzQmZhX0hJbkVBSEHSAZ8CQVVfeXFMTWg3TFhhZjBhZUIzS3d1R0lPQS1PdURBcUZDaGhaSVQ3ZmhNVGF6cjAzRjVUdk5kUnpjbkYyYmxyMEx3NF9KSk9hd3hBNlFXSlVnUDI4SnZrOUdFMFN5cmtmWlo1QU9HSkRwSkM1TUw4TDFmbktkTndyRDJWcUlDdkl5ajlNMzBRZDc3N1BtWU1MUXl4djBwNkR2bUUycWFsbzdlZ0FVSkJkSmlyRElwT295Tm9rUnhPcnFmS0hyb3U2N1FoVnBpc2N6eEtCdThTcjBLdVpOeDF1dzFLdjNLdXZrN3h0T1poRXhwVjhQNUdiSFBqVlZkUC1KckZxTGI3TGhqZFFtNF9fOXM2TUF5Ymg3blBrRk5PSlh4UUpESVU?oc=5",
+      "source": "The Economic Times",
+      "date": "2026-04-21T09:38:33+00:00",
+      "description": "'No GPS, no pilot, no cloud': How an Indian drone startup using 'physical AI' reached 'Sam Altman-led' Y C  The Economic Times",
+      "query": "drone crash",
+      "detected_at": "2026-04-21T10:33:24.556002+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "aee55ab4e186"
+    },
+    {
+      "title": "Drones are smuggling drugs into South Carolina prisons nightly. What to know - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREE4Z1F2M1JFNnhOUEc2dFoxM0kwU3hhSEg5VGJKN3UwdjM5V0NDXzZ0TGtFVDBTenJSZlFIWmFpR2lzVjBJaWxGeUlGRnNycTdnSlltaVFWWWhHUURyQXFqQUJkX0hUazBIZTFyMVdfVURzNGxRWVhpemIxWFJQejcySzM1bFZkUWYxbkpld2piMVIxenc5WlpxSFB1VkNZX29VNXAxU1dhbVNneXpxVDRRVDZ1d0g0SHVMWWJ5ZGlEdw?oc=5",
+      "source": "MSN",
+      "date": "2026-04-21T03:22:53+00:00",
+      "description": "Drones are smuggling drugs into South Carolina prisons nightly. What to know  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-21T10:33:22.212203+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3fac60c0f76e"
+    },
+    {
       "title": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons - thecanadianpressnews.ca",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS0V4eEkyN3dKLUNTTWxqWUdlZ2drNHd0VkF1QWpIeW9jYjVxaHFZajNFcHR4d2ltR3FzdGJlVnNqdEpyaTV5dGQtNHhtZ1lmc2lYaHltWWw3cDdZU3pMVHZSLXNBXy01WE8xUFotTFNSOFJCRG83UE1oVVVhWlo4Mld1bERaOFotN28yNEFYdmZ4cXh3WFc2N2pYZGxKcnZJTVBpSHoyeVJKdnpiY0p2SFJ3S201TVA0UEdmWmJkNnV1a2pSak1oZnRodGF2S1dPR0VWV3c3eTBNMklIWmgzUjQ1ZUdtenZKa0RzRVY5YmZyWkI5NEFVYVQySF9HODFyX0pQQXl4R0RRUWc?oc=5",
       "source": "thecanadianpressnews.ca",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "d19785972466"
-    },
-    {
-      "title": "Finland Warns Drone Activity to Continue After Breaches - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVZGVTRST19Eb2x4M09jcThyTEQwSU5MaTc5ekM5TnVWMjVMLXVTSkl0UDBYX1l5V3NSZVpnRlUwVk1ETkpiWkQzQUkwME1SdTdKajRaRGtKTmJ0akxzaUNCcl9uYnBLTkxkNFctdVRfZS1wS3QyMHJfaEJSQkdjRE1FZDJHRGZFVmctZHF1V3ZmWVZrLUluQXpDenU3dGRqTHIzOGlDajZwZTFBZGJ1SlFHb1BDZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-03-30T07:26:13+00:00",
-      "description": "Finland Warns Drone Activity to Continue After Breaches  Bloomberg.com",
-      "query": "drone crash",
-      "detected_at": "2026-03-30T12:23:27.935608+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "de619b937d64"
-    },
-    {
-      "title": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare - kyivindependent.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSUI5LWVQdHpPdzQzRDJHQW96TXdfRm1KSDlKeXpJanc3NURXXzgxV2x2c2xnQ0tJa05HQzNWaGJBVGVsS1dMcjFLNERNYTFJNThOWWZzUzQ1UkNTLXAtbVM4Y2d4RVMxNTNCSU1EZ0FGYXhfQ0tuV19ma0hQdw?oc=5",
-      "source": "kyivindependent.com",
-      "date": "2026-03-30T11:15:00+00:00",
-      "description": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare  kyivindependent.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T12:23:24.426411+00:00",
-      "location": "in Finland, Ky",
-      "category": "crash",
-      "id": "dbb7ca63e52d"
     }
   ],
-  "last_updated": "2026-04-21T09:35:30.548980+00:00",
+  "last_updated": "2026-04-21T10:33:28.414834+00:00",
   "total_count": 1000
 }
