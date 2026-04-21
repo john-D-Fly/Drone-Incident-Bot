@@ -2,6 +2,30 @@
   "incidents": [
     {
       "title": "Russian defense vulnerability exposed as leak reveals 90% dependency on Chinese drone parts - Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE52c3k5YkhMc2gxeFMyZ1pkS0ZoMEE3anlPd0R0T0JOZW9ld0RoNFBGbzdPSmdnZWx6b01QRWsyd0g?oc=5",
+      "source": "Moldova 1",
+      "date": "2026-04-21T15:39:39+00:00",
+      "description": "Russian defense vulnerability exposed as leak reveals 90% dependency on Chinese drone parts  Moldova 1",
+      "query": "drone security breach",
+      "detected_at": "2026-04-21T17:25:03.017512+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fdd6cb997171"
+    },
+    {
+      "title": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons - Prince George Citizen",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV2ZJalk2ckl5VFZFZ2ZQazVLaXdlMHFWV2w5SElfbDRXVTV6ckJYck16S21NU3B0X090MHNmU1d4NHNmR2RzZVE2c0NfZ2dNWnFUZDl3TzBjRjZQSFFSNjd2eUJwdjNhQnBkXzhsSVpmN0U3Snc2SnhrVDVqNnJjd01kdXZCX3FmUGVfdkJWREg1VjhyNTZBVlNnUmNOY1E2d1hlNHN0OEszdHFGWDBRdFFtZWNUdWJlUW93YXpldDRkcnlrSFlJSTIwRXVoc0kyakdtcFVvWQ?oc=5",
+      "source": "Prince George Citizen",
+      "date": "2026-04-21T09:42:37+00:00",
+      "description": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons  Prince George Citizen",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-21T17:25:00.127650+00:00",
+      "location": "at detects drones smuggling drugs into prison",
+      "category": "smuggling",
+      "id": "a441c08c4d44"
+    },
+    {
+      "title": "Russian defense vulnerability exposed as leak reveals 90% dependency on Chinese drone parts - Moldova 1",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlptOUloTEJOM1ZzSm81aWs1NFFqaDd4OEFMTFQ0YWtsTWZvekxaOVhoRmcyTkxjOG9Cd2d5ekJxMHhSTlA0V2ExQ1YwSFItQVdiLVZvTDYtMDNvU2k1UVpMcWlhRGx1Q2NQVDhBQVA4YXYxb0FQVkpQZzkwWkJYZkh3UGdJSGFoUVFYcU5LZEJwb1dKVV9SaElTMnRScFpjZzRxclhDVGdYTzJjRk9PVEdzcG1KaG9kVXc?oc=5",
       "source": "Moldova 1",
       "date": "2026-04-21T11:18:11+00:00",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "4514d75c923c"
-    },
-    {
-      "title": "Drones Crash In NATO Territory - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVmlkSm5JaTVISTFnLTR2UXJObFY0UmNyOG12bkFHQUs3QXVoQlI3S2FFMENZYmdxNTNUdVBhdEw4T0dhbG5OTW5BamFuQzZKNmJLdnlldks0aTZLWEdqUDUzU1ExN0FxNUFYVmkyOVZqZw?oc=5",
-      "source": "Newsweek",
-      "date": "2026-03-29T12:00:00+00:00",
-      "description": "Drones Crash In NATO Territory  Newsweek",
-      "query": "drone crash",
-      "detected_at": "2026-03-30T13:35:09.014089+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "bb66552b1142"
-    },
-    {
-      "title": "Exclusive: European aviation body eyes safety risks as conflict squeezes flight corridors - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzZFVFdxVUtteC1TQVRoQ2ZpZW9ydzAwSHA0a1lLV3p6Sl9EVmxWMkVWaldZVmJIM2ExbW5aMWlEODVpV1F1YV9mX3RRdDBTempjR09XcHlVRTlKU2VhR3RINzh0Vi1DQ2VVSVdnTmxJb183WlNpUElIbm4tM2ZuNmx3Qkh0dkItcVZmQ0JEWmF5QU53QTdIVUxnVk5KYXZrU1RjVnJNRXlyQzBFLVdpNy1vZXV0b2g0ODgwMm9tMjZlUExmQTNOejRRN180NmtmbFl0Tw?oc=5",
-      "source": "Reuters",
-      "date": "2026-03-30T06:09:00+00:00",
-      "description": "Exclusive: European aviation body eyes safety risks as conflict squeezes flight corridors  Reuters",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-30T13:35:08.384663+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "85f670377b96"
     }
   ],
-  "last_updated": "2026-04-21T15:32:26.769450+00:00",
+  "last_updated": "2026-04-21T17:25:04.559854+00:00",
   "total_count": 1000
 }
