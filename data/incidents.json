@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "21 laser strikes, five drone incursions reported at Kelowna airport in 2025 - Castanet",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQS1xWWRkSFN5MnpyRl9GTTN2eFlZRVNEdzNrNkNzcWxHUVJWcFpjU1dnc1ZGeDNxVkZhemJieVd0UGlMMklpbE9YT05kRXFPdXFiZXNPMEl6eGIxVm8tMm9JOVhGbHdwMkFTajFfUW5NVlhsUjZ4cmxBSEpVMEZObWhQZXF0ZGEzUzdnVWFJazkyVG1JRzdEb1U5ekF4VHJDd2lON2dfb0pjdWdJLUE0Uy1PbDNiZVloODIw?oc=5",
+      "source": "Castanet",
+      "date": "2026-04-22T19:13:00+00:00",
+      "description": "21 laser strikes, five drone incursions reported at Kelowna airport in 2025  Castanet",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-22T19:31:32.378211+00:00",
+      "location": "at Kelowna airport",
+      "category": "airport",
+      "id": "5663f584d166"
+    },
+    {
+      "title": "DRONE FOOTAGE CAPTURES EARLY DAWN FIRE INCIDENT IN BARANGAY NIOG Barangay Niog, April 22, 2026 — Aerial drone shots have documented the fire incident that broke out in Barangay Niog during the early dawn hours of today, April 22, 2026. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN3NWbFdQQ3ZwVzJSVVZJTl9hQ2NOVExpWE1CeGM4bF9QbWpXRXB5a2Rqc0Y2Z21YeDd6bkVmUkppTmlYOExkLTFZVUZXM2xNWTBUcFN0WkJDa2lMX3hHUkJ6bU1GTDR6SEhBaGhLN0o0QnVNaWhJVlFuZmpHU2ZJWG1hLV9Rd2tLeFJpTE05Q040Zk41YmFzaVdmd0MtZHRBVHEwOXBEcXV0cjJhY2hoMllhanl5RnNjUDhVRTZiVXZleEpxakx4OHMta2JjclZ3VVJUZ1M0N3JwWERu?oc=5",
+      "source": "Facebook",
+      "date": "2026-04-22T12:23:47+00:00",
+      "description": "DRONE FOOTAGE CAPTURES EARLY DAWN FIRE INCIDENT IN BARANGAY NIOG Barangay Niog, April 22, 2026 — Aerial drone shots have documented the fire incident that broke out in Barangay Niog during the early dawn hours of today, April 22, 2026.  Facebook",
+      "query": "drone incident",
+      "detected_at": "2026-04-22T19:31:26.958012+00:00",
+      "location": "IN BARANGAY NIOG Barangay Niog, Ap",
+      "category": "other",
+      "id": "99f75c4486af"
+    },
+    {
       "title": "Triton drone crash amid Iran war confirmed by Navy data - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CaFNNbTFndGlQZVZmRnJEWFBxUGVZLWdPMDVrcGZ1clpHdXZ4SmlDT05qNFBtcUJaMWZxeFlaZ3NzSV9nTHNVazBndDVIYlV4eDItczVxd0dwQjhXQVp5LU4xblVFOHVWMTlTZXdlV2tMRjQ?oc=5",
       "source": "Axios",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "14a70bcc0336"
-    },
-    {
-      "title": "Finland Warns Drone Activity to Continue After Breaches - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVZGVTRST19Eb2x4M09jcThyTEQwSU5MaTc5ekM5TnVWMjVMLXVTSkl0UDBYX1l5V3NSZVpnRlUwVk1ETkpiWkQzQUkwME1SdTdKajRaRGtKTmJ0akxzaUNCcl9uYnBLTkxkNFctdVRfZS1wS3QyMHJfaEJSQkdjRE1FZDJHRGZFVmctZHF1V3ZmWVZrLUluQXpDenU3dGRqTHIzOGlDajZwZTFBZGJ1SlFHb1BDZw?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-03-30T10:54:36+00:00",
-      "description": "Finland Warns Drone Activity to Continue After Breaches  Bloomberg",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T19:25:12.600695+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "f3490c910078"
-    },
-    {
-      "title": "States demand power to stop drones delivering drugs, weapons into prisons - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVIwQkJlT21xYklnNEs2UEFkR3Q3RlVPXzZWWGx5ZjRON3otRW9VaXZUNGtSdkJPSjlzaEJtYkNDZjhVWWtvQlRtUkhnSFA3aS0tdDY2TEVYUUhMNGdiZC1FV2RucmdfdHlJUDVRb3RJcjFvZDJfYTNXakQtYmotUHpTTm9UaUZwT1d3YWJNbG5xeGpjVFhNOXQzU3Rtd9IBowFBVV95cUxNc0hfLUY1MThQNHhtOUt2QXlEQldMMWxrT3dpYnBxNXlYeXBKUUFkWU5acjJ1WXg0REQyTU5CNW9PZG9WVFY2czA0WmxNVWIzRVdnNVlJQ2NweWUtX3NpOUwwRjl6Q05wOTdDZGxQX214UVE5YnJndVVELTI3aWh0ZWRiLUpDRnlHUlYzUGtNWlYxbi1CODU4ZzJ0N0EzdHA1cTJj?oc=5",
-      "source": "Fox News",
-      "date": "2026-03-30T16:33:40+00:00",
-      "description": "States demand power to stop drones delivering drugs, weapons into prisons  Fox News",
-      "query": "drone prison",
-      "detected_at": "2026-03-30T18:23:13.955117+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8bb537a7132f"
     }
   ],
-  "last_updated": "2026-04-22T17:23:57.747641+00:00",
+  "last_updated": "2026-04-22T19:31:32.968508+00:00",
   "total_count": 1000
 }
