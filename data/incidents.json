@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Potentially dangerous laser, drone infractions reported at Kelowna airport - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2lPMXlJM1Q5TERTanVMRXRXaUY0Rkw2S2hwSGZsZDRYcGxFZWFOWTYwcGhzUjhwaXZhSUVzMXl0TU1oUW1NZHhfbml2RGd1QllBaXZfZ2VZaHZEMmxVUXRLalpEbTZFVl9JY0VlM1R0YTV5REljb1Z2QmRwS3FwMUxZZHRxQWtka0x1TGFIZlpqdnBWVmc?oc=5",
+      "source": "CityNews Vancouver",
+      "date": "2026-04-23T00:14:41+00:00",
+      "description": "Potentially dangerous laser, drone infractions reported at Kelowna airport  CityNews Vancouver",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-23T06:43:10.920694+00:00",
+      "location": "at Kelowna airport",
+      "category": "airport",
+      "id": "1608d57de22c"
+    },
+    {
+      "title": "Iran denies claims of smuggling explosive drones to Cyprus - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0VaY1I4Tmp3SmVFVG9hLXQwbkJTd0Y2RlE4VzBjSmd4SG1FOWRiT1BfXzJ0NWRPUXhXZzgxajBsZUlIZjlIeWFTYWFFNVY3TUlKSXNKLW80aEdkVjR1ZU56ZVhyUnByQWhQXzBQLUg3M3lhNDZJdmtka0RjcVV1ZGdvTnM?oc=5",
+      "source": "Greek City Times",
+      "date": "2026-04-23T04:04:31+00:00",
+      "description": "Iran denies claims of smuggling explosive drones to Cyprus  Greek City Times",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-23T06:43:07.068535+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a294affb2ed5"
+    },
+    {
       "title": "Oakland targets illegal dumping with new measures, including drone program - MSN",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXpOaERWMEN0cGR6MWRkNUpISzFWV3Q0cjF4bGwycUlieWhqQ1c2cUZCTnNjd0NnMV9DaUF2Qzk4NHpSVlpTcklHWS04VVFteFBVT3d0dVplMHJyYlI2Sno4b05HR1hOdlNXRnZaR0xacExVT0xEbERYLWFPVGdITEdRajV6VXlyS3dVWjRjWE9LLXZfcTRsV3czNWVka0lJMmhqREpBTFo2d25kWlhJNElsRjlYSWZYZFpn?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "11a7ef22b4e6"
-    },
-    {
-      "title": "Zelenskyy talks to Finland's president over incident involving Ukrainian drones flying over Finnish airspace - aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaTZUTUJUbWN0U0EyVEc2ekhfR2J5OUhuNnd1UnQ0U1VRN0kzREJXX0tobVM5OVlBcXJ4Y3R3SGtaNkg2UFUzVlZhOVhiMnNZS1pnWkNBb3MwNXB0cnFkS2tKckhhTTlrOTVzRndLdXJ1bzBPVnJjejFEWmVyMXZSaUdmYU82VXk5ZmF3ZlZrODlkbzFhVDlieWtEcGRoWC1mc3JfQjNNX0RmMjZ6RFpDVmRkcmFqbXVqWjdZT1JWNXBFSjhqX1plOU4yR3k2bnhLczJITjdXcXJzYUJrUkwwMGZnQURtTjlE?oc=5",
-      "source": "aa.com.tr",
-      "date": "2026-03-30T13:13:37+00:00",
-      "description": "Zelenskyy talks to Finland's president over incident involving Ukrainian drones flying over Finnish airspace  aa.com.tr",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T23:14:04.784968+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9fd410eff3d9"
-    },
-    {
-      "title": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSUI5LWVQdHpPdzQzRDJHQW96TXdfRm1KSDlKeXpJanc3NURXXzgxV2x2c2xnQ0tJa05HQzNWaGJBVGVsS1dMcjFLNERNYTFJNThOWWZzUzQ1UkNTLXAtbVM4Y2d4RVMxNTNCSU1EZ0FGYXhfQ0tuV19ma0hQdw?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-03-30T20:45:16+00:00",
-      "description": "Ukrainian drone crashes in Finland, Kyiv blames Russian electronic warfare  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2026-03-30T23:14:04.784968+00:00",
-      "location": "in Finland, Ky",
-      "category": "crash",
-      "id": "f4b09ed55c11"
     }
   ],
-  "last_updated": "2026-04-23T05:03:24.358299+00:00",
+  "last_updated": "2026-04-23T06:43:11.452127+00:00",
   "total_count": 1000
 }
