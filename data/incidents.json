@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone helps Zionsville police make arrest - MSN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2ZBMHdyZGRHM3c4U3phb3NsaTFaWXlvQWcxZl9QQWswUlVJdzFKdDZWcFM5NnBXODVhM20teFVsdEpuZndHaHMyaXlEaXJ3UW1KZ09qbEU1VWIxeUV5MjVSYmdneG1qNWJRaV8tWlBNbTZoYmNWeUpmV29hVVRKZWRoQVd6QVVhYV9YTFhuU05FV1F3?oc=5",
+      "source": "MSN",
+      "date": "2026-04-22T04:07:11+00:00",
+      "description": "Drone helps Zionsville police make arrest  MSN",
+      "query": "drone arrest",
+      "detected_at": "2026-04-23T23:19:56.037154+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2b36e3062024"
+    },
+    {
+      "title": "EU summit triggers extensive road, air-space and drone restrictions across Cyprus - VisaHQ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajcwamJpR1h4ZnpzamtJOXZDeVFvdWI1YU5OTm40VGJ6aVZEUEdwZGkzQUFnMmVSSFRqVkE3MlI5TlZOMDkzOHZCOGV0dEhSTG5rNlAwbDVGcWk1dWhzX2lIM2RnX19wRVUtQ01hR2lSeWJCYUVNWkU1cWV3ZTRweXVUWE4zbDNjcWxrZFEwOTFOa3dyd0NDNllWeXh2SHdiRWRmRkdjNzR6NWdySlA5c2N5MG5MZThMWnJPWHhlcGw?oc=5",
+      "source": "VisaHQ",
+      "date": "2026-04-23T23:02:21+00:00",
+      "description": "EU summit triggers extensive road, air-space and drone restrictions across Cyprus  VisaHQ",
+      "query": "drone incident",
+      "detected_at": "2026-04-23T23:19:55.268728+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "4e53b565ab0c"
+    },
+    {
       "title": "Triton drone crash amid Iran war confirmed by Navy data - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CaFNNbTFndGlQZVZmRnJEWFBxUGVZLWdPMDVrcGZ1clpHdXZ4SmlDT05qNFBtcUJaMWZxeFlaZ3NzSV9nTHNVazBndDVIYlV4eDItczVxd0dwQjhXQVp5LU4xblVFOHVWMTlTZXdlV2tMRjQ?oc=5",
       "source": "Axios",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "2604cfc96549"
-    },
-    {
-      "title": "Drone Incident at Dubai Port Highlights Rising Geopolitical Risk in Crude Markets - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzlvQWJrTmV6Sy16WElEZU5HUDFobklYeVVlNHA5Nm9ybDVQSU9rTEhtNlNWbXpDUFlVMnpLNWdYWlRHcnpiWm5NNzdmTktlWlFJVlpyd29pc3hnM0FhQ0tKV3kwbEVtamhtWFNUNWd0UHhOeTBwa29YbmlNM3BRUXBLQVZZak9xaXNWaTc2NS1GSmx0RFRVNG5XVGJoUzlWNVJpV0pzQl84YWxEZ01BNndnUnhMQmNURG9xcTc5a3A?oc=5",
-      "source": "TipRanks",
-      "date": "2026-03-31T06:52:04+00:00",
-      "description": "Drone Incident at Dubai Port Highlights Rising Geopolitical Risk in Crude Markets  TipRanks",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T07:34:02.261755+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1a4df36f4447"
-    },
-    {
-      "title": "Estonia on drone alert after night of air threat - Estonian World",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzJWcERqLUpzbDQyZnFwOS12WjdNckkxRnF5Um1FZGxMNXU3VDYxc3h6R3dRZDYwLUhkYVktUzZsVUprVEFneDUyN2NQcWtoa3hlTm5QcXlWRGxkQmNTVmctc1dFd0RSZFdrVWRmbnVweXpQV0ZNLVY2NnlHdkM1RlJTd01MOFU3cUdaRg?oc=5",
-      "source": "Estonian World",
-      "date": "2026-03-31T06:40:58+00:00",
-      "description": "Estonia on drone alert after night of air threat  Estonian World",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T07:34:02.261755+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "cfc3eae5459a"
     }
   ],
-  "last_updated": "2026-04-23T22:17:50.973749+00:00",
+  "last_updated": "2026-04-23T23:20:00.541782+00:00",
   "total_count": 1000
 }
