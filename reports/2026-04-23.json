@@ -1,0 +1,149 @@
+{
+  "narrative_summary": "In the past 48 hours, a range of drone-related incidents have been reported across various regions. Notably, a drone swarm breached a U.S. nuclear bomber base, raising security concerns. In South Asia, allegations of drone strikes linked to conflicts have emerged, with important political implications for both Afghanistan and Pakistan. Also emerging are reports of drone crashes related to military tensions in Iran, with the Navy confirming a Triton drone lost during the conflict. Incidents of unauthorized drone use and smuggling attempts persist, particularly in prison contexts, highlighting ongoing challenges in regulation and enforcement. Overall, these events emphasize the varied uses of drones, from surveillance and military operations to illegal activities, underscoring the need for stringent policies and technological solutions to manage drone activities effectively.",
+  "totals": {
+    "security": 1,
+    "other": 8,
+    "crash": 4,
+    "smuggling": 5,
+    "airport": 9,
+    "terrorism": 3,
+    "total_incidents": 69,
+    "by_category": {
+      "airport": 12,
+      "crash": 10,
+      "other": 25,
+      "security": 2,
+      "smuggling": 18,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 1,
+      "drone crash": 11,
+      "drone illegal": 3,
+      "drone incident": 12,
+      "drone prison": 5,
+      "drone security breach": 2,
+      "drone smuggling": 12,
+      "drone terrorism": 9,
+      "unauthorized drone": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Security Breaches",
+      "rationale": "Emerging threats to national security from unauthorized drone activities.",
+      "incident_ids": [
+        "ce476f4d857b",
+        "dddc2f98a577",
+        "175109bc1242"
+      ]
+    },
+    {
+      "topic": "Prison Drone Smuggling",
+      "rationale": "Notable incidents correlated with drone usage to deliver contraband to inmate populations.",
+      "incident_ids": [
+        "1e442f161e39",
+        "27c3a91ac88e",
+        "d96dc7e04637"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Lost drones during military operations, pointing to significant technology failures amidst conflict.",
+      "incident_ids": [
+        "026b1d023044",
+        "e862714d11b9",
+        "9183eefc3f63",
+        "b22405d57fae"
+      ]
+    },
+    {
+      "topic": "Laser and Drone Incidents at Airports",
+      "rationale": "Increasing laser strikes and unauthorized drone usage reported at airports.",
+      "incident_ids": [
+        "1608d57de22c",
+        "21f3e0fb8919",
+        "a2d206ba54f6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ce476f4d857b",
+      "headline": "Mystery drone swarm breaches US nuclear bomber base",
+      "one_sentence": "A mystery drone swarm has alarmingly breached a U.S. nuclear bomber base, indicating severe security vulnerabilities.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d4cd3a84a4fb",
+      "headline": "Oak Island unveils new mobile command center and drone control unit",
+      "one_sentence": "Oak Island has implemented a new mobile command center, highlighting increasing drone management efforts.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "6dc3cd726e02",
+      "headline": "Triton drone crash amid Iran war confirmed by Navy data",
+      "one_sentence": "The Navy has confirmed the loss of a Triton drone amid ongoing military operations in Iran.",
+      "risk_tags": [
+        "military",
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1e442f161e39",
+      "headline": "Three SHOs suspended after Khairpur drone incident",
+      "one_sentence": "Following a troubling incident involving a drone in Khairpur, three SHOs have been suspended.",
+      "risk_tags": [
+        "police oversight",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e27940d34f82",
+      "headline": "BSF foils drone smuggling bids in India",
+      "one_sentence": "The Border Security Force successfully thwarted multiple drone smuggling attempts, showcasing efforts to combat illegal border activities.",
+      "risk_tags": [
+        "smuggling",
+        "border security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "890fe950b7dc",
+      "headline": "Drone footage captures fire incident in Barangay Niog",
+      "one_sentence": "Drone footage revealed a fire incident in Barangay Niog, emphasizing the increasing utility of drones in emergency response.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "3f99f909e48a",
+      "headline": "Russian apartment collapse after drone attack injures 11",
+      "one_sentence": "A drone attack has led to the collapse of an apartment in Russia, injuring 11 people and raising concerns over urban safety.",
+      "risk_tags": [
+        "terrorism",
+        "urban safety"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "twitter": "Drones continue to reshape security, with recent breaches and smuggling incidents demanding urgent attention. #DroneSurveillance #Security",
+    "linkedin": "Recent drone-related incidents highlight the ongoing challenges in security, smuggling, and infrastructure safety, emphasizing the need for regulatory action and technological oversight."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-23"
+}
