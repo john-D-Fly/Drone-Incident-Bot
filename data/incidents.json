@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Keep your drones away from wildfires, Forest Service warns, or else - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2o3ZUlCc2JUNjByaWEtSUZSVTdmc250YWtMQm1zaWlqZ1FiQW12VVhMdV9oRDYyYmFIV3RDTEtuQl9iWk9hRDUwTXc2Y1dSOU5oVEdIX1UtTFBDMGZXd2NNR2cyaFVDQXRST2VfeVJ4S1VGMEpqZmMwWkFrLS15MFQ2LTZDckNnZUVPRXlqSUNQSXFyYXZUcW9PWkI4S3Q1NDgwLWJLcG8tTC1ZbUVJX2UwV3REUdIBygFBVV95cUxNX0NCV3JiRXFNbGRBdlJHMmx2SHIxakQwYWlBclU4dlJ3cFBjblhwRmhpenMwWHR1QmMzQ0lYdmdkRGZQc0J0Qjh1MVpXeE9ELUs3VVBxblliZEk2NS0zMGVTY3RfOHZBa0JTRktKb2c1U1ZGYWR6c3luZHNRVlhYOTcya29qQzM5M3RUcHUzeE9NQU9qWm52Rm9qTkVRSUU5VkQwRXEwaEJyX3Z6M19MWXNxYzBucEdOYngzWGRjTG84RUpKMy1CeWxn?oc=5",
+      "source": "OregonLive.com",
+      "date": "2026-04-23T18:08:00+00:00",
+      "description": "Keep your drones away from wildfires, Forest Service warns, or else  OregonLive.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-23T18:28:39.199332+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7afd1fc3c985"
+    },
+    {
       "title": "Busy airspace - US Forest Service (.gov)",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00azlrLWpkb1dYMjIydTlUeXJvVmxRYUpCRUFHTW9KU0E4ak9oVzlyU2lYQkV0T0pFVEJhdHRzSnhRdVJVTVEzM3NYZTROMWVjZHVjUkx6WUp5WkxSeTNIWkZmY09CT0pGQnln?oc=5",
       "source": "US Forest Service (.gov)",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "11b96dfa6c66"
-    },
-    {
-      "title": "Las Vegas police drone helps track down suspect after northwest valley stabbing, crash - FOX5 Vegas",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3l1eFBBR2JJV2RjN1V3Rl9KZ05lV3gzbUg2VUg0U0VxMUR4aFRqQ213WHFRc1UwXzhUSDFiQVBRRGFpOFhocXE5ZXhveXRwRGx2UkczZks1bEtlWko4V0VNYmFoX2ZibmpwV2tsZU9QWlJMdnczWXNDcEljMUx5cVJjWU5yT2ZOandjdjZEZlpkSkhwcmpmTnFUT2hORGEyXzhVMGpRblVCUVRZM3p5M1VzRXY3Ynh4NVU5ZkZDdGFleDVLQUVVVA?oc=5",
-      "source": "FOX5 Vegas",
-      "date": "2026-03-31T02:12:54+00:00",
-      "description": "Las Vegas police drone helps track down suspect after northwest valley stabbing, crash  FOX5 Vegas",
-      "query": "drone crash",
-      "detected_at": "2026-03-31T04:51:40.958277+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "7031306688c1"
     }
   ],
-  "last_updated": "2026-04-23T17:33:54.280612+00:00",
+  "last_updated": "2026-04-23T18:28:39.722040+00:00",
   "total_count": 1000
 }
