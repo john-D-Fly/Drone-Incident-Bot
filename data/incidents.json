@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Keep your drones away from wildfires, Forest Service warns, or else - Rogue Valley Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWtVaVphNWdrY2VZa0RpeXYzODdCWHBiSHdhMThBUXBPSGJNWUszRElfSDJBREVtYTROQnR2ZDZZUFhrbHFUQXpZR1E1V2wtNm1faWF6bWlPUEdBQnVhNEROSTkzdURQT29YRkJLQl9jTXV3WmtSR1dBNWZRVzVsczZ4WTdUc1ZzUWkwNlVDbS00WVF1R01mbnFJZW9sTjg?oc=5",
+      "source": "Rogue Valley Times",
+      "date": "2026-04-24T19:14:47+00:00",
+      "description": "Keep your drones away from wildfires, Forest Service warns, or else  Rogue Valley Times",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-24T22:17:40.862409+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fca572d7fbe3"
+    },
+    {
+      "title": "Police: Vacaville Nike Factory store theft suspects tracked by cameras, drone before arrest - ABC10",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUmpXNkJSS2NGbmN1emZRVzVxZFRQNTlBUXpRZ2U1QnhnRXlqaEtqMEMtYUFaRllzMTE5NHF0NUlqUDZsX3RUaUt6TjhsT3RkeVpLM3UwRlBlSGp4TnVtQkoxWEctZDc3Zy15c0xMdnQwNTc4cWhkZmZOdmxkMEQ0RTZGZXpVQ2FWOS0yMTNjcGw2NDJZckhQTFBvZHRLcXZ2WlVDbWMxNEZBVnVtN3hqeW1Jb00xemJtVmdFVGdzbVpEZw?oc=5",
+      "source": "ABC10",
+      "date": "2026-04-24T22:00:00+00:00",
+      "description": "Police: Vacaville Nike Factory store theft suspects tracked by cameras, drone before arrest  ABC10",
+      "query": "drone arrest",
+      "detected_at": "2026-04-24T22:17:36.512253+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "d668c661e081"
+    },
+    {
       "title": "FAA probing illegal drone use near MLB’s Colorado Rockies games - MSN",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYUw1d2dmUmE3Tkd2MVhaN2xsOHNubFJwMU9uVGtaemdkbWc3dG5INWdzSmFWekRTNnRvQkd4WHp5RGlMMjZuUGZlSGFhNjFGaEUxQUFRNHkxUEVKRkF6NTQ0MTZFeXcyOExsT19YQ0N4OGx5R2dTWlluYmhHOXQtSkJ1NW55RGVNbV9kRlFTMjNldXV1Rk5QeUdWRWJKZ2M2ZDhMQVNZRFdSLVZsRDd3RXBJcWVSa2xRTDZjNnN3ZGxkQWtXY1hjSDc5OWZiRHZpTVpVRUlObUM5T2M5dzZiSXY5MDNQU1VfUG5CNnZVSUMtTGtBVElocnA0U0hnblZjcDVPLWZxTHR4UFRVcHNtdW51UGJOOXFIcWNJWHpxWUFCWTNmeEVxUkVDY2d3empWbV96X2VyNGl1cjZhbXY1N0M3d3Y5cmRx?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "9cc619fce478"
-    },
-    {
-      "title": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB - TravelPirates",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ozaE9rTkJBSEZpanhLRHlrdGpDcW1DZ1Z5ekdQWDM1NVNONjZJcUlYamUyY0xOVFRoWDgtTWVfd182S2YxN0VCRFZMTjRfeG5GdGo4cTJFcnZZd01xNXpNRFpnS3cxMF9UVUNSejd2RndYMks4dVd5blE3d2pWT1BGRWQzTW92U29hQkVJVGREY0pCYzhMNTBqbjMwUFlRZ2lKLXlpcW5Jblk?oc=5",
-      "source": "TravelPirates",
-      "date": "2026-03-30T13:00:34+00:00",
-      "description": "Is Dubai International Airport Open on March 30? Drone Fire Causes Morning Suspension at DXB  TravelPirates",
-      "query": "drone airport disruption",
-      "detected_at": "2026-03-31T14:34:40.829746+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ca6ceed438d4"
-    },
-    {
-      "title": "Orpo says residents should have been warned after drone incident - helsinkitimes.fi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclc1b3laZHg0ZEhsNGVBX0JJNFQ3UHdCbVFJd0NiTEJxRmFuZHdNVW1OejA4YXk3a2FvQmRMMkgtNmF0T21Lck9qdWJmQVkwbmJPcnlYWlVuV19VRmZHT2JtUmJfNGlrTVloOGNPT2s0czJKN3RiRzVOWFhxNWx6QzZZaHlIUTFSd2FjRUE3d21NYzJSTkQtRHVHS2habDVpaGVjalh6UV9yNmhoc1llNXlUN3Y4Q3RkRUdEYkVuVklrUFNoazNxNkxXaXJqZ3M?oc=5",
-      "source": "helsinkitimes.fi",
-      "date": "2026-03-31T11:49:21+00:00",
-      "description": "Orpo says residents should have been warned after drone incident  helsinkitimes.fi",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T14:34:38.261024+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6fd401301060"
     }
   ],
-  "last_updated": "2026-04-24T19:20:56.877073+00:00",
+  "last_updated": "2026-04-24T22:17:41.424027+00:00",
   "total_count": 1000
 }
