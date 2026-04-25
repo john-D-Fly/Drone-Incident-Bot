@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "In Romania, wreckage of Russian drones was found near the border with Ukraine - Online.UA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXgwTm5hbEtVSThfOFYxMWZaT2lSOXkwRWNHMzV1RWtCUDBMTWFLZ0ZkQWwxZ25QZ0dSZTZ3UWg2ZUhPX3E5UHJjM09DYW9WRUJ1RDA1VUtfNmVLNlpZRTdvaGJnd2ItWjZldFFhNjZoc2tMT3BiLWtlU2lWU0tvZkZ6a1BGWUJfMnNjZlZEb3BSQkNKdmFYZ2lkZk9yaF80QjN2eXNsT1hIbWNPSDdr?oc=5",
+      "source": "Online.UA",
+      "date": "2026-04-25T17:09:00+00:00",
+      "description": "In Romania, wreckage of Russian drones was found near the border with Ukraine  Online.UA",
+      "query": "drone incident",
+      "detected_at": "2026-04-25T18:17:28.413761+00:00",
+      "location": "In Romania, wr",
+      "category": "other",
+      "id": "7ab853e81cf2"
+    },
+    {
+      "title": "Russian drone crash in Romania: 200 people evacuated - The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNldGVHFENWRUb0E5dVdMbDFRUml3NDVGLXFHbmFYNXZwcTV1RG1EenYtX3lvX25zcWFlZm1LV2hrcHZCTXltZ2JwSWwxUG5UOW1rMlc5bklsbUpYSTVHWjJmUERtb3pELTdHX3dJQjZobkQ5MXZqdEJLd0RIUmVhdk1Jd19sQTAwVFE4YkxNcHBjckJjaTRJOFJjOA?oc=5",
+      "source": "The Brussels Times",
+      "date": "2026-04-25T18:02:06+00:00",
+      "description": "Russian drone crash in Romania: 200 people evacuated  The Brussels Times",
+      "query": "drone incident",
+      "detected_at": "2026-04-25T18:17:28.413761+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "93dac1321260"
+    },
+    {
       "title": "Mystery drone swarm breaches US nuclear bomber base in chilling 'waves' - MSN",
       "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQbjZVYUxPUnllLXF5ZWpkQkZIM0lBWExqU2kzaFQ4TzBaNTFRX3FkR1g1ZVhUMk1YU3dmWTdudXFpMjFna1NxRFFCNGNrYVJOMkhETkhMODh5cTZxcTY3VmVhaXBNcDc2aVlpWjlPeTZaNkd0dVJ6c0U3bzVvQzVoeTdpMHpaOHVwVDZ1SEQ2c2VxbjhjLXFyc2lDVVNxQktyclJoenA1ZHVvN05PRnhwcU9OTU1WTjhwRDE2dlhNTG1SMk5PVVEwcnZBdnpzdzhnN1VHYlZCajlLMDZFcEkyUTYwS2JMcENMRU9OWVl5djB3aVR5OXpHSDZHRWhxWjdONVBvWVNwdUI2OGN1YU9tdEZfTGJsTUl2aGYtbTBremZTZHg0bzBzcWNRcUtPcXFTWTZoM0dxMDBpNlNEODQwS1FBMFZVakk4a1JNSzdzTk5VOEhFNzcwQmF0SGZnV0VIV1pfV25jN1pSRl9lSFFIZTNuN3c1ZE9BLVpMSkIwbXBuaEVtUkMwcndyRjh4em5BYnFV?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "dee747016aed"
-    },
-    {
-      "title": "Barksdale Drone Incursion - bossierpress.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wS0FNRHU2ZEJWOHQ5N0o1OFFKVnExaWdDOVdsLXUxdE9EUl83bjlRMWhzSGNpaUU5ZkZyV04yelRpT1pUUXljNFdmODM1M3g0RHozdzJaRm1OblMzV3ltVg?oc=5",
-      "source": "bossierpress.com",
-      "date": "2026-03-31T15:23:52+00:00",
-      "description": "Barksdale Drone Incursion  bossierpress.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-31T23:12:06.351819+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7f43322789d1"
-    },
-    {
-      "title": "Barksdale fact-checks drone coverage - ksla.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90d2xTVkIwRmZfLXBkeUhLOF9XVTRiQ2stTFBtTXozQW5HSTNZT1ZZOXdkWGd5WUJRZUhBYk1vRUluSVRZQlRZT0pweW1yZVZVT3htc1hkaWx5ODJZZWloWTNtcERHamZmV2FwY2l0ZGJkenB0TUQwWtIBjAFBVV95cUxNSGFXUy1MWXR5bDVQLWQ2VTlqTUdYaFJ0YnItRUViVzdIbEpvR1JPQmZ4elhEUzBDay05cDVqZlZhMWhVc0pEYzhFSVF5UG9ObXp5LVJhRXo1ODBReURreEg4YUpfaHVwZWRUT2hjWGRybVhGZzFoYXVzaWhmNzdVVkwxV1pUcUNlMW9fTQ?oc=5",
-      "source": "ksla.com",
-      "date": "2026-03-31T16:03:00+00:00",
-      "description": "Barksdale fact-checks drone coverage  ksla.com",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T23:12:00.063829+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bace6fd2e0ac"
     }
   ],
-  "last_updated": "2026-04-25T17:16:37.837942+00:00",
+  "last_updated": "2026-04-25T18:17:34.102101+00:00",
   "total_count": 1000
 }
