@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in Romania after Russian strikes in Ukraine - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Y21wY1JFSGxwaHVxUG10bjhLdE5LUFB0Q1d3WmhjOG05eTB4TnR2X3l3UzNiSTlfaTFGNWdEUU9sc0VRUVRQaF9HNVNnNEJSb3FsUA?oc=5",
+      "source": "Arab News PK",
+      "date": "2026-04-25T13:10:28+00:00",
+      "description": "Drone crashes in Romania after Russian strikes in Ukraine  Arab News PK",
+      "query": "drone crash",
+      "detected_at": "2026-04-25T13:31:03.431748+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9afbdf8ff779"
+    },
+    {
+      "title": "Drone drops knives, phone, other contraband in NY prison yard - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVFRYQXpScy1UY0tXSjVURjFPVHBYcnJlR3hFVEI5UEhvcGViV1R4RXJJV2t6ZmxqZGxRUFFjNFl4MHR1WlpjSXROYUt4c3E0a3VoYjNDVmRxM2dsamxKRjFkU1NoSjljOGxrSzM2eElybU14czhIWDV1cTBpd3VIM09oVV9Rc2ZzeU5TSDNTYVdhdzdjTzIzZDB1UWRuTERzYzgxbUFsUmNFSXNFUVJfOUI2U0Y5ZkxBZFBrc2pyYWx3Y2Zfc3M3dHQwNkctODVRV04xdW9OVVg2bmY4SHYwLXF1NFZUMDlIbzF2MU1raGR1Q2QxWkxIYWdITTJiVGVwMno0UXo4RFQzVDY2VEkzejcyUEZaSlNOeFhQSkxLSVhucWFPekhPOW1NeUNjRzFaVHdIbVBLQTY1ZmdLN0dzLVgxS243eTFwcHN6cXNqRXRvS0xRSUwxd0pPeGdvWU0?oc=5",
+      "source": "MSN",
+      "date": "2026-04-24T23:57:45+00:00",
+      "description": "Drone drops knives, phone, other contraband in NY prison yard  MSN",
+      "query": "drone prison",
+      "detected_at": "2026-04-25T13:31:01.246344+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "15ff0267086e"
+    },
+    {
+      "title": "Romania summons Russian ambassador over drone incident - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODZ4ZmU1dlBwRk9XUTBqTTNWSC0zYzh6aUYtN1IxdEN5c04zMTBtVllIRlhrVTNMQy05ZWF4aTNkUkd1NGtiSTlrczN1cDhUcUtHb2xpb2RzN3g1bU9RWWJkektaV19qUG42cGlxU3JxS2JYVEhvUk1UV09FV2pUUi15VkExa3Bm?oc=5",
+      "source": "Caliber.Az",
+      "date": "2026-04-25T12:39:18+00:00",
+      "description": "Romania summons Russian ambassador over drone incident  Caliber.Az",
+      "query": "drone incident",
+      "detected_at": "2026-04-25T13:30:58.675325+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ed4b09a89cd5"
+    },
+    {
       "title": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot' - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU2phZkpvdUZEVGdUWHhSOGJSeEVNemt4TXdXdkJmNXhSVDJGc1dRZTRpX3NfVzRWclZEVFotS2kzd3hMSzV4LUh3QmpScEU5NGZvd2Jsamh5YUxveVRueWpiOWdDamRVVnBxVlBLa19tUkZLd21lWEh4S3U2NTVKN0Z5QmlHN1pwazZoa1NJblp4ZkstVmtMT0c3ZDhmQ2NoQjFwc0hqaHdtVGZ1alUzS3d0UXI1RDlNWmFMaEtJNElyRkc2TkRQU1M3N3lfei13OUVGc1BIOWMxbE1YMHpWdW1sU3FGZ0hxMFdDWmtETDhaNG1tZ2RNaldoWWZfWERSeGxmanNvYUY0T0pBSmJWMHFoMmJVMk1RLWJUQVJyc3B2SlgzZVFxaF9UbDdURjN2SnNFZWpCYVpYNklDclItbTRjMEVlZXJvQ1kxQXQ3Z0hOcWxQNGlfc2M5UkRheUk?oc=5",
       "source": "MSN",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "813f6b8254a2"
-    },
-    {
-      "title": "UAE intercepts Iranian threats: Kuwaiti tanker attack off Dubai coast, fires and debris incidents – a timeline - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVZSU3RyZ2oyVDQtVTRnZlhmQzFLNV9OZGFGdEhvaGFFX3hKOEVtckthbGoyUTUtcXczdERycTdXYm9QcTFVeGZvbkZ3Q0hOQkIzQ2FQT045VTZta2hCSUU3aGNfOUREcFE3dTdEc1hVR1BYcTJIcmRxV2ZWRGdXblc5eDBURHJsRWxSaDFQbUZ0SExjNUFoYW93S29PQWxRMUpMRWJnaU9MZVNmRjRHMFBYSFNtNHM?oc=5",
-      "source": "Gulf News",
-      "date": "2026-03-31T10:59:42+00:00",
-      "description": "UAE intercepts Iranian threats: Kuwaiti tanker attack off Dubai coast, fires and debris incidents – a timeline  Gulf News",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T21:14:59.680833+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "fdf2c18e6abf"
-    },
-    {
-      "title": "UAE: Sharjah authorities respond to drone incident that targeted Thuraya building, no injuries reported - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlc0M1FEYUlTZ3BRQWtOT1NZZlZTYzBDQlhpdHhQWnB1WXAzYjhUc1dnUmpQa3E5R2FlQ1l0RHhxWUwtX2FoZ0lGLTFfdDBnRjNpV24xTUZsYm1LN2s2MUxubGNna0M2N040c3RrdkJyenhTYzFvME1FNFlqUmpwR0FQM1k3cVBRSXRHZXFYbHhMUTR3cmRNdkZjMFRTWkVXS00wV3JsTHVOUjQ?oc=5",
-      "source": "Gulf News",
-      "date": "2026-03-30T20:51:26+00:00",
-      "description": "UAE: Sharjah authorities respond to drone incident that targeted Thuraya building, no injuries reported  Gulf News",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T21:14:59.680833+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9964b6b68a1a"
-    },
-    {
-      "title": "Barksdale Air Force Base drone incursions spark new security - shreveporttimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZER5SXdZRVBwUmdoT19DVUs2QU45YUZYWDBwSFZOc2h3ZVV4RGJCa3VLSDR4TFdMdTZlR2s2b3dHZ01aLWdvZjl6bGllQUhPR3VvdFI4ZVh1Q0ZTSHVLSVhFRy0xQ01vcHlINmtibWphTmF2OFl0WUtNUGlrNFdWbzFpWHZWVlJwS1h2YlBLaTg0eEpPeDN3NzF1d3NHUlN0QmhaRktHcVB3aTF3VS1rYTFvTC1qUlFScDVaQTRIazI?oc=5",
-      "source": "shreveporttimes.com",
-      "date": "2026-03-31T16:53:00+00:00",
-      "description": "Barksdale Air Force Base drone incursions spark new security  shreveporttimes.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-31T20:15:54.946198+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "594bcf67ed07"
     }
   ],
-  "last_updated": "2026-04-25T12:17:54.725306+00:00",
+  "last_updated": "2026-04-25T13:31:06.162079+00:00",
   "total_count": 1000
 }
