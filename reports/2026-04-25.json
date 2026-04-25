@@ -1,0 +1,151 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents showed a mix of crashes and smuggling with notable events spanning Romania, the U.S., and the broader conflict regions involving Russia and Ukraine. A drone crash occurred in Romania amidst Russian strikes affecting Ukraine, raising tensions as Romania summoned the Russian ambassador. Reports of drones smuggling contraband into prisons in New York further illustrate ongoing security challenges. The authorities are increasingly concerned about unauthorized drone activities, including incidents at airports in Charlotte and Coors Field, impacting public safety. Moreover, legislative responses are emerging with proposals to enhance airspace security against unauthorized drone operations.",
+  "totals": {
+    "crash": 5,
+    "smuggling": 8,
+    "airport": 3,
+    "other": 15,
+    "arrest": 7,
+    "total_incidents": 82,
+    "by_category": {
+      "airport": 5,
+      "arrest": 5,
+      "crash": 5,
+      "interference": 1,
+      "other": 30,
+      "security": 4,
+      "smuggling": 32
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 7,
+      "drone crash": 6,
+      "drone illegal": 6,
+      "drone incident": 12,
+      "drone prison": 25,
+      "drone smuggling": 7,
+      "drone terrorism": 4,
+      "unauthorized drone": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Geopolitical tensions and military drones",
+      "rationale": "Increased drone activity near military conflict zones indicates potential risks and international implications.",
+      "incident_ids": [
+        "9afbdf8ff779",
+        "ed4b09a89cd5",
+        "110898691832",
+        "b8b8452f2c45",
+        "7d9c252674b8"
+      ]
+    },
+    {
+      "topic": "Drone smuggling incidents",
+      "rationale": "Multiple incidents of drone smuggling in prisons highlight ongoing challenges in controlled environments.",
+      "incident_ids": [
+        "15ff0267086e",
+        "3119012de39a",
+        "c46e47abb47f",
+        "d6a96788b197",
+        "f53dbea0e367"
+      ]
+    },
+    {
+      "topic": "Unauthorized drone activities",
+      "rationale": "Rising cases of unauthorized drone usage at critical infrastructures suggest a potential increase in illegal operations.",
+      "incident_ids": [
+        "d95044cb92f8",
+        "7b79edf44b96",
+        "faa1",
+        "f5f2"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9afbdf8ff779",
+      "headline": "Drone crashes in Romania after Russian strikes in Ukraine",
+      "one_sentence": "A drone crash occurred in Romania amid escalating tensions due to Russian strikes in Ukraine.",
+      "risk_tags": [
+        "crash",
+        "geopolitical"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "15ff0267086e",
+      "headline": "Drone drops knives, phone, other contraband in NY prison yard",
+      "one_sentence": "A drone was used to drop contraband including knives into a prison yard in New York.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "3119012de39a",
+      "headline": "Last 2 gang members sentenced in prison drone drug smuggling scheme",
+      "one_sentence": "The last two members of a gang responsible for drone drug smuggling into a prison have been sentenced.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ed4b09a89cd5",
+      "headline": "Romania summons Russian ambassador over drone incident",
+      "one_sentence": "Romanian officials summoned the Russian ambassador following a drone incident amid military tensions.",
+      "risk_tags": [
+        "geopolitical",
+        "incident"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "d95044cb92f8",
+      "headline": "Drone confiscated after unauthorized flight near Charlotte airport",
+      "one_sentence": "Authorities confiscated a drone after it was found flying unauthorized near Charlotte airport.",
+      "risk_tags": [
+        "unauthorized",
+        "airport"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8c6ff659d159",
+      "headline": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'",
+      "one_sentence": "Border Security Force prevented several drone smuggling attempts, with most UAVs found fallen.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents from crashes to smuggling highlight ongoing challenges in security and public safety over the past 48 hours.",
+    "linkedin": "A review of recent drone incidents reveals significant concerns regarding security and public safety with patterns emerging across smuggling and unauthorized activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-25"
+}
