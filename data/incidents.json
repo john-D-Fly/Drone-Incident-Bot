@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA probing illegal drone use near MLB’s Colorado Rockies games - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNbl96cEFyb3Q5Y3RlbVdydUhwWFNfOEg1MTZRS2dDZjU2WkFoZzE3ZWFaNlJQa1JGRmM3YVgzSlJaNHI3MldsRE0wRF9wZ3V1SVRJSHRWbzZGcHVuMVNZNXNNT2pUWUlIaHNKUlZMaDNsWXlOejNaVmtQN094WS1IM3VSZTQ5U1FSNnFHZnRLb0lNSENHUnhXRS1Ub09OVGZGMWVDb1FTWnlfc20wLU44Y3BUUGZqVm0xVFFQdXJaZ0t4YkVVU2JpQllXc0FwOFF1Q2Q1UGVjU2s1SjM1MnBQRjIxelI5Q2N6cUg3OXA3NE50bExxSlM4OXRyT2pPUXNvajNJU29HTEQtNUIySk8tZkNXZWNYQ3IwTURZRUNyaVloWVRfWnNydExwQkpsS05jdnN2THVJN2hMZjYzV0xLVjNnMTZNczFqYU8yQjk1THhJU2lYWXpCSlZIVkNtTGlFS25vLUN3?oc=5",
+      "source": "MSN",
+      "date": "2026-04-25T03:33:45+00:00",
+      "description": "FAA probing illegal drone use near MLB’s Colorado Rockies games  MSN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-25T06:34:56.216166+00:00",
+      "location": "near MLB",
+      "category": "airport",
+      "id": "f53dbea0e367"
+    },
+    {
       "title": "City leaders in Escondido are looking at higher fines and drones to catch people using illegal fireworks - 10News.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWC1aVUQzZjMxNWZGZ0NqVm1JVkdJNnY4US1hRDJwZWNFUjk2UzZEb1lOUG83eU00Qk5nVkoySndmU1pUa3pDMG5EcGtGZWJvQXVqcWx2Yklxa3hkZmI1dXJhUlhkRlRIMHFmMXdMbkNoazlRc01tTEVQMHhwYU1CSl9uN29TWE94T3dRLUJTRzgwd0JPbFU4UWlaWTFpOW9jb0NVSF96Q2lzYWtLMHpsRWdzbFRhWUVGS1l3WmpsWTRZdnRMTUVfeFJTXzRHZW42QVBoZHNHSWtFbmlBbnhlTUx0WE1KZFBRT3hTUzdDbk1UeG8?oc=5",
       "source": "10News.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "dadc08948a19"
-    },
-    {
-      "title": "Barksdale Air Force Base drone incursions spark new security - Shreveport Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZER5SXdZRVBwUmdoT19DVUs2QU45YUZYWDBwSFZOc2h3ZVV4RGJCa3VLSDR4TFdMdTZlR2s2b3dHZ01aLWdvZjl6bGllQUhPR3VvdFI4ZVh1Q0ZTSHVLSVhFRy0xQ01vcHlINmtibWphTmF2OFl0WUtNUGlrNFdWbzFpWHZWVlJwS1h2YlBLaTg0eEpPeDN3NzF1d3NHUlN0QmhaRktHcVB3aTF3VS1rYTFvTC1qUlFScDVaQTRIazI?oc=5",
-      "source": "Shreveport Times",
-      "date": "2026-03-31T16:53:00+00:00",
-      "description": "Barksdale Air Force Base drone incursions spark new security  Shreveport Times",
-      "query": "unauthorized drone",
-      "detected_at": "2026-03-31T17:24:04.028491+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "74393283d671"
     }
   ],
-  "last_updated": "2026-04-25T05:37:42.203658+00:00",
+  "last_updated": "2026-04-25T06:34:56.802403+00:00",
   "total_count": 1000
 }
