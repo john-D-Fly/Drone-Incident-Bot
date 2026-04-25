@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone confiscated after unauthorized flight near Charlotte airport - WSOC TV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdV9lSTc4WkpsazFicDFTR2plc2FfT0IxbmZnaGNSeEcyWWx4TUZIRVZHS3d4bFoza3Fyc3ZBYlJWNXJwajBrbzYwM0dDY0lUSk5ETmlNSG1oV2hoSTRoS1FjUzZsUlNITkxWek5JOG8tVHJJVElTV0VONm5SOGhQX211RXBhLWdiWFJxdTFtUkNSS0UyQ0Y1MjE4bE9KYnlXTFlFNmozdlYyLVFZd3FkMlhXOVoyQmZLNTR1ZHg5b1p6Uzc2ZU9r0gHbAUFVX3lxTE9fa2tXZGc2Y2UxcFRrSFFwSzRTVEotNEFWRDNpSkN4Um9xYndsLXZBSXZjODFBamF4S0s2eFR0NXowMEg0ZWJFZWhHY0VvNDY5dmZKczFGRGVNaVVwUmk0dll1TEt4WHAtbUh5NEEzbUpjcmxXYnRqbld1YWFWNWQyYTJZSWxlcVBWbjVqZF9yNmNtN19wcFJ0endnMFZMczY2RDhEMDZ6X0RNT2ZERVJmaDlPLTl6VWdSRU9GSjJjVFBvYVpnUkl1OGZGTzF6bWRfSTFxdzl4enpFcw?oc=5",
+      "source": "WSOC TV",
+      "date": "2026-04-24T20:43:14+00:00",
+      "description": "Drone confiscated after unauthorized flight near Charlotte airport  WSOC TV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-25T00:37:53.849206+00:00",
+      "location": "near Charlotte airport",
+      "category": "airport",
+      "id": "85420e543069"
+    },
+    {
       "title": "Drone confiscated after unauthorized flight near Charlotte airport - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbU81bGJUV002d2N4bDVsdF8tbEpPOUJ4VWZRUi11RTY0MUdncWF0Q00yby1uUUtEZmdwUUNJOEwzb0x6Tm9yeDJCLUZ5UnI3TXI4eXhUMDU0WXNwSl96Y0lDRVJRaUpERFZXXzh5LXNkZ3lubENFclFqblNCZk5SNWZwZ0RJN19pbDFIWTJZNTFKTGNKZWROaQ?oc=5",
       "source": "Yahoo",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ec331f7f8498"
-    },
-    {
-      "title": "Barksdale fact-checks drone coverage - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90d2xTVkIwRmZfLXBkeUhLOF9XVTRiQ2stTFBtTXozQW5HSTNZT1ZZOXdkWGd5WUJRZUhBYk1vRUluSVRZQlRZT0pweW1yZVZVT3htc1hkaWx5ODJZZWloWTNtcERHamZmV2FwY2l0ZGJkenB0TUQwWtIBjAFBVV95cUxNSGFXUy1MWXR5bDVQLWQ2VTlqTUdYaFJ0YnItRUViVzdIbEpvR1JPQmZ4elhEUzBDay05cDVqZlZhMWhVc0pEYzhFSVF5UG9ObXp5LVJhRXo1ODBReURreEg4YUpfaHVwZWRUT2hjWGRybVhGZzFoYXVzaWhmNzdVVkwxV1pUcUNlMW9fTQ?oc=5",
-      "source": "KSLA",
-      "date": "2026-03-31T16:03:00+00:00",
-      "description": "Barksdale fact-checks drone coverage  KSLA",
-      "query": "drone incident",
-      "detected_at": "2026-03-31T16:25:25.942896+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ee3b4911c2d8"
     }
   ],
-  "last_updated": "2026-04-24T23:17:01.947711+00:00",
+  "last_updated": "2026-04-25T00:37:54.390039+00:00",
   "total_count": 1000
 }
