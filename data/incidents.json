@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian drone crash in Romania: 200 people evacuated - The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVVmZXVXUmk1c25ORHBnRUJCSTN5T3ZMZGJRSFBUbmNfVUJzaFNVdGVoa1Q4NmFYbjNEQ3Q3RzlXbUJiQUEybE11OEZTWElPYVk0aXhWTks5VmVBdDFST2NrZEpXTGNrTDVQX1AtYi13QXRyckJWX1c5ZmxXaEkxOTBxNTgyWnh4aUZRenNuZ3ZSaUE?oc=5",
+      "source": "The Brussels Times",
+      "date": "2026-04-25T17:48:45+00:00",
+      "description": "Russian drone crash in Romania: 200 people evacuated  The Brussels Times",
+      "query": "drone incident",
+      "detected_at": "2026-04-26T01:37:09.112902+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "cbd60f9948d0"
+    },
+    {
       "title": "British fighters scramble after drone crashes in Romania - News24",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanQyYnNsRExNdjFEc3NoTjVzLUtCOGZFb25Ed25KSVp1aWE3MHZLY0RBajNsaUJWaGFzM3dOR2libEpBdl9IcmRjLUZnc3NobTg2THdtLWFXN3BrSFRqV3pZQUVidGpxcFhfSmZfSW1icUdaNmRyQzBDNmtWTG1ZeVZ4LThwTkJ0bDlrRmN2VkhsUWJWV0p2aUxMNUQtZzBI?oc=5",
       "source": "News24",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "eeb5321661ee"
-    },
-    {
-      "title": "Drone crashes in Iraq’s Nineveh - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14TnZDTzJjQURTdjJNaHh4S0tReHBGQ3lqZVNuTjc1QUUzNURyekNqTmRPT1pVeWxqSlduazRDRm9tOEZ0WXBXand2LXJqYWZkX3NNbzFqb2R1b1A3ZE1KRXRoYVNfWUVUZlN5Z3BiWQ?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-03-31T18:11:53+00:00",
-      "description": "Drone crashes in Iraq’s Nineveh  شفق نيوز",
-      "query": "drone crash",
-      "detected_at": "2026-04-01T01:36:53.785035+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "192d4356ef7f"
     }
   ],
-  "last_updated": "2026-04-26T00:42:17.310430+00:00",
+  "last_updated": "2026-04-26T01:37:14.563239+00:00",
   "total_count": 1000
 }
