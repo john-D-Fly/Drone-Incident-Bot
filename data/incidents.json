@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Emerging threat: Officials note record number of drones in restricted airspace during fires - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM3hfRGczZ3UzRlhwT2o4UlRUdm51aFl3LXVfRjNjV3h3NngtanU5UUFPOWxSRzFiZGc1bTgxVGVBODdYT2Z5YzNMZVl4a1N1aV80SUQxVHQxY0hFSG1GTldEUHl6YmRQRHhTRjJlMjl5dm5jc20wVDV3ajBZQkRrSi1JbWE2S1V5dlAya0FMWUpDVklE0gGaAUFVX3lxTE9MN3Faakw5Q0dLdmd0QTUxTHNEanJKQjMyaksxeFkyTzBNTy1kczljOGM0RF9JM2RpQXRpR1RWZXNPdjFSd3dpdkF0X3FuZGoxb0Z1azRyVWcyaXJWRmZFRl9obHo2SHN1RVRyRkM2TG9ocVhpVlUxRWJMaU4zRWFfMzFYbUZxYVpiQVVNMk5OdUlWd2hKWE0wQ0E?oc=5",
+      "source": "FOX Weather",
+      "date": "2026-04-26T19:21:00+00:00",
+      "description": "Emerging threat: Officials note record number of drones in restricted airspace during fires  FOX Weather",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-26T20:14:42.590966+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "9335f15dc52d"
+    },
+    {
+      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWGVITXdpTXRzcjZZcU51bkpIeFdPaldWQW5tNlVTaXZqeF9qYnVSUVNOS1ZHSm1fVGR6UnFHRGJUMDJVd3IwcDBROEdsQUpGR1h3UHhFM2hLYlVCMGFldXdhb0ZJU25BYlFPMElyN01TbDB6VzJNNnJIM0tiVTBiU1hTdDJvTlN0QmdzOVdvdnJCdUh0MDBiQVZKNWFDOEVpXzAxUXpfT09ZakQyN1AyQTRoRTRzZWw3b3dvVEJTXzFuSHBsaEltaTU3RHBBTF9NV1R2d0N6eHRvTGV4aS1hLWJOVDFEN0VXa3VtbFdDSzg0Nl9yTTdUTGhsZFRwdmc1R3J2TndXYUJBMVEwQnQzNmtaLVFSU2x0aW1mR21mOXBoUnB6NVY2NEktR2xQWnhvR1hlbU5sUFo0QzFpaVBRa00xcGQ1Y2dmWkR5ZVJrQ1BEYmFQOU1lZU8zT1pzWVJRTlcwaEJfTQ?oc=5",
+      "source": "MSN",
+      "date": "2026-04-26T17:08:47+00:00",
+      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-04-26T20:14:39.466684+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1c5c6adb66f8"
+    },
+    {
       "title": "IDF soldier killed in south Lebanon drone attack as Israel, Hezbollah trade blame - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUpQTENicDdsS3l3bkZCQTBVbVVNdjlOOGZOQWROLUJfZ1JFNEt5RVRwQUlnQXFBLUpkS2FvX1czSHRBcGQ2cFNiZ1VQU1VnLWVhLW91UWI2NlM1dVBmeXdpYk4zTFpNdjRnQ0RUcFFEZmNnUzZqZXp5dk5SRkRjbVBCX1RwSk5VMVlLcVo4THI2eXJRMmlMZmxoYVpHaF9sblBfWnBtVnl3TlN2enRFadIBtgFBVV95cUxPeFROMy1hVmVUeVdKaDB0eDNQQVJsWkhOMGFRbEdZVFNEVUNvUE5pekljcC01Q2FiV1ZXU3FtXzVqelU0ZHF0X3VGb2hLMmsySVlzNGgzeXBnRE5yN2pvWjA0ZEVrRmM5ZWN3c2p2azJhOUIzUS1sMVBLOFBsUzJjOWdQTFhEeHlrYVM3enNSc19rMVBFQkw1cXh0OF9iRzVBTmN4V3RlU3d0c0YzcDJIR0QzU1Y1UQ?oc=5",
       "source": "The Times of Israel",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a1b32997632d"
-    },
-    {
-      "title": "Approached the crash site of an enemy drone out of curiosity - the prosecutor's office revealed the circumstances of the death of four people in Cherkasy region - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaTZiTkRTTDh6X2d5RDNUblJuNzBsU042QTl1U2FDRWNzSE9XRW5kcW90cndHY0hPVmQ4ZkxKQkhSNkVkdDlGYWQ2cVFKTTZCZkJ0dzF4a2d6QTU4Y2VKZWx0SXZCMU5TS21VUXVxUDNNWDJ2UmZJTm8wbWRkTmZLbjgyaTFBMExCb215Vlp3YVZjVHNSendZdl9pb3lIb1ZlQ0JVM0tiWWcyNGJKdmpCTGdPS2FvbGhTUmVseTJ6Nk52bTlWSVpQRkI2RXVrbHE4MzlzcElvQ2RxeDQwZ3ltTFdlSnJfcGQtRWw1Yll0ekk1c1lyOTRFNDFNU0ptZWVScjFqUmZza3Jya2du0gGLAkFVX3lxTE12ZUp4VFFvaDRNd2E5dGwtNHl0b2lodG1mWmFlU284Y2NzQXYtTVQzUUxtTHJTbzRSXzZQZWV2LWdPMTd1aVRlWEZKLXVBdTNmQkhZRWFadUJDVU9QNkdSN1ZKUGlWMmlkaEFhcGhDelpmX0p1b0xZSHl1Q0w0VHY4MHpBVmFELUQyVWs2SUx6TWV4Rm9KUVNKTEw2QzMySkJrYlFZekl0WkhnZXhnT0U3c28zbGswSHA5ZGE2c3hRRkNnNTNQT0ItdDFtYW5kWHIwbkEwYlZDVWQ2eVdHeFIxRkJyMzRka1E1NDE1R3BpRmwzdTJmOGFudHAxLU5zMXdNZ1FRcllxVUZjSQ?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "date": "2026-04-01T14:46:06+00:00",
-      "description": "Approached the crash site of an enemy drone out of curiosity - the prosecutor's office revealed the circumstances of the death of four people in Cherkasy region  Українські Національні Новини (УНН)",
-      "query": "drone crash",
-      "detected_at": "2026-04-01T15:32:17.841633+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d28977feb677"
-    },
-    {
-      "title": "Army Foils 10 Drug Smuggling Attempts in Specialized Operation Using Balloons and Drone - Jordan News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRCS2FqMFhYWVdaMEZNMVNJelY1bnBsRUV2N0ExQzF0T2VyWkFGSlRWV3FnUy1hR3hYUEFNOFRLdk5hdlhCQlNuZEFadVZJQmhJamZoRVlHX21fRUhGSlYwT016ZjA3UE5OZHhpQUY0b3NsdkFLY0FzWEdJbFc5MWJoYW9RVEJPa0dGd25tV3dwMFR0Yk1IZ2o3Rjgzc3ByamhKM3dHVFE0M3VLdGNfUU14STZmckVFckVfaWFFSHo5cTd4ejc2WmVValVRWjVNZmc?oc=5",
-      "source": "Jordan News",
-      "date": "2026-04-01T08:38:39+00:00",
-      "description": "Army Foils 10 Drug Smuggling Attempts in Specialized Operation Using Balloons and Drone  Jordan News",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-01T15:32:16.157505+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "44d485c3cb6f"
     }
   ],
-  "last_updated": "2026-04-26T19:20:40.956813+00:00",
+  "last_updated": "2026-04-26T20:14:43.243712+00:00",
   "total_count": 1000
 }
