@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Iraq security brief: Two drone attacks strike refugee sites, Drug trafficker detained - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWdRNi1sLWlNbmd5cXpvYWZrMXZrOGcwdFpQbmQ0Vk1yOEN1UGVDSzVZME91M3JtdTcwU2E3WlZtVVppcVVvc2RacnNXZGZQWHRtbE42a3gtRERqZDhvMlNRRTBJRXVvLWNaalMybm5aWmNuMzF3UHJvY2pOMU13SFk2UFN6NE15WWZrNUZyU0xZMnhVaTJTSFhyRE0xZTRGeEVGVm1Zajd2Mnk4QlJvSmZLSlg?oc=5",
+      "source": "شفق نيوز",
+      "date": "2026-04-27T22:49:12+00:00",
+      "description": "Iraq security brief: Two drone attacks strike refugee sites, Drug trafficker detained  شفق نيوز",
+      "query": "drone arrest",
+      "detected_at": "2026-04-27T23:21:33.964268+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c4adc0687b84"
+    },
+    {
+      "title": "Man arrested after foot chase, drone search in Live Oak - FOX40",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUR0Z3BiRy1YclhvQ2g2MnRqWnFSY29QLWttcXlUUG9hdXlxeEJWcVFnTHFTamFnQlNJMVBocTU0S1l2RkwwejFkWmJ3cnZpZDJaaWZPUmsyNDB4eUp6dWtHd2dxQTlGRHRRM2JKRzZDLU1FdHJjdXpxVXVJS2xVZ1c1cjlqR3NHcGpJUUkxVXd6VjRxbGZieWVoUnJEc19PX1lqSVZR0gGrAUFVX3lxTE9YVGNpUVNOdnpEc2VQVWdCalJuSVlpZjBLS0tKMkZLQ19UU2Jvc0MwYnNwX0tROHlxMFdWYTNoaS1HOXB1VmdQNFhEOXgwcElqRjZjenRMUnoxNlhiOVRJY2lMM1BmVy1RMjFFMkx2c3ZiSlBsdTBjSHA4QlpXbklYb0lySlB5Sm4zUjVHOEtEUmREMmwzTjNwTEdhVDJlNk92V0xPYlN0el9jVQ?oc=5",
+      "source": "FOX40",
+      "date": "2026-04-27T22:42:11+00:00",
+      "description": "Man arrested after foot chase, drone search in Live Oak  FOX40",
+      "query": "drone arrest",
+      "detected_at": "2026-04-27T23:21:33.964268+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "d0ff808163f0"
+    },
+    {
+      "title": "Russian envoy disputes Romania drone crash accusations - The Romania Journal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFRkeF9sV1JFT0U0b0FWQ0hYcS1YdDItQmFTUzBGdFctNW9KRmNUVm9mUEwyREIwazllS2ItcVVOTGRaVFV5QWJlZnFHdzgybE9vNVA3b2VvZkM2d21uenoyU2JzbTI3dVA0Ri0zNnFFN0xuM2w0cE9EaTZWZUtrQm5yaUxoNTllWmlnUV9xRjNZUmFadjFSUmxB0gGfAUFVX3lxTE5ULUVPYWh3anFhcFNjdDVBeW9YRC1DRkQtRlM5RHQtU2xydDIyU0xueU5nWTMyZl9JLW5sanFYbmlPQWJKT1piSURxTmdGOFdza0FOV3I4UnpjZFg3SDVwTW1TczY4YkloWF9FVFhVVnZiNWthcGQ1WVV5V1J0NDc1U01kM2xsdWhHYzJiLUxuOW5nS0w2LXBJa0c0amNrUQ?oc=5",
+      "source": "The Romania Journal",
+      "date": "2026-04-27T14:06:12+00:00",
+      "description": "Russian envoy disputes Romania drone crash accusations  The Romania Journal",
+      "query": "drone incident",
+      "detected_at": "2026-04-27T23:21:33.380858+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4b4e1f690698"
+    },
+    {
+      "title": "Hezbollah drone threat exposes gaps in Israel’s air defenses - www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGRPVFhUNXNsZnd2WWFBcl9SZ05NSUZueFNPZF8wbzBtblU4OXpoQmJQbEtObWg4TFNlUFB5eU1KY3VkT2pHdzFWSlkzcDloVGhka25OUDFRSld4M1dvaG45TWVaMkFnMV9qU3lSUUpRSHRTYjhMdkFrelJnaU5hbml1UW92MW1PNjFjR0RLMVg3LVpwQ1doWEVqdmxtY0xt?oc=5",
+      "source": "www.israelhayom.com",
+      "date": "2026-04-27T12:26:21+00:00",
+      "description": "Hezbollah drone threat exposes gaps in Israel’s air defenses  www.israelhayom.com",
+      "query": "drone incident",
+      "detected_at": "2026-04-27T23:21:33.380858+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "8998d336a2e2"
+    },
+    {
       "title": "Philadelphia police implement drone countermeasures ahead of major summer events - 6abc Philadelphia",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5yTlQwaDRhNGlZc0ZOWEZoenNWLWpkMEJ3T2poTllLODZZTG0ybjRmcTV3TkYtV0I2QUdYN0hEd05saDE5WUJpbHN3S21INkZVVXZDb3V6MWJWVTBQWWwzSklzZUFwVWIyUWhUbHhXemNIOUFlbk5GUXF2N3lCR18wQmY1bkphaFZ0R3JBbFhjVWcwTkUtYmIxT3JhMnlzdGxDZEFyZU9CaTdhaFHSAbMBQVVfeXFMTi0xNERwekJRWm05UEc0WXhhQU1CN0tMdF91WDNXM2NObUtLNVBNYlZhUHVWZHdONlZXSkNhcm5IWkFkWkdfQmZWeFQ0QVk1UV9XMDh3cXRRNl9BWk8zSTBXUlJVc1dGc2xpQ2FBenFDeEZtSmpTZHpjS25qU0xFWFJCYWRsSWItaGdVaENMMW1ZdmppdHprUFZXZG0zZ01VeGFXenRETG9uT0pQMzQzamhKMHc?oc=5",
       "source": "6abc Philadelphia",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "4bdb12efc967"
-    },
-    {
-      "title": "Macomb Co. sheriff's new drone lands arrest by tracking teen cyclist - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzRxczl1Nmh0RkNDU1lnamV2VWsxanRLYzlLTTBwWjBZTm5oZ3N4MWNzamFBamc1aW5FbXF2UHZhbTBRQ0N0U2xWcjFYNXI0QXVKc1VkR2ZzeUNlRDhUMkpqM2hLZ1NoZXp0cTJmR1dod0FRb0dTSUVwY1c1VnRRYXBCM050dEdBRWRUWFlHeXU5bURwZ3BUU3hkZmNXTHoyUXB4cnVnUVhtakNyVHU1SnJZRUd0UkVxb25XVlQ0a2tnY2VWOHJMX0h5SGQ2MGtnbEtVM3NYbmY1eW1VY3d1VmNDeW1MUQ?oc=5",
-      "source": "The Detroit News",
-      "date": "2026-04-02T01:22:54+00:00",
-      "description": "Macomb Co. sheriff's new drone lands arrest by tracking teen cyclist  The Detroit News",
-      "query": "drone arrest",
-      "detected_at": "2026-04-02T15:25:25.927752+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "92f49a901c24"
-    },
-    {
-      "title": "Was the crashed Batroun drone headed to Hamat airbase? - Naharnet",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3NobTE2WjdCSTlrMXVFeURJZlNZdVYtQjE0R09nTlJhb1pOQkZWbl9sMG9EQVUyWUdETU5FemgxOEszbzFQN3pWLTcteG83SG5DMjRyTGx4bjRvc09ZY0lURnFLdDk1bVpHTkJFQzdKS281cVJpX01wRGJ0R29YVnBKUDhaeUtaRm9xX1REeEpKV0wtaGpROE4tTGc?oc=5",
-      "source": "Naharnet",
-      "date": "2026-04-02T14:21:00+00:00",
-      "description": "Was the crashed Batroun drone headed to Hamat airbase?  Naharnet",
-      "query": "drone crash",
-      "detected_at": "2026-04-02T14:30:09.104336+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "d0b66f31e163"
-    },
-    {
-      "title": "Drones guiding smugglers from across the border - KTSM 9 News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjMxZW5IOGNMUS15SnVOTTNFS203RVZESG0yUXo4cmN6bjRrWkdXWTlfcjBBTmozNkplWjU4T1VlX2RTUFZhZnJjZXEySWtFQ1F0X2tlZVdsbVRZQ0J3WHRWQVQ3TUtJcjcweEtYQzVtS0VSbURxNjN2MEM0VE5CVjlQb2RETjBvOUFWUExFUThpeGJOa2JyNDZMNmxoNEgx0gGXAUFVX3lxTE9GWEV6YW12N1BkTXd4X0h1eTE3d2dlQ1EwUGFDand5dWRSN0x1cEFtcE9wczZIMlFRcVBGQVdCZHJCRXlNMmVGWVBsNXlSVldzbGZUNWs2NFZqNzkwYmNPbWxxMkpCSm1rRnpJT01GdTVSYzJKN1Zhb0JPOWtnd0RveTZhd2tXdGM4V0o2MlNXUnM1S3pzNWc?oc=5",
-      "source": "KTSM 9 News",
-      "date": "2026-03-31T23:33:23+00:00",
-      "description": "Drones guiding smugglers from across the border  KTSM 9 News",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-02T14:30:07.576711+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5f10f979bca4"
-    },
-    {
-      "title": "Amazon Prime Air MK30 at XPONENTIAL Europe Düsseldorf: A Heavy Drone With a Crash Problem - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNHdldzdfLWNES2VPbm1mblg0blBLdVc0Zk80Ql8tczV3UmM5ZHFFMmdSOUZ1Nm9fcURmU28weWoxT0FpbW1tb2ZyXy1ldDQ4MFdvNVYtWmtxVENscjlGeUlGUklnVUI0ZVhKSg?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-04-02T11:23:00+00:00",
-      "description": "Amazon Prime Air MK30 at XPONENTIAL Europe Düsseldorf: A Heavy Drone With a Crash Problem  DroneXL.co",
-      "query": "drone crash",
-      "detected_at": "2026-04-02T13:34:15.384345+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "634b182f2234"
     }
   ],
-  "last_updated": "2026-04-27T22:20:31.694524+00:00",
+  "last_updated": "2026-04-27T23:21:39.335359+00:00",
   "total_count": 1000
 }
