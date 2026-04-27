@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Sask. plans test of tech for finding drones smuggling drugs into prisons - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOeUVNS2p3dGhWU2V0TEZnSFlVS1BhNGE1azBwNmtEck13akx3dnp5TzMydWRqMmdGU2ZjYTU2REQyeDJGSWhXUHVPT1EzVHRaeDNWVmMweEh5N2J1MnZJRFhNanpHaGNIMzBKaTNqbE5XYVVIUEFmUVZfMkVuaVptX3haQUpMbG1abV8tX3BWdUpXSXYtS1BUVWxhZnVGV3hjZUtkV1o5b01SdFljb0VtWVQyZGpiNWhKT3E2Sk9RbWFQejZUcnFjT2Z6a0pRUWFhZDFHaVc4S0U2bUJDbjF5TmVWVG5mWUkwSVF1OFI0cExFZmtZOGg2Ujdvb3RkNjBEbUN1ZjFVTnlhckdMQkU2TVlCV01mLXVRWmVXeUFIVFR4cDFuSzFKQlpaVlJpNzVUdnpqeEpuSlFkME9NZTFlX0lLd0pMRWdtbjJKX3hDTUU4YmE4NU4tMkJsYkNpd3FCVDJLb3ljNGJXZjRnb2FSQVVn?oc=5",
+      "source": "MSN",
+      "date": "2026-04-27T10:57:32+00:00",
+      "description": "Sask. plans test of tech for finding drones smuggling drugs into prisons  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-27T18:32:05.940551+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "7b134fd5de27"
+    },
+    {
+      "title": "Romania Rethinks Air Defense After Drone Incidents - The Romania Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVUwa2s3dHVNbTYtdU9kNndyRDhmU3VPRkRlMFBtdG5Hd2dMUlBEcUdDMkZjaWVRbHIwLWhTOWVMb01nWEw0dXFKcVBmbDdHN1hKdms3b0xHai1UX1l4MU9TOEk1eWNrQkhTeDI0S18yMzNfSmYtRHJzMi12TGxBMEJMOUw0eHBaekJqbUxoaURuMGFKUThWOVcyeHBZNEF3cll2NTFSang2RVXSAasBQVVfeXFMUFlVMGtrN3R1TW02LXVPZDZ3ckQ4ZlN1T0ZEZTBQbXRuR3dnTFJQRHFHQzJGY2llUWxyMC1oUzllTG9NZ1hMNHVxSnFQZmw3RzdYSnZrN29MR2otVF9ZeDFPUzhJNXlja0JIU3gyNEtfMjMzX0pmLURyczItdkxsQTBCTDlMNHhwWnpCam1MaGlEbjBhSlE4VjlXMnhwWTRBd3JZdjUxUmp4NkVV?oc=5",
+      "source": "The Romania Journal",
+      "date": "2026-04-27T07:38:22+00:00",
+      "description": "Romania Rethinks Air Defense After Drone Incidents  The Romania Journal",
+      "query": "drone incident",
+      "detected_at": "2026-04-27T18:32:04.694991+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ed9ecf4ff246"
+    },
+    {
+      "title": "Theft of Agricultural Spray Drones in New Jersey Raises Security Questions - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLW9VX1pXRTJUcDJvT0lwbmE2SzQxb0F3d3dPREVPekFNS0syWElhS0Uzay1RYUFQLThuY0QtN1p0RjlDdjZOR1dKRVl4aERTUDFYOVRWMkJqRzRrTWQ3UURfTHVSQ0FJRUp2aUZUNTRYdkN3dDZMZUx1dldEX1lDX0N1SHpES0I2N1E?oc=5",
+      "source": "Dronelife",
+      "date": "2026-04-27T15:47:18+00:00",
+      "description": "Theft of Agricultural Spray Drones in New Jersey Raises Security Questions  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2026-04-27T18:32:04.694991+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f0798c8d1130"
+    },
+    {
       "title": "Zelensky accuses Putin of 'nuclear terrorism' on 40th anniversary of Chernobyl disaster - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXVoc2tIMUt0UHpPZlpHV0lXM0NTMHdfQlhERkRoQWFBZW5hTERNMGpudFVPUXZWSjVoWTRZY3RZNlVlSGFnNDFIZ09hYldSbzBuN0RXbFhZVC1VVllmTFpyVTVZLTNZd1pSN1IyOG5SR1JLa3IzWDRhYnNMajNCRGxvZFBiUU05blNSSG9SRTJ5RTQ?oc=5",
       "source": "AOL.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "13881819c081"
-    },
-    {
-      "title": "Drone crash in Poltava region: Injury toll rises to six, including three children - ukrinform.net",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWtpVjg3TUNheTF3Q19vNnIyQUNZcnlXMzZnUnp3bEtxMl9sdC1scTlGX1ZfUV9FU281MzRGRktoc19pbnppM3ExVlpfanFhTlhYeVVUMjlJVDNzell5dXVzOEk4RXhkUjUtZXpzQ3dhc25tb1hJRVg4a2ZqamhISENYQjJfU3VnZnpURjNka0R3c2E4TmM4X2hpQ0FpcDFBS0NFaktaLXF5U3U5blJNSG1sUFJBa0w0MUFrblF5MlFqTFVLbi1sb9IBzgFBVV95cUxOSzQ5dUZSeF81Wk11cm9XOUJvQlNLa2tlMVIxXzMxeUZ0dXlXM0ItSUl5eVFSUVN1S1A2MnBCNVV6Rk8zRmZZZHNoYmI3Y1prUWl3ZjZ2Sk1oZExlSnVkd3Z5UkhFOFhLOHdKWkw5QlIzb3ZCakNrVlhHX0h1eGItbnRnQ3R4N2JrcVhvdjdUVUZaR3dkRllubk0ydWJOWlBlU0tnMXZWd2hCVnAzd0F0UzF0alUzREZsc1hoWjB6N1o4bmozdmR4cmxQbEVnQQ?oc=5",
-      "source": "ukrinform.net",
-      "date": "2026-04-01T16:48:00+00:00",
-      "description": "Drone crash in Poltava region: Injury toll rises to six, including three children  ukrinform.net",
-      "query": "drone crash",
-      "detected_at": "2026-04-02T09:24:46.120015+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "225338048dad"
-    },
-    {
-      "title": "Second drone falls near Baghdad Airport within hours - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1p1MWhsdEFtMzJPMW9keFJZWUhvMkVMWXd3a3NfMDlySkt5WGF6YVoyN3prZ1VLOS1ocW8wUWR1VXpfMEg5ZkhFdjFGdVRqWkJmRlZqWUxyYkhDNWNTVXFJNGdndy0ybzIxTUdHM1JCV0V4Rm1QQktyZFRzcjZMSkx0U3MyLUhfSG1ycTlkOEk?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-03-31T19:00:33+00:00",
-      "description": "Second drone falls near Baghdad Airport within hours  شفق نيوز",
-      "query": "drone security breach",
-      "detected_at": "2026-04-02T08:25:18.442633+00:00",
-      "location": "near Baghdad Airport within hours",
-      "category": "airport",
-      "id": "b84bffc9fa48"
-    },
-    {
-      "title": "Disney World Has A No-Fly Zone. Now It Has Teeth. - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ySDlWN1d1YmxwQlFldTVDUjRpWEhvNGM5YnpmV3NqVDllWElHa3VDMTNoUTNtWFpQQnR3eGRJa1RMM25lYW16UUpENl8xdnp5emZMN0FoelotRm80VHpnRzZrR2o5TThicHc?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-04-02T07:26:27+00:00",
-      "description": "Disney World Has A No-Fly Zone. Now It Has Teeth.  DroneXL.co",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-02T07:33:12.733710+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3e14b2cc0e9e"
     }
   ],
-  "last_updated": "2026-04-27T17:33:01.621984+00:00",
+  "last_updated": "2026-04-27T18:32:10.992271+00:00",
   "total_count": 1000
 }
