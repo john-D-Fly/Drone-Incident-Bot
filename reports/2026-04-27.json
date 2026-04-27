@@ -1,0 +1,151 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone-related incidents have notably surged, particularly in Romania and regions affected by the ongoing conflict between Ukraine and Russia. Romanian authorities are grappling with multiple drone crashes, including Ruasiian drones causing significant disturbances and raising security alerts, while neighboring Ukraine has also reported drone strikes, reflecting escalating tensions. Meanwhile, smuggling activities via drone are highlighted with arrests in Michigan and reported attempts in various locations, emphasizing the challenges posed by unauthorized drone use. Airports in Dubai and Munich experienced disruptions due to drone activity, demonstrating the wider implications of this growing phenomenon on civil aviation and public safety. Overall, incidents reflect both increased threats and the complexities of drone regulations in conflict-affected areas.",
+  "totals": {
+    "crash": 15,
+    "smuggling": 6,
+    "airport": 4,
+    "terrorism": 9,
+    "other": 10,
+    "total_incidents": 81,
+    "by_category": {
+      "airport": 9,
+      "arrest": 1,
+      "crash": 14,
+      "interference": 1,
+      "other": 28,
+      "security": 3,
+      "smuggling": 9,
+      "terrorism": 16
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 1,
+      "drone crash": 8,
+      "drone illegal": 4,
+      "drone incident": 26,
+      "drone prison": 2,
+      "drone smuggling": 6,
+      "drone terrorism": 23,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes",
+      "rationale": "High incidence of drone crashes in Romania amid ongoing conflicts.",
+      "incident_ids": [
+        "7004a0ec158b",
+        "89de17dcbb28",
+        "e6505ea788f9",
+        "0f65e9e58b1f",
+        "d9d548025bbf"
+      ]
+    },
+    {
+      "topic": "Smuggling Activities",
+      "rationale": "Multiple incidents of drone-related drugs and goods smuggling.",
+      "incident_ids": [
+        "36c288ec1a58",
+        "f72172920e3c",
+        "f65ecf1b0a8b",
+        "f0069e71b39b"
+      ]
+    },
+    {
+      "topic": "Terror Threats",
+      "rationale": "Increased terrorism-related reports involving drone activities in volatile regions.",
+      "incident_ids": [
+        "5d1fd1ca95e2",
+        "d2683a3c8d3b",
+        "d528f5e9cb1c",
+        "3ac3f9c6619c"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Significant incidents impacting air travel due to drone activity.",
+      "incident_ids": [
+        "e7f39cd247e2",
+        "e9cd3f0dd0c6",
+        "c06deb08f5a4"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "7004a0ec158b",
+      "headline": "Drone Crash in Romania",
+      "one_sentence": "A drone crash occurred in Romania, raising security concerns.",
+      "risk_tags": [
+        "crash",
+        "security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "39a24774596e",
+      "headline": "Suspicious Drone Activity at Midland Prison",
+      "one_sentence": "Authorities alerted residents of suspicious drone activity near Midland prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e7f39cd247e2",
+      "headline": "Munich Airport Disruptions Due to Drones",
+      "one_sentence": "Munich Airport was disrupted by drone activity, leading to grounded flights.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f72172920e3c",
+      "headline": "BSF Downs Drone Carrying Heroin",
+      "one_sentence": "The BSF thwarted a drone smuggling attempt with 535 grams of heroin seized.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "e6505ea788f9",
+      "headline": "Drone Attack Near Zaporizhzhia Nuclear Plant",
+      "one_sentence": "A tragic drone attack took place at the Zaporizhzhia Nuclear Plant.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9970bfabba6b",
+      "headline": "Romania Rethinks Air Defense After Drone Incidents",
+      "one_sentence": "Romanian officials are reevaluating air defense measures in light of recent drone incidents.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents in Romania amidst rising tensions with Russia, alongside smuggling and airport disruptions, highlight urgent security challenges.",
+    "LinkedIn": "Drone activity is increasingly impacting security, with multiple incidents in Romania and unauthorized smuggling attempts leading to policy reevaluations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-27"
+}
