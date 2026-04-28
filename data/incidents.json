@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Israel Air Force probes Hezbollah drone attack on Unit 669 helicopter in Lebanon - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GUlAtd21uS0dsajFma1VpLXFyamJucE9PVzBGOG1reVZqTEs0N2QwWllSMXJNM0lHQ3hpWi0zZjNXcTdkQzFicjhFNE5KSXR1Wmt2MmRtTktoeXNuZXhzZ3VQbk9SV3NOdnp4TkJn?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-04-28T05:14:53+00:00",
+      "description": "Israel Air Force probes Hezbollah drone attack on Unit 669 helicopter in Lebanon  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-04-28T08:53:39.865693+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "32df78c7b1ae"
+    },
+    {
       "title": "IDF's weak point in the north: the drone threat is getting out of control - ynetnews",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GMllEeER6d2Q2a2ZNS01ldENRSTFsTlk3TWJzSWtPSm9mTHUxc1NiekdkRDVoM2xGeFNpa3lMZHdhR0REbXYyQnp0cFk0OUVXNUdwcXRzc2VlN3RBMU1Gaktzc1F2anRvTDBsQWEtUQ?oc=5",
       "source": "ynetnews",
@@ -11987,20 +11999,8 @@
       "location": "in Terrell County, Sh",
       "category": "other",
       "id": "cd7158f73897"
-    },
-    {
-      "title": "Drone used by Dane County Sheriff’s Office to arrest fleeing driver - wmtv15news.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemhzVTlwQjRxS045Yzdpc2JOaE9mNXlvcnhpMktJTC02QUZkUFdVaTBjU0RKTlVRdTFYeXZSWWxtTWpXZ2t0dkUtSVdZTEVGOGh3OGZoRGZEbG1fOVdlNGJBam9Yei1VVFNKbmpndXpnR0tJaFBxMnkxcmZWSHZlUHJOQ0l1N1loTVIxT2JxN19LRk1NdHotTWQtNXJlbERFcXg0OXpfb0dPbG9t?oc=5",
-      "source": "wmtv15news.com",
-      "date": "2026-04-02T17:31:00+00:00",
-      "description": "Drone used by Dane County Sheriff’s Office to arrest fleeing driver  wmtv15news.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-03T03:07:20.256184+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "0179efa807d4"
     }
   ],
-  "last_updated": "2026-04-28T07:52:58.814854+00:00",
+  "last_updated": "2026-04-28T08:53:44.888310+00:00",
   "total_count": 1000
 }
