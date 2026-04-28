@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "FAA probing illegal drone use near MLB’s Colorado Rockies games - msn.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYUw1d2dmUmE3Tkd2MVhaN2xsOHNubFJwMU9uVGtaemdkbWc3dG5INWdzSmFWekRTNnRvQkd4WHp5RGlMMjZuUGZlSGFhNjFGaEUxQUFRNHkxUEVKRkF6NTQ0MTZFeXcyOExsT19YQ0N4OGx5R2dTWlluYmhHOXQtSkJ1NW55RGVNbV9kRlFTMjNldXV1Rk5QeUdWRWJKZ2M2ZDhMQVNZRFdSLVZsRDd3RXBJcWVSa2xRTDZjNnN3ZGxkQWtXY1hjSDc5OWZiRHZpTVpVRUlObUM5T2M5dzZiSXY5MDNQU1VfUG5CNnZVSUMtTGtBVElocnA0U0hnblZjcDVPLWZxTHR4UFRVcHNtdW51UGJOOXFIcWNJWHpxWUFCWTNmeEVxUkVDY2d3empWbV96X2VyNGl1cjZhbXY1N0M3d3Y5cmRx?oc=5",
+      "source": "msn.com",
+      "date": "2026-04-26T10:48:15+00:00",
+      "description": "FAA probing illegal drone use near MLB’s Colorado Rockies games  msn.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-28T00:44:49.732601+00:00",
+      "location": "near MLB",
+      "category": "airport",
+      "id": "fdee6547c74e"
+    },
+    {
+      "title": "Unauthorized Drone Activity Disrupts Aerial Firefighting Operations in California - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRldkdTFIX1V4RFdvT2s0NU1hY00teVdtYUZleDhRX3EtcHUyLUxFT2xlejNJQkc5WDRQZG5yUFg5cVNlempNanptNmV2T0V2ZGI5dXBHTkxIOVlPVnI0Rm5ETHB3cW1tZUtnZ3p0ekFRMVZBUkJpbGpZakNWTkphLWxSWG5jQkc3QS1ISC1Hams1Sng5eHZJ?oc=5",
+      "source": "Hoodline",
+      "date": "2026-04-27T20:31:47+00:00",
+      "description": "Unauthorized Drone Activity Disrupts Aerial Firefighting Operations in California  Hoodline",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-28T00:44:49.732601+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "0fa187da7779"
+    },
+    {
+      "title": "FBI forced to send warning about illegal drone activity at Rockies' Coors Field - msn.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMU9TbV9KZDdJczh4c215ME9tX1FZdTdzQnRpa2VFMWU2aWRCWnk5M0V4VVhJUzBsQXNDd1hob3Y1aWVTTWNobWdIZHo1UDRWUHFFdHZsT3czdTR5Q0trN0Z2SENZbzZFOUhwT3d4bENOcWdRWG9Id3N6VDFvajI3WjlsMndZR0R2aUxKWkpPT1FrYllsSHRlbmRiaU80QmpCZ1B2bDZreUZRR0JmbUwtcF9rRGpVOTdSSUxheWpuOWtkQk1hM1E?oc=5",
+      "source": "msn.com",
+      "date": "2026-04-26T10:55:13+00:00",
+      "description": "FBI forced to send warning about illegal drone activity at Rockies' Coors Field  msn.com",
+      "query": "drone illegal",
+      "detected_at": "2026-04-28T00:44:47.350997+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e02ebea890ca"
+    },
+    {
+      "title": "Truck driver airlifted with injuries after semi hauling trash overturns on I-40 in Johnston County, trooper say - CBS17.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2pUY25WcWk2LWVGUUNiSkNIZHFHYXA2a0NTNTZTLThDc29ZZU5aZmVIcnBBVlE2MmRTU05jN0JlT1lkVFNKdmppSzZCTzBFOHVySjh1bDlIdER0Ml9FZ0dDdHNiUlo1NGRFYzY3LW9vMHphWGhwbkh6NVZPVE5PODlkRFFWYlJuOU1GYjhlNEVwMGZNUVQ0YU5fVEdtN2pySkxocHZnRGpqTnE2UzRHLUhBeVEyLWJGY0dUcmpWM0dTU1RiT1I1Y1BXZkdBeWNjSUpsRF90U0wxektYTS16UXZmMVlIek9WWFHSAe8BQVVfeXFMTnJfNkkxM1hGNjF4QlEybkRUTjNLRWZ1S2RtbWRTLVExNnpjQktHaUtJWVpyMHVvQVdVVWt6VEd2cDFCTlJyU3JPRi01WF9GeGJVNy1iaFlhT3k0Zm4yTmo1YmxINDdKYTdWNGJNVlhSRF9zOTJVTmdCUVZ5XzJacWFDMVFlN1p5bXlGWTZqT3NqZGZSTVBoeDFFcUI5Y2pNV2VjT2RTR3YwZVM4QmJpLWJOb0tpTnlZSkcwVGVmZHJiNzIwdkVvZloyTEM1Q2doQnRBMzBhV1Z3dy0yZ1YyaG9jUHBKSEtsMmZwejNqRms?oc=5",
+      "source": "CBS17.com",
+      "date": "2026-04-27T19:42:23+00:00",
+      "description": "Truck driver airlifted with injuries after semi hauling trash overturns on I-40 in Johnston County, trooper say  CBS17.com",
+      "query": "drone crash",
+      "detected_at": "2026-04-28T00:44:46.571234+00:00",
+      "location": "in Johnston County, tr",
+      "category": "other",
+      "id": "5e7a0cfb0156"
+    },
+    {
+      "title": "Drones are smuggling drugs into South Carolina prisons nightly. What to know - msn.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeVF3ZFFQQnhwYVJyUEE5V0xjY05Pd1VlVWRwQnU5b0JEQ2laTER2a2FzT3A5ZHlvcEw0enBoRUNyYnNwT2xibnZaT0lqZi1ON1czMlhOQ2tmWHJwSW9GOVFJdmx1aFpUeDk1VlJ3UXRLNks0X1oweVEzamVHYks1SVE4MkgzN1NfMzBmc0FiYXFYYjZhdXo1ckVfaTlDQUZqbXk4NGtIQlRBU3lrOUhlT2V5TzVnQ1R5cTdMd09wWDNYaXY2N0V2QXBvR3I1b2VaZjlnRlZ4TkxRci12bUVZNkVlMEI3S2NxcFFXRmdzSXpDajk1aWFaQ2tOZWZTR0VuUGgzd3dUVWg3NFUwTDk4a1p5akROU0FCd3djeDNybDdJWDBJdlZjcEt6bVZmeUFMajNWQ3dtdG5BRHJ0QS0zOXdDY1JXaHc2cTVZX0VOLUhWZFRkaDkwZWFnaDhoY1FpZG9YelBNRWNmcHRWbE94T3I0TWZyZw?oc=5",
+      "source": "msn.com",
+      "date": "2026-04-26T11:41:58+00:00",
+      "description": "Drones are smuggling drugs into South Carolina prisons nightly. What to know  msn.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-28T00:44:44.135177+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d3c00e49c07f"
+    },
+    {
+      "title": "IDF's weak point in the north: the drone threat is getting out of control - ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GMllEeER6d2Q2a2ZNS01ldENRSTFsTlk3TWJzSWtPSm9mTHUxc1NiekdkRDVoM2xGeFNpa3lMZHdhR0REbXYyQnp0cFk0OUVXNUdwcXRzc2VlN3RBMU1Gaktzc1F2anRvTDBsQWEtUQ?oc=5",
+      "source": "ynetnews",
+      "date": "2026-04-27T06:17:49+00:00",
+      "description": "IDF's weak point in the north: the drone threat is getting out of control  ynetnews",
+      "query": "drone incident",
+      "detected_at": "2026-04-28T00:44:42.629521+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "a01ba8f608ef"
+    },
+    {
       "title": "Iraq security brief: Two drone attacks strike refugee sites, Drug trafficker detained - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWdRNi1sLWlNbmd5cXpvYWZrMXZrOGcwdFpQbmQ0Vk1yOEN1UGVDSzVZME91M3JtdTcwU2E3WlZtVVppcVVvc2RacnNXZGZQWHRtbE42a3gtRERqZDhvMlNRRTBJRXVvLWNaalMybm5aWmNuMzF3UHJvY2pOMU13SFk2UFN6NE15WWZrNUZyU0xZMnhVaTJTSFhyRE0xZTRGeEVGVm1Zajd2Mnk4QlJvSmZLSlg?oc=5",
       "source": "شفق نيوز",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "b9a9d4b2eceb"
-    },
-    {
-      "title": "Drones guiding smugglers from across the border - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGxOVHBMUzEyS3dDS1hYOGRnZ2J2dWVySEE0dkI1NVRYYktqeUhaSFVkand1UWd1eDJKWVdDLWlXY0xaQWh6aTRwNmV6WWFOcVJaaW9ZU2F0SC1RbnJhZ2l5UVc0cGpkVlloSDEwcjVMQVFhOG50MXVLYjFaQUxEdlpQeTN1bkVmc0tKUVZlVFNHM3ZNR3BvRTFDOVLSAboBQVVfeXFMTzFwU0kxZk5Xa3VJOExQLVBGUUItQ3Fxa01hTVYxWXNOdXA1YlNIRGh5NmFGVlhEa2NPZ21lMWQtRkd6WV9LS3N1RnJvVjRtLW52LUJjOXFEWWtEeHM0X0VVMTNSVVhGVF9PWXdUY1Fqa3R5akdDcm5Ob29HWUp0alJFcWFVQzE5N0VYS3lyYUptMTZOQTFBczNwbmpOUkVTbGYtc3JfRkEwSTVSOXhWWFBRN25lM0IzTzdn?oc=5",
-      "source": "NewsNation",
-      "date": "2026-04-01T12:55:26+00:00",
-      "description": "Drones guiding smugglers from across the border  NewsNation",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-02T21:13:57.493674+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8c27ac767f7d"
-    },
-    {
-      "title": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes - bellingcat.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUcwYlZPMGg1TlJqanlmUzFENUktOFU5cG5Lb2IyYVZrZDNad0tTX2FSMVpLaFZiVWotX0dQUmk1MHJoXy1IMUFUQjhNOUl2bkctdUhuX1BRN1hWdFQ4TkVJN2QtY2x2Z3lrU1lOTFZiUXNKYXN1a3VFOGhtbENYMDRleEZ6UVhaOGljNHpHWjNQSm1VNXNxM0tMR0tpdFlnNXczUFpHdnNfWXdTc2VXTjN5cWVaTmt5SHJrVg?oc=5",
-      "source": "bellingcat.com",
-      "date": "2026-04-02T15:31:22+00:00",
-      "description": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes  bellingcat.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-02T20:13:20.136603+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a8e398167603"
-    },
-    {
-      "title": "Drone used by Dane County Sheriff’s Office to arrest fleeing driver - WMTV 15 NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemhzVTlwQjRxS045Yzdpc2JOaE9mNXlvcnhpMktJTC02QUZkUFdVaTBjU0RKTlVRdTFYeXZSWWxtTWpXZ2t0dkUtSVdZTEVGOGh3OGZoRGZEbG1fOVdlNGJBam9Yei1VVFNKbmpndXpnR0tJaFBxMnkxcmZWSHZlUHJOQ0l1N1loTVIxT2JxN19LRk1NdHotTWQtNXJlbERFcXg0OXpfb0dPbG9t?oc=5",
-      "source": "WMTV 15 NEWS",
-      "date": "2026-04-02T17:31:00+00:00",
-      "description": "Drone used by Dane County Sheriff’s Office to arrest fleeing driver  WMTV 15 NEWS",
-      "query": "drone arrest",
-      "detected_at": "2026-04-02T18:21:24.710773+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "51c091ce4577"
-    },
-    {
-      "title": "Dubai Flights Disrupted After Drone Fire Halts DXB Morning Traffic - thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVFiSGkwZ1E5bUhmR0M0R2VRXzRYclBsc2VrQ1Q1UHNaWEVUTEw1MndELThWbE9ENUFhY0hocXBtZ3lRU2g4bnAxbDZzVGp1ZU5UWTV3OFp4Wk04MnVQeEJmbWhVNkQzN2lsX3ROeTFUWVF3RHhwZ2pqVVRlTV9nVDZHZW92V3lrUlUxb3JlaHhTSDZFUkxiLURKSQ?oc=5",
-      "source": "thetraveler.org",
-      "date": "2026-04-02T14:53:16+00:00",
-      "description": "Dubai Flights Disrupted After Drone Fire Halts DXB Morning Traffic  thetraveler.org",
-      "query": "drone airport disruption",
-      "detected_at": "2026-04-02T17:20:24.867925+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "389db8d8240d"
-    },
-    {
-      "title": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes - Bellingcat",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUcwYlZPMGg1TlJqanlmUzFENUktOFU5cG5Lb2IyYVZrZDNad0tTX2FSMVpLaFZiVWotX0dQUmk1MHJoXy1IMUFUQjhNOUl2bkctdUhuX1BRN1hWdFQ4TkVJN2QtY2x2Z3lrU1lOTFZiUXNKYXN1a3VFOGhtbENYMDRleEZ6UVhaOGljNHpHWjNQSm1VNXNxM0tMR0tpdFlnNXczUFpHdnNfWXdTc2VXTjN5cWVaTmt5SHJrVg?oc=5",
-      "source": "Bellingcat",
-      "date": "2026-04-02T15:31:22+00:00",
-      "description": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes  Bellingcat",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-02T16:23:31.225608+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2fe127cfc618"
-    },
-    {
-      "title": "Ala AG Urges Action As Prison Drone Smuggling Rises - Wiregrass Daily News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFB2am96VVFwUmt1SnBBR2RheWg4c0ZkeUd6N2JPWnJxR180a2JMOC1qNUk3dUlhdjJkdnpyZUlRTHpHaWNMMFl3bWRUWnJ0aThvb0FQVFg3TXJYZnNhSVF5MHUtMEZKbHRyWGFaMkphMW1WSTVldVVJdGs0VHEyOTZRUEtfdFQzNVBHMXpqRXNwQVpJSTctM3VQYXdtTzR4ZEt5STZ0M1pMN1dR?oc=5",
-      "source": "Wiregrass Daily News",
-      "date": "2026-04-02T15:01:07+00:00",
-      "description": "Ala AG Urges Action As Prison Drone Smuggling Rises  Wiregrass Daily News",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-02T15:25:26.432794+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "4bdb12efc967"
     }
   ],
-  "last_updated": "2026-04-27T23:21:39.335359+00:00",
+  "last_updated": "2026-04-28T00:44:50.568773+00:00",
   "total_count": 1000
 }
