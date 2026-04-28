@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone flies into Latvian territory from Russia and falls / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzA3c213Z0pFbnFqOVNMSmRpR3hPRnY3VEMzX2RQVkpOYWUwMDUzdXQwVVRTQVFROG5VLURaNWJGb3B5UlU1Z29RZE1Nb09uUFE0c25sTzZVb3pINzNIVnR0Y3F3Z01wSlZadUNmTkhQekwwb3lTUl9zUWFNZ0w1WDJuVllURmNndUs2V3o3OUY3MUtqeWtzTDFzMUpWOXN1Q0ZGRFFCSzFBVG5EcVlWbnY0QURGVjVjVUcw?oc=5",
+      "source": "LSM",
+      "date": "2026-04-28T08:43:50+00:00",
+      "description": "Drone flies into Latvian territory from Russia and falls / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-04-28T16:39:00.799123+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4f988277fdbb"
+    },
+    {
       "title": "Teledyne FLIR OEM Launches Prism Counter-UAS Software to Extend Drone Threat Detection Range and Speed Response | FinancialContent - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZFNZc01vNmJRR0JUZXQxd2VpV1VGUXd3dHdPSUFUMjNGZ2NIQUZsZmlXLWN4cjVSaU5MUGdDdW5pWUZ1R3FEZEJnSnk0b0pKZUY3LUlSNnRkQWhqbjQtdlVCQ2NOWlZ1akZNSV8xd3BfbWVWRXVEa01NcXVUYUhDUFJ0QTZJdGZ6THhRNzFGc2ZmR0wzeE5IYmQtakh1QkJDbmlSS09WRGVPTmx3SFg5RDlpM3BRZEE1cmhpVGxXQWEwa292WkFCVUFHbkEzQ2RMSXAxaFBQVzByRWktNVZMaWZSejNxd19WTFU4eWNPcC1NbURHdGNDemhScTRBRFE?oc=5",
       "source": "FinancialContent",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "0277739e3709"
-    },
-    {
-      "title": "Kuwait races to contain damage after drone strikes oil refinery - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFJCOXl3VFNZSHlIYzdDOXRmSktOdldxT3RNUy1FYThaVDNQS0xrYUxVai0yeGdLaGNNT2ZRb0NrZjEtSENQSnJCR2ZXMVVTZW4yTk5PZTJpT25XaTM4MXV1LWZBR3U1d0pRMTV2YmVqYmUwdEROM2tGWnN1a19IX1Uzd005cGFON2t2TjBXZG12Y09NaGswVmtPNnE4MHB2SDV6SUt0SUdXYkR6OUxSWGt5MGh5bnpG?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2026-04-03T06:33:45+00:00",
-      "description": "Kuwait races to contain damage after drone strikes oil refinery  thenationalnews.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-03T09:21:51.854864+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2f286fe63ae9"
     }
   ],
-  "last_updated": "2026-04-28T15:51:21.137904+00:00",
+  "last_updated": "2026-04-28T16:39:07.519736+00:00",
   "total_count": 1000
 }
