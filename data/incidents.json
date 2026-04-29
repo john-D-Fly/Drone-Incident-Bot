@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Panic as United Airlines flight strikes drone 3,000 feet over San Diego - The Mirror US",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHVPNFdGR3NJdmVXb25iTENGd1g3N291bC1GbklMV2hJOHRsSkJQZXNhR0U5Rjl5NDFrZlFHZ1lOM0VXUVhmUFhzdzBJQkNCV3N3dG5jdUdUenY3cWNxYnY0UDd6QnBELWFHYTlZdWVUazBITUZmUjc2a1dEdktFY0NmMUVPWmVKc1Fj0gGQAUFVX3lxTE4ySzVmaDZxWlVYeVNQY09MZU9SUEgzeHFZUDQyMWh6cGdicVpSYnFCcWtDc05MRzZBQmJCdGZlUC1xMHUtV3kxU0Q1NkNHVFlETTdySzZxMnAyOGxxWWhZYW96SjBXdEhxcjBVUDM0SEtHVU9EdFJMc1dDbEhzMG56ak9IcHhPVFpLRC1YUDk3Qg?oc=5",
+      "source": "The Mirror US",
+      "date": "2026-04-29T16:21:00+00:00",
+      "description": "Panic as United Airlines flight strikes drone 3,000 feet over San Diego  The Mirror US",
+      "query": "drone incident",
+      "detected_at": "2026-04-29T17:34:22.038365+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a487b465da15"
+    },
+    {
       "title": "IDF downs Hezbollah drone heading toward Israel, tries to down another in southern Lebanon - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYm55YnBtNXBsdHVLU29TRzhCek5UVkNvVjBaOGY3cThhMllUREhWdlA4SnFDbUpkMzRaWnpFYkZoZmdHY2I2NGgwdlJMeWFBaTlGbjFNZW15NUMya0FPWHJ5blNidWFJTklBd0F3SXBZLWxOSW5vOVotb2xSZ2FuT0ZzOVc2UERhQ1poMWpqaFZqaDNsOFlaM0ZaUGdLLU9tUlRiWGhsQ1hNUW15NlRqNUc3SUlGbzBRSWVodmxHY3c2WFBHVmFBOVFBdGpJSWkw?oc=5",
       "source": "The Times of Israel",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "da321ebb2eee"
-    },
-    {
-      "title": "Unmanned military drone involved in ‘mishap’ outside Las Vegas - KLAS 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzgtMFpfYVBnV0ppT3A3M01fZFI3OURYZG1Na1I4ekpjdXFWUlJWWGRJeTY1blVsYmxZZkNlcUpDdGV1dE5TVEhvUE54SWNRUnNIY3FidkJPMDYtbDlGTDd0YWRJTVdzQXZrUHd4bjRVeDV0Q0tMQVVPWjFGUk9xYTBQeFhUMTIwWFRxR1Z3TmNFZjZPVjlrVkQzTzgyaF9KWEhuQ9IBqgFBVV95cUxPR05tX1Z2bEhkS0lmMFpPbXdSRlVXemZKMUY2S2M1U01BelYzZS1fbWNMUVhjNXJUNjVpdk5nbGFVR0FqdVRPaHYtQ0kxOFlFWVlIUzdqLU5nRjdheU0tTTg2a2hzSm03bXNwS1l3SkhGUGhQYXVtc2dqQ0JvZGctWTJtZlA3X190TlVPNGpTRi1MRTF6dFQ3dHJJeXRrR1VBVk9tWTdndGJoQQ?oc=5",
-      "source": "KLAS 8 News Now",
-      "date": "2026-04-03T20:48:17+00:00",
-      "description": "Unmanned military drone involved in ‘mishap’ outside Las Vegas  KLAS 8 News Now",
-      "query": "drone incident",
-      "detected_at": "2026-04-04T00:32:31.587655+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2bc8c3fc3122"
     }
   ],
-  "last_updated": "2026-04-29T16:36:05.187834+00:00",
+  "last_updated": "2026-04-29T17:34:28.655324+00:00",
   "total_count": 1000
 }
