@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have significantly impacted various regions, notably causing disruptions at multiple airports, including Munich and Lanzarote, where flights were grounded and passengers stranded. There is also a growing concern over prison smuggling activities as authorities have reported a series of arrests related to drone usage for contraband delivery, particularly in the U.S. Additionally, geopolitical tensions are evident with multiple reports of drone-related incidents indicating increased military aggression, such as drone attacks associated with Hezbollah and speculation on increased terrorist threats in Russia attributed to Ukraine. This period underscores urgent security challenges in aviation and law enforcement, prompting discussions around policy measures and counter-drone technologies.",
+  "totals": {
+    "airport": 4,
+    "smuggling": 5,
+    "crash": 3,
+    "terrorism": 3,
+    "arrest": 8,
+    "other": 12,
+    "total_incidents": 80,
+    "by_category": {
+      "airport": 15,
+      "arrest": 9,
+      "crash": 4,
+      "interference": 1,
+      "other": 31,
+      "security": 2,
+      "smuggling": 12,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 14,
+      "drone arrest": 14,
+      "drone crash": 5,
+      "drone illegal": 2,
+      "drone incident": 20,
+      "drone prison": 4,
+      "drone smuggling": 6,
+      "drone terrorism": 9,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruption",
+      "rationale": "Multiple recent incidents of drone sightings causing flight delays and cancellations",
+      "incident_ids": [
+        "b8b7c0ea52e4",
+        "e02ebea890ca",
+        "9d6169891f85",
+        "0b989047c597"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "An increase in arrests related to the use of drones for transporting contraband to prisons",
+      "incident_ids": [
+        "36401a332c24",
+        "7c464d0a001c",
+        "71c6ea5d8798",
+        "d3c00e49c07f",
+        "d5685da3227f"
+      ]
+    },
+    {
+      "topic": "Geopolitical Tensions",
+      "rationale": "Tensions highlighted by drone warfare and accusations involving various nations",
+      "incident_ids": [
+        "f456a387b499",
+        "850bb6c6823f",
+        "cc61314d3041"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b8b7c0ea52e4",
+      "headline": "Munich airport disrupted by drones.",
+      "one_sentence": "Flights were grounded, leaving thousands of passengers stranded due to drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "36401a332c24",
+      "headline": "Prosecutors demand prison for drone spying case.",
+      "one_sentence": "Chinese nationals face prosecution for allegedly using drones to spy on a U.S. carrier.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "d546723c5b3e",
+      "headline": "Drone crash near Russian border in Kazakhstan.",
+      "one_sentence": "A drone reportedly crashed in Kazakhstan close to the Russian border, raising concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "77af961b698b",
+      "headline": "Suspect arrested in Germany for spying on Ukraine aid.",
+      "one_sentence": "German authorities arrested a suspect linked to drone surveillance on Ukraine aid operations.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "f456a387b499",
+      "headline": "Russia strikes Ukraine with drones.",
+      "one_sentence": "A significant number of drones were used in a recent attack on Ukraine by Russia.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone-related incidents escalating, impacting airports and raising security concerns across borders.",
+    "linkedin": "Recent drone incidents highlight critical security challenges affecting both aviation and geopolitical stability."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-04-29"
+}
