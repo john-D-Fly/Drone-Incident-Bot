@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "United Airlines flight from San Francisco to San Diego reportedly strikes ‘red, shiny’ drone - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORTRsa0FOaHFWUm1UQ2Q5alE1bVpNejhvUjNSVzU5MVFEQ2ptQ2NkTmhuVXZocjliRUhGMmMtRUpxVWxoSWxGVVQwSjFaSk5BN2pXemhZd0tpNG53Y3E4eTRhX2R3dk8tVWwwdE1lZnBpbVBxTjdaYl9vLUNOaEdhUW0tcURmS0pWRUI1MG5CaEVjaEJKeVV3RW45V2o3YlRsM2o0?oc=5",
+      "source": "New York Post",
+      "date": "2026-04-29T16:44:00+00:00",
+      "description": "United Airlines flight from San Francisco to San Diego reportedly strikes ‘red, shiny’ drone  New York Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-29T18:34:38.667332+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f93e91022f51"
+    },
+    {
+      "title": "Sirens warn of suspected drone attack in Lebanon border community - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU296Q3F0d0pST1R1YXBjdEF1TEVkSEZMLWl5YkdyTlB5UERFZzA2NVFtazJyVVVBM3hIdU5ucS1FcWliUWcxcDUzR1NVVHd3Y2g5R2kzcXZrWjlEX0IzOENaN3kyTndaYkYwUDRsN3UyX1dfUXc4Z1JaSkVqcnVERzFVaDZ0Q1prQVRfcHI3SlQta3R1bmkzS0d2alBtZXo5SENqczZ6QzNfYkFqYUM2VA?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-04-29T17:52:52+00:00",
+      "description": "Sirens warn of suspected drone attack in Lebanon border community  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-29T18:34:38.081720+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d4db4fc6c0f1"
+    },
+    {
+      "title": "Ukraine strikes Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHFKeXFLVEdweWprR2RDc0F3c3BoTGV3eHJEdkpIeDFyUjh4bGpTVUViUDFGWlgzMnFqYU5zb1RRcjItUnl6aTA3M2JvU0V6UFY0MmQ1ODVlWGdnRTYycXFBY2lIRkl3cnpKWkRpaTR4NXZ2WC1fTG11TG15R2t1VTVIZjhOcldCcE85VXN3d3RkSHBOZHJ2aHE3N1MtMGlBWnU0QVNTa2dDZjBpUWc5Y2drSQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-04-28T05:31:00+00:00",
+      "description": "Ukraine strikes Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-29T18:34:38.081720+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1a3db0d0223c"
+    },
+    {
+      "title": "K-P jirga rejects drone strikes, announces emergency assembly session - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNm9uVzNXQUdHRFhleFdENTBUWGRObm4waU1fa0ZFaWRvb1M4RWlKZGk1Skd5TGJMbXoxTUdmWW9WbElZRkRuYVE1NDhJOWZfQVFsZnI5eXFjbkxrS05ScWFPYXdlbWF6NUpOdWFJVDdhWThjeUt6QjlNWWxMU1I4Vmg0cVRlWjV4UU5hSjcwZ3ZTWDlCd1pFZFFtbW1SMzVSdU1zcnhyN3XSAbABQVVfeXFMUDRTWXZmdFVKVGxQVFA1cjZ6ZnNiZWdDa1VhWjJWeWl5X3loSnJ1ZmN4SE5Ic0VJeWlDSHQtUUh1cm1jRHY4SDFrZGJlWDRIOWM1c2RpR1RsWXA4cWtTSUl3NHZmQTN6a01zVzhSWkNXVnlydFB5X3YyUWVuaXA1NlczRGJWUW5BbEpHVFkxN2ZOc3dtamNMLU9kRDdCd3JXbDMwZlBxT0VqTjlBVHhpRGw?oc=5",
+      "source": "The Express Tribune",
+      "date": "2026-04-29T18:05:18+00:00",
+      "description": "K-P jirga rejects drone strikes, announces emergency assembly session  The Express Tribune",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-29T18:34:38.081720+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1aa3936f2867"
+    },
+    {
+      "title": "Mercenaries At The Frontier: Dissecting An Emerging Regional Security Challenge In South And Southeast Asia – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkRuZTRrVVYxdC1hUnF3akl6YnBmanJoY2dkVDh5UE1iaF94TVBGNjVjX3BwQm1US3JUT3V3MjBYdUxHX3BIT0x3TFNUaUowLWVHc256dnlyNDg0cTlLWTlrTk9UdTdXT21ZZGlqb3EzbU05LUp2Umo2RGRKeEJpb3l5X1RSRmFueEYzbEk2TThQd1hmcG93Mjh3bGlXb2VRV1VlRmtZVHdhWUVYUkRnSlBjYlhSS19VMkRxYnVQWTlfWHEzNWlmOVhSM0NLNTUwUXBaZDJwVlB5WVpMTU9Ma3RpNTZPLTNXb0Yw?oc=5",
+      "source": "Eurasia Review",
+      "date": "2026-04-29T16:25:12+00:00",
+      "description": "Mercenaries At The Frontier: Dissecting An Emerging Regional Security Challenge In South And Southeast Asia – Analysis  Eurasia Review",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-29T18:34:38.081720+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9c77c45f3db6"
+    },
+    {
+      "title": "Delhi Police Bust Cross-Border Arms Network Linked to Drone Smuggling, 9 Arrested - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbjVVWnMwekxoMmgtd1Ewb1FJSm5oREJQRFhXc3k3NWVodmxkZ1llSFRhU3Q4YkdBVDIzMThEdXRjN1BzWGd6ckVGMEVyU21TdUFhS3NYdkhUOHlVMExjRTFsMDYzLXZZcFZERFFGbWNya0tCc3FBZ3A0dWk1OHgtTlVhWHc2NVZ0S1hVN2lZNVk5LU1zU1ZhUnhMS1c4RUprSENPekwtNzRFMUptYklWRnpBaXV4eGtRZUhyOWJxVi02aU1PcEVmQlUyNWVaUHhxY0hLLWpCaDlIcFE3NmdLN0pkU2VUNF9o0gHuAUFVX3lxTFAwajRtdzFTRTdBOW9UNzRMYUszakJTWWgyS25ib0dwak8tLW53YXZHaGxhaVVnV3FaTS1aYU91RjM4azVnT0cyclBEanlSeENUUmZIQUdvMHkwNTg4VnhOUmtZS0hjck9EMmhWUVlRQ1hRSHJoMzQ0bmlMLTdnTG5xSkhwakplNXRpSkZlcXhiOEdiMXE5RXF2UUJFX2NCV1oyanRkX0g5NTFneVVNb3hXeGQxcTFLS1pPYkJzSUlpNFRqaGhReVBsS2xaN2ZzY3Nob0EtU2YtQ0g4SHlURi1vcWhSZFFXbm9CMkt0U3c?oc=5",
+      "source": "The Times of India",
+      "date": "2026-04-29T18:05:00+00:00",
+      "description": "Delhi Police Bust Cross-Border Arms Network Linked to Drone Smuggling, 9 Arrested  The Times of India",
+      "query": "drone smuggling",
+      "detected_at": "2026-04-29T18:34:34.573957+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c1c811a277b1"
+    },
+    {
+      "title": "United Airlines flight reportedly hits drone at 3,000 feet over San Diego - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFFXMERraDdVM2hNbU1LSUxGcS1UQ0RtUGFiSVpuN2s5am52UjhKcWptdENNUHU5OW9VdU1BN2d3UXR2azFWQ0lPU0EyY2ZFQ2NISjFhN1FJVlFjSWp5V1VQMm5ZSVg2R2Q1b3BaNnVHR2ZRVGhyeDh3QWlVOEJYOHpQNVhRM08tMVpYNEwxdWFQMXg4Q1RvOUxJWGdXemoyWnh2Wkw0cHNaTWdFZ2FIbV8tRVM?oc=5",
+      "source": "Washington Times",
+      "date": "2026-04-29T16:47:41+00:00",
+      "description": "United Airlines flight reportedly hits drone at 3,000 feet over San Diego  Washington Times",
+      "query": "drone incident",
+      "detected_at": "2026-04-29T18:34:33.293403+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e1dc7f3bacce"
+    },
+    {
       "title": "Panic as United Airlines flight strikes drone 3,000 feet over San Diego - The Mirror US",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHVPNFdGR3NJdmVXb25iTENGd1g3N291bC1GbklMV2hJOHRsSkJQZXNhR0U5Rjl5NDFrZlFHZ1lOM0VXUVhmUFhzdzBJQkNCV3N3dG5jdUdUenY3cWNxYnY0UDd6QnBELWFHYTlZdWVUazBITUZmUjc2a1dEdktFY0NmMUVPWmVKc1Fj0gGQAUFVX3lxTE4ySzVmaDZxWlVYeVNQY09MZU9SUEgzeHFZUDQyMWh6cGdicVpSYnFCcWtDc05MRzZBQmJCdGZlUC1xMHUtV3kxU0Q1NkNHVFlETTdySzZxMnAyOGxxWWhZYW96SjBXdEhxcjBVUDM0SEtHVU9EdFJMc1dDbEhzMG56ak9IcHhPVFpLRC1YUDk3Qg?oc=5",
       "source": "The Mirror US",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d4a478326436"
-    },
-    {
-      "title": "McCuskey joins fellow AG’s to combat drone use to smuggle prison contraband - wvmetronews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXRNQUV6OXY0eHJHNHpjeVkwU2ZkN2pwaGRScmVUczV1LTRFUUJRemtBNnRxdk9SQzB2YU1UNXZTZnZ5VFU2aHp6YkFjNWgwVDZBeDRnYXJ3NEJFSmVzYmNvY2ozeXM1WVZlaUpseE9tMWRIa3VXcFJqR3lkX1puZzVvam1CdllVZ0xQSzc1VUFIR3ZtbzFEOWpyVXFORnpqSE9EWTdyd01fWjFkQ2F4Sw?oc=5",
-      "source": "wvmetronews.com",
-      "date": "2026-04-03T16:51:47+00:00",
-      "description": "McCuskey joins fellow AG’s to combat drone use to smuggle prison contraband  wvmetronews.com",
-      "query": "drone prison",
-      "detected_at": "2026-04-04T04:38:07.137478+00:00",
-      "location": "at drone use to smuggle prison",
-      "category": "smuggling",
-      "id": "960fb800fa0e"
-    },
-    {
-      "title": "7 Accused of Using Drones to Smuggle Drugs, Cell Phones into Texas Prison - National Today",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVc1T04yYjFKSUdieDgtTklBUXJWSExyMEhkVEZWTFdYdExhZlhvQTVIQlJSZDVZRXRGOVVQck1uc1c3N2FEQTNQXzZ2SlB4eUN4OTItVWZLaFlXb0xFaHd6WkhONVAwOThmX2ZRODBTVGVYVEhBaVBVTVQtdnp0RnpoV25CMDRSTDk0clVXOXFaMU5VSVF5RjFpS3NIRHI5NE9yNngza2FUNTN6TU5leTdLU1JwUDRZR1dQTVFURmtzUWowdGFTVg?oc=5",
-      "source": "National Today",
-      "date": "2026-04-03T16:50:26+00:00",
-      "description": "7 Accused of Using Drones to Smuggle Drugs, Cell Phones into Texas Prison  National Today",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-04T04:38:06.503333+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9b4315028e7b"
-    },
-    {
-      "title": "Hill Air Force Base commander: Keep rogue drones out of our airspace - deseret.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DSG5WbkhMdGVXaE1kTG9BY3NBby1CN1RGcjVsOXVIUWpvNmI2TVA3bmRvSWM2QTNTaXFldzNTSUVIVUpaZEgwUFljaGg1Q3B5Z2NYN3NlMUh2SjZxTWxKTTNqanJOZw?oc=5",
-      "source": "deseret.com",
-      "date": "2026-04-03T21:57:55+00:00",
-      "description": "Hill Air Force Base commander: Keep rogue drones out of our airspace  deseret.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-04T00:32:36.462038+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c89d5f3c9aa4"
-    },
-    {
-      "title": "Finland Shoots Down Drones: Firing Toward Russia is Prohibited - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkMHVEMERmLVo2bW9KeU1CTTV3cTBnV2ktRk5Cb2hSMmpNeHBsX2tDZy13TXdjbVFtVThmUGg0dy15TFZGY3hKb3NMeE1WMEpMQVVZdjllNF9OTDBxbm5NWTRtdjZnWTRNN2hSX1h1bWQzenc3ak5EOUN0bw?oc=5",
-      "source": "Мілітарний",
-      "date": "2026-04-03T17:18:42+00:00",
-      "description": "Finland Shoots Down Drones: Firing Toward Russia is Prohibited  Мілітарний",
-      "query": "drone crash",
-      "detected_at": "2026-04-04T00:32:34.256585+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "09758e6bd5d1"
-    },
-    {
-      "title": "Officials responding to crashed drone near Indian Springs, sources say - ktnv.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVTBGNHl0bXIyU3NjSGRtX0xfNjlNWEpfWi0wREdDYk5BODJoT1B3RGJGZENPMklOZU1ZbEQySDc2dWpHVWVWYlFSQkJwVGJOVGpvRTdlWnFySWdySEI0c0g4cjVjcjFhMTZfdE9jWFVuVFVQVmlMNVA0U3loeVN3bUtNbS1ScEt0amM0?oc=5",
-      "source": "ktnv.com",
-      "date": "2026-04-03T18:00:45+00:00",
-      "description": "Officials responding to crashed drone near Indian Springs, sources say  ktnv.com",
-      "query": "drone crash",
-      "detected_at": "2026-04-04T00:32:34.256585+00:00",
-      "location": "near Indian Springs",
-      "category": "crash",
-      "id": "eac475c2448d"
-    },
-    {
-      "title": "Ala AG Urges Action As Prison Drone Smuggling Rises - wiregrassdailynews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFB2am96VVFwUmt1SnBBR2RheWg4c0ZkeUd6N2JPWnJxR180a2JMOC1qNUk3dUlhdjJkdnpyZUlRTHpHaWNMMFl3bWRUWnJ0aThvb0FQVFg3TXJYZnNhSVF5MHUtMEZKbHRyWGFaMkphMW1WSTVldVVJdGs0VHEyOTZRUEtfdFQzNVBHMXpqRXNwQVpJSTctM3VQYXdtTzR4ZEt5STZ0M1pMN1dR?oc=5",
-      "source": "wiregrassdailynews.com",
-      "date": "2026-04-02T15:01:07+00:00",
-      "description": "Ala AG Urges Action As Prison Drone Smuggling Rises  wiregrassdailynews.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-04T00:32:32.684186+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "bd0e0d9834c5"
-    },
-    {
-      "title": "Mich. Sheriff’s Drone First Responder Pilot Program Leads to Arrest on First Day - officer.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFpjQ2JUTnBBUU1JT1RPSGpVWnNvdTQ4VExLb3RQNUU0T3VyLXZUZ3dVTXpzWjFzangxRm9wNUNXdmpnMVNmY3l0a0NlbElDTlFJN2dHWlduWXdIMU9MUjd2U0dYNFJFRmFHME03S1Nrd2hBOVljSlZBMlRZN0JHQkplVzRpNGVTRC1EaTB3YUx0aV9QMHhnSFJpMDNHS0wxNkpjTEFwOFc1M0NNd3RJMnhsLThGTDVqNFhLX3Rzdk8tdi1RMHBwZDJ5RlZSNGZiNUhzREFDcVI1OFRUbk5oOTFR?oc=5",
-      "source": "officer.com",
-      "date": "2026-04-03T23:37:00+00:00",
-      "description": "Mich. Sheriff’s Drone First Responder Pilot Program Leads to Arrest on First Day  officer.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-04T00:32:32.174862+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "da321ebb2eee"
     }
   ],
-  "last_updated": "2026-04-29T17:34:28.655324+00:00",
+  "last_updated": "2026-04-29T18:34:39.256372+00:00",
   "total_count": 1000
 }
