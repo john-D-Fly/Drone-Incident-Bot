@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Defense Ministry contractor killed in Hezbollah drone strike in Southern Lebanon - JNS.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZV9GYzV2dUFLTHhfMnppNTN5N3ZBemd2X1dHR1hCanFLaEUzaUx4cnRkT0dHWmQ0dTU5SXpXN3RsellvZWlsbDczanZPREVqY2h0eFZYcEd3NGxURm1GenJDZ3FKX0dmclJFUDBQMHlVQ3dzRkd4SGdaSkFibF9YN0lnbmpjSXQ4Zjh0bFJRLXRjMlZPdnpWLTJZaFBISHdTbEhzSFkyeFZYZWdQQkJaUENQTjdhT1NS?oc=5",
+      "source": "JNS.org",
+      "date": "2026-04-29T10:06:10+00:00",
+      "description": "Defense Ministry contractor killed in Hezbollah drone strike in Southern Lebanon  JNS.org",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-29T23:22:11.238712+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "61814046a4ac"
+    },
+    {
+      "title": "Pilots of United UA1980 reported a possible drone strike at 3,000ft prior landing at SAN Airport - airlive",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU08xY2xjdk9zWWtqbHBvX1Z5bGVRU05Yd0tiTkJlZDVyLUZsSjFXVzdsNFlaTUhyNE9JZmw3MlA2NHlIenZ2blVKeGVyVlF0UHZadm83ZDhJU1g5UEF1cFBrYTJTdWRtNjJROHUtdkpmSzZrU2RuVjcxbGt0VVdpOWNwS3JSY2VXUUVaenhOenRUSHJCRTNwUVFKQUFKbmlvZzBaZW1keHVDTG83ZTYzTFdPUVdFeGhqTXdTbXdldTJqTGZreEhBMU9jRXFPUU1UQ1E?oc=5",
+      "source": "airlive",
+      "date": "2026-04-29T22:48:14+00:00",
+      "description": "Pilots of United UA1980 reported a possible drone strike at 3,000ft prior landing at SAN Airport  airlive",
+      "query": "drone incident",
+      "detected_at": "2026-04-29T23:22:06.824353+00:00",
+      "location": "at SAN Airport",
+      "category": "airport",
+      "id": "27c6f1ce46a3"
+    },
+    {
       "title": "Man caught flying drone over primary school to follow children avoids jail | ITV News - ITVX",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdGV2F4ZXR2MVNyOUx3V1JGY0xwWlo5cEhBVlhZQ3BnWE1vNUJWTlhJTkRsM2NERVVEdE5rb3RtZFo5UUFLYmZPN2xIY2hlQlgzQnBQekpSRTd5dmVnWWs1NkdhZFFPT3JyM0l5VnBTRG5EcGtpRjRYVlBOQlZjY1o2eE9kZEhkZkRJMU0tRngyZ2t1ZEF0aG1pUGY0M2hGamJfVXJhdFZUNzBHUXFvMlBneU9lVjFuTzdR?oc=5",
       "source": "ITVX",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "6e7373a0cf93"
-    },
-    {
-      "title": "7 Accused in Drone-Aided Prison Smuggling Scheme - National Today",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVc1T04yYjFKSUdieDgtTklBUXJWSExyMEhkVEZWTFdYdExhZlhvQTVIQlJSZDVZRXRGOVVQck1uc1c3N2FEQTNQXzZ2SlB4eUN4OTItVWZLaFlXb0xFaHd6WkhONVAwOThmX2ZRODBTVGVYVEhBaVBVTVQtdnp0RnpoV25CMDRSTDk0clVXOXFaMU5VSVF5RjFpS3NIRHI5NE9yNngza2FUNTN6TU5leTdLU1JwUDRZR1dQTVFURmtzUWowdGFTVg?oc=5",
-      "source": "National Today",
-      "date": "2026-04-03T16:50:27+00:00",
-      "description": "7 Accused in Drone-Aided Prison Smuggling Scheme  National Today",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-04T18:12:07.563190+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "cff5f7ed6fae"
-    },
-    {
-      "title": "A drone crashes in UP village, Akhilesh says ‘people thought a stray missile', lambasts BJP govt | India News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT1ZSdldRU0Rtc0tiUHRQaXNfNWFPWkMtZzEwd2dPb0t5YXhPUzFNQS1fMWd0TUM0Uk13UHNVd3hqV3lyZkNtQmRKc1dLNlV3dnBZYTl4eEpkRWpXODAtNjR2OUsxMTFkVUphajlwanVQNFgtSEdKVEJtMlVkSkxra0U5SHc2VGJlQWgwbVBtRWhuNkJ0c2xfLUdGVkVfQ3JNZzlwVnkzX0JJWlFwbWw4RkxGWTB0Z1pSbTFvV0o0em52TW05MEFWS1p4aVpEcGR6X3I4NHN3Z2hWVnFZSXhUd3VZaHRVdFBfbklz0gHwAUFVX3lxTE1MdktjbU82SWV6TjNQeDlaVTNiVGRIR3FRd1A1UndveUdwMmRQdC1NVVZDTjltZzJKLUY5T1BmaVRTZmFYeE9UalkyLWZuRXRuM2xYMjA5S3VCdEo1NHh3bXNzTWlQSVRkQjMzQXAwcjFxaUppS24xMTc2bEczd1lZeWYzTHI4cVJrR3JjbGZFVnhuc2dONjZ6YlFFZWVNQnlJYUhHcjB1emFuT29xUUNkMkxmWGx4OHVPMHRNUklyQUgxNVBGaU02QnpUVS1qWGdFVWNMV0dtQXFnTTFVZEM2Rk5TbG9YVXRodkU5ZjRXdA?oc=5",
-      "source": "Hindustan Times",
-      "date": "2026-04-04T13:24:50+00:00",
-      "description": "A drone crashes in UP village, Akhilesh says ‘people thought a stray missile', lambasts BJP govt | India News  Hindustan Times",
-      "query": "drone crash",
-      "detected_at": "2026-04-04T17:11:01.380916+00:00",
-      "location": "in UP village, Ak",
-      "category": "crash",
-      "id": "05025ae2f9c3"
     }
   ],
-  "last_updated": "2026-04-29T22:22:27.865172+00:00",
+  "last_updated": "2026-04-29T23:22:12.302417+00:00",
   "total_count": 1000
 }
