@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Possible drone incident over San Diego sparks FAA investigation - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4aGNQZVNmaE9oaDFCVnVDVklnSEVNLXVJNDllNl9oZjdvaG91SWZ5ZE1hMURlM3Uxd3EwSEFwS3ZKT2tnRk9keGZfQWVybllrTmY1ZzhB?oc=5",
+      "source": "Fox News",
+      "date": "2026-04-30T11:35:43+00:00",
+      "description": "Possible drone incident over San Diego sparks FAA investigation  Fox News",
+      "query": "drone incident",
+      "detected_at": "2026-04-30T12:37:06.092110+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5f273f759962"
+    },
+    {
       "title": "Teledyne FLIR OEM Launches Prism Counter-UAS Software for Extended Drone Threat Detection - uasweekly.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXM2bDZ4djhleTQ5a2hnejQ5UXIxY1FLUFNWQ281Q3RxUVFNTUI0NVR2UEhQYnNUTFJyRmNjeTAxQ280ejRNM2tWRHdmNGtrQ2huc292dndrRFFhei1laGhlRGExMkI3WXlmQm0wOE1kUGk4VFpCQWRlTmp0azlPMTlKVVc5WHZWR29xZGFkTzhtdkpIUVhoYkF1TXdTcFFQbGNBVFV5MGhZRGhXOTNkS21ldmVnbWR4aDI3bERrUzk?oc=5",
       "source": "uasweekly.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "f49bc6cc0862"
-    },
-    {
-      "title": "Beaverton man arrested after police chase ends with crash, drone search - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVlHYWVZQjRUQ05jc0RIam1Jb015OTZRWG10cUtNaHdxdlltRTVKTXhtS0xNczZuX2RxUDdFMjAyUkRDdkJGNG9GQW5SRmpscFZLVzJORVpmM1VOeDV2NlBMNVFFTmpqR0wwVmNsUzUzZFBFc0g4UUQyOHlqcXhMSnRsY3BqLS1IdzZjZHBXTlBacGNwbmduUm1XRGpjV1ZUSDl1VzNjdHlzQnlPN2prU1Fn?oc=5",
-      "source": "fox10tv.com",
-      "date": "2026-04-05T05:16:00+00:00",
-      "description": "Beaverton man arrested after police chase ends with crash, drone search  fox10tv.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-05T11:11:13.638778+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f6b48924225b"
     }
   ],
-  "last_updated": "2026-04-30T11:33:46.470420+00:00",
+  "last_updated": "2026-04-30T12:37:11.290514+00:00",
   "total_count": 1000
 }
