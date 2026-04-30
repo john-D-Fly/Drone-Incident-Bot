@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian UAV Crashes in Kazakhstan Near Russia Border - Военное дело",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmVESzU3aTdFeWxSVVFzLUJKQ2dOX2RoTkJ4V0xiV0MyZFF5dWJ4UHpGM2hWZ0U5QXN6Y3dyVkVOQWZfeFFpM2d5NHNCQUc4YmpkRHhJQ3FFckVNX1VIWnZlajZDVUtTc2pIQnA5NmNiMmV6MFZFc0RyNkVOYmZRNWpjVHNsX0V0eUROcjZQT2MzY2hzSHhYYUotNNIBnwFBVV95cUxQWGhsSEpQYk1tSHZiNjBTQjRBMXRuczdpSUFzNDFFN25KbHJiRFl0STNvXzY1eFJXNTk5YXgzd1BiMTdoSzd1ZVBOandORFNzQlRuUkVPMU9ZMFdrX2h5NmlkQXVsRGtnd1pHZjRhUkdjM3ZrRUlKWkdIUXlaRm1xcnZyY3RoY01MU2ZnQ0F0N3N5blZsaVFkMEk1cVd1RlU?oc=5",
+      "source": "Военное дело",
+      "date": "2026-04-29T19:02:02+00:00",
+      "description": "Ukrainian UAV Crashes in Kazakhstan Near Russia Border  Военное дело",
+      "query": "drone crash",
+      "detected_at": "2026-04-30T01:38:46.888719+00:00",
+      "location": "Near Russia Border",
+      "category": "crash",
+      "id": "eaf7d096ab5b"
+    },
+    {
       "title": "United Airlines flight reports drone on approach to San Diego International Airport - NBC 7 San Diego",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeEJkVm8zQXVlZ1FjRzhhS0VTYmdZQWlKeEpDR3RkV0hqMGlPVWZrMC1lUG16ZEgtWnN3OURobEVvN2gtSS1CZHExYWZabTZ1YnRMM1JQd2hON2lFdjhlcHUtUDZFdEJHYTZRcVdFUzdDd0RTN09zcHJzTHF1YjdjTGwwMnhvaUNtdFVnQURMUld4ZDRpSmlvaXg5blNfUWZLY1RaNGdBWm1WS3I2enMzUmhVN1RfQ2VBUDJoZkFUQ1ptMTE4VktuNVpXVWFERGZEc19neXg3NNIB3wFBVV95cUxPdkpmczFQU2xaYTZDT2NwN1VLWFdmRnhmVVZ6dFdfVGtrM05qQXNtWEt0QTZZWk5yM1o3RnNONWxDZkZoQk53YmtucW1QY3RZQVFKaFNMb2xrQk4wbkhtWm5NUE1rSldEbGJyYldaNVR1d1YxU3UzV3hyTU1PXzZ5Y0tHZkxTUGVSTVFockZ3RjBsOFQ0MWJzQTBZOXgxSEVteUY4Q0xSMk1NQVVTVFF1WWtTWmdPaUJaUG9ocTNDWDdqWkZUOUJ5clJvSzNGRFUzajZ4akp0ZEE3b0h6ME1z?oc=5",
       "source": "NBC 7 San Diego",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "1cf0411e5068"
-    },
-    {
-      "title": "Persistent Threat of Drone-Enabled Lone Actor Terrorism - jamestown.org",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGVhVGNBRXNVN2h6NDlScno0aDRWaW5wRlBCdlZmcEtKM0wxX0k2d29TUjhVNWJ4RVV2UWgwelEtaHFMT0xJY256N0JfLWxFcm1HZUlJcGVJTE5mV29SS1dUbFhseVNUX3JmZnlTaGxNT0RDUElidmxhWkUyOS1JZ01oMHQ?oc=5",
-      "source": "jamestown.org",
-      "date": "2026-04-03T19:00:01+00:00",
-      "description": "Persistent Threat of Drone-Enabled Lone Actor Terrorism  jamestown.org",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-04T18:12:10.827820+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "5efc1511cd7a"
     }
   ],
-  "last_updated": "2026-04-30T00:45:53.164550+00:00",
+  "last_updated": "2026-04-30T01:38:49.623937+00:00",
   "total_count": 1000
 }
