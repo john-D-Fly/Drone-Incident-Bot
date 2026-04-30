@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "United Airlines Pilot Reports Possible Drone Hit Near San Diego International Airport - NTD News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0JocVFzMHV5TEk1Qk5OeUw5OTBDelJ6dm56a0R4UERvTGVFOFVLaGhuSlVzZ0xJdDRTVG1qUmROOU9pS0FDWlVsaU9VTjVhdktEaWdVcHcxWVhYWHlhWUgyMVZrVHlmcjNadmlwVGlaZkZNMHdxS21XQTNuSkxKd3ZYSm1YZUc1d0gtNWdjbllLMnVIWS1XSlV6cktXOEFuamhHeFU2TEhPUTlacmZQdWZrZVBLX0YzVXc?oc=5",
+      "source": "NTD News",
+      "date": "2026-04-30T06:57:56+00:00",
+      "description": "United Airlines Pilot Reports Possible Drone Hit Near San Diego International Airport  NTD News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-04-30T07:50:51.046934+00:00",
+      "location": "Near San Diego International Airport",
+      "category": "airport",
+      "id": "5a4a410a75ce"
+    },
+    {
+      "title": "United flight from San Francisco to San Diego reports close call with drone just before landing - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEtJNE1sYVNWb09EUW9rMnJCVHExMzJ1RzNrZTY4Y3pmQ0ZKUFlNMDNTMUdsUnpielhETmExZVY1UXN1dXJIdFVaWElqWHd3d1F4c1l2OHhyYW8zZ2F1T0ZRYzhvakR3MF9DQUNKMW4xS2tHcXJOMXRfMHhxLU96OS1tenNDQWZVRmlUaXJuNTJLQ3E4azZidjJDNllnSGdkdC1DQ0FzVGtmUmlJRzBR?oc=5",
+      "source": "CBS News",
+      "date": "2026-04-29T20:02:00+00:00",
+      "description": "United flight from San Francisco to San Diego reports close call with drone just before landing  CBS News",
+      "query": "drone crash",
+      "detected_at": "2026-04-30T07:50:48.621555+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bc6ba76afdde"
+    },
+    {
+      "title": "Travel Safety Warning as United Airlines Flight Encounters Drone Near San Diego, FAA Probes Incident That Highlights Rising Threat to Security and Commercial Passengers’ Safety in Busy Airspace - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWVoxTlhGdEtzRkpUM1hfNDExRXZETVpnTDFfSWd6YmFxWkdYQmJxNE1Pa3U4RVNOaDRhWWpJV01JdS16WFBaNjdpMEpYSjdrTTR6NkxnZno3c0JmZEM0UXh2eElZMXlJeVdGd0ctS3VTTmFXUl9XSDBWcGI5UGNZa0ptTVkxbjhRaThhRk9sUDhSV1QzSVppQW9IUng1OFJCMTZETnQzaklEX0RsaVNkN3B0TWEtamVIaHQ2cXlHYUhVRlhmcVRrMHBsQkF5RHh4UEgwb212WDkwT3lxNjZZU1RGblA1eGpCREV0cXFzM0Q2bmFXZHZGOWg0d3hNMUJUS3A1ZnlWMTFCN2xXazZOaUliWF9JNk8zYks5OHROb0tQZVpfdUVicFdsamtSZjVfT3FyckcwX1lMY2ZJWGpmdWY3aDQ5TlRRYUYxUURPLUhxSl9velpJdnBZdjE?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2026-04-30T07:22:03+00:00",
+      "description": "Travel Safety Warning as United Airlines Flight Encounters Drone Near San Diego, FAA Probes Incident That Highlights Rising Threat to Security and Commercial Passengers’ Safety in Busy Airspace  Travel And Tour World",
+      "query": "drone incident",
+      "detected_at": "2026-04-30T07:50:45.649684+00:00",
+      "location": "Near San Diego",
+      "category": "airport",
+      "id": "f9d12a6b94f9"
+    },
+    {
       "title": "Hezbollah drone hits northern Israel - Breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMml4SXBzTFZqSjJiN1IxZC1KX0htNGhNckRJUV80M2VPakVlMEJYVDJzejkxZzgzeDFaYmZlMkxjOFNzX2NONTBmS1NDekNZbVBWcHdiOGZTSk40Z1VLM2xhQVBuTmtETVZBcVBPLU9pX3dLNlU5TDRvUmFWbk5NZVNCd2lGd2k1?oc=5",
       "source": "Breakingthenews.net",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "8a18ec80616d"
-    },
-    {
-      "title": "Beaverton man arrested after police chase ends with crash, drone search - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0YzeTVheThKX0Z1QmI0TXVkSWxxLWNrM3VweEFDVWdNRmVDZS1Lb0ZTNThncFc4b0VxR3ZBaTZDMEk5Z2I3VzkwVEkzSVY4d3VYSnYxZE11MVhqd2VtWlAtVzB6THdnX3ZKaW9lLXZLSWRiWDlka1VYSHYxNXVtX2M1aHdSOVM3WjBxcm0yeHk0M1h0akVxNFhkRUJOaXNrY29VR1pRV1A0MEJPc0o2QnZqNA?oc=5",
-      "source": "fox8live.com",
-      "date": "2026-04-05T05:16:00+00:00",
-      "description": "Beaverton man arrested after police chase ends with crash, drone search  fox8live.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-05T06:30:13.944269+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a0e35e0973aa"
-    },
-    {
-      "title": "WATCH: Drone video shows area officers arrest registered sex offender - WHIO TV",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkR2QzdkSFNUMmpWX3hVY1gwYmNwczBQa1VyVnU2ZDdBd0ZLY0Zma2Fwd0lyTzVHODFYNk5IZHl5OXl2RHNBckhrTDA2ZXcwejVyc3E5QmVfSUxVWU9DTkZxNF82RjdacHFaQWMwYU16ZWo0RGw3ZzdzMms4NFpnMjc1bnE5d0FCNk1fQXpicnZJZFpvcFFQeXdhbWR5WkVLQkMtVGE3Y2QyNllUOVNaZkJvSWNMdV9aMUhFSk5ESzJXZkE5czdzNU9nV20?oc=5",
-      "source": "WHIO TV",
-      "date": "2026-04-05T02:27:16+00:00",
-      "description": "WATCH: Drone video shows area officers arrest registered sex offender  WHIO TV",
-      "query": "drone arrest",
-      "detected_at": "2026-04-05T06:30:13.944269+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e2b6b9a71737"
-    },
-    {
-      "title": "Beaverton man arrested after police chase ends with crash, drone search - wctv.tv",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZaZEd4Umx5YzcwaFRLb2N3RXpGdEdETlQ0TEVUOEg3VDdqM0JPMXlVRXQxQjg2dzd2MV9EZUhaUU9xaFhoWFZtemJ0X2hlVUgwUUhMWUhiVFVES2RabzMyMDBPSHhWMlJ0U2NKalZuSHdGNnQtUU9QTUhzZXBEbEFzLWMyTDNUVXNQS1V6MVBDVGdrZ3hjaTNaMDlxTTgtbGZzTUFXaS13TE1x?oc=5",
-      "source": "wctv.tv",
-      "date": "2026-04-05T05:16:00+00:00",
-      "description": "Beaverton man arrested after police chase ends with crash, drone search  wctv.tv",
-      "query": "drone arrest",
-      "detected_at": "2026-04-05T06:30:13.944269+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "59ddb0156a52"
     }
   ],
-  "last_updated": "2026-04-30T06:57:07.416674+00:00",
+  "last_updated": "2026-04-30T07:50:51.576948+00:00",
   "total_count": 1000
 }
