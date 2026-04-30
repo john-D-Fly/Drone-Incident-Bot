@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "12 soldiers injured by Hezbollah drone in northern Israel; IDF strikes in Lebanon - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOF9SU3dCZXFIc3NtakV0Uzg5MnFhNVJiaWJjU2hDbEFENXZ3QUxkYl9YeUFvVjRUT1NxeEhCUkkxQkZ6eFJTZmdCbTY1Qm1HTGNxMG9wVFNvY1dwQjR1VmtrMU5nZDZEeWNjUE1malFLaHZwM3FvRTVXajExTzBuZUg5Tl93RW5JcE94MjZzTGNPaUdhQVZUbEV1d0UyT1htTnhvcTBRZ1hFTUg4NmhVctIBtgFBVV95cUxQZ0V0Mk1kYnZpbG5sR0FQN2hMUUZqYV9uNFpwUGlrMGhIMFRMalUwRFdrc284ank1cG9qV0lHbWZMU1FnazZTYkx2aFBDM0dpSU5MUTRLbUFVWnlFbjZpbFJsT3d2a2tLMktFYUpLSl9YUDdEMzJZVWQxTkJyd1FKQ1cxQzVObW1wNXJ1S0w1SUlhbF9vS1hHV0F6cG05bEZPY2EzZVdsVDlTd2JoSGVNOHlWdUluQQ?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-04-30T13:18:45+00:00",
+      "description": "12 soldiers injured by Hezbollah drone in northern Israel; IDF strikes in Lebanon  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-04-30T13:37:30.457169+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b341bce87790"
+    },
+    {
+      "title": "Commercial pilot says plane hit by drone over US airport - VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNekdLWVhmcmxzdjFlTFJzQzFMUlIzZC1ZelR2QU1aWWVWV0RkRk9yb3phVF9faE1LMnRQS1UtUnVxU0t6M3lIbFNBSk5peWtncmdPY05ZbU10U1dLM0VENlBtVEdTYW5FZW1pQjZqOWx4UWtGNFpTSHZrRWZ1bTJ3WGtyQk5wVmlidkVIaF8zdW5UQlJjMjdrcWU1Z3lpa1BjUEUzcDRtQQ?oc=5",
+      "source": "VnExpress International",
+      "date": "2026-04-30T12:45:23+00:00",
+      "description": "Commercial pilot says plane hit by drone over US airport  VnExpress International",
+      "query": "drone incident",
+      "detected_at": "2026-04-30T13:37:25.544041+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "7f5b4eda197b"
+    },
+    {
       "title": "Possible drone incident over San Diego sparks FAA investigation - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4aGNQZVNmaE9oaDFCVnVDVklnSEVNLXVJNDllNl9oZjdvaG91SWZ5ZE1hMURlM3Uxd3EwSEFwS3ZKT2tnRk9keGZfQWVybllrTmY1ZzhB?oc=5",
       "source": "Fox News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "b8e8afc99331"
-    },
-    {
-      "title": "Unmanned military drone involved in ‘mishap’ outside Las Vegas – KLAS - KLAS 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHM2SEt3YTlIMG4xTkV3by1GRFB5ZHUxS3I1NWxiZVR6Ym1yOC1JZlV4S051ZGIyNm1HdThWdWJEaHlVS3ZxZTRXbHZPbm9aTTBJbHd0OGhTSFRSdm54bDloTEFhTF9pdk1OWGNjOUQxLVg5WGRQV0VTMHR4RG5YWmlJZXRhVzQ1N3V3ZU5xc0k1cDRzcjlGM0VRWi1mdlYwN0pz?oc=5",
-      "source": "KLAS 8 News Now",
-      "date": "2026-04-03T23:26:17+00:00",
-      "description": "Unmanned military drone involved in ‘mishap’ outside Las Vegas – KLAS  KLAS 8 News Now",
-      "query": "drone crash",
-      "detected_at": "2026-04-05T11:11:16.491399+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "301bb1a4490d"
-    },
-    {
-      "title": "WATCH: Drone video shows area officers arrest registered sex offender - WHIO TV",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTk16MWk1MC1LOFhialpYRFMzWTVVQlBQV2xMdXQ2NmliNEtocXJGQURwOElhY3BiY1NzdkdMaG1lLUJpNDNfVmhvWE5XZWhXWFRvWlZzbVlPa3ZIMjZBTVQxdTNmNWl6cThkMElxbHhoR1VIaDRuaVQxNHdjYUllNGo1MDZDU2ZXQlBrczdrVGRXaWxPVHNabi1KQ3M4MDJOenMyeldsODc0OGRHMFRjX0plYUowZFFURGxLU3JQZUpzaGxXUER30gHbAUFVX3lxTE1HaFlOdk9YeUg3MmNlR21BVjhJcGMzOHBtSDd6aXpIZ3ZqSlpnSlZmSzBTd25tR2hlcmYxRzZ0LUpQNl9ralBvaHN3LVZKR0RQTDJ0Nk1sS0F5YXNsUF9UVFc5d04wcmM0d1NwQnh5c1RneUdrajlxckVZRGRhWVFPYWVkSXJGTEczWWNzUTdXbzNDLVpaTk5zOU9yZHVDRmROalFuZXN6bjVxWFZqNEZ3UFZRUzNKLVhpel81c2ZkZFhpdU1MeUpXTUxRclBIeXR4T0lsVjZGOHkzWQ?oc=5",
-      "source": "WHIO TV",
-      "date": "2026-04-05T01:43:00+00:00",
-      "description": "WATCH: Drone video shows area officers arrest registered sex offender  WHIO TV",
-      "query": "drone arrest",
-      "detected_at": "2026-04-05T11:11:13.638778+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f49bc6cc0862"
     }
   ],
-  "last_updated": "2026-04-30T12:37:11.290514+00:00",
+  "last_updated": "2026-04-30T13:37:31.651517+00:00",
   "total_count": 1000
 }
