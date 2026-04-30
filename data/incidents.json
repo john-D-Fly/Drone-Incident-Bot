@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "United Airlines flight reports drone on approach to San Diego International Airport - NBC 7 San Diego",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeEJkVm8zQXVlZ1FjRzhhS0VTYmdZQWlKeEpDR3RkV0hqMGlPVWZrMC1lUG16ZEgtWnN3OURobEVvN2gtSS1CZHExYWZabTZ1YnRMM1JQd2hON2lFdjhlcHUtUDZFdEJHYTZRcVdFUzdDd0RTN09zcHJzTHF1YjdjTGwwMnhvaUNtdFVnQURMUld4ZDRpSmlvaXg5blNfUWZLY1RaNGdBWm1WS3I2enMzUmhVN1RfQ2VBUDJoZkFUQ1ptMTE4VktuNVpXVWFERGZEc19neXg3NNIB3wFBVV95cUxPdkpmczFQU2xaYTZDT2NwN1VLWFdmRnhmVVZ6dFdfVGtrM05qQXNtWEt0QTZZWk5yM1o3RnNONWxDZkZoQk53YmtucW1QY3RZQVFKaFNMb2xrQk4wbkhtWm5NUE1rSldEbGJyYldaNVR1d1YxU3UzV3hyTU1PXzZ5Y0tHZkxTUGVSTVFockZ3RjBsOFQ0MWJzQTBZOXgxSEVteUY4Q0xSMk1NQVVTVFF1WWtTWmdPaUJaUG9ocTNDWDdqWkZUOUJ5clJvSzNGRFUzajZ4akp0ZEE3b0h6ME1z?oc=5",
+      "source": "NBC 7 San Diego",
+      "date": "2026-04-29T17:51:56+00:00",
+      "description": "United Airlines flight reports drone on approach to San Diego International Airport  NBC 7 San Diego",
+      "query": "drone incident",
+      "detected_at": "2026-04-30T00:45:47.387852+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "b5d2aa3541f5"
+    },
+    {
       "title": "Defense Ministry contractor killed in Hezbollah drone strike in Southern Lebanon - JNS.org",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZV9GYzV2dUFLTHhfMnppNTN5N3ZBemd2X1dHR1hCanFLaEUzaUx4cnRkT0dHWmQ0dTU5SXpXN3RsellvZWlsbDczanZPREVqY2h0eFZYcEd3NGxURm1GenJDZ3FKX0dmclJFUDBQMHlVQ3dzRkd4SGdaSkFibF9YN0lnbmpjSXQ4Zjh0bFJRLXRjMlZPdnpWLTJZaFBISHdTbEhzSFkyeFZYZWdQQkJaUENQTjdhT1NS?oc=5",
       "source": "JNS.org",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "5efc1511cd7a"
-    },
-    {
-      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - eng.lsm.lv",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
-      "source": "eng.lsm.lv",
-      "date": "2026-04-04T08:36:11+00:00",
-      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  eng.lsm.lv",
-      "query": "drone crash",
-      "detected_at": "2026-04-04T18:12:09.111111+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6e7373a0cf93"
     }
   ],
-  "last_updated": "2026-04-29T23:22:12.302417+00:00",
+  "last_updated": "2026-04-30T00:45:53.164550+00:00",
   "total_count": 1000
 }
