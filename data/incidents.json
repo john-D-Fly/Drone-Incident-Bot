@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone helps Fairfield police locate suspect in early morning CarMax parking lot incident - ABC10",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONWpwVGxpNi1UOGNGOGtBcV9ld2FBX1Fzc2tqQldPaXUyNmpOSzdUMF82MFJaYVZLNnhTdEEyTEVvd3E4eVFHQXFYYW5tSkRQTjh0dTl6UjNVUGtJYVNpX1pxWV9ucHpiZHJDWVRkcnZGRnRsUEppd3YyM1NfbkREbnpEOTBIV0U3SDhZZWt5bG1DaUxTWWJ4UEZVZExBMjJabXp1NTBQMlpZejNmRkVEdFdvSmNTY3k0SlBSYUFISXAzUlN1TkFoRndxRWx1VUp4WmU1d05IZ29kMXBpUlg3cGJGZ1RJZm1CUG5OSk04MTI1RndDMExUbWhB?oc=5",
+      "source": "ABC10",
+      "date": "2026-05-01T15:22:00+00:00",
+      "description": "Drone helps Fairfield police locate suspect in early morning CarMax parking lot incident  ABC10",
+      "query": "drone arrest",
+      "detected_at": "2026-05-01T15:24:15.025366+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3df50f1b459e"
+    },
+    {
+      "title": "Two injured, car destroyed by Hezbollah drone attack against northern Israel border town - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySDRGSU1JVlRyNmNOS1ZpY0M3OUNsb2VpT1JVVnRnTmw0VXdxOXZzX2lTdlJEWkJZeXM4Q1NodzRJZFM2aFFIMUd4ZUZuRVIyOF9WWm9aRTZraUMyMkpuc3EyV1NyZWladVJzQkhn?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-05-01T13:05:17+00:00",
+      "description": "Two injured, car destroyed by Hezbollah drone attack against northern Israel border town  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-01T15:24:14.412973+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a9849fb1af47"
+    },
+    {
       "title": "Soldier killed, 15 injured in Hezbollah drone attacks; IDF strikes in Lebanon - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOF9SU3dCZXFIc3NtakV0Uzg5MnFhNVJiaWJjU2hDbEFENXZ3QUxkYl9YeUFvVjRUT1NxeEhCUkkxQkZ6eFJTZmdCbTY1Qm1HTGNxMG9wVFNvY1dwQjR1VmtrMU5nZDZEeWNjUE1malFLaHZwM3FvRTVXajExTzBuZUg5Tl93RW5JcE94MjZzTGNPaUdhQVZUbEV1d0UyT1htTnhvcTBRZ1hFTUg4NmhVctIBtgFBVV95cUxQZ0V0Mk1kYnZpbG5sR0FQN2hMUUZqYV9uNFpwUGlrMGhIMFRMalUwRFdrc284ank1cG9qV0lHbWZMU1FnazZTYkx2aFBDM0dpSU5MUTRLbUFVWnlFbjZpbFJsT3d2a2tLMktFYUpLSl9YUDdEMzJZVWQxTkJyd1FKQ1cxQzVObW1wNXJ1S0w1SUlhbF9vS1hHV0F6cG05bEZPY2EzZVdsVDlTd2JoSGVNOHlWdUluQQ?oc=5",
       "source": "The Times of Israel",
@@ -11975,32 +11999,8 @@
       "location": "at Illegal Drone Drops at Prison",
       "category": "smuggling",
       "id": "0731aba4c03a"
-    },
-    {
-      "title": "Man arrested after police chase ends with crash, drone search in Beaverton - WBRC",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObl81cHMwVVNDMXlaV280cVk5MFlUZEhlcHhGRk9PekQwOXByaTVJVVBFSVVQcTRtT0tIMTF0Vl9kZjRLVnFXbDU1S2R5RHNuMTZRWkVERGlwM3Y5V1NaRGFHcUcwMW00T3U5b1BPcFNXR05WZ3FubVdtMHNSdFR6aEFuMXQybnNDVmNDQkR3bTFYZk9oaThrdHJsWS01ZjJOM1dwVmd6c0g5ZHlhMmc?oc=5",
-      "source": "WBRC",
-      "date": "2026-04-06T05:25:00+00:00",
-      "description": "Man arrested after police chase ends with crash, drone search in Beaverton  WBRC",
-      "query": "drone arrest",
-      "detected_at": "2026-04-06T12:21:38.671301+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "1e938b80fbab"
-    },
-    {
-      "title": "UAE responds to drone incident near du telecom building in Fujairah - middleeasteye.net",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS3hHc2l0SGZNQ2ZuMXlHRFhRY29NVnkxN1BkbURSQWk1Z2hkYjYxNlJPbno5Rmt1dGNneDgwVkRwMW5saExLdG0xUXI2aDVuQ1hvbng4TmhiVEIwc3o5QzRxTU5GN25JWkdrMTkwVUdldERYOWdBTTYzRWpKdHZnYnNtZTBtdXYydzhOOTYxcExFRXBGQ29kenllZUx5dmliSnRINERWZDlrMk01UmxINkZvbmNsU2tVWE44UElOU0xncWFOMG92U1RtbTRRWXBjazBuc3VYS21JMTA4ajl2VmI1V3lLNTBiOXFUc2ZISHlzZmNjMVJLOW93?oc=5",
-      "source": "middleeasteye.net",
-      "date": "2026-04-06T06:05:00+00:00",
-      "description": "UAE responds to drone incident near du telecom building in Fujairah  middleeasteye.net",
-      "query": "drone incident",
-      "detected_at": "2026-04-06T12:21:37.975424+00:00",
-      "location": "near du telecom building in Fujairah",
-      "category": "other",
-      "id": "dd0d6c0a28fe"
     }
   ],
-  "last_updated": "2026-05-01T14:27:49.506059+00:00",
+  "last_updated": "2026-05-01T15:24:20.185615+00:00",
   "total_count": 1000
 }
