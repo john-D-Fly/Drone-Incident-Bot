@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Hezbollah drones wound 4 troops; IDF urges civilians to leave south Lebanon town - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeVR0QUlGRU43WjViMnIteUpKc01lM2I4RGRrd2NHcjJBTU9EaGRhNExYVGVsZWFQMDExYnlwX01FMGtVUnl5d19lNUZFTmlBenkxSkhNa2pXMmFyNXVQMGxfRm5DOXZHNHV6ZDJlcXZiUHpqQWxwU19EOVZTbVlRclB2OXpIdUFOMTFZT2l6eHlhSTdacXc2YTEzNzFhZTB5dW1KaUNIYXdybUtyUHNsc0Vwb3d4Qzg4Nl9Cc1BKWXduc1lITUU2Z19sTnV2VXhkc0JIU0trWk9wcEJXRENoaVVmYjl0SXJqVktNdFJjaWc2U2RiYkHSAbQBQVVfeXFMTlZlRGpwVWt6MFVyNjBZcXhuSHEzOUFZd0w2MzNIZzR0dk1wTm1VVzhFY3hwSkhZc201QVNZWEo2aVpDYjdKT25TVklSck9ENnVuSHhpOXgyQUxZTGZLN29GcndEN1B3T2loYUFLUmVYV3lJcUlMeDlvUDRRZlZXaFZmaVFWU0tKWjRNdWsyM0hTLUQtS0syajZqaUl0ZjRlcmlJVGlMZ0Nvb0ZGcGM2c2FGSE03?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-05-01T16:12:24+00:00",
+      "description": "Hezbollah drones wound 4 troops; IDF urges civilians to leave south Lebanon town  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-01T16:24:39.774436+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "22947cb6d355"
+    },
+    {
+      "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRE9CUFRRRnZVOTBrLTdRV1FPdGZHa0huV1R5UW9DMDZwd19fX0IwYkdvbi1vc3A4MEtObDdDMFZEUGphWUgyRExaTWhOWHZSc0pCZVZRbDJPSzdQV0RZRTNZdGZXVWVDOHlHRnUxOEota094T1REbXdvZjYzSDVzZ09ZWXlpOWF5SnZITEJ3a3J6c0NkRExVeHc3cWd4QlU2ejA0cHJab20tV2dETU56YnZmc1RSNkpPUklUS0xoZjBLckQ4Q1QteTlvRkJiVkHSAdQBQVVfeXFMTUgxUU9fbUJ4TGlWZElMUWFfUXZBOFdGbllNcUY4VnhQV2hzazQ1UTZEOG55SnlreFVpMkRTRXlIdDExbURlMTF3ZXVwMTVNaFI1cTN6YWVjbU1rS1MzaHRpM295QWExN2dha0RIOXF3OGN4ZXhwZDVoSXlSbHRwTDE2VTlxX0hHejZjSm9uTHJVZzJ5cl81Y08zTnhLVmcxZUJkWjlaeHpCY2huRnZIVWZTNDVZZVdRSGttSUI1aHphd21nM1RXNFNGTThZNGFVeGYxZnQ?oc=5",
+      "source": "ABC7 Los Angeles",
+      "date": "2026-04-30T04:14:06+00:00",
+      "description": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says  ABC7 Los Angeles",
+      "query": "drone crash",
+      "detected_at": "2026-05-01T16:24:38.042453+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "08cad1455d47"
+    },
+    {
+      "title": "2 arrested in San Francisco gold chain robbery with help of drone, police say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXBURG05NUZkREJ5M29BNzhSYWZ0MW0tVU9YYkhjMEJERWhOcmtEMlNNaXZydVU1OVoydjFwd25ZdWhlRFNpM0F1WE40WjAtSkx3am1JSkZLeENMcmZIdjJzY3VkMVU1VlJUZUtQYVJiSkhEWXdTNzJXZnJLY3VBNFBUcTQ0Z21YVlR0RHBVMGlieU9mU1dUM0NsVDdNaHNPSjEtN0hRbE1WLTkxc28xekRR?oc=5",
+      "source": "CBS News",
+      "date": "2026-05-01T15:20:04+00:00",
+      "description": "2 arrested in San Francisco gold chain robbery with help of drone, police say  CBS News",
+      "query": "drone arrest",
+      "detected_at": "2026-05-01T16:24:35.416471+00:00",
+      "location": "in San Francisco gold chain robbery with help of drone, po",
+      "category": "arrest",
+      "id": "967856e51b89"
+    },
+    {
+      "title": "Two injured, car destroyed by Hezbollah drone attack against northern Israel border town - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySDRGSU1JVlRyNmNOS1ZpY0M3OUNsb2VpT1JVVnRnTmw0VXdxOXZzX2lTdlJEWkJZeXM4Q1NodzRJZFM2aFFIMUd4ZUZuRVIyOF9WWm9aRTZraUMyMkpuc3EyV1NyZWladVJzQkhn?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-05-01T13:36:54+00:00",
+      "description": "Two injured, car destroyed by Hezbollah drone attack against northern Israel border town  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-01T16:24:34.734690+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2bf47be64534"
+    },
+    {
       "title": "Drone helps Fairfield police locate suspect in early morning CarMax parking lot incident - ABC10",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONWpwVGxpNi1UOGNGOGtBcV9ld2FBX1Fzc2tqQldPaXUyNmpOSzdUMF82MFJaYVZLNnhTdEEyTEVvd3E4eVFHQXFYYW5tSkRQTjh0dTl6UjNVUGtJYVNpX1pxWV9ucHpiZHJDWVRkcnZGRnRsUEppd3YyM1NfbkREbnpEOTBIV0U3SDhZZWt5bG1DaUxTWWJ4UEZVZExBMjJabXp1NTBQMlpZejNmRkVEdFdvSmNTY3k0SlBSYUFISXAzUlN1TkFoRndxRWx1VUp4WmU1d05IZ29kMXBpUlg3cGJGZ1RJZm1CUG5OSk04MTI1RndDMExUbWhB?oc=5",
       "source": "ABC10",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f2065f59db69"
-    },
-    {
-      "title": "South Korea expresses regret over drone flights to North - News.az",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVW43akhoTFk2ZEZCdkdVQzIydGdIdUxSejJwUnBjWkRGQ0EwdU1XN2xUUXFqR19VdlV6SDBISTB4NEM5YkdEMWpMZ2NHbXpjUm51RnU4dnBPcklIRFJDMEttb3c2czUzTDZTX0w2MzZoQVd3S3drN2tGVk9tcHNqRW54VQ?oc=5",
-      "source": "News.az",
-      "date": "2026-04-06T05:35:46+00:00",
-      "description": "South Korea expresses regret over drone flights to North  News.az",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-06T12:21:42.971014+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "839c560f8dac"
-    },
-    {
-      "title": "Persistent Threat of Drone-Enabled Lone Actor Terrorism - RealClearDefense",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3lvcjN5RXhDWVBZVnYtX0FqWk05T2wxX3hERERSZmhJR1lJaGktUmxFd1Nha1pFbHVWMUdHOUxhVldtZFJHZHg4clJGeVNQVnFvcUZqZWVGVXhFUldkNExtZElQS3NyUDY3OVpwenFqM0ZMNjdXeGtEYjhncGhDeGk2X2ZpbEk0UFIwSWNSZUNtZGFmLXhucTFGdHpUd3BzM3N5WTMwUVlUSW0wa2IyRjRR?oc=5",
-      "source": "RealClearDefense",
-      "date": "2026-04-06T11:36:45+00:00",
-      "description": "Persistent Threat of Drone-Enabled Lone Actor Terrorism  RealClearDefense",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-06T12:21:42.357501+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "d008e5cfb18f"
-    },
-    {
-      "title": "Drone crashes in Iraq’s Basra province - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuVWVQcTIxYUdRVzBkMGY4c0I1UzN3cFc4S3djdlNteC12SVgyb0ZaSnU5Y0pEaGk0VXJ6UEtfNl9jZVZINmhmR3FmVmNSMDNLOGZPVEFoOXpIa3BBVnFzSEd1b1BnM2kzVGVCTG4tbU1jQXgwN0NmQg?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-04-06T11:30:13+00:00",
-      "description": "Drone crashes in Iraq’s Basra province  شفق نيوز",
-      "query": "drone crash",
-      "detected_at": "2026-04-06T12:21:40.864887+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "670a00506765"
-    },
-    {
-      "title": "West Virginia Attorney General Pushes for State, Local Authority to Combat Illegal Drone Drops at Prisons - Lootpress",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWUJRRUU5RldHbktJNmdyekZWX0pCUjFodkxxOFh6ZkI5SkRfamJ5dFExdVgwSFVDOW5KMUV2TmNjSGxreWxIVUEyTXNzeThlLUt5b3VyWHFhTk4xOUpjbzlXVHNVWUhuM0R1ZUZiYlhvR20td1RIVHUtLS1PTkNNQm1INlBxcDA3UTFYQm1yRDlvRlRQTWFBVGhaYVNXbTg2YjR0b0R1aVNnekZtbTFNa2VUdGtPZWhKd3Fwdy1sc01kaWR6MllnSlJ2RQ?oc=5",
-      "source": "Lootpress",
-      "date": "2026-04-06T12:13:07+00:00",
-      "description": "West Virginia Attorney General Pushes for State, Local Authority to Combat Illegal Drone Drops at Prisons  Lootpress",
-      "query": "drone prison",
-      "detected_at": "2026-04-06T12:21:39.822640+00:00",
-      "location": "at Illegal Drone Drops at Prison",
-      "category": "smuggling",
-      "id": "0731aba4c03a"
     }
   ],
-  "last_updated": "2026-05-01T15:24:20.185615+00:00",
+  "last_updated": "2026-05-01T16:24:41.111909+00:00",
   "total_count": 1000
 }
