@@ -1,0 +1,166 @@
+{
+  "narrative_summary": "In the last 48 hours, drone-related incidents have spanned various categories including terrorist activities, crashes, arrests, and illegal smuggling. Notably, there have been attacks linked to Hezbollah targeting Israeli military positions in southern Lebanon, resulting in injuries among IDF soldiers. Multiple reports highlighted that Ukrainian drones have struck targets deep within Russia, raising alarms regarding the ongoing conflict. On the smuggling front, several arrests were made near prisons in the U.S., indicating a trend in using drones for contraband transport. Furthermore, unauthorized drone sightings have caused disruptions at significant airports, emphasizing the persistent safety and security challenges drones pose in aviation and public safety. Overall, the incidents reflect a complex interplay of military operations, criminal activities, and emerging drone policies across multiple regions.",
+  "totals": {
+    "category": {
+      "terrorism": 9,
+      "crash": 8,
+      "arrest": 9,
+      "smuggling": 5,
+      "airport": 6,
+      "other": 14
+    },
+    "query": {
+      "drone terrorism": 7,
+      "drone crash": 6,
+      "drone arrest": 4,
+      "drone incident": 8,
+      "drone smuggling": 5,
+      "drone illegal": 6,
+      "drone prison": 5,
+      "drone airport disruption": 3
+    },
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 21,
+      "arrest": 4,
+      "crash": 4,
+      "other": 60,
+      "security": 1,
+      "smuggling": 21,
+      "terrorism": 9
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 13,
+      "drone crash": 15,
+      "drone illegal": 9,
+      "drone incident": 26,
+      "drone prison": 7,
+      "drone smuggling": 9,
+      "drone terrorism": 31,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Hezbollah Attacks",
+      "rationale": "Multiple incidents reported involving Hezbollah drones targeting Israeli sites.",
+      "incident_ids": [
+        "12c7b2ef13d1",
+        "2b1d3a3f3f96",
+        "3c3de7713d5f",
+        "c68c2cea7ea9",
+        "b3de249a7ad1"
+      ]
+    },
+    {
+      "topic": "Drone-related Arrests near Prisons",
+      "rationale": "A pattern of arrests associated with smuggling incidents involving drones near correctional facilities.",
+      "incident_ids": [
+        "5f6f826a0c4c",
+        "6e3e9c0e3d65",
+        "f8e8c262c539",
+        "3dc519a7e8ae",
+        "b5d2aa3541f5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "393bde37605e",
+      "headline": "Ukrainian drones hit oil refineries in Russia",
+      "one_sentence": "Ukrainian drones have targeted oil refineries in Russia, escalating tensions far from the frontline.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "646fbf567840",
+      "headline": "Russian drone crash in Vinnytsia region leaves one injured",
+      "one_sentence": "A Russian drone crash in the Vinnytsia region resulted in one injury.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8c17f7660ec9",
+      "headline": "DGCA official arrested in drone import bribe case",
+      "one_sentence": "A DGCA official was arrested in connection with a bribe case involving drone imports worth Rs 2.5 lakh.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "df71adaaa8f5",
+      "headline": "Drone fell on Vinnytsia home, woman injured",
+      "one_sentence": "A woman was injured after a drone fell on her home in Vinnytsia.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "0d7bc2a24373",
+      "headline": "12 soldiers wounded as Hezbollah drone hit artillery site",
+      "one_sentence": "A Hezbollah drone attack on an artillery site in northern Israel resulted in 12 soldiers being wounded.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "58dbbad0d35a",
+      "headline": "Ukraine flexes air power, angering Russia",
+      "one_sentence": "Ukraine has been demonstrating its emerging air power, escalating tensions with Russia.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "cc8854b609a1",
+      "headline": "K-P Assembly passes bills against drone strikes",
+      "one_sentence": "The K-P Assembly has passed several bills in response to incidents involving drone strikes.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "cc2759c61021",
+      "headline": "United Airlines flight reports drone strike",
+      "one_sentence": "A United Airlines pilot reported a drone strike while approaching San Diego International Airport.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight escalating risks, including attacks in conflict zones and safety threats to commercial aviation. #DroneSafety #Terrorism",
+    "linkedin": "Recent events showcase the increasing complexity of drone-related incidents, ranging from military engagements to significant safety concerns for aviation."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-01"
+}
