@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drones guiding smugglers from across the border - MSN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0ItM1JkZ2Rwa2FZdzJTTWd5ckJ2cVM1aEV4X1JVQXpQMXVINDdld2hCaTdFZnFRa1BpZDJqbWpjTkFGUU4yN2QtdC1wd0dqcHAtVUs3UnRxckpYQmJtUUxiOEJxN1VWalJrSjhFRWRCQVlOb1N4WWpNM3F0VGJPZklVcUFuYlBJZjRhZjY1Nm51cjN5Tks4QQ?oc=5",
+      "source": "MSN",
+      "date": "2026-05-01T16:30:35+00:00",
+      "description": "Drones guiding smugglers from across the border  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-02T00:44:13.063444+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d1bc54f637a5"
+    },
+    {
       "title": "IDF says 2 soldiers lightly hurt in Hezbollah drone attack - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVlqSk14UVF1OUgxVzZpaWp0UXQ1aWdOYjVLbGRZRHl5RUxhV2pKRUxuWEZQc3Q2SjRYTzkzbVZGdVZvX3RWYnc1WlExaVFEQjBYUXFsYXFEVlhmUEZDUW5YN09IOTB2ZHN4a3lmSHptRWtmLXlkY0xLWS12RzAzYi1YRlR1QzRCcFFzRmtFWGFMcXA3eEt3WmJGbXhWcWhzR3ZZMmxpOA?oc=5",
       "source": "The Times of Israel",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7ce443c4449e"
-    },
-    {
-      "title": "North Korea welcome’s Seoul’s expression of regret over drone incursion - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmJ3MnBtZFZDWlFnOEdJYVRUZTRud3l3YkVOV3I5SVZ2XzhpU084Mmh6MnNsOE45TGxLc2k4MzdVYmdmdXRZVWlWWktja1hVaGtKZEhGRGl2THBxRkgzOXB2VkZ3WFlqZ1JoN1QzUUVHblNnd0djZTRvUDdxYWtuUnFEcGhBbEFuWXNXQTZVYUxkLU9XblVUcDFyLTVoVDJUbEdXUDl0SmEzdGozVlpDYUx1ZEpScU9zVUJQOWF6dkQ?oc=5",
-      "source": "Al Arabiya English",
-      "date": "2026-04-06T12:49:00+00:00",
-      "description": "North Korea welcome’s Seoul’s expression of regret over drone incursion  Al Arabiya English",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-06T14:23:15.956185+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3cf721671ec5"
     }
   ],
-  "last_updated": "2026-05-01T21:19:51.536028+00:00",
+  "last_updated": "2026-05-02T00:44:17.815356+00:00",
   "total_count": 1000
 }
