@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "YLE: The Prime Minister of Finland stated that \"Ukrainians will be more careful\" with drones flying into the country. - news.liga.net",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0laWmJvblI2ZnFaNWVMQlhzME1qZmRqNDByNVFiTGhTSUMxdGM3Y3A5N2xTOVVoS29MWEdxcmJDN0otb1VWYVlnTlQ0UnNZZkl2eFFmbGdIbVZmYmhVWmJLWm4xWmZLRDBmWlQweUh0QnJBc1JYSndfQ0R5VmV4T1FCcHhFcmZWaUl6bkZtUENGSk81eVhCZWp2ZkFiM0tSZTdkOWJfaUhSM3Z0VGtzenFCN2dPWnRZcUs2cTdYVmcwdlVpS0FoZU0zUjBGQUFTNzlRak1qVUdIeWd0QWNQZNIB5gFBVV95cUxOQjZyUE5RTUlTQlJ0LTBrTExTMFRsa2NKelNLaXpYdHpZYndoazJDb3Fibm9NT0Qwb095QUx1X0Zvc0lJNzRhRkRpWFN4MVU1d1JVeVVDUjBHWkdESmFJWnBuQ2pQYTNNeWJmekZxVUFfeHJkTXlGRmZjMFRTbGMtUHNDMTBFNXdpODBKNUxWM1czMnU2NTNRM21HM05DMERIYVpoQXRTTTBsMVZ5MzdOSlNHQkFwUGo1dEttSk1hMS05RThzUEZyZGhwOHVOWjJQVGltbnZiOUJDUE5KT3J0ZTFuVk9sQQ?oc=5",
+      "source": "news.liga.net",
+      "date": "2026-05-03T17:57:00+00:00",
+      "description": "YLE: The Prime Minister of Finland stated that \"Ukrainians will be more careful\" with drones flying into the country.  news.liga.net",
+      "query": "drone incident",
+      "detected_at": "2026-05-03T18:21:59.424151+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "de297db055a4"
+    },
+    {
       "title": "Ukraine drone attacks hit nuclear power plant, Baltic port - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzh6WmdGcG9IOXQwbTJiTG1Gc29VZmJGX2ctNjlSYm1STklGSnF3N2g3VHpwSXFPMVRLamoybk1tdU5BMzNWN0V4bm1wMlBoYnZmd1J4YTdIdERlWHlLYS1lOE1zcW1rWTB6WFBkaEJ3OVAyMkpQaXlQYWc3SmRxZjU3aDNBRVowOGw5aXdkM0FPckV6d19NeU1pc29Bb0lz0gGmAUFVX3lxTE0yYkVBTDVOcUpYX3hQSldUTFA2M2FqcGYtVmRFOVNyTHFsVVlvb2VlQlJrbHVxUFc3VTJTX1dnUURuZV93ek5lcWQ0eE1mZ0twQ1NQLWNuSzlqTUdfSnVlZG83RWEyQnh3TXdPc2dsdkxoM05qaVBsdGNSdGJCTmZ2VzI1b005T2FqQ3Z2WmlaZkN3MFZDb2psUlZ0YTA2VUZ4ZFVLRVE?oc=5",
       "source": "Al Jazeera",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "bf43bddb07f0"
-    },
-    {
-      "title": "Directorate General of Counter Terrorism Says Iran‑Launched Drone Strike Kills Two Civilians in Erbil - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQnFMS3FlNDV1ekd0eGlKNUc4LXhTYlF2MzRFVUJUN09UdTQtOTJDOXE1VF9ZRHV1ZlJVbkV2TTNFRkZYd3piMzJJR0E4SXYxOUtqVzVWZERtdHJ1a0I4dEtpZzM4ckRVZk9hbDJEV0ZWUUlFRG1LclQtanhpTVlNOWE3VGIxeFpPdTlBSzBqM3dBVjlvWFZWa1Nkb2xDLUdqaEVlLWN3bTg5V29jU3BHbldVVDAwN3FtdE9VcTB0V2VFa09aSVhKVWVXOXRaZUhLUVpOS2R3OHhlRS00?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-04-06T22:13:55+00:00",
-      "description": "Directorate General of Counter Terrorism Says Iran‑Launched Drone Strike Kills Two Civilians in Erbil  Kurdistan24",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-06T23:14:27.755008+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "69c5f65b66cb"
     }
   ],
-  "last_updated": "2026-05-03T17:19:18.736393+00:00",
+  "last_updated": "2026-05-03T18:22:05.775143+00:00",
   "total_count": 1000
 }
