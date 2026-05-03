@@ -1,0 +1,176 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone incidents have predominantly spanned geopolitical tensions involving attacks and smuggling. Noteworthy is the surge in drone terrorism linked to Russia and Ukraine, including attacks on oil refineries and ports. Significant arrests occurred in the UK related to protests against Israeli operations, while drones were implicated in aiding drug and weapon smuggling across various borders, especially noted between Jordan and Syria. Additionally, prison smuggling methods using drones have drawn attention, highlighting ongoing security challenges. Policies surrounding drone usage continue to emerge reflecting an increased focus on regulation due to the risks highlighted in recent incidents.",
+  "totals": {
+    "other": 14,
+    "arrest": 4,
+    "smuggling": 5,
+    "airport": 4,
+    "terrorism": 8,
+    "crash": 2,
+    "total_incidents": 42,
+    "by_category": {
+      "airport": 4,
+      "arrest": 3,
+      "crash": 1,
+      "other": 23,
+      "smuggling": 6,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 4,
+      "drone crash": 2,
+      "drone illegal": 1,
+      "drone incident": 5,
+      "drone prison": 4,
+      "drone smuggling": 3,
+      "drone terrorism": 20,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone terrorism",
+      "rationale": "Involving attacks and defenses amid ongoing geopolitical conflict.",
+      "incident_ids": [
+        "52fb10ac60e9",
+        "4f174e6a47b5",
+        "b517063c5031",
+        "f02893720021",
+        "31d6e4ab72c4",
+        "9f6d6737b6b2",
+        "bd9402c80337",
+        "99006d6b14bf"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Involves use of drones in illicit cross-border activities.",
+      "incident_ids": [
+        "4b43ce4af1df",
+        "82aa17571777",
+        "dcf754701c35",
+        "d1bc54f637a5",
+        "d0cde0ade3a3"
+      ]
+    },
+    {
+      "topic": "drone arrests",
+      "rationale": "Refers to law enforcement engagement amidst drone activities.",
+      "incident_ids": [
+        "30b885911a91",
+        "2cf948c59f18"
+      ]
+    },
+    {
+      "topic": "drone crash incidents",
+      "rationale": "Implies disruptions to normal operations caused by drone-related incidents.",
+      "incident_ids": [
+        "5b343ab75f63",
+        "60b64ea7aea9"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "52fb10ac60e9",
+      "headline": "Ukraine drone attack hits Russian Baltic port",
+      "one_sentence": "A Ukraine drone attack has targeted a Russian port, indicating ongoing hostilities.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "30b885911a91",
+      "headline": "Pro-Palestinian protesters break into Israeli-owned drone factory",
+      "one_sentence": "Pro-Palestinian protesters were arrested after breaking into a drone factory in Leicester.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f02893720021",
+      "headline": "Drone Incident Raises Concerns at Zaporizhzhia Nuclear Plant",
+      "one_sentence": "Concerns surged following a drone incident near the Zaporizhzhia nuclear plant.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "82aa17571777",
+      "headline": "Austrian and Chinese Pistols Smuggled via Drones Recovered",
+      "one_sentence": "Four youths were arrested after drones facilitated the smuggling of pistols.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4f174e6a47b5",
+      "headline": "Ukrainian Drone Strikes Hit Russia’s Primorsk Port",
+      "one_sentence": "A significant wave of Ukrainian drone strikes targeted Russia's Primorsk port.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "41d4e6fb928e",
+      "headline": "Drones are delivering contraband to inmates",
+      "one_sentence": "Drones are increasingly being utilized to smuggle contraband into prisons.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "dcf754701c35",
+      "headline": "Travelling disruption due to drones at Scandinavia airports",
+      "one_sentence": "Mystery drones have caused major travel disruptions at two Scandinavian airports.",
+      "risk_tags": [
+        "drone airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b517063c5031",
+      "headline": "Drone Strike Kills Five in Sudan Capital",
+      "one_sentence": "A drone strike in Sudan's capital resulted in five fatalities, raising alarm among rights groups.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [
+        "Sudan"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight escalating geopolitical tensions and security risks across various regions.",
+    "linkedin": "A surge in drone-related incidents over the past 48 hours showcases significant risks in smuggling, terrorism, and geopolitical conflicts."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-03"
+}
