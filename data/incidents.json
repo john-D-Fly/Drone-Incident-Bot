@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "WATCH: Colorado Springs police use drone technology to track down, arrest shoplifting suspect - KRDO",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenlBWi1zREtYbG95Vk1UX0hwemxiY1hmT0xhMGhMSXl5NTdZb21VdDQ4Q280SWRxNDd4UWZzVDFJQ3h1bENTVmczaVhKODF2bkZCem40T0hLd3RvQ2kzYkRRcHVReFlsLWdyRkdoTFJuYzJIeEhjY0F2VnFmTXQ0VS1XczFlZlh2RV9YYU9MVEVZZjgzcW9BZmtXRzYyb3l1dWdhRGJBb3UwQkpDc0tMTzRQaHI1TS1Yb2lVamMzUkxQb1k?oc=5",
+      "source": "KRDO",
+      "date": "2026-05-04T13:21:20+00:00",
+      "description": "WATCH: Colorado Springs police use drone technology to track down, arrest shoplifting suspect  KRDO",
+      "query": "drone arrest",
+      "detected_at": "2026-05-04T13:38:28.180498+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "b67287bd86db"
+    },
+    {
+      "title": "Drone crash sparks fire in eastern Burke County - WSOC TV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXEwSUc0djN2WDlncFV3OFprcU5iWHN0MHVSdGJzaWJuTXlvT0pyZ2xmWXhBNHFOSk9jU1dHcTdLWThVUEttVUR4ZTA3YUFxalVXQ3hZWEMwUjVZMXVvV2Nrd2h4enFJSFhfNHRoZzI1MkFmZWFnbDhkTWZTamdYOG9zblFOeHVZbUhPWHY3MzMwYXNmRE9INHI0Z1c5aVBpaWJFamRnQWVoZ9IBvgFBVV95cUxOcVEtZC1Rcy15ckxPbmh5allFOWdDQlBjam8tQk1yb3RXWVFCaTNkX0FCU2RyNHg0cEVzWUV1MGU0TWlxR05rcWdYNFpzVUwtaVFOYVJnc05mWVdmUklDS0xkQ3l3aFFIdWZ2U3JsMmZPOWozLWdRQ3NwQUNmTXIwUTUyNmdIU3Y4S29tNF9GYTU4VE9qM2RpXzBSaURuTHNMbHRudWVNVkhOajZsU1ozWVNpTk9sQmhJREtSbnNn?oc=5",
+      "source": "WSOC TV",
+      "date": "2026-05-04T12:30:51+00:00",
+      "description": "Drone crash sparks fire in eastern Burke County  WSOC TV",
+      "query": "drone incident",
+      "detected_at": "2026-05-04T13:38:27.629463+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3b9fe2fdd765"
+    },
+    {
       "title": "Indictment: Drone network smuggled weapons from Jordan - Israel National News",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwdkc5ekdpemgyYXN0WENJdUNxRDR6aG1WQ2k5UW1MLV9WRFpaak9OakljOW1rVXNfTlgxUXVkQ0dNeEZYOG4wOTVuSkgxdTY1eFFrUUZVUWx5aktOa0E?oc=5",
       "source": "Israel National News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ab40f9b6b6f8"
-    },
-    {
-      "title": "KRG Prime Minister Condemns Drone Strike on Peshmerga Home Near Erbil - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1k2elIyWWF4aE9OUUlzelI1UEswRlkteExYZTlIQ2ZsTFVEYjJXa0VYWEI5TmF0Y05qbm9GM2dvVEI1RktoZkVaeS1ERi1oaVh4WnoyNkRJS0puR19HWkFZdEtvX2JvWFo5ekxDQktsa0JGQkthb3EtNkg2WnJLb2dVdXBJYVlheUJSemlSUFh5ZUF1YzJ2RExIYXpjZ1JqYlA1bVBoTVR4dXZkVWZIYWZpdw?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-04-07T05:18:00+00:00",
-      "description": "KRG Prime Minister Condemns Drone Strike on Peshmerga Home Near Erbil  Kurdistan24",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-07T06:35:37.832726+00:00",
-      "location": "Near Erbil",
-      "category": "other",
-      "id": "df511e4b4d27"
-    },
-    {
-      "title": "North Korea welcomes Seoul regret over drones as 'wise' - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJ2cVZMZkFjOXZkaWV4bHRnN3pRRkRPdWNvT0FOSGZVbVpiRlctODJIR0xsbUtzQlZXLWpnWGdHdTFBTUZobGhFU1padFdRbVM2X19kbTJnOFRMWjRaZjd0YjB6SngwTnFzYmJpUk5YRnVGTUN0NVYwenB3T1ZIWUJGdUpzQXljNUJOTFhYNNIBjwFBVV95cUxQUjRRclJqN01SUnNxWWNKWktrTnM3OE1tQ0lmNEswT3pucElYbV9KTl9iOF9aMGE1cFhUdUNLcmxRMHlGQ3Z5Z0ZDRVFTNmpEQ2NOSHlHVGdtYWxPOEtzci1mZEEtazM3SGJWRUJZdkRjUHBvdGhFUF9SdUpINTdaaHpKLUNJVW5UendoQTBZaw?oc=5",
-      "source": "DW.com",
-      "date": "2026-04-06T19:28:08+00:00",
-      "description": "North Korea welcomes Seoul regret over drones as 'wise'  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-07T05:36:52.901743+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e0cc6a5ef5f6"
     }
   ],
-  "last_updated": "2026-05-04T12:39:23.759749+00:00",
+  "last_updated": "2026-05-04T13:38:33.439306+00:00",
   "total_count": 1000
 }
