@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone Crash Sparks Woods Fire in Burke County - WHKY",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fYXFvUmlHTlhmQVRYZlVXamI4NHVXendGbmF5NnRvREFWdnpnUGJaS1dxRlhoNGRBRHk3UkFXYTFEWE9tbFdTLW5FcXNYRHc3bVRSbW9PUS1oT2hsUjQ1YzFUWU9Yems5SUJfOGx4U1M?oc=5",
+      "source": "WHKY",
+      "date": "2026-05-04T11:06:10+00:00",
+      "description": "Drone Crash Sparks Woods Fire in Burke County  WHKY",
+      "query": "drone crash",
+      "detected_at": "2026-05-04T11:36:53.474829+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "899d9475932a"
+    },
+    {
+      "title": "4 Arab Israelis charged with smuggling firearms into West Bank from Jordan via drone - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbmU3amM3ckItVDBhV00wNjlpd2xfOHlWXzNHaFJUNVdibjQ0T2QxazI1OGp3WHFtc3BJcmloWlR0NzE0RG9YMk9uM0RVbTltSERwQ0NFMUVyTVNRRWRENTZxTmR4QWRiVm1naE92c3ZvZ2RRTjRqaVQyM3pYekRGOTk2ODUwYlBHM3NZU2VCUDlFR3RrTHZTOFptS0V0NFFVYk55S3gxNVFqTmNSZTBRRzd1S0NQb3F3LWVOVnV4R2hqZThsOEVGcWh3?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-05-04T11:16:13+00:00",
+      "description": "4 Arab Israelis charged with smuggling firearms into West Bank from Jordan via drone  The Times of Israel",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-04T11:36:51.913360+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "1fbdf43df3a5"
+    },
+    {
       "title": "Cheap, deadly, and hard to stop: how FPV drones are reshaping the battlefield - ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54eWhlbXdTaUE2LTZLQkVXd2t0RGxtYkllQ240QVdiNS1pNGROZWtnc3l1WlpCUy0zNkRSQUN2ZW9HeGxmd3R6WnRmVGlVbkRhOFpNRy13?oc=5",
       "source": "ynetnews",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "e0636d822f65"
-    },
-    {
-      "title": "Kezad secures Dh147m in new projects after drone incident - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFViQmRvUUVwT200UGNibDZqOTZuZ1Z1UHBTR0J4RjRzdm5hSklyZkJsc2tLMVF4VDc4N1VZX09jNjVKb2FXWWJoSWFxTDE0dWlialV3aTZ5elowRkhaTWFmdVBOOWhucXNiOXFNcXpWbUhwMU9YSnZKZ3Y4Y3d6UjJvS1dHajBueF91Z0ZQajkzeURhTzJ2MlNVc0VKdVF0NE5Sd19MQ1VUdlJNM0xZ?oc=5",
-      "source": "thenationalnews.com",
-      "date": "2026-04-06T16:35:21+00:00",
-      "description": "Kezad secures Dh147m in new projects after drone incident  thenationalnews.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-07T04:51:11.939500+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cfe1067095da"
-    },
-    {
-      "title": "ROK president expresses regret to DPRK over drone incident - news.cgtn.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sYkxOVTZJSzdnWGsxOVJsWHByRDBKZk5sQTRKVU1iVmNKYWFEbGtraUJYSzhWdGN0TlF2WUtNNkp1LWhrdEhoT2lONWdoNnJKbDRsTzNocGZfNFZtaEVtQXdwSVY0MXh2aUJDU3Fn?oc=5",
-      "source": "news.cgtn.com",
-      "date": "2026-04-06T06:59:53+00:00",
-      "description": "ROK president expresses regret to DPRK over drone incident  news.cgtn.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-07T04:51:11.939500+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "61fe8429300c"
     }
   ],
-  "last_updated": "2026-05-04T10:43:23.328021+00:00",
+  "last_updated": "2026-05-04T11:36:56.388736+00:00",
   "total_count": 1000
 }
