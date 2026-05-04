@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Finland raises concerns over Ukraine drone airspace breach - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaktnSWVpcHZiS2k0dzhOV2ZVSnFXMDliLUN1VS1kNTh6U1ZDdmpfdWpHYkJCeWh1RkVZTEJYY19leC00dERwcXV3dHozcEg1elhoZE83aGM5cHJ6MnBCcmJZbHYtcGY1X1JTV2VGbnpTbFc4NkxydllPRjg5N2JVNHRoM3N1QQ?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-05-04T09:01:20+00:00",
+      "description": "Finland raises concerns over Ukraine drone airspace breach  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-05-04T09:49:47.471405+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "17f3c55b1cce"
+    },
+    {
       "title": "Cheap, deadly, and hard to stop: how cheap FPV drones are reshaping the battlefield - ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54eWhlbXdTaUE2LTZLQkVXd2t0RGxtYkllQ240QVdiNS1pNGROZWtnc3l1WlpCUy0zNkRSQUN2ZW9HeGxmd3R6WnRmVGlVbkRhOFpNRy13?oc=5",
       "source": "ynetnews",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "55c7afe35f5a"
-    },
-    {
-      "title": "Iran drone crashes into Iraqi Kurdistan home, kills two — authorities - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWtnSUN0SUg0S2JoRXUtV0ktdVBjTWM1RWIwOHdtaHA3aHJGYnJiMzJlRGV1Qnd1N0FfVWpIRTJfM1IyMVlQUlN3OGdwVTFsU0QwQWQ2V1p6NHQ0WFp6UHByLTdVVmp1R283UC02U2hCVG5QYWw2WFVzelpHbl9aekJWWEp2b00tVzY4OGplN00wVEhuNTBfY1NsTmd5TGRRVFBIdEZaUmVuWVJBSEJMLUlB?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-04-06T23:09:05+00:00",
-      "description": "Iran drone crashes into Iraqi Kurdistan home, kills two — authorities  The Times of Israel",
-      "query": "drone crash",
-      "detected_at": "2026-04-07T03:07:33.467721+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a837b8fb87d6"
     }
   ],
-  "last_updated": "2026-05-04T08:54:08.814253+00:00",
+  "last_updated": "2026-05-04T09:49:53.193420+00:00",
   "total_count": 1000
 }
