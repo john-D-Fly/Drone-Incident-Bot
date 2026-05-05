@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "FAA Warns Of Fines For Drones Near World Cup Stadiums - Aero-News.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDRsOFp3LWJxQWdYQTh5SmZTazFsV29UTnR3cTRYX1VORGFuYVpLakR2U0tocVVNaVA3Q3I2d3VtUGYzT0RwWmZPY2wxVmVZTlprazBtaWd6VUdUc1FiQ0Q1U1MzSHJaVGlpQks4WU0zLS0zNTQtWnZQcHZHWUVuY3ZhMGpRa1dTTzBCcGZGUDBYaDNua0g4?oc=5",
+      "source": "Aero-News.net",
+      "date": "2026-05-05T09:56:51+00:00",
+      "description": "FAA Warns Of Fines For Drones Near World Cup Stadiums  Aero-News.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-05T16:36:36.669040+00:00",
+      "location": "Near World Cup Stadiums",
+      "category": "airport",
+      "id": "366ff4c9017c"
+    },
+    {
+      "title": "Drone crash sparks wildfire in Burke County - Queen City News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHkxcE9ac1Z2TzdRTTR2QXBTN0dIbk5mR1p0WlNmVE11anVlTG0zUEdhMm9QTG1YUEc0bEYxS3lNc1NRbUd5TFBtY2hFdTBfZmxpZ21ockNIZXQ4X3RZa1B2YU1Xa2dzUWFsaVN2M3VlZlhGbFhyTXFsZWtta0tZd2xIenNldWx6VkZyd0VZeUJTT2Q0YUlNN3dZek1SOVFqOWdaTFZWVQ?oc=5",
+      "source": "Queen City News",
+      "date": "2026-05-05T16:11:00+00:00",
+      "description": "Drone crash sparks wildfire in Burke County  Queen City News",
+      "query": "drone crash",
+      "detected_at": "2026-05-05T16:36:34.104940+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "289749c323ba"
+    },
+    {
+      "title": "Drone crash caused a wildfire in Burke County - WCNC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1dITlh0cG9EMGltNjJvOVVZQzBha1JpTkFxVnZfTzlVV0FCaEdmaDFzTjRHaWlZWG1XYlpVLTdLWmM2R1lZWURYUXYtNG1Sb19lbk5oNTh5d3pzTU1ZUldEV05BeVdRMEtMWURnUXpOWWY4aHhqMGY2bFJ3bjRZRmxScUlfRjE3TkZ5emNjc3F1T25CeDhhbExYNEhIVDRzTE5WTFdCMm5YWkp1YW9wSnhFX0oyWnZXZTVybWg5Q3Bndw?oc=5",
+      "source": "WCNC",
+      "date": "2026-05-05T15:50:00+00:00",
+      "description": "Drone crash caused a wildfire in Burke County  WCNC",
+      "query": "drone crash",
+      "detected_at": "2026-05-05T16:36:34.104940+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "969658bf568f"
+    },
+    {
+      "title": "Romanian ministry of defense condemns russian drone debris incident - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNal91SnNxMFFob1dEdDJMVDJmd3FkTnZtUFFaZ19WWWhKRUVFMVlBRW5pOUxIUGZaQlQ0NjNtYWt1QmY0d3p6c3JXdGZCMXBSLWxhVHVYeXhRbl96eDBybm9GTjNRZnEwa2l6bDMwdHM1WjNMdzgwYWhwVUR0TlptbWxGX1JoN0lRN2wwa2t4RWlsSFRNQmJ1TU1NQQ?oc=5",
+      "source": "Crypto Briefing",
+      "date": "2026-05-05T16:34:36+00:00",
+      "description": "Romanian ministry of defense condemns russian drone debris incident  Crypto Briefing",
+      "query": "drone incident",
+      "detected_at": "2026-05-05T16:36:31.092540+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "acccb773fdbb"
+    },
+    {
       "title": "FAA publishes proposed rule for protecting critical infrastructure from rogue drones - Unmanned airspace",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSFY3SWlTaDM1QldyNXdqMWJKYU1ENW1US09LUl9pSmUzTlRtSVdJemhLN09TN2JTQnUyY3VsY2RxaFBIQmYtRjAydDhHNHhMSlJmbm0tOURXX2tTM2lGcHJMa0FKNlVDVGRieDIxRW8yRUptcEhXVWVicklNQk0yVV9mQU1ZZF9uSGtPc1djdEk5NTdORU91Tk9DbURQZEM5RE9uT2Jubmk3QTNDZUprVVNHb1FJbS1MMkFxM1BwdkpBZW1BeTFZWThUMmZJdw?oc=5",
       "source": "Unmanned airspace",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "518db694edcf"
-    },
-    {
-      "title": "President Lee expresses regret to North Korea over drone incident - MSN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDNXdHI1bVhyMVN4LTlWSEgzM1RTMTcwc0dzU3JCNy13OFZjVjdFX0FQcmRpb0EwTTRydFRtTndHZk9yLTk5Nld3R3l6amgyN0w3V1hKTDJ1bERpUmg2RlJOR3RQZUR1dzBtWFZxQVl6cWRXTUM3TkF3bUhNdVJJb1EtMkNmQUE0NW1QeWhhZGl2ckVPcXBPLXhfMm1FRWQ1aGFfTFpGWEZDMk1mU0U0?oc=5",
-      "source": "MSN",
-      "date": "2026-04-06T03:41:28+00:00",
-      "description": "President Lee expresses regret to North Korea over drone incident  MSN",
-      "query": "drone incident",
-      "detected_at": "2026-04-07T16:25:34.567753+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4a3f4509a8da"
-    },
-    {
-      "title": "Unauthorized Drones Keep Flying Near Our Military Bases - woai.iheart.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRG5rSDJEQXNlNmFTTDhfRzAyNXVZQW16Z0FKNmlGWlNnakZKZlZMQUJ4QWRNdElCN2paVzA5eGJlMTN6LWRidU10ZEJmSnFVdnB6ay1rbXlLOEJDQ1FBb1pGb0dxUGQtekxYdG9ONmxGQTVKU0VjdUlZd2JRa1hhNHlreFBwYVNTQ3otRmlDOERqVGNLRzNoM2JyMzZrMkNUX1RTVVdBWDU5LUpDd3ozaXVwTG40amc0YTJ6RlZldmZDdFJSeC1CNXN1cWg?oc=5",
-      "source": "woai.iheart.com",
-      "date": "2026-04-07T08:30:07+00:00",
-      "description": "Unauthorized Drones Keep Flying Near Our Military Bases  woai.iheart.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-07T15:33:05.788106+00:00",
-      "location": "Near Our Military Bases",
-      "category": "security",
-      "id": "277ea2b49200"
-    },
-    {
-      "title": "Amazon Prime Air Adjusts Course After Richardson Setbacks - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9Ka1hhR045U2twb1dIOE1XdEtGUVNfc295VEVDV0htY0RmdW9OcUFacTRFWGdRMkhMSVlVWGtJdUhOTlpZUkhBZ0VJQnNBMmtpUkRYT1BHM25QVE1GS21FNW82b2tjTU80RE40SGFQOG9QLVQxSEl5SURkUmNfQ2RBTXhUNjQ?oc=5",
-      "source": "Dronelife",
-      "date": "2026-04-07T14:53:29+00:00",
-      "description": "Amazon Prime Air Adjusts Course After Richardson Setbacks  Dronelife",
-      "query": "drone crash",
-      "detected_at": "2026-04-07T15:33:03.252464+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1b019d5aff2b"
-    },
-    {
-      "title": "Lasers to shoot down drug drones delivering to prisons - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORENGaWQwbXJKOHpJQ2w4SXFOM1pKQ1hTWXlodWNnZnltNFFLMXhaQUZXOUVSZ2w2ZzkyWkZIRENKNEVRSEwtOEY1TU5yVWZKNWtkb3hmVTRWd0tpX0gtUFdVQzFEYW4ya0w0b19CMlJHUUpGTFRCbFg0MG43MV95al80NW9BdEwxdVhKamwwTkdFQ3VKUDhKTXk1SkFOd25uSmxCU3Y1OA?oc=5",
-      "source": "The Telegraph",
-      "date": "2026-04-07T14:07:00+00:00",
-      "description": "Lasers to shoot down drug drones delivering to prisons  The Telegraph",
-      "query": "drone prison",
-      "detected_at": "2026-04-07T15:33:02.066006+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ad7f71c3fdbb"
     }
   ],
-  "last_updated": "2026-05-05T15:38:59.931649+00:00",
+  "last_updated": "2026-05-05T16:36:37.261873+00:00",
   "total_count": 1000
 }
