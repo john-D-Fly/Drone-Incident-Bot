@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Sudan accuses UAE and Ethiopia of involvement in Khartoum airport drone strikes - Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nZWRpbDBqdEZoUzN5bkFJY2lKY1piMk5CcDhTLXRGNWRSMXNXbUlqczB6Y01OeXFaVWVyWnlraVl1eFRKZG43ellINHNtVDg5?oc=5",
+      "source": "Sudan Tribune",
+      "date": "2026-05-05T00:14:36+00:00",
+      "description": "Sudan accuses UAE and Ethiopia of involvement in Khartoum airport drone strikes  Sudan Tribune",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-05T03:10:02.932432+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d824ff0d52c8"
+    },
+    {
+      "title": "US updates travel warning for popular vacation spot citing drone strikes and landmines - MassLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1phSjlJQ2xmRzRoWFVvcWRTbjlTWk1QalVWamNKN1hWU2JSTVloMS0zRzJHWEtsbUlYRl8xSFV1d2tySmF0elp5QWhkcy1WRlpxNDR2bFprLWJwaUdqWUk4ZFhDT01OSHNaM2ptZVBYdW1mTzBHc1RxNjNtb0J1TUJWVjVQN093Z1B2YVRMMUZGT0VEQm4wa2VuOUJpT2MzZmpsRnI5YTNyNS1kaGN5VElpUWJtczJ4c2pIQVJ2Y01vVmNGQWNObNIB3AFBVV95cUxNVThBZmU2X2xrNTJZMnZOTDMxTHJYRUZBNTlpN2F6UDlDWlRlMEVBYTF3VS1nWm1hSEpDZmhSSmJKRUMteXo2VlFzNUJTYUZrR1BFN1A4ekRDWktTR01reDBHNnQ0eGU1MDZacHZFNXRmOEh4VTNDa21PbkxMQmo5TUtEOGtWZWdJd1YyUC1EWnZQVVdJNXQwN1ZwMHd3SjMtdTBnR2pwcFVwS0I5MXI3SmNYbkZ4aTRIWHppZFoxQzRHYlFzQ3B5N1RlaE01b0hVRHAxVWVPQU5hTERN?oc=5",
+      "source": "MassLive.com",
+      "date": "2026-05-04T16:35:00+00:00",
+      "description": "US updates travel warning for popular vacation spot citing drone strikes and landmines  MassLive.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-05T03:10:02.932432+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f72d072fbcd4"
+    },
+    {
       "title": "Flight chaos as new war move sparks fresh warning - The Nightly",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb3B5Y0tNSXpRTHpzS0hnZGFON2pmaldMSW9PWEdOc3YxcW9hNk1rUG1XMHhYNllZWVZJdXk2SnRSVXV4dWFPX3NQa3YwaUU0SG5yUTBfWm8teHNIaDBGb2tfRUppQ0xoejEtel9ZQWdrOW9uc2tWT2R0Z1lzZlk3SF8tcVNxNkh1aWZlbnZJTVBEZXNPd0tYQ3Rrbno4dFZtbzdvbTdhR2lfWXFDN0o3NkdjQnR6cElBQUxDYjZKVkY3NVRhaUNnN2dmS3B4S3FjWG5ROEU4SGhLMl9NdUlwTUJ5UmtLRWRLYlQ0OFRQWG1XZw?oc=5",
       "source": "The Nightly",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "31d8891d84fd"
-    },
-    {
-      "title": "Man arrested after police chase ends with crash, drone search in Beaverton - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDhYaGNqZi1DOWtOV3M5bmpUcmVLTk5NMW1UUmhlRFNkXzZ2MUo3X3ltNS1wbGlOV3R3WmlJb055ejRzUVFoV05YS1oxUWNxWGY3M3dEVDBXREhweW5hWUlLR3J1cEM3QTl0VjkwdVY4b1VicGFmSEZiT190TGhBaGVRbC04T0psYU9hNFJRZkFDMldXMF9ldzJ2TkNYRXkzeHNoUGYzam1yakREX1FNemVn?oc=5",
-      "source": "fox10tv.com",
-      "date": "2026-04-06T05:25:00+00:00",
-      "description": "Man arrested after police chase ends with crash, drone search in Beaverton  fox10tv.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-07T10:24:47.524402+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "aaaece8bc629"
-    },
-    {
-      "title": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress' - koreatimes.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONFVGc0hOV3AyUmw0QUFsU2ZjTjllZGxidHhjUzEycjRKd3JlZU53SmxsLWFEWmxEU09aWTV6eUJ5ZXFtNWt2c1JVNnR2b3dQTlNPVmJIcGhydDJWaEh1ZkYxOXREVnM2RThYVmdtTTFYRVI5VjctR3g4UEJuZWJiNU83OEhmNXpYZUx0MGhHSmVYUFAwZUJBc2QxYTdjVFYyeHFiaWlRU2gxTzFBVVR6eDVTQkdJTDhoSEdZRk9RREI1cDBGMGZfa0FYSzY3UzhVZ2Vjel80aEg1QWEtNGdhX3RXcGx3U0HSAewBQVVfeXFMTXdId3pGU3NraG1fUVFiLXl0c3ZNT3dyZmhCQ0FraTQ2YnNpWDRZa0pTcnY0dGEta3huT0NFU0p4TDVjMFN3UUdHTU1HM25IVVExc3ZEWWFEbnZwZlVhdndYTGJrOWJobGNDWllzTERKOU1qM2Q4b0xnWVprVXJuVjE3YlJtM2Z6QWNEVW0xS1ViR0RRNEl1UU9FQkJzQnV1aWppdUZpb25ZS0txUnZ3UzYxclBFVUV3cVFtQlh4T0ozQ2U0bHRPRHVKaVk0OW1DbEdwVDBwalBCSlpndnlQakJJbVFkZm10UER0SFI?oc=5",
-      "source": "koreatimes.co.kr",
-      "date": "2026-04-07T03:09:04+00:00",
-      "description": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress'  koreatimes.co.kr",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-07T09:28:27.346591+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a661987208ba"
     }
   ],
-  "last_updated": "2026-05-05T00:42:40.858256+00:00",
+  "last_updated": "2026-05-05T03:10:04.113339+00:00",
   "total_count": 1000
 }
