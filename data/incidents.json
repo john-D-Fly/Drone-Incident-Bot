@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Nearly £50 million government backing to power up drone and flying taxi tech and crack down on illegal drones - GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcW9PMlBOZkpycy1FVURQU3lhalF2dnpwRDFfUjZoTlA3aTdIS0FHQlIxVDV6RHBLRmhzSnVzMmJBeXNpNXJNVVlXMmdGMDBrRW5leWRRNFFyNHN6cXg3LW4wS1BxUWhNMm56d0tYeEJtMHBpcXpzVEl2SGo1a0hPRTBwTnAxUXZubFlLSDVFY2ZZMDFHelZEcnlpaDhBRGFzU3Jsb2NDLVlQZWFUN21TcXpqeVZqY0FKZGtpQ0w0N0NQUUtfRVBqY093SExUUVhBcDgzdDEyM1FBeU0?oc=5",
+      "source": "GOV.UK",
+      "date": "2026-05-05T12:45:10+00:00",
+      "description": "Nearly £50 million government backing to power up drone and flying taxi tech and crack down on illegal drones  GOV.UK",
+      "query": "drone illegal",
+      "detected_at": "2026-05-05T13:38:35.201203+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eefd23232297"
+    },
+    {
+      "title": "Moscow Victory Day Parade Scaled Back as Drone Threat Reaches Russian Capital - EU Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGlZV0x1aWVaU3RSNG1vd3Rldm5WODh0N2VScnByT1lwT0E2bEV4c3hoX3Z2V3RmbWcyZzM2NWhFeE9UTTVPM040b1h1UHhrX0ZDM1BmNHVnakdDeE9hZS1pR2l2T2JRWF9tNnVudS16aWt0YXN4bWs1N2N1LV9Tc0hnQWlveURPRGxHZmJfTDlVOHZ4NTY0TFlTZUVCVGs?oc=5",
+      "source": "EU Today",
+      "date": "2026-05-05T12:57:11+00:00",
+      "description": "Moscow Victory Day Parade Scaled Back as Drone Threat Reaches Russian Capital  EU Today",
+      "query": "drone incident",
+      "detected_at": "2026-05-05T13:38:31.791111+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "9ae5d6b967d5"
+    },
+    {
       "title": "UK cracks down on Russia’s exploitation of vulnerable migrants and deadly drone capability - GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkMxSFV4UlNhOFA2SUhMUDdvdlVkc0FUVWUtSTVrV1oxa1VHd29uNjhmYnRBdXJ6VmV6NzBWd1YwYlRKM3M1UllNMHFuX2FRRWMtck1ROXpCZXhPTVI0WWVDay1nQXlGMDg0bWVGTFkzU1E4cHZpRjJKZmxxWDhvbC1RX3IwaV9JSm5YUTNHUWtXaG1RdDQyaVBUaUYyNlpkWXpUUnAxSmMtTEE2MUNzREFZWUYxY1JmRGNsdkVxcGhfUQ?oc=5",
       "source": "GOV.UK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "c3c640f59dc3"
-    },
-    {
-      "title": "North Korea welcomes Seoul regret over drones as 'wise' - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJ2cVZMZkFjOXZkaWV4bHRnN3pRRkRPdWNvT0FOSGZVbVpiRlctODJIR0xsbUtzQlZXLWpnWGdHdTFBTUZobGhFU1padFdRbVM2X19kbTJnOFRMWjRaZjd0YjB6SngwTnFzYmJpUk5YRnVGTUN0NVYwenB3T1ZIWUJGdUpzQXljNUJOTFhYNNIBjwFBVV95cUxQUjRRclJqN01SUnNxWWNKWktrTnM3OE1tQ0lmNEswT3pucElYbV9KTl9iOF9aMGE1cFhUdUNLcmxRMHlGQ3Z5Z0ZDRVFTNmpEQ2NOSHlHVGdtYWxPOEtzci1mZEEtazM3SGJWRUJZdkRjUHBvdGhFUF9SdUpINTdaaHpKLUNJVW5UendoQTBZaw?oc=5",
-      "source": "DW.com",
-      "date": "2026-04-07T01:28:39+00:00",
-      "description": "North Korea welcomes Seoul regret over drones as 'wise'  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-07T13:34:40.481338+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "772556018755"
-    },
-    {
-      "title": "Unauthorized Drones Keep Flying Near Our Military Bases - NewsRadio 740 KTRH",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1p1VTlUOUM5SnRjMzJ6YjdZSXhmR0cxS0phZWVIdGg2Rkhyd0lWRkF2VEJkRTlhaHJNbFhuSXNTVlFydEExX2dTQnFsQl9lNThURVY5MEJLNXhGQWdCOER2dWVlbE5KZE5SazlrdlVTUHpiRHNHdmcwSDU2RlZOaERlRE9yUWlzMWFfd2ZpOWMxTmlLY1B5VHA1VndYX3dPTnlJWWplMGVHaGpKMWdtZzQ4MW5jVGxjTVpjWDlrZUUtY0hJWXfSAagBQVVfeXFMTVFzMF9KQjQzVkVITFZCQ3RydDFwY0U4MkhTenNmUGMwRUhfOEJNel9FZzltSm9FRXVtMWpyWk42c2JvQXQtbU44WjlySVZXQm80VTBxNlJsQWFwWjVkbFBveG93VUx2RDVGdWIwLUNVQUJRX3JmOGNBMUdmUzZKcm9LWDNMd1FFREk5Y0E5QmlFNDRtSHFtMkpsYTBlcDNTbUM1QnA4bzRK?oc=5",
-      "source": "NewsRadio 740 KTRH",
-      "date": "2026-04-07T08:30:07+00:00",
-      "description": "Unauthorized Drones Keep Flying Near Our Military Bases  NewsRadio 740 KTRH",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-07T12:24:04.367758+00:00",
-      "location": "Near Our Military Bases",
-      "category": "security",
-      "id": "a525bad2e674"
     }
   ],
-  "last_updated": "2026-05-05T12:30:38.261339+00:00",
+  "last_updated": "2026-05-05T13:38:37.410240+00:00",
   "total_count": 1000
 }
