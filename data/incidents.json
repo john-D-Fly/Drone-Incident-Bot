@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA Warns Of Fines For Drones Near World Cup Stadiums - Aero-News.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDRsOFp3LWJxQWdYQTh5SmZTazFsV29UTnR3cTRYX1VORGFuYVpLakR2U0tocVVNaVA3Q3I2d3VtUGYzT0RwWmZPY2wxVmVZTlprazBtaWd6VUdUc1FiQ0Q1U1MzSHJaVGlpQks4WU0zLS0zNTQtWnZQcHZHWUVuY3ZhMGpRa1dTTzBCcGZGUDBYaDNua0g4?oc=5",
+      "source": "Aero-News.net",
+      "date": "2026-05-05T09:56:15+00:00",
+      "description": "FAA Warns Of Fines For Drones Near World Cup Stadiums  Aero-News.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-05T10:36:10.285108+00:00",
+      "location": "Near World Cup Stadiums",
+      "category": "airport",
+      "id": "3b1bb1fc481b"
+    },
+    {
+      "title": "CNN reports on increasing number of drone deliveries to US prisons - Unmanned airspace",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmhBU1YzdEFZaW5FbXMzV1drQ0ZrajdEUVIxY2RkQU5teXUxVzllVmpKcjNMWGVxNnp0TzZhSE9QMUFkR3BVZUdXVENOU3pYT1VhMjZ5SXJ2cWJoR1NDeTVxeE9KaVBReWJHaXpoWTR1aEt6eGFoM2NTdmpfM01iS3FXTGw2WUdZNTNFMmZ0LVB6TFRiX05CR1hzYkl4OUlXYks1T0xHLUtFS0dPQXBDN3VNS203cEg1NEFqZTlsaEJjTTFWQk9PRWlSV2Q4bWc?oc=5",
+      "source": "Unmanned airspace",
+      "date": "2026-05-05T09:46:07+00:00",
+      "description": "CNN reports on increasing number of drone deliveries to US prisons  Unmanned airspace",
+      "query": "drone prison",
+      "detected_at": "2026-05-05T10:36:07.266822+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "7ad3d761d8b2"
+    },
+    {
+      "title": "Lithuanian Border Guards Intercept Two Drones Carrying Cigarettes - REFORM.news (ранее REFORM.by)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMTFXT2o1Z254cEZfTmxTYmtCVTFMbW1OaFEyYmZwUFFMTDJiRG00d2ktZ3BxWkJUY3p6ODFWVGkyaGdlT1JZeWROUlo5RnlJakUxN0FSTEVNbUFKNkhyVWl3MUZxbm5hNDlCc2JyaG5UNjAxT3pLRVJuZzlrU3FneXZTVG9DU0lUdnZoRk5lN3Y5UdIBlwFBVV95cUxQQnBadzl3S1VjVzlZVTRaT3NyZy1HbmR2SjNSYmhRS1UzT3VGcWxacWluV3ZEZVR4RnJpeHJSMm5EVG8yNFFsY01jV3g2U1JFRGNtcGVrdW9KQk0xMUltbFZ2SXZtaHNtaE1FNHA4d0hUMkprM29LTjNBc09TNm9KemgyYktVUjFsaHBCMXpYUGthXy1CbzZz?oc=5",
+      "source": "REFORM.news (ранее REFORM.by)",
+      "date": "2026-05-05T04:05:05+00:00",
+      "description": "Lithuanian Border Guards Intercept Two Drones Carrying Cigarettes  REFORM.news (ранее REFORM.by)",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-05T10:36:06.758772+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eed37bcf0b8f"
+    },
+    {
       "title": "In Russia, Victory Day Is Starting to Feel Like Defeat - The Bulwark",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeXNCT2R1bTRUM2NrUExjREozSGFfTm5wamZGV2Z1eEJxNjhoNXhMa2xFbVdHQkNBTVJQLXM0b2hIQ0F0T0UtLTZ3aVZ0eUZRelVtN2RSSXczVUx2bmRTYnhzeWgySUxRdjVhY2tOdlVuSThrelpVN3R0TTJLblBkTF9kR2JnRnRTbktLWTBsN0Q3TTZoTk1OSFJINVdSbGxpLTlZS2U4Y2wtVVkzbW5BU01HMGJ6dkNHekJ6dklYU1d6UE1JQ2NlVXJTRS0weDg2MWhHSnVFQ2VxbU9BWHJ6X01IS1FNOEpXM3NlQndWYkpUZVRHOTV2T0tTSUo2NjhHbEpkalJoZ1hxWEc3eWc?oc=5",
       "source": "The Bulwark",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "445adf581b95"
-    },
-    {
-      "title": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress' - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0h3ekZTc2tobV9RUWIteXRzdk1Pd3JmaEJDQWtpNDZic2lYNFlrSlNydjR0YS1reG5PQ0VTSnhMNWMwU3dRR0dNTUczbkhVUTFzdkRZYURudnBmVWF2d1hMYms5YmhsY0NaWXNMREo5TWozZDhvTGdZWmtVcm5WMTdiUm0zZnpBY0RVbTFLVWJHRFE0SXVRT0VCQnNCdXVpaml1RmlvbllLS3FSdndTNjFyUEVVRXdxUW1CWHhPSjNDZTRsdE9EdUppWTQ5bUNsR3BUMHBqUEJKWmd2eVBqQkltUWRmbXRQRHRIUtIB7AFBVV95cUxNd0h3ekZTc2tobV9RUWIteXRzdk1Pd3JmaEJDQWtpNDZic2lYNFlrSlNydjR0YS1reG5PQ0VTSnhMNWMwU3dRR0dNTUczbkhVUTFzdkRZYURudnBmVWF2d1hMYms5YmhsY0NaWXNMREo5TWozZDhvTGdZWmtVcm5WMTdiUm0zZnpBY0RVbTFLVWJHRFE0SXVRT0VCQnNCdXVpaml1RmlvbllLS3FSdndTNjFyUEVVRXdxUW1CWHhPSjNDZTRsdE9EdUppWTQ5bUNsR3BUMHBqUEJKWmd2eVBqQkltUWRmbXRQRHRIUg?oc=5",
-      "source": "The Korea Times",
-      "date": "2026-04-07T03:09:00+00:00",
-      "description": "S. Korea sees NK's swift response to Lee's regret over drone flights as 'meaningful progress'  The Korea Times",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-07T11:22:35.593771+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "39b9e6e00499"
-    },
-    {
-      "title": "General Atomics CCA Drone Crashes After Takeoff, Company Pauses Flight Tests - autoevolution",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1sS3R6Uy13NGhaYThubjdJSnZxcWpBNVFqSXpBV2w1RGVrNWhCQllnejRoZlJKS2VLLWN6T2haLWhkdHNZV3NIVjczSThFdF8wRkhNMGJxNzdodkdMNDU4R2RCLXR5UUMwTkcxQ3BEcDJMY2ViWmpDRFBmZ2o4UjROMXo1NnVldnNtUjJTZ1JsekoycXYwM0hhVjU1WnVtNUNJcnhOX3Q5N0lCRTQtd283UEdmTkdJX2RoUXVoSQ?oc=5",
-      "source": "autoevolution",
-      "date": "2026-04-07T10:48:07+00:00",
-      "description": "General Atomics CCA Drone Crashes After Takeoff, Company Pauses Flight Tests  autoevolution",
-      "query": "drone crash",
-      "detected_at": "2026-04-07T11:22:33.492030+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a2b1ab75df9d"
-    },
-    {
-      "title": "General Atomics’ drone wingman prototype for US crashes during tests in California - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVRQNUVsbDNjUW5lZXRRQWxmX3VQTHJyNjlQbGh5ZHZ2MTBiVG9TVUp3UklJM1MwTTlmdmRUOWdHRjNtYi12c0otMjQ2TmdmMlRaSWhIMEd2cDYxbGlaLS1XNWh1UnlfcGhJRFlfemxPQ3ExV3gzQ2JUVTRBYnBpVFNSdnNlZzd6SkE3VW1JaXRCRmVxQnJF?oc=5",
-      "source": "Interesting Engineering",
-      "date": "2026-04-07T10:41:00+00:00",
-      "description": "General Atomics’ drone wingman prototype for US crashes during tests in California  Interesting Engineering",
-      "query": "drone crash",
-      "detected_at": "2026-04-07T11:22:33.492030+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "9c8bc54ecd2e"
     }
   ],
-  "last_updated": "2026-05-05T09:40:39.732162+00:00",
+  "last_updated": "2026-05-05T10:36:10.794042+00:00",
   "total_count": 1000
 }
