@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "IDF says Hezbollah tried, failed to down Israeli drone over Lebanon; terror group's UAV downed - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWs0MEtmeDhnbG1uS1o0T0hUZGFqYjgyYldrcDVpb0RnMmV1Zi1HQzNXNmlQZnUwV2VMaFBDU0szOERGUF9uNkw1ZWJReGQzYzNpMzR1U2hjRG5YakR0TGFUMFRidkZRTGYzaTdXaTJ3LTZXODM5aFJpd3BFclpkVWJGMEVnWE9UcC1UU1Q4c3BVc3V2YmR5YzV2UE8yMmRPSHdLNk9OdVhnX3RhaXBqT3dEQTdDc3BJV1BUYnJ3NVRwZk9qX2txd1RjOThNR09CbE9R?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-05-05T12:18:12+00:00",
+      "description": "IDF says Hezbollah tried, failed to down Israeli drone over Lebanon; terror group's UAV downed  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-05T18:34:57.168210+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "a13557ccfb04"
+    },
+    {
+      "title": "BSF foils drone smuggling bid, seizes pistol - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHk5SElUWk53TmM3MVRjZk8tVkp3UW9JNEoycWpfNVJXU0x4UnBZRkphd2prSk1qb3RpSWFsa1p4YldpV21fRVhLNEtvQnNVWV8wanF3dDhBdkJXdUt2OE55VnplZEJ3MlluOXNqRWp5dlRRQV9tQ1l6bHRUQU5wQW1JT09HSGpQanpGbFRqMEk?oc=5",
+      "source": "The Tribune",
+      "date": "2026-05-05T17:33:35+00:00",
+      "description": "BSF foils drone smuggling bid, seizes pistol  The Tribune",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-05T18:34:53.493599+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f07f6f303bdf"
+    },
+    {
+      "title": "Police track Glencoe burglary suspects by K-9, drone, helicopter, arrest two, per officials - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0xGM2pPUF82aVBZMzBlc2V4aFFDSy1BVTIyeFhlSTJCeFRFUmlTdUJfVUN3QktxZURTSXZhMTMwWjl1TjFlR3JjLXJTRFIyNjUxNTMwVVVmNkFGNzBPc2tYUXZjMXZZbmVEZ2czREVpY3luOWw4STgyWkhwOFFlWWI5Wi0tVmlqR292LThEMDI4aVBRUlE?oc=5",
+      "source": "Chicago Tribune",
+      "date": "2026-05-05T17:45:32+00:00",
+      "description": "Police track Glencoe burglary suspects by K-9, drone, helicopter, arrest two, per officials  Chicago Tribune",
+      "query": "drone arrest",
+      "detected_at": "2026-05-05T18:34:52.929269+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "35e229ded955"
+    },
+    {
       "title": "Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmJsaEF4ejF6dHFjOFNuLTg5UVNpaTVmb1ZKUHFZaVFWdThtWDY4a1d4QzRBVmNHN3l0VUY0TGw5U0hlVFZoNGRVT25Xem9HSkxxSC1mM3VCeUE5djFzNUNhTTlmZEgtMHlqYWp5cXJQc19rWmNreEhjUmk0M3RCMXh1WDNKZFlvSktnZjJXMWdZN2toNjRmTWtmUUhObDNOWENZVURfbHlHdExSeTEyMHBQbHfSAboBQVVfeXFMUDRtcEdQeVhkQ2RiZEtYVUs1bml4Q1FrZlA4bHRKcDJ3NEI2YjFYcW5waTNIR0F5X0pLbjNxM2ZSbDJJYzRvTHNUMEVGLTlTSXQxUlZPOGtvNXU0ZFFWUEF6REVKZ0w0elV2dEJnTWdMeUZjX2g5RW02VUgtX0g0bmNYaHVXc1hhWUdXc1ZTN0JYT3BTek9WajFUMGE1dXUyYllTQWJMWUtuMkNFYk9fN3FKNEJhYlo3bDFB?oc=5",
       "source": "The Times of Israel",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "0cdbfe6e7257"
-    },
-    {
-      "title": "BREAKING : US AI war drone crashes seconds after takeoff attemp - News.az",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzFud0I0eEtrZFBhUXRKZTg5bE9ZR2piQW9NQzczaXhuNHNBak5jczZSNlFEbTl1QkRCSmhNTmx5S1pqVWZpREk1bE1SeWx2SFBqTmlHc29ubGM3SGtOTHdmSGI1NnhJVnZJMjMtbnJyam1yRWNlWjlxN2VkOURPUjZWTDBveXpYQnc?oc=5",
-      "source": "News.az",
-      "date": "2026-04-07T12:18:12+00:00",
-      "description": "BREAKING : US AI war drone crashes seconds after takeoff attemp  News.az",
-      "query": "drone crash",
-      "detected_at": "2026-04-07T18:22:28.120341+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "cb85fc1505ea"
-    },
-    {
-      "title": "Idaho AG asks for authority to address drones dropping contraband into prisons - NonStop Local KHQ",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQk45WGJxSW1EbnJncG9aWWEtbnJFVTlidU5oVndsZmFOMFZzRVVKTUJoaFRlSWZCMVdOQ3cyZWlKT1JfckFnM1VZLU1wQzUtSU42MDgzU1o2eU9ObklDWmdtSzBxSXh1elZBdFdyZ0RmQTNsQVJuUWlWSWJfZDAxR2Fid1ZHMHJjaUdQNktucXhtbHpnY1I3aVFUTHFsbmEtSDBFYlFXLWxjaVF5UGY3WjFNZHoyVEFCdjZwMDE2STMxSnpmaVdOUTRFYnMzdmVGdU5ZZ04yemN5b1BOcGJXRGJfQVlvRE9k?oc=5",
-      "source": "NonStop Local KHQ",
-      "date": "2026-04-07T17:23:00+00:00",
-      "description": "Idaho AG asks for authority to address drones dropping contraband into prisons  NonStop Local KHQ",
-      "query": "drone prison",
-      "detected_at": "2026-04-07T18:22:27.072578+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "08f126e1307e"
-    },
-    {
-      "title": "Police arrest 45 after March street takeovers. See newly released photos - Cincinnati Enquirer",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNm1pak5IX1VES1JqRHVwamZhU0VMWnQwbHZzWGFRWEkxcGMxZjJtbC1qQXA0Z0JVUWpJbWtOOENvMkJZSkhGdDk2SUVwYUxvMDlFX1Ywb2o5UE5OQ090bS1XUDRoSlQzVGFENW5HZXNmd3I0VlI5aHNjeW54eDhHek9YZXFjR0xtSElNYjVLU1FsSkxUN0U0RVdNNm9ieGl0WHd1elJHdWpHUlhncndtNFEzb3UtLVFWTTR2cTBBQ0M1QnVvVVZiMWJSamMyeG5WWmllU3pScDZ0NTg?oc=5",
-      "source": "Cincinnati Enquirer",
-      "date": "2026-04-07T17:25:00+00:00",
-      "description": "Police arrest 45 after March street takeovers. See newly released photos  Cincinnati Enquirer",
-      "query": "drone arrest",
-      "detected_at": "2026-04-07T18:22:25.641977+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fe37ca60c033"
     }
   ],
-  "last_updated": "2026-05-05T17:35:52.443662+00:00",
+  "last_updated": "2026-05-05T18:34:58.295695+00:00",
   "total_count": 1000
 }
