@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "UK cracks down on Russia’s exploitation of vulnerable migrants and deadly drone capability - GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkMxSFV4UlNhOFA2SUhMUDdvdlVkc0FUVWUtSTVrV1oxa1VHd29uNjhmYnRBdXJ6VmV6NzBWd1YwYlRKM3M1UllNMHFuX2FRRWMtck1ROXpCZXhPTVI0WWVDay1nQXlGMDg0bWVGTFkzU1E4cHZpRjJKZmxxWDhvbC1RX3IwaV9JSm5YUTNHUWtXaG1RdDQyaVBUaUYyNlpkWXpUUnAxSmMtTEE2MUNzREFZWUYxY1JmRGNsdkVxcGhfUQ?oc=5",
+      "source": "GOV.UK",
+      "date": "2026-05-05T08:31:00+00:00",
+      "description": "UK cracks down on Russia’s exploitation of vulnerable migrants and deadly drone capability  GOV.UK",
+      "query": "drone illegal",
+      "detected_at": "2026-05-05T12:30:35.979461+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7dcebd1a3414"
+    },
+    {
+      "title": "Ukrainian Drone Slams Into Skyscraper Near Central Moscow - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmVTOHpRZXZoNTlGMTdVUkxuVG5fZDhlLXNKSnI0UVp4SFRqeERUMmlHelFrdUw5a0VwWmdaaVJpTS05MmlidThwdkdLaU1mVlBPV2tLd2FMZFVpYy16OTU2bWc1TzhIdmFPak1RU1RMUkFsb3R2aXpCbTAyR0d0cDQ0WWpmNjFDUmIxaDI5X2h1dzMwZnlPaDJnaGZDMnhRY1pkY29kRlVnUQ?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-05-04T08:43:00+00:00",
+      "description": "Ukrainian Drone Slams Into Skyscraper Near Central Moscow  The Moscow Times",
+      "query": "drone crash",
+      "detected_at": "2026-05-05T12:30:35.331571+00:00",
+      "location": "Near Central Moscow",
+      "category": "other",
+      "id": "bfea4bb16c52"
+    },
+    {
       "title": "Ukraine slams Russian 'cynicism' ahead of separate truces - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2p4OEM3cUdURVpLcDNXMkJuZG1aTXNRVU5JdEk2T0NiN1hUX0RSTGpyRndYdy14a0QxeERPRmV5SkV5OVdiY2VOSU0tUzgtRDlRc2pFc1FxTVN4WkxyT1ZLNEd6LVZEZlpnczlueFo1YnpVNU1wb3V2ZG52ZElxN0pITHBqNGtCWDNETnY2NTJkbmwzRWpYOURudzBjYmZXMzhXMDFuR3h1UdIBtwFBVV95cUxQY0VZNWVJU2lXNHU2dUMtUXl3WVVpUm8zd0VqaldIb3JDMXNEVzlmaS0yS2NsVTB2NUdvTkNDR0RyckcycjZ4X1M4eHlkNElIRGZ1UjcwNXAtckhJeTR1LTJCeTRFWTBpX21jWGctaE5VUkI0aXFBemNObjlrdWtoSDZYNi1ibnVPZkJHU1BVTkl1SjZxWV8yQVBDOFZhWG81QU0yZTI2cDdTa0JuQWYzaUNKWkg5OHc?oc=5",
       "source": "The New Indian Express",
@@ -11975,32 +11999,8 @@
       "location": "Near Our Military Bases",
       "category": "security",
       "id": "a525bad2e674"
-    },
-    {
-      "title": "Iranian Army Reports Drone Strikes on Al-Kharj Base and Camp Al-Udeiri - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktYbnEzWVVQSFkxZ2dnLUxLME01b0t0c19Vd1NkbV9qUTJIbGVrdGVUWHlwczdIMjIxcUhScVFJVWhxaWMtenBFZnljZHdTWTJOZUZ5dnMxTUl5LTdxR1hfZHpxUExiVkI5S01jcDFGVUtUREpqVUZ4bXlNS1NjU1BrT1lINGJVWWpkdG1IaVZaQWtq?oc=5",
-      "source": "WANA News Agency",
-      "date": "2026-04-06T15:03:54+00:00",
-      "description": "Iranian Army Reports Drone Strikes on Al-Kharj Base and Camp Al-Udeiri  WANA News Agency",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-07T12:24:03.810167+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "821a2a3a1325"
-    },
-    {
-      "title": "US Air Force YFQ-42A Drone Prototype Crashes Minutes After Takeoff - Aviation A2Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGtSVGtlSWJEaVpQUzdkMG9MWHhvQUNJS05DQ1VqV0x1NGsyV0FuSUVUczUxZ2djTnloQXYxSHBHN0JmY3ZwaTc1MU9GMkJwUWdSZW4tUXo0cWRGQzh2Q1VuT19yUTRHQWJ4dGltd1UwNlJ5TXR4REczVWtmR1VNSXF5ZUFvUkhGcm9PZVFaT2tORlBW?oc=5",
-      "source": "Aviation A2Z",
-      "date": "2026-04-07T12:12:41+00:00",
-      "description": "US Air Force YFQ-42A Drone Prototype Crashes Minutes After Takeoff  Aviation A2Z",
-      "query": "drone crash",
-      "detected_at": "2026-04-07T12:24:01.904408+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a267706c0b84"
     }
   ],
-  "last_updated": "2026-05-05T11:30:54.766433+00:00",
+  "last_updated": "2026-05-05T12:30:38.261339+00:00",
   "total_count": 1000
 }
