@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FAA Proposes Drone Restrictions Around Critical Infrastructure - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzJqLUdxaGM1YktLQmNfenotTU5lUEZENXhRck1CSUthV2wxa1hJZmNDamRHUHBNa181d0lyaHFRQjBMWkcweGVoaUQxTWRDV25LbENwVVpaQWwzUHQ0TGtieFB0OWtFMWVYRmNBZlBzWExIQUstaEY5bGRTY2ZRbw?oc=5",
+      "source": "AVweb",
+      "date": "2026-05-06T15:24:40+00:00",
+      "description": "FAA Proposes Drone Restrictions Around Critical Infrastructure  AVweb",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-06T15:50:03.114195+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c6b253873b53"
+    },
+    {
       "title": "AFPM supports FAA proposal to secure critical infrastructure from unauthorized drones - American Fuel & Petrochemical Manufacturers",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjNialNsbjJaaDcweFM0UXhtRVRrTFJFWk03YlpOekdET2hWZ29PRVREWm14eHc3MEtCZ3Z0NXVVSFFudVdwR0xCOGhYWVJtbDZxa2Y5dUtHZ0trRDhrb1QtdjBsTlNSSFBHdGNGZndnQ1ZTSmlUSmpUMXhkWjlVMWtoYTlneld1LTY2NS14RUVqYWh2WWZIcjNteE50Wm90ZDhIM3Q3dEJpWGxv?oc=5",
       "source": "American Fuel & Petrochemical Manufacturers",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "33c07b3b7623"
-    },
-    {
-      "title": "AWS Data Centers Hit by Drone Strikes in Middle East War Zone - techbuzz.ai",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGllbVo0eFRMakU0RTRzTkxySk1vRjlqbC1ELWlRRkhpeXNEVGVia2lOTVNDcXg3NmdhaWVtYTd0NEZnUkFVbmlSRGdGd3IxYXRLZEduUUFvRWM1bVE4OU1UREZqNWJZT0gyRk12TkF5bWVaV0U3YnVMX3JuZ2U2VUdCU003dHpRTUEtUTE4YXMwc2J6cWx3N1VB?oc=5",
-      "source": "techbuzz.ai",
-      "date": "2026-04-07T19:21:00+00:00",
-      "description": "AWS Data Centers Hit by Drone Strikes in Middle East War Zone  techbuzz.ai",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-08T03:07:41.169935+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "56304df4dee5"
     }
   ],
-  "last_updated": "2026-05-06T14:57:22.541720+00:00",
+  "last_updated": "2026-05-06T15:50:03.694117+00:00",
   "total_count": 1000
 }
