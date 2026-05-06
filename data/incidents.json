@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "AFPM supports FAA proposal to secure critical infrastructure from unauthorized drones - American Fuel & Petrochemical Manufacturers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjNialNsbjJaaDcweFM0UXhtRVRrTFJFWk03YlpOekdET2hWZ29PRVREWm14eHc3MEtCZ3Z0NXVVSFFudVdwR0xCOGhYWVJtbDZxa2Y5dUtHZ0trRDhrb1QtdjBsTlNSSFBHdGNGZndnQ1ZTSmlUSmpUMXhkWjlVMWtoYTlneld1LTY2NS14RUVqYWh2WWZIcjNteE50Wm90ZDhIM3Q3dEJpWGxv?oc=5",
+      "source": "American Fuel & Petrochemical Manufacturers",
+      "date": "2026-05-05T12:00:00+00:00",
+      "description": "AFPM supports FAA proposal to secure critical infrastructure from unauthorized drones  American Fuel & Petrochemical Manufacturers",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-06T14:57:22.046529+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c3f751cbdb99"
+    },
+    {
+      "title": "Two soldiers hurt in Hezbollah drone attack in south Lebanon; IDF hits terror sites - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbU9vcEJiTmFiOW5SY1g4bU5kMUhhMFBxOG5pOGxHTDVsV2IzV0QyVHZ2Z1JfZkJFN2hHbVFBWmVGYjc4SG5Za2owbTZiNlZQLWVJempWSGtRTW5oMWp2OEh6RmtYWnZwcDNDdUdhUnB3YWo4ejNZSC1PbGxwVjEyWmdwRW1PcHJrd2p3LUpZRkw1SVRKdzJUYWpuZUxuVTZLTjgtWi1tM29mUFdzcGhNSlNpd9IBuAFBVV95cUxPNU1jOGllX2poc0JFd0k3dl9uWTJWQkQtWlBybHg2S2k4WXE1d3V2UDdwX2JXd1JuSzdzaHRmNTRqYjZOYlRNSk1TSFVTMGNPbjliX3JvRnBITG0zWVp6Zl9Cc3FzdTJ4M0Q1WVZDT25TbC1CWXJpWkNZdi0wckREYjhXcTR4VDJNX0tXMkNtVXJCXzN6cWtzaTlSaks4dlBRd1JHUEdrVWhET1FwNWJhc1BtTzdPVk04?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-05-06T14:42:46+00:00",
+      "description": "Two soldiers hurt in Hezbollah drone attack in south Lebanon; IDF hits terror sites  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-06T14:57:21.490399+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "97744648f631"
+    },
+    {
       "title": "Flights temporarily suspended at Dubai's airport following nearby drone incident - Edition.mv",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSYlRMbTQ2NnhrR0hpTGVDUG1XMHV4dlVVbkFHZWdhMFVIc05IdTYweVh3WGR1cTR4dFFLQ21wTU5FOHZTRmhOMU8tb0ZsdXBySWNDbWtHdUg0U1NpLUxv?oc=5",
       "source": "Edition.mv",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "56304df4dee5"
-    },
-    {
-      "title": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered - WKRC",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTERPdGhTWVVfZ25hUUtEN3BZWE9yRFpxWnBCTkxETnJkTUIyaHFZVk8xQjJ0eFdlbjh2Rk15bnJKeVpLZ2ZLdG8wek5ldzgtUkpZOC1VWkVMd3EtUzZpYkF1aEg2N2pxRHhWRGxDT0JWQU9fWjNjNXJwUDMzWG9sNzlleVdZYXUweEdYTngwWmdTZ0RvSFZQR012a0JmYW1FMDFsZXAxQ1V5YkJ5ZDFPTVU0Ni1YRS1WUzBCT1VHbTJyT0JReWlIQWp4T05FOUxmZVhsU0V0VVZ1M2ZVV0hWc05CcmJvN1VseGNCc25hOGVONXlOMHRQT3lQcHhnMTc1ZTFSSmU4VVB6M1VqX05VaFYwanlweWFlai10WmwzWkJodnp3U2VRWVdhYU1YeEpnR2xiRk1aNE83OTFZNDNDWloxOA?oc=5",
-      "source": "WKRC",
-      "date": "2026-04-08T02:17:10+00:00",
-      "description": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered  WKRC",
-      "query": "drone arrest",
-      "detected_at": "2026-04-08T03:07:37.455014+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "aa4151dc7171"
-    },
-    {
-      "title": "Vilkovo Strike Linked to Azov Sea Drone Attack Incident - voennoedelo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVJxTUpjcXJZbEJmU0tRWkZ1ZFY1Um9vTTNQY0pDLUYxVzVpMm5UbDFRLVZJS2Rkc3lmak05Ym9Ka0hPUTAzRG41YV9kRFg2Uzd6LVhkSlN2ZDNCdEZwZzdPaFNqMVBpVTFEMUtjUVJGUGlnTG9SVllqZ0pmZ3lfaHVnQ2VXQUJYYlk5Z0p2VE50TFFJX09XU2tBTjLSAaABQVVfeXFMUHpuNkF1M0ZZaTBqNHh0TjNrTXhhZ1RTWkFORnZnM0tFQXhTRlUxNXBBTE51M294aW9IWmpBUlltRmtwTnY0bW5aV21sM3BIT2hPamtra1RrR1ljNjlIbTlwNG9TY0lIQ3YxdGNKdjZEQlJWaGlvZXB2c1U1aUZmeFN4ODBXNDV3UFF5M3UwSExCeXZhRGJWMGJSMi0wbUw5Rw?oc=5",
-      "source": "voennoedelo.com",
-      "date": "2026-04-07T10:41:03+00:00",
-      "description": "Vilkovo Strike Linked to Azov Sea Drone Attack Incident  voennoedelo.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-08T03:07:36.892060+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6e556bb0dc6c"
     }
   ],
-  "last_updated": "2026-05-06T13:38:40.785435+00:00",
+  "last_updated": "2026-05-06T14:57:22.541720+00:00",
   "total_count": 1000
 }
