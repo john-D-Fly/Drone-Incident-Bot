@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Public Urged To Follow No Drone Zone Rules During World Cup - News12 | New Jersey",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTlLcFVWVXRoSmlDRmJnekE4dTdCeFJYYTU0WTJ6MEpJUWFTRXBOMFo5R0VrenF5cXExNDdLRE9XNnJmSTNXVl9GMlRpTmdQWEVoOFRQVUpmd3FBaWwwYlJMNGs0dlRGdXRqRnI2WHJZSEVrc0d6LTRsMGlLN0p3LVljUGlmRTZ1aFpfVFJYWnFsVDZSV1FySXpTby1seTNJbkRjYkNRMFp3LWVWZ20zRWZoQWZOVUhNVEFrUXJR?oc=5",
+      "source": "News12 | New Jersey",
+      "date": "2026-05-06T21:54:33+00:00",
+      "description": "Public Urged To Follow No Drone Zone Rules During World Cup  News12 | New Jersey",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-06T22:19:45.113316+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "857dafd9dbc3"
+    },
+    {
+      "title": "Drone Threats Are Evolving; Data Retention Rules Are Not - Lawfare",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0FPZnM3WlNsaENvc3FMT0pmdndrSlVNQWZwMG9MMFJqZ2xnSHV3dGQ2ekRjU0FYdUJCVk5VbG5LOTE2T09SQkRKUjlmLWswc2JFNTFINEJ6ZXJyUExuMWFyTUttUGtwbTliZHpvakFMOG8xY3NkMmE1VnVucXY4a2lRY0p0Zl9obXJPVW1DX3FiaEtvMVBTSg?oc=5",
+      "source": "Lawfare",
+      "date": "2026-05-06T13:33:58+00:00",
+      "description": "Drone Threats Are Evolving; Data Retention Rules Are Not  Lawfare",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-06T22:19:45.113316+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "1bf480f0f28e"
+    },
+    {
+      "title": "IDF targets top Hezbollah commander in first strike in Beirut in almost a month - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbU9vcEJiTmFiOW5SY1g4bU5kMUhhMFBxOG5pOGxHTDVsV2IzV0QyVHZ2Z1JfZkJFN2hHbVFBWmVGYjc4SG5Za2owbTZiNlZQLWVJempWSGtRTW5oMWp2OEh6RmtYWnZwcDNDdUdhUnB3YWo4ejNZSC1PbGxwVjEyWmdwRW1PcHJrd2p3LUpZRkw1SVRKdzJUYWpuZUxuVTZLTjgtWi1tM29mUFdzcGhNSlNpd9IBuAFBVV95cUxPNU1jOGllX2poc0JFd0k3dl9uWTJWQkQtWlBybHg2S2k4WXE1d3V2UDdwX2JXd1JuSzdzaHRmNTRqYjZOYlRNSk1TSFVTMGNPbjliX3JvRnBITG0zWVp6Zl9Cc3FzdTJ4M0Q1WVZDT25TbC1CWXJpWkNZdi0wckREYjhXcTR4VDJNX0tXMkNtVXJCXzN6cWtzaTlSaks4dlBRd1JHUEdrVWhET1FwNWJhc1BtTzdPVk04?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-05-06T19:04:04+00:00",
+      "description": "IDF targets top Hezbollah commander in first strike in Beirut in almost a month  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-06T22:19:44.410792+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "86eb34c831d6"
+    },
+    {
+      "title": "Ukrainian Drone Strikes Deep in Russia Grow Public Alarm - The Jamestown Foundation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHM5b2p2QUpuTDBzS3A2NFBWR3JxejVfd29zQ2pCTUQ5WUNDNUlONkZYSTV6VXlUX0NBeklaRXZqQ0NxTVhTNGk4ZFpvMkhzVUlBRlR1Qi1mdnFPTEpLbHl6N1pqOGdTWDA5ei1acWgxOVVMTE9fTC1MMkVBZGlxSXlmTHpxZw?oc=5",
+      "source": "The Jamestown Foundation",
+      "date": "2026-05-06T21:38:59+00:00",
+      "description": "Ukrainian Drone Strikes Deep in Russia Grow Public Alarm  The Jamestown Foundation",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-06T22:19:44.410792+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "c435033fc121"
+    },
+    {
       "title": "UK sanctions 35 Russian operatives over alleged drone, migrant trade networks - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORHRPWmtXdTdibkpfM1oycjVIWjdhemNZTEhNcTZXb0N5TjdPSHBJeGZ6RktUMUxfYU1WelFmLUloV1Z5Y294cjBYandpVmE5dTJDcmlNMjNGY3ZTVjhFZUVoNnZNU0xPQ3dMZmJyZWoxYldTc1NjZTBFX1l2aFJrdnhNQnMwaldKUG9SRlgxbUdXcXNJX0dDSEhBQjc5Wkl4WGVMZA?oc=5",
       "source": "The Guardian Nigeria News",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "39c51c0b6739"
-    },
-    {
-      "title": "Unauthorized Drones Keep Flying Near Our Military Bases - ktrh.iheart.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1p1VTlUOUM5SnRjMzJ6YjdZSXhmR0cxS0phZWVIdGg2Rkhyd0lWRkF2VEJkRTlhaHJNbFhuSXNTVlFydEExX2dTQnFsQl9lNThURVY5MEJLNXhGQWdCOER2dWVlbE5KZE5SazlrdlVTUHpiRHNHdmcwSDU2RlZOaERlRE9yUWlzMWFfd2ZpOWMxTmlLY1B5VHA1VndYX3dPTnlJWWplMGVHaGpKMWdtZzQ4MW5jVGxjTVpjWDlrZUUtY0hJWXfSAagBQVVfeXFMTVFzMF9KQjQzVkVITFZCQ3RydDFwY0U4MkhTenNmUGMwRUhfOEJNel9FZzltSm9FRXVtMWpyWk42c2JvQXQtbU44WjlySVZXQm80VTBxNlJsQWFwWjVkbFBveG93VUx2RDVGdWIwLUNVQUJRX3JmOGNBMUdmUzZKcm9LWDNMd1FFREk5Y0E5QmlFNDRtSHFtMkpsYTBlcDNTbUM1QnA4bzRK?oc=5",
-      "source": "ktrh.iheart.com",
-      "date": "2026-04-07T08:30:07+00:00",
-      "description": "Unauthorized Drones Keep Flying Near Our Military Bases  ktrh.iheart.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-08T06:36:55.865603+00:00",
-      "location": "Near Our Military Bases",
-      "category": "security",
-      "id": "761281ff4956"
-    },
-    {
-      "title": "State issues reminder to keep drones away from wildfires - Alexandria Echo Press",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEhZMUxNQmNNb3A5bEpxV0VpRDRwZktaM0J4ZS1aUzlDWHNCZ09aaHJTTEdZZVlsOEFTSHNYTDM0RlJsTXg3dzVwbEdEMHB4VFpaSUJVQUlSZVJyQ2hCRU42S29pdUdqLXRNemdJWXFGZUM1OEtaYVZPbjU2a1RzcWhNbmdxVUMxb25waTZUTzQ?oc=5",
-      "source": "Alexandria Echo Press",
-      "date": "2026-04-07T18:11:00+00:00",
-      "description": "State issues reminder to keep drones away from wildfires  Alexandria Echo Press",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-08T06:36:55.865603+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2e71a2b46067"
-    },
-    {
-      "title": "Maryland Police Use Drone to Arrest Sex Trafficking Suspect - National Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0E3OG1SQm5wUXRrdElvdHdITl93dmdQSjIycG5ON1FQdW9qV3hZVXdnRmZGM1dQa2drc2NCeDRHTlRXb1NEVE5KNmh6OE9qQ0xVSUFvZHVMTlFiSC1IajA2MzMzTFlNYjNYNkFsZWM0eGxXMzl4RktRS1VqMU1fT05SOHpISzQ1bzdHdjVDaGx0cTlYaXBfSjQxNko5VkZqY3o4dTJKNndjZ2JwYWRqM3FpQzUzdw?oc=5",
-      "source": "National Today",
-      "date": "2026-04-08T05:16:07+00:00",
-      "description": "Maryland Police Use Drone to Arrest Sex Trafficking Suspect  National Today",
-      "query": "drone arrest",
-      "detected_at": "2026-04-08T06:36:51.884520+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a2e6284d0bb1"
-    },
-    {
-      "title": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered - local12.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTERPdGhTWVVfZ25hUUtEN3BZWE9yRFpxWnBCTkxETnJkTUIyaHFZVk8xQjJ0eFdlbjh2Rk15bnJKeVpLZ2ZLdG8wek5ldzgtUkpZOC1VWkVMd3EtUzZpYkF1aEg2N2pxRHhWRGxDT0JWQU9fWjNjNXJwUDMzWG9sNzlleVdZYXUweEdYTngwWmdTZ0RvSFZQR012a0JmYW1FMDFsZXAxQ1V5YkJ5ZDFPTVU0Ni1YRS1WUzBCT1VHbTJyT0JReWlIQWp4T05FOUxmZVhsU0V0VVZ1M2ZVV0hWc05CcmJvN1VseGNCc25hOGVONXlOMHRQT3lQcHhnMTc1ZTFSSmU4VVB6M1VqX05VaFYwanlweWFlai10WmwzWkJodnp3U2VRWVdhYU1YeEpnR2xiRk1aNE83OTFZNDNDWloxOA?oc=5",
-      "source": "local12.com",
-      "date": "2026-04-08T02:17:10+00:00",
-      "description": "Drone video shows arrest of 4 men in Cincinnati; stolen gun, car recovered  local12.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-08T06:36:51.884520+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f5aba73ef631"
     }
   ],
-  "last_updated": "2026-05-06T21:26:48.166509+00:00",
+  "last_updated": "2026-05-06T22:19:45.696388+00:00",
   "total_count": 1000
 }
