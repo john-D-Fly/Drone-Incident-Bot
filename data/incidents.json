@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Man arrested after foot chase, drone search in Live Oak - MSN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0dfdGtWS3k5b2NEemZTX3NZa2toN0tsS082Y2IxNmhDQjNuUGtaOU4wamtDVUUtTV9ESUd2YTdSekFkWUVadjB1UlFhZmxDMGZMYmROU0hnTnVZX182YmJ2UzRFMWpiM2NwNFVoMzN2Z0pyVktrbmVqOTJoODR2X3hHQ3lUMklzZXBqVTA4ZUxMbFBzRjg4UVRqNnlBUmo4alJiMlh3?oc=5",
+      "source": "MSN",
+      "date": "2026-05-05T23:53:20+00:00",
+      "description": "Man arrested after foot chase, drone search in Live Oak  MSN",
+      "query": "drone arrest",
+      "detected_at": "2026-05-06T16:35:06.286406+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "dae40f1a37e0"
+    },
+    {
+      "title": "Sudan and Qatar Aviation Crisis Deepens After Khartoum International Airport Drone Incident Disrupts Regional Air Travel Confidence: What Global Travelers Need to Understand - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNbzdBTmxzMEZDc2ZXMDRjU3NyOFNNRFFUY1ZLZmdnSERiMzljREtodEhHSW8yQjUxTkFaMmdQUU13Qm5IYmVITFc2NV9EcnFoOXJzUnBDdURlY1pJZ3lyVWJRdzRvZ3phaWJhTVJXRU9idHhjcXQwa1VmQndIZVpsM2loZzRhWmhCQ2VBd05FMGowYm05cEFuaVhVbWlzQmotOEhMZTREVU9RUW5pVEhRdXJwQ0JHamtPRU5oZWctT3NyV0RWUTIzRG0tQ2Q1Vm5qSG1kaFhEQnNuSlFKOHlYZFBESWxXUnBOSzhpRHpmVHFhUFUtQ3BHM0NGR0hITlcwXzhUZ3c5cjVzRjB5WDBIeEY0eElDZ1hjSXFMOG9lUFg0RVpSZlRYYmM1blB1Y0VjQXlSTWFQTW5fSzdKNk5MZGtJYw?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2026-05-06T10:25:53+00:00",
+      "description": "Sudan and Qatar Aviation Crisis Deepens After Khartoum International Airport Drone Incident Disrupts Regional Air Travel Confidence: What Global Travelers Need to Understand  Travel And Tour World",
+      "query": "drone incident",
+      "detected_at": "2026-05-06T16:35:04.776819+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "5c5af98e78fc"
+    },
+    {
       "title": "FAA Proposes Drone Restrictions Around Critical Infrastructure - AVweb",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzJqLUdxaGM1YktLQmNfenotTU5lUEZENXhRck1CSUthV2wxa1hJZmNDamRHUHBNa181d0lyaHFRQjBMWkcweGVoaUQxTWRDV25LbENwVVpaQWwzUHQ0TGtieFB0OWtFMWVYRmNBZlBzWExIQUstaEY5bGRTY2ZRbw?oc=5",
       "source": "AVweb",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "4e2c51608f21"
-    },
-    {
-      "title": "General Atomics’ Dark Merlin Drone Crashes During CCA Flight Test - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YYWtCODJEdDlPX1NUUlhTZC01YnpQcDhIUE1mak11TUNXQk4tblVUQU14VWw4RjBaVmdNdVRENEZzcmZmUzl4MzRmZ1M3c2Q2RlhQcy1TVjlpTGlNZWxJQzlfSDhodV9lZEZKVng3UzYxbWVlcjJYcmh30gF_QVVfeXFMTVZJTXVES2pVOHJxQ1A4NFpSOTA5U0lDT3pFcVUxMjhfd0lqYTBNb2J1QjNaakZDWWQ1cjcwcjBRSWhlS1lqWjVienIyNWFNYWxGeHZ0Tm5EMmZoRkk1dGJlNHpkaDdtTGQzTXhyaFpSc0hULVExRTRfcXFkaUFGVQ?oc=5",
-      "source": "The Defense Post",
-      "date": "2026-04-07T10:25:52+00:00",
-      "description": "General Atomics’ Dark Merlin Drone Crashes During CCA Flight Test  The Defense Post",
-      "query": "drone incident",
-      "detected_at": "2026-04-08T04:52:46.030688+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "da0739e3d5aa"
-    },
-    {
-      "title": "General Atomics Pauses Autonomous Drone Tests After YFQ-42A Crash - thomasnet.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42aTlDaExSekZ0ZE0zSkQ2SVZPTy1JNkFSaGhmU2pmUlVyclRzM2VrX28zbkNTUGtkU2ltNjloNUxvc2FESWpwdWsxOWhpa09ERGZWWDBHVjVDb1doTkhFZ3hHWnBjbUV2VWtJV1ozazRjWDg?oc=5",
-      "source": "thomasnet.com",
-      "date": "2026-04-07T19:38:58+00:00",
-      "description": "General Atomics Pauses Autonomous Drone Tests After YFQ-42A Crash  thomasnet.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-08T04:52:46.030688+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "33c07b3b7623"
     }
   ],
-  "last_updated": "2026-05-06T15:50:03.694117+00:00",
+  "last_updated": "2026-05-06T16:35:14.322728+00:00",
   "total_count": 1000
 }
