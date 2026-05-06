@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Flights temporarily suspended at Dubai's airport following nearby drone incident - Edition.mv",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSYlRMbTQ2NnhrR0hpTGVDUG1XMHV4dlVVbkFHZWdhMFVIc05IdTYweVh3WGR1cTR4dFFLQ21wTU5FOHZTRmhOMU8tb0ZsdXBySWNDbWtHdUg0U1NpLUxv?oc=5",
+      "source": "Edition.mv",
+      "date": "2026-05-06T07:08:50+00:00",
+      "description": "Flights temporarily suspended at Dubai's airport following nearby drone incident  Edition.mv",
+      "query": "drone incident",
+      "detected_at": "2026-05-06T13:38:34.289953+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "62c4be27d5f8"
+    },
+    {
       "title": "Smart meter SIM thefts along PAK border ring drone-smuggling alarm - MSN",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTVYYkotQUJxRGkzZVpZZjdrOEE2Mm5BRXowNVFGeHY1NHhSblc4WnR6MHBBN1l3QlQ1ZTdGemYzZnRLVlJvUTRPSzdSTEEtb3c3czN4QUtaNEYzWnRqbmpWaEtPMjZycDlRU3lIWnN3R2swSVBqa2tYYXhQd0FkM3ZpOGZfSmo4NmFxckZ1bjhudFNsc3ZRb2dNeDVpWnRUbF9nNE9tM2x0LTNUTDkwU0E2YXZ0UQ?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6e556bb0dc6c"
-    },
-    {
-      "title": "General Atomics Pauses Autonomous Drone Tests After YFQ-42A Crash - Thomasnet",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42aTlDaExSekZ0ZE0zSkQ2SVZPTy1JNkFSaGhmU2pmUlVyclRzM2VrX28zbkNTUGtkU2ltNjloNUxvc2FESWpwdWsxOWhpa09ERGZWWDBHVjVDb1doTkhFZ3hHWnBjbUV2VWtJV1ozazRjWDg?oc=5",
-      "source": "Thomasnet",
-      "date": "2026-04-07T19:38:58+00:00",
-      "description": "General Atomics Pauses Autonomous Drone Tests After YFQ-42A Crash  Thomasnet",
-      "query": "drone incident",
-      "detected_at": "2026-04-08T03:07:36.892060+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f60bf7f2b2bf"
     }
   ],
-  "last_updated": "2026-05-06T11:36:50.955748+00:00",
+  "last_updated": "2026-05-06T13:38:40.785435+00:00",
   "total_count": 1000
 }
