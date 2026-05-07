@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Texas DPS gets $3.2M to boost drone security ahead of World Cup - KHOU",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFl0c2pjZENBMlAtdy0xVUJiZ1pxX0NqV2JNYmpnRmRzcVN2TGtZXzhFTFpSMmxNcTlZZVlGdy00V2JxUWxSWGhuOTdZMlllaXYyRkFzQ0ZqVWFPT1UzRl9lQ2FlV2RNYjhnMjFTc29yckVjMTRQR29tWThEYjBVV1o0OUhRc2pGcTJySUV2N2J1NV9oWGpKV085OGpBS2otNmxZRTJpWlpZbFE2a0ZBbEhZRW1JSkZkZFE?oc=5",
+      "source": "KHOU",
+      "date": "2026-05-07T00:43:00+00:00",
+      "description": "Texas DPS gets $3.2M to boost drone security ahead of World Cup  KHOU",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-07T13:37:29.906734+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fdbf5199ca25"
+    },
+    {
+      "title": "Latvian police debunk fake claim that Ukrainian drone hit passenger train - Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnJXRTdCaWlqcDVlcFgtbVBBc3M2SGt1Y21DYnRkNUJtdHJFRS1CSEgtVG43ODlIS3FBNUNpQldRZEoweVlSQVRRNTZZUk55QWgtRE9ad1hFX0t1LXVIa1lUM2xqaXZrSUwzMzg4MlNHclN3bXEtc3JYejBxdTlTaWRXRW5sLVYtU292MWowMWNlOWhxdF9vOEVYVm1FQU1sRTMwYjIwanNkVTlEb1ltcElhdw?oc=5",
+      "source": "Euromaidan Press",
+      "date": "2026-05-07T09:47:13+00:00",
+      "description": "Latvian police debunk fake claim that Ukrainian drone hit passenger train  Euromaidan Press",
+      "query": "drone crash",
+      "detected_at": "2026-05-07T13:37:27.496877+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "80f6344922d5"
+    },
+    {
+      "title": "Latvia says Russian drones entered airspace, 1 may have crashed near oil facility - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVFMDJvUHU2T3E0dGgySW9PZVh0bmltNHN2MWpxcm1fR1BqN2lDRjJ6ZFJmR2puV1V3ZU9wT2lISldxN3NiaGpuTnNYc3R5TDdOWjFtY29jaF8wQ0R5SEd6Ym5qRnJpZGdKOHhmNUdqc3NqbGhaMDBXU2RWcS16b0RHTU9nRExLYjRkX1l2YkcyLW5HMS1rYkZ2YUszaDU5VUcybFNIOGR6bk5VR0dHMjFKRGI3NHk0Z09QUFVfalQwWms?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2026-05-07T10:57:58+00:00",
+      "description": "Latvia says Russian drones entered airspace, 1 may have crashed near oil facility  The Kyiv Independent",
+      "query": "drone crash",
+      "detected_at": "2026-05-07T13:37:27.496877+00:00",
+      "location": "near oil facility",
+      "category": "crash",
+      "id": "465fa30cd0dc"
+    },
+    {
+      "title": "Latvia reports Russian drone incursion and oil tank damage - AnewZ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckg4RUVEMXdsY0QzczNoN2s3V3dVN0d0WTVBd3VHQ1dnVzNWd0N0X3FkNTZzaXFzOEgtTHduQ1RvN0hvXzVDS0ZtS3B1ZFYxZU81NU04a280QmxkYVl4YTlob3FDX3RxWF9wLTczdUVyZEhUM1lYcWNvRDhTMEdiTVlEWWpiaHRidmhZUlRPdw?oc=5",
+      "source": "AnewZ",
+      "date": "2026-05-07T06:05:12+00:00",
+      "description": "Latvia reports Russian drone incursion and oil tank damage  AnewZ",
+      "query": "drone incident",
+      "detected_at": "2026-05-07T13:37:24.489880+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "85e9798ba2a3"
+    },
+    {
       "title": "Police warn of tough action over illegal drone imports - Newswire",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTFYNFZQOXZLaVpJakZxdG5fdGE0OUE3UWlNZEFLYzFpc3pMZ1BGU1VfbmoxcFY5c0ptcGhEUlRYSHhlb0VNdlg0N3daazNVcWV3YS1Ccm9tYUY3UG9nYkRjb3ZlbGVWN3JucmFGM3FYZXdiV2RhN2pWSE1zWnhxRVZ1c1Y0NEwxWTRYTHZ5SkdTRVJ2?oc=5",
       "source": "Newswire",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "surveillance",
       "id": "3daee87e986a"
-    },
-    {
-      "title": "Report: Dubai 'arrests foreign survivors of Iranian drone strike' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkwyOW5ja1VXM2tvMEsxM3laRWRMLUt1N2F5a3ZPbTdNS2ExWnR3WjlhNUd5SHNJMXYzdldTWVRMMzY1NWZzYy1YbVp3b1d2TXZ5aVktOFNYSzByVUhtdXVoa0VnZmpwR0xLcEkzZGp3OURnOFZ2RlVoSnRaRDVxbWhNRkZNU2RfNTZNVVRjbElnYkNUZWdZT0pkdExyUG94Nk5yYU1oR29BNE9mNTB4VXRhY0U5Wkd1ZHdyN2NDeW1TZw?oc=5",
-      "source": "MSN",
-      "date": "2026-04-09T12:34:17+00:00",
-      "description": "Report: Dubai 'arrests foreign survivors of Iranian drone strike'  MSN",
-      "query": "drone arrest",
-      "detected_at": "2026-04-10T00:35:21.299275+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "30cb016ebb7f"
-    },
-    {
-      "title": "U.S. Navy MQ-4C Triton drone signals emergency and disappears from tracking over Persian Gulf waters - Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUpaZ1JyWjhFXzYxcXNNN1ZnVnhyM2o5bzl6QWc1cE4tdS1iLTdIMFVNbVFEWVBvUlA5bzNmanl2dGc0dTVEeFdfbWtFbmFRcTRmQ3ZzRHNrZlNtbElpckV5THg3bEdMZFhIMVNxTDc3STB1SEsyTmZBblo2R3EtdHN6c3JhWjdOSkFLNXl6eGZ5OE5vQmREOVdRaTFwUmRlcmdIQUl6OFpzQWN6WHdZQ0wzb0JCV3VPSGVxT1M5UTd4REdEZlBZ?oc=5",
-      "source": "Defence Industry Europe",
-      "date": "2026-04-09T18:30:07+00:00",
-      "description": "U.S. Navy MQ-4C Triton drone signals emergency and disappears from tracking over Persian Gulf waters  Defence Industry Europe",
-      "query": "drone incident",
-      "detected_at": "2026-04-10T00:35:20.608260+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9f3ae587a15c"
-    },
-    {
-      "title": "Exclusive: Baghdad Arrests Iranian Officer in Connection with Drone Attacks Inside Iraq - الحرة",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ibVFkSEdnVFdFa0ZmLUNIV2huYmJva0pnWUdDX0RGVXNLLXR3ajFJRk00OEpHM3F3NzVPbWpEWjBHQQ?oc=5",
-      "source": "الحرة",
-      "date": "2026-04-09T20:22:20+00:00",
-      "description": "Exclusive: Baghdad Arrests Iranian Officer in Connection with Drone Attacks Inside Iraq  الحرة",
-      "query": "drone arrest",
-      "detected_at": "2026-04-09T21:18:35.630778+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a9c7f5673bfe"
-    },
-    {
-      "title": "U.S. Steps Up World Cup Security With Drone-Controlling Devices - FLYING Magazine",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qQlJzU05KQjJuZUpGc2ZLSk5XZkMxSGNhWC1UWEVnMTc1T0RyS2VDSXl3WjZQTWJmTGZMRzl0MThacmY4RFZ1S0NwbWVhSGlRTHlTRHp6RXJOWS1FV0QyVDdwd1B0LTlMRjZ0RlhZcFFrcnc0MFhR?oc=5",
-      "source": "FLYING Magazine",
-      "date": "2026-04-09T13:00:00+00:00",
-      "description": "U.S. Steps Up World Cup Security With Drone-Controlling Devices  FLYING Magazine",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-09T19:29:44.287445+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0c9acdf1fd92"
     }
   ],
-  "last_updated": "2026-05-07T12:43:10.616015+00:00",
+  "last_updated": "2026-05-07T13:37:30.498602+00:00",
   "total_count": 1000
 }
