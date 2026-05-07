@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a significant increase in drone-related incidents, particularly in Latvia and Texas, indicating heightened geopolitical tensions and safety concerns. Multiple drone crashes were reported in Latvia, particularly involving Russian drones that entered the airspace and crashed, with one incident causing damage to oil facilities. Simultaneously, the Texas Department of Public Safety has announced funding to enhance drone security measures in light of upcoming events, including the FIFA World Cup. Incidents of drone smuggling and unauthorized imports have also been highlighted, prompting law enforcement to increase vigilance and regulation, particularly around sensitive areas and prison facilities. Overall, this period has underscored the evolving challenges and responses associated with drone technology and its impact on public safety and security policies.",
+  "totals": {
+    "crash": 14,
+    "arrest": 10,
+    "smuggling": 6,
+    "other": 24,
+    "terrorism": 6,
+    "airport": 8,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 13,
+      "arrest": 8,
+      "crash": 30,
+      "interference": 1,
+      "other": 46,
+      "security": 2,
+      "smuggling": 12,
+      "terrorism": 8
+    },
+    "by_query": {
+      "drone arrest": 15,
+      "drone crash": 24,
+      "drone illegal": 11,
+      "drone incident": 30,
+      "drone prison": 7,
+      "drone smuggling": 5,
+      "drone terrorism": 12,
+      "unauthorized drone": 16
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Russian drone incidents in Latvia",
+      "rationale": "Multiple incidents involving Russian drones crashing within Latvia highlight potential risks connected to geopolitical tensions.",
+      "incident_ids": [
+        "465fa30cd0dc",
+        "85e9798ba2a3",
+        "3d485b09504e",
+        "f0c2538089fd",
+        "fdd9b7187e7d",
+        "2b40d6d6e848",
+        "387b5bfac890",
+        "f6d021ba4733",
+        "82ae99b47852",
+        "6e458ae13f13",
+        "f027c11792f4",
+        "9bfb58d0ae7f",
+        "bc8cce4fe0b6",
+        "f2d50b3ed7b4"
+      ]
+    },
+    {
+      "topic": "Drone-related arrests linked to smuggling and illegal activities",
+      "rationale": "The occurrences of drone-assisted arrests underline increasing concerns surrounding drone misuse for illegal purposes.",
+      "incident_ids": [
+        "3874a33ee959",
+        "cb7d8b3ef26a",
+        "4b988053d80f",
+        "4d7c2b32eb40"
+      ]
+    },
+    {
+      "topic": "Drone regulations and increased security measures",
+      "rationale": "Several articles focused on enhancing regulations and technological measures to combat drone dangers around public events highlight ongoing policy responses.",
+      "incident_ids": [
+        "fdbf5199ca25",
+        "6375298744e2",
+        "0c1b66462c8b",
+        "45d2e47564e7",
+        "13705f9bbf4f",
+        "f57d713efcba",
+        "c1f97b0c4c73"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "465fa30cd0dc",
+      "headline": "Latvia says Russian drones entered airspace, 1 may have crashed near oil facility",
+      "one_sentence": "Latvia reported that Russian drones entered its airspace, with one crashing near an oil facility.",
+      "risk_tags": [
+        "crash",
+        "geopolitical",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "387b5bfac890",
+      "headline": "Laredo man arrested after drone tracks him hiding in brush following vehicle break-ins",
+      "one_sentence": "A suspect was apprehended in Laredo after a drone tracked him hiding in the brush post vehicle break-ins.",
+      "risk_tags": [
+        "arrest",
+        "crime"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fdbf5199ca25",
+      "headline": "Texas DPS gets $3.2M to boost drone security ahead of World Cup",
+      "one_sentence": "Texas Department of Public Safety has secured $3.2 million to enhance drone security in anticipation of the FIFA World Cup.",
+      "risk_tags": [
+        "security",
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "de41b5bd8334",
+      "headline": "Two drones crash in Latvia after crossing from Russia",
+      "one_sentence": "Two drones crossed into Latvia from Russia and subsequently crashed.",
+      "risk_tags": [
+        "crash",
+        "geopolitical"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the last 48 hours, drone incidents surged in Latvia, with Russian drones crashing, highlighting increased geopolitical risks and security challenges.",
+    "linkedin": "Recent drone incidents in Latvia underline the growing complexity of drone regulation and security measures in the context of rising geopolitical tensions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-07"
+}
