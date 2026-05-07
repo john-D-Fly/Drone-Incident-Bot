@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "DPS Secures Drone Mitigation Technology Ahead of 2026 FIFA World Cup - Texas Department of Public Safety (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVA4T2V3UzRYM0piZEZfMGZLUmNFUHpkVzluVTk2ellQN2FWX2Z6bnhrQUVJMWg3QUFBaVRGQzlRdkdsSFdWR2dSTlBlLTdQRHlHTk5Pb1Z0bmJaUHZ2Y2VFeXlKcFdwSTI4dV9VREtsc1FJc0NER29WWVZPYVZzSk1xQWp6Z2FSWmFMSV9tSzBzTXdXaWNJMm16V2s?oc=5",
+      "source": "Texas Department of Public Safety (.gov)",
+      "date": "2026-05-06T16:10:46+00:00",
+      "description": "DPS Secures Drone Mitigation Technology Ahead of 2026 FIFA World Cup  Texas Department of Public Safety (.gov)",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-07T10:49:53.188132+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fa411c99a14c"
+    },
+    {
+      "title": "Two Drones Crash in Latvia - REFORM.news (ранее REFORM.by)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Zb3VoWHZTZGY2dVNmRGJRYWlVVUNvZXlldHhzNmxnRUEtYXdjOFREbVR6eWZoOU9NZFVuTTBLSzEwZmJSc1h3MjZQeUNRREdhbUVLYzV6bnluSmhoYnfSAWNBVV95cUxQMEZaR1p3alBWbnllNldWSFoxZ1FqU3Bidll3TkVheDBpT0IxN0lCVzV6dGczcDA1a2lwWFlOY0luZmppb3pzOFFEV1ZDUkVYcE1Pcl96R1hqRkI4YVBaeFRNejg?oc=5",
+      "source": "REFORM.news (ранее REFORM.by)",
+      "date": "2026-05-07T04:27:48+00:00",
+      "description": "Two Drones Crash in Latvia  REFORM.news (ранее REFORM.by)",
+      "query": "drone crash",
+      "detected_at": "2026-05-07T10:49:51.170161+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "fdd9b7187e7d"
+    },
+    {
+      "title": "NATO fighter jets scrambled over Europe as mystery drone strikes huge oil depot - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjdydklOTnpzelBGSWVKOGFpanVlX3FOdDFYMjZEZDdrb0JDbHJSTkJhdlNxcmMzVGhQelVicHA3cFNNYl8wZkt0ZU9kSFQ1T250WWJDM3FqbHVDcUViUlFWXzQtLUl4UGJIZDVISGR5Q2ZTc2dfUC1SdUxmRkZxTTlEdHRIVGg1LWfSAY8BQVVfeXFMTmotX052ekhEaGtBRmFaZzJINTkydVo5ZlphOEFHYXZMQnZmLWdFeHRQWl9mVmd5VHZpTlNjbmtSV0h1UnhiNGhjOXN1S3VfVWpmaEVvdExHa1F2TUlHVHYxY3p2eW5XcDVGLXRqeHZiMVE3WDBWb0ZvSWFnbjJBWWtkcE9vS05UaTNvdTBPRlE?oc=5",
+      "source": "The Mirror",
+      "date": "2026-05-07T07:37:00+00:00",
+      "description": "NATO fighter jets scrambled over Europe as mystery drone strikes huge oil depot  The Mirror",
+      "query": "drone incident",
+      "detected_at": "2026-05-07T10:49:48.368058+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4c20562e6b83"
+    },
+    {
+      "title": "Four oil reservoirs hit in Latvia drone incident - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkdvQUlPVFBFUVByWkNTRXZaSE5lbzlrU0ZHOVh2dER2T1FORG9HQ3dHT0dsNkRuVUVER1VlMVBJZW5XY0VScmFDRVVlQkNWQmh6ZmFsU0R3NjViNnpaSUNJbFhqTHFnUzhIc2xZSUpTVGRUX0VMLU9tWTJSVldaYQ?oc=5",
+      "source": "Caliber.Az",
+      "date": "2026-05-07T10:31:31+00:00",
+      "description": "Four oil reservoirs hit in Latvia drone incident  Caliber.Az",
+      "query": "drone incident",
+      "detected_at": "2026-05-07T10:49:48.368058+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bbcbbc976b6f"
+    },
+    {
       "title": "Nato fighter jets scrambled as drones from Russia crashed into oil storage facility - The Independent",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnNMX1NlMWdsOFR2d0hjOTYxN1hVUi1KUm9yYnFwQkpVVk9BOU5aTHIzZEJNS1ZqQ0lLQ05zVDdMbXRsTlhlTjlJSmpCSmdfaThaeUt0VFQxVXFnUzdpYVB0bUYySXcxQW0zNE4tX2ozcHFKbE5kVjY0ajdhNTJOWTA5WmFaS3dXSzRjMjkyNFljN2ZkWVRnNmxFTQ?oc=5",
       "source": "The Independent",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "f11e5566ce49"
-    },
-    {
-      "title": "Kazakhstan forms special commission to investigate drone crashes - AKIpress News Agency",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1RmUl9UeldUWWY3QWNVM1g0Z21RcmpObFlhcEJ3MUJQaVk4NHdXUWt1THdaVldVaGxNbVZUbWJmXzBrNGFxcll4TGluR3hGbUxicEZOZGFYS1JMYzktVWpfVU4wMEZDZ0JicW1hdUpod21kdUEzVk5PV3RnV3JSeGNDMUFzWUEwRnJIem00bnViTGVjTW96THRqWlctSzA?oc=5",
-      "source": "AKIpress News Agency",
-      "date": "2026-04-09T07:51:00+00:00",
-      "description": "Kazakhstan forms special commission to investigate drone crashes  AKIpress News Agency",
-      "query": "drone incident",
-      "detected_at": "2026-04-09T08:35:38.906937+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "8cd80f07c1f2"
-    },
-    {
-      "title": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDVWeFpOa1R3NTBqSURiYnhjOTZJMkU1RU13bk5wenNxYzdWU1l2enY5Q1N6Q3pEM2JHMzR6Z2luMmJnSEQySktCalJWZmhIeU53ZWdXOXZVMjlYMW02TURTWTJYXzNPOXo0clJZUmhQLWVFbS02Tm1sV1JHOEw0cjMyWTU4aGpNdUZ2bWM3XzNZS1RsNG9MZTYtZHgwQU84SGJKR0lxb1JWZlFEblJma09iTnhqZmVEVjl4bXdtVXd6UGFUMlpuTzRfN1hpOHVRZEtfSl91V2NIdkt5elFaY3BMN05oRjFtdXkwQThBNjZjcFEzSzZHcUVR?oc=5",
-      "source": "MSN",
-      "date": "2026-04-09T01:01:52+00:00",
-      "description": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-09T07:35:43.910477+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "33321fa2b020"
-    },
-    {
-      "title": "Prototype YFQ-42A drone crashes in California, testing suspended - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjZkU191ckhKZjJ4RmVwNnB4b0tsVUYwNWxpWVNabWNqeW9feDJscDkyM3BSVWlBSUVJUzlvS0ZOVzhBdFJJLUF6Zm10VmlNRVkzRFM5c1MyOWd4WXdtdjE3cXM3V3pnbGFzOFUxVlY3TGpNUzVTcDl6bTZNMmh6VHBjYlNNdlNsT0c4WEZlUmRQV0cteG5Qbi0wVGhEWUUtWGIxQmJLQ1UzZkszV2F5THFKVFZVM1hMOUhuclNqN2NSemVtbXd4RllKZmhRY1ZGTTMyUzVqanZlNUNOOHpvZ1BHaXU5Tlp5MXJwSlNKV3l0bnBDWENiNw?oc=5",
-      "source": "MSN",
-      "date": "2026-04-08T06:56:06+00:00",
-      "description": "Prototype YFQ-42A drone crashes in California, testing suspended  MSN",
-      "query": "drone crash",
-      "detected_at": "2026-04-09T05:37:39.690171+00:00",
-      "location": "in California, te",
-      "category": "crash",
-      "id": "78d5955ffacb"
-    },
-    {
-      "title": "YFQ-42 AI-enabled drone crashes for the first time during testing - Sandboxx",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1dFNE02a1k0bDk0em0yT1dQWVpSbmhqTHBVOUdCdUtCbW9yMTJweDRyX21hSnFSUk15akxRSjV4c0c3MHdSRHpvd3oyYXktN0FfWE9KeGN4YkpCcXQzZWgxdHViRjlNbjdkSXJkMmtSSkhwR3AzOXYwY3FIck44cUlmZGtaOHF6WmRtQWZZXzlzQmlFRVRtSTU0Yw?oc=5",
-      "source": "Sandboxx",
-      "date": "2026-04-07T22:23:27+00:00",
-      "description": "YFQ-42 AI-enabled drone crashes for the first time during testing  Sandboxx",
-      "query": "drone crash",
-      "detected_at": "2026-04-09T05:37:39.690171+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "5838a47a2f54"
     }
   ],
-  "last_updated": "2026-05-07T09:57:10.244424+00:00",
+  "last_updated": "2026-05-07T10:49:53.644975+00:00",
   "total_count": 1000
 }
