@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian-type strike drone crashes in Latvia - The Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yVlZTaGlLRXdyTVFVQ0NrVzBMTUhuY0J6QTA2N2wwMHpydlgwQWdSREIyeTd5S0tRWlZGNFlzanZnbW5GY3JJb2V3YmZQMHpuaHJJX1c4RUlFY3FzQnRQTE05dTBpT1hIVE1EOGRuMHhLOHJ2cF9CV3c4a9IBgAFBVV95cUxQcGl1U3B0eXJqeUJ4djJYM3I0cnBoQmpZaXVLTGw4RndneUlIUzZ3ejBZeU43S0VwTzBCRVpkZ2dSM1FIeGlkUklwUzdIYW95YWNiSUt6d0ZKd0dWTWhjU0ZfYXoxVzJxeFdDQkMycTF5QU5pZ21JaTlycDZJODl2TA?oc=5",
+      "source": "The Defence Blog",
+      "date": "2026-05-07T07:21:23+00:00",
+      "description": "Ukrainian-type strike drone crashes in Latvia  The Defence Blog",
+      "query": "drone incident",
+      "detected_at": "2026-05-07T11:36:23.433263+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "997ca9323abd"
+    },
+    {
+      "title": "New DIRT Program Trains Personnel On Grounded Drones - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByNTA1SzFtVlpzVzJIeHhVc2NuSWRQbExWb2tEaUhqWC1qUTU1THE1UHo5OTcxdkwtaTZMeV82Q1hLc0IxSjJWVkhSamJoc2RGWktiZUlfdVFXd3psRzhFREk4OUxLYi1wb1Zn?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-05-07T11:00:00+00:00",
+      "description": "New DIRT Program Trains Personnel On Grounded Drones  DroneXL.co",
+      "query": "drone incident",
+      "detected_at": "2026-05-07T11:36:23.433263+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "700cebd035f1"
+    },
+    {
+      "title": "Latvian Prime Minister dissatisfied: drone warning was sent only after the incident - Baltic News Network",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFBRUmo3MDFCclR5NVhDZ2g5RVZqT3JNa3MzVHZkVkNEUlVzc3ZFVHBJSmQ2dWhhbVVQS1dES0tuYmZMOEdyb2Z6LXcyNF93U0RPOXZKcTNBOFZaM2dIc0ZNd1NUZW5NbGp6WFphV0Zxdi11a1pnbzlyQmU5MTRoVTZpZ29LTlN1cUtkY1BHMkZnSXlncnF6aDNwSjItdXQ0OHNCQWdrSFFpSXdxa0hV?oc=5",
+      "source": "Baltic News Network",
+      "date": "2026-05-07T11:01:45+00:00",
+      "description": "Latvian Prime Minister dissatisfied: drone warning was sent only after the incident  Baltic News Network",
+      "query": "drone incident",
+      "detected_at": "2026-05-07T11:36:23.433263+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "03866031e1dc"
+    },
+    {
       "title": "DPS Secures Drone Mitigation Technology Ahead of 2026 FIFA World Cup - Texas Department of Public Safety (.gov)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVA4T2V3UzRYM0piZEZfMGZLUmNFUHpkVzluVTk2ellQN2FWX2Z6bnhrQUVJMWg3QUFBaVRGQzlRdkdsSFdWR2dSTlBlLTdQRHlHTk5Pb1Z0bmJaUHZ2Y2VFeXlKcFdwSTI4dV9VREtsc1FJc0NER29WWVZPYVZzSk1xQWp6Z2FSWmFMSV9tSzBzTXdXaWNJMm16V2s?oc=5",
       "source": "Texas Department of Public Safety (.gov)",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "91c6992789f5"
-    },
-    {
-      "title": "Drone strike kills over 40 at wedding in North Darfur’s Kutum - Sudan Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rQ3dvVHA3V1hVMXdZcWxZQU5VTTRLeHVjb09ON3hXN1d2eVoyZGI4MHZqT1djb2k1VnV6R09pV1VLUElsMmlnSUFma3o5UEUz?oc=5",
-      "source": "Sudan Tribune",
-      "date": "2026-04-09T12:58:14+00:00",
-      "description": "Drone strike kills over 40 at wedding in North Darfur’s Kutum  Sudan Tribune",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-09T13:36:07.433196+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bce4acf0be7b"
-    },
-    {
-      "title": "TDOC tests AI, drones to boost prison security across Tennessee - WKRN News 2",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54T2Z0YXpvNTh5ZlQzZVZTZ1JFb0Rpa0ttWElKTDd2LUkwRWkyVnJ0U0ZOMDRBNHFJVXNzSE5WcWI0YU9CczJhYWZRSUpNMFNRaXdBZS0wNjFBeHN0U1diaFAxNWVZMDY0cWtqcVpoQm94d9IBd0FVX3lxTE8xb0ExeHZCcGdubGh3VmI2MndYTTVndm15TUY2bG1kdVIzRlJmdS1EYTBFLXJla1h0MUh3RHhMRFh3eTZ5Q3pxNWRUbmJnMGx1bUUzTGFLWHhpUDY3bnBObldaN3R4aEtfQV94YzU5S2dyaHJxeGRz?oc=5",
-      "source": "WKRN News 2",
-      "date": "2026-04-09T12:01:51+00:00",
-      "description": "TDOC tests AI, drones to boost prison security across Tennessee  WKRN News 2",
-      "query": "drone prison",
-      "detected_at": "2026-04-09T12:26:40.998118+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5806838ac0f1"
-    },
-    {
-      "title": "Barnstable Police Use Drone, K9 Unit To Arrest Vehicle Break-In Suspect - Newsradio 95 WXTK",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3h3YkJGSGl3ejhZdFNSeHhsYnRueU1qN3Q5VGRTc0Z6UXl4YXRMVjJqUXZ2OXZNOTNyTjJUb1F4aTFpT3EwNk03cGVNby1yVkc2ajJ6Z1BuOGlPWHNnMVFGNXNnUTYwYWxmcnFJa0NXSFFUWjFJZXRFUE5PNTR2cy1LV1dUaGZ1VV9IcDBVTF9ta1VFQ0hyaHRKWHFLaHJTSUJ0YU5xWThUSWVtSU9GS0hacDhNTDTSAb8BQVVfeXFMT08wd1dBeS16Q2p5d1RHU25JQngzWEJVZTMzZGhXR2ZLTHdwOHg5eWxyRlNOUFVLemNkZnBLU0w3SXRfZXdSSktUSlpWaEFfTVRZa19nOEwxdU1OZjJzVHVKSUsyREkwNFphVXVYanRIUkQxM2FxVVFQTFNwM3I0emxVZm5oUW1tRW9jbnhUQmdUTWRsVUJ5SmlUSWhWeFNEa3RCT1B0WDdmTlhrbFA5TkJPbDBOZDNLZW5fbG5oX0U?oc=5",
-      "source": "Newsradio 95 WXTK",
-      "date": "2026-04-09T09:58:00+00:00",
-      "description": "Barnstable Police Use Drone, K9 Unit To Arrest Vehicle Break-In Suspect  Newsradio 95 WXTK",
-      "query": "drone arrest",
-      "detected_at": "2026-04-09T10:28:20.785675+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f11e5566ce49"
     }
   ],
-  "last_updated": "2026-05-07T10:49:53.644975+00:00",
+  "last_updated": "2026-05-07T11:36:29.324593+00:00",
   "total_count": 1000
 }
