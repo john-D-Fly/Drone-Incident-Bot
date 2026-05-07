@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Nato fighter jets scrambled as drones from Russia crashed into oil storage facility - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnNMX1NlMWdsOFR2d0hjOTYxN1hVUi1KUm9yYnFwQkpVVk9BOU5aTHIzZEJNS1ZqQ0lLQ05zVDdMbXRsTlhlTjlJSmpCSmdfaThaeUt0VFQxVXFnUzdpYVB0bUYySXcxQW0zNE4tX2ozcHFKbE5kVjY0ajdhNTJOWTA5WmFaS3dXSzRjMjkyNFljN2ZkWVRnNmxFTQ?oc=5",
+      "source": "The Independent",
+      "date": "2026-05-07T09:06:00+00:00",
+      "description": "Nato fighter jets scrambled as drones from Russia crashed into oil storage facility  The Independent",
+      "query": "drone crash",
+      "detected_at": "2026-05-07T09:57:07.886914+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "81c2d1ab7331"
+    },
+    {
+      "title": "More drones crash in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamU0dXRTY2hiRzgxM2FoSHFoVG9kTzNaTnBJTXF6NjNqdnA3MTdjWFVDclFWTkRXbTV6TnlNRjc1MDdja3dldlpDVjAyMVdHZnp4M24yVGl6d0txWWRGZjBXWnY3cFVmcGhrb3NpV0tyRlpKS3pkWWh0YVNKQm40dkUwUnRTVG14eVZCQ0VJaF9VbDZ6?oc=5",
+      "source": "LSM",
+      "date": "2026-05-07T03:35:16+00:00",
+      "description": "More drones crash in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-05-07T09:57:07.886914+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "de41b5bd8334"
+    },
+    {
       "title": "Essex County Prosecutor Warns FIFA World Cup Events Will Be Strict “No Drone Zones” - RLS Media",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOW4xaVdvXy1VZFpiMWRwSlJWNDRmRDRTWGVoeVgzeVVGOVpEMVFTakVGM1ZXRG93azR4eHB0Mkw1bFp0cHh3MFBnOFB2V19Vc0J0RFBITmMyM3RTWXBpTm00WVp1ek92T3hqU2UxeFJsWGZ3cU5wSmFOSW8wTjAyYVBBenNFSUE3TDE5cGwxLU5xc2hOUDlzQVpHMXV5c3BhdE1YRFZWTTI2enJfakVsenBGUGw?oc=5",
       "source": "RLS Media",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "5838a47a2f54"
-    },
-    {
-      "title": "Desk-sized drones and 30‑pound drops at SC prisons. State AG asks Trump for help - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnYlVrcDM4bjNXNTVWMHpqa2h3T2JDS0RXUU5lcTN1WUZGMVpDUENfTFpFWTZuRVBmc0RQcndXM3kzR0g3VVd3aTdOZUxnRnJfN3h6dTFWWmhLSEwtVkptQTJrSHU4aFpoNWcyMFRyUTZOUEZC?oc=5",
-      "source": "AOL.com",
-      "date": "2026-04-09T01:42:17+00:00",
-      "description": "Desk-sized drones and 30‑pound drops at SC prisons. State AG asks Trump for help  AOL.com",
-      "query": "drone prison",
-      "detected_at": "2026-04-09T03:07:28.339101+00:00",
-      "location": "at SC prison",
-      "category": "smuggling",
-      "id": "caa7f358615b"
-    },
-    {
-      "title": "Iran: Child Killed, Six Others Injured After Drone Downed in Shushtar - صوت الإمارات",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEU1MzFRME9BMXNjaUtteFdlX1pPMmxtWEx4aXNrc1ltT1lUeGVBSXROOFVheEo5T3kzaDZJLS1MendSdXI1ZkY0YnFwNmxnODh5dFJyTmFfQ3cwanFXQ0ZJSlRaaHFTUkl3eTAzbWlrelo0Y0RpSzdxYjJLVlJaM2dPeWNya2RPWDh3U3pkM2tJdFU3YklhbnNpQXRveUlpWUtVdHBuZDUyaUZyVEEwOVpVMEZOUVFQQnZF?oc=5",
-      "source": "صوت الإمارات",
-      "date": "2026-04-09T02:18:24+00:00",
-      "description": "Iran: Child Killed, Six Others Injured After Drone Downed in Shushtar  صوت الإمارات",
-      "query": "drone incident",
-      "detected_at": "2026-04-09T03:07:26.748739+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3fdc4197e9b7"
     }
   ],
-  "last_updated": "2026-05-07T08:57:53.879822+00:00",
+  "last_updated": "2026-05-07T09:57:10.244424+00:00",
   "total_count": 1000
 }
