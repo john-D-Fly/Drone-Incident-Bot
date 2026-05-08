@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Baltic nations seek more NATO defence as drone hits Latvian oil tanks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzlmbENPOElwbnNCMEtfcVdmbVBiUkxxX2xjUlJRUXZ4OEU1Y2hoQ2RvbzFkelV6Qjl0dWdaaHJUeWtFamhic05ieGxjWmhkZlNYZExVTVJlTHc1eEt0R3U3aHJVZzNjcThDQzdqR3ltRFkzSVFadk1xVVI1Z0w0SFk2Qm43UnVYYkE?oc=5",
+      "source": "Reuters",
+      "date": "2026-05-07T19:35:09+00:00",
+      "description": "Baltic nations seek more NATO defence as drone hits Latvian oil tanks  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-05-08T17:33:31.227618+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c492a6504da6"
+    },
+    {
+      "title": "Two Georgia teens allegedly used drone to drop drugs, phones and blades at prison, face charges - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXpmVUdHZjF3WnF1Ui1Md1FoUWlkU2x6M1A2WWFiSlVrdlhmaUVpaDhDMldjUjJBQURUeThPZzhaZmxmczVmbDVScEdsSWhVNWJua1NfY2pxQllCVGdJOEEtenBjQ2tIUHZNcEZkekhZN05Ec2x6OFZPNEhURmd0ZllScGpRbzhUU2tjSC1UQV9ad0xvZVQzeFl3aEUyVzhSMnkxS2NBeU5Fa19BVFVF0gG0AUFVX3lxTFBMOUlUcTBuWTJDdU00STN6b3psSmMtNzJLdmxPOXZhc05jOEd5SXR0R29vRkl1dGpSNFpRQm1NUUtpdC1NanhqaWcxNVZTTTJ4bTVZM1NxYnd3ZDJ1Y09oR2FLMmxITTVlQUJpZ2I3aVo1d1BtY0w1cjFZeWVOZk1nanlyR05CNFpuNmFOR3QzbjZEVHFFUTh3SllaVldDR0g1OG0yLWMxNmtiTDRBTFhiU1ZnXw?oc=5",
+      "source": "Fox News",
+      "date": "2026-05-08T17:15:34+00:00",
+      "description": "Two Georgia teens allegedly used drone to drop drugs, phones and blades at prison, face charges  Fox News",
+      "query": "drone prison",
+      "detected_at": "2026-05-08T17:33:30.025207+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5236f406a117"
+    },
+    {
+      "title": "Man arrested, accused of shooting at Wagoner County Emergency Management drone - KRMG",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnZidWEzZVV3R3BfM2ZCeDFqb3R0d1lUbDBLUkFMWmNVY2s0WE1vdXVKWjM1aHZUVEU5X0R1bzlTQzBpMV9nZUVHajdIMy1WbUVYUlZlUGZIdlRYNW52cjgyclAyZjZDdVp0TmV5Nmd4UEJ2QlhVNkYyaTdVcG9vQU1mMEs2YlducFp0TzNxQTJEWC1fS3AzWmExYXFQbndzdEFMNW15eHdSZw?oc=5",
+      "source": "KRMG",
+      "date": "2026-05-08T16:49:35+00:00",
+      "description": "Man arrested, accused of shooting at Wagoner County Emergency Management drone  KRMG",
+      "query": "drone arrest",
+      "detected_at": "2026-05-08T17:33:28.872471+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "528d87e5c365"
+    },
+    {
+      "title": "Russian Shahed Drone Crash Ignites Massive Fire in Chornobyl Zone - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTm9sVFFYR2lRbFpWNGNFTm9RT09pVTBILU9kcmJWb29yWUY1Smd5MUgwOUY1RFNCZktPSFNlLUFsYUlNbllkb3pDZl82TWs2aUgxLVQyRmsyRjNBeEo3cF9XZGJFVW1ab1M5VU9GUEZFeGZvdTlGUnJsbE9YOHFrQmtqRi1IMTY1TEd2cTNEV21fT2pxREtLQ1ZZbjZsZVNPeWpZcTI1YkU1OVlEQVh3STR3?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-05-08T16:32:30+00:00",
+      "description": "Russian Shahed Drone Crash Ignites Massive Fire in Chornobyl Zone  UNITED24 Media",
+      "query": "drone incident",
+      "detected_at": "2026-05-08T17:33:28.285081+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d1579a26c2d0"
+    },
+    {
       "title": "5 US bases to get directed-energy weapons to counter drones under federal pilot program - Stars and Stripes",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzB4ZkVCOG1ZcWJrZXp3TlZUcG1aWXg1ZXVEaUY5T2ZMTkNYRXJIbGpvRjl5c0RMd1BHc0JydWY3bkg0SXhXR0tGS1k4X3B3U2h2Z0pUQWVQNHJ1c2Vic2ZpWE96YWgyOXlsbmZ2cXgxQ3RCTFVCYkdsMlJtSjh6cjZYRlJPOUh2cUxVUllxMTg1MDF1RC0yOW1xV3pHU0h2SXdxMw?oc=5",
       "source": "Stars and Stripes",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "dd20581e1631"
-    },
-    {
-      "title": "Reno Police Drone Tracks Home Burglars to New Location, Leading to Arrest - National Today",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTjU5a0pmZUE1dE9na3E0bEZhV2FiMmNWSFpLZW9ybXM4Wk05UGZIeVczckJMTUdRX0xKRUphUlh6eFktWDY2YW9RQ01pSW9nRXpMeG9Ta214YzBwX2F6Wkg3Z0VIV01lSnFpRGFFZlU3WGdzemtNY2xmQWJyX2g5YjhMZFBNMmFGQjlhdGpfMmN3OS1TSVF3ZWhvNExxZzBaTFFxUVhQTHV2WDFyM2p0WlFibWtnWl96TDNmNzFUMVV1dVh6?oc=5",
-      "source": "National Today",
-      "date": "2026-04-12T18:40:42+00:00",
-      "description": "Reno Police Drone Tracks Home Burglars to New Location, Leading to Arrest  National Today",
-      "query": "drone arrest",
-      "detected_at": "2026-04-12T20:11:18.701016+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "44ab7043bb34"
-    },
-    {
-      "title": "11-time felon arrested after chase, tracked by plane, drone, and K9 team through Olympia - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT3RTcWlTSXB4S1NZSmtkS0tocU9MTG9FeTk0cm1hTEdabDdib3NiQlpDRG1mSzhhSWwxNU9qRG1rSWdtMGpMdjRMeXo1VTF1Ykt2d0tYeHllMFlDX0xxVEFfMW9FQ2tvYUtsOE4xTFFyY09xT3NidkJ3dkJjUmRNeWdZM2pTUQ?oc=5",
-      "source": "Yahoo",
-      "date": "2026-04-12T19:08:56+00:00",
-      "description": "11-time felon arrested after chase, tracked by plane, drone, and K9 team through Olympia  Yahoo",
-      "query": "drone arrest",
-      "detected_at": "2026-04-12T20:11:18.701016+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "7d39814c5819"
-    },
-    {
-      "title": "Estonia investigates after drone fragments appear on seaside coast - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalJKTXk0TXhaaTc0cGhEVmVobms1Sko2LTQxbEVZZkswUzNoLVJxVFBTbHBNdVE1ZDlpQlFFaUE0cVowdFRpTTlyVHZGcFo1RDVHb0lsVGkyWF9JMXhnT1ZQaERpTV9YcUJQdlJ2TWE2dkJYeFpYSG5FV0F0MTM0NERoRVc2ZV84YmNwRFdDdG9HYU9I?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2026-04-12T16:00:42+00:00",
-      "description": "Estonia investigates after drone fragments appear on seaside coast  RBC-Ukraine",
-      "query": "drone incident",
-      "detected_at": "2026-04-12T16:12:36.221282+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "693dd86ff251"
-    },
-    {
-      "title": "Drone, Unexploded Warhead Crash in Finland: Police - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUNaVGt1NlhxeVJxOVZhYlRHLUtMOTA1MXowR25vZFlMS25ObFdZeEI5ZDcyalUzX3VubFhScldiRWhLLXNDTUJ5VUVEWmRLSnl4NW9OdDNpdVZPVy1rbi14UmQyZ0h6SEljcnRTb21nM0lXal82TFN0TXRENjNheHF6ONIBiAFBVV95cUxQZWRmc2tjUmVuTzZKeklMVktJejUtU2pQV3NTY2luTFZnbnRxdy1JMHlqNkEzbXBMOWsxRDlpTUhYMm44OVlWX2U1Q3NaQkMtdWNBRGZkQkZPSUlVb2w3R25iYWRtZk1ETnprbkJzRE9GQ1JwaTJXY0R6UUxaS21taUdRWVZjUm9s?oc=5",
-      "source": "The Defense Post",
-      "date": "2026-04-12T09:59:42+00:00",
-      "description": "Drone, Unexploded Warhead Crash in Finland: Police  The Defense Post",
-      "query": "drone crash",
-      "detected_at": "2026-04-12T14:16:31.494819+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "5b3bcea34e4b"
     }
   ],
-  "last_updated": "2026-05-08T16:33:58.357791+00:00",
+  "last_updated": "2026-05-08T17:33:33.971403+00:00",
   "total_count": 1000
 }
