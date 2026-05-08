@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Hezbollah Drone Strikes Wound Three Israeli Soldiers, One Seriously, IDF Says - Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZ2t4RG5fXzRlNWJXRnNuZ2hwZGZZOGJQUDBmcXBnTjhGOTlIdFJkcENFQXlaNndMYV80eVViUkdEVUludl8xOUNCd292UFBMNWJjcHNCdTZnZkVublR3SVpRYjdxS1RpUWdCYTBCWWl6bVhIc0JoQUV4RndHZG96LUZnZThYYXhWRDVNVXZCSzdqcGstOE5fcG9PRXBIQTkteHFfWmhOOTg3SXdXZndIUExhNXFGYnFVblhTejVxRWdfMExtel9mdWFacEZqRnlQYml4a2pQSFNpcXFPcjhyNTJjYTJRazJrOXlBXzhfb3RDaGRNWWRDWTZVTjQ4NFFSM0NvM3JZOW0wZFBmMU1DdmNB?oc=5",
+      "source": "Haaretz",
+      "date": "2026-05-08T10:42:00+00:00",
+      "description": "Hezbollah Drone Strikes Wound Three Israeli Soldiers, One Seriously, IDF Says  Haaretz",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-08T11:33:38.739306+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a2074d38ebb4"
+    },
+    {
+      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
+      "source": "LSM",
+      "date": "2026-05-08T07:36:32+00:00",
+      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-05-08T11:33:37.109864+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "601684e7a6da"
+    },
+    {
+      "title": "Chornobyl Forest Fire Triggered by Drone Crash During Moscow’s Unilateral Ceasefire - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RdWtGcFpSbV9iRUVIbGxxZ0xYWUtMelhKdUhKNWQ2dm8yb21ESUhId1VDeXZCRi0wSW00NGVGN3Zkcko0VDlZUWVLQQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-08T11:26:06+00:00",
+      "description": "Chornobyl Forest Fire Triggered by Drone Crash During Moscow’s Unilateral Ceasefire  Kyiv Post",
+      "query": "drone crash",
+      "detected_at": "2026-05-08T11:33:37.109864+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7a98c28d705d"
+    },
+    {
+      "title": "Women tried to smuggle marijuana, phones, saw blades into Georgia prison with drone - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3VVVjlmeUJkaFlYZDNCUGRabzhVZWlLUTRXVHl4QzQyc2NYc0xrdXg0WmEydGVUS1Bfd1V1TzJqV0NlNndQY3ZJTVBZYlNCbEtjbnltLXdyVGd2eERLMll0bkFCVDJjTE9PMXJpV0M3b1g3OGJNaTctTFdvTGkwcDdFSGlJai1qVm85REVHdFJFdw?oc=5",
+      "source": "Yahoo",
+      "date": "2026-05-07T14:19:28+00:00",
+      "description": "Women tried to smuggle marijuana, phones, saw blades into Georgia prison with drone  Yahoo",
+      "query": "drone prison",
+      "detected_at": "2026-05-08T11:33:35.984101+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ba7bf27cff0e"
+    },
+    {
+      "title": "Duluth women arrested in drone smuggling attempt - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNd2w1cmdfSE9oZjJhRUV6LUw5U01JQmZ1V3JkenJRXzJGTlV2a2hzSi1nZ2k5YzJtM1FiTUtPdHBUNWhIUWJRRHN0bE5OcWVZSzlhWHFnSjY4RFhCOV9YMDQ2WHVvY3lUMGItRmI5M0lqQXlfUWVyNDB6bks4VUsyZWRpRTdKNjdjMHdYdVBGLVVPZk85bmVnUnZaRU5pc3B0MExaclg2R2ZPeVAxcV8xVUxrTVlJdmFlTlptT3RUZGdkZ1o4LUdVS3A4eWNhMlZIbTJoYkgwelFlbmphY1pCSXpYSGd2bHZyT1Q0aFpZMVdrQXVRWkwxN3BYcExxU2NFRkZuTUVFWXRaNGNWMThOZGNRRG0wYkVTVnBtejFVeTZiQWpXbk5vNXJoZkFGVzAxM1ZTbg?oc=5",
+      "source": "MSN",
+      "date": "2026-05-07T16:54:04+00:00",
+      "description": "Duluth women arrested in drone smuggling attempt  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-08T11:33:35.423868+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "ace2206d7fc2"
+    },
+    {
+      "title": "Greek authorities investigate sea drone found near Lefkada, explore smuggling and attack scenarios - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpczg1ZFZCaXZxVWVtTG9HX0ZfRENvRGZsMHVPYXRkN3c1QTFYdUNZUlk1aFg3RzV2TFNaNTBBX2t6Y3k3c08wMVNuSTF6NXBCUHRUUFJiRWpWajhNT3QyNmlpeC1udGRrRkZ5RWJ3UXZoOXVzWWR4WnZrYw?oc=5",
+      "source": "mezha.net",
+      "date": "2026-05-08T11:23:27+00:00",
+      "description": "Greek authorities investigate sea drone found near Lefkada, explore smuggling and attack scenarios  mezha.net",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-08T11:33:35.423868+00:00",
+      "location": "near Lefkada",
+      "category": "smuggling",
+      "id": "fc34db244405"
+    },
+    {
       "title": "Ukrainian drone unit commander on May 9 plans, successful mid-range strikes and gaps in Russian air defenses - The New Voice of Ukraine",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpUTFktQU50cE1QSFhYRlFRTmdwcHdoZFR5M2xwWk8ybXBJang4Tk45Ylh2Ti04WnRtMEpCYnZtRDctM1J3VmVBVlJmcnU1VzhMamFLUFVIajJaSDdBVlZwamktdWN3UnpUbmNHRl9vZUdlRG1tLUdjWUhFS094aHJMcU52T0pvU3NlVEN4MnBLQUhkeU1jbXRGRDVBUFVBOHVabUxwZjBBc29mbW8yX2d0TDdBWmEwZmYyeGlYSXZlWHR3LUstc2wwazhuZmV4ZUhJ0gHPAUFVX3lxTE9mY2tCOThaR3JDYUJrWXlESUJSMEdiS3NpWFd3OGp1ckZDWUdtTmVEYTBUSjRyOG9JLWR0N1hEQnVpTVZWeXgxWUlNUHNEYjc4dG5ZTUJjR1ZkNnFzMjA3WlRiYnBjUjZZVGFhZi1KN1RrYzZpdnR2VmF3M1lCSUJQWEtLTDB6WnRFdjZjOTBmSWI4NE8yaDhxZU5ISmJ2U2lvVm1JUWlHbTl4N2xIV1NCWTFVTWp2a0NST19Da21QVGw5YUFia01GY1ZyeG5GTQ?oc=5",
       "source": "The New Voice of Ukraine",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b37edaae2e5b"
-    },
-    {
-      "title": "Drone, unexploded warhead crash in Finland - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSnpWWG05c2RnckEtdDRPOFpRWXc5LXN1T1lUQ2NPM3NJVDY4SFJGbFptWUZpQTdYcWZtamE4OUtJR0xMR3RXT3Fjc3QxV3FSQXdLbmM4YlVpVmxJbU9kcHN3aWIyLVF5enI1T3lMd0hfMWxPeFRZRllJbXpGLVlHczN6OU56OF9Kb0pV?oc=5",
-      "source": "The Straits Times",
-      "date": "2026-04-11T20:03:44+00:00",
-      "description": "Drone, unexploded warhead crash in Finland  The Straits Times",
-      "query": "drone crash",
-      "detected_at": "2026-04-11T20:09:22.672996+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "15c7162ebdd6"
-    },
-    {
-      "title": "Drone Threats Snarl Moscow Airport Operations Throughout April 2026 - Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55aWxlUEdWaE9ZUi1XT1lHMEh0dEhXajRBUEJSNWtjLTdZeUthMlg4UGd0bTNWYnVrRkxPZ29VMnZXWG5jS0JiQXVPWVk4OFVhNmE4eWNGSzFfemZrcXNSbklqMXBqWjk0d1FCN0VR?oc=5",
-      "source": "Nomad Lawyer",
-      "date": "2026-04-11T19:47:27+00:00",
-      "description": "Drone Threats Snarl Moscow Airport Operations Throughout April 2026  Nomad Lawyer",
-      "query": "drone airport disruption",
-      "detected_at": "2026-04-11T20:09:22.010886+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "00f9fccadf22"
-    },
-    {
-      "title": "Drone Threats Snarl April Flights at Moscow’s Major Airports - thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzJPZXRkZEQxSzZVMEpwR09uTGpON0pnMjh1OGdOWEx3MDk0RGtWaEdLSmdGNjg2T3F2bWtUdnMtUWg3Y243TmFFZHEzN2syekVnRlZadzlaMkZxdlNUaldTakx2dDBqYW1LV2NydWZabTIwb3NWSXJzNzhYZC1xcF96VDZLT2ZkUmsycG1wSlF2dw?oc=5",
-      "source": "thetraveler.org",
-      "date": "2026-04-11T19:29:18+00:00",
-      "description": "Drone Threats Snarl April Flights at Moscow’s Major Airports  thetraveler.org",
-      "query": "drone airport disruption",
-      "detected_at": "2026-04-11T20:09:22.010886+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c8063ab16d3c"
-    },
-    {
-      "title": "Drone Threats Cause Major Flight Chaos at Moscow Airports in April 2026 - Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzJpSzBKYXNERnRSSFR2eFlpLXAxZWR6d0pZODVsV3JkSUdtcHJXRFhuTUpETVdaMGpiWFVvSGlYRDZBSUV2MWluQjFKTGd5elJ6aDdNQmI1cVVORzNIdUpIVThyRWhRSkRvdHVQZjhFMVA5LVJSRFd3UWdQYWhfZWRMNXk?oc=5",
-      "source": "Nomad Lawyer",
-      "date": "2026-04-11T19:22:26+00:00",
-      "description": "Drone Threats Cause Major Flight Chaos at Moscow Airports in April 2026  Nomad Lawyer",
-      "query": "drone airport disruption",
-      "detected_at": "2026-04-11T20:09:22.010886+00:00",
-      "location": "at Moscow Airport",
-      "category": "airport",
-      "id": "951ab8b90cbe"
-    },
-    {
-      "title": "Drone ban set for NFL Draft sites in Pittsburgh - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVkVnSG5lSjBTSnIzczI0SFpjU1hvVGs3eUdvQnRWWHhENFNmVjI0cURJRGdZNU5IR0dUUlVPQ1Y3UVJyMmVvZVdVd2xrblBzZGxlcWRZOGZUazNjOHdfZWQ3SFZsMEVqTV8zMjgzdEF1aTRMWmN6cw?oc=5",
-      "source": "TribLIVE.com",
-      "date": "2026-04-11T01:28:08+00:00",
-      "description": "Drone ban set for NFL Draft sites in Pittsburgh  TribLIVE.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-11T19:17:15.416596+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "156337227258"
-    },
-    {
-      "title": "Islamic State playbook focuses on COTS drones to maximise psychological impact - Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDM0MVNnUHZfV1IwT0dvZ3MzYW5lWTY4SEUwdnBqVFZWRUxlUnFzNzBrZVJRSy1pcjFXb2tocExta1JXRmJCY29nVVlhRktkc1VhVFdVLUJPTTdlRnBhWEN4bjg2WXh2Q0RQODVSVlJLS2hvWkpTVVNOUHE5c0JXbmFJNHA5cWdvTzJNdUNIcXlPMFAtanNCTXlnYWhHUHJCdkFGalQxanI0Rl9ybGhidFZGT1g1N3VU0gG4AUFVX3lxTE50MzQxU2dQdl9XUjBPR29nczNhbmVZNjhIRTB2cGpUVlZFTGVScXM3MGtlUlFLLWlyMVdva2hwTG1rUldGYkJjb2dVWWFGS2RzVWFUV1UtQk9NN2VGcGFYQ3huODZZeHZDRFA4NVJWUktLaG9aSlNVU05QcTlzQlduYUk0cDlxZ29PMk11Q0hxeU8wUC1qc0JNeWdhaEdQckJ2QUZqVDFqcjRGX3JsaGJ0VkZPWDU3dVQ?oc=5",
-      "source": "Social News XYZ",
-      "date": "2026-04-11T18:00:13+00:00",
-      "description": "Islamic State playbook focuses on COTS drones to maximise psychological impact  Social News XYZ",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-11T19:17:14.887780+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1028f6f799f5"
     }
   ],
-  "last_updated": "2026-05-08T10:35:07.739396+00:00",
+  "last_updated": "2026-05-08T11:33:39.817523+00:00",
   "total_count": 1000
 }
