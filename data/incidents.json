@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Watch: Oakland County drone program arrests armed man - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDFrM0FxSGNZcnZ3c3gxZ0ZqQVFYTFM5VHFuWU9FS1hoNWFTMFBJUnYwM0FCZHdhM3lZdkVJZkE5Z3ZjMWtMS1U0eFZLZU5GWlp1VmpWeTZEQmlnX29sUnZXN3luS1BJZ2hZdEV3eGZTQVNmNGIwOU9qSXhvXzB5UHhXRE1BRm1zVDN6YmpieW9vUUg3Nk1TNW1fTEdfU1pkejk3bGE3QnozemZtRWFsRkVVSEJ3b1FRZU9iRzRzaUlWSEVOSDZTT25Taw?oc=5",
+      "source": "The Detroit News",
+      "date": "2026-05-08T21:17:19+00:00",
+      "description": "Watch: Oakland County drone program arrests armed man  The Detroit News",
+      "query": "drone arrest",
+      "detected_at": "2026-05-09T05:07:34.566340+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "986b89613201"
+    },
+    {
+      "title": "Armed man arrested with the help of Oakland County drone program - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdVBxWlBDR0MyS0tvWWN5NHJydjdIbVR3OGRFWTZScmRTYkJtQW5ZdXNad3VwNmpNV2xBUVowTVdSelllTXJidVNKSkhUWXhfUkVHNXc2WWhnTFhVdnpwZDBpT1pabFZ1QnFDbFBQQ3BVaVJ4RkYxeTdfZG51MUdhTnJockdPTDNONEVUejlrZmlvRDZMV1JRdm9pS2s1UXRRUjFiSjV1YzFJaUFVQ2hqX2tpWWpERGRnamRHem9lallYSjNsWjJncDlMU1YwbkY2S1ExNkVuSWdpYTJ3aTNCY1ZNNA?oc=5",
+      "source": "The Detroit News",
+      "date": "2026-05-08T21:07:51+00:00",
+      "description": "Armed man arrested with the help of Oakland County drone program  The Detroit News",
+      "query": "drone arrest",
+      "detected_at": "2026-05-09T05:07:34.566340+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "0a94b08ad9a7"
+    },
+    {
       "title": "EPSO: Drones assist in arrest of burglary suspect - FOX21 News Colorado",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHdoeFdydmJfaUoyV0t3dUM2c2JGNHRJWXRjUHJ6cV9xTDhRczRBVEFFYjBWQkZiS2xsRGJib2FiN3JpY0Y2M2JzZGktbWJUbW10aDFLZjFPTHZacExNZjdhd180aFFrOE5WMTBPVXlyNzFIQTg4ZklRak93SllYTXdGeGg0bmvSAYwBQVVfeXFMTXR4cHkzVG9ZWF9LNnNGamMxdTRQRHB2VGhocnpmWk44Z3RuOU9ZWm42MURteFE2WmNCR0tGdHRzaExEa3h2OVp2NWJralZKSXRPRk9PdFpUbjZsRkJUWjhuUzB5SUVua1BJQWxuRWZLTk5TUVhubmhTS0xEWmozbGt4UzQxQktId2F0bWY?oc=5",
       "source": "FOX21 News Colorado",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "0bb012480709"
-    },
-    {
-      "title": "‘Little progress’ in stopping drug drones at HMP Manchester, watchdog says - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnA1bVEwODU3TUw3X2JxNnRLMWM3U0pIeXhMTlhYQ1AwT1NUNEwwZ0g5MkJRRXFjbE9rdlhkSEJZRUVEdVBNTzJtVDhxT29WVEh5QWlUTVQ0clBXSzYyak9YNEk2OGVicFd2N2VERmNNcDhQelEtOC0wdTRqaGw0bENaSkhtclRidnhhOS1SV2lNdHhVbGItM2JUWklvU25zSzNoR1BOcmNnUU9aZElCcVhYUQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-04-13T23:01:00+00:00",
-      "description": "‘Little progress’ in stopping drug drones at HMP Manchester, watchdog says  The Guardian",
-      "query": "drone prison",
-      "detected_at": "2026-04-14T00:40:28.802544+00:00",
-      "location": "in stopping drug drones at HMP Manchester, wa",
-      "category": "smuggling",
-      "id": "5c8714fbfb08"
-    },
-    {
-      "title": "Drone video shows suspect prowling apartments before arrest - kiiitv.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTctVTNETkVxdExFRXhySnBmeW5ha0hlZEl5X3BnZzdualNDNzh3RXpvVWstTGwtZjJsRElCNjJTX19NZWxza09wbUhMaHVOVUFCZk9sM09WTFFVYktJekUxZjE1ZDZjdjNXUXM4bVdhSnJsOWFsQ05Sc0R3eW1FeVFzeUdFVmdNTzlXSFI5VnlMSlBIdDkyTWxPZEUzTmFfekFYYVVfZWZyb3M3aXdZazEyc3ZrdDR0WkUtaW9adTJWZG9sYmRwdDNjdnEtczZZTmpjeG94QQ?oc=5",
-      "source": "kiiitv.com",
-      "date": "2026-04-13T22:27:00+00:00",
-      "description": "Drone video shows suspect prowling apartments before arrest  kiiitv.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-13T23:19:16.836550+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "82c535932a90"
     }
   ],
-  "last_updated": "2026-05-09T03:10:20.106482+00:00",
+  "last_updated": "2026-05-09T05:07:40.289721+00:00",
   "total_count": 1000
 }
