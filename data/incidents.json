@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "ACC Welcomes New Drone Security Proposal - American Chemistry Council",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmkzOUR4b09xazNBaDN3S1RaMVBHTVhiQUs4YU9PMkprenlOSDZUUEFqemxWUktXQmhiRjdIR2JldzRXbG1IQTZfZlBYWlpuVmRZakNIc09qSkdjb3BlNy1nQW5tdHo0ZjZpQjlTeXJQYlM3bk95Q1hGandEcGZIMGdHNnZZV1FKR1JidUdSTko5Qjk4eWhSMEhLRFdVRjJaQnhvalBBYWE3OUxrLUJTWnRnTFZHQUx6d1FxR0tWaU5ka2g2?oc=5",
+      "source": "American Chemistry Council",
+      "date": "2026-05-08T21:03:50+00:00",
+      "description": "ACC Welcomes New Drone Security Proposal  American Chemistry Council",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-09T01:38:12.130883+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0ccff8437947"
+    },
+    {
+      "title": "Forest fire burns near Chernobyl nuclear plant after drone crash - France 24",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWw5djNmNjNSQkgzdU5aNl9PSGxKd1VnN2dRZ0docGxUc090WXdxbVU3S3RmRjJLZHI2ZTViaUYyVVhITkM1eE01d1FkU0lmSVRwU1hTM01tXzdhR0pKbDdRSUMyNHFxYmdOMHIybDRDQzlwemwxYXUyeVBuUS1nc0xEcmNGM0FzQXNvbnQ4T3pNQnc2THV5Yy02N0ZvWWc4ZVVYT0I4Nzkxc2hCRUpLalVpeEU3Zw?oc=5",
+      "source": "France 24",
+      "date": "2026-05-08T11:11:14+00:00",
+      "description": "Forest fire burns near Chernobyl nuclear plant after drone crash  France 24",
+      "query": "drone crash",
+      "detected_at": "2026-05-09T01:38:10.008659+00:00",
+      "location": "near Chernobyl nuclear plant after drone crash",
+      "category": "crash",
+      "id": "07e0543bfad0"
+    },
+    {
+      "title": "Oakland County drone program helps arrest armed man - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTl0QVpLcEQ5NU4xbldRYTRONkdGcUo2RVNqVE9mRjkyakJFMmFJZnFMMVMyWExpU0hkTWdnZ0NxbEpqdVpxX3pHcDNfTDlmVGlRdm1XQzJrV29tREpqWXhrOGlUa19PQnBCZ2xRVkpHaGZ5ZEVEcENtdnRyOHZONHd6d0x0ZzVWbUpwUUJxNXJIUTVmX1V3UVg4MVVlRm5Hd0VLanBwNndHTTJmcFRKc3hiZkhydUpoLUZNQWdLZFhYUEoxZ0tBUXBn?oc=5",
+      "source": "The Detroit News",
+      "date": "2026-05-08T22:32:00+00:00",
+      "description": "Oakland County drone program helps arrest armed man  The Detroit News",
+      "query": "drone arrest",
+      "detected_at": "2026-05-09T01:38:07.747751+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ae89a9213a52"
+    },
+    {
+      "title": "EPSO: Drones assist in arrest of burglary suspect - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnJlR21LRU13azJHblR1Rld6OEktelJ3emFFLTNiM0JoN1lDSGgzQ1BQZnI2TnI1S0RyVjQ2WVV2NDYzalZYMWlmWFBaU09fXzM0R1k0S0pOb0tpY3ZDX0xfdGVaaEx2SGtVLTdoMVdyTEh2bTlSZDNPTVJFS1M4OWhwcEk?oc=5",
+      "source": "AOL.com",
+      "date": "2026-05-09T01:32:40+00:00",
+      "description": "EPSO: Drones assist in arrest of burglary suspect  AOL.com",
+      "query": "drone arrest",
+      "detected_at": "2026-05-09T01:38:07.747751+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "861edfab3731"
+    },
+    {
       "title": "Drone footage helps police arrest armed man carrying rifle, ammo in Oakland County woods - ClickOnDetroit | WDIV Local 4",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVJHUmpFZzA0Sm5WUUNvNG4yV21NdW15ODN0Vk95Sm1wZkRTZVRidmlPck90SVBrdVJfVWh6MzdrMjVaOFdKQ3NudENFNDNsdFBmRFc0VHk5Q2xUNGloNWIyTzRWRGlqUThuNzNIbF9BYzFGVERSRXZGNmdNdHRoTU5aUFZUTkpjd2xlUXBLSGxpclFOUGt0YzJfSFUxUGthZEc4WEZQZ2pSVy1sSk1XY1NfYXpJWjRJNWRqZmRBaW0xeVI0SlhSMzNhRTFLY01zcVdvd2ZseW4?oc=5",
       "source": "ClickOnDetroit | WDIV Local 4",
@@ -11951,56 +11999,8 @@
       "location": "in the act, co",
       "category": "other",
       "id": "f31350258cd8"
-    },
-    {
-      "title": "Drone Used To Find Missing Father After Crash Into Pole In Hudson Valley - dailyvoice.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmVtdTNzWEJ1ZDRoMzUyY3pFWHJaVGNta3FsTGNjLXlEV21HRy11MFY2Z2hxcDlQbmdTcGFlM2diN084VG9Hd2RjNnl3ZU5QVU55M1RmOVBWX2lubjg5TDJacFgtZy1UcnF4akpTSm5velZuOWl3eU1FbjVuYlBBUUdhNVZIOGZVbmdReGZndzBoUTRHUnVhYUk0MkJUaXZUcjBmbXE2UVBmYmZGa05HNnVUMWo0MDAx?oc=5",
-      "source": "dailyvoice.com",
-      "date": "2026-04-13T15:45:00+00:00",
-      "description": "Drone Used To Find Missing Father After Crash Into Pole In Hudson Valley  dailyvoice.com",
-      "query": "drone incident",
-      "detected_at": "2026-04-13T22:18:35.788212+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "be063d76f4c3"
-    },
-    {
-      "title": "DRONE VIDEO: Naked burglary suspect arrested after string of break-ins - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONkZybE5fWmluY3hOelp3VjdpdTdFSXljMndGdUtEd1RXNDQ0cExDWEhaMkVMeEZpU3FjR1JHQXlWZ3FfTWNCeHdNQnlXdVpqeHI4MWhGVnUxQ3U4MThkMGIyNWFQS2hZOWFORjZTWWtrV3F2TVlMRl9Cd2dBR1VrVDM5UElJU21yM3B6aTdFMU4zX01nQlVqN1A1TkFqbi1SSjhPYkgyTXZOaW5CTFhTTUxJR19vY2RLZ3hMSnJqTFMwMXZubWgwdmM4U2FGTmM3ZWxzTEU3RlYxTXdmbmtv?oc=5",
-      "source": "WJLA",
-      "date": "2026-04-13T19:13:56+00:00",
-      "description": "DRONE VIDEO: Naked burglary suspect arrested after string of break-ins  WJLA",
-      "query": "drone arrest",
-      "detected_at": "2026-04-13T21:18:51.659159+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "57b0b366dca8"
-    },
-    {
-      "title": "Nude Burglary Suspect Captured With Police Drones Help - Patch",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG14bnlqbU5keFBlQ3djaFdUbXpUbEtOck84aldHbWtjdWl6dXZwcXNCQVRGNzF5dzB4aFhHYzZaUjZoMVU4NW5wdzMzVHJYUWxvY1FzZ1JqUGZFV1VzZ3I4bndYRGJzX3FGUDJQYVBBclFwblJaN2Vtd3haQVRlRFlFbnp4a09XdmUzdXNTekxDSldMQ2fSAaoBQVVfeXFMT3IzQm9EWWRMem9GdkowQVNjTmtuMk41S1FrdWtrMjctcERjcVRxU2JZWjFGNm9VV1J3NndReEJpa2I1Ym9iUTJLb0ZmclBlV3ZtNG9DM2hLaEU2NXFSYjYyMWFSQVdRak1GSHdPemxZQXRjMzF4aFc0d0lDZ1BVcW4xVEdGZk52MmVCX0gwREdKTmxLUkFuWm0tVHk1WFlOaXBhWWItb2lUdHc?oc=5",
-      "source": "Patch",
-      "date": "2026-04-13T14:53:23+00:00",
-      "description": "Nude Burglary Suspect Captured With Police Drones Help  Patch",
-      "query": "drone arrest",
-      "detected_at": "2026-04-13T20:22:38.540792+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c16210ad9182"
-    },
-    {
-      "title": "Drone, K-9 help deputies find two men hiding in attic in Empire - Modesto Bee",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mS0hsM0xJbG1STV9GQ3k3V2dtWGNpUTFObmRGRl9ZRnhPM3Q3cE1OYm9QRkx4SjFzMkl5YnpHYUFGLXpMYk9qQnJPSXdfQmstblFZcjJENkhUY2NpVHRuZjhNeUVGdXNNY09UT05B0gFuQVVfeXFMT2NhcVdNQ0dUdFRjSS1nUHM1d3dnQkdnajdzNXFBcVE2TkJTRnhvcjZOMnVlZDdMUC1qLVZtX2ZfUGpPRTBZTG9GSXcxR2lrMi1hcjdRc01JTXRSZzJZS3BsRHNtdTVPWlpIQnRVTXc?oc=5",
-      "source": "Modesto Bee",
-      "date": "2026-04-13T19:29:15+00:00",
-      "description": "Drone, K-9 help deputies find two men hiding in attic in Empire  Modesto Bee",
-      "query": "drone arrest",
-      "detected_at": "2026-04-13T20:22:38.540792+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a1a8593fc293"
     }
   ],
-  "last_updated": "2026-05-09T00:46:02.098207+00:00",
+  "last_updated": "2026-05-09T01:38:12.698575+00:00",
   "total_count": 1000
 }
