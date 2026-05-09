@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "EPSO: Drones assist in arrest of burglary suspect - FOX21 News Colorado",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHdoeFdydmJfaUoyV0t3dUM2c2JGNHRJWXRjUHJ6cV9xTDhRczRBVEFFYjBWQkZiS2xsRGJib2FiN3JpY0Y2M2JzZGktbWJUbW10aDFLZjFPTHZacExNZjdhd180aFFrOE5WMTBPVXlyNzFIQTg4ZklRak93SllYTXdGeGg0bmvSAYwBQVVfeXFMTXR4cHkzVG9ZWF9LNnNGamMxdTRQRHB2VGhocnpmWk44Z3RuOU9ZWm42MURteFE2WmNCR0tGdHRzaExEa3h2OVp2NWJralZKSXRPRk9PdFpUbjZsRkJUWjhuUzB5SUVua1BJQWxuRWZLTk5TUVhubmhTS0xEWmozbGt4UzQxQktId2F0bWY?oc=5",
+      "source": "FOX21 News Colorado",
+      "date": "2026-05-09T00:17:12+00:00",
+      "description": "EPSO: Drones assist in arrest of burglary suspect  FOX21 News Colorado",
+      "query": "drone arrest",
+      "detected_at": "2026-05-09T03:10:15.432669+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "46b1b3679957"
+    },
+    {
+      "title": "How did a Ukrainian Magura drone reach waters near Greece? - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3FaNDdWRER6dWlKRk1GRWNFbXp3RDY0WDR2R0lvODdCdzJManNrNXdqaGxNOU5SbkZTTUhoYTRkeVAwcGFuNzZGUzU5bUpQdGUtcmprTE9QdjlvT2kzblhWYlJCdG5SZUVrSGVkVk0wdUZadmJTbHJqQ2pPeEU0VWhiYkc?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-05-09T02:23:01+00:00",
+      "description": "How did a Ukrainian Magura drone reach waters near Greece?  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-05-09T03:10:14.893248+00:00",
+      "location": "near Greece",
+      "category": "other",
+      "id": "272e09091d39"
+    },
+    {
       "title": "ACC Welcomes New Drone Security Proposal - American Chemistry Council",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmkzOUR4b09xazNBaDN3S1RaMVBHTVhiQUs4YU9PMkprenlOSDZUUEFqemxWUktXQmhiRjdIR2JldzRXbG1IQTZfZlBYWlpuVmRZakNIc09qSkdjb3BlNy1nQW5tdHo0ZjZpQjlTeXJQYlM3bk95Q1hGandEcGZIMGdHNnZZV1FKR1JidUdSTko5Qjk4eWhSMEhLRFdVRjJaQnhvalBBYWE3OUxrLUJTWnRnTFZHQUx6d1FxR0tWaU5ka2g2?oc=5",
       "source": "American Chemistry Council",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "82c535932a90"
-    },
-    {
-      "title": "Corpus Christi police arrest man suspected of targeting women in multiple southside apartment break-ins - KRIS 6 News Corpus Christi",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOFZqdC1wZnAyYUJIU2FVVk5zamNQa3dNZDRMcU1KTUV5WEdmN2NURy0xTllGWERFcmprMmwzTU1XbjN4REljYnU0X1BPbEpkbGhwNF9QR1U1TDRoNThqTF9Ec2pFOW94dWFrVGZ0dV90eFdRVVBaeXdPZkJIcy1vZGxJa1ZiMXF4VW5rR095LVFsaGZKcnVTVHB4VjJFejBPeU40c1l6MC1rQTJMcExGQTdfcHBLaWlyUVlySjdweDVibGphdlE3MldOcU4wUzBkaU4wYWozRGpjaWtUWW9TazhXR3pmN0dmM0JmTEVudWJTeHdfWHVWWW81RVNrLV9WNW44SmxoX3U4UHpzbVo3Zk9ZSGJaZUk?oc=5",
-      "source": "KRIS 6 News Corpus Christi",
-      "date": "2026-04-13T21:19:56+00:00",
-      "description": "Corpus Christi police arrest man suspected of targeting women in multiple southside apartment break-ins  KRIS 6 News Corpus Christi",
-      "query": "drone arrest",
-      "detected_at": "2026-04-13T22:18:36.341488+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fc288ee067f0"
-    },
-    {
-      "title": "Police drone captures Hollywood lawn equipment burglar in the act, cops say - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazFlTXlMZkJyWEEzYXRDeWFyNDVkWjFNaU1WQnhSOEtVNF9wZ2xxeDZrQ2Ric3UycHptbTBpdmNiQnNlakJtOXpyTHhQeXFaTm1XdmFvSDBYSDFMZm9lZzZTWGFMTEJBMWt5ZlRlSUhfVjZYbm81NHpKVGJFd1NSLU1YWXdtby1BU1E4dy1PYW9rcE4xWi1SaERmNTkxUEtaZnlQZWEyS2czMDV3YnYtNzJBdV9EanBhM3ZzcNIBxAFBVV95cUxQOWJVd2stZGVnMXpGM0pXbEZMaWU4ZWFVb3h0UHh2WFA3YXktcE12MW0zUW9obDdlaWZ4VE4xVWZJTC1BVUhxV05jakhtZkxmellhcmhITTRjYXJUY29zQWhNWktOcXRxMzJZTzdzNGlsdHItQ0xGOXdHcmR1X1hESGItSFlXOXJlRFJZRnc2cGc2N19Pb1FBNG52ZHBhNWk5QTJ1NkJSUnl1RTBhR0VNWHgyb1lONmxDd2IwNFpZWmtTQ25r?oc=5",
-      "source": "NBC 6 South Florida",
-      "date": "2026-04-13T19:05:50+00:00",
-      "description": "Police drone captures Hollywood lawn equipment burglar in the act, cops say  NBC 6 South Florida",
-      "query": "drone arrest",
-      "detected_at": "2026-04-13T22:18:36.341488+00:00",
-      "location": "in the act, co",
-      "category": "other",
-      "id": "f31350258cd8"
     }
   ],
-  "last_updated": "2026-05-09T01:38:12.698575+00:00",
+  "last_updated": "2026-05-09T03:10:20.106482+00:00",
   "total_count": 1000
 }
