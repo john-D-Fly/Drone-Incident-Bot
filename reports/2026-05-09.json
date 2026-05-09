@@ -1,0 +1,167 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents have spiked, with notable concentrations in Georgia and Latvia. Two teens in Georgia were charged for allegedly using drones to smuggle drugs and contraband into a prison, echoing a larger trend of drone-assisted smuggling activities seen with other incidents, including a reported case of a drone bringing cigarettes into Lithuania. In Latvia, reports emerged of Russian drones entering airspace, one of which may have caused damage to oil facilities, leading to heightened security measures. Additionally, there were various arrests facilitated by drones, particularly in Oakland County, where police used aerial technology to apprehend armed suspects during serious incidents. Meanwhile, drone crashes near the Chernobyl Nuclear Plant ignited wildfires, raising concerns about environmental safety. The increasing use of drone technology for both illegitimate and legitimate purposes suggests a need for updated drone policy and security measures across regions.",
+  "totals": {
+    "smuggling": 8,
+    "arrest": 11,
+    "airport": 4,
+    "terrorism": 2,
+    "crash": 8,
+    "other": 8,
+    "drone smuggling": 5,
+    "drone arrest": 11,
+    "drone incident": 16,
+    "drone airport disruption": 4,
+    "drone crash": 8,
+    "total_incidents": 95,
+    "by_category": {
+      "airport": 5,
+      "arrest": 21,
+      "crash": 16,
+      "other": 34,
+      "smuggling": 16,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 22,
+      "drone crash": 16,
+      "drone illegal": 5,
+      "drone incident": 24,
+      "drone prison": 4,
+      "drone smuggling": 8,
+      "drone terrorism": 8,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Several incidents involve drones being used to smuggle substances or contraband, notably in prison contexts.",
+      "incident_ids": [
+        "23b9f779344e",
+        "e75f3206ef9e",
+        "2d25732132fa",
+        "78ef80affa35",
+        "a8b4ef0cba4b"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Numerous incidents report successful arrests facilitated by drone technology, particularly in law enforcement settings.",
+      "incident_ids": [
+        "629afc4f3181",
+        "ec614e705563",
+        "7ee791ed2a36",
+        "04678e152b8d",
+        "067f11c2c11e"
+      ]
+    },
+    {
+      "topic": "Drone Incidents in Latvia",
+      "rationale": "A series of drone incidents have occurred in Latvia, raising security concerns over airspace violations and potential damage.",
+      "incident_ids": [
+        "c1c9bdceb223",
+        "b934e8a5c2b4",
+        "e6e590bbdb2e",
+        "m7a8fab8b6ee"
+      ]
+    },
+    {
+      "topic": "Drone Crashes Near Chernobyl",
+      "rationale": "Multiple crashes have led to environmental concerns with wildfires occurring due to drone-related accidents.",
+      "incident_ids": [
+        "f79ac08afbce",
+        "4a588a15d272",
+        "32b8b2266f8f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "23b9f779344e",
+      "headline": "Two Georgia teens charged for prison drone smuggling.",
+      "one_sentence": "Teens allegedly used a drone to drop drugs and phones at a Georgia prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e75f3206ef9e",
+      "headline": "Cigarette-smuggling drone intercepted in Lithuania.",
+      "one_sentence": "Another drone was reported for smuggling in Lithuania.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "629afc4f3181",
+      "headline": "Drone aids police in Oakland County arrest.",
+      "one_sentence": "Police utilized drone footage to apprehend an armed suspect in the woods.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "ec614e705563",
+      "headline": "Police drone leads to armed arrest in Pontiac.",
+      "one_sentence": "A drone assisted in the arrest of an armed man in Pontiac, highlighting its law enforcement utility.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "a8b4ef0cba4b",
+      "headline": "Drone strike causes airport disruption in Russia.",
+      "one_sentence": "13 airports closed due to a drone strike on a Russian air navigation hub.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.95
+    },
+    {
+      "id": "ef623f1b849f",
+      "headline": "Chernobyl wildfire ignited by drone crash.",
+      "one_sentence": "A drone crash near Chernobyl has caused significant wildfires in the exclusion zone.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "72b4185be931",
+      "headline": "Latvia raises security after drone crashes.",
+      "one_sentence": "Following drone incidents, Latvia plans to enhance air security.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "0a0b2b45f2af",
+      "headline": "Man arrested for shooting at emergency management drone.",
+      "one_sentence": "A suspect was arrested after firing at a drone in Wagoner County.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight pressing issues in smuggling and security across regions.",
+    "linkedin": "Recent spikes in drone-related incidents reveal urgent challenges in smuggling and security, prompting discussions for policy reform."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-09"
+}
