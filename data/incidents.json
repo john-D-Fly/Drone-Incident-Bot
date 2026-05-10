@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Forest fire burning near Chernobyl plant after drone crash, Kyiv says - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWS1PYmluRWNCbnBTX3ppNHVQU0hYMm9nMmV2a0tQa2lYWXotdE84TWlpU3BtZ3V5T1docnZYcU9wZHlYc1UtbWJDT1JSWDVQeUFHb19CWHdZOFNRaXc2MXNTRTVQNXlPbXlvM0RqMDdHb0xrb1lzTjI3LXctbElqWHgwREtSZjJmS3pIQ1ZQd2sxUEVOQVNaQnQ0cWl5YThqUzNhcVp0N0hEWTY2QmVXaDNyR19LT2UwSFBkQjdqbXBNc1JNUUE?oc=5",
+      "source": "Euronews",
+      "date": "2026-05-08T09:13:07+00:00",
+      "description": "Forest fire burning near Chernobyl plant after drone crash, Kyiv says  Euronews",
+      "query": "drone crash",
+      "detected_at": "2026-05-10T05:16:05.039555+00:00",
+      "location": "near Chernobyl plant after drone crash",
+      "category": "crash",
+      "id": "f1ee27256600"
+    },
+    {
+      "title": "High-speed chase ends in Van Zandt County after K9, drone deployed - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HOWhualVZM2llY3Vua2RmckxpcTJOWnYzRmdSeHlQX043OWdrMEx1b3JNQS1qcFJNb2thT3ZqdzN6d2VxR1NRUVFjLWNVN054R3Z0THJuNVNDM0NNYzRkVk5xc0xxeTVQenYxMWkwUm9INTA?oc=5",
+      "source": "AOL.com",
+      "date": "2026-05-10T03:18:34+00:00",
+      "description": "High-speed chase ends in Van Zandt County after K9, drone deployed  AOL.com",
+      "query": "drone arrest",
+      "detected_at": "2026-05-10T05:16:02.740347+00:00",
+      "location": "in Van Zandt County after K9, dr",
+      "category": "other",
+      "id": "4e569032ac59"
+    },
+    {
       "title": "VIDEO: Drones aid in police arrest in Redmond - KIRO 7 News Seattle",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0R5Y0Iza0xfVmtPSkRCYnlqc04zbEwwbzd6V0Z3UEpYckFPRzdLVHZTZDVQMkV4enhvM2wxZlprRkstMWxHbFJFUV9RUmNOV050SXFmLTRCcXNZN3dKV0RsbVI3T0lEdHQzaUhoLTN2Q0pTa1NUY1NJV3NvMUNNRHV4dUtQVnZNc05wT19sWTdpX0NWWmFNZWlDZThVUU5CNGMzdjdhUXJfY2dOOUE?oc=5",
       "source": "KIRO 7 News Seattle",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "7f85814c2e0a"
-    },
-    {
-      "title": "Drone alert sirens sound in Metula area; IDF says incident over - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMms0N183ZkNtVmtpaDhIbUt6Q0I5T2lLMDJzRjFWcWZrQV9rNlJtWDJMUGt6OWlLS0RCUjduYkxPZ0NUOHk3LTgtUnpQcm9ZZDVVRFZGT3hXajJpeG82Yi0wN0oyUkRSNG4yOFZFYkdfSy1QckNlOWdkX0hGajhoS21laFVpYzBBcG90Q1JkRDhJVGZuUmNuSmZpTGYwX0g1bVRiSkNPQTc0YVRt?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-04-13T05:17:00+00:00",
-      "description": "Drone alert sirens sound in Metula area; IDF says incident over  The Times of Israel",
-      "query": "drone incident",
-      "detected_at": "2026-04-14T11:26:16.216744+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "75dfdb0b275e"
-    },
-    {
-      "title": "Bahrain Summons Iraqi Diplomat Over Drone Incident - News of Bahrain",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yU1dxcmZNcmpQRDVQRGJpN2FlSEtXejJ3ZkZ6MWNTZWo1aTE2UUJzM2V4bDFqYXJDbHRqVnRuNjRfVU4tVDJmTUgyMnZwSGlPb1V2V2RoNFlPS3RzNEE?oc=5",
-      "source": "News of Bahrain",
-      "date": "2026-04-14T09:00:43+00:00",
-      "description": "Bahrain Summons Iraqi Diplomat Over Drone Incident  News of Bahrain",
-      "query": "drone incident",
-      "detected_at": "2026-04-14T10:31:38.543479+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "460bf218fe48"
     }
   ],
-  "last_updated": "2026-05-10T00:48:32.210239+00:00",
+  "last_updated": "2026-05-10T05:16:07.761199+00:00",
   "total_count": 1000
 }
