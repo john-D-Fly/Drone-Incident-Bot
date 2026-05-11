@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "2 Drones, 1 Resignation: Latvian Defense Chief Quits After Strike Exposes Air Defense Gaps - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GUWhJVTZsUkRaODdJNzBzWjVncUMxU1BxNXhZaXBVSmh3V2R0bXBCeE13ZFhPbEZNV1hfdTFzSC1iOHpWWmpOdkVvRQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-11T07:03:05+00:00",
+      "description": "2 Drones, 1 Resignation: Latvian Defense Chief Quits After Strike Exposes Air Defense Gaps  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-11T07:18:57.542674+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "627b7a2cce78"
+    },
+    {
       "title": "Mali army battles 'terrorist groups' amid blasts and gunfire - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05OER6UTJ3clphT2FvYk1MV1J1Wi1OdWk5NElDcFJva2g5cWp5d0tabXJEWC1Xb25KdTBJNG80eFZBVHo1d2pNd0xQY2plMkpZSDJpS25QTHk?oc=5",
       "source": "TRT World",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "a80af6b89ce9"
-    },
-    {
-      "title": "Drone strike hits KDPI headquarters in Erbil - Shafaq News - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzVQYVJsV0pIdDBRMTFScVFRQzdJakpJamlZUUZSN3FsV2ZUcFVRcmR2ek11VTBaX1lPYS1zOFYxR25UblJrbWZHZGN0TUJPbW1BN2hKWlFkYUJpWk9DWDJHaVU4NFVBR1BPbzc0S3VCRkRwQW1yMktjWFIzSk5PYWZ3?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-04-15T12:35:00+00:00",
-      "description": "Drone strike hits KDPI headquarters in Erbil - Shafaq News  شفق نيوز",
-      "query": "drone incident",
-      "detected_at": "2026-04-15T14:36:46.791207+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4a65beffd8f6"
     }
   ],
-  "last_updated": "2026-05-11T05:23:16.659892+00:00",
+  "last_updated": "2026-05-11T07:19:02.984623+00:00",
   "total_count": 1000
 }
