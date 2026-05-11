@@ -1,0 +1,120 @@
+{
+  "narrative_summary": "Over the past 48 hours, numerous drone-related incidents have surged, notably in Eastern Europe and the Middle East. A strain in Latvia's defense leadership emerged due to a series of drone incursions, leading to multiple resignations among defense officials. Meanwhile, Israeli drone strikes in Lebanon have escalated tensions, resulting in significant casualties. In terms of security implications, Baltic states are increasingly concerned about drone incursions from Ukraine, prompting calls for tighter airspace controls. Additionally, notable incidents of drug smuggling via drones have been reported along Jordan's western border. The operational challenges of drone technology continue to provoke critical discussions about security measures and defense readiness across affected nations.",
+  "totals": {
+    "terrorism": 7,
+    "other": 22,
+    "airport": 1,
+    "smuggling": 4,
+    "crash": 4,
+    "arrest": 8,
+    "total_incidents": 53,
+    "by_category": {
+      "airport": 2,
+      "arrest": 4,
+      "crash": 5,
+      "other": 33,
+      "security": 1,
+      "smuggling": 5,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 5,
+      "drone crash": 4,
+      "drone illegal": 1,
+      "drone incident": 26,
+      "drone prison": 1,
+      "drone smuggling": 4,
+      "drone terrorism": 11
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Latvian Defense Minister Resignations",
+      "rationale": "Repeated drone incidents have led to high-level resignations in Latvia, reflecting the severity of the situation.",
+      "incident_ids": [
+        "fc5365cc2ed5",
+        "56b272d91bef",
+        "627b7a2cce78",
+        "9f3fc19de27b",
+        "cd2e9a0616c0"
+      ]
+    },
+    {
+      "topic": "Drone Strikes in Lebanon",
+      "rationale": "Israeli drone strikes resulting in casualties indicate an escalation in military actions in the region.",
+      "incident_ids": [
+        "e94c62ec23ca",
+        "79c4e8567094",
+        "9937e1e97552"
+      ]
+    },
+    {
+      "topic": "Drone Drug Smuggling",
+      "rationale": "Multiple instances of drone smuggling, particularly along borders, highlight the ongoing issue of drug trafficking using drones.",
+      "incident_ids": [
+        "dada0c9f05bf",
+        "1d29390e421f",
+        "73fe2f9d2b17"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "654c0e6dd2d7",
+      "headline": "Hezbollah’s drone threat emerges as IDF’s new war of attrition",
+      "one_sentence": "Concern mounts over Hezbollah's drone capabilities amid ongoing conflicts with the IDF.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fc5365cc2ed5",
+      "headline": "Latvian defense minister Spruds resigns over drone incident response",
+      "one_sentence": "Minister Spruds steps down due to failures in addressing drone incursions.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "eb78d7a59c2f",
+      "headline": "Munich airport disrupted by drones: Flights grounded, thousands of passengers stranded",
+      "one_sentence": "Drone activity led to significant airport disruption, affecting thousands.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d124f69778a8",
+      "headline": "Israeli Drone Kills Man and 12-Year-Old Daughter in ‘Barbaric’ Double-Tap Strike",
+      "one_sentence": "An Israeli drone strike caused multiple civilian casualties, highlighting ongoing tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9d9c1aa5c5d6",
+      "headline": "Baltic NATO states press Ukraine over escalating drone incursions",
+      "one_sentence": "Baltic leaders are pushing Ukraine for tighter drone control measures amid rising tensions.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge of drone incidents in Eastern Europe and the Middle East prompts security concerns and resignations among leaders!",
+    "linkedin": "The recent increase in drone incidents has significant implications for global security, with high-level resignations and ongoing military tensions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-11"
+}
