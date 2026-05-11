@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "10 Bangladeshi and Indian workers arrested in Kuwait slaughterhouse raid - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHdqbGdWb0tDZWEybjRWaEROcTdOQkNETVZOUGo1RlVMcGFVekk5TmtReVlvaWlSUXFOSHp4MldNaWR2ZXdBaXB3eUxaM0hVb3BpZkRLQXliWEVXbk1kMVlOdXRtc1poZXVEQldWYkpIR1RnazZWZlRkVEpoMm1IS3hiUi12VmM3bmU3bmMxSlNzUklEdHNlVC1XMWttWjlSMV9ZZ0VaMkpjMVVjWF8wZUR1bU9Edw?oc=5",
+      "source": "Gulf News",
+      "date": "2026-05-11T17:45:41+00:00",
+      "description": "10 Bangladeshi and Indian workers arrested in Kuwait slaughterhouse raid  Gulf News",
+      "query": "drone illegal",
+      "detected_at": "2026-05-11T19:35:21.214315+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2eb258f59d75"
+    },
+    {
+      "title": "2 Drones, 1 Resignation: Latvian Defense Chief Quits After Strike Exposes Air Defense Gaps - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GUWhJVTZsUkRaODdJNzBzWjVncUMxU1BxNXhZaXBVSmh3V2R0bXBCeE13ZFhPbEZNV1hfdTFzSC1iOHpWWmpOdkVvRQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-11T15:39:14+00:00",
+      "description": "2 Drones, 1 Resignation: Latvian Defense Chief Quits After Strike Exposes Air Defense Gaps  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-11T19:35:18.058088+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "445407923350"
+    },
+    {
       "title": "Smart meter SIM thefts along PAK border ring drone-smuggling alarm - MSN",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTVYYkotQUJxRGkzZVpZZjdrOEE2Mm5BRXowNVFGeHY1NHhSblc4WnR6MHBBN1l3QlQ1ZTdGemYzZnRLVlJvUTRPSzdSTEEtb3c3czN4QUtaNEYzWnRqbmpWaEtPMjZycDlRU3lIWnN3R2swSVBqa2tYYXhQd0FkM3ZpOGZfSmo4NmFxckZ1bjhudFNsc3ZRb2dNeDVpWnRUbF9nNE9tM2x0LTNUTDkwU0E2YXZ0UQ?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "eb5d0e9d671f"
-    },
-    {
-      "title": "Las Vegas police releases video of drone-guided arrest after shots fired - FOX5 Vegas",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVFhZ1pxZUg2Uk1kbHdFMFRRZ2dVNU5ONVZSM2V5MDB4QngtekpFUjFQTHJfa1VNMS0xX3AwUklyS3ZlMWEyYWc1LUJjT0dCVlNxeEtIZTNJa1dXNHJhaHRhdGNqa01TaG5MNVZadHFCd053Z0pWdUNoSTJGWFM0US1iVlp4S2NWWnhNOFZlTW00R0JSYUlrN0NUYkpldExVemJjOGtCa3lvZkk?oc=5",
-      "source": "FOX5 Vegas",
-      "date": "2026-04-15T23:00:00+00:00",
-      "description": "Las Vegas police releases video of drone-guided arrest after shots fired  FOX5 Vegas",
-      "query": "drone arrest",
-      "detected_at": "2026-04-15T23:18:59.384145+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "962652d3c683"
-    },
-    {
-      "title": "Overnight drone flights over CT prisons may be part of national trend, officials say - Stamford Advocate",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEp6MjliM3lPTVVIcWlnLVhra1pkRWdraWlTOW1mNnBsd0VSMU1NY190R0dKa093cnBmZlp3ZHRaREs4Szk4MzllbUwyLVVxTXJTd1hRcE1ZcV9JemNzN2Y2RXlNcjVhSzBCWVl4M1JWcWo2cVBQVWJtejRLeXpUa3dlWm13NWlYOU84RkdDbXVtZzF0eVpBeUd0aDJ0c3M?oc=5",
-      "source": "Stamford Advocate",
-      "date": "2026-04-15T21:00:36+00:00",
-      "description": "Overnight drone flights over CT prisons may be part of national trend, officials say  Stamford Advocate",
-      "query": "drone incident",
-      "detected_at": "2026-04-15T22:17:13.263127+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5bcb5ad8ec2a"
     }
   ],
-  "last_updated": "2026-05-11T18:41:52.012412+00:00",
+  "last_updated": "2026-05-11T19:35:23.402116+00:00",
   "total_count": 1000
 }
