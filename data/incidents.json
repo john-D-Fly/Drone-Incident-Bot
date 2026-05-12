@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Wildfire sparked by drone crash in North Carolina foothills - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOC13aTJkbWtxZWgxNklvUHdGeGUxTzNzQTFIWC1jaHpRZXl2aDVnbkx5QWgwLUNsLXVpQkdOUjh6ODVsNDFVNHVRZm5FX2xvSnpjZU1OZWtSZnZkY3pDOENNc1hMMXdQZklUNGxGbm1jRzJGa2hLUk9RRWxQX0s4dlQxS3NNcDdxX3ZkcUF1UW9BVkIzb1pObGpRcF84bndBYXhxSXBpZkZpTThiVmViZVhmcWlGcmZsR25paFBSNkE?oc=5",
+      "source": "MSN",
+      "date": "2026-05-12T16:03:04+00:00",
+      "description": "Wildfire sparked by drone crash in North Carolina foothills  MSN",
+      "query": "drone crash",
+      "detected_at": "2026-05-12T20:36:00.213263+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "20807224ec70"
+    },
+    {
+      "title": "VIDEO: Leander PD uses drone to help find suspects during brief pursuit - FOX 7 Austin",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUVidnpEM2NoM0pWemFFNWJsNHlGX2JLWkNxcms4dGdzOHo5dzNENFBHV3ZFSTVFS1l3LWUtZk4wc1MyRE1HSU5UT3Btd2QyZ1k5aE1lc0dMd0poNkIxRGFWcTdHOERINnJwTXoxbUtkbndweDVHZTUyajB0ODJlNDVSdXQxQlhtcUpqQXBldUx4aDN4VG5ReUVVMldwcHJWX0HSAacBQVVfeXFMUG5jTHJPQnFVY041bXRvdFlRVm1lWkJlRGtvZ3A5UXJsLXlWVjNqWHlTSHEwLVdUT1E4czlTemxkNGF5Z0NJZ0JhY3BvTVpXTUdtSHJ2N2hiUGxRWnVtSWZNMEhDZkVfOG1fc0I4Mm1JajNrQjdmMmhDa0hnU2o5dkRrcFVVMUpsN201UGZXY1RtVHMyT0FLWFRMd1RyVDVtRF9IN3d6VVE?oc=5",
+      "source": "FOX 7 Austin",
+      "date": "2026-05-12T19:31:24+00:00",
+      "description": "VIDEO: Leander PD uses drone to help find suspects during brief pursuit  FOX 7 Austin",
+      "query": "drone arrest",
+      "detected_at": "2026-05-12T20:35:57.977292+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d16b68b55cb8"
+    },
+    {
+      "title": "Ukrainian drones crashing in Latvia trigger a government crisis as the nation’s defense minister resigns - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdUJSUFphc3BtYWNqNjBxX0ZmVUl0YzZsaHhCajRHQmhlUVlrLWtnTUh6U0x4Rk05QVQ0V1hOTlh4UXMxZmdlNmQzb0V5SU9EUGR1OHF5MFpqYjU2bGVwbERYV0pqalBZc1loOWJlNUxmSkRSOV9idG5pLUFZY3dxeU5DZ2dSQ1k1cGtzYTZxUXZjWmtKemJ5SjcycmRBdXhmV2NSQmdTbGU0N25uQ1UwTThIVmpnWEhZQUUyangtbHdUSWtuSnRvZzR5UkhSblNKcjNuN0FvNjRoek5x0gHiAUFVX3lxTFBoSjdfS2RoTmpGaThEY1cyZjhaLUYyZGtzS0ktaGk1UG5FdEFGcmxNYUlHM04ybkFXOUwtQmoxLUNWVTl3eVJCbUJPc0hXRWRFMFVrUnd5aXg5YUtZeEV3U0x3NVVxcEZ3akF6LXEzM3dZU2dXMDRjbDFJelFNSzlMNW1GS002OUdFQkZiVVhnYWs4U3YzXzBFNnd0c1VQN29OeEttX2E0SmM1TmhPUzlhRGZYbWU0eWY5dnJybVNOQy1ZcW4tT3k3WXJtb2F3bFViNlpoaEdnclhGME01bTU3Z0E?oc=5",
+      "source": "Meduza",
+      "date": "2026-05-12T19:41:00+00:00",
+      "description": "Ukrainian drones crashing in Latvia trigger a government crisis as the nation’s defense minister resigns  Meduza",
+      "query": "drone incident",
+      "detected_at": "2026-05-12T20:35:57.374529+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b0e49825eb85"
+    },
+    {
       "title": "AFOSI warns drone operators to know rules before flying near DAF bases - osi.af.mil",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeUhJR0JkZjUzWnNpRHY1Q25HbTMxN19uSW4yR1kzalFIVG1WQy1LdkRNdHA0ZTVRbVhuX091a285YVN4ZGpKQ0Y5TTIyZTZCSkhGd3pLZkY5ZXRJWkg4Qnl1SVpvbjhYYlRtcFpRc2lKMFU0ZHUxT281cXZZc1lBSkM1eWhOMGRyVDJSM25GMDNpM0Jmb1lBVURKZlNnMXgxLXdjTDFpQk85b3J5QVVtZC1uTGFJSjJZR2tqM0R5eWR6QktLRERpQTVmNWk?oc=5",
       "source": "osi.af.mil",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "20bfa9a6a9ff"
-    },
-    {
-      "title": "Oakland Taps DJI Mavic 3 Drones To Fight Illegal Dumping - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQWZDTEVxdG14c0hCLWRsVUc2WDFjeXJSdTdJRU93UWxfb3VRbFVwSnA1WUE5ZEx5NDNnYUFGemZlOHJxazJKR0F2NnZGS2dwYVNWRTNOSXhsdXNnQ01ueGt3RTUtWC0waWtpcXZKMi1hVVE?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-04-16T23:02:21+00:00",
-      "description": "Oakland Taps DJI Mavic 3 Drones To Fight Illegal Dumping  DroneXL.co",
-      "query": "drone illegal",
-      "detected_at": "2026-04-16T23:17:30.700210+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "64556fd785ba"
-    },
-    {
-      "title": "Drone sightings in restricted airspace at Colorado Rockies games prompt warning from authorities - Plainview Herald",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3IwYUVkTDBJVkdpMGJSeWp5Q3AzOE1aVWhXTVVBdFZoOGNoYXpKai1XeFNYUnI3akFfM05HMFdUU0gzRVowS3ZOQzdBdkJSOUZxbkdlOFZqb25aSVlRNl9CakNnS0dvN0RFNFZfa2RhVlZUcEpGUjg2ZU40eGxTU21hOTFkTDZGa0ktaHYzQmt2bXNPV2s5ZGlUejJTZw?oc=5",
-      "source": "Plainview Herald",
-      "date": "2026-04-16T22:34:23+00:00",
-      "description": "Drone sightings in restricted airspace at Colorado Rockies games prompt warning from authorities  Plainview Herald",
-      "query": "drone illegal",
-      "detected_at": "2026-04-16T23:17:30.700210+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "36442cf59309"
-    },
-    {
-      "title": "FAA Moves to Close Drone Enforcement Gap with New DETER Program - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FSzVHbFRKN1BwY2FFeXBHNXhVNzRzVVFEanJDNlVjNmRQTUxQYU1EcW1zbFlUbkROS05aNWJqMVNkbUVId1puOUFZcU80ZkJFUkV3amRFMVdpTTlfUkl5SFhGVl90b3RKekQ5MXlDRnp2SHkwQWpONA?oc=5",
-      "source": "Dronelife",
-      "date": "2026-04-16T16:18:45+00:00",
-      "description": "FAA Moves to Close Drone Enforcement Gap with New DETER Program  Dronelife",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-16T22:17:01.771704+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "656ddf7d9e03"
     }
   ],
-  "last_updated": "2026-05-12T19:34:30.674775+00:00",
+  "last_updated": "2026-05-12T20:36:03.273528+00:00",
   "total_count": 1000
 }
