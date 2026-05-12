@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "AFOSI Center stands up new sUAS cell amid drone surge - osi.af.mil",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDBtWnR1ZDU1RDByV2RuRFpOcjJ4QU5MbHZDYXpiY3FPaUlCZlBXWDQ0TncwRU9OYXlZdXlfMlZOaThfS0FTVjM5LUFzQUtRWlVfM2t0Z1lHb0RtZHJ3cmpuSDR1ZTJiaUpzSUUzenA3Zms0M0hVY3NTdlpnbExZU2RodENGNnc5VGlIeC1UVFo3bGhNWTVCd1JBSmt1MWJCRkU1c1h0VDJqSUJabEJMTGwzRjY?oc=5",
+      "source": "osi.af.mil",
+      "date": "2026-05-12T17:49:53+00:00",
+      "description": "AFOSI Center stands up new sUAS cell amid drone surge  osi.af.mil",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-12T18:41:03.269275+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6e83886514b1"
+    },
+    {
+      "title": "Drone-Smuggling Network Busted on Rajasthan Border - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHRNQVVpRVJKQ19UczhXWTFhZUVJVUpLZDFyN1pCYmxpMW9XY0xiWWVYQzFna2NnZTNENk9RS0pKc1pTWnotbUlCemp4cEcza21OVlE1bFltM1RQZ09uVjFTRzhqaVBfaXdHTDFWdWN2ZmZOSzd5NG1GTjRVVWdqUkx6Mno4bGE1d25lWFQxSUctZGtUT3lBOWh1dVhZY1pjUElGdDZFWFjSAa4BQVVfeXFMUFdxU1BabU5TRDFraENUUGlPdXAxNWd5WFEwRlNDZk13RUVobFBjTW9kVDZpVDh1SjR1TkRuYUJHM2RTVUE5TEM4N3ZQWTJiTm42b2hJNlltcWxULXhiWTVIODRENEJrT2VCTTZrUUFlOTJFV3UzTXFJN2t6VVRpTFgzV1RRRS1YU2JUcjJnTUhFVXJ2eXFJMUt6ejI3RnBKOC1PZW9KWjhDSVhzUDB3?oc=5",
+      "source": "Devdiscourse",
+      "date": "2026-05-12T18:23:17+00:00",
+      "description": "Drone-Smuggling Network Busted on Rajasthan Border  Devdiscourse",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-12T18:40:58.978903+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "47c7dceda25e"
+    },
+    {
+      "title": "Police use drone to follow suspected Dick's Sporting Goods theft getaway vehicle - KMPH",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeTV0aWtBWVctWVJZbEp6R09qZFprS1pHdHl3STNJSXZKdFNsNVd0RjlCZ1E4WVBMSk5ySUZJUUtpMUhxdGpZZFVfQnVJWGY0aFJHc0t0YXRUZDBqMWJRNHJGN3k5eU0yejN3b1JTM0NsSWVxSUZkYkQ0Zm44eWtCUFZuZXZEQVBFT18zYUVSRDlBR2syVnhnZWdMUTZJN0ZjRnlfLV9wMFo2ckVDaVZZVVVsQ2tpSlJoUDJUR1JOY2hrTDBCb2lNRng5MTFxdVJva0p0M2RZYmpjM3dzXzhUendZYk4tMG81ZnNnSG9uc054TERKRm1PeURoaGxvdUtYa3BaZUJR?oc=5",
+      "source": "KMPH",
+      "date": "2026-05-12T17:42:31+00:00",
+      "description": "Police use drone to follow suspected Dick's Sporting Goods theft getaway vehicle  KMPH",
+      "query": "drone arrest",
+      "detected_at": "2026-05-12T18:40:58.395762+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "10f66611d8f6"
+    },
+    {
+      "title": "Greece says attack sea drone found on island is Ukrainian, calls incident 'extremely serious' - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUVFanJpVkY2b3lfQjFSdDl1UzZ4TXFFbTlGTHNISE1JUWppU1hqOEFLenppcDQ0ME1faWpuUWRqa1Z5TW1FSzJVb3NhdGZON1dPNlROdzc4Y1JWVGJ3dXpoRFVkaHg2MHVnWWhudUdtdERERHZ3ZmRGZ2tyN0tLRXM5eTQtUQ?oc=5",
+      "source": "Yahoo",
+      "date": "2026-05-12T13:10:04+00:00",
+      "description": "Greece says attack sea drone found on island is Ukrainian, calls incident 'extremely serious'  Yahoo",
+      "query": "drone incident",
+      "detected_at": "2026-05-12T18:40:57.767107+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ed65bb98c9cc"
+    },
+    {
       "title": "Drone Strikes Kill 880 Civilians in Sudan as Conflict Enters Deadlier Phase, UNHRC Warns - The North Africa Post",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGNlUGc4WFlSX2ZDczcxcEltQkFqWXBkQ2lJZmZsa0dLenlHY1ZUMGE2azg3NFFjaElxNTNRVkRiZ2RjMmoyR3Ftal9UZkxEMFpfM1JsbnJHOU9qWkFBUG10TzVGNmFnMkdWODQtaTBZWUx2bXQyd3BhdV8tVUMxSkl2VHBVS1loamNSdG1WLUV5eHdqY3dlOEVlSV9sdHRjTjNocWlWZW90X29xakhJdG5Uel9zcnVmYTB2dVhPaURQZ2E5?oc=5",
       "source": "The North Africa Post",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "89a0373e0c69"
-    },
-    {
-      "title": "Henderson Fire Department deploys drone technology to battle blazes, locate victims - FOX5 Vegas",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMG5HeXpoZjR5dDVRXzVMU2FSQXVfZzRkeVNudkFOMTZ6NXZfRkZBVGVzb19zT0dMWkVjVnhfU1UyQmJwTHRySGQ1WlNtTUtNQzJaZ0t0a3RNRzB6SmRzRjZacVo2LWwxQmJhQm00OVpyS3dkWTB0YXZmaEo2d1FhUGY3VlI3RVpOajFZUngtRmlZSU9aSHhxTklESnJKOUFLejZ5WUl4cEdOQWpkYU9CLVltRFJZNWNB?oc=5",
-      "source": "FOX5 Vegas",
-      "date": "2026-04-16T21:54:00+00:00",
-      "description": "Henderson Fire Department deploys drone technology to battle blazes, locate victims  FOX5 Vegas",
-      "query": "drone incident",
-      "detected_at": "2026-04-16T22:16:56.001107+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3888f2a2e148"
-    },
-    {
-      "title": "Barksdale confirms multiple drones entered its airspace week of March 9 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQjdaZGlJczlZUjRoT2Q0dDItM3dGUTdKU2I2UEZIN2VzeVVXckRJOTFQRmYySDlBVm50cHZSRHNfWHJtclh4OWhrdkViUlEyNUdOcUFxcnFOZl9VR0toeERHdndhSUNTVWZRSGlHYjAzWmxLamhaUk1UR1RFT2NnajVVVXJjc1VRbW1OM09Wa25zM0pSNTFZNlRaRVFBS3VEdlFRc09CUDNQeWRCWVhvTFVmbnpDVmVYZWNCRS04SEwtN2VLT2d3UUtiam92cDJ0N0FWOENiWDYzN2pNUUc2MHgwTnp5WXlmTWszaEFQRlJSeWoyX1kzUzdBWQ?oc=5",
-      "source": "MSN",
-      "date": "2026-04-15T11:06:15+00:00",
-      "description": "Barksdale confirms multiple drones entered its airspace week of March 9  MSN",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-16T21:18:14.440766+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4ec026a17b31"
-    },
-    {
-      "title": "Jihadi Outlet: Upcoming Release Examines Equipping Drones With Cylindrical Ordnance - MEMRI | Middle East Media Research Institute",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2JPTG9oX0RoNFlZR2dRZFRJcHlMNVdsWVlLdE9TdlE4NERHV05HSlpoajRpYW1lOGQtbzBzbTZST2RuVm5uVm1ieHBTRndaZElrRVZ3YTJsb3FDSUJLcjRVRW9UOWJLU24tOG1jUS1vYWZ2MjI1Z05sTTk4Y0xNT1Q5QTdaUVE2TjRjcVhWTFJVWldfZkxvX0R2WW5ieThES2t3VVRDdzQ?oc=5",
-      "source": "MEMRI | Middle East Media Research Institute",
-      "date": "2026-04-16T16:13:22+00:00",
-      "description": "Jihadi Outlet: Upcoming Release Examines Equipping Drones With Cylindrical Ordnance  MEMRI | Middle East Media Research Institute",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-16T21:18:13.826729+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7bce109cd76a"
-    },
-    {
-      "title": "FAA Launches Faster Drone Enforcement Program - AVweb",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVS1PWnpiY0x2TFFhRWVvOWZOU2Vzc2tzVUp3QXRNRmZ5VUdKdUowWlc0RUd6U0M2aVFZSDNPTEdJNVlJc2Q4NzBfc1MyU1ZKX3JJTGNLYjFqUjZGZF9ZQmtCcHFNVWlCYWt6NDZ4eHZRUWlKZU5LMlg5cTd3cDR6b2dUSGQ?oc=5",
-      "source": "AVweb",
-      "date": "2026-04-16T19:15:48+00:00",
-      "description": "FAA Launches Faster Drone Enforcement Program  AVweb",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-16T19:31:22.377787+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "edf13c932258"
     }
   ],
-  "last_updated": "2026-05-12T17:43:19.149839+00:00",
+  "last_updated": "2026-05-12T18:41:03.997989+00:00",
   "total_count": 1000
 }
