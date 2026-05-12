@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian Drone Found in Poland Identified as Reconnaissance UAV - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjJvbW9ia01aNVdGMjZGeEFBa2k5aUFldWxKdW5ydkFCUWVCTnJzOE53ZXU4VFhWdDdvQTl2T1Vwa2REZjRsNlN4ZDE4dnlpNFIyaTFHVGZBQXlBQV9hYU1Qamd1LUFQOXhGVUU0cEF2T2VQeVV6TUZsaXhmWG5JSHR4bXFHZUpQYWw2ODZxNl9Zd19zTHJiMjN3?oc=5",
+      "source": "Мілітарний",
+      "date": "2026-05-12T06:44:15+00:00",
+      "description": "Russian Drone Found in Poland Identified as Reconnaissance UAV  Мілітарний",
+      "query": "drone illegal",
+      "detected_at": "2026-05-12T07:04:12.272673+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "12498940db41"
+    },
+    {
+      "title": "More drones crash in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamU0dXRTY2hiRzgxM2FoSHFoVG9kTzNaTnBJTXF6NjNqdnA3MTdjWFVDclFWTkRXbTV6TnlNRjc1MDdja3dldlpDVjAyMVdHZnp4M24yVGl6d0txWWRGZjBXWnY3cFVmcGhrb3NpV0tyRlpKS3pkWWh0YVNKQm40dkUwUnRTVG14eVZCQ0VJaF9VbDZ6?oc=5",
+      "source": "LSM",
+      "date": "2026-05-11T00:21:19+00:00",
+      "description": "More drones crash in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-05-12T07:04:11.761184+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "006ba9d0b306"
+    },
+    {
       "title": "Iran drone incidents hit Gulf states as Hormuz ceasefire comes under new strain - MSN",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQRzZpdlhaUlZfZlBfQ1JyMGFGNjh4b0I4Zkh5NjZyaEM1R2NZNG9HZGhUcFBwRFBhY2FBX2dONVQ2czZzTHhXWXg2bVBTYnp5VW92QTNYMm1KUkF2REkxSHNOeks0NXJWTXA3Z0s2RlJLWWh5XzlCZUN4bzlQSHdPYmcybldEUk9JQW94NkpzX3NfNmVfa3BzTFZDeDhKQUZ1bFRYb2xITnJVOWtyaGs5ZG84QWlVd3JLd1AtRkY4Q1RhLVZHa3pBSmxydFpkRlJhOG51Qjd4a3k0SXlWaFhaVzFvVU5rci1wdHM2YjV6aTVvZDdWWlBoaEczX2xfUVVsZ0Mza2pHY3pROHlrOTUwZTljaElFRFU1TkdqRE0yZHI4OXhZaGxmeFhaRnRCNWdtUUNQZC1pbkNyVldMcmNvZ0dRZjN5cFpjalIzVUlSREQ1TUFNdzhmazhLRDc0cVJwdU5LNFNsMlNkdkJJYTJVT1JrS3AwbXU0Y18xNko0QU5IdXZTU3RleFE4eWx6b2pQc3dCdFBrYkE3ZWVqbVg4YkhURQ?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "c4a0a63f06b8"
-    },
-    {
-      "title": "Drone in the sky leads Bernalillo County deputies to quick arrest - KOB.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjctNlByVmVuVW5aWHJCWU1FQ0VNdjZDNHo1bGpMeDhMcmpudEZRX3NzR1c1QS04WXpfR3RNVXc5SW1ZTjJBeEpuNTZqcUN3SzBKcHZ0eF9Sa092SXZfM1lkMXVBVVhKSWZsUUIzNWY1NDEwRzc5MjVOeVJjclN1dVZYRXRsaXBwaEU3bkxCYnNRa2tjM3FJZnhoY3hRZw?oc=5",
-      "source": "KOB.com",
-      "date": "2026-04-16T01:00:16+00:00",
-      "description": "Drone in the sky leads Bernalillo County deputies to quick arrest  KOB.com",
-      "query": "drone arrest",
-      "detected_at": "2026-04-16T03:08:31.940789+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "75243d0a3f44"
-    },
-    {
-      "title": "US Navy MQ-4C Triton Drone Lost April 16: $240M Spy Aircraft Crash - Meyka",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ21zUWVQbDFVS0tvM0t2Si02TVd0MmlMUlBVamEwWmxVVXhrY1VIVTFtbU5PZGRnY1E0RkI2QjltRTdnQ3lKMkNQcE9DNnVEOF8xRUJPcXpKYkpBd3dJOE44c3JrSUp6Zjh5RHBlN183WmpDWVlydXYwQlROUTl0NS1nS293YUs0cWRLMTlrWUtSY3RCRXVmQg?oc=5",
-      "source": "Meyka",
-      "date": "2026-04-16T02:07:21+00:00",
-      "description": "US Navy MQ-4C Triton Drone Lost April 16: $240M Spy Aircraft Crash  Meyka",
-      "query": "drone incident",
-      "detected_at": "2026-04-16T03:08:31.355422+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "eedd85d40ccc"
     }
   ],
-  "last_updated": "2026-05-12T05:16:54.558585+00:00",
+  "last_updated": "2026-05-12T07:04:14.365265+00:00",
   "total_count": 1000
 }
