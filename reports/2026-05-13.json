@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, a wave of drone-related incidents has occurred across various regions. Prominently, drone attacks and crashes have triggered significant chaos, especially in Russia and Ukraine, resulting in flight diversions and escalated military tensions. Reports indicate a concerning increase in drone smuggling activities linked to Pakistan, along with arrests made for using drones in drug trafficking and robbery incidents in the U.S. Additionally, the security situation remains heightened as Latvia's defense minister resigned following Ukrainian drone incursions which have raised alarm over national airspace safety. Simultaneously, discussions around enhancing drone regulations, particularly around unauthorized use near sensitive areas, underline the ongoing efforts to develop comprehensive drone defense policies amid rising drone-related threats.",
+  "totals": {
+    "other": 27,
+    "crash": 8,
+    "airport": 3,
+    "smuggling": 7,
+    "arrest": 5,
+    "terrorism": 5,
+    "total_incidents": 82,
+    "by_category": {
+      "airport": 4,
+      "arrest": 5,
+      "crash": 11,
+      "other": 48,
+      "smuggling": 10,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 4,
+      "drone arrest": 10,
+      "drone crash": 9,
+      "drone illegal": 5,
+      "drone incident": 30,
+      "drone prison": 3,
+      "drone smuggling": 9,
+      "drone terrorism": 8,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Ukrainian Drone Incidents and Effects",
+      "rationale": "Multiple incidents involving Ukrainian drones leading to political ramifications and discussions on national security.",
+      "incident_ids": [
+        "b0e49825eb85",
+        "19d043c12625",
+        "b9cad60e753d",
+        "cfd4d39cfcbf",
+        "7c43239bf6cb"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Arrests",
+      "rationale": "Increased activity and arrests related to drone smuggling, highlighting the challenge law enforcement faces.",
+      "incident_ids": [
+        "c2ad21810358",
+        "f4668f202b9e",
+        "aa8e4276124f",
+        "2eb258f59d75",
+        "5e83886514b1"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8e84e5cde776",
+      "headline": "JASON CHAFFETZ: America needs a drone defense plan before disaster strikes",
+      "one_sentence": "JASON CHAFFETZ highlights the urgent need for a drone defense policy in the U.S.",
+      "risk_tags": [
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fca1d0ea1109",
+      "headline": "Russia’s St. Petersburg Airspace Plunged into Chaos due to Drone Threats",
+      "one_sentence": "Drone threats in Russia led to massive flight diversions and airport shutdowns.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6038f55c25a1",
+      "headline": "Anti-Drone Tech Coming to Texas Ahead of FIFA",
+      "one_sentence": "Texas is implementing anti-drone technologies as FIFA approaches.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5ebbe7961f11",
+      "headline": "Car erupts into flames during rush hour after I-40 crash",
+      "one_sentence": "An I-40 crash resulted in a vehicle fire, showcasing the hazards on highways.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "6e83886514b1",
+      "headline": "Latvian Defense Minister Resigns Following Drone Incidents",
+      "one_sentence": "The resignation was prompted by recent drone-related security breaches.",
+      "risk_tags": [
+        "policy"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d7c158e7da9f",
+      "headline": "Rajasthan police uncover drone weapon smuggling case with Pakistan link",
+      "one_sentence": "Police in Rajasthan have revealed a drone smuggling network linked to Pakistan.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising threats and significant policy discussions across borders.",
+    "linkedin": "The latest developments in drone incidents reveal a critical need for enhanced regulations and responses, especially concerning security and smuggling issues."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-13"
+}
