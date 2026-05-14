@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Latvian government collapses amid dispute over breaches by Ukrainian drones - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDlJRklkbXBUckZ1YU5mLUFma3pfWUNJN0p4czVCRkVlaEZfdnB0RWw3akdHUHNMdHMyOHpDWjE0UVY4eDFJNHpWVUpsY0NEODRtX09GcGJNT0hlUUM4UVd4NXlFZXJyVG9OcXZ2cldNUllXUlBWcjZhSU1GZXhOZW44WUVNNmNRc1JKVmRVZmlSbnprYzFvLVV3cnF6Z0k4ZnpOWjRCaE5KOTVkZFlXS3BUMi1lY1lhZG5PUXRHaE5nZw?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-05-14T21:04:48+00:00",
+      "description": "Latvian government collapses amid dispute over breaches by Ukrainian drones  The Washington Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-14T21:28:45.902944+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "02ea7e228feb"
+    },
+    {
       "title": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure - Crowell & Moring LLP",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5",
       "source": "Crowell & Moring LLP",
@@ -11987,20 +11999,8 @@
       "location": "near Georgia prison",
       "category": "smuggling",
       "id": "7fce0c6daedc"
-    },
-    {
-      "title": "Enemy drone crashed in Chernihiv, damaging two homes and a school - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pXzhVRXhoMm1JQ0MzanV2Q3loNnZNLWFFblJyd1A1NXdGTU42VzhoQlJadHJaOXlfcGlvcXhOYThHeE1wWm5aMmtOYUFZLTA1LXI4cE9xXzF5YVZ3?oc=5",
-      "source": "mezha.net",
-      "date": "2026-04-18T23:45:38+00:00",
-      "description": "Enemy drone crashed in Chernihiv, damaging two homes and a school  mezha.net",
-      "query": "drone incident",
-      "detected_at": "2026-04-19T00:39:52.979411+00:00",
-      "location": "in Chernihiv, da",
-      "category": "crash",
-      "id": "a754a67bba8d"
     }
   ],
-  "last_updated": "2026-05-14T20:34:11.061691+00:00",
+  "last_updated": "2026-05-14T21:28:51.895296+00:00",
   "total_count": 1000
 }
