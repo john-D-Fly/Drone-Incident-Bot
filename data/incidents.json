@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Latvian Prime Minister resigns over handling of Ukrainian drone incidents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEhfVXlTRjJXa09zTElKLTZZeThnUUJZUldnT1FUX2djdFZKYkxLbFd4V1Q4VG1OOWdxMWxMYjNtN2tQelFINWNtRGVlazVuc3RobW0tRnV1REd4dnB3UURWQkIwdmY2YUptR0hEYkFJZ1BpMDF3YVhic05Iby04MDlvcHU5Z1lzRjdPcXJQNkdRNmZfMl9YUg?oc=5",
+      "source": "Reuters",
+      "date": "2026-05-14T11:36:20+00:00",
+      "description": "Latvian Prime Minister resigns over handling of Ukrainian drone incidents  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-05-14T15:50:30.036063+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9ca50068ee09"
+    },
+    {
       "title": "Fresno’s Skydio X10 Drones Catch Dick’s Sporting Goods Thieves - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42QmJodVNPbC1oa043SnpQYS1MNjl6cGZabmo0SEFsUHJ2cmFaTmZkaU9ER21ibnBnVmRaTzU4bVN1QkxSNmgxc2FGbGRPRjhja1VhNHlCTndXRUFqY1NFNVRsbzAyMmJxaExUbTF5MTI?oc=5",
       "source": "DroneXL.co",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "25baedfa7149"
-    },
-    {
-      "title": "Mainland drone market cools as drone regulations to be tightened more than ever - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1RDZXNMQ2VocU5iN3ZrYmpnUmEtZ2xBQUJaWnJqTldiMkhpYUpsVGJZUFV2Q1RURTdKQmdWTm9RVHhtMEd2UE1rTk5pRy1XT3N6MmEyMkpRaVFBSDlMQ0MzMEJyOFd6Y0VsaVZsdW5CbFR6YzFacVV4bFRZMFY3QnJ3WE5pQTFaTng1dzZwbm9tUFRvWTNqbENOWTZmYV9qM3lianpVYmNOQ01BWjhDVnZXU19MZk5welVpd1VvUEZxVnluOEpESDFiNA?oc=5",
-      "source": "The Standard (HK)",
-      "date": "2026-04-18T08:31:37+00:00",
-      "description": "Mainland drone market cools as drone regulations to be tightened more than ever  The Standard (HK)",
-      "query": "unauthorized drone",
-      "detected_at": "2026-04-18T09:19:31.607792+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5d12db82d937"
     }
   ],
-  "last_updated": "2026-05-14T14:55:05.728306+00:00",
+  "last_updated": "2026-05-14T15:50:35.920108+00:00",
   "total_count": 1000
 }
