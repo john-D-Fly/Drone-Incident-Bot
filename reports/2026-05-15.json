@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant uptick in drone-related incidents has been observed, mainly centered around Ukraine and the Baltic region. Notably, Ukraine has conducted multiple drone strikes against Russian targets, leading to geopolitical tensions and the resignation of Latvia's Prime Minister due to drone incident fallout. Instances of drones disrupting operations at major airports have escalated, with security responses tightening. Smuggling attempts involving drones have also surfaced, highlighting ongoing issues in prison facilities. These events underline serious concerns regarding drone-enabled terrorism and security measures across Europe.",
+  "totals": {
+    "airport": 5,
+    "arrest": 8,
+    "crash": 5,
+    "other": 30,
+    "smuggling": 4,
+    "terrorism": 6,
+    "security": 3,
+    "total_incidents": 87,
+    "by_category": {
+      "airport": 12,
+      "arrest": 4,
+      "crash": 5,
+      "other": 46,
+      "security": 9,
+      "smuggling": 8,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 8,
+      "drone crash": 9,
+      "drone illegal": 1,
+      "drone incident": 35,
+      "drone prison": 4,
+      "drone smuggling": 4,
+      "drone terrorism": 14,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Geopolitical Tensions",
+      "rationale": "A series of drone attacks and ensuing political ramifications in Ukraine and Latvia reflect escalating geopolitical tensions within Europe.",
+      "incident_ids": [
+        "1b171a5d0d82",
+        "17af7e2c883e",
+        "41c0d688a6e8",
+        "4854043fd8b7",
+        "c9b0f3b2286b",
+        "6700e39a07ad"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c9b0f3b2286b",
+      "headline": "Ukraine Drone Strike Hits Major Russian Oil Refinery",
+      "one_sentence": "A drone strike from Ukraine has targeted a significant Russian oil refinery.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "1b171a5d0d82",
+      "headline": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
+      "one_sentence": "In retaliation, Ukraine launched drone strikes against Russia following extensive bombing strikes.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4854043fd8b7",
+      "headline": "Defense Forces Intensify After Mystery Drone Alert Grounds Flights At Major International Airport",
+      "one_sentence": "A drone alert has led to groundings of flights at a major international airport, causing disruptions.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "41c0d688a6e8",
+      "headline": "Prison Drone Deliveries",
+      "one_sentence": "News discusses the challenges of drone deliveries to prisons highlighting the issue of smuggling.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "34fa78d4e443",
+      "headline": "Bedouin Smugglers Outsmart Israeli Jamming Drones on Egypt Border",
+      "one_sentence": "Bedouin smugglers have been reported as successfully circumventing Israel's drone jamming technology.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "3974aee0c4ac",
+      "headline": "Latvian Prime Minister resigns amid row over drone incursions",
+      "one_sentence": "The Latvian Prime Minister has resigned due to controversies surrounding drone incursions over the country's territory.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "720ce5bc5e93",
+      "headline": "Moscow bans sharing aftermath of strikes and warns of fines",
+      "one_sentence": "Moscow has enacted a ban on sharing images and reports related to drone strike aftermath with punitive measures in place.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone-related incidents rise sharply across Europe, with geopolitical tensions spilling over into political resignations and airport disruptions.",
+    "linkedin": "The recent surge in drone activities has raised significant concerns, leading to political shifts in Latvia and operational disruptions at major airports."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-15"
+}
