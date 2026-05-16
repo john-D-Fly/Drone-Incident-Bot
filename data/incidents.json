@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "UAE rejects ‘attempts to justify Iranian terror’ after Tehran alleges role in war - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBVdWRMWnJwX2xDVzZIZTg5alQxVlc1M25DaXFySDk4OXlQOEo3aENyUlNrTkJxRVNQdUZtNFNWV3V2R3NxRjg3TFhQY0RhVHY4Z0RZYzYwZk1IUGtKY21pRHNfanNGZkZPOUdNRjRNSmRBQVRVLUZsWGhnWUljaDRUMmxraXBpVERPbm42d3d3UC1NTjBHQWl4NnhhWDRvVE53alM5ZFJDSzdXMTJv0gG0AUFVX3lxTFBPdW05Z1J5cDlULTljTmpmU2dXTEZ6Q2RGcVQwdVBPVW9nbURsRTJSVFZjdEdsUENpWmdLbV9HVS1XNUNkNEMxU254MDhsVkJXR1FaeDFVSm90ekNLSGZOQXdyQmpxWjc2c1hUcWp6V2kyN29FYk52aFdrYXQ3YUVjaEl5Qkg3TVZyRWVGdEEybUlNb21ybG40UVp2bHRtTDRxZlo1dUowcWE3eExkWi0wMUpLYg?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-05-15T21:29:51+00:00",
+      "description": "UAE rejects ‘attempts to justify Iranian terror’ after Tehran alleges role in war  The Times of Israel",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-16T03:09:59.993218+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "dea441bb277f"
+    },
+    {
+      "title": "Finland Closes Helsinki Airport Over Suspected Drone Threat for First Time Since Ukraine War Began - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDdDB0a1p5Q2Nydmc0cjBjM2hCTkludjY3Q3ZrVlRwTTVjY2NERUVYczgwdmgwYU9yNXotZ0dTNXgwRWZ3SWNtR2RtRQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-15T14:41:08+00:00",
+      "description": "Finland Closes Helsinki Airport Over Suspected Drone Threat for First Time Since Ukraine War Began  Kyiv Post",
+      "query": "drone airport disruption",
+      "detected_at": "2026-05-16T03:09:57.887197+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d4339d668da1"
+    },
+    {
       "title": "Ukrainian Strikes Kill Four in City Near Moscow: Russia - The Defense Post",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEpXUldKOEtnRGJfTE8xRzZfZ05sbm5GaGNaVzlQVU1SQ24wNHlsUjl4aXBBVkdiWU9NVU13RVRIcjhKR1hGNzhOSzMtaXc2UHljSFlZWjJUc0toSk02S0NlX3B3WnhpWEpwcklwdVlYc1B6RExENEY3blNDWEpxa9IBhgFBVV95cUxNTnFhZ2ZNZkhmYmZhT1ZjR2Fqcl90akstM0pGZUNtV2hvV2dITjROUzFja2x3dnZQRE5wNkMtbHB5cnVOdzBZWnE2S1JvaE1ZRUN4V25JbG96Wkg5ZGhjbmZnMXRQN2szRG5CVS1Cdk1GWmczTVVtZHZMZnJrRHRPT09yMkNUQQ?oc=5",
       "source": "The Defense Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "41f8210fc7df"
-    },
-    {
-      "title": "Cyprus charters fourth rescue flight as Dubai drone incident strands travellers - VisaHQ",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZWhXZzU1YmpmNWxHY0RIc1RDTFE1OHNDSDlXMEtrdFphYU5COF8xbXRlcjV3dmFxM1I2NXpWbncwUVJSZ1Jwak5mYmt2SXlJSVdWeFNUbWt1bENMM0lZVXZ1TUx6MGlVX21rckMyTzZJcjQ1aVo5Zzh0T2g5RmdBUG95ZjNoTzNIVUJ0NU9LMWRWcUNGclViZlVzZVBoOC03OTZYMy1WNW5VeDlpVnMxTzl4bnVyaHBja3BHaVdLTQ?oc=5",
-      "source": "VisaHQ",
-      "date": "2026-04-20T23:05:32+00:00",
-      "description": "Cyprus charters fourth rescue flight as Dubai drone incident strands travellers  VisaHQ",
-      "query": "drone incident",
-      "detected_at": "2026-04-20T23:18:02.033160+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "93c3ab115f48"
-    },
-    {
-      "title": "Queen Creek debuts portable drone to help firefighters - yourvalley.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVFBaUpubklVUV91U3BGdkc4T3ZTdnNvMDRjVVgzVGVfUXlkWlZsbGtFemVyS1hYdmg0ajJVbHk5dXcxSzhvcVNlZVlFbUQwLVprVXRRTnFMM0lHcEdWV2JOOWlxR3hoekNpbHh0SmZ6Rmdnd2EwQTk2Z2Q1MmFCNV9jck85dm9kbzhTM0dFUDd3STBrakdRU1k3cHRTX3NBcDR6TVZNREZ2YWRSUEozNTQzb292aUh3QWYwdg?oc=5",
-      "source": "yourvalley.net",
-      "date": "2026-04-20T22:22:00+00:00",
-      "description": "Queen Creek debuts portable drone to help firefighters  yourvalley.net",
-      "query": "drone incident",
-      "detected_at": "2026-04-20T23:18:02.033160+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7ebe0facc715"
     }
   ],
-  "last_updated": "2026-05-16T01:38:16.495981+00:00",
+  "last_updated": "2026-05-16T03:10:01.080262+00:00",
   "total_count": 1000
 }
