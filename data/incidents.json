@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Texas DPS gets authority to take control of drones flying near AT&T Stadium during World Cup - NBC 5 Dallas-Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0huM1NaYzMwOUM3YmpUdWVQVHhNRXpqMm5sRE0wMy05UnEtQlFFWmg5MGVMX1pLVi0tTmpuWXM0dV9ETkN2UEpQX3lJNkp3ZU1Wa0J2MUlBQTBKNllLREZkRXg3UnVUbElKeHNxWFZBbFJzVFRBejU0Q0ZVVXJacE5lb2d4dHJKWWQ4SGxWTnlZZ9IBmgFBVV95cUxPWjJaeERyRXl5cVV6Z05YTVBUc2wtYVZac2g4YnFzbkwtSlRkbEdUcG1QYklKNmJJR0ZJemhMblR2Y093RGtyWXVUcFdXU0I3NF9BNnNzWWFJQXFibWVvWFVwQy1sZ0ZLdDRPM2NiVTE0Y3ZOSld4ajVtdHZzUGFxOUpJY1BnbDBDODhpejBCR2ZneWpUSTdNVENB?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "date": "2026-05-15T22:38:22+00:00",
+      "description": "Texas DPS gets authority to take control of drones flying near AT&T Stadium during World Cup  NBC 5 Dallas-Fort Worth",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-16T11:24:40.246828+00:00",
+      "location": "near AT",
+      "category": "other",
+      "id": "c23b59fdf31e"
+    },
+    {
+      "title": "Forest fire burns near Chernobyl nuclear plant after drone crash - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWozdUZycEpYNHRIbmo4bENUWXRQQTZoMkZ5M2tLS3JweEllT2ppSmI1ZTZDZUE2NlRWVURCZ0JnME5laUhpS25rcW5uQVZzV0lJWmozakkzQmx4TUUyNFd2N1VmYkNmWVRBMXlhTzlPNDhxTW96dVBNXzZqYThWWFJtSHg2UVpxcWtqLVlDcDBGZnFvVnk1NUJtT25ISktyalluRUpLRHFzYnh1em5VRUd0RDhBbUU?oc=5",
+      "source": "MSN",
+      "date": "2026-05-15T06:03:08+00:00",
+      "description": "Forest fire burns near Chernobyl nuclear plant after drone crash  MSN",
+      "query": "drone crash",
+      "detected_at": "2026-05-16T11:24:38.074832+00:00",
+      "location": "near Chernobyl nuclear plant after drone crash",
+      "category": "crash",
+      "id": "793d9a4a5dd5"
+    },
+    {
+      "title": "Finland says Helsinki drone threat has ended, reopens airport - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVNLcXBxV1JTLURZdlh5TjlVOXhZU1k3a2RCakF6dTRhcHNZdzZkWGxia1hoTGNCRmtXemNmbzZWWWMxWWp4bFNTVU9lUERHOUZOMkNTdU1hbk9uRDh3SVVUbzJoSGJXRVdRZWNaN0ZxU0tqb18wY2ptM1R2Y3ZwMDYwU2pjczE1NzFIbS02amdJOWo3c01KcFJHUE1iTXZyWF9sVW9WMjNOTEVSVENadU1LVHpNTUszOUlQcGtpdzA?oc=5",
+      "source": "Reuters",
+      "date": "2026-05-15T07:23:00+00:00",
+      "description": "Finland says Helsinki drone threat has ended, reopens airport  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-05-16T11:24:34.983456+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "67e5b392cb54"
+    },
+    {
       "title": "Latvian PM quits after coalition collapses over drone security row - MSN",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMVE4V2hlNnd3NnV3aXBSdUx5aTBMV1pESEQ0alkxN09hUlhmREtHTUFnTVlXUFVJM1h3dDFxcDNyYjRubXB2RnlvZlVKZUZtQUpMVU9Dd2JKSkdQU2NYc2lReVBxdno1bHV5T2FLLXY1WERHQkJfeXR1SEYzOFJXbG1hdjdWV2E5U1ZRYUo2OVdvV0VkM2EzZHV3aWhvWFBONFVmbW8xSjVrTlhrSUpyblF0QzZ0aFZhTXVscHJvSUZqSW5EUk10TnlqTlVKaFltOTk0b1daU3VSRExHTzRBa3ZYOXBwbXJzajE5VkVURG5xcmppU0tsN2ZrNEQ?oc=5",
       "source": "MSN",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "aee55ab4e186"
-    },
-    {
-      "title": "Drones are smuggling drugs into South Carolina prisons nightly. What to know - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREE4Z1F2M1JFNnhOUEc2dFoxM0kwU3hhSEg5VGJKN3UwdjM5V0NDXzZ0TGtFVDBTenJSZlFIWmFpR2lzVjBJaWxGeUlGRnNycTdnSlltaVFWWWhHUURyQXFqQUJkX0hUazBIZTFyMVdfVURzNGxRWVhpemIxWFJQejcySzM1bFZkUWYxbkpld2piMVIxenc5WlpxSFB1VkNZX29VNXAxU1dhbVNneXpxVDRRVDZ1d0g0SHVMWWJ5ZGlEdw?oc=5",
-      "source": "MSN",
-      "date": "2026-04-21T03:22:53+00:00",
-      "description": "Drones are smuggling drugs into South Carolina prisons nightly. What to know  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-21T10:33:22.212203+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3fac60c0f76e"
-    },
-    {
-      "title": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons - thecanadianpressnews.ca",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS0V4eEkyN3dKLUNTTWxqWUdlZ2drNHd0VkF1QWpIeW9jYjVxaHFZajNFcHR4d2ltR3FzdGJlVnNqdEpyaTV5dGQtNHhtZ1lmc2lYaHltWWw3cDdZU3pMVHZSLXNBXy01WE8xUFotTFNSOFJCRG83UE1oVVVhWlo4Mld1bERaOFotN28yNEFYdmZ4cXh3WFc2N2pYZGxKcnZJTVBpSHoyeVJKdnpiY0p2SFJ3S201TVA0UEdmWmJkNnV1a2pSak1oZnRodGF2S1dPR0VWV3c3eTBNMklIWmgzUjQ1ZUdtenZKa0RzRVY5YmZyWkI5NEFVYVQySF9HODFyX0pQQXl4R0RRUWc?oc=5",
-      "source": "thecanadianpressnews.ca",
-      "date": "2026-04-21T09:01:07+00:00",
-      "description": "Saskatchewan to test out technology that detects drones smuggling drugs into prisons  thecanadianpressnews.ca",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-21T09:35:24.676868+00:00",
-      "location": "at detects drones smuggling drugs into prison",
-      "category": "smuggling",
-      "id": "af40f5eb6426"
-    },
-    {
-      "title": "Los Angeles County man sentenced for delivering fatal dose of fentanyl via drone in 2023 - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLUZTU0FxbUJVWkxJaWtIZnA5dElMaUpiRWx3dVpldkZpcTBoRVo4TnVUZGRueXhrZlBwWmpmejZhcDVTOTM2U2k3bFRmcGhHSVllLVlxeTdWUVJBMUR3RS1fcGVaNWcxcklZbE1QYWFfSDRScWx0LVBPRHRWTkc4dExpaUJtcWk1THMtZk5XTkRleXhSOF9rR3YtOHRfRnFXRXZMT0tBa3otVWNmaUdqQWRsRnIzRnNPS0pOWUZn?oc=5",
-      "source": "CBS News",
-      "date": "2026-04-21T03:30:53+00:00",
-      "description": "Los Angeles County man sentenced for delivering fatal dose of fentanyl via drone in 2023  CBS News",
-      "query": "drone prison",
-      "detected_at": "2026-04-21T08:41:29.650797+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2a79e529cc2c"
     }
   ],
-  "last_updated": "2026-05-16T10:30:18.629011+00:00",
+  "last_updated": "2026-05-16T11:24:40.746109+00:00",
   "total_count": 1000
 }
