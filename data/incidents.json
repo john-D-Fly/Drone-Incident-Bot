@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZ2RUWktqN1d0OU03cW9MTlJFOFFXT1pjYkN4Zkpkc08xWWoxOWtFTnFrcTFzNnFaZ0g3ZHZXUGpOdWJRaWlybDRJQjZjcTRTb1ItVEZFMFY5Zw?oc=5",
+      "source": "BBC",
+      "date": "2026-05-17T20:53:45+00:00",
+      "description": "UAE reports strike near Abu Dhabi nuclear power plant  BBC",
+      "query": "drone incident",
+      "detected_at": "2026-05-17T22:20:36.929532+00:00",
+      "location": "near Abu Dhabi nuclear power plant",
+      "category": "other",
+      "id": "18d21a6b638d"
+    },
+    {
       "title": "Police drone helps track down fleeing e-bike rider in Redlands - KTLA",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUNua0FXVmNlRGxvMHlGNHRYMC1ObVZWTmVtTk1jd1ZyWm55bDRMYkt2N0Jsc09TNm1ZVnQ4cm5fNzB6WWtXdE9RN0c5Q0NRN19XQnZxamx2amlMWDVGQXRkQlIyQm5jU1NhTkpBMlNHcjlFejAyWFFYdW16ckNBQk5RNkdFRUk0bWllQ3BkQ1phSUZEV2RwUWlUUWdRQmw30gGmAUFVX3lxTE5PaFczb2Y2OTF3dlVIaV9iUGc3aGh4VEY5RkktVVNMWU9aeFRZbHJCV2ctWWl1MTI0QWxxWW5nNUpFc1RkVEpNRHBNcTBsMzNfX0s4OTltUkY4VnhaTFFQZmtfbWd1MjlqRENhVjJFQXNtcDNKcDU1aXBOUEpEVDBPQ2lqU2xUWmt0ZlIzRTBmNU1wUXN4TUJxeC1FX00tNUdueThIVFE?oc=5",
       "source": "KTLA",
@@ -11987,20 +11999,8 @@
       "location": "at Kelowna airport",
       "category": "airport",
       "id": "a43f78895b25"
-    },
-    {
-      "title": "Ukraine drone strikes turn Russia's holiday coast to 'Costa del hell' as toxic 'oil rain' pours near Vlad's estate - the-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWNCaTVEN0NTeWNTZVJKTlRIWC1YbVBkcVRLVE1RVk5BeHJiYU1SYmk0dDNNT1IwOXJwcXRLcWo5QUFGRmpPYWxzZF9jZXd4WXVhdjlhTW0ybzZuYk13S3F3dWlTdndLSTdBdFhrd0c5ZS1zTl96OWZLQ09mRXZvUnlEZGZYRHV3c3VMVGZCSQ?oc=5",
-      "source": "the-sun.com",
-      "date": "2026-04-22T20:17:34+00:00",
-      "description": "Ukraine drone strikes turn Russia's holiday coast to 'Costa del hell' as toxic 'oil rain' pours near Vlad's estate  the-sun.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-22T20:22:30.226203+00:00",
-      "location": "near Vlad",
-      "category": "other",
-      "id": "b7f8803d71d9"
     }
   ],
-  "last_updated": "2026-05-17T21:20:44.889398+00:00",
+  "last_updated": "2026-05-17T22:20:42.161210+00:00",
   "total_count": 1000
 }
