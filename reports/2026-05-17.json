@@ -1,0 +1,127 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have surged in both Europe and parts of the Middle East, with a particular focus on terrorism and smuggling activities. Moscow was the focal point, witnessing multiple drone attacks leading to civilian casualties and operational disruptions at key airports. The fallout from these attacks has extended to the international stage with discussions around security policies. Meanwhile, incidents of drone smuggling and prison drops have been reported in various locations including India and the UK, highlighting ongoing issues with contraband deliveries. Notably, Finland has recently dealt with drone threats that forced airport closures, reflecting heightened security concerns in the region. The geopolitical implications of these incidents raise questions about airspace safety and counter-drone measures moving forward.",
+  "totals": {
+    "airport": 5,
+    "other": 17,
+    "smuggling": 6,
+    "security": 1,
+    "terrorism": 9,
+    "arrest": 5,
+    "crash": 5,
+    "total_incidents": 58,
+    "by_category": {
+      "airport": 9,
+      "arrest": 5,
+      "crash": 5,
+      "other": 29,
+      "security": 1,
+      "smuggling": 6,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 8,
+      "drone crash": 6,
+      "drone illegal": 1,
+      "drone incident": 14,
+      "drone prison": 3,
+      "drone security breach": 3,
+      "drone smuggling": 4,
+      "drone terrorism": 10,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Moscow Drone Attacks",
+      "rationale": "Multiple incidents involving significant drone attacks targeting urban areas and airports in Moscow.",
+      "incident_ids": [
+        "d26f1d8fd9d9",
+        "1a7761624c33",
+        "1fdf4ea90ba0",
+        "1dd37fd67961",
+        "ff7ecc14f8c4",
+        "4ef6bea790f4",
+        "35a45498ca49"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Operations",
+      "rationale": "Reports of drug and contraband smuggling via drones at various locations, highlighting security gaps and organized crime.",
+      "incident_ids": [
+        "3c79f789075f",
+        "5769f0a9481f",
+        "a4fd3ef7cc58"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d26f1d8fd9d9",
+      "headline": "Record drone attacks on Moscow kill three and disrupt operations",
+      "one_sentence": "Moscow experienced unprecedented drone attacks causing multiple fatalities and major operational disruptions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "1a7761624c33",
+      "headline": "Drone strikes hit Moscow sites and disrupt airport operations",
+      "one_sentence": "Drone strikes in Moscow have significantly affected airport operations and safety.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3c79f789075f",
+      "headline": "Amritsar police arrest man with 9 kg heroin, probe cross-border drone smuggling",
+      "one_sentence": "Authorities arrested a suspect involved in cross-border drone smuggling in Amritsar.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "5769f0a9481f",
+      "headline": "'Drones, visitors and throw overs' the grim smuggler tactics at West Lothian jail",
+      "one_sentence": "West Lothian jail has seen increased smuggling activities through various drone-related tactics.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1fdf4ea90ba0",
+      "headline": "4 Killed In Russia After Ukraine's Biggest Drone Barrage In Over A Year",
+      "one_sentence": "A significant drone barrage from Ukraine targeted Russian territories resulting in multiple fatalities.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents reported, with significant attacks in Moscow and rising concerns over smuggling operations.",
+    "linkedin": "Recent drone incidents highlight escalating security threats in urban areas and ongoing smuggling challenges across borders."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-17"
+}
