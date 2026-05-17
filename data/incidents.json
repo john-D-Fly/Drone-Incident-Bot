@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "FIFA World Cup 2026: FBI deploys anti-drone technology to secure stadiums across US host cities - Mint",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSng1NjlIV2dWR2lBbDdUZVJVYXl6dE14TkluOWlkNmtsV3phTEdsX0ZfRDl0MWJ1bXprZTFZT2J0THpCVGJpYlZ6N1NkSnFBWDQxb1FJMnA1SE5ZMnhmR0pmOTNXZndJTzh3SzlmU1hJRnJ0czJpSlFUTlc3TEg4NXFKYzZLSEdoMlRWZ3ozSmgxdUFCRHJacHRUWDVFcmZiQ053YkNiYW14TVgyMi1rXzNWTUU0QTI2YmZLbG5kbm4tVlFvWTNEUXlIcDAzZjQwdHRTTXo4NUVHaExqZkhkQ0hSZm5CbEHSAewBQVVfeXFMTkwxNEtaeE1hck44ZU5ocU1QcndVeE90czNfLVNCNldxZFhkYXRyWElDVk5ieVZPNXBrWlllRUhKU01OcWpRSU5YWUVHNlhNeHZYYkpOODhwRjFfazF5eHRibnFyMHY1djFVc0p3Nm1UTTJrWUlPYTZZRHNvVHhtdExVU2J6NUNGUFM3eGx3NXlKMllrUE5ZR1lreVpMVlpFNmpRWGR4bGlXUVZkVXNTZXZJRXZsRkw4R2pqYVZqcERqUTNqV3hHQTN0UGl2Znp0MWtqS0dQeTg5VzU3YmNSckRkT1RGMzlRR2s3YV8?oc=5",
+      "source": "Mint",
+      "date": "2026-05-17T17:59:27+00:00",
+      "description": "FIFA World Cup 2026: FBI deploys anti-drone technology to secure stadiums across US host cities  Mint",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-17T18:25:45.396237+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7e0cabeac89d"
+    },
+    {
+      "title": "Meet the FBI-trained drone warriors who will guard the skies at the World Cup - nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVM2MjgxQUdIa3U2aW1maEUtUzU5N2JBU2FCaS1MdmEyRldzYkljLTAzUVJMTFFuX1dQM0twNUtvbFZFWV9pbV9Qb1JQYk1INW5IcnlYNDFUd3VTYTRPRGU0RDBWcmdxSUEtZE9BTjlaVlhhNUFxV3ZYcGdybU9LQVpYMmZaVlZrVHk0cWZaLWNqRFJCbUZRdGpJZDdtVkdWdTN3RFAtWlFubmdzYzJHTXZFMUc4T2s?oc=5",
+      "source": "nypost.com",
+      "date": "2026-05-17T10:00:00+00:00",
+      "description": "Meet the FBI-trained drone warriors who will guard the skies at the World Cup  nypost.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-17T18:25:45.396237+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8cc88db420e6"
+    },
+    {
+      "title": "A suspected Ukrainian military drone was found crashed in Lithuania - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUJQbmxJNFdmQkFOaUZpTVNqdWIyalhVN004UFJzZ0pqdWtZV3NJRmVkb2V6N3NwLU1pclZHVGhCWlBQMGNEeVVUM1I0WFRKYjhKdWJZTWJ4ZDFMZEF1ZlBEWEdjdEtYVkNuLWk2R1AxVlh1NmJoMUxjT2NVTnhaYzFBWEdIVWlCWnh4X3UyN3lDbEV4azhnN3VVdW1XQThV?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-05-17T18:06:46+00:00",
+      "description": "A suspected Ukrainian military drone was found crashed in Lithuania  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-05-17T18:25:40.690344+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1001fb064456"
+    },
+    {
+      "title": "Sources: Drone attack on UAE nuclear plant intended to send message to Emiratis - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oRUlRTG5oQXRKTDBldmVpNERKcDZuNTlXLTRCTVhMc2hxUk5PWDcwSmxjeDNYLVVmNTYzODlLSnN3aTlDTjNHanUzVlRtb0NHWkNwSlcwUzMxWnRo?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-05-17T17:42:04+00:00",
+      "description": "Sources: Drone attack on UAE nuclear plant intended to send message to Emiratis  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-17T18:25:40.690344+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "da2f53134ff4"
+    },
+    {
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZ2RUWktqN1d0OU03cW9MTlJFOFFXT1pjYkN4Zkpkc08xWWoxOWtFTnFrcTFzNnFaZ0g3ZHZXUGpOdWJRaWlybDRJQjZjcTRTb1ItVEZFMFY5Zw?oc=5",
+      "source": "BBC",
+      "date": "2026-05-17T16:25:38+00:00",
+      "description": "UAE reports strike near Abu Dhabi nuclear power plant  BBC",
+      "query": "drone incident",
+      "detected_at": "2026-05-17T18:25:40.690344+00:00",
+      "location": "near Abu Dhabi nuclear power plant",
+      "category": "other",
+      "id": "1e1ad4eff34a"
+    },
+    {
       "title": "Ukrainian drone strikes on Moscow could mark a turning point in the war - EUalive",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3ZlM0dibDMwYnZwXzVQNHFaaDhEYVVzRVluTS1kSVhPV2hoeTlSbE93RThxQ2wzQ3A3YzM5bC1qcW9KYTZvSVVmXzRYN0YzbWIzUlVra0Z0WTdGbFBhaU1PYVNIUDhPR0RGdWFpV1VKTFMzNExQSUl6VGdYc2xlZVZuVlNMMWMwVTRNNjZHLVJUNkU1LU5v?oc=5",
       "source": "EUalive",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "042d00436fc8"
-    },
-    {
-      "title": "US navy admits loss of $240 million Triton drone in crash during Iran war | World News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVRKLXBYQXpJemM2Tk1xZERoLWgxNlI0MmtRdEYyM2FiUDNlZVhlamdQNXNsUnZnZEEwTk91b1g2enhudi12TWFHU3ZiYWdXNk5iZ3lHRlNhOHZadko1Ri16Q05KcmVsZnB2c0FUS2Rhc1V3RFgwQ0E2NGwyd3pjRktMTERIVVF4UldaSERMMWllaC01dE9CVjJzZnptaEM0SDRfdEt4SU5ZZnZ2aEJFc0hxY01VTEFtVzF5SlhNdW5rT1dpZTZjOEZXX19TVEdi0gHWAUFVX3lxTE4xdHNDWlM3c1hqaHBqdWMxV0V6YXpMeGotSnY5cmY4d0hqVzhJbkZSWjZEQ05fRVJLUW9HRV8wREJwTktHYkRkNVdMbEdTTndSaTQzR3k4ZkkzWGw3WTdKZXFacUZrNGRxX2h2a3NkcDlkQ2FUMUxlUzZKS3NiQjV0dkNuM19lVlFCTVQtZFVDQnViMXZhZzJzOU1vVlVGWlpLVk5OUkZlamdpeTFCUFJqUVlFakZEOWtadDAxWC1SUGNhaGFkY2JUeTB0c3RUeTVOV2R3VGc?oc=5",
-      "source": "Hindustan Times",
-      "date": "2026-04-22T13:46:50+00:00",
-      "description": "US navy admits loss of $240 million Triton drone in crash during Iran war | World News  Hindustan Times",
-      "query": "drone incident",
-      "detected_at": "2026-04-22T14:36:43.731172+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "5338fbae07fb"
-    },
-    {
-      "title": "Russia accuses Ukraine of adopting the \"logic of terrorism,\" and Kyiv vows to escalate drone attacks - صوت الإمارات",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd0V5Ui1FNDBzYlR3NWtSNTY1UGdWbUh6SDN2NnVjaDl4R0lvQlhiM04zbzl2UHJudUREZk1VajBmMkdTVFhNRTVUaFE0ZFBjUWlZUTFwemJxT3RVbUJrVzUwbHlDZlZWN1BpWEljd1ZzWWxBUUVqUmxBdFNSQWpHTmg2TEtraXhEX2RYaTRlMTZ5ajF4Q21GWFZvanFrUmtMUTFFYUdsOHdpS210ajhnblU0X240M1NjY2JXbnNIQWw4bmRjMFdRSDhOd2I4eEoxZTRrWDIyZkxiVjhDVXJIVEpEWUJnaFo3?oc=5",
-      "source": "صوت الإمارات",
-      "date": "2026-04-22T13:08:22+00:00",
-      "description": "Russia accuses Ukraine of adopting the \"logic of terrorism,\" and Kyiv vows to escalate drone attacks  صوت الإمارات",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-22T13:36:00.927824+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "cb43e3d75b2d"
-    },
-    {
-      "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2t1andZNXJoVG9FZWRUTVVSamtJQjRnZTJXV0NiVEIzLWhuTlFnS1k5OGRuUEJKMTBybVdZSlVsNVNObFdLRXA0NjJhT3NTZl8zYU1sQnFrNVVMaXFLTHV6ajRZYVNQUG1Ic091MGg1LWl2aS1aak1RMGZScDdnS1RyalVsTFdwVk85eFpMLXI2U2draGZOLUFyRDZ0ZFh4ZWNFbnhKcUR6d2ZNeTFzYnBPTnEyUQ?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-04-22T09:27:01+00:00",
-      "description": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-22T10:32:55.170614+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "78333b83ca15"
-    },
-    {
-      "title": "US Navy Triton drone crashes near Strait of Hormuz - MSN",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNcGVJc0s5bExNcHA1dVp3Tk9ucnhzMVBDYU9OSVBnaFZGMzVZVjBPSEhNcGw5VHlfSmZhYk5wM3BlX0Q0TTJUNHBnaWUtQWljNE5QTUtheWRRZjVlb1ZjVHBZM2JlaVNoZUxuLUY0S0xCbDZPSm92bXV3MUlmUGhRUlpRUTRMelh1MEZQaTQ0R3hnNkJRLXEyRkRXMDFvbnpYMUNXb0VzRWl3SHdkWnQtRXc5MncybDNYZHB2QzB2dFp3WXc0NFJlU1ZObFRhNDI3bEJES2ZfSmJsYVh1cmQ5SjRZSi1IQTh4UDJURjB3eWE0ZmZhRnRaWUJDNEo5dFlwQW9zMlpfYm5RRUhkYV9aREF3Q0NxSUtRcEsxUlFENkRsZDhjMi15LU9sVmZPazNUOWVIQWhNTQ?oc=5",
-      "source": "MSN",
-      "date": "2026-04-21T12:58:50+00:00",
-      "description": "US Navy Triton drone crashes near Strait of Hormuz  MSN",
-      "query": "drone crash",
-      "detected_at": "2026-04-22T10:32:53.561596+00:00",
-      "location": "near Strait of Hormuz",
-      "category": "crash",
-      "id": "9183eefc3f63"
-    },
-    {
-      "title": "Triton drone crash amid Iran war confirmed by Navy data - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CaFNNbTFndGlQZVZmRnJEWFBxUGVZLWdPMDVrcGZ1clpHdXZ4SmlDT05qNFBtcUJaMWZxeFlaZ3NzSV9nTHNVazBndDVIYlV4eDItczVxd0dwQjhXQVp5LU4xblVFOHVWMTlTZXdlV2tMRjQ?oc=5",
-      "source": "Axios",
-      "date": "2026-04-22T10:26:43+00:00",
-      "description": "Triton drone crash amid Iran war confirmed by Navy data  Axios",
-      "query": "drone crash",
-      "detected_at": "2026-04-22T10:32:53.561596+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a2d206ba54f6"
     }
   ],
-  "last_updated": "2026-05-17T15:25:31.504164+00:00",
+  "last_updated": "2026-05-17T18:25:45.964884+00:00",
   "total_count": 1000
 }
