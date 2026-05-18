@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone strike hits UAE nuclear power plant - News - InDaily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2JOTkJjUWl1a19TSzFGcnMwNTdRMmRIWVpfRmsxYTUwc0dwNmc0d2Z2SGM0c3d1WlQ1NUc1WFJueU9nNUJhbnU4X2R2aEwycFdReGdMd1dfYkJXLXFWQm95cFl1Q21Td3BnWHNQcGpCMG50VWpwbjBoZTN5OTgtWmxKUmoyR3Nwck1QNEpMTWxVaGJqVzhQZEZn?oc=5",
+      "source": "InDaily",
+      "date": "2026-05-18T02:16:00+00:00",
+      "description": "Drone strike hits UAE nuclear power plant - News  InDaily",
+      "query": "drone incident",
+      "detected_at": "2026-05-18T03:13:17.979755+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d50a84b4f0a6"
+    },
+    {
       "title": "UAE and Saudi Arabia report drone incidents attacks — Reuters - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDUzWEhyaUZVWWRPVmI5MHhJUEpyMkRReU9qVnJKc09wTXlyRUxzTDJtcm9hWS1GSnF4ZlhIbkpUSTBxaUR6aUFMOEVnYWdRVnM3d3R2Q3I2VTQwUXZ1Nlo1THBGTzAtMEhiSWJmSDBRa2JiUmRrelpWeWhPUnd6Z29qVFItcXNVbHhaZS1qbTRJU0FVZnk3dURFYkJKT0QwZ1JfOA?oc=5",
       "source": "FXStreet",
@@ -11987,20 +11999,8 @@
       "location": "IN BARANGAY NIOG Barangay Niog, Ap",
       "category": "other",
       "id": "e36dbe58f0f1"
-    },
-    {
-      "title": "Ukraine drone strikes turn Russia's holiday coast to 'Costa del hell' as toxic 'oil rain' pours near Vlad's estate - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHZqcUdhc0Z0YmI5M3h1d3FERFk4NmhrSmhOVUpNWXFpMkdFci1XUVNBTzdzUTBiU18zazYxQjdRZTRJSUxsMlZkNU5reVU5cmRBLXhqaTFDRl9hYnBfZEV3S2haX0lmek0tYm9PZmpwZmR3aGd0TEEtRXk3b29lY3NOdnRUWTB0aF9WVnNuVEE?oc=5",
-      "source": "The Sun",
-      "date": "2026-04-22T20:15:00+00:00",
-      "description": "Ukraine drone strikes turn Russia's holiday coast to 'Costa del hell' as toxic 'oil rain' pours near Vlad's estate  The Sun",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-22T23:20:10.788367+00:00",
-      "location": "near Vlad",
-      "category": "other",
-      "id": "88360ca1f6a8"
     }
   ],
-  "last_updated": "2026-05-18T01:44:58.345285+00:00",
+  "last_updated": "2026-05-18T03:13:23.440810+00:00",
   "total_count": 1000
 }
