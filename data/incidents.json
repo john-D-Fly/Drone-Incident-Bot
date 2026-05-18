@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "UAE and Saudi Arabia report drone incidents attacks — Reuters - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDUzWEhyaUZVWWRPVmI5MHhJUEpyMkRReU9qVnJKc09wTXlyRUxzTDJtcm9hWS1GSnF4ZlhIbkpUSTBxaUR6aUFMOEVnYWdRVnM3d3R2Q3I2VTQwUXZ1Nlo1THBGTzAtMEhiSWJmSDBRa2JiUmRrelpWeWhPUnd6Z29qVFItcXNVbHhaZS1qbTRJU0FVZnk3dURFYkJKT0QwZ1JfOA?oc=5",
+      "source": "FXStreet",
+      "date": "2026-05-18T01:09:50+00:00",
+      "description": "UAE and Saudi Arabia report drone incidents attacks — Reuters  FXStreet",
+      "query": "drone incident",
+      "detected_at": "2026-05-18T01:44:52.899600+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5e645069c03c"
+    },
+    {
       "title": "Unidentified UAV Crosses From Russia, Prompting NATO Scramble and Border Lockdowns - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pUGFmVUdFdUxteDZVa1RNX1JDLWlIeDF3LUhFQ2tGMFNHYUtYWXB0cjFqWjVwNzFOaUd4bjdHcHdzdEllUGJGSXhXQQ?oc=5",
       "source": "Kyiv Post",
@@ -11987,20 +11999,8 @@
       "location": "near Vlad",
       "category": "other",
       "id": "88360ca1f6a8"
-    },
-    {
-      "title": "Triton drone crash amid Iran war confirmed by Navy data - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CaFNNbTFndGlQZVZmRnJEWFBxUGVZLWdPMDVrcGZ1clpHdXZ4SmlDT05qNFBtcUJaMWZxeFlaZ3NzSV9nTHNVazBndDVIYlV4eDItczVxd0dwQjhXQVp5LU4xblVFOHVWMTlTZXdlV2tMRjQ?oc=5",
-      "source": "Axios",
-      "date": "2026-04-22T10:56:18+00:00",
-      "description": "Triton drone crash amid Iran war confirmed by Navy data  Axios",
-      "query": "drone crash",
-      "detected_at": "2026-04-22T23:20:09.048714+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b22405d57fae"
     }
   ],
-  "last_updated": "2026-05-18T00:50:54.605520+00:00",
+  "last_updated": "2026-05-18T01:44:58.345285+00:00",
   "total_count": 1000
 }
