@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "UAE vows Barakah will keep operating after 'terrorist attack' - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWTc4ZnZCTFp2Y2V3alB6bklxTjZuRDFNVm5lYjBhYzhqcXNhYVpXRTNpMndqT1RGZW5XdzhyUkhJN3dOMk1yZENZeDdfU19fdkM3NDktZGdvZEhqNTM3amtjSzRkRWRLOXc1V05seU1DeTlFcGtRNXBuUl9qV0x1ZUw0ZXpaZmtIbWdOZGdYOVE4eGQtc2prNm9fLUbSAawBQVVfeXFMTTI4M2tfQ1MyOV95cWFGMlJrVHFGR3pRcG1xSUJhdE5seDRmTW0wam9TMzU1Wk1HMm0zZjFMNXByNWVjTThnZDB3T01sS1BZNXFFSGtUaDlTdGZmY3g5Zk9WbUM3RjE1YTFpZnEtLXl5MmJkNERpUGYwWWplY1ZTbmNPckhIR28yQldNN3J4SGdJSFNYOWh3QXNSQ2NjR2xYeTlRR3R5T21QZVZsWQ?oc=5",
+      "source": "Gulf News",
+      "date": "2026-05-18T13:25:26+00:00",
+      "description": "UAE vows Barakah will keep operating after 'terrorist attack'  Gulf News",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-18T15:08:16.428483+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "5e2e42a275f1"
+    },
+    {
+      "title": "‘Threat has never been so high’: Counter-terrorism expert warns of nuclear terror risk - interview - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96YUJMU1JIQjZxWl9TWEJrNDE0b2VlXzE3T1FaOGFFTmZERlNMTnpNclBKNkZIWnRYY1NjNkZYYTBLUDJpVE5hZ3MydzVPYzRiMmo5RUFBRjExN1NQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-05-18T13:34:15+00:00",
+      "description": "‘Threat has never been so high’: Counter-terrorism expert warns of nuclear terror risk - interview  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-18T15:08:16.428483+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "31c6b4cf8d6e"
+    },
+    {
+      "title": "Defence minister presses Air Force on radar gaps after drone crash goes undetected - LRT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0gyeE4xQno0d3JlR2ZSVUFBdUtuQ3ZwOUswOHk1OC1NdGFVWXQxQUZUQ1l1Y0JXdXVxT2lOVDhQei0yN01RN1hic3ZYTTZtazEzdlg4MGdBS0x4dzdYdnJvaFUzZnJaVllUTEdVZ0toYzlpY2t3UGNWOWpKQkdtaG9jbXR4M2w3NTQtMVVkVVQyRlFDeHkxbWRmejFLWHNVaW9SbzZuY1JNcDlrbFJuV3VCalFNV0VIcXJScU9lR2xSdVVGYUZZWUVGMA?oc=5",
+      "source": "LRT",
+      "date": "2026-05-18T06:37:00+00:00",
+      "description": "Defence minister presses Air Force on radar gaps after drone crash goes undetected  LRT",
+      "query": "drone crash",
+      "detected_at": "2026-05-18T15:08:14.646245+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "74aa7fb45b52"
+    },
+    {
+      "title": "Ukraine launches largest drone barrage of war on Russia - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVE1QbGlRNGNBbUl6YnNKSXU1dTViVTl0ZVhiR3RtblBmaUhndzhLRHg1TmZESldDWUVHcG5uWHlxMGw2WDRwRzhvYVotTG9CcjlmdEpFN0ZnMS1xREtyTTJCVW1Mc2tCYXVXd25kbHY0WURtckhMYjRfLUpDNGxjZWVUTU1TTGs0bkJqQ0xiZkNGbUU1UUU5d0dod2NKUDJpZmk2eDZ0ZFcwR29XSEtKX18tZlljeE0tRW5DeDBCbU9PYVJnUjg0aWx4Umk0bk5xMm11bVVLbW9Mdjh2M0ZnUVU2R3ZDU3c?oc=5",
+      "source": "MSN",
+      "date": "2026-05-17T13:25:51+00:00",
+      "description": "Ukraine launches largest drone barrage of war on Russia  MSN",
+      "query": "drone airport disruption",
+      "detected_at": "2026-05-18T15:08:13.973045+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e72396f8484b"
+    },
+    {
       "title": "Drone Strikes and Rising Yields: Global Markets on Edge - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVdMdDloVzV6SmFpVWNldlNjdzV3bmVNNkY1dFluX1pyNF9jc3NtX3dQd1ZpVHBDbUJOSGN2dnIzaUNVdmY3MUR3Nmp2bTdSZHZoZ0wzYTB0TGs2WTMzYjhmQURZN1hZazZyamtBQnNXNHhlX3lHZVFKUEhOS0xjS0pmX2RIU01nbERTbzFLWVdsQURZRFE2NGpVZ0wxblBGVzQxZnpvU3NmLXUxcVHSAbMBQVVfeXFMTXFySXVMYllEMTd5Q2hCcWRQa3gtMUhfaGV5R0pQZUh0aWt3OXgyUVZuRktSVXNsUWVlckNUci16aWRQa2dwRWk5ZjYwVDVnRFFjMWJ4dF9OcFVDMWxOZkVFSjl4ZERTa2hiMWxOdHF2ZXVVUUV1LUNHa3RjXzgwQVlvUkkwU0tEWk9kN3gtelg0ZUFuQUZ6NW9ETFZ6WHdQZzZ2Z3JMWWRuRllYeXVqR3k1SWM?oc=5",
       "source": "Devdiscourse",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "4881bcacc7e8"
-    },
-    {
-      "title": "Drone helps Zionsville police make arrest - MSN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2ZBMHdyZGRHM3c4U3phb3NsaTFaWXlvQWcxZl9QQWswUlVJdzFKdDZWcFM5NnBXODVhM20teFVsdEpuZndHaHMyaXlEaXJ3UW1KZ09qbEU1VWIxeUV5MjVSYmdneG1qNWJRaV8tWlBNbTZoYmNWeUpmV29hVVRKZWRoQVd6QVVhYV9YTFhuU05FV1F3?oc=5",
-      "source": "MSN",
-      "date": "2026-04-22T04:07:11+00:00",
-      "description": "Drone helps Zionsville police make arrest  MSN",
-      "query": "drone arrest",
-      "detected_at": "2026-04-23T23:19:56.037154+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "2b36e3062024"
-    },
-    {
-      "title": "EU summit triggers extensive road, air-space and drone restrictions across Cyprus - VisaHQ",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajcwamJpR1h4ZnpzamtJOXZDeVFvdWI1YU5OTm40VGJ6aVZEUEdwZGkzQUFnMmVSSFRqVkE3MlI5TlZOMDkzOHZCOGV0dEhSTG5rNlAwbDVGcWk1dWhzX2lIM2RnX19wRVUtQ01hR2lSeWJCYUVNWkU1cWV3ZTRweXVUWE4zbDNjcWxrZFEwOTFOa3dyd0NDNllWeXh2SHdiRWRmRkdjNzR6NWdySlA5c2N5MG5MZThMWnJPWHhlcGw?oc=5",
-      "source": "VisaHQ",
-      "date": "2026-04-23T23:02:21+00:00",
-      "description": "EU summit triggers extensive road, air-space and drone restrictions across Cyprus  VisaHQ",
-      "query": "drone incident",
-      "detected_at": "2026-04-23T23:19:55.268728+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4e53b565ab0c"
-    },
-    {
-      "title": "Triton drone crash amid Iran war confirmed by Navy data - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CaFNNbTFndGlQZVZmRnJEWFBxUGVZLWdPMDVrcGZ1clpHdXZ4SmlDT05qNFBtcUJaMWZxeFlaZ3NzSV9nTHNVazBndDVIYlV4eDItczVxd0dwQjhXQVp5LU4xblVFOHVWMTlTZXdlV2tMRjQ?oc=5",
-      "source": "Axios",
-      "date": "2026-04-23T06:00:48+00:00",
-      "description": "Triton drone crash amid Iran war confirmed by Navy data  Axios",
-      "query": "drone crash",
-      "detected_at": "2026-04-23T22:17:47.844875+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "9ba39465860e"
-    },
-    {
-      "title": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU2phZkpvdUZEVGdUWHhSOGJSeEVNemt4TXdXdkJmNXhSVDJGc1dRZTRpX3NfVzRWclZEVFotS2kzd3hMSzV4LUh3QmpScEU5NGZvd2Jsamh5YUxveVRueWpiOWdDamRVVnBxVlBLa19tUkZLd21lWEh4S3U2NTVKN0Z5QmlHN1pwazZoa1NJblp4ZkstVmtMT0c3ZDhmQ2NoQjFwc0hqaHdtVGZ1alUzS3d0UXI1RDlNWmFMaEtJNElyRkc2TkRQU1M3N3lfei13OUVGc1BIOWMxbE1YMHpWdW1sU3FGZ0hxMFdDWmtETDhaNG1tZ2RNaldoWWZfWERSeGxmanNvYUY0T0pBSmJWMHFoMmJVMk1RLWJUQVJyc3B2SlgzZVFxaF9UbDdURjN2SnNFZWpCYVpYNklDclItbTRjMEVlZXJvQ1kxQXQ3Z0hOcWxQNGlfc2M5UkRheUk?oc=5",
-      "source": "MSN",
-      "date": "2026-04-23T14:22:05+00:00",
-      "description": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-23T19:32:13.803326+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "846ba684668c"
     }
   ],
-  "last_updated": "2026-05-18T13:20:00.692019+00:00",
+  "last_updated": "2026-05-18T15:08:17.825167+00:00",
   "total_count": 1000
 }
