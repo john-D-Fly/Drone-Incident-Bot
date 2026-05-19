@@ -1,0 +1,124 @@
+{
+  "narrative_summary": "Over the past 48 hours, various incidents involving drones have been reported across multiple regions. Notably, NATO jets in Estonia shot down suspected drones linked to Ukraine, highlighting ongoing tensions in the Baltic region. Meanwhile, Lithuania is grappling with the recovery of crashed drones believed to be Ukrainian, emphasizing security concerns in airspace management. In addition, incidents of drone smuggling and illegal operations have emerged in multiple countries, including Trinidad and India, revealing patterns of criminal activity. The ongoing drone strikes in the Middle East, particularly targeting facilities in the UAE, also underscore the evolving threats and international dynamics surrounding drone use. There is a rising call for stricter regulations and counter-drone measures, particularly in security-sensitive areas.",
+  "totals": {
+    "arrest": 3,
+    "crash": 7,
+    "incident": 12,
+    "other": 20,
+    "smuggling": 4,
+    "terrorism": 4,
+    "security": 3,
+    "airport": 4,
+    "total_incidents": 102,
+    "by_category": {
+      "airport": 5,
+      "arrest": 3,
+      "crash": 15,
+      "other": 62,
+      "security": 2,
+      "smuggling": 8,
+      "surveillance": 1,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 6,
+      "drone crash": 10,
+      "drone illegal": 16,
+      "drone incident": 39,
+      "drone prison": 1,
+      "drone security breach": 2,
+      "drone smuggling": 6,
+      "drone terrorism": 14,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Military Drone Incidents",
+      "rationale": "Several military drones have been reported downed, indicating escalating tensions in certain regions.",
+      "incident_ids": [
+        "772ed6c1bf90",
+        "cd23aee37565",
+        "b9eee240bfc3",
+        "dcea349c0548"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Operations",
+      "rationale": "A notable number of drone smuggling incidents have been reported, indicating an active illegal operation network.",
+      "incident_ids": [
+        "42a58f75a83c",
+        "fc86fa31cad7",
+        "4c7d74a281b1",
+        "8e6cfaca1582"
+      ]
+    },
+    {
+      "topic": "Drone Regulations and Policies",
+      "rationale": "Multiple reports indicate a need for stricter regulations following incidents of unauthorized drone flights.",
+      "incident_ids": [
+        "51c7e7b6b738",
+        "567f7b95a472",
+        "a35ef3e14c6e",
+        "d5d6fa90e29d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "772ed6c1bf90",
+      "headline": "Intruding drone shot down by Romanian fighter jet in Estonia",
+      "one_sentence": "A Romanian fighter jet shot down a drone over Estonia, signaling rising tensions in the region.",
+      "risk_tags": [
+        "security",
+        "incident"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "42a58f75a83c",
+      "headline": "Prison ‘drone operator’ held",
+      "one_sentence": "An individual was arrested in Trinidad for operating a drone to smuggle contraband into a prison.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "12115ae21e69",
+      "headline": "Drone attack on Saudi Arabia presents early test for Iraq’s new PM",
+      "one_sentence": "A drone attack in Saudi Arabia poses a significant challenge for Iraq's new prime minister.",
+      "risk_tags": [
+        "terrorism",
+        "geopolitical"
+      ],
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f90882a7f0bc",
+      "headline": "China vows crackdown on illegal drone flight system tampering",
+      "one_sentence": "China has initiated a crackdown on illegal modifications to drone flight systems, escalating security measures.",
+      "risk_tags": [
+        "illegal",
+        "security"
+      ],
+      "countries": [
+        "China"
+      ],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight escalating risks across several regions, underscoring urgent calls for policy reforms.",
+    "linkedin": "Drones continue to shape security issues globally, with recent incidents reflecting the need for enhanced regulations and vigilant monitoring."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-19"
+}
