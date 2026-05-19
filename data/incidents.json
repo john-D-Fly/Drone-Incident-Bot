@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Russian jamming blamed after Nato jet downs Ukrainian drone over Estonia - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHB1Y3dtNWhjdVRYUHRjRUhKTXQ4Y2g5YklOcTVhMGh4cndibEFSNkNzN3FSNDUwTWhmZmJSSTRSU2tRU2NvOFh6M0FtQmtWdEJtZHhQZnhVVHVRcGJfSlA2UHZESGNlRExnMlRNQkd6c08yV1hPejVuUzYyU3ZjbThNUWRueXVKbnEyeGJHQV95OW5qdXp0cTJKTFZBRDdoMzV2YUI0UV8wb28?oc=5",
+      "source": "The Guardian",
+      "date": "2026-05-19T20:23:00+00:00",
+      "description": "Russian jamming blamed after Nato jet downs Ukrainian drone over Estonia  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-05-19T20:37:37.016040+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "3f0f10ca86a6"
+    },
+    {
       "title": "Baltic drone incursions spark NATO response and political upheaval - MSN",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaGhyYkVvYXkwc3M2NE51Wjd2S1dGQTZibEFLR2pWencyb0M4dHdlRXRIUE5rVGs0WjF0cWJxUWhsa2pVV1F2U1JhaTJpYUpDa0daXzFiR1ZXRXFKdWFNSEdyVGhZUGthTExlQmZJYXlfaHJwTV9oVHoxTzcxUTlMX2FWZTM2WmpIU0xvN19IdnoyUVoyUE9nMDd2TnEya0JKSkFSZjZjMzkzRlhsUGxXYW1oWkR4SEdSaEk2MjAzVElOWjBmMll4Q1MwbDRNM1VHdXJKY2tlTEtlc3poeFhIczU0a3ZtWXNoZkJQcA?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "d8c613529ef5"
-    },
-    {
-      "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0pJd1RjR0ZNTjF5eTBlV1VCY2pFeENKdmszOHQwM2xsSlN1ejdQWkJReDVrR2NWSUVhYTVSMTJ1Nmc3RjNsNGgxVnZ5VHQwRTRnV01qb0p1QU1UTXhEQllYb2gzS1UzRlVCU2JzYnhWbmJxSGdWbFYwbGUxRk04NVYzZDRxaG9EMXBBWXZxd1lxLTQ4cW1IU0FTNlR2SlRYY2dkbTNQbnZYVDVqUWZ0blNRQWFpSVB1QkpHd1kzUkNHSWRCdUZwdENyUk52b01ObGcxZ2xn?oc=5",
-      "source": "Reuters",
-      "date": "2026-04-25T04:54:00+00:00",
-      "description": "Romania says drone fragments damage property during overnight Russian attack on Ukraine  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-04-25T11:18:02.841851+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "110898691832"
     }
   ],
-  "last_updated": "2026-05-19T18:41:34.332825+00:00",
+  "last_updated": "2026-05-19T20:37:42.588031+00:00",
   "total_count": 1000
 }
