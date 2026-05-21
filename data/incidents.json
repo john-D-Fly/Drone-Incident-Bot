@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized drones flown over Soo Locks could lead to charges - SooToday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkhFdXU4U3BUOG1kOUVQMU5fQV93ODdoM3lXYmRjbEwtc1cyWDNGTU1WZG1Bc3IySGc0SGo0THN1bGJxdVVfcDJJVmdqcmlOendTQW9GV1ZFTjdVbVNMM1dmaFNMRFRXOVNDdWRrY25HQURDRFFPZDFxcUIzRVVuTW5zYi00S1RFT0FQMHNFVTgxOHMtSnp6bmVSalBFYTVGSENyczJTdk9JOVE?oc=5",
+      "source": "SooToday.com",
+      "date": "2026-05-21T19:19:51+00:00",
+      "description": "Unauthorized drones flown over Soo Locks could lead to charges  SooToday.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-21T19:35:46.407075+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "641e928c35b6"
+    },
+    {
+      "title": "Latvia issues warning after detecting UAV in its airspace - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1g4NHJYTUVFd190b2ZjYktIMG0zSERLOElHTG1MVG4tWkRKWERTU2w0N1NsNmF6SGJtYWZnaFNmaUVXMWR2WVpzblplaWJjSmV3bDltU003TzA0Y0VXM0NFUUItOFo1OUdhWUM0ZzdzZ0lWWTJBaGViVGVRUnVvSE1meWRyUkkyZ2xQTDY0ZFBvb25YaENBLWFuTm1xcDUyb25xaUtoZG5XNkMtSkxJS0lqNFNEVXdjX29aZi1rU1dXb0pzRE9wS0p2U1dJTVFjTUE?oc=5",
+      "source": "Euronews",
+      "date": "2026-05-21T09:07:35+00:00",
+      "description": "Latvia issues warning after detecting UAV in its airspace  Euronews",
+      "query": "drone incident",
+      "detected_at": "2026-05-21T19:35:41.134200+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8e6e877671d3"
+    },
+    {
       "title": "Unauthorized flying of drones over Soo Locks could lead to charges - Sault Michigan News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORm1PMHZrNmNnNUVfVnVEUHBvSFFTZnZwRm9qbjJPaHBWMDRKb2dOMWV6dU1qd19XblJ5LWVOQ2JIX3VvRjhRcjZlY0NvSjJ6SEhzY1FHMURSU2hZNVFQNTdkMGlfSGVrUFh0WENHZklQWGlWdjkweEtQaFJXcTRGNzdlb2FWaHBNNFVpZ3pybWE2OE1SMnhvLTNDVGpERkxpZTdWbm1kTTlORUhmMVk4YS1n?oc=5",
       "source": "Sault Michigan News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "b4c1a1d1f29e"
-    },
-    {
-      "title": "Two people arrested in prison drone drug smuggling attempt in Michigan City - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPeTFVenpDZ09sRjVEdVF4NWZSTUtXTHJuaVBEOUY5cEt5OXZEU201TVNXTDlQU21ySS0wU3k3UU1rcFJkVmNZaTl0dWdZQ3N4MEJOTGt1ZnVoa3Zpd1JjQmQ4TVZleFZEZlBpMG1DTFkzZmZmQnVTX3pSdUtSU01YZDI4ZGdjVTQyQVc5cUpuQVFVQ0ZYSW9IZG5od19GdHpfSkFybzcwOW9WOTEwRGN1WUVubWtBSHoxaDd6Y19lQkg3UUlOQkFhT1M5bERuWFY2YmdQdmYzcGlJb19pcVF2XzF6dXZ0MjctOEVDampfcmRRa1BYM0R3ZGNNbkR5TWdqaWZYNEU1UDNYZlZCRHpsUXBpWHE3b2oySGxmTW1ZNEpaU1l1bU1HLUpkRFd4d2k2SnlkZmlkbldiYnFIWDRHTXdmb2ljNGQ2Q08tNVZyOVJLT2lRaE1sSzVIdGV3VGZubFk3dzZwRllGTnFWWHFmWnE5aGk1Zw?oc=5",
-      "source": "MSN",
-      "date": "2026-04-26T11:18:12+00:00",
-      "description": "Two people arrested in prison drone drug smuggling attempt in Michigan City  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-27T16:35:50.932847+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "cfe4b9ae1aa1"
-    },
-    {
-      "title": "OKC Drone Leads Officers To Stolen Car, Two Arrested - Hoodline",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUW5Ha2RjdkNXdXlOYjN2LU1Kb3hOQVRDQ0lqQ2hzQkMwRWF0aFB0UDhVSXJabjNCZ2hYT1lnSWcyRzZzZG9ZZkE2eHEwUEtmS1JOcGh5czQzaElDQlE4MV9QeDNGQl8zMFRrOGl5ci1DWW15YkFUN1M1VU1wQWJkX2NIdkNqel9tT0NBNWQ3SQ?oc=5",
-      "source": "Hoodline",
-      "date": "2026-04-27T16:25:59+00:00",
-      "description": "OKC Drone Leads Officers To Stolen Car, Two Arrested  Hoodline",
-      "query": "drone arrest",
-      "detected_at": "2026-04-27T16:35:50.022313+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c2a1532f4721"
     }
   ],
-  "last_updated": "2026-05-21T18:42:08.026011+00:00",
+  "last_updated": "2026-05-21T19:35:46.907159+00:00",
   "total_count": 1000
 }
