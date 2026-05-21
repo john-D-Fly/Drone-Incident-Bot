@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Pro-Kremlin Channel Imagines Cuban Drone Strikes on U.S. Territory - MEMRI | Middle East Media Research Institute",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRlZETVhmSFhuVEwyT1Uta1JSUVZ1a3U1NjFzTHJQeHVVeHd1cDhRdW9oN3NiTUpJTkJ5eHZreTBTUDhzQ2s0OTYxRkktbXZoQ2ZJR0M5cUFUUmlDSGN1VVR5UUZLemlWS3NoOGx4WVpLNGRsUGpzajFOYlBWTm96SF85R2hqOHB2VTRsNnZTaUFPY1lyRXc?oc=5",
+      "source": "MEMRI | Middle East Media Research Institute",
+      "date": "2026-05-21T14:50:50+00:00",
+      "description": "Pro-Kremlin Channel Imagines Cuban Drone Strikes on U.S. Territory  MEMRI | Middle East Media Research Institute",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-21T21:33:54.857719+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "03bb212b2c0d"
+    },
+    {
+      "title": "General Atomics resumes flight tests for Air Force drone fighter after crash review - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGJUNzU0U04taU8tOFRGSjBucjZ4bFFQRENCMHZLNkdPdDIxTnQwM05iMVg0a1Z3bHI1ZENscV8yTlRaUXctVC10Wkp6R01qUmNMSl9uX3B4c0xDV0JDX0xEZkxmUVNIZ2gwWEVxS1Q1MlFPUnZCREdweDNJZV9leG5mM3BtXzJ4elcxdTBsbGR3RGY5TTdnUUF3THdYbV9WamsyUVNCenZSWTA2ZEd4TURCWmx4eDg0TlZud2JR?oc=5",
+      "source": "Seeking Alpha",
+      "date": "2026-05-21T21:03:54+00:00",
+      "description": "General Atomics resumes flight tests for Air Force drone fighter after crash review  Seeking Alpha",
+      "query": "drone crash",
+      "detected_at": "2026-05-21T21:33:53.131268+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "02dffd916195"
+    },
+    {
+      "title": "Latvia Issues Drone Alert Amid Heightened Baltic Security Concerns - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkV3piQWhoeEY0dW1YSFlPT3RGMmp2WWlDaS1TM3FFVHBBcDhDX05ZM3psUU1tODEtcF9kMFd0ZUtjanlzdnZPemllcWxxY0pjTGx6TkhpY2NEa1AyVVVYc2Z1TmdqWFlfWURwR1VuSmtwaUhW?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-05-21T16:30:04+00:00",
+      "description": "Latvia Issues Drone Alert Amid Heightened Baltic Security Concerns  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-05-21T21:33:49.947369+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c03c73fdfaa4"
+    },
+    {
+      "title": "Latvia scrambles NATO jets in latest Baltic drone alert - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmQ1UkJyQmJmSy1tRzJlam5VM0pCbExXczAwLWZvams2eEtLYzE5YnpmVHJPcUlReEJMVzJ5TFp2ZjE0WUtPcVhjVndxUXlEZWpFaXV4UktKdG1Ec1ZTNUx0UVhZVGNLMVBlS2dFa21sclhIN0J3UHU5d01GWmZRczhWVkVSYUdfMXZ5Q0lkZGMxbzRmdGhFM09DRlYxZDNpdWJGajZxSWUwQdIBqgFBVV95cUxNXzFjMThVOTh1NjRqWGcydGk1dEgzNFlIR0QtMVE2bG5jdnRhQVBrYXhTUFJfekJmSWFzZDlzeXBid0RfeUQ2OXY0VEcwUHc1QXllc25tZFNjM3lCNUNwSWd5VTJJLWRDaW5vQjBIZk8zYXgzQV9vM283dWR4b2piWWh6eXJsamh2R3Z3M3p0VExxbV9UR0FiNHowX19lT0NjMGlxTlVkaGVmdw?oc=5",
+      "source": "dw.com",
+      "date": "2026-05-21T13:55:36+00:00",
+      "description": "Latvia scrambles NATO jets in latest Baltic drone alert  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-05-21T21:33:49.947369+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b67336415369"
+    },
+    {
       "title": "Unauthorized drones over Soo Locks a ‘serious’ no-no - Sault Star",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHBZdU5XTkV5dHRnM3NQSjMzMjJLdXdEMmVlTURfZDJob3Vvb19vdWdfVHUxdlZIT2VOUUZJRUI1d0lvT24zVUp1ZlhBRENiWlhTNTBuMGsyLVp5NmRKblUtN2Z6SFd1UXNoNWlfRmEzbnQxVUN2cm5odzlmNXFnWnN4aUdJM1l6?oc=5",
       "source": "Sault Star",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "27c155fb28d8"
-    },
-    {
-      "title": "Drone sighting causes mass disruption across Spanish airports in April 2026 - Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDZBMHhkd3o1eXZJUlJ3MEtPM0s5a2xOMlE2blJTdlhoS0E2bHA0QWNWQVRPUnJNeWRxbmtnanpGNkZ4dlRLeUFUaVBrZThDVllrN05BNm5PUVBmak1TSTNXY0tYXzYxczd6cXFYS2JLM3Qzb2diWERIdHZJRTNEcHRGNjZGU1VjdVQtSW42M0o?oc=5",
-      "source": "Nomad Lawyer",
-      "date": "2026-04-27T18:33:45+00:00",
-      "description": "Drone sighting causes mass disruption across Spanish airports in April 2026  Nomad Lawyer",
-      "query": "drone airport disruption",
-      "detected_at": "2026-04-27T19:33:47.769344+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "5f843156a05c"
-    },
-    {
-      "title": "Sask. plans test of tech for finding drones smuggling drugs into prisons - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOeUVNS2p3dGhWU2V0TEZnSFlVS1BhNGE1azBwNmtEck13akx3dnp5TzMydWRqMmdGU2ZjYTU2REQyeDJGSWhXUHVPT1EzVHRaeDNWVmMweEh5N2J1MnZJRFhNanpHaGNIMzBKaTNqbE5XYVVIUEFmUVZfMkVuaVptX3haQUpMbG1abV8tX3BWdUpXSXYtS1BUVWxhZnVGV3hjZUtkV1o5b01SdFljb0VtWVQyZGpiNWhKT3E2Sk9RbWFQejZUcnFjT2Z6a0pRUWFhZDFHaVc4S0U2bUJDbjF5TmVWVG5mWUkwSVF1OFI0cExFZmtZOGg2Ujdvb3RkNjBEbUN1ZjFVTnlhckdMQkU2TVlCV01mLXVRWmVXeUFIVFR4cDFuSzFKQlpaVlJpNzVUdnpqeEpuSlFkME9NZTFlX0lLd0pMRWdtbjJKX3hDTUU4YmE4NU4tMkJsYkNpd3FCVDJLb3ljNGJXZjRnb2FSQVVn?oc=5",
-      "source": "MSN",
-      "date": "2026-04-27T10:57:32+00:00",
-      "description": "Sask. plans test of tech for finding drones smuggling drugs into prisons  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-27T18:32:05.940551+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7b134fd5de27"
-    },
-    {
-      "title": "Romania Rethinks Air Defense After Drone Incidents - The Romania Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVUwa2s3dHVNbTYtdU9kNndyRDhmU3VPRkRlMFBtdG5Hd2dMUlBEcUdDMkZjaWVRbHIwLWhTOWVMb01nWEw0dXFKcVBmbDdHN1hKdms3b0xHai1UX1l4MU9TOEk1eWNrQkhTeDI0S18yMzNfSmYtRHJzMi12TGxBMEJMOUw0eHBaekJqbUxoaURuMGFKUThWOVcyeHBZNEF3cll2NTFSang2RVXSAasBQVVfeXFMUFlVMGtrN3R1TW02LXVPZDZ3ckQ4ZlN1T0ZEZTBQbXRuR3dnTFJQRHFHQzJGY2llUWxyMC1oUzllTG9NZ1hMNHVxSnFQZmw3RzdYSnZrN29MR2otVF9ZeDFPUzhJNXlja0JIU3gyNEtfMjMzX0pmLURyczItdkxsQTBCTDlMNHhwWnpCam1MaGlEbjBhSlE4VjlXMnhwWTRBd3JZdjUxUmp4NkVV?oc=5",
-      "source": "The Romania Journal",
-      "date": "2026-04-27T07:38:22+00:00",
-      "description": "Romania Rethinks Air Defense After Drone Incidents  The Romania Journal",
-      "query": "drone incident",
-      "detected_at": "2026-04-27T18:32:04.694991+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ed9ecf4ff246"
-    },
-    {
-      "title": "Theft of Agricultural Spray Drones in New Jersey Raises Security Questions - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLW9VX1pXRTJUcDJvT0lwbmE2SzQxb0F3d3dPREVPekFNS0syWElhS0Uzay1RYUFQLThuY0QtN1p0RjlDdjZOR1dKRVl4aERTUDFYOVRWMkJqRzRrTWQ3UURfTHVSQ0FJRUp2aUZUNTRYdkN3dDZMZUx1dldEX1lDX0N1SHpES0I2N1E?oc=5",
-      "source": "Dronelife",
-      "date": "2026-04-27T15:47:18+00:00",
-      "description": "Theft of Agricultural Spray Drones in New Jersey Raises Security Questions  Dronelife",
-      "query": "drone incident",
-      "detected_at": "2026-04-27T18:32:04.694991+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f0798c8d1130"
     }
   ],
-  "last_updated": "2026-05-21T20:38:35.560115+00:00",
+  "last_updated": "2026-05-21T21:33:56.109813+00:00",
   "total_count": 1000
 }
