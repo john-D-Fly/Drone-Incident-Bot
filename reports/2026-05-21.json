@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have escalated tensions across the Baltic region, especially concerning Lithuania and Latvia, prompting NATO's military response. Latvia's scramble of fighter jets in reaction to a drone alert comes alongside flight disruptions at Vilnius Airport due to unauthorized drone activity. Concerns about border security are also highlighted by recent drone smuggling attempts in various regions, with authorities seizing drone-dropped heroin near the international border. Reports of illegal drone activity further inform ongoing security policies in response to perceived terrorism threats. The incidents expose geopolitical stresses in the region related to Ukraine's ongoing conflict with Russia, as well as drawing attention to the need for enhanced counter-drone protocols in critical areas such as nuclear facilities.",
+  "totals": {
+    "other": 28,
+    "airport": 3,
+    "smuggling": 10,
+    "terrorism": 5,
+    "interference": 5,
+    "arrest": 6,
+    "crash": 5,
+    "total_incidents": 98,
+    "by_category": {
+      "airport": 4,
+      "arrest": 8,
+      "crash": 4,
+      "interference": 4,
+      "other": 57,
+      "smuggling": 8,
+      "surveillance": 1,
+      "terrorism": 12
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 8,
+      "drone crash": 10,
+      "drone illegal": 9,
+      "drone incident": 45,
+      "drone prison": 1,
+      "drone smuggling": 12,
+      "drone terrorism": 9,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Baltic Drone Incidents",
+      "rationale": "The incidents highlight escalating concerns regarding drone usage in the Baltic region amidst ongoing geopolitical tensions.",
+      "incident_ids": [
+        "ea96c03977e6",
+        "cb7f2ad37421",
+        "44602d309375",
+        "5a66bdc187a3",
+        "5d0eb1af97bd",
+        "6e8dff61f27b"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple incidents of drone-dropped drugs have been reported, indicating a pattern of smuggling activity involving drones.",
+      "incident_ids": [
+        "c85a1c0810b7",
+        "efd5fdd40deb",
+        "9bb01127631a",
+        "9817f2670724",
+        "0b3c8b9d93e7"
+      ]
+    },
+    {
+      "topic": "NATO Response",
+      "rationale": "NATO's increased military activity in response to drone threats highlights a significant shift in defense posture.",
+      "incident_ids": [
+        "44602d309375",
+        "ca3fc19ed036",
+        "d6d5e9d26f9d",
+        "fc66d5db04bc",
+        "f3fc5ec8337f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ea96c03977e6",
+      "headline": "Lithuania Suspends Flights as Vilnius Airport Drone Disruption Grounds Planes",
+      "one_sentence": "Lithuania's Vilnius Airport was forced to suspend flights due to drone disruptions, raising urgent aviation security concerns.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [
+        "Lithuania"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "cb7f2ad37421",
+      "headline": "Latvia scrambles NATO jets in latest Baltic drone alert",
+      "one_sentence": "Latvia's response to a drone alert involved scrambling NATO jets to ensure airspace security.",
+      "risk_tags": [
+        "defense",
+        "alert"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c85a1c0810b7",
+      "headline": "Prison Drone Smuggling Incidents Highlight Growing Counter-Drone Security Needs",
+      "one_sentence": "Recent drone smuggling incidents highlight an urgent need for improved counter-drone measures in prisons.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "5a66bdc187a3",
+      "headline": "Latvia issues warning after detecting UAV in its airspace",
+      "one_sentence": "Latvia warned of unauthorized UAV activity detected in its airspace as tensions rise.",
+      "risk_tags": [
+        "alert",
+        "security"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "efd5fdd40deb",
+      "headline": "Armed Forces Thwart Drone Drug-Smuggling Attempt Along Western Front",
+      "one_sentence": "Armed forces intercepted a drone attempting to smuggle drugs along the western border.",
+      "risk_tags": [
+        "smuggling",
+        "law enforcement"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Increasing drone incidents across the Baltic region raise urgent security concerns and highlight smuggling threats. #OSINT #DroneWatch",
+    "linkedin": "The past 48 hours have seen a surge in drone-related incidents in the Baltic region, pointing to significant security challenges and smuggling activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-21"
+}
