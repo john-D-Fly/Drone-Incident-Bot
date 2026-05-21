@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Latvia scrambles NATO jets in latest Baltic drone alert - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmQ1UkJyQmJmSy1tRzJlam5VM0pCbExXczAwLWZvams2eEtLYzE5YnpmVHJPcUlReEJMVzJ5TFp2ZjE0WUtPcVhjVndxUXlEZWpFaXV4UktKdG1Ec1ZTNUx0UVhZVGNLMVBlS2dFa21sclhIN0J3UHU5d01GWmZRczhWVkVSYUdfMXZ5Q0lkZGMxbzRmdGhFM09DRlYxZDNpdWJGajZxSWUwQdIBqgFBVV95cUxNXzFjMThVOTh1NjRqWGcydGk1dEgzNFlIR0QtMVE2bG5jdnRhQVBrYXhTUFJfekJmSWFzZDlzeXBid0RfeUQ2OXY0VEcwUHc1QXllc25tZFNjM3lCNUNwSWd5VTJJLWRDaW5vQjBIZk8zYXgzQV9vM283dWR4b2piWWh6eXJsamh2R3Z3M3p0VExxbV9UR0FiNHowX19lT0NjMGlxTlVkaGVmdw?oc=5",
+      "source": "DW.com",
+      "date": "2026-05-21T12:58:02+00:00",
+      "description": "Latvia scrambles NATO jets in latest Baltic drone alert  DW.com",
+      "query": "drone crash",
+      "detected_at": "2026-05-21T13:13:07.620109+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cb7f2ad37421"
+    },
+    {
+      "title": "Lithuania Suspends Flights as Vilnius Airport Drone Disruption Grounds Planes and Triggers Urgent Baltic Aviation Security Alert: New Travel Alert - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMTZ2NVdsWVJiOU1MQ3NWMjllX1RxZXRNM21WOXVZcWV4eTRBVVpXdmZZZUpoLWh6djRXSURwbmo1T2tzcVlLd0haVmc4ZFIwengzSmlTajZxamJLOHhhYXVPZ3pGWWIwUHZSbEY4ZFVEZkh3NUtlWGRTOThFZlpEN2RyaXpxd2lMNEx2ejdfcVBJU28?oc=5",
+      "source": "Nomad Lawyer",
+      "date": "2026-05-21T11:08:39+00:00",
+      "description": "Lithuania Suspends Flights as Vilnius Airport Drone Disruption Grounds Planes and Triggers Urgent Baltic Aviation Security Alert: New Travel Alert  Nomad Lawyer",
+      "query": "drone airport disruption",
+      "detected_at": "2026-05-21T13:13:07.064142+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ea96c03977e6"
+    },
+    {
+      "title": "Prison Drone Smuggling Incidents Highlight Growing Counter-Drone Security Needs - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUxHMEpxbERFRF9zVjdWZTlvSXdPV0VNdTVvQW5aMFJkUVhVa3U3M3dEcTZUWUFsa21nNWNGUlZDTl9CUXVCbUNTWmtNWGcwdDdwZ08xN3dGVG1hNXBXNmxRQW92NnZOT3RhRklLVFN1TDk0amItUzA2ZUVzXzZhV01WakhTNnZSQl9sV0VzSkRSd25heWxsYkNjWTh2eU1EMGZNdnhwX204Y0VISF9EbE5aSUl2Q1EzTFBIZWY4Z3ZZYWVtb1E?oc=5",
+      "source": "TipRanks",
+      "date": "2026-05-21T12:24:04+00:00",
+      "description": "Prison Drone Smuggling Incidents Highlight Growing Counter-Drone Security Needs  TipRanks",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-21T13:13:05.910264+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c85a1c0810b7"
+    },
+    {
+      "title": "Latvia issues drone alert, scrambles NATO fighter jets - AnewZ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjExV2NRLWJrZWpNaE5lQWRxeGJNdnl5LTVzNTFnclVxbmh6MFVsdnlvZGlweWZLUmtCbUNFeFc2a1pvcjVnZ0FHUnZXZWpmLU85cjE4Rnc4cDNTSW1LcjJCMFZKQW9qVlhBY1F3Q3hSTTJ4Y09hSndnVnQxbmF4YnI4cmUwWlRrWlBTUW9xUndWU3FucDZ3RldYZ2xwX1k?oc=5",
+      "source": "AnewZ",
+      "date": "2026-05-21T11:31:00+00:00",
+      "description": "Latvia issues drone alert, scrambles NATO fighter jets  AnewZ",
+      "query": "drone incident",
+      "detected_at": "2026-05-21T13:13:04.665103+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "44602d309375"
+    },
+    {
       "title": "Saeul Reactors Fortify Against Terrorism, Drone Threats - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOERfV3ZZRFFaVWNtRnY3eEUzdlh6TV9wdXdOTmFuSU9uS3ZPRy10RnZ6ZUswcnFvWkd6T0l2RDU4UWVRQkItWVFmVkZnaXI4UnBRNHdzakx6WjRmLVhWeFVnNWROWURLTFFHaGZHNWhZa0Z6ZG9VUGZPcGlBYktUNnI0X3l0T3pl?oc=5",
       "source": "조선일보",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f72172920e3c"
-    },
-    {
-      "title": "Romania finds parts of second drone after overnight Russian attack on Ukraine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0pJd1RjR0ZNTjF5eTBlV1VCY2pFeENKdmszOHQwM2xsSlN1ejdQWkJReDVrR2NWSUVhYTVSMTJ1Nmc3RjNsNGgxVnZ5VHQwRTRnV01qb0p1QU1UTXhEQllYb2gzS1UzRlVCU2JzYnhWbmJxSGdWbFYwbGUxRk04NVYzZDRxaG9EMXBBWXZxd1lxLTQ4cW1IU0FTNlR2SlRYY2dkbTNQbnZYVDVqUWZ0blNRQWFpSVB1QkpHd1kzUkNHSWRCdUZwdENyUk52b01ObGcxZ2xn?oc=5",
-      "source": "Reuters",
-      "date": "2026-04-26T05:43:14+00:00",
-      "description": "Romania finds parts of second drone after overnight Russian attack on Ukraine  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-04-27T10:42:17.619404+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "112f1a1d914b"
-    },
-    {
-      "title": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot' - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPbkF1MHdzWTl5dVhUUHNmeEJHYzJBbFhHTzZXMDJyTGZwaUxLWDlGeHRyci1PMFJ4c1lKcVlVRXhlOXlCY1FTenZlS3FxdWs3cVFucllvVmtwSERsYzFfTnpTMmRLV2dVSWQ5c2V3MjNDOER3cG1PMVZ1a3ZwNEszQU5yVTlMY2VwZk5BOXR3a0dlTTBkaF9mdDZnMTRLekhLd0lHVzREVHhFV2I0cml4ZXAwNGpLZ3dQTS1SN2lNNHUwX1VTWkU4YTJqR3pWMWlWRVhtYzdaSVFLSzllX080NXpSQUVjUGpleVRUYkFPWjBvR0J3VkI0ckRvQzRlQ1pZdUZKR0cwR2M3SlBDVVpHRlRGS2NaVFJVOEtjaFFBLUdvMm9hX3JFSTFFVG5XY2dfTnFqMmJDVGNkRUg2RXlJbjRDQmF6SGt0alpnMUFZRi1FNHV5ZVRJQUtNUEtQaXFnZlpqNndTQVpoNDJ3alNqOHhMVElXX3VGdF9Kdg?oc=5",
-      "source": "MSN",
-      "date": "2026-04-26T21:25:46+00:00",
-      "description": "BSF foils drone smuggling bids; most UAVs 'found fallen, not shot'  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-04-27T10:42:16.051417+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2972ad2f1cdb"
-    },
-    {
-      "title": "Counter terrorism police called in after van driven into gate at drone factory | ITV News - ITVX",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3ZYenZRTzJOaS16MVJ1TEJQMS1lREJtZXdrVC1uRDcxTmxQUXd1a1RmQk5OVEl5N0pzT0R6dndXZGdPdmxDaTJ6RU5XN3NMVFNGNWNfWTVJRmlnZTRaSTJFTHhXZTNTQTJ1SU5uSXpKTk1UM1R2NWFvVWJwMGJuUzJmT0RHX3l0TXM4S1JFT28zelZmcUdvSEQzRXhrREpTUTJzS2o5R3lhUlVObzR0NGltaExQRm1hZ2FNSG0tUQ?oc=5",
-      "source": "ITVX",
-      "date": "2026-04-27T06:51:39+00:00",
-      "description": "Counter terrorism police called in after van driven into gate at drone factory | ITV News  ITVX",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-27T09:50:54.027773+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0991f372bf97"
-    },
-    {
-      "title": "Video. Drone crashes in Romania as Russia strikes neighbouring Ukraine - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlJGWkk5Y1BYOU1SZTk5QU9zVXZOeTZmS1d5b1laTVk0cEI5VUlRaVZtd1JyUThTOXFsVGFhc1ByOXpxSGJJODI0cUxLZEtLMGRDdjdBeXdLekEzc3ZXc1NRV1NNSTZoTnVPMF9vV0twajhWdUgwLTQxTDJReHpNZTFWTDR4SWZvSHczUmJ6c1B0ZEE3NDd2WmU5ZjhYOVJURll2SmNEbFo?oc=5",
-      "source": "Euronews.com",
-      "date": "2026-04-25T14:38:24+00:00",
-      "description": "Video. Drone crashes in Romania as Russia strikes neighbouring Ukraine  Euronews.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-27T08:55:37.460610+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "89de17dcbb28"
     }
   ],
-  "last_updated": "2026-05-21T11:07:57.426406+00:00",
+  "last_updated": "2026-05-21T13:13:10.797591+00:00",
   "total_count": 1000
 }
