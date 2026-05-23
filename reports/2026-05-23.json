@@ -1,0 +1,142 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a marked increase in drone-related incidents across various locations, notably in Latvia, which has heightened security concerns amid potential threats. Several drone crashes were reported, including incidents where drones crashed into lakes, leading to explosions upon impact. There were also significant developments involving drone terrorism, with reports indicating Iran-backed militias utilizing drones to strike Gulf targets, and Hezbollah's drone strikes injuring Israeli soldiers. The U.S. continues to warn of potential drone threats from Iran, while local law enforcement agencies are taking measures against unauthorized drones, particularly in relation to illegal activities and airport disruptions. Notably, Latvia's government responded by scrambling NATO jets due to recent drone alerts. This period reflects a growing pattern of both operational drone crashes and nefarious uses, underscoring the complex security landscape associated with drone technology.",
+  "totals": {
+    "crash": 4,
+    "arrest": 6,
+    "other": 36,
+    "security": 4,
+    "terrorism": 11,
+    "smuggling": 4,
+    "total_incidents": 79,
+    "by_category": {
+      "airport": 2,
+      "arrest": 5,
+      "crash": 6,
+      "other": 52,
+      "security": 6,
+      "smuggling": 5,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 6,
+      "drone crash": 14,
+      "drone illegal": 8,
+      "drone incident": 21,
+      "drone prison": 2,
+      "drone smuggling": 5,
+      "drone terrorism": 15,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Increased reports of drones crashing, particularly in Latvia.",
+      "incident_ids": [
+        "a68fa820c864",
+        "b3b08d1adab9",
+        "fd311fafb0e2",
+        "dc5388018f3e"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Incidents involving drone-related attacks and threats.",
+      "incident_ids": [
+        "45382806d548",
+        "ede02f1f4cfb",
+        "fefcdf013637",
+        "9bb8ff321059"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Regular reports of unauthorized drone flights and associated arrests.",
+      "incident_ids": [
+        "fd311fafb0e2",
+        "bef8c1b4a9b2",
+        "8a9afbc7c47b",
+        "86c7a2aba2ce"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a68fa820c864",
+      "headline": "Mystery drone crashes into lake in Latvia",
+      "one_sentence": "A mysterious drone has crashed into a lake in Latvia, raising local concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "b3b08d1adab9",
+      "headline": "Drone crashes into lake in eastern Latvia, explodes on impact",
+      "one_sentence": "A drone explosion occurred in a lake in eastern Latvia after a crash.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "45382806d548",
+      "headline": "Iran-backed militias use Iraq to launch Gulf drone strikes",
+      "one_sentence": "Reports reveal Iran-backed militias are leveraging drones for strikes in the Gulf.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "fefcdf013637",
+      "headline": "Hezbollah drone strikes wound 10 Israeli soldiers in Lebanon",
+      "one_sentence": "Hezbollah's drone operations have reportedly injured multiple Israeli soldiers.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Lebanon"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fd311fafb0e2",
+      "headline": "FBI warns Iran aspired to attack California with drones",
+      "one_sentence": "The FBI has issued alerts regarding potential drone threats from Iran aimed at California.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8a9afbc7c47b",
+      "headline": "Oakland adds drones to fight against illegal dumping",
+      "one_sentence": "In a bid to combat illegal dumping, Oakland has implemented drone surveillance.",
+      "risk_tags": [
+        "unauthorized"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.4
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent surge in drone incidents, especially in Latvia, highlights rising security concerns.",
+    "linkedin": "Significant increases in drone-related incidents across regions raise critical security and operational concerns."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-23"
+}
