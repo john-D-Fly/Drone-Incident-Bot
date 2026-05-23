@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "New explosive drone crash in Latvia - The Peninsula Qatar",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEVRREpXNmtZeTJzdjFIbDJGY2RRSV85WFBqNGlya0JjcjVpVVNZUW5MY0RJNXhvbm9USDVvNVR1ZmZZUUlLMGZqUXRqc0pNSlRwcHdYN2RJUExKZXpQYzNDeWZldmhYbVo5cTF5Ty1nVWE1azJOd2c4YmpMZGREY0N0ZWpXd21KN2g5VQ?oc=5",
+      "source": "The Peninsula Qatar",
+      "date": "2026-05-23T15:16:49+00:00",
+      "description": "New explosive drone crash in Latvia  The Peninsula Qatar",
+      "query": "drone crash",
+      "detected_at": "2026-05-23T15:26:53.858742+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d9e7c04f846d"
+    },
+    {
       "title": "Drone explodes after crashing into lake in eastern Latvia - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkZxZ3Q4UjR4cnZMNDFIbHFUdWZUOXNDdkQwUExRS3pod2pici1acTBZa2g5bXVYSzYtOFdlSEVFOWdqc0RoYlFyUUd6WkM3WVR4U0RNb2FfdlowdEJwNmxIX242d0d3azJmUnlSQTgxRGh2YzBGRWUyUzc5VlZpWERZTnJoWUFESEpXMVVoLW9IRlhE?oc=5",
       "source": "RBC-Ukraine",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "28007b5c288c"
-    },
-    {
-      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
-      "source": "LSM",
-      "date": "2026-04-29T07:52:47+00:00",
-      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
-      "query": "drone crash",
-      "detected_at": "2026-04-29T09:45:28.585334+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a8e7f1b40b81"
     }
   ],
-  "last_updated": "2026-05-23T14:34:49.098999+00:00",
+  "last_updated": "2026-05-23T15:26:56.572554+00:00",
   "total_count": 1000
 }
