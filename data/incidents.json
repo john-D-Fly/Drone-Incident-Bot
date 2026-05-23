@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
+      "source": "LSM",
+      "date": "2026-05-23T10:48:30+00:00",
+      "description": "Mystery drone crashes into lake in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-05-23T11:28:19.481788+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a68fa820c864"
+    },
+    {
       "title": "Drone crashes into lake in eastern Latvia, explodes on impact - Caliber.Az",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVWcUs5dnhxX2FiZUxYMDRyVkN6d1BCOGRvdjJpUGZUQk9CRmx4elhoX0xhSGo2aUs0UUpMVS1lZVVUMEdsLXF1ZDlTM1ZkRS11TkpQNEw2dDhfQnphZTA0c193dm43eV9FY1hsOUh6U3BuLUtnX2lldWx2R1kweDFGRG4tSTJFU3lEV1ZtaHE?oc=5",
       "source": "Caliber.Az",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f456a387b499"
-    },
-    {
-      "title": "Prosecutors Demand Prison for Chinese Nationals' Drone Spying on U.S. Carrier - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUdaUDl5REpRbzlaSDZxZmt4d2t4bnluXzZSanRCRHhIRThfSndfM0tFenlJeEI4QVJ2Mkh3cFpXdWpVUWp0UnpENkRyNFk5aDU3LVptcFczYmo5RzhkMzdVU0JZUVdCUXdNTkpXSGR2OEZORTNuZzV6Y2dMYlVUY2Y5SkI3emtp?oc=5",
-      "source": "조선일보",
-      "date": "2026-04-29T05:51:12+00:00",
-      "description": "Prosecutors Demand Prison for Chinese Nationals' Drone Spying on U.S. Carrier  조선일보",
-      "query": "drone prison",
-      "detected_at": "2026-04-29T06:54:42.161114+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "18c07b59169e"
     }
   ],
-  "last_updated": "2026-05-23T10:33:27.417093+00:00",
+  "last_updated": "2026-05-23T11:28:22.138940+00:00",
   "total_count": 1000
 }
