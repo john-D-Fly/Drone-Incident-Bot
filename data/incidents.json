@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "New Explosive Drone Crash in Latvia - The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TM3QtZ1NmSFF0WWN6T1hZOFNxTmpyY0hDdWFKckhORDJfVWhtR19FcjREc0Y4VW9yRERsQUZhVUJuR2ZHSGF1bkpNc2dleERBbDhiaGZ3VjFJSnRCVmNWTXNSU0F1OHhEQlF6U2pR0gFuQVVfeXFMTlMzdC1nU2ZIUXRZY3pPWFk4U3FOanJjSEN1YUpySE5EMl9VaG1HX0VyNERzRjhVb3JERGxBRmFVQm5HZkdIYXVuSk1zZ2V4REFsOGJoZndWMUlKdEJWY1ZNc1JTQXU4eERCUXpTalE?oc=5",
+      "source": "The Defense Post",
+      "date": "2026-05-24T07:53:42+00:00",
+      "description": "New Explosive Drone Crash in Latvia  The Defense Post",
+      "query": "drone crash",
+      "detected_at": "2026-05-24T14:33:36.262565+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "af635f388c58"
+    },
+    {
       "title": "Cherkasy High-Rise Hit by Russian Drone During Massive Nationwide Barrage - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15bXA3NEVSWW1LM1lqWmtfT2h4UzZLT0xQYjltRXhuN3ZFVGp0bDVSTHF2cUU4cnVBVXZhVEZnT0ttY2g0SVpIcWlUdw?oc=5",
       "source": "Kyiv Post",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1a3db0d0223c"
-    },
-    {
-      "title": "K-P jirga rejects drone strikes, announces emergency assembly session - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNm9uVzNXQUdHRFhleFdENTBUWGRObm4waU1fa0ZFaWRvb1M4RWlKZGk1Skd5TGJMbXoxTUdmWW9WbElZRkRuYVE1NDhJOWZfQVFsZnI5eXFjbkxrS05ScWFPYXdlbWF6NUpOdWFJVDdhWThjeUt6QjlNWWxMU1I4Vmg0cVRlWjV4UU5hSjcwZ3ZTWDlCd1pFZFFtbW1SMzVSdU1zcnhyN3XSAbABQVVfeXFMUDRTWXZmdFVKVGxQVFA1cjZ6ZnNiZWdDa1VhWjJWeWl5X3loSnJ1ZmN4SE5Ic0VJeWlDSHQtUUh1cm1jRHY4SDFrZGJlWDRIOWM1c2RpR1RsWXA4cWtTSUl3NHZmQTN6a01zVzhSWkNXVnlydFB5X3YyUWVuaXA1NlczRGJWUW5BbEpHVFkxN2ZOc3dtamNMLU9kRDdCd3JXbDMwZlBxT0VqTjlBVHhpRGw?oc=5",
-      "source": "The Express Tribune",
-      "date": "2026-04-29T18:05:18+00:00",
-      "description": "K-P jirga rejects drone strikes, announces emergency assembly session  The Express Tribune",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-29T18:34:38.081720+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1aa3936f2867"
     }
   ],
-  "last_updated": "2026-05-24T13:34:09.841789+00:00",
+  "last_updated": "2026-05-24T14:33:39.410657+00:00",
   "total_count": 1000
 }
