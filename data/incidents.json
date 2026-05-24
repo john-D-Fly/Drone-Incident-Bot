@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "IDF Staff Sgt. Noam Hamburger killed by explosive drone near Lebanon border - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByUE5nUlRmX0ZWNTZSVThfTXNpT1ZrVUJHLTlISDFkeFNsUGtPaHRiQzREMm9Nd283MS1KdW9rMnRfQ3FpTkU5cU5UNnlmT0lzMWh2QkJMclNjMGVN?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-05-23T18:34:19+00:00",
+      "description": "IDF Staff Sgt. Noam Hamburger killed by explosive drone near Lebanon border  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-24T01:43:39.754230+00:00",
+      "location": "near Lebanon border",
+      "category": "other",
+      "id": "ec555c4873dd"
+    },
+    {
+      "title": "Latvian Prime Minister Resigns Over Drone Incident Crisis - AL24 News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1JJNmtwX3U1SVpVM211bl95cEc4SjQyLVkteHktbVhLa1VYbFNzSjNPTUlSVXJmQnNpVy0tSEp6ejFlTExvTU1HY0ZpWFd2ZWczRUtydGlId1JpYVZXZmdsSmMxajNSalF2U0dqNWJMTXZienFCVV9PdUh6WVdMajlCa3I1b3dt?oc=5",
+      "source": "AL24 News",
+      "date": "2026-05-23T22:26:24+00:00",
+      "description": "Latvian Prime Minister Resigns Over Drone Incident Crisis  AL24 News",
+      "query": "drone incident",
+      "detected_at": "2026-05-24T01:43:39.754230+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c9804ee9286c"
+    },
+    {
       "title": "An unknown drone fell into a lake in southeastern Latvia and detonated - EADaily",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVlCXzB2cEtXaEQ0V2M0NmhRTXlaSXhVNHdqVUNJQ21yS1R4M3o0dHZlbTJoQjZwb2h5UlBjcXNLWTUyZG5WVlhEWlJSSUxFWDMzWF9NRW9oTXYzaUdaWU12SWtfSmdFQUdjYnU0b2xuTHBDUzFBaVpDbEg3dVRLeWRnb3Yxc2lQT1g5cjdvY0lDd1d1RWtvNUpoMjJlYUNtZHhOTTVBaFk5VDI0MHfSAbIBQVVfeXFMTjdLSTJzX1J1NVFUekhid2ZQckNUWGgyUDhwY0NtRWtkXzB0OXVxTVZWWFdpc29uMkZVQWxXSV9rdmZNQnNncnl6dWF3RUk0VUgxRFB3Rmg2RktjdlU2dWVDVzVKcUdrZ1hMTmE3TEpiWnctU0Q4cDVEdVlxVFQzbDY0VGYxUU9VNngwOFhSeHNpbjZrZUhOVVRRYjllQ2xLT2hDTlFNUk1keWxCZmw4V2RqUQ?oc=5",
       "source": "EADaily",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "acec84b8dad8"
-    },
-    {
-      "title": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQakd0RHozWlU1WnNaRjJfOEZTM2szNGRSUVF6S2RlSVh6Z215UkoxOUF3MnlCeWFZSWpnd2FZWW9namhGRXZ1SUVLY3h1UEkyY0tmeWc5d3kzeUR5a2tIZk93bUJUZjZiU2x6OGtVU2QwT0hucDNFaDZKanFXemlxUjdUbFJPcThHUHdoV3ZHT2VSWjJ3Q0paRDUwaHhlWEZMRE5SNi1UUkIxdGg2V3RxOGVPMTgwakJQQUluMHR0ODF2U0FTcmN3alV0MUdqMVVWQWM2cmsyVjAtVnJCWnJJU0FOSXVoU3dzTnB1Mk1wUnlWUnczUXJ6X053YXZPdUd0WTU2XzB6WkRXRFNSOGpTSHRZQmMyT2dvRE5sLUY1RU9ELTRyem1LbVpWS2JoUU1PR1BoNTJiQmo1cXg3dlU4SlRIZXVzX3JVenBrUkEzbHp0c0FiOWxLR0VVQ2xLUTE2WGVhUFdsRQ?oc=5",
-      "source": "MSN",
-      "date": "2026-04-27T22:55:25+00:00",
-      "description": "Dubai airport shutdown after drone strike causes disruption for thousands of Brits  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-04-29T15:42:35.146736+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "161578856797"
-    },
-    {
-      "title": "Unknown Drone Crashes Near Russian Border in Kazakhstan - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GdmFEMXNSSmpUVWRaUy1fTW5acHNtX24wX2swLTZaVkdBN2owclprVmU3Z1VSc1lXTmJ0UE41aEJ6NEJ6dXhxbnVMVHRyTFhHSDhsOG5wNzdqZkhRMm81aXBEQlI5UFVKSnN2NDR1OWFicDc2LW80?oc=5",
-      "source": "Мілітарний",
-      "date": "2026-04-29T14:21:45+00:00",
-      "description": "Unknown Drone Crashes Near Russian Border in Kazakhstan  Мілітарний",
-      "query": "drone crash",
-      "detected_at": "2026-04-29T14:48:26.938762+00:00",
-      "location": "Near Russian Border in Kazakhstan",
-      "category": "crash",
-      "id": "1b39beb4951f"
     }
   ],
-  "last_updated": "2026-05-24T00:52:08.990170+00:00",
+  "last_updated": "2026-05-24T01:43:46.984185+00:00",
   "total_count": 1000
 }
