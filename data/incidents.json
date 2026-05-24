@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "23 Hospitalized or Injured as Russian Strikes Hit Kharkiv, Nikopol, Kherson, and Zaporizhzhia - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51TDJGQ0tKeGhHT3V2aFNDSXVwYmlZaUV6cVpUUF9ZcjluTkwycEdzNjl5UFFBNk5RbGVOV3ZnXzA1STlwbnNLY3Rhaw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-24T08:51:12+00:00",
+      "description": "23 Hospitalized or Injured as Russian Strikes Hit Kharkiv, Nikopol, Kherson, and Zaporizhzhia  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-24T15:27:30.050572+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dec4d32e9fe6"
+    },
+    {
+      "title": "Rajasthan police uncover drone weapon smuggling case with Pakistan link - The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkxjTzRTNUZ6MmZ4OHNVU0NCWS1HeWMtOU8tNzRQMG9xckhVS1V2WEY1cGx2WmdTTXVVWGstaEF4U2VSdDQ2dk9ZR3Z3amZLZU5NVmNqbzJpVzEyM1RzZVZvWUliV2dJdEFyY2EwZ0kxVlJyVEFsSkIxcXg4OFhyU1YzMDBCYl9OcXZtT0FZZDR2M0w5Q0tuN29DS3JIcHhvVU10Q1N2UQ?oc=5",
+      "source": "The News Mill",
+      "date": "2026-05-24T10:07:14+00:00",
+      "description": "Rajasthan police uncover drone weapon smuggling case with Pakistan link  The News Mill",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-24T15:27:26.819000+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9b3a55b51008"
+    },
+    {
       "title": "New Explosive Drone Crash in Latvia - The Defense Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TM3QtZ1NmSFF0WWN6T1hZOFNxTmpyY0hDdWFKckhORDJfVWhtR19FcjREc0Y4VW9yRERsQUZhVUJuR2ZHSGF1bkpNc2dleERBbDhiaGZ3VjFJSnRCVmNWTXNSU0F1OHhEQlF6U2pR0gFuQVVfeXFMTlMzdC1nU2ZIUXRZY3pPWFk4U3FOanJjSEN1YUpySE5EMl9VaG1HX0VyNERzRjhVb3JERGxBRmFVQm5HZkdIYXVuSk1zZ2V4REFsOGJoZndWMUlKdEJWY1ZNc1JTQXU4eERCUXpTalE?oc=5",
       "source": "The Defense Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f93e91022f51"
-    },
-    {
-      "title": "Sirens warn of suspected drone attack in Lebanon border community - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU296Q3F0d0pST1R1YXBjdEF1TEVkSEZMLWl5YkdyTlB5UERFZzA2NVFtazJyVVVBM3hIdU5ucS1FcWliUWcxcDUzR1NVVHd3Y2g5R2kzcXZrWjlEX0IzOENaN3kyTndaYkYwUDRsN3UyX1dfUXc4Z1JaSkVqcnVERzFVaDZ0Q1prQVRfcHI3SlQta3R1bmkzS0d2alBtZXo5SENqczZ6QzNfYkFqYUM2VA?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-04-29T17:52:52+00:00",
-      "description": "Sirens warn of suspected drone attack in Lebanon border community  The Times of Israel",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-29T18:34:38.081720+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d4db4fc6c0f1"
-    },
-    {
-      "title": "Ukraine strikes Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHFKeXFLVEdweWprR2RDc0F3c3BoTGV3eHJEdkpIeDFyUjh4bGpTVUViUDFGWlgzMnFqYU5zb1RRcjItUnl6aTA3M2JvU0V6UFY0MmQ1ODVlWGdnRTYycXFBY2lIRkl3cnpKWkRpaTR4NXZ2WC1fTG11TG15R2t1VTVIZjhOcldCcE85VXN3d3RkSHBOZHJ2aHE3N1MtMGlBWnU0QVNTa2dDZjBpUWc5Y2drSQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-04-28T05:31:00+00:00",
-      "description": "Ukraine strikes Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-04-29T18:34:38.081720+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1a3db0d0223c"
     }
   ],
-  "last_updated": "2026-05-24T14:33:39.410657+00:00",
+  "last_updated": "2026-05-24T15:27:31.151379+00:00",
   "total_count": 1000
 }
