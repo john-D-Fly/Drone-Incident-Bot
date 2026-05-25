@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "'Catastrophic failure' after drones malfunction at Vivid Sydney show - Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0tRdlZnd0lrU1QtR1dQUVFRZEZXUGZYUlVaNkF3YWdVZ2plR3Z6b0I4RWNyZTk2YjVic01TUnlWblJ2d0FlSGZ2bkppZVppUkNPSm1abGpUa1R4bXplcnJIYmduTW9BaFpQSWxCNk5yUmdIckJ1allMaEI3ZWRUMGZOc211ZWttajNUS25zUE1vazFiZi1Ob0lPM2M5TmFFTkpHWVBrWGh4TmNO?oc=5",
+      "source": "Australian Broadcasting Corporation",
+      "date": "2026-05-25T21:42:29+00:00",
+      "description": "'Catastrophic failure' after drones malfunction at Vivid Sydney show  Australian Broadcasting Corporation",
+      "query": "drone crash",
+      "detected_at": "2026-05-25T22:25:19.786020+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dc69e96be104"
+    },
+    {
+      "title": "Drones fall from the sky, Vivid shows cancelled amid safety review - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWxJMUw5ZVpBSFZfdFF6Q3VaWXFUd2loRzUzUjFVcjBWNG5kYW9CTGx1b1kxTEdheS1uTHBsUkhXQmJFLURyQ01FWkdBZlB3VXVfMTV0U0FvdkRlaU9td0VpUkdYaERBbExXZ0dad2o0MlRHS2JuMWNhRnE5Sy1iTTdqd09nMDFEU1RWY1ZxV1ZVcFduNk41aUFZSWZic1gwYWtRMUFVUXN5LUpDX0dSc2xrbEhqRlB1aWowR3labw?oc=5",
+      "source": "SMH.com.au",
+      "date": "2026-05-25T21:17:41+00:00",
+      "description": "Drones fall from the sky, Vivid shows cancelled amid safety review  SMH.com.au",
+      "query": "drone incident",
+      "detected_at": "2026-05-25T22:25:16.874824+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8c663acaf9a1"
+    },
+    {
       "title": "True scale of UK’s prison drug crisis revealed as deaths hit record high - The Independent",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGRwZ2lqald2WW9BUm9jOEE0d0R1WjZxcmpuTGN5UkR2emdrakFUZTRuLVpUVXlBVllLTldubFJOeHNoeUZob0ZsVjNpRzA2eU9PVUZMM2FHRzRhUk10b0diN0NzUWJXZFNTRWZ2MElwb0xaM1liWm9IUHJSbzE3RG9mdjB1SnFXa1o5eXNfVUFtZzg?oc=5",
       "source": "The Independent",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "61814046a4ac"
-    },
-    {
-      "title": "Pilots of United UA1980 reported a possible drone strike at 3,000ft prior landing at SAN Airport - airlive",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU08xY2xjdk9zWWtqbHBvX1Z5bGVRU05Yd0tiTkJlZDVyLUZsSjFXVzdsNFlaTUhyNE9JZmw3MlA2NHlIenZ2blVKeGVyVlF0UHZadm83ZDhJU1g5UEF1cFBrYTJTdWRtNjJROHUtdkpmSzZrU2RuVjcxbGt0VVdpOWNwS3JSY2VXUUVaenhOenRUSHJCRTNwUVFKQUFKbmlvZzBaZW1keHVDTG83ZTYzTFdPUVdFeGhqTXdTbXdldTJqTGZreEhBMU9jRXFPUU1UQ1E?oc=5",
-      "source": "airlive",
-      "date": "2026-04-29T22:48:14+00:00",
-      "description": "Pilots of United UA1980 reported a possible drone strike at 3,000ft prior landing at SAN Airport  airlive",
-      "query": "drone incident",
-      "detected_at": "2026-04-29T23:22:06.824353+00:00",
-      "location": "at SAN Airport",
-      "category": "airport",
-      "id": "27c6f1ce46a3"
-    },
-    {
-      "title": "Man caught flying drone over primary school to follow children avoids jail | ITV News - ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdGV2F4ZXR2MVNyOUx3V1JGY0xwWlo5cEhBVlhZQ3BnWE1vNUJWTlhJTkRsM2NERVVEdE5rb3RtZFo5UUFLYmZPN2xIY2hlQlgzQnBQekpSRTd5dmVnWWs1NkdhZFFPT3JyM0l5VnBTRG5EcGtpRjRYVlBOQlZjY1o2eE9kZEhkZkRJMU0tRngyZ2t1ZEF0aG1pUGY0M2hGamJfVXJhdFZUNzBHUXFvMlBneU9lVjFuTzdR?oc=5",
-      "source": "ITVX",
-      "date": "2026-04-29T13:51:45+00:00",
-      "description": "Man caught flying drone over primary school to follow children avoids jail | ITV News  ITVX",
-      "query": "drone prison",
-      "detected_at": "2026-04-29T22:22:23.819828+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "617ce4c0372b"
     }
   ],
-  "last_updated": "2026-05-25T18:37:33.497040+00:00",
+  "last_updated": "2026-05-25T22:25:22.476893+00:00",
   "total_count": 1000
 }
