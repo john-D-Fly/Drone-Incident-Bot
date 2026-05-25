@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "IDF Sergeant Killed By An Explosive Drone Strike In Southern Lebanon - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDgxdEV4UVltMWRrQlZ0bzUtWUpscFZDdWtsM0RZMHVfVWo0RTVzZ1NuMUVUaEMwWEliZHF2MzNzNEp6c3oxSWZMNVV2dUwzazNudUZTUjV2RE9sWDJXRFI0V2pELVg5ZlMyQjFSZG56a0ZZclhpWXB3bzVFR182X3VzdllUc0l5YWZCdURWeDJuZzVBbmhqMVNVeFZCMW5FRE9MaEdVOTlGeThzMzhnQkFIZmxLTFp3Mmpz?oc=5",
+      "source": "i24NEWS",
+      "date": "2026-05-25T04:02:00+00:00",
+      "description": "IDF Sergeant Killed By An Explosive Drone Strike In Southern Lebanon  i24NEWS",
+      "query": "drone incident",
+      "detected_at": "2026-05-25T05:36:21.845260+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f645a9d740fa"
+    },
+    {
       "title": "US and Ukraine warn of Russian strikes after Putin orders retaliation for deadly Ukrainian attack - KOAT",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTERuUGZxbTZ1S2oySjZHRUZnSHVoeC1xeU1SeWo5emNuN2JuWTJfYnNHWUpZeXV6YVQtd1hIdWhSQmxuenZVTGNpbUhxZ0dmVjkxWVJSb2VVN1M2ei11VHRyUHBaa2tZTl9vOGRSM3V1TlBEZFd0dnZBS0V2dGhFTXdXaXRWQjZtQWtiVm1ydkZqSkUtSkE0Z3FlZzFhYWtzbHpoMVpKVFprM0xBVjdTYWxyOGFvQU1COHMwR3A4a3VZMDVZT19HbXlzWQ?oc=5",
       "source": "KOAT",
@@ -11987,20 +11999,8 @@
       "location": "near Limestone Correctional Facility",
       "category": "smuggling",
       "id": "0cbc9582cfe7"
-    },
-    {
-      "title": "Israel Air Force pilots took off under fire, bypassing commander in Lebanon helicopter attack - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GUlAtd21uS0dsajFma1VpLXFyamJucE9PVzBGOG1reVZqTEs0N2QwWllSMXJNM0lHQ3hpWi0zZjNXcTdkQzFicjhFNE5KSXR1Wmt2MmRtTktoeXNuZXhzZ3VQbk9SV3NOdnp4TkJn?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-04-28T13:50:04+00:00",
-      "description": "Israel Air Force pilots took off under fire, bypassing commander in Lebanon helicopter attack  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-04-29T19:34:39.667893+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e1e8a545ea73"
     }
   ],
-  "last_updated": "2026-05-25T01:46:42.073158+00:00",
+  "last_updated": "2026-05-25T05:36:26.904092+00:00",
   "total_count": 1000
 }
