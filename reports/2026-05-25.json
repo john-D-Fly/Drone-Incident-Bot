@@ -1,0 +1,137 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple drone-related incidents have unfolded, highlighting a variety of risks across different regions. In Southern Lebanon, two drone strikes resulted in fatalities, including the deaths of IDF personnel, indicating ongoing tensions in that area. Meanwhile, Ukraine reported downing numerous Russian drones, while also facing threats from retaliatory strikes. There were emerging reports of a drone attack near Dubai International Airport causing significant disruptions, showcasing vulnerabilities in airport security against drone activity. Additionally, echoes of explosive drone incidents were noted in Latvia, further heightening concerns over drone crashes and detonations. Overall, the incidents underscore a complex landscape of drone use, emphasizing security challenges and potential policy responses.",
+  "totals": {
+    "other": 25,
+    "terrorism": 5,
+    "smuggling": 1,
+    "arrest": 2,
+    "crash": 6,
+    "airport": 1,
+    "surveillance": 1,
+    "total_incidents": 34,
+    "by_category": {
+      "airport": 1,
+      "arrest": 2,
+      "crash": 6,
+      "other": 20,
+      "smuggling": 1,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 1,
+      "drone crash": 7,
+      "drone incident": 11,
+      "drone prison": 1,
+      "drone smuggling": 1,
+      "drone terrorism": 11,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Military and Terrorism",
+      "rationale": "Increased drone attacks and military responses in conflict zones.",
+      "incident_ids": [
+        "5767ef6ceb53",
+        "f645a9d740fa",
+        "ec555c4873dd",
+        "b466230cedba",
+        "b466230cedba"
+      ]
+    },
+    {
+      "topic": "Drone Incidents in Latvia",
+      "rationale": "Multiple drone crashes leading to potential risks and safety concerns.",
+      "incident_ids": [
+        "c40a87ece90b",
+        "20d391db3caa",
+        "11ac620181e1",
+        "a5da54ba7535",
+        "3549e16e31df",
+        "d2607fc294b6"
+      ]
+    },
+    {
+      "topic": "Russia-Ukraine Conflict",
+      "rationale": "Incidents related to drone strikes and military maneuvers in the ongoing conflict.",
+      "incident_ids": [
+        "d46ff101fec0",
+        "98fabb2b5d81",
+        "dec4d32e9fe6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5767ef6ceb53",
+      "headline": "Sgt. Nehorai Leizer, 19, Killed in Southern Lebanon Drone Strike",
+      "one_sentence": "IDF Sergeant Nehorai Leizer was killed in a drone strike in Southern Lebanon, escalating regional tensions.",
+      "risk_tags": [
+        "military",
+        "casualty"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3f6c5c3b46f4",
+      "headline": "Drone Threat to Europe’s Critical Infrastructure is Surging",
+      "one_sentence": "A report highlights the increasing drone threats to critical infrastructure across Europe.",
+      "risk_tags": [
+        "security",
+        "infrastructure"
+      ],
+      "countries": [
+        "Europe"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "98fabb2b5d81",
+      "headline": "Ukraine Downs 246 Russian Drones Overnight",
+      "one_sentence": "Ukraine successfully downed 246 Russian drones in a night operation amidst ongoing conflict.",
+      "risk_tags": [
+        "military",
+        "conflict"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "89062a44c2a7",
+      "headline": "Drone Attack Near Dubai International Airport Forces Flight Suspensions",
+      "one_sentence": "A drone attack near Dubai International Airport led to significant disruptions and flight cancellations.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "c40a87ece90b",
+      "headline": "Drone Explodes After Falling into Lake in Latvia",
+      "one_sentence": "An unknown drone exploded after falling into a lake in Latvia, raising safety concerns.",
+      "risk_tags": [
+        "drone crash",
+        "safety"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal escalating tensions, particularly in Southern Lebanon and Eastern Europe, with significant implications for security and airport operations.",
+    "linkedin": "The last 48 hours have seen a series of critical drone incidents ranging from military strikes in Lebanon to alarming drone threats near vital infrastructures in Europe."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-25"
+}
