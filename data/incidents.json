@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Russia Threatens 'Systematic Strikes' on Kyiv, Urges Evacuation - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemZjTmlFY3Ffc1VVUzI2SEJlSU5DMU5vOFQ4SjR2VVBDUUZWMFJ0cFpFODFieXltTUs4Q2VVWC1ybDAtWGY2d0d1SGRUdDF3RnJleHI0d19qb3F0ZlRDeEFUSjJBRnN5azdQa1pLX1k2Y0NTREwtLVdIY0Zlem5ya3g5UnhEb0tGdml3Y2RudkNWblhmTWxZMmVWSEs2VzR6djBnR0JudlpObWFlT2w3U1hlQdIBuAFBVV95cUxQT3lmSzRqOWZseHpLU2pHSHBVd2ZMQ19vcXFmN2xzQW5HUjFkZlhBcGVacldXalA4OXc3NEV4LXo0TE9pMndrdjliZmpISXdHT1lGeFpfN3pRSERQZ1JDdHVEQ3hKSzBPTXE0aDhvREV5TGdVUVRmYlZxaDF0SXlGbXdNaW9YWG1KNi1PX3N5c3paRURfUTdUV1RhV3Y2R3FTVDRRUkJLVU5VWTFINlNDQzcxU1B0VENv?oc=5",
+      "source": "Deccan Chronicle",
+      "date": "2026-05-26T02:18:05+00:00",
+      "description": "Russia Threatens 'Systematic Strikes' on Kyiv, Urges Evacuation  Deccan Chronicle",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-26T03:12:25.112928+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "0121ade83b81"
+    },
+    {
+      "title": "Sydney light show called off after malfunctioning drones crash into water - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWG5SWDF3WWN5UDkyZWV6RVBUZ2s3YW9VWUM4ZU4wNl8zSjV4blNwWFh2Um5qbDJSb3J1ajFrQkhqOWZIVzRqRENGZzBmSVdEMXIzZXNxa2ItZENvM3pPS3ZiZHo4S24wRXZRV09XQjBuWm43ZENOc0J4NGtyQ3pLdlRiT2FOdVBleUstT3g1MmtEcUJ3TGNlVmtvS1o2SHdaa0tCV05lY0dLQ2dpX3hVandXdV8tbG0xa1h4ci1yaldMcnRhUnRYYjJueWpWYm0wOFVuX2ZR0gHbAUFVX3lxTFBGUTVuRm5GcVZhYzRqSDM1eW9WMUZJaVp2WlVkMVUwbHUzRzR1VW4zNkw4VkxlSjlubm1LU1RJbUZfby1XM2NKb1BZaUpJYXFtSi11N1ZNdTRrcHhSS24yMzE4TUdSVXB5bEh1Z1JxUnh5VlRwWVNMTkctM3FKajlueTl1bVpkWVdsVlZCbDJKYVVsamllcmxHaXFXQ2xESkM4RXRhN2hTZ19TcXF1aWlJY2pNZFVYZFhjMGlBaktOQVpzMjNOTmlkT0RtNkZDUXA1VldHdjVjT2lIRQ?oc=5",
+      "source": "The Manila Times",
+      "date": "2026-05-26T02:14:00+00:00",
+      "description": "Sydney light show called off after malfunctioning drones crash into water  The Manila Times",
+      "query": "drone crash",
+      "detected_at": "2026-05-26T03:12:23.494209+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f0120a1cc8ed"
+    },
+    {
+      "title": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlNMUnhrcUVKODQyV3RURHFsY2g0WEpHaWFiQnBIcWNZNUZvbmdMbmIwR3JLdWdzaXJWQjl0WW4zTkZzMmJjallsRXBWVGdSbF9ZTkNzTzQtY2FDeEcyYTRQMzJwbkEtZy1FX3lKNFVsV0dCRjZQcGo4czRmc2YtWS12OVluUWhtMjJVNkVwZVFSdVhJSnJYT1dIS2prOEFUZXhuQkFHQXdYVUhXeVE?oc=5",
+      "source": "The Guardian",
+      "date": "2026-05-26T01:32:00+00:00",
+      "description": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-05-26T03:12:20.829889+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "227fd7a97187"
+    },
+    {
       "title": "Vivid show grounded after 90 drones crash - The Australian",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOa0hld0h6RWxhamVvdzhkSmM5Sm9iVEU5dkwwVFE4Q2cyYzY1VVlvRzN0ZElTSTN4OE56bkhRcU4zZ1Fxd3oyQUNBOEkzWWJNN0k2QW83cFhNNlM3N2t2ZEMwR3locndZczVyMGtOem9YajVteUtWZGdZam12TUt5eWJmQ1laaVpZbkQ1TTJTX2N1UEZhS1ducVF1MnhFendHMFNYbEZVVzlzQ21XUHNORUtGY1FYdTdrRjVJT2RRS1RJU3M4QlpxV2VTOUZBVzc3NThGWFpHbDMzSWdPZlFQb1ZzQU05djdpQzNTT01xcmxXbk84RkV3MTAtbGJZUFRIcmJ4dFlzSdIBjAJBVV95cUxPVm5JekQ4RElpYkM3WEx2aTZqeVRacDFkejV4VmQ5dVZUMFpVN3FKMTA0SEhOOG9HWTRCX0o4bFFlN2tIMWhrRU4wTUMzaDNPaEswYjE0NHF0TVRVekJJdFBIZU41Zm1EX1NwVTluR3BPRE96ZXhZaUdkd1RSYlZHNTFqOHZaZjVBNlEtakJ2YzdHZHdsajNJWVNfVWVqa1daWE96bUV1Z1JzS09DWjdnREw4c2ZpTTdmQUpUa0xseVloSjEzVEdBbUV2NnpuYjdDR001Nl9Fc1BjTnBnSndTelJmRU15eDhYS1dRbzZGZ01hVWx5RE9hRWFITE16cDlZUDhnaUZHY2FESmx5?oc=5",
       "source": "The Australian",
@@ -11963,44 +11999,8 @@
       "location": "near Limestone Correctional Facility",
       "category": "smuggling",
       "id": "66d0ab69f1df"
-    },
-    {
-      "title": "ATC Alert: United Airlines Boeing 737-800 Reportedly Hits Drone 3,000 Feet Above San Diego - Simple Flying",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZklkaTZvLTFiMFZOQkM1TnUxT0ZCQjdMdnMyd3NNLU9lSVVpdFVzak5zMlY5Vy1IbWVfMDlaUTZaSDUtbC13THJKTkVjODVXa2ZTdHNpMFl4M3l4TXhHdkJOQkNSVS1Xb3dKM0o0UC1fdThzRVNKd3V6amkyeWVyQlg4MGRjYzBCbzNIdHg2RTZQQ1U4cWtBVw?oc=5",
-      "source": "Simple Flying",
-      "date": "2026-04-29T22:10:10+00:00",
-      "description": "ATC Alert: United Airlines Boeing 737-800 Reportedly Hits Drone 3,000 Feet Above San Diego  Simple Flying",
-      "query": "drone incident",
-      "detected_at": "2026-04-30T03:10:35.867801+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6bfbd56bc756"
-    },
-    {
-      "title": "Scary moment after United plane hit drone on landing at San Diego airport - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlhLWRxdERNWEFyZEpJVDJJSzZCVFNOemNMWlY0N2tXUklCU2hoVmlvQlZjYWtjZndFLUI1RjVSTUdYNGVLaENDbTlwdU8xZzZ4Y184NnE0Q3RNNzRmc0RaMEtLTzFSbEZVUzJBeXB3bXVldTdzSVZMaFNMR2RBdVBNYlU3NV9zLVdONk9fQ3Y1bXhYOTZUZENuTEZfd0hnOGc?oc=5",
-      "source": "The Independent",
-      "date": "2026-04-29T22:13:00+00:00",
-      "description": "Scary moment after United plane hit drone on landing at San Diego airport  The Independent",
-      "query": "drone incident",
-      "detected_at": "2026-04-30T03:10:35.867801+00:00",
-      "location": "at San Diego airport",
-      "category": "airport",
-      "id": "a5f2705d1f9d"
-    },
-    {
-      "title": "Ukrainian UAV Crashes in Kazakhstan Near Russia Border - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmVESzU3aTdFeWxSVVFzLUJKQ2dOX2RoTkJ4V0xiV0MyZFF5dWJ4UHpGM2hWZ0U5QXN6Y3dyVkVOQWZfeFFpM2d5NHNCQUc4YmpkRHhJQ3FFckVNX1VIWnZlajZDVUtTc2pIQnA5NmNiMmV6MFZFc0RyNkVOYmZRNWpjVHNsX0V0eUROcjZQT2MzY2hzSHhYYUotNNIBnwFBVV95cUxQWGhsSEpQYk1tSHZiNjBTQjRBMXRuczdpSUFzNDFFN25KbHJiRFl0STNvXzY1eFJXNTk5YXgzd1BiMTdoSzd1ZVBOandORFNzQlRuUkVPMU9ZMFdrX2h5NmlkQXVsRGtnd1pHZjRhUkdjM3ZrRUlKWkdIUXlaRm1xcnZyY3RoY01MU2ZnQ0F0N3N5blZsaVFkMEk1cVd1RlU?oc=5",
-      "source": "Военное дело",
-      "date": "2026-04-29T19:02:02+00:00",
-      "description": "Ukrainian UAV Crashes in Kazakhstan Near Russia Border  Военное дело",
-      "query": "drone crash",
-      "detected_at": "2026-04-30T01:38:46.888719+00:00",
-      "location": "Near Russia Border",
-      "category": "crash",
-      "id": "eaf7d096ab5b"
     }
   ],
-  "last_updated": "2026-05-26T01:41:42.783586+00:00",
+  "last_updated": "2026-05-26T03:12:26.239168+00:00",
   "total_count": 1000
 }
