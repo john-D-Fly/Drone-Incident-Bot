@@ -1,0 +1,137 @@
+{
+  "narrative_summary": "Over the past 48 hours, a surge in drone incidents across various regions has raised significant concerns about safety and security. Notably, incidents in Ukraine, where errant drones sparked tensions along NATO's eastern flank, highlight the geopolitical risks involved. Meanwhile, at the Vivid Sydney festival, over 90 drones malfunctioned and crashed, resulting in the cancellation of shows and bringing attention to the technological shortcomings of such events. In the realm of security, arrests related to drone-assisted smuggling and stalking cases were reported, revealing ongoing challenges in regulating drone use. Security experts have also warned of potential drone terrorism threats during high-profile events like the FIFA World Cup. Such occurrences indicate a need for enhanced counter-drone measures as regional authorities lose ground to new smuggling technologies aided by drones.",
+  "totals": {
+    "tax": {
+      "arrest": 4,
+      "crash": 11,
+      "smuggling": 5,
+      "terrorism": 4,
+      "other": 52
+    },
+    "query": {
+      "drone arrest": 4,
+      "drone crash": 11,
+      "drone illegal": 9,
+      "drone incident": 9,
+      "drone prison": 4,
+      "drone smuggling": 6,
+      "drone terrorism": 4
+    },
+    "total_incidents": 75,
+    "by_category": {
+      "airport": 1,
+      "arrest": 6,
+      "crash": 11,
+      "other": 39,
+      "smuggling": 13,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone arrest": 4,
+      "drone crash": 19,
+      "drone illegal": 6,
+      "drone incident": 19,
+      "drone prison": 4,
+      "drone smuggling": 8,
+      "drone terrorism": 13,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes in Sydney",
+      "rationale": "High-profile incident affecting public events and safety perceptions.",
+      "incident_ids": [
+        "f1a959d44689",
+        "0fc386e2eb4b",
+        "dc69e96be104",
+        "c257e29ae5e3",
+        "363eca400edf",
+        "e75a3f565c99",
+        "4add75d94744"
+      ]
+    },
+    {
+      "topic": "Drone Arrests Linked to Stalking and Smuggling",
+      "rationale": "Multiple arrests show increasing use of drones for illicit activities.",
+      "incident_ids": [
+        "b3291d118c52",
+        "78e67f2b6df9",
+        "50385924fcc8",
+        "c42593243e10"
+      ]
+    },
+    {
+      "topic": "Security Threats and Policy Responses",
+      "rationale": "Rising concerns about security at major events due to potential drone terrorism.",
+      "incident_ids": [
+        "c25f3b36de88",
+        "282d4b527e5d",
+        "f7be70a16e6a"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f1a959d44689",
+      "headline": "Dozens of Drones Crash Mid-Air During Sydney Festival Light Show",
+      "one_sentence": "Over 90 drones malfunctioned and crashed at the Vivid Sydney festival, leading to cancellations.",
+      "risk_tags": [
+        "crash",
+        "event security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "282d4b527e5d",
+      "headline": "FIFA World Cup Faces Drone Terrorism Threat",
+      "one_sentence": "Security experts warn of potential drone terrorism risks during the FIFA World Cup.",
+      "risk_tags": [
+        "terrorism",
+        "event security"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "b3291d118c52",
+      "headline": "Multiple Arrests in Smuggling Using Drones",
+      "one_sentence": "Authorities made several arrests linked to drone-assisted smuggling operations.",
+      "risk_tags": [
+        "smuggling",
+        "criminal activity"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6a4a282ea01c",
+      "headline": "NATO Faces Drone Security Challenges on Eastern Flank",
+      "one_sentence": "Errant drones from Ukraine have raised tensions along the NATO eastern borders.",
+      "risk_tags": [
+        "cross-border activity",
+        "geopolitical"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "9cabc7379f3a",
+      "headline": "Arms Smuggling Module Busted with Drone-Dropped Weapons",
+      "one_sentence": "Five suspects were arrested in connection with an arms smuggling operation using drones.",
+      "risk_tags": [
+        "smuggling",
+        "criminal activity"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents raise safety and security concerns, from crashes at Sydney's festival to potential terrorist threats at the FIFA World Cup.",
+    "linkedin": "Drone-related incidents in the last 48 hours highlight crucial safety and security challenges, prompting urgent discussions on regulatory measures and technology."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-27"
+}
