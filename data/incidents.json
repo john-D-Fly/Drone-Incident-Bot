@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Schenectady Police Department uses drone to make gun arrest - NEWS10 ABC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVR2RlNTUHhTNWZoRGZEYS1HSFlWWVBpdVRXQ0RJQXBHcS0xOEtsekxHZXliZ1c1NGNLQV9YMmVKY1M4U0JYUkRiNkY1VGt1dGh0cWkySC1MTGJFY1QtcGdsQUxRVXk0OWNwWFIxVkZhdGdfbUFhVFFQU2JUZXRSaVNtNmI4a0hOMjlqMkZJZTREeFdSaGdBWnR6eTZhMVV1OFFHeTl6WHFKb3PSAbABQVVfeXFMTmROeEhwazllSnpKMlE3SFpBNkQyZHp4MXR0bWVmYnN0dFlHN0xocnhuU0dlMXpFZlZoUVFyUG1yaFVOY2ZlS016NEdyMTNEMUdOY3YxU3lheU9BWFg5dE9GMS1mekNyQ0ZmY1FyOHp1YzlzYUhkQVYzTkJEX3I2c0F3RzRob3hNMV9jWEJZbkduc1hPeXhEWXlJeFZqTUJ5RVFNeDlkX2tCX051WnVUZVc?oc=5",
+      "source": "NEWS10 ABC",
+      "date": "2026-05-28T01:53:53+00:00",
+      "description": "Schenectady Police Department uses drone to make gun arrest  NEWS10 ABC",
+      "query": "drone arrest",
+      "detected_at": "2026-05-28T03:14:24.448382+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "cd15dbbbbc48"
+    },
+    {
       "title": "Texas DPS Launches Counter-UAS Strategy for World Cup - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcl9SV05TeFRBRHAtVjJTYXNWejR1RzJ6ZEx4dzRyWnBDaUN3UnBHdDZHOTEyTGtvUS16V20wTXNPVklnTjhDY1ctWlFtN3Z1Z3NtTWdhRDZxcVNNYmJUbXlJNW9LZWt2ZEcxa2FYZWRlWTlBWkNsR1hMZWhDbnhEa1ZDS1FyWURMcGxYbVJKM0k?oc=5",
       "source": "Dronelife",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "393bde37605e"
-    },
-    {
-      "title": "Russian drone crash in Vinnytsia region leaves one injured - Ukrinform - Ukrainian National News Agency",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkJKaGJBaEQ1bGxyNjkzdllOaG1LekNSNGlBT011QUZQRnFwcXhTVEJiLVpNVjRwTFFFN2ZLLTRYaE45S3UzbVVIV2ZqTDVpQUIzWVhyVHFzdjd2a0F1X0Q2X1czTy1rN3JpRmlPR3BVTWEtRVVkYVJzbG5EZmpORDdvbzhjbUNRS01mVV9Ia0d4Z1hhX215RjlrLUpQajhJQWFaRDAwODNtSjdC0gGyAUFVX3lxTE4zcHp0bmRaOU5KRFdlejNuVXNCa0s2N1NxVmFyRGg4UmRlTEtveWI4WWdmdmtidzZHU0NUNkVMMDhvUXBYUk00RTVTTmxUS18weEJ5eGVJTHcwOXJGSmpINHVYeEFLdENhMmRzci1hU0JCZkZuaHM0aXFyaXZhTFU4R1pXNEpiY3lsWkdlcDcxaENmQ3YxSkJTMDc2bHBlUExBRlNMTzh6OHN0bklKV0NtYVE?oc=5",
-      "source": "Ukrinform - Ukrainian National News Agency",
-      "date": "2026-05-01T12:17:00+00:00",
-      "description": "Russian drone crash in Vinnytsia region leaves one injured  Ukrinform - Ukrainian National News Agency",
-      "query": "drone crash",
-      "detected_at": "2026-05-01T13:33:16.593769+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "646fbf567840"
     }
   ],
-  "last_updated": "2026-05-28T01:38:30.432648+00:00",
+  "last_updated": "2026-05-28T03:14:30.085330+00:00",
   "total_count": 1000
 }
