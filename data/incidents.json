@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FIFA World Cup 2026: FAA establishes no drone zones for stadiums, events, and team camps - FOX 5 DC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEhDOXdHNklCOVVpb0dBZE1WUTVHai1qZnJpNU9pT0VQNGcxX2xSTU9JbG5HeTNIdGNLeExlZXhZclNTa0lMQkppQlVpS0p1UGNncDJqaVhRbXJEYUJOaEJGa0twYnh1d0VJWElzSndkZ3ktdmZZSFlDYlBLXzlZX2l2WHpTdC1HcnNUamJBc3ZTSkRXbEZNb1o5anJZR3hWd1ZfSGlMT1jSAa4BQVVfeXFMTUM4LXVPTVVva0dERndjdUpTdDVjZ2ZYSjBvT25zTmYtOE9DLUx2ZVBVNDdHUUF3WnNQVE13MUNjN2FnckllWFVSUFBYclI1Q3h6eWxYb3U2UE5CU0pjRk1VSmdHUVZMTGRrbzV5MlRMdjFHT3U0UFNJVGs4ZFBJS3JHWklUbWFHOTYwMGt6WkRBQlB0Mkx1UU42VzRqNkRuRHEycFJXbnNWZjgxX2xR?oc=5",
+      "source": "FOX 5 DC",
+      "date": "2026-05-28T20:02:15+00:00",
+      "description": "FIFA World Cup 2026: FAA establishes no drone zones for stadiums, events, and team camps  FOX 5 DC",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-28T23:31:44.233362+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "73868ea2511f"
+    },
+    {
+      "title": "U.S. Conducts New Strikes on Southern Iran - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDWnFDdm1FZ1FDUUlaUkJCRWxGaW5FREpOam02NGszLWR6VnNuRFV2RXlrN0ZyN3dFd1VQS1pZMTFhOWtXNW80cWRjRnpNQmZ3T2tTak45Szc0YjR6TjdTejRnMXExbVNqTURWTjhmOU0xU1k?oc=5",
+      "source": "The New York Times",
+      "date": "2026-05-28T16:16:00+00:00",
+      "description": "U.S. Conducts New Strikes on Southern Iran  The New York Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-28T23:31:43.743631+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9421f2c3e9fb"
+    },
+    {
+      "title": "Ukrainian Drone Attack Kills 3 Utility Workers in Donetsk Region - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHlpcHNhLWpUWmt4dXVreUdZcUNwZUFWNklrcThPZzNjRTIxNEVQYlIyNlN4bFAyMmtoNXliZXN4U0U0aUNROUc3ZmRYMUw5elkwMUFXelhCeUE1YzFXZGtwTjFkd1lWTjNtbzFYQy1NWVBfUjgtX2kta2NzdWZ3bEEwVElvdnNuc3JtZHN0OFFWSGdYVjZyQko2c3N5VTV3ZDhB?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-05-28T23:20:42+00:00",
+      "description": "Ukrainian Drone Attack Kills 3 Utility Workers in Donetsk Region  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-05-28T23:31:39.326227+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0f7c7eab52df"
+    },
+    {
       "title": "Spanish police dismantle drone smuggling network moving drugs from Morocco to France - HESPRESS English - Morocco News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU09nTVQxcXZISHpCa0k5eUt2X1h5Q0I5Wnp0aEpNNXczcWpEM0xqMEpuQWZJbVd0a29tYjVwdkd1WkhEVHZ1NEVidWJVaDRSeWR4MmtrTEVtY3R4SkVxMWZfcXI5c3VybmVWQnpaQzdDakJVdXpUQ0YxNzZMbHlfN0hrMnBrSHNPYmJWZEtVOGhPMzBrallfMXUtZ1NiS2tvUmk4UmhNbEx5SG9Pbm5pbkhzdGZCVTg0T1hUVw?oc=5",
       "source": "HESPRESS English - Morocco News",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5b14eca1f2e0"
-    },
-    {
-      "title": "YLE: The Prime Minister of Finland stated that \"Ukrainians will be more careful\" with drones flying into the country. - news.liga.net",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0laWmJvblI2ZnFaNWVMQlhzME1qZmRqNDByNVFiTGhTSUMxdGM3Y3A5N2xTOVVoS29MWEdxcmJDN0otb1VWYVlnTlQ0UnNZZkl2eFFmbGdIbVZmYmhVWmJLWm4xWmZLRDBmWlQweUh0QnJBc1JYSndfQ0R5VmV4T1FCcHhFcmZWaUl6bkZtUENGSk81eVhCZWp2ZkFiM0tSZTdkOWJfaUhSM3Z0VGtzenFCN2dPWnRZcUs2cTdYVmcwdlVpS0FoZU0zUjBGQUFTNzlRak1qVUdIeWd0QWNQZNIB5gFBVV95cUxOQjZyUE5RTUlTQlJ0LTBrTExTMFRsa2NKelNLaXpYdHpZYndoazJDb3Fibm9NT0Qwb095QUx1X0Zvc0lJNzRhRkRpWFN4MVU1d1JVeVVDUjBHWkdESmFJWnBuQ2pQYTNNeWJmekZxVUFfeHJkTXlGRmZjMFRTbGMtUHNDMTBFNXdpODBKNUxWM1czMnU2NTNRM21HM05DMERIYVpoQXRTTTBsMVZ5MzdOSlNHQkFwUGo1dEttSk1hMS05RThzUEZyZGhwOHVOWjJQVGltbnZiOUJDUE5KT3J0ZTFuVk9sQQ?oc=5",
-      "source": "news.liga.net",
-      "date": "2026-05-03T17:57:00+00:00",
-      "description": "YLE: The Prime Minister of Finland stated that \"Ukrainians will be more careful\" with drones flying into the country.  news.liga.net",
-      "query": "drone incident",
-      "detected_at": "2026-05-03T18:21:59.424151+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "de297db055a4"
-    },
-    {
-      "title": "Ukraine drone attacks hit nuclear power plant, Baltic port - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzh6WmdGcG9IOXQwbTJiTG1Gc29VZmJGX2ctNjlSYm1STklGSnF3N2g3VHpwSXFPMVRLamoybk1tdU5BMzNWN0V4bm1wMlBoYnZmd1J4YTdIdERlWHlLYS1lOE1zcW1rWTB6WFBkaEJ3OVAyMkpQaXlQYWc3SmRxZjU3aDNBRVowOGw5aXdkM0FPckV6d19NeU1pc29Bb0lz0gGmAUFVX3lxTE0yYkVBTDVOcUpYX3hQSldUTFA2M2FqcGYtVmRFOVNyTHFsVVlvb2VlQlJrbHVxUFc3VTJTX1dnUURuZV93ek5lcWQ0eE1mZ0twQ1NQLWNuSzlqTUdfSnVlZG83RWEyQnh3TXdPc2dsdkxoM05qaVBsdGNSdGJCTmZ2VzI1b005T2FqQ3Z2WmlaZkN3MFZDb2psUlZ0YTA2VUZ4ZFVLRVE?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-05-03T16:01:39+00:00",
-      "description": "Ukraine drone attacks hit nuclear power plant, Baltic port  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-03T17:19:17.681261+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "22ededa2fe1b"
-    },
-    {
-      "title": "Iloilo steps up illegal quarry crackdown with new drone surveillance tools - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0hOV0FsUWVfNXpCQ2FtTGhUbV81dmJsMzRHZ25tSm9wNG01V1lSRHgwQWpGMXp2azMyLU9jbFZxeEZpR09TSTVZMGt6OTRJUmw3N2ZhYVlHSll6cE41MnJmUkZBSGFTNU9nMzJnZFFNRkNvbWJkTENmT0E4T3Q3b1N5NUhWWXF2cm5aUTBGNE1JYkhuTmZWRTR2VDdMQXN4ejJLdFc2UWpHUDB4RXJaU0JRbFVITTJrM1ZQOWRXbl9wRjJhTkl6MtIBzgFBVV95cUxNTS00UWE2VlI4emNVWnA2N2dmVjNyLTRCZFdEOEdrRmdJYjItSk81Q3g4YWYzVS11TUVoZS1JREhoZ2VXQmFVaXo5ZlpvQmpRMWl1NUZLR1psWTBFa2Z6Qldrd2VRVVNoazZ6N3JkVWtoaEQ0a1VBejNIUGItRFJsS2VmRHc2Njlyc3hIY1YtY01RdHRCWGFhV2ttbXFEV1pJRkFYWnRMUVVkR0gwYVdkNnQyeFgyQjhqUVpyUkVlR2pTb3g4QzRaZjZiMlhPUQ?oc=5",
-      "source": "The Manila Times",
-      "date": "2026-05-03T16:03:36+00:00",
-      "description": "Iloilo steps up illegal quarry crackdown with new drone surveillance tools  The Manila Times",
-      "query": "drone illegal",
-      "detected_at": "2026-05-03T17:19:16.592829+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "ad1442c93a6d"
     }
   ],
-  "last_updated": "2026-05-28T22:34:45.466942+00:00",
+  "last_updated": "2026-05-28T23:31:44.792412+00:00",
   "total_count": 1000
 }
