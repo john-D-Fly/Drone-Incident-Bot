@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Texas DPS Launches Counter-UAS Strategy for World Cup - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcl9SV05TeFRBRHAtVjJTYXNWejR1RzJ6ZEx4dzRyWnBDaUN3UnBHdDZHOTEyTGtvUS16V20wTXNPVklnTjhDY1ctWlFtN3Z1Z3NtTWdhRDZxcVNNYmJUbXlJNW9LZWt2ZEcxa2FYZWRlWTlBWkNsR1hMZWhDbnhEa1ZDS1FyWURMcGxYbVJKM0k?oc=5",
+      "source": "Dronelife",
+      "date": "2026-05-27T14:18:55+00:00",
+      "description": "Texas DPS Launches Counter-UAS Strategy for World Cup  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-28T01:38:29.932022+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "18761d13567b"
+    },
+    {
+      "title": "El Paso man arrested after allegedly stalking victim with drone, damaging property, deputies say - KDBC",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUotZjZGeGtJM1JZOVZ1V3VjUE02Mk1LVmk2Mkhid2ZNekYwNW5sWjVpUFlMSlJ3OTRUMk1EdURxRjV6WE9rVW1DT0JtVnUzUU1Ma3hMN3N1eVVmRVhPOWktOFQ4WVdvNGk1WGNWaGd3ZWEzQlhwblhWeDg5Zk1xWmtzSlBDTjctYkNwMTdodUR4ZTQtNndqclZTQ0hPYnJjRmhjZ0dfZnhWcHBmcEFUaGcxT0F6c19vVmhIWUdTZVVqZmdpRkFMMmF6Ym1Wdw?oc=5",
+      "source": "KDBC",
+      "date": "2026-05-27T08:59:51+00:00",
+      "description": "El Paso man arrested after allegedly stalking victim with drone, damaging property, deputies say  KDBC",
+      "query": "drone arrest",
+      "detected_at": "2026-05-28T01:38:25.758833+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f834b39efd80"
+    },
+    {
       "title": "Fresno Police Drone Helps Track Suspect in Restraining Order Case After Scooter Chase - GV Wire",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2Q1dUtCa1dRM25uampWRFZMSWgzT0hWUHJNcV83eWVGTVdiT1ZmSlZkWnV1OWxUTlpWMGFEWlV6TzJJYVEzSlkxX2NEZnhucm1OZnkxTlJsUVRtVXNwOXJlaGNRMzJmS0hhdkpjMmlEblNPaXBTZGZlUWRGS0JWQmE1WVFabFVZVW1RSTRtTUhyNU9DcWlpU0VFbW16aUdSN0phMkRuN1B4V0ZzXzB2R3pYMXZsdE0?oc=5",
       "source": "GV Wire",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "646fbf567840"
-    },
-    {
-      "title": "DGCA official, corporate executive arrested in Rs 2.5 lakh drone import bribe case - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkpCSGRSdVFaZFJqVDQyOUxIT1JuOWxmc2gyd3FjQ0NXZXMySVRwUWpTMVVXOU9aemZmZWRaY29jN3NnUWpZSmhNSHVMZWxyOGFkRnA3dTZMdm1hUmtJQTV2b1ZPNkpsZGE2YUxXTHEzVkdoQnFlT2NrbzJRTUxGSTQtbjFlSUYyLThNOUNsT1B6TGk4YThTMGlyWUw4bmh4OWtJU2h1TVpRS1FmTzRVT0pwZjRSS0l3WlNtWkotRkNYUGRsdnN5cVJR?oc=5",
-      "source": "MSN",
-      "date": "2026-05-01T04:45:24+00:00",
-      "description": "DGCA official, corporate executive arrested in Rs 2.5 lakh drone import bribe case  MSN",
-      "query": "drone arrest",
-      "detected_at": "2026-05-01T13:33:14.467713+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "8c17f7660ec9"
-    },
-    {
-      "title": "Drone fell on Vinnytsia home, woman injured and hospitalized - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoSU82MEN6TzlBbVFvZWdnU2x1T1NYenJaYWJQcTBjWFlSOU9mRTZzMkN3cERFWjBfa25SajhmVFZSb0lFeENRYXJnVkMxV2tCTVZmeDEtbGt1M3VqZTdUcA?oc=5",
-      "source": "mezha.net",
-      "date": "2026-05-01T11:49:27+00:00",
-      "description": "Drone fell on Vinnytsia home, woman injured and hospitalized  mezha.net",
-      "query": "drone crash",
-      "detected_at": "2026-05-01T12:25:15.285291+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "16b1aa92243a"
     }
   ],
-  "last_updated": "2026-05-27T22:34:43.762420+00:00",
+  "last_updated": "2026-05-28T01:38:30.432648+00:00",
   "total_count": 1000
 }
