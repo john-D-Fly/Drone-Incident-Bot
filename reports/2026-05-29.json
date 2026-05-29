@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of significant incidents involving drones has emerged, mainly centered in Romania. A Russian drone crashed into several residential buildings, wounding two people, which has drawn international condemnation and concern over escalating tensions in the region due to the ongoing conflict in Ukraine. NATO and EU leaders have called this a grave escalation. In addition to these crashes, there were reports of unauthorized drone operations, including drug smuggling attempts via drones at prison facilities in Queensland, Australia. At the same time, notable arrests occurred linked to illegal drone activities including smuggling operations in multiple countries. The incidents illustrate the multifaceted risks associated with drone technology, including its misuse in conflict zones and in domestic illegal activities.",
+  "totals": {
+    "terrorism": 3,
+    "crash": 9,
+    "other": 30,
+    "smuggling": 6,
+    "arrest": 10,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 2,
+      "arrest": 15,
+      "crash": 18,
+      "other": 57,
+      "smuggling": 25,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone crash": 22,
+      "drone illegal": 12,
+      "drone incident": 45,
+      "drone prison": 11,
+      "drone smuggling": 7,
+      "drone terrorism": 9,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes in Romania",
+      "rationale": "Multiple reports of Russian drone crashes injuring civilians in NATO member Romania have drawn significant global attention.",
+      "incident_ids": [
+        "6ffe9ec71546",
+        "bf22b0a5592c",
+        "7aa051e2bb7f",
+        "ce75a5107c49",
+        "af554cc030a7",
+        "bb933de547b1",
+        "c1c608dc702e",
+        "b3d494aed812",
+        "78f009352971",
+        "f850cf86d684"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Drops",
+      "rationale": "Incidents involving drone drops in prisons indicate a growing trend in smuggling operations.",
+      "incident_ids": [
+        "1ef957bbf911",
+        "bcb341fbd077",
+        "d91030487b93",
+        "36981f52b9f6",
+        "5dc8167231b5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6ffe9ec71546",
+      "headline": "Nato fumes after Russian drone crashes into Romanian apartment build",
+      "one_sentence": "A Russian drone crash provokes international outrage after injuring two people in Romania.",
+      "risk_tags": [
+        "crash",
+        "terrorism"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "1ef957bbf911",
+      "headline": "Daring drone prison drop-off in Queensland dashed by officers",
+      "one_sentence": "Authorities thwarted a drone drop of contraband at a Queensland prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "bb933de547b1",
+      "headline": "Drone hits Romania apartment block during Russian attack on neighboring Ukraine",
+      "one_sentence": "A drone caused damage in Romania amidst escalating tensions due to the Ukrainian conflict.",
+      "risk_tags": [
+        "terrorism",
+        "crash"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b3d494aed812",
+      "headline": "EU says Russia has crossed 'another line' after drone hits Romanian apartment block",
+      "one_sentence": "EU officials condemned a recent drone incident as a significant escalation by Russia.",
+      "risk_tags": [
+        "terrorism",
+        "other"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f850cf86d684",
+      "headline": "FM Sybiha: Russian drone incident in Romania confirms threat of Russian aggression against all of Europe",
+      "one_sentence": "Ukraine's Foreign Minister highlighted the implications of the drone incident in Romania.",
+      "risk_tags": [
+        "terrorism",
+        "other"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents escalate in Romania with crashes linked to the ongoing conflict; significant prison smuggling attempts in Australia also reported.",
+    "linkedin": "The past 48 hours have seen a surge of drone-related incidents highlighting risks in conflict zones and illegal activities, particularly concerning drone crashes in Romania."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-29"
+}
