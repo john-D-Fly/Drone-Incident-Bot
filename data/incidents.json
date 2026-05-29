@@ -1,6 +1,102 @@
 {
   "incidents": [
     {
+      "title": "FIFA World Cup 2026: FAA establishes no drone zones for stadiums, events, and team camps - LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVVWWlZBTWU4eDBMb2xZMUltNENLeUVKX2ZKQXRZZEg3Y2NGYVlaTFZTaXEwekhSbGVpdWFKQndaNFl6U1JmTGxSRFNEeTd4MWxQRzZUU0xYbUdHTlBJTndkR3pqNVAzbTZwZi1pdUFvYnpfa25MYWJNSHFWSVN3N0NrRmFXbGtaMHZQMHVMcnk0VzZWeVNaeDc2bnlPM0JuY0tPNFUyMnlCLUZoTkHSAbMBQVVfeXFMT3oyOFdFM0s0T2NWM3V6bDhVOVZaRF8tRjAydWg2Qm1BOXRjUk1rZXJRTGg0UFpvNWF2RkVGZktZQU1RRVJfV21NZ1EyS3FjVmgyXzFTTWp3WkJpWDJKNVVoRjRablJKSjZoTTBRR1daekNMd01zc3pZVjVaNWRVVklNQ0NNTEVNT3AxaG1HcnFHVFBlclFIZVh1WFdQMUZhZFJZQXhCNFBaTkZCSFB1ZTZwT0U?oc=5",
+      "source": "LiveNOW from FOX",
+      "date": "2026-05-28T20:02:15+00:00",
+      "description": "FIFA World Cup 2026: FAA establishes no drone zones for stadiums, events, and team camps  LiveNOW from FOX",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-29T19:50:08.605294+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "43871fade354"
+    },
+    {
+      "title": "FAA Creates World Cup No-Drone Zones Across U.S. Host Cities - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnBvbFRkUVRIbDFXU3dORVc3LWdROUVOS0taWTZkVHJxVE02dEczeTdRYjZTdllnLWdFckZxRTVfWmlNeXY1MF9HRE9Uc0tJY20zdHR5cHZ6cDBBUFVjUS1pdHh6MnYzZmZFd0lNbVhaVDE2Ny0wVXlKNlpiOTZhMmZ1T3Z0OGhCUGJ0d1paUS11dzJPVHU1MQ?oc=5",
+      "source": "Dronelife",
+      "date": "2026-05-29T19:30:00+00:00",
+      "description": "FAA Creates World Cup No-Drone Zones Across U.S. Host Cities  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-29T19:50:08.605294+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "0ac61ae2e4b7"
+    },
+    {
+      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2 - Sentinel Colorado",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPblcwTmpRNTNWSGpsdW9xazl1cW90QXRTOU0xVy1MTktKWUNpYjg0bjNSb01WWWlVNllva25NS3ZTbWh3QUc2YWFFcERib2s1ZTZadDZxX3U3dllOZzdrYnZweG9MVFNQajVSWVBPT1VDMW9VVTczRXZUdjNGY0Nwa20wOFRnbUp2V2E5T3RzUjlHLVF6cmZYLTBaOWZtSmd5VW5aRFZDYXhuVzQyYlppNjhsaDcxRmdz?oc=5",
+      "source": "Sentinel Colorado",
+      "date": "2026-05-29T13:13:57+00:00",
+      "description": "Russian drone launched against Ukraine crashes in Romania, injuring 2  Sentinel Colorado",
+      "query": "drone crash",
+      "detected_at": "2026-05-29T19:50:06.343157+00:00",
+      "location": "in Romania, in",
+      "category": "crash",
+      "id": "e23f1384c891"
+    },
+    {
+      "title": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMG54YnVtMmZTU1JmaWlTbDVRb1B4d3JiaUhwNzZTWlNvR0xsZy1sS3NjdnJDS1otSVAtd19VOEZxbVI3YkRVLXZZeWV3dFFmaDV0aGpSVmhVNEl1UDhQLWpBZUQ4RkJNWjVZOVNySXlLX0htR2RwVFNrOEs3bVcyXzlGM29jNlpHaXRrUVB5V2tFZkdHLVZJ?oc=5",
+      "source": "AP News",
+      "date": "2026-05-29T19:10:00+00:00",
+      "description": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say  AP News",
+      "query": "drone crash",
+      "detected_at": "2026-05-29T19:50:06.343157+00:00",
+      "location": "in Romania, in",
+      "category": "other",
+      "id": "87682d030fc8"
+    },
+    {
+      "title": "Russian Drone Crash in Romania Raises Tensions With NATO - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFNORHU5WmdYRWNJUm1RMmFYVDJiV251ckFKNVhpVFVwWFMtRVFSRU5OZ3VIZThGSW4xMGM4U1VtNm5wLTJwWklLcDJkemZiYkFhVlltT1c3bllNdnNKVE5UN3FXOXRJeDBQc1d1TVIwckowdlhhRndUX0FscEk1bHNvTW15V2ZSQ1Z4S1ZlY1pSM0dZYVk2VGFSOHRkV1dxNUh1RDlxOXBBdDEybE5r?oc=5",
+      "source": "WSJ",
+      "date": "2026-05-29T18:26:00+00:00",
+      "description": "Russian Drone Crash in Romania Raises Tensions With NATO  WSJ",
+      "query": "drone crash",
+      "detected_at": "2026-05-29T19:50:06.343157+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6e2a4f601183"
+    },
+    {
+      "title": "Smugglers tried to bring a drone with explosives to Odesa :: Intent :: Socio-political publication - Інтент",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0NNRUZyTnhvcTRqdERyVzRrbkpyVHFKamhtbnYwVDBBQjFwUlR6NGhOcmUtdi12NXRRQmNrUjlNMjEwRjhEeDVZdGVsaF9wTnppZ2xZN0w4Rzd4SzdHYWdmaG9ScVNBSW1KczQ5d3ZEMmEwSkNZWWZZOXhsdnpDYUlrRnBleDNOQ3M4NlNyNzh6WnhxSUItcl9xcFg?oc=5",
+      "source": "Інтент",
+      "date": "2026-05-29T13:15:03+00:00",
+      "description": "Smugglers tried to bring a drone with explosives to Odesa :: Intent :: Socio-political publication  Інтент",
+      "query": "drone smuggling",
+      "detected_at": "2026-05-29T19:50:04.649746+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "98df2404c69b"
+    },
+    {
+      "title": "Russian drone targeting Ukraine crashes into Romanian apartment building - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTdTVFFETGV3aFZjdF9ROWtzUkJhTzZWZW9VRXA4cWh1N0ZEY1BlTFFEbGVndHdZZnVQY2JTcDFadDNHM0FaeENTQ3R2RXZscEpFQ2NtNGtUZTV6ak8tSnNLNzdmeHF2M2NWQkxCdGt2UVRnQ0duSWFobzJGVk5EMHZEQ2hTajVvbFRoak9DbGJvbWMyQkFyWHJvck9Vbk9wYmlNLTQ4UFUzaGPSAbABQVVfeXFMTjc0S0hVaHFKdjBzZG1Id0pNZG5mRnRWRHZaVm9tRDNwVnVkUDFPSExjeWtiemV6Mzk0TDA2QVM5U1I0bHh2TlJIUHRmWUROd2xpbVYybE9ESHJCek4wckQwR3RmUXMzTWV4QjF1RmNvS01YekpubGlDYVBhWnRvbGdONVNQazFsRzQxejJ6S01hbVczbElkMDFRTHpYVVZKbzh6QVhUczBUUGEtZTBoZE4?oc=5",
+      "source": "PBS",
+      "date": "2026-05-29T13:23:43+00:00",
+      "description": "Russian drone targeting Ukraine crashes into Romanian apartment building  PBS",
+      "query": "drone incident",
+      "detected_at": "2026-05-29T19:50:03.344465+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2ef9ab46a16f"
+    },
+    {
+      "title": "Nato criticises Russia's 'reckless behaviour' after drone hits Romanian apartments, injuring two - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90SG9NRGg4a0tRUHhOZGk0bmlLM0llRmg4akx2VWVZTlRWYjhtcEFHcUJzMHdCdVA2cTNud1Y1aEYzaXdGSkFKdGVPRG5rcEs1UUdrcA?oc=5",
+      "source": "BBC",
+      "date": "2026-05-29T14:42:32+00:00",
+      "description": "Nato criticises Russia's 'reckless behaviour' after drone hits Romanian apartments, injuring two  BBCRussian official warns Europe to brace for more drone incidents after Romania episode  ReutersNato says drone that crashed in Romania was ‘of Russian origin’ despite Moscow’s denials – as it happened  The GuardianRomania: Russian drone strikes Galati apartment building  DW.comLive: Putin alleges drone that struck Romanian apartment building could have been Ukrainian  France 24Romanian foreign min",
+      "query": "drone incident",
+      "detected_at": "2026-05-29T19:50:03.344465+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "559a9fe31e98"
+    },
+    {
       "title": "Drone threat in Flamingo Zone - Newsband",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGUk1TWXp0ZkpaNGJSUUxPdEJBV1hXaE1reTFlWlV2SGtHaDU5QWcybVN1Z2F6Y3VSWFA4LXB2MEFiMzZha3dsUi1OX183cExSa0huNkNaSDNNSlpPLUJsejNGOUEtUnI1MG01alN1cDZ0QQ?oc=5",
       "source": "Newsband",
@@ -11903,104 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "786928b427f8"
-    },
-    {
-      "title": "Leak reveals major drone incident at Air Force base in Trump’s war - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNVUVPOEJKa3Raak1iUU1DcGt0cFk1QVdxNVJDMzBNcTFTS1B6UlprNGZrOXQ5ejlzNEkyaTlnVjViMjBRbVRkZXZBLWZCTk5YU1FIb05NUEd0S2taS1ZHVkpMTnFtNzJFVW5vZjVPMzJsSHBZX09hWTQ3U1NwcjJjRTFuTVhmWFh2dkNlZEFzZDB3RWNONG5vZEZ6UEE2WU01RzlBckc3TmlSU0JzdWI2UC1pQUh0SkRwUGtsOXFZVUZWZjFYSkI4bG45aDNPNjRMWjdmVkNBVXB4SjVMcDFSOG5mV3duTzV3WHpReWJodkdINmVHRUl6dHVNR3BlSEsxeF9yaVZfa1hFbzZoOHdmRW53SjJVanNmRjdqV0FtS2cyd2ZGQmpYaXdKcjNudVlhTzFJX2RyYXZmcU94bXRLZlBZWmlWYjlyNUk2SGhLZlhMRTNXZy0xSThfNXlmRlJHTkJYUGZLSmN5cHkyNUJBOGNhLUxxeVpKMlUtU3o1dWFRblU5T3hYRlJRd3NqZEViTlVSV2hBOUY2cVVJUXRlYUVn?oc=5",
-      "source": "MSN",
-      "date": "2026-05-05T06:20:17+00:00",
-      "description": "Leak reveals major drone incident at Air Force base in Trump’s war  MSN",
-      "query": "drone incident",
-      "detected_at": "2026-05-07T00:44:54.521951+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "401bb186ec89"
-    },
-    {
-      "title": "Sudan Drone Attacks (Aid Envoys Hit, Hospitals, and Weddings) - Modern Tokyo Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdFRGU29ESEp2ZzFJRmlTOGs5WmJjeW1jY2lEc3NQakZmb3ZnTi1jWUhtejFtby1UZXVMVE8wVjZ0cXB0N01ldEhjS1hRaHk1YmhTWnpNb0x6QXBHWDQtTzlfMEZ1bUZPb3lYWDVXdF9mckRlYUhhUVJuX0V4N3ZjU2J0cWd5cHc1Z2lPQk90cDY?oc=5",
-      "source": "Modern Tokyo Times",
-      "date": "2026-05-06T02:38:52+00:00",
-      "description": "Sudan Drone Attacks (Aid Envoys Hit, Hospitals, and Weddings)  Modern Tokyo Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-06T23:20:39.185066+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "61f0424b48ff"
-    },
-    {
-      "title": "East Texas Neighbors Spotting Drones? Know Your Rights - 101.5 KNUE",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXeGtfWnRuMHdNVk9oeDI3ZlprVVdzNi1jUkhQYUpYeUFsUGtCa3RPSmh1dzdrYUZqeGhhbVJHZnd5X0xySnlxcjUxc2hhZ0FvSURRZXZhQ1Zrc0xXazd2RQ?oc=5",
-      "source": "101.5 KNUE",
-      "date": "2026-05-06T22:30:32+00:00",
-      "description": "East Texas Neighbors Spotting Drones? Know Your Rights  101.5 KNUE",
-      "query": "drone illegal",
-      "detected_at": "2026-05-06T23:20:37.751242+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7dd9e227f8e6"
-    },
-    {
-      "title": "Public Urged To Follow No Drone Zone Rules During World Cup - News12 | New Jersey",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTlLcFVWVXRoSmlDRmJnekE4dTdCeFJYYTU0WTJ6MEpJUWFTRXBOMFo5R0VrenF5cXExNDdLRE9XNnJmSTNXVl9GMlRpTmdQWEVoOFRQVUpmd3FBaWwwYlJMNGs0dlRGdXRqRnI2WHJZSEVrc0d6LTRsMGlLN0p3LVljUGlmRTZ1aFpfVFJYWnFsVDZSV1FySXpTby1seTNJbkRjYkNRMFp3LWVWZ20zRWZoQWZOVUhNVEFrUXJR?oc=5",
-      "source": "News12 | New Jersey",
-      "date": "2026-05-06T21:54:33+00:00",
-      "description": "Public Urged To Follow No Drone Zone Rules During World Cup  News12 | New Jersey",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-06T22:19:45.113316+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "857dafd9dbc3"
-    },
-    {
-      "title": "Drone Threats Are Evolving; Data Retention Rules Are Not - Lawfare",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0FPZnM3WlNsaENvc3FMT0pmdndrSlVNQWZwMG9MMFJqZ2xnSHV3dGQ2ekRjU0FYdUJCVk5VbG5LOTE2T09SQkRKUjlmLWswc2JFNTFINEJ6ZXJyUExuMWFyTUttUGtwbTliZHpvakFMOG8xY3NkMmE1VnVucXY4a2lRY0p0Zl9obXJPVW1DX3FiaEtvMVBTSg?oc=5",
-      "source": "Lawfare",
-      "date": "2026-05-06T13:33:58+00:00",
-      "description": "Drone Threats Are Evolving; Data Retention Rules Are Not  Lawfare",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-06T22:19:45.113316+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "1bf480f0f28e"
-    },
-    {
-      "title": "IDF targets top Hezbollah commander in first strike in Beirut in almost a month - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbU9vcEJiTmFiOW5SY1g4bU5kMUhhMFBxOG5pOGxHTDVsV2IzV0QyVHZ2Z1JfZkJFN2hHbVFBWmVGYjc4SG5Za2owbTZiNlZQLWVJempWSGtRTW5oMWp2OEh6RmtYWnZwcDNDdUdhUnB3YWo4ejNZSC1PbGxwVjEyWmdwRW1PcHJrd2p3LUpZRkw1SVRKdzJUYWpuZUxuVTZLTjgtWi1tM29mUFdzcGhNSlNpd9IBuAFBVV95cUxPNU1jOGllX2poc0JFd0k3dl9uWTJWQkQtWlBybHg2S2k4WXE1d3V2UDdwX2JXd1JuSzdzaHRmNTRqYjZOYlRNSk1TSFVTMGNPbjliX3JvRnBITG0zWVp6Zl9Cc3FzdTJ4M0Q1WVZDT25TbC1CWXJpWkNZdi0wckREYjhXcTR4VDJNX0tXMkNtVXJCXzN6cWtzaTlSaks4dlBRd1JHUEdrVWhET1FwNWJhc1BtTzdPVk04?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-05-06T19:04:04+00:00",
-      "description": "IDF targets top Hezbollah commander in first strike in Beirut in almost a month  The Times of Israel",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-06T22:19:44.410792+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "86eb34c831d6"
-    },
-    {
-      "title": "Ukrainian Drone Strikes Deep in Russia Grow Public Alarm - The Jamestown Foundation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHM5b2p2QUpuTDBzS3A2NFBWR3JxejVfd29zQ2pCTUQ5WUNDNUlONkZYSTV6VXlUX0NBeklaRXZqQ0NxTVhTNGk4ZFpvMkhzVUlBRlR1Qi1mdnFPTEpLbHl6N1pqOGdTWDA5ei1acWgxOVVMTE9fTC1MMkVBZGlxSXlmTHpxZw?oc=5",
-      "source": "The Jamestown Foundation",
-      "date": "2026-05-06T21:38:59+00:00",
-      "description": "Ukrainian Drone Strikes Deep in Russia Grow Public Alarm  The Jamestown Foundation",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-06T22:19:44.410792+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "c435033fc121"
-    },
-    {
-      "title": "UK sanctions 35 Russian operatives over alleged drone, migrant trade networks - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORHRPWmtXdTdibkpfM1oycjVIWjdhemNZTEhNcTZXb0N5TjdPSHBJeGZ6RktUMUxfYU1WelFmLUloV1Z5Y294cjBYandpVmE5dTJDcmlNMjNGY3ZTVjhFZUVoNnZNU0xPQ3dMZmJyZWoxYldTc1NjZTBFX1l2aFJrdnhNQnMwaldKUG9SRlgxbUdXcXNJX0dDSEhBQjc5Wkl4WGVMZA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "date": "2026-05-06T20:27:41+00:00",
-      "description": "UK sanctions 35 Russian operatives over alleged drone, migrant trade networks  The Guardian Nigeria News",
-      "query": "drone illegal",
-      "detected_at": "2026-05-06T21:26:46.204575+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8c45aa211831"
     }
   ],
-  "last_updated": "2026-05-29T18:56:15.321298+00:00",
+  "last_updated": "2026-05-29T19:50:09.112808+00:00",
   "total_count": 1000
 }
