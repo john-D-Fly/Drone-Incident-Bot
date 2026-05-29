@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Russian Drone Hits Romanian Apartment Building, Officials Say - GV Wire",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUldwT2xRWWRpbm5jZUkzRzVKNjZETHRvTWpUY2hvTTdSTjhza3UzSTBOSGlWa3RwcVZ1UkhLcWtveFdCZ2ZKNHRuUFJJaEJIZUEyQU1PcmdmSEJOejFzTjdSTWNNTHdHaEZqQ2tZMzdadk8tRjFWU2xHZXhYX1QwSHZkLWRZTWRaZmh4aHFhUW54bGIxdEE?oc=5",
+      "source": "GV Wire",
+      "date": "2026-05-29T20:00:52+00:00",
+      "description": "Russian Drone Hits Romanian Apartment Building, Officials Say  GV Wire",
+      "query": "drone crash",
+      "detected_at": "2026-05-29T22:33:38.784480+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a54e95505466"
+    },
+    {
+      "title": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMG54YnVtMmZTU1JmaWlTbDVRb1B4d3JiaUhwNzZTWlNvR0xsZy1sS3NjdnJDS1otSVAtd19VOEZxbVI3YkRVLXZZeWV3dFFmaDV0aGpSVmhVNEl1UDhQLWpBZUQ4RkJNWjVZOVNySXlLX0htR2RwVFNrOEs3bVcyXzlGM29jNlpHaXRrUVB5V2tFZkdHLVZJ?oc=5",
+      "source": "AP News",
+      "date": "2026-05-29T20:27:00+00:00",
+      "description": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say  AP News",
+      "query": "drone crash",
+      "detected_at": "2026-05-29T22:33:38.784480+00:00",
+      "location": "in Romania, in",
+      "category": "other",
+      "id": "ca56075f6656"
+    },
+    {
+      "title": "Fargo police arrest suspect with help of drones and Red River SWAT - KVRR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS29CYjJZb2lPWW9RQjgwb3dxTHYtV01lMG9yam9Cb2lTMUJZZFhMdGg4bk5faXJPYmxhc0dQbTdweUxDLVFwYU5oV2JmNDlzX1dja2hnUXZ1YUQ3azNOQnA0UkFSSFNHemlVNEhib1l0RlEtaXBoUFJEV21yR29WZFI4NFowWTFLR2hBR1g3TFNKbnBXVWlSbzlpMWpVUUlS?oc=5",
+      "source": "KVRR",
+      "date": "2026-05-29T16:04:08+00:00",
+      "description": "Fargo police arrest suspect with help of drones and Red River SWAT  KVRR",
+      "query": "drone arrest",
+      "detected_at": "2026-05-29T22:33:36.575797+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9bf6c973d78a"
+    },
+    {
+      "title": "Russian drone hits Romanian apartment building near Ukraine border, oficials say - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQV9ZanJidDgtQUxET1J1djE0WmlKWFB3alM0anNvOHFmVnh0MTV2VWJZM0tJRWNnNjRnd0h4SGVheHdXWjNGcjlmMTcySnhqNFNZdktESXA1TVZ3QVpqRy1Tdzl2SmVIN1J2TmxUSG1POGpDU3Vra2tEaXNrWUlBdm8yTUNRZVUxa0lrdF9VcElNSnRPT1NJQ2lva05fZVFudlJSWjZBZlY0dDA1cGUxSmZRdVTSAboBQVVfeXFMT2JCb1N2S1VSbTdEZ2lXcERLMy00SFluWDd1MFZhbmpqa3lqUXdiRWFROUJTX0NZeTJnb3RJSE9xOU96ZXNnZl9hV0kydU9OQ3JEc1hKWTM2dHBoNzZnODAtWTA4V3JlQ3ZVT3ZmYkcwVUNBRXZrVWp0MjF3R29ST0ZRYzFsd2JLNUJMeTBuNVRLSVczSTF1Y3Y2OHppUThJSTk1SjRTdUdNYl9fbkdNLVZlSVFNeDZpNnVR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-05-29T19:18:56+00:00",
+      "description": "Russian drone hits Romanian apartment building near Ukraine border, oficials say  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-05-29T22:33:36.026794+00:00",
+      "location": "near Ukraine border",
+      "category": "other",
+      "id": "32eea6a3a879"
+    },
+    {
       "title": "European warmongers seize on Russian drone crash in Romania to escalate war - World Socialist Web Site",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KQzNUTUhtQjZKUDBmclEtdmV1TW94VldpVmhMSWpsQTlHTGhGYTVsMnMtSzhzempBOEJBUjBlQjNTZi1vT0d2N2IzNmFLM1ZGRkpZWldHU3JBLVhlWTZhTzRmU2JPaEcw?oc=5",
       "source": "World Socialist Web Site",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "851df05c6ab5"
-    },
-    {
-      "title": "DPS secures drone mitigation technology ahead of 2026 FIFA World Cup - Odessa American",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUlLRFAxNDNFYjdxV3NCNjhmSWo0TUNyZTcxcUZGSmRhNDY1cTg1Tld0N0tRbVVUZkxTNXRpeXBKV0tOUU9wS25WR0dHZnNyZEszTDBaSGNJaGpMcUcxYkx0d3k1cEZyS2xvek41WkRzeHFiUG54NEloS0o0eThHUlRhazFEd3Rld3hORjRGcEVoTnRzNGNvZVpVZW4?oc=5",
-      "source": "Odessa American",
-      "date": "2026-05-06T16:14:44+00:00",
-      "description": "DPS secures drone mitigation technology ahead of 2026 FIFA World Cup  Odessa American",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-07T05:11:31.906642+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "767af15c567f"
-    },
-    {
-      "title": "Drone entering Latvia from Russia may have crashed into oil facility - BNO News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkRucU5TOElaQ0xwejRyNjY2OE1jWW92eWlVUHV4MlA5RVhlVEowYWxta1BTN3NJRmFCRjAxZ3pZRHNiMm1tYzFMMEtrWFpBaHUwb1pxT09uUnNMSE5tM3l5TXpqWXV2aXJpVHdrdGVVR1FYc1VsOW9jOWV2UHp5cl9tUC1WZmY3RjRQM0FPMHVOek1yVEFXMlpQbWd3MTkxVVZ6MG93VU1iVzg?oc=5",
-      "source": "BNO News",
-      "date": "2026-05-07T03:58:13+00:00",
-      "description": "Drone entering Latvia from Russia may have crashed into oil facility  BNO News",
-      "query": "drone crash",
-      "detected_at": "2026-05-07T05:11:29.691553+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "f6d021ba4733"
-    },
-    {
-      "title": "Drone tracks Laredo burglary suspect hiding in brush - KGNS",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnZRREdYdXlzeTZ4YUNWMGZsSnFiY2V2T3hGNnZqUkN2YTgyUW1zdUxjNHJhdjBMQ096OFo2cXUwR01paHlGcW9ZM3FOZmY1ZWxLS1h2dGRxc1d0TFkzX0Z0Q2hMcks2bEpxYVZSVEJpR1JUbm95ZGx3Tm9mbXl6X05LMkN6NHdi0gGcAUFVX3lxTE5TSHhvcXZpaHI0clk0SzA3R1JFWlA1TXZrRXVHYW5ManFXcy1TY2JYbE9xMmhWY04zWG5tMS1RaHg0azMxSXZBY3lNTEFianBUN2JpaktmVVhvWFJyUzZzYWZGNlhYMEFDNEtnWlc4dFNDUGVsZEJLWElJNng0THJqOTNsZ1ZFU3c1azBIdVFlNDFjbFY5cVNJTEpEeg?oc=5",
-      "source": "KGNS",
-      "date": "2026-05-06T21:08:00+00:00",
-      "description": "Drone tracks Laredo burglary suspect hiding in brush  KGNS",
-      "query": "drone arrest",
-      "detected_at": "2026-05-07T05:11:27.520649+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "77bafb38efe6"
-    },
-    {
-      "title": "Drone Drama: Foreign Aircrafts Crash in Latvia - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUVZUjlnNk0tZDhCVTZrQzZlMjN1ZXVSczBOdV83OGdkbFh4c2lUYlR6NWRwRVpRRVcxSmN4UWR0b3pTUmNOM2dGUVNwWU1URWZOYnFYMFN2eDJsS1NvRko0Vm94d0FQR2JnQzM4ckd5WXBYcGJKQXkzQ3R3NGtFTmFXc2RnU2ttcm1FbVNvaWgzN0NZUGVidGVsMWRqdmpydUHSAacBQVVfeXFMT1d2LXdacjNKSmRBb0dGazVDRmJiN1Q0YmxLTGNwRFYtdDJqdHRZRTlNdEh4alVyZVYxNFJ6VDdQSFAySDhfdmpqOXFzc01yWE9HeDMzTVNYa3RHRG93cmJmQmt4aFFRalh3RS13NkJnV183c0N1Q3ZiM2huaU16b0hYV000MzBWSF90TEc2T0dGRW1ES1ZCMXJaNS1oSWZta19qRkdtY2s?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-05-07T03:21:33+00:00",
-      "description": "Drone Drama: Foreign Aircrafts Crash in Latvia  Devdiscourse",
-      "query": "drone incident",
-      "detected_at": "2026-05-07T05:11:26.890993+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "cedab23b178e"
     }
   ],
-  "last_updated": "2026-05-29T21:36:55.187031+00:00",
+  "last_updated": "2026-05-29T22:33:41.629188+00:00",
   "total_count": 1000
 }
