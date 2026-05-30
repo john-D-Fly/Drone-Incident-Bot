@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "FIFA World Cup 2026: FAA establishes no drone zones for stadiums, events, and team camps - FOX6 News Milwaukee",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEJLcW5rd2ZWcVhfVWRzQURBRksyZG9RU0JhQlhHTDNWeU5PZHhTdDNvUTF4N1YtOXlNNHBSOTB0Y2VjMHVKRHNFV2Y1OVppNlU2a201cTFfNmFCRzV0SGV0aS11dk1zT2VwdVZWMzRGUUhPR2QwVDlmbUFOM2xSbmZUbVpsdTNjU0k3a3FPOWRqdTIwQV83bktTTTV4VkZhOHFRUldjcGZ5Z9IBrwFBVV95cUxQNGJUY1V2UDYtSU5LZ0pkT05IRXgyOFd2OUduQjRhTHNhamV6TWxUaVQwbnNkbkVRbldvaVJNWXVKN3pDRFZfREl3SFdZMlhUSzFmR0JLSkxwNGltcThGSk12X0paRmoxUF9EZ2Q3d0lEVnQ4enU1S3JWU0RlamF0dEE3bWFJdkNGWXMxYVc0bmVlUkdaeGQ1QnhnRkcyc2NIOTVfbHhSUDZ4RzIxd2JF?oc=5",
+      "source": "FOX6 News Milwaukee",
+      "date": "2026-05-28T20:02:15+00:00",
+      "description": "FIFA World Cup 2026: FAA establishes no drone zones for stadiums, events, and team camps  FOX6 News Milwaukee",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-30T01:40:11.584945+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c25f5b9ed3af"
+    },
+    {
+      "title": "FAA Creates World Cup No-Drone Zones Across U.S. Host Cities - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnBvbFRkUVRIbDFXU3dORVc3LWdROUVOS0taWTZkVHJxVE02dEczeTdRYjZTdllnLWdFckZxRTVfWmlNeXY1MF9HRE9Uc0tJY20zdHR5cHZ6cDBBUFVjUS1pdHh6MnYzZmZFd0lNbVhaVDE2Ny0wVXlKNlpiOTZhMmZ1T3Z0OGhCUGJ0d1paUS11dzJPVHU1MQ?oc=5",
+      "source": "Dronelife",
+      "date": "2026-05-29T19:31:26+00:00",
+      "description": "FAA Creates World Cup No-Drone Zones Across U.S. Host Cities  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-05-30T01:40:11.584945+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "54272f68c525"
+    },
+    {
       "title": "Russian Drone Hits Romanian Apartment Building, Officials Say - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1N6YWU1STJqMmxidGtvSWZkajdJZk9TQ3B2YjRnOW02TE9fenRLbTZNUDFaZHNEZkt0VVlKVlZIMjNDV2xRUEZTZzZRaUFURkxZLVd1R2NEcm9oU2pkZi0xYVlFRjJILUFpZ0xCYTFsZEN6WUdmLWhTd2Z4YVNiS1V5RjM0M3R5?oc=5",
       "source": "The New York Times",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "43a6ade4925a"
-    },
-    {
-      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
-      "source": "LSM",
-      "date": "2026-05-07T08:53:25+00:00",
-      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2026-05-07T08:57:48.362226+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8750ea2eb59b"
-    },
-    {
-      "title": "Drones in Latgale: No Signs of Terrorism, Parliament Urgently Convenes Security Commission - Inbox.eu",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlNONVBQaVltS1F3bzRXNEx1SlpuYURpVlB4akF6am43S3k0YkFUYVRNbk9BemloUGJoaTBYcjFYZjVkaGNnNW56RW5WclVOXy1RVzRSXzRWN29NUmtxT3ExOF84b0NIa0FDX1hBXzcxS2ozOE0wQzM0R3RhUktnaE9KOGd2Wko2UlV5VzRHR3ZXbGxzMmxwSWtwb0w2dmN0MHdWYzBRZE92dEw4OHNYOU84UTg3WTA4Vk00eHlvclRfZkNFU24yN3p3?oc=5",
-      "source": "Inbox.eu",
-      "date": "2026-05-07T06:22:58+00:00",
-      "description": "Drones in Latgale: No Signs of Terrorism, Parliament Urgently Convenes Security Commission  Inbox.eu",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-07T07:05:06.988941+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "e8c1dd3abf9f"
     }
   ],
-  "last_updated": "2026-05-30T00:51:18.085285+00:00",
+  "last_updated": "2026-05-30T01:40:12.041238+00:00",
   "total_count": 1000
 }
