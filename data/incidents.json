@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Crash of a Russian drone on a residential building in Galați, Romania - consilium.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOU03VFg5QmJGaURWeGZmaVhvREtwM3h3S3FBRmp1dWZEc0dtTTlmanN2b3cxRDZNRjlUckN0X3g2UTFqak5WSkdZbDQ1UmR4MXV6U2gxMDFnSTRKaWs3R253amxrYjhTVTc1bnZ1b1V1a1ZRckt1RHBzNVUzMUJ0N05UaU1UQ2xhWm8wRTFEazFJQQ?oc=5",
+      "source": "consilium.europa.eu",
+      "date": "2026-05-30T02:31:41+00:00",
+      "description": "Crash of a Russian drone on a residential building in Galați, Romania  consilium.europa.eu",
+      "query": "drone crash",
+      "detected_at": "2026-05-30T07:05:34.030728+00:00",
+      "location": "in Galați, Ro",
+      "category": "crash",
+      "id": "1c5fa8d5240b"
+    },
+    {
+      "title": "MNPD drone program makes first arrest days after launch - WZTV",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQZDQ1enRVMHFKODZJWkRvMjVmNE5hSkNCUDRObmszRE9HY29reVZyVEt0MjZDQ242LXVfNUdYLTdzeWREa0d0bWdGSlJLR2F4TXpTNjFlZ2FtN3N0QkRuOWYzZDBMVjQzbHZBV1JkMkp3UnBTMGxveTBLUnhMcmlYczQyTWZXeU8wSC05UVVKeFJOR0VSZEM5TGdlRHNFcjNzemo1Si05ZjNTZEI4bDN3cVlUcVBKeUd0bTlnWXNHSXRoSDRXelJ2UkZQbUZRNEtkZU1EWjlTQ1BrMldDQnB2OWxocjhzRlpYbTVJak9DcnZoMkIyVnJnLVlaWXpYbm9zWEJib1NIWWI2bzdyT3hoQTNpWU8tb21Da1hVSExpeUVpRHJFVzhiRGxEMXQxWkdUZ0pOY1VJZmUzeWM3eUVmQ0ptckEwQmJ4Q2RKZzJDbl9jNnNLaXpodkJWQQ?oc=5",
+      "source": "WZTV",
+      "date": "2026-05-29T06:40:08+00:00",
+      "description": "MNPD drone program makes first arrest days after launch  WZTV",
+      "query": "drone arrest",
+      "detected_at": "2026-05-30T07:05:31.046840+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ac518591ad9e"
+    },
+    {
+      "title": "SWAT, drone team help Fargo Police arrest suspect in early morning standoff - Valley News Live",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXN6RWFESTk0WEtKNzB2dFRLOFJSVmU2V0pSV3ZKR2xxUmMwUWlhOGQwdm1qMXBJVFFudVVPSzZqOWVxSWFuVW9OMG5RLV9KcEd3TVJ1a0ljNUN1Umk1RzA0RVpZXy1SQ2lHcUZyYW5Sc3o1Z21Pd05Gd2c0S0Nwd3UxYWxoQWdkUC1JT2NwNmItWm5qZmhTcl8yNVp0clcxaW9MYTNKYVpDZVFCTFAtUGIxLXhpNTVSdnN5Yw?oc=5",
+      "source": "Valley News Live",
+      "date": "2026-05-29T22:19:46+00:00",
+      "description": "SWAT, drone team help Fargo Police arrest suspect in early morning standoff  Valley News Live",
+      "query": "drone arrest",
+      "detected_at": "2026-05-30T07:05:31.046840+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "63b258db4e68"
+    },
+    {
+      "title": "Could NATO Invoke Article 4 After Russian Drone Hits Romania? - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WaGNOV2NEdTh0bHBFcmJMR0locmREYmxFTnEyVE1HV3hBZ2tTZmU3TVcxUG5BMXF0eGV2dldZTWs5SGZwby1fOE94aw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-30T06:21:55+00:00",
+      "description": "Could NATO Invoke Article 4 After Russian Drone Hits Romania?  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-30T07:05:30.284936+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "08490b6f75fd"
+    },
+    {
       "title": "NIA Raids Across Four States in Pakistan-Linked Drone Arms Smuggling Terror Case - Daily Pioneer",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlJITzNJMEdNVlVxSXA3S0drLTBUZTBVeUxxTF9HRHp5VUVZcnJISGwxa2lKd2JQbHoxNWEwUnhVZWVubTlLR2xKLU5heUJ1S3VQN0ZKVlEzNTNGTS1rM1JBa2l1QzFZeWdab3JhMEphQnl6RUVobXJ5dFhkTWh1ZnVfak9TRmZMZ1E?oc=5",
       "source": "Daily Pioneer",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "81c2d1ab7331"
-    },
-    {
-      "title": "More drones crash in Latvia / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamU0dXRTY2hiRzgxM2FoSHFoVG9kTzNaTnBJTXF6NjNqdnA3MTdjWFVDclFWTkRXbTV6TnlNRjc1MDdja3dldlpDVjAyMVdHZnp4M24yVGl6d0txWWRGZjBXWnY3cFVmcGhrb3NpV0tyRlpKS3pkWWh0YVNKQm40dkUwUnRTVG14eVZCQ0VJaF9VbDZ6?oc=5",
-      "source": "LSM",
-      "date": "2026-05-07T03:35:16+00:00",
-      "description": "More drones crash in Latvia / Article  LSM",
-      "query": "drone crash",
-      "detected_at": "2026-05-07T09:57:07.886914+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "de41b5bd8334"
-    },
-    {
-      "title": "Essex County Prosecutor Warns FIFA World Cup Events Will Be Strict “No Drone Zones” - RLS Media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOW4xaVdvXy1VZFpiMWRwSlJWNDRmRDRTWGVoeVgzeVVGOVpEMVFTakVGM1ZXRG93azR4eHB0Mkw1bFp0cHh3MFBnOFB2V19Vc0J0RFBITmMyM3RTWXBpTm00WVp1ek92T3hqU2UxeFJsWGZ3cU5wSmFOSW8wTjAyYVBBenNFSUE3TDE5cGwxLU5xc2hOUDlzQVpHMXV5c3BhdE1YRFZWTTI2enJfakVsenBGUGw?oc=5",
-      "source": "RLS Media",
-      "date": "2026-05-07T08:21:34+00:00",
-      "description": "Essex County Prosecutor Warns FIFA World Cup Events Will Be Strict “No Drone Zones”  RLS Media",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-07T08:57:53.364044+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0c1b66462c8b"
-    },
-    {
-      "title": "DPS Secures Drone Mitigation Technology Ahead of 2026 FIFA World Cup - Texas Department of Public Safety (DPS) (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVA4T2V3UzRYM0piZEZfMGZLUmNFUHpkVzluVTk2ellQN2FWX2Z6bnhrQUVJMWg3QUFBaVRGQzlRdkdsSFdWR2dSTlBlLTdQRHlHTk5Pb1Z0bmJaUHZ2Y2VFeXlKcFdwSTI4dV9VREtsc1FJc0NER29WWVZPYVZzSk1xQWp6Z2FSWmFMSV9tSzBzTXdXaWNJMm16V2s?oc=5",
-      "source": "Texas Department of Public Safety (DPS) (.gov)",
-      "date": "2026-05-06T16:10:46+00:00",
-      "description": "DPS Secures Drone Mitigation Technology Ahead of 2026 FIFA World Cup  Texas Department of Public Safety (DPS) (.gov)",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-07T08:57:53.364044+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6375298744e2"
-    },
-    {
-      "title": "Two drones crash in Latvia after entering from Russia, army says - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM19vWnlkTWoxZnFheW9xdXFseUl3RTVhcHROOEpVWUFMQkxpUzdma3VtZXJqYWlhZHdYeXp1eC1mdWwyRFdlcVU1REl1WWlFWmEydndqOEF6RFJ4a0JvdnBodkhDNnhGeWNPUi1TdW15Mm9HREpad3lKc25CQXE0cXdFNk0tSHoxdVZ3QWo4SlU5MkU2SkhzQg?oc=5",
-      "source": "TVP World",
-      "date": "2026-05-07T05:05:00+00:00",
-      "description": "Two drones crash in Latvia after entering from Russia, army says  TVP World",
-      "query": "drone crash",
-      "detected_at": "2026-05-07T08:57:51.314963+00:00",
-      "location": "in Latvia after entering from Russia, ar",
-      "category": "crash",
-      "id": "45ed167448e0"
     }
   ],
-  "last_updated": "2026-05-30T05:20:37.220954+00:00",
+  "last_updated": "2026-05-30T07:05:37.327329+00:00",
   "total_count": 1000
 }
