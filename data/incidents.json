@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "WSJ: Hezbollah’s FPV Drones Are Main Cause of Israeli Soldier Deaths in Lebanon - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cnQyWnZTUy1RQ2hneHVNenVKd0hZaEtFSGZUdWpHUWh2OVdtZzF3NDhPOVozM2FIOG9zWmVZSDVDVGpqSVNFNHZLXzhXUVZjemhSSHhCTEVfeHZ1QjV4Vi14STBPSm1aaV9kV1NxalNKZFNjQThHdGpmbXRUeDQ?oc=5",
+      "source": "Мілітарний",
+      "date": "2026-05-30T11:39:40+00:00",
+      "description": "WSJ: Hezbollah’s FPV Drones Are Main Cause of Israeli Soldier Deaths in Lebanon  Мілітарний",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-30T21:23:16.895723+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2f03a0a16d6c"
+    },
+    {
+      "title": "Flights Cancelled Throughout Europe As Germany, Spain, England, France, Netherlands, And Denmark Cancel 122 And Delay 2,298 Flights, Disrupting Lufthansa, KLM, Vueling, Air France, And Others In Munich, Paris, Barcelona, Berlin, And More - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRlFjZkFLTk5DbXBiaDNoUkxhQVFJTVJHZFFhdzRHSUhuSURJNHFjQmFOc1pyRlBQX01XdXJ5WXVFMUNqMVBTeTI0anlzWFdKX1pTYWJCM21EUEtpZzN3bnhPV2FsaEdxMkFMSER3?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2026-05-30T18:18:26+00:00",
+      "description": "Flights Cancelled Throughout Europe As Germany, Spain, England, France, Netherlands, And Denmark Cancel 122 And Delay 2,298 Flights, Disrupting Lufthansa, KLM, Vueling, Air France, And Others In Munich, Paris, Barcelona, Berlin, And More  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2026-05-30T21:23:14.654349+00:00",
+      "location": "In Munich, Pa",
+      "category": "interference",
+      "id": "caebd9fbfa5b"
+    },
+    {
       "title": "Belgorod reports fresh drone attacks - Breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkhDbUY2akVDQmk3QkhDSjNHZ0lHbHNlam9fOGQyTE16WnNkNEIxdUxiOTVFQnpLNjIyd2lXWWtRTjFNVFo0bHdza3dIam9KcUM5bm9lZGhaUjU5bWozTTdhalVXSHB3Unl3VkI1eWZBT0tmV1BlRjJBVEN5bDZHMGxscElUQVd1?oc=5",
       "source": "Breakingthenews.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "e70ffe03a87a"
-    },
-    {
-      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
-      "source": "LSM",
-      "date": "2026-05-07T16:37:39+00:00",
-      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2026-05-07T18:38:33.525007+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e6e590bbdb2e"
-    },
-    {
-      "title": "Drone Captures Drug Deal, Man Arrested In SMC: Police - Patch",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNM0lWYTFDSWpYSGRjaVc2MjhvLUY5RVJncWNwRG9Lc3dQOWdfWXRCdXRvYlV5c092d0VJRmJnX2NnRGFEdFlCdkd2Qm12c0JaQ3BCOTRFT2tTWUtiejJ4Z0RKMjltblRYdGRSOTJKc21jclpNMEgxZERBc1BUeGVRVmlEOHh3eHA4S2hKQkhRREJZUzV1YTFyaE85em5aWm1Gdi1SNjJmeHdrNWlzaC0wb2w2akM1UXRKME5WbkducG5pWFVJZFEyNmtpODZqMmZDZENZOUNUWXg5ckFDUXJUOUJUVnhBam1jVEtKS1pjaXJSNFRWWUYyTEVRbmx2TGVrQkNSSkp1TV9jWEthQTVqUkJNVkNuSnBtQldWcDlERDNLYjhpRFdVUUJ5Y1c5Wk3SAbQBQVVfeXFMTUNqMkxtMm5DSjFHY3RVMzMzcVpiaDU4MWVEVTBtTkRYLVhVdlhGRmdnVDItOTN5bGlUTno4OGU1MmNhNHVKcUNVbzVsRUVFVXdlRHJVUW1MNnN1VXJBTHNjUU9URjNLMVpLTFdWU0dpWVpHcHdnX2hLSlFpYVNrUDV4TGstdHp0ZnBITVQ5QkhVV2dsaHFGTG11d0ZQeWJhQU5vckh6VEd2RDlpNXJ4RkEzTXJm?oc=5",
-      "source": "Patch",
-      "date": "2026-05-07T16:55:52+00:00",
-      "description": "Drone Captures Drug Deal, Man Arrested In SMC: Police  Patch",
-      "query": "drone arrest",
-      "detected_at": "2026-05-07T17:36:02.706059+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "9e7b1f0a78cb"
     }
   ],
-  "last_updated": "2026-05-30T20:25:04.125505+00:00",
+  "last_updated": "2026-05-30T21:23:17.890295+00:00",
   "total_count": 1000
 }
