@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Eastern Flank Alert: Tusk Demands Stronger NATO Response to Rising Russian Border Provocations - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95bElwaHBPcDJoM1luQzJRQTd6bkllU0RzYnNWZ0Z2clczT1BfS0dSWUlTNm9UM3hKS09zY0tmZVVDSnJQd0VPMWFGUQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-31T06:22:30+00:00",
+      "description": "Eastern Flank Alert: Tusk Demands Stronger NATO Response to Rising Russian Border Provocations  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-05-31T07:23:19.900179+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ece60ce2017b"
+    },
+    {
       "title": "Glaciers, Salt Islands, and the Drone Crashes That Taught Me Everything - Yahoo Lifestyle Singapore",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEo3SWR0ZGJNS2ZzMkx3ZjhMSTlyb2ZBXzNtdERqdnYyeFp4X2QzNkViNGUtaWQ5X1RHSlR3VFlqOTNaTlVnY1hUZWhzOWhhM015SmtpOXNmZWlBZWtORmZYUmFLT2FwOXp1azJ1dDBVQTVEQ01qVU9LOVl2Qy14d1ZCdw?oc=5",
       "source": "Yahoo Lifestyle Singapore",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b9c4bc164cb4"
-    },
-    {
-      "title": "IDF intercepts weapon-smuggling drone at western border - JNS.org",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWJEWFRjbGxrVkxqTUhWYUFiUWx2Vm9KTU5uTl9VSjdkNUM1SFBhZE0tMTFDVUtERHBjNWk1dWxxVEdSNVFMVWN3YnVZT2x1Q1psSlkwdk03N2ZIZDhlQjNZODNfT2Y0MlJublJ3Y3huc3dwRzVhUWFncTJJTjFXZmp1M0VRLVlRNWk0U3YtalpFbFk3Ulo4?oc=5",
-      "source": "JNS.org",
-      "date": "2026-05-06T09:07:21+00:00",
-      "description": "IDF intercepts weapon-smuggling drone at western border  JNS.org",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-07T18:38:34.549121+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "972033c6cb25"
     }
   ],
-  "last_updated": "2026-05-30T23:24:41.992486+00:00",
+  "last_updated": "2026-05-31T07:23:25.286497+00:00",
   "total_count": 1000
 }
