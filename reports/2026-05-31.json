@@ -1,0 +1,135 @@
+{
+  "narrative_summary": "In the past 48 hours, Romania has faced heightened tensions due to a series of drone incidents linked to the ongoing conflict involving Russia and Ukraine. A Russian drone crashed into an apartment building in Galați, resulting in minor injuries and prompting NATO and EU officials to condemn Russia's actions. Romania has signaled the possibility of invoking NATO's Article 4, which could address threats against its territory. Multiple reports highlighted issues of drone smuggling and threats posed by unauthorized drone flights, with rising fears among residents in affected areas. The geopolitical implications of these incidents are significant, with discussions around security measures and NATO's response featuring prominently in global discussions.",
+  "totals": {
+    "crash": 17,
+    "interference": 5,
+    "other": 26,
+    "smuggling": 7,
+    "arrest": 10,
+    "total_incidents": 115,
+    "by_category": {
+      "airport": 13,
+      "arrest": 11,
+      "crash": 30,
+      "interference": 1,
+      "other": 45,
+      "smuggling": 13,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 9,
+      "drone arrest": 9,
+      "drone crash": 25,
+      "drone illegal": 3,
+      "drone incident": 41,
+      "drone prison": 2,
+      "drone security breach": 1,
+      "drone smuggling": 12,
+      "drone terrorism": 4,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Increased incidents of drone crashes linked to geopolitical tensions in Romania.",
+      "incident_ids": [
+        "9c35ab570190",
+        "55b82728d2a6",
+        "6b97fa718404",
+        "32eea6a3a879",
+        "caebd9fbfa5b",
+        "f93d04507f27",
+        "1bb45cba7216",
+        "2f035964b822",
+        "72d739d21d8d",
+        "f0cca109613d"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Concerns regarding unauthorized drone operations affecting public safety and national security.",
+      "incident_ids": [
+        "e04e09108b82",
+        "e69ada14c422",
+        "c72a3898ea44",
+        "aca6e6af7fc8",
+        "2f03a0a16d6c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "55b82728d2a6",
+      "headline": "Romania blames Russia for drone strike as NATO vows defence",
+      "one_sentence": "Romania has attributed a recent drone strike to Russian forces amid escalating tensions in the region.",
+      "risk_tags": [
+        "drone terrorism",
+        "national security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "caebd9fbfa5b",
+      "headline": "Flights Cancelled Throughout Europe Due to Drone Activity",
+      "one_sentence": "Major disruptions were reported across Europe with hundreds of flights canceled due to drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Germany",
+        "Spain",
+        "England",
+        "France",
+        "Netherlands",
+        "Denmark"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9c35ab570190",
+      "headline": "Putin says drone that crashed in Romania likely Ukrainian",
+      "one_sentence": "In a controversial statement, Putin claimed that the drone involved in a crash in Romania probably originated from Ukraine.",
+      "risk_tags": [
+        "drone crash",
+        "international conflict"
+      ],
+      "countries": [
+        "Romania",
+        "Russia"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "93f0e22e1ca0",
+      "headline": "Expanding Scope of Anti-Drone Market",
+      "one_sentence": "The anti-drone market is witnessing expansion as nations enhance measures for detection and neutralization.",
+      "risk_tags": [
+        "security policy"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "c3afa65f3c0d",
+      "headline": "Drone carrying drugs, phone intercepted at Queensland prison",
+      "one_sentence": "Authorities intercepted a drone attempting to smuggle contraband into a prison in Queensland.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents escalate in Romania amid rising geopolitical tensions, with major implications for NATO discussions.",
+    "linkedin": "Recent drone incidents in Romania are reshaping discussions on security and NATO's response strategy in the face of escalating threats."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-05-31"
+}
