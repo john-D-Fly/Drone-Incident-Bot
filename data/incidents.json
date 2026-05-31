@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Fake Claims: Ukraine Dismisses Russian Lies Over Alleged Zaporizhzhia Nuclear Plant Strike - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wRWxZN0VuZUd5bk9nWDdHQ2ZjWnZWd0thNGg5WU9PZVpuYzBFalVqVUZfYUh4alFjdWwwc2RGYUxZMVB3ZjBvVUN4SQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-05-31T05:32:06+00:00",
+      "description": "Fake Claims: Ukraine Dismisses Russian Lies Over Alleged Zaporizhzhia Nuclear Plant Strike  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-05-31T11:34:27.074333+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bbb439e2cb60"
+    },
+    {
       "title": "Romania blames Russia for drone strike as NATO vows defence - MSN",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmd4TU45OWhMM28wN1dHMHhmVVBScnRUNEdCdk1CQmxrTHZlUjYwQVVvdnk3bnBoaEh3OElpTU43d2Rya1J6OS1oTmpxa0RuaTJwSmR6bTdBUjFvR0dVWlVZZXlNUmJmTzQ1R3VReVhxNXB3TnkxZElOQ1pSRWpsTWVld256M21WRk1KYTJJR3A5SFdhUEFNZG9Qc1l3cHZSbFhnRUdjUWFET2tTWjhLNlJkR2swekg1NmlsbDN0NHY2eFZxWlpKMThQZVB6LUlBV19qZTRIM0ZXNTNESW5LOS1jdzVIRzdOa2Fmd1RWbDVycmgx?oc=5",
       "source": "MSN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "3b783106fc1f"
-    },
-    {
-      "title": "Fact-check: No, a Ukrainian drone didn't hit a passenger train in Latvia - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXVCbDFQNFp5eDhyYjZHc0dOUUo3c2VkbEoyU3FfVHQ0QnZfTU9rUkJKcnZoNXdNQXgzakMyYzVpVV9NT0xwUkg2SlJUV0I1dXUxa1JRRWM2ZnlydTJvay1lbnRUUFh3QVdPbDVvOTE0d0IwOHVjT0N3YUpMNHpUaVRCNnFtdjNoN0t4UTh2ZVRLU1hIQmo3MGl3?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-05-07T15:18:05+00:00",
-      "description": "Fact-check: No, a Ukrainian drone didn't hit a passenger train in Latvia  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2026-05-07T20:30:29.767954+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8ed8c3dd472a"
     }
   ],
-  "last_updated": "2026-05-31T10:41:32.074482+00:00",
+  "last_updated": "2026-05-31T11:34:28.185239+00:00",
   "total_count": 1000
 }
