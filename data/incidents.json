@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Motorola Solutions to acquire D-Fend Solutions for $1.5B - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFVzeUJuZE5vMkpIaDcwdEVQUEVUSUwtSm1zYk9zdm1lZmVtV3Z3QWtIUTRzZHdMVFJ4elp5N2FFbWlOOGgzQ25IMnd0ZWlXV3pGNFZpbHRHdkVJR2tqX0Y1dy1JRTZsVlZPUUpqODFJRXpxRGd2dVpqT3VkczE5a3hzQkxuR1hyeGFmLWNMNUFSZ0tVYkdz?oc=5",
+      "source": "grafa.com",
+      "date": "2026-06-01T14:30:58+00:00",
+      "description": "Motorola Solutions to acquire D-Fend Solutions for $1.5B  grafa.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-01T15:06:35.842056+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a812915ae1f1"
+    },
+    {
+      "title": "Romania blames Russia for drone strike as NATO vows defence - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmd4TU45OWhMM28wN1dHMHhmVVBScnRUNEdCdk1CQmxrTHZlUjYwQVVvdnk3bnBoaEh3OElpTU43d2Rya1J6OS1oTmpxa0RuaTJwSmR6bTdBUjFvR0dVWlVZZXlNUmJmTzQ1R3VReVhxNXB3TnkxZElOQ1pSRWpsTWVld256M21WRk1KYTJJR3A5SFdhUEFNZG9Qc1l3cHZSbFhnRUdjUWFET2tTWjhLNlJkR2swekg1NmlsbDN0NHY2eFZxWlpKMThQZVB6LUlBV19qZTRIM0ZXNTNESW5LOS1jdzVIRzdOa2Fmd1RWbDVycmgx?oc=5",
+      "source": "MSN",
+      "date": "2026-05-30T16:01:35+00:00",
+      "description": "Romania blames Russia for drone strike as NATO vows defence  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-06-01T15:06:34.596870+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2058c15b8bc1"
+    },
+    {
+      "title": "Munich Airport Shut Down By Drones, Again - DroneXL.co",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0dkVudzFWOGtLaVVzNlVBNHUxa3J5OFRxS0lBaU05VFRreGVBNDRpS1JueVZQdjJCcDdCNmNfNUdHckF2YzB1MWRDZDJEaEVGRjFKMVZSeUpHQWRqdlV4QUFlbVRyVmxxaUE?oc=5",
+      "source": "DroneXL.co",
+      "date": "2026-06-01T12:12:44+00:00",
+      "description": "Munich Airport Shut Down By Drones, Again  DroneXL.co",
+      "query": "drone illegal",
+      "detected_at": "2026-06-01T15:06:34.004629+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "800d7c95afd5"
+    },
+    {
+      "title": "Drone helps capture man suspected of shooting of 2 Virginia sheriff's deputies, killing 1 - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlZ2MFNGRkNKZktLdFJzRjNOendOSlFoY3BPMTVlcS0xeDFzY1JiemhaNzBGVVpOcmk4SFlXNW43cElabWR6VXh2dHJxemtlM2IyLUlZeTdSVHZ3QnlEX0lmUjV6dzdOaGJ1ZlJDV3E5TlpNNXRSX28tWnFORmxqZnFSSGFpcWVOSVVxY1pjYks4MUx3VVHSAZsBQVVfeXFMTWxiTXlqXzJkd2lQUFAzRC1pZ19tY2YxdFBuUHFzRXlHREpTUDZ1cm1RQTBJVTNqUXlEZ2FNYVBfMk16Z21mWUo2am4ySmQxUVNjdkpGU1ljMDFQeWFSa09MZjgyZW1JSFRaZFNxZG1QQ1JFVTZqeHBYN1JQN2g0U0hLSk1UNzVVY09JOGxkTFJnaklkYTJkeGN0bGs?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-06-01T09:58:07+00:00",
+      "description": "Drone helps capture man suspected of shooting of 2 Virginia sheriff's deputies, killing 1  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone arrest",
+      "detected_at": "2026-06-01T15:06:30.758420+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "762cab23c851"
+    },
+    {
+      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDJMSTB1V0xQRzdnbnJzT2pUVkEyZXduZjl6RVNkb1pJOVkyajlPY1VXZTV3UlFEV2tjQlhlQjJKcUFOQXBBU0REZFF1aEpQSmhSQmtnTFVtMUVZcW15eFdkeFN5ZzFWX2ppdEg3VWNNQnlfWjBxVEpmaGJOVjhhSGVBNVdwNlkyRnEyc2RpNEI5blk4T19HS2RPZUExMXJOMjRvVFhydw?oc=5",
+      "source": "AP News",
+      "date": "2026-06-01T14:03:02+00:00",
+      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  AP News",
+      "query": "drone arrest",
+      "detected_at": "2026-06-01T15:06:30.758420+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "58f39a97b707"
+    },
+    {
+      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - Carolina Coast Online",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFp1aTNOMkhrdVJyMnFBTTh5YnZNMjY2R3pkaVFiRVBSQ3ZWMmltMUxYWU9qbkVhY3ZET1lqWkVuSlVXaFJxaDBvZHNjek1ZdlYwbzJEZXllOUpKTThOeWw0cVhXMVlGcVhqVHFJZDU5STdxbHNpSUJjNmxuSkgtSFB4UWZpZ0E3eEw0WXRleGhIYWxwbXZsQ2d3?oc=5",
+      "source": "Carolina Coast Online",
+      "date": "2026-06-01T14:17:00+00:00",
+      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  Carolina Coast Online",
+      "query": "drone arrest",
+      "detected_at": "2026-06-01T15:06:30.758420+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "6aa548c769b6"
+    },
+    {
       "title": "One person killed, two dozen wounded in Russia drone strikes on Ukraine - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamthNzg0RThHX0ozYzlheHhlZ0cwZ3Z0cXg1YTNXTFYyeEFwc3pBQ3ZIVmp1M1VlVEV1VXc4UlB1Y0lFM1FCMDUySGVKNXptNzlUcld6dkpNbWdETHNlNS1lYmlWYnZRZHlNd1lDTllqVldYN092a1loZHlZVnBqU2dkOGVKeDYtZVRTN2ZRQ1JCeXNvTEhkVm9XOGFESGZ0d1RxZGRtU3RZOS04NEtfeXZ1UzBMbXRoTzA2RENhRUZLV2czY00wVEJvTUZMa2R3MzdwUUtSRU1CNzBETlHSAeMBQVVfeXFMUHRUTFNHLWNBNWpjTzU1RW54RXVjZE0zSEZoOXJlMlhZWUZqaU53Z3hEbmk4aFB0c0duUENNUTBXZWtKeEdZS21BZXltS09yYXNUUGJrTmRPaE9XZkExbGNPNEcwWXFEdHJ0SmtUQThtbUZDeHBOWFpCYlVoNTN5LU1CRU1sT3ZSYkpnQ0hzNG8yb0ZmU3JsamZlTGVZendiQjB4eVVEckluUWU4SmUtUzJCcHp4ZHp1UWlpd0FKLXZyRXJaaWExVnBoLVFpLV92NjM5S0d5YUtWaVE2Z3o5VVkxaHM?oc=5",
       "source": "The Times of India",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "23f7dca81c37"
-    },
-    {
-      "title": "Latvia to beef up air security after two drone crashes, defence minister says - Euractiv",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3NnSHdpYmFMOGZpNWRrdGQ5TTM4TEpyXy1KS2VXckhGNkYwWVhTTUIxdVhzQzhDWGYwc3dBTEV1N2NDM1dxTzNrM0lIMWZtN0NMT2ZpQWg3RXlSemNyTmtOTXhNTjhOZGZ5WTZtN2NrbnI5bmgwQi1raW9CTzRrSFFrNFJHZUJpaVZPbjd0aEpjaGxHRVZPVk5xNVNYX29wZEFUdkw1Q3lNNlE?oc=5",
-      "source": "Euractiv",
-      "date": "2026-05-08T12:15:22+00:00",
-      "description": "Latvia to beef up air security after two drone crashes, defence minister says  Euractiv",
-      "query": "drone incident",
-      "detected_at": "2026-05-08T12:33:57.469278+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "124fa28a4897"
-    },
-    {
-      "title": "Ukraine weighs sending security experts to Baltic states amid drone incidents - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNU5SWEI0YWpNTmxnWVJpbm1IZDRwaGdXUjFmZDhYVnZSUmhZN3ZmaDFLS1JoZWpkdFowYWhyY1JqMXp0dVdOX3ZHNWhEWHY3XzhIeFcwRHRreE94TGNlczlxWHpWNUNnODdVOVdzOTFPTjdoeFZnQW9sMXFud2VTTUpRT3hhVDBtaDM0Q2E1MExNUkZTYmhYdURDNS11TjJpQlNseW9tT3VETTFzQ3hhOGYyTnF0RXJLa2ZuelBmSXc?oc=5",
-      "source": "Reuters",
-      "date": "2026-05-08T12:13:21+00:00",
-      "description": "Ukraine weighs sending security experts to Baltic states amid drone incidents  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-05-08T12:33:57.469278+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b934e8a5c2b4"
-    },
-    {
-      "title": "Hezbollah Drone Strikes Wound Three Israeli Soldiers, One Seriously, IDF Says - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZ2t4RG5fXzRlNWJXRnNuZ2hwZGZZOGJQUDBmcXBnTjhGOTlIdFJkcENFQXlaNndMYV80eVViUkdEVUludl8xOUNCd292UFBMNWJjcHNCdTZnZkVublR3SVpRYjdxS1RpUWdCYTBCWWl6bVhIc0JoQUV4RndHZG96LUZnZThYYXhWRDVNVXZCSzdqcGstOE5fcG9PRXBIQTkteHFfWmhOOTg3SXdXZndIUExhNXFGYnFVblhTejVxRWdfMExtel9mdWFacEZqRnlQYml4a2pQSFNpcXFPcjhyNTJjYTJRazJrOXlBXzhfb3RDaGRNWWRDWTZVTjQ4NFFSM0NvM3JZOW0wZFBmMU1DdmNB?oc=5",
-      "source": "Haaretz",
-      "date": "2026-05-08T10:42:00+00:00",
-      "description": "Hezbollah Drone Strikes Wound Three Israeli Soldiers, One Seriously, IDF Says  Haaretz",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-08T11:33:38.739306+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a2074d38ebb4"
-    },
-    {
-      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
-      "source": "LSM",
-      "date": "2026-05-08T07:36:32+00:00",
-      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
-      "query": "drone crash",
-      "detected_at": "2026-05-08T11:33:37.109864+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "601684e7a6da"
-    },
-    {
-      "title": "Chornobyl Forest Fire Triggered by Drone Crash During Moscow’s Unilateral Ceasefire - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RdWtGcFpSbV9iRUVIbGxxZ0xYWUtMelhKdUhKNWQ2dm8yb21ESUhId1VDeXZCRi0wSW00NGVGN3Zkcko0VDlZUWVLQQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-05-08T11:26:06+00:00",
-      "description": "Chornobyl Forest Fire Triggered by Drone Crash During Moscow’s Unilateral Ceasefire  Kyiv Post",
-      "query": "drone crash",
-      "detected_at": "2026-05-08T11:33:37.109864+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "7a98c28d705d"
-    },
-    {
-      "title": "Women tried to smuggle marijuana, phones, saw blades into Georgia prison with drone - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3VVVjlmeUJkaFlYZDNCUGRabzhVZWlLUTRXVHl4QzQyc2NYc0xrdXg0WmEydGVUS1Bfd1V1TzJqV0NlNndQY3ZJTVBZYlNCbEtjbnltLXdyVGd2eERLMll0bkFCVDJjTE9PMXJpV0M3b1g3OGJNaTctTFdvTGkwcDdFSGlJai1qVm85REVHdFJFdw?oc=5",
-      "source": "Yahoo",
-      "date": "2026-05-07T14:19:28+00:00",
-      "description": "Women tried to smuggle marijuana, phones, saw blades into Georgia prison with drone  Yahoo",
-      "query": "drone prison",
-      "detected_at": "2026-05-08T11:33:35.984101+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ba7bf27cff0e"
     }
   ],
-  "last_updated": "2026-06-01T12:02:38.095292+00:00",
+  "last_updated": "2026-06-01T15:06:36.454477+00:00",
   "total_count": 1000
 }
