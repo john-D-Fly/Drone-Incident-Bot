@@ -1,0 +1,157 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have significantly increased in scale and intensity across Europe, particularly featuring military involvement. Romania has emerged as a focal point for tensions with the recent drone strikes attributed to Russia, prompting NATO's response. There have also been drone-related disruptions at Munich Airport, impacting flights and causing widespread chaos. The presence of drones has extended beyond military uses, as incidents involving illegal drone activities harassing wildlife have been reported in Yellowstone. Meanwhile, in Ukraine, over 265 drones were reported deployed in offensive actions, further highlighting the drone's role in modern conflict. This surge in drone activities signals a troubling trend that necessitates urgent policy discussions on drone regulations and security measures.",
+  "totals": {
+    "airport": 2,
+    "arrest": 3,
+    "interference": 2,
+    "terrorism": 7,
+    "other": 33,
+    "drone crash": 5,
+    "drone security breach": 2,
+    "unauthorized drone": 2,
+    "total_incidents": 36,
+    "by_category": {
+      "airport": 2,
+      "arrest": 2,
+      "crash": 5,
+      "interference": 1,
+      "other": 25,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 3,
+      "drone crash": 7,
+      "drone illegal": 5,
+      "drone incident": 7,
+      "drone security breach": 2,
+      "drone terrorism": 8,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Military Drone Strikes & Tensions",
+      "rationale": "Highlighting the significant military-related drone incidents and their implications for European security.",
+      "incident_ids": [
+        "8f39a8aadf58",
+        "8dc00166b936",
+        "c80edf3fbf1",
+        "914827083f34",
+        "55b82728d2a6"
+      ]
+    },
+    {
+      "topic": "Drone Incidents in Romania",
+      "rationale": "Multiple incidents and reactions center around drone activity, particularly involving Russia and NATO responses.",
+      "incident_ids": [
+        "2058c15b8bc1",
+        "df04c53b3ac4",
+        "f0cca109613d",
+        "d5cd2e97c4f6",
+        "1531e6a110b3"
+      ]
+    },
+    {
+      "topic": "Civilian Drone Disruptions",
+      "rationale": "Disruptive drone incidents affecting civilian flights and wildlife raised questions on safety and regulation.",
+      "incident_ids": [
+        "800d7c95afd5",
+        "df04c53b3ac4",
+        "21326ee718c7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "800d7c95afd5",
+      "headline": "Munich Airport Shut Down By Drones, Again",
+      "one_sentence": "Munich Airport experienced significant disruption due to unauthorized drone activity, leading to flight cancellations and delays.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8f39a8aadf58",
+      "headline": "One person killed, two dozen wounded in Russia drone strikes on Ukraine",
+      "one_sentence": "Drone strikes by Russia resulted in casualties and injuries in Ukraine as tensions escalate.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2058c15b8bc1",
+      "headline": "Romania blames Russia for drone strike as NATO vows defense",
+      "one_sentence": "Romania attributed recent drone strikes to Russia, prompting military vows from NATO.",
+      "risk_tags": [
+        "drone security breach"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "762cab23c851",
+      "headline": "Drone helps capture man suspected of shooting of Virginia sheriff's deputies",
+      "one_sentence": "A drone was instrumental in the apprehension of a suspect involved in a deadly shooting of sheriff's deputies in Virginia.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c80edf3fbf1",
+      "headline": "Russia strikes Ukraine with 265 drones overnight",
+      "one_sentence": "A significant wave of drone strikes from Russia targeted various locations in Ukraine.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6aa548c769b6",
+      "headline": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy",
+      "one_sentence": "Authorities utilized drone technology to arrest a suspect linked to the homicide of a Virginia deputy sheriff.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f0cca109613d",
+      "headline": "Russian official warns Europe to brace for more drone incidents after Romania episode",
+      "one_sentence": "Following recent events in Romania, Russian officials have warned of potential further drone incidents.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Over the past 48 hours, drone incidents have surged across Europe, with military involvement intensifying tensions, particularly in Romania.",
+    "linkedin": "The last 48 hours have seen a notable increase in drone-related incidents in Europe, highlighting urgent considerations for security and policy, especially regarding military actions in Romania."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-01"
+}
