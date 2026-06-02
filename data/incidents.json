@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian drone strikes locomotive in Ukraine's Kharkiv region: Injured reported - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHFtYlU5b3FSOVBrZVItU2puV0NyWGt1LXplSGZhYXdoYzNoMUNTQUlFaEhHRGZhZDVaQ1JVdkF5Y3B1UUZmc0ZFSWxSallYNUVzRW9XRnVrbVpBeTRHQnlqYno5cGdtSUduWVdXMGpvdjFkRDVIUUpiODJpZjB5TkV5bnlTaGIwU3hMSFRhOFpycGJGNWc?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-06-02T10:51:51+00:00",
+      "description": "Russian drone strikes locomotive in Ukraine's Kharkiv region: Injured reported  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-02T11:32:44.301275+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "57833fe55674"
+    },
+    {
+      "title": "Spontaneous Skeyes strike disrupts flights across Belgium - Aviation24.be",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb3F2M3J5UW1LeTBSNzJJV1JkYVNGN0lDckZJZDZLRWFmeWl0NGRsbFZKZko4dWppXzRDdEhXYzdUdlpRdWxTWHRqM2M1NXkwYWxTX3p4Z0c5WHJTZGFUdFI3ZmxJc3F6R0piaTVZY3lXRXNhaHQtd3pHUU5hXzFtR1g2bWVIQmkyeXBRbWlHTUdlSWgxU2pURmktb2NYRy1MeDN0U0JmblVBZVJZR2o5WFBmZGI?oc=5",
+      "source": "Aviation24.be",
+      "date": "2026-06-02T05:01:47+00:00",
+      "description": "Spontaneous Skeyes strike disrupts flights across Belgium  Aviation24.be",
+      "query": "drone airport disruption",
+      "detected_at": "2026-06-02T11:32:41.959637+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c741511ae6c4"
+    },
+    {
       "title": "A fist-sized hole - Illegal drone hits firefighting plane during LA wildfire - MSN",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUh6Qk4zVWs0QW9fOHdjZy0tN0VsRmRuTmdpaTE4alFxUUw0SnVCMmVRaDMybTUzdWlzSWozYmNTcWt2MElkbzdZRGEtZG53aVpZdTUyakxndFFPWWFQWGJBMUQyRnlfaFJhaXQ2UnZWMkN3aURqal9zN29kVUtoaVo4bVZMdVZBeklRcDBNbHUteUlEUWg0RlFSZ0RQV3B6bnpsOGdxbnRWSmFmSE1wcDRTOGxpYXhKV1JVTDBtOVI3UjJ5?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "7ee791ed2a36"
-    },
-    {
-      "title": "Drone strike on Russian air navigation hub closes 13 airports and strands 14,000 passengers - The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXhfX01IZk93OFVzVUlTVGVaVWxMZlFjQVAxQS13anhvOC1IRURZNFo1SG9BVzYwb2EySVlRZnplUllQOFY3SFBPc2sxbkdEbkY5a05jV2tHVVRod08wUnB1VThYeGZ3LWZuOFZUZk1JVGpKWEtpa2xCUUpXd0U5c0NSazNSMDMxRWU0dDJQbnNEa0VES1FLdlNuRFdJNVZhY21NMmh2UHM0b1BsakEycGFtV1lwMXpveElKRnZR0gG6AUFVX3lxTFBoTGhDOUM4NkJ2eEpJTkhtTk9RRld0dUtPanZBWWtVY2lLU2cyaGIxcXd1NEVVbVY4T0IxQjU1SHE5N3B6RlJUQTNWbDFCM2o4SmFvaWxEbGxfN3M3WFl2RDBRdXMza2JPUlpELXd3ZVU4QVZSaWNiQ2NrZWVjX0JvSHdJaUp1M1RXNFUtS1B4SENZY3J4cEpjYjdvWTd1TFJoaDc3WlFVRWktRjJ3c1JQY0JIS0Z5NllnUQ?oc=5",
-      "source": "The New Voice of Ukraine",
-      "date": "2026-05-08T13:07:00+00:00",
-      "description": "Drone strike on Russian air navigation hub closes 13 airports and strands 14,000 passengers  The New Voice of Ukraine",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-09T06:47:51.729097+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a8b4ef0cba4b"
-    },
-    {
-      "title": "Watch: Oakland County drone program arrests armed man - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDFrM0FxSGNZcnZ3c3gxZ0ZqQVFYTFM5VHFuWU9FS1hoNWFTMFBJUnYwM0FCZHdhM3lZdkVJZkE5Z3ZjMWtMS1U0eFZLZU5GWlp1VmpWeTZEQmlnX29sUnZXN3luS1BJZ2hZdEV3eGZTQVNmNGIwOU9qSXhvXzB5UHhXRE1BRm1zVDN6YmpieW9vUUg3Nk1TNW1fTEdfU1pkejk3bGE3QnozemZtRWFsRkVVSEJ3b1FRZU9iRzRzaUlWSEVOSDZTT25Taw?oc=5",
-      "source": "The Detroit News",
-      "date": "2026-05-08T21:17:19+00:00",
-      "description": "Watch: Oakland County drone program arrests armed man  The Detroit News",
-      "query": "drone arrest",
-      "detected_at": "2026-05-09T05:07:34.566340+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "986b89613201"
     }
   ],
-  "last_updated": "2026-06-02T09:31:41.451079+00:00",
+  "last_updated": "2026-06-02T11:32:45.429333+00:00",
   "total_count": 1000
 }
