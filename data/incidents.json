@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Drone Detection Tech Integrates With Public Safety Software - Security Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalFtT3dfNVdBdHNnYWRzZENrWUJJVk5fcDIyeUlYbmh3M2VHUEZqMjJab3F3OUFEYVF2UnBpZlREOEVRQzJNc2VnUnAyN3Ayc1VJT2E1M1o4ckNJQlRkZGdzQlRqdzIyRGR6QjYzYTA4RTBFLUZTWUYzVFhoMk5PTkg2clBjd010VW9ZckotYnNyT2NHMFd1T2s1Mkx5SktDbW9BUnJmMTdLc09xb2Vr?oc=5",
+      "source": "Security Today",
+      "date": "2026-06-01T21:51:10+00:00",
+      "description": "Drone Detection Tech Integrates With Public Safety Software  Security Today",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-02T05:38:12.982217+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ca54306215b9"
+    },
+    {
+      "title": "Drones seek out illegal bikers on day of action in Scunthorpe - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbEFRbXAwa0piajBXcVg5cm5xMWZvY2ZjbERZTTFmOFM0bWZUWThLbFZWZUhFdVQtcWEwbnlVSHMwQ0JQalR3U2p0VVVOSkZjdk4zcjRBWUVQQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-06-02T05:01:53+00:00",
+      "description": "Drones seek out illegal bikers on day of action in Scunthorpe  BBC",
+      "query": "drone illegal",
+      "detected_at": "2026-06-02T05:38:11.364180+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f4e568c63f6c"
+    },
+    {
+      "title": "Drone helps capture suspect in fatal shooting of Virginia sheriff's deputy - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEh2NF85NEpXR0NIMVoyQzBkcEsyLUx0NEl5dndZOU92d0JkS083M1AwVkd4UzlSN1BmSVJsRFJHdVFVaUN4RnFOcUQtLVlKR2dLVl9LOWpyUEdmMEU1a3lSZG4tTG84Z2gyMGhpdWU3c0xHZERpRTl1a3JUdC1SYTlGQlNkQVBXek5CUHNtcWlES1FYNENJZWZPdXBiYVlD?oc=5",
+      "source": "6abc Philadelphia",
+      "date": "2026-06-01T19:05:01+00:00",
+      "description": "Drone helps capture suspect in fatal shooting of Virginia sheriff's deputy  6abc Philadelphia",
+      "query": "drone arrest",
+      "detected_at": "2026-06-02T05:38:08.824289+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d024f93845ad"
+    },
+    {
+      "title": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTA2NEJ2enQwQVVMYUFoQXlnUEpOLTRwSWZ5WUwydlVEczhRRU5IekI5WFlRMDBtdG1RZzlwUTVKbGEzUGxJN25CbEtOMnpPNTBpV1pjQTBROFlubzJYSEZZVUhRSUd4V2o0THFGUXBHNm1ZaXhyeFZHdVRpREJBbmdXdTdpUHAxczNUeWxkN3d6WTBBX3BMOWNBMF8xY0lYN2VRNnFxckFYT3FxUXMwLWRtbnFRNWxUeTdnYTgxeUZER1BmWmF4YnN0YjdNY1hoajhqcnVuM19QR1k?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-06-02T03:56:23+00:00",
+      "description": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy  The Washington Post",
+      "query": "drone arrest",
+      "detected_at": "2026-06-02T05:38:08.824289+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "fbfbb8216c3e"
+    },
+    {
       "title": "US Forces Report Strikes on “Iranian Radar and Drone Sites” on Qeshm Island - Hasht-e Subh Daily",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEl5Y3NZSDIwRFhOWGF2SHd5bTJicU1PTmhLN0FlcXB5T21YTE50Q3RkeDZRVU5SRDBZMXozTVFnbDJoWjVGODh1UEo1OGxMaXZzVDUteG1qQThNYTZobmg1RGpLbnRfMHZjc1FFZjFBR0NxWm1TbkNqZmh5NDh2WHc2QTNfa0RJcnJRMHE5QngtaEVPSmFsaWU4cEs?oc=5",
       "source": "Hasht-e Subh Daily",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "ae89a9213a52"
-    },
-    {
-      "title": "EPSO: Drones assist in arrest of burglary suspect - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnJlR21LRU13azJHblR1Rld6OEktelJ3emFFLTNiM0JoN1lDSGgzQ1BQZnI2TnI1S0RyVjQ2WVV2NDYzalZYMWlmWFBaU09fXzM0R1k0S0pOb0tpY3ZDX0xfdGVaaEx2SGtVLTdoMVdyTEh2bTlSZDNPTVJFS1M4OWhwcEk?oc=5",
-      "source": "AOL.com",
-      "date": "2026-05-09T01:32:40+00:00",
-      "description": "EPSO: Drones assist in arrest of burglary suspect  AOL.com",
-      "query": "drone arrest",
-      "detected_at": "2026-05-09T01:38:07.747751+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "861edfab3731"
-    },
-    {
-      "title": "Drone footage helps police arrest armed man carrying rifle, ammo in Oakland County woods - ClickOnDetroit | WDIV Local 4",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVJHUmpFZzA0Sm5WUUNvNG4yV21NdW15ODN0Vk95Sm1wZkRTZVRidmlPck90SVBrdVJfVWh6MzdrMjVaOFdKQ3NudENFNDNsdFBmRFc0VHk5Q2xUNGloNWIyTzRWRGlqUThuNzNIbF9BYzFGVERSRXZGNmdNdHRoTU5aUFZUTkpjd2xlUXBLSGxpclFOUGt0YzJfSFUxUGthZEc4WEZQZ2pSVy1sSk1XY1NfYXpJWjRJNWRqZmRBaW0xeVI0SlhSMzNhRTFLY01zcVdvd2ZseW4?oc=5",
-      "source": "ClickOnDetroit | WDIV Local 4",
-      "date": "2026-05-09T00:33:14+00:00",
-      "description": "Drone footage helps police arrest armed man carrying rifle, ammo in Oakland County woods  ClickOnDetroit | WDIV Local 4",
-      "query": "drone arrest",
-      "detected_at": "2026-05-09T00:45:56.879656+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "78d5132f5f77"
-    },
-    {
-      "title": "OCSO: drone program 'critical' in arrest of armed suspect - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEwyQkNKdVRyc2ZjejhMcUdiYURST25YY1NQaGJTSTZlQm1yLWo1TXVzRUtBeUZCbzhTZWJNc3NGM2d3c2xGY21LcmdwZnRCNWtYcHlKOC1RVFN3WXRGR055cXc3bENiOWFOODFtb1VlQnNoSF9QdU5sbHB6Y0ZtdmlqVl9xZ3BreGd4NnBOajNJc20wUC1yNHR5TzBmZHFJc3hz?oc=5",
-      "source": "Audacy",
-      "date": "2026-05-08T22:19:43+00:00",
-      "description": "OCSO: drone program 'critical' in arrest of armed suspect  Audacy",
-      "query": "drone arrest",
-      "detected_at": "2026-05-08T23:22:29.281171+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "8eb05ded93eb"
-    },
-    {
-      "title": "Drone arrest: Oakland County Sheriff’s Office uses ‘real-time aerial intelligence’ to locate armed suspect - WILX",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlVQMUJPa3ZPWks5X1RDeFlreG5OMHhzbGJCWG9aYnJIbEEzOXdKeEZOcTQ1ZlFfQlVGNFpJaEttN08xaE0xU2E1WmZINC1LVHZ3cFVlTm9ERUx2WHRqeWFVYll3ekxiejUxc2FZbkN5WnVXY0tjbFVkQXFvOWFaa2ptWXlaTFpLSHdLTHd2LW1hTHZRUlBfSkFteEJSX05Palhrb2pZcXlfWlJ1eXNoME8wenNBaWFoaTRHZ0wzTXBsQnN2STF6dkFLNlDSAeABQVVfeXFMTUJpN0FfUHZSYThMM0k4aHJxb1VzUm1QbVNzWi16ZGpHcFQ5eVJTTFlJTjBWdE9ORG84UXp5QUxZZkJCc0p6dXF4LTAzQ2dwbWdsR29OUzZWQnh6R18wMEwzcnc1UjJ3bURCQnRXZFhIUzFPUWh0OXZPNi1VQzRCSmx4N1I1WFU2UHJJRkgwbjc5M1F0aS1OamdZc3pIeU9HdG4yelAtN2VCUFFHY2lXUHV0anNwSlpaRXE2SEV1Qk9CeEdPV08wNjRUNXN4MEJiR2dmcXNfdXo1YklXbGhZYy0?oc=5",
-      "source": "WILX",
-      "date": "2026-05-08T21:18:00+00:00",
-      "description": "Drone arrest: Oakland County Sheriff’s Office uses ‘real-time aerial intelligence’ to locate armed suspect  WILX",
-      "query": "drone arrest",
-      "detected_at": "2026-05-08T23:22:29.281171+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5ee3f38d7ddd"
     }
   ],
-  "last_updated": "2026-06-02T03:21:13.109206+00:00",
+  "last_updated": "2026-06-02T05:38:13.492133+00:00",
   "total_count": 1000
 }
