@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Ukraine: 602 Russian drones downed overnight - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSk9yNFBNYVRJbWZNMlN3QVlBSnFibEFyVDlVYnp3a2s1c2hpNE1LUG9VOFBoQkxzQVVQOHVkLVpHbU56bWw1dkJ0Snd3V1pvYlJ0WjRkSDFISzRFUlZlRXlwMk1NSG5FTXNwdThDbnVfMzlUNFpMT0hCbXZnWmxSQllkcWQtZEZBeFhhU0FLLVFHV1U?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-06-02T06:30:00+00:00",
+      "description": "Ukraine: 602 Russian drones downed overnight  Breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-02T07:44:18.948976+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bc6d8adceb79"
+    },
+    {
+      "title": "Trump says nothing after Russian drone hits building in Romania, a NATO member - MS NOW",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFFvNHdtSVgtdVE2TWNLTFh5V1F2c1EwU2N2Yk9GQU56SlZkY0IyMlZ0Vkh6SFZibnYxQmRWWlVyWVNZeDBSVjgxdFU4ZHlfVlpYMFhHazF0dmgzZ2ZTWU9leWVjbDBHVl9idU00VjBoYjgwRlJUZWNqX1dEbnFDdUU4SThCejhMaVdUZzY2X0hlSmZ6WFMzSkF1SQ?oc=5",
+      "source": "MS NOW",
+      "date": "2026-06-01T16:47:28+00:00",
+      "description": "Trump says nothing after Russian drone hits building in Romania, a NATO member  MS NOW",
+      "query": "drone crash",
+      "detected_at": "2026-06-02T07:44:17.415597+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ef4573032ee6"
+    },
+    {
+      "title": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy - Watauga Democrat",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNb2RBbjNqU09aLWQzUzAxT0FLdUZtRlRVbEpJSUZoR0F0TmR5WkJGS0Vla19WZlR2UkhkYUJJUU9EcUdkNnRGSGRFb1Y2VHk1SXJVQ01tX2I0c3liY21OVWVSWG4ySmRjN0ZnLTR1Z0lrNkJaSXpadkpXY1VBc0VjUHU3dk00aURPNVFwaWNjd0VBdHdRWTlKSHRlbG9oWXVqSHFTc2k1UjR5LWppcmRMWDRZdXI4dEN3Tm5rZVoyZS1ndlFTMDY1RnVJYVp2WVdPaGJjRW9SblFRT1kzQm1URkk5aXJwSldiZkRWcFNRVl9oNXluTzdhazdnRkcyME0tVG1jWVVmLXJUYkpaVUhj?oc=5",
+      "source": "Watauga Democrat",
+      "date": "2026-06-01T19:58:04+00:00",
+      "description": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy  Watauga Democrat",
+      "query": "drone arrest",
+      "detected_at": "2026-06-02T07:44:15.521757+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "15f0bc120bd1"
+    },
+    {
+      "title": "Dozens of Nations at UN Denounce Russia Over Romania Drone Incident - The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdkRvbVhfb2VDbTZaNjVyV3hJRGlLek1oSzNGelZuQ05lLWl0NldfUDl4c1ZZNHFIR19sT1JzS2lOQnEwbGJHU3JFN01heEdqaktrMnF3ZFFZeEI0MWlGUU1jX1Z6UjRzRDRvdk5IM2lJc25ySkNtNE5R0gF_QVVfeXFMUElVMGliT2l1ZjZWZUZNdmh2akZuZk43SWNyVDNQaExqNjlFaDk4LXl2TU56VVoxdXo0aEZyTUJtQnlKUm56Uk5BZi1meDlfcmFzanFMR3BqcXhYUzRnbWFNUFByOE5pM3RTbW9pWXJfbEdpOExZRkpld1ZPX1NtTQ?oc=5",
+      "source": "The Defense Post",
+      "date": "2026-06-02T05:37:22+00:00",
+      "description": "Dozens of Nations at UN Denounce Russia Over Romania Drone Incident  The Defense Post",
+      "query": "drone incident",
+      "detected_at": "2026-06-02T07:44:14.994418+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "75ad4c710265"
+    },
+    {
       "title": "Drone Detection Tech Integrates With Public Safety Software - Security Today",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalFtT3dfNVdBdHNnYWRzZENrWUJJVk5fcDIyeUlYbmh3M2VHUEZqMjJab3F3OUFEYVF2UnBpZlREOEVRQzJNc2VnUnAyN3Ayc1VJT2E1M1o4ckNJQlRkZGdzQlRqdzIyRGR6QjYzYTA4RTBFLUZTWUYzVFhoMk5PTkg2clBjd010VW9ZckotYnNyT2NHMFd1T2s1Mkx5SktDbW9BUnJmMTdLc09xb2Vr?oc=5",
       "source": "Security Today",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "46b1b3679957"
-    },
-    {
-      "title": "How did a Ukrainian Magura drone reach waters near Greece? - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3FaNDdWRER6dWlKRk1GRWNFbXp3RDY0WDR2R0lvODdCdzJManNrNXdqaGxNOU5SbkZTTUhoYTRkeVAwcGFuNzZGUzU5bUpQdGUtcmprTE9QdjlvT2kzblhWYlJCdG5SZUVrSGVkVk0wdUZadmJTbHJqQ2pPeEU0VWhiYkc?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "date": "2026-05-09T02:23:01+00:00",
-      "description": "How did a Ukrainian Magura drone reach waters near Greece?  Latest news from Azerbaijan",
-      "query": "drone incident",
-      "detected_at": "2026-05-09T03:10:14.893248+00:00",
-      "location": "near Greece",
-      "category": "other",
-      "id": "272e09091d39"
-    },
-    {
-      "title": "ACC Welcomes New Drone Security Proposal - American Chemistry Council",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmkzOUR4b09xazNBaDN3S1RaMVBHTVhiQUs4YU9PMkprenlOSDZUUEFqemxWUktXQmhiRjdIR2JldzRXbG1IQTZfZlBYWlpuVmRZakNIc09qSkdjb3BlNy1nQW5tdHo0ZjZpQjlTeXJQYlM3bk95Q1hGandEcGZIMGdHNnZZV1FKR1JidUdSTko5Qjk4eWhSMEhLRFdVRjJaQnhvalBBYWE3OUxrLUJTWnRnTFZHQUx6d1FxR0tWaU5ka2g2?oc=5",
-      "source": "American Chemistry Council",
-      "date": "2026-05-08T21:03:50+00:00",
-      "description": "ACC Welcomes New Drone Security Proposal  American Chemistry Council",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-09T01:38:12.130883+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0ccff8437947"
-    },
-    {
-      "title": "Forest fire burns near Chernobyl nuclear plant after drone crash - France 24",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWw5djNmNjNSQkgzdU5aNl9PSGxKd1VnN2dRZ0docGxUc090WXdxbVU3S3RmRjJLZHI2ZTViaUYyVVhITkM1eE01d1FkU0lmSVRwU1hTM01tXzdhR0pKbDdRSUMyNHFxYmdOMHIybDRDQzlwemwxYXUyeVBuUS1nc0xEcmNGM0FzQXNvbnQ4T3pNQnc2THV5Yy02N0ZvWWc4ZVVYT0I4Nzkxc2hCRUpLalVpeEU3Zw?oc=5",
-      "source": "France 24",
-      "date": "2026-05-08T11:11:14+00:00",
-      "description": "Forest fire burns near Chernobyl nuclear plant after drone crash  France 24",
-      "query": "drone crash",
-      "detected_at": "2026-05-09T01:38:10.008659+00:00",
-      "location": "near Chernobyl nuclear plant after drone crash",
-      "category": "crash",
-      "id": "07e0543bfad0"
-    },
-    {
-      "title": "Oakland County drone program helps arrest armed man - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTl0QVpLcEQ5NU4xbldRYTRONkdGcUo2RVNqVE9mRjkyakJFMmFJZnFMMVMyWExpU0hkTWdnZ0NxbEpqdVpxX3pHcDNfTDlmVGlRdm1XQzJrV29tREpqWXhrOGlUa19PQnBCZ2xRVkpHaGZ5ZEVEcENtdnRyOHZONHd6d0x0ZzVWbUpwUUJxNXJIUTVmX1V3UVg4MVVlRm5Hd0VLanBwNndHTTJmcFRKc3hiZkhydUpoLUZNQWdLZFhYUEoxZ0tBUXBn?oc=5",
-      "source": "The Detroit News",
-      "date": "2026-05-08T22:32:00+00:00",
-      "description": "Oakland County drone program helps arrest armed man  The Detroit News",
-      "query": "drone arrest",
-      "detected_at": "2026-05-09T01:38:07.747751+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "ae89a9213a52"
     }
   ],
-  "last_updated": "2026-06-02T05:38:13.492133+00:00",
+  "last_updated": "2026-06-02T07:44:20.034322+00:00",
   "total_count": 1000
 }
