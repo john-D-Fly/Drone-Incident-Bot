@@ -1,0 +1,149 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone incidents have surged, with significant activity primarily concentrated in Ukraine and Kuwait. Ukrainian drone strikes have intensified, targeting locations like St. Petersburg and inflicting casualties, with reports of drones being used in attacks that resulted in multiple fatalities. In Kuwait, Iranian drone attacks caused severe damage to the airport and disrupted flights amidst ongoing tensions. Concurrently, law enforcement in North Carolina effectively utilized drones to apprehend suspects related to a deputy's fatal shooting. The rise in illegal drone use, particularly alarming at high-profile events like the World Cup, highlights ongoing worries about safety and authorized aerial operations. This trend underscores the complexities of drone regulation and security amid geopolitical strife and social unrest.",
+  "totals": {
+    "category_counts": {
+      "other": 30,
+      "airport": 7,
+      "arrest": 21,
+      "interference": 4,
+      "crash": 2,
+      "terrorism": 8,
+      "security": 6,
+      "smuggling": 1
+    },
+    "query_counts": {
+      "drone terrorism": 8,
+      "drone airport disruption": 7,
+      "drone arrest": 21,
+      "drone illegal": 11,
+      "drone crash": 2,
+      "drone interference": 4,
+      "drone security breach": 4,
+      "drone smuggling": 1
+    },
+    "total_incidents": 93,
+    "by_category": {
+      "airport": 9,
+      "arrest": 28,
+      "crash": 2,
+      "interference": 1,
+      "other": 47,
+      "security": 2,
+      "smuggling": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 8,
+      "drone arrest": 31,
+      "drone crash": 3,
+      "drone illegal": 13,
+      "drone incident": 3,
+      "drone prison": 1,
+      "drone security breach": 3,
+      "drone smuggling": 1,
+      "drone terrorism": 21,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Kuwait Drone Attacks",
+      "rationale": "Recent drone attacks in Kuwait leading to airport disruptions and strikes.",
+      "incident_ids": [
+        "d0a745c15ca5",
+        "a164a352a7e2",
+        "81d5e9596fa8",
+        "6809243e7926",
+        "9b744e7c3ee6"
+      ]
+    },
+    {
+      "topic": "Ukrainian Drone Strikes",
+      "rationale": "Intensified Ukrainian drone strikes are causing casualties and geopolitical tension.",
+      "incident_ids": [
+        "5fd15212ddea",
+        "a6c4e87c12cf",
+        "a164a352a7e2",
+        "b98e22412b3a"
+      ]
+    },
+    {
+      "topic": "Drone Arrests in North Carolina",
+      "rationale": "Use of drones for law enforcement in capturing suspects related to serious crimes.",
+      "incident_ids": [
+        "b98e22412b3a",
+        "9b744e7c3ee6",
+        "d302e9480942"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d0a745c15ca5",
+      "headline": "One killed after Iranian drones hit Kuwait airport’s T1 terminal.",
+      "one_sentence": "The attack causes flight suspensions amid ceasefire talks stall, escalating tensions.",
+      "risk_tags": [
+        "airport",
+        "terrorism"
+      ],
+      "countries": [
+        "Kuwait"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "a164a352a7e2",
+      "headline": "Dubai and Middle East flight disruption as Iran launches attacks.",
+      "one_sentence": "Iran's drone strikes escalate interference in regional flights.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [
+        "UAE"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "cb8e36839087",
+      "headline": "North Carolina investigators use drone to arrest man in fatal shooting.",
+      "one_sentence": "A drone aided law enforcement in capturing a suspect linked to a deputy's death.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "7b82ad643741",
+      "headline": "Ukraine reports 198 Russian drone strikes overnight.",
+      "one_sentence": "Heightened drone activity indicates ongoing conflict escalation.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "1906f85465a5",
+      "headline": "Seven killed in Ukraine drone strike on bus in Russian-held Donetsk.",
+      "one_sentence": "This tragic incident underscores the lethal consequences of the drone warfare.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2026-06-03",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
