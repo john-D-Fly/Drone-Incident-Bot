@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukraine strikes St Petersburg oil refinery – video - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGptYi1kTDNBVkh6QXpRa0pUamdKV3lZUk56T3g1U3FwMm13OE1OeGZxUDQxbmo5UnI5X3pxOGhycjF0c3Y3cDhoc1lTd3RlRFZILXZEbEtTSEJRTDBlbXV3NnpTZk1LOGtkeGVUSEV4dzdocWpEME8yNFdpNlBhZHU1bmJvSF9IRDRHclM0SEVMMFI3QnU2emdqOURzdkozQkE?oc=5",
+      "source": "The Guardian",
+      "date": "2026-06-03T11:31:00+00:00",
+      "description": "Ukraine strikes St Petersburg oil refinery – video  The Guardian",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-03T19:23:54.709110+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d2eb60ed7543"
+    },
+    {
+      "title": "MPD drone video of arrest - WREG.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeEIwZWxRV3pPbUZ1S0dsc2s2YnQ5bWdMM2dFWkw2Z1FTMHptblFJbERveEg4V0dDbU5RWk8xS3Njc2ZMRUVLa2dLVWVsS0FvS3FWdkUwR0N1cWxFTHYtSm50YWNmZlU4MUE?oc=5",
+      "source": "WREG.com",
+      "date": "2026-06-03T15:43:00+00:00",
+      "description": "MPD drone video of arrest  WREG.com",
+      "query": "drone arrest",
+      "detected_at": "2026-06-03T19:23:50.951281+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "88b0ef2b877e"
+    },
+    {
       "title": "FBI, Atlanta PD Stress Need for ‘No-Drone Zone’ Compliance - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0FyNC0xdkcwczliRndUdEhvVmNfQllwdFlLbWVYX1g2Q2Rtd19KVC1aNEFRdzk1SXBIamhsLWpKS3ppX1FfZzNXREZNNUJyal81djZmNm96bERQT29SYmMydjBLWFNqX1hJaWsxY0dDRmRsT2JZM05yc1l5aFh5SU5iV3doM1FNSG9oV3pFSGZ4Nk0?oc=5",
       "source": "Dronelife",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fc5365cc2ed5"
-    },
-    {
-      "title": "Greek FM Raises Maritime Drone Incident Ahead of EU Foreign Affairs Council - tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHRDQnRycjlFTTdrRVRpNk1fcXFVblVlOHV1R1ZLei1Ldk5KQWt3WGFScVQ5Z2FBOFhXMzZyTlVtN2o5QjFMOGNvb01OaExGM3d3blNELWhDMkJDVlc5emVvOS1VR2NQVGcyNEZHUmxJQUJ6Nnh4ZkxOVU1heGRYd3VobTNYUkR0MDNPbzJyTnR4cWV5VUJMdEhiRmpCRGgzSzNIRWRrVElQc0tZ0gGyAUFVX3lxTFBvZV9VRWtnVWhJMnYyOUhXV2RDeG9uRDlQNEQwLVRzTlFzVXNXMXJFUUNFSGhhWmY0VGNGWjNoWnRiTHdKZDl2M2MwdFYxUGRoUjd5VndocVZQOGNZTFFKOHhuR1ZVMmtyY09oUkx4REZCZGF4TE8weTVQWWhrS3Vsem9ra0RYY0t3MFh6WV9DTFpXMVk0WDI0RjVvMXBySGViSkJCN3hqTzRZY2kwdk9EdlE?oc=5",
-      "source": "tovima.com",
-      "date": "2026-05-11T10:20:56+00:00",
-      "description": "Greek FM Raises Maritime Drone Incident Ahead of EU Foreign Affairs Council  tovima.com",
-      "query": "drone incident",
-      "detected_at": "2026-05-11T11:07:15.085118+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "723270cd5d33"
-    },
-    {
-      "title": "Munich airport disrupted by drones: Flights grounded, thousands of passengers stranded — Key details - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQTXp2djM0OWFxSERuSVRTMndTX3dURUpHeDZuVUVRSXQwczRVS0xHU0Rkd0ZnRUM3Sl9ZM3hmbkM4MVJNbjlNX2daLWtPQ2tTamNDOFVJRWlDUzhOMHM2S1Z6TFBUMWtfTzlaSGJBUTA4bFF0VURFSU5ra2R4eG1JeG80c1kxV2x2cHhLU3dQc25WTUhlOC00MG5meVhrci1lekNmZ3VyVm52UERGNDZ1R05JakludDJsN3hEU2dWX1lKaXp5bTZWU2VNbjJvSlZyazc4UGlDcGpPdlpFMS1KR1YwTHhpVFdON3hfaUIxNG80RGhsSTA0WkY1b1ZIVXA4OGM4bHZGa3l6cHBTT3l6ODQwc2lWX1RPb01aaHBSMWg2RG1NTWs3djJpTnR5SHYwQ21WVTdETXR2WDFfTkUwOTdPMTYtR1pFUnhDOGd1YmhCeXA5UDZyS1AtRUV2MF83VGZDM3pDd1FLc1liZUM5Nlh2dzYtZDRjNVJXcV9ETXdZbDR1djVEdA?oc=5",
-      "source": "MSN",
-      "date": "2026-05-11T06:17:26+00:00",
-      "description": "Munich airport disrupted by drones: Flights grounded, thousands of passengers stranded — Key details  MSN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-11T09:14:22.256999+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "eb78d7a59c2f"
     }
   ],
-  "last_updated": "2026-06-03T17:44:02.675605+00:00",
+  "last_updated": "2026-06-03T19:23:55.794758+00:00",
   "total_count": 1000
 }
