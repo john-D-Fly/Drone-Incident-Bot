@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Kansas City FBI sending warning to drone operators ahead of World Cup events - KCTV",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTFFRVVfaDJlUFZUY2Y5OEFyMFhGaXNEaGdPRG9rY01BS25Kd0M5VkRxRVl1WGZsVlNfcjl2aG1rTmNMYklEZ1V5YlRuYXRwX0xGREtQSmk2ZmwtQlVFakpxaWZ5UEpySi04Xzl6czZiRzljOTNQZFVYSlM4dDljaTBlZHBhMFlzT2paRENXX3lKNm9tTERyQUotdnFnX1lqcWFuNVhmVUp2Uk5iVnpWcFdnQUp4M3lFbmxr0gG7AUFVX3lxTE81MUVFVV9oMmVQVlRjZjk4QXIwWEZpc0RoZ09Eb2tjTUFLbkp3QzlWRHFFWXVYZmxWU19yOXZobWtOY0xiSURnVXliVG5hdHBfTEZES1BKaTZmbC1CVUVqSnFpZnlQSnJKLThfOXpzNmJHOWM5M1BkVVhKUzh0OWNpMGVkcGEwWXNPalpEQ1dfeUo2b21MRHJBSi12cWdfWWpxYW41WGZVSnZSTmJWelZwV2dBSngzeUVubGs?oc=5",
+      "source": "KCTV",
+      "date": "2026-06-05T20:23:00+00:00",
+      "description": "Kansas City FBI sending warning to drone operators ahead of World Cup events  KCTV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-05T21:33:09.497363+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e5e60231324a"
+    },
+    {
+      "title": "FBI warns drone operators to stay away from World Cup matches - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0w0ZTNuY2kxRG44RDlxa2lIdmJmS3kzOWw1TDlCTFNvbzNvWkpYV243Rk9YSkQ4RnNmMnIwVEtvWVRjWDBLNVVmSVhvekNXc0MwaUQ0OVVHMjJlaDg0N1UzVS1NZ2NsU3FIeTc3amc1Qm0yZGh3SlI0Zl9HRnl0aW1sMjJQaVZhU09GdjZ5Q0JmVEpKS0txQmw2ejBIZlZXdjBsSHRKUlk4WWhpZDFleTNlNHpldlU?oc=5",
+      "source": "NBC News",
+      "date": "2026-06-05T21:00:35+00:00",
+      "description": "FBI warns drone operators to stay away from World Cup matches  NBC News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-05T21:33:09.497363+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b62811718773"
+    },
+    {
+      "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYndOM05zeGRXS3hUSG9xZldYOFJ6VVdlZXBqQlluZndkVlg4RTc0eTZsbVdzZVlBTFlqYmp2cHZKZ3ZsOW1oNmpCZnNfNllnMEhFRjgyb3VYTWtndE5RejFvajJmVmtqN1ZMdjNuYnZna0hURk8weVZOWW1wN0NpeDllNndDTGxYZ19wRVRLNWNYSmh4djRaSHd4SEpsZlBNZkZZSjdnb2FaQdIBrwFBVV95cUxQelhpX3dRVTFvZVpCSTI2Y2JMWUR2a194My14aEFESks1UXV3WkExTG0tOVhlT2tLTGNjNVZ0OXh6WElOT014Ym9nT2pGMl9Oa2pZc2lNUVg3cUpmY0pyenVOZGVwajRGd1VtUWRra3c1OENrSDlYaFhKaEk5NXM5MDRjVnl4cG5FaENiVzYySzVzTGJlT05XZm5DREJkU0ZMZnNjYmhpT1RwNzNudVJB?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-06-05T13:17:53+00:00",
+      "description": "Drone explosion in Romanian port spurs Ukraine war spillover fears  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-06-05T21:33:04.940213+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ad40be40be0a"
+    },
+    {
       "title": "FBI KANSAS CITY ISSUES DRONE RESTRICTION PSA AHEAD OF WORLD CUP AND FANFEST MATCHES - Newstalk KZRG",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWVpCVWFwOExzQUhwdzZRM1dTRndieEI3aGpLTS1ERndLOFh3ODY0OW1BcEVqWXF1ZmdEMnE5YTBCcnQ0LTFONHd1TGdaRDUzQlhvaTJDUjdTU0Y1NFl5Q3lSRFNQVUJraGNVMlU0bEgtbTU0bFl6c3Z1ajlreUtwZTh0YUFPNDluMjQyemlDOUJXTEtuaE1sY1RpRFdaSFllWkY0ZjJ2bGpWS09mRnVIcThLYTNWZ1U1UTRva2Y3S3BMdw?oc=5",
       "source": "Newstalk KZRG",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1afb90c1b2b5"
-    },
-    {
-      "title": "AFOSI Center stands up new sUAS cell amid drone surge - osi.af.mil",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDBtWnR1ZDU1RDByV2RuRFpOcjJ4QU5MbHZDYXpiY3FPaUlCZlBXWDQ0TncwRU9OYXlZdXlfMlZOaThfS0FTVjM5LUFzQUtRWlVfM2t0Z1lHb0RtZHJ3cmpuSDR1ZTJiaUpzSUUzenA3Zms0M0hVY3NTdlpnbExZU2RodENGNnc5VGlIeC1UVFo3bGhNWTVCd1JBSmt1MWJCRkU1c1h0VDJqSUJabEJMTGwzRjY?oc=5",
-      "source": "osi.af.mil",
-      "date": "2026-05-12T17:49:53+00:00",
-      "description": "AFOSI Center stands up new sUAS cell amid drone surge  osi.af.mil",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-12T18:41:03.269275+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6e83886514b1"
-    },
-    {
-      "title": "Drone-Smuggling Network Busted on Rajasthan Border - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHRNQVVpRVJKQ19UczhXWTFhZUVJVUpLZDFyN1pCYmxpMW9XY0xiWWVYQzFna2NnZTNENk9RS0pKc1pTWnotbUlCemp4cEcza21OVlE1bFltM1RQZ09uVjFTRzhqaVBfaXdHTDFWdWN2ZmZOSzd5NG1GTjRVVWdqUkx6Mno4bGE1d25lWFQxSUctZGtUT3lBOWh1dVhZY1pjUElGdDZFWFjSAa4BQVVfeXFMUFdxU1BabU5TRDFraENUUGlPdXAxNWd5WFEwRlNDZk13RUVobFBjTW9kVDZpVDh1SjR1TkRuYUJHM2RTVUE5TEM4N3ZQWTJiTm42b2hJNlltcWxULXhiWTVIODRENEJrT2VCTTZrUUFlOTJFV3UzTXFJN2t6VVRpTFgzV1RRRS1YU2JUcjJnTUhFVXJ2eXFJMUt6ejI3RnBKOC1PZW9KWjhDSVhzUDB3?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-05-12T18:23:17+00:00",
-      "description": "Drone-Smuggling Network Busted on Rajasthan Border  Devdiscourse",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-12T18:40:58.978903+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "47c7dceda25e"
-    },
-    {
-      "title": "Police use drone to follow suspected Dick's Sporting Goods theft getaway vehicle - KMPH",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeTV0aWtBWVctWVJZbEp6R09qZFprS1pHdHl3STNJSXZKdFNsNVd0RjlCZ1E4WVBMSk5ySUZJUUtpMUhxdGpZZFVfQnVJWGY0aFJHc0t0YXRUZDBqMWJRNHJGN3k5eU0yejN3b1JTM0NsSWVxSUZkYkQ0Zm44eWtCUFZuZXZEQVBFT18zYUVSRDlBR2syVnhnZWdMUTZJN0ZjRnlfLV9wMFo2ckVDaVZZVVVsQ2tpSlJoUDJUR1JOY2hrTDBCb2lNRng5MTFxdVJva0p0M2RZYmpjM3dzXzhUendZYk4tMG81ZnNnSG9uc054TERKRm1PeURoaGxvdUtYa3BaZUJR?oc=5",
-      "source": "KMPH",
-      "date": "2026-05-12T17:42:31+00:00",
-      "description": "Police use drone to follow suspected Dick's Sporting Goods theft getaway vehicle  KMPH",
-      "query": "drone arrest",
-      "detected_at": "2026-05-12T18:40:58.395762+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "10f66611d8f6"
     }
   ],
-  "last_updated": "2026-06-05T20:39:00.342003+00:00",
+  "last_updated": "2026-06-05T21:33:10.007002+00:00",
   "total_count": 1000
 }
