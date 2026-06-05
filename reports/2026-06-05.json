@@ -1,0 +1,130 @@
+{
+  "window_hours": 48,
+  "narrative_summary": "Over the past 48 hours, drone-related incidents have highlighted heightened tensions across several regions, particularly Ukraine, where attacks have surged, reaching record levels in Moscow and St. Petersburg. Ukraine's offensive capabilities appear to be evolving, as demonstrated by increased drone assaults. Concurrently, there have been multiple instances of drone crashes, including a notable incident at an airport in Kuwait leading to an evacuation due to a potential threat. Other incidents involved police utilizing drones for arrests in Memphis and interdictions related to narcotics smuggling. Policy discussions surrounding drone security are gaining traction, especially in light of recent airport disruptions and illegal drone activity during high-profile events like the FIFA World Cup.",
+  "totals": {
+    "crash": 7,
+    "smuggling": 3,
+    "terrorism": 10,
+    "security": 5,
+    "airport": 6,
+    "other": 11,
+    "arrest": 8,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 10,
+      "arrest": 6,
+      "crash": 2,
+      "other": 33,
+      "security": 2,
+      "smuggling": 5,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 12,
+      "drone crash": 5,
+      "drone illegal": 2,
+      "drone incident": 9,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 20,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Increased Drone Activity",
+      "rationale": "A noticeable rise in drone attacks, specifically from Ukraine towards Russian territories.",
+      "incident_ids": [
+        "33d982e82dbd",
+        "c3f1eca5dfe2",
+        "7c1e7dfb3961",
+        "96c68e68e984",
+        "6d90c03f2597"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Security Threats",
+      "rationale": "Several incidents of drone crashes pose risks of disruption and are leading to increased airport security measures.",
+      "incident_ids": [
+        "f6da5fc9ac4a",
+        "6136b76143cb",
+        "c8db7ae27a1d",
+        "5910d4fe9040",
+        "f2b4bb0b9c88"
+      ]
+    },
+    {
+      "topic": "Narcotics Smuggling Attempts",
+      "rationale": "Multiple attempts to smuggle narcotics via drone have been reported, indicating a growing trend in illegal use.",
+      "incident_ids": [
+        "f3a75482dac0",
+        "55bd154ac593",
+        "4bfb0b7b01ec"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "612f9d70296b",
+      "headline": "Ukraine strikes 'illegal' cargo ships in Sea of Azov",
+      "one_sentence": "Ukraine's attacks on illegal cargo ships in the Sea of Azov intensify amid ongoing tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6d90c03f2597",
+      "headline": "Drone crashes and severed fingers at a military startup",
+      "one_sentence": "A drone crash at a Silicon Valley military startup resulted in severe injuries.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "011eb748f0f4",
+      "headline": "Niger Drone Strike Killing 17 Exposes West's Moral Blind Spot",
+      "one_sentence": "A controversial drone strike in Niger causing fatalities raises ethical concerns.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "4da82dce851f",
+      "headline": "Police drone captures suspect before officers arrive",
+      "one_sentence": "Memphis police's drone program leads to quick arrest of a suspect before officers' arrival.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    },
+    {
+      "id": "f2a517c5d7fc",
+      "headline": "One Dead After Drone Strike Hits Kuwait International Airport",
+      "one_sentence": "A deadly drone strike at Kuwait International Airport disrupts flights and operations.",
+      "risk_tags": [
+        "airport",
+        "terrorism"
+      ],
+      "countries": [
+        "Kuwait"
+      ],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  },
+  "linkedIn_summary": "Recent drone incidents, especially attacks out of Ukraine and disruptions at international airports, underscore an urgent need for enhanced security measures.",
+  "date_utc": "2026-06-05"
+}
