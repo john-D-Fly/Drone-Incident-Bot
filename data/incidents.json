@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5",
+      "source": "AP News",
+      "date": "2026-06-04T03:28:00+00:00",
+      "description": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again  AP News",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-05T22:28:31.825918+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d89faecd6985"
+    },
+    {
+      "title": "Flights to Kuwait Cancelled After Drone Strike: Partial Reopening and What It Means for Travelers - Wego Travel Blog",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YY04zcGhkLXlVRlBMclloSkRsR1RJVzZuQ3g1d2JJMmduUGVBa2lVcXlqb2tkaW11Y3JacUR5ekJWMGRTZTRaYjRoRHBrLTlKVEVoUXV3N3lidlZzci1r?oc=5",
+      "source": "Wego Travel Blog",
+      "date": "2026-06-05T17:45:23+00:00",
+      "description": "Flights to Kuwait Cancelled After Drone Strike: Partial Reopening and What It Means for Travelers  Wego Travel Blog",
+      "query": "drone airport disruption",
+      "detected_at": "2026-06-05T22:28:29.622273+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8ae7c044bb14"
+    },
+    {
       "title": "Kansas City FBI sending warning to drone operators ahead of World Cup events - KCTV",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTFFRVVfaDJlUFZUY2Y5OEFyMFhGaXNEaGdPRG9rY01BS25Kd0M5VkRxRVl1WGZsVlNfcjl2aG1rTmNMYklEZ1V5YlRuYXRwX0xGREtQSmk2ZmwtQlVFakpxaWZ5UEpySi04Xzl6czZiRzljOTNQZFVYSlM4dDljaTBlZHBhMFlzT2paRENXX3lKNm9tTERyQUotdnFnX1lqcWFuNVhmVUp2Uk5iVnpWcFdnQUp4M3lFbmxr0gG7AUFVX3lxTE81MUVFVV9oMmVQVlRjZjk4QXIwWEZpc0RoZ09Eb2tjTUFLbkp3QzlWRHFFWXVYZmxWU19yOXZobWtOY0xiSURnVXliVG5hdHBfTEZES1BKaTZmbC1CVUVqSnFpZnlQSnJKLThfOXpzNmJHOWM5M1BkVVhKUzh0OWNpMGVkcGEwWXNPalpEQ1dfeUo2b21MRHJBSi12cWdfWWpxYW41WGZVSnZSTmJWelZwV2dBSngzeUVubGs?oc=5",
       "source": "KCTV",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "b0e49825eb85"
-    },
-    {
-      "title": "AFOSI warns drone operators to know rules before flying near DAF bases - osi.af.mil",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeUhJR0JkZjUzWnNpRHY1Q25HbTMxN19uSW4yR1kzalFIVG1WQy1LdkRNdHA0ZTVRbVhuX091a285YVN4ZGpKQ0Y5TTIyZTZCSkhGd3pLZkY5ZXRJWkg4Qnl1SVpvbjhYYlRtcFpRc2lKMFU0ZHUxT281cXZZc1lBSkM1eWhOMGRyVDJSM25GMDNpM0Jmb1lBVURKZlNnMXgxLXdjTDFpQk85b3J5QVVtZC1uTGFJSjJZR2tqM0R5eWR6QktLRERpQTVmNWk?oc=5",
-      "source": "osi.af.mil",
-      "date": "2026-05-12T17:51:02+00:00",
-      "description": "AFOSI warns drone operators to know rules before flying near DAF bases  osi.af.mil",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-12T19:34:30.128081+00:00",
-      "location": "near DAF bases",
-      "category": "other",
-      "id": "2166cab66a0f"
-    },
-    {
-      "title": "Greece says attack sea drone found on island is Ukrainian, calls incident 'extremely serious' - Ottumwa Courier",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUTA5ZWhqWkZoRm9YNnh1V1JWMXRUOW45Wmw2VEU5Qkg4c3pDd25jdEx5VTBlR083b0dLaElnaUJOeXFvbnFmOHBNak9GWlhxeUo2b2FjUjBKVkFGbEFSNnRZTlRvWTZYRGpPTGo3M0ZLdjNUdmQ5cFRCTzJjSndra21XdmFFaGRHYWJTNm5lNU5ac0d1UlUzdkpNbHRoOWQyVk9JQllHTGFRY2gtbG5fam5mUGNLX0I5T2xTU1kwYkJtVHdsOFp4M3owM1VCN2t1Tmp0cTN4b01QQi0xS2J1a0VMNl90ZEZYZTh3ZjZkTmk3YWVPd0prVHE5eUI0SDYxRzZaRVV3R0gwZko3c2U1R2ozY2NKbGVaQVE?oc=5",
-      "source": "Ottumwa Courier",
-      "date": "2026-05-12T13:10:04+00:00",
-      "description": "Greece says attack sea drone found on island is Ukrainian, calls incident 'extremely serious'  Ottumwa Courier",
-      "query": "drone incident",
-      "detected_at": "2026-05-12T19:34:23.810088+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1afb90c1b2b5"
     }
   ],
-  "last_updated": "2026-06-05T21:33:10.007002+00:00",
+  "last_updated": "2026-06-05T22:28:32.810365+00:00",
   "total_count": 1000
 }
