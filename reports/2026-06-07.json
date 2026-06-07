@@ -1,0 +1,207 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been an uptick in drone-related incidents, with several notable cases emerging across various sectors. A drone strike near Chernobyl has drawn accusations of nuclear terrorism, while in Kuwait, drone attacks have severely disrupted airport operations and led to flight cancellations. The Israeli-Hezbollah conflict has escalated with drone assaults injuring IDF reservists. Additionally, reports of unauthorized drone incursions are rising, prompting warnings from the FBI as preparations for the World Cup ramp up. Meanwhile, incidents involving drone-related arrests hint at organized smuggling and potential terrorism links within various regions, signaling a heightened risk environment and necessitating robust legislation and policy enforcement.",
+  "totals": {
+    "terrorism": 5,
+    "crash": 2,
+    "airport": 4,
+    "arrest": 5,
+    "smuggling": 2,
+    "other": 9,
+    "security": 3,
+    "interference": 4,
+    "total_incidents": 51,
+    "by_category": {
+      "airport": 8,
+      "arrest": 4,
+      "crash": 3,
+      "interference": 4,
+      "other": 22,
+      "security": 4,
+      "smuggling": 4,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 8,
+      "drone arrest": 4,
+      "drone crash": 3,
+      "drone illegal": 5,
+      "drone incident": 8,
+      "drone prison": 3,
+      "drone smuggling": 3,
+      "drone terrorism": 8,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone terrorism",
+      "rationale": "Increased incidents of drone strikes and accusations of terrorism",
+      "incident_ids": [
+        "a0c2bb2b7c94",
+        "9d66527d3be3",
+        "3f1e92a95b30",
+        "1ef80806b1b9",
+        "1d73e4d6c3ec"
+      ]
+    },
+    {
+      "topic": "drone airport disruption",
+      "rationale": "Significant disruptions in airport operations due to drone activity",
+      "incident_ids": [
+        "ac2b2c2cc0df",
+        "19d2b942c9e6",
+        "54b21f1a95a3",
+        "898eecf0f38d"
+      ]
+    },
+    {
+      "topic": "drone arrests",
+      "rationale": "Multiple arrests linked to drone-related activities indicating organized efforts",
+      "incident_ids": [
+        "9572781ae9b1",
+        "b62811718773",
+        "30961fe0725f"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Emerging trends in drone-assisted trafficking and smuggling activities",
+      "incident_ids": [
+        "efea3401b676",
+        "f5254625dc8e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a0c2bb2b7c94",
+      "headline": "Drone Strike Near Chernobyl Sparks ‘Nuclear Terrorism’ Accusation",
+      "one_sentence": "A drone strike in proximity to Chernobyl has ignited severe concerns over nuclear terrorism.",
+      "risk_tags": [
+        "terrorism",
+        "nuclear"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "ac2b2c2cc0df",
+      "headline": "Drone Crashes and Severed Fingers at a $13 Billion Silicon Valley Military Startup",
+      "one_sentence": "An incident involving drone crashes at a tech startup resulted in severe injuries, highlighting risks in the aviation sector.",
+      "risk_tags": [
+        "crash",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9d66527d3be3",
+      "headline": "Russian Drone Strikes Kill Two in Ukraine",
+      "one_sentence": "Drone strikes in Ukraine attributed to Russia have resulted in civilian casualties.",
+      "risk_tags": [
+        "terrorism",
+        "conflict"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3f1e92a95b30",
+      "headline": "Four IDF Reservists Wounded by Hezbollah Drone",
+      "one_sentence": "A drone strike by Hezbollah injured four Israeli Defense Forces reservists, escalating tensions further.",
+      "risk_tags": [
+        "terrorism",
+        "military"
+      ],
+      "countries": [
+        "Israel",
+        "Lebanon"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "19d2b942c9e6",
+      "headline": "Drone Sighting Delays 16 Flights at Hanoi Airport",
+      "one_sentence": "A drone sighting at Hanoi airport led to significant flight delays, showcasing the impact of unauthorized drone activity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9572781ae9b1",
+      "headline": "Court Set to Rule on Ex-President Yoon's Drone Infiltration Charges",
+      "one_sentence": "Legal proceedings regarding former South Korean President Yoon's drone-related charges are expected soon.",
+      "risk_tags": [
+        "arrest",
+        "politics"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f340fc2830eb",
+      "headline": "Europe to Push Back as Illegal Drone Incursions Multiply",
+      "one_sentence": "Europe is gearing up to respond to increasing unauthorized drone incursions.",
+      "risk_tags": [
+        "security",
+        "illegal activity"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "db5cf8c8e49f",
+      "headline": "Drone Explodes in Romanian Port as Ukraine Blames Russia for Jamming It",
+      "one_sentence": "A drone explosion in a Romanian port has raised alarms about electronic warfare amid the Ukraine-Russia conflict.",
+      "risk_tags": [
+        "incident",
+        "conflict"
+      ],
+      "countries": [
+        "Romania",
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5af79a1c1ac6",
+      "headline": "FBI Kansas City Issues Drone Restriction PSA Ahead of World Cup",
+      "one_sentence": "In light of upcoming World Cup events, the FBI has issued a public safety announcement regarding drone usage.",
+      "risk_tags": [
+        "security",
+        "event"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    },
+    {
+      "id": "bc2ea13348be",
+      "headline": "Drone Explosion in Romanian Port Spurs Ukraine War Spillover Fears",
+      "one_sentence": "The explosion of a drone in a Romanian port has intensified fears of spillover from the Ukraine conflict.",
+      "risk_tags": [
+        "interference",
+        "conflict"
+      ],
+      "countries": [
+        "Romania",
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal heightened risks including terrorism and regulatory challenges ahead of major events.",
+    "linkedin": "In the last 48 hours, drone activity has surged, highlighting security concerns in various sectors and prompting authorities to take action."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-07"
+}
