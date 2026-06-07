@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Four IDF reservists wounded by Hezbollah drone - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDRYcVQzd3JiUVZGWWtwdVV5ZEE5WG0zb1EtTlh3elZNVzJ2VWJvd3dyR2V0aGtITGg1Q0hIVE5CWTZwUjh4SjA1cDZMYk5RSWRaWUp1aWRkS29sRjRCRHEwRXMyTmNSRkthU0NldkJwNXFyLTRETk1uZUlPNGEtR1lfdEs5clc3WG11SkNSc2JHZkhiV1E?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-06-07T04:02:00+00:00",
+      "description": "Four IDF reservists wounded by Hezbollah drone  Breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-07T05:35:25.324474+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3f1e92a95b30"
+    },
+    {
+      "title": "Drone sighting delays 16 flights at Hanoi airport - VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTg4X3RoMzFsNlBQbWNiMUdCcDZTYlhfcnFMb2hDbjJkalItQllMNWRPX2RNMUZJdERFcVVVRUNMX05HRnUya1JCWkxhT1pQVHNGUklnbzlGR2RPY21RVHdoYzFlSkpkelRUYnFZc05xenM4MnhmWllTT2xRRmw0SFIzNXBESHNmcjhMbjNnc3BOd1NSWFpEaHNGbEdzRFNCaHBMR3hCRQ?oc=5",
+      "source": "VnExpress International",
+      "date": "2026-06-07T03:26:48+00:00",
+      "description": "Drone sighting delays 16 flights at Hanoi airport  VnExpress International",
+      "query": "drone airport disruption",
+      "detected_at": "2026-06-07T05:35:22.640438+00:00",
+      "location": "at Hanoi airport",
+      "category": "airport",
+      "id": "19d2b942c9e6"
+    },
+    {
+      "title": "Court set to rule on ex-President Yoon's drone infiltration charges this week - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQklBZEttSk54V20xNTR2d3otTjNfM0pYTF9ZalJuaW5sM0JJX0N6aHUySWZNOVRlNm5ZRWRoRE5jZXh2YlIwZUdnWkNqbTg0Nk1RRV9fTUNtQQ?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-06-07T00:51:11+00:00",
+      "description": "Court set to rule on ex-President Yoon's drone infiltration charges this week  Yonhap News Agency",
+      "query": "drone prison",
+      "detected_at": "2026-06-07T05:35:22.132980+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9572781ae9b1"
+    },
+    {
       "title": "Europe to Push Back as Illegal Drone Incursions Multiply - MSN",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUF9uQml6ZFJHNXNhOGI2SUtUQkZvNzZoUk10NG9yb0tvOWRzRzJkTVRPczlfNm0tSmN5VU0wTm9jVGRYX1p6S3VJU3lNOWdYOWMyRXh0cEJaZEdnamdRdklwWmUwdVJPQ3FRSlBVN3JnS1lIeHNYa2xyU1E2TThVZWtEX09IQWVKMUZjRU5wREg0bWwzUDE4WHQ4WXY4MkpBeWlYVXRPN1lrWWJtTU16ZkR5V0wwbnBKMFgwekM4NnFRaTRt?oc=5",
       "source": "MSN",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "58b36725ee8f"
-    },
-    {
-      "title": "Six dead as Russia launches over 800 drones at Ukraine - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1QxUHdVcTE2bnhqOW5vbVltRmpkWjNWaTBkZE5YRXdiX0ZKWVNpTU1iTVkzSjcwalBaTXk1LWxvc2ViVUpBeVNocHRZa2MyYkpfY3BCc3hnY3VCN010OFEwdy1PQTd4em5sSThReFV4OXVPbjVnX0l5QVU1Z2ZFUGFqeFBmYXU2Z21z?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2026-05-13T16:25:25+00:00",
-      "description": "Six dead as Russia launches over 800 drones at Ukraine  Australian Broadcasting Corporation",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-13T20:36:43.060917+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "223e50cbe792"
-    },
-    {
-      "title": "Ukrainian long-range drones are turning Russia’s size into a weakness - Atlantic Council",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3JmTldwRC1JMWZQUUgzc0hlSWtnR0xjODRTWkhLdGZfSEF2R0N6SGw2TTVLRDJ5N0NfeXF4czFKVTFTR292RG9IaDZyRnJrcHpPNS1MZWMzdS1mcUZlVUpjWU4yUGZfV045MkJ0REhiaER2MHB0ZW5GeU5xLUl4R3BqUVlra2piUFFhTThXWGVWMWd6Ukt1UWlFeVptQjZXSWgwWW1tR0Q0M1ZCNkhKYWZfcTBZa3RCVEMtTw?oc=5",
-      "source": "Atlantic Council",
-      "date": "2026-05-12T21:01:00+00:00",
-      "description": "Ukrainian long-range drones are turning Russia’s size into a weakness  Atlantic Council",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-13T20:36:43.060917+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "35d5a17211e6"
-    },
-    {
-      "title": "Bedouin Smugglers Outsmart Israeli Jamming Drones on Egypt Border - Daily Beirut",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYW50SnVnZ3JrWEk3R1JCRjVOLVZ4S1RQdkhPYVlhcEJjZlRJaW9TMmtUZ3FNdG9kU296Qm1Xa2c4N0U1LXNDdUtCVjZYb0R4SE5EVExCUnhpM1c1TWEyMWIzc0oybDJFUVFXcnI2bVdIUEF0bklDQTZIX1B0dnFrZzhmZjV5TmI2cmFPWUFjUzRRbEZfX1pJWl9ncjNBVEhv?oc=5",
-      "source": "Daily Beirut",
-      "date": "2026-05-13T11:08:17+00:00",
-      "description": "Bedouin Smugglers Outsmart Israeli Jamming Drones on Egypt Border  Daily Beirut",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-13T19:35:30.639865+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "34fa78d4e443"
     }
   ],
-  "last_updated": "2026-06-07T03:13:48.965677+00:00",
+  "last_updated": "2026-06-07T05:35:26.433205+00:00",
   "total_count": 1000
 }
