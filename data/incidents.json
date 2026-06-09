@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Moab Helicopter encounters unauthorized drone during wildfire response - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUlLTDcxMmo3RXBBREFyZ0FnMW10UDRNQjgtNUx3Z1c5TWc5LTdac1RBeUgxb2VGWTQ1andQWDY3ZFk5QVpvbkx6ZnI0RXRYeHoxdTZhTEJLRG1rMVc3UTJfNFRjOWgzVjk4QlU4WmVCMDdJUFpFVG1LUHE5UFpTbTJGZFhUVVFST2ZqdHdHZGhQYjJlS0ZxUXZtY1RiZWhKSkxhdWZvWjBpQQ?oc=5",
+      "source": "KUTV",
+      "date": "2026-06-09T21:19:03+00:00",
+      "description": "Moab Helicopter encounters unauthorized drone during wildfire response  KUTV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-09T21:36:18.388041+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "30a1d21d3f32"
+    },
+    {
+      "title": "Moab Helicopter encounters unauthorized drone during wildfire response - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjJDb2JJTUlmZlJ3RjhTUDctN1NGaERnZVdNOXRndVJmWUJkV2hKUUZUcl9rb1NYRXlRd1hhYzZMQXJ3VV9KNUlYNTBfWElSS2puNU1YWnZSSjQxd1h0Vi0wc2RjOXJQNE41N0VSZXRJRFpNVV9rYmNUN2ZxclVtTVB0ODZnZ1hfVEpoYW45TE55WkEwQ2tkMUhDQm1mMms?oc=5",
+      "source": "KUTV",
+      "date": "2026-06-09T21:13:41+00:00",
+      "description": "Moab Helicopter encounters unauthorized drone during wildfire response  KUTV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-09T21:36:18.388041+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "b25db9d41a6a"
+    },
+    {
+      "title": "Drones in hunting would be illegal by law - logos-pres.md",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9scEhmZHFfQkpzNmxCMmJtUWx6VW1LN0pYRU8xRTZCVTBsNk9TUExsTl9YT2Q2MF9sdzBWNUE5QXhFNUJuUnlPRGt3WVdhZUF1R3hzUDFWX09KUkxqREg2bzBRUE1SQTUyaXhyR0dxemdwSjlaS3UzRWpoaHg?oc=5",
+      "source": "logos-pres.md",
+      "date": "2026-06-09T05:32:01+00:00",
+      "description": "Drones in hunting would be illegal by law  logos-pres.md",
+      "query": "drone illegal",
+      "detected_at": "2026-06-09T21:36:16.642499+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8ec3f42d5b90"
+    },
+    {
+      "title": "Minneapolis standoff: Deputies fired at, drone shot down after attempting to serve arrest warrant - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZHRycVhOSDJwZUNFcGphVlpvY0VFRDVWRlpKaVd6V3ZDcEZzLVdPa19RS0R1UXpBenB0d0hoajJuLW5FN2NHRHd0UUxOTTBBcG9Gb3huam1xa3RxMEp0c3lGdHU1UXRmaHfSAW9BVV95cUxQcVdxYTgwQ1JtY1luZW1wSU1yVmFObWZwQkhpZDRxcDMybng1NkpfbDhWUUJLUmVzU01PaURaNTFCTVk4UFFBNENKOEVJbk1qVndIaUdsUVI5emJLbTloTDQwYVRsekExa3pENzZITUE?oc=5",
+      "source": "FOX 9 Minneapolis-St. Paul",
+      "date": "2026-06-09T17:39:13+00:00",
+      "description": "Minneapolis standoff: Deputies fired at, drone shot down after attempting to serve arrest warrant  FOX 9 Minneapolis-St. Paul",
+      "query": "drone arrest",
+      "detected_at": "2026-06-09T21:36:13.789862+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "cae32d3a664f"
+    },
+    {
       "title": "War Department Leaders Observe Kansas City's Counter-Drone Preparations Ahead of World Cup - U.S. Department of War (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLXlOc2I5SXpNRFFOcWx1RWw5WG5QSzlzZFV4NmJLTE5mdEg3aFAzbjM4cnZGV2tqV1hOR3dYdklsVjRfSEpZZDdvN3BsUjhCbWszSUw4bDZiV3ZyMWlUd2w3T2dSdE1OT3R6WXZTVEZFSVJXcDlBLTZkdEFlQU5qX2lCY0xMRS1BQmktVHd1N250eFZaOUtzdUN4TUpzRjRwQ1NBVmIwOEh1X3lpUlVFN0VEdkg0Yzhoa3kwQTJFaXpNNkFscDFDcm53M28zZnNVSV9PRm4yRUc4QQ?oc=5",
       "source": "U.S. Department of War (.gov)",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "3345336d85c6"
-    },
-    {
-      "title": "Kim Komando's Tech Tips & Advice: Prison Drone Deliveries - MySA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZm5RcWVzYy1hNjExRDYyX3VDczJqZFVuYUk0dDZoSjlUX0VWcElCMVh4Vkk3a0NBYTRGTWg3Yl85ZU5sVGgyd0drMmZjc08zQWlpQUxBb2RHTWdmZU5NTU4zU1R2bjMwSjhFZ25WcGFndlF0S0Q1SXFSYmo3NjV3UFFsNXExYW41cFRGSGtBbHFORk5ETDNoNWE4VDkyZUk?oc=5",
-      "source": "MySA",
-      "date": "2026-05-14T19:39:21+00:00",
-      "description": "Kim Komando's Tech Tips & Advice: Prison Drone Deliveries  MySA",
-      "query": "drone prison",
-      "detected_at": "2026-05-14T20:34:07.396835+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b383b79e4557"
-    },
-    {
-      "title": "DPS secures drone mitigation technology ahead of 2026 FIFA World Cup - Colorado County Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmpmcU1aY3ZlRXh1WlptTzZDdVlTMWRIdnAxRXpfWUVFWnp1d3hLRExZVDNUODRianpPTUZ1RkJxR2prakxXeVlOUU96dlJsQndQdUtjTGkyYXBrQmRSYS1PN0lINmhGOTJrZ3daSzd0TGQzNGJhWHM4S0dZYXJKOXdEUnc5YVR6emZrWkgtNldhY2tMYnFxOHo5U3o4Y09xNjFwM2lxVURiQ3NGTEpWdU9JUG5FNUI0V0ZF?oc=5",
-      "source": "Colorado County Citizen",
-      "date": "2026-05-13T02:58:16+00:00",
-      "description": "DPS secures drone mitigation technology ahead of 2026 FIFA World Cup  Colorado County Citizen",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-14T19:34:59.342229+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0dad928b7b32"
-    },
-    {
-      "title": "9 arrested, including former CO, in Texas prison drone smuggling ring - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRE5mdWt4NmtZVGtwVnh2aDdhMk1Id0RBa1QxSDM1VDVZanJ5SE9JSmNrYUg3eWxSSUhER0hZUjFRbXZ2NFJEd2drTXFvZmczd0dLdWg2cm9naXV3ek50QU15MWFEUnUxUFVVZjhJUXdCblNnQTZCdktiWUEycUZLTGpTN1BNc2EtV0dKLUZJdlJjME9scWtpVW81Z09DbldQcl9aX1dTTjc2Z2c?oc=5",
-      "source": "Corrections1",
-      "date": "2026-05-14T18:59:47+00:00",
-      "description": "9 arrested, including former CO, in Texas prison drone smuggling ring  Corrections1",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-14T19:34:55.706866+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "720ce5bc5e93"
-    },
-    {
-      "title": "Latvian government collapses amid dispute over breaches by Ukrainian drones - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDlJRklkbXBUckZ1YU5mLUFma3pfWUNJN0p4czVCRkVlaEZfdnB0RWw3akdHUHNMdHMyOHpDWjE0UVY4eDFJNHpWVUpsY0NEODRtX09GcGJNT0hlUUM4UVd4NXlFZXJyVG9OcXZ2cldNUllXUlBWcjZhSU1GZXhOZW44WUVNNmNRc1JKVmRVZmlSbnprYzFvLVV3cnF6Z0k4ZnpOWjRCaE5KOTVkZFlXS3BUMi1lY1lhZG5PUXRHaE5nZw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-05-14T19:06:37+00:00",
-      "description": "Latvian government collapses amid dispute over breaches by Ukrainian drones  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2026-05-14T19:34:54.580470+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "9abf25f68be1"
     }
   ],
-  "last_updated": "2026-06-09T19:43:21.168280+00:00",
+  "last_updated": "2026-06-09T21:36:18.844022+00:00",
   "total_count": 1000
 }
