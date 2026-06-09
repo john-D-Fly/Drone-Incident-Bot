@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Southern Military Zone Foils Drone Drug Smuggling Attempt - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3hEQm9OdTIxYkRwekw2WTZXRHNRYmFOSDFMY0luOUNTbUZQTlVvaDhEREtGYzlNM1hjdDRZRXRKbGEybWR6TzRsRjBQMnZkeHZIUnBDb1RBXzh6Nmg5RmJzbGJSeFI4MzFnTlR3Z2V3SE16VlZCaE1HZFowc0R3VGQyTUk5UnpmaFZxRWN4Q2pzZw?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-06-09T10:52:46+00:00",
+      "description": "Southern Military Zone Foils Drone Drug Smuggling Attempt  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-09T11:06:10.170591+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "53ff828fa7aa"
+    },
+    {
+      "title": "Army foils drug-smuggling attempt using drone - Ammon News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3Y3FpWWhyTG52TkpZakZOcnlkNVQwWVpZbGFGMEJ1VGFOODFjY2cyT2dkeGFmY3pkOHVBMGxPNlRsVzFyU18zcGw5Z0l3aGM?oc=5",
+      "source": "Ammon News",
+      "date": "2026-06-09T10:59:27+00:00",
+      "description": "Army foils drug-smuggling attempt using drone  Ammon News",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-09T11:06:10.170591+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "fbe4ee04c3ee"
+    },
+    {
       "title": "Bioterrorism on Synthetic Wings: The Threat of Drone-Delivered Fentanyl - Homeland Security Today",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzM1Q3FFbFhRak1MSGc4cnBjSGY0X0xYQU55RHJjd3dLV3ZGVkF1b3AzdXI4anZQSUdiUDRjbGtHRThqNUxZWFowTTQ5X2NSUTRWWjVrbjZpMUFSQTBHT0p2QUVEUTg3TThZcHNlQ2FPeFFRcHNZcjRSX01ic0RsZTdZOEFVcURzNE9WTXhIVzdNc0E0eUZKS1B1RmxUTDZxRVloMGZ0aUI5akhXYy1wTldhTGxHbktDdGg4a1U2cVI2dUFOOWVoVjV2TG4?oc=5",
       "source": "Homeland Security Today",
@@ -11975,32 +11999,8 @@
       "location": "in Chicago railcar burglary, of",
       "category": "arrest",
       "id": "149df21c022c"
-    },
-    {
-      "title": "Three Israelis wounded by explosive Hezbollah drone in northern Israel, two in serious condition - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DTzFKNGdnQnBHZHVKdlB3Mjh5emg3bjhhX1hPMnpDMmtaTXV1QjRmMEMyVXVHZUpHaGotUzVLVXpCdm1SVFJZUkp1OFpfSHlUZkV1SmNYc0ptUnlR?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-05-14T11:59:57+00:00",
-      "description": "Three Israelis wounded by explosive Hezbollah drone in northern Israel, two in serious condition  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-05-14T14:54:59.683437+00:00",
-      "location": "in northern Israel, tw",
-      "category": "other",
-      "id": "aae954061f81"
-    },
-    {
-      "title": "Latvian government collapses amid dispute over breaches by Ukrainian drones - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDlJRklkbXBUckZ1YU5mLUFma3pfWUNJN0p4czVCRkVlaEZfdnB0RWw3akdHUHNMdHMyOHpDWjE0UVY4eDFJNHpWVUpsY0NEODRtX09GcGJNT0hlUUM4UVd4NXlFZXJyVG9OcXZ2cldNUllXUlBWcjZhSU1GZXhOZW44WUVNNmNRc1JKVmRVZmlSbnprYzFvLVV3cnF6Z0k4ZnpOWjRCaE5KOTVkZFlXS3BUMi1lY1lhZG5PUXRHaE5nZw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-05-14T14:39:23+00:00",
-      "description": "Latvian government collapses amid dispute over breaches by Ukrainian drones  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2026-05-14T14:54:59.683437+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "5dfb614838b7"
     }
   ],
-  "last_updated": "2026-06-09T09:13:22.679969+00:00",
+  "last_updated": "2026-06-09T11:06:19.619473+00:00",
   "total_count": 1000
 }
