@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the last 48 hours, there have been several significant drone-related incidents predominantly focused on smuggling and security breaches. Multiple attempts to smuggle drugs into prisons were recorded in various regions, which highlighted an ongoing concern with drones being exploited for contraband transport. Notably, military interventions thwarted drone airdrops aimed at prisons. Other incidents included NATO jets intercepting unidentified drones amid rising tensions in the Baltic region. Additionally, illegal drone incursions in Europe and incidents at U.S. airports due to drone sightings caused disruptions. Overall, these events reflect a growing trend of unlawful drone use for smuggling and the ongoing risks that drones pose to national security and public safety.",
+  "totals": {
+    "smuggling": 5,
+    "terrorism": 5,
+    "other": 12,
+    "arrest": 3,
+    "airport": 1,
+    "drone prison": 3,
+    "drone smuggling": 4,
+    "drone illegal": 5,
+    "drone terrorism": 4,
+    "drone crash": 1,
+    "total_incidents": 29,
+    "by_category": {
+      "airport": 1,
+      "arrest": 2,
+      "crash": 1,
+      "other": 15,
+      "smuggling": 7,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 4,
+      "drone crash": 1,
+      "drone illegal": 5,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 4,
+      "drone terrorism": 10
+    }
+  },
+  "clusters": [
+    {
+      "topic": "prison smuggling attempts",
+      "rationale": "Multiple incidents involved drone attempts to smuggle contraband into prisons.",
+      "incident_ids": [
+        "2a502a529523",
+        "53ff828fa7aa",
+        "fbe4ee04c3ee",
+        "f368b4860dff",
+        "b86ec8a952f6"
+      ]
+    },
+    {
+      "topic": "drug smuggling",
+      "rationale": "There are several attempted drug smuggling incidents recorded using drones.",
+      "incident_ids": [
+        "53ff828fa7aa",
+        "fbe4ee04c3ee",
+        "b459ef6ddf67",
+        "airSight, Flock partner to thwart prison contraband drone smugglers"
+      ]
+    },
+    {
+      "topic": "illegal drone incursions",
+      "rationale": "Several occurrences reported illegal drone incursions along with security implications.",
+      "incident_ids": [
+        "4fd0d2bc602b",
+        "46dfd61a1e1c",
+        "71c2c5e31da8"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "2a502a529523",
+      "headline": "Drone Attempts to Smuggle Illegal Cargo into Chania Prison",
+      "one_sentence": "A drone attempted to smuggle illegal cargo into Chania Prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "53ff828fa7aa",
+      "headline": "Southern Military Zone Foils Drone Drug Smuggling Attempt",
+      "one_sentence": "A drone drug smuggling attempt was successfully foiled by military authorities.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fbe4ee04c3ee",
+      "headline": "Army foils drug-smuggling attempt using drone",
+      "one_sentence": "The Army successfully thwarted a drone drug-smuggling operation.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d028b50cab7a",
+      "headline": "Bioterrorism on Synthetic Wings: The Threat of Drone-Delivered Fentanyl",
+      "one_sentence": "Concerns grow around drones delivering synthetic drugs like fentanyl, highlighting bioterrorism threats.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9f1075511b68",
+      "headline": "Illegal drone imports face crackdown",
+      "one_sentence": "Authorities are initiating a crackdown on illegal drone imports amid rising concerns.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal a surge in smuggling operations and security threats across regions.",
+    "linkedIn": "The last 48 hours have seen a rise in drone-related incidents focusing on smuggling, security breaches, and proposals for policy adjustments in response to these ongoing risks."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-09"
+}
