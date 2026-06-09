@@ -2,6 +2,18 @@
   "incidents": [
     {
       "title": "Moab Helicopter encounters unauthorized drone during wildfire response - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjJDb2JJTUlmZlJ3RjhTUDctN1NGaERnZVdNOXRndVJmWUJkV2hKUUZUcl9rb1NYRXlRd1hhYzZMQXJ3VV9KNUlYNTBfWElSS2puNU1YWnZSSjQxd1h0Vi0wc2RjOXJQNE41N0VSZXRJRFpNVV9rYmNUN2ZxclVtTVB0ODZnZ1hfVEpoYW45TE55WkEwQ2tkMUhDQm1mMms?oc=5",
+      "source": "KUTV",
+      "date": "2026-06-09T21:12:27+00:00",
+      "description": "Moab Helicopter encounters unauthorized drone during wildfire response  KUTV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-09T22:34:58.910234+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "83e2e51ab331"
+    },
+    {
+      "title": "Moab Helicopter encounters unauthorized drone during wildfire response - KUTV",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUlLTDcxMmo3RXBBREFyZ0FnMW10UDRNQjgtNUx3Z1c5TWc5LTdac1RBeUgxb2VGWTQ1andQWDY3ZFk5QVpvbkx6ZnI0RXRYeHoxdTZhTEJLRG1rMVc3UTJfNFRjOWgzVjk4QlU4WmVCMDdJUFpFVG1LUHE5UFpTbTJGZFhUVVFST2ZqdHdHZGhQYjJlS0ZxUXZtY1RiZWhKSkxhdWZvWjBpQQ?oc=5",
       "source": "KUTV",
       "date": "2026-06-09T21:19:03+00:00",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "02ea7e228feb"
-    },
-    {
-      "title": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure - Crowell & Moring LLP",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5",
-      "source": "Crowell & Moring LLP",
-      "date": "2026-05-14T20:03:45+00:00",
-      "description": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure  Crowell & Moring LLP",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-14T20:34:10.577092+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "3345336d85c6"
     }
   ],
-  "last_updated": "2026-06-09T21:36:18.844022+00:00",
+  "last_updated": "2026-06-09T22:34:59.448987+00:00",
   "total_count": 1000
 }
