@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "FBI, FAA mobilize drone enforcement ahead of FIFA World Cup 2026 - Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQU90Tndha2N1TV81aERQNGRMdElLMTZpVnVvSjdFcnBnTnBUZWFJa3lCY216bC1velJ2NFduRWtyTFpjb3BNeTRTUHB5LVU3d053VnhxUlJtWHQ1bUs1QTFoUmhoSlhKRWlzQ0xsS3o5dTQ5aUo1aVp6QWNISzRrRzByT3d4WlpIYnlSS1lTNmxLa2tlaW1EQjZRUEZNSy1tVGI0WTczeHRHdw?oc=5",
+      "source": "Türkiye Today",
+      "date": "2026-06-09T20:21:32+00:00",
+      "description": "FBI, FAA mobilize drone enforcement ahead of FIFA World Cup 2026  Türkiye Today",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-10T15:08:54.422241+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "522b66a50bf4"
+    },
+    {
+      "title": "Russian drone strikes high-rise in Ukraine's Kharkiv amid massive attack, injuries reported - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXo3dE90eHlPcml4STdwQXo4Wno4c0VpQWRVNV9yaXRhUDl2bHBDS1dQX0hkNjdObnRYWVpJTHhLYzZsbkJxRkgtY1kybHpzYjBrUW1QNlNVTm5JSkh6Rlc1RWJpMWVCMzZBRlVKcEYyWTZ5TVBYS2Y5aWZZdUx6R200RkZJay16d0ZRek5wdEJMM1pl?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-06-10T09:20:24+00:00",
+      "description": "Russian drone strikes high-rise in Ukraine's Kharkiv amid massive attack, injuries reported  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-10T15:08:53.881263+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4897eabdb89e"
+    },
+    {
+      "title": "The biggest security concern at the World Cup isn’t terrorism or cyberattacks - It’s drones - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQmdnbWdrYVNBdTBvWC1NUFF3Nkh1Z19obllvMHBUbENka0dDazRpSlVUczhaenhRY1NyanpKY3NKYmkxMlgxSVRrVDlVVE5yMlRNblhiYTdOYlhFenV3ODliRGZWblVPYmVFNnFodl9iZjlqeHFTaDRJbDFUenlHZ3ducXlndmJKdXBjNVNIdW8wSEdsMWMzbE1EU051SFRzRjJZZUxYRE4yWDF6RUVkY2QzNXNnZnJqVV9zTXBiZkdWVzNzTGtjY0dqaTVsd9IB4gFBVV95cUxOTDV6ZFZJenIxUEdkNGRyOUo3am1xOVVxZVdaV1JRZWNkZUpNMHo3MXdaOGtua0lhSGpkT0xFek84R0tEdXM2bVVJVVJEUjJrdm92bzRaRWx6RVB5V1owRXdKRGRJM0hrSzhodlhERWl3SGpEUTI1RmlJbUpaWkpwbHBpdEVLVUJ5ZjdQR1Zpb1REeUNWUUgzUlB3OWg2MWtKNkRQdGdHOC1XSWNZa1hBeExlZlpVNGZTUzBNandaU2xjS1VOTFNMaEV6UlJyckZ1Q2pBY0Nic3ZoSjJ2QWtneFhn?oc=5",
+      "source": "Diario AS",
+      "date": "2026-06-10T13:17:10+00:00",
+      "description": "The biggest security concern at the World Cup isn’t terrorism or cyberattacks - It’s drones  Diario AS",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-10T15:08:53.881263+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "3a11e5d90354"
+    },
+    {
+      "title": "U.S. Apache helicopter shot down by Iran, Trump says; crew rescued by sea drone - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDZqWXQxNGRlaFJpNDlfVUhQNWN2bHhvWkJVRTlsWEVwSzg1Z08ySGpRT2VJRmJjYkw5bjVqc2ktOFhHTnh4SDhWSnl4aG51QUZBUnBUMXBBU2RkVDY0QjZsS01KOFl0MmRrMTJpbjVvWTc1c1hxcTd5N3BNSlVSSE5YUFVzc2xvYk1nYlg5NmI3bEphRzQzWWhxOHU?oc=5",
+      "source": "CBS News",
+      "date": "2026-06-09T12:03:00+00:00",
+      "description": "U.S. Apache helicopter shot down by Iran, Trump says; crew rescued by sea drone  CBS News",
+      "query": "drone crash",
+      "detected_at": "2026-06-10T15:08:52.151414+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7a3ebf30323a"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait - Condé Nast Traveller Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5",
+      "source": "Condé Nast Traveller Middle East",
+      "date": "2026-06-10T05:30:01+00:00",
+      "description": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait  Condé Nast Traveller Middle East",
+      "query": "drone airport disruption",
+      "detected_at": "2026-06-10T15:08:51.571469+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "6ddb7a0377a7"
+    },
+    {
       "title": "Ukrainian Drone Attacks Damage Russian Industrial Sites - The Moscow Times",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazNwZ19xQTVRWEZ3OHdfbTZsV2ZxeDJ6LWlRbDZNRmF4YURLRWhIWVhxQmVrTnlDamhHWC1ST3NhTnE2Wnk0M0U2Z0FSNGVtaXVnLW5BeDR0b05UdzBJd2lpbzhwa0RBWGRFVjF4NEdrdS1KQWVBN1V1ZTM3cS1Jenk1TG1tcmItV3RZbE9nWEJJc2xNVU1LYXNxMEJvekRTT1ZIRHltZw?oc=5",
       "source": "The Moscow Times",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c9b0f3b2286b"
-    },
-    {
-      "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdhSTJMei1PZUkxZVI1ZmhSMHBERU9nUnhtNmF6THN0SEdtaTdpLURPNDRhZ2NIMEVWTlllWXEtblh1c1dMOEZBU0NmMktLYUs5TjQzcDMyb1d4czRvT3FMUC1jM1V3ZnNfcmdydWJER3ZyRUp1Rm95VFl5NXpGS2ZDQ1Y1eFJQTDlCaXlLdk1wdXM2M04zekFxdFZMVG9Ib2FyMlNfVTc1V0NEblpMenlKTWcyZkFFLXc?oc=5",
-      "source": "The Guardian",
-      "date": "2026-05-15T10:53:00+00:00",
-      "description": "Ukraine attacks Russia with drones after suffering three days of massive strikes  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-15T12:42:05.581325+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1b171a5d0d82"
-    },
-    {
-      "title": "Defense Forces Intensify After Mystery Drone Alert Grounds Flights At Major International Airport - Simple Flying",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuSU9zYVZad0lLbWpSLUdpRV9DR2V3R2FiRG9yTFBZckdoV2UzQzFOa1JOVWpfNzMxY254RnJvemVjOGdSdFFxQkZ3YjZvM3FMUTFyUURZUFMtaU5XcEVES1llWVdhNzNzYXFZNENRVFdSTU9FQUtOdmtjcEhYZw?oc=5",
-      "source": "Simple Flying",
-      "date": "2026-05-15T11:43:14+00:00",
-      "description": "Defense Forces Intensify After Mystery Drone Alert Grounds Flights At Major International Airport  Simple Flying",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-15T12:42:03.440262+00:00",
-      "location": "At Major International Airport",
-      "category": "airport",
-      "id": "4854043fd8b7"
-    },
-    {
-      "title": "Kim Komando’s Tech Tips & Advice: Prison Drone Deliveries - CarProUSA.com.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVlKVWM4VTRJUXdPTThJUVFSejdvMGJNN2FTdVVIWDczSnRvVmhpTTN4VHg4UGJvYXVTanQwMG94MEw4T2NtRzNqN2x6TnZnUzhRd21WYU1VeGJCSlJCMWZmeHdLTE81UWh6Rl82TXRpRjdnU0c3MTEyMjVHTGhrNmJBTVZ6MlBLb0VWbWxaS2FvZ2dfR0Y00gGnAUFVX3lxTE8tMDhPckI1NlhGNENUbkdLd1V6LU1pS2V5R2ZScDlWclZlbDJhR0JRcmVJQU5VR3d4VWR1T2ZzdV9NZlFydllxN2JGVThacTFzNXAwQmhuM3FpNTE0d1htT1JWTW9YNW5pZ245bmhDWUEtYTFaY2JKcnVOWHJXb1htdU5iVC11X3ZkTHJ3R3pqNktfbG9kYnI2R29SZnhjaTBkcm9VSHBn?oc=5",
-      "source": "CarProUSA.com.",
-      "date": "2026-05-14T22:21:25+00:00",
-      "description": "Kim Komando’s Tech Tips & Advice: Prison Drone Deliveries  CarProUSA.com.",
-      "query": "drone prison",
-      "detected_at": "2026-05-15T12:42:02.866432+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "41c0d688a6e8"
-    },
-    {
-      "title": "Latvian government collapses after Ukrainian drones strike oil facility - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm90VXpQVDUxbkVYdEpyMXBENUV1czNZRUtXbDdhVGxRVk04eWFHQ2xWeUZZQlJvdVE2Rm9GOHZRZlVCSFQ2ZUx0ZDFWZ0Z2Qy1DazRTdnRmUmpQcl9VcEVjYnJxLU9LeFZ3TGl6bW52UXZzRmZ1bjVTYVVaS0VrTHg0d19qbDk3UEdqRTVnS3pjOUd1NUQ1WmdzSUlKbzhNYm5laGl3SHNzMEU?oc=5",
-      "source": "The Globe and Mail",
-      "date": "2026-05-14T23:17:30+00:00",
-      "description": "Latvian government collapses after Ukrainian drones strike oil facility  The Globe and Mail",
-      "query": "drone incident",
-      "detected_at": "2026-05-15T12:42:01.266992+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "17af7e2c883e"
-    },
-    {
-      "title": "Ukraine attacks Russia with drones after suffering three days of strikes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdhSTJMei1PZUkxZVI1ZmhSMHBERU9nUnhtNmF6THN0SEdtaTdpLURPNDRhZ2NIMEVWTlllWXEtblh1c1dMOEZBU0NmMktLYUs5TjQzcDMyb1d4czRvT3FMUC1jM1V3ZnNfcmdydWJER3ZyRUp1Rm95VFl5NXpGS2ZDQ1Y1eFJQTDlCaXlLdk1wdXM2M04zekFxdFZMVG9Ib2FyMlNfVTc1V0NEblpMenlKTWcyZkFFLXc?oc=5",
-      "source": "The Guardian",
-      "date": "2026-05-15T10:21:00+00:00",
-      "description": "Ukraine attacks Russia with drones after suffering three days of strikes  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-15T10:50:24.184265+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ac6177b82ad5"
     }
   ],
-  "last_updated": "2026-06-10T13:16:04.058368+00:00",
+  "last_updated": "2026-06-10T15:08:54.947558+00:00",
   "total_count": 1000
 }
