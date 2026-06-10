@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Moab Helicopter encounters unauthorized drone during wildfire response - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVYwcDFFLW50b0tXai1kaUJhTkczODg5Q2ZwaFV2WWpCQ01EZDlKcnowLWp5U245MTBJN0tybzdkTHlyblNGbUowUm1ab1VXdkItSzlBNFBfVy1kRW1paWk5T3I2bjVHNjZXZTgyQ2M2ZW9pLTRyRWYyTEVBaHhITW1KaHdQM25YRlVGdnd0dG1fWmQwZURmdms5c2VqUFRtMWhNUi1fTmhkXy1aS0ZzQU9B?oc=5",
+      "source": "KUTV",
+      "date": "2026-06-09T23:37:13+00:00",
+      "description": "Moab Helicopter encounters unauthorized drone during wildfire response  KUTV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-10T03:12:18.333057+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "c136b58c6de1"
+    },
+    {
+      "title": "Chinese Student Sentenced for Drone Espionage at Busan Military Base - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRKSDB5bkNTb2hBbkpPM1VhNTRVZFZpNEhDRlhmSE1abXR0M3FHSzhKTFo4MDBFa3E4ZWVBUzlWUnphNUtSTU5LaU5SbTRLZU5UeEhCM1FvZlk5TGJ2eV94dGlHOGlDS0wtSFFxNjUzSmVaQlRQeWVpSk9WYXRROFFCOENMeTlj?oc=5",
+      "source": "조선일보",
+      "date": "2026-06-10T02:10:05+00:00",
+      "description": "Chinese Student Sentenced for Drone Espionage at Busan Military Base  조선일보",
+      "query": "drone prison",
+      "detected_at": "2026-06-10T03:12:14.866383+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0561cfeec84a"
+    },
+    {
       "title": "Oklahoma City Police make arrest using RTIC drone - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTQxY3pucTZVVzBwVWhjOXFobzZ6QlhVblpCekRsVERkRmhsLVVfQmk1Vm9VVlFZQjQ0NlU1emNUdVpJU1FjQ05GWXdxMjdUZ1dCTkhtenFwZjZpYm5wWFFJWG5BaHpObUtaRzhneVVtekRhSTJHR1p3WUUtVjZoajZFSQ?oc=5",
       "source": "AOL.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "469d8cd6bd17"
-    },
-    {
-      "title": "Drone Disturbance in Helsinki: A Capital Concern - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTFnMDdpaXJzSGQ2aFpiSmZ2NXZXcWI5eWNwNFloSWxBOVpHNk5fUVNKTEMxVzJKZXkybVVCcHhJUHNtTHltWEEwcmFfMVFtSUxyMGZJLW1OUmtNaVVqenhUM0xrSkZZSGpxUUMteDItWVQ0bDN0U2wwaHRZZ1M5a2k3X2xhSU9ocGlrM1VqUTltWGhsbkRqZi1fOW5lNU5GTEEtV9IBqgFBVV95cUxNS3lRQUl3bS1PODF3YjRGQ3V1SWtLaXhHS1kwSU10LXBFTzlfb1lXdnBWTURESnBmckpXTkV0VlU3NWhHQkRwTVB5aGk0UEhSS1k1Uk5XTjRTMnhwWWhzLXVBWWcybXlaUXNPUGRKN0xxVkZHalgydWpYS0kxdzZtQ25OYldMWkdsTUZoWDZvMUkxWExKVjRGSTVHcHd2SF9hWGhDV1N3UUtTZw?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-05-15T04:13:07+00:00",
-      "description": "Drone Disturbance in Helsinki: A Capital Concern  Devdiscourse",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-15T05:22:08.973269+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cf698eda9094"
-    },
-    {
-      "title": "Latvian prime minister resigns amid row over drone incursions - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3B0amZJU2R5YkFHQWkzRXBHYnRXR2VDMzJHRXdHZFhLSHh6eFNmeUFVeTNKUk9ZNHdQX1BHQ0JjREJjdmtnV21sN1FQU0VoOW8wTkhtOEJIYzUzZFdPdlR0MkVtN2VneEZnT1FFd18teHA3REh6Q1pVMGFlb3VtbWN0dkFzdGZobjJTejY5M0xhYkNmREgzdTJNdGZ1M0NOY1FJWVhYd1dDZw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-05-14T15:42:00+00:00",
-      "description": "Latvian prime minister resigns amid row over drone incursions  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-05-15T05:22:06.890559+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3a09ef15ba64"
     }
   ],
-  "last_updated": "2026-06-10T01:49:53.134152+00:00",
+  "last_updated": "2026-06-10T03:12:18.919978+00:00",
   "total_count": 1000
 }
