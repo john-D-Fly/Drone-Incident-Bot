@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Oklahoma City Police make arrest using RTIC drone - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTQxY3pucTZVVzBwVWhjOXFobzZ6QlhVblpCekRsVERkRmhsLVVfQmk1Vm9VVlFZQjQ0NlU1emNUdVpJU1FjQ05GWXdxMjdUZ1dCTkhtenFwZjZpYm5wWFFJWG5BaHpObUtaRzhneVVtekRhSTJHR1p3WUUtVjZoajZFSQ?oc=5",
+      "source": "AOL.com",
+      "date": "2026-06-09T19:21:20+00:00",
+      "description": "Oklahoma City Police make arrest using RTIC drone  AOL.com",
+      "query": "drone arrest",
+      "detected_at": "2026-06-10T01:49:47.882690+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "69bdc12ba9fc"
+    },
+    {
       "title": "Moab Firefighting Helicopter Dodges Unauthorized Drone, 17 Months After The Super Scooper Collision - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPREY1WjQybzdXNXFuUUhiYzUyYWZlNXlTdFQ3ZG1sQXV6RXZZZWZ5QkNkZk54Q1JwNHNoZ3BaVC16SXZ6UmFtTUN5Vll0VG1ZY2FxUHpEaGFsSXlpV0JsdFFyMzBIYjNUbzdVeVpWZ0pvVU00cHF6SV9XTkdhNmM1U013?oc=5",
       "source": "DroneXL.co",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3a09ef15ba64"
-    },
-    {
-      "title": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure - Crowell & Moring LLP",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5",
-      "source": "Crowell & Moring LLP",
-      "date": "2026-05-14T20:06:34+00:00",
-      "description": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure  Crowell & Moring LLP",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-15T03:11:57.229076+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9041b5925c51"
     }
   ],
-  "last_updated": "2026-06-10T00:57:50.488393+00:00",
+  "last_updated": "2026-06-10T01:49:53.134152+00:00",
   "total_count": 1000
 }
