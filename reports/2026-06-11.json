@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "Over the past 48 hours, a variety of drone-related incidents have been reported across multiple locations, particularly highlighting concerns surrounding unauthorized drone usage, especially near high-profile events such as the FIFA Fan Festival. Incidents include the interception of drones leading to arrests and the establishment of stringent flight restrictions around World Cup matches carrying hefty fines. Additionally, there are growing worries over drone smuggling and counter-drone measures being put in place in various regions to combat drug-related activities and enhance security. These incidents reflect ongoing challenges in managing drone operations amid escalating security threats and the need for legal frameworks to regulate their use effectively.",
+  "totals": {
+    "arrest": 10,
+    "security": 7,
+    "smuggling": 6,
+    "terrorism": 7,
+    "other": 14,
+    "unauthorized drone": 14,
+    "drone incident": 3,
+    "drone prison": 5,
+    "drone crash": 2,
+    "drone illegal": 2,
+    "total": 72,
+    "total_incidents": 70,
+    "by_category": {
+      "airport": 1,
+      "arrest": 9,
+      "interference": 1,
+      "other": 27,
+      "security": 16,
+      "smuggling": 12,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 13,
+      "drone crash": 2,
+      "drone illegal": 3,
+      "drone incident": 3,
+      "drone prison": 5,
+      "drone smuggling": 8,
+      "drone terrorism": 11,
+      "unauthorized drone": 24
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Multiple incidents involving unauthorized drones, particularly near the FIFA Fan Festival and during emergency operations.",
+      "incident_ids": [
+        "b8f2dcbace12",
+        "1b62ead8af14",
+        "c0a0fcb90733",
+        "c79b37ab56ff",
+        "9cd0ff6b4fc2"
+      ]
+    },
+    {
+      "topic": "Security Measures for Events",
+      "rationale": "Establishment of new restrictions and fines to mitigate risks associated with drone use during the World Cup.",
+      "incident_ids": [
+        "704b607d00d5",
+        "1b62ead8af14",
+        "976e89f8ad07",
+        "33eb88e0faba"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Incidents",
+      "rationale": "Emergence of reports focusing on drone smuggling involving drugs and the efforts to combat this issue.",
+      "incident_ids": [
+        "9cd0ff6b4fc2",
+        "6fb438d2b30c",
+        "4b30516d511f"
+      ]
+    },
+    {
+      "topic": "Military and Terrorism Related Use",
+      "rationale": "Incidents connecting drone use with military operations, showing increasing risks associated with drone terrorism.",
+      "incident_ids": [
+        "704b607d00d5",
+        "e2b7c60b288d",
+        "c79b37ab56ff"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b8f2dcbace12",
+      "headline": "2 people charged after drones intercepted near FIFA Fan Festival",
+      "one_sentence": "Two individuals have been charged following the interception of unauthorized drones at the FIFA Fan Festival.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    },
+    {
+      "id": "1b62ead8af14",
+      "headline": "3-mile drone flight restrictions in place for World Cup matches: $75K fine",
+      "one_sentence": "Authorities have introduced strict 3-mile flight restrictions around World Cup venues, imposing fines of up to $75,000 for violations.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "704b607d00d5",
+      "headline": "Ukraine's Drone Forces: Cutting the Supply Line to Crimea",
+      "one_sentence": "Ukrainian drone operations aim to disrupt Russian supply lines to Crimea as conflict escalates.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e2b7c60b288d",
+      "headline": "Iran launches missile and drone strikes on US bases",
+      "one_sentence": "Iran has undertaken missile and drone strikes against U.S. bases, intensifying regional tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "9cd0ff6b4fc2",
+      "headline": "£35 million government funding boost to stop drones smuggling contraband into prisons",
+      "one_sentence": "The UK government has announced a £35 million funding boost to combat drone smuggling of contraband into prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents underscore urgent security measures ahead of major events like the World Cup, highlighting issues from smuggling to unauthorized flights.",
+    "linkedin": "A rise in drone incidents over the last 48 hours reflects increasing security challenges, particularly in relation to major events like the World Cup and ongoing smuggling concerns."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-11"
+}
