@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Toronto police intercept drone near FIFA Fan Festival - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGVHdHRzSEJsemxVTmtHVzRNTTl0UzE2TUp4ZUZDV296V0VIVmZDb3A5dnBUbEpxYk16ZWlKNGI0WHBQMnpnaGJuNUVFRjMwaXczWjRnRTIwMDdGZjFFVjJwMHRrRzFSVFNuWlpJLTg0cjdUU0Rac2k2X0ZLUWxkbUd3Znd2Z1lOd1Y3R1pRMXc1enRXN0hBYTVUczlZellfNWJiNXZKWmxNeGhGOHhhNDZqZHBVa0x3N2twMGY5NVZPOGJ2WmhVVlBoUzk0VS1PV3c?oc=5",
+      "source": "Toronto Star",
+      "date": "2026-06-11T01:15:00+00:00",
+      "description": "Toronto police intercept drone near FIFA Fan Festival  Toronto Star",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-11T03:19:59.356620+00:00",
+      "location": "near FIFA Fan Festival",
+      "category": "other",
+      "id": "09402b5882c7"
+    },
+    {
       "title": "3-mile drone flight restrictions in place for World Cup matches: $75K fine - The National Desk",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPU0g2aXFyVERnSU1JOWN3QnEySVJaTDRBQVZ0a0RoR2c1bUZCVEFGeTRSU2MtQmZNc0V4WkZOZ3VfWndXT3VGQktHN2FJejRHSW1UbWthQ1lxOENyYVR5c1dDREpIOTA5eWFrYUJqbFZYdzRkUzFqR2R2LWYydHZkWWd1eDhjZUU3QVF3QWhRbWJOT2ZqRmRGLUx4YkNaemozUmplaVE1MzdnRl9icGx1RXJscF83dDRhMnFjRUdkajJQX0NRUVZkOG1rbVNIaUZaMXh1R0hlelgtbjZ1cE5zcjJIaFEwLUVMU3RnXzBWTS1ITnI2VnEzbDU3VFEzbDQ5RHZDVXBneW5KY3hSNHo2T1JPczlQQlV0WVp0dDlnUVJVZGpPeG9qaUMzX0VhMHBQTnBMUUlZTS05U2h5?oc=5",
       "source": "The National Desk",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1f7a1b0278d3"
-    },
-    {
-      "title": "Finland says Helsinki drone threat has ended, reopens airport - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVNLcXBxV1JTLURZdlh5TjlVOXhZU1k3a2RCakF6dTRhcHNZdzZkWGxia1hoTGNCRmtXemNmbzZWWWMxWWp4bFNTVU9lUERHOUZOMkNTdU1hbk9uRDh3SVVUbzJoSGJXRVdRZWNaN0ZxU0tqb18wY2ptM1R2Y3ZwMDYwU2pjczE1NzFIbS02amdJOWo3c01KcFJHUE1iTXZyWF9sVW9WMjNOTEVSVENadU1LVHpNTUszOUlQcGtpdzA?oc=5",
-      "source": "Reuters",
-      "date": "2026-05-15T09:22:14+00:00",
-      "description": "Finland says Helsinki drone threat has ended, reopens airport  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-05-15T20:29:06.017477+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2bf1bd0dae23"
     }
   ],
-  "last_updated": "2026-06-11T01:57:15.894505+00:00",
+  "last_updated": "2026-06-11T03:19:59.822639+00:00",
   "total_count": 1000
 }
