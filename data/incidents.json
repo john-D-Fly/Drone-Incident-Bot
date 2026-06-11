@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Toronto police intercept two drones near FIFA Fan Festival - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGVHdHRzSEJsemxVTmtHVzRNTTl0UzE2TUp4ZUZDV296V0VIVmZDb3A5dnBUbEpxYk16ZWlKNGI0WHBQMnpnaGJuNUVFRjMwaXczWjRnRTIwMDdGZjFFVjJwMHRrRzFSVFNuWlpJLTg0cjdUU0Rac2k2X0ZLUWxkbUd3Znd2Z1lOd1Y3R1pRMXc1enRXN0hBYTVUczlZellfNWJiNXZKWmxNeGhGOHhhNDZqZHBVa0x3N2twMGY5NVZPOGJ2WmhVVlBoUzk0VS1PV3c?oc=5",
+      "source": "Toronto Star",
+      "date": "2026-06-11T01:15:00+00:00",
+      "description": "Toronto police intercept two drones near FIFA Fan Festival  Toronto Star",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-11T05:39:06.007050+00:00",
+      "location": "near FIFA Fan Festival",
+      "category": "other",
+      "id": "c0a0fcb90733"
+    },
+    {
+      "title": "3-mile drone flight restrictions in place for World Cup matches: $75K fine - WKEF",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQV1puQUZYcGpKZFdCajFiTkdDU3NuektYUllhR3Rtd0xpemxlREIxdHNhbzE0cVZxWlAzRm9ST21YZURpVDhXRkJ0ZXR1WEVqNzlDT1c0WmhZNFJhQ3IzN2hFWHhPR183VzRleG9uc0tLZUx6WFA0RVNHRDdqR3VEaHNyMWNpNUxVT1lkei1zR2FIYnNoSUVIamtKdXNVQWRoVHU2RVlFb0xYTjNJSzVINnF4RzlNMVFxOWY2bzhubmhsSHBhYnJRNWZxRjJPR0JuU2ctN0E5ZkpNVkpLaFdoN3ZCaTI0NWpwUDJRV0xCNDFObEZvVEM4bHhCSXRMUS1PUnY1QTNJSzE5ZUlaWDRCaXhVSUFXVlNXOWVhQzRTSm9DRV9LZHJUQk53THU5SXpmTUE?oc=5",
+      "source": "WKEF",
+      "date": "2026-06-10T21:23:41+00:00",
+      "description": "3-mile drone flight restrictions in place for World Cup matches: $75K fine  WKEF",
+      "query": "drone prison",
+      "detected_at": "2026-06-11T05:39:02.733902+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "976e89f8ad07"
+    },
+    {
+      "title": "Thousands of prison window grilles to be fitted to stem drone smuggling – Lammy - Radio News Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNWhhanBwUHQ2NmFUbDJJVW9vNGxKUWRYS2MtdWRkU2kyUWdoZGNCYWIwaGstTjhUSU5CUl9Oa2ZKWGZUSlY3TGF5OTRIbUFFQk5YVC1kSGs0RkJ6QlBGNGVFTHlOTXlEWGxQODhNcWJYUnVhajdWSl9BNTJHbzM0SUdMY1RsaVFUdVgxbmpabWRtby1pOXd3MklpaDYtWmhoeGVOVVdpeEphYWZZN0x1VnFlR2ZDS3k2SlZVclh4TkJvNV9CSmUxMQ?oc=5",
+      "source": "Radio News Hub",
+      "date": "2026-06-11T05:09:04+00:00",
+      "description": "Thousands of prison window grilles to be fitted to stem drone smuggling – Lammy  Radio News Hub",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-11T05:39:02.222974+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b70a7781e6ba"
+    },
+    {
       "title": "Toronto police intercept drone near FIFA Fan Festival - Toronto Star",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGVHdHRzSEJsemxVTmtHVzRNTTl0UzE2TUp4ZUZDV296V0VIVmZDb3A5dnBUbEpxYk16ZWlKNGI0WHBQMnpnaGJuNUVFRjMwaXczWjRnRTIwMDdGZjFFVjJwMHRrRzFSVFNuWlpJLTg0cjdUU0Rac2k2X0ZLUWxkbUd3Znd2Z1lOd1Y3R1pRMXc1enRXN0hBYTVUczlZellfNWJiNXZKWmxNeGhGOHhhNDZqZHBVa0x3N2twMGY5NVZPOGJ2WmhVVlBoUzk0VS1PV3c?oc=5",
       "source": "Toronto Star",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "c0b495ec56a1"
-    },
-    {
-      "title": "How Did a Ukrainian Sea Drone Wind Up in Western Greece? - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnhPN3F3cjc0X2xBcldfc3hyaXBtalpmYjJzSVZYSFJmeVFLZUFHUExyUER1V0V4eVRQR3kxQnI4OHVRX0NYcTUxdThhSWFyNVFIVnFUR0lDaVpXV1duRVBRV3ZQaU16c2NZMW4xeE9EaUt0ckk1NnlHQl9PZ09KWVc5QkppeS13dnFuWG1rUXZiXzM2dTZvdDViaXluQ2xEdjh3RA?oc=5",
-      "source": "The National Interest",
-      "date": "2026-05-15T20:01:47+00:00",
-      "description": "How Did a Ukrainian Sea Drone Wind Up in Western Greece?  The National Interest",
-      "query": "drone incident",
-      "detected_at": "2026-05-15T22:22:55.322102+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6a9de5ff23a2"
-    },
-    {
-      "title": "Helsinki Vantaa Airport in Finland Reopens After Early Morning Drone Threat Sparks Sudden Travel Chaos, Halts Flights, and Shocks Uusimaa Region on 15 May 2026 - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOU0JfaUZHZ3RNbzdjNFg2RkZkSzFjMnBuWG5qN2x0U1l6NE1ULWNaY294ZDZ4aXpvT0lMeExEZXRsWVZ1WVMyd1VmSFNxbmtBTFc4WFJ4VkNLNGlXOVZ2aE9RSzdtbWgtZU9Ea0E5dktPQjg3cGlGb1dxS0tKUjc2OWxVTDZXb240V0pFMktJODhnNzU3cnZIRTh2YzF6VF96N0FWS1BWYWpCeEhyaXBwUHdON2cwdmgtNDhwdml1Q2Q0X1FuUlI1eWx0bkhXLWhXT0N1RFV0ck5nakI2UnFFcWVYOUtuMDBzU1RIOVJJMElFQk5FWnRvR1o2ZTFPRDFQeXoxV3lqaTRSMlkyZTBJMG5jWmNxNGRqX1lGX2pQMV8zY2dCLTZ1ck5sR01Jd0E?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-05-15T13:36:33+00:00",
-      "description": "Helsinki Vantaa Airport in Finland Reopens After Early Morning Drone Threat Sparks Sudden Travel Chaos, Halts Flights, and Shocks Uusimaa Region on 15 May 2026  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-15T20:29:08.289184+00:00",
-      "location": "in Finland Reopens After Early Morning Drone Threat Sparks Sudden Travel Chaos, Ha",
-      "category": "airport",
-      "id": "770938b5a624"
-    },
-    {
-      "title": "How Did a Ukrainian Sea Drone Wind Up in Western Greece? - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnhPN3F3cjc0X2xBcldfc3hyaXBtalpmYjJzSVZYSFJmeVFLZUFHUExyUER1V0V4eVRQR3kxQnI4OHVRX0NYcTUxdThhSWFyNVFIVnFUR0lDaVpXV1duRVBRV3ZQaU16c2NZMW4xeE9EaUt0ckk1NnlHQl9PZ09KWVc5QkppeS13dnFuWG1rUXZiXzM2dTZvdDViaXluQ2xEdjh3RA?oc=5",
-      "source": "The National Interest",
-      "date": "2026-05-15T20:02:05+00:00",
-      "description": "How Did a Ukrainian Sea Drone Wind Up in Western Greece?  The National Interest",
-      "query": "drone incident",
-      "detected_at": "2026-05-15T20:29:06.017477+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1f7a1b0278d3"
     }
   ],
-  "last_updated": "2026-06-11T03:19:59.822639+00:00",
+  "last_updated": "2026-06-11T05:39:06.532871+00:00",
   "total_count": 1000
 }
