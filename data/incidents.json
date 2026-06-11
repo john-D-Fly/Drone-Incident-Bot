@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Moab Helicopter encounters unauthorized drone during wildfire response - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjJDb2JJTUlmZlJ3RjhTUDctN1NGaERnZVdNOXRndVJmWUJkV2hKUUZUcl9rb1NYRXlRd1hhYzZMQXJ3VV9KNUlYNTBfWElSS2puNU1YWnZSSjQxd1h0Vi0wc2RjOXJQNE41N0VSZXRJRFpNVV9rYmNUN2ZxclVtTVB0ODZnZ1hfVEpoYW45TE55WkEwQ2tkMUhDQm1mMms?oc=5",
+      "source": "KUTV",
+      "date": "2026-06-10T07:37:43+00:00",
+      "description": "Moab Helicopter encounters unauthorized drone during wildfire response  KUTV",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-11T11:35:10.587174+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "3260ecb77a64"
+    },
+    {
+      "title": "Drone footage shows runaway 'Gator' buggy driven illegally across South Bank - Teesside Live",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXB2NVkxaW1hZGx3cklkbmNVUnp1WVRkeGlxUUVqOTJJclhSZ2JfbXU3dVc5MkMyOVA0VGNFQzVZLWNWMGFZcGc0ZWlCMlh2eFFLQzNhVWxyUFNybmt3OEJfTFQ4eVZ6cUh2MzZ5dnpiQ09rZjkxay1tOHNzbTBsRmN4Y9IBiAFBVV95cUxOeTE1ZWVRN3d1SmZuZzgxb3lBRTdJUzEtYThRVlM1NW5uX05nbnpHWEo2OVJDN2NFd1BEbkxBSjZDT0RsV3RDSDRiWHBHd3gzZ3ZwNXBySzRYNkVOZnVka2NwdFlMSFV6Ml82VHA2ekk4LUY5dllNaUdCQUdrd1djRnZSZ0ROdGhB?oc=5",
+      "source": "Teesside Live",
+      "date": "2026-06-11T10:14:00+00:00",
+      "description": "Drone footage shows runaway 'Gator' buggy driven illegally across South Bank  Teesside Live",
+      "query": "drone illegal",
+      "detected_at": "2026-06-11T11:35:09.032132+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2e296578bb74"
+    },
+    {
+      "title": "Thousands of prison window grilles to be fitted to stem drone smuggling – Lammy - Radio News Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNWhhanBwUHQ2NmFUbDJJVW9vNGxKUWRYS2MtdWRkU2kyUWdoZGNCYWIwaGstTjhUSU5CUl9Oa2ZKWGZUSlY3TGF5OTRIbUFFQk5YVC1kSGs0RkJ6QlBGNGVFTHlOTXlEWGxQODhNcWJYUnVhajdWSl9BNTJHbzM0SUdMY1RsaVFUdVgxbmpabWRtby1pOXd3MklpaDYtWmhoeGVOVVdpeEphYWZZN0x1VnFlR2ZDS3k2SlZVclh4TkJvNV9CSmUxMQ?oc=5",
+      "source": "Radio News Hub",
+      "date": "2026-06-11T05:03:34+00:00",
+      "description": "Thousands of prison window grilles to be fitted to stem drone smuggling – Lammy  Radio News Hub",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-11T11:35:06.895733+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a5b736d65206"
+    },
+    {
+      "title": "Police drone tracks purse snatching suspect in Glendale - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VXBBTFpDUjZMTWdINS00R3lEODI3blJtcGxQeWVTYl9kM3dydFc3ZllldV9qT0VHd2x4Ny1ZMWdZdzNLZzhGdVZERHBDX2lBUk0yRWdlcms2YV9MeWdPVFZRUUozQdIBa0FVX3lxTE8xeWtHSFZ5RDdDRDVCSnFKX3FhM2tzbVBWekprYWNINENFMGd2TG1ES1c2UUhtaFlMcEV3SXd1VFhJd1YxekxWZ0xER3ZwV2w1bW9CVVo2cDFsbndhQmZkUWl5bWlWQ0lLZDRF?oc=5",
+      "source": "FOX 10 Phoenix",
+      "date": "2026-06-10T22:23:39+00:00",
+      "description": "Police drone tracks purse snatching suspect in Glendale  FOX 10 Phoenix",
+      "query": "drone arrest",
+      "detected_at": "2026-06-11T11:35:06.254565+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a75e41d1433d"
+    },
+    {
       "title": "Exclusive: Pak-made bigger drones carrying drugs, arms sighted in Punjab for 3 months - India Today",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaFd1bTc0U2pCR0xLcjQ1QmhtdXpzVzdMVXczaVR4UmdiMjh1WGFORlJLVDdTbGJ4SFdQSi1oNWxNNG5ZemtwbExrNFF2MWV1M1pkNjhOQUlrRFJtMmJCeGxKOTdGYXI1RDAxUXEySS1USjdmdnRyVDg0bFIxNFlPTUtEbEw5b3hZanhpTVNhV1IzVVFsVGc3Ym1MbTAxbGdTclZHaFVHcFdMZzJBRXJ0b1Q2dEhoNlQ2Zkl1YlJBdFUycTTSAcgBQVVfeXFMUC1XaVZGdnhvamY3amxQNDZSWW5nVFlQWTY2T3piNUktSExJUzRqYzlUVXhxQ05sYlN5bzVIN3l2LVFIX09yNHRld3VJdzd0azFZOW9JOVhQLUxwUVE4c3M2X0tfbXI3akR0UWhNX2xwQTJqbnJvWEhvZU1ORHRRTzlHejQwSHZOTGVxeklPYkNFdWZxNFVUTUd6RDhHR1VYc0hreDk2Mm84ZGNiTFB2Z3E2OUtUT01WWHVoWkpXQnVMaXl4aTFrOEE?oc=5",
       "source": "India Today",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "d996366832d6"
-    },
-    {
-      "title": "Greek Probe Points to Malfunction in Sea Drone Incident - tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXlWaFBldUNycC1TaHVoQVVsX0lWYjRtUl8zZlhDc3RONFJvY0xXdzNGS0ppZTUxTE9USlR6TC0yTnNNZS1qMHRuRmd3SGE3LWQwZ2p5MWJJZFJrWGxfcXVfZ2FBTXF5ekRyUnRMakxkWWhTdkd6OXQxSW0xbDZvLXJCaGtJM3JpQzlyRzVLNGTSAZYBQVVfeXFMTlk2UThETHoteXVrTDNxNVJ5YmpPamJ3VEJaQm5oQ0xPR1RRODhoNW9xM3Ezazk4b1RpQ3FLbFVkUEpYUUp5eFFCejd5dG1oTW5UVmY4Y0tMQllWRlMxa3UwVjZCNzg4UzZScVBMZkNsa1UyTUZOLVAyNEk1MUNlYU5UR0FMUktYSDkweUE2eXFpNE9SaHVR?oc=5",
-      "source": "tovima.com",
-      "date": "2026-05-16T06:01:30+00:00",
-      "description": "Greek Probe Points to Malfunction in Sea Drone Incident  tovima.com",
-      "query": "drone incident",
-      "detected_at": "2026-05-16T06:50:46.389917+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a4fd3ef7cc58"
-    },
-    {
-      "title": "UAE rejects ‘attempts to justify Iranian terror’ after Tehran alleges role in war - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBVdWRMWnJwX2xDVzZIZTg5alQxVlc1M25DaXFySDk4OXlQOEo3aENyUlNrTkJxRVNQdUZtNFNWV3V2R3NxRjg3TFhQY0RhVHY4Z0RZYzYwZk1IUGtKY21pRHNfanNGZkZPOUdNRjRNSmRBQVRVLUZsWGhnWUljaDRUMmxraXBpVERPbm42d3d3UC1NTjBHQWl4NnhhWDRvVE53alM5ZFJDSzdXMTJv0gG0AUFVX3lxTFBPdW05Z1J5cDlULTljTmpmU2dXTEZ6Q2RGcVQwdVBPVW9nbURsRTJSVFZjdEdsUENpWmdLbV9HVS1XNUNkNEMxU254MDhsVkJXR1FaeDFVSm90ekNLSGZOQXdyQmpxWjc2c1hUcWp6V2kyN29FYk52aFdrYXQ3YUVjaEl5Qkg3TVZyRWVGdEEybUlNb21ybG40UVp2bHRtTDRxZlo1dUowcWE3eExkWi0wMUpLYg?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-05-15T21:29:51+00:00",
-      "description": "UAE rejects ‘attempts to justify Iranian terror’ after Tehran alleges role in war  The Times of Israel",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-16T03:09:59.993218+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "dea441bb277f"
-    },
-    {
-      "title": "Finland Closes Helsinki Airport Over Suspected Drone Threat for First Time Since Ukraine War Began - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDdDB0a1p5Q2Nydmc0cjBjM2hCTkludjY3Q3ZrVlRwTTVjY2NERUVYczgwdmgwYU9yNXotZ0dTNXgwRWZ3SWNtR2RtRQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-05-15T14:41:08+00:00",
-      "description": "Finland Closes Helsinki Airport Over Suspected Drone Threat for First Time Since Ukraine War Began  Kyiv Post",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-16T03:09:57.887197+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "d4339d668da1"
-    },
-    {
-      "title": "Ukrainian Strikes Kill Four in City Near Moscow: Russia - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEpXUldKOEtnRGJfTE8xRzZfZ05sbm5GaGNaVzlQVU1SQ24wNHlsUjl4aXBBVkdiWU9NVU13RVRIcjhKR1hGNzhOSzMtaXc2UHljSFlZWjJUc0toSk02S0NlX3B3WnhpWEpwcklwdVlYc1B6RExENEY3blNDWEpxa9IBhgFBVV95cUxNTnFhZ2ZNZkhmYmZhT1ZjR2Fqcl90akstM0pGZUNtV2hvV2dITjROUzFja2x3dnZQRE5wNkMtbHB5cnVOdzBZWnE2S1JvaE1ZRUN4V25JbG96Wkg5ZGhjbmZnMXRQN2szRG5CVS1Cdk1GWmczTVVtZHZMZnJrRHRPT09yMkNUQQ?oc=5",
-      "source": "The Defense Post",
-      "date": "2026-05-15T12:16:27+00:00",
-      "description": "Ukrainian Strikes Kill Four in City Near Moscow: Russia  The Defense Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-16T01:38:15.353358+00:00",
-      "location": "Near Moscow",
-      "category": "other",
-      "id": "5c0d2c7b973c"
     }
   ],
-  "last_updated": "2026-06-11T07:47:13.928777+00:00",
+  "last_updated": "2026-06-11T11:35:11.079812+00:00",
   "total_count": 1000
 }
