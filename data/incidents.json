@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "FBI Atlanta seizes 3 drones near FIFA World Cup events, warns violators could face $100,000 fines - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcm1tc3Utc0NGSGV3Q0h0Y3BaOVB5RWM5ekZGdFpveml2cml1NVFUV1NkV3MyVUM4RXVNSmFXQUtyU3ZxMmdnRl9EYlFXSkpEZmJCZy04Mms5NHlHOWpkbm1jd3U1YUVqWkdvWFhLTVJrWVotRkdfYlRVNk05ZkxTdkF6VUwxbFc5TU5DbEtSazE3aXRiSFQyWl84WTZfY2lNU0sxUVgwM0NpMXRBYzZZOHNha2lzYmpwemZzNW4wc200X2pXZzlDbzZlcGk?oc=5",
+      "source": "CBS News",
+      "date": "2026-06-12T00:33:03+00:00",
+      "description": "FBI Atlanta seizes 3 drones near FIFA World Cup events, warns violators could face $100,000 fines  CBS News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-12T17:03:14.948285+00:00",
+      "location": "near FIFA World Cup events",
+      "category": "other",
+      "id": "a2c1bbf499b7"
+    },
+    {
+      "title": "FBI, DHS emphasize no-drone zones as World Cup kicks off - FedScoop",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kUnY4RTQwaTNOYmNyRk1Lc0wwTDJENHAxcVB1eFhyRDdXTXMxVWxTT0xoSjZBaENFMGR1U3JqZUlvNFNaWnBkZXJLbHM0UUdjdWxDOXpQaUQzODU0YnhwNWJsUjV2UjVMZzZ0ckxWMTlOSVU?oc=5",
+      "source": "FedScoop",
+      "date": "2026-06-12T16:16:43+00:00",
+      "description": "FBI, DHS emphasize no-drone zones as World Cup kicks off  FedScoop",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-12T17:03:14.948285+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dc9a94efba55"
+    },
+    {
+      "title": "French NATO jet downs drone after Latvia airspace breach - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUlYM3JUX3IzSFAyVEszNkxMRUxaWjBmN1ZLaC1ZU0Q2LUltemlXZmZ4YVMyR0pmWGxYbmlDZFVsYkVpTjV5cXlaeU92bjZQUHRnMHFPNUtHSnphejNVYjYtRmJ0YjJIbU9GTWRmQTFFN0lfVDhkQ3IyVGpaeVlyWXNiNHZ2RkdQdVlubElWWVJNZDBBT3FURXUteVN4Q2hqd1cwOWk3YVdzUzkzYi11bHZ3M0JCdG9hZW9jZzQ3VklNNEJ0MndBN1Uyd1AtOFBIOTNnaW9Gb1VxQ0tFMUt0TmFoUnZpZTF6VTh4UXFMdw?oc=5",
+      "source": "MSN",
+      "date": "2026-06-10T22:28:35+00:00",
+      "description": "French NATO jet downs drone after Latvia airspace breach  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-06-12T17:03:13.767285+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "7e40f6c467a0"
+    },
+    {
+      "title": "Iran-linked hackers claim breach of FBI drone program, threaten World Cup security - Police1",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTkhaRUs0QlY3bTVmYllLVUpmWjM3QTZzYWtGR09zVTZYOG9Wa2tmYUV5Szh2eWYxcVJ3MGhGRlpvbDhoai1ZQnFkeWlJbktvVGlBVVYyQk9rWFRGNnpjS1cxTVJNTFIwTzFHVUk3OU9BQWw1Zk5CQTRNMVRYZjBVdUZkTG12RHotQ3pVbnE2VUtkbGZYaFJUMHBzNXNjRUo0R3RtLVZSVjVVT0RMM0pmLUlyNHA1bFdNLW44?oc=5",
+      "source": "Police1",
+      "date": "2026-06-12T15:16:56+00:00",
+      "description": "Iran-linked hackers claim breach of FBI drone program, threaten World Cup security  Police1",
+      "query": "drone security breach",
+      "detected_at": "2026-06-12T17:03:13.767285+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "1403ab355802"
+    },
+    {
+      "title": "3 drones operating illegally near World Cup Atlanta events seized - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT2x6NUJqWjN3SVZlRU9qMkJyY0d1M012RVhtbnNxSGlRZTNsSUJCZVBBOVIyU0JIcmxEb0xxalRsaXh3bVpPbXA5N3BnRXZ0RUhnNjlmRk9IdnBvaGZhVjVqcVExbkVuQ3phREl2UHB3NnBiemdtX0c2X2ZFS01qWEhVelFpVmo3eG9XNUpZdVVUZ2xCYngxWWdOQ3dVMGfSAaQBQVVfeXFMT2JDSS0xSnh0SnFYUV83eGJmWGNEZDNPRERTVmthQU15QXR1bUlaaXhnM0hzSHdDUTl5U0JTWHZFa3BIMEhadXVZWDhtMmtzd20tY1VsTXBIb2dwUnhrUm1oTi0zaDUxRi1jSE1IWE1zQ3BnaHNoZjRUMkI5N05QTXF0WlR3Sy1wNlZRRGJMeHhRcFRsUnp1RjZkQXFmMnJQWkp3d1Q?oc=5",
+      "source": "FOX 5 Atlanta",
+      "date": "2026-06-12T15:49:49+00:00",
+      "description": "3 drones operating illegally near World Cup Atlanta events seized  FOX 5 Atlanta",
+      "query": "drone illegal",
+      "detected_at": "2026-06-12T17:03:13.162520+00:00",
+      "location": "near World Cup Atlanta events seized",
+      "category": "other",
+      "id": "880ef6b5367c"
+    },
+    {
+      "title": "Ex-S Korean leader Yoon Suk-yeol gets 30-year prison term - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmOXlTZXRPb2VjV3hFeWtDSVhPd1JUUGZ3QmttcHlENzY4dGM5TEhCbjlPc0MwbEcxWlR5ZEpNazJSeEhwY0Q0YzVTVXN0bVRCNnM2VGV2cU9lTU5qcnFueml4b0JiZExCVlVkVnJvTkd0V0RJVjRoNg?oc=5",
+      "source": "Taipei Times",
+      "date": "2026-06-12T16:00:00+00:00",
+      "description": "Ex-S Korean leader Yoon Suk-yeol gets 30-year prison term  Taipei Times",
+      "query": "drone prison",
+      "detected_at": "2026-06-12T17:03:11.453625+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "c149b1e08f42"
+    },
+    {
+      "title": "Thousands of prison window grilles to be fitted to stem drone smuggling – Lammy - Chester's Dee Radio",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2RKZTk5dnk1Q0Vjd1ZMWEw3RmFhaWtfcU9KVVUzTWZ2Ym5LOU5FdkhxbTlVV3JwaTc2WjZHa2FvU2NiQlhQSUtGbHdwZ0p5OXdyX2dwWFV0SXR3Sk9zOVlVaTRWeEpWZWVWRnFCX0Ezb18wWDJZVVFURlZGSjF0ZzNZNDdOdnlkZzlXb0k3ei10SFNIbmJVeFZ2Yk85TzRtbDZ2STU0Mll2dm4wSEJrVjQxeTZqSEk?oc=5",
+      "source": "Chester's Dee Radio",
+      "date": "2026-06-11T05:03:19+00:00",
+      "description": "Thousands of prison window grilles to be fitted to stem drone smuggling – Lammy  Chester's Dee Radio",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-12T17:03:10.889541+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3f55dc516fcf"
+    },
+    {
       "title": "World Cup Drone TFRs Get DHS Authorization Path, Moab Helicopter Dodges Drone, And AirData Teams Up With LeoSight - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZG1sRUh5bGpjbklCeHVYWnE3LXpIX2VWaWtoM1paUGpMS3BwTmJFTzVpdXJMcmZxQUNMV082UEpvOTU3UFc5TWJuOWhDTThSY05oTzdYRXJpcmpZbVVnRUp5S01kcVZMaU5FeUlzcVpqSGNLTlp0WFNTeGRPaGtMRWo0dVE?oc=5",
       "source": "DroneXL.co",
@@ -11915,92 +11999,8 @@
       "location": "in drone hacking cases, vo",
       "category": "arrest",
       "id": "a6f5f9c11e4d"
-    },
-    {
-      "title": "Lithuania to convene national security commission after drone incident - Caliber.Az",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVgycGdjQ1hiNXhYbElVYzV1cFFqYkMwU2tnejFTTklIUUdYN0RDWFdmc1pPQWtBUHZFVFM4UHpnNjVhNjdnMWkxMm1DUHh3ZUJzbDFHYm5LUEJMcjliZUQweXM0ZU0wX3RlaXVfYjAwNG1WajRJU0hDdkRIZkRIbmdmWEdhYXA1YjF2RXhzNVd2c2Q4NVRaWVN6eFREZw?oc=5",
-      "source": "Caliber.Az",
-      "date": "2026-05-18T10:36:17+00:00",
-      "description": "Lithuania to convene national security commission after drone incident  Caliber.Az",
-      "query": "drone incident",
-      "detected_at": "2026-05-18T11:22:49.191882+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "396b3d894221"
-    },
-    {
-      "title": "Drone Wreckage Found in Lithuania, Preliminary Reports Suggest it is Ukrainian - Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTEtcVZQRXRxNHVxTkM1VkNhWGdMTG5kOU5UMGNGTmlEeFFXZGk3NFpfY183eEdHRWxpbVBCUWN6MG80M0pQQllLMWNZRjBST2JZS1hnMnlIRVo5eE5yQ0UwVWVTbW9abWFKQXYwX21rU1JfcGJmUzNiYXhJcFg1NmxCVEt4N01iYzhrSjhFVVdXSExuZXVBR001N0NHdDBrZ2JmV0ViVFR1MElYSEE?oc=5",
-      "source": "Мілітарний",
-      "date": "2026-05-18T10:56:59+00:00",
-      "description": "Drone Wreckage Found in Lithuania, Preliminary Reports Suggest it is Ukrainian  Мілітарний",
-      "query": "drone incident",
-      "detected_at": "2026-05-18T11:22:49.191882+00:00",
-      "location": "in Lithuania, Pr",
-      "category": "other",
-      "id": "817dc47b5271"
-    },
-    {
-      "title": "Mystery drone crash in Lithuania raises baltic airspace alarm amid NATO scramble - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlljN0d0OVhiTnQ2Y1M3aGFXYUFyUndNTjRaSnN1VTBvV1IxVnpTV3Y0RlVYRXFXT09Ic3VFdncydzFXeXE5NmtEcUN4amFKYllTM2t3WXJzQng0eVdhemdybjhDNUgxdG9aQlJUUGc2NWRUa3NPWWVRN182b1hpVWlLOVUzdGxMekJMUUlzYl9fVlpIMzhYcEVJSmpKTWVCWG9n?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "date": "2026-05-18T07:21:55+00:00",
-      "description": "Mystery drone crash in Lithuania raises baltic airspace alarm amid NATO scramble  Latest news from Azerbaijan",
-      "query": "drone incident",
-      "detected_at": "2026-05-18T11:22:49.191882+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4dc39065b806"
-    },
-    {
-      "title": "Police crack down on illegal drone modifications - China Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VRjFqWFpJb2Qta2F0RWxNTGZDSlEzQTNHSm1YcF96OWhrbDUtVkFtVXFuZGV3dTF5cFltS0pYV1VBcnFReFpwNDktTDZsbjQ3dnloVHdLbk1BaXJBTnFCV2JETEpXak5HZGctOU92dm8ya01nTTF0Z0NaYjlfUQ?oc=5",
-      "source": "China Daily",
-      "date": "2026-05-18T09:04:00+00:00",
-      "description": "Police crack down on illegal drone modifications  China Daily",
-      "query": "drone illegal",
-      "detected_at": "2026-05-18T09:16:41.607604+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "de5c665f4871"
-    },
-    {
-      "title": "Crashed Ukrainian drone found in Lithuania - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUJUVm5BMW9rNExCNWx6aDdjZG5MUm5MWXlKVmlDWUdETlJsUnRvLUFDcDRiR0stV09uMEwzdzY2eHlBR2dncWpvSzQ1by03OS1hZWMwbVFXQlNFNEl5bHVjRWRHb2FSMHdpajVMeDF1dXdxY0Y3UFIydEhmSEdMYWRGWFRUd9IBiwFBVV95cUxNc1Y5QmxfZk9HVndRVVo4RXFHLWJ4dk51Mmp6dGFTZ0JSWDFVYjZSSmJ6SW52M0xPazFGWnVNMWJveFNCZ0MxRkJ6alhRVmplN2U1c2JpY0ptaE9DUDhJeGFMVms1TDRzX29YOFU3bXFTU0JuRkRibVZDQzd0SVliUk5LQjBZNnZmUE4w?oc=5",
-      "source": "Meduza",
-      "date": "2026-05-18T07:36:00+00:00",
-      "description": "Crashed Ukrainian drone found in Lithuania  Meduza",
-      "query": "drone crash",
-      "detected_at": "2026-05-18T09:16:41.063673+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a2364137c155"
-    },
-    {
-      "title": "Moldova summons Russian envoy over airspace drone incident - Caliber.Az",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbm80UzdvNzlRRUtKX21TMUkzeTI1d0x1eXdTTHZ2b3lGSm5Bb2k5WE9ON0kyWE14dFc5UWdWMDZ5WmFvUmN0M3lQUWY0UmJVcW5WdGplMWE0NXIwaG4yel94cWNJblZFc1lYM0NJRS16ZThGb2hNcG45NHI3MVBpTU9pUTFRdHZVZ1FyV0VR?oc=5",
-      "source": "Caliber.Az",
-      "date": "2026-05-18T08:38:04+00:00",
-      "description": "Moldova summons Russian envoy over airspace drone incident  Caliber.Az",
-      "query": "drone incident",
-      "detected_at": "2026-05-18T09:16:38.419216+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f90882a7f0bc"
-    },
-    {
-      "title": "Suspected Ukrainian military drone found crashed in Lithuania, authorities say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbW1XRGh4T3hOdEFyTUtwU1l0aTNzbWlUTkplYVZOVUVCVUJUZjByVGNHT0lvSXVSLXFYMV9ja0JLQ2NxVERDZHFjNldJandMZ3Y2NEtWOHg3XzkzekhUUEplUmtjR1FjQWgwdTFkQVZCMENBQzJYUV9acDhCOUsyTlI4TFV0UVUzZWpFaHUxT0tTVDI0TzdTa0F4dzF1SXA2ZWU0TnNybw?oc=5",
-      "source": "Reuters",
-      "date": "2026-05-17T18:54:59+00:00",
-      "description": "Suspected Ukrainian military drone found crashed in Lithuania, authorities say  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-05-18T09:16:38.419216+00:00",
-      "location": "in Lithuania, au",
-      "category": "crash",
-      "id": "819cbe3ee5a9"
     }
   ],
-  "last_updated": "2026-06-12T15:06:53.719987+00:00",
+  "last_updated": "2026-06-12T17:03:15.611130+00:00",
   "total_count": 1000
 }
