@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Iran-linked group claims hack of FBI drones, threatens World Cup, monitor reports - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFdtZFlwQ0twUU81YTByak96Y3ZLNi1weThRa1FGRmFrUE9WdlNGMjczbm9TSkVpTjRZQ2JkVkdxQnlFR0djUXQ3OHY1a0N4VDQtcXh1UXVZb3JkTkd2NzNPcFFxamZLQmJOcG5uMXlUWGJmX2Z4TVZIQUl1MDJReHhDZzg5QU5mTHZCbURwRkhBOTZyc2hHUWZ0eHV6dFQyYVNlZEROTTVqV3lwZmYwdkZpeVpZaHhHZGd4UVdfRGtQS28?oc=5",
+      "source": "France 24",
+      "date": "2026-06-12T17:21:51+00:00",
+      "description": "Iran-linked group claims hack of FBI drones, threatens World Cup, monitor reports  France 24",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-12T19:41:34.095636+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "c5cf8d6f159c"
+    },
+    {
       "title": "Azerbaijan border guards intercept drone smuggling drugs from Iran - Operativ Məlumat Mərkəzi",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnlkWTVhd2dROUViUUNPMW9FUmFxMGhwbDg5NWlpeWs1a1dNZ2g4U2R5UEJhWjV2a0tySlZMYzNRay1wenRwa1VPQjdfVGp5OFZVRzhvdkxFc1VlUmYtaHQxb0ZZNzJaMjREellZdE5MMGRIX2lybzRneXpVVUItXzBrZFhTRzNIN3RBVWlOQW9ZNUtTX1NqWk0yRk1YNmx5UFFONw?oc=5",
       "source": "Operativ Məlumat Mərkəzi",
@@ -11987,20 +11999,8 @@
       "location": "in Lithuania carried explosives, po",
       "category": "crash",
       "id": "b5c21c866777"
-    },
-    {
-      "title": "China vows 'tough' stance against illegal use of drone flight control systems - aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDZQSTBGSWhsYjQxUDYyRmJoVFBlaGxPWkFGdHl3Y2pVX2FkekdOX1RuVHRnU2pkVVlSelpGYUJSTkcxSmVKYnFpdll2NG1ZRzNsQUVpa2ZZeWVGY2FzZVZqWnkzb01hcVdoWGZIYUhtekpNN3dkS0E4aXloMGRhWElkWVE2bjUtZXpwak1xMUxrSEItWkIxU2RUb05KZHB0cFF1cVdkWUpUSXBQYWNwSVV1R1F3dTB1bTVBNFd3?oc=5",
-      "source": "aa.com.tr",
-      "date": "2026-05-18T06:39:46+00:00",
-      "description": "China vows 'tough' stance against illegal use of drone flight control systems  aa.com.tr",
-      "query": "drone illegal",
-      "detected_at": "2026-05-18T11:22:52.529487+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b15a1e01a7c1"
     }
   ],
-  "last_updated": "2026-06-12T18:43:59.662686+00:00",
+  "last_updated": "2026-06-12T19:41:34.750422+00:00",
   "total_count": 1000
 }
