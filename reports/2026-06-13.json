@@ -1,0 +1,107 @@
+{
+  "narrative_summary": "In the past 48 hours, significant drone-related incidents were reported globally, particularly focused on activities related to smuggling and arrests in South Korea. The former president Yoon received a 30-year prison sentence for using drones to incite tensions with North Korea, contributing to a wider narrative of drone misuse by state actors in criminal contexts, including drug smuggling. Several incidents of drone applications for monitoring illegal border crossings were also noted, indicating increased reliance on drone technology for law enforcement. In the U.S., drone restrictions were reinforced around the upcoming FIFA World Cup, amid rising concerns of unauthorized drone flights and potential threats to security. Furthermore, broader discussions around drone policy and the implications of drone technology in national security contexts continue to unfold.",
+  "totals": {
+    "smuggling": 12,
+    "arrest": 5,
+    "terrorism": 8,
+    "security": 6,
+    "other": 31,
+    "total_incidents": 89,
+    "by_category": {
+      "airport": 1,
+      "arrest": 5,
+      "other": 33,
+      "security": 8,
+      "smuggling": 39,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 8,
+      "drone illegal": 9,
+      "drone incident": 5,
+      "drone prison": 36,
+      "drone security breach": 3,
+      "drone smuggling": 6,
+      "drone terrorism": 9,
+      "unauthorized drone": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Misuse by Officials",
+      "rationale": "Focused on the legal repercussions faced by the former South Korean president regarding drone activities.",
+      "incident_ids": [
+        "b9ab3e7e7e88",
+        "019d80cd6f9f",
+        "b3877c85765b",
+        "b00cd3dc23b2",
+        "41c9cca07646",
+        "76fce6ebdc17"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Incidents reflecting the use of drones in illegal crossings and the implications for law enforcement.",
+      "incident_ids": [
+        " caught on camera: Drones track eight illegal crossings in real time | Bradley on the Border",
+        "8efbc318ded0",
+        "d540a72c7a51",
+        "3d5e0ec5c79b",
+        "c149b1e08f42"
+      ]
+    },
+    {
+      "topic": "Security Measures Around Events",
+      "rationale": "Heightened security efforts and protocols applied to safeguard significant public events like the FIFA World Cup.",
+      "incident_ids": [
+        "fecd8e23c05d",
+        "fbi warns Of Flight Restrictions For Drones",
+        "fbi issues temporary drone flight restrictions during World Cup"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b9ab3e7e7e88",
+      "headline": "South Korea ex-president sentenced to 30 years for drone activities.",
+      "one_sentence": "Former South Korean President Yoon received a lengthy prison term for inciting tensions through drone deployments.",
+      "risk_tags": [
+        "drone prison"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fecd8e23c05d",
+      "headline": "FBI issues flight restrictions for World Cup 2026.",
+      "one_sentence": "The FBI has announced temporary flight restrictions for drones during the FIFA World Cup to enhance security.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "d540a72c7a51",
+      "headline": "Caught on camera: Drones track illegal crossings.",
+      "one_sentence": "Drones were used to monitor and track illegal border crossings in real-time.",
+      "risk_tags": [
+        "drone illegal"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone-related incidents intensify, focusing on illegal activities and security measures around major events.",
+    "linkedin": "Recent drone incidents indicate rising issues around smuggling, arrests, and the necessity for stringent security protocols."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-13"
+}
