@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "FBI Atlanta seizes 13 drones near FIFA World Cup events, warns violators could face $100,000 fines - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcm1tc3Utc0NGSGV3Q0h0Y3BaOVB5RWM5ekZGdFpveml2cml1NVFUV1NkV3MyVUM4RXVNSmFXQUtyU3ZxMmdnRl9EYlFXSkpEZmJCZy04Mms5NHlHOWpkbm1jd3U1YUVqWkdvWFhLTVJrWVotRkdfYlRVNk05ZkxTdkF6VUwxbFc5TU5DbEtSazE3aXRiSFQyWl84WTZfY2lNU0sxUVgwM0NpMXRBYzZZOHNha2lzYmpwemZzNW4wc200X2pXZzlDbzZlcGk?oc=5",
+      "source": "CBS News",
+      "date": "2026-06-14T21:51:50+00:00",
+      "description": "FBI Atlanta seizes 13 drones near FIFA World Cup events, warns violators could face $100,000 fines  CBS News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-15T01:01:52.447281+00:00",
+      "location": "near FIFA World Cup events",
+      "category": "other",
+      "id": "8978b76bca8b"
+    },
+    {
+      "title": "Court links drone operation to martial law - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2UU1vREl2OFoyNEpJb2xSUWVOYWdKcmY1aFFZa2duc3kwZExWYVhQMlVaTG03MV8zTUwxYmJUM05zbFcxZlNzSVA2RVdBbEJZQmxRd2hvdC1ESEZGLWE4RE5hTTFfQQ?oc=5",
+      "source": "동아일보",
+      "date": "2026-06-14T23:30:45+00:00",
+      "description": "Court links drone operation to martial law  동아일보",
+      "query": "drone illegal",
+      "detected_at": "2026-06-15T01:01:50.773760+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "578a9401894a"
+    },
+    {
       "title": "Five unauthorized drones intercepted near World Cup events in Toronto - Toronto Star",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTjYxNGpEZW5kdUFESDBtUkhhRVFuSmd1Snc3VU1hQk5vOUpNNG92bWNsQW5qUHVmWmNDUkU2ajRpVmY5eS1ONmlWN29MdGR2VTlZWld6eXZ4bFRKNGV0ZGlQcUZDTjVHUnJKRTlWVVBTTGtxeHRlME9uTWwtbGJOWmROR3gzWHZ4Zl94R182UWxmRnF6WXoyQUctNDItYnFQcXZUMUtrUjFndVVhdTlHbld2T0NEeXduYVVyR3h3QS1pOFItbmlHNVRiYzVDVXRadGJoS0R6M0RjWWZqenpmQk5B?oc=5",
       "source": "Toronto Star",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "3f70d0b88930"
-    },
-    {
-      "title": "Cross-border drone network smuggling arms busted in Amritsar - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVh2Ulg1dEdMMVVmeUlQcExsSldLVkx5VE9OSFRtWmZoWmk5MnJELTZTVHRxaEpYb09rOXJ3RWtrdTg4Q21Pd0dSdmVLYS1PYVNnTEJTMHMzT21xVzhSVUJ5R3ppcFNGZzRSR2k5ZkRGVk1pR2JxTVRjVnNaZXV5aTZobWxrVzRGMVdNOFQzVko3dUZYTUQ4M1RRc3dINVQ3UTNMbnNYcw?oc=5",
-      "source": "The Tribune",
-      "date": "2026-05-17T22:14:32+00:00",
-      "description": "Cross-border drone network smuggling arms busted in Amritsar  The Tribune",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-19T05:25:03.950510+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fc86fa31cad7"
-    },
-    {
-      "title": "Drone Wreckage Found in Lithuania, Preliminary Reports Suggest it is Ukrainian - Militarnyi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTEtcVZQRXRxNHVxTkM1VkNhWGdMTG5kOU5UMGNGTmlEeFFXZGk3NFpfY183eEdHRWxpbVBCUWN6MG80M0pQQllLMWNZRjBST2JZS1hnMnlIRVo5eE5yQ0UwVWVTbW9abWFKQXYwX21rU1JfcGJmUzNiYXhJcFg1NmxCVEt4N01iYzhrSjhFVVdXSExuZXVBR001N0NHdDBrZ2JmV0ViVFR1MElYSEE?oc=5",
-      "source": "Militarnyi",
-      "date": "2026-05-18T10:56:59+00:00",
-      "description": "Drone Wreckage Found in Lithuania, Preliminary Reports Suggest it is Ukrainian  Militarnyi",
-      "query": "drone incident",
-      "detected_at": "2026-05-19T05:25:02.924887+00:00",
-      "location": "in Lithuania, Pr",
-      "category": "other",
-      "id": "c48279767856"
     }
   ],
-  "last_updated": "2026-06-14T19:33:42.624684+00:00",
+  "last_updated": "2026-06-15T01:01:52.928174+00:00",
   "total_count": 1000
 }
