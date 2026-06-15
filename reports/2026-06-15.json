@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the past 48 hours, a variety of drone incidents have been reported across several countries, particularly surrounding the 2026 FIFA World Cup. Multiple unauthorized drones have been intercepted near World Cup venues, with the FBI seizing drones and issuing fines, indicating strict enforcement against drone activities in these areas. Simultaneously, a significant crackdown on cross-border smuggling has been highlighted with arrests related to drone smuggling and drug operations. Importantly, incidents involving court rulings linking drone operations to unlawful activities suggest ongoing legal and policy implications. There have also been notable cases of drone-related terrorism, including attacks by groups such as Hezbollah. The geographical spread includes the U.S., South Korea, and various smuggling routes in Asia and the Middle East.",
+  "totals": {
+    "other": 8,
+    "airport": 1,
+    "smuggling": 5,
+    "arrest": 3,
+    "security": 3,
+    "total_incidents": 25,
+    "by_category": {
+      "airport": 1,
+      "arrest": 2,
+      "other": 12,
+      "security": 2,
+      "smuggling": 8
+    },
+    "by_query": {
+      "drone arrest": 3,
+      "drone illegal": 1,
+      "drone prison": 4,
+      "drone security breach": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 3,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "World Cup Security",
+      "rationale": "The concentration of incidents around the FIFA World Cup highlights the increased surveillance and enforcement.",
+      "incident_ids": [
+        "23bf4db19f99",
+        "41f82c4d4f2f",
+        "ad8b1169b585",
+        "05338970701c",
+        "8978b76bca8b",
+        "578a9401894a",
+        "2aa07ad7094e"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Involvement of drones in smuggling activities remained a focal point, showing patterns of cross-border illicit activities.",
+      "incident_ids": [
+        "ab4a73c186cd",
+        "52d9de5d0c92",
+        "a82c11693c75",
+        "edb7962a4d53"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Multiple arrests linked to drone activities indicate law enforcement's response to growing threats.",
+      "incident_ids": [
+        "41f82c4d4f2f",
+        "fbi_drone_suspects",
+        "b2c6cb0d1489"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "23bf4db19f99",
+      "headline": "Miami Sheriff's Office warns of no-drone zones at World Cup",
+      "one_sentence": "The Miami Sheriff's Office has issued warnings about no-drone zones amid World Cup events.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "ab4a73c186cd",
+      "headline": "STF and Punjab Police arrest cross-border arms and narcotics smuggler in Uttarakhand",
+      "one_sentence": "Authorities have arrested a smuggler involved in cross-border arms and narcotics trafficking.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "41f82c4d4f2f",
+      "headline": "The FBI Seizes Multiple Drones Near World Cup Venues",
+      "one_sentence": "The FBI has seized multiple drones near World Cup venues, warning violators of steep fines.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "05338970701c",
+      "headline": "Drone Flight Near Jeju Airport Halts Flights for 12 Minutes",
+      "one_sentence": "A drone flight near Jeju Airport caused delays in air traffic for over 12 minutes.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "ed5d0905e52d",
+      "headline": "FBI Atlanta seizes 15 drones near FIFA World Cup events",
+      "one_sentence": "FBI Atlanta seized 15 drones near FIFA World Cup events and warned of potential fines.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the past 48 hours, drone incidents around the World Cup highlight significant security concerns and enforcement measures.",
+    "linkedin": "Recent drone activities, especially surrounding World Cup venues, underscore the critical importance of air traffic security and law enforcement in mitigating risks."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-15"
+}
