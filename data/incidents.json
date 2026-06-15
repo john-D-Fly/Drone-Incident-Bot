@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Miami-Dade Sheriff's Office warns public about no-drone zones during FIFA World Cup events - Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNenV6OERabUQwb1FMTmIwVHBLY0dKam94Y2dfc0ZUa2tZNnRYQUNNUXVHbGVQQkE3Z3ZiaWtQbmh0SHBUVXh4RDFWV0xJNnh0WTFUTmtwVUJYTXV1b1VFSjl0cjhJUVhocHRKZnlzTUxmMHlVYW9oV2FnVDdMYjdScE1WS0FHdHl0VFFjNmtwSFp4SFJEb05pTEQxdFp3a2lwNUVjMkN0Sk5zNVd6LTBFcnM0WloyM3NPa0JHTzRSYU9JSG81U08wYjI4dzA3TE5P?oc=5",
+      "source": "Caribbean National Weekly",
+      "date": "2026-06-15T17:37:28+00:00",
+      "description": "Miami-Dade Sheriff's Office warns public about no-drone zones during FIFA World Cup events  Caribbean National Weekly",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-15T18:34:05.865150+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0a220832ba47"
+    },
+    {
+      "title": "Southern Military Zone Foils Drone Drug-Smuggling Attempts - Fana News -",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUo3YjRLUTc5X01fWXVjYmFNcFA0ZTZEUDlJV19VekIxVFBsUlpZQ0YwaDB2eHV6NERySTE0N3hJdXVVY2ZjNEt2YTVlTGhCZTJPbWs2enc3Q0w3NldIQTlpcTBUMEZSdnZKM0ZHLXBzOGVmQWZhQXRMREMtVUZ6MUlnanY5Z2dSZTZyTldrTG9wRjYtVXJsMmlJQ0E?oc=5",
+      "source": "Fana News -",
+      "date": "2026-06-14T11:26:28+00:00",
+      "description": "Southern Military Zone Foils Drone Drug-Smuggling Attempts  Fana News -",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-15T18:34:01.865512+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "540b9904f7ed"
+    },
+    {
+      "title": "Drone helps locate burglary suspect who fled into the woods - WRGB",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWJqOEJjbUJLOU10R0VYczdyZUJJQ1g0b1NISlRqd2VGZFgzMFFpZlN6SUtTUUkycDhDb3U4TUN0VGlSdVRjVEdwMlp2MzUwRWt2T2pRTlViTVBLamF5VFk1eTk2WXBFVWowMmVHNlJ6dm1JUlhlN3psM3FvV3dnR1RWRzRkM1ZjVGpCd1pkWGozS1pFcTN2V2RINVZKSi1WY2VOY2NERXppZzRTNm9XR1dNVjNRbVQxb2RVOWxibXRDekF6ZG5KYXp5ZnVDR3lFYlE?oc=5",
+      "source": "WRGB",
+      "date": "2026-06-15T13:39:22+00:00",
+      "description": "Drone helps locate burglary suspect who fled into the woods  WRGB",
+      "query": "drone arrest",
+      "detected_at": "2026-06-15T18:34:01.206407+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d093b6e79284"
+    },
+    {
+      "title": "Lee County man arrested, accused of a firing gun at deputy drone - WINK News - Southwest Florida",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS0RSLTBIbXVrWjNLMTZQRXFjbHhzUUFraUZBS01qTUN2V3h6SzJsb2V0SnFHWjNUWE0ySFpaSHRISUtsd0dMVUtJdV95dlVEUGZtLWkyOTE3cTJjVmZtdl9LZm9LQmRfM2hUenBreDg2WURlczBybWtSUHBMMTc3WmF0UzNnN25wODhVQUpJclpTbWwzS2wyb1dCYXJGa0Y0VUpLTDNXUGNxbUhhRUc4XzZlUVFNMTFubEZ5cFpXUlpQejFzRFZKU285bHZLc3BIcXdNRWtjNUNXS2xyMnpzdw?oc=5",
+      "source": "WINK News - Southwest Florida",
+      "date": "2026-06-15T15:41:00+00:00",
+      "description": "Lee County man arrested, accused of a firing gun at deputy drone  WINK News - Southwest Florida",
+      "query": "drone arrest",
+      "detected_at": "2026-06-15T18:34:01.206407+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ad3512fcbbac"
+    },
+    {
+      "title": "Florida man arrested after allegedly shooting at sheriff's office first responder drone - WPEC",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcG83dWpFVGtYM3NqY2FURmxlcjBnWnROUDE3VjhiUVlNX3VyQ29WdWhhS09EdkgyZElEYU4xVzBXQkZLaXgwNE5uMG5YXzZRWHowMDNkYzhRYkhzS0dtaUwtUkZ2WWwxMlBmc19kakxGY1k1OF94NjNsUHhRYUNSTXh5WXFMV0hiQi1nWDVRMjdEazF0NjREaTFaS3dwTlExNTFGdHdVeFc3OUtMSE93WmVkSUJVUzZCREVTS1lUR0NwSHk3SjdjV1RSQjNlQlNDVnk1MEdRSWYtcHZ6SnpfeW8xek9qU3VhNWpDeFdSTUk0cW5Vd1NoRnp0N3NVeFI4aG9lMUhqVzJmSDlGd1NJcnVkZ2ltVkJEalFQV2I3Q3BsMkpneVRQXzNfckRZM3JHVm5zNE9ib0hBWUJJVGlQR0lxRVJ4dEpmSTVJYmxxdE5iYmdudnZMQWRpOHliZUZHcjFnWmVTSF9ZUUN6VTRxTzZTMk5LRVBQMnFneDA4THR5WjExaklQbg?oc=5",
+      "source": "WPEC",
+      "date": "2026-06-15T17:30:10+00:00",
+      "description": "Florida man arrested after allegedly shooting at sheriff's office first responder drone  WPEC",
+      "query": "drone arrest",
+      "detected_at": "2026-06-15T18:34:01.206407+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "a8b2f8ede362"
+    },
+    {
       "title": "British court upholds terrorism ban on activist group Palestine Action - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGtIOEExNTItaWJLZTdwVndOZnZWRk56TWZIeTFjVlRpQVFabTJPbW5CX09UT0p1YWJhZnZONWJtREtxOXRlMnYwYWxjRUVLOVJXMWUtelBEaFg0Q01OMGpxN3ZtYVE3MFNQeGVVY1h0SEF0Q2l5ZG5uX1JJdDU3Yk8yejZaNTZBNy1iSXFkMFl2UGItV0dnUlU3TFZycnJXNnBUOHhpcHFyZ2lQRTJPQ1hn?oc=5",
       "source": "The Straits Times",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "42a58f75a83c"
-    },
-    {
-      "title": "Women-led drone patrol foils theft; arrests repeat offender at Yakutpura railway station - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ20yeDJveFplVXNGNnlBdGhQMmtsazdOV29NbHBCbm9PSkhpbzhVaU80Xy1wUVpIMFV1UmZ0TUpyamdqSGxDNUdadWw3QjJqYU5CRzFMal9kVGZZaDMwTklLVVVlTUhKTms2RkQwejNIQmVPUGJndG5SMk0zWTVIMjJWUGZZUVNaaEtMb0d4TlFPQXRMdDBBWDBGZ0NtVkJSUUdkVFpCWGVTYUVFMUlINjRmX2ZyQm9aRlN4SmxWNy1CUE5rQi13d1dvbS1EaF8yWk9MSlZOYk5DQnJkZ1ltQjZQOVVYVWtQRHdQS3NB0gH0AUFVX3lxTFB3dmFVMlU5Q2RoWEZtaXh0d1cxallhTzdXMGpQYnhBRzBKN2tCYUdVSEp5WE9QY2F5Tms3dXY3YzJfSWZrUzJJZjFLQlNTaU9sUk5HcVBJcktLY2RlVGdPU3hhaHoxeDVURklWdUVwdERyX1RDQUxTZWN0bUNvNVp2b1Ffdl9DMy1ONnZfR1lSRWR1YktnTUZFaFhvMXZobF9YMHFlWjlvd0oxNFVNZUtpNDhKejVXZm9iNmh3VlM3MFRHTms2ZVBfTnMtUkZzLTZSS2FWenVfMVhKNFdMbEQwLWd5NHdhZFJ2QnFHS0pPaGdXSzc?oc=5",
-      "source": "The Hindu",
-      "date": "2026-05-19T11:45:17+00:00",
-      "description": "Women-led drone patrol foils theft; arrests repeat offender at Yakutpura railway station  The Hindu",
-      "query": "drone arrest",
-      "detected_at": "2026-05-19T13:11:54.821906+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "421bdab0a1e5"
-    },
-    {
-      "title": "How police used a drone after finding a stolen vehicle in Port Huron twp. - Times Herald",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmgzYUduSjJQQ3M0UW1YREstTHk3dlF4Q1RtSEdDODIxb2pWSG5VNV9tVVZGdjJYTDY0OHVVVGJRQlJxSkZKSnhwd0ZEZk85RGFXVHU3WERBWl9LR1ZTNmpDeUwzUWFRX3NqMjJfa3I4UHZ4QTJQdjZCeV9JbFY3VUUzQm1VZVBPNGFJYTE1cmpsc1NrQ3hya0lHSFF6b1JvU3plOWFkdVY3WkRXZjNPRXdlQkM2aUpRR2pndE1jUHdZVk1uNHV6Zw?oc=5",
-      "source": "Times Herald",
-      "date": "2026-05-19T08:45:00+00:00",
-      "description": "How police used a drone after finding a stolen vehicle in Port Huron twp.  Times Herald",
-      "query": "drone arrest",
-      "detected_at": "2026-05-19T13:11:54.821906+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "345fab03a520"
-    },
-    {
-      "title": "Baghdad: Institutions ready to cooperate over Saudi drone incident - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanhPOFcxMkJCQ0lpTmdGaXZfa2VRV0lfa3VtR3Vqc1RtR2FwYzRvRWtTZFFMUkI0U1RfcmpnYU5Zc1JGd0lCVTBEWlNWZEd3RXQtbVFpWGdjeW1ZNTZWUW9mZVdZTEhqcC1GZHdqemhzYm5id2NhVDJXLWtKS19nUHhZWGlKdlJkbFdOXzF4QVdYSVBuekNn?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-05-19T13:01:54+00:00",
-      "description": "Baghdad: Institutions ready to cooperate over Saudi drone incident  شفق نيوز",
-      "query": "drone incident",
-      "detected_at": "2026-05-19T13:11:54.129887+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dcea349c0548"
-    },
-    {
-      "title": "Suspected Ukrainian drone shot down by NATO jet over Estonia - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW14NmpxSms4OVlhSlAyczJhOVFfQ0VpUGpBS0Y3T1hVUEVST2hnNU00M0NyeXRfOHNpTW5jczBFYkQ3bVhZRkZ0Wks4X3VXQ1dhcTVVR1FQYThiTzhkdVE4MjZBV051cVBYUW1kRUV5SUExNUluX3cza2NXamt0c2hRVk1kTHZxSW11MGNQSzVtaEdCVzhVNG5XSVU?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-05-19T12:10:36+00:00",
-      "description": "Suspected Ukrainian drone shot down by NATO jet over Estonia  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-05-19T13:11:54.129887+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cd23aee37565"
-    },
-    {
-      "title": "Romanian F-16 shoots down suspected Ukrainian drone over Estonia - The Defence Blog",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY050SEtyMGZwc2d0TUFsRDk4Sjh2Tl82NEhyeld1SldhNHotQWJERkJDTEFMS0ZqRmZieWE1ODFzaFBjeENfQ0tYTnhNSnVvclNIaGNSQXJYRnY1NDNUWWpZa1QxVWxnRHNrU0dLd0UyczhNcVVZbkFlalptZV9UUVdNUGxYcnlUalFWUzhScEYxSnNp0gGaAUFVX3lxTE1STVdzZnpxU1lhQ1phQ3dvbExGdkdvMnRnVVRMV2d2Ti1jNjB2UFZ0R0hDNEhWOVZCTFBnZHlLZVhfaWlJZFJTYk0xYzV0WjNETlUyb1lCMHV0SUNGY0hFZElRd0RJSkxCUFdQWFZvRWE3X2pmQU9MdHpPX1hMczRpUGc5MTlpYTBMbkNVeFNhdGhlMWYtT1NjbFE?oc=5",
-      "source": "The Defence Blog",
-      "date": "2026-05-19T12:40:22+00:00",
-      "description": "Romanian F-16 shoots down suspected Ukrainian drone over Estonia  The Defence Blog",
-      "query": "drone incident",
-      "detected_at": "2026-05-19T13:11:54.129887+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b9eee240bfc3"
     }
   ],
-  "last_updated": "2026-06-15T16:39:52.281894+00:00",
+  "last_updated": "2026-06-15T18:34:06.523889+00:00",
   "total_count": 1000
 }
