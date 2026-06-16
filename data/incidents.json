@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "FBI Atlanta seizes 21 drones near FIFA World Cup events, warns violators could face $100,000 fines - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcm1tc3Utc0NGSGV3Q0h0Y3BaOVB5RWM5ekZGdFpveml2cml1NVFUV1NkV3MyVUM4RXVNSmFXQUtyU3ZxMmdnRl9EYlFXSkpEZmJCZy04Mms5NHlHOWpkbm1jd3U1YUVqWkdvWFhLTVJrWVotRkdfYlRVNk05ZkxTdkF6VUwxbFc5TU5DbEtSazE3aXRiSFQyWl84WTZfY2lNU0sxUVgwM0NpMXRBYzZZOHNha2lzYmpwemZzNW4wc200X2pXZzlDbzZlcGk?oc=5",
+      "source": "CBS News",
+      "date": "2026-06-16T00:30:24+00:00",
+      "description": "FBI Atlanta seizes 21 drones near FIFA World Cup events, warns violators could face $100,000 fines  CBS News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-16T12:37:06.538379+00:00",
+      "location": "near FIFA World Cup events",
+      "category": "other",
+      "id": "cbc508f0bd17"
+    },
+    {
+      "title": "Southern Military Zone foils drone drug-smuggling attempts - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjBvUUc2ZlRrN1JvOGF3TGpZTHpmemtXeElncUJDOXJlYlNYd1dpdlNScmRCOHBDQ0t5ZTktNDNwR2ZqTDdFbnhzbC1QeTVhVm9qWkxuV2wxUUsxMWdibkZ6blFSRHlINUhaWjUtNTBkMEgzSGt4bUNyR2xFRHM4VHdCeVdMX25oQ0twXzRRVUZlRmU4VjVEa0c0RElUMk1zbGhTZW5zcU1oWWM?oc=5",
+      "source": "MSN",
+      "date": "2026-06-15T02:15:04+00:00",
+      "description": "Southern Military Zone foils drone drug-smuggling attempts  MSN",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-16T12:37:02.281012+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "1b0638a1967b"
+    },
+    {
+      "title": "FBI says it foiled drone and sniper attack on White House during UFC event - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ORkZ0cWY2VW5xaDRBRzBKN2N2Qlo2Nk5oOXgxY0tILWdVODM0SUVTeUZ5dTZteUpyNUYxbEFfMWFwcnZVOXRrdjhCWmFoeVFSWWJBTVA2VQ?oc=5",
+      "source": "Ynetnews",
+      "date": "2026-06-16T11:30:20+00:00",
+      "description": "FBI says it foiled drone and sniper attack on White House during UFC event  Ynetnews",
+      "query": "drone arrest",
+      "detected_at": "2026-06-16T12:37:01.682336+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1a95374f8f89"
+    },
+    {
+      "title": "FBI arrests 5 people in connection with drone attack plot against White House UFC Freedom 250 event - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmFvb3I1bC1lQW51YVloU3ltZjUydGZSQUFhczVBdW85dXMxX0R3WUZOaDZKRnEyZ3BDNkNKN2xXTURJR1RVb0k3aDZBbW5Dc3ZzYXVWT1p4cEZUM1gwWlc3RzlNRF9Wb3ZRUHNvUFY3OFdyLTFZUmZ3QWdFaFRqYkd1aE4xOVlmSUtFVktmS0RDWm0yS0xJYWJ4cFliSXExRFViZFRpTURmSDg5NW1NZWNfSzdXRk9aV1hyeDhDRk9jLXctekFDeDF0RkVkQ0JSTmZPbg?oc=5",
+      "source": "New York Post",
+      "date": "2026-06-16T10:38:00+00:00",
+      "description": "FBI arrests 5 people in connection with drone attack plot against White House UFC Freedom 250 event  New York Post",
+      "query": "drone arrest",
+      "detected_at": "2026-06-16T12:37:01.682336+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "1da40772555e"
+    },
+    {
+      "title": "FBI stops drone plot targeting UFC event at White House - WJLA",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFRPXzV2R3JLMGZ4TUNrLVhJeUxQTjA2Tlh0S0Z3UHE5VFhNYmhPMHJMUW1iaGlsUWV6b1JCTmdpLTNIMkNZVUhha3ZfcGg3bmJHRHNwSFUyOF9LWTNKT09vWXEtQ1RiLU8yMmUxZ3BUaThaMHlMVWhVUmd3UlJwRWxHekZQaXNuY213X1NUbU5zVzJ1RFpqbDk1Q2lWcWFQRUFlRlBFcjV3RW9MTW9xVW8ycHNNVF9BYnBGOTVR?oc=5",
+      "source": "WJLA",
+      "date": "2026-06-16T12:01:16+00:00",
+      "description": "FBI stops drone plot targeting UFC event at White House  WJLA",
+      "query": "drone incident",
+      "detected_at": "2026-06-16T12:37:00.973426+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5b25eaf632b3"
+    },
+    {
       "title": "First Radar Shield Against Illegal Drones to Go Live at Korean Nuclear Sites - Koreabizwire",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHRaajdwVUxmYWlWU0cwV183S2xjWnNqX0d6ejlEQ2lHakhQeVJlZjl3V0pZbUdZTzliSE5aaXZUcnhZWlExRVRZRjl6NzlPdThqeERYdHpEZVRDZ2FfdlRKYWFOOTZZaGJBTHN0ZHBuZE5NcXVSakt5alhKU0RtMS1oU25RZkVPUk1UQ0J4YTRtSWlCQmRobGRRWUhCNGg5ZFBJVXZydzVVSWc?oc=5",
       "source": "Koreabizwire",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "d8bf40cbcc42"
-    },
-    {
-      "title": "Russian Strikes Kill Civilians in Ukraine as Kyiv Expands Drone Attacks Inside Russia - Modern Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaHNESE94RlVkclhVRVh2czlmZk1wdHg5NHlKQkNvaU5abUZhOEEyMThmQ3h5cDdFYm81eGxBajhqVjF1aVRLeEQ0UzF1Vnk0dDhxWmttRVI5U21mOHpxQm1oSWpmV0NOQlBwVVhlRllxbFdoa0FLaVJPRnJOVENiWm5qcUZTYUZRWE9yWl9pRFFTV0dtTnEwVjNuZDNqVU5KSWM5eXA5MGpGTk9ZZmZWdUR1R0RVeGROUTdsTktaYWltQQ?oc=5",
-      "source": "Modern Diplomacy",
-      "date": "2026-05-20T06:17:22+00:00",
-      "description": "Russian Strikes Kill Civilians in Ukraine as Kyiv Expands Drone Attacks Inside Russia  Modern Diplomacy",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-20T07:19:39.640672+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "52f95acd8e94"
-    },
-    {
-      "title": "\"An illegal drone is approaching within a 4.8km radius of the Saeul nuclear power plant.\"On the 19th.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Fc3NNeEI0SEszUW5SNWlENER2dUdqWE9Xd2N2SW1ZMFVqVl9aYm9BOUVOYzZtYVpDNjhrcTM2M29DNzRvcldhMjMwUQ?oc=5",
-      "source": "매일경제",
-      "date": "2026-05-20T05:39:02+00:00",
-      "description": "\"An illegal drone is approaching within a 4.8km radius of the Saeul nuclear power plant.\"On the 19th..  매일경제",
-      "query": "drone illegal",
-      "detected_at": "2026-05-20T07:19:38.624671+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a681cb872af4"
-    },
-    {
-      "title": "Rajasthan police uncover drone weapon smuggling case with Pakistan link - The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkxjTzRTNUZ6MmZ4OHNVU0NCWS1HeWMtOU8tNzRQMG9xckhVS1V2WEY1cGx2WmdTTXVVWGstaEF4U2VSdDQ2dk9ZR3Z3amZLZU5NVmNqbzJpVzEyM1RzZVZvWUliV2dJdEFyY2EwZ0kxVlJyVEFsSkIxcXg4OFhyU1YzMDBCYl9OcXZtT0FZZDR2M0w5Q0tuN29DS3JIcHhvVU10Q1N2UQ?oc=5",
-      "source": "The News Mill",
-      "date": "2026-05-19T20:12:22+00:00",
-      "description": "Rajasthan police uncover drone weapon smuggling case with Pakistan link  The News Mill",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-20T07:19:36.517477+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "980944aa2c5d"
-    },
-    {
-      "title": "NATO assesses response to Ukrainian drone incident over Estonia - Caliber.Az",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZG9YMm5LOHRjRWtTcUhyWnp6ZDJfTEZOX0FaTWRMNHZrQ0FPRTBhYndTSk1PNGNSVXNwYkpFcW5DSVFRYUlILTdpM1RHVW11WjB2c0tIcTc0cVd1dURSTjhjT0lid1FwNXItbFNKZFR3MkpZcnFBU2JoMzFBMDVvVzhnY3hyOWZSOXlRWHQtVjNyNjUx?oc=5",
-      "source": "Caliber.Az",
-      "date": "2026-05-20T06:30:44+00:00",
-      "description": "NATO assesses response to Ukrainian drone incident over Estonia  Caliber.Az",
-      "query": "drone incident",
-      "detected_at": "2026-05-20T07:19:35.436927+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "041c3b503548"
-    },
-    {
-      "title": "Estonia says Nato jet shot down drone over its territory - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvN0llMV9KV1hTLUJSdlF3V3FlanZ3UW1uSkQxTmIwcHVCS0xFbDl4QUp5SFprZkZDWFUwVDJZWldYMFYtdC1iR1JzS3RJb1JTMWx6YlhkMWE2QQ?oc=5",
-      "source": "BBC",
-      "date": "2026-05-19T19:01:44+00:00",
-      "description": "Estonia says Nato jet shot down drone over its territory  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-05-20T07:19:35.436927+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f3fc5ec8337f"
     }
   ],
-  "last_updated": "2026-06-16T10:39:10.259532+00:00",
+  "last_updated": "2026-06-16T12:37:07.120982+00:00",
   "total_count": 1000
 }
