@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Terrorist Group Planned Drone Attack on UFC Tournament Near the White House - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRUhLUGdxbjJrSXJ0cHI1eXhNNGlTSjBxTWtIRVdLMG5KSnJlWVdobHo1emJLVG9mcWhFdHRrU1Rzem1seFVoOGxMMExIaFgwVnB4cVNfd1lScWowb21yenZWaEJDVk5zR1NsQmtGRkxsLWdkM1V2LUV1bnJjX3FFdg?oc=5",
+      "source": "Мілітарний",
+      "date": "2026-06-17T08:15:39+00:00",
+      "description": "Terrorist Group Planned Drone Attack on UFC Tournament Near the White House  Мілітарний",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-17T09:47:59.761400+00:00",
+      "location": "Near the White House",
+      "category": "terrorism",
+      "id": "e3ef6c5dc322"
+    },
+    {
+      "title": "Illegal Drone Disrupts Closed Korea Training Session, Mexican Police Investigate - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjdLbVE0NzVwSXVVUW41bERYa1Rmc09GcjhpaHJWNmFkUExTenRzdi1VcDQyM3prMGZZYkhVR05waVMydTNNWjdIVlpMcmQ1Y0RsSTBNdGphSXgzdk4zQ244RUwzazBlZFBZcDh1VkNvWEk2VDYzLXRGNzNKUzd0dXZEd2FZZnYwZk0tT2VmclZCRG42bU03Qg?oc=5",
+      "source": "Seoul Economic Daily",
+      "date": "2026-06-17T07:35:33+00:00",
+      "description": "Illegal Drone Disrupts Closed Korea Training Session, Mexican Police Investigate  Seoul Economic Daily",
+      "query": "drone illegal",
+      "detected_at": "2026-06-17T09:47:58.732838+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "890e4776e561"
+    },
+    {
+      "title": "Caught on camera: Sheriff’s Office drone records suspect shooting at it - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzZEWnRXdU9XeDlYREVpRFFORG0yZjc3Q1JYZTBPZHNqdklUR2tvRVI5S01rMkRuRXJ5TE9qeV9TeW9VX0sxV2VEcmJLRTJtNDFkM2RJVkJRX3JLOEVBUV9ULUxXZnhPSVF6Y0VkOXJNRXFuaEtMUzhVcVNhSU9RM0VNWVg5cVlDQlJEQ3N3SVJEQQ?oc=5",
+      "source": "Yahoo",
+      "date": "2026-06-17T00:38:00+00:00",
+      "description": "Caught on camera: Sheriff’s Office drone records suspect shooting at it  Yahoo",
+      "query": "drone arrest",
+      "detected_at": "2026-06-17T09:47:56.027596+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bff3f4c81494"
+    },
+    {
+      "title": "Can drones fly over your home? Lehigh Acres incident sparks debate - WINK News - Southwest Florida",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYmRoU1luQTRPOWkwMnZ3Z2RJd2NOUU1pa3paNFVhNVNfSFZ5U2JVb2g5a0M5OVE0c2E3WndTVks5Y09Dd2stOC1mMXdxVzFPWW5YVWdkdFgzMzh5SkdyMklRd3Q0MjRKX2Z3SW1FUmF3ODRiQUlJOVdMN1RqSmZwYkN2d2t5TXl4ZTd1LWdxSGllOE1EcUZTSGpMRmJNQjdlbkdkZ1pZR0VmTUJ3YkU3RDFnMXZYNVhmdGlCVGZRNUtYT1hfUnBxSEV6YjVub3E5V3ktWW51c1J0WmlQYjl1WGxUVQ?oc=5",
+      "source": "WINK News - Southwest Florida",
+      "date": "2026-06-17T08:53:29+00:00",
+      "description": "Can drones fly over your home? Lehigh Acres incident sparks debate  WINK News - Southwest Florida",
+      "query": "drone incident",
+      "detected_at": "2026-06-17T09:47:55.378778+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "76273b7537af"
+    },
+    {
       "title": "Did They Try to Spy on Tactics?... 'Illegal Drone' Appears at Hong Myung-bo's Training Ground, Shot Down by Mexican Military - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcjBUZFpFT0dHOUtaYnBqTURIRW82dGgxN3RXd080R1ZVYUhPSTFHUExkbFI3WktKdENubUYxQV9SVzN3Y0YtTnR3SVl6Q0RDRThCQlRzSmtDVjZxalRfNGhQMnRVSC0wQXR4MVpXMThpM2k4MHFrYzZ1am54S0FHWGx5TzFCdw?oc=5",
       "source": "아시아경제",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "77aab1ac80ca"
-    },
-    {
-      "title": "At least 24 drone incidents recorded in Baltic states since start of 2025 - Новая газета Европа",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUFhzdlpCR3RndG51UHI4X0JXYk1vb29BOFhoX1dCemp2cjd0bUtfaUl0NjFFSXpMVlBUWXhucDEtTmIyN29qZEppeV9tbHppcGZQbEE0VW1nMXB5a3pCcTA2cXdya1lhT1FmLUktTFIxeWdrUndFUWtvZHZrYU9hRHpEWXFsN1FveEZlczRkR1lhRXNnTmhVcC1xVkoxYl8tR25Vam9OMEl6RVRWN2NGbnhjUlJqN21Ba1hWbW1rUS1jLUdDZDV1btIBzgFBVV95cUxNdGRhTDZZaktJWmNlcmg4eW8tSXBBdmdaYk5rcEh2cHJDZThweHg2VTA2Q2xDeU5YdEp6V3FFTmhNbWh3cEV4SUh0WmVyV3pHRHozLUtPWE5ESi1KTDUyOVVoUWRQTEhiWkVaZDJjakNWRk1hSHZxUDc1c2hWVWYyY3pMX29BcHEySU9EU3F0N3Fnd1RmcmxHNk9HNXhJdVhBSHNWcm5UV1VmTjd4Z29GM1JMSXZhTUQ2M2F2ekxFYkkwUnpMLWRHYU9EWUROUQ?oc=5",
-      "source": "Новая газета Европа",
-      "date": "2026-05-21T15:43:23+00:00",
-      "description": "At least 24 drone incidents recorded in Baltic states since start of 2025  Новая газета Европа",
-      "query": "drone incident",
-      "detected_at": "2026-05-21T20:38:29.367821+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1dbe4c42c3a8"
-    },
-    {
-      "title": "Unauthorized drones flown over Soo Locks could lead to charges - SooToday.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkhFdXU4U3BUOG1kOUVQMU5fQV93ODdoM3lXYmRjbEwtc1cyWDNGTU1WZG1Bc3IySGc0SGo0THN1bGJxdVVfcDJJVmdqcmlOendTQW9GV1ZFTjdVbVNMM1dmaFNMRFRXOVNDdWRrY25HQURDRFFPZDFxcUIzRVVuTW5zYi00S1RFT0FQMHNFVTgxOHMtSnp6bmVSalBFYTVGSENyczJTdk9JOVE?oc=5",
-      "source": "SooToday.com",
-      "date": "2026-05-21T19:19:51+00:00",
-      "description": "Unauthorized drones flown over Soo Locks could lead to charges  SooToday.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-21T19:35:46.407075+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "641e928c35b6"
-    },
-    {
-      "title": "Latvia issues warning after detecting UAV in its airspace - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1g4NHJYTUVFd190b2ZjYktIMG0zSERLOElHTG1MVG4tWkRKWERTU2w0N1NsNmF6SGJtYWZnaFNmaUVXMWR2WVpzblplaWJjSmV3bDltU003TzA0Y0VXM0NFUUItOFo1OUdhWUM0ZzdzZ0lWWTJBaGViVGVRUnVvSE1meWRyUkkyZ2xQTDY0ZFBvb25YaENBLWFuTm1xcDUyb25xaUtoZG5XNkMtSkxJS0lqNFNEVXdjX29aZi1rU1dXb0pzRE9wS0p2U1dJTVFjTUE?oc=5",
-      "source": "Euronews",
-      "date": "2026-05-21T09:07:35+00:00",
-      "description": "Latvia issues warning after detecting UAV in its airspace  Euronews",
-      "query": "drone incident",
-      "detected_at": "2026-05-21T19:35:41.134200+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8e6e877671d3"
-    },
-    {
-      "title": "Unauthorized flying of drones over Soo Locks could lead to charges - Sault Michigan News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORm1PMHZrNmNnNUVfVnVEUHBvSFFTZnZwRm9qbjJPaHBWMDRKb2dOMWV6dU1qd19XblJ5LWVOQ2JIX3VvRjhRcjZlY0NvSjJ6SEhzY1FHMURSU2hZNVFQNTdkMGlfSGVrUFh0WENHZklQWGlWdjkweEtQaFJXcTRGNzdlb2FWaHBNNFVpZ3pybWE2OE1SMnhvLTNDVGpERkxpZTdWbm1kTTlORUhmMVk4YS1n?oc=5",
-      "source": "Sault Michigan News",
-      "date": "2026-05-21T18:32:29+00:00",
-      "description": "Unauthorized flying of drones over Soo Locks could lead to charges  Sault Michigan News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-21T18:42:07.301174+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "b40ae0828f70"
     }
   ],
-  "last_updated": "2026-06-17T07:57:13.139261+00:00",
+  "last_updated": "2026-06-17T09:48:00.468097+00:00",
   "total_count": 1000
 }
