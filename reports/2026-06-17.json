@@ -1,0 +1,151 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of drone-related incidents have been reported, notably surrounding a foiled attack targeting a UFC event at the White House. Multiple individuals have been arrested for their involvement, including several linked to terrorist plots. Drones were also utilized for smuggling contraband near correctional facilities, particularly in Alabama, causing arrests at the Bessemer correctional facility. Additionally, unauthorized drone flights have been a significant concern at high-profile events, including World Cup activities in Toronto and Atlanta, leading to various legal actions. These incidents underline the ongoing challenges related to drone regulation and security enforcement across the United States.",
+  "totals": {
+    "arrest": 21,
+    "smuggling": 8,
+    "security": 3,
+    "interference": 5,
+    "terrorism": 4,
+    "other": 7,
+    "total_incidents": 120,
+    "by_category": {
+      "arrest": 34,
+      "interference": 4,
+      "other": 53,
+      "security": 5,
+      "smuggling": 14,
+      "surveillance": 3,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone arrest": 40,
+      "drone illegal": 18,
+      "drone incident": 30,
+      "drone prison": 9,
+      "drone smuggling": 7,
+      "drone terrorism": 8,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "UFC event and White House drone plot",
+      "rationale": "Multiple arrests related to plots targeting the UFC event demonstrate a direct link between drone threats and national security.",
+      "incident_ids": [
+        "1c4a1369ff8c",
+        "3f9d41d66382",
+        "3af131141b54",
+        "f71dd5a8f731",
+        "f1bfc7f673f7"
+      ]
+    },
+    {
+      "topic": "Contraband smuggling via drones",
+      "rationale": "Incidents of drones delivering contraband to correctional facilities highlight ongoing smuggling attempts alongside legal actions.",
+      "incident_ids": [
+        "63027228c193",
+        "c2cc0a89227f",
+        "847bc9684e41",
+        "896dc2aff195",
+        "b36f40ec14d8"
+      ]
+    },
+    {
+      "topic": "Unauthorized drone activity at events",
+      "rationale": "Numerous cases of unauthorized drones at public events show the risks posed to safety and legal enforcement issues.",
+      "incident_ids": [
+        "f14a3889366e",
+        "f4f3c3ccf45a",
+        "1da40772555e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f14a3889366e",
+      "headline": "World Cup 26: Unauthorized drone sparks security scare at Korea training",
+      "one_sentence": "An unauthorized drone prompted a security scare during a World Cup training session in Korea.",
+      "risk_tags": [
+        "unauthorized"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "63027228c193",
+      "headline": "Arrest after drone dropped contraband near Bessemer correctional facility",
+      "one_sentence": "A drone used to deliver contraband near a correctional facility resulted in an arrest in Bessemer.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "bc673b82ea11",
+      "headline": "U.S. military jams spying drone near Korea's training",
+      "one_sentence": "The U.S. military successfully jammed a drone that was allegedly spying on training sessions in Korea.",
+      "risk_tags": [
+        "surveillance"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e3ef6c5dc322",
+      "headline": "Authorities stop an explosive drone plot against White House UFC event",
+      "one_sentence": "Authorities disrupted a plot involving explosive drones targeting an upcoming UFC event at the White House.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f71dd5a8f731",
+      "headline": "FBI arrests 5 linked to drone attack plot for White House UFC event",
+      "one_sentence": "Five suspects were arrested in connection with a conspiracy to use drones in a terrorist attack at a UFC event.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2d3f3b053f7d",
+      "headline": "Suspect in Marcy Correctional 'Drone Drop' case was girlfriend of inmate according to FBI",
+      "one_sentence": "An investigation revealed that a suspect involved in a drone drop of contraband was the girlfriend of an inmate.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b36f40ec14d8",
+      "headline": "Caught on camera: Sheriff’s Office drone records suspect shot at it",
+      "one_sentence": "A sheriff's office drone recorded a suspect shooting at it during a police operation.",
+      "risk_tags": [
+        "violence"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "af9071ec6701",
+      "headline": "Senior official warns against drone flights near wildfire operations",
+      "one_sentence": "Warnings were issued regarding the dangers of flying drones near active wildfire operations.",
+      "risk_tags": [
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "twitter": "Drones have been linked to illegal activities and security threats in recent days, with multiple arrests made in connection to a thwarted attack on the White House!",
+    "linkedin": "Recent drone-related incidents have highlighted the ongoing challenges of security and smuggling as authorities respond to emerging threats linked to high-profile events."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-17"
+}
