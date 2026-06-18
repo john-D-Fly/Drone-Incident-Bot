@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "'Better tighten your World Cup security' — Iran-linked hackers claim massive FBI drone breach, threaten FPV attacks - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXJLbDRDZ3NlUmM2dG5MTWlQYk5PYXlzYjlmdjNlYlFCZGxsQWxSVnZWRFltc0VoeXBXQy0tN0ppN2Zjb3FqdTNNYWtmOUpnc0F4dFRlMW01blFuMjN6Z0d3NnQ4eUNfMVE5eURpNklpNTZ1NndkZzVBTW03UktSdW8temtRWGtwdldSQzQzb3NSUUZhMWNuYjRFZDFHX1ZHdFM0LV9FblJva3hqR3BadmsxSUNFN255bkl0UENZT2JYeDE3Z1RxeUJqT1V0VU51RWM3a1hrMmhxZEtYcmNOWVd5OA?oc=5",
+      "source": "TechRadar",
+      "date": "2026-06-18T20:15:00+00:00",
+      "description": "'Better tighten your World Cup security' — Iran-linked hackers claim massive FBI drone breach, threaten FPV attacks  TechRadar",
+      "query": "drone security breach",
+      "detected_at": "2026-06-18T20:52:59.335246+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "64960fe127e7"
+    },
+    {
+      "title": "Drone drop near Donaldson prison leads to contraband arrest in Heflin - The Anniston Star",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdG1tV1RXTXRxSUxBZ3pjTXp3Q2NqLU03dWVrQ0FiREZUN3NBYVNkQWthUG9XLV9KQUZoUXN3S2VoaVFzMk5KdmIzMVQ1SkkyRlpWVlljTUVVNjZOaDRTNlJFYUwxemNKYUFKd3p2WWI0cW9LZGJPeWMtSzJ5RGR1S3BYN1FtX25acG9CQkdYNGMzQUZHenh6TGtuZUpwZEtQN0I3bVlrTDhSY2FEbzNYT2tfTm1Hc1RuMEVjVlozTG1EWEpVZ05rSGRubFFDUTRKR1E2cVozaE80bGV0NDB0b2NaYm9ySFgxaU5uSjVHamZBVWR1?oc=5",
+      "source": "The Anniston Star",
+      "date": "2026-06-18T19:56:00+00:00",
+      "description": "Drone drop near Donaldson prison leads to contraband arrest in Heflin  The Anniston Star",
+      "query": "drone prison",
+      "detected_at": "2026-06-18T20:52:56.948930+00:00",
+      "location": "near Donaldson prison leads to contraband arrest in Heflin",
+      "category": "smuggling",
+      "id": "82d708b9c6f8"
+    },
+    {
+      "title": "France probes whether botched arson and Belarusian ‘spotter’ arrested outside Ukraine drone supplier are linked - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2xCaHlHRXFPLWNIcVo5OUVyMTZza0FRWDk3bmdqd2h2YzU2elZ6YVlZVkU0MUh1QW43dnBWVExvMk8xNjA0aVBXdERVSjU4MXVhbG83bk1ISjJ5eFNFd1JvYzlmY3JlcGpRdzZ3ZzVqYzlZcDMyUjZSTS1xUmhLa2lsV041OFhuQTdJVDJ0cWx5Z3lQUFROWUV1a05aRVd2VjRUejI5dmRUaHlyY1B3OTRPS3VDeHk1WDdOcGhOZEV1Y2RBUlJDajVrdVZxNTdiV2pFS0dIWXpyWUlVLUhZ0gHkAUFVX3lxTE9MUlJ1T3NUY2l0V1ZZd0tfalM1U19RanhmZmxNalk0SENCaWo2SFBvejcyWl9fTDBjaDRtZzd3V2J1ckhsYjFZVnZYN3RIaXZ0OFRQTG44d1FLZGVBeHVodEw1bEJDNUtxTWcxZkVDUmR6dHdWWWZkSkFOeG5QMWNhamYybi1FOE1yVHBuNXFzQnRqVHplY3labWZKS1VXaEZCQkJkdDI0VDloQmZsVHhyZUFWRko5ejRGRnNBRXpscENYbGtjYjNRV19pc2dWODZrUWpjWjlUR2JhdDBRQkQ4U1I1Ug?oc=5",
+      "source": "Meduza",
+      "date": "2026-06-18T20:34:00+00:00",
+      "description": "France probes whether botched arson and Belarusian ‘spotter’ arrested outside Ukraine drone supplier are linked  Meduza",
+      "query": "drone arrest",
+      "detected_at": "2026-06-18T20:52:55.819342+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "62e0e216d4d4"
+    },
+    {
       "title": "Ex-detective sentenced over prison drone drug drops - MSN",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbllqaWJMYU5IOXlfZGNpcUxtSWduQzJWN1BkUnlObzg5NGhXQTQzeTlwaFdsNEk2WnBmdnBtcGU3elpfRmpDaWtFbGtRUXF3QWlyT2Q0R2hQU19SQ0V2MzdZVzhYRkI1andjUzZ1WFQ1MU9hSDdmc1JNRjBGdWtwRUFBM1VxdXpIRzJNdkVRVVRNTHhqME9ET0daNFNJTDFYUEE?oc=5",
       "source": "MSN",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f645a9d740fa"
-    },
-    {
-      "title": "US and Ukraine warn of Russian strikes after Putin orders retaliation for deadly Ukrainian attack - KOAT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTERuUGZxbTZ1S2oySjZHRUZnSHVoeC1xeU1SeWo5emNuN2JuWTJfYnNHWUpZeXV6YVQtd1hIdWhSQmxuenZVTGNpbUhxZ0dmVjkxWVJSb2VVN1M2ei11VHRyUHBaa2tZTl9vOGRSM3V1TlBEZFd0dnZBS0V2dGhFTXdXaXRWQjZtQWtiVm1ydkZqSkUtSkE0Z3FlZzFhYWtzbHpoMVpKVFprM0xBVjdTYWxyOGFvQU1COHMwR3A4a3VZMDVZT19HbXlzWQ?oc=5",
-      "source": "KOAT",
-      "date": "2026-05-23T22:38:00+00:00",
-      "description": "US and Ukraine warn of Russian strikes after Putin orders retaliation for deadly Ukrainian attack  KOAT",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-25T01:46:40.870033+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "88121c33c5cf"
-    },
-    {
-      "title": "Hezbollah chief rejects disarmament, says weapons will remain - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XNUplZ0lsWXhaM1E5T0xpSVpLaEZGVFBtdnVycE1ObmJLajNsdmtDT0lXb0pYUlpYVGtkZ2ptLVgyYUFidEpIbmtwaGJHS05JVngtM09IUmRKVU85?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-05-24T19:19:26+00:00",
-      "description": "Hezbollah chief rejects disarmament, says weapons will remain  The Jerusalem Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-24T21:21:30.889879+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "eb799b8dbe4e"
-    },
-    {
-      "title": "23 Hospitalized or Injured as Russian Strikes Hit Kharkiv, Nikopol, Kherson, and Zaporizhzhia - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51TDJGQ0tKeGhHT3V2aFNDSXVwYmlZaUV6cVpUUF9ZcjluTkwycEdzNjl5UFFBNk5RbGVOV3ZnXzA1STlwbnNLY3Rhaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-05-24T08:51:12+00:00",
-      "description": "23 Hospitalized or Injured as Russian Strikes Hit Kharkiv, Nikopol, Kherson, and Zaporizhzhia  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-24T15:27:30.050572+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dec4d32e9fe6"
     }
   ],
-  "last_updated": "2026-06-18T19:46:05.306324+00:00",
+  "last_updated": "2026-06-18T20:53:00.953493+00:00",
   "total_count": 1000
 }
