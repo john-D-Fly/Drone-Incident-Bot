@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Arrest of Ohio man in UFC drone attack plot comes after mom's tip - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDh5QWJjSGVYYllmVC1xWGgxdllpdk1OWDkyLU51UDQ0WFhpN1JCNFBtVmF6OVlueHYxMmE4MUtmaFR1ck52eTlFRU1FdGNxOEstM0FLUU5hSVBMUDk4bFpLQlRoRGZDckZIWlVnLU1nQVBIOGNyZWVncmxNNzY1c3M1dEJ4cHl6MEswdGNYVTdaYm94SU9IRUE3QXFPZ3hw?oc=5",
+      "source": "The Columbus Dispatch",
+      "date": "2026-06-16T17:32:00+00:00",
+      "description": "Arrest of Ohio man in UFC drone attack plot comes after mom's tip  The Columbus Dispatch",
+      "query": "drone arrest",
+      "detected_at": "2026-06-18T09:34:34.261540+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "70993fa3e3d2"
+    },
+    {
+      "title": "BRPD uses drone to help arrest two armed vehicle burglary suspects - WBRZ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjkxVU82TTZ1bzJKOG9RNHVhTzU5cUZ0RllpUkVUX0dnaXJlZW1zVHBwZnI3SDByb2NiTjRfd3I2cWFJUXJvazFqZ2Q2RVF0aUFMb0lFYUhzeXJMd184bWl4R2pLMEZScThtME5JeG1RTlItbk9GakVNMXMyMXFmRGJDOFdNWmQ2OWlTSGx1NEhXeV9mWlMyXw?oc=5",
+      "source": "WBRZ",
+      "date": "2026-06-17T23:36:37+00:00",
+      "description": "BRPD uses drone to help arrest two armed vehicle burglary suspects  WBRZ",
+      "query": "drone arrest",
+      "detected_at": "2026-06-18T09:34:34.261540+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "348f17f2b8ae"
+    },
+    {
       "title": "From \"Predictable Surprise\" to Policy Priority: The Push for Faster Counter-Drone Deployment - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVdwX1VlNHAyMWpUOVR0ajRmTTF3T3FzQ1pEQ3laRDkzZ1BtRjUxSGJUdXVZc1FFcFVaSVJCbDRydTJBNUs5TEItSWtSWlRQOUJQdW4zQ2ZGTWczN0gySXFkUWx5RF9kZDRMbVRsVHZDbmpkUHNoMlVlRmV1MDNVVjhhMHpISnZfMEQ2dk9Xbk9VR0tJNlR3TkZ3?oc=5",
       "source": "Dronelife",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e7a10dd9e74f"
-    },
-    {
-      "title": "Another Wildfire Aviation Close Call As Scooper Operations Shutdown In Canada By A Recreation Drone. - The Hotshot Wake Up",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2lRdEhsQlZhUXZhTzVHS3NsSzRzMVpiUFpSN2xMZmZMRkk4clR3MTRwRDg5eTNkeFZNM0FKb0JYN1l5WDg3RXpSQjhERC1EcVZlZVpyWVp5WW5JOGdOZUdVSC1qcFkzZ3F0cVhrdFNoNFdlLTVhbGxyTnk0ZVFxdUVn?oc=5",
-      "source": "The Hotshot Wake Up",
-      "date": "2026-05-23T02:33:55+00:00",
-      "description": "Another Wildfire Aviation Close Call As Scooper Operations Shutdown In Canada By A Recreation Drone.  The Hotshot Wake Up",
-      "query": "drone incident",
-      "detected_at": "2026-05-23T03:09:57.512075+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fefcdf013637"
-    },
-    {
-      "title": "Chemical incident forces evacuations in Orange County - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXJtRkRwY3NVUlR6NkhsQmdDMGc3WGJCQk9IaWNnaWNnV0dzNmhubUw4bmlXdFZmb2JUdWlsdWtXUXFFUi1YMnkxelpOQi1Fa3BIakg0MGV1NDJkQVl3c3IyVi1uTW1XaVZmZktGeG5pSmNWVEVlaXhHUmVGVjZwMElLTXE3dXdSc3hIWVZGNmVOM3ZJYmhGcWsyOGZPUlVhNHg0S1V5ZFgzRnN4emRxRjI4d19iMHVFdHBFcV9KdFN6TkFUb3d5bkVlUkhmQWhj?oc=5",
-      "source": "USA Today",
-      "date": "2026-05-23T00:03:00+00:00",
-      "description": "Chemical incident forces evacuations in Orange County  USA Today",
-      "query": "drone incident",
-      "detected_at": "2026-05-23T00:49:52.929758+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "182fd3ecf49b"
     }
   ],
-  "last_updated": "2026-06-18T07:46:57.160501+00:00",
+  "last_updated": "2026-06-18T09:34:39.187213+00:00",
   "total_count": 1000
 }
