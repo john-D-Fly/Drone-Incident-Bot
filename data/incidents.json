@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "FBI busts illegal drones hovering over Seattle World Cup - FOX 13 Seattle",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFVyLV9Da0h5dEFJTVNMbnVzOUVkbFhGamNDTU1OQnZYLXc5c1RjYVZMczlhV1NKVzI5VFJDZFdFbHBsMmZWWmo0b0VXXzJXRGY2QXNpVzVKekZyb0Q3MXFTZWoxdmRVc1dXSVc4elhOT0FLRjkxcE14ZllHLWFlQ9IBhgFBVV95cUxNNVEwcGlHMngwOHIyNU8yMXVpTFd4ZXNaR3BuNVFMY2U5SkNYbGlvRkNrcUU1RjVJMWtXRGJBNVNwRVg4WWVvM21qbklEQVlNOHZUMkZyU3FQcFVYTndscHBWc2VCNm9mRkRMU2lyYmtLWlhPRUlpcWN1WkhUVUJGX05uQmJtZw?oc=5",
+      "source": "FOX 13 Seattle",
+      "date": "2026-06-18T00:49:35+00:00",
+      "description": "FBI busts illegal drones hovering over Seattle World Cup  FOX 13 Seattle",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-19T07:57:42.041442+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6832ba8f98df"
+    },
+    {
+      "title": "Russian Drone Attack on Foreign-Flagged Ships in Black Sea Kills One, Injures Five - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjdtSGt6UWlkaFB0NFB2bUZlekRaQW92QXpHZnN6N0thaTR1SC1WdHcxOVpzSFNXeG9wZWNZTE52RnR3MnlWY1hCMklnNkNqWVRVSDZkNG5pSFJ5QVQ1dWVJNjd3Nm9PaVVWemRHeEN5Q1lDTmdhaDhuajJmY2ppYTdISDRYbms3NGZwUkZFaHBKREdGcVJzNk9aLTRPRmhuQWVWREZyVmZZZ1dyNTZNZDViZzZqOS1FRmdB?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-06-19T07:34:48+00:00",
+      "description": "Russian Drone Attack on Foreign-Flagged Ships in Black Sea Kills One, Injures Five  UNITED24 Media",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-19T07:57:41.517034+00:00",
+      "location": "in Black Sea Kills One, In",
+      "category": "other",
+      "id": "23e1a20908ee"
+    },
+    {
+      "title": "Smugglers jailed for using drones to drop contraband into prison near Rugby - The Rugby Observer",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWY5NEFYZmJWWUM1bXBIV2Vsc3dSeGtIcXRaVGRac0VjN3p6N1lsV3NkOC1pcHB1eE5TUWN3TVU2cWhoM0U3enlCT2lveEZmWkVndzFVM1RpRXI1d1lDMEJyU1BZMmVoX0NFUy1zS0hvMGViNXBtZ1VnelRKZndFekNBcWdGSVR2QklxdTFfU1pDUzJ1NUJEam1Vbm5lSTlMaWJxYTBOUGlhR09a?oc=5",
+      "source": "The Rugby Observer",
+      "date": "2026-06-19T06:30:24+00:00",
+      "description": "Smugglers jailed for using drones to drop contraband into prison near Rugby  The Rugby Observer",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-19T07:57:38.128597+00:00",
+      "location": "near Rugby",
+      "category": "smuggling",
+      "id": "bc4d3918720b"
+    },
+    {
+      "title": "Drone unit assists arrest of suspected drunk driver after several crashes, CPD says - FOX19 | Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmNnMUNEVTM5cm1hZm54cnZzaVlOdG1MaGNscDhMUVFpWWFGOE4zZnhpenZDX083bnJ4cjBKdUtNUzZhOWgtWko4V3VuQ21aX3RrYWx0ZVBTZ2N1NTNZYXpsejlFZVUxck9xSmNNekZzTHRVRGpoOU1vVE1LSlhEQm5TcUw5Ny1EVnljempldjEwSjcxUlEtTFZlYmxDUE95S3FyZHQzc192enVIZnpYcGx2ekxGQWxpZFVz?oc=5",
+      "source": "FOX19 | Cincinnati",
+      "date": "2026-06-19T02:33:56+00:00",
+      "description": "Drone unit assists arrest of suspected drunk driver after several crashes, CPD says  FOX19 | Cincinnati",
+      "query": "drone arrest",
+      "detected_at": "2026-06-19T07:57:37.639094+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "642fa13680c0"
+    },
+    {
       "title": "Honduran Man Charged with Illegal Drone Operation Before FIFA World Cup Match - Patch",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnZaSkNQWTBkdlBnaUFHODhtMkFZVHd5QWhkN2FBTndldzVQdlBxcUUzanh1YnZSejVRb1pUUTcxVm5jbmhDT1BuaDdJdWtOTTV1amM5ZDF4THlYQlhFLTZveGFXU1FwaE9qZkVsemczV0FnWTMzTnZ6c3UzNUo3ZmZfc2d0OTZuMG5Vb1pDWUdWNS04TDdaNHFfUmJVeTIyQmJIQWF6Z9IByAFBVV95cUxOMWRoNXA0aDdqZF9fTUw3WFpUYnZGcHZHa2Vmdk5BQTd4cFBjRXJ4QlhfUDR1Y2M3V05ROHE1Tjdyc19JN0RRQzdBQTNtX0RQMGtpTnBDTHFtZHFvb3JzYVIxNjAwU29FVjZROXpFWVFnSG9EWkhjQ3RWdnZNczJwY0hZOEoxMVl1YUtJaFg0OGo5UW5TSGVlWktmQmx6dHdoMDNSeGRxUTctZ0doYVZCaEx3RTJaSFo3YTRiLW1tVkVwUGNna1BhcQ?oc=5",
       "source": "Patch",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "227fd7a97187"
-    },
-    {
-      "title": "Vivid show grounded after 90 drones crash - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOa0hld0h6RWxhamVvdzhkSmM5Sm9iVEU5dkwwVFE4Q2cyYzY1VVlvRzN0ZElTSTN4OE56bkhRcU4zZ1Fxd3oyQUNBOEkzWWJNN0k2QW83cFhNNlM3N2t2ZEMwR3locndZczVyMGtOem9YajVteUtWZGdZam12TUt5eWJmQ1laaVpZbkQ1TTJTX2N1UEZhS1ducVF1MnhFendHMFNYbEZVVzlzQ21XUHNORUtGY1FYdTdrRjVJT2RRS1RJU3M4QlpxV2VTOUZBVzc3NThGWFpHbDMzSWdPZlFQb1ZzQU05djdpQzNTT01xcmxXbk84RkV3MTAtbGJZUFRIcmJ4dFlzSdIBjAJBVV95cUxPVm5JekQ4RElpYkM3WEx2aTZqeVRacDFkejV4VmQ5dVZUMFpVN3FKMTA0SEhOOG9HWTRCX0o4bFFlN2tIMWhrRU4wTUMzaDNPaEswYjE0NHF0TVRVekJJdFBIZU41Zm1EX1NwVTluR3BPRE96ZXhZaUdkd1RSYlZHNTFqOHZaZjVBNlEtakJ2YzdHZHdsajNJWVNfVWVqa1daWE96bUV1Z1JzS09DWjdnREw4c2ZpTTdmQUpUa0xseVloSjEzVEdBbUV2NnpuYjdDR001Nl9Fc1BjTnBnSndTelJmRU15eDhYS1dRbzZGZ01hVWx5RE9hRWFITE16cDlZUDhnaUZHY2FESmx5?oc=5",
-      "source": "The Australian",
-      "date": "2026-05-26T00:17:26+00:00",
-      "description": "Vivid show grounded after 90 drones crash  The Australian",
-      "query": "drone crash",
-      "detected_at": "2026-05-26T01:41:40.131466+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "363eca400edf"
-    },
-    {
-      "title": "Witness recounts 'catastrophic failure' of Vivid Sydney drone show - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0tRdlZnd0lrU1QtR1dQUVFRZEZXUGZYUlVaNkF3YWdVZ2plR3Z6b0I4RWNyZTk2YjVic01TUnlWblJ2d0FlSGZ2bkppZVppUkNPSm1abGpUa1R4bXplcnJIYmduTW9BaFpQSWxCNk5yUmdIckJ1allMaEI3ZWRUMGZOc211ZWttajNUS25zUE1vazFiZi1Ob0lPM2M5TmFFTkpHWVBrWGh4TmNO?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2026-05-25T21:42:29+00:00",
-      "description": "Witness recounts 'catastrophic failure' of Vivid Sydney drone show  Australian Broadcasting Corporation",
-      "query": "drone crash",
-      "detected_at": "2026-05-25T23:27:11.223428+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4e0efe255f52"
-    },
-    {
-      "title": "'Catastrophic failure' after drones malfunction at Vivid Sydney show - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0tRdlZnd0lrU1QtR1dQUVFRZEZXUGZYUlVaNkF3YWdVZ2plR3Z6b0I4RWNyZTk2YjVic01TUnlWblJ2d0FlSGZ2bkppZVppUkNPSm1abGpUa1R4bXplcnJIYmduTW9BaFpQSWxCNk5yUmdIckJ1allMaEI3ZWRUMGZOc211ZWttajNUS25zUE1vazFiZi1Ob0lPM2M5TmFFTkpHWVBrWGh4TmNO?oc=5",
-      "source": "Australian Broadcasting Corporation",
-      "date": "2026-05-25T21:42:29+00:00",
-      "description": "'Catastrophic failure' after drones malfunction at Vivid Sydney show  Australian Broadcasting Corporation",
-      "query": "drone crash",
-      "detected_at": "2026-05-25T22:25:19.786020+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dc69e96be104"
-    },
-    {
-      "title": "Drones fall from the sky, Vivid shows cancelled amid safety review - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWxJMUw5ZVpBSFZfdFF6Q3VaWXFUd2loRzUzUjFVcjBWNG5kYW9CTGx1b1kxTEdheS1uTHBsUkhXQmJFLURyQ01FWkdBZlB3VXVfMTV0U0FvdkRlaU9td0VpUkdYaERBbExXZ0dad2o0MlRHS2JuMWNhRnE5Sy1iTTdqd09nMDFEU1RWY1ZxV1ZVcFduNk41aUFZSWZic1gwYWtRMUFVUXN5LUpDX0dSc2xrbEhqRlB1aWowR3labw?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-05-25T21:17:41+00:00",
-      "description": "Drones fall from the sky, Vivid shows cancelled amid safety review  SMH.com.au",
-      "query": "drone incident",
-      "detected_at": "2026-05-25T22:25:16.874824+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8c663acaf9a1"
     }
   ],
-  "last_updated": "2026-06-19T05:47:24.093099+00:00",
+  "last_updated": "2026-06-19T07:57:42.543860+00:00",
   "total_count": 1000
 }
