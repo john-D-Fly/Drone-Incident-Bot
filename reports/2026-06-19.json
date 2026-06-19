@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a significant increase in drone-related incidents, with a notable focus on Ukrainian drone strikes reported against Moscow, which have grounded flights across the city. Concurrently, there were various drone security breaches at World Cup events, leading to several arrests and heightened law enforcement responses. Various arrests related to drone smuggling and unauthorized operations have been reported, particularly in the context of prisons and security events. There's a discernible rise in drone technology's dual use for smuggling contraband and supporting law enforcement efforts, raising concerns about safety and security at public events. Additionally, policies regarding drone regulation are becoming more prominent as incidents of illegal drone usage intensify.",
+  "totals": {
+    "other": 20,
+    "airport": 5,
+    "smuggling": 5,
+    "arrest": 20,
+    "terrorism": 6,
+    "security": 6,
+    "total_incidents": 105,
+    "by_category": {
+      "airport": 5,
+      "arrest": 23,
+      "crash": 2,
+      "other": 53,
+      "security": 6,
+      "smuggling": 12,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 8,
+      "drone arrest": 28,
+      "drone illegal": 13,
+      "drone incident": 20,
+      "drone prison": 4,
+      "drone security breach": 3,
+      "drone smuggling": 8,
+      "drone terrorism": 13,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Strikes and Security Breaches",
+      "rationale": "Growing concerns over drone usage leading to security incidents and operational challenges.",
+      "incident_ids": [
+        "ab38b8796f55",
+        "a557379974b2",
+        "3100c266780c",
+        "f48cfea4ff3a",
+        "b7cdf8abb8a3",
+        "7fbf Default "
+      ]
+    },
+    {
+      "topic": "Drone Arrests and Lawsuits",
+      "rationale": "Significant arrest activity relating to drone use and illegal operations.",
+      "incident_ids": [
+        "bbd7c1f3e300",
+        "bc4d3918720b",
+        "42f9f58f364d",
+        "1a8368e4fa66"
+      ]
+    },
+    {
+      "topic": "Policy and Regulation Developments",
+      "rationale": "Emergent discussions around drone regulations and counter-drone strategies.",
+      "incident_ids": [
+        "wgerf8wy0",
+        "we4tdhj5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ab38b8796f55",
+      "headline": "Ukraine launches drone strikes on Moscow, hitting oil refinery",
+      "one_sentence": "Ukrainian forces executed drone strikes on Moscow, purportedly targeting oil infrastructure.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "3100c266780c",
+      "headline": "Mexican military downs drone over South Korea training camp",
+      "one_sentence": "A Mexican military operation resulted in the downing of an unauthorized drone over a South Korea training camp.",
+      "risk_tags": [
+        "drone security breach"
+      ],
+      "countries": [
+        "Mexico",
+        "South Korea"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3670814f1c0e",
+      "headline": "EU accuses Russia over drone incidents in European airspace",
+      "one_sentence": "The European Union accused Russia of responsibility for multiple drone incidents impacting airspace.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "a557379974b2",
+      "headline": "All Moscow airports shut down amid largest Ukrainian drone attack",
+      "one_sentence": "Moscow's airports experienced large-scale shutdowns due to intense drone attacks by Ukraine.",
+      "risk_tags": [
+        "drone airport disruption"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 1.0
+    },
+    {
+      "id": "ebba402f18af",
+      "headline": "Drone unit assists arrest of suspected drunk driver after several crashes",
+      "one_sentence": "A drone unit was instrumental in the arrest of a suspect linked to multiple vehicle crashes.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge: Ukrainian strikes on Moscow disrupt airports while arrests abound at World Cup events, highlighting security concerns.",
+    "linkedin": "Recent drone activities reveal escalating concerns over drone operations and unauthorized usage, particularly around high-profile events like the World Cup."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-19"
+}
