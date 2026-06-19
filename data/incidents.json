@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Mexican military downs drone over South Korea training camp - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWGQ2QV96a3doWE93Y1Z2amJtSGRUbXdVdFRnODIzZkxSUG85bnpDNHJ4OFcxNkFBcGY5Tll4WnQ1Nk54SGV5MzRoZDNDQWhhdFlmSnRMeHQyNmJnNGJCbGVabGtwazg1bW5PWEdPZEk2VWFTVmxSWHBUOUJlNkpZRjBCQmtzYTBXQXZ6Q29ZWjgxOERLV21KNk1ZSm5nS2l6VnhELW1ScnBPY2RkZThqVlJIbEl4cC1IWGxJOFhkZFVpNXh5QWJ1d1V2cElUdXBoYWwzVGNlOFZjV3NpaXVrUkRKVXdXZnZLVDFQb2haOW55dWc?oc=5",
+      "source": "MSN",
+      "date": "2026-06-19T03:18:47+00:00",
+      "description": "Mexican military downs drone over South Korea training camp  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-06-19T16:52:03.125512+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c92583a50051"
+    },
+    {
+      "title": "Drone breach at South Korea camp intercepted before Mexico clash - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZW4xNi1FQnFaQkJGWG1pUkx0SzZqLWRLTHBGVVZHLU9ySlRVWE1PLU5JdDZzVnFWRTNHejhyRXUxbnJmdjBFT2szTzloTjVqVXpyRlRuRnNWWDlNZWctLW9UQ3UySFJzbDMtZnpvUVB1Rm5jU3FCYXJYWW9QSFlwSjB1dFFudldaSkZFcWR5dXY3dG8wdWZuVWpjTWlBWkZEb2ZkRjlhUEhmSkZiMC1BbXNuSlBlNUVib0RTM2R5LThma3J2MmFoSVhRb2NvcVdTRHNaUV9Ia2xoRjN5ckx3MGJKSWZrTDl4RTJJZGlSTjloM0RlNGV4YndR?oc=5",
+      "source": "MSN",
+      "date": "2026-06-19T09:13:30+00:00",
+      "description": "Drone breach at South Korea camp intercepted before Mexico clash  MSN",
+      "query": "drone security breach",
+      "detected_at": "2026-06-19T16:52:03.125512+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "8cfa93a2c809"
+    },
+    {
+      "title": "Kansas City seizes 8 illegal drones flying over World Cup events - Read Lion",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0pnLUY4VzFYUXBvQUpJSDVTMHdweHZNVC1YT3d0Q0t6SmR3eE52NG5MWGQ2S3RXaGdGaVcwYjJqZjF4OE9NRlE2djItMm9pT09WQ1lxRVdfRnREUkp5ZWhXQjdlNUJKdEI3ZmlvZTNPTFg3OG1OZXRZR0VLbEVEZGMzVjNWWnlzYzJaUzdLcw?oc=5",
+      "source": "Read Lion",
+      "date": "2026-06-19T15:40:37+00:00",
+      "description": "Kansas City seizes 8 illegal drones flying over World Cup events  Read Lion",
+      "query": "drone illegal",
+      "detected_at": "2026-06-19T16:52:02.482342+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d0adb1280bac"
+    },
+    {
+      "title": "Drone strikes beyond the battlefield pump up market for technology to repel them - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ3V0ck16Y0J0NzVSbkxYSktBNm1LMXdnNmNBRTBjWWt0Q3I2YVFNQ3dOcGI4YUg2Tm5wM3ZFMWNkaEZyeFZJOW5QanJjMFNCWTdRZDFyQnd6VV92MEM4djhxa0hMblZuVWtkWjlZT2w2ZmpLN1BDN3NETXRPR0VaQVF0VVBxcl94Mkt4bFdfUnB6WEtUR1pPX1dtdEJBLWtxdU85RS1EdGdtbVVBNU5Dck10WFlIT25UUVJ5UnlnV05BQTV4a3doeDlhakQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-06-18T15:21:00+00:00",
+      "description": "Drone strikes beyond the battlefield pump up market for technology to repel them  Reuters",
+      "query": "drone airport disruption",
+      "detected_at": "2026-06-19T16:52:01.336084+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9f84da8ec661"
+    },
+    {
+      "title": "Exclusive | Twice-deported illegal immigrant arrested for flying drone in restricted FIFA airspace - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSE85VWhtY3lONjc0bGFyMVFfOXNka3BDY2IyRzkxZWFFYk1YSW53aks5RlkyejM5bFlET2VjMWFQUDUzWWNQNDY0aXFYTVpUV2pHejJkTEVjT0FuSjVfRkZxTHJnaGxOQWZvN0dvVlNuLU5RN1BQNHFOVUlxcE9DUFZ5a055VnQteHo0NHNsYm52enhmZmZsNDNrNUUxT2o0QVN4d3FSZw?oc=5",
+      "source": "New York Post",
+      "date": "2026-06-19T16:13:00+00:00",
+      "description": "Exclusive | Twice-deported illegal immigrant arrested for flying drone in restricted FIFA airspace  New York Post",
+      "query": "drone arrest",
+      "detected_at": "2026-06-19T16:51:59.555444+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "32c29d80b41b"
+    },
+    {
+      "title": "EU blames Russia for drone incidents over European territory - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3h4UWswT1dmU3dNbmhsV0VBN1FkQ2ZxbEU2c0ExdmFhcFR1T3dKSkhZVC1PMDlLaXk5SElXT2FWWWFMRUJEZ1VqMnlXRzgtdGlNVENLR0ZibF9nd2RycG9XZXRmM3FYd2g2c3dPUkJuOTNIdUxfczZSdkQzWndlamlLTlQ4Wl9NYm52NWVIMFU5MVJPb09yOWU1N3ZxS2FPNHNr0gGjAUFVX3lxTFBreHhRazBPV2ZTd01uaGxXRUE3UWRDZnFsRTZzQTF2YWFwVHVPd0pKSFlULU8wOUtpeTlISVdPYVZZYUxFQkRnVWoyeVdHOC10aU1UQ0tHRmJsX2d3ZHJwb1dldGYzcVh3aDZzd09SQm45M0h1TF9zNlJ2RDNad2VqaUtOVDhaX01ibnY1ZUgwVTkxUk9vT3I5ZTU3dnFLYU80c2s?oc=5",
+      "source": "Meduza",
+      "date": "2026-06-19T11:32:00+00:00",
+      "description": "EU blames Russia for drone incidents over European territory  Meduza",
+      "query": "drone incident",
+      "detected_at": "2026-06-19T16:51:58.892337+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "41ec53cf1ee5"
+    },
+    {
       "title": "Man tried to smuggle smart glasses, pounds of weed into Ala. prison with drone - Corrections1",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzVHOU9LalZ1eG9yYUtxaHdrc0hqS1NmWkY1MnNvMGxDaEdoTmlOQXcxTnlaRWx5TU5WaTVua0R0UFFlXzFvR1BvLWREdVNLQzBzTVZWWDhFWFdtNWhQbFdHazQweDhQTzdGbnIxODhVTnVrOTRtSUVqS0RRdnFBTHJhQmRORkNPZjBlaW5fTTNMdmhkS2VZNjNaYlVyTzlLX3dqMzlDcWpjWVpyQmNmUHlhRFh4X3c?oc=5",
       "source": "Corrections1",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7eb6a3d1f668"
-    },
-    {
-      "title": "Display drones crash into Sydney harbour - Unmanned airspace",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWZlSkgtb0JwRG5ybFR5TEoyTkE0Tjh1LUprWFFZOTdzQmdyT2dERHVQZGx0ZDFKbXIwSUNtcEQxcDdFcUN6anJ5NVVJX3dJbHcxaVhkTm9FZHdhNWJ4YTU1S3c3SWdURkxYRGF6OWpwYTN5VDdBcmttSDdTYzZFQmU4MnFDaU9GeEZ6M3ZWRWJneWc?oc=5",
-      "source": "Unmanned airspace",
-      "date": "2026-05-26T08:02:14+00:00",
-      "description": "Display drones crash into Sydney harbour  Unmanned airspace",
-      "query": "drone crash",
-      "detected_at": "2026-05-26T09:15:40.028651+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "ab64625c659a"
-    },
-    {
-      "title": "Helsinki Airport stages major accident exercise with 14 Finnish agencies - AeroTime",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnpVcS14U0prSjhPdjZCLXF3dWRrOXFtZGxiZTRWajBqZ2Y1TXNONzhHb0tva3dfZ2xRNGJKbnJXNW41VzZBVHlKYlVweXZvZ2dBeGVxR2t5cVd6RllxRnNncWIzejh1dEJnZzV2bWliV2NCanAtZ3hfVnpkU2ZlZmxNMjZmSjF0dDNRQ09PeFcxdmRpaEZKMlQ5am1lSldtMkxPdVdNN2VKT1ZNbzZBNDBLU0Q5Z9IBuwFBVV95cUxNb0YxX2Y4VFhuaUtxSzYtejM4d1ZHbTBiWUxrTFNzYkNSYlVqVG5HY0x4YmNfVUQ3UGdRWGtuSV9QQ2RNcFpTMjRMNFhSenVRTzF1Tm9UQUhGUGdxWXhZM0hZYXppbkxiQTA2eTVaUWFNdDIzSnhfYWlpbHRuS01ETVE2SGhCVTBMUUs0ZlRKeUdEZTk5aUkzdVBjWm5mQ1RqcVI0LWtuTENqaEFBd3pKVVhFUktZNmJUQjFV?oc=5",
-      "source": "AeroTime",
-      "date": "2026-05-26T07:03:13+00:00",
-      "description": "Helsinki Airport stages major accident exercise with 14 Finnish agencies  AeroTime",
-      "query": "drone incident",
-      "detected_at": "2026-05-26T09:15:36.899589+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a871df5f0b37"
-    },
-    {
-      "title": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlNMUnhrcUVKODQyV3RURHFsY2g0WEpHaWFiQnBIcWNZNUZvbmdMbmIwR3JLdWdzaXJWQjl0WW4zTkZzMmJjallsRXBWVGdSbF9ZTkNzTzQtY2FDeEcyYTRQMzJwbkEtZy1FX3lKNFVsV0dCRjZQcGo4czRmc2YtWS12OVluUWhtMjJVNkVwZVFSdVhJSnJYT1dIS2prOEFUZXhuQkFHQXdYVUhXeVE?oc=5",
-      "source": "The Guardian",
-      "date": "2026-05-26T07:03:00+00:00",
-      "description": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-05-26T09:15:36.899589+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4add75d94744"
-    },
-    {
-      "title": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’ - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTJYbFBHaUZTcjFLSmZNTVhtUUVXWDc0Q0djMk5TWWRyYW4yZTJZVUJBcGJwazdPX0p2cU0ySzFsRnVtRmFDWXRzZ2xhaklUM3pJZFRLLThaZ01LOWlwV00xNy1MMmUxUHpPNWFVTHVoX05ubU5LejBCczZNck50cGVjTnNBVU9mSERZaGNYTzBJYzVScHB0azlQdVdzSFZqYUJiSTZoZkVBRXotdm1oOVpB0gG3AUFVX3lxTE9OWXZwM0ZTLXhDMHkyNDBieEd4SVhyNEw1aGo2V05TaGxGQ0E0cVBfbTJva2hVVDlXMDNXY3huUWRUMXVUWE5KVlJ3aHdXZ2dSR1RsYWxJcjBRZkJUaHhQTzVja1R4dnVNa0dhS05WWnRxRVE5c09ISGJqNzh2d1BycTA0N1EtaGpXTzdsXzgyUjJzNUVzTnBfV2ZlQkI0M1J6MFVQelZuWlUwWGlvSHV3dGg0V3A3aw?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-05-25T19:17:29+00:00",
-      "description": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’  Al Jazeera",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-26T07:18:32.865550+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "40acf62d48b1"
-    },
-    {
-      "title": "Three Russian agents jailed for helping direct missile and drone attacks on Odesa - Ukrinform - Ukrainian National News Agency",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3NLUWMyUUJyd3B2a3JEV29ZaEN1YUh3NF9PUTBDd0VuNWJTazZwN1pieXd0UnhjZ1U1ZEItMFZjUlhMSzRUTTJpMTlRSXNBVlplYTFfZTItdEhKUHJzWGhlSmJPWWZNbTBYX1ZnUDBEVVhfN1ZpMWV5ZnFxanp0UFJtOGVNZThyWDNnZ3BYUm1ZZTliODktS3duNGhOMktaQzJfdVFjei1FRm9OOGdjdTlCOEFlQU9ZcHhjRTF1ODlMbDJucjBxWVdDM0ZiUdIB0wFBVV95cUxQVGtsWDRiSFpDVV96RTVWU1RQeGd2ZUU2eDBhT1hxSXZMdHBSV2hBeHFnWTdvcVJJQkE0U0c4dTRCWXpXM3FKbzdqd2ZWY28yMHV5V1BWeEZxbUh0cVNtSm5laUlKUDlEZHVVOGtUbDVWMS1YVmdwNGFFQmVaTXNEaWVzMFlReDNQc2VGMm5SNnFnZHp5MUNLOVZVdDZwVFhqdjQ4ZzFJS2RqckVoM2t1VmRDZm10ZlBQbm8zY1hKaXdCdjRjOFBaZ09KaFdEQV9RM0dZ?oc=5",
-      "source": "Ukrinform - Ukrainian National News Agency",
-      "date": "2026-05-26T05:40:00+00:00",
-      "description": "Three Russian agents jailed for helping direct missile and drone attacks on Odesa  Ukrinform - Ukrainian National News Agency",
-      "query": "drone prison",
-      "detected_at": "2026-05-26T07:18:30.033524+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ff3053ff896c"
-    },
-    {
-      "title": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlNMUnhrcUVKODQyV3RURHFsY2g0WEpHaWFiQnBIcWNZNUZvbmdMbmIwR3JLdWdzaXJWQjl0WW4zTkZzMmJjallsRXBWVGdSbF9ZTkNzTzQtY2FDeEcyYTRQMzJwbkEtZy1FX3lKNFVsV0dCRjZQcGo4czRmc2YtWS12OVluUWhtMjJVNkVwZVFSdVhJSnJYT1dIS2prOEFUZXhuQkFHQXdYVUhXeVE?oc=5",
-      "source": "The Guardian",
-      "date": "2026-05-26T00:57:00+00:00",
-      "description": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-05-26T07:18:28.279500+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0392324bfd00"
     }
   ],
-  "last_updated": "2026-06-19T15:04:57.443300+00:00",
+  "last_updated": "2026-06-19T16:52:04.659668+00:00",
   "total_count": 1000
 }
