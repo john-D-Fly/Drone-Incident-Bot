@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "TSA Backs The FAA’s $100,000 Threat To Travelers Who Ignore World Cup Ban Rule - TheTravel",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDJ5TTNBRFNlZkxLa24zTHl5b05aLUJwLWVDel9MTEVCNHJZUUVEbk53YnJVWXRsVUdITHBHdFNvUjh0RlEyZzFsSlVlanFhcnpHNlJNNlBYV3NEU2xzMWJkb01yU3luRVY0amJvdDBudVE5TXRwSy1ta3VTalNjZXdNdm0tYy0wUmlBUXpBb25mUkkzUW9RdDNoNXJYTWZiREkzNw?oc=5",
+      "source": "TheTravel",
+      "date": "2026-06-19T16:09:25+00:00",
+      "description": "TSA Backs The FAA’s $100,000 Threat To Travelers Who Ignore World Cup Ban Rule  TheTravel",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-19T17:39:14.527367+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ec5f6e425ceb"
+    },
+    {
+      "title": "8 illegal drones seized after flying over World Cup events in Kansas City - The Heartlander",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkVFbVBlUl9LRjFlZ0JLSm1KcXBEUEVuNklEUFROdmlWN3d5MzdkSWRoRkMzdjJwR3NxN19iMko1VWMzTXNQS1R4d3JBOHpXRC1BY0gybE85TlNkZFJhRXlfeDRXVG9VNzVRSkgwNWNTMEQyNnZGdVdFV2phQ3JyUTZzeTN6Q0J0RXlEaGNqRVY5RFFBOW1wcnlhX1lfY3dKaTcxYUpJSDM2UHlodk1YdmNPSQ?oc=5",
+      "source": "The Heartlander",
+      "date": "2026-06-19T16:20:41+00:00",
+      "description": "8 illegal drones seized after flying over World Cup events in Kansas City  The Heartlander",
+      "query": "drone illegal",
+      "detected_at": "2026-06-19T17:39:12.745723+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "62934b3d858e"
+    },
+    {
       "title": "Mexican military downs drone over South Korea training camp - MSN",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWGQ2QV96a3doWE93Y1Z2amJtSGRUbXdVdFRnODIzZkxSUG85bnpDNHJ4OFcxNkFBcGY5Tll4WnQ1Nk54SGV5MzRoZDNDQWhhdFlmSnRMeHQyNmJnNGJCbGVabGtwazg1bW5PWEdPZEk2VWFTVmxSWHBUOUJlNkpZRjBCQmtzYTBXQXZ6Q29ZWjgxOERLV21KNk1ZSm5nS2l6VnhELW1ScnBPY2RkZThqVlJIbEl4cC1IWGxJOFhkZFVpNXh5QWJ1d1V2cElUdXBoYWwzVGNlOFZjV3NpaXVrUkRKVXdXZnZLVDFQb2haOW55dWc?oc=5",
       "source": "MSN",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "dc7a0197d3b5"
-    },
-    {
-      "title": "Hezbollah drone hits northern Israel - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHFvYklzelc0MGdmamVNZlAxNTZPMFBHRldVSXd4Y0tweG9zcDRScVdocUV2eThRbkR1TEpjNkkyMUF1dFJ3d0NzWGEzRHJZTmR6NDNLNFVkZG9UNWJDWEtLaEF0VnpkUGJDYWlKZkdsREhNX0VpbTIzeS0xMFFzcUlLN0J4TGE2?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-05-26T08:26:00+00:00",
-      "description": "Hezbollah drone hits northern Israel  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-26T09:15:41.968798+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0525e0557e55"
-    },
-    {
-      "title": "Watch: Light drones fall during display in Sydney - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaDFfNS1WWk5fSnprRU5IcE9YVTVKa21SQVRDZU9wWWZDOUlaaHBvdkt6eDc2SWhpc05pZF96R1RpcWFIWW9TaWN5VWdOTEpTVng3bzdhSQ?oc=5",
-      "source": "BBC",
-      "date": "2026-05-26T07:11:50+00:00",
-      "description": "Watch: Light drones fall during display in Sydney  BBC",
-      "query": "drone crash",
-      "detected_at": "2026-05-26T09:15:40.028651+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7eb6a3d1f668"
     }
   ],
-  "last_updated": "2026-06-19T16:52:04.659668+00:00",
+  "last_updated": "2026-06-19T17:39:15.076579+00:00",
   "total_count": 1000
 }
