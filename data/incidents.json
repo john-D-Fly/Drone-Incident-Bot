@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Twice-deported illegal immigrant charged with flying drone in restricted airspace during FIFA Fan Festival - WFIN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWncwcVRvLUd0SW5NSF9TZi1rR3A3RWZBRlp6eWdLQ2IzVGVENk5FdDlFVVBkM0NVSFE5Z2ZOc1hOZEdwWWN4RVlDNlZZMTJiWFA2TjNsOXl0WTYzbHNVeWJxRGhRZzhFeFl2S0dpXzMtYWZrYW9DYTVjMmxZSXFqNGhaR0YzeFpVSEtjbjlxanlnT0I3R1c3N1RwMlYwUURna3NRQUVuTEE2Q2w0RXpLZi1zcC1TVEF0TGtLcTd2dHJfQUJmcXZUOEYzSWs3Xzc5NWgyOVJ2ZldrUQ?oc=5",
+      "source": "WFIN",
+      "date": "2026-06-19T19:13:52+00:00",
+      "description": "Twice-deported illegal immigrant charged with flying drone in restricted airspace during FIFA Fan Festival  WFIN",
+      "query": "drone illegal",
+      "detected_at": "2026-06-19T21:27:52.137598+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "d92d35f22efa"
+    },
+    {
       "title": "Drone Flight Over FIFA Fan Zone Leads to Federal Charges - Substack",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZms1bU56TmtQR09kbGU5VnM5eGpBYkp2WENFX2Y3eHFvSGxyN3p4LWdXRXB6cndLTk5jUW5Xelpvdk1DUGxUNmUzUUtsWUg5bVZxblVfUjM0X3E1X2NvaVlBRmtxd1ZVWWE2bEpHT05MdHB1Tnh1NHZYSllCVTlIY2xhOFp1RlFv?oc=5",
       "source": "Substack",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b57bcb078c87"
-    },
-    {
-      "title": "Australia’s largest drone live show suspended after 89 UAVs crash into Sydney harbour - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmlTYy1ybUJtOWNwdUNDaWIzQlRoUzJmQ2tncFE2TWU2U1dQWkJfRTBORXZsZXBYT1lSM1h4TWJKc1AtUjhucGNwRnJYNHBhNUd3cnJmeC1sUVU2NjdYbThIbEJEMTQ3SjVyc055NzRZT1FxQVdkci1FcU81ZVFuN3ZfT3ZNRjFmZmRYWkxUckJpVENDRWY3d2hmSFU4enBPR0pBaF9sTXo0bno4U1QzLURMZk1zVTRERmc?oc=5",
-      "source": "The Independent",
-      "date": "2026-05-26T10:27:00+00:00",
-      "description": "Australia’s largest drone live show suspended after 89 UAVs crash into Sydney harbour  The Independent",
-      "query": "drone incident",
-      "detected_at": "2026-05-26T13:05:07.917686+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "583634100800"
     }
   ],
-  "last_updated": "2026-06-19T20:34:15.796652+00:00",
+  "last_updated": "2026-06-19T21:27:54.101838+00:00",
   "total_count": 1000
 }
