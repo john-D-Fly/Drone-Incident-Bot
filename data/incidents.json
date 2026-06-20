@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia downs Ukrainian drones over Crimea - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXy0xemVyR2tiZDZoSzN4ZkVIbi1YWGJLcnJpY2VhSjdsT2VHN21HVlhkNnhnOGp0d2xkZ3Z2RE5OYWJYcTR3a2RLYjRCSkRuSFR3NE8tMmJaYXp1cktxUGFTZXREN29BaFoxdXdTWTM5QU9lbHpVWVJ5M3A1cVJ0aEZldllzYkJuRUVTT3RGWQ?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-06-20T02:17:00+00:00",
+      "description": "Russia downs Ukrainian drones over Crimea  Breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-20T20:31:19.086843+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fc648bad293a"
+    },
+    {
+      "title": "Robot canine, drone assist in arrest of felony suspect after standoff in Sacramento County - ABC10",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHd3YXBObDhiT0xVVFQyM1ZCV1FjVkRkUGRIdlJWSWFGdlljaHJKTE1XUG9ONXV1UXR0dEpJYk9YaFRBVm9uMDdYUFpqakNpdG5HYUdESkFRUkNZRHdsbGwtSnhXbWlwc1pQbjhOSjd4aktsdzhqUmhCNWNzSEdHNzVCQl9vSWstaERBWGtVT2RaTlpXOTNUT25FdFR6RlJyZHoxUFh1VGJfNTB4WlljVHBZNjRBLW82cHNzVGdTY1dfQ0dsaVlpbjdvZ2g?oc=5",
+      "source": "ABC10",
+      "date": "2026-06-19T00:11:00+00:00",
+      "description": "Robot canine, drone assist in arrest of felony suspect after standoff in Sacramento County  ABC10",
+      "query": "drone arrest",
+      "detected_at": "2026-06-20T20:31:15.267249+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ecd34cd490c4"
+    },
+    {
       "title": "FIFA Drone Crackdown Reaches Twice-Deported Illegal Alien - Dallas Express",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZEQ5eWZfU05OREYzOVRqUDBORVZvZ3lOc3ZwZmVfdng2SHBsSEZLa3JjcDZGXzRzbDduSmE2eDgyOWR1VzBHbkVQUFJNRTJYc0hGTjNXNnpOWkQ3UW9RRDhYY3VhdFp5LVBjMHZOUHdzMDIyZk9xQkJ6cV9PMHkta0ZjXzRtVS1kRW1UeU5ycjJhV3dV?oc=5",
       "source": "Dallas Express",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6117a30ab5bb"
-    },
-    {
-      "title": "From \"Anti-illegal Drone Flight\" to \"Low-altitude Security\": A Multi-billion-dollar Market Catalyzed by One Law - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1aGxkU3VsQVgyZEZGWWtuNGJvWWhZUmVCS19hdGdXajZaLVltZktlZWNQMmo3OXdlZWNaRkRWcjJDbFNIcWpzeG11SDN2T3djaUV3?oc=5",
-      "source": "eu.36kr.com",
-      "date": "2026-05-26T14:54:59+00:00",
-      "description": "From \"Anti-illegal Drone Flight\" to \"Low-altitude Security\": A Multi-billion-dollar Market Catalyzed by One Law  eu.36kr.com",
-      "query": "drone illegal",
-      "detected_at": "2026-05-26T21:34:39.016223+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ca16138cf9a9"
-    },
-    {
-      "title": "IDF document hails cluster munition as 'operational success' against drones - www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTBrNF84NmRSb25SZ0JzSld4anpjaF82Tmc4TW04dTJCOV9WR3dMSThuUllOeUNYVDFPNmEzamxXUzUtNUFkdUZKWnRIMFJSR1BfejRzQVRCdTRrOVRMbzB5ZWxZSnBIRTliZDlGMVhEVlZwRkE4SFpPWVZ0dG9Mbkx0X3dNTDFEbkZwNzd2T3VzUnJYc1dkNUJiczFGTTNGazdOdGtoQnlFWG9SQTEtOTlpYw?oc=5",
-      "source": "www.israelhayom.com",
-      "date": "2026-05-26T21:02:22+00:00",
-      "description": "IDF document hails cluster munition as 'operational success' against drones  www.israelhayom.com",
-      "query": "drone incident",
-      "detected_at": "2026-05-26T21:34:35.407162+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "56292c19029d"
     }
   ],
-  "last_updated": "2026-06-20T19:33:32.868758+00:00",
+  "last_updated": "2026-06-20T20:31:20.350365+00:00",
   "total_count": 1000
 }
