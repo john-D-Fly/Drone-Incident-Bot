@@ -1,0 +1,146 @@
+{
+  "narrative_summary": "In the past 48 hours, a variety of drone incidents have emerged across different regions, highlighting ongoing trends in smuggling, crashes, and illegal activities. Notably, there were reports of a drone attack on an oil refinery in Russia and significant incidents involving drone crashes in Iraq and Latvia. Several arrests related to drone operations occurred, particularly linked to security breaches during major events like the FIFA Fan Festival. Authorities seized illegal drones in the U.S., indicating growing concerns over airspace security. Moreover, countries like Romania are contemplating invoking NATO provisions due to drone incidents, emphasizing the geopolitical ramifications of drone usage. The frequency of occurrences underscores a pressing need for robust drone regulations and counter-drone technologies.",
+  "totals": {
+    "other": 8,
+    "crash": 5,
+    "smuggling": 2,
+    "arrest": 7,
+    "security": 5,
+    "airport": 2,
+    "interference": 2,
+    "total_incidents": 41,
+    "by_category": {
+      "airport": 1,
+      "arrest": 5,
+      "crash": 5,
+      "interference": 2,
+      "other": 19,
+      "security": 7,
+      "smuggling": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 5,
+      "drone crash": 1,
+      "drone illegal": 14,
+      "drone incident": 9,
+      "drone security breach": 3,
+      "drone smuggling": 2,
+      "drone terrorism": 3,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone incidents",
+      "rationale": "High frequency of various drone-related activities.",
+      "incident_ids": [
+        "9719f384ca33",
+        "dfaa869d4094",
+        "760a31b27ede",
+        "01f7768393b4",
+        "fc648bad293a",
+        "a9f2d704fb68",
+        "c92583a50051"
+      ]
+    },
+    {
+      "topic": "drone arrests",
+      "rationale": "Increasing legal actions related to unauthorized drone usage.",
+      "incident_ids": [
+        "f46144798d41",
+        "315d0bb14fd4",
+        "d92d35f22efa",
+        "61ec53cf1ee5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9719f384ca33",
+      "headline": "Drones attack oil refinery in Russia",
+      "one_sentence": "A drone attack occurred on an oil refinery in Tyumen, Russia, located 1,900 km from the border.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "dfaa869d4094",
+      "headline": "Mystery drone crashes into lake in Latvia",
+      "one_sentence": "A mystery drone was reported to crash into a lake in Latvia.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "760a31b27ede",
+      "headline": "Drone crash near Iraqi Speaker’s Anbar Compound",
+      "one_sentence": "A drone crash occurred near the Iraqi Speaker’s compound in Anbar without causing any damage.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "61b13de0e8ed",
+      "headline": "Hartford Police using drones for illegal activity monitoring",
+      "one_sentence": "The Hartford Police Department is deploying drones to monitor illegal ATV and dirt bike riding.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "4c287cf3d3c0",
+      "headline": "Drone breaches security at FIFA Fan Festival",
+      "one_sentence": "Multiple arrests were made for flying drones in restricted airspace during the FIFA Fan Festival.",
+      "risk_tags": [
+        "security",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f3af0224bdb4",
+      "headline": "Drone strikes disrupt Russian supply routes",
+      "one_sentence": "Ukrainian drone strikes have been reported to disrupt Russian supply routes significantly.",
+      "risk_tags": [
+        "interference",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "49ec53cf1ee5",
+      "headline": "Drone usage raises NATO concerns in Romania",
+      "one_sentence": "Romania is considering invoking NATO Article 4 due to escalating drone incidents.",
+      "risk_tags": [
+        "international relations"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight growing concerns over security and regulations, affecting events like the FIFA Fan Festival.",
+    "linkedin": "Drone incidents over the past 48 hours reveal significant security challenges and the need for comprehensive counter-drone strategies."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-21"
+}
