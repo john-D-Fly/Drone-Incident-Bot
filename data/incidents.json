@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes near Iraqi parliament speaker’s guest house in western Anbar - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTVrd0F6cmFlTnY3b3ZYT0VLZDBmLVBoM2VzcG9oT3pYQ2VBQkFXemdpSTFHLVNkTTBrSHhxUXdxV051cEU2NDg4cGx3NHRUdFFXakxBQ2JNdzc2cENpRzg0NFhkakJpUHdjdUpJOE5aQU9WQnJaZ2ViY2xQbnc3UTRfMmYtTGxvQ3lmSEhyMDZyanctQkptSW5vZUUyb0V6NkFLZklRLUdHR0kydDBpTVpPWmJLTnF6SHNr?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-06-20T21:26:01+00:00",
+      "description": "Drone crashes near Iraqi parliament speaker’s guest house in western Anbar  Anadolu Ajansı",
+      "query": "drone incident",
+      "detected_at": "2026-06-21T03:14:01.816509+00:00",
+      "location": "near Iraqi parliament speaker",
+      "category": "crash",
+      "id": "01f7768393b4"
+    },
+    {
       "title": "Israeli Media: Dismantling of Smuggling Cell Using Drones Between Sinai and Gaza - شبكة يافا الإخبارية",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lamRkUkVMLVpJc2c2NGYyOXQyd1Nqb0dHTy1WVG5wZW1WTnA3SXphWWlPdHhhYUJENHZQU1VVaFJZRjVIMFdLRXVJWEZUa1JN?oc=5",
       "source": "شبكة يافا الإخبارية",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "dec15711ab9a"
-    },
-    {
-      "title": "Army Imposes No Discipline Over 50 Billion Won Drone Crash, Citing Wind Gusts - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGNkVlZqVGRfd2hDRHp1V2t6MXBleF9WemlGQU5kY3RIdnk1eGQ5RFBXOW9jeEFybkVfc3lMaHF1NDNRTWs1b0hsQjdRbU1oRXFBXzhlWDYtQmVGazcwaDc4Tk4wRWM0T2VjT0kzTmJVcFNZcGtaRnQ0N0xmNlQyMnBjWXRjRGVEVTJPTnNRY29TQ0JNVmU5Mko5YnNjNkFrbS1v?oc=5",
-      "source": "Seoul Economic Daily",
-      "date": "2026-05-26T21:00:05+00:00",
-      "description": "Army Imposes No Discipline Over 50 Billion Won Drone Crash, Citing Wind Gusts  Seoul Economic Daily",
-      "query": "drone crash",
-      "detected_at": "2026-05-26T23:28:04.187775+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4846ad1bf442"
     }
   ],
-  "last_updated": "2026-06-21T01:01:11.591359+00:00",
+  "last_updated": "2026-06-21T03:14:07.016427+00:00",
   "total_count": 1000
 }
