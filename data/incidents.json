@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Israeli Media: Dismantling of Smuggling Cell Using Drones Between Sinai and Gaza - شبكة يافا الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lamRkUkVMLVpJc2c2NGYyOXQyd1Nqb0dHTy1WVG5wZW1WTnA3SXphWWlPdHhhYUJENHZQU1VVaFJZRjVIMFdLRXVJWEZUa1JN?oc=5",
+      "source": "شبكة يافا الإخبارية",
+      "date": "2026-06-20T15:25:24+00:00",
+      "description": "Israeli Media: Dismantling of Smuggling Cell Using Drones Between Sinai and Gaza  شبكة يافا الإخبارية",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-21T01:01:07.418383+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a9f2d704fb68"
+    },
+    {
       "title": "Russia downs Ukrainian drones over Crimea - Breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXy0xemVyR2tiZDZoSzN4ZkVIbi1YWGJLcnJpY2VhSjdsT2VHN21HVlhkNnhnOGp0d2xkZ3Z2RE5OYWJYcTR3a2RLYjRCSkRuSFR3NE8tMmJaYXp1cktxUGFTZXREN29BaFoxdXdTWTM5QU9lbHpVWVJ5M3A1cVJ0aEZldllzYkJuRUVTT3RGWQ?oc=5",
       "source": "Breakingthenews.net",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "4846ad1bf442"
-    },
-    {
-      "title": "Von der Leyen vows to fight drones, disinformation campaigns - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUW9XQXR4RTVVQ1JOTnhQaURfVWdmRkh1ejA0MGNYMjcySnFNNU0tcUtFVnMyd0xfY04tNW9WWlgteldtbUFRQVBJTFp5QUcxSno1cTFwelNTMl9scXNqanNvME5Xa3duOEprZ0RPeTlfSl9pWVdmQl85ZnZCV005VjdrOGRjOTdsd3pKc1lwQzBaWkNiUVpaSnZGbmJjZUdTSXUxX3B1Y1VSQUdaLXllRU1QT0xrTGFJMjFPVm9sb2lLLWd5cGNURnVCLVNfZi1aMFE?oc=5",
-      "source": "Euronews.com",
-      "date": "2026-05-26T15:19:30+00:00",
-      "description": "Von der Leyen vows to fight drones, disinformation campaigns  Euronews.com",
-      "query": "drone incident",
-      "detected_at": "2026-05-26T23:28:01.643768+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6117a30ab5bb"
     }
   ],
-  "last_updated": "2026-06-20T20:31:20.350365+00:00",
+  "last_updated": "2026-06-21T01:01:11.591359+00:00",
   "total_count": 1000
 }
