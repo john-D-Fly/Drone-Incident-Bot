@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
+      "source": "LSM",
+      "date": "2026-06-20T22:44:13+00:00",
+      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-06-22T01:01:03.637323+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "503dd0834775"
+    },
+    {
       "title": "Drones are flying farther and farther: russia reports drone attack on oil refinery in Tyumen, 1,900 km from its borders - ukranews.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT05qZXlkRWt6SWJBSUd5emNmX0JnSVN5REFyMXFoSnNYcC15ek1rTEdLTUs0T1ZWaXNBNlhHQzh5dXpPY1hTMF82SjhUR19zR1VPbmpKU3dTd3cwdDk5b095SjlISW8wWFE1Y0F0bVQwaUNvcloya2VURE9ZMGlOYnY4VG5jSExJT2ZWMDdaQzNVdFJPT2gxVzdnMGhFZmFYNm1aWVRuSlZPOVZJUUxOSjB0cTgzaVBLZmlmRUdkbWZUeDFla3hGWDVQU29rUVHSAdYBQVVfeXFMTXJhbnFUZlo5U3BZMEVyNEV1a1o5ak9abXZuUVZWeG0tMnR4cEhjZ243U2h1Q1VkVnN5V1BsY0tmTEExZ0lYNmg1LUZiTGdwXy1hU1pxbHJrellFMk94NnlpOHQ3NHV6Q0VhbjdXNFVLUVBLbXZWMjRQMV9sXzY0SjNZLTJJN3UyUGZ0X3NTdE5NcVVqYjdMSU1iM1hMM2NBeHFDd2xYNERQM0pKd19fblQ1dDI5WHFXQWUyNXFZRllFZ3lCcVBOVzhmU0tLWl9iQXNBbmVtdw?oc=5",
       "source": "ukranews.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "50385924fcc8"
-    },
-    {
-      "title": "Von der Leyen vows to fight drones, disinformation campaigns - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUW9XQXR4RTVVQ1JOTnhQaURfVWdmRkh1ejA0MGNYMjcySnFNNU0tcUtFVnMyd0xfY04tNW9WWlgteldtbUFRQVBJTFp5QUcxSno1cTFwelNTMl9scXNqanNvME5Xa3duOEprZ0RPeTlfSl9pWVdmQl85ZnZCV005VjdrOGRjOTdsd3pKc1lwQzBaWkNiUVpaSnZGbmJjZUdTSXUxX3B1Y1VSQUdaLXllRU1QT0xrTGFJMjFPVm9sb2lLLWd5cGNURnVCLVNfZi1aMFE?oc=5",
-      "source": "Euronews",
-      "date": "2026-05-26T15:19:30+00:00",
-      "description": "Von der Leyen vows to fight drones, disinformation campaigns  Euronews",
-      "query": "drone incident",
-      "detected_at": "2026-05-27T05:32:52.763446+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "849dd49e38f9"
     }
   ],
-  "last_updated": "2026-06-21T20:35:29.713546+00:00",
+  "last_updated": "2026-06-22T01:01:09.010144+00:00",
   "total_count": 1000
 }
