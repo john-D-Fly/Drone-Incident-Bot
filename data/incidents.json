@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Toronto police have intercepted 14 drones since the World Cup got underway - CP24",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOekZNczBHZmRpZGk2VG5KaURocnZzSjgySmg2WEhmYlc4S0NOYzRWZ0UxU0tQOVJ4blh6UjZROGY2MHBrbVdWelFvbzY3SEVzNk00aDJCXzUxWDNPWjk3bm03TDRKSHNhVUpScFhqUmJyOGdqZE50Q0pnSEY3T1NmelRLOEZFTWpkbkdjckRhSnFWelY4aGowVzRUSjJ0eHVPMXN3YXFKcWVaMEV3X0xrRDZmUkRucEVnSkk3RkFB?oc=5",
+      "source": "CP24",
+      "date": "2026-06-22T13:42:05+00:00",
+      "description": "Toronto police have intercepted 14 drones since the World Cup got underway  CP24",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-22T15:41:52.501318+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "20f0c47bd814"
+    },
+    {
+      "title": "Underestimated Threat: How Hezbollah Drones Are Inflicting Casualties on Israeli Army - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PN3hYb3Y1dUwzbnd3R2xyMXUxM1R3d3Z6dlptWGQ3NlM5SHNaT1RONi1CcHFDbC12bTFhQV9KYlNnNjB6LWNBQkpwdVFxRjVKZ1lxWHB2RkN6VnlzOHI0ODI4TTF3dzBYZVpqbDRDY1FfQ1lyRnNUZDlkRHpaYWs?oc=5",
+      "source": "Мілітарний",
+      "date": "2026-06-22T15:17:41+00:00",
+      "description": "Underestimated Threat: How Hezbollah Drones Are Inflicting Casualties on Israeli Army  Мілітарний",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-22T15:41:51.910276+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "2aca20e3b406"
+    },
+    {
+      "title": "Afghan Taliban’s Drone Claim – OpEd - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2SngyNTJBWW5HMVpJVDJtTXlZVEs4alBOUkF1N1hFUzhCNDhhdV84N09HZUIydDVYV09aaEpFdHV6WEFqdHNkZXk3bE9KRjFYV1o4aF9Wd1NqWlpSUnRwRERmczFmazB0WmlQNFdfdU54MDdJOWl3SFNCNGE?oc=5",
+      "source": "Eurasia Review",
+      "date": "2026-06-22T15:24:29+00:00",
+      "description": "Afghan Taliban’s Drone Claim – OpEd  Eurasia Review",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-22T15:41:51.910276+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9d0df1ccabc9"
+    },
+    {
+      "title": "Control room tests deployment of drones at incidents in Veenendaal - sUAS News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFl1bDhuclhtU25IYkFWQnZ4V2RBUm1mcE94YXVZeWlsUExlYjdMdFNXMjNVX2lGSWZReWlMOUk1Y09tR1NSVDdyeTJ6c3IzbmFDTkwtdXFUNGdNdkRydk5kRkQtNHZYQW9MZVZER3lGbk5RQXA1aGJFZzZRRUVYT1RGNDBKVmQ0alZZa2tTYUhGaHFaOGctanBLcHpyYkZzMmc?oc=5",
+      "source": "sUAS News",
+      "date": "2026-06-22T15:34:34+00:00",
+      "description": "Control room tests deployment of drones at incidents in Veenendaal  sUAS News",
+      "query": "drone incident",
+      "detected_at": "2026-06-22T15:41:47.255638+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b7955d264af3"
+    },
+    {
       "title": "Can I shoot down a drone in South Carolina? What the law says - Bluffton Today",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFJWWFJLY1cyRHRnSDN2Z1ROTlZpRzJjZXc1Vkt4Z1kzcFdycHhTclNhRkhjN2xEUjRwa0lxb2tUUXdrZGtYU0lyaXdYWkNxNG9qTGMwa29ycGxlblpCR0NqNkRHWGlDQmg4bWVXZE80MXd1WTdtOVVqS3dBZkhpaU9ZS2ZEVGdBRTlzN3lsWnJyYV90Y0otd05Qc2RJNmQ4akR0c2ltRGNOSkhYZjFpNw?oc=5",
       "source": "Bluffton Today",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "282d4b527e5d"
-    },
-    {
-      "title": "Errant Ukrainian drones fuel tensions on NATO's eastern flank - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTdVZ0wzWEJvYWJjQ3FUQlg3V2dUd1ZIZ2k5WTZfTW5CRmV3Q2RoQ3FVVU9nU29CQzJYUHQwckwxX05RYVlLWm4xLXROZ2hQNFVqeWZ3YkpvYU9hVWRsbl9kU2RScDlkVHdmTVdJUlhnUGZlRE52R2I5cTh6eWg5RVhTQ1otMjQxS3NwbHB4RW9vcU53TlNkVWljMlNKcHpaLTFfeURGTHp4TmxORzZlZFdmSmY5MFQ5LTNqSA?oc=5",
-      "source": "Reuters",
-      "date": "2026-05-27T07:38:04+00:00",
-      "description": "Errant Ukrainian drones fuel tensions on NATO's eastern flank  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-05-27T13:16:14.984002+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9f5d59947638"
-    },
-    {
-      "title": "Prison slammed over continued 'drone drugs' and violence failures - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeW90eTFvb1NJb2dsWU5YZVgxYy1ZRkxaOU1XYjFzSWZyUEg1ZmZhM18tSkc3aVRxblg5cUVpZnVQQkNJcUIwTjdMTUd3ZVE1NDRUM2JVM1RDdm5icTY2OXZXZWpudVhtdFhteHV3STdLMnhoNEY3bVRTTk9pUFZFc3prNlRkQ0xqNGhfWkdR?oc=5",
-      "source": "Oxford Mail",
-      "date": "2026-05-27T04:00:00+00:00",
-      "description": "Prison slammed over continued 'drone drugs' and violence failures  Oxford Mail",
-      "query": "drone prison",
-      "detected_at": "2026-05-27T13:16:13.872144+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "32034a4c38a5"
-    },
-    {
-      "title": "Night vision drones will be cracking down on illegal fireworks in Hanford - yourcentralvalley.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUE0WjMtdXVNekdyMXg0azFCMnZmS3pGb2pzWjl4bVlVTm1rRXVESEJuTFVrZXU3TUhIc0FnNEJKY0xWRXhHa19pNzZMTnQ4bWlhc0Y4ZWw1MVdFdkU3VmtvemNJOEp0LWxNczlRMHZsb3BwMk10MkRndnpyNUpGcnpNRzI3ZU9MNnlFcTRwcGdrUdIBlwFBVV95cUxQVmVOSWVUTDRUdFQtWmtYRU9ybVg0RTNzUi0tUDRwTEhZWWVhNXpROUEyc3JveEM4cVZ4ZFBMQkZWWkp5elp1eDFKT1dhYURfZGRTMnVNbHdkWjNpZXpkclIxaTJGMEZiTEpsV0RXaHNkZG5aRXBxbDFjaUFJX196bDM0ajNURkNOSFJoR1EwOHhuRmFnSk9F?oc=5",
-      "source": "yourcentralvalley.com",
-      "date": "2026-05-27T05:36:53+00:00",
-      "description": "Night vision drones will be cracking down on illegal fireworks in Hanford  yourcentralvalley.com",
-      "query": "drone illegal",
-      "detected_at": "2026-05-27T11:16:24.618267+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6a4a282ea01c"
-    },
-    {
-      "title": "Poland urged to arrest IDF soldier Jonathan Barkat - THE HIND RAJAB FOUNDATION",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUUg2OXRzRWFOQWhRMGdOZlZqLU9ITTYzUkNIbjdiWXFRajc5WGt4cU9OZHRTRGJONDBqTTVYc1lSekJfbXplV3Vma3BxbFY1Ti1EWU00S3NQa21qREJSMG0ybUYyazJsekFjdDhpcDZKcTBWTFpyZi05X0JBNXhpeE1iQTdEdkdtWFpxc0xIcmJpNUx6b2R0OTlxa05VYzVIaUlSUExYaDNtRldid2IwLUFlbUtsbkFEOVpVV3BhM0k4RW1FNzRySEIza29RUkVTSUZCamhFSG82Y1dEcmNDejhiTTJmNTg?oc=5",
-      "source": "THE HIND RAJAB FOUNDATION",
-      "date": "2026-05-27T09:59:30+00:00",
-      "description": "Poland urged to arrest IDF soldier Jonathan Barkat  THE HIND RAJAB FOUNDATION",
-      "query": "drone arrest",
-      "detected_at": "2026-05-27T11:16:21.984185+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b637332ae1a4"
     }
   ],
-  "last_updated": "2026-06-22T13:03:09.750090+00:00",
+  "last_updated": "2026-06-22T15:41:53.096582+00:00",
   "total_count": 1000
 }
