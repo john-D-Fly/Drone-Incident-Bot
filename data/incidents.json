@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "‘No exceptions’: Toronto police charge another drone operator after interception near FIFA sites - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWlXaGxyVDM4U1FHUU9lelNSRWJXWHIycWlsaTIwQlJKNU1OZG42dkJYVDFwc1kzM2FhLU92Z1BGZk5Pa0lWUEtoSENLNGxsdkVBeFJiaTNjeDFuNTVzWmtpT1BJTDFuQTkxaERFR3BQTTEwQ09RZmlCWjZjR1FWaldMeVFXSDZPdjJTQzhjMW9rV19KZzlV?oc=5",
+      "source": "CityNews Toronto",
+      "date": "2026-06-22T09:30:00+00:00",
+      "description": "‘No exceptions’: Toronto police charge another drone operator after interception near FIFA sites  CityNews Toronto",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-22T10:58:41.156070+00:00",
+      "location": "near FIFA sites",
+      "category": "arrest",
+      "id": "ba8b49d722fb"
+    },
+    {
+      "title": "ICE and FBI Investigation Leads to Charges Against Illegal Alien Who Flew Drone in Restricted FIFA Airspace - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQUNiYjA2SjFvREZ0YmZCUFZILWFaZUdzWWVFQjV1ZE1MX1V5d0NCWlNac09xeHRBVlg5WTlqdUk5WmdwTEN3Sko4Y3VwVUJHbXFmSU4xbm5GekxjR0ZHYW56eXlqb3o3MXo5dGRmei15ekE4VW9qeGltSWJiTzYyRmk1T3VaVDl3MVlTcXBuNjk3UkM3NDBSVFp0cXVBOC1YYUNQdHBYSW9GTFRac00xZ2RrTExvQVZRZWlkMGdHUkRmZTByaF9mblYxV2pFbF90WFZ2T0tLb1lvRE1jOUM2eXh5bGJxZk5pMVprbk1pQ1pqTTNjZExSZ1pUa3I?oc=5",
+      "source": "Homeland Security Today",
+      "date": "2026-06-22T09:01:59+00:00",
+      "description": "ICE and FBI Investigation Leads to Charges Against Illegal Alien Who Flew Drone in Restricted FIFA Airspace  Homeland Security Today",
+      "query": "drone illegal",
+      "detected_at": "2026-06-22T10:58:39.211065+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f86bed06b2f5"
+    },
+    {
+      "title": "Can I shoot down a drone in South Carolina? What the law says - Greenville Online",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFh0RDNVd2N3TzRiM3NmNlhHLXdkSmI3ZHoyVFYteXFwa05HVjJoUzJ6UFJJT3RxRzZQT3NyczN5ai1uOWJsMWlXWVVWcUpxaXdYQXV2R2lQN21KNlpXV2U0T2MyMVFDa0dFOWJiUjZJRnpGVTZfN0dPTUpGYmJuRE5UWHZza2FVQzhSM2dFTnBMRDktWVRXd09UUVZSSGNKRHMwVTFDRkxfRVJyYTdteUYyRHo?oc=5",
+      "source": "Greenville Online",
+      "date": "2026-06-22T09:06:00+00:00",
+      "description": "Can I shoot down a drone in South Carolina? What the law says  Greenville Online",
+      "query": "drone illegal",
+      "detected_at": "2026-06-22T10:58:39.211065+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ae95fdbdcb49"
+    },
+    {
+      "title": "A Russian drone strike in Ukraine kills 3 from one family, including a 13-year-old boy - WKMG",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFZTbXdoNUxnTV9jb1h0aWN5bTlVX0lJelV3ODZwSU5ienBLcW5Scy1GbVFpMmE1ZUl4V2hRaDZpekZmT3FwYkY0Z1NVcGh4QWJGQk9OdGxpd0g1em5LMzU4TVg1bXg3OUVTeFcyTXlLMFpmSGNmbFZYNFJ3eER4bGtpX2RxYkZJcEdzemIta1pGcUEtMnNSbkpVbFhDcDM5SHl5bEdtTTdyQ2FOWDNJVDZyLS1DYW9MX05MWFJQckI1My1hMXpSN2c4RGJYUl9SMlhz?oc=5",
+      "source": "WKMG",
+      "date": "2026-06-22T09:41:35+00:00",
+      "description": "A Russian drone strike in Ukraine kills 3 from one family, including a 13-year-old boy  WKMG",
+      "query": "drone arrest",
+      "detected_at": "2026-06-22T10:58:36.398661+00:00",
+      "location": "in Ukraine kills 3 from one family, in",
+      "category": "other",
+      "id": "db6fec34eef2"
+    },
+    {
       "title": "Romania expects Ukraine to explain June 5 naval drone incident on June 23 - Romania Insider",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUZodURyU0xYdy1WSDkxVVJvSUhYeXZkMXVNdXhfOUl2YkI3dEV6Y2hEaS12cTJQMGtrT1VVSkUtY0pxcXU0eFFyQW4zaTdRczlaWkV3bnF6bnY2OVNOUW9MNVFNSk9lOGNzX0Nwd0Q4akFaYzRfSl9fUWhoeWtXbElPQdIBiAFBVV95cUxQV0NUWHR5WVdFREhzRE9fSnhEWlhTaC0zM2NiYXNyM1g4Qm8yOWpxdDdUXzF6SU9uSGhPVnBZWWNnV3JVWEh0QmVTNWJoZURsRTMzMVJJaXlnVXRiSHJHNG5LM2s3bGhNU3JPQjNUMGFzelRPVnZOV1lFRWFaaFVobFh2RUxQenJw?oc=5",
       "source": "Romania Insider",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "9cabc7379f3a"
-    },
-    {
-      "title": "Man arrested for stalking with drone in Horizon City - KTSM 9 News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1JBWWdSMDRaUUtvOWtWYkFDRnNmS1FYUlcydXY0WWRhbWxBb2FfX1g4ZlJZR1BkUmt6Z3BtMXZLb2NvM0RFMGs5dUdmWXA2OXZySXlxMFBwZXE1alZuZVMxYm1oRTdRc011LUlMeUM5QW5wM1RKcW1ieU92X2gtandrbE9mMmdRR2hTOGVZdnFXYndtaWlZc0ZUYWs3d9IBngFBVV95cUxOQ1JBWWdSMDRaUUtvOWtWYkFDRnNmS1FYUlcydXY0WWRhbWxBb2FfX1g4ZlJZR1BkUmt6Z3BtMXZLb2NvM0RFMGs5dUdmWXA2OXZySXlxMFBwZXE1alZuZVMxYm1oRTdRc011LUlMeUM5QW5wM1RKcW1ieU92X2gtandrbE9mMmdRR2hTOGVZdnFXYndtaWlZc0ZUYWs3dw?oc=5",
-      "source": "KTSM 9 News",
-      "date": "2026-05-26T15:56:42+00:00",
-      "description": "Man arrested for stalking with drone in Horizon City  KTSM 9 News",
-      "query": "drone arrest",
-      "detected_at": "2026-05-27T09:13:18.118203+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "78e67f2b6df9"
-    },
-    {
-      "title": "Russian drones strike Ukraine's Chernihiv, damaging local businesses - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNejR3UGVIT0IwSmYxVkxrT2hPN3VfaWJrbUtmZmdtS0VQT1BvNjNxMlppcTFwRVFHTmc0VHYzMkp3Nk81Ql9oU2N2bXdNSnFfaHIwNWgyTXVIU0M4N2lyT1JoWlJQdDY2UDNoTTNWUElOdmk5NmxGbmxzMjJ3WXpTOUF1Q2lKekNNSmZ5dVhvOEV6YXM?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2026-05-27T05:33:39+00:00",
-      "description": "Russian drones strike Ukraine's Chernihiv, damaging local businesses  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-27T07:32:02.740394+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7c46fd75c2ac"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO’s Baltic and Finnish borders - Internazionale",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSndfa014aFdOcFdOUkl5ZHMzT0ctUm1wblRuc2NyLW1WbmY2NG8tblBRdFlOY1NTejNIekdMM1FpZXpfUVF2QXZDUDZ6Y3VSRkIyMmd1XzhvQzl1cnB2Yk0tSzJsQzdBZmhVaV91UUs5SEI0QWFOUFBoRTYxT1FDbWFQVWlSeGZZQlYyX0xoQldKUjlRUTZFc25QYVBsZE44bjg5dXlJLTF3LVZiTlJXVzc1cDMxZmVWZGhtbW0wc3E3eDI5UEVMYVZRWjhfLW1w?oc=5",
-      "source": "Internazionale",
-      "date": "2026-05-27T06:06:21+00:00",
-      "description": "Drone incursions sow fear, chaos along NATO’s Baltic and Finnish borders  Internazionale",
-      "query": "drone crash",
-      "detected_at": "2026-05-27T07:32:01.142767+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b767c1c9e717"
-    },
-    {
-      "title": "Errant Ukrainian drones fuel tensions on NATO's eastern flank - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTdVZ0wzWEJvYWJjQ3FUQlg3V2dUd1ZIZ2k5WTZfTW5CRmV3Q2RoQ3FVVU9nU29CQzJYUHQwckwxX05RYVlLWm4xLXROZ2hQNFVqeWZ3YkpvYU9hVWRsbl9kU2RScDlkVHdmTVdJUlhnUGZlRE52R2I5cTh6eWg5RVhTQ1otMjQxS3NwbHB4RW9vcU53TlNkVWljMlNKcHpaLTFfeURGTHp4TmxORzZlZFdmSmY5MFQ5LTNqSA?oc=5",
-      "source": "Reuters",
-      "date": "2026-05-27T06:05:00+00:00",
-      "description": "Errant Ukrainian drones fuel tensions on NATO's eastern flank  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-05-27T07:32:01.142767+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9859f80c63d2"
     }
   ],
-  "last_updated": "2026-06-22T08:09:08.231758+00:00",
+  "last_updated": "2026-06-22T10:58:41.648796+00:00",
   "total_count": 1000
 }
