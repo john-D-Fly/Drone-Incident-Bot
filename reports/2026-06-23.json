@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone-related incidents have been reported, showcasing diverse patterns including significant security threats and smuggling activities. Notably, incidents involving Iranian drones prompted concerns from crashed U.S. pilots regarding their potential military applications. These 'jellyfish' formations were described as alarming, indicating a sophisticated aerial threat. In smuggling news, reports emerged of drones used for drug drops across borders, specifically from Pakistan. Meanwhile, local law enforcement utilized drones for public safety, such as retrieving weapons during standoffs and monitoring illegal fireworks usage in California. These events reveal an evolving landscape of drone incidents impacting security policies across multiple regions.",
+  "totals": {
+    "other": 24,
+    "crash": 3,
+    "smuggling": 6,
+    "terrorism": 6,
+    "arrest": 9,
+    "airport": 1,
+    "security": 1,
+    "total_incidents": 35,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 2,
+      "other": 19,
+      "security": 1,
+      "smuggling": 5,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 7,
+      "drone illegal": 7,
+      "drone incident": 10,
+      "drone prison": 1,
+      "drone smuggling": 3,
+      "drone terrorism": 4,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes and Military Incidents",
+      "rationale": "Incidents involving crashed drones signal emerging threats and complex military engagements.",
+      "incident_ids": [
+        "70b9b451898e",
+        "7d872d51a657",
+        "2393870ca256",
+        "b20453050818",
+        "c9163adb618a"
+      ]
+    },
+    {
+      "topic": "Illegal Drone Activities and Smuggling",
+      "rationale": "Multiple reports highlight the use of drones in smuggling operations indicating rising illegal activity.",
+      "incident_ids": [
+        "1a744fb41011",
+        "24e893122d27",
+        "f289d153cac6",
+        "940aa1736304",
+        "552134e2f88d"
+      ]
+    },
+    {
+      "topic": "Public Safety and Law Enforcement",
+      "rationale": "Drones are increasingly being used by police for monitoring and enforcement actions.",
+      "incident_ids": [
+        "abc10",
+        "d654b71cd47a",
+        "7cca6a795db5",
+        "c35f144d01ff",
+        "d289bb1df2e3"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "70b9b451898e",
+      "headline": "Downed US pilot saw Iranian drones swarm in 'jellyfish' formation",
+      "one_sentence": "A U.S. pilot reported seeing Iranian drones in alarming formations before being shot down, raising security concerns.",
+      "risk_tags": [
+        "military threat",
+        "Iran"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "1a744fb41011",
+      "headline": "Satellite-enabled drones' usage to drop drugs by Pakistan-based smugglers across Punjab Border poses threats",
+      "one_sentence": "Reports highlight the use of drones for drug smuggling operations by Pakistan-based groups across borders.",
+      "risk_tags": [
+        "smuggling",
+        "drugs"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d654b71cd47a",
+      "headline": "Southern California city deploying drones to patrol for illegal fireworks",
+      "one_sentence": "A Southern California city has introduced drones to monitor and enforce regulations against illegal fireworks.",
+      "risk_tags": [
+        "public safety",
+        "illegal activities"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "2393870ca256",
+      "headline": "US fighter pilot shot down by Iran describes alarming 'jellyfish' drones before crash",
+      "one_sentence": "The pilot's account emphasizes the need for heightened military vigilance due to advanced drone tactics used by Iran.",
+      "risk_tags": [
+        "military threat",
+        "Iran"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "552134e2f88d",
+      "headline": "2 St. Johns County inmates charged after escape plot that included broken cell window, contraband drone delivery",
+      "one_sentence": "Inmates faced charges for plotting an escape aided by a drone delivery of contraband items.",
+      "risk_tags": [
+        "prison escape",
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "In 48 hours, drone incidents highlight military threats, smuggling risks, and public safety measures.",
+    "linkedin": "Recent drone incidents reveal escalating threats from military usage to illegal smuggling activities and innovative law enforcement responses."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-23"
+}
