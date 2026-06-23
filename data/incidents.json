@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Downed US pilot saw Iranian drones swarm in 'jellyfish' formation - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUHVya0N1RFlyazNseWQtN3l5b3J1THFPMkJsZ3lUNzctaE5sUVFpa0Q4SU1reDVhTnBpZnhCbWEtVkM5cTFPRVpQdUJlYlNicGdKSVpzQXY0TkQxSG1jdHJhZEY1SlF6Q3c?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-06-23T10:07:39+00:00",
+      "description": "Downed US pilot saw Iranian drones swarm in 'jellyfish' formation  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-06-23T13:02:57.713891+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "70b9b451898e"
+    },
+    {
+      "title": "US fighter pilot shot down by Iran describes alarming 'jellyfish' drones before crash: 'Real alien s--t' - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOERtSDRXRnNNNDkydkxJd0pXRjhnVXhjcEUyNnA5a2VyT0lpSS12RG5FV2l2TWhXRkx0d2NlamotcUc2VzNMQ1NDYTh2S2ZjTDhISDdrNTlVVHFLZU12aW1oVHZwT2M0M2xzWlFrcGZQWl9tbVlRa0xPdTlFNVVqZTZhZ0NET1E4MzcyeEdOdFo5VkZPQzhNeEFuWFk2bFNjWmF5MDhmX01sd0cyV21rYTR2MUtXSGtqUUZSMEswMk94SFhiWm9mZGZWR29hckVPMS1TbEduOA?oc=5",
+      "source": "New York Post",
+      "date": "2026-06-23T11:58:33+00:00",
+      "description": "US fighter pilot shot down by Iran describes alarming 'jellyfish' drones before crash: 'Real alien s--t'  New York Post",
+      "query": "drone incident",
+      "detected_at": "2026-06-23T13:02:57.713891+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7d872d51a657"
+    },
+    {
       "title": "Neighbor’s drone over your yard? Don’t shoot it down - Austin American-Statesman",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdzlIU3FqT0xQRlhKcVhHQmpoeEJLUlRQWU9pT3FoMWxXNHY3MmozbVVLTkZPekJrblIwSE5vYnNZMlNSSHdvQ2prS3lWZFZiN1otYkwwdHJEYlZOSnBibnRJcUo0WFBNM1ZVb3ZWTC1FdmtlYXFNUVFJUXY1WWVsbFFVUjJWeG9pZFE?oc=5",
       "source": "Austin American-Statesman",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "18761d13567b"
-    },
-    {
-      "title": "El Paso man arrested after allegedly stalking victim with drone, damaging property, deputies say - KDBC",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUotZjZGeGtJM1JZOVZ1V3VjUE02Mk1LVmk2Mkhid2ZNekYwNW5sWjVpUFlMSlJ3OTRUMk1EdURxRjV6WE9rVW1DT0JtVnUzUU1Ma3hMN3N1eVVmRVhPOWktOFQ4WVdvNGk1WGNWaGd3ZWEzQlhwblhWeDg5Zk1xWmtzSlBDTjctYkNwMTdodUR4ZTQtNndqclZTQ0hPYnJjRmhjZ0dfZnhWcHBmcEFUaGcxT0F6c19vVmhIWUdTZVVqZmdpRkFMMmF6Ym1Wdw?oc=5",
-      "source": "KDBC",
-      "date": "2026-05-27T08:59:51+00:00",
-      "description": "El Paso man arrested after allegedly stalking victim with drone, damaging property, deputies say  KDBC",
-      "query": "drone arrest",
-      "detected_at": "2026-05-28T01:38:25.758833+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f834b39efd80"
-    },
-    {
-      "title": "Fresno Police Drone Helps Track Suspect in Restraining Order Case After Scooter Chase - GV Wire",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2Q1dUtCa1dRM25uampWRFZMSWgzT0hWUHJNcV83eWVGTVdiT1ZmSlZkWnV1OWxUTlpWMGFEWlV6TzJJYVEzSlkxX2NEZnhucm1OZnkxTlJsUVRtVXNwOXJlaGNRMzJmS0hhdkpjMmlEblNPaXBTZGZlUWRGS0JWQmE1WVFabFVZVW1RSTRtTUhyNU9DcWlpU0VFbW16aUdSN0phMkRuN1B4V0ZzXzB2R3pYMXZsdE0?oc=5",
-      "source": "GV Wire",
-      "date": "2026-05-27T22:28:18+00:00",
-      "description": "Fresno Police Drone Helps Track Suspect in Restraining Order Case After Scooter Chase  GV Wire",
-      "query": "drone arrest",
-      "detected_at": "2026-05-27T22:34:38.746869+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "81ace1ced4dd"
     }
   ],
-  "last_updated": "2026-06-23T11:05:55.100103+00:00",
+  "last_updated": "2026-06-23T13:05:18.471688+00:00",
   "total_count": 1000
 }
