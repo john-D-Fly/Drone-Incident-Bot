@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Back-to-back drone crashes in Turkey's Black Sea region - Bianet",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTZDOFBNNlpPVjVHN2dlYkR3cU9ZQk9wZU5Oa0NQRUVtYlYwMXVqd29UYlEzdFdXVE5BXzBmazJRUE1CdWNaYlEteXhzT05renM0MXIyLXlMU0ZWQm05WWpkN3RILUloU3FnbDJ3MTBLV3M5bDQ1WmljRHBDX3RGWk5yc2FsSHp4c3o5MTZ2c2c?oc=5",
+      "source": "Bianet",
+      "date": "2026-06-24T09:40:00+00:00",
+      "description": "Back-to-back drone crashes in Turkey's Black Sea region  Bianet",
+      "query": "drone incident",
+      "detected_at": "2026-06-24T11:04:06.242853+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6a1030d50c01"
+    },
+    {
       "title": "Russia is Fitting its Drone Boats With Illicit Starlink Terminals - The Maritime Executive",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzBhTk5raTlxa3h4bGhac1ZzcFFIbGdfQ01DRTl4akU1aVdyNm96VU9HQ3lsYXpyM3UxcVpnNHpMWGY3bDQ4d2xwVG9WT0xEZDVRNzdaZUJUMmFVbWRMdHp5TGp0S2tnUkw4ZWxxaWlEU24yaWxwc0ZBcHZXWGNwNjZzQnNObDBXTG1NcTVHclZ1djByTXhEbHYtT2Nka1ZjVW9aVEQtMTRCOThkZnZEV3dyTVM?oc=5",
       "source": "The Maritime Executive",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c43b221c49c3"
-    },
-    {
-      "title": "Federal charges for property manager connected to Las Vegas illegal biolab dropped - ktnv.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXFuTUUtRkt4c3E3N19jbkIzRXdZYnF5ejVVQXl3NEk5RlFQMjU5VWpfYmR5VjlSY3BycFYwRG9Qdk5QN1ZpOXp3SGJVSkNCZXk2VG5CWEtycllVLXJObDdFQ3drNk00MFRzMm1hZl9raU9HNEs2RkRvLXA0S2RCQkdHeU1nWTNfWFFsMkVBWFJ5U1JwdGk0c1ExX0FGMFRjRFVVMmtBQjJiaVpQMHd4djZkTms?oc=5",
-      "source": "ktnv.com",
-      "date": "2026-05-28T17:23:47+00:00",
-      "description": "Federal charges for property manager connected to Las Vegas illegal biolab dropped  ktnv.com",
-      "query": "drone illegal",
-      "detected_at": "2026-05-28T18:56:13.854328+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "ecf16d98e076"
     }
   ],
-  "last_updated": "2026-06-24T09:11:11.898440+00:00",
+  "last_updated": "2026-06-24T11:04:11.983480+00:00",
   "total_count": 1000
 }
