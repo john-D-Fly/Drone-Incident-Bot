@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "12 charged with allegedly using drones to smuggle contraband into prisons - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWQwSmpyWWFvLVdaYm9EcldDRFdaZkxWVmxTUnI1Rk9yeUlmTWhjVkRYTHRFOTlnNVlGZVQxVW1TSGpBT0xweGFtMzRXWVJRV1NqaW1yMzc2OTJKTVg1UlZQeUJtZkliRnNxYnIwblFnamY5U0hraWhRTDdWdUFkMDFVT01qOXpwcWxEZUw3d0pvUnY3RnNWQnVMdTHSAaIBQVVfeXFMUE9ORGhGSTZZOUhXdDgzNVBITWJfRWxIblFXdjNMMm8tSXZHU3pTWkxMWlFQb1ZDYVY5OXRqekxOaS1yU2FGUnh2NkF4b3ZRQVN4UmxuLVRRbnp6U1lZR1pEYS02ODA1d2U0VWJFTHJDZHkteEVaaTRidG5ldGlsUnR0SUZYdHRDeHlvM0xpdzJvNWU3c05DMEVnOHB2RjJuUHBn?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-06-25T16:37:45+00:00",
+      "description": "12 charged with allegedly using drones to smuggle contraband into prisons  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone prison",
+      "detected_at": "2026-06-25T16:49:23.768271+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "27a671496cff"
+    },
+    {
+      "title": "2 Lexington prisons part of major drone smuggling conspiracy, feds say - Hanford Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjNESEI4SDFLOWMzYVFUTVJIY2NTZmd1M2NOanp5TGduRl8tYk5XUmllR1V4Wl9zZVcyVXFyaXNKSS1EdFJENzJfRzV5WU5tZ2lFS3NXazNQVzl2YV8wcndKcFFpMUJzR3hmZGU3ZUc1aEVOTlMzeDM1THp6YWFOQ2Utc1o5UVVDeFBuWjEybnR6b1k4WWd1NkE4bDd0ejJuVkxSMGVmR0JBYVBzMTVsR2NDODVsSGF1ZDV1Q0NueXR4ZThyT2pkX2lFTk5QNFhzQ1p5RWVhWjZ0RjZId2xHS29pRlVzY2J6alJCZ0xVT1h5TGfSAfgBQVVfeXFMT1JVUjl1eEZZbnJpYl9QdHBQQ2x2eUYwSG5PU1pmMWw5RVNjQW9malpoekhTZHRPRFVYV0IzQkV6YjNHa280UWYzZS1RNy03ZVEzb3VxNVVaZkIwbW04WUhrSEZaZ3IzVDFzZUNIdGR1OVl0X0lYV0hYd0FLM1VrNHBaY1EycVZVVW15Yy1FUHpMdnJXak5yQTZWTk5FTS0zTGRLWkNKcGlzWU1aMlVWcFNwMXFzWXhZdjQ5X2ktNFdqS1JzSnBkdFhmcFk2RXQ4Qll6TVA3V3hWTVFuVFlDTDFrUzNfUWlJWUhveXM4U21JYnRhVTdNdUs?oc=5",
+      "source": "Hanford Sentinel",
+      "date": "2026-06-25T15:35:00+00:00",
+      "description": "2 Lexington prisons part of major drone smuggling conspiracy, feds say  Hanford Sentinel",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-25T16:49:23.290124+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "937c3dafa813"
+    },
+    {
+      "title": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnZDUW5iT2Y1YUVzSW1ReWlrb2dvU1dDNzljYTYtTGVrWWZ4S3hyZlg3MGJ6R2k3WFBxSk1xTVVyVzdjMkZwZjhZVWpTN1lHZHROMjBYczJZRm1QXzVqSmx3aFlXTW5DWTQ1ZDlYUmpmSDRoaVpaczdnU0xwZWFaMkVFdzJuTWU4NlpHN0FtaXFpeUR1eldSVmcwOHdXVkNuc3dTbllDdDE1MGthVnRz?oc=5",
+      "source": "41NBC News",
+      "date": "2026-06-24T19:04:45+00:00",
+      "description": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare  41NBC News",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-25T16:49:23.290124+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "46068f2cfdd6"
+    },
+    {
+      "title": "FBI, Seattle Police Seize 11 Drones, Arrest 4 During World Cup Match - The Seattle Medium",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QRmpKdXFwUk9ibHhrLWVEbnRNWWp4NDctV3hva25nMjhQdEdVRzZjYzJseHJucjNUZVBhOHhTUlpzMXFid1d3WEdCNG9uOHk1SU54QjA5cjNWOER6ck9jVklvR3dOTy1mckE?oc=5",
+      "source": "The Seattle Medium",
+      "date": "2026-06-25T15:50:46+00:00",
+      "description": "FBI, Seattle Police Seize 11 Drones, Arrest 4 During World Cup Match  The Seattle Medium",
+      "query": "drone arrest",
+      "detected_at": "2026-06-25T16:49:22.760278+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "a61c2b2c5d68"
+    },
+    {
+      "title": "Russia Orders Closure of Romanian Consulate in St. Petersburg - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGNOZDBiMktjemdERHg3dGZORVJBd2h0aUZRQlVNdTFXV2VuM0xVcXVrTzV2a3hHeko4SmJFWjVGMDBOQXluekV4Z0plcm4xbkZMVzNfbG9zTXJGRFFid2dVZlZTTGJ3Tkh4U0xzZVRVemZ6bXZFYWkxVEpIVUZNTktyRUZIUDFMenJFeTRxdGZlTlBldUVxLWVUVnNzWjRXOUdLY2c5alhRN2piSnc?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-06-25T15:00:36+00:00",
+      "description": "Russia Orders Closure of Romanian Consulate in St. Petersburg  The Moscow Times",
+      "query": "drone incident",
+      "detected_at": "2026-06-25T16:49:22.188629+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9ec65ccab133"
+    },
+    {
       "title": "The Drone Threat to America’s Cities - Lawfare",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZnZGVzdUUEM3WGtCWHFsZmVJQjhhLXhOSmEyTmtqQ19QdlZwWTVSSU1wLWc0RTBRWXFPNXVHaHNKa0xOY0JGU3hMUl9IeUxRS0VkbC1JaTE5ZVBQQmN0Tk5lQkN6dHZwM2dFXzUzajFpalZjek1VMlFCVFhldw?oc=5",
       "source": "Lawfare",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "7ee0154f2998"
-    },
-    {
-      "title": "Romania Says It Could Invoke NATO’s Article 4. What Would That Do? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTF0Q2pXb0dhUW9KclRfdzA2ZWt1am1YR1VZeW5wbnEwRk1PWThESS1WRVhVblB3a1hpOHZ4V21uNlA2SWhoOXMwX0NDZl9CSng4dmkzU29xUnNTMzg0VmJPSVdaY0pSNGVjTmJMWG5xQTFZZWxFRWpvTlpkRVkyTlp2Y1A2RTNwamc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-05-29T12:26:44+00:00",
-      "description": "Romania Says It Could Invoke NATO’s Article 4. What Would That Do?  The New York Times",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T17:13:35.190288+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ffa8de8c8988"
-    },
-    {
-      "title": "Russian drone targeting Ukraine goes astray, crashes into apartment building in NATO member Romania - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUk42Y1ZfQjVseVFLZFZIV0ROb25qcUQzbWFJdl9RdVJBMzdnX3lKbGV3cVZmQXNpZmEzYUM0aVl4ZG5iU193WDNHNmdWYUpUbkhFU0JzOGo3MGRwbVlnSkNuM2xOUGVXWjFfLTY1V19kb21LdG1sN2FJaWxEOXpPT19nMWFpRTlVbkFGM29wbWZoUEQ0VWZfQ3haYVBlZjNGVVVrQVp1SGJXb2lkcVJmaENxV2YwaXBJSnVGNUdQc2czUGctR0JwNzM0VVhRdkplQ1d5Si1lS3BwRUtyVjI4aGMyaV96cW8?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-05-29T15:24:29+00:00",
-      "description": "Russian drone targeting Ukraine goes astray, crashes into apartment building in NATO member Romania  Los Angeles Times",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T17:13:35.190288+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a2d5ea44717f"
-    },
-    {
-      "title": "Russian drone hits building in NATO member Romania, drawing outcry from U.S., allies - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnhTWkZvbUVtdnV4U3V1RnlPRjJraVVVZTVfc2Z0cHo0aVd1RWhzbV9GRnZsNUFXVHVnYnN2N3lUVFdSY3RMRVJxMFl0V0dGcGc1QmU1SVVRalo3ekx5V2hmVmlSSFNGNXRRQ3lxVlFaS09KZ2xGRGlJTmdpM3ZxUFpBWU10RklpV2FIUkMwNjB5cGdLQnhyWXdYNWh5RjUtRVZtRHV4WUJvU2ozRHM3cjdrUQ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-05-29T16:26:17+00:00",
-      "description": "Russian drone hits building in NATO member Romania, drawing outcry from U.S., allies  The Washington Post",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T17:13:35.190288+00:00",
-      "location": "in NATO member Romania, dr",
-      "category": "other",
-      "id": "d1db6ffad83c"
-    },
-    {
-      "title": "NATO states slam Russia after drone crashes in Romania - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTNqQy1wSjJ4bXM3TElHSDBIby1uMW5RTjZWTVNVUFd0eVVtdkhCY1pBT0VTYXdQay0xRDM1dFpOVVlKM2lqU1JhLVNDWGVHRklzS25OWVYtVGFvdi03eTkyOGUzZmhlRWVtM0RPOWpzdmRrQWZSczhQTXBpWHdqWlRfMDFsOEJoYjl1WWVRQUdlTHBrOVN2d2RCVdIBoAFBVV95cUxPY0NhYzE5ZXNGckp3eEFTeTVrdWZXa2U2dTZNeTlJaUpGMzZSdUlYM21fajR1dEhoWU1nVjBLNHhIbHk4MlJCWFdmT1VOeWpXckpiNGYtWG9UNmQ0bUl3Zkh6dmRXbTdxQW9Ia3RqRlVPVXdpaDVuZWs5am5hWkF0X05oM0JNb3IxUkFuZmNhZHo4MHcyMzFwS0UxRDY2alZW?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-05-29T15:35:48+00:00",
-      "description": "NATO states slam Russia after drone crashes in Romania  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T17:13:35.190288+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "dddc29b597cf"
-    },
-    {
-      "title": "Russia denounced after drone hits Romanian apartment building - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1E4VlN3Tkt0Q1pBbDAwVEhmaHNjRWFQWmhiREZOZzhja0xYaE9jTDdEcHlkTnhKTnBQWlFEOUx4S044b0hDblNwaXFJU2FKeS1aQ3dHVjJSWmc4NU81SmlJVFpkbDZnMHBiS2lBOEdDQWxqWXJXWGR2cndFcDZOSk9FQXFaZ2FOVUp5RVlyaExGYTlwNW16S0pud0ZkSzhkZDBiMmZBWQ?oc=5",
-      "source": "NBC News",
-      "date": "2026-05-29T13:24:51+00:00",
-      "description": "Russia denounced after drone hits Romanian apartment building  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T17:13:35.190288+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "decc55dc0804"
     }
   ],
-  "last_updated": "2026-06-25T15:02:08.269859+00:00",
+  "last_updated": "2026-06-25T16:49:27.530486+00:00",
   "total_count": 1000
 }
