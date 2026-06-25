@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "FBI warns drones are illegal in restricted airspace during World Cup - KOAM News Now",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHh2X1VWUU5INWhXNnFwMThCa1JFc3dkMEh2RG9oSnFnZ3RYbkY2MFdka0kzQWNZT2dqc0RaZjZoZUd3cUFmeUtSV3ExUUtrWngtU3ZRRUZFLWEzeXZMdllFSjFnbTFHaFI5R1NLOVFSMGV2ZFI2eGxjWVgyOURGcElNLWlIVkpwdUpMR3VVeFh0OUhKa3JDdlRtQmY1VndHUXdwWXJGLV9Md2Iwc1FaVkI2Tjk2RXBSbVY5ODd2eWVKaVBDV2tiVWk4Y1hyU05EdHlZTjJTWkwzMHFSZTZiOFpBZ0pJNjdPbnE2MFR6eHdXNDlpNWc?oc=5",
+      "source": "KOAM News Now",
+      "date": "2026-06-25T19:46:57+00:00",
+      "description": "FBI warns drones are illegal in restricted airspace during World Cup  KOAM News Now",
+      "query": "drone illegal",
+      "detected_at": "2026-06-25T20:42:54.146106+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "a19db02f8ee9"
+    },
+    {
+      "title": "Feds: Drone-flying prison smugglers used old daycare center as storehouse - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGd2LU5wVEFTU2tHWjIxaUV1Rll3dVZRSmNFc0s1aHhIcFlJaGRLdGVNUlpZanZmc0xQMXo3ajhsVndPeTd3UmYzVVdXYmpOeXZCV1NoeWE3dzBaX3I4VHJDRm5vYmg4ZThoR2xzU1JjdTNRQWRMS1hEWWFpZ091MjlnMDJCNGNJX3N5aFRLNjN2N3B2UkxFbmRyanlTWEEyalZRRlk4Ml94dw?oc=5",
+      "source": "AJC.com",
+      "date": "2026-06-24T23:06:03+00:00",
+      "description": "Feds: Drone-flying prison smugglers used old daycare center as storehouse  AJC.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-25T20:42:52.060298+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "15233194d17e"
+    },
+    {
+      "title": "DOJ indicts 12 in alleged prison drone smuggling operation - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yMV9rdzI5WDdrRW1abjVWenFHSktIWFVNalpiUng1dGkxMTA3OWZ5NXFFY3lJSlcxQTBSUWl4SXg4LUNRMl85ZVlXRGRaM2VoM1dHRzln?oc=5",
+      "source": "Fox News",
+      "date": "2026-06-25T14:20:09+00:00",
+      "description": "DOJ indicts 12 in alleged prison drone smuggling operation  Fox News",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-25T20:42:52.060298+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6ea6a2aee666"
+    },
+    {
+      "title": "Redmond police use a drone to track down a shoplifting suspect - KING5.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlVWTEZ3TUV5dnRwXzdNV3oyTGF6ejV0ZUVsUXpEOThXNVZOQjFwMEhJQ1pkbFQxaFBwNDBCT2pMRHJuN296cXc4ZkJveUNQREY5Y3NpTFlVRUV0eEljQ01PVkhtZW5LSUNCbGVZMF9ISGtabmhLeFVabjlyRDdGNzdCMHBoTFE2ZDlacVFXWktfT1lzM2k0MlVOckNTUGQ5NWJsRUotVmhFSHB3LVhyRVB0UnpGYjhSOW9IQVgyTmwzeE5HR3BaMUlJQ1JWeTA?oc=5",
+      "source": "KING5.com",
+      "date": "2026-06-24T23:24:00+00:00",
+      "description": "Redmond police use a drone to track down a shoplifting suspect  KING5.com",
+      "query": "drone arrest",
+      "detected_at": "2026-06-25T20:42:51.549944+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "df658bb29c82"
+    },
+    {
+      "title": "InvestigateTV+: Police use drones as first responder tool - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPam5ZcWNlc25VbHBtOTFvX05HMG5sSmlBeWJQa0VkcWk1N3lKZ2JBOVRqQWx0Xy1aanljeXcyZmY3UGFvX3M1MklVdGxYZ3FOc241cW9YUVJsd3ZLSUM4M3BMQzNNaVVhVlRuWHFXZUhGR25HMVZFbXVXc1M4V0Zkd0VJRUwzeGhuaTFDazZB?oc=5",
+      "source": "KKTV",
+      "date": "2026-06-25T13:10:00+00:00",
+      "description": "InvestigateTV+: Police use drones as first responder tool  KKTV",
+      "query": "drone arrest",
+      "detected_at": "2026-06-25T20:42:51.549944+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "400d30eec31c"
+    },
+    {
       "title": "Drones will be used to crack down on illegal fireworks this Fourth of July - laist.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTJQSlVodGFSQm5kRWRiS2h5YVBCNDV6ZGM5Y0dSRFAzNUxHZWVRS2MxeGlyOUtfT0luOUlwbTNqS2wwRVhZV25xaFVhRnowMHVuOF9iVWJqSW5pcEhRQWswQXlBaHVxTmZqOTBhZkpPUUdvN01hVDMwUkt5cXV4SjJyRk4tMWt0ZHVnRkFDS29TdktNc0Z6dXYtUHRoRWpkNUhxLVJ3?oc=5",
       "source": "laist.com",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "d23f47e4ca70"
-    },
-    {
-      "title": "Belgian drones will be used to combat irregular migration and arms smuggling in the Mediterranean - The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnR4ZWY4WUN2MXlxTnN4emU5bnM2MlRiTVNFYVNVVWFkYTh5LWY1NmVEWnF1WVlPTDNvRXVnV0hsVlN5UnlTeDJsa1BFcE9OdkRZSkpnZ28zZ2NlRkVjWWNaMmdhd2R6cEI0WFlwNmE0YkhiZ19YbGtyYkR5NGxWQjFSTzh0VElTNEs5SmY2QUtmZWJuVkJYYkZRTk1KeVBiYnFrb2RYY1FlVkFoS3ZRVGJOcHNuNE00QUlwVGcxR0c1c2o3R2dYOVBBTVh0b2Vvc0twd0c5aHZzQQ?oc=5",
-      "source": "The Brussels Times",
-      "date": "2026-05-29T18:11:34+00:00",
-      "description": "Belgian drones will be used to combat irregular migration and arms smuggling in the Mediterranean  The Brussels Times",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-29T18:56:09.946644+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "19a1c3d3ff70"
-    },
-    {
-      "title": "Romania asks for NATO support after Russian drone crash - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHpqZmdzUEFnSVUxY3E1aGpGSVBSeHM3WlR1a2xIVDNMY3h0djhFcFdUN0xPTTcxRXE2UTNsRG9FUFY5eDh1OTRGLThqTmluaTkzWUJCc1pWUHJ2c2dac1IyV29oNG9Gd3ltbktpLWwtRkY0RElYRTZHOXg3SUlUeDgyZExfRDBsSVFlS3R4bXBqQQ?oc=5",
-      "source": "politico.eu",
-      "date": "2026-05-29T16:05:29+00:00",
-      "description": "Romania asks for NATO support after Russian drone crash  politico.eu",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T18:56:08.670947+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e69ada14c422"
-    },
-    {
-      "title": "A Russian drone incident over Romania is raising fresh questions about NATO's response options and where the alliance draws its red lines. DW Correspondent Teri Schultz reports from NATO headquarters in Brussels. #DWNews - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2hmbkNSM0ZScl91RFJ2bEhMbi1NMDdOSnRpUXRReGRJX3RJUGY5UGFBbFRDS0VEenpIQjNfX2M0SUZOQnU1cFVrazExZnRlc1hOd0RtNGx3YTl3RW5jbm1uSzJueERvT25YMTlCR3l6dWc1MXJsMnVwTUNHRDRzOFQxWTJDMmxnS2pMcWZqVWhzRkQ1a2NlbXYtTHpsdVI3TmpqUDBubnlYQWdTR2ZnektvdFNfSDNjakNZbS10OWdLdjJ4cGt1ZmdUcHhZZU9ZYS1mUkRzUy1ORFdwZ0paNA?oc=5",
-      "source": "facebook.com",
-      "date": "2026-05-29T17:31:54+00:00",
-      "description": "A Russian drone incident over Romania is raising fresh questions about NATO's response options and where the alliance draws its red lines. DW Correspondent Teri Schultz reports from NATO headquarters in Brussels. #DWNews  facebook.com",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T18:56:08.670947+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7a2089dd2a07"
-    },
-    {
-      "title": "CCD: Russia is trying to justify drone incident in Romania by accusing Ukraine of “planned provocation” - Ukrinform - Ukrainian National News Agency",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUdxZ1lYc0UwM1RVcDZIY0VjZnhjRVIxZFhIRWZLLXJNbjBGS3otVmtBd2YxOWZpN3JwdGNtX1RaQlc1N3NLVms1N0l6THR5dkwwbDVDT0ZfU2xfRjA3eGRtWGoyQUcwSnNEQnN6YmVBdFpMYmozdERlS2hCWDdHOGIzVFU5TGdNaDl5NmRlRXVocFBVQ0RqXzA0MnNmRmtUdWpnd2tZQnJReDNRVksyTXJkU2ZEVkZ0YjBORVVpUTBneERmMk84S096aURrbmxJTGR0TnlCdlJRN29ncmJhb1gza0g?oc=5",
-      "source": "Ukrinform - Ukrainian National News Agency",
-      "date": "2026-05-29T11:28:00+00:00",
-      "description": "CCD: Russia is trying to justify drone incident in Romania by accusing Ukraine of “planned provocation”  Ukrinform - Ukrainian National News Agency",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T18:56:08.670947+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "632d52bc8ed9"
-    },
-    {
-      "title": "‘Ready to defend every inch’: NATO, EU allies back Romania after drone crash - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDZ1d0xZcXZjOVBHWm9QVmwwRU5jbC1fSGJyQzJ3cHZicWlQd0NwSzU3TUxxRHF2c1R4R1RuR2p5R2xpTzE0OVduWURzTUYweEU5WnlNR3ZsOUl2WWtVUWJqNTNKQ3VfSlpXdE1YTzktQnNTSWdXRzRQb0ZIU0gwZS14bHJVdFdNWjB4RTl3SmlkZw?oc=5",
-      "source": "TVP World",
-      "date": "2026-05-29T14:29:00+00:00",
-      "description": "‘Ready to defend every inch’: NATO, EU allies back Romania after drone crash  TVP World",
-      "query": "drone crash",
-      "detected_at": "2026-05-29T17:13:38.264324+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "c5cf3c56b15f"
     }
   ],
-  "last_updated": "2026-06-25T19:36:59.693967+00:00",
+  "last_updated": "2026-06-25T20:42:56.100476+00:00",
   "total_count": 1000
 }
