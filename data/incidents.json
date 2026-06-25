@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "FAA proposes new restricted airspace around critical infrastructure as drone use expands - WNEM",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3RDTXQ0dzJFZU1IUkNPaDFxNzVCYjdRQmtUOXZMcGFGc1NJM0d6TC1fMEs2ZHBwZDVCLXdEblAyU1RRb3NYcHBfNTRoZlJDVmZLUnU1NF85R2JaUVM5S2p1b0VTSzlhZHN6NHQ4LTF6MnRaQTEzZmdEckpQUlRYN1FvMGw2UHJUMk5NMGZCNXNlZWVhMGxsVUlZLW81dFBlRWxZdy1Bb0lPWGFEaGU1S1NyaTRlYzg3aXfSAc4BQVVfeXFMTklHdzFTWWpYNlpaemVralotN3I2ajIyOGM3Z2IyMHRvRjhWT0JIRGJjUWJvaV9nV3BmRm9EdC1FaUE5TUNqa2FTaGNXVExtUk5lXzdJQ2VwTENfb3JNb3MzQ1FsUnVwYXA0VW9zUDYtMGt6THItX0gxakxHenV2Si1rZ0I0TGpHN25XWWxfUzJpOUFBUGI0MVloVlpkYkkyaE9MRVY4dVFxRVNISFBCZG56bUNDajQzRGhodXRLTUFJaUJfYmR6VURDSjJqN2c?oc=5",
+      "source": "WNEM",
+      "date": "2026-06-25T03:28:00+00:00",
+      "description": "FAA proposes new restricted airspace around critical infrastructure as drone use expands  WNEM",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-25T07:17:25.630930+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "74babcd1f325"
+    },
+    {
+      "title": "Iraqi Judiciary Applies ‘Terrorism Provisions’ to Drones - Asharq Al-Awsat | Explore World News Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjA0Wlk5dWEwcW1kSzFCWHByb0swM0E1Mndjdm9JaHZmT2N0Qm1JZGtaWlo1NnZaWUx0V0xJcTJTcUtjR1Z6U3Q1elVyWmJJTUlHZzNIc3Z3ek96clJBX2dxLTFmMmJ3MnpPaUprUWNmMUZfYUtZZTJsTlN3VVcycXVUcmpLcFJ5cHBJWTZxZWNUOG10aFhmMENpQWpjcWhUci1WeFZ3aWd1YXRDVWNRN2Y4ZmgwZw?oc=5",
+      "source": "Asharq Al-Awsat | Explore World News Today",
+      "date": "2026-06-25T06:30:32+00:00",
+      "description": "Iraqi Judiciary Applies ‘Terrorism Provisions’ to Drones  Asharq Al-Awsat | Explore World News Today",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-25T07:17:25.120511+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "7d02047f566c"
+    },
+    {
+      "title": "Drones Will Be Used To Combat Illegal Fireworks This Fourth of July - LAmag",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjZOM3JSOTQybXZYRmszSk5YR3BrMGc2U0s2MmpYamo4bEw3VTdsSXpEcm5HbzdyTnZtVzZuT19CVV9fWkJQNnFUZnpYNTJtaTV5VDZoOEpHdUFPYU5jdUJlaEZfWjhRaGUwN3l6WEU5VExjcXdJeFowZmc2M3NuYzFuUHFhU2piME81WVk4Z1hCemROb3c?oc=5",
+      "source": "LAmag",
+      "date": "2026-06-24T17:35:00+00:00",
+      "description": "Drones Will Be Used To Combat Illegal Fireworks This Fourth of July  LAmag",
+      "query": "drone illegal",
+      "detected_at": "2026-06-25T07:17:24.144056+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4e285c5bd1da"
+    },
+    {
+      "title": "12 indicted in alleged federal prison drone drop ring ran from former Macon daycare: DOJ - wtvcfox",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQel9UMTZDb3lraDRueVBhZmVfZVBVc2lqcVdPTTlSeUNKcXVJd0tJMWh2TWJiYngzT3FxRk9uVnd2eFFlNC1VSHRUS0JxRDlWY2tMTl8wcFl6aVZPVUtRaWRlV0VkbjJTUEVFc0ZzVlBWdEdzbm5DVzNwVS1WVmRjWXJsekR2aEp0NUxxSnBQNUo4UWI4SnluZXpoTkh4RWJkdW95QXpjR2xiZ2NtNmsyN3N6QVV3WlM1OVRpT0dWYS1wMVl6VE11VkpLbGNuQkNfSzlSTmQyWmhOR0kyVDNQa3ducU5Mc2ZXaElrQlBrMXd3c2JtVS1Kc1dCSnFhWk0ycGVkWFZyM0VBUVpGcER3RmM3UTAwVlY5ZjZRLU1fRGtUaFBIN2VSdVRncjdYM3VybTJyQXRQRVJ5TVN5RV9vSWpqUU1aN0Vrbm83RjVXTnFQMk1SZUZJU18tRGFoVDlZZF9yVVdLN0F0ZEJ3ckJSY0dSNFNyQQ?oc=5",
+      "source": "wtvcfox",
+      "date": "2026-06-24T23:38:44+00:00",
+      "description": "12 indicted in alleged federal prison drone drop ring ran from former Macon daycare: DOJ  wtvcfox",
+      "query": "drone prison",
+      "detected_at": "2026-06-25T07:17:22.602317+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "165be2585fee"
+    },
+    {
+      "title": "Federal investigators speak after 12 indicted for allegedly smuggling drugs out of former Macon daycare - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaF9OcXlJSDZ6cWFhRHZRYzdmUy0tTXBkN1cyWmV1WVFCVGNrRUNsdElYVnFuTlg3OThzVWFhXzBBcmlhbWNNUjlnUV9DYzNaMnVtV1RGZ2hBVjRpelQyamJjeWp1UnVEY01uU0xBSE0tYkhOMkpwLUFGYlhyeEFTbVFfS2R2Y2lNS2x5aEZZQnlTRjhUWHFjazdLSlFmSjRSdjJ2b2ZjcXR6dnV2bXk3SHR2TEctdWl0cjVFdy05QmRucGk3bG50TnpqQUFvYjFhRzJaT29TWWw3Ymo2LWJpMlQybmdHN3c4WWZCNnVPVVNwOGF5NGc?oc=5",
+      "source": "13WMAZ",
+      "date": "2026-06-25T04:43:00+00:00",
+      "description": "Federal investigators speak after 12 indicted for allegedly smuggling drugs out of former Macon daycare  13WMAZ",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-25T07:17:22.011645+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e9cdbb08c6e6"
+    },
+    {
+      "title": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnZDUW5iT2Y1YUVzSW1ReWlrb2dvU1dDNzljYTYtTGVrWWZ4S3hyZlg3MGJ6R2k3WFBxSk1xTVVyVzdjMkZwZjhZVWpTN1lHZHROMjBYczJZRm1QXzVqSmx3aFlXTW5DWTQ1ZDlYUmpmSDRoaVpaczdnU0xwZWFaMkVFdzJuTWU4NlpHN0FtaXFpeUR1eldSVmcwOHdXVkNuc3dTbllDdDE1MGthVnRz?oc=5",
+      "source": "41NBC News",
+      "date": "2026-06-24T19:00:55+00:00",
+      "description": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare  41NBC News",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-25T07:17:22.011645+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b0734bfcfef9"
+    },
+    {
       "title": "FBI says 23 drones have been seized near Boston World Cup venues since tournament began - The Boston Globe",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0lYOEQtZ0hvenNERTN6LTVoTnhvNzNZR0pzamVRdUJZVDdqQm9fNFVqQXNaZy1LOVZKWXlCSjRlVDdyeFJidXZFMU53ZFlmT2l5SW5mRXNiLTQwSGtTZVQ3RUc5Wkw1Y0JXd0IwZXFPODhSVTdRVHJRaVNWRjdTcDQ2YXdGVC0yc2Y5NEYxTk4?oc=5",
       "source": "The Boston Globe",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "af554cc030a7"
-    },
-    {
-      "title": "Drone hits Romania apartment block during Russian attack on neighboring Ukraine - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1E4VlN3Tkt0Q1pBbDAwVEhmaHNjRWFQWmhiREZOZzhja0xYaE9jTDdEcHlkTnhKTnBQWlFEOUx4S044b0hDblNwaXFJU2FKeS1aQ3dHVjJSWmc4NU81SmlJVFpkbDZnMHBiS2lBOEdDQWxqWXJXWGR2cndFcDZOSk9FQXFaZ2FOVUp5RVlyaExGYTlwNW16S0pud0ZkSzhkZDBiMmZBWQ?oc=5",
-      "source": "NBC News",
-      "date": "2026-05-29T12:11:27+00:00",
-      "description": "Drone hits Romania apartment block during Russian attack on neighboring Ukraine  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T13:11:23.842434+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bb933de547b1"
-    },
-    {
-      "title": "Nato criticises Russia's 'reckless behaviour' after drone hits Romanian apartments, injuring two - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90SG9NRGg4a0tRUHhOZGk0bmlLM0llRmg4akx2VWVZTlRWYjhtcEFHcUJzMHdCdVA2cTNud1Y1aEYzaXdGSkFKdGVPRG5rcEs1UUdrcA?oc=5",
-      "source": "BBC",
-      "date": "2026-05-29T13:05:01+00:00",
-      "description": "Nato criticises Russia's 'reckless behaviour' after drone hits Romanian apartments, injuring two  BBCRomania declares Russian diplomat ‘persona non grata’ after drone incident – Europe live  The GuardianLive: Ukraine ready to support Romania in 'whatever way necessary', Zelensky says  France 24Romanian foreign minister says Russian drone incident could justify invoking NATO Article 4 consultations  Українська правдаReactions to drone incident in Romania  ReutersRomania says Russian drone inciden",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T13:11:23.842434+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c1c608dc702e"
-    },
-    {
-      "title": "Russian Drone Crashes Into Apartment in Romania, Wounding 2 - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHB3c3V6WTVWeE8yeFhiTnMwVXRFZWMwUGxYaEZXZFNNV2Rsa05YVFRzUzA5ZzZTZGFUWENVcmdQWU5JaHhBOEQ4blZCRUFKWllSanRjcHh4aHdhb2FJLXhmOHhQcmVUTE52YUdFQXg1R0xOaDYyY1Y5OVQzX1VoRWRNLUhZN1l5MUd3bU4zQXFxMzFqa1BXUG1ZZURWMFNfZnZiWnM4UFhmVTQ?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-05-29T07:43:00+00:00",
-      "description": "Russian Drone Crashes Into Apartment in Romania, Wounding 2  The Moscow Times",
-      "query": "drone crash",
-      "detected_at": "2026-05-29T11:09:28.451698+00:00",
-      "location": "in Romania, Wo",
-      "category": "crash",
-      "id": "cacd92820137"
-    },
-    {
-      "title": "EU says Russia has crossed 'another line' after drone hits Romanian apartment block - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90SG9NRGg4a0tRUHhOZGk0bmlLM0llRmg4akx2VWVZTlRWYjhtcEFHcUJzMHdCdVA2cTNud1Y1aEYzaXdGSkFKdGVPRG5rcEs1UUdrcA?oc=5",
-      "source": "BBC",
-      "date": "2026-05-29T09:55:17+00:00",
-      "description": "EU says Russia has crossed 'another line' after drone hits Romanian apartment block  BBC",
-      "query": "drone crash",
-      "detected_at": "2026-05-29T11:09:28.451698+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b3d494aed812"
-    },
-    {
-      "title": "Daring drone prison drop-off in Queensland dashed by officers - 1News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWRxd0VyU2ZpZDh6MEYzTGQwZExVV3o5VVZtYW5pdENwYTFicFJ2Z09zLU9jYVh6WTlkME5teFRaLWFSemROZ0VZYmQ0QlVZRVgtbVlFZkVRSmJhSGs0WTRQRTJFenJEYWw1NVdULUFibXhacURJVVk5UDViemlmY0xWYTQxamNET0Nzd3FVbjE4RExHSms2WTlVb1g0dw?oc=5",
-      "source": "1News",
-      "date": "2026-05-28T23:59:10+00:00",
-      "description": "Daring drone prison drop-off in Queensland dashed by officers  1News",
-      "query": "drone prison",
-      "detected_at": "2026-05-29T11:09:27.399064+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1ef957bbf911"
-    },
-    {
-      "title": "SBU claims to have thwarted a terrorist attack in Odesa – smugglers were transporting an explosive-laden drone from Abkhazia - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTXFWQ3NxXzY0MHZPVU5OaFU5bUVkZ3pYck1TTTVPeGdWWS1oanU3TWthdjB5SVNuQm9KbV9HaUt0U25Yai0tUXdoSnZSRGZUSWkzMjNNaFJTSGxKaEE0TGJnRURUR01IZjVaT2JaSEFmQ2tWWXVXT2d1N3lZOVVSZURLbnRkN09pZWstUXUyX3FMdmlTU1YyaDNBdGhWS056STNkNnd3NWFvZ3doR0xaTFhxZ29URzk1eDZOV2ZSbThfLVpZR241cTVfOXVKdjlVMnF5Z2ExVW45QnJxcUHSAdwBQVVfeXFMTk9RUFVPSkZNb0VVemcxMmROdWhpQXV3aEE3YWRIQWZILTRpS0ZCN3hLOHpmcmd3WXJpczlYYzltQTNFa2JaS0lxRDNLU2tXYVhVQmtTOXd2VEpqb1ozaUJCOFBJSVN6YlltVHFpR2d0eEE5WU11ZlpraGEwUTFycmJKbzNpN0hmcUE0N2UyTTZua0kxUWU0RGwtOUI2ZnYyeE9sT3hxMWVlYkxtcTVJYl9OcFYyZTNpOGk5RVEtZW1USTlLZS1wbGYwSmtxUG83Q3gtYkM2ck80Y1laZQ?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "date": "2026-05-29T10:42:07+00:00",
-      "description": "SBU claims to have thwarted a terrorist attack in Odesa – smugglers were transporting an explosive-laden drone from Abkhazia  Українські Національні Новини (УНН)",
-      "query": "drone smuggling",
-      "detected_at": "2026-05-29T11:09:26.920125+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5ff504023dd1"
     }
   ],
-  "last_updated": "2026-06-25T05:24:57.553753+00:00",
+  "last_updated": "2026-06-25T07:17:26.128520+00:00",
   "total_count": 1000
 }
