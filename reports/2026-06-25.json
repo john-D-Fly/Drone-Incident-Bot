@@ -1,0 +1,175 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant number of incidents involving drone smuggling and illegal operations have emerged, particularly related to prisons in multiple states including Georgia and Kentucky. A high-profile case has arisen with 12 individuals indicted for operating a drone smuggling network, which reportedly used a former daycare center to store contraband meant for delivery into prisons. This scheme highlights ongoing concerns about contraband reaching inmates. In addition, there has been a crackdown on unauthorized drone usage during the World Cup, with over 300 drones seized around venue sites, underscoring the heightened security measures being implemented. Meanwhile, regulatory discussions continue regarding unlawful drone activity, particularly in Iraq, which is enacting anti-terror laws against illicit drone usage. This spate of incidents raises alarms regarding public safety, prison security, and the evolving role of drones in both crime and law enforcement.",
+  "totals": {
+    "smuggling": 32,
+    "terrorism": 6,
+    "airport": 3,
+    "other": 14,
+    "arrest": 5,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 5,
+      "other": 43,
+      "security": 3,
+      "smuggling": 58,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone arrest": 9,
+      "drone illegal": 16,
+      "drone incident": 15,
+      "drone prison": 19,
+      "drone smuggling": 38,
+      "drone terrorism": 8,
+      "unauthorized drone": 15
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling Operations",
+      "rationale": "Multiple incidents involving similar smuggling operations highlight a systemic issue with drone deliveries to prisons.",
+      "incident_ids": [
+        "adbeba25ac5b",
+        "799b5b119406",
+        "8b3f7e861d2b",
+        "16afe6f7da78",
+        "7002af1a2d65",
+        "bcc57648cbc7",
+        "8124a450e194",
+        "574d6ef1b192",
+        "f190ab007a46",
+        "2b3d29b0c210"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Significant drone interceptions during the World Cup indicate critical concerns over unauthorized drone flights.",
+      "incident_ids": [
+        "2d73e22eebd3",
+        "949f59dc0cf0",
+        "f8e7f88c7e65"
+      ]
+    },
+    {
+      "topic": "Regulatory Measures",
+      "rationale": "Emerging laws and proposals highlight increased regulatory action against illegal use of drones, especially in sensitive areas.",
+      "incident_ids": [
+        "1ad18e54e56d",
+        "bf43f0e1ef8e",
+        "da3ae39f799e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "adbeba25ac5b",
+      "headline": "2 Lexington prisons part of major drone smuggling conspiracy, feds say",
+      "one_sentence": "Federal authorities disclosed a significant smuggling scheme involving drones targeted at prisons in Lexington.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "799b5b119406",
+      "headline": "Georgia among states involved in drone smuggling conspiracy",
+      "one_sentence": "Georgia has been identified as a key location in ongoing federal investigations into drone smuggling networks.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8b3f7e861d2b",
+      "headline": "12 charged in the largest-ever drone smuggling scheme targeting prisons",
+      "one_sentence": "A federal indictment has charged twelve individuals in connection with a substantial drone smuggling network supplying contraband to prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "16afe6f7da78",
+      "headline": "12 indicted in Macon drone smuggling scheme that allegedly operated from a former daycare",
+      "one_sentence": "Authorities indicted twelve individuals involved in a drone smuggling scheme linked to a daycare facility.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "1d756c484096",
+      "headline": "Feds: Drone-flying prison smugglers used old daycare center as storehouse",
+      "one_sentence": "Federal investigations reveal a sophisticated network using an abandoned daycare for drone operations to deliver contraband to prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "35e0b48eeae2",
+      "headline": "SkySafe and University of Illinois Expand Partnership to Advance Drone Detection",
+      "one_sentence": "A partnership aims to enhance drone detection and monitoring technologies amidst rising drone-related incidents.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d1bfa524932e",
+      "headline": "Macon man faces federal charges for alleged drone smuggling into prisons across 8 states.",
+      "one_sentence": "Charges have been leveled against a man for allegedly coordinating drone deliveries of contraband to prisons located in eight different states.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "df96ab432387",
+      "headline": "FBI announces 23 drones seized near Boston World Cup venues.",
+      "one_sentence": "Increased drone activity around the World Cup venues has led to the seizure of 23 unauthorized drones by the FBI.",
+      "risk_tags": [
+        "unauthorized drone",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "bba3ca619327",
+      "headline": "Jacksonville man accused of coordinating drone drops at prison in massive smuggling operation",
+      "one_sentence": "A local man has been implicated in a drone-related smuggling operation targeting a prison in Jacksonville.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "3f19d76d27cc",
+      "headline": "Authorities take action against illegal drone activity in restricted zones",
+      "one_sentence": "Officials are enforcing stricter regulations to curb unauthorized drone usage in sensitive areas.",
+      "risk_tags": [
+        "unauthorized drone",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Major drone smuggling incidents involving prisons emerge as over 300 unauthorized drones are seized near World Cup venues. #DroneSmuggling #SecurityRisks",
+    "linkedin": "In the past 48 hours, multiple drone incidents, particularly linked to smuggling operations impacting prisons, highlight critical security concerns as over 300 drones were seized near World Cup sites."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-25"
+}
