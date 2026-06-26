@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Fire restrictions, drone patrols begin in Tahoe National Forest ahead of holiday - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GczRhNWV2WnpSLXdmbHhTSkh4bWUzMHAydkpnR3ZjRDhCMkRqYjMxeGg5LW5QSGhKVzBLZ1JuZ3ZtTVJQNkJXSlVXWXRma2xjcUc3ckIzTmx0SXRMR2RHbDlfT25WZ9IBZkFVX3lxTE5IVzZCWEJuRVpsRlEwam16MWVvZF8tQ0tqMFJtYmRmNVNzUFRzREdMM2hWM0ZtWEJmTUdLdzNBSlNTb3A3eUQ3OXBnQXdjc3drNWNNRy1kdVdNMEFmOGx2eFZqVjhMZw?oc=5",
+      "source": "Sacramento Bee",
+      "date": "2026-06-26T18:06:22+00:00",
+      "description": "Fire restrictions, drone patrols begin in Tahoe National Forest ahead of holiday  Sacramento Bee",
+      "query": "drone illegal",
+      "detected_at": "2026-06-26T18:40:57.834298+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "2f8932d2ef57"
+    },
+    {
+      "title": "Jury convicts man who crashed drone with contraband at Lieber Correctional, set fire to officer’s home - Post and Courier",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTVaR1lEN1Vpc3VJdDFYeWsxUzZLaVd4ZzlKdFdMWkd1YmN0V2E4Wmp6SmlFcWpDdG1PMkhna0M0OUM3MEI0V0tHMWE2YjQwZE5pYXpUNDNqM0QxemZSQXhOTVNoY2lQSlBzaS0wdXdDX1lSOVBSTU5LMEY4VGFDRWs0WTRiMDBXNWhwLTZVNzFhMmZyRXRWd2tTU2Vod3ZUdzh2RmplOTlQeFRUc1NzX0l2RVRlUmNlY0MzQXZWdmZRU3duSEFTSUNLSkExLUJhV19LcHFfWV9xUFROQXZpZVlRdWJ1eWhJR0xINXhVRC1aTjg?oc=5",
+      "source": "Post and Courier",
+      "date": "2026-06-26T17:24:40+00:00",
+      "description": "Jury convicts man who crashed drone with contraband at Lieber Correctional, set fire to officer’s home  Post and Courier",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-26T18:40:55.147626+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "64f1e8571abc"
+    },
+    {
+      "title": "12 charged in alleged prison drone smuggling operation across 8 states - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGFqZ01TYmZBTlBERVMyVUNmLS11X2RpYU81Zmpna05tRmJkcWJBRHZDaVBfQzBNSVlIT0YtbldLOVJXQ2FvRTJPd0Q4SkRBcGVieVdJcGZQY3dDYURoNktHRmQxME5NYXFlZzZMc0pTTVB2dWE0TXQxWGk0bkw0RjdQQ1NJdWFBb2hjSF9n?oc=5",
+      "source": "Yahoo",
+      "date": "2026-06-26T16:32:10+00:00",
+      "description": "12 charged in alleged prison drone smuggling operation across 8 states  Yahoo",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-26T18:40:55.147626+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4d2ed1d7f25d"
+    },
+    {
+      "title": "VIDEO: Auburn police use drone to locate suspect in alleged domestic violence assault - KOMO",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdU5tUm1ET05TRTdMSnlmZXVubHo5WnhZZlM0S0xKbmZXNGdwZmEwNldxSE5tbnJtbU9pbUxGVXdDMFJmN0VMRFlEQ1pkak50QmNoazhraXhHbnpNaFhUOUx4ZUtzeGhJbktrX3JTV1ZCbG0teDI3cV9zQzFzZ1R0S1RIS0lGY3ROVWl5cDRJN01WMF9tOFNIR0ZJRUNPYkF0RVE5aXRCajM2VVVlRXpFdjlGc3hLZXFjU0IxMWNQM00ycldEVXFiX2VxVHpCMnd2SjJKUE5jNUtzSThxSzlKZ0FLdGhNVng3cGc?oc=5",
+      "source": "KOMO",
+      "date": "2026-06-26T18:15:14+00:00",
+      "description": "VIDEO: Auburn police use drone to locate suspect in alleged domestic violence assault  KOMO",
+      "query": "drone arrest",
+      "detected_at": "2026-06-26T18:40:54.475265+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "40035af983ac"
+    },
+    {
       "title": "12 charged in alleged prison drone smuggling operation across 8 states - NewsNation",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUZTT0tva2M2Z0doTFo5SVktcVdHTkMwM1lpMEx5U3NOM2RQSjk5b3BDYjhUTzJRa2NSdkw2R0w1dDZCdURDUTZPZ3ozUmVZb195NzRrMVdlRFE1QjdES2dIRG5ZOTRRd3o5Qi1WeFBSbDY4aEVGRHRjdzMwUUxnWTZkRdIBiAFBVV95cUxQbWNSQjRfdnNvQ0lPSFBIVHQxeHdJeGhOZjhtbXRtQ2NhVXkxNW9fYzUxQm9qT19acWFEaWpBUGgtTkZiRUxiLXBCLTVaekdfUXJRelRoWW9VRzlBU2dvWEM4N0JJaDFjMk9RRWJwanFxZXhqd0FGSFRDdnR5OU55TTZUa1NPWjFZ?oc=5",
       "source": "NewsNation",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "60d1a232ed3c"
-    },
-    {
-      "title": "Local law enforcement and FBI authorities detail security plan for FIFA World Cup in South Florida - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWg0NW1yRFlQZTRtR3ZNSmZaNGUya3BlUGJLU09zdDRDVUIwak5GSmtzcUxyNEtXSmh2bUNEemphOFVGRlY3cHFOZDhKRUxrVTdERV96S2JQRHhuYVpBcEpWZThCVFZBbk56VzBWQ3hEQzBOdzZyc25hdGczOXdzNmJFN0FEeVEyaFpr?oc=5",
-      "source": "CBS News",
-      "date": "2026-05-29T22:39:16+00:00",
-      "description": "Local law enforcement and FBI authorities detail security plan for FIFA World Cup in South Florida  CBS News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-05-29T23:31:56.957680+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "24bebe0ee2e8"
-    },
-    {
-      "title": "Putin alleges drone that struck Romanian apartment building could have been Ukrainian - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNXhhX3lrbWxKZGFUOEhRbEtrRHB6NTFtWDZobGlkWXFaMkZGU0M5Q3JacTR3LW9mMktOWk1oMUluYzJTcFNkWTdzYmhSTjB4YndZOHhLN0p0Yms2ZVVhQWoxd2phd0UySkFXWTVOTXdob1A1bTNSTDc3WjA3RUtxZTFuZUctLVdNQUpyTklEZnpHQ3pGVHZIRGMyX2NnazFOUGVtWEZTZ2JOTW00Qkx4b1VIUzhmR005a09wa19VTmV4aU9BS09MNGFB?oc=5",
-      "source": "France 24",
-      "date": "2026-05-29T05:42:42+00:00",
-      "description": "Putin alleges drone that struck Romanian apartment building could have been Ukrainian  France 24",
-      "query": "drone incident",
-      "detected_at": "2026-05-29T23:31:51.924292+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ab4464a5d8cc"
-    },
-    {
-      "title": "Russian Drone Hits Romanian Apartment Building, Officials Say - GV Wire",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUldwT2xRWWRpbm5jZUkzRzVKNjZETHRvTWpUY2hvTTdSTjhza3UzSTBOSGlWa3RwcVZ1UkhLcWtveFdCZ2ZKNHRuUFJJaEJIZUEyQU1PcmdmSEJOejFzTjdSTWNNTHdHaEZqQ2tZMzdadk8tRjFWU2xHZXhYX1QwSHZkLWRZTWRaZmh4aHFhUW54bGIxdEE?oc=5",
-      "source": "GV Wire",
-      "date": "2026-05-29T20:00:52+00:00",
-      "description": "Russian Drone Hits Romanian Apartment Building, Officials Say  GV Wire",
-      "query": "drone crash",
-      "detected_at": "2026-05-29T22:33:38.784480+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a54e95505466"
-    },
-    {
-      "title": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMG54YnVtMmZTU1JmaWlTbDVRb1B4d3JiaUhwNzZTWlNvR0xsZy1sS3NjdnJDS1otSVAtd19VOEZxbVI3YkRVLXZZeWV3dFFmaDV0aGpSVmhVNEl1UDhQLWpBZUQ4RkJNWjVZOVNySXlLX0htR2RwVFNrOEs3bVcyXzlGM29jNlpHaXRrUVB5V2tFZkdHLVZJ?oc=5",
-      "source": "AP News",
-      "date": "2026-05-29T20:27:00+00:00",
-      "description": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say  AP News",
-      "query": "drone crash",
-      "detected_at": "2026-05-29T22:33:38.784480+00:00",
-      "location": "in Romania, in",
-      "category": "other",
-      "id": "ca56075f6656"
     }
   ],
-  "last_updated": "2026-06-26T17:36:27.313883+00:00",
+  "last_updated": "2026-06-26T18:41:00.378954+00:00",
   "total_count": 1000
 }
