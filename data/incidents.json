@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "106 passengers’ terrifying drone close call at Newark - Rolling Out",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZMUpCanJ2MS1IcGZ0YTVMMGpEWFJQMm5LZ2U3MXJrR2REYzBjeE42NU1MNXJqV3QyVkRodGhYZDgzcnVfM1V6Y0JpTWx0bS14VGhQU2FkdkU3WWd0dFFxcDJwTG1HdWRlY05JTXpZRjNRTHA2dzNYMFdnMA?oc=5",
+      "source": "Rolling Out",
+      "date": "2026-06-27T13:56:08+00:00",
+      "description": "106 passengers’ terrifying drone close call at Newark  Rolling Out",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-27T20:26:59.287261+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "84fdc3abf591"
+    },
+    {
       "title": "US TSA Reports 300 Drones Seized Near World Cup Venues - Mexico Business News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1FfaVlxMUxxbzRNb1dmdVczV2h6dTV4VlpnU05jY0lBR2JqUElQbG9XM1lSRHYxX2tTR0VTYk5iMllVTUpOYlpTVDJ6M1BGRzNja3B2R21tT2xxdEFRbmJLVWJDdzFETGNKUUZnRlBNR3RVclB4UXd3RWZkWmd5TGhvb0tsaDhxU05WZFFkdnhZcG5ka2hsVUhOR1BuQQ?oc=5",
       "source": "Mexico Business News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "806519d597cb"
-    },
-    {
-      "title": "'No One Can Say' Origin of Drone That Crashed in Romania, Putin Says - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd181WWlKdmdtODktdGZtMjQtNjhWdkdibldaVFFrbk5TNmRmWmpGTnNtdmlfaXRkeVpGNFF6Y0VwbnJRZ194TV9YYnRGS2dFcENoWFlYTm53VENidUJTakJvYzBuS3RUUWVyREVLUGljQUFFMnlfaWFPZlVSN3FlVGRUOF9PbjRoN1ZDbXM0d0FIbDFIbGZNUFdOVlRnbEVVekFJTVY5ajJRYTBRdm03TDhKbHI?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-05-29T16:32:00+00:00",
-      "description": "'No One Can Say' Origin of Drone That Crashed in Romania, Putin Says  The Moscow Times",
-      "query": "drone crash",
-      "detected_at": "2026-05-30T12:29:49.362413+00:00",
-      "location": "in of Drone That Crashed in Romania, Pu",
-      "category": "crash",
-      "id": "c6ad0076febc"
     }
   ],
-  "last_updated": "2026-06-27T19:32:04.432702+00:00",
+  "last_updated": "2026-06-27T20:26:59.766868+00:00",
   "total_count": 1000
 }
