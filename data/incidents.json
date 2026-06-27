@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US strikes Iran in response to a drone attack on a ship - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdJa0JiM0ZCZlVFaTZNVjA5NkJWNXJFRzRfY2ZLR2xIXzB1a0JNUmVDY0R5YWdlTno1VldGNEozb0U5M2c4UHVEVnRPMHFYVTI2ZVdVRXAxZnBzS05mTFlTeTRULWpwd2VySDQyMFdPT0xMNnFnS1JpaVYwbExCQkpsTG9LZEFvSHhQS2NteVJxd1p0cnBFR1A3aDFQVkNFY1I5ZUc0SWY?oc=5",
+      "source": "AP News",
+      "date": "2026-06-27T06:17:00+00:00",
+      "description": "US strikes Iran in response to a drone attack on a ship  AP News",
+      "query": "drone terrorism",
+      "detected_at": "2026-06-27T14:34:56.160049+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "307860d5370b"
+    },
+    {
       "title": "Security forces seize unidentified drone in Baghdad - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnJpVTE5Z2JTUmRzYVd2Q2VnV1lqWWJveFg5ME1NMDBPNGdzVmJoVExXNDh3RFlvcWpxaHdrWElpUEs1dTVMcWQwX1JTX0l2TFNkR3BvN1F4Qmx5YzJSaUl3NEdqWjN2TEJVVEc5cENUODY1RGdLSFFqRm9rV1NjMzRuLUNSNDdLT3c?oc=5",
       "source": "شفق نيوز",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "641287d9e855"
-    },
-    {
-      "title": "Germany’s Munich Airport Grounded by Drone Panic: Flights Suspended, Massive Delays and Regional Diversions Create Travel Chaos for Thousands Across Europe - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoT2hwd01xUElkaVg2VHVKR01rcHdreTlKTTF4QXd2U0VYZlNKc0VsR3RoaUpuRkQxNXVkb25BNjh4enJmTEE1eHl6QWc3Ym5WQ0ctMFowdXNQZVF4dmxyd3MwdnFwLVltb1h4QXZ3?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-05-30T10:07:30+00:00",
-      "description": "Germany’s Munich Airport Grounded by Drone Panic: Flights Suspended, Massive Delays and Regional Diversions Create Travel Chaos for Thousands Across Europe  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-30T10:36:44.214147+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2f035964b822"
     }
   ],
-  "last_updated": "2026-06-27T13:34:30.680164+00:00",
+  "last_updated": "2026-06-27T14:34:57.639848+00:00",
   "total_count": 1000
 }
