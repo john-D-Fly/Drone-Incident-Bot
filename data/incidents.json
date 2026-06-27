@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "US TSA Reports 300 Drones Seized Near World Cup Venues - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1FfaVlxMUxxbzRNb1dmdVczV2h6dTV4VlpnU05jY0lBR2JqUElQbG9XM1lSRHYxX2tTR0VTYk5iMllVTUpOYlpTVDJ6M1BGRzNja3B2R21tT2xxdEFRbmJLVWJDdzFETGNKUUZnRlBNR3RVclB4UXd3RWZkWmd5TGhvb0tsaDhxU05WZFFkdnhZcG5ka2hsVUhOR1BuQQ?oc=5",
+      "source": "Mexico Business News",
+      "date": "2026-06-25T21:59:53+00:00",
+      "description": "US TSA Reports 300 Drones Seized Near World Cup Venues  Mexico Business News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-27T19:32:03.954482+00:00",
+      "location": "Near World Cup Venues",
+      "category": "other",
+      "id": "79fd0ed11702"
+    },
+    {
       "title": "Crooks using drones to smuggle drugs, phones, weapons into NY prisons - New York Post",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3pYOGlIZXN5a2FYMHIyTXlUU2ZyelY5dWlza0JmRUZZOURpZWE5aXVLa255bHVnQk9mMzg1X21Pclc3eWJ6YmI1cXBwc1V3Wm9IOUFWNW9fV2xtcDU0X3VoZVhoWk5TajZPLV9sMXRyT0FsdHNxdnNyZTNtSGJ2NmU1Vk11YTU4VVRCU3BMckw4a2hD?oc=5",
       "source": "New York Post",
@@ -11987,20 +11999,8 @@
       "location": "in of Drone That Crashed in Romania, Pu",
       "category": "crash",
       "id": "c6ad0076febc"
-    },
-    {
-      "title": "Flights briefly halted at Munich Airport over possible drone sighting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGhFeGp3VTg1RkRUVTE3aWYtMEo2ZzY0U1p4dHhaMWRKczd2VTlLN3lXRzNFMjlYYkFkMlk1OEJRLXJlTFVQTEppUjZQVEpmeWZWNUZVVE1ZWXRGV2J0VUNkdWw1MGVWNnl2R0hIS2NvVUZqQ0g3NzN3Z3EyMlJHcDc4TWR2dG56UndZcmtNLS1OX1hEYnZMalZncEFSWG9OLTc4UHJucEFEZWE1SnkyT192WQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-05-30T10:08:09+00:00",
-      "description": "Flights briefly halted at Munich Airport over possible drone sighting  Reuters",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-30T12:29:48.701824+00:00",
-      "location": "at Munich Airport",
-      "category": "airport",
-      "id": "02cddbf06877"
     }
   ],
-  "last_updated": "2026-06-27T18:28:43.493082+00:00",
+  "last_updated": "2026-06-27T19:32:04.432702+00:00",
   "total_count": 1000
 }
