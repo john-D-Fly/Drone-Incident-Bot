@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "Over the past 48 hours, a notable surge in drone-related incidents has been recorded across various locations. Multiple arrests and charges have surfaced in relation to smuggling operations involving drones used to transport contraband into prisons in several states, highlighting the threat posed by such activities. Additionally, incidents involving unauthorized drone flights during the FIFA World Cup have prompted security measures, with authorities seizing numerous drones across cities hosting the event. Concerns regarding aerial safety were also raised following police responses to domestic violence incidents using drones for tracking suspects. Countries like Iran and Ukraine remain involved in terrorism-related drone activities, with retaliatory strikes reported amid ongoing tensions. The data underscores an urgent need for revisiting security policies regarding drone usage in sensitive areas.",
+  "totals": {
+    "other": 10,
+    "security": 5,
+    "arrest": 8,
+    "smuggling": 12,
+    "terrorism": 4,
+    "crash": 1,
+    "total_incidents": 80,
+    "by_category": {
+      "arrest": 6,
+      "crash": 1,
+      "other": 28,
+      "security": 5,
+      "smuggling": 39,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone illegal": 9,
+      "drone incident": 8,
+      "drone prison": 11,
+      "drone security breach": 1,
+      "drone smuggling": 27,
+      "drone terrorism": 6,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Drone Smuggling",
+      "rationale": "Several incidents involve drone smuggling into prisons across multiple states, indicating organized criminal activity.",
+      "incident_ids": [
+        "2c92b68b2bec",
+        "12 indicted in drone smuggling conspiracy into 10 prisons across 8 states, including Kentucky - FOX 56 News",
+        "12 charged with using former Ga. daycare to store contraband, fly it into 10 prisons - Corrections1",
+        "12 charged with allegedly using drones to smuggle contraband into prisons - ABC News - Breaking News, Latest News and Videos"
+      ]
+    },
+    {
+      "topic": "World Cup Security Issues",
+      "rationale": "A significant number of unauthorized drones have been seized around the World Cup, indicating serious security concerns.",
+      "incident_ids": [
+        "47b8c5e53c51",
+        "feds charge four as World Cup drone crackdown tops 400 seizures across US host cities nationwide - 930 WFMD Free Talk",
+        "FBI Boston: 23 drones seized near World Cup events - Boston 25 News"
+      ]
+    },
+    {
+      "topic": "Terrorism-related Drone Incidents",
+      "rationale": "Ongoing drone-related terrorist activities involving nations like Iran and Ukraine reflect rising geopolitical tension.",
+      "incident_ids": [
+        "2da70f0f03c7",
+        "606de34850199",
+        "41efac361985"
+      ]
+    },
+    {
+      "topic": "Drone Response to Domestic Violence",
+      "rationale": "Use of drones as a first-response tool in domestic violence cases reflects evolving policing strategies.",
+      "incident_ids": [
+        "40035af983ac",
+        "Redmond police use drone to track Target shoplifting suspect, leading to arrest - KOMO"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "2c92b68b2bec",
+      "headline": "12 charged with using former Ga. daycare to store contraband, fly it into 10 prisons",
+      "one_sentence": "Authorities charge 12 individuals connected to a sophisticated drone smuggling operation targeting multiple prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2f8932d2ef57",
+      "headline": "Fire restrictions, drone patrols begin in Tahoe National Forest ahead of holiday",
+      "one_sentence": "Tahoe National Forest initiates drone patrols to enforce fire restrictions ahead of the holidays.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "47b8c5e53c51",
+      "headline": "Feds charge four as World Cup drone crackdown tops 400 seizures across US host cities nationwide",
+      "one_sentence": "Four individuals are charged following a crackdown on unauthorized drone flights during the World Cup.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "2da70f0f03c7",
+      "headline": "Iran claims retaliatory strikes as Bahrain reports drone attack",
+      "one_sentence": "Iran claims to have conducted strikes in response to a drone incident, heightening regional tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "06de34850199",
+      "headline": "'Powerful response:’ US strikes Iran after attack on ship in Hormuz Strait",
+      "one_sentence": "The US military responds with strikes following a drone-related attack involving Iran, showcasing escalating tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "40035af983ac",
+      "headline": "Redmond police use drone to track suspect in alleged domestic violence assault",
+      "one_sentence": "Redmond police successfully utilized a drone to locate a suspect in a domestic violence case.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "twitter": "Over the past 48 hours, a surge in unauthorized drone activity has raised security concerns, particularly around the World Cup and ongoing drone smuggling operations.",
+    "linkedin": "Recent incidents highlight the escalating use of drones for smuggling contraband into prisons and unauthorized flights during global events like the World Cup, underscoring the need for strengthened drone regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-06-27"
+}
