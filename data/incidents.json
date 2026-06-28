@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Police intercept 19th drone since World Cup events outside FIFA Fan Festival - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM19TTWNEb0RsSDVQS2dUOU1kOVA1RVBUQWZ2TGtpYzVkQTcxV0Q0RXpxTG9fQko5eXVRdHdZZng5TGZXMFdTNVZjRzVvRjdoalVvekFJVUx4LXZWdWo3SFg3d3JYNnNiNkExWl9XTkNwN3VBQm4zQXhPSEtkcEFaYzk2Nk5wS1UweGlyQUhSZHVOdVVyOHZCRlp3bnZELW5sYnR0NkVOMnFIY1ZHMnVmVnZGRzJ5aTN5M1dlWFRDWG9nSmtJeDhJdnZHeDV6TWdEQ2Rtb0taRFhQWEhtNkktYWtVZ1NrZ2diY0N2SFM0U3I?oc=5",
+      "source": "Toronto Star",
+      "date": "2026-06-28T13:22:43+00:00",
+      "description": "Police intercept 19th drone since World Cup events outside FIFA Fan Festival  Toronto Star",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-28T13:34:21.711016+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "487c9cf37f17"
+    },
+    {
+      "title": "Aviation Updates: United Airlines Jet Barely Misses Rogue Drone Near Newark, FAA Investigates Impending Travel Chaos - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkszejE5R2NsblFha3A1VWNGaVQ1cFhib3ktOWxTclN5Q2tCRzJzbFBHWFBaaGl0Ty1Za21QSV8xWDNIOWdRd3NPRXJVNDdFdjZ0QnRySWZkX3JFQ0ltNTFXU0Nkek8tRFYxQlNvRlQ1akNUcnp4aUVqZDZ2T29qNTYzbzhrU2dvYzhtUw?oc=5",
+      "source": "Nomad Lawyer",
+      "date": "2026-06-28T12:34:40+00:00",
+      "description": "Aviation Updates: United Airlines Jet Barely Misses Rogue Drone Near Newark, FAA Investigates Impending Travel Chaos  Nomad Lawyer",
+      "query": "drone airport disruption",
+      "detected_at": "2026-06-28T13:34:18.783919+00:00",
+      "location": "Near Newark",
+      "category": "airport",
+      "id": "d619e908e593"
+    },
+    {
       "title": "US carries out 'additional strikes' on Iran - DW.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2tlX2FRR3Y4Wk8wMGp5aWJDVlhRamRQQWlGalhXd241Q0lVMXdYekxCNHZIa2Jrc0FLUDFnUy11eW52QlZkNWw5Q3JxeTdPOWhfbnlMOFh5dDFoMEFHV1R1TVJ5V0QzUXZCR0djM1pBQTRtOXlsLXh4eFNfajh2OHM2VQ?oc=5",
       "source": "DW.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2f03a0a16d6c"
-    },
-    {
-      "title": "Flights Cancelled Throughout Europe As Germany, Spain, England, France, Netherlands, And Denmark Cancel 122 And Delay 2,298 Flights, Disrupting Lufthansa, KLM, Vueling, Air France, And Others In Munich, Paris, Barcelona, Berlin, And More - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRlFjZkFLTk5DbXBiaDNoUkxhQVFJTVJHZFFhdzRHSUhuSURJNHFjQmFOc1pyRlBQX01XdXJ5WXVFMUNqMVBTeTI0anlzWFdKX1pTYWJCM21EUEtpZzN3bnhPV2FsaEdxMkFMSER3?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-05-30T18:18:26+00:00",
-      "description": "Flights Cancelled Throughout Europe As Germany, Spain, England, France, Netherlands, And Denmark Cancel 122 And Delay 2,298 Flights, Disrupting Lufthansa, KLM, Vueling, Air France, And Others In Munich, Paris, Barcelona, Berlin, And More  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-05-30T21:23:14.654349+00:00",
-      "location": "In Munich, Pa",
-      "category": "interference",
-      "id": "caebd9fbfa5b"
-    },
-    {
-      "title": "Belgorod reports fresh drone attacks - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkhDbUY2akVDQmk3QkhDSjNHZ0lHbHNlam9fOGQyTE16WnNkNEIxdUxiOTVFQnpLNjIyd2lXWWtRTjFNVFo0bHdza3dIam9KcUM5bm9lZGhaUjU5bWozTTdhalVXSHB3Unl3VkI1eWZBT0tmV1BlRjJBVEN5bDZHMGxscElUQVd1?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-05-30T19:45:00+00:00",
-      "description": "Belgorod reports fresh drone attacks  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-30T20:25:02.874620+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "91c4a8bca040"
     }
   ],
-  "last_updated": "2026-06-28T09:07:10.259515+00:00",
+  "last_updated": "2026-06-28T13:34:22.368916+00:00",
   "total_count": 1000
 }
