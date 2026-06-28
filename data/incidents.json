@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Police intercept 19th drone since World Cup events outside FIFA Fan Festival - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM19TTWNEb0RsSDVQS2dUOU1kOVA1RVBUQWZ2TGtpYzVkQTcxV0Q0RXpxTG9fQko5eXVRdHdZZng5TGZXMFdTNVZjRzVvRjdoalVvekFJVUx4LXZWdWo3SFg3d3JYNnNiNkExWl9XTkNwN3VBQm4zQXhPSEtkcEFaYzk2Nk5wS1UweGlyQUhSZHVOdVVyOHZCRlp3bnZELW5sYnR0NkVOMnFIY1ZHMnVmVnZGRzJ5aTN5M1dlWFRDWG9nSmtJeDhJdnZHeDV6TWdEQ2Rtb0taRFhQWEhtNkktYWtVZ1NrZ2diY0N2SFM0U3I?oc=5",
+      "source": "Toronto Star",
+      "date": "2026-06-28T01:17:00+00:00",
+      "description": "Police intercept 19th drone since World Cup events outside FIFA Fan Festival  Toronto Star",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-28T01:46:29.041662+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3a247c3f4904"
+    },
+    {
       "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lWFF2NkdBMkRfMWlZR2N6YThqUWw2aFZHLXdZdWVWT3FBajgxX0hDVFhlN1otSlRsU0p2ZWl1WE5ob2d2cTJSU1d5TjNPblNxbDVmV3RYZTBERGg5Mm1iR014Y05zXzBlTE9CbVlwTGM?oc=5",
       "source": "The Guardian",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "a2da74902450"
-    },
-    {
-      "title": "Galați residents fear future incidents after Russian drone crashed into building - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmw0Tm41ZmppVENIRU16b1NyRlBnaDJ4MFpWbmUyTFAzUGo3TUNIc0pQc0FKSENDY2N0eEhxajVYcFc3MllOX2FJTTZNWE5kaTMybXlLaExpYUw5MnNJNEVUd0JVMHI5OU9XemRnd2FXYjc2SXZlQzZzSmRHMlEtZVpoYnVVeXQ5bk5yVUZRQU4xYjBIaWlnODg5SEhIaVZzU3E0a2IybWhsa0wtUm8tZDRHcFdHWWsyLXpYallxQVB3NUdC?oc=5",
-      "source": "Euronews.com",
-      "date": "2026-05-30T14:06:59+00:00",
-      "description": "Galați residents fear future incidents after Russian drone crashed into building  Euronews.com",
-      "query": "drone incident",
-      "detected_at": "2026-05-30T16:25:09.251063+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "8a3ee269d588"
     }
   ],
-  "last_updated": "2026-06-28T00:55:12.198172+00:00",
+  "last_updated": "2026-06-28T01:46:29.517834+00:00",
   "total_count": 1000
 }
