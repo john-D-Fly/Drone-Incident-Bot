@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Israel Police arrests two for cross-border smuggling in massive drug bust near Egyptian border - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HbnliNW5YMHE5SndwUlhLbkpXSDdvZzJXa0MtWDlYYWY0V28xN3FDY2RKQ3AzY2FBLVBBdVdNeWdicXg3VnFIQW9nb3Nya3VUQnVYNGdnSnBJRVM1SlhrZTczd2FnVzFraFBPWERISDdNQQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-06-29T09:52:03+00:00",
+      "description": "Israel Police arrests two for cross-border smuggling in massive drug bust near Egyptian border  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-29T11:42:47.103436+00:00",
+      "location": "near Egyptian border",
+      "category": "smuggling",
+      "id": "bdd9ea05c57e"
+    },
+    {
+      "title": "United Airlines Flight UA1513 Drone Incident at Newark Airport - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0dwMUYtVU02V0NNai13OFlwaFJoSG9wTzItWnFDQ2pvWTFIODVhUTdEdGpkNUROa2RYWjZxQWJrczEtV05QREdnT2s5ZmhpeXlmY1NLUHROV04wckU5NlV0eTdQQ0hZYkptSmlHNm02MkY5eXNUS1JDakNHWnBMcHdKbVJBVGM?oc=5",
+      "source": "Nomad Lawyer",
+      "date": "2026-06-29T03:10:22+00:00",
+      "description": "United Airlines Flight UA1513 Drone Incident at Newark Airport  Nomad Lawyer",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T11:42:45.988757+00:00",
+      "location": "at Newark Airport",
+      "category": "airport",
+      "id": "17010d15a496"
+    },
+    {
       "title": "Drone Incidents in NATO Airspace Are “Price Worth Paying” for Ukraine Strikes on Russia, Estonian FM Says - UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOXJmMnFFNG5XcEQwVUZUXzY3SGlIdHl5NzVXZDR4czBLTHVyUklpUmlDSWFFdlItc1NWdDVsblc0X05MV2lNcWR0Q0hnNGNldVI0cmp4QWZidlRSa1E4TzJiZEpzcVVZeGFHanRwSUtVMHZDbDNWY3ZQU1drMG1EX0wtNDgtLTBLb2ZLbXFFYnJtYm54SkxJRGQ0S09RdGxpS0p1dG9rSHJaRXFQUkg5TnhjdG1xb1hvSXZUd3lWb2NYTndwOHpZRUxxYTJ3RWVkZ0ZXcmpVS2JNWEVxcTJodnNFSQ?oc=5",
       "source": "UNITED24 Media",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "914827083f34"
-    },
-    {
-      "title": "At least four people reportedly wounded after Hezbollah drone hits northern Israel - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6ZFA0a0t4ZTgxQi1NZ241aHRGMVBVRjlOek9jcnQ2YVJQcnFhRjM5T2d2cDM3QWljakcxUFJOQkltQ0hpOUpTQmc1ZHJReXRoeVNWcFJrWXJ0cFhvUndWQVN0LWZkVXNSc3NjMzZn?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-05-31T15:59:08+00:00",
-      "description": "At least four people reportedly wounded after Hezbollah drone hits northern Israel  The Jerusalem Post",
-      "query": "drone crash",
-      "detected_at": "2026-06-01T00:58:17.133923+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9e30df64d729"
-    },
-    {
-      "title": "Hezbollah drones leave Israel no choice in Lebanon: total military conquest - ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kM3lFbjdKYjJDSDRldHVGNkRjc0hCUUlPaWprOFE5akxMMXpuckdicVppdlhEYnJtMk5IQThPeEpjb3paalotZTZaeVh6aWZZZ09BX3d3WmVyS2RQTW5xM3VSUTdfcHN6VHpSY3ZR?oc=5",
-      "source": "ynetnews",
-      "date": "2026-05-31T06:42:43+00:00",
-      "description": "Hezbollah drones leave Israel no choice in Lebanon: total military conquest  ynetnews",
-      "query": "drone terrorism",
-      "detected_at": "2026-05-31T22:23:49.772937+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d5cd2e97c4f6"
     }
   ],
-  "last_updated": "2026-06-29T09:40:38.795000+00:00",
+  "last_updated": "2026-06-29T11:42:51.090162+00:00",
   "total_count": 1000
 }
