@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "JetBlue flight hits drone while landing at JFK: Officials - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmM5cEFYeWNxb0RtQmIyMXcwTjQ2ZVdSWHdpZF9iYXdSQThyY3pQOTc5TTJNZ2tzRnNvT1drOUt1YmdlVzE0cXNQRU5fR3FsUmhYWGttZ29jSWFTZ0FVZE9SOEoycmtmQ2d3S09idE1CX3Y4cThZZ25WUDg3eEo0UGxKN0IxU0tiQ0RaWWJWdnQwNkXSAZgBQVVfeXFMTkFPRG1NLXNZM2NocHdrMzMydk5BRzhHM1JPbEZiWW04aHlSU2Y3OEY1dUJsUFhfeHNVdTRCMDZwQkhvR3NNemUzMllEWlE2UUdtaUVrSWZtR25aaUhKX1hES0hvOXFTNGVRNGg3aFFvdG1RUWE1emVfd3FYb2pDUXdOU1FlZjV5eVB1aVBOUEFvVzg3UThYUUo?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-06-29T16:43:44+00:00",
+      "description": "JetBlue flight hits drone while landing at JFK: Officials  ABC News - Breaking News, Latest News and Videos",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T17:04:46.112564+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "73128793920a"
+    },
+    {
+      "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport in NYC - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnM3NXJXUl80eUdfbi1zYS1Ca2g3YjlZcDdMTnB3Umw4OW9IYUpXZHcwcWNTbnM0VXFrRUNmSURGMHdUMUxRRTlnaGl4RFJtdWNaRnJFTExVVUVyUFdBNWo1dkZ6SGs4Q0xjcGF4NEpieUtTTzJpRUM1R2hqYk1kc3BsZzlGRVNYRVhNYzhJMm5hcHBnMnpaazBoT3NGMDZvUlYxTk1ZUTNNbjl3T28zatIBtgFBVV95cUxPTDJ1d0VuWFZoUVVnWkQyQ0ZCVl9fVmVPRktPa0ZEWC1zak1hM2V4LTVrUE5TWWQwbDNCaWloV3lKVWJXNUFrY1V3RFhYT3ZYS2kxUnVXMXNUSGJFZlg5Uy1TcjVWa0Vfa09XWkgwc0tRUGF1Um5hX1ZKYlF5WkVabjZwMk1DQndYenp2Zm5OTW82UGRTaGY4SmREaDFyYjRjdlg1c2d5bHlrQ3JNN3ZqTU50ZEk0QQ?oc=5",
+      "source": "ABC7 New York",
+      "date": "2026-06-29T15:37:30+00:00",
+      "description": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport in NYC  ABC7 New York",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T17:04:46.112564+00:00",
+      "location": "at JFK Airport",
+      "category": "airport",
+      "id": "926d0ab915cd"
+    },
+    {
       "title": "Beyond the Numbers: What 300 World Cup Drone Seizures Really Tell Us - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzl6cUNveVgySFl3b3JHWmgwY2lvWmpidnZiVEdfSzR2R3lTSjctblRKU3lJOEZCeWJaczZ2Ny1hbzhoblFGS3YwY19RV0ZOaERoWW1YNXF6ak1uZ25PckNRREltSTZDQnowcVY1ZDFOWWxlal9kbl9SMmIteExnR2RR?oc=5",
       "source": "Dronelife",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ea2f447691ae"
-    },
-    {
-      "title": "Russia strikes Ukraine with 265 drones overnight - Air defense's work reported - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRk9DME1uck9IOXhMTlVBSzEtcXdwUkFFOHpXSmxZaXV2WkxwWm5TQmd6ZUhHekNya3pmOEpOczB2ekIzdzlvYWlYanRkRHY0TnR3aV8xQURweVZhdjFtbjNCcElBQnZHNC1TOEczSEZqX1RoenJQZjdtN000d3pGbGtyamZDM2JaVWdLOFU3MWlkOUtZOEV1WVV3VlE?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2026-06-01T06:59:40+00:00",
-      "description": "Russia strikes Ukraine with 265 drones overnight - Air defense's work reported  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-01T07:53:00.579832+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "457acec9f866"
-    },
-    {
-      "title": "NATO-Russia tensions spiking after drone incident in Romania - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1ctc05KbFlFWmZwMWFRbEp3SkRlb1BrcjVvS3djZ2ZwTlRNbjdNd251T25EWkNPNWxiRFo0RWFlMWgweUN6VkZnQ0EyeDNpX2FrcHhBYm1TRi1JUGUtekJuem5mM2xuZnhQQ1VFN3drUHdwb1EwQmpBX0FEX2xuS0p3?oc=5",
-      "source": "Washington Times",
-      "date": "2026-06-01T05:27:13+00:00",
-      "description": "NATO-Russia tensions spiking after drone incident in Romania  Washington Times",
-      "query": "drone incident",
-      "detected_at": "2026-06-01T05:41:48.696872+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8dc00166b936"
     }
   ],
-  "last_updated": "2026-06-29T15:12:40.153331+00:00",
+  "last_updated": "2026-06-29T17:04:46.637377+00:00",
   "total_count": 1000
 }
