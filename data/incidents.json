@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "JetBlue flight reports drone strike during approach to New York airport: FAA - WFIN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWo1YUpGSEFxNDU2d3R6UnlQVjdiUlhSM05RV3g0VEo2ZXF2NkxHUzVHc2Y2UW0ySzFsby1UWWRadFBDUDZiNmRwUVIwTDg4Rk9haUxOX2M3SlE0bW0yX0x0TFNvS3NSbEpES0lrb2FsY2d5UXNiaWJzZWNDa0lmT1lnM0VGM3VXclFXNnZwUjcwcmsxX3R4c3l4YXptTXdkbW1rZ3dXNzNyWF9NMms1NA?oc=5",
+      "source": "WFIN",
+      "date": "2026-06-29T18:32:44+00:00",
+      "description": "JetBlue flight reports drone strike during approach to New York airport: FAA  WFIN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T23:24:32.452907+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "115dbebe8a6a"
+    },
+    {
+      "title": "Wanted Man Arrested With Help Of Drone Technology - Chattanoogan.com Breaking News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU01TbUh1OC1LRFRrWkRmZEJJOTRoMVM1ajRkSXE2SnNOanVGVjkzcHdNejg5ZjJ5ZUVBZnhqZ3Fsc2ZhTkRDT2RlR2RTbmZ4UHByMGdNa2dTcEY1U09SSlBTWEo2aTkzWnJ6LU9rc3VYemVTaHVvXzhMMm53X2Y2QU1nay10YnhLN3B5dm5zVXZCeGM?oc=5",
+      "source": "Chattanoogan.com Breaking News",
+      "date": "2026-06-29T22:33:31+00:00",
+      "description": "Wanted Man Arrested With Help Of Drone Technology  Chattanoogan.com Breaking News",
+      "query": "drone arrest",
+      "detected_at": "2026-06-29T23:24:27.585468+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "7efeb2fdd723"
+    },
+    {
+      "title": "Drone collision, near-miss at Newark, JFK airports under investigation - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnhKaWJWcFBYUlhGRG9KU0JuM3A4cjB5cG5oV1U3MUF6OXhXdGlNUmxjZUl3WWVHZnVQU3BxaFlvaDdybWlYNFctQXVuTS1Ua3J0bVprbFlNRWFsV1RXblh2SVRvTThLQ0NTMVFpaHBoYTNEQTJoS3plbmVrNl9RQl8xSTk4QXhLaDE4bEliajRZVEVpdkZOLVdoVUlIeDFZbzE5d1FHMWRzZnRTYW8ySDl2U05mS3U0YWR5QlF0V3Y5cmlnYldJTHBQQQ?oc=5",
+      "source": "Bergen Record",
+      "date": "2026-06-29T20:36:00+00:00",
+      "description": "Drone collision, near-miss at Newark, JFK airports under investigation  Bergen Record",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T23:24:26.763330+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c9c9d604fcfa"
+    },
+    {
       "title": "Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5",
       "source": "Tech Times",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "eb65bc12bf4c"
-    },
-    {
-      "title": "European Union reaches deal to fast-track illegal migrant returns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTlNekRNZ21Tc3JIeEFKRm5vNHFnZkJBUmVCQmVQUGs0RTRBMWNtcl9UUFdmT05nZnlJUVk0cXpteTJOYVhHYVl2YkxpTm5XdVlNVVBiUy1pS2poUGtYZjB3aUZDWEtKelY3RkFHUDUyZU9sQlRMUlRmWTVHZDBadWc3dHY5Nm8wMVYyWVdkY1RKSzBZZ00wdmJUVUFET3pGdzVsR2NRMA?oc=5",
-      "source": "Reuters",
-      "date": "2026-06-01T19:50:09+00:00",
-      "description": "European Union reaches deal to fast-track illegal migrant returns  Reuters",
-      "query": "drone illegal",
-      "detected_at": "2026-06-01T20:28:59.145267+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "64b027268507"
-    },
-    {
-      "title": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDJMSTB1V0xQRzdnbnJzT2pUVkEyZXduZjl6RVNkb1pJOVkyajlPY1VXZTV3UlFEV2tjQlhlQjJKcUFOQXBBU0REZFF1aEpQSmhSQmtnTFVtMUVZcW15eFdkeFN5ZzFWX2ppdEg3VWNNQnlfWjBxVEpmaGJOVjhhSGVBNVdwNlkyRnEyc2RpNEI5blk4T19HS2RPZUExMXJOMjRvVFhydw?oc=5",
-      "source": "AP News",
-      "date": "2026-06-01T19:42:00+00:00",
-      "description": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy  AP News",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T20:28:56.322064+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e613863f0e49"
-    },
-    {
-      "title": "'I'll be back:' El Paso man allegedly stalking ex told deputies - El Paso Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOWRLN3FzdUFQaDVHNGNfQy0tSnlRdGZHOEtHTktqX0FPLUFhTWR2QTZNNi05VFJYRXhIb0MwRVRKR1BYQm5CQTVVdFlHcDhZMDBKc1ZYSlFaeWg1R1lRbUdzR0Vjb2R2VEE4VGFCdlNxM1V6OWJrbXNNcnVQek5xWF9FN2lpSHJPLTRpV3dTeTUxX1hoVW0tOTFqTjdCOTl5WnBUREZiM1kzWlVtbFlxU1BCdlN5RUVNUmR5d2pLb281aS1zeWxUR0ZlZ0NuUDJLdjBlaV9HLWpvOGlpUlpmTTlPZjQ2eTZ6dGxBSTFLTm55eFdTcjJN?oc=5",
-      "source": "El Paso Times",
-      "date": "2026-06-01T18:47:00+00:00",
-      "description": "'I'll be back:' El Paso man allegedly stalking ex told deputies  El Paso Times",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T20:28:56.322064+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "58bd6e835756"
     }
   ],
-  "last_updated": "2026-06-29T22:25:49.669258+00:00",
+  "last_updated": "2026-06-29T23:24:32.979829+00:00",
   "total_count": 1000
 }
