@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, the drone landscape has been predominantly shaped by incidents involving smuggling, security breaches, and unauthorized drone interactions near sensitive venues. Notably, Israel police have made arrests tied to significant drug smuggling operations involving cross-border drone activity near the Egyptian border. Concurrently, multiple drone close encounters at Newark Airport have raised alarm bells, with reports of near-collisions involving United Airlines flights. The interception of unauthorized drones near FIFA events in Toronto signifies a heightened response to security threats during large gatherings. Additionally, there have been reports of security breaches where hackers compromised drone-related sites, exacerbating concerns regarding drone safety and oversight. Regulatory discussions around drone operations ahead of holidays hint at tightening control measures to mitigate risks associated with aerial disruptions.",
+  "totals": {
+    "smuggling": 4,
+    "airport": 5,
+    "security": 2,
+    "other": 16,
+    "drone arrest": 2,
+    "drone smuggling": 2,
+    "drone incident": 8,
+    "drone illegal": 3,
+    "drone terrorism": 5,
+    "unauthorized drone": 8,
+    "drone prison": 2,
+    "total_incidents": 35,
+    "by_category": {
+      "airport": 4,
+      "other": 23,
+      "security": 2,
+      "smuggling": 5,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 2,
+      "drone illegal": 2,
+      "drone incident": 7,
+      "drone prison": 2,
+      "drone security breach": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 9,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drones at Airports",
+      "rationale": "Multiple incidents highlight risks of drone interference at airports, causing potential flight disruptions.",
+      "incident_ids": [
+        "17010d15a496",
+        "d619e908e593",
+        "9d55c160e105",
+        "8b6bfe255c42",
+        "49a2c894812d"
+      ]
+    },
+    {
+      "topic": "Smuggling Operations",
+      "rationale": "A series of drone-related smuggling incidents, particularly related to drugs and other contraband, indicates a worrying trend near borders.",
+      "incident_ids": [
+        "a7d668a3afd5",
+        "bdd9ea05c57e",
+        "c19361cd0950",
+        "c095d46fe287"
+      ]
+    },
+    {
+      "topic": "Drone Security Breaches",
+      "rationale": "Incidents of hacking and compromised drone systems emphasize the need for enhanced cybersecurity measures.",
+      "incident_ids": [
+        "8828a13f0353",
+        "4d8ac058bf25"
+      ]
+    },
+    {
+      "topic": "Regulatory Responses",
+      "rationale": "Discussion surrounding drone regulations for upcoming holidays reflects the urgency of managing drone activities in populated areas.",
+      "incident_ids": [
+        "4d8ac058bf25",
+        "812f59ee936b"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a7d668a3afd5",
+      "headline": "Israel Police arrest two for cross-border smuggling",
+      "one_sentence": "Two individuals were arrested by Israel Police for their involvement in a major drug smuggling operation near the Egyptian border.",
+      "risk_tags": [
+        "smuggling",
+        "cross-border"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "17010d15a496",
+      "headline": "United Airlines Flight UA1513 Drone Incident",
+      "one_sentence": "United Airlines Flight UA1513 experienced a near-miss with a rogue drone while approaching Newark Airport.",
+      "risk_tags": [
+        "airport",
+        "unauthorized"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b4d1d08fbf01",
+      "headline": "Feds nab biggest prison drone-smuggling operation",
+      "one_sentence": "Authorities disrupted a significant drone-smuggling operation aimed at delivering contraband to prisons.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "af085268b9d6",
+      "headline": "20th drone intercepted near FIFA Fan Festival",
+      "one_sentence": "Police intercepted a rogue drone near the FIFA Fan Festival, marking the 20th such incident during the event.",
+      "risk_tags": [
+        "unauthorized",
+        "event security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "8828a13f0353",
+      "headline": "Hackers claim drone tampering",
+      "one_sentence": "Following a breach, hackers have threatened that tampered drones may explode, raising serious security concerns.",
+      "risk_tags": [
+        "security",
+        "cyber"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2026-06-29",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
