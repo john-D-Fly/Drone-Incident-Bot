@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "JetBlue flight reports drone strike during approach to New York airport: FAA - wrganews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS19tWnlTWmUtSDctYWNjdVlzd1dQb1ZJNDRmcGtoMkR1WnhfRDJLSkpQWUZEVFVSZ09vTjdxa19GSDJpd1hfZ1k5YXBfazhQXzctdEVrTlNSRlgwUnhBdGVRM2Uzd2kxM3hKVjVlYkRNejlKbUM0RVlfT3VUMWlFck5wTWR1UFdQQUVZUFNIdU9JYmpFbi1PMUpBeDNUcXdyekNlSm9WczM1cnVjUTVLVmhR?oc=5",
+      "source": "wrganews.com",
+      "date": "2026-06-29T20:04:25+00:00",
+      "description": "JetBlue flight reports drone strike during approach to New York airport: FAA  wrganews.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T20:39:24.915639+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "466ace621054"
+    },
+    {
+      "title": "FAA investigating JetBlue pilot complaint about drone collision - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXpFdmlMTjczZ3JMazZ0OXptTVRBRngxLVFiTk53bEdoYWRPRjFtUHdmeEc3VjhoU25HMnc2OXQ2elg5ZmRKaHpBU3NQUmZxc3d0dkt4THh3M09ZMjNIanV4a2hPZ1BxakN3eTBxWmcyUWk5VndscnNUb0ZtMkE4TmJLeVVPNTk3UWxaRk5ZV1ExanhmcnJHdDFn?oc=5",
+      "source": "Washington Examiner",
+      "date": "2026-06-29T19:43:00+00:00",
+      "description": "FAA investigating JetBlue pilot complaint about drone collision  Washington Examiner",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T20:39:24.915639+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "666f3bd6bd30"
+    },
+    {
+      "title": "JetBlue flight reports striking drone while landing at JFK - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmM5cEFYeWNxb0RtQmIyMXcwTjQ2ZVdSWHdpZF9iYXdSQThyY3pQOTc5TTJNZ2tzRnNvT1drOUt1YmdlVzE0cXNQRU5fR3FsUmhYWGttZ29jSWFTZ0FVZE9SOEoycmtmQ2d3S09idE1CX3Y4cThZZ25WUDg3eEo0UGxKN0IxU0tiQ0RaWWJWdnQwNkXSAZgBQVVfeXFMTkFPRG1NLXNZM2NocHdrMzMydk5BRzhHM1JPbEZiWW04aHlSU2Y3OEY1dUJsUFhfeHNVdTRCMDZwQkhvR3NNemUzMllEWlE2UUdtaUVrSWZtR25aaUhKX1hES0hvOXFTNGVRNGg3aFFvdG1RUWE1emVfd3FYb2pDUXdOU1FlZjV5eVB1aVBOUEFvVzg3UThYUUo?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-06-29T16:43:44+00:00",
+      "description": "JetBlue flight reports striking drone while landing at JFK  ABC News - Breaking News, Latest News and Videos",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T20:39:24.915639+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ea79aa2cf270"
+    },
+    {
+      "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVFUTXBpYy1OMi0wMm1XamlMZHBKU3BCQ2NPRWhyT3JNLTlXOVprSjVoOVBuRlhBT0lWdzlNZXlpOTRpY0lpTnhZZ2MtU0RUSWhuT3oxdjRzWERzb09GMnh2amxuTVJmTXZPVWJKV3lBU29rU1o5U082T1BseGc3MlJ0VHpSQjhMNFEwS3hHemEwRE1mQ3BKSjQtdndnUTlONlhvWi10WElmb19vYURF?oc=5",
+      "source": "ABC7 Bay Area",
+      "date": "2026-06-29T17:54:12+00:00",
+      "description": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport  ABC7 Bay Area",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T20:39:24.915639+00:00",
+      "location": "at JFK Airport",
+      "category": "airport",
+      "id": "4b0843bc102c"
+    },
+    {
+      "title": "JetBlue plane collides with drone in New York City - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzRrTXI4TklzNldjNERzRk5laEF2d0JLN2RQaFZvQ214eUNEODVsNURtSktTQVFuRENpLVV0eXhrVlNrekJfY1pXYVplOGhNN2Q1OEJfX2NzZVBPM09JY3JDRF9uUXJMSE1CT05Lb1M4MFVjUWdhSXBPWXVILU5ua0hsd0Z4Z0JQbnRTSmVmZw?oc=5",
+      "source": "NBC News",
+      "date": "2026-06-29T18:22:23+00:00",
+      "description": "JetBlue plane collides with drone in New York City  NBC News",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T20:39:20.356812+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "08fabf73979a"
+    },
+    {
+      "title": "JetBlue pilot reports striking a drone while landing at JFK airport - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53Tzk5YVU2aWlMQm9UQkRHR2NxamtBQmZSQ0dtU0JsYjlUZUt4UTlwYi1udHozSHBpTlZ2enJ6TWZpWGttSEU3UC1XOG9OOWRHNG14eWRwdUtRZw?oc=5",
+      "source": "BBC",
+      "date": "2026-06-29T18:36:18+00:00",
+      "description": "JetBlue pilot reports striking a drone while landing at JFK airport  BBC",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T20:39:20.356812+00:00",
+      "location": "at JFK airport",
+      "category": "airport",
+      "id": "fa6222654a61"
+    },
+    {
       "title": "JetBlue plane reports drone strike during final approach to JFK - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VNGk2M3NhOFZPLTVMX1hCbC1TTC1uQ0I4QjZaT1drbEl0QVZBeFAyNUVKeVJqY2FTVFprOHdWYmE5dGVibUpVcHpzcnJBYWxYLV9OY0tvM2poaWUteDRr?oc=5",
       "source": "The Jerusalem Post",
@@ -11927,80 +11999,8 @@
       "location": "near Miami World Cup venues could bring",
       "category": "smuggling",
       "id": "e85b217b5d8d"
-    },
-    {
-      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - The Cumberland Times-News",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYkJaOWZqODM0TEhpdVNPNGctZUd6MU1LV0d4VVBleW9DYlJjWTJHZ2VnTl92N28tZ1MzcUF6elJqUWZIRVQ1ckJkR1VoR2V2NGY4YU1TQ3lPWktwWDM4NG5xOGp4Zm1OQ2dVdlpXejFOZFlPTXZKOVd1Zjh4cFphVVdBX0ZnSDFJaTJSeExjT056WWJXcDY3OTYtTjVrMENjSElOOG5zd3NFc1FGaWtBdTFvQ01tYlczc25yQkZvZTZJX0ZXdzRDM0F6S1ZneGJTN1pOa1dfanZrblFUOUdPYXZ3dUVqeVdzR1RPV0N5QjliRWhidm02S21raHVhRUhB?oc=5",
-      "source": "The Cumberland Times-News",
-      "date": "2026-06-01T14:00:17+00:00",
-      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  The Cumberland Times-News",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T18:04:51.918217+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "860e1ec06b56"
-    },
-    {
-      "title": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy - Ottumwa Courier",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV3FTdkRkX3VmdEh1NUd0ZXgxNE0zYmVZdzExQ1RpZ1psVV9JY0FNdjdXQTRXc2lFTHhpRW1yYzhsamlYbldtS1o0d0hlZFVDQXRVUFNCUmdXbnF3Q0l2Um51WkZUbXRYa2J3Y0NsRThOWjhrWEJLWVAtX3NlUXBsdWpZeGZnRVRuVHd4M0J1aTFfZ040RG9MQmJyMWllRkwtbzY0YzVSMWlYZFlTVDB4ZDNZejJhUTFydFNoNDFhWUxFRHhjYUpZSHVlZGp0bkZTaWpiX3Zqcm9wX2JpaktoanVuSXQ5MXN6bVkyMEtKcVpwSnhLY0VsbXVSTVN2b0tySTZUYVV2SWk2a0pSelVndkVReUlxMUU?oc=5",
-      "source": "Ottumwa Courier",
-      "date": "2026-06-01T15:51:48+00:00",
-      "description": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy  Ottumwa Courier",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T18:04:51.918217+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "1b6911485dcd"
-    },
-    {
-      "title": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy - Newsday",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTndEUkNlT3FiUjRrR0pVWlRaeU9yYnBlU0dhbXBzTnczLWZlWFB2ajBzWmZnelE5U2Z2Q0xyS1l5XzQ5WXNxZnl0SFZKcVpDVFoycHRMRnlIMjRMSHBRM0NXeWphSkliUXVBaGJ5c0M1eDdEdHd6VkR4RlhLTG5MYmlRMXctRU9MQldBRkRVRnc?oc=5",
-      "source": "Newsday",
-      "date": "2026-06-01T16:44:19+00:00",
-      "description": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy  Newsday",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T18:04:51.918217+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "88af3431e1c1"
-    },
-    {
-      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVZlNjE1ZUZaQ0p3TGNwNmo1NDFKU2stY1JzamlUeUJtWGRFRU54UUlpZlNRcFJ3dDh1cWwxbXcxa0lGSUJaTml5WmFwVWNEQzlYR1pEblFWRVpzUllxNVp5MGpidnJQWm04OEpKamFvMUhlSlBIVFFLNVZNSDJpVnpFRDRlNVFRWlRxcmM1T1lDQktCeS1UV0UtX0UwMVJLeEtOQ0s3UFhDeFNwYzlxZDJUbV9nVXJueW5EVmpMUElsQQ?oc=5",
-      "source": "WTOP",
-      "date": "2026-06-01T14:34:42+00:00",
-      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  WTOP",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T18:04:51.918217+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "61b052999bf1"
-    },
-    {
-      "title": "Motorola Solutions to acquire D-Fend Solutions for $1.5B - grafa.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFVzeUJuZE5vMkpIaDcwdEVQUEVUSUwtSm1zYk9zdm1lZmVtV3Z3QWtIUTRzZHdMVFJ4elp5N2FFbWlOOGgzQ25IMnd0ZWlXV3pGNFZpbHRHdkVJR2tqX0Y1dy1JRTZsVlZPUUpqODFJRXpxRGd2dVpqT3VkczE5a3hzQkxuR1hyeGFmLWNMNUFSZ0tVYkdz?oc=5",
-      "source": "grafa.com",
-      "date": "2026-06-01T14:30:58+00:00",
-      "description": "Motorola Solutions to acquire D-Fend Solutions for $1.5B  grafa.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-01T15:06:35.842056+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a812915ae1f1"
-    },
-    {
-      "title": "Romania blames Russia for drone strike as NATO vows defence - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmd4TU45OWhMM28wN1dHMHhmVVBScnRUNEdCdk1CQmxrTHZlUjYwQVVvdnk3bnBoaEh3OElpTU43d2Rya1J6OS1oTmpxa0RuaTJwSmR6bTdBUjFvR0dVWlVZZXlNUmJmTzQ1R3VReVhxNXB3TnkxZElOQ1pSRWpsTWVld256M21WRk1KYTJJR3A5SFdhUEFNZG9Qc1l3cHZSbFhnRUdjUWFET2tTWjhLNlJkR2swekg1NmlsbDN0NHY2eFZxWlpKMThQZVB6LUlBV19qZTRIM0ZXNTNESW5LOS1jdzVIRzdOa2Fmd1RWbDVycmgx?oc=5",
-      "source": "MSN",
-      "date": "2026-05-30T16:01:35+00:00",
-      "description": "Romania blames Russia for drone strike as NATO vows defence  MSN",
-      "query": "drone security breach",
-      "detected_at": "2026-06-01T15:06:34.596870+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2058c15b8bc1"
     }
   ],
-  "last_updated": "2026-06-29T19:35:30.747252+00:00",
+  "last_updated": "2026-06-29T20:39:25.364652+00:00",
   "total_count": 1000
 }
