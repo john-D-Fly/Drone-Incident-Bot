@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "JetBlue plane reports drone strike during final approach to JFK - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VNGk2M3NhOFZPLTVMX1hCbC1TTC1uQ0I4QjZaT1drbEl0QVZBeFAyNUVKeVJqY2FTVFprOHdWYmE5dGVibUpVcHpzcnJBYWxYLV9OY0tvM2poaWUteDRr?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-06-29T18:56:34+00:00",
+      "description": "JetBlue plane reports drone strike during final approach to JFK  The Jerusalem Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T19:35:30.262618+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9107aa2b6242"
+    },
+    {
+      "title": "JetBlue flight reports striking drone while landing at JFK - southernillinoisnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGFORlVuQjRUUnFkRFBBWFNNcUUzaW5qQXVkbVVGM2lTVVdvYjZZd1lGZ28xLThJMXpVWWlrVjRSaktoZ2FnNFNDdHdlV1MtTHBoUWJlZWszaEoyMXYyV3V0UUpYTk5Oa2VmTjVTc084R3hBZERkcXZPMDYwYlVWWjJIUFhHVmJBVE5ZWjV6U0IwQVgtTjI4Ylc3aTAxM0tfSnpTag?oc=5",
+      "source": "southernillinoisnow.com",
+      "date": "2026-06-29T19:16:03+00:00",
+      "description": "JetBlue flight reports striking drone while landing at JFK  southernillinoisnow.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T19:35:30.262618+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0d39fe2835ab"
+    },
+    {
+      "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport in NYC - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnM3NXJXUl80eUdfbi1zYS1Ca2g3YjlZcDdMTnB3Umw4OW9IYUpXZHcwcWNTbnM0VXFrRUNmSURGMHdUMUxRRTlnaGl4RFJtdWNaRnJFTExVVUVyUFdBNWo1dkZ6SGs4Q0xjcGF4NEpieUtTTzJpRUM1R2hqYk1kc3BsZzlGRVNYRVhNYzhJMm5hcHBnMnpaazBoT3NGMDZvUlYxTk1ZUTNNbjl3T28zatIBtgFBVV95cUxPTDJ1d0VuWFZoUVVnWkQyQ0ZCVl9fVmVPRktPa0ZEWC1zak1hM2V4LTVrUE5TWWQwbDNCaWloV3lKVWJXNUFrY1V3RFhYT3ZYS2kxUnVXMXNUSGJFZlg5Uy1TcjVWa0Vfa09XWkgwc0tRUGF1Um5hX1ZKYlF5WkVabjZwMk1DQndYenp2Zm5OTW82UGRTaGY4SmREaDFyYjRjdlg1c2d5bHlrQ3JNN3ZqTU50ZEk0QQ?oc=5",
+      "source": "ABC7 New York",
+      "date": "2026-06-29T17:22:31+00:00",
+      "description": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport in NYC  ABC7 New York",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T19:35:30.262618+00:00",
+      "location": "at JFK Airport",
+      "category": "airport",
+      "id": "788a30346008"
+    },
+    {
+      "title": "United Airlines Flight Has Near Miss with Drone While Landing at Newark Airport - People.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGdzYnBaenFXUHlsbUJFSDcxMHg0VVdpUVNPclBnY1BVQXFBSVV5X2ZCR1lMVU0ycTIzcmphc0NsTXI1QnRNd3NPSm1NTmtqRVRjTEpJQlZRWWN6eW1KeGd3YWt6QzdyTHBkVEV4NmMweWtqQ05sOFF0NHd2aEN1T3U5Q3YwYmdGZ3laTW9XRWZjRGRGWWFsd2YtVU1aTTV6UGJId1VkMWFaUkU?oc=5",
+      "source": "People.com",
+      "date": "2026-06-29T16:27:52+00:00",
+      "description": "United Airlines Flight Has Near Miss with Drone While Landing at Newark Airport  People.com",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T19:35:25.460790+00:00",
+      "location": "at Newark Airport",
+      "category": "airport",
+      "id": "3ea14140670a"
+    },
+    {
+      "title": "JetBlue flight collides with drone in New York - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzRrTXI4TklzNldjNERzRk5laEF2d0JLN2RQaFZvQ214eUNEODVsNURtSktTQVFuRENpLVV0eXhrVlNrekJfY1pXYVplOGhNN2Q1OEJfX2NzZVBPM09JY3JDRF9uUXJMSE1CT05Lb1M4MFVjUWdhSXBPWXVILU5ua0hsd0Z4Z0JQbnRTSmVmZw?oc=5",
+      "source": "NBC News",
+      "date": "2026-06-29T18:22:23+00:00",
+      "description": "JetBlue flight collides with drone in New York  NBC News",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T19:35:25.460790+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "04e8c7a52172"
+    },
+    {
       "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport - ABC7 Bay Area",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVFUTXBpYy1OMi0wMm1XamlMZHBKU3BCQ2NPRWhyT3JNLTlXOVprSjVoOVBuRlhBT0lWdzlNZXlpOTRpY0lpTnhZZ2MtU0RUSWhuT3oxdjRzWERzb09GMnh2amxuTVJmTXZPVWJKV3lBU29rU1o5U082T1BseGc3MlJ0VHpSQjhMNFEwS3hHemEwRE1mQ3BKSjQtdndnUTlONlhvWi10WElmb19vYURF?oc=5",
       "source": "ABC7 Bay Area",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2058c15b8bc1"
-    },
-    {
-      "title": "Munich Airport Shut Down By Drones, Again - DroneXL.co",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0dkVudzFWOGtLaVVzNlVBNHUxa3J5OFRxS0lBaU05VFRreGVBNDRpS1JueVZQdjJCcDdCNmNfNUdHckF2YzB1MWRDZDJEaEVGRjFKMVZSeUpHQWRqdlV4QUFlbVRyVmxxaUE?oc=5",
-      "source": "DroneXL.co",
-      "date": "2026-06-01T12:12:44+00:00",
-      "description": "Munich Airport Shut Down By Drones, Again  DroneXL.co",
-      "query": "drone illegal",
-      "detected_at": "2026-06-01T15:06:34.004629+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "800d7c95afd5"
-    },
-    {
-      "title": "Drone helps capture man suspected of shooting of 2 Virginia sheriff's deputies, killing 1 - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlZ2MFNGRkNKZktLdFJzRjNOendOSlFoY3BPMTVlcS0xeDFzY1JiemhaNzBGVVpOcmk4SFlXNW43cElabWR6VXh2dHJxemtlM2IyLUlZeTdSVHZ3QnlEX0lmUjV6dzdOaGJ1ZlJDV3E5TlpNNXRSX28tWnFORmxqZnFSSGFpcWVOSVVxY1pjYks4MUx3VVHSAZsBQVVfeXFMTWxiTXlqXzJkd2lQUFAzRC1pZ19tY2YxdFBuUHFzRXlHREpTUDZ1cm1RQTBJVTNqUXlEZ2FNYVBfMk16Z21mWUo2am4ySmQxUVNjdkpGU1ljMDFQeWFSa09MZjgyZW1JSFRaZFNxZG1QQ1JFVTZqeHBYN1JQN2g0U0hLSk1UNzVVY09JOGxkTFJnaklkYTJkeGN0bGs?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-06-01T09:58:07+00:00",
-      "description": "Drone helps capture man suspected of shooting of 2 Virginia sheriff's deputies, killing 1  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T15:06:30.758420+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "762cab23c851"
-    },
-    {
-      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDJMSTB1V0xQRzdnbnJzT2pUVkEyZXduZjl6RVNkb1pJOVkyajlPY1VXZTV3UlFEV2tjQlhlQjJKcUFOQXBBU0REZFF1aEpQSmhSQmtnTFVtMUVZcW15eFdkeFN5ZzFWX2ppdEg3VWNNQnlfWjBxVEpmaGJOVjhhSGVBNVdwNlkyRnEyc2RpNEI5blk4T19HS2RPZUExMXJOMjRvVFhydw?oc=5",
-      "source": "AP News",
-      "date": "2026-06-01T14:03:02+00:00",
-      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  AP News",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T15:06:30.758420+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "58f39a97b707"
-    },
-    {
-      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - Carolina Coast Online",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFp1aTNOMkhrdVJyMnFBTTh5YnZNMjY2R3pkaVFiRVBSQ3ZWMmltMUxYWU9qbkVhY3ZET1lqWkVuSlVXaFJxaDBvZHNjek1ZdlYwbzJEZXllOUpKTThOeWw0cVhXMVlGcVhqVHFJZDU5STdxbHNpSUJjNmxuSkgtSFB4UWZpZ0E3eEw0WXRleGhIYWxwbXZsQ2d3?oc=5",
-      "source": "Carolina Coast Online",
-      "date": "2026-06-01T14:17:00+00:00",
-      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  Carolina Coast Online",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T15:06:30.758420+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "6aa548c769b6"
-    },
-    {
-      "title": "One person killed, two dozen wounded in Russia drone strikes on Ukraine - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamthNzg0RThHX0ozYzlheHhlZ0cwZ3Z0cXg1YTNXTFYyeEFwc3pBQ3ZIVmp1M1VlVEV1VXc4UlB1Y0lFM1FCMDUySGVKNXptNzlUcld6dkpNbWdETHNlNS1lYmlWYnZRZHlNd1lDTllqVldYN092a1loZHlZVnBqU2dkOGVKeDYtZVRTN2ZRQ1JCeXNvTEhkVm9XOGFESGZ0d1RxZGRtU3RZOS04NEtfeXZ1UzBMbXRoTzA2RENhRUZLV2czY00wVEJvTUZMa2R3MzdwUUtSRU1CNzBETlHSAeMBQVVfeXFMUHRUTFNHLWNBNWpjTzU1RW54RXVjZE0zSEZoOXJlMlhZWUZqaU53Z3hEbmk4aFB0c0duUENNUTBXZWtKeEdZS21BZXltS09yYXNUUGJrTmRPaE9XZkExbGNPNEcwWXFEdHJ0SmtUQThtbUZDeHBOWFpCYlVoNTN5LU1CRU1sT3ZSYkpnQ0hzNG8yb0ZmU3JsamZlTGVZendiQjB4eVVEckluUWU4SmUtUzJCcHp4ZHp1UWlpd0FKLXZyRXJaaWExVnBoLVFpLV92NjM5S0d5YUtWaVE2Z3o5VVkxaHM?oc=5",
-      "source": "The Times of India",
-      "date": "2026-06-01T09:50:00+00:00",
-      "description": "One person killed, two dozen wounded in Russia drone strikes on Ukraine  The Times of India",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-01T12:02:36.960783+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8f39a8aadf58"
     }
   ],
-  "last_updated": "2026-06-29T18:44:59.599980+00:00",
+  "last_updated": "2026-06-29T19:35:30.747252+00:00",
   "total_count": 1000
 }
