@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVFUTXBpYy1OMi0wMm1XamlMZHBKU3BCQ2NPRWhyT3JNLTlXOVprSjVoOVBuRlhBT0lWdzlNZXlpOTRpY0lpTnhZZ2MtU0RUSWhuT3oxdjRzWERzb09GMnh2amxuTVJmTXZPVWJKV3lBU29rU1o5U082T1BseGc3MlJ0VHpSQjhMNFEwS3hHemEwRE1mQ3BKSjQtdndnUTlONlhvWi10WElmb19vYURF?oc=5",
+      "source": "ABC7 Bay Area",
+      "date": "2026-06-29T17:48:45+00:00",
+      "description": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport  ABC7 Bay Area",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-29T18:44:59.007702+00:00",
+      "location": "at JFK Airport",
+      "category": "airport",
+      "id": "88aa43c2e61b"
+    },
+    {
+      "title": "Hackers breached Alabuga drone site and claim tampered drones will explode - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tQXFyNWRnREZ4b0dRSnA5XzdDS0ZuTWI4WHB0eG9WLWEzbXNqU0FJMFU0ME15b0dVanM0V25fSXU2WG9tUmtZVjB5SVFrZGdLU1pROTVmMHlrRXZXMDRic0o0TVM5RWltb3BLdy1nTQ?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-06-29T05:24:50+00:00",
+      "description": "Hackers breached Alabuga drone site and claim tampered drones will explode  Межа. Новини України.",
+      "query": "drone security breach",
+      "detected_at": "2026-06-29T18:44:57.720698+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "077e87d567e6"
+    },
+    {
+      "title": "JetBlue plane hits drone at 3,000 feet before touching down at JFK -- just days after scare at Newark - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVlfcVNjaXhOV01xUGRxc0tJTEw5MHNDSUEzVWhOQ0tia3VnaUtiQmNwX1RTQVQxR0lVdkprUzBDS2JnQlo5X1NGX1daZHZHWW5xV2hRSkhfRkpscVlRLW1acnh4bXIwQ1kzbXpCbEFHZXJDQUVJdlhtSXdGY3NCYUtpTXVYRXFUTWc3M0dKVXpIOE5QaWxubktyZDZzX0RhRGh0bnAwdnJkcE1yQnRiQU5ONEFGVjZqZzRPWjQxVHpibnh5blhzTkk4WkhGUVp4T2c?oc=5",
+      "source": "New York Post",
+      "date": "2026-06-29T18:06:49+00:00",
+      "description": "JetBlue plane hits drone at 3,000 feet before touching down at JFK -- just days after scare at Newark  New York Post",
+      "query": "drone incident",
+      "detected_at": "2026-06-29T18:44:53.452107+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "970539931447"
+    },
+    {
       "title": "JetBlue flight hits drone while landing at JFK: Officials - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmM5cEFYeWNxb0RtQmIyMXcwTjQ2ZVdSWHdpZF9iYXdSQThyY3pQOTc5TTJNZ2tzRnNvT1drOUt1YmdlVzE0cXNQRU5fR3FsUmhYWGttZ29jSWFTZ0FVZE9SOEoycmtmQ2d3S09idE1CX3Y4cThZZ25WUDg3eEo0UGxKN0IxU0tiQ0RaWWJWdnQwNkXSAZgBQVVfeXFMTkFPRG1NLXNZM2NocHdrMzMydk5BRzhHM1JPbEZiWW04aHlSU2Y3OEY1dUJsUFhfeHNVdTRCMDZwQkhvR3NNemUzMllEWlE2UUdtaUVrSWZtR25aaUhKX1hES0hvOXFTNGVRNGg3aFFvdG1RUWE1emVfd3FYb2pDUXdOU1FlZjV5eVB1aVBOUEFvVzg3UThYUUo?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "8f39a8aadf58"
-    },
-    {
-      "title": "Man shoots video of illegal drone harassing grizzly and cubs In Yellowstone - Fairfield Sun Times",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRG1HOWlJQTVzdWEtcjlDcGpLY3pEb1lZTnRpYmxFUEJqOFJuLWMtM0Y4bFdtM2t1NG02NmRPbVp2QlZZMFFxWjlLWVdEMlNQbDAzMWhNOXV5RDFuUmpmTEdubjBoUmstckJ1Vm52M3RDMnJGMDVxQUJXSzlJeGxPNTdtNFliSEhaUXRBTE00UnJwQmp0X2VSRjIzRWQ2eEFXZTI1SnhPYk15cC1NeFRUWGNRaWtqZEp5YTRVNlh2Tms2TG50X0Z1X1B6SkN2NFA0TTlCYklrMGw2cHcwNjkteG5mVE1IZ3l4SWtJQnBQQzJKWkZ1eFlUdmRRN0VpUm8?oc=5",
-      "source": "Fairfield Sun Times",
-      "date": "2026-06-01T11:00:00+00:00",
-      "description": "Man shoots video of illegal drone harassing grizzly and cubs In Yellowstone  Fairfield Sun Times",
-      "query": "drone illegal",
-      "detected_at": "2026-06-01T12:02:35.795640+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cdf8ecff34e4"
-    },
-    {
-      "title": "Man shoots video of illegal drone harassing grizzly and cubs In Yellowstone - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQkRPeEQ5SnJVemRrZ050R0JIYUlDVFgyUW96bURoVGdFOWdOM0dJSXlkelZPX3FNY3FRYUM0ZzgyOEk0ZDA4eVBiMXp5NUk5dGNvcUFiSmk4bkxPSmZGUDgtSUhGWmgyQWNIa2o1bzZUV0JYbmVlaENBbHh4cUNZbWt6ZjZhcXA1bkx1bGdKM0ticVlhRU9WMllXLURJSVA0ckR0MDd2aW1IMno4VlhtUEJ6RzJvSTQ3QjUyN3d1WVljNEtrWVVtRlhPOUtMY01mYnBXRTBlSDZlb084bkxaaUJWMlJPU3A2dWNrbVgxNjBUMXNEMVpRNGc5SFE?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "date": "2026-06-01T11:00:00+00:00",
-      "description": "Man shoots video of illegal drone harassing grizzly and cubs In Yellowstone  Bozeman Daily Chronicle",
-      "query": "drone illegal",
-      "detected_at": "2026-06-01T12:02:35.795640+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f86484514ef4"
-    },
-    {
-      "title": "Kuwait slams Iran's 'heinous' drone attacks - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjgtUjR0V256c0diV3lWakVwS043dGYzNFJKTnZJeTk3dXYxQXJkQjZ6ZlFKQ0EzN1gxTHRjU2lBN1poZGxXTlBUQ2E1RldXMWllX2pQeUZoczFoazFlM095UDVPYTZ0aHIwd1hMejJnRnRTMzc0cFNMSENNQ1h5RmRnSG1jakFXUGc3NFJhUWFPdw?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-06-01T08:21:00+00:00",
-      "description": "Kuwait slams Iran's 'heinous' drone attacks  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-01T09:55:01.854214+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ea2f447691ae"
     }
   ],
-  "last_updated": "2026-06-29T17:04:46.637377+00:00",
+  "last_updated": "2026-06-29T18:44:59.599980+00:00",
   "total_count": 1000
 }
