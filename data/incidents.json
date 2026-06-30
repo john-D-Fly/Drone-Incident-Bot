@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "JetBlue Plane Strikes Drone While Landing At JFK - Newsradio 95 WXTK",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1N4YmtQZ09wUmczanlJTF9CaFQzUFpid1pBdngyU2JxeGVUUVhhbGM0MEtuMHFWeEsxRnA5UE84QzZJZjdGSmtPTW8wQUxnaGxEMGF3U2RwdnotRW5vYkdZRW5OdGs4S0dLR2dZUG8ta3ZvSHNUNFZTZXFzQ3lxbUI3anRUSkhwSWdXdExsaUh0VGFGc19rWW1nTG9NMG9ONWZvODFNajN2V2F2WW93ZVdWSnc?oc=5",
+      "source": "Newsradio 95 WXTK",
+      "date": "2026-06-29T16:55:00+00:00",
+      "description": "JetBlue Plane Strikes Drone While Landing At JFK  Newsradio 95 WXTK",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T00:53:21.553444+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0e6ee315c4a4"
+    },
+    {
       "title": "JetBlue flight reports drone strike during approach to New York airport: FAA - WFIN",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWo1YUpGSEFxNDU2d3R6UnlQVjdiUlhSM05RV3g0VEo2ZXF2NkxHUzVHc2Y2UW0ySzFsby1UWWRadFBDUDZiNmRwUVIwTDg4Rk9haUxOX2M3SlE0bW0yX0x0TFNvS3NSbEpES0lrb2FsY2d5UXNiaWJzZWNDa0lmT1lnM0VGM3VXclFXNnZwUjcwcmsxX3R4c3l4YXptTXdkbW1rZ3dXNzNyWF9NMms1NA?oc=5",
       "source": "WFIN",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "837f4e9fe9d4"
-    },
-    {
-      "title": "Illegal drone harasses bear family in Yellowstone - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcXRnNnl5bi1yVFRQdjRURWNqdURmQ3BhQVVaNGN3TWRhNjFUTHliN1VjSmxXSHBHUVUwd1B2X2dlSDBUQ1gzRDJURjQxRS1zckdVaWxWZFVzcEJXQjJpMmlYSlBodXJGdXF4VnVWTGpMX3ZzdEkySDE1cWFRdTQ?oc=5",
-      "source": "AOL.com",
-      "date": "2026-05-31T11:58:00+00:00",
-      "description": "Illegal drone harasses bear family in Yellowstone  AOL.com",
-      "query": "drone illegal",
-      "detected_at": "2026-06-01T20:28:59.145267+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eb65bc12bf4c"
     }
   ],
-  "last_updated": "2026-06-29T23:24:32.979829+00:00",
+  "last_updated": "2026-06-30T00:53:22.060359+00:00",
   "total_count": 1000
 }
