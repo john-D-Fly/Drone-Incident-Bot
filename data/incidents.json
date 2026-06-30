@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Man accused of flying drone with package attached near Atmore prison - WKRG",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnRKRW1LeXB1QmN2VnhwU19YVVNYOElEdHhGWkl0cG9EWEl0SW1RR1B4Y0k0eDRjcVJveUE2bDBTZzdYdDJzWktMQl9WQ01nNjR4Szc3QlJjU212QW1qbkFDXy02d2N0RE10YU5rYWUzenNBazZtRGxfN3ZLb2U5cWs2bVB5T0xqZnI5Q0RfdELSAZYBQVVfeXFMTXlUNElMVWVkWXh6OGk4bGJFWmNJbnlOeFhTck9neUFyR29LUDlqM0NQU0hIbGFlSVctdVRxdUJ0bVhkY3dDQ2J1YThmdS1Dd05TN1VCbXk4allKZDNNa1hieDMwS3F1NVFKVm9ELWRsLWplaldrTnkwcHJuOTkzZy1TcW00Y0pfMTF4WGJSS0ljd2lGMk9R?oc=5",
+      "source": "WKRG",
+      "date": "2026-06-30T21:37:45+00:00",
+      "description": "Man accused of flying drone with package attached near Atmore prison  WKRG",
+      "query": "drone arrest",
+      "detected_at": "2026-06-30T22:29:19.118463+00:00",
+      "location": "near Atmore prison",
+      "category": "smuggling",
+      "id": "aa316bb9cdc7"
+    },
+    {
+      "title": "Romania and Ukraine established a direct communication line after the drone incident in Constanța - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNmFJbHphRXU3dzY1MWN2R281eTdfRkthWjUySVMxZ1ZrNC1weXdNMzh1a25DZHhNUDNDd3FMSUN0X3FrdF9wSXpPbk9iNTc3R2F3dWNuRl9ycXhrc2M3d3ktcmNhSVN3TEJKU0xDVTJUTk4xdndLcm92TWt4WG9RT2lhY1BHVDVFZ24zOGZOeFZEQ3RlTDRPV3RUTWhSSHFDTG5RUi02YS1tMXpaa3FMWGxGanF4Q3l4TjhGQ9IBuwFBVV95cUxQR0xmZlNSamVxbmpITlZzaXpnOU1KdnR4TUxKODZYcVJfR1lZMVN4VVlRTzA3elVwLV9IWFJDckpFR1FZZ21TaVp4TEtQbS12NzhHa1RnY2dCZC1jVXR6b1dSNFdBVEJUWGhqUVQ2RVZXWk8xMlRtR21EOTNRNDVxUWhYRGY0dGdVWjNOeXhPRjczT3l3RkVNRXNaQWRhQzRJWldBTDlfdUpGWk5BMFlWb3RzUi0zMGx6OVlj?oc=5",
+      "source": "Українські Національні Новини (УНН)",
+      "date": "2026-06-30T21:57:04+00:00",
+      "description": "Romania and Ukraine established a direct communication line after the drone incident in Constanța  Українські Національні Новини (УНН)",
+      "query": "drone incident",
+      "detected_at": "2026-06-30T22:29:18.572701+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "77267adf2682"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-06-30T16:30:36+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-06-30T22:29:18.572701+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "a0886156bb1c"
+    },
+    {
       "title": "Riverside police will again deploy drones to spot illegal July 4th fireworks - pressenterprise.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXRiQ0VHNGR6SUtxN0V3TlNmRGJ3NGNJWmlqRG1SemxJNzFRVm9DOWowWkhXSW9QOFd4bF9Ja3NVMUFXY0VDVWVJTVNUVnZSSzZUWGtfcmJveGdYOWNDQ0JGZUxwX0dacVJ4ZDdtNmQ3SjZvWUFyaXBSZnEzcmFOeG1rNEZjeGd5cmNOVmlWRF8yV3dLRVFsNW9yMFo1bU1GTVVwa2dBTlotRFNYYVlPNlNjeFVkSmtnazlHQQ?oc=5",
       "source": "pressenterprise.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "feb83e924c07"
-    },
-    {
-      "title": "Wildlife game camera, drone used to arrest man in fatal shooting of Virginia deputy - WTVR.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mODd0ci1WTGpGLW5KNHdDLWtIR2dzNlN6Z2JBenZsaUIwU3JrUjhNX2pPS1VtVDRkeFIzdDhSRGpPcy1GS25VWTNtV2l3WWstMWZKQ29Ra3RPQ1plZ0N4YlVPSllIVlQzTUxlWS1odUpwVldkTFBxckJ6NA?oc=5",
-      "source": "WTVR.com",
-      "date": "2026-06-01T22:21:35+00:00",
-      "description": "Wildlife game camera, drone used to arrest man in fatal shooting of Virginia deputy  WTVR.com",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T13:22:42.518613+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "8117bb15dd40"
-    },
-    {
-      "title": "UN reiterates warnings over 'potential spillover' of Ukraine war after drone incident in Romania - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc08zMlhvRlM2emtxaXNFZUdnVlRabEVLckRnUVpmd3hLVE9oeXJDTU5FY0pncWNWN01CSzlQZjQwZ1JRMkYwT3htS19zZ1BTN2pqNlJXQXZyamlkTGhSdmYzUHJzOHdub1NadmtqQk9VVVF0STNRZzdnOU9oYmRkZnNBV3AtaU9oM00yWFZfMkc5MDdVSmlaMjJtbW5Ec3pPUnk3clB2RXB1UG9fcFBaRUdmV1M5TmctdFFLMVVlRmpTMUJkY3JZbUJQZmhuQkh1Nm1Qd1Y3RTlaNVh5SS1z?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-06-01T23:51:51+00:00",
-      "description": "UN reiterates warnings over 'potential spillover' of Ukraine war after drone incident in Romania  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-06-02T13:22:41.743711+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9d55c57480a5"
-    },
-    {
-      "title": "Russian drone strikes locomotive in Ukraine's Kharkiv region: Injured reported - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHFtYlU5b3FSOVBrZVItU2puV0NyWGt1LXplSGZhYXdoYzNoMUNTQUlFaEhHRGZhZDVaQ1JVdkF5Y3B1UUZmc0ZFSWxSallYNUVzRW9XRnVrbVpBeTRHQnlqYno5cGdtSUduWVdXMGpvdjFkRDVIUUpiODJpZjB5TkV5bnlTaGIwU3hMSFRhOFpycGJGNWc?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2026-06-02T10:51:51+00:00",
-      "description": "Russian drone strikes locomotive in Ukraine's Kharkiv region: Injured reported  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-02T11:32:44.301275+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "57833fe55674"
     }
   ],
-  "last_updated": "2026-06-30T20:41:29.090318+00:00",
+  "last_updated": "2026-06-30T22:29:24.533809+00:00",
   "total_count": 1000
 }
