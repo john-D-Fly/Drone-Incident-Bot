@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "JetBlue flight hit drone while approaching JFK airport, FAA says - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTmlEVlZtZmNZY2NKc0V5M0J1SmpaTEstRG55SHhZTTVKaXJCYmRQc3hYYmtGcWNKZDUyWUE5bVpUUVExR1ZCaXVMQjlBRU5yNU0ycFhQcWRiTUdweEh0b3h5ZExUSEgyV0ZaQkJtNUF5TFE2c2tFYUY4TXc4N2F4VkYxOHIzOXNYd3lFcTdsVUJTRUhHUm1n?oc=5",
+      "source": "The Mighty 790 KFGO",
+      "date": "2026-06-29T23:20:14+00:00",
+      "description": "JetBlue flight hit drone while approaching JFK airport, FAA says  The Mighty 790 KFGO",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T01:45:06.550667+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d468f5a2c946"
+    },
+    {
+      "title": "Understanding drone laws as experts warn of growing misuse - IOL",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1dqalBIR21pQVpLTndDdjBrdkhKVllFQlVBWWRVd2FSTnhzb3J3VklUYnBRMEstOEQ1Y2NHaFIxY21fa1VidjRNRVBhWTFKQXpiY0ZBYktBMUdmOHZYMHNQRy1nSGtZeGFVZURqQ2ZZRTlyWTlZNWV5Y1M2UklucVJfcEMwN1RvczVkRTZQd2RhX2ozWlVxZDB5NmxDUWEzdXNhY0xPYnZCUQ?oc=5",
+      "source": "IOL",
+      "date": "2026-06-28T09:02:53+00:00",
+      "description": "Understanding drone laws as experts warn of growing misuse  IOL",
+      "query": "drone illegal",
+      "detected_at": "2026-06-30T01:45:04.683062+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ea36143997bf"
+    },
+    {
+      "title": "Drone carrying illegal drugs crashes in Sheikhupura: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kbXVoRVNlRnRUZVUxZWJqcWw0Qm93cDdsb1g3UXhKY0lmOTl0RncxTUFBZHlXS0FhVHB6UlZnVEN0dEdpeUM3NA?oc=5",
+      "source": "Dawn",
+      "date": "2026-06-28T20:11:55+00:00",
+      "description": "Drone carrying illegal drugs crashes in Sheikhupura: police  Dawn",
+      "query": "drone illegal",
+      "detected_at": "2026-06-30T01:45:04.683062+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "6c0692e2fc35"
+    },
+    {
+      "title": "Drone carrying illegal drugs being smuggled into India crashes in Pakistan - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFNwWF9mcmhHUkI0LWpwbHFEaHNieUNXWDFEYm1WLXQwQ2ZVTm1vcTc1UEJMX1Y0bW1WUks1dXBMUFFtalctSFpNS1lZOURLekwtaEpFT1RFa1VzNVZoYWFHNXNrTmYwd0NncnVnU0ZjZkpBa0twWVNvS3RremIySTdIaDg5eGZ2VW01bHBTYzI4ZmUtY1UxbFpsS0VQSUtSR2w1NnRBV3g3ZmFFMWJzUS00aVRRQnFBLUlwMWp1Y2htcHg0?oc=5",
+      "source": "Deccan Herald",
+      "date": "2026-06-29T17:09:09+00:00",
+      "description": "Drone carrying illegal drugs being smuggled into India crashes in Pakistan  Deccan Herald",
+      "query": "drone illegal",
+      "detected_at": "2026-06-30T01:45:04.683062+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "02cda6e0aefa"
+    },
+    {
       "title": "JetBlue Plane Strikes Drone While Landing At JFK - Newsradio 95 WXTK",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1N4YmtQZ09wUmczanlJTF9CaFQzUFpid1pBdngyU2JxeGVUUVhhbGM0MEtuMHFWeEsxRnA5UE84QzZJZjdGSmtPTW8wQUxnaGxEMGF3U2RwdnotRW5vYkdZRW5OdGs4S0dLR2dZUG8ta3ZvSHNUNFZTZXFzQ3lxbUI3anRUSkhwSWdXdExsaUh0VGFGc19rWW1nTG9NMG9ONWZvODFNajN2V2F2WW93ZVdWSnc?oc=5",
       "source": "Newsradio 95 WXTK",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "bb9296476e5b"
-    },
-    {
-      "title": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSWNNTkF0XzFwSC1YSHdaY0wzODlDN0JvYlJMcG5VSkNhU3hVOUFZTXZrMUVrdF83SU85RDczb3V6eGpoMFlCV1RWNVhwU0loS2pCRmdtVzhmVFVOTEdDM1h6bDU4WTZLSkt0WTNoUmRTZXNYSXNGb2tZT01wTXVicnNPTDhhNTRKdTFkN2ZZVGVZTUV2MWVZWGU4VnJLaXRFNU12R3J6QzB1RHExa2VDWFBKMzFKdU12QVBxZEJfR2VoSmZjdW9ac3JlNENZWE5YdmVlbHEwTkdfd1l2M2dfUC1hODhSb0xWQU9SdDVyOUptMEVkOWVRZ2VoWjBMRDEtTEowM0lsQVFzTThIUU9SR053?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "date": "2026-06-01T19:42:55+00:00",
-      "description": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy  Bozeman Daily Chronicle",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T22:04:29.558557+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "bafdacdac1f5"
-    },
-    {
-      "title": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy - FOX 44",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb2Nra1JBRlBqbGZVeUxVblAxWll1SEFmamphM09OazFRbTV2X0xTOTExZ1VhcDVCTzV5T3dCYzVtd2J4eThPcnB5X1FDOXo4R2JKZi1JVlNJT0FSLTVCTGU5dW1BeGdRMklvclNMUUJJbzF1S3lxdTJzVVJTMm4zbFpJbWo3ME9keHRhRGFSeWwyVUVxYUkwamx2OHN3c1IzVmZEZHdUekVyU2RlaHdrcE5YT1BKLUxVX0lsRXhVa1lZMEV1RkR4dnVxQW13S1JrYVJ4SHY2R0Z5MXPSAeABQVVfeXFMTmY5UjB3aDlrV3I3NFZydkNkXzdyc21GcnQzODlNY2Eyd0lQU3pyWVlzcTNMenlsWmVoYVJGaVRaZFlkeFkycWwxaWFmVjBuLWpTQkJuYU1Pcmo5eEFrMzhFMWRHcUxLLXh5RmZYNXgtOGV4YjN2bGthdDg3X1pBYlhZaTJRZ0lINUpGTHBWOHhTZnkxZHVkOE5lOFNzbnlnVmtpOU9VWjZDekUyaUtPZHJXem1zaFJMWkpGY3BZZU1qSUZkSlNvTzlDVllab01EU28yd190SE03c2t1ZlJLSnE?oc=5",
-      "source": "FOX 44",
-      "date": "2026-06-01T19:42:55+00:00",
-      "description": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy  FOX 44",
-      "query": "drone arrest",
-      "detected_at": "2026-06-01T22:04:29.558557+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c8ce9db34245"
-    },
-    {
-      "title": "The ungoverned sky: Drones and the domestic extremist threat - Lowy Institute",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2VhSmkxUE9laXkyOXctT0I0bGlNQlphRXhrWUhCOWU4NmhwYkVvTVRNTmxsbDJLbEhlS3JScWNzamRDMTJFSEhsUmxicW80ZEFqMkRFc3RJY3RPUDVRNnpoZHdsb2RFNmszazVEUmJ1cnVfOG5ZSHV5NTJWeTdNaEhjbTRMQzhtWUtEeGJLd2V1RXNEeHJIOHJlNGFOeThhaGtoLQ?oc=5",
-      "source": "Lowy Institute",
-      "date": "2026-06-01T12:31:27+00:00",
-      "description": "The ungoverned sky: Drones and the domestic extremist threat  Lowy Institute",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-01T20:29:00.391605+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0432b800c722"
-    },
-    {
-      "title": "OPINION: Romania Strike Exposes NATO’s Eastern Flank Risks - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3S0JfVmw0enFYdUxYRFBLcVBMYmtKalRCOG9sVGtOY29hbUlQVVRRY1ZHc3lkaUZ3eFRQSjNZWDByN09rTGg0dTczZ0lDWUE?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-06-01T08:42:31+00:00",
-      "description": "OPINION: Romania Strike Exposes NATO’s Eastern Flank Risks  Kyiv Post",
-      "query": "drone security breach",
-      "detected_at": "2026-06-01T20:28:59.690437+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "837f4e9fe9d4"
     }
   ],
-  "last_updated": "2026-06-30T00:53:22.060359+00:00",
+  "last_updated": "2026-06-30T01:45:07.105699+00:00",
   "total_count": 1000
 }
