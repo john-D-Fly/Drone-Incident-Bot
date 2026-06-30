@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "JetBlue flight reports drone strike during approach to New York airport: FAA - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFdMVkJnODNTU21LTmlUMk9KcG9ZNG4wWlNFdWZ6N3JJN3dPc0t6bll3TlZmdGNEbUpQdzE5dWJrTVZaelFVdXEzYmdxOVZLNkg3UnRyd0dmYmJtR2M2dkQtRDdWc3A5N09EZG1IN25IZ01wTEtRWlhyOG5teUVPQThxZXFjdW5vcmd6UGpBZnhGd3Z5c0hacWp4RGfSAZwBQVVfeXFMTjhXTFZCZzgzU1NtS05pVDJPSnBvWTRuMFpTRXVmejdySTd3T3NLem5Zd05WZnRjRG1KUHcxOXVia01WWnpRVXVxM2JncTlWSzZIN1J0cndHZmJibUdjNnZELUQ3VnNwOTdPRGRtSDduSGdNcExLUVpYcjhubXlFT0E4cWVxY3Vub3JnelBqQWZ4Rnd2eXNIWnFqeERn?oc=5",
+      "source": "Fox News",
+      "date": "2026-06-29T18:32:44+00:00",
+      "description": "JetBlue flight reports drone strike during approach to New York airport: FAA  Fox News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T05:27:13.911086+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ef1ab2d60551"
+    },
+    {
       "title": "Wanted Man Arrested With Help Of Drone Technology - Chattanoogan.com Breaking News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU01TbUh1OC1LRFRrWkRmZEJJOTRoMVM1ajRkSXE2SnNOanVGVjkzcHdNejg5ZjJ5ZUVBZnhqZ3Fsc2ZhTkRDT2RlR2RTbmZ4UHByMGdNa2dTcEY1U09SSlBTWEo2aTkzWnJ6LU9rc3VYemVTaHVvXzhMMm53X2Y2QU1nay10YnhLN3B5dm5zVXZCeGM?oc=5",
       "source": "Chattanoogan.com Breaking News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "a41175e6fdbd"
-    },
-    {
-      "title": "Drone Harassing Mother Bear and Her Cubs at Yellowstone National Park Leaves Visitors ‘Madder than Hell’ - People.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGRtRl9USEhKUHU1M01NTy1xbEhWUHNyS0s0U0QxaVJoenV1UzFQNHNpei0zOTVxQW9wZW11WUt5X1V2QXhRRUJyVXN4X2VWZTV1dXRWZW5tejNhVWFpZTViZC04UjRBcF9BTVBvNlllcld2YXRFb2g5czBLTng2bm9MYm8?oc=5",
-      "source": "People.com",
-      "date": "2026-06-01T20:46:04+00:00",
-      "description": "Drone Harassing Mother Bear and Her Cubs at Yellowstone National Park Leaves Visitors ‘Madder than Hell’  People.com",
-      "query": "drone illegal",
-      "detected_at": "2026-06-01T22:04:32.284911+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0bc202f760f3"
     }
   ],
-  "last_updated": "2026-06-30T03:11:58.955301+00:00",
+  "last_updated": "2026-06-30T05:27:14.513072+00:00",
   "total_count": 1000
 }
