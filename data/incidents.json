@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Former inmate arrested after drone drops contraband near Holman Correctional Facility - WAFF",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDF2MlhQTVJLc2RoWmxYZDJ4bTNzckRTejlmSDFnV1lHNnd2Y1hYaTA0NmE0RUdkb1NXQWtMX0JUbVFCbFduQjdNVDM3aVFrcEVNZGFTcm40a0p0S0p5SEdXd1FpUDVJbkdudkFIdkh3VlhwRmlEeWtwejZRc2NVR1l4OFE3MFBSbnB5QlpNVTRVekJ4emxNWnhYZDJpajhFZ1VRTk1faHM3aHZzb3BQZ1ppcGoxMGVWdGc?oc=5",
+      "source": "WAFF",
+      "date": "2026-06-30T14:22:00+00:00",
+      "description": "Former inmate arrested after drone drops contraband near Holman Correctional Facility  WAFF",
+      "query": "drone arrest",
+      "detected_at": "2026-06-30T15:54:32.569889+00:00",
+      "location": "near Holman Correctional Facility",
+      "category": "smuggling",
+      "id": "7e34e6f235ee"
+    },
+    {
       "title": "Philadelphia Has Seized 42 Drones Since the FIFA World Cup Began - PHILADELPHIA.Today",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGJJVWs3UVRqTmJHeGZ5Z1YyNVI0b2VRM3V4d2xrdE9CX3Fvc2JhMzdIaHlWcVA1YWhlelh5V0RRNTFyT2JBSjNwOHpiY3poQlBuN2xpV21VV2xCaGVFcTVEXzdmQmNWUHJjbTMyOGRFc0hpaFlZeEVid05PWUs5VzJxZw?oc=5",
       "source": "PHILADELPHIA.Today",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ca54306215b9"
-    },
-    {
-      "title": "Drones seek out illegal bikers on day of action in Scunthorpe - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbEFRbXAwa0piajBXcVg5cm5xMWZvY2ZjbERZTTFmOFM0bWZUWThLbFZWZUhFdVQtcWEwbnlVSHMwQ0JQalR3U2p0VVVOSkZjdk4zcjRBWUVQQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-06-02T05:01:53+00:00",
-      "description": "Drones seek out illegal bikers on day of action in Scunthorpe  BBC",
-      "query": "drone illegal",
-      "detected_at": "2026-06-02T05:38:11.364180+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f4e568c63f6c"
     }
   ],
-  "last_updated": "2026-06-30T14:55:50.645372+00:00",
+  "last_updated": "2026-06-30T15:54:37.308178+00:00",
   "total_count": 1000
 }
