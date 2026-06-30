@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport - ABC30 Fresno",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTAyMV9NX1ctdWNuWm5hRkpTakNMenMxQU5lZzJaRDRNbTJKQlBrSHVTTEVCLWlwUzd5SGRKRzZyRE5UVi15aHdaekg4YlRYaGVsb0VGR3ZlNnR1SEN4N1VYSnZJMVhhR2Vtc0RuX3dJY0NyTi1vTE5aRHM0Nm5xa1dKWjNKdkczNVlhbnJ6ZzhnTkFlWmxYbzlsR0xHREUyaVItY3pmbVN1UGc?oc=5",
+      "source": "ABC30 Fresno",
+      "date": "2026-06-29T17:11:26+00:00",
+      "description": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport  ABC30 Fresno",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T13:38:29.587490+00:00",
+      "location": "at JFK Airport",
+      "category": "airport",
+      "id": "9203eaf5cc6a"
+    },
+    {
+      "title": "Drone surveillance starts July 2 for those seeking $1,000 fine for illegal fireworks use - Manteca Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNckJIY3RTZ3ZNU3cxTXVHVGJ6NG5jOGlPNmNsRjhrWWtkR3JRUFl3VGlnUWoyY3VXcVZDTWRqUnRubzNqdzhpYnVKeEVMZ2ZqaHpLeW1vMW1QaXhkQTJ3RmhnRndUcGZkUXF3MUJJQjZ3NVpkQWpIUHdWTkFyOWtUSzN1dG41dzNsTnd6Szh5NUt4VGVIYzZ6LUN5VEVOenhQVVZkNnI0UVhmQmNWSlBYZThKN20yVmhyOUVYRWVnWHRBdjd1ajVkYjZ4ZU5Nc180?oc=5",
+      "source": "Manteca Bulletin",
+      "date": "2026-06-30T09:33:10+00:00",
+      "description": "Drone surveillance starts July 2 for those seeking $1,000 fine for illegal fireworks use  Manteca Bulletin",
+      "query": "drone illegal",
+      "detected_at": "2026-06-30T13:38:28.101990+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "0e4741f5c205"
+    },
+    {
+      "title": "Prison contraband in Texas needs an all-hands-on-deck response - Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajJIT0NGalpYc25sQ3BoRVQ0U2w4U2E2elBCaWFQY3Fha2owU3o1RDBVMmhRLXcyTjZ1b1NKcS1rY0VPZWlCQlRjb1FOQThsMEJpdGZydmZlak9lYVZKQ2VqazdEWVRiNF9UNjF0MVBMRnh2YmRxYndCSkh2Sk5BUkNjOGRGdFJsXzNwTFFEVUsxMEoyLWxRaWlxbjJJZ0JXN0lhLS1GYw?oc=5",
+      "source": "Dallas News",
+      "date": "2026-06-30T10:34:11+00:00",
+      "description": "Prison contraband in Texas needs an all-hands-on-deck response  Dallas News",
+      "query": "drone smuggling",
+      "detected_at": "2026-06-30T13:38:26.111443+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "72994805fa77"
+    },
+    {
       "title": "New York Officials Sound Alarm Over Prison Drone Drops - Hudson Valley Post",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFB1RDlrQjI3c1NMSzdTaE1VSElnaDFBNVVfM0ZtNHRjR3M3MWthdDdCLVE4Ty1KMDRxeFZXQS1JT2tZNnRsNl9mMWNHR1dnbl80b295LUJiNGVWT0lsV1B1c2xxQVFWVUpPTElxaVRwQW9JUHVNZWFPTFBvZ1ZvVEg3YkVZRklYYXlB?oc=5",
       "source": "Hudson Valley Post",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "73e9fb79dc78"
-    },
-    {
-      "title": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTA2NEJ2enQwQVVMYUFoQXlnUEpOLTRwSWZ5WUwydlVEczhRRU5IekI5WFlRMDBtdG1RZzlwUTVKbGEzUGxJN25CbEtOMnpPNTBpV1pjQTBROFlubzJYSEZZVUhRSUd4V2o0THFGUXBHNm1ZaXhyeFZHdVRpREJBbmdXdTdpUHAxczNUeWxkN3d6WTBBX3BMOWNBMF8xY0lYN2VRNnFxckFYT3FxUXMwLWRtbnFRNWxUeTdnYTgxeUZER1BmWmF4YnN0YjdNY1hoajhqcnVuM19QR1k?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-06-02T02:10:26+00:00",
-      "description": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy  The Washington Post",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T03:21:06.930175+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "86c32736392a"
-    },
-    {
-      "title": "Special tracking system against unauthorized drone flights. - Haber Aero",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDh0OGNRaGthUWpBUlB4SFZobnFHaHJWcm9ITF9qRkQ2X3RpTVJrT3FRZHdBb0pIeXpLV2JPNHJXWTg0bURjZHptZ3ZobGtKNERYSE0wS2o0QWZLeWw3UmxscXVZRU9Lc2lhNTBWT0gtb0FCV1VLMncta3l4NVk4UXdNOVRyajE5SzdjbENVM3R6OHZlNzE1N0Jn?oc=5",
-      "source": "Haber Aero",
-      "date": "2026-06-01T07:16:33+00:00",
-      "description": "Special tracking system against unauthorized drone flights.  Haber Aero",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-02T01:56:24.671155+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "1a9e913cf138"
-    },
-    {
-      "title": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZC1BdER5ckJlV3pieUF4LTBkaUItdHJpLTIxTzVLR2thNVo5VUxScHk4NnA2NGRCRmVKdmlBZ2dENVVIZkNNZWR6SXlJeDY3ZFhjMUxwZXN3aUdGTEEyRjZXWktNcGNteU53amdRX0xCQWl4NnRoWXRHUmhqLXRSanJPdTQ4TlJ5Q0FDdnoyeDZJdXZCRU9kSHJtcWg0ZkxYTGdWcXVoQ2VjVzRwS2RhTDBJa0Vndw?oc=5",
-      "source": "Washington Times",
-      "date": "2026-06-01T19:42:55+00:00",
-      "description": "Wildlife game camera image, drone used to arrest man in fatal shooting of Virginia deputy  Washington Times",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T01:56:18.911946+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "edf058b63ab2"
     }
   ],
-  "last_updated": "2026-06-30T12:45:47.361047+00:00",
+  "last_updated": "2026-06-30T13:38:30.091472+00:00",
   "total_count": 1000
 }
