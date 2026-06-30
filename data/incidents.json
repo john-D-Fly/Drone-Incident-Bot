@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Philadelphia Has Seized 42 Drones Since the FIFA World Cup Began - PHILADELPHIA.Today",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGJJVWs3UVRqTmJHeGZ5Z1YyNVI0b2VRM3V4d2xrdE9CX3Fvc2JhMzdIaHlWcVA1YWhlelh5V0RRNTFyT2JBSjNwOHpiY3poQlBuN2xpV21VV2xCaGVFcTVEXzdmQmNWUHJjbTMyOGRFc0hpaFlZeEVid05PWUs5VzJxZw?oc=5",
+      "source": "PHILADELPHIA.Today",
+      "date": "2026-06-29T09:08:00+00:00",
+      "description": "Philadelphia Has Seized 42 Drones Since the FIFA World Cup Began  PHILADELPHIA.Today",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T14:55:50.072771+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9a1d947ded65"
+    },
+    {
+      "title": "Former Alabama Inmate Arrested After Allegedly Flying Drone with Contraband Toward Prison - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVE5Xb3NuNGcybGZ3RkFvbHh3Ui1VVlNpQXA5R0hUX2NFNHJFSTJOOF9LbFFkdFFyOW1uckdMdWx0SE9LcGpfRTZobURROHRiWGs4R1JwdEhFQzR3SktvTTJ1bG1wWVF2SE9YZFhqbHhRaU12SFlrVUkzSGhkY3NvX2poMThOOFRXU050T3lreVB0dTNRT2JOQjFLaTdpVnJDRGhGZUxGWUxEeUVYNjhzeUZNd3F2TjNaS0FFcQ?oc=5",
+      "source": "WBMA",
+      "date": "2026-06-30T14:22:36+00:00",
+      "description": "Former Alabama Inmate Arrested After Allegedly Flying Drone with Contraband Toward Prison  WBMA",
+      "query": "drone prison",
+      "detected_at": "2026-06-30T14:55:46.876442+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "01fab84ea128"
+    },
+    {
+      "title": "Former inmate arrested after drone drops contraband near Holman Correctional Facility - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMy0tcWQ0bnVhM0tONXp2blVBRnVDNmFfb2VzTDBuY3FmeDVQZWxRMTdDa1RGSEhxRlhyZ184enJhb29odWhUdEZmRG9haTE1Y2lvbHlqZzY0WEZXX2FjRllMS3hFYmgtOW53aEtnd0hpYjBRTWc1RVBMUmRVb2dHcmFaUkY5VXdfYloxdTJnSEhXSENNU3prR0pLbk9ZNjNEUTViSmxlTzRQMi1rSnVkajZDczhGREpmUmc?oc=5",
+      "source": "WBRC",
+      "date": "2026-06-30T14:22:00+00:00",
+      "description": "Former inmate arrested after drone drops contraband near Holman Correctional Facility  WBRC",
+      "query": "drone prison",
+      "detected_at": "2026-06-30T14:55:46.876442+00:00",
+      "location": "near Holman Correctional Facility",
+      "category": "smuggling",
+      "id": "957e29c7e946"
+    },
+    {
+      "title": "Hamilton County deputies arrest wanted suspect after drone-assisted search in Meigs County - Local 3 News",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYXdtY01jTWo0ZmQ1TzZXYVNjcTFKSnlyZmh3ODFOVWRxcEF4X2c3M0kycEJXOW1Eb0JfREFyTGxiTmZOYldQcXB1TXo2QUljWnRJcUw1Zm5ITF9SQjdRRVpoaER0RVQ0NUtSYllyQXBvRUFjbEhNTmNTLWZCWVlRV1ZOMXVRdHB4Rmt4eG90c2lsY3o4aVJGNVl1c0ppb1p2cy1IODV3U1NNZU1PeTRfTWVZUTR1WGJSUEdGYVhQQkNtT2RrXzBGdWhCVHF5dlZ6TFQ0REhJeE92ejhHRlRzWGdxZXpELWdWT1MtVFZDQ2g0VlBaZzFwTTVXdXpndTFDZGs5amk1RUh1dw?oc=5",
+      "source": "Local 3 News",
+      "date": "2026-06-29T20:44:43+00:00",
+      "description": "Hamilton County deputies arrest wanted suspect after drone-assisted search in Meigs County  Local 3 News",
+      "query": "drone arrest",
+      "detected_at": "2026-06-30T14:55:45.826520+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "a038aa0b8db6"
+    },
+    {
       "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport - ABC30 Fresno",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTAyMV9NX1ctdWNuWm5hRkpTakNMenMxQU5lZzJaRDRNbTJKQlBrSHVTTEVCLWlwUzd5SGRKRzZyRE5UVi15aHdaekg4YlRYaGVsb0VGR3ZlNnR1SEN4N1VYSnZJMVhhR2Vtc0RuX3dJY0NyTi1vTE5aRHM0Nm5xa1dKWjNKdkczNVlhbnJ6ZzhnTkFlWmxYbzlsR0xHREUyaVItY3pmbVN1UGc?oc=5",
       "source": "ABC30 Fresno",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f4e568c63f6c"
-    },
-    {
-      "title": "Drone helps capture suspect in fatal shooting of Virginia sheriff's deputy - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEh2NF85NEpXR0NIMVoyQzBkcEsyLUx0NEl5dndZOU92d0JkS083M1AwVkd4UzlSN1BmSVJsRFJHdVFVaUN4RnFOcUQtLVlKR2dLVl9LOWpyUEdmMEU1a3lSZG4tTG84Z2gyMGhpdWU3c0xHZERpRTl1a3JUdC1SYTlGQlNkQVBXek5CUHNtcWlES1FYNENJZWZPdXBiYVlD?oc=5",
-      "source": "6abc Philadelphia",
-      "date": "2026-06-01T19:05:01+00:00",
-      "description": "Drone helps capture suspect in fatal shooting of Virginia sheriff's deputy  6abc Philadelphia",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T05:38:08.824289+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d024f93845ad"
-    },
-    {
-      "title": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTA2NEJ2enQwQVVMYUFoQXlnUEpOLTRwSWZ5WUwydlVEczhRRU5IekI5WFlRMDBtdG1RZzlwUTVKbGEzUGxJN25CbEtOMnpPNTBpV1pjQTBROFlubzJYSEZZVUhRSUd4V2o0THFGUXBHNm1ZaXhyeFZHdVRpREJBbmdXdTdpUHAxczNUeWxkN3d6WTBBX3BMOWNBMF8xY0lYN2VRNnFxckFYT3FxUXMwLWRtbnFRNWxUeTdnYTgxeUZER1BmWmF4YnN0YjdNY1hoajhqcnVuM19QR1k?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-06-02T03:56:23+00:00",
-      "description": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy  The Washington Post",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T05:38:08.824289+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fbfbb8216c3e"
-    },
-    {
-      "title": "US Forces Report Strikes on “Iranian Radar and Drone Sites” on Qeshm Island - Hasht-e Subh Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEl5Y3NZSDIwRFhOWGF2SHd5bTJicU1PTmhLN0FlcXB5T21YTE50Q3RkeDZRVU5SRDBZMXozTVFnbDJoWjVGODh1UEo1OGxMaXZzVDUteG1qQThNYTZobmg1RGpLbnRfMHZjc1FFZjFBR0NxWm1TbkNqZmh5NDh2WHc2QTNfa0RJcnJRMHE5QngtaEVPSmFsaWU4cEs?oc=5",
-      "source": "Hasht-e Subh Daily",
-      "date": "2026-06-01T07:42:48+00:00",
-      "description": "US Forces Report Strikes on “Iranian Radar and Drone Sites” on Qeshm Island  Hasht-e Subh Daily",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-02T03:21:11.931080+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "66b873936c31"
-    },
-    {
-      "title": "200 drones in illegal night shoot in Bandra - Mumbai Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFhkUUZYaGk2SW1PX005aTZFUWZ2djZHcmphXzRzWTYyMG1ua0dPUUxZMHN2a3cyRGpraDlKOVZVUTdWZ2ZEejdSZjdMWktOc3lHZzlmbzIxaE9pTmpxTkkyNjB6ekJPZkw2WElJZHJ1YnNoTWJHeFBvTUFpYUxRRDRyalFmQm5QNFlHaHl6blgtX3o5Mk5zZHdXYmd6ck82T3FFd2JrYkc0VGo5ZFNTNTdEc9IBuAFBVV95cUxPQlJ3MXYwbnRQeWN3OVdnTldNTm1RdV9kUFNDaVZ0SEtIZGxBR1pPUU91WEs0NVNEVUd1RUh3WFRESnZScUtWTW1MYnNhR0dIc0ZtblUxMWhsMEpXRTJSYjZ3cDlpTm82enliNzNIeHpHN0xFYjVoTGV6SDBPaVphMGtMMjJoamhTblIyZXNRWHJYYnZpNDZwMTdhVUxqbEFXTDdNS0U2d19zVTU4eTlMcWIxMDRUWWgw?oc=5",
-      "source": "Mumbai Mirror",
-      "date": "2026-06-01T22:30:00+00:00",
-      "description": "200 drones in illegal night shoot in Bandra  Mumbai Mirror",
-      "query": "drone security breach",
-      "detected_at": "2026-06-02T03:21:11.245122+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "73e9fb79dc78"
     }
   ],
-  "last_updated": "2026-06-30T13:38:30.091472+00:00",
+  "last_updated": "2026-06-30T14:55:50.645372+00:00",
   "total_count": 1000
 }
