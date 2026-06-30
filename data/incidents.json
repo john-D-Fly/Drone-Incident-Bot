@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FAA probes reported JetBlue drone strike near JFK - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNejJtdm1sYWREcnk3YVBpQm5rNmEyVXdjcmxMZXg0dWlMZEdVbFlVNUpUM1pDRUotckpBVm96V19nZGhKdEEyaUZkNG5PSVNpSUZsWWRNQjFxcEwtRlNaX0tWVW9YTXljZkVCSzBNWm95QzFxSlI3dFI2TUFEQ3p3cjBvejAwSC1LVkdCRnRhRXQzWUxCaWJlMXR1al9UOFZ5eWtKWDJuc1I5ZGpxZW8xRlhwOFBueTdRVE05MGhBTTk3ajdkYjg2YlRjUzlZemZOeVJxcVNNQkZFRU1reDRuV2N0Q1pOUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-06-30T13:42:25+00:00",
+      "description": "FAA probes reported JetBlue drone strike near JFK  MSN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T18:40:58.528913+00:00",
+      "location": "near JFK",
+      "category": "airport",
+      "id": "a1d30b2e6d19"
+    },
+    {
+      "title": "Hamilton County deputies arrest wanted suspect after drone-assisted search in Meigs County - WCLE Mix 104.1",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV05pOWtkR29UbFdCRExtRHVVQU1ZMmEyUTc5emRYMld1RmNVN0FLYkNQT3ZuUDhKUDhybmpISGtJeHNQS0R3V0xwZnFlQ1lsdTE4S21GUXdyV3M1aDZWamo5Vmd6cXctYnJtNE9HV2pMc3V0akRfbHgtZGRBVnUta2R6SGl1VHh6dFBVTTBNY051amFtLURPTTBpM29sODBTckNtczVPUWhUYWU3a09rLWkzTDR6eW1GMkIwRG9waVhTcExBT2RB?oc=5",
+      "source": "WCLE Mix 104.1",
+      "date": "2026-06-30T13:22:19+00:00",
+      "description": "Hamilton County deputies arrest wanted suspect after drone-assisted search in Meigs County  WCLE Mix 104.1",
+      "query": "drone arrest",
+      "detected_at": "2026-06-30T18:40:54.493749+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c70dc56b7f85"
+    },
+    {
+      "title": "First Responder Drone Assistance Leads to an Arrest - El Paso County Sheriff’s Office",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0N2b0FJQklKZlpDdll3cVZ4V3BtTThjLVZkSThQQjVOVXZjRXdzMFIwY0VfVnNFdkxEbUNHbk5MeVNWOW9fYWJxdDJQQjAwRGJpVHFyaGNscGRmVXVuUHJpbnNoa1VSdm5udzlXM1pWMWxLLUJzZHdsaWdrWUxnMEJhOFpoaDZuaUE?oc=5",
+      "source": "El Paso County Sheriff’s Office",
+      "date": "2026-06-30T14:47:35+00:00",
+      "description": "First Responder Drone Assistance Leads to an Arrest  El Paso County Sheriff’s Office",
+      "query": "drone arrest",
+      "detected_at": "2026-06-30T18:40:54.493749+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "998ce480b16b"
+    },
+    {
       "title": "Proposed legislation would help US ports battle drone threats - Seatrade Cruise News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVRyXzZyaGZDZ3dLTFpmSDFORWdROFZMQVBPaWhOMVBuaWFVSm9oeXpfQnFOU3JiRzF3LWJrN2FJRVYxaG0ydXI5QzNNM3c0QlVSRTgxLXg5YnFVQmpzTkIxaTg2VVNUR0hRTmNjbHBnRDhrTmw3XzRXcVZ3aWYyaUVGbDA1YXp0RlpYODlndmNWUmVMMUxGelZOeFB3VmdzWmhaa3ktc19rZ0dBdGZOZmJ1el9KZGJqVnc?oc=5",
       "source": "Seatrade Cruise News",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c1d6795842e0"
-    },
-    {
-      "title": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy - Henry Herald",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd0g3QTdyRUhMTTllZGZwdW43dEdJWUZrSXhfUHc3dGtuYW1Kc0l0aWY3RFlKR1JtTkRiWjN0SHdna25iSTFDS0xTeGdLMDNRZDR4Q0dQaS14Q2o1Z3NwcUREN25DaWNBWXJHY2pLZjBZeXcyeXg5UzZoLXlSZDJhTVVCWUVOczdGRHJsYXQ3SHlKeG81MWVFbkk4YWNsU2tNamg3cDF1TVVpSHBfSEJfbHZWRjZnTGFsaEV2dHZyazlROFd4a1lNU09NejUtcVhaNm9ZYTI2amhvSEl1d2lCYzNLb2M1aVV6Z0RrWU55SGk4ZHl5SUFmRlBlZFNVZldvckNqY3M4a05XZjdqWHBjSmhn?oc=5",
-      "source": "Henry Herald",
-      "date": "2026-06-01T20:29:54+00:00",
-      "description": "Wildlife game camera image and drone used to arrest a man in the fatal shooting of a Virginia deputy  Henry Herald",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T09:31:36.631964+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "078ca9b72f9d"
-    },
-    {
-      "title": "Ukraine: 602 Russian drones downed overnight - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSk9yNFBNYVRJbWZNMlN3QVlBSnFibEFyVDlVYnp3a2s1c2hpNE1LUG9VOFBoQkxzQVVQOHVkLVpHbU56bWw1dkJ0Snd3V1pvYlJ0WjRkSDFISzRFUlZlRXlwMk1NSG5FTXNwdThDbnVfMzlUNFpMT0hCbXZnWmxSQllkcWQtZEZBeFhhU0FLLVFHV1U?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-06-02T06:30:00+00:00",
-      "description": "Ukraine: 602 Russian drones downed overnight  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-02T07:44:18.948976+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bc6d8adceb79"
-    },
-    {
-      "title": "Trump says nothing after Russian drone hits building in Romania, a NATO member - MS NOW",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFFvNHdtSVgtdVE2TWNLTFh5V1F2c1EwU2N2Yk9GQU56SlZkY0IyMlZ0Vkh6SFZibnYxQmRWWlVyWVNZeDBSVjgxdFU4ZHlfVlpYMFhHazF0dmgzZ2ZTWU9leWVjbDBHVl9idU00VjBoYjgwRlJUZWNqX1dEbnFDdUU4SThCejhMaVdUZzY2X0hlSmZ6WFMzSkF1SQ?oc=5",
-      "source": "MS NOW",
-      "date": "2026-06-01T16:47:28+00:00",
-      "description": "Trump says nothing after Russian drone hits building in Romania, a NATO member  MS NOW",
-      "query": "drone crash",
-      "detected_at": "2026-06-02T07:44:17.415597+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ef4573032ee6"
     }
   ],
-  "last_updated": "2026-06-30T17:37:53.687290+00:00",
+  "last_updated": "2026-06-30T18:40:59.089615+00:00",
   "total_count": 1000
 }
