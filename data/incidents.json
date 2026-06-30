@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "JetBlue flight hit drone while approaching JFK airport, FAA says - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFtRy1Zc3dyQlpmRlIzdFQ3cEZibGNhd003aFVyVVlMbUV2ZjdhMG5uWEUxQTVmS19NUDh3Q25wZERXUXNFb3JQYl9ra1lDUnJ6ekoxZDhKaHdBaGVsNFBaZnFIdjM5R3RSVTRUVkZtanUwSDRvU3J4U2R2Rm1uSm5jdzhsY1JjQWI1WlFKam4yMjBWdmM4?oc=5",
+      "source": "KELO-AM",
+      "date": "2026-06-29T23:45:52+00:00",
+      "description": "JetBlue flight hit drone while approaching JFK airport, FAA says  KELO-AM",
+      "query": "unauthorized drone",
+      "detected_at": "2026-06-30T07:23:34.376280+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "fe1046441126"
+    },
+    {
       "title": "JetBlue flight reports drone strike during approach to New York airport: FAA - Fox News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFdMVkJnODNTU21LTmlUMk9KcG9ZNG4wWlNFdWZ6N3JJN3dPc0t6bll3TlZmdGNEbUpQdzE5dWJrTVZaelFVdXEzYmdxOVZLNkg3UnRyd0dmYmJtR2M2dkQtRDdWc3A5N09EZG1IN25IZ01wTEtRWlhyOG5teUVPQThxZXFjdW5vcmd6UGpBZnhGd3Z5c0hacWp4RGfSAZwBQVVfeXFMTjhXTFZCZzgzU1NtS05pVDJPSnBvWTRuMFpTRXVmejdySTd3T3NLem5Zd05WZnRjRG1KUHcxOXVia01WWnpRVXVxM2JncTlWSzZIN1J0cndHZmJibUdjNnZELUQ3VnNwOTdPRGRtSDduSGdNcExLUVpYcjhubXlFT0E4cWVxY3Vub3JnelBqQWZ4Rnd2eXNIWnFqeERn?oc=5",
       "source": "Fox News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "daba58dc0cfe"
-    },
-    {
-      "title": "UAE Strongly Condemns Terrorist Drone and Missile Attacks by Iran on the State of Kuwait - وزارة الخارجية الإماراتية",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaUVlNjNNYnFPeUUwTi1xb3pKcGdUV2pqMm84czU3dUs2MXdkVUl0bVkza2x3YW0ySjRveXNVN0d3TnZmYzFrX2dPckFrY3NiWWJXRFVhUVpKSHkwS0k0OFlEXzI5TTREWkNHaQ?oc=5",
-      "source": "وزارة الخارجية الإماراتية",
-      "date": "2026-06-01T18:38:43+00:00",
-      "description": "UAE Strongly Condemns Terrorist Drone and Missile Attacks by Iran on the State of Kuwait  وزارة الخارجية الإماراتية",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-01T22:04:33.384653+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "a41175e6fdbd"
     }
   ],
-  "last_updated": "2026-06-30T05:27:14.513072+00:00",
+  "last_updated": "2026-06-30T07:23:34.854016+00:00",
   "total_count": 1000
 }
