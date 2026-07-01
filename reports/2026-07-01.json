@@ -1,0 +1,150 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been an alarming trend of drone-related incidents concentrated primarily around airports, particularly JFK Airport. Several reports detailed encounters of JetBlue flights striking drones during landing, raising concerns about the safety measures in place. Moreover, drug smuggling via drone routes continues to be reported around various correctional facilities, highlighting ongoing challenges in prison security. Additionally, drone incursions by militant groups in regions like Pakistan and Gaza reflect the broader security threats associated with drone technology being exploited for illegal activities. Authorities in the U.S. are exploring new policies to tighten aerial security, especially concerning airports already under risk from unauthorized drone activity.",
+  "totals": {
+    "airport": 12,
+    "smuggling": 7,
+    "arrest": 5,
+    "other": 20,
+    "interference": 1,
+    "surveillance": 4,
+    "terrorism": 3,
+    "security": 1,
+    "total_incidents": 76,
+    "by_category": {
+      "airport": 21,
+      "arrest": 10,
+      "crash": 1,
+      "interference": 1,
+      "other": 27,
+      "security": 1,
+      "smuggling": 12,
+      "surveillance": 2,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 13,
+      "drone crash": 1,
+      "drone illegal": 10,
+      "drone incident": 12,
+      "drone prison": 4,
+      "drone security breach": 1,
+      "drone smuggling": 5,
+      "drone terrorism": 4,
+      "unauthorized drone": 24
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized drone incidents at airports",
+      "rationale": "Multiple reports involving drone strikes against commercial flights at JFK and Newark suggest a growing risk to aviation safety.",
+      "incident_ids": [
+        "41c82c4c8be7",
+        "c88bb0b273c9",
+        "db28162c7085",
+        "18bd36dd3fbb",
+        "f0a56fb42e31",
+        "a1d30b2e6d19",
+        "460861abad09",
+        "2d7c8ac0557c",
+        "b6d4811acabc",
+        "e896009499a3",
+        "fe1046441126",
+        "5a552cb1e51f"
+      ]
+    },
+    {
+      "topic": "Drone smuggling and contraband activities",
+      "rationale": "Increased drone-related smuggling incidents reported near correctional facilities show ongoing challenges in preventing contraband from entering prisons.",
+      "incident_ids": [
+        "94ac09d41337",
+        "5b9d11af900a",
+        "6c0692e2fc35",
+        "2f70d7821134",
+        "4917106e0159",
+        "d468f5a2c946",
+        "4b0843bc102c"
+      ]
+    },
+    {
+      "topic": "International drone security threats",
+      "rationale": "Incursions by militant groups using drones in conflict regions pose significant national security concerns for several countries.",
+      "incident_ids": [
+        "103c46114790",
+        "04193799b3c8",
+        "bbfd266c7460"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5b9d11af900a",
+      "headline": "Hamas may have received dozens of drones that crossed into Gaza",
+      "one_sentence": "Hamas may have received dozens of drones that crossed into Gaza, posing increased risks in the region.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [
+        "Undefined"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a1d30b2e6d19",
+      "headline": "FAA probes reported JetBlue drone strike near JFK",
+      "one_sentence": "The FAA is investigating multiple reports of JetBlue flights striking drones near JFK airport.",
+      "risk_tags": [
+        "unauthorized drone",
+        "airport disruption"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "db28162c7085",
+      "headline": "FBI warns Iran aspired to attack California with drones in retaliation for war",
+      "one_sentence": "The FBI has issued a warning regarding potential drone attacks by Iran targeting California.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "94ac09d41337",
+      "headline": "Former inmate arrested after drone drops contraband near Holman Correctional Facility",
+      "one_sentence": "A former inmate was arrested after attempting to smuggle contraband via drone near Holman Correctional Facility.",
+      "risk_tags": [
+        "drone smuggling",
+        "prison drops"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "d5d0cccef89d",
+      "headline": "JetBlue flight hit drone while approaching JFK airport",
+      "one_sentence": "A JetBlue flight reported hitting a drone while approaching JFK airport, leading to an official investigation.",
+      "risk_tags": [
+        "unauthorized drone",
+        "airport safety"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones are making headlines: numerous incidents involving unauthorized flights threatening safety at US airports, smuggling attempts reported near prisons, and international threats arise.",
+    "linkedin": "Recent drone incidents highlight ongoing challenges in aviation safety and security, as unauthorized drones pose risks at airports while smuggling operations via drone continue to emerge."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-01"
+}
