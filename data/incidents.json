@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "FAA probes reported JetBlue drone strike near JFK - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNejJtdm1sYWREcnk3YVBpQm5rNmEyVXdjcmxMZXg0dWlMZEdVbFlVNUpUM1pDRUotckpBVm96V19nZGhKdEEyaUZkNG5PSVNpSUZsWWRNQjFxcEwtRlNaX0tWVW9YTXljZkVCSzBNWm95QzFxSlI3dFI2TUFEQ3p3cjBvejAwSC1LVkdCRnRhRXQzWUxCaWJlMXR1al9UOFZ5eWtKWDJuc1I5ZGpxZW8xRlhwOFBueTdRVE05MGhBTTk3ajdkYjg2YlRjUzlZemZOeVJxcVNNQkZFRU1reDRuV2N0Q1pOUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-06-30T13:43:26+00:00",
+      "description": "FAA probes reported JetBlue drone strike near JFK  MSN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-01T05:36:51.487125+00:00",
+      "location": "near JFK",
+      "category": "airport",
+      "id": "c88bb0b273c9"
+    },
+    {
+      "title": "JetBlue Reports Drone Strike Near JFK - Aero-News Network",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnZ1U2xxQWZVZ2hmcGluM3BNWVJEbWZEVERJRG1kTVpVal9Nd0d4cGdqTU9hdzdZQ1FLRElZVXNEdXNpNnUxV0hiUUFhM0Jlc3R5d1lRVG1kcjhQalJiVThVU0VyZ1VhRjktS3ltNWU1d2pCRG9sX2xOUGFMcjNnY1UzZm4wUk5RWEo2TllVUzRfaEZUUHk0?oc=5",
+      "source": "Aero-News Network",
+      "date": "2026-07-01T04:02:07+00:00",
+      "description": "JetBlue Reports Drone Strike Near JFK  Aero-News Network",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-01T05:36:51.487125+00:00",
+      "location": "Near JFK",
+      "category": "other",
+      "id": "7033f259acbf"
+    },
+    {
       "title": "Former inmate arrested after drone drops contraband near Holman Correctional Facility - WTVY",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWVFa1RYRXpwTnJqUUwyQTlteC00Z29UUjRSUnJ3OVFZSm5qbG5NNEhMUlVoR0lfRUtXX01xakJBeE9RTEVxQ3cwLUdPWTJEdW1mQW1wbHhtVWdFWEp2QS1DRlVpOHYwbHEyR18tUkY3a3ZPMlByUTBEaWE4MnJiYnhoUmdrNHhNUWozLWtyLVMxUnk2RHVnNTlBbnZTcTM5cFJKUUJ4YlotWkNwU3pSQk1uNzVOZFlPdVE?oc=5",
       "source": "WTVY",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "6e8f7acf457a"
-    },
-    {
-      "title": "Investigators use drone to arrest man in fatal shooting of a Virginia deputy - Rocky Mount Telegram",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUTIyN2Y3RDNERUh2U3EyY3RidWJGN2ozOXE0LWpXcVlRSkVEcFVROHdrUjhiRFRfS0J6X2ZWQVlBWWhVcHU3aW9qdWtJc3pSWlJaeFcwNkNGY2NrRGp3dVVPQnZ4cmxScW5pZjQzcmlrdl94UlplNTZqNGM4dHd0Vm02eVVnNDVjYklyV2ttX2dMVFJoZzh3NHJCdThJamNmMXlKTlNaMS12ZW1HczV3MGszWUNvMTRqSmtOY3hIcDhjZ1d3QjBSZ2tpWlJhTkhEYVVmNDJhbkJxaklRdWFYX1g0MURaNU9NRUVpdVd5eVNxUHl1QUpkMUxmM0c0Mmh2QUE?oc=5",
-      "source": "Rocky Mount Telegram",
-      "date": "2026-06-02T14:00:00+00:00",
-      "description": "Investigators use drone to arrest man in fatal shooting of a Virginia deputy  Rocky Mount Telegram",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T19:19:03.438300+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "32660cadf01a"
-    },
-    {
-      "title": "Marion County men arrested after drone allegedly links them to string of Dodge Ram thefts - WTHR",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORkJILXBzdjA3c1BMdXBpSjBvZVlsb3l0cTlhRFRpZnAxUTFmRF93dHlVWlI3d1NXekZGZlBuM0RScWtMZGlEdFJEN2VvOHVCb2dTV0pqUURQUjJnRy12ak1tUEtNTTBEa0dBWm9VTHA3ZVR5cmJpcGVRRUtkcGI4c3FjNkc5b01TMXNKWkhyRHpheVkwd3hjRFlOZXRqWVRGZkxfOWM1Qi1SWlpScnB0aUdTdnM2QWZycEFWWjJua205QWlpa04xdlRoMFV0ZFZyZUNyaG5TUTA3Uk9Ea0EyV01qWE9oaF9fY3c?oc=5",
-      "source": "WTHR",
-      "date": "2026-06-02T18:38:00+00:00",
-      "description": "Marion County men arrested after drone allegedly links them to string of Dodge Ram thefts  WTHR",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T19:19:03.438300+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f649aad7c777"
     }
   ],
-  "last_updated": "2026-07-01T01:51:58.076688+00:00",
+  "last_updated": "2026-07-01T05:36:51.977151+00:00",
   "total_count": 1000
 }
