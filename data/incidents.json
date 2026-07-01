@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Former inmate arrested after drone drops contraband near Holman Correctional Facility - WTVY",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWVFa1RYRXpwTnJqUUwyQTlteC00Z29UUjRSUnJ3OVFZSm5qbG5NNEhMUlVoR0lfRUtXX01xakJBeE9RTEVxQ3cwLUdPWTJEdW1mQW1wbHhtVWdFWEp2QS1DRlVpOHYwbHEyR18tUkY3a3ZPMlByUTBEaWE4MnJiYnhoUmdrNHhNUWozLWtyLVMxUnk2RHVnNTlBbnZTcTM5cFJKUUJ4YlotWkNwU3pSQk1uNzVOZFlPdVE?oc=5",
+      "source": "WTVY",
+      "date": "2026-06-30T14:22:00+00:00",
+      "description": "Former inmate arrested after drone drops contraband near Holman Correctional Facility  WTVY",
+      "query": "drone arrest",
+      "detected_at": "2026-07-01T01:51:53.063680+00:00",
+      "location": "near Holman Correctional Facility",
+      "category": "smuggling",
+      "id": "94ac09d41337"
+    },
+    {
       "title": "San Bernardino Police to use drone technology to track July 4th illegal fireworks activity - San Bernardino Sun",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUNtU0ZMVXBJSmQ3TFlFLXE3SnluOVBuY1lYSzI4X2Z2N1FlMjdCam9lcDVfY2h4cXR4Y1RDMzM4V0FrR3c1STNGbU5wbUk3bGh6SHJTM0ZadWxjYjZjX3dhX1ZhczRhc3lhdGtQUTBzLVI1UkJoZFRyYTZyR3RBR1l4S3RDSVg0VmNrakkwM19zTks1QklCcl9lSDRUQm9rMktnN3ltbWJ4ZzE2a2VtQ1RNMU1rUVFJMXFBSDFnVElDdw?oc=5",
       "source": "San Bernardino Sun",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "f649aad7c777"
-    },
-    {
-      "title": "Long Beach Township Police Arrest 7, Deploy Drones And K-9s In Holiday Week Sweep - TAPinto",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ0k4QTV1TDRDWXprdHFWdVN3NFFGbmVTS0pEc3pBWlB0eVZxbExZRVpITUNZaDdzUDZUWVBibkFOdHNjS3d3dVpRNTN5WlotdnMyd1ZTYzdESkNNMXBIQ3U3Z0ZIdHZ2NXJiMzVrSHltamNILXZLMVhGMmRvcUREd0ZubDNhUDBRQVl4OFAzYlZXbk9veFFuRVBSYU1TVkdiT25VMkJObzRINkNGYWo3LUZFRDQ2a0FNTUYyWThRd2NBZFJhWG9sYVRPdFliUU9FSEVNdDNlSXZPSjNmZnM5NWRVQUdNY19kY2FDV2J3YzlGVWZPTkE?oc=5",
-      "source": "TAPinto",
-      "date": "2026-06-02T02:00:37+00:00",
-      "description": "Long Beach Township Police Arrest 7, Deploy Drones And K-9s In Holiday Week Sweep  TAPinto",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T17:36:48.895897+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "9b65cac5d47c"
     }
   ],
-  "last_updated": "2026-07-01T00:56:34.884998+00:00",
+  "last_updated": "2026-07-01T01:51:58.076688+00:00",
   "total_count": 1000
 }
