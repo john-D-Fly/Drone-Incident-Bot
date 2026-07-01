@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "NYPD helped take out nearly 100 illegal drones over World Cup games and events: Tisch - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVVMdzNaX3d1bFhCYk1lWFFkYWFDZGdJNWdLWHlmZDFGdjAydHdORmU5Uk1LcU5qZlFhSWJjd0xfUFo1TFZHR1VXZXVzdU5WN2ZmOW54ekVBN2FYZGgxTjhGdTBSa0pBdDg3TUtkY0hQUUt0aDA0LTFiVEg1amI2b0tsSG5QRTJYdGh0bXFtMmpmM3VRam1nNA?oc=5",
+      "source": "New York Daily News",
+      "date": "2026-07-01T21:11:16+00:00",
+      "description": "NYPD helped take out nearly 100 illegal drones over World Cup games and events: Tisch  New York Daily News",
+      "query": "drone illegal",
+      "detected_at": "2026-07-01T21:34:13.539792+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2fd7d3bcc259"
+    },
+    {
+      "title": "Former inmate arrested after drone drops contraband near Holman Correctional Facility - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1ZuYThrRTFHd1FyMEJoR1pIZWw1RmxOTE5QVkJZMXREZ1ozZVpJbW56dXlqalV6a2hXWnAyQkdSd2x0bHpuVWdnZzRpNFV2emY1aWtkNGRjVEVTN204ZmZHRW4tel9LQWRNc2dJOWVXQ25NM01aMlhHOHYxNzVkVVVqWmxwZ0d3NGhGZW9BX09EOFppdUFYZDZEMHZ0cVUxaHIwc21yV2w1Mnd3NjBtcGwwQkNZZUR5YW5URkVB0gHSAUFVX3lxTFBsOTBwVmZjdHN2T3E5R2lFb3ZOVmFzM3NUYXhPUXJBeVo5NGVNRW1WNFdOYnpIZWlGSjdGZWctR0NrWFVWd1U1NDdXMVduZVN5dE9nYWpzaGVMZW4zb2E4QzM0Y3NROExNZ1c2eXhUMDBQZUxVamZ6eDBJaXZuZEtrMFJIQ0xFa2pXTHlaU1FUR2NCd3VCUDdWQkUzakRrbW1pandhZlNUalJ1M3JSeFIzMnRtMFRBdTdHWDBoWElfRjNTRGdGbURmUS1SaTdQaUZwQQ?oc=5",
+      "source": "fox10tv.com",
+      "date": "2026-06-30T14:22:00+00:00",
+      "description": "Former inmate arrested after drone drops contraband near Holman Correctional Facility  fox10tv.com",
+      "query": "drone arrest",
+      "detected_at": "2026-07-01T21:34:10.712120+00:00",
+      "location": "near Holman Correctional Facility",
+      "category": "smuggling",
+      "id": "1921cdf99285"
+    },
+    {
       "title": "Port industry advocates for more drone restriction authority in FAA rulemaking - American Journal of Transportation",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFNLRW01TjFZNnVDNlNiQ1VlVF95YTN4RzZHZnA0WHBic2pSYUpKdTh3aUVkMWoya3A0N1pQVHVlUFlpMnIwOFZ1NUY2TVFQNk9ZX0dHSUUxUjEwVkN6dEtoVDRxSUl0RFZ1OUxWbVVDVHQxdzRCOVpoSFZGVjNYMVVERXRtZjFCSUZWUnphNHhTYVJGc21hSG1yN3lKVWxQcUdpTnREdw?oc=5",
       "source": "American Journal of Transportation",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "6809243e7926"
-    },
-    {
-      "title": "Tamil Nadu geology, mining dept to conduct enhanced drone inspection to find illegal mining - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYTV5N1ZnSmZucEFxVXg4VGlCLVVnR2pkVDdrU3l0ZlJuMlB4eEgtcnNIQUZiNDEyYS1ST0FOMUFmZ09IeU83OEZtVjJ4bHR3RlNjWGRfTGhtLVFORE1BcmM0V2tocHRoQlhqZHlSM1Ridml6ZVE5c2VFcEFiY3YxQ21mQi1LeWdtY1JNQ0VDQ0J0NldtTTg0ZXpUWk4wYkNQYjhsVS11S2dhTS1TUWhuVVlTc3FLSFlfX1RTZC1udUVxS2xPUXowc0pvaVcteXFVd0t0VWRzbnlhMVpjbG85eTc1dTc4Q0ZaTFJZ0gHwAUFVX3lxTE5LeFAzOFV4TVhNOW9XSGFza2xKcWNRTEIyc0c3eDBoMUM0VWRPajJxbTJwRUlpRXNBcWRkSHJDREppQmRwelZ2M0lERG5OXzFmaFhIZnE3TGViMTllODhfSzVPTkhSMzZqdExILXJlQnNlbmNHSlBKSlFoU0dMeU9wZGhoVEVvLXUtaWRYTlpQVVcxbm8wVEx0UzdXcm5KSWpCR3ZnaTI4ZUluOFdVcE5tTEdFUDl4ZGdaVnRKSnhvTk9Cd1hpaTU5UzNPMHUzM0xUN3dUMjJoSWFmV21wWjRTd1lxR2lSMWVvMmRibmNjMA?oc=5",
-      "source": "The Economic Times",
-      "date": "2026-06-03T07:30:00+00:00",
-      "description": "Tamil Nadu geology, mining dept to conduct enhanced drone inspection to find illegal mining  The Economic Times",
-      "query": "drone illegal",
-      "detected_at": "2026-06-03T09:41:46.485058+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "113da647ea54"
-    },
-    {
-      "title": "'It should be illegal': Video captures illegal drone buzzing by Yellowstone grizzly and cubs - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdk1iekFydE5POUN2YlpJOUR3cjVBNTBNQmZ6Vy0wazkxeWFkOHRJRWhNT2o5Ykx6Q3hQN29VNHFRS19qMWxYNGVpbkNJRzQ4ZUt4QWhxOVRQOV9Ya0p5TnpCZ2ozMElvamM5WlNLNFh6VGJ2TEQxNUF0NFhFekxYYkFOQWpPcllEWHNFRlpBLWVGTDhv?oc=5",
-      "source": "Yahoo",
-      "date": "2026-06-03T07:40:00+00:00",
-      "description": "'It should be illegal': Video captures illegal drone buzzing by Yellowstone grizzly and cubs  Yahoo",
-      "query": "drone illegal",
-      "detected_at": "2026-06-03T09:41:46.485058+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "71f3015bdf92"
     }
   ],
-  "last_updated": "2026-07-01T20:37:40.555592+00:00",
+  "last_updated": "2026-07-01T21:34:15.855343+00:00",
   "total_count": 1000
 }
