@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "JetBlue Reports Drone Strike Near JFK - Aero-News Network",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnZ1U2xxQWZVZ2hmcGluM3BNWVJEbWZEVERJRG1kTVpVal9Nd0d4cGdqTU9hdzdZQ1FLRElZVXNEdXNpNnUxV0hiUUFhM0Jlc3R5d1lRVG1kcjhQalJiVThVU0VyZ1VhRjktS3ltNWU1d2pCRG9sX2xOUGFMcjNnY1UzZm4wUk5RWEo2TllVUzRfaEZUUHk0?oc=5",
+      "source": "Aero-News Network",
+      "date": "2026-07-01T09:59:46+00:00",
+      "description": "JetBlue Reports Drone Strike Near JFK  Aero-News Network",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-01T11:08:56.817027+00:00",
+      "location": "Near JFK",
+      "category": "other",
+      "id": "e896009499a3"
+    },
+    {
+      "title": "Germany Aligns With United States, United Kingdom, Canada, Australia, New Zealand, France and Austria on Russia Travel Alerts as Ukraine War Drone Threats Raise Airport Closure, Fuel Shortage, Rail Disruption and Visitor Safety Risks Across Moscow, St - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYmFwNUltandIcllmNlJjYm51R3dybVVINU9ieHl2cFN6dldOZzU5S2ZTRHhJN1JSQnhNalpsMjNhMG81T0FremdXdHp4QkV6TXBFa3N0UGNiem16U2N6X0l6YnZ1bnhtVjhiUG1B?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2026-07-01T09:57:23+00:00",
+      "description": "Germany Aligns With United States, United Kingdom, Canada, Australia, New Zealand, France and Austria on Russia Travel Alerts as Ukraine War Drone Threats Raise Airport Closure, Fuel Shortage, Rail Disruption and Visitor Safety Risks Across Moscow, St  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2026-07-01T11:08:54.313087+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c0d15aef7161"
+    },
+    {
+      "title": "Man accused of flying drone with package attached near Atmore prison - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0g2Y2lWaWdfeVV5Vi02X3d1N3R0V3FiR3BCb3JzckUwWWNST185aWNBVThXaEVCUzNHVXZDeVFxcDZhWDFFVzJvVkktd1ZQRlFrdjVUWVFyMFNTd0hzWkozdG1jMlBKMHJhOU0ycmtKMWZKRHJ5b0N1UTI0RnJoV3lxTUFKZXptS0RheWc0NA?oc=5",
+      "source": "Yahoo",
+      "date": "2026-06-30T21:37:45+00:00",
+      "description": "Man accused of flying drone with package attached near Atmore prison  Yahoo",
+      "query": "drone prison",
+      "detected_at": "2026-07-01T11:08:53.768672+00:00",
+      "location": "near Atmore prison",
+      "category": "smuggling",
+      "id": "0186b8d1b7d9"
+    },
+    {
+      "title": "Hamas may have received dozens of drones that crossed into Gaza - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ud29NZjNfdWhFcDcyeGgtakR0N1plbkdCR3ctV3h2VHp3dmdzQnRhVU9JQkRUOEtzTGY4MDJ6dmpvTkFCY0RWRUlhcUZTMzB4OWZ1VGF6Z0ZXVGxScUd4a1NoVFRZT19VOHRDai1n?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-07-01T10:00:03+00:00",
+      "description": "Hamas may have received dozens of drones that crossed into Gaza  The Jerusalem Post",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-01T11:08:53.227608+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "db28162c7085"
+    },
+    {
       "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "e5c9b3cd1f09"
-    },
-    {
-      "title": "Houston police to deploy drones during World Cup matches - Chron",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0RXRjWmJKRkhVRzM5bmViWURudHc3b1VtakpjTE1Dc3YyRld2NHBELTREcVI0andlVkFZakVzZzduTDRLeDNMc09mSXZmTm0zNGN2Ni1YdDNiUldJejVYaEhRTHFRZnowanBDT1hiTWxwdFRQUkFxRk9lY2x2RGs?oc=5",
-      "source": "Chron",
-      "date": "2026-06-02T19:15:47+00:00",
-      "description": "Houston police to deploy drones during World Cup matches  Chron",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-02T21:07:03.088974+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "27cb77fca03e"
-    },
-    {
-      "title": "Third Generation Gangs Strategic Note No. 61:Drone Strikes from Haitian ‘Task Force’ PMSC Vectus Global Kill Over Twelve-Hundred People - Small Wars Journal",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWHE2c0dnUGpVWkY1ODZFVC10NmhmRkhtVTliT2kwUjZvbm9faktXSjVXYW1hX3gwU09JMXMwdThqLVBseEtfQllhc3hsWk1WSW1hNFJfTThJbjlzUWVyR0dzbXFtZlVXOEdTLW1SbzVKeV9lRC1scE00dkpkZzZpbUV2MGZqWnQxRVN2bXpUaEZ2WmpndDFyblJYeVZGMm9vX09IYUxFLTV3TWtoakJfeVFKZl9LczA3UjNtT2xRT21kUm1CTmMyaUl4VjFvaXNmQU9JZVFVV1NXTVdBNVlnVkcySzlrZHJmLVFMWkJobU1vcFlvM09UYmU4cDBlMUhDQnc?oc=5",
-      "source": "Small Wars Journal",
-      "date": "2026-06-02T20:30:40+00:00",
-      "description": "Third Generation Gangs Strategic Note No. 61:Drone Strikes from Haitian ‘Task Force’ PMSC Vectus Global Kill Over Twelve-Hundred People  Small Wars Journal",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-02T21:07:03.088974+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ef52b54a72de"
-    },
-    {
-      "title": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy - kvue.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONFctZ1l2MmYxWHFRcTljbUhXRkxaekpWandtRGdMLTZZV1lnVVJtdVpRWjNNREp1RWFSU2xtVnlCampZbGFlM1JTRDRJQzVRM1dqQzRDRk9VdmVqSW9PTy1fM3lhb3o0dXpfc2J4S2tEX0FoT25oSkhlUkZzS1NWVndjWDBQY0hoUmE2cElqWHZQVEdHRHZ5aW5iUkc5T2NJZm0xV05BYjlNSlR6OW9HODdkYURhOGVFZkw2b0RFWW5KbElITW1pSjRjRmZGaUlJVThIWVFST0hqd1lQQ3hMMWJwbENOdGtvdUgwdTZtb1JKTlh4MG1iN2tqQ2p2LXR2N2w4MkZZZUlxNU16NjNwcDZDME02QQ?oc=5",
-      "source": "kvue.com",
-      "date": "2026-06-01T14:00:00+00:00",
-      "description": "North Carolina investigators use drone to arrest man in fatal shooting of Virginia deputy  kvue.com",
-      "query": "drone arrest",
-      "detected_at": "2026-06-02T21:06:59.056434+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b98e22412b3a"
-    },
-    {
-      "title": "Lake Chad: Navy Uses Drone Intelligence to Arrest Terrorist Logistics Suspect - PRNigeria News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQVBJMGp2Q2tyRHV1NEFHbDhCN3BfVEpzV1RvU0R6RXphRTNrREFPdU1VR2dTUFRTZU9NYXdvZk1faExrUEN4SFJWYVdvSWJSdThxaERXLTFzY2hhN0l3YzdtMnBFT0NlMXQ2MklRd1Vrdw?oc=5",
-      "source": "PRNigeria News",
-      "date": "2026-06-02T12:06:57+00:00",
-      "description": "Lake Chad: Navy Uses Drone Intelligence to Arrest Terrorist Logistics Suspect  PRNigeria News",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-02T19:19:07.323937+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "1821115564a2"
     }
   ],
-  "last_updated": "2026-07-01T09:12:58.869039+00:00",
+  "last_updated": "2026-07-01T11:08:57.317851+00:00",
   "total_count": 1000
 }
