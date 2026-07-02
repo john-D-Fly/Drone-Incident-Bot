@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "New Report Asks How Prepared We Are to Fend Off Unauthorized Drone Activity - Streetwise Reports",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHhxbmpTZFVzQ2NKZUM2REZNblRuWkNLMk9SeXAwLXFjTlkweU8yQVMzWkhNZmxsRVc3aUc1VVI2T0x4bGdObFVwVTl5VEhFOFg4WWNmT0lDWW1XUFl3amJ2VTJzbGdYWU1nVVZfQnIxUHBmNmJEZUFEMEF0TW9uOElMc0l3YUZySy1ncFF6NzMya3JMMkxYZnZFazlsUGZzSjVaZWQwTDFpY3BFaFVfVnlSVzNmVVJ1cGFyOEp0dWhRXzJzYVJqVWRxSXhVQQ?oc=5",
+      "source": "Streetwise Reports",
+      "date": "2026-07-02T12:42:33+00:00",
+      "description": "New Report Asks How Prepared We Are to Fend Off Unauthorized Drone Activity  Streetwise Reports",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-02T15:14:44.060544+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "5b2b279a96e2"
+    },
+    {
+      "title": "First Responder Drone Assistance Leads to an Arrest - El Paso County Sheriff’s Office",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0N2b0FJQklKZlpDdll3cVZ4V3BtTThjLVZkSThQQjVOVXZjRXdzMFIwY0VfVnNFdkxEbUNHbk5MeVNWOW9fYWJxdDJQQjAwRGJpVHFyaGNscGRmVXVuUHJpbnNoa1VSdm5udzlXM1pWMWxLLUJzZHdsaWdrWUxnMEJhOFpoaDZuaUE?oc=5",
+      "source": "El Paso County Sheriff’s Office",
+      "date": "2026-06-30T20:07:16+00:00",
+      "description": "First Responder Drone Assistance Leads to an Arrest  El Paso County Sheriff’s Office",
+      "query": "drone arrest",
+      "detected_at": "2026-07-02T15:14:39.665809+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "02a2557e590d"
+    },
+    {
+      "title": "Belarusian passenger bus attacked by drone on russian border, injuries reported - Belsat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSnFsOHd3UlQ0MGlGN2laRldQeUw2eW5mOVkzUHhKTEhqWWNuUTdQY2RVNFBoYWZ3MFdoSTRUTlIxSE5vcHNjNFFhTTVscTdkME81RFJhamlOczVVRjdzdjUxdUNjOVcycFBhV3NuR3dmVUg3VENBSjljdVZYMVkwYXM5VFZ0bFltR2hzUU1maDdGRndwWVBZSmRKbDgxbnI4SFliWWJySmZ6clJQ?oc=5",
+      "source": "Belsat",
+      "date": "2026-07-02T13:26:00+00:00",
+      "description": "Belarusian passenger bus attacked by drone on russian border, injuries reported  Belsat",
+      "query": "drone incident",
+      "detected_at": "2026-07-02T15:14:39.101218+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "64b7877407cc"
+    },
+    {
       "title": "When an unauthorized drone approached the port, an alarm was issued in the general situation room. T.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENUs4bFVDbHJaUG1VRDBFMXRqZXdDc0l5U2Q0cWtmcXdRZkd1TUZuUTNwWGhvVWJlT3dJZmtrazAtaHlmaVE2WUtjZHZOOWJzN0E?oc=5",
       "source": "매일경제",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "edd8961066f0"
-    },
-    {
-      "title": "One Dead After Drone Strike Hits Kuwait International Airport - Simple Flying",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JNmxDOHNjVFZRclVBeDYtWmdMXzRscWhPV0hiUnJTblg2VURqUTU5THRNc0J0UjMyV2ZoLWRVcDI3dkFOMzdSUnlaSjB0bDdwd2NiWFF2TGhZSW5SLXNDSDJ1Uk9qcmYtZFA0LWU2MjZEbFBFM1E?oc=5",
-      "source": "Simple Flying",
-      "date": "2026-06-03T14:06:30+00:00",
-      "description": "One Dead After Drone Strike Hits Kuwait International Airport  Simple Flying",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-03T15:37:31.062520+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a482ebee8072"
-    },
-    {
-      "title": "Southern military region thwarts drone-based narcotics smuggling attempt - وكالة الانباء الاردنية",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNck82RlJBYlBEMUxDaXRrNzlma1Q2ak9GbFM2bGVMRjNhaUFLWXZqWnQyU1VYYnBMRTdmVDVrRXlVa1NObE94Z05rdkVZRnVQTmtSM2xMYXI1SkxlRVc0WVFIRUtKcDM2QlNwSHd6bWRvYjdvOWVmTmtETTJHUWFSZGVzV3RTajFVLUg3dkRKTnpDU3I3a3poUDhxQmxJamMzd1Zn?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "date": "2026-06-03T15:22:40+00:00",
-      "description": "Southern military region thwarts drone-based narcotics smuggling attempt  وكالة الانباء الاردنية",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-03T15:37:29.922508+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "366481db48ca"
-    },
-    {
-      "title": "Police drone helps arrest suspect in apartment break-in attempt - Action News 5",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmZYUkJVd243RHhEMWRQSXY3dU1Ga1dnY2NEZUQ2TzVEanl6VUNxRG0zb2hualByRGNWNGxyaTFxMTQxbjRTTU5lbEliUi1XaFFCRUJfUGlJZUVKU1hSWEpWRk1kSmotaDFpdVhDVFR5X2dqdy13djNlMllNbWFOTHk3VU02eVZpcXE4ZFJSdkZzY0M2OF9hTC1jZDh3cjI5cml5a2prcmFDdw?oc=5",
-      "source": "Action News 5",
-      "date": "2026-06-03T14:11:20+00:00",
-      "description": "Police drone helps arrest suspect in apartment break-in attempt  Action News 5",
-      "query": "drone arrest",
-      "detected_at": "2026-06-03T15:37:29.396199+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c3b100ed99dd"
     }
   ],
-  "last_updated": "2026-07-02T12:08:23.667074+00:00",
+  "last_updated": "2026-07-02T15:14:44.542749+00:00",
   "total_count": 1000
 }
