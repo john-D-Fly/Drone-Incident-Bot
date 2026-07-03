@@ -1,0 +1,133 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a significant number of incidents related to unauthorized drone activity, particularly around the ongoing FIFA World Cup, with over 500 drones seized in connection with the event. Drone strikes in the conflict between Russia and Ukraine have resulted in casualties, and there are concerns over recent attacks on infrastructure, including allegations of drone strikes targeting Belarusian citizens. Additionally, the drone smuggling narrative continues as multiple arrests and operations are reported. Growing tensions regarding drone safety regulations around airports and events have led to stricter enforcement measures. Ongoing discussions on national security policies are rising, given the unauthorized activities observed worldwide during high-profile gatherings.",
+  "totals": {
+    "other": 35,
+    "arrest": 7,
+    "smuggling": 3,
+    "airport": 10,
+    "security": 5,
+    "terrorism": 6,
+    "crash": 3,
+    "total_incidents": 54,
+    "by_category": {
+      "airport": 7,
+      "arrest": 6,
+      "crash": 3,
+      "other": 28,
+      "security": 4,
+      "smuggling": 5,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 8,
+      "drone crash": 2,
+      "drone illegal": 4,
+      "drone incident": 9,
+      "drone smuggling": 4,
+      "drone terrorism": 9,
+      "unauthorized drone": 17
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "The frequency of unauthorized drones during high-profile events, particularly around the FIFA World Cup.",
+      "incident_ids": [
+        "32ddb6aaa83b",
+        "cb05d9a04872",
+        "def1975cbf8e",
+        "nazlong",
+        "d3a0e6f5c003",
+        "4158a084ff2f"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Security",
+      "rationale": "Continued issues relating to drone smuggling operations impacting prison security.",
+      "incident_ids": [
+        "12e1aa28bf6f",
+        "60dc7c348328",
+        "4eae25479388"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "32ddb6aaa83b",
+      "headline": "1,100 drones challenge FIFA World Cup security, 500 already seized",
+      "one_sentence": "More than 1,100 drones have been reported in proximity to FIFA World Cup events, with 500 seizures noted.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "fd66271ddb71",
+      "headline": "Ukrainian Drone Attack Wounds 2 Belarusian Bus Drivers in Russia’s Bryansk Region",
+      "one_sentence": "A drone attack attributed to Ukraine injured two bus drivers in Russia's Bryansk region.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "81d0b840b483",
+      "headline": "Russia, Ukraine trade blame over overnight drone strikes that kill at least six, injure 22",
+      "one_sentence": "Drone strikes exchanged between Russia and Ukraine resulted in significant casualties.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "32d8f4ad0185",
+      "headline": "IISS Report Names Real Russian Drone Incidents and Phantom Ones",
+      "one_sentence": "A new report by IISS clarifies the circumstances surrounding reported Russian drone incidents.",
+      "risk_tags": [
+        "drone incident"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "60dc7c348328",
+      "headline": "12 charged in alleged prison drone smuggling operation across 8 states",
+      "one_sentence": "Authorities charged 12 individuals in a drone smuggling conspiracy impacting multiple prisons.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f4d716ce6326",
+      "headline": "Police share drone footage of stolen vehicle arrest in Cathedral City",
+      "one_sentence": "Police utilized drone footage to assist in the arrest of suspects linked to a stolen vehicle.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "c87c10b0cb70",
+      "headline": "Drone Reportedly Strikes Belarusian Passenger Bus at Belarus-Russia Border",
+      "one_sentence": "Reports indicate a drone strike targeted a Belarusian passenger bus along the Belarus-Russia border.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight significant security challenges as unauthorized drones disrupt high-profile events like the FIFA World Cup.",
+    "linkedin": "Multiple drone incidents over the past 48 hours underscore ongoing security threats, particularly around major public events and international tensions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-03"
+}
