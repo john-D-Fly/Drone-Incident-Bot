@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "A buzz above: How drones are rewiring the Fourth of July - Westword",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaU43blpYMWgya25jcXo5QUpLbHlSczI4QmFnbTd3S1E4V2cwOHRuZGxnX3JLZk5iOFFWSUZRdzA4dXYzV0xaOVY0VTVRYkZKSWNWN1dYWVlLc0NJNTd5Ny12VDhsdmUwLWtsTE5QYmxkMUpsN216ZGtJOTJDQ2FfUnVJRmpTendrYjBiVk1FWTg?oc=5",
+      "source": "Westword",
+      "date": "2026-07-03T13:21:16+00:00",
+      "description": "A buzz above: How drones are rewiring the Fourth of July  Westword",
+      "query": "drone illegal",
+      "detected_at": "2026-07-03T15:10:57.985110+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9e7fcc7a1e2f"
+    },
+    {
+      "title": "Kingston Police, CSC extend partnership to combat prison drone contraband - The Kingston Whig Standard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlEyaFFtbHN3X2ZfWWpZUnhmUDYxbjNjX0NsSmVmM1diOHpxaGdualJjaVZ0bjlqeDlpczZRUjM4ZEdEVkZ2dGRQZDI4Y3YyZkowWU11TWF5bWYwTlMzU0E0RUwzRkl5TWRFLWMwdHp3cUVzMDl3cVp0dEw1NUZDMGM2LTJhNllVM1k5SVVEckh1VjNTZjZhZVlQNE5BNUUwUVVj?oc=5",
+      "source": "The Kingston Whig Standard",
+      "date": "2026-07-03T14:39:42+00:00",
+      "description": "Kingston Police, CSC extend partnership to combat prison drone contraband  The Kingston Whig Standard",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-03T15:10:55.774233+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "090326f920a1"
+    },
+    {
+      "title": "Romania and Ukraine classify Constanta naval drone incident as one off - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qNEx0NTNMNUpzSTNHSmJaa0thbk92a3dsclN6cjVGVkYyZWpFal9iOWp6R2NIQ0NjMHNNNjVCM0ZHb2ZONTZMUVN4UzNLcFp0MWhhRUotaHp1cE5kZzZlVHF6WENOQVhG?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-07-03T14:28:42+00:00",
+      "description": "Romania and Ukraine classify Constanta naval drone incident as one off  Межа. Новини України.",
+      "query": "drone incident",
+      "detected_at": "2026-07-03T15:10:54.741733+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6158e5952537"
+    },
+    {
       "title": "1,100 drones challenge FIFA World Cup security, 500 already seized - DroneDJ",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2aFRmNG9xRlUyajVncFg5MzdIdklWVE5aNEpqNndiUDF6VWtCZ1JCdzRFVnRYOGRVLXZ4eFBBNmJrV1NqSURnMGJBVTN3TGV6VURZWnpmOXZXX0JRV1kyY2w5Wk9KMmxi?oc=5",
       "source": "DroneDJ",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "6136b76143cb"
-    },
-    {
-      "title": "Etihad Joins Emirates, IndiGo, Qatar, Jazeera, Kuwait and More in Suspending Flights to Kuwait International Airport, Dubai, Hamad, and Bahrain International Airport as New Hostile Drone Strikes and Emergency Airspace Closures Trigger Widespread Travel - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LeS1RTVhpN0tRUEdzdnNLTEFRUTl3UE1vdWM0cE1DYXFONXFCcDh5Z2txcWR0WVl0VVc3TzluZkM1MVU5di1EWkVVZS1FeDE5dm9xbjlGS211d2RlSkJjNnZmaGp3WGxOd0R3enJR?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-06-04T10:33:47+00:00",
-      "description": "Etihad Joins Emirates, IndiGo, Qatar, Jazeera, Kuwait and More in Suspending Flights to Kuwait International Airport, Dubai, Hamad, and Bahrain International Airport as New Hostile Drone Strikes and Emergency Airspace Closures Trigger Widespread Travel  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-04T13:11:09.671822+00:00",
-      "location": "in Suspending Flights to Kuwait International Airport, Du",
-      "category": "airport",
-      "id": "1f777a832af5"
-    },
-    {
-      "title": "Ukraine scales up drone attacks in Moscow, across Russia to record highs, data shows - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVF92cEFJUnl3ajRvb2NjVWs4cklWVkdhaUlyR2Q3NTdXQVEzLTBDb0d4dGNzalp4UkNhVVV4ZEtWcmVYRkYxU3c5YVhrNzgzckFPTUI4WUtSRTJSM3ZnM0VNTWdhYUNlakdWdmVBQktHSk9mM25NblBDcy1yLWdINGtSQTdkbWNnWGNuYUFKZlRnRVJ5aGhULVNUYThOTHR3STgyVVR0emc2VnRK0gGyAUFVX3lxTE1VbGs2TEdWWFBTbHc0ODdDeXNYT0lqVWdrN0JpR3lGVlRyQml4aGhzbWFzMXRqNXF3U1cyZlhqa3oyZG5wUnl6d05DcDBLMGxBWmZzR3FSa0RYSW5pVGxzb3RYeUN4SXJMb25fZ0ZBQnhhR0JsY1JYM1cxOVVBeEJCTGR4b3pBanVGWU9CdVZwVDNZQ0wtbUR5cC1RNXhzd04wRDhXR0QzVUVGbmZrWXIycVE?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-06-04T09:22:24+00:00",
-      "description": "Ukraine scales up drone attacks in Moscow, across Russia to record highs, data shows  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-04T11:07:04.152401+00:00",
-      "location": "in Moscow, ac",
-      "category": "other",
-      "id": "d127aa3b2de6"
-    },
-    {
-      "title": "Russia’s drone tech is a looming terror risk — now available on eBay - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmNPYUI2cmZuUkFuQTdDcVlFVnVfNEd3WDhMZDZ3TFFaMEUzaWRJclluZTgtT2JqTmZjalluNnFDSEVqM2tMeHg3N0JvTThyZjMxNFZteEREUDk3T09fSnd5ellveDJIYnpfMXpDVldfaTJzNFNhenY0dVFDYVg4ODc1alZFZGtFUzlOSTRuR0ZhV01VSW4wWVNn?oc=5",
-      "source": "New York Post",
-      "date": "2026-06-04T10:30:00+00:00",
-      "description": "Russia’s drone tech is a looming terror risk — now available on eBay  New York Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-04T11:07:04.152401+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "f2f06bbc3373"
     }
   ],
-  "last_updated": "2026-07-03T12:13:29.828145+00:00",
+  "last_updated": "2026-07-03T15:11:00.154519+00:00",
   "total_count": 1000
 }
