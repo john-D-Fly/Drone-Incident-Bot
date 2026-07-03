@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "1,100 drones challenge FIFA World Cup security, 500 already seized - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2aFRmNG9xRlUyajVncFg5MzdIdklWVE5aNEpqNndiUDF6VWtCZ1JCdzRFVnRYOGRVLXZ4eFBBNmJrV1NqSURnMGJBVTN3TGV6VURZWnpmOXZXX0JRV1kyY2w5Wk9KMmxi?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-07-03T11:53:00+00:00",
+      "description": "1,100 drones challenge FIFA World Cup security, 500 already seized  DroneDJ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-03T12:13:29.259435+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "32ddb6aaa83b"
+    },
+    {
+      "title": "Ukrainian Drone Attack Wounds 2 Belarusian Bus Drivers in Russia’s Bryansk Region - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEVYODlla0dMZHU4YVdNTkpsbDFndUpDNV9zOE1ibzZsLTNDVmlzS3BVc1FMS1k1d0s5TjVKN3JmU0MtUlN3VmhPYm8xMHczb2VTREMwWFUzNkVrUHRyU0hyMXBXSld3RlVIcnNLYkJZaTh2VXlJNWJ3WTFBd3FqeXlyM05MMHhINmpqaWUxWXctWGp6ZjFuUzNIckU2QlRMYTNOR3dzWVBwaVhROWV4R3BRT3dXUjVMS0FQOWM3Q1JTWEMwS1NJYg?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-07-02T14:10:45+00:00",
+      "description": "Ukrainian Drone Attack Wounds 2 Belarusian Bus Drivers in Russia’s Bryansk Region  The Moscow Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-03T12:13:28.638301+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fd66271ddb71"
+    },
+    {
+      "title": "Russia, Ukraine trade blame over overnight drone strikes that kill at least six, injure 22 - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VZTlwYkpPVlFuNm5GczJWVXRaQjNpemJocUxhdGpYempMYmlsWHlKSTBjejJMaC1hal96Ny1tNENJV1pIMGV2VkZ0SG5YSWRHdnlHeFp6Rlg?oc=5",
+      "source": "TRT World",
+      "date": "2026-07-03T09:57:54+00:00",
+      "description": "Russia, Ukraine trade blame over overnight drone strikes that kill at least six, injure 22  TRT World",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-03T12:13:28.638301+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "81d0b840b483"
+    },
+    {
+      "title": "New Report Blames Russia’s Shadow Fleet for Europe Drone Incursions - The Aviationist",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGtzX0tmby10Vm9leWYwLUhxVjRZWENSX1E1WUgtRGE5ZndsTF9oZ2ZQYW5fQU1fbzVQTmFfY0xDTGZ5dEE2ZjkzMGFPMW9Nemx4Q1c0Tjc4MHRMb1Q3bmZHdVdqNkZGU3YyS1ZEQmYwT3pmX2xXcFZPZ3hvay1fMDBfb213c25jbXc?oc=5",
+      "source": "The Aviationist",
+      "date": "2026-07-03T11:14:00+00:00",
+      "description": "New Report Blames Russia’s Shadow Fleet for Europe Drone Incursions  The Aviationist",
+      "query": "drone incident",
+      "detected_at": "2026-07-03T12:13:23.999113+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e69e9136013d"
+    },
+    {
       "title": "IISS Report Names Real Russian Drone Incidents and Phantom Ones, and the Difference Is the Story - DroneXL.co",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMEc4VWJnNTVDOUg3X19kY2RTdWdHTkpuTmhLaHdhLUZPcjVRNzJ5MFlfMDdmbzNzeU9FOVVHYk9QTm9zQVBZenlUalhoQUJIQmZYRE9MV1VhRDkwdXJ4b2Q1QWE5cFRZMjJDd1VEVUF5RFFfMmNkQUwtcjdZNEI3WHRUeUVvendSNTBN?oc=5",
       "source": "DroneXL.co",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "f2f06bbc3373"
-    },
-    {
-      "title": "Kuwait releases footage of an alleged drone crash into its airport - MSN",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUm9nSl9vai1wVHFMTnUxOUgzSkNmNUJYVDdObEg5cjY2dDJJRGRBUWdPb05wWDVZSElzMXhhNXFURTl6UFFTa1IzUzF6RkUwWXlmcjBlVlR0Y0FqdTF5MzJJNTVTVnhFX050aXg1NWR1UkhGOUdleDBTZVJ6WVBJOGhRVEdrZFUxUlJGSlEtNGdOenU0Z01Sb1BiYnhBYXpnb2VXbU5oR1BWYXpvVG5ZRVBlc3U?oc=5",
-      "source": "MSN",
-      "date": "2026-06-04T06:24:21+00:00",
-      "description": "Kuwait releases footage of an alleged drone crash into its airport  MSN",
-      "query": "drone crash",
-      "detected_at": "2026-06-04T11:07:02.400162+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "406547f2c7e9"
-    },
-    {
-      "title": "New drone program helps Memphis Police make faster arrests - localmemphis.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTXVhM2dpMWptWU1CblBJOGNuenZpUmxHbHBjdzYzVktCTGFmZHpIVnBqU180NUJpMGx4MUhfWkhWWVdGSGdXMEFpaFR5cmg3eHM1R0s5RzNsR0JkMkxYYkwtbllRS0NRNWppUXJqeW1HajZ1UEtPOFBTMnRvWlZzb2RRMC1EeVZPemJEdHQwcmNadkx2ejlxNmlDQU9UR1phYm1YdU1PNzRxVEVIU0NiTC1tLWZEZzBLdmRfVUQ5R0FhT29Pa245WnZESm84X29jY1MxLWVJQ3lCUlBFbmJfTS1IU3VwZ0ZncVFOVzNnN20?oc=5",
-      "source": "localmemphis.com",
-      "date": "2026-06-04T03:31:00+00:00",
-      "description": "New drone program helps Memphis Police make faster arrests  localmemphis.com",
-      "query": "drone arrest",
-      "detected_at": "2026-06-04T11:06:59.863952+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "7313f73ce552"
-    },
-    {
-      "title": "Ukraine scales up drone attacks in Moscow, across Russia to record highs, data shows - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVF92cEFJUnl3ajRvb2NjVWs4cklWVkdhaUlyR2Q3NTdXQVEzLTBDb0d4dGNzalp4UkNhVVV4ZEtWcmVYRkYxU3c5YVhrNzgzckFPTUI4WUtSRTJSM3ZnM0VNTWdhYUNlakdWdmVBQktHSk9mM25NblBDcy1yLWdINGtSQTdkbWNnWGNuYUFKZlRnRVJ5aGhULVNUYThOTHR3STgyVVR0emc2VnRK0gGyAUFVX3lxTE1VbGs2TEdWWFBTbHc0ODdDeXNYT0lqVWdrN0JpR3lGVlRyQml4aGhzbWFzMXRqNXF3U1cyZlhqa3oyZG5wUnl6d05DcDBLMGxBWmZzR3FSa0RYSW5pVGxzb3RYeUN4SXJMb25fZ0ZBQnhhR0JsY1JYM1cxOVVBeEJCTGR4b3pBanVGWU9CdVZwVDNZQ0wtbUR5cC1RNXhzd04wRDhXR0QzVUVGbmZrWXIycVE?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-06-04T09:05:30+00:00",
-      "description": "Ukraine scales up drone attacks in Moscow, across Russia to record highs, data shows  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-04T09:23:43.626833+00:00",
-      "location": "in Moscow, ac",
-      "category": "other",
-      "id": "c3f1eca5dfe2"
-    },
-    {
-      "title": "One killed and 63 hurt in Iran attack on Kuwait airport as Trump says ceasefire talks ongoing - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDM3X2JqVkh5Sm5LbzdhMi1CTEFmdjhSdmE1c0VaVzBwM0cxN2dabzJfRERKTkpyNnBSVFJrdk5wTzlDSEw2dGRFbnVoekZ1R2J3TnZVaGxneTVuQzRMR1hHUEhkczZFQ2hZUTJHMnJEbEhxZGpYaHZzUmNxUFo5dHBHSVF1NU1yQm0wUS1obw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-06-02T23:36:00+00:00",
-      "description": "One killed and 63 hurt in Iran attack on Kuwait airport as Trump says ceasefire talks ongoing  The Guardian",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-04T07:43:23.071784+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "50d69f790311"
     }
   ],
-  "last_updated": "2026-07-03T09:58:08.928056+00:00",
+  "last_updated": "2026-07-03T12:13:29.828145+00:00",
   "total_count": 1000
 }
