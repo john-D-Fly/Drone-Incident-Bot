@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Police share drone footage of stolen vehicle arrest in Cathedral City - KESQ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFEyTmVZVXVtNlpSMWhtc21BbkJaU2RTN1ZjM2JXTWxjQV80cFZDbGxWVElWSE5PdF9rM2thN2Z1T3Q5a0FfU2tnVS1Zd2EwbjNUa1VibnBFVkVrNmJIYnRULXlCa2tCckFob0FVaHNOR0ZIcXZGZzIxMzJKc2Jsa3YzcWhfbFN4dF9GVkFWZjFKZE5lWVdCbHdNdk1vNG5ZcWVTczJn?oc=5",
+      "source": "KESQ",
+      "date": "2026-07-03T07:01:06+00:00",
+      "description": "Police share drone footage of stolen vehicle arrest in Cathedral City  KESQ",
+      "query": "drone arrest",
+      "detected_at": "2026-07-04T22:02:14.034203+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f373bf56284a"
+    },
+    {
+      "title": "Drone over crash scene nearly blocked medical helicopters. Sheriff warns it could cost lives - KCTV",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORm95YmNUalN4SDc1M1F1Wlg0VUNkUWY1NW1wV005eFNWTmtjTHZUX01BVU1jNHBTQUd5QWtWallpbldqemhUaGk1Q2h3bmwwR1FjM3hiM1lFNnZGa0VSV1h3cHJKV3FhUHpGNXVCN3B6VGR4OVMtdjdvcFhNV002cDFVVlFpcERtbU9uYlNzNGNvOG5DTDM0YzdMMVhZOW92WFRrNG5uNGszMG1GLXdJ?oc=5",
+      "source": "KCTV",
+      "date": "2026-07-03T18:25:00+00:00",
+      "description": "Drone over crash scene nearly blocked medical helicopters. Sheriff warns it could cost lives  KCTV",
+      "query": "drone incident",
+      "detected_at": "2026-07-04T22:02:13.450827+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7fc36dfec92f"
+    },
+    {
       "title": "Murrieta police use drone to bust armed convicted felons - KTLA",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUJxNVVIVUg3Y3prWkJIYmtPZ1MxVG1EYVNoQ2VUVmwzQlloblE0TnpFSTdIQXlRRHdNb1ZYQkxrUnZteUFRX29hY2hBQm1ZcG9JdTFuMkFaeG5UZVBNcHRhck9tczF4Mm5HOW5nNFRDYnhfa3dJTEo2blU0YmNNdElIOTRBWWlrZ1AxY1lQYWMzRFdEV205QQ?oc=5",
       "source": "KTLA",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "6d90c03f2597"
-    },
-    {
-      "title": "Marine drone self-detonates in Romanian port as Black Sea threat widens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODE4VF96MG1FWDhMRlBXbEFGbVozTGFJWmlVcG1rNjN4cTNXTjVkVWZzYzYwQkJpMkJrMGdKWnB0Z2xBSjJfNW4xT0xyNTdMa3FTeWdWYjZyNkRhRDBOSXBhbHdhYUlmWDdFdWh2eWdBeWNtT1FVcmsydjF6ZDlzbUVxQzRFbGRpQ2g1T2pDNFpWUVJKQk5GRDU3N1RtWmJiZS01aWxkV0ZUYV9RWGJXbXBJclVTdjJUVEJrWTIzVlRkY2dveG1VNzB5eThkM2lGV2c?oc=5",
-      "source": "Reuters",
-      "date": "2026-06-05T11:16:51+00:00",
-      "description": "Marine drone self-detonates in Romanian port as Black Sea threat widens  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-06-05T13:06:51.068154+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "d38e19725c88"
-    },
-    {
-      "title": "Russian Insurers Offer Property Protection Against Drone and Missile Damage - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWm0tOTNUYXFjTm94NUpHVHl5X2JaTmVvbmhEV0lZbXlqRWh4RTFJZzRxMjMzUzQwV1gwaTE4bENsZk1ZeVFqMm0tVENpdzdwZkJiT1l4Q2FwZEFSOUxBSkllclFaNEV6MERwNWU3dnJLalJBNFNMRDVQZkFPVzZXSXpyOHV3YkNnSEdBV3NDZncxUzVSVk1WSUJxR0c2NGx2ak5RZzIyVFpTYzlBV25xV2NDeS1LV0s3N3V1cnZBeXJWdw?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-06-05T08:58:54+00:00",
-      "description": "Russian Insurers Offer Property Protection Against Drone and Missile Damage  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-05T11:09:39.208724+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c8db7ae27a1d"
     }
   ],
-  "last_updated": "2026-07-04T20:57:16.427980+00:00",
+  "last_updated": "2026-07-04T22:02:19.084657+00:00",
   "total_count": 1000
 }
