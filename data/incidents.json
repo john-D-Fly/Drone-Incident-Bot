@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Sure you want to set off that illegal firework? A police drone might be watching - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnhfS1BUcVRGZ0tvVTh2b0YyVV9RZ1JEZ2lPcWZPOHJPMU1HMEwzbnJSMlBGLW1lWEs3ay1BN2g5ZjV3elJYZ0U4eEUwYk5GaXBfdE9mRl8yeWMtNndFM05JNl9KQVZ1cUdvUEdSYzItekQxWFNXZFRYLUpTSUVwRmtRcFJhejVxamJJZUpjUDlrS2JEbVY3UmJpZmxBZjFlVl9PQjVBMzFyOTJ3SVRXQ3ZYQ01rcjcwODFjaTJmVQ?oc=5",
+      "source": "The Seattle Times",
+      "date": "2026-07-04T18:31:44+00:00",
+      "description": "Sure you want to set off that illegal firework? A police drone might be watching  The Seattle Times",
+      "query": "drone illegal",
+      "detected_at": "2026-07-04T19:12:50.709321+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "013e5febd6d5"
+    },
+    {
       "title": "How California is cracking down on fireworks this special July 4 - USA Today",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkFUQjIxc3ZhLThGQkdfUGFGRzhsZWktcnpXSUhldW1ZVW4wSHprVWZxVVpaMTVVSXVCWnBKa2cyMHpYYVllR1NMSDVQV1lGT2U1cGs4V29JR1FjN0VSUEtrSmYzUk1NNmpEa1BGRENpSDBCV0txUzc3eGl3SFhTdDhYMXRYZXpRem50TFNRUUVBbFlJVE1MY3Z3VmZqbkZNa0xteXVjOEZ0Zm5FUDlmZDFETUN2cmNTa0E?oc=5",
       "source": "USA Today",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "53656795690c"
-    },
-    {
-      "title": "FAA confirms drone investigation in Cedar Rapids - thegazette.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnd1bXN2UTRfemtUejY0VC1nZjlRTWpGU0EzRHVkakh6azRIb01ObmxwZWxCemk0RUZRaHZwWmJqek1sZ0ZyZGxRZ3YtamEydkltSkx3d3ExYWVZNG5ZOGRERzI3QXFzQ3dpemhHNGFpWGkzdlFWS2tFb1BhZUlyRXZGUEZKNGJTMzhEaUg4YkxOaVpCSmV0alpPTGx5QTNOLUJwNFQwblQxNUh3SUdmN2F4SmdseENseXFQNW9XODFBWl9aa1FndlFiaGMxOW9Icnc?oc=5",
-      "source": "thegazette.com",
-      "date": "2026-06-04T22:19:57+00:00",
-      "description": "FAA confirms drone investigation in Cedar Rapids  thegazette.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-05T07:35:15.273869+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "021ff164c4fb"
     }
   ],
-  "last_updated": "2026-07-04T15:04:54.874772+00:00",
+  "last_updated": "2026-07-04T19:12:52.858689+00:00",
   "total_count": 1000
 }
