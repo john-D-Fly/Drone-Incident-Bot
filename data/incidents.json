@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "FBI has seized more than 600 drones near World Cup events - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2pOU0hQM1BuN0swVFpHYWVGdmJJOHlJSURmdmJxc29mbF9ZV3l3SHplSWVEdjBaa1ByMUplMWkteVZrMG94Vk1uLUVJazU0OUFzZnExTHBFajJrNXNqck5GSWFyLVQyajh2U0o3dkJBQVl0VEVKejVYcE0yUnlxMHlQUXpCTTVFMmRBdE81ZFI?oc=5",
+      "source": "NBC News",
+      "date": "2026-07-05T02:08:00+00:00",
+      "description": "FBI has seized more than 600 drones near World Cup events  NBC News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-05T14:43:07.382182+00:00",
+      "location": "near World Cup events",
+      "category": "other",
+      "id": "b3247d2d7afa"
+    },
+    {
+      "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
+      "source": "LSM",
+      "date": "2026-07-05T10:33:34+00:00",
+      "description": "Mystery drone crashes into lake in Latvia / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-05T14:43:02.602871+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d471b47cae28"
+    },
+    {
       "title": "FBI seized more than 600 drones near World Cup events - NBC News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2pOU0hQM1BuN0swVFpHYWVGdmJJOHlJSURmdmJxc29mbF9ZV3l3SHplSWVEdjBaa1ByMUplMWkteVZrMG94Vk1uLUVJazU0OUFzZnExTHBFajJrNXNqck5GSWFyLVQyajh2U0o3dkJBQVl0VEVKejVYcE0yUnlxMHlQUXpCTTVFMmRBdE81ZFI?oc=5",
       "source": "NBC News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "34eb4c35cc26"
-    },
-    {
-      "title": "Oman denies disruption at key oil hub after reported drone attack - Al-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnBmdk9SQXlhM2lQQmFOM3hlb1Y2aUxUeUQ2Q0pWRGxpUVpqUFBDZXhpLTZPVTRiUE9USnF1U0VVeUMxaGNrVHpDZzJWVzNBczN1NkZtWGdGMjBTT2lSY1VDX2Y2MDhxRGVuOE02V21KaUtCTVh5cWZXaTBYNUg5a3JtRzhBLUFfZUVmSG4yT1NBdVNLWkFWeVZlZkZJdHN3TzJJN2tDS08xQUk?oc=5",
-      "source": "Al-Monitor",
-      "date": "2026-06-05T12:43:04+00:00",
-      "description": "Oman denies disruption at key oil hub after reported drone attack  Al-Monitor",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-05T16:51:12.657127+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "3f89a0dd9806"
-    },
-    {
-      "title": "Drone explodes in Romanian port as Ukraine blames Russia for jamming it - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODE4VF96MG1FWDhMRlBXbEFGbVozTGFJWmlVcG1rNjN4cTNXTjVkVWZzYzYwQkJpMkJrMGdKWnB0Z2xBSjJfNW4xT0xyNTdMa3FTeWdWYjZyNkRhRDBOSXBhbHdhYUlmWDdFdWh2eWdBeWNtT1FVcmsydjF6ZDlzbUVxQzRFbGRpQ2g1T2pDNFpWUVJKQk5GRDU3N1RtWmJiZS01aWxkV0ZUYV9RWGJXbXBJclVTdjJUVEJrWTIzVlRkY2dveG1VNzB5eThkM2lGV2c?oc=5",
-      "source": "Reuters",
-      "date": "2026-06-05T15:13:33+00:00",
-      "description": "Drone explodes in Romanian port as Ukraine blames Russia for jamming it  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-06-05T16:51:10.291771+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "afcd36c3e82f"
     }
   ],
-  "last_updated": "2026-07-05T07:57:06.778331+00:00",
+  "last_updated": "2026-07-05T14:43:07.865300+00:00",
   "total_count": 1000
 }
