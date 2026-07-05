@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "FBI seized more than 600 drones flying over World Cup games in US cities - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQi1qM1g5eGhvNlV6RWREbXhTT3BXb0p1ZGdKSzFSRl9pVHV5WERBMTNqTkd5ZV9aQldlckNFeWpwelB1OU5LOU41dFY1MW5faHJodWp5WndJd3lJdWcwU09XZXl4R0FfUjhfbTZjUXBoOTFWNlQzc3FFbEU1VHBDQjZobm04b1lCMmNqbjhR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-05T16:37:00+00:00",
+      "description": "FBI seized more than 600 drones flying over World Cup games in US cities  The Guardian",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-05T20:13:37.002265+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3ab59d239b0b"
+    },
+    {
       "title": "FBI has seized more than 600 drones near World Cup events - NBC News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2pOU0hQM1BuN0swVFpHYWVGdmJJOHlJSURmdmJxc29mbF9ZV3l3SHplSWVEdjBaa1ByMUplMWkteVZrMG94Vk1uLUVJazU0OUFzZnExTHBFajJrNXNqck5GSWFyLVQyajh2U0o3dkJBQVl0VEVKejVYcE0yUnlxMHlQUXpCTTVFMmRBdE81ZFI?oc=5",
       "source": "NBC News",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e0f9bd6ad102"
-    },
-    {
-      "title": "Is Cyprus Airspace Open? Larnaca & Paphos Airport Status, Flight Cancellations & Travel Advisory — June 2026 - Wego Travel Blog",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVjl3V19OVnhFOUE0SkxRMjV3WjR5c2xZcU45d3NzOGZMcHBTZzVVclhwcnVSalFEWnVWUkFoUzEwV2tfS3lKNHoxQk1FSFN4WU93aHBhTUVEbFM3Nm5BNVRPeUl1MEV3dFlNLUQ3UnkwYXlpa3IxUE5UUUlfTDllc3FMclFLX3U3VFVBYWtIQm5BMWlhLVM2bHpBOTMwVGN4LWlSMmtZRzhHYldWaW1qbVhSWUVvdnhBcGRrSEEtMnVMQnp1MkMwM2ZpYmRvTFo4RW1NbEpMNUVUc3h1ajNELVRrYw?oc=5",
-      "source": "Wego Travel Blog",
-      "date": "2026-06-05T12:35:30+00:00",
-      "description": "Is Cyprus Airspace Open? Larnaca & Paphos Airport Status, Flight Cancellations & Travel Advisory — June 2026  Wego Travel Blog",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-05T16:51:12.657127+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "34eb4c35cc26"
     }
   ],
-  "last_updated": "2026-07-05T14:43:07.865300+00:00",
+  "last_updated": "2026-07-05T20:13:37.499651+00:00",
   "total_count": 1000
 }
