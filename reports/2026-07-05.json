@@ -1,0 +1,111 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone activity has surged significantly, particularly around World Cup events where over 600 drones have been seized for unauthorized use. Multiple incidents of drone crashes, including a mystery drone landing in a lake in Latvia, highlight safety concerns associated with unregulated use. Law enforcement agencies across several U.S. cities have deployed drones to combat illegal fireworks, especially during the Fourth of July celebrations, illustrating a proactive approach to public safety. There are ongoing challenges related to drone incursions—such as one incident that disrupted emergency services at a crash scene—underscoring the risks posed by unauthorized drones. Meanwhile, authorities have issued warnings regarding drone operations in sensitive environments, such as the ongoing drone smuggling investigations involving prisons across multiple states.",
+  "totals": {
+    "incident_count": 42,
+    "categories": {
+      "other": 29,
+      "crash": 8,
+      "arrest": 4,
+      "smuggling": 2,
+      "interference": 1
+    },
+    "queries": {
+      "unauthorized drone": 10,
+      "drone incident": 8,
+      "drone illegal": 15,
+      "drone arrest": 4,
+      "drone smuggling": 2,
+      "drone airport disruption": 1,
+      "drone terrorism": 2
+    },
+    "total_incidents": 36,
+    "by_category": {
+      "arrest": 4,
+      "crash": 4,
+      "interference": 1,
+      "other": 25,
+      "smuggling": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 5,
+      "drone illegal": 15,
+      "drone incident": 6,
+      "drone smuggling": 2,
+      "drone terrorism": 2,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "The significant number of unauthorized drones around the World Cup events and illegal fireworks incidents highlights a troubling trend in drone usage.",
+      "incident_ids": [
+        "b3247d2d7afa",
+        "961babced2e6",
+        "67fe889f12a8",
+        "7ae4748d9a0f"
+      ]
+    },
+    {
+      "topic": "Enforcement and Public Safety",
+      "rationale": "Authorities are increasingly using drone technology to enforce laws against illegal fireworks and manage public safety during large events.",
+      "incident_ids": [
+        "700115f9e9f1",
+        "dbe979861177",
+        "9b16e2a28205",
+        "f373bf56284a"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b3247d2d7afa",
+      "headline": "FBI has seized more than 600 drones near World Cup events",
+      "one_sentence": "The FBI has reported the seizure of over 600 unauthorized drones close to World Cup venues.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d471b47cae28",
+      "headline": "Mystery drone crashes into lake in Latvia",
+      "one_sentence": "A drone has crashed into a lake in Latvia, the cause of which remains unidentified.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9b16e2a28205",
+      "headline": "Authorities tackle use of illegal fireworks in San Jose during Fourth of July",
+      "one_sentence": "Authorities in San Jose are actively addressing the use of illegal fireworks during the Fourth of July celebrations.",
+      "risk_tags": [
+        "illegal drone"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dca7f3a69227",
+      "headline": "Man stabbed in Murrieta, suspect spotted by police drone and is arrested",
+      "one_sentence": "A police drone assisted in locating and arresting a suspect in a stabbing incident in Murrieta.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Intensified drone activity has been noted, with over 600 unauthorized drones seized near World Cup events.",
+    "linkedin": "Drone-related incidents have surged, particularly around World Cup events, raising serious public safety concerns across multiple jurisdictions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-05"
+}
