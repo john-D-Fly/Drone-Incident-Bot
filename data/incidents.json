@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Ukraine Strikes Russia’s Largest Oil Refinery in Western Siberia - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDZrY2ZoWnNabEwySFNZSXo4c0psVEs2OFZNNWhNR2VjcGFkcVg5Mmd0RE81UmtrVjkyUmN2NlA2WEZBSlE5Qi1uLXhSODlfeTBfZmFDX1czSXpYeGFRWmJwZkNrRkxrVWhXdjFvZDZPRUk4OGhwR2I0QmMwQ2hIOFdjdDNyT0pqZTBUNVN2MWw0ZEwwbHJJZEpWLUZGRzFIRnhBSWwtdGxaNTlUcldqVHdB?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-07-06T14:47:00+00:00",
+      "description": "Ukraine Strikes Russia’s Largest Oil Refinery in Western Siberia  The Moscow Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-06T17:42:47.849505+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b0ac239dbdc6"
+    },
+    {
+      "title": "Russian strikes kill 20, exposing Ukraine's air-defence shortage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-05T23:33:00+00:00",
+      "description": "Russian strikes kill 20, exposing Ukraine's air-defence shortage  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-06T17:42:47.849505+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0fa10a52256d"
+    },
+    {
+      "title": "FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5",
+      "source": "Dronelife",
+      "date": "2026-07-06T14:50:51+00:00",
+      "description": "FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T17:42:43.391015+00:00",
+      "location": "Near Airports Nearly Doubled in Second Quarter",
+      "category": "airport",
+      "id": "fccc453b2101"
+    },
+    {
+      "title": "Drone incident during Norfolk’s Big Bang Boom sparks investigation - KCAU 9 News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbk1IQWMtZUpUNUJ1anF2RE51RkZOSE5lbnpsMWY4VGRONDFlRDMyZ1pzaTJMMllxVkZpcFpGeWpJZ1BUYUhvZFpSMzVvbjBpeHRzRWxha0FsNmhmWlRWM29RMUl6czE4MHl5Qk80YjBBZzA5ZXhxTHdWRzUteG9PSm9RWC0xWkRPdXllR0VBa1ByRENWd3dGOVhBb2VVSTA4M2JjRkFvRGR2R0XSAbABQVVfeXFMT3VidW8zTS13QkhDWUltQ3Y0ZU1KVVY2RGVKMXdBbTJDQUYtRDFwVDZKOVFmSFR3RGYyWTBBTXptaV9wVzBiUklKSTNaWC1MSnZBNXhIQzNIb2ZmNFRUalU5Wk5DUHA1X3J2d1VPbXY5VG0xMDkxMXluYWxua3dCdHlQUzlBY2xOc3J5bmdqWTdHeHpSYzNXTF82ZzZndXdlZ0kyVXJoWUxfZDJrRzI5a28?oc=5",
+      "source": "KCAU 9 News",
+      "date": "2026-07-06T17:28:29+00:00",
+      "description": "Drone incident during Norfolk’s Big Bang Boom sparks investigation  KCAU 9 News",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T17:42:43.391015+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0cd21bd1beff"
+    },
+    {
+      "title": "Madison County Sheriff's Office investigating drone incident that injured child - The Norfolk Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeFVUaWo2YTd0MXhKU3BwSlJhVWJMZndSTG1aSWpUdVVHUGdDaERUdEM4cXA5RUxMSmh5WHdZdEtIemRjQnlmRUJOdkxCZERwYnl1X2llZFVvdUdnZzNMM2hUU2wtelJvdnQ2THVXYjFUd2RGODVXeWJzUmdhcmplb2g4WnFjM2JNTC1ibkxfb3ljQmEwd3IxeHMyMHowSTE4TkhJM1NuMEJRNUFZclh6c0lvcnFER1FwODliSUM1bm12bG9BY0NIOUE2bmlwdGVtUFJEbnppUXdQOFFBeTQzOXE3VFYzdjFZQkx3UllBejVvQjd0?oc=5",
+      "source": "The Norfolk Daily News",
+      "date": "2026-07-06T16:36:00+00:00",
+      "description": "Madison County Sheriff's Office investigating drone incident that injured child  The Norfolk Daily News",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T17:42:43.391015+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c827c5f5ff49"
+    },
+    {
       "title": "FBI seized more than 600 drones flying over World Cup games in US cities - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQi1qM1g5eGhvNlV6RWREbXhTT3BXb0p1ZGdKSzFSRl9pVHV5WERBMTNqTkd5ZV9aQldlckNFeWpwelB1OU5LOU41dFY1MW5faHJodWp5WndJd3lJdWcwU09XZXl4R0FfUjhfbTZjUXBoOTFWNlQzc3FFbEU1VHBDQjZobm04b1lCMmNqbjhR?oc=5",
       "source": "The Guardian",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "55cdbed15802"
-    },
-    {
-      "title": "FBI warns of this World Cup rule. Break it and risk a $100K fine and a year in prison - Kansas City Star",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DODR2NDB3Qk84cml2X0tNVUtmVjc4Rng4cFJnQXlHUG10eGUtV2N3RThFR0dMOEFfX1VpTld6WlpsTzF4R2pzYmx3SEJIa19kaThmaDFOdTFQNG95V19ENkJtTncyREFLdms40gFrQVVfeXFMTndmZzlnekMxY1hfYV9VdThtMUM2ekpPS05lR3E3eTlkWVdmMGZHYmJwX19FcFBwdWlvM1F0RDRULXpPY2lGUWNxenpRSHVHbFpPMVpsY1c2N2dYOGRTUXQta2ljS3JZek1qVnc?oc=5",
-      "source": "Kansas City Star",
-      "date": "2026-06-05T19:38:00+00:00",
-      "description": "FBI warns of this World Cup rule. Break it and risk a $100K fine and a year in prison  Kansas City Star",
-      "query": "drone prison",
-      "detected_at": "2026-06-06T08:56:45.140805+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1d73e4d6c3ec"
-    },
-    {
-      "title": "AI, drones to keep prison watch tight - Bangalore Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzZSS1piZmRMOHhHREZNUi1tcm1uSXVyWUl3bXNuWHZjUmhOWC1Dc3lmdEFsem5aR09pRkpXUG9IUGlEVnQtMUpfZ0pNZGdWX1JPWHBXNzhLSDl5YVhIMHRRbF9rZ3laM1NRdUVvWnNzZmIxZ0lnQnpmdko4ZV90TWV5OUdlRV8zcW04dllSMnJNVV9PS3o2alVJWGRuTHR0OS1rUkFBWUNnZEJwb2pVeHJKSVRNaVFiWEHSAb8BQVVfeXFMTzltZGJjVUs0VmNfbkZMNXYtZVA2NUNXYnZQTHUwLXNuaUJpc1FlOERUakJzT2FhZ2ZabFhvMElaZTE2OThBSFZDLTFoaXVYa082c1FsQkt2Vjd4OE9GWkNfZjNRQ2I1TUtnNDY2TFVFcEJQY3k1TEJBbEtpVF9MNkZWU01lV05DMk9RbjNWdFdhSlN6czctRVppMHY0bEtJQkdiTDM5NG5peXVreWhUOTBOQ1hCaUFPLVdPbE9nZ2c?oc=5",
-      "source": "Bangalore Mirror",
-      "date": "2026-06-06T00:30:00+00:00",
-      "description": "AI, drones to keep prison watch tight  Bangalore Mirror",
-      "query": "drone prison",
-      "detected_at": "2026-06-06T01:42:41.882376+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "043157cbdb1f"
-    },
-    {
-      "title": "DPS Reminds Drone Operators to Follow FAA Restrictions Ahead of 2026 FIFA World Cup - Texas Department of Public Safety (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTW5hTGg5cDlHSG05Vi1hZEs2Snp1eXljSGpfWjlYRmZfakJOWW5TWkJzSVJvWWNyVDdfMGprV1g1bjJ3ckljWVJGSzFkT291Qm1EcmtPazFRVnJpTjRPTzIwVEhGbUdTdzdpbXk0SkFUVC0wNno1SlM3VEl4dDRaV3gxY3ExRUc4YUVOQ1lLdjZiOU12bzZLSGpvV2dHNkxfUzlYS2RBeTBuN1ZE?oc=5",
-      "source": "Texas Department of Public Safety (.gov)",
-      "date": "2026-06-05T17:46:39+00:00",
-      "description": "DPS Reminds Drone Operators to Follow FAA Restrictions Ahead of 2026 FIFA World Cup  Texas Department of Public Safety (.gov)",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-06T00:52:35.239047+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "6c525cbe1a02"
-    },
-    {
-      "title": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command - DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNREk1Q2tEOG56QUttTDBpZl9Bc3lXOFhsTFl5Y0RxcXNiWHFhS0ZXYk9HTkUzbmdoYmlBZml6STR2bG0xNGNCN2puaHV4c1JlYXNxZzQtYWFWVmFBZDlNWUZ1NVZ2dXhNSXVZVk9IZzhIWncyU0NOLU5DVUlfXzZwYS1Bd1NCeWxMTmROXzFkd2JzS2pJc3JSam9oUEtpanZVaGZuWUNScFEzblpVZ29SNTJKOE81VUU2Q1V6M3lZcmVYbDk4dC0wcmxB?oc=5",
-      "source": "DefenseScoop",
-      "date": "2026-06-05T20:10:46+00:00",
-      "description": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command  DefenseScoop",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-06T00:52:35.239047+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "a45c5cff568e"
-    },
-    {
-      "title": "Flights to Kuwait Cancelled After Drone Strike: Partial Reopening and What It Means for Travelers - Wego Travel Blog",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YY04zcGhkLXlVRlBMclloSkRsR1RJVzZuQ3g1d2JJMmduUGVBa2lVcXlqb2tkaW11Y3JacUR5ekJWMGRTZTRaYjRoRHBrLTlKVEVoUXV3N3lidlZzci1r?oc=5",
-      "source": "Wego Travel Blog",
-      "date": "2026-06-05T23:36:06+00:00",
-      "description": "Flights to Kuwait Cancelled After Drone Strike: Partial Reopening and What It Means for Travelers  Wego Travel Blog",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-06T00:52:32.445949+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "54b21f1a95a3"
     }
   ],
-  "last_updated": "2026-07-06T14:24:41.005121+00:00",
+  "last_updated": "2026-07-06T17:42:49.035571+00:00",
   "total_count": 1000
 }
