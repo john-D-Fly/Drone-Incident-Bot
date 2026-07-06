@@ -1,6 +1,102 @@
 {
   "incidents": [
     {
+      "title": "FBI seized more than 600 drones flying over World Cup games in US cities - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQi1qM1g5eGhvNlV6RWREbXhTT3BXb0p1ZGdKSzFSRl9pVHV5WERBMTNqTkd5ZV9aQldlckNFeWpwelB1OU5LOU41dFY1MW5faHJodWp5WndJd3lJdWcwU09XZXl4R0FfUjhfbTZjUXBoOTFWNlQzc3FFbEU1VHBDQjZobm04b1lCMmNqbjhR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-05T16:36:00+00:00",
+      "description": "FBI seized more than 600 drones flying over World Cup games in US cities  The Guardian",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-06T14:24:40.442569+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e6b35ab8fdbe"
+    },
+    {
+      "title": "Russian strikes kill 12 in Kyiv as Ukraine runs low on air defences - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-05T23:33:00+00:00",
+      "description": "Russian strikes kill 12 in Kyiv as Ukraine runs low on air defences  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-06T14:24:39.848079+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ebefe7e7647e"
+    },
+    {
+      "title": "Multiple people indicted in alleged drone smuggling conspiracy at multiple prisons including in West Virginia - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnZrZjdmQk43MVFLNkdlU0ZucXdrbU9sZExmZVZqLTRRTjhERXdNZTE0Q29lRVVzdWt2eGdrd0tMb3oxR2JwWXBxdnFubW1JQlBrLVFIWFU4MHI5VHFBTVFDc2tkcndaaTMxT3F2VDQtcWR2QUtqS1lfMnNla0dzX2JWaVU?oc=5",
+      "source": "AOL.com",
+      "date": "2026-07-06T09:42:47+00:00",
+      "description": "Multiple people indicted in alleged drone smuggling conspiracy at multiple prisons including in West Virginia  AOL.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-06T14:24:36.244364+00:00",
+      "location": "at multiple prison",
+      "category": "smuggling",
+      "id": "9e73b3664eda"
+    },
+    {
+      "title": "Uzbekistan Intercepts Drug-Smuggling Drone From Afghanistan - افغانستان اینترنشنال",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15M3JDaEdiM3JBWkNzbDJNZm5lRGF6bGgtb0NXU1FCeVNCY25lam81RUxTaHdvLWhOWmRrWWx1RkJld19kM2VtSUpsc0ljWnM?oc=5",
+      "source": "افغانستان اینترنشنال",
+      "date": "2026-07-06T09:27:21+00:00",
+      "description": "Uzbekistan Intercepts Drug-Smuggling Drone From Afghanistan  افغانستان اینترنشنال",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-06T14:24:36.244364+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "43b89d08cf80"
+    },
+    {
+      "title": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWlhekh4ajA0clBoSW9JcGhFUE1tdGliSVFxSkZUOHN5RzMwZjlhODJscmtlSm5jWGR3eGRWMXR4T1llWjN5X0lVRXY1WWVuNWJMRXBXR1NjLVF1cjZrZllUMVZQdFdBLTZlaUlTYmQ3dHJ1RXYyTTFSTjJiMDcxQV9kQ24ya21oQ2EwMk5LTW0yZ0wwbS1INGJ2d1Iwc19aY3VtSUNCd2xJaldVMnhhVFVxSmRhWG1RemgzREdZZlBaTXFXOFpkaHR3?oc=5",
+      "source": "LSM",
+      "date": "2026-07-06T08:19:44+00:00",
+      "description": "Another airspace alert issued in eastern Latvia over drone activity / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T14:24:35.013148+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "11e01e548187"
+    },
+    {
+      "title": "Romania in talks with Ukraine to prevent further drone-related incidents - Romania Insider",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWNZVlZtZzNmdkNRZnBCVjRsQnVBTGIwSkstaWJLYXhIMk5OZVIxdDl4RTQ3U0hLSkFyZWZyanFZZFZsaUN6RDI3a3dCb2RBSzRJa25PMDJyak9Jclo0bnBCYkJmUFFNdzJNdlRiZFBmLXU2Q1JQRFNXTGxhNjJvWV9QZ1dyQdIBiwFBVV95cUxNdXVBNmprMzBtSGsybU83cW5RY1dMcFpsa3YtYWtrZ3BfWGxfZEp4QkRKcERMRDBrS0ZLT2s4eEMwaEQ0U09aUThNUzlIMXptNFhkcUdMZVktSjFQVEY0Z3Znd3ZjMlRGRktiblNadV80aVJjM3N0MC1Dblp2RUp4d1l1S1BPNHBzWDI4?oc=5",
+      "source": "Romania Insider",
+      "date": "2026-07-06T11:44:14+00:00",
+      "description": "Romania in talks with Ukraine to prevent further drone-related incidents  Romania Insider",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T14:24:35.013148+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c6dc6e2a1b7f"
+    },
+    {
+      "title": "Russia summons Sweden's ambassador over drone incident - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTZHMGprRjRQNWxqUnY1clZSNjYyTHhsa1Bmdi13ai1NSjRaZEgyVW91Mk83dGczWDMzVk82U2Yzc0g2QnpINGJrS05OS2Y2andjUW1VcHctcVd1QTRDRm4temZYSGZEWDFTak1sZGJmMXVoQjhxdlhxN3RwTzBfTA?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-07-06T11:00:21+00:00",
+      "description": "Russia summons Sweden's ambassador over drone incident  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T14:24:35.013148+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "86cf25e333f8"
+    },
+    {
+      "title": "Russia Summons Swedish Ambassador After Drone Incident in Stockholm - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnNRRElhd3oxWkJjRzgtV3c4SHdhMFlxamltamRZOEVQYnFodTkwYkU0cnRlMkRROG1OekJ5a3B3UGZvUjItdUZZNTZBdE9oZUZMTVJwSHhoc2J0S0o4bm9MeEp2S2RjY2hwSjhFRjdvX29xR2Y4eFo0cFZiTmhJZDVhelc0RkZtaExUcE5wczhmR3VlY0JybXNzeFU?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-07-06T14:17:52+00:00",
+      "description": "Russia Summons Swedish Ambassador After Drone Incident in Stockholm  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T14:24:35.013148+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "aa0b23967212"
+    },
+    {
       "title": "Sac Metro Fire to issue citations to illegal firework activity after drone patrol - FOX40",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUpubG1DYV9qbW1CR2pMTGhRWjBlZTg3bUJvQmluV0NyZGtFdXl1dmlPRzlYOUx3RWYyampxOExtT3p5ajJlT2N5dl9KcjItbnVjRlZxZkxIanR3YTJTM19kSFA2RlVkTS1yZ09hbXRYWWV2Nm91bTZZNTlYc1hwUnlKWndsTWNuZHN6dTloakYwMnZOVDQ3ZTc2ZllpX2k4VmtUMHE0c0VYa0I5dDNmM3dOMUxYZw?oc=5",
       "source": "FOX40",
@@ -11903,104 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "54b21f1a95a3"
-    },
-    {
-      "title": "Kuwait Airport Under Attack: Drone Strikes Cripple Flights, Gulf Aviation Faces Unprecedented Travel Nightmare - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nUjFBY0VPTlpLelZYMmJMSWxOdFYzVld6d0dhYXN5REZjY0UwVlVzZ2dtUlJYZzYyLVl1a3NVa1hyYzJ2bHduVTNYYnRzZ0lwSWUtemdxWkh3WlJuOVdlbE1YcjVMcUE4VDRlMk1n?oc=5",
-      "source": "Travel And Tour World",
-      "date": "2026-06-05T11:08:06+00:00",
-      "description": "Kuwait Airport Under Attack: Drone Strikes Cripple Flights, Gulf Aviation Faces Unprecedented Travel Nightmare  Travel And Tour World",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-06T00:52:32.445949+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "898eecf0f38d"
-    },
-    {
-      "title": "FBI arrests 3 men who allegedly pledged allegiance to ISIS, funded drone attacks targeting US troops overseas - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjg0ZEhfR2hkVWlyNE5UT0R0NUdCU3pRVy1tQ3h0c2c2ZkRLOGlzN3ZmNjNUVlp3SGRfQjduT1VIdThoTjB3dnNwRzFhZTYwWDEwMnppRFpqSUFtZ1BERmpWZ3N4NDcxZmNpN1V2TlBLNXV1ZXVmeEFoaXlyX3YtZ29XaVkxYmRibzdfT01oUTVBelMzSExyZ2NQd0pGYkxTdUhpU1VWc29ZMzh0T1p4djd4ZkR3ZGhfZlpvREhDNlN4d2VFcXhV0gHMAUFVX3lxTE9LMmFmM2thbVBPeFpUX0dYTWwzSEJsSG0tMGI5dFI5OFRveTl3aTNfdjljR3UycjVKNF8xYmo0bVJSZm5GZkNJRElTSU9qZzRudUU1NU5pSzd1UUlaYkRWNWVhc2Z1azk3VG9mWXczbkxTOTk2aDNCMjRUYTg2UEd4ZjJ4THlHZUxVb2lDU1F0NVhGZ3BoZXIyVmYzNGtrWGRadHBDR1Y0MWNNeERXaTBzazR5RkRoTmsyLTdPVFdEcjR5N0ZFeUoxTHFqQw?oc=5",
-      "source": "Fox News",
-      "date": "2026-06-05T19:00:39+00:00",
-      "description": "FBI arrests 3 men who allegedly pledged allegiance to ISIS, funded drone attacks targeting US troops overseas  Fox News",
-      "query": "drone arrest",
-      "detected_at": "2026-06-06T00:52:30.777582+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "30961fe0725f"
-    },
-    {
-      "title": "Breaking Airline News: Terrifying Kuwait Airport Drone Attack Triggers Massive Flight Cancellations and Severe Regional Travel Chaos - Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDRiMGVlS25GVUJ6RWRvNkRBeDZacHlvbmh6LXphUXRFSF9QMW03YnFPaEJkalJib0U2VEphSXUyU2tuNkJycHZSTGMxdTUwUWR0UWlZcnp4Vzl3UFpjLWd2MThGNTVOUjBINnY4RUgtekxvWXJOM1NQd3NPenRfcGRhRHg?oc=5",
-      "source": "Nomad Lawyer",
-      "date": "2026-06-05T09:42:16+00:00",
-      "description": "Breaking Airline News: Terrifying Kuwait Airport Drone Attack Triggers Massive Flight Cancellations and Severe Regional Travel Chaos  Nomad Lawyer",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-05T23:30:01.664200+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fb8fd7c7747d"
-    },
-    {
-      "title": "How Drone Boats Are Working As Patrols On The Southern Border - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWY4X25rV0FGT2xjTjN5cFhCRFFoaWdfNzNUWmExdzV0U1lwcXRTNHhJWUNCMllqVnp2eXJIV0JvaE1CcnB2YlQwVll0SnpRVEZJeU9XQk5kY0VQaENBX3hnVXhMemd2THJXMkVheFI4UDNJMHRuN0QxY0VVam9TeVRVYUZyN2ZtbTA1dEFMYnZrdEtnRVRMb0RRcGF6b1dzU1AzNFJsRWNyc2lnN0dKWEVxQTh5OUZ2Zk9HT254aTVUdw?oc=5",
-      "source": "Forbes",
-      "date": "2026-06-05T23:26:15+00:00",
-      "description": "How Drone Boats Are Working As Patrols On The Southern Border  Forbes",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-05T23:30:00.625541+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "88450c16e9d1"
-    },
-    {
-      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5",
-      "source": "AP News",
-      "date": "2026-06-04T03:28:00+00:00",
-      "description": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again  AP News",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-05T22:28:31.825918+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "d89faecd6985"
-    },
-    {
-      "title": "Flights to Kuwait Cancelled After Drone Strike: Partial Reopening and What It Means for Travelers - Wego Travel Blog",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YY04zcGhkLXlVRlBMclloSkRsR1RJVzZuQ3g1d2JJMmduUGVBa2lVcXlqb2tkaW11Y3JacUR5ekJWMGRTZTRaYjRoRHBrLTlKVEVoUXV3N3lidlZzci1r?oc=5",
-      "source": "Wego Travel Blog",
-      "date": "2026-06-05T17:45:23+00:00",
-      "description": "Flights to Kuwait Cancelled After Drone Strike: Partial Reopening and What It Means for Travelers  Wego Travel Blog",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-05T22:28:29.622273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8ae7c044bb14"
-    },
-    {
-      "title": "Kansas City FBI sending warning to drone operators ahead of World Cup events - KCTV",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTFFRVVfaDJlUFZUY2Y5OEFyMFhGaXNEaGdPRG9rY01BS25Kd0M5VkRxRVl1WGZsVlNfcjl2aG1rTmNMYklEZ1V5YlRuYXRwX0xGREtQSmk2ZmwtQlVFakpxaWZ5UEpySi04Xzl6czZiRzljOTNQZFVYSlM4dDljaTBlZHBhMFlzT2paRENXX3lKNm9tTERyQUotdnFnX1lqcWFuNVhmVUp2Uk5iVnpWcFdnQUp4M3lFbmxr0gG7AUFVX3lxTE81MUVFVV9oMmVQVlRjZjk4QXIwWEZpc0RoZ09Eb2tjTUFLbkp3QzlWRHFFWXVYZmxWU19yOXZobWtOY0xiSURnVXliVG5hdHBfTEZES1BKaTZmbC1CVUVqSnFpZnlQSnJKLThfOXpzNmJHOWM5M1BkVVhKUzh0OWNpMGVkcGEwWXNPalpEQ1dfeUo2b21MRHJBSi12cWdfWWpxYW41WGZVSnZSTmJWelZwV2dBSngzeUVubGs?oc=5",
-      "source": "KCTV",
-      "date": "2026-06-05T20:23:00+00:00",
-      "description": "Kansas City FBI sending warning to drone operators ahead of World Cup events  KCTV",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-05T21:33:09.497363+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e5e60231324a"
-    },
-    {
-      "title": "FBI warns drone operators to stay away from World Cup matches - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0w0ZTNuY2kxRG44RDlxa2lIdmJmS3kzOWw1TDlCTFNvbzNvWkpYV243Rk9YSkQ4RnNmMnIwVEtvWVRjWDBLNVVmSVhvekNXc0MwaUQ0OVVHMjJlaDg0N1UzVS1NZ2NsU3FIeTc3amc1Qm0yZGh3SlI0Zl9HRnl0aW1sMjJQaVZhU09GdjZ5Q0JmVEpKS0txQmw2ejBIZlZXdjBsSHRKUlk4WWhpZDFleTNlNHpldlU?oc=5",
-      "source": "NBC News",
-      "date": "2026-06-05T21:00:35+00:00",
-      "description": "FBI warns drone operators to stay away from World Cup matches  NBC News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-05T21:33:09.497363+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b62811718773"
     }
   ],
-  "last_updated": "2026-07-06T10:20:58.428518+00:00",
+  "last_updated": "2026-07-06T14:24:41.005121+00:00",
   "total_count": 1000
 }
