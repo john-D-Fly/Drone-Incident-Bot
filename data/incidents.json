@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Sac Metro Fire to issue citations to illegal firework activity after drone patrol - FOX40",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUpubG1DYV9qbW1CR2pMTGhRWjBlZTg3bUJvQmluV0NyZGtFdXl1dmlPRzlYOUx3RWYyampxOExtT3p5ajJlT2N5dl9KcjItbnVjRlZxZkxIanR3YTJTM19kSFA2RlVkTS1yZ09hbXRYWWV2Nm91bTZZNTlYc1hwUnlKWndsTWNuZHN6dTloakYwMnZOVDQ3ZTc2ZllpX2k4VmtUMHE0c0VYa0I5dDNmM3dOMUxYZw?oc=5",
+      "source": "FOX40",
+      "date": "2026-07-06T05:58:37+00:00",
+      "description": "Sac Metro Fire to issue citations to illegal firework activity after drone patrol  FOX40",
+      "query": "drone illegal",
+      "detected_at": "2026-07-06T10:20:56.310137+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "18da528396c4"
+    },
+    {
+      "title": "Romania, Ukraine Discuss Protocol to Prevent Drone Incidents - БТА",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYktOT1ppUGdQNGtWYWlHaEpuRldxMzJqOGdvaTJLMG51YWppZFZiSWpMNm9IdE1pdmhtUUc3cnMxRE9fOURBdDhMN0xHVXc1YVdEVzY5YjZRWExEVUpmemJrRHBJVk1GS05VdWY3RUhBeUZWVWlIMXZHMUw5bHJLb0o3dTk1czlhdDdUNm44elpza1F4MHpMUVFTVjRLd0J0MlZ4OA?oc=5",
+      "source": "БТА",
+      "date": "2026-07-06T07:25:24+00:00",
+      "description": "Romania, Ukraine Discuss Protocol to Prevent Drone Incidents  БТА",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T10:20:52.974426+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f4317b740633"
+    },
+    {
+      "title": "MFA Summons Swedish Ambassador Over Drone ‘Attack’ on Russian Embassy - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0FzaER2a3kzZmpjeUhiUHhXa2VCNVBGN1JkVExPSmxLdmZidHQ2SE5JQ01sMWpNSGFiVE5xMmxDSUtPQXgyc0JGU0U5RDI1aTFNZjAtLTVmMzFGZnZPc004dWZNTy1SbjNKb2xSNUVVbnBUeEg5TGtnSXpxR3V0bjNzWk4yMmZiM0lxSjVJdklvWUNtcHpnQy1Xb3h5cmVqVGVFNmtCcm5xVEU4YmlUYmlUZTlkbFE?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-07-06T10:12:33+00:00",
+      "description": "MFA Summons Swedish Ambassador Over Drone ‘Attack’ on Russian Embassy  The Moscow Times",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T10:20:52.974426+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5e85085b0b74"
+    },
+    {
+      "title": "New DroneShield report reveals serious gaps in airport counter-drone security - Airside International",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHBYTGFzcmFvYmNmbkNoUlJwRExVTWs4MzdSM1Z3S25JYm1Ld2ZrSmdqOUxDZ1FGdUNYSWc2Y29aNXBxY0NzZ2NYcFNkaEMybnVaM2x4V0ZsZ2s5SlNYb3RBcEw5OHVCY0JsRzFQWi1TMGQ2Q0hiOU93TjducjFKQXAwWUotVW9xMzNGRkJqOTNnRFZoVmxuNUE0U2FVckVrdjJn?oc=5",
+      "source": "Airside International",
+      "date": "2026-07-06T09:32:09+00:00",
+      "description": "New DroneShield report reveals serious gaps in airport counter-drone security  Airside International",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T10:20:52.974426+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "1567345152d5"
+    },
+    {
       "title": "FBI seized more than 600 drones flying over World Cup games in US cities - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQi1qM1g5eGhvNlV6RWREbXhTT3BXb0p1ZGdKSzFSRl9pVHV5WERBMTNqTkd5ZV9aQldlckNFeWpwelB1OU5LOU41dFY1MW5faHJodWp5WndJd3lJdWcwU09XZXl4R0FfUjhfbTZjUXBoOTFWNlQzc3FFbEU1VHBDQjZobm04b1lCMmNqbjhR?oc=5",
       "source": "theguardian.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b62811718773"
-    },
-    {
-      "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYndOM05zeGRXS3hUSG9xZldYOFJ6VVdlZXBqQlluZndkVlg4RTc0eTZsbVdzZVlBTFlqYmp2cHZKZ3ZsOW1oNmpCZnNfNllnMEhFRjgyb3VYTWtndE5RejFvajJmVmtqN1ZMdjNuYnZna0hURk8weVZOWW1wN0NpeDllNndDTGxYZ19wRVRLNWNYSmh4djRaSHd4SEpsZlBNZkZZSjdnb2FaQdIBrwFBVV95cUxQelhpX3dRVTFvZVpCSTI2Y2JMWUR2a194My14aEFESks1UXV3WkExTG0tOVhlT2tLTGNjNVZ0OXh6WElOT014Ym9nT2pGMl9Oa2pZc2lNUVg3cUpmY0pyenVOZGVwajRGd1VtUWRra3c1OENrSDlYaFhKaEk5NXM5MDRjVnl4cG5FaENiVzYySzVzTGJlT05XZm5DREJkU0ZMZnNjYmhpT1RwNzNudVJB?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-06-05T13:17:53+00:00",
-      "description": "Drone explosion in Romanian port spurs Ukraine war spillover fears  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2026-06-05T21:33:04.940213+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ad40be40be0a"
-    },
-    {
-      "title": "FBI KANSAS CITY ISSUES DRONE RESTRICTION PSA AHEAD OF WORLD CUP AND FANFEST MATCHES - Newstalk KZRG",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWVpCVWFwOExzQUhwdzZRM1dTRndieEI3aGpLTS1ERndLOFh3ODY0OW1BcEVqWXF1ZmdEMnE5YTBCcnQ0LTFONHd1TGdaRDUzQlhvaTJDUjdTU0Y1NFl5Q3lSRFNQVUJraGNVMlU0bEgtbTU0bFl6c3Z1ajlreUtwZTh0YUFPNDluMjQyemlDOUJXTEtuaE1sY1RpRFdaSFllWkY0ZjJ2bGpWS09mRnVIcThLYTNWZ1U1UTRva2Y3S3BMdw?oc=5",
-      "source": "Newstalk KZRG",
-      "date": "2026-06-05T20:24:38+00:00",
-      "description": "FBI KANSAS CITY ISSUES DRONE RESTRICTION PSA AHEAD OF WORLD CUP AND FANFEST MATCHES  Newstalk KZRG",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-05T20:38:59.846362+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "5af79a1c1ac6"
-    },
-    {
-      "title": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command - DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNREk1Q2tEOG56QUttTDBpZl9Bc3lXOFhsTFl5Y0RxcXNiWHFhS0ZXYk9HTkUzbmdoYmlBZml6STR2bG0xNGNCN2puaHV4c1JlYXNxZzQtYWFWVmFBZDlNWUZ1NVZ2dXhNSXVZVk9IZzhIWncyU0NOLU5DVUlfXzZwYS1Bd1NCeWxMTmROXzFkd2JzS2pJc3JSam9oUEtpanZVaGZuWUNScFEzblpVZ29SNTJKOE81VUU2Q1V6M3lZcmVYbDk4dC0wcmxB?oc=5",
-      "source": "DefenseScoop",
-      "date": "2026-06-05T18:33:45+00:00",
-      "description": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command  DefenseScoop",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-05T20:38:59.846362+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "3c899ff61e3f"
-    },
-    {
-      "title": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command - DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNREk1Q2tEOG56QUttTDBpZl9Bc3lXOFhsTFl5Y0RxcXNiWHFhS0ZXYk9HTkUzbmdoYmlBZml6STR2bG0xNGNCN2puaHV4c1JlYXNxZzQtYWFWVmFBZDlNWUZ1NVZ2dXhNSXVZVk9IZzhIWncyU0NOLU5DVUlfXzZwYS1Bd1NCeWxMTmROXzFkd2JzS2pJc3JSam9oUEtpanZVaGZuWUNScFEzblpVZ29SNTJKOE81VUU2Q1V6M3lZcmVYbDk4dC0wcmxB?oc=5",
-      "source": "DefenseScoop",
-      "date": "2026-06-05T17:51:13+00:00",
-      "description": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command  DefenseScoop",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-05T18:43:25.154812+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "6e0098860bde"
     }
   ],
-  "last_updated": "2026-07-06T05:10:59.813951+00:00",
+  "last_updated": "2026-07-06T10:20:58.428518+00:00",
   "total_count": 1000
 }
