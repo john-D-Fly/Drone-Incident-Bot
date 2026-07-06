@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "FBI Seizes Over 600 Drones Near FIFA World Cup Events - AirGuide Business",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmVRYWctTnp0aVVUM3NvbjVyVllwNUt2YnBqb0VjRnJaRjFsdXhaWFhfUHEtN0JURmxYZXFBcG1iMUxPSGJycEVJcWI0cF9yYTJWaVFpWW9sMG5zT3JkWWUwNG9SbnN0ODBjVWFKXzVZaFRJcTgxQ3JIcjNFSGItLU9B?oc=5",
+      "source": "AirGuide Business",
+      "date": "2026-07-06T21:01:47+00:00",
+      "description": "FBI Seizes Over 600 Drones Near FIFA World Cup Events  AirGuide Business",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-06T23:07:12.595774+00:00",
+      "location": "Near FIFA World Cup Events",
+      "category": "other",
+      "id": "93bacb6e5b74"
+    },
+    {
+      "title": "Pine Island drone crash sparks brush fire near Hwy 52 - KIMT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTNscWY4V1RaT2lTTllxZlJ1S09mcmdLRzA5dG1JekJEdVFwb1RJVkU5aGEwTWQyWmlkM2k3NTl3WjRpNkE4MlpJYVViaWFBbGxvWVViZlJ1MDJQS1VxN2VRTzQ4c2xfMTJNQW5uUDVOVzFDVVpVRkZ3Sm0wdk9ieU5UVGhlRlo2aHFYR2pOTzRHc1NPbGhIQkIxcXlZOTlxS2RMS3FLMkwwbFNtOE9KRm1iTEhWZ213eTQwNUFCTmJ2S1JUbEgxRQ?oc=5",
+      "source": "KIMT",
+      "date": "2026-07-06T20:58:00+00:00",
+      "description": "Pine Island drone crash sparks brush fire near Hwy 52  KIMT",
+      "query": "drone crash",
+      "detected_at": "2026-07-06T23:07:10.340354+00:00",
+      "location": "near Hwy 52",
+      "category": "crash",
+      "id": "b978d3c62805"
+    },
+    {
+      "title": "Drone Hits Power Lines, Starts Brush Fire Near Rochester - KROC-AM",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13MzZZT3Exc3lDZlBoYUxxYlU0TGVnSXhvVnhhZXdnTXlfWmJ5UEJBQVRtX2Yxa3BoaFJEZ3pLYThfQjNDZFdtS1BOYkVNMUdZUDM5TlJmSEE4WVRVYXdndWJ6YTlHY24xc055a2tOdw?oc=5",
+      "source": "KROC-AM",
+      "date": "2026-07-06T22:09:20+00:00",
+      "description": "Drone Hits Power Lines, Starts Brush Fire Near Rochester  KROC-AM",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T23:07:07.401335+00:00",
+      "location": "Near Rochester",
+      "category": "other",
+      "id": "c92a911c5d6d"
+    },
+    {
+      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWctbU13VVRNMTZIX0JrdVR3dU5vYjFwdE9MczZIOUtsaTY4RUgwVk5rNEpDRUd0eTBmTzlVUlYwWHlLTmdaSmNPQV9RdXNHTTRmRlZHV01fd3B3TUExZnZZMnF1c0g4R1l4NnpROHF2Vk0xdi0zOWtoQm1QMDNNSkFEQjFaWC04ZnZDOWVDa3RSaDJQaHVsdHRrcEVMVTE3MXN3cTdDQkR1T2dGNVJhemVWVTk?oc=5",
+      "source": "Ars Technica",
+      "date": "2026-07-06T20:52:42+00:00",
+      "description": "Kremlin suspected of flying drones over Europe using Russian shadow fleet  Ars Technica",
+      "query": "drone incident",
+      "detected_at": "2026-07-06T23:07:07.401335+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1030448d8823"
+    },
+    {
       "title": "Russian strikes kill 26, exposing Ukraine air-defence shortages - Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
       "source": "Reuters",
@@ -11951,56 +11999,8 @@
       "location": "Near Lefkada",
       "category": "other",
       "id": "593c9a28f643"
-    },
-    {
-      "title": "Man wanted on warrant caught after Enfield K-9, drone pursuit - WFSB",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWE1NnhLM1N5T0pJbnhZM3N4NC1NemhLY21fSlpUeWFaRVZBM25zSEFtV09XSE9QZzY3YWF6QnFpNHBxSzNkVVptRE8zNjJNMklhejduOUZtNElEYWR1WUlHbWE3bUdIMXBQc0dsdXgxRnRCY0ttWkstSVE5c0xyTkYxNmozLWkzSUV0Qk5fcWVaOFBW0gGoAUFVX3lxTFBDdlJPMTZxVlFMMVZqeVJXX3kxSjgyNDV5SUhwSW5NYkVRazhIMnpEVXVuTVNuZHEtb3lDY0FpSExIV045VmYtRFZCbUtwd19OeDVLWEIzWkpWbVFzbkhzeFlSUjlQYmxHWVUzbnpIX1JHUWtQNk5PWGFoQUJXVDBZa0dqZ0VxdkUyRHpFNmJLQXFtN1BQYmszbDBKNmotYWZ1ZU84N05ueQ?oc=5",
-      "source": "WFSB",
-      "date": "2026-06-06T18:02:00+00:00",
-      "description": "Man wanted on warrant caught after Enfield K-9, drone pursuit  WFSB",
-      "query": "drone arrest",
-      "detected_at": "2026-06-06T18:31:29.608085+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7ed33ce460a2"
-    },
-    {
-      "title": "Kansas City FBI sending warning to drone operators ahead of World Cup events - KY3",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjY5aXpQU19IQkxSNGVDQnlVa2k2MDZVWWNiYm10YU4ybkplUUd3M2d4ZDFZOFQ0R2JoRzNoVFg2dnppcVhCRGJQOV9ybzZsWXJMcUdwMXhzNlk3ZVMzRldOTHBoLWc4RW42dzJ2UmJ4dU9QSzhxRnBsMFFPS19BU2pUeW5PaVlkV0NnWlllZWhqaXpTWDVDVlA1UXBxQnF3SjNUVtIBuAFBVV95cUxQRG56QUtENTR0eXM1TVBWNTVrTmtoajAzMm5VMW52NGZ2dEE3SEpvOXl6MFFhbU9DdWZPUFJCYVFWRlpsQmNCVGZXeHVzTVZ5dXdqa0VuVkQ2c0FBQklwOTl4dmVjczRfTzFUbEg2SmNmMWwzeXJNLXF5TVh3elJWNjhzU0gwZ1FISnczamIxdzVuMktNc3d6S0lGR090c2ZxVm03UE13R1ZkN1MxNmpMdngyX0hVeG96?oc=5",
-      "source": "KY3",
-      "date": "2026-06-05T20:23:00+00:00",
-      "description": "Kansas City FBI sending warning to drone operators ahead of World Cup events  KY3",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-06T14:34:47.414502+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fb6d6e75787c"
-    },
-    {
-      "title": "Ukraine Apologises to Greece About Sea Drone Incident - Greek City Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTRSV3luMFktVThMUXd5WXV2dE53RW9lSG9Yb3VwclFrSllyWUhrMEpZemtaR0hhR2l0bUhqNnM2RDFORDdpQjZIUjE3ZnlqOWs0NDhCTVpTVjV4S0ZQYXhNLWFsM3pYU2FMMnB4VS1tU2hjSDBvSktJUDVPNXFCeU5jOC1fdFMxdURXWXNVd0hMSDdUdy00?oc=5",
-      "source": "Greek City Times",
-      "date": "2026-06-05T21:17:23+00:00",
-      "description": "Ukraine Apologises to Greece About Sea Drone Incident  Greek City Times",
-      "query": "drone incident",
-      "detected_at": "2026-06-06T14:34:42.153742+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "43abacf82552"
-    },
-    {
-      "title": "Watch: Ukrainian drones hit St Petersburg region again; Russia claims capture of Kharkiv village - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUxZb2phSnZFQmhzdVJIdk5TcjlRal9DTVRGOGZQZDc2UUswZ1hSNkJteGFmNG96ZndKTXpINUF5MWNsZ0hYRmQ5Y040cVppS0hZV1JrazFaUGtQTUg5MWVWRS0wczZOM0N0Yk03bXhla2h2Y2o3TUNXbXBwQ1hhV1E1enJrMGk1eHRKeVpNVDJOc1FtM2lncE5GVnRuanh3akhqandSSXlFTWJTWWpqRGRVOGNxYTYtQUVleHZCaHdBeTRWT2NzQWFNMnRNWDJWVEo0OUVlY0tZMDBBWDNScGxlWlR3eEJLZk1iWkZfelNTZDBqRUhwY1VhM3dPUdIBgwJBVV95cUxNVmxZTlNVWnNta2ZnMHByX3Q1ZVpmNnF5dTNNRExzdGRNVXJwTjJBZEZveHhjVXNUREF2OHJEX0kxRzhneVRjeEtsN1A5RWlyN2FIUlpGaWp2d2dDcF9Sd3pmQW5TZy00X01xZDQwVmhlUDJETW5LQnNJUlpDOGVhMGhaZWMyMzdYTDE5YmJ3NWhRSmRmRUY4R2xpbnNOdFlJVEQ4V2lZVWYtc1ZhVDBWTTlvNTdLRHhVZ1RlRVFWZXZBSTdaZFFYZjdUOFlmSHBWaVBBWElITTlPUWNUZlJuR0Fid2NvTldYaC1oeGRWb3RtSnJMOHdOeG9NNlFQa0FrVVlZ?oc=5",
-      "source": "The Times of India",
-      "date": "2026-06-06T09:56:00+00:00",
-      "description": "Watch: Ukrainian drones hit St Petersburg region again; Russia claims capture of Kharkiv village  The Times of India",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-06T12:32:42.376451+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "748b53edc925"
     }
   ],
-  "last_updated": "2026-07-06T21:39:14.460441+00:00",
+  "last_updated": "2026-07-06T23:07:13.126667+00:00",
   "total_count": 1000
 }
