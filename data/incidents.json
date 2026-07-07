@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Video shows Lewisville police using drone to crack down on illegal fireworks - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd19RMV9tbTl3N1dia3BRblZpUHFqRm1uUG9ldE5zQ3VuZWVpNThvWjFob2lweWhSZVpoVzVXeGhVREdXYUFFVnMwYURrNkYzSlBlcEwwNm9sa3J1cWxOdlFmdUJkZ1llMXRPN0lkdVE0THdHc0dwRFNBTXFrZWFaSnRHSlp5RGgtUkF4YUVwdkpsa2RiVGptdTYzc2J1TFppZW9adFNwVl8yV2MycUVhcE5Fcw?oc=5",
+      "source": "CBS News",
+      "date": "2026-07-07T12:19:00+00:00",
+      "description": "Video shows Lewisville police using drone to crack down on illegal fireworks  CBS News",
+      "query": "drone illegal",
+      "detected_at": "2026-07-07T13:20:34.987471+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f283efda6171"
+    },
+    {
+      "title": "Drone incident during Norfolk’s Big Bang Boom sparks investigation - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTNweGE4YU5KTFY2TkljOFRCQW5NRDhDVnlnRGFxNlNaeTBKZ0UwZG0zNHp2dk01YVRMbHJHbTZRSndxVDh3NWtGZnNCMzlXNlg2RzlBYVJ5N0pDeEQ0LXBxVDJkbTVEd3Z1UEN1Vzc5a1ZiMEMyMWd3T2JBOXBWSnMtZk1aNmZNckNTMlBtaTU?oc=5",
+      "source": "Yahoo",
+      "date": "2026-07-06T17:28:29+00:00",
+      "description": "Drone incident during Norfolk’s Big Bang Boom sparks investigation  Yahoo",
+      "query": "drone incident",
+      "detected_at": "2026-07-07T13:20:31.452361+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "dd4f81266dbd"
+    },
+    {
       "title": "FBI seized more than 600 drones flying over World Cup games in US cities - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQi1qM1g5eGhvNlV6RWREbXhTT3BXb0p1ZGdKSzFSRl9pVHV5WERBMTNqTkd5ZV9aQldlckNFeWpwelB1OU5LOU41dFY1MW5faHJodWp5WndJd3lJdWcwU09XZXl4R0FfUjhfbTZjUXBoOTFWNlQzc3FFbEU1VHBDQjZobm04b1lCMmNqbjhR?oc=5",
       "source": "The Guardian",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "ac2b2c2cc0df"
-    },
-    {
-      "title": "Kuwait airport: Severe damage to terminal may cause flight disruptions for over a year, IATA official states - theweek.in",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONlNqZHB5MmhaMXNSMlFXZzFVX0xJZmZueDRQWVgzbXpqUnFrY3U0LW1lN2ZibGNUenlweWlCMjNpaC1CSUtsLVFKZXBabUx4UWZjSGRVTUplOGlYOXcyaXY4dGJWU1pib3hfQXdIRTV2ZUk2WUtvYjcwcS1mV2dkcVNiMzdWNmVOQXBGMnZOdHFycURhZXhYQU9rZnZ4TlFwdExBMFZEVW5yUmZvWkhjcXd0OEFSdDNXaWJvaHphSHNNejJKd0c4enV6YlpPUUFwTUdxYjJTN2pDajVFZUhlMGpHSUZyUGw2VnF4S0dmV3VXX2lM?oc=5",
-      "source": "theweek.in",
-      "date": "2026-06-07T11:03:00+00:00",
-      "description": "Kuwait airport: Severe damage to terminal may cause flight disruptions for over a year, IATA official states  theweek.in",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-07T11:36:11.745685+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a391b6785e19"
-    },
-    {
-      "title": "Russian Drone Strikes Kill Two in Ukraine - Asharq Al-Awsat English",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEF2SkV3NGtlb2xGSktKbEc1QXFKRXJvY2FQS0R0U2kxb2ZpZjhxQW1PS3ZFX002WGQtVmlOUDBremRybG40Mm8ydHJ6ODlMUXZSa2ZrdkNTR09aNllsUi1vU2g0aVRoaUkzY0FYMDk3T1A1dDRwcERRdV90TGMyNVBYaVphZw?oc=5",
-      "source": "Asharq Al-Awsat English",
-      "date": "2026-06-07T07:58:35+00:00",
-      "description": "Russian Drone Strikes Kill Two in Ukraine  Asharq Al-Awsat English",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-07T09:06:57.624196+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9d66527d3be3"
     }
   ],
-  "last_updated": "2026-07-07T10:55:19.016850+00:00",
+  "last_updated": "2026-07-07T13:20:37.203912+00:00",
   "total_count": 1000
 }
