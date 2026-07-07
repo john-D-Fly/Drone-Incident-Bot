@@ -1,0 +1,135 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple incidents involving drone activity have been reported across various U.S. locations, particularly during the Big Bang Boom fireworks events in Norfolk where injuries occurred. Additionally, the FBI's seizure of over 600 unauthorized drones associated with World Cup events underscores heightened security concerns. A rise in drone sightings has been noted near airports, raising safety questions as incidents of drones interfering with public events continue to emerge. Notably, reports from Ukraine detail drone raids on Russian regions amidst ongoing conflict. The reported incidents highlight the increasing complexity around drone regulations and public safety concerns. Smuggling activities, particularly in prisons, are also a significant theme, prompting policy discussions in both the U.S. and Romania to mitigate risks related to drone usage.",
+  "totals": {
+    "other": 36,
+    "smuggling": 4,
+    "crash": 2,
+    "airport": 4,
+    "drone illegal": 4,
+    "drone incident": 28,
+    "drone terrorism": 6,
+    "total_incidents": 44,
+    "by_category": {
+      "airport": 3,
+      "crash": 1,
+      "other": 35,
+      "smuggling": 5
+    },
+    "by_query": {
+      "drone crash": 1,
+      "drone illegal": 3,
+      "drone incident": 22,
+      "drone prison": 3,
+      "drone smuggling": 2,
+      "drone terrorism": 8,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone incidents at public events",
+      "rationale": "High profile incidents involving injuries during fireworks shows.",
+      "incident_ids": [
+        "7754828777c8",
+        "dd4f81266dbd",
+        "2504c7c53bad",
+        "7fbc9f8ddba1",
+        "1ad6dd5c4872"
+      ]
+    },
+    {
+      "topic": "Unauthorized drone activity",
+      "rationale": "FBI's action against numerous drones over World Cup and a spike in near-airport sightings.",
+      "incident_ids": [
+        "f283efda6171",
+        "6e996538284e",
+        "841e4fd4ebf5",
+        "f50db2c49897",
+        "b978d3c62805"
+      ]
+    },
+    {
+      "topic": "Prison smuggling",
+      "rationale": "Emerging trends of drones being used to transport contraband into correctional facilities.",
+      "incident_ids": [
+        "9e73b3664eda",
+        "1fbae8c22827",
+        "d5a8226637bf"
+      ]
+    },
+    {
+      "topic": "International drone-related security concerns",
+      "rationale": "Ongoing drone warfare and drone-related incidents affecting international relations.",
+      "incident_ids": [
+        "ebefe7e7647e",
+        "b0ac239dbdc6",
+        "0bc68a3e6bbe"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "7754828777c8",
+      "headline": "One injured after drone incident at Norfolk’s Big Bang Boom fireworks event",
+      "one_sentence": "A drone incident during a fireworks show in Norfolk resulted in one injury and sparked an investigation.",
+      "risk_tags": [
+        "safety",
+        "public event"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f283efda6171",
+      "headline": "Video shows Lewisville police using drone to crack down on illegal fireworks",
+      "one_sentence": "Lewisville police utilized drone technology to enforce laws against illegal fireworks in the area.",
+      "risk_tags": [
+        "law enforcement",
+        "public safety"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "dd4f81266dbd",
+      "headline": "Drone incident during Norfolk’s Big Bang Boom sparks investigation",
+      "one_sentence": "An investigation was launched following a drone incident at the Big Bang Boom event in Norfolk.",
+      "risk_tags": [
+        "safety",
+        "public event"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "6e996538284e",
+      "headline": "FBI seized more than 600 drones flying over World Cup games in US cities",
+      "one_sentence": "The FBI confiscated over 600 unauthorized drones that were operating near World Cup venues.",
+      "risk_tags": [
+        "security",
+        "unauthorized use"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9e73b3664eda",
+      "headline": "Multiple people indicted in alleged drone smuggling conspiracy at multiple prisons",
+      "one_sentence": "Authorities have indicted multiple individuals linked to a conspiracy involving drone smuggling at various prisons.",
+      "risk_tags": [
+        "smuggling",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "A surge in drone incidents including injuries at public events and unauthorized use near World Cup venues raises safety and security concerns.",
+    "linkedin": "The past 48 hours have seen a significant rise in drone-related incidents, prompting investigations and raising public safety concerns at events and critical venues."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-07"
+}
