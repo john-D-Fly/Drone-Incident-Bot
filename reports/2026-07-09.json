@@ -1,0 +1,147 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable surge in drone-related incidents across various categories. Authorities remind communities that flying drones near wildfires is illegal, stressing safety concerns. There are increasing reports of drone surveillance effectively identifying illegal fireworks violations, leading to significant fines in California. Similarly, several cities have initiated drone programs to address illegal ATV and dirt bike activities. A concerning trend emerges from conflict zones, as drone strikes continue to escalate in places like Sudan, resulting in civilian casualties. In a separate incident, a drone crash involved a police helicopter, highlighting current risks in operational airspace. The incidents reflect ongoing challenges related to law enforcement, safety standards, and operational security.",
+  "totals": {
+    "other": 19,
+    "airport": 1,
+    "terrorism": 5,
+    "arrest": 6,
+    "smuggling": 3,
+    "crash": 5,
+    "security": 1,
+    "surveillance": 1,
+    "total_incidents": 63,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 5,
+      "interference": 1,
+      "other": 41,
+      "security": 1,
+      "smuggling": 6,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 8,
+      "drone crash": 2,
+      "drone illegal": 21,
+      "drone incident": 7,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 13,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Illegal Drone Activity",
+      "rationale": "Multiple incidents involve illegal drone use leading to law enforcement responses.",
+      "incident_ids": [
+        "43ccc746eead",
+        "602947478500",
+        "c3a3a0501bf2",
+        "cfb3b55a3bae",
+        "d675166528a1",
+        "57e23d96a60d",
+        "18d4d0e62e45",
+        "2f63189ca721",
+        "be975ceafb9f",
+        "d2a20b660b37"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Safety Risks",
+      "rationale": "Several incidents highlight drone-related crashes impacting public safety and operations.",
+      "incident_ids": [
+        "3f4b456104d0",
+        "c3a3a0501bf2",
+        "d6a20b660b37",
+        "45c3ffcae6f0",
+        "4254c67cf61c"
+      ]
+    },
+    {
+      "topic": "Drone Strikes in Conflict Areas",
+      "rationale": "Increased drone strikes reported in conflict zones, particularly in Sudan and Ukraine.",
+      "incident_ids": [
+        "58e91e4f6211",
+        "9cb816d0fb1d",
+        "f3b6f720b1c9",
+        "3c7f51e8c163",
+        "314f34c5fb16"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "43ccc746eead",
+      "headline": "Authorities Reminding Communities Flying Drones Near Wildfires Is Illegal",
+      "one_sentence": "Authorities issued reminders regarding the illegality of flying drones near wildfires due to safety concerns.",
+      "risk_tags": [
+        "safety",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "cfb3b55a3bae",
+      "headline": "New DroneShield Report Reveals Serious Gaps in Airport Counter-Drone Security",
+      "one_sentence": "A report highlights significant weaknesses in counter-drone security at airports and critical infrastructure.",
+      "risk_tags": [
+        "security",
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "602947478500",
+      "headline": "‘Drone as a First Responder’ Systems Bring Real-Time Intelligence Nationwide",
+      "one_sentence": "New systems leverage drones to enhance law enforcement's real-time intelligence capabilities.",
+      "risk_tags": [
+        "technology"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f3a927d7ea75",
+      "headline": "Drone Offensive Hits Russian Oil Tankers and Refineries at 'Industrial Scale'",
+      "one_sentence": "Ukrainian drones target Russian oil assets amid escalating conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    },
+    {
+      "id": "9cd47ddc0c42",
+      "headline": "Drone Flies Over Puri Srimandir Again, Security Lapse Alleged",
+      "one_sentence": "An alleged security lapse allowed a drone to fly over a sensitive area in India.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "2e7680b41755",
+      "headline": "DSS Confirms Detention of Journalist Over Alleged Unauthorized Drone",
+      "one_sentence": "A journalist was detained for allegedly operating an unauthorized drone.",
+      "risk_tags": [
+        "arrest",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "48-hour update: Drone incidents surge, with increased illegal activities and safety risks.",
+    "linkedin": "Over the past two days, drone-related activities have intensified, with significant implications for public safety and law enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-09"
+}
