@@ -1,0 +1,117 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant number of drone incidents have surfaced across various categories, primarily focusing on interference and arrests related to illegal operations and planned attacks. Dealing mostly with unauthorized drone flights, especially during events such as Sail Boston, law enforcement has intensified monitoring efforts resulting in multiple arrests and fines. Furthermore, there's an escalation in drone-related threats, including a thwarted attack plot using drones at a UFC event, capturing the attention of security agencies nationwide. Internationally, tensions remain high with drone incidents involving military operations, notably between Ukraine and Russia. Reports of illicit drone flights disrupting wildfire management efforts are raising concerns about public safety and aerial navigation. These patterns reflect an urgent need for robust policy measures to address the growing risks associated with drone usage.",
+  "totals": {
+    "interference": 3,
+    "other": 31,
+    "arrest": 17,
+    "unauthorized drone": 8,
+    "security": 3,
+    "surveillance": 2,
+    "smuggling": 3,
+    "airport": 3,
+    "drone terrorism": 10,
+    "total_incidents": 71,
+    "by_category": {
+      "airport": 2,
+      "arrest": 15,
+      "interference": 2,
+      "other": 42,
+      "security": 5,
+      "smuggling": 4,
+      "surveillance": 1
+    },
+    "by_query": {
+      "drone arrest": 15,
+      "drone illegal": 12,
+      "drone incident": 7,
+      "drone prison": 2,
+      "drone smuggling": 3,
+      "drone terrorism": 24,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activities",
+      "rationale": "A significant number of unauthorized drone incidents are occurring, indicating a common trend that poses risks to public safety.",
+      "incident_ids": [
+        "6e5a218d3816",
+        "e7c1d0254aa4",
+        "f04e46463b5d",
+        "a0deab6143c6",
+        "7b3845d41b3e"
+      ]
+    },
+    {
+      "topic": "Drone-Related Security Threats",
+      "rationale": "Intensified monitoring around potential drone-based threats related to public events showcases emerging risks.",
+      "incident_ids": [
+        "35218cde96eb",
+        "8 men indicted in planned drone and sniper",
+        "f923f4107663",
+        "8 men indicted in planned drone and sniper attack"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6e5a218d3816",
+      "headline": "Drone interference during wildfires could end in a ‘catastrophic result’",
+      "one_sentence": "Drone interference during wildfire management remains a pressing concern.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "caaab9cdec63",
+      "headline": "Russia strikes Ukrainian drone facility in Kyiv",
+      "one_sentence": "A drone facility in Kyiv was struck by Russian forces, escalating tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "cfcd843e61f2",
+      "headline": "New technology aims to strengthen drone detection at major sporting events",
+      "one_sentence": "Advancements in drone detection technology are being implemented to enhance public safety.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f712dd3c721c",
+      "headline": "Drone Helps Palm Springs Police Arrest Teen Who Baited Them Into Chase",
+      "one_sentence": "A police drone assisted in the arrest of a teenager involved in a chase incident.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "8d30e332bdbd",
+      "headline": "Las Vegas police drone helps thwart burglary attempt",
+      "one_sentence": "A Las Vegas police drone played a crucial role in preventing a burglary.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Growing concerns as unauthorized drone incidents surge, necessitating stricter policies for public safety.",
+    "linkedin": "Recent drone activity highlights a concerning rise in unauthorized operations and security threats, prompting calls for enhanced regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-11"
+}
