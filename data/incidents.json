@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
+      "source": "LSM",
+      "date": "2026-07-11T20:23:49+00:00",
+      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-12T21:50:04.308615+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "04ebae8887d8"
+    },
+    {
+      "title": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWFdnVWhGSnVmcnVsWUh4WllwU3FsUUo2TTRQZnl5R2pVWlBGYXl0SVNmck9OQ19NZHVDLWVyYzZPc2NtLURiVlhSeDgwUlpKUGVnUmlHWk56VlZxUElfZFNULVl4M1RvTzZkSTJWdkJTcU1hbkFLMVFzNkNBd0JOV3dtZ3d0QUx3Qjg5LWdGMEsxYmd1VlpvRXp5QS1sMk5OeWRn?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-07-12T19:40:05+00:00",
+      "description": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-07-12T21:50:04.308615+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1fc84efa736b"
+    },
+    {
       "title": "One killed in Fujairah drone incident, projectiles strike tanker near Qatar - News On AIR",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTV0SFJ0b0tIdTB0b0c4RUt4a0s2ZE5ZNDVBUWlaYVltYWVnS2o0cmhPLTJ6dUotT3NHbndtbU9jWFNvT1pPZDNhYTcxNG1kb0tWMzBjbEU3b0JBNUotR0lKYWRxNmo4cHNQTzl2dl9PMktKeUczdERvdDVibDNjSWZoZ3o5Qm8zenJuTW1jQ0w4UTZQTU8zVXhDdHRoMkRsRHc?oc=5",
       "source": "News On AIR",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3c7e30ffddc4"
-    },
-    {
-      "title": "Handala Hackers Breach FBI Drone Systems - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rcmpMTlY5bUY5X2NEa1Jya1dVOVRSUzNDdHlnUDlseGtXVTFMaVRCQkczeGVVOVpNWUZqRUcybnkyTWJKcTVCQ0dRYzViMnJBTjhDeG5TcWJnb0xjdEpuZ0Zmcy1WVk9NRFJvMw?oc=5",
-      "source": "WANA News Agency",
-      "date": "2026-06-12T06:38:31+00:00",
-      "description": "Handala Hackers Breach FBI Drone Systems  WANA News Agency",
-      "query": "drone security breach",
-      "detected_at": "2026-06-12T07:42:56.577054+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "2a9cd1689d96"
-    },
-    {
-      "title": "Ex-President Yoon Sentenced to 30 Years for Martial Law Drone Operation - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1RCT0p5c0tqVXp6MlhURkY3bnVmTDJ4ak5sRHMyREVmN3VSNWhFOGJ1Vm8zZkxZNFRicUFsckFxMWdxcU1YdUU4aW9YbTd5WnZSX1NySVZySXpyMWZjaDdxaktLN0R2NzJfSGEwcEhGVjZqcmg1SVFYVDlUSmExNEtpNmFRZk1G?oc=5",
-      "source": "조선일보",
-      "date": "2026-06-12T06:11:15+00:00",
-      "description": "Ex-President Yoon Sentenced to 30 Years for Martial Law Drone Operation  조선일보",
-      "query": "drone illegal",
-      "detected_at": "2026-06-12T07:42:56.136819+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "578c0c0ba917"
     }
   ],
-  "last_updated": "2026-07-12T19:05:11.114086+00:00",
+  "last_updated": "2026-07-12T21:50:10.700587+00:00",
   "total_count": 1000
 }
