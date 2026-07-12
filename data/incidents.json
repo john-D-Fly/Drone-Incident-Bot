@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Iran attacks Qatar, Bahrain, Kuwait, Oman, Jordan and UAE after fresh US strikes over Hormuz - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55eFFQODBfMUt5MDBaVWJYYlM5TVFkbDFwSHVvN2h4V3JiQ2ZRdThuMU1ZRGJWcTZwWW9GdlFQelVkSXAtdjVyM0g0bTFfX2F4S3lYX0lpZkRaYTVza1E?oc=5",
+      "source": "Arab News",
+      "date": "2026-07-12T03:33:13+00:00",
+      "description": "Iran attacks Qatar, Bahrain, Kuwait, Oman, Jordan and UAE after fresh US strikes over Hormuz  Arab News",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-12T10:27:25.836694+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8e444ba21323"
+    },
+    {
+      "title": "UAE Stands With Bahrain, Qatar and Oman Amid Iranian Missile and Drone Barrage Triggering Massive Airport Disruptions Across Dubai, Abu Dhabi and Doha, Mass Flight Cancellations and Middle East Travel Recovery Collapse - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GS05NV0QxeE45TTd6YVFkNHgxamdrUzh0dEhMMkUzUU54clA4TUtvOFlabGlCY05BbHFPVmtMS0taNktseUZkSDdGUkJqV05maWdoajFtTHhJQUZTM0l2X2pBQWc5Vk1uS0dreWpn?oc=5",
+      "source": "Travel And Tour World",
+      "date": "2026-07-12T07:22:30+00:00",
+      "description": "UAE Stands With Bahrain, Qatar and Oman Amid Iranian Missile and Drone Barrage Triggering Massive Airport Disruptions Across Dubai, Abu Dhabi and Doha, Mass Flight Cancellations and Middle East Travel Recovery Collapse  Travel And Tour World",
+      "query": "drone airport disruption",
+      "detected_at": "2026-07-12T10:27:23.972141+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f8303e650764"
+    },
+    {
       "title": "Iran attacks Qatar, Bahrain and UAE after fresh US strikes over Hormuz - Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90ZVpCMTJUMFRMOWJNZ1U3U2lKQURiNUlHTjQ5U1U5SHd2MFFVQkw3Qm5xZEZPOE44Rl9tdmpTQXItZjhCYlNBY0UyTC00c25NallWQy0wR3NaOFZ4?oc=5",
       "source": "Arab News PK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "baf46d2548e5"
-    },
-    {
-      "title": "New police tech targets unauthorized drones - FOX 13 Seattle",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1seHUzcmI1LUhfSFdUaVlMUEQ0VUQ4aEVEV2RKcVN2V1ZQRFNRbHVhLW80MDFCT0FnSVM4eFFhX3FTVWhiRWJxajlMcnI1VmhtSG1QUkQ4N3o0X1NGcjRkY0N0dFpQUdIBa0FVX3lxTE50cUNtT1VDbDV1cXkwQVdJelVTRjFCempOUTY4LTMwMlZUN3F2dlVhT3BQakxpa0NxMV9jTnRRQS1GbHFUMjQzN0ZGZ2gtaUdqeDhPNXkxdjlrSTd0V1dBM1c2RkhfY0FNWTln?oc=5",
-      "source": "FOX 13 Seattle",
-      "date": "2026-06-11T23:40:53+00:00",
-      "description": "New police tech targets unauthorized drones  FOX 13 Seattle",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-12T05:38:40.219929+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "a3123f81c3be"
-    },
-    {
-      "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang - Oskaloosa Herald",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdEhNc1cxM0xCUlltOFk0T29Ga2dVWGJ1bkJpcWxVTnZwTjU3UHotN2tVZ1Z0Q056T1E5OXByQWhZNlJFc2lwRGRMZnFVdmtqN3l3V1otU1Z5NkJ4UEdpcnVsUThTcFJ4eVZoTVdYVU41a2cwMXBhU1ZVSDFsbkI3cW1QRjRGa0p3Y1dnOU10S2czdGJiVGRPeTFHMEM2dHpQcEctS1FJMTducHdFWHViZVprc0FMQzR6NFE5QXl5dVZzTUZmZ21xMDVEWGhLUmFYcHAzT0t3UkRrb0Zra1IzWHhpTmJ6SGtscldRM0RtMUl0cUExMG9YdDlhYUVvZVkycXRobUhpREp2YjBn?oc=5",
-      "source": "Oskaloosa Herald",
-      "date": "2026-06-12T03:13:43+00:00",
-      "description": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang  Oskaloosa Herald",
-      "query": "drone prison",
-      "detected_at": "2026-06-12T05:38:37.120935+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "49ec8321c6e1"
     }
   ],
-  "last_updated": "2026-07-12T05:58:12.800856+00:00",
+  "last_updated": "2026-07-12T10:27:26.793945+00:00",
   "total_count": 1000
 }
