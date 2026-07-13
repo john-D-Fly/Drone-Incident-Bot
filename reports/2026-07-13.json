@@ -1,0 +1,115 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have highlighted increasing tensions and rising risks. Key reports include a Russian drone crash in Moldova, claims from Iran regarding downed US drones, and Ukrainian drone attacks allegedly targeting Russian positions which have resulted in casualties. Additionally, Romania reported five maritime incidents involving drones in the Black Sea, indicating potential threats in regional waters. Notably, airports in the UAE and surrounding nations are experiencing significant disruptions due to drone-related security concerns following Iranian missile threats. This pattern reflects broader themes of drone usage in conflict and smuggling, posing new policy and security challenges as nations adapt to evolving aerial threats.",
+  "totals": {
+    "crash": 2,
+    "other": 22,
+    "airport": 3,
+    "terrorism": 5,
+    "smuggling": 2,
+    "total_incidents": 27,
+    "by_category": {
+      "airport": 3,
+      "crash": 1,
+      "other": 19,
+      "smuggling": 3,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 1,
+      "drone illegal": 1,
+      "drone incident": 13,
+      "drone prison": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Regional Tensions and Drone Strikes",
+      "rationale": "Several incidents indicate increasing drone-related violence and its implications for regional stability.",
+      "incident_ids": [
+        "1fc84efa736b",
+        "664355ccc3f0",
+        "f8303e650764",
+        "ef2cee5e6e17",
+        "7892fdba0d04"
+      ]
+    },
+    {
+      "topic": "Maritime Drone Concerns",
+      "rationale": "Reports of drone incidents in maritime contexts highlight emerging challenges for naval security.",
+      "incident_ids": [
+        "0ff524c23128",
+        "romania_reports_five_incidents_involving_maritime_drones",
+        "31240b38c108"
+      ]
+    },
+    {
+      "topic": "Air Travel Disruptions",
+      "rationale": "Increased drone threats are causing significant disruptions to air travel in multiple countries.",
+      "incident_ids": [
+        "f328ff056c51",
+        "ad1ae1e4aafd"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f328ff056c51",
+      "headline": "A look into how drone teams help law enforcement",
+      "one_sentence": "Drone teams are being increasingly utilized to assist law enforcement in various operations.",
+      "risk_tags": [
+        "drone illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "b093fb09709e",
+      "headline": "Russian drone crashes and explodes in Moldovan village",
+      "one_sentence": "A Russian drone crash leads to an explosion in a Moldovan village, raising local safety concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "1fc84efa736b",
+      "headline": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar",
+      "one_sentence": "A Ukrainian drone attack on Enerhodar reportedly results in four fatalities.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "97ce9dcab79a",
+      "headline": "Russian Shahed Drone Enters Moldova Airspace and Explodes Near Ukraine Border",
+      "one_sentence": "A Shahed drone from Russia enters Moldova's airspace before exploding near the Ukraine border.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "604f1a8002c4",
+      "headline": "Iran attacks Qatar, Bahrain, Kuwait, Oman, Jordan, and UAE after fresh US strikes over Hormuz",
+      "one_sentence": "An Iranian drone attack threatens multiple Gulf states, escalating regional tensions.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "twitter": "Rising drone incidents highlight increasing tensions and risks in regional security, particularly in Eastern Europe and the Middle East.",
+    "linkedin": "Recent drone incidents underscore growing concerns over regional security dynamics, particularly with advances in warfare technology."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-13"
+}
