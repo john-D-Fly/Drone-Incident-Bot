@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Maine Air Show Catches Drones In Restricted Airspace - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RSTNlQlJxZVItUV9xMjlRQ3NKSFlSVi1UeEdyTi1xWlMxRXBpNlI2eXBEMjZPU3cwLTB4SU9DcU9Lbkx6d2VuM3JfRzQ3TllPQXF0cTJ6bmd2NGtWdWpMOEZ4SDhTUVE2b19xZFlPb0pHeVk?oc=5",
+      "source": "DroneXL",
+      "date": "2026-07-14T00:57:00+00:00",
+      "description": "Maine Air Show Catches Drones In Restricted Airspace  DroneXL",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-14T08:03:45.204416+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "60c8b4cefdca"
+    },
+    {
+      "title": "FBI and Atlanta Police crack down on unauthorized drones near World Cup venues - tippahnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUW1IMVcxNUtOc0lKS2Y1NTIxZTV5T1Y3aGcwSkFXS3pacUVrcTVkOW51b3lZaHYzaXpGRDJWY1g1R3JnLTVhZVlVdFBCV2IyTUotdW05RWNOZEJZS19IbEdQRmV3Zl9oYXRsVGJhcXduS1JDX3pVdjZYM0FEQUoxWXQwakgzU2RMYTJpdVBDWWdxNVNHcTB2di04V3N6dG5nNVl4MlBjMFpHaHkwTFpibzV1aEVPZVk?oc=5",
+      "source": "tippahnews.com",
+      "date": "2026-07-14T05:55:16+00:00",
+      "description": "FBI and Atlanta Police crack down on unauthorized drones near World Cup venues  tippahnews.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-14T08:03:45.204416+00:00",
+      "location": "near World Cup venues",
+      "category": "security",
+      "id": "8a6ede135f44"
+    },
+    {
+      "title": "DeWine signs Ohio police drone law with warrant requirements - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVljX1IwbGFyV09NQ0ItQ1RuSHh5S0Y5bHM1QnRNMEREemhRWnZrcTEybDJkNEdVV19BWkFmV2lMUEYyUWE0U0JKS1FTR2I5S0xHa3BueFR3YS1PQnhxT2RFam5CMUFSdkUtWFVmcjJYaFJwZzZXblVfbUJ5WDVsOXAyUk1rMGU5RDFCX0R1TXZObW04S2N5cVZ1R1ZDb293SkY1bTRYaw?oc=5",
+      "source": "Cleveland.com",
+      "date": "2026-07-13T20:54:00+00:00",
+      "description": "DeWine signs Ohio police drone law with warrant requirements  Cleveland.com",
+      "query": "drone illegal",
+      "detected_at": "2026-07-14T08:03:43.814428+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a79c1f13e938"
+    },
+    {
+      "title": "This forensic platform connects drone flights with digital evidence - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjEwQVQxUG9YYU9uLUJJZ0d1aGM2MnIzdU1hYWNHTFIxTW9CM1RPMTFKVmI3MTVGQldoWXpNSl93ZG1Pc21mVUtGTzdYTEhFSFlkMzVMUXB5M1dqVE1DQkNZamFHUk9wb25ET2o1RllaVF9uWFdLN21aa2ZqNmdFRw?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-07-14T07:10:00+00:00",
+      "description": "This forensic platform connects drone flights with digital evidence  DroneDJ",
+      "query": "drone incident",
+      "detected_at": "2026-07-14T08:03:40.869771+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "32dfb73bfa50"
+    },
+    {
       "title": "FBI, Atlanta police target unauthorized drones flying near World Cup venues - Fox News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaDJ1SG1ERVJ3dEtSYVNCeklHanEtajF0Q3JpbVl3ZW1YeFNZY0Q2dW1pM3ZoUjhQUE5pcUtqR3JjOW5ZQjRjWEt2NWFGaGhGWHBlMmhRbmRCaEJLc0FJNktTYzhhRUJWM3REOXRTaVBFWi1mdHlYcHFBRjZ6cm_SAYQBQVVfeXFMUFBTc2FqbldZaUxMX0Y3X1FacEIzMkR2dUJyXzQyQzVHQ29ZMVNlcGNxUGlmeVR1NTE1UTJnZDNsU0hTUXFyd3ozcFFLTmpjOUJ2YzFVajAydlNqWE1XZUI4TUpXOWgzX1hYX3JzQlR2QTVZWm8xV0RSckgxc0FVc1UzaWpx?oc=5",
       "source": "Fox News",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "ceca59e3001d"
-    },
-    {
-      "title": "Israeli drones strike southern Lebanon - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQU1BQXo0aG5xNEZ1bUI4ZkYtZGN1UlpfQndza0VBakdvbUpVakFVOWVpTG05di1saW1iZEttb2pwSG1WU2JlUThZLU1pMXVTLVVwY2pPWDFnbm1GcWdNV2JuSF8tUWxLRl9JSkd4eVhoZUgyRk1FT0xaWTExNUlONlhsa0RBMHFXVjVB?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-06-13T08:56:00+00:00",
-      "description": "Israeli drones strike southern Lebanon  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-13T12:41:16.129635+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "129926ad7de1"
-    },
-    {
-      "title": "South Korea ex-president gets 30 years in jail over North drone incursion - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJQQmFHZVc1LUtRTXZSZDhPbklPc0psbGJBSDRqTG5jR0xHT0V5UDY2NGxvRW1PRVp1blhLS21QbVBLQjMxbjlNNUJZVTRxQ2JBYnVvZTlITU5VZUxOU3ZYSko4NWd0WTVsQTE0dzR4Q3RncnpIQ3ZvT244Z05lNlIwazg3dUtwemNRWERYakpnUjFlWUNudUJMUjVEYnFlWmtFc0sxclY?oc=5",
-      "source": "Courthouse News",
-      "date": "2026-06-12T16:13:18+00:00",
-      "description": "South Korea ex-president gets 30 years in jail over North drone incursion  Courthouse News",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T11:38:54.973783+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b9ab3e7e7e88"
-    },
-    {
-      "title": "Jailed South Korea ex-president gets 30 more years for sending drones into North - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13SW5ERFQxR3lZNWdSVmFkbllCNTRVbHp6Y2lNVmlEZ3VKV0JFS2NKbEZRVE1JNUtOQ1lzOGZLU0Q2ZldKTnI1WXhwdk1vZEZXM1M1bHh1QlRaNVJpOVdzTUJxYklwSXVGcGlpSWNRQVZrZUxxTjJLUWFVRDc?oc=5",
-      "source": "Yahoo News Canada",
-      "date": "2026-06-12T03:28:00+00:00",
-      "description": "Jailed South Korea ex-president gets 30 more years for sending drones into North  Yahoo News Canada",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T09:08:08.170137+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "019d80cd6f9f"
-    },
-    {
-      "title": "South Korea’s ex-president gets 30 years in prison for flying drones over North Korea - the-independent.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDFqNEx3QW83dEgzZ0FqMnEzU0pXdVhBcHJ1OVVjd0xMWWhJMUMtTl9XdXd1N3AtSkZmQ0lSZ0VhY3hIYm1ZYmhqRWNGWXdjODVrRTIzUzBQZnh5NE5aSDM2RlFNWDFnUXV1b2laVkItbzNKenZOTVhJMWVPbk9IX2J1X1kwQ2k1N0VSZjRmZWc0QkNia2ZvM3lLZGlCZ19WZWx5T2wwQ2lkVDk3LWxCVnZGejFibHpw?oc=5",
-      "source": "the-independent.com",
-      "date": "2026-06-12T05:45:00+00:00",
-      "description": "South Korea’s ex-president gets 30 years in prison for flying drones over North Korea  the-independent.comSouth Korea ex-president gets 30 years in jail over North drone incursion  Yahoo(2nd LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case  Yonhap News Agency",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T09:08:08.170137+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b3877c85765b"
     }
   ],
-  "last_updated": "2026-07-14T05:30:07.227182+00:00",
+  "last_updated": "2026-07-14T08:03:45.704578+00:00",
   "total_count": 1000
 }
