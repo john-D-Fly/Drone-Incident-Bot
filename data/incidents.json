@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "FBI, Atlanta police target unauthorized drones flying near World Cup venues - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaDJ1SG1ERVJ3dEtSYVNCeklHanEtajF0Q3JpbVl3ZW1YeFNZY0Q2dW1pM3ZoUjhQUE5pcUtqR3JjOW5ZQjRjWEt2NWFGaGhGWHBlMmhRbmRCaEJLc0FJNktTYzhhRUJWM3REOXRTaVBFWi1mdHlYcHFBRjZ6cm_SAYQBQVVfeXFMUFBTc2FqbldZaUxMX0Y3X1FacEIzMkR2dUJyXzQyQzVHQ29ZMVNlcGNxUGlmeVR1NTE1UTJnZDNsU0hTUXFyd3ozcFFLTmpjOUJ2YzFVajAydlNqWE1XZUI4TUpXOWgzX1hYX3JzQlR2QTVZWm8xV0RSckgxc0FVc1UzaWpx?oc=5",
+      "source": "Fox News",
+      "date": "2026-07-14T03:27:11+00:00",
+      "description": "FBI, Atlanta police target unauthorized drones flying near World Cup venues  Fox News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-14T05:30:06.709482+00:00",
+      "location": "near World Cup venues",
+      "category": "security",
+      "id": "00444ef519b0"
+    },
+    {
+      "title": "SLO County Sheriff’s Office Cracks Down on Illegal Fireworks Over July 4th Weekend - edhat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWm1qNEFVSERCYWV1MXRTbEdKVUlVX2xMNHgwNDNBNlR6TFZhd3pCQkh3cFdTbUFvRG9wTFFZMHlETmNZWEtDYWp4LTZPa1R4a3JvdGVEUzJhZkcyNHFQWFNJVTVlR3c5cS03NjNIUU55aTlKY0xXNGdVYlhOQlRicnV1akNHX2ZfWC1DclNaSUtRSlNFOUF6T0Q1ZWFtdXhFUHpLYnl0V05jMzNjWHpXQ2pKYw?oc=5",
+      "source": "edhat",
+      "date": "2026-07-13T21:29:31+00:00",
+      "description": "SLO County Sheriff’s Office Cracks Down on Illegal Fireworks Over July 4th Weekend  edhat",
+      "query": "drone illegal",
+      "detected_at": "2026-07-14T05:30:05.213876+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f657a35b7b16"
+    },
+    {
+      "title": "Meridian Police Drone Program helps capture suspect in aggravated battery case - Idaho News 6",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWjYwVTdSNGQ3MGFCaEU4eVN4WTZxMjVwYksyemNCcldrY3pCUkppQnlDMTJpWkV6R013c2J2ZW5qRnZJdUQyWlBnTWpNLTQyQXE3ZzJMQWxPc203Y1ZoQzhBMWF5czZIQjVqWWdfUWZoNW9YcUxHZGZjaUFnUmVmX2U4N0tIWHNPNU9TRmRvWDJSSDBGVFFpX0JVNmJjQjlwY2N1Y3lRQkFjRG9sRnRzcjhvU0VDTVRTMlV6bUpNTTVTTUd6N1puR1NtT3psMVM1bml1QkgxQzdINm1sRkdyMw?oc=5",
+      "source": "Idaho News 6",
+      "date": "2026-07-14T03:46:20+00:00",
+      "description": "Meridian Police Drone Program helps capture suspect in aggravated battery case  Idaho News 6",
+      "query": "drone arrest",
+      "detected_at": "2026-07-14T05:30:02.575856+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "edd0660022dd"
+    },
+    {
+      "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyYnVVMDM2TW1WazJXREJtZ0ZFdWxVWXUwVGJJZXpUR2hHYTU1b2pub1VfNmJGQUNzY3FjUTZpTGl3YjYwME9yd3BMa2JiaUdKWTkxQ1RVenJjeWgwMWFHdTU5cXQ0Y21wMXV5VU5qTEU?oc=5",
+      "source": "WIRED",
+      "date": "2026-07-13T10:00:00+00:00",
+      "description": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance  WIRED",
+      "query": "drone incident",
+      "detected_at": "2026-07-14T05:30:02.008804+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "09c874eaf87c"
+    },
+    {
       "title": "Maine Air Show Catches Drones In Restricted Airspace - DroneXL",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RSTNlQlJxZVItUV9xMjlRQ3NKSFlSVi1UeEdyTi1xWlMxRXBpNlI2eXBEMjZPU3cwLTB4SU9DcU9Lbkx6d2VuM3JfRzQ3TllPQXF0cTJ6bmd2NGtWdWpMOEZ4SDhTUVE2b19xZFlPb0pHeVk?oc=5",
       "source": "DroneXL",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "b3877c85765b"
-    },
-    {
-      "title": "Security forces kill 48 militants in Pakistan’s northwest as police arrest TTP drone supplier - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fakEyOEMzY0JFc3BiZWE0TmZvMFFzejZSRHNnaE9icGViNWJDNDVEWU9MdXBZVzVnTS1LdW03X0VMN1U3andVMGxXQXFlNzREdFlvS2lJdkg?oc=5",
-      "source": "Arab News PK",
-      "date": "2026-06-13T08:31:06+00:00",
-      "description": "Security forces kill 48 militants in Pakistan’s northwest as police arrest TTP drone supplier  Arab News PK",
-      "query": "drone arrest",
-      "detected_at": "2026-06-13T09:08:07.146531+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b00cd3dc23b2"
-    },
-    {
-      "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0toMXhBMHVaR1hqdEZoNG45OHRWU1dBYkdjZEc5WV90SzhtSTh3T1J1dmdydkVtemxfSHJKNmhtWEJDbWZLdk1wM0tpZ3NrSDlFbmx1RlJLTk9CRDd2RGJTRkR3MEZQVmRFbEdqUjU3dVY4b1pselZSMHpkc3pfVlBxM1U4SjQx?oc=5",
-      "source": "The New York Times",
-      "date": "2026-06-12T03:33:50+00:00",
-      "description": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President  The New York Times",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T07:23:17.250358+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c90a21ace7d8"
-    },
-    {
-      "title": "South Korea court sentences ex-President Yoon to 30-year jail term over drone incursion - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQW4ycGpINUt3YmRLOTZyakJhTUFJdWplMkhheFJLRXRJSHBVU1lDMmJhZHJJWXBST3dEVnRKcndJRXY3RUVZeUM1bDM1ZEdRTHpKekl1R3V5N0hSYzB0dWZNbkJScDFlbzZNMDdGeWRwY2R1UjFQN3JOQ0FUZGtuMUhsc3RWNVJlYXVzX1I4cGU2YnFZYXdSdWYwbWc5YzJYV050Mm8yLXlFUFcwSmlQSzA4QlF6RlhHN215NHk4VTJqRURrMjRjaA?oc=5",
-      "source": "Reuters",
-      "date": "2026-06-12T03:37:52+00:00",
-      "description": "South Korea court sentences ex-President Yoon to 30-year jail term over drone incursion  Reuters",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T07:23:17.250358+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "76fce6ebdc17"
-    },
-    {
-      "title": "S. Korea's ex-president gets 30 years over North Korea drone incident - KMVU FOX 26 Medford",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hHaXkwYTl1MTViaVQ4QjN3UUJWMXJrRzU2Mm5PaGFUb3M4MWkwYUx0MXBoc0dtY25lVjFEYlhSNXVIQVhQVVBtMFppT2o4U1BTTEJpQUlRVElVVHEzRHJ1dEZnMkg1MnI1SHdCV3VvZ19SZ1lNci05XzMxZ2FzUm9JX3BVeHdySXVhcllPOVc3XzZ4dmJxZU56cXNFaTg4VVZFQTFET2RvbGtvTkZFWVlidENGOUxSNGtjbDRtRFMxNlVIV3FINzlZMnpJWXFSaU9ISy1iSHlDeUxqRmt2b2VKQW5Vend3d3ZmcC1CeVNVQQ?oc=5",
-      "source": "KMVU FOX 26 Medford",
-      "date": "2026-06-12T05:58:19+00:00",
-      "description": "S. Korea's ex-president gets 30 years over North Korea drone incident  KMVU FOX 26 Medford",
-      "query": "drone incident",
-      "detected_at": "2026-06-13T05:34:34.548921+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "41c9cca07646"
     }
   ],
-  "last_updated": "2026-07-14T02:35:47.951415+00:00",
+  "last_updated": "2026-07-14T05:30:07.227182+00:00",
   "total_count": 1000
 }
