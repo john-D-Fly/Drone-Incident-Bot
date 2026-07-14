@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian drone strikes choke Russian shipping in the Sea of Azov - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6M2VleVY2eWctd0FnSDZOQUVFdVpZcVhjYWVpMFhWTFhvQUk2RXVEN0RpUnhNeC1SMEpLdXhPMGlCZDZhbF9Ha0EyQjZxTEtsSTBhSU1kUms1aHJCeEQ0a2NKc05keGpKVXB6SnZFSHA4LWhEZTUtbnB4SndwVUU?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-14T16:22:00+00:00",
+      "description": "Ukrainian drone strikes choke Russian shipping in the Sea of Azov  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-14T18:02:22.150704+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0697c921d1dc"
+    },
+    {
+      "title": "Meridian police use drone to find battery suspect - KBOI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDdHUndZbWNHLVNGLWEwSTJST2dvZ2g0TTF0UzNraWdvU1d4STFXR1RVZnYtQmxPWklBTUNFVUpUUkF0NmFJdm9iNlc5aWlBcDk1MkU5WThNenJaSUwwczJGSHB4b3I0NFZkaE16ZzF1N1pyNVVFMlhLdzJLVXgtZld2ZXRZZHMtX1E?oc=5",
+      "source": "KBOI",
+      "date": "2026-07-14T02:06:16+00:00",
+      "description": "Meridian police use drone to find battery suspect  KBOI",
+      "query": "drone arrest",
+      "detected_at": "2026-07-14T18:02:18.646067+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "49e2fc7dcfd0"
+    },
+    {
+      "title": "Pentagon To Deploy New Counter-Drone System - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hMzlNT285eFFVaHFFZ0tGRzdqRk93dzhKckotQ2tNSmRpRWFLNXJPc09KRlJEMF96QkRmYnJrX0gtYVVLWGhCVzBSdDRKN3c0SkZHdFhlQUREQzJXUkcyVDBMaHNuR0toRGN3MU9BZUdvbWFZSGw4TkRaa0Q?oc=5",
+      "source": "AVweb",
+      "date": "2026-07-14T16:47:00+00:00",
+      "description": "Pentagon To Deploy New Counter-Drone System  AVweb",
+      "query": "drone incident",
+      "detected_at": "2026-07-14T18:02:18.052971+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "57caba39d688"
+    },
+    {
       "title": "Nigerian drone startup with $11 billion in assets challenges foreign defense reliance across Africa - Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZTE5MlMyU1lVX29rTElicFhBNnNTS2dGckd0dEdtUzFhTEdLV2xoajMyNF9idnFTYmVTeGxjN2VxdEJyVDJJOEhjdXk2Y3kwSm5XaHczZU5kUVpaWlR1X3ZmUExTX2taQnRLQlJzeUZpNExQMTlJWXVDRTJZN1A3YUxTNkNQTnpOV0tjd0ZjQzAxS0FzNlZGVVFsb1JlLU5OTldFTlFiQ3h5eUJXYXhsaldRT0k1a2Z3aXNBWEZ1VUVBem5rQ255cFlkQnJQNVRGbEl1MlNDWlQ?oc=5",
       "source": "Business Insider Africa",
@@ -11963,44 +11999,8 @@
       "location": "near FIFA World Cup events",
       "category": "other",
       "id": "8978b76bca8b"
-    },
-    {
-      "title": "Court links drone operation to martial law - 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2UU1vREl2OFoyNEpJb2xSUWVOYWdKcmY1aFFZa2duc3kwZExWYVhQMlVaTG03MV8zTUwxYmJUM05zbFcxZlNzSVA2RVdBbEJZQmxRd2hvdC1ESEZGLWE4RE5hTTFfQQ?oc=5",
-      "source": "동아일보",
-      "date": "2026-06-14T23:30:45+00:00",
-      "description": "Court links drone operation to martial law  동아일보",
-      "query": "drone illegal",
-      "detected_at": "2026-06-15T01:01:50.773760+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "578a9401894a"
-    },
-    {
-      "title": "Five unauthorized drones intercepted near World Cup events in Toronto - Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTjYxNGpEZW5kdUFESDBtUkhhRVFuSmd1Snc3VU1hQk5vOUpNNG92bWNsQW5qUHVmWmNDUkU2ajRpVmY5eS1ONmlWN29MdGR2VTlZWld6eXZ4bFRKNGV0ZGlQcUZDTjVHUnJKRTlWVVBTTGtxeHRlME9uTWwtbGJOWmROR3gzWHZ4Zl94R182UWxmRnF6WXoyQUctNDItYnFQcXZUMUtrUjFndVVhdTlHbld2T0NEeXduYVVyR3h3QS1pOFItbmlHNVRiYzVDVXRadGJoS0R6M0RjWWZqenpmQk5B?oc=5",
-      "source": "Toronto Star",
-      "date": "2026-06-14T18:35:40+00:00",
-      "description": "Five unauthorized drones intercepted near World Cup events in Toronto  Toronto Star",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-14T19:33:42.129259+00:00",
-      "location": "near World Cup events in Toronto",
-      "category": "security",
-      "id": "2aa07ad7094e"
-    },
-    {
-      "title": "Teacher who directed Russian drones at Kherson defenders sentenced to life in prison - Ukrinform - Ukrainian National News Agency",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkZ2ZDg3d1didjBBZ3pBa2lGcDcwc1FrNlZYOXZRcDd0Mnlud3Z5OUlrTEdKNWI3dndxOWF3MVA0TmlyV0ttb0RxTmFwNlJkdUxpdHZiZUNrUW9zMFJUMjdOVTNQR0ZiazNlLW1pMVljV0g0OFk0NTEtRXZuMWxUSFdMUjdRMF9DbDh0Q2duZFFnc2o0bWo4OVlzOHhiNm04QWpxTnBEVTlVX2FoblNnZW9Pc3M3dWVseE94NXFkQ2FJV2xYT2pPRm5KUXZLNzgtb2c?oc=5",
-      "source": "Ukrinform - Ukrainian National News Agency",
-      "date": "2026-06-14T03:23:00+00:00",
-      "description": "Teacher who directed Russian drones at Kherson defenders sentenced to life in prison  Ukrinform - Ukrainian National News Agency",
-      "query": "drone prison",
-      "detected_at": "2026-06-14T19:33:38.468492+00:00",
-      "location": "at Kherson defenders sentenced to life in prison",
-      "category": "smuggling",
-      "id": "334d972880c8"
     }
   ],
-  "last_updated": "2026-07-14T16:14:04.630863+00:00",
+  "last_updated": "2026-07-14T18:02:23.128542+00:00",
   "total_count": 1000
 }
