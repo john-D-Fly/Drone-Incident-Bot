@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Maine Air Show Catches Drones In Restricted Airspace - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RSTNlQlJxZVItUV9xMjlRQ3NKSFlSVi1UeEdyTi1xWlMxRXBpNlI2eXBEMjZPU3cwLTB4SU9DcU9Lbkx6d2VuM3JfRzQ3TllPQXF0cTJ6bmd2NGtWdWpMOEZ4SDhTUVE2b19xZFlPb0pHeVk?oc=5",
+      "source": "DroneXL",
+      "date": "2026-07-14T00:12:36+00:00",
+      "description": "Maine Air Show Catches Drones In Restricted Airspace  DroneXL",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-14T02:35:47.454886+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "24232e67de29"
+    },
+    {
+      "title": "Meridian police use drone to find battery suspect - KBOI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDdHUndZbWNHLVNGLWEwSTJST2dvZ2g0TTF0UzNraWdvU1d4STFXR1RVZnYtQmxPWklBTUNFVUpUUkF0NmFJdm9iNlc5aWlBcDk1MkU5WThNenJaSUwwczJGSHB4b3I0NFZkaE16ZzF1N1pyNVVFMlhLdzJLVXgtZld2ZXRZZHMtX1E?oc=5",
+      "source": "KBOI",
+      "date": "2026-07-14T02:06:07+00:00",
+      "description": "Meridian police use drone to find battery suspect  KBOI",
+      "query": "drone arrest",
+      "detected_at": "2026-07-14T02:35:43.213814+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e4f3fe716c29"
+    },
+    {
+      "title": "Meridian Police arrest aggravated battery suspect with drone assistance - KTVB",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ByWmFpM1IwYjllUUFEczBSSVlxbHgxYVVqREZkY2dDMlRJbGxUMTg0VXF0enZQR0huOG95cnJVWElMdENIMVB1X2xmSlpGWDl1UHQ4R2JmUUlyajBCSEh2Nm9MX0dqMFV3VEFRemljX0xMeDZNM2otWmhwdjF0YWN6QW5NbkY3RWhZRE1kMElIN2QtSWVoX0RLNkJHREI2c01SWXNmS0xGaWprN092SEtEb3p6VWNVV1FJZGpmS19UUm5zZjB3QkJtaTNVTE14a3EwU2RCQm5yZzc4cGRRZA?oc=5",
+      "source": "KTVB",
+      "date": "2026-07-14T02:03:00+00:00",
+      "description": "Meridian Police arrest aggravated battery suspect with drone assistance  KTVB",
+      "query": "drone arrest",
+      "detected_at": "2026-07-14T02:35:43.213814+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "b21f5c85ee38"
+    },
+    {
+      "title": "One killed in Fujairah drone incident, projectiles strike tanker near Qatar - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTV0SFJ0b0tIdTB0b0c4RUt4a0s2ZE5ZNDVBUWlaYVltYWVnS2o0cmhPLTJ6dUotT3NHbndtbU9jWFNvT1pPZDNhYTcxNG1kb0tWMzBjbEU3b0JBNUotR0lKYWRxNmo4cHNQTzl2dl9PMktKeUczdERvdDVibDNjSWZoZ3o5Qm8zenJuTW1jQ0w4UTZQTU8zVXhDdHRoMkRsRHc?oc=5",
+      "source": "News On AIR",
+      "date": "2026-07-13T23:33:17+00:00",
+      "description": "One killed in Fujairah drone incident, projectiles strike tanker near Qatar  News On AIR",
+      "query": "drone incident",
+      "detected_at": "2026-07-14T02:35:42.558884+00:00",
+      "location": "in Fujairah drone incident, pr",
+      "category": "other",
+      "id": "1b469b581d1a"
+    },
+    {
       "title": "Three dead in drone attacks on Moscow - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmNrVGhHOXptc0tacl9uMHN2VjRxN0pwaGV1ejZ0Y19fNVEzdHJOMmtWeTZVd1JENkFzWVg2M1Zyczc0TGw0U1BBWEI0dWtJRXJVTWhRbHpsQkNvb241RFpHdWRNWHJLM2ItRUtKdXF2aVN1YlJyU1Vsc041MDZYUA?oc=5",
       "source": "AOL.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "41c9cca07646"
-    },
-    {
-      "title": "Former S. Korean President Yoon sentenced to 30 years in drone case - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMEhMS0VKMU96RkhYaUh3VDkxLWluM3lCaV93Y09vZVZTbFF3d3hNNk1HbDEyQmRFdWV1UkljblJMUEhseFhKclJ0TWp5LTUwei1ybFNmam1SdGE3Y0thNVk4OFd4SWtxWXlCWnFnc3plcjFNMkhHUjduN3d5Z1VKYk9tMXY3ZUVQeXAwR09tMmx2TXhVSlEzQVRfaGhyVWllVnlENGk1WVJGMVgxdFAycW8zaUZuMnJ2eEhnT1EzZjdVZGJkQXpFV0I4d2ZnMUhvTDZyVXBnZ3ZzeGRH0gHiAUFVX3lxTE1ZOG9KQ2E1OHBucEpBUHNlcjdDZXhvWk9yNjdWT0JVSVE1VFVoNzhfYWpUWTJ0bUxqSTVyWnotc2FxYmJDOUhLa2s3UG56MFVTcjJNSktyTnk1WjJpRlRsQk9OdnJJUHNEM0cwekN4MFBzREs3WjRORGpUNHBYVEFJYzRIOFljR2FDNURuV2phMEVuVWV1M0p0TzFLTmMxQkN4eGlQV25Nd2o3VzZCamdMY19Fd3M2cnkxdUJPbk01NW9wRkhFNEpnMjNFUmxMZ2E4SldBaG5Vb0pHdU82OWo5Z0E?oc=5",
-      "source": "upi.com",
-      "date": "2026-06-12T09:22:49+00:00",
-      "description": "Former S. Korean President Yoon sentenced to 30 years in drone case  upi.com",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T03:12:02.533239+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4d175b7b17e2"
-    },
-    {
-      "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0toMXhBMHVaR1hqdEZoNG45OHRWU1dBYkdjZEc5WV90SzhtSTh3T1J1dmdydkVtemxfSHJKNmhtWEJDbWZLdk1wM0tpZ3NrSDlFbmx1RlJLTk9CRDd2RGJTRkR3MEZQVmRFbEdqUjU3dVY4b1pselZSMHpkc3pfVlBxM1U4SjQx?oc=5",
-      "source": "The New York Times",
-      "date": "2026-06-12T15:09:00+00:00",
-      "description": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President  The New York Times",
-      "query": "drone prison",
-      "detected_at": "2026-06-13T00:59:07.533413+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "550c3a35e26a"
-    },
-    {
-      "title": "Global Peacefulness is Deteriorating, Driven by the Great Fragmentation and Rising Drone Use - ASIS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzdzcVBfZnM0a19QSUJxY0NuX3V5aDR3eGZjQ1N2c1VHNV91TmpEYUdZRUVvaU5DU1JuSmZydlFtNXZnaWs1aHhVenplNGxCaXV5eGVlLWpFbGF2OEVDbkVzOE54YTZHbXpDcmpQZVc2MVRLQUFhTXFvUWVEeThCUm9Hc0F1bnN0dUdrMENTc20yZk40T3owRjVIUTN1cUNhS0dzcUh6eWlId1pJalN1TV85TFdnY1Zxa290Rjl1MWNFaEZxdThBWA?oc=5",
-      "source": "ASIS",
-      "date": "2026-06-11T16:25:54+00:00",
-      "description": "Global Peacefulness is Deteriorating, Driven by the Great Fragmentation and Rising Drone Use  ASIS",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-12T23:33:38.786942+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7d7db238ee10"
-    },
-    {
-      "title": "Ex-President Yoon gets 30 years in prison over drone infiltrations - Philippine News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12dldnelZ1RFZsRmdpNk5WVGk3LUhQZU9lbFJGeFhtbVM0aFkzRWY2X1VwX1E0UHp5ejdHbTdRVGFJY2V5MWRPNWQ3eXpKeFBBSlJSbEFOV3pwcmFzYnc?oc=5",
-      "source": "Philippine News Agency",
-      "date": "2026-06-12T17:10:44+00:00",
-      "description": "Ex-President Yoon gets 30 years in prison over drone infiltrations  Philippine News Agency",
-      "query": "drone prison",
-      "detected_at": "2026-06-12T21:36:17.871362+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "2a1b8969f842"
     }
   ],
-  "last_updated": "2026-07-13T23:55:54.191844+00:00",
+  "last_updated": "2026-07-14T02:35:47.951415+00:00",
   "total_count": 1000
 }
