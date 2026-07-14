@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "FBI, Massachusetts State Police Warn Against Drone Use at Upcoming Boston Events - New Bedford Guide",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjFRU1RMTEN0MjRLS1Y5aDhNYUJQc293c05FTVdRM2lDZ0hlT2lMQkxvd2xvRzRYUVp6azhGZUdCMFh0MEFLTWFhWkt6eFBXeURHR0I3Ykw3V0VWYU1HRGxlNEVnVTRjSmxBcnI1ZkRPYkNSLTA1TU0xNXVNcFYyRjJrN0N1SGNHN2Z3TFZwWElLTUZlc1ViXzVRb3BURnRITndNa19xYk9Sa0owQ0hF?oc=5",
+      "source": "New Bedford Guide",
+      "date": "2026-07-14T11:43:51+00:00",
+      "description": "FBI, Massachusetts State Police Warn Against Drone Use at Upcoming Boston Events  New Bedford Guide",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-14T12:11:54.158750+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6f7134ff3b90"
+    },
+    {
+      "title": "Firefighting aircraft forced to land after Illegal drone activity - FOX40",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmpkVzlvZ0RPekx6MTFsX3M5VWk3VnZxXzBRREJzRHlvMVVGdTlHVDB6UUozbHRFa1JTMkI3Qm1nZFYwOVVQUjRhcVQxRURTdHJIcDlZZS1KMnEtRzQ5VWY0MFFKcVpqSW5GR1NtM1BvdkdBY0haTVdZUEhBbHpqVHJPcXh1TEFxWGxBMWJhN3B0bjMycjdOMnVrS0dpZVAz?oc=5",
+      "source": "FOX40",
+      "date": "2026-07-14T02:48:27+00:00",
+      "description": "Firefighting aircraft forced to land after Illegal drone activity  FOX40",
+      "query": "drone illegal",
+      "detected_at": "2026-07-14T12:11:52.544323+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "af010afc6d5a"
+    },
+    {
+      "title": "Drone aids in Ruston Police fraud arrest - Lincoln Parish Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmV4MWxoOGtJQy1Pd05EMUN0N3NEeGhCTDVoNG9CRWlJRGlnTXlpUWdseEJETzd1a3BNMjFId0l0VE5sczB0dHozN3YxcWpDUzFzOGNmbXRqbHhPRUlYSGZnVlBybmlWM1RqckxoMEpFZ3owMGtVX1MyMG9ULXM3NUR4VGlibDJ6dnhqdVFn?oc=5",
+      "source": "Lincoln Parish Journal",
+      "date": "2026-07-14T08:40:00+00:00",
+      "description": "Drone aids in Ruston Police fraud arrest  Lincoln Parish Journal",
+      "query": "drone arrest",
+      "detected_at": "2026-07-14T12:11:49.749079+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4beb1e576ad5"
+    },
+    {
+      "title": "Moldova summons Russian ambassador over drone incident - ԱՐՑԱԽ ԼՐԱՏՎԱԿԱՆ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sNTlBanA3UnRaOTV1WTA1NC1fTjZZMC1NNklqN3VXOWFFdUhiWkpHaHl3ZzNFc3gxb09RVGZCRHJXR1BoTnQwbWxpdw?oc=5",
+      "source": "ԱՐՑԱԽ ԼՐԱՏՎԱԿԱՆ",
+      "date": "2026-07-14T08:24:01+00:00",
+      "description": "Moldova summons Russian ambassador over drone incident  ԱՐՑԱԽ ԼՐԱՏՎԱԿԱՆ",
+      "query": "drone incident",
+      "detected_at": "2026-07-14T12:11:49.135285+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d1d40a1cdd45"
+    },
+    {
       "title": "The Iran War Turns Regional: Tanker Attacks, Naval Blockades, Drone Strikes, and Surging Oil Prices - Energy News Beat",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWhTTk11X0tGWEd5aGUyTktfdEkzeXJqTHlaWVFQMlhCSmZ0VDd1VUF3SkEzYTE1dTBKT29BV3d2a1RKeXFteUhjZjZnLVpKWHU2WV84UTRRRFoyYVBRMFRJYUJwSFlESU1ZMldsM01id082ZWJDTGZDVkRuX1RlMzhWRzB5OTltNzJtYm5heG5MZU9oVlpkSTlGODlKajl4TV9Hd1IybUNsQXNWSnViSEZJdUFGd29UNmU1UTFTZUg0THdBRWRLWndTTmY?oc=5",
       "source": "Energy News Beat",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "1ee16a798936"
-    },
-    {
-      "title": "Drones more effective than boat patrols along Sungai Golok, says Kelantan police - thestar.com.my",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2ZJSWNVU1k1VV9QX3c0MkpRbXQyTVdrWGdfR0JLd0xvZDM2TTdsVTJJcXpLai1nMjV4d25PYWtNWGp4ZGoyamdKaFpNbzVNTEwtTlc5WENoUkJTclR2LTJkZEJvX0dKOWpPR2ZmbVdkT0xFRE5fenlfZ3RDM01DWGFaQWN1QXNiTHpBTzNydldza18xYlBwenBSVmpyUW4yYnUxbk5XQ2Z3Tk5ya19DdGRIS1RjbmJraXdwNkFFYUVvME83aWN4Tg?oc=5",
-      "source": "thestar.com.my",
-      "date": "2026-06-14T05:42:00+00:00",
-      "description": "Drones more effective than boat patrols along Sungai Golok, says Kelantan police  thestar.com.my",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-14T07:40:55.784831+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e1be09055858"
-    },
-    {
-      "title": "Coast Guard Reminder On Drones Near Levi Stadium - Aero-News Network",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT01IMW03dDFPOWNiaXFyQl9nc0NYb2ZsNjIxQ2lUTkpHUkFhaEdSRkF3YzQyMUNIN2pOWHZibldhc2o2bTFxdFFHZDJDSlZLMmhFYllWUHpwaU00SVgzaG1kMm1OTWozVXM2VEFseWNiZlZrdXBuVGpWQWdxLTBkalBVcTZQWUNuczRhT2d3ZXJhUHo4SEVZWXBHcENCQkY5U1E?oc=5",
-      "source": "Aero-News Network",
-      "date": "2026-06-14T04:03:31+00:00",
-      "description": "Coast Guard Reminder On Drones Near Levi Stadium  Aero-News Network",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-14T05:38:00.106543+00:00",
-      "location": "Near Levi Stadium",
-      "category": "other",
-      "id": "fb7f8ed8073a"
-    },
-    {
-      "title": "South Korea's ex-president sentenced to prison term of 30 years over military drone incursion - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzJ0S21rT3A0elZvOTk4T1htZFNuQlAzVVQ1WDlfd0hlakhKMkh5bnFuWHdERlRkNmJDZjVjM2FUaGRtTHA3bERlX2VZNzlGczhxbEJYWEQtRWNxZFpqMXlzOHVIMWNxLURGYXp4ZTlXQ3hia0hXVF9zZEtSRXE2UDFyVTVIMUtRclZTaWtBaXZuaGNfbE0zNjRxbW9OWG5fUlJheWRnVk5sLVRZZThQT0hHamV3cXRXanZoaVlIVnUwUQ?oc=5",
-      "source": "New York Post",
-      "date": "2026-06-12T13:45:00+00:00",
-      "description": "South Korea's ex-president sentenced to prison term of 30 years over military drone incursion  New York Post",
-      "query": "drone prison",
-      "detected_at": "2026-06-14T05:37:57.056738+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e6832efdc652"
-    },
-    {
-      "title": "South Korea’s ex-president sentenced to 30 years in prison for flying drones over North Korea to stir tensions - the-independent.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDFqNEx3QW83dEgzZ0FqMnEzU0pXdVhBcHJ1OVVjd0xMWWhJMUMtTl9XdXd1N3AtSkZmQ0lSZ0VhY3hIYm1ZYmhqRWNGWXdjODVrRTIzUzBQZnh5NE5aSDM2RlFNWDFnUXV1b2laVkItbzNKenZOTVhJMWVPbk9IX2J1X1kwQ2k1N0VSZjRmZWc0QkNia2ZvM3lLZGlCZ19WZWx5T2wwQ2lkVDk3LWxCVnZGejFibHpw?oc=5",
-      "source": "the-independent.com",
-      "date": "2026-06-12T05:45:00+00:00",
-      "description": "South Korea’s ex-president sentenced to 30 years in prison for flying drones over North Korea to stir tensions  the-independent.comSouth Korea ex-president gets 30 years in jail over North drone incursion  Yahoo(2nd LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case  Yonhap News Agency",
-      "query": "drone prison",
-      "detected_at": "2026-06-14T05:37:57.056738+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "918db67a6861"
     }
   ],
-  "last_updated": "2026-07-14T10:45:48.328598+00:00",
+  "last_updated": "2026-07-14T12:11:54.806653+00:00",
   "total_count": 1000
 }
