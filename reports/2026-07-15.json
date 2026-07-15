@@ -1,0 +1,138 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone-related incidents have highlighted ongoing conflicts in Eastern Europe, particularly with drone attacks contributing to tensions between Russia and Ukraine. Significant incidents include drone strikes impacting shipping in the Sea of Azov, with Moscow labeling these strikes as terrorism. Simultaneously, in the U.S., enforcement actions were noted, as police utilized drones to assist in arrests across multiple cities. Notably, incidents of illegal drone activity disrupted firefighting efforts in California, underscoring the risks posed by unauthorized usage of drones in sensitive operations. Policy developments are also emerging, with new regulations on drone usage under discussion in various jurisdictions, reflecting heightened awareness of drones' potential safety and security implications.",
+  "totals": {
+    "other": 36,
+    "arrest": 10,
+    "crash": 7,
+    "terrorism": 6,
+    "security": 5,
+    "smuggling": 3,
+    "airport": 1,
+    "interference": 3,
+    "total_incidents": 83,
+    "by_category": {
+      "airport": 1,
+      "arrest": 8,
+      "crash": 5,
+      "interference": 2,
+      "other": 53,
+      "security": 5,
+      "smuggling": 4,
+      "surveillance": 1,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 18,
+      "drone crash": 1,
+      "drone illegal": 13,
+      "drone incident": 17,
+      "drone prison": 3,
+      "drone terrorism": 21,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Terrorism-related drone incidents",
+      "rationale": "Increased frequency of drone strikes connected to military conflict in Ukraine and Russia.",
+      "incident_ids": [
+        "94c9bb695471",
+        "d9c86ed36bb0",
+        "b6eb6bab41b3",
+        "c342fdf55af2",
+        "6de9bb1a3687",
+        "99a75ca6cd18"
+      ]
+    },
+    {
+      "topic": "Drone arrests",
+      "rationale": "Utilization of drones by law enforcement to facilitate arrests for various criminal activities.",
+      "incident_ids": [
+        "6de9bb1a3687",
+        "471161495421",
+        "bdc43ac5ec63",
+        "f4316ae057da",
+        "b21f5c85ee38"
+      ]
+    },
+    {
+      "topic": "Illegal drone activity",
+      "rationale": "Incidents that disrupt firefighting and various operations due to unauthorized drone usage.",
+      "incident_ids": [
+        "11fe4cba5a75",
+        "8dfa269f73f4",
+        "b910bd691e5a",
+        "ee9cc0c1cc94"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "94c9bb695471",
+      "headline": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+      "one_sentence": "A Russian drone attack on Odesa resulted in three deaths amid ongoing conflict with Ukraine targeting ships in the Black Sea.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "471161495421",
+      "headline": "Officers Arrest 2 Robbery Suspects with Assistance from the Drone as First Responder Pilot Program",
+      "one_sentence": "Nashville police successfully arrested two robbery suspects with the help of a drone used in their pilot program.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b6eb6bab41b3",
+      "headline": "Drone attacks on Russian ships in the Sea of Azov are \"terrorism\" in Moscow's view",
+      "one_sentence": "Moscow has condemned drone attacks on its ships in the Sea of Azov, labeling them as acts of terrorism amidst the ongoing conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f4316ae057da",
+      "headline": "Drone assists Metro police officers arrest 2 robbery suspects",
+      "one_sentence": "Metro police utilized a drone to assist in the arrest of two suspects connected to a robbery in their jurisdiction.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "12cdd6a76db1",
+      "headline": "Maine Air Show Catches Drones In Restricted Airspace",
+      "one_sentence": "Unauthorized drones were spotted flying in restricted airspace during the Maine Air Show, raising safety concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "b910bd691e5a",
+      "headline": "Illegal drone activity disrupts Elephant Fire efforts, Sierra County Sheriff's Office reports",
+      "one_sentence": "Illegal drone operations have been reported disrupting firefighting efforts in Sierra County, complicating the management of the Elephant Fire.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Monitoring significant drone activity influencing security, conflict, and arrests over the past 48 hours.",
+    "linkedin": "Recent reports on drone-related incidents highlight ongoing tensions in Ukraine and Russia, the role of drones in policing, and safety implications."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-15"
+}
