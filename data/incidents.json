@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Adani Group Drishti 10 UAV crashes in India in training incident - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zeGtaSGRrdzZSeWxsdG42UTZORk5TWkpmdXo5czV1OF95X0VUMjIycDQxNzEtM1JWOVU0RUkyT0JrUF9BMHRKX014R2pRZDJOS1lwd2Z3RWFFUHIwZnRQU21TSQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-07-15T06:28:57+00:00",
+      "description": "Adani Group Drishti 10 UAV crashes in India in training incident  The Jerusalem Post",
+      "query": "drone incident",
+      "detected_at": "2026-07-15T08:08:53.934058+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3b1291d67fda"
+    },
+    {
+      "title": "Israeli-designed Hermes 900 drone crashes again in India, raising questions over expanding fleet - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ec3ZvTklIbkVIcUJCU0hIWjU3bkNWWko2YXBHQklnUjRrVGF2ajBhQkVyalB1cnhKcTJ0bDFiM0pFaGg3d0xzMC1BNEFCdmlhWGFYVHE3WjVrT0FOUWFmZXFRUkJUb0Fw?oc=5",
+      "source": "calcalistech.com",
+      "date": "2026-07-15T07:40:00+00:00",
+      "description": "Israeli-designed Hermes 900 drone crashes again in India, raising questions over expanding fleet  calcalistech.com",
+      "query": "drone incident",
+      "detected_at": "2026-07-15T08:08:53.934058+00:00",
+      "location": "in in India, ra",
+      "category": "crash",
+      "id": "c342fdf55af2"
+    },
+    {
       "title": "Drone attacks on Russian ships in the Sea of Azov are \"terrorism\" in Moscow's view - Gamereactor UK",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEM4ZmF5UEVIQ3B3aUxTQWh0Z2l6emZmdjBlU2xhN0JaQndBa0dtTUVDLThDc3duUEFzUGdVLVNnbmlHTXVIeXh1UWQtM1VGeDJ5aHVVUGxWMS1DeTFJckZxQlNvdXdPQUZjSkwtREl3d0Zmb3pyOGdHdjJuV0FJUU56U3pHMDZ5eHhUd0ZkaVhENHJMMFJWc21UYlQzaFpXN25QcGdLWVFQdlVrX2FTM3FoYUNPUQ?oc=5",
       "source": "Gamereactor UK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "effd4750ccef"
-    },
-    {
-      "title": "Bulgaria National Detained in Greece on Espionage Suspicion After Drone Incident in Thessaloniki - Novinite.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb3JEbVp4ZWhoQ09YSHFrZVhUTnlhZVRkSktqbGE2SlRCdm84My11VGFpR1pVbHpvYkl5THh4QS04WWlwZGtRWjRUd1JGSzRpcDNwRFpybkJiWFdqeEtkS0M3MC0yeHNicGxuVmtWakxZRXZYTHZzb0xMaHhmeGwwWUxtdmNJUkwzOHh0MmFFcmFncVFjSFJrUWtycERRbVdMMjFuV2hfN2M5WXNlM280aDdqdEhuRnhMZ0ZkcUtpcG5ab3BlckxLNjNWbmZGUURYZktJ?oc=5",
-      "source": "Novinite.com",
-      "date": "2026-06-15T08:30:45+00:00",
-      "description": "Bulgaria National Detained in Greece on Espionage Suspicion After Drone Incident in Thessaloniki  Novinite.com",
-      "query": "drone incident",
-      "detected_at": "2026-06-15T21:53:00.138705+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a5c192db43c1"
-    },
-    {
-      "title": "Miami-Dade Sheriff's Office warns public about no-drone zones during FIFA World Cup events - Caribbean National Weekly",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNenV6OERabUQwb1FMTmIwVHBLY0dKam94Y2dfc0ZUa2tZNnRYQUNNUXVHbGVQQkE3Z3ZiaWtQbmh0SHBUVXh4RDFWV0xJNnh0WTFUTmtwVUJYTXV1b1VFSjl0cjhJUVhocHRKZnlzTUxmMHlVYW9oV2FnVDdMYjdScE1WS0FHdHl0VFFjNmtwSFp4SFJEb05pTEQxdFp3a2lwNUVjMkN0Sk5zNVd6LTBFcnM0WloyM3NPa0JHTzRSYU9JSG81U08wYjI4dzA3TE5P?oc=5",
-      "source": "Caribbean National Weekly",
-      "date": "2026-06-15T18:18:19+00:00",
-      "description": "Miami-Dade Sheriff's Office warns public about no-drone zones during FIFA World Cup events  Caribbean National Weekly",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-15T20:10:47.409412+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "70a193e90c5d"
     }
   ],
-  "last_updated": "2026-07-15T05:30:28.154364+00:00",
+  "last_updated": "2026-07-15T08:08:59.412692+00:00",
   "total_count": 1000
 }
