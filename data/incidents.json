@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "This forensic platform connects drone flights with digital evidence - DroneDJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjEwQVQxUG9YYU9uLUJJZ0d1aGM2MnIzdU1hYWNHTFIxTW9CM1RPMTFKVmI3MTVGQldoWXpNSl93ZG1Pc21mVUtGTzdYTEhFSFlkMzVMUXB5M1dqVE1DQkNZamFHUk9wb25ET2o1RllaVF9uWFdLN21aa2ZqNmdFRw?oc=5",
+      "source": "DroneDJ",
+      "date": "2026-07-15T04:10:00+00:00",
+      "description": "This forensic platform connects drone flights with digital evidence  DroneDJ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-16T12:25:38.214833+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a4346cbbc5a9"
+    },
+    {
+      "title": "Crude Oil Loading Suspended at All Iraqi Terminals after Drone Incident - ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUF2Yk1fZWU1MWdZeS1ndzJFb1V1T2YyaDhmcFVFWnZPb1JKa0VKcjc0OU9VeF9RVFdOenUxYi13VzVOMWszbm5oT1FyRFluSXNuNjZ2VjFBUlJHanNUckk2Q3BaNWNaNXdaWjdxVFRkN1J4WUoxb0FrX0VuSE44QmprTlVOS05PeUEyQ3NnQmxJcy1EMmRHdnlqbGVnSkdOU0tSNmxaenpTRFE5eGRmbkNR?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "date": "2026-07-16T10:21:10+00:00",
+      "description": "Crude Oil Loading Suspended at All Iraqi Terminals after Drone Incident  ASHARQ AL-AWSAT English",
+      "query": "drone incident",
+      "detected_at": "2026-07-16T12:25:32.738348+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6bdd2c801c00"
+    },
+    {
       "title": "Saudi Arabia Travel Alert: Abha Airport Attack Triggers Flight Disruptions Across the Kingdom - Travel Tourister",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1phN21sTFFtQVhZNlQ3ZTUtZVlTV2FWaWdfYTMxWGE5dTVXVTMtNnozNWFoOUhKaVB4WkZNRFhvN2l0WGhrOEJ1V3dFMXpNUWd0SGg1UWNzem5nUEY0YWk3c05jN2NJb0Z3VENfQWFGaGcxUDhNM3hIbWdtRjRxNzgxR3lZUEpqTWVFX3JnN2pPNTNZblczQVJKZmxxcHQyd3VPdGR5VmRkZy1EQndGOU00WURqMFh5SW9wYnIxcHd2OUk?oc=5",
       "source": "Travel Tourister",
@@ -11975,32 +11999,8 @@
       "location": "near Bessemer prison",
       "category": "smuggling",
       "id": "c2cc0a89227f"
-    },
-    {
-      "title": "Multiple People Arrested for Plotting Drone Attack on White House UFC Match - The Well News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3BuZzBPRno0LWtDeGdJZFZWbnM5MkVHMEttT2l6c0oyNURNUFhJemFNNjdMc3IyWDBqcF9SYV9PV3RndVMzMTBJWVptSGhCQm9taUhmdmRSeElDRzNkNEljc1dqTVlBaWp2cXpVTWM0dy1ERU1KczFDdTFhZGpKS2dZcWZJdHRRV1R4eTR0anZoakpQbjBhQjRlQk42REZ4d3dfRjRROGxIVDdRMTFSWDFXcm1qZ3BuQkRwTA?oc=5",
-      "source": "The Well News",
-      "date": "2026-06-16T14:51:59+00:00",
-      "description": "Multiple People Arrested for Plotting Drone Attack on White House UFC Match  The Well News",
-      "query": "drone arrest",
-      "detected_at": "2026-06-16T16:33:57.944095+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "07558efeb036"
-    },
-    {
-      "title": "Drone ends Irvine DUI suspect’s attempt to dodge arrest - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPODF0N3h5ZzRtWWFuTllMVDlPdE1FN0F5LV81bnRuWnlJQ0twTHloSWhpNjNQNGNrODVmbWEtOVBPNFhzR1h1N2xpalBPcnlmTXgtN3NrUEY0QnF5RlhMRG5OSnNpdGk4X0lwcVNHS1Vpa2dVWTRreWRyYUozN3RnV255bVowUU5lakY1UmpjTzE?oc=5",
-      "source": "KTLA",
-      "date": "2026-06-16T14:50:42+00:00",
-      "description": "Drone ends Irvine DUI suspect’s attempt to dodge arrest  KTLA",
-      "query": "drone arrest",
-      "detected_at": "2026-06-16T16:33:57.944095+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "41603bbe5aaf"
     }
   ],
-  "last_updated": "2026-07-16T10:59:21.473393+00:00",
+  "last_updated": "2026-07-16T12:25:38.747417+00:00",
   "total_count": 1000
 }
