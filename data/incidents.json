@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Kuwait and Bahrain Respond to Iran Drone Strikes - The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pSDNMTHpHLUJYU1BkZzRuN2lvTk05eEszTzBFU3ZLTlc4eXdLVzVGaHI1QUliZlFEUnhXakNMM25pZ0hUbUw2N01vektoeEdPd09MVjZyUWFUbzQ0Q0hYR3ZrVHh6NzM3NXJkWkhXWHVRYThx0gF6QVVfeXFMT1o2cG9yb0hvMjd3RjZsQU9SU01ldDdhZDdFRVNyNDlGOEJlRDNfbXVlS3p6T3g3Z3JSZksta2NZNWFkMk5TQ2stUFFMWmdvbzVvVllRdTQtM2poblV0TmxzQVZkdzMtM2pRR19ZbkR5b1hsU0hfYTh4Mnc?oc=5",
+      "source": "The Defense Post",
+      "date": "2026-07-17T04:36:26+00:00",
+      "description": "Kuwait and Bahrain Respond to Iran Drone Strikes  The Defense Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-17T17:11:04.620536+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fa17a38bd4f5"
+    },
+    {
+      "title": "Germany Detains Moldovan For Spy Drone Incident Over Arms Maker KNDS - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkxCc294Mm52TTAzYVdMOXRpdVAxVG9nUl9rcWR2cVc5cml0YVFOQVdwZUNWZFBsamx0c3pIanBMZ1RIa1JhVHgzakdBZmZuT0M0ck8yVnB2Ym1mellLc3R0blRCVXhkTDgxa0tuUUkwbHhYMjBCdXlkSEhQSjlqS21udjVlRlhjc3ZLTllFSTN2dHphTGdWN3U0aFB4dTA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-07-17T13:43:21+00:00",
+      "description": "Germany Detains Moldovan For Spy Drone Incident Over Arms Maker KNDS  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-07-17T17:10:59.888907+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "d33dd59ef9b4"
+    },
+    {
       "title": "Espionage arrest over drone flight at German weapons firm: prosecutors - Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XWmE4YUJiLTNFZUlwQTF3SmJLN1F3V0tscjFZRTJ1enlHaTNINm1UVTY3cGN3eEpSd1pRb1Bza253ZXd3STFRb0xmcXctc3RscXIzcg?oc=5",
       "source": "Arab News PK",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "a99abb7d04bd"
-    },
-    {
-      "title": "Security expert calls drone terrorism a growing danger - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNdjhMcXMzaWFVQndwM1VaTTZFcjJnS0hBY3U2bkFnVmxhS3RGOUpmMkJDb21HM0FQY3hoUGJoTUpDeFdnTzFDeEphZ3Q2MVVHaU5rRGxIWHJneGtDNkYxTEJuYVZZNjNQd3I3ZFU5ajE1TDdSRUZoTEowNE5MMEgwU2pWTzI0d0t0aVZWQlNhQVU5VUVTeURvbmMyV3BIMnVzeHdYWG5la3U0enZ2anRzcUUybjhXZGk2eFk1ZTZXdzR0Q2JXZUxCTzlxczY2cmp3VEpvUnVLRWxyd0EzZk5pbXU2WXE1djdsY3RNbWpEWFZHZUNtNF9xY1lrTmgtVXMwWmV0ckw5bTFtOG84TU1GbnNmcHRwcVNfdHk5bW5TZjN3Vy1fUHVIdEVGSkc3QU13c1dpUlJLU0ExLTFhTVNNRHhmMm90OHFOalROX3R1NUx6ZDVma09FRkhZQkJNejVjeE5veDY2a1RUMXJOXzFYZU5aSXVxYjB1RkVXbjFmZEhyYmNwSGs2S3RsNjRpcGRWb20zRFZnLXBRNXppaE04?oc=5",
-      "source": "WJLA",
-      "date": "2026-06-16T19:26:04+00:00",
-      "description": "Security expert calls drone terrorism a growing danger  WJLA",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-16T20:04:32.603620+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "be16682c02d0"
-    },
-    {
-      "title": "Dan Bongino reveals how the FBI stopped an alleged terror plot built for 'unimaginable' casualties - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFR4N1NHbVUyVm85QndtQ2Z0WEpBcmpLYm9NaERIUTh0SEZzNjZjQWdZMzN5ZmNkVGFIa0M2Qjh6bjUtTmpHT2hMaVJQU1M2SEZDeThkNkFMcGJjeENrWGZXTy1PYnBzalRxVWg2WFBKWWpIam0ta3pINkxQZzZpd2k5RWNEODMwbHp0OFdLaGRlcGY3bUVyNTJrbmdpWmtmbjJHYUJlRllob0FFUVFfZNIBtgFBVV95cUxQTHRoWkJlTzNTTzBlRXFaczlJQUFjLVg4UUJFUTJIWDNlTDJiNHhnR09nUk45QTROajdENHNxTTYxZTlkYllDLVowS2I2dWhZQ0dmbG5jcjdacVliM256NHRNNWpGNFdJMkczQWZkQ21za05TNDQ0OE5xaEFDM0VOQUl5YW9tc1ppeFpFMFpCWEp5LUJONUVzRk05NWJzbzFhcENnV1U5X3VQZVJoLUlqeFZhTU1wUQ?oc=5",
-      "source": "Fox News",
-      "date": "2026-06-16T17:16:36+00:00",
-      "description": "Dan Bongino reveals how the FBI stopped an alleged terror plot built for 'unimaginable' casualties  Fox News",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-16T20:04:32.603620+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "e03a9b35b298"
     }
   ],
-  "last_updated": "2026-07-17T15:12:37.868272+00:00",
+  "last_updated": "2026-07-17T17:11:05.721414+00:00",
   "total_count": 1000
 }
