@@ -1,0 +1,145 @@
+{
+  "narrative_summary": "Over the past 48 hours, a variety of drone incidents have been reported, with notable activities including unauthorized flights over wildfires in Nipigon, which raised aviation safety warnings, and a drone smuggling attempt in Melaka prison highlighting ongoing security concerns. In Iraq, drone attacks prompted a suspension of crude oil loading at terminals following a series of incidents attributed to both Iranian and local origins. Additionally, law enforcement utilized drones for arresting suspects involved in robbery-related crimes in cities like Nashville and Albuquerque, demonstrating the dual-edged nature of drone technology in both crime prevention and criminal activity. Countries like Iraq and those involved in the Kurdistan region are experiencing increased vigilance and regulations as drone technology continues to evolve in various contexts.",
+  "totals": {
+    "airport": 6,
+    "smuggling": 3,
+    "other": 25,
+    "arrest": 10,
+    "terrorism": 1,
+    "surveillance": 5,
+    "total_incidents": 62,
+    "by_category": {
+      "airport": 3,
+      "arrest": 9,
+      "other": 41,
+      "smuggling": 4,
+      "surveillance": 2,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 9,
+      "drone illegal": 10,
+      "drone incident": 20,
+      "drone prison": 3,
+      "drone smuggling": 1,
+      "drone terrorism": 13,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Security Incidents",
+      "rationale": "A collection of incidents linked to security and safety left unaddressed due to unauthorized drone activity.",
+      "incident_ids": [
+        "fd3c2461f225",
+        "3b2a5ae85692",
+        "f5412419ddc4",
+        "6c00addd4aa3",
+        "76c56e3e1104"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Contraband",
+      "rationale": "Incidents involving smuggling activities via drones, including prison smuggling attempts.",
+      "incident_ids": [
+        "3b2a5ae85692",
+        "f5412419ddc4",
+        "f5bb3b984ee2"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Law enforcement actions that utilized drone technology to aid arrests.",
+      "incident_ids": [
+        "1d0204cf02b3",
+        "b7b92c0a7579",
+        "4c4021d328c8",
+        "471161495421"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "fd3c2461f225",
+      "headline": "Unauthorized drone flight over Nipigon wildfires prompts an urgent aviation safety warning",
+      "one_sentence": "Unauthorized drone activity over Nipigon wildfires has raised serious aviation safety concerns.",
+      "risk_tags": [
+        "aviation",
+        "unauthorized",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "3b2a5ae85692",
+      "headline": "Couple caught using drone to smuggle tobacco into Melaka prison",
+      "one_sentence": "A couple was arrested for attempting to smuggle tobacco into Melaka prison via drone.",
+      "risk_tags": [
+        "smuggling",
+        "crime"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f5412419ddc4",
+      "headline": "Iraqi PM Condemns Drone Attack on Kurdistan Region, Vows Zero Tolerance",
+      "one_sentence": "The Iraqi PM condemned recent drone attacks in the Kurdistan region and promised stringent reactions.",
+      "risk_tags": [
+        "terrorism",
+        "politics"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6c00addd4aa3",
+      "headline": "Dubai and Sharjah flights from Saudi Arabia's Abha airport cancelled again",
+      "one_sentence": "Flights from Abha airport continue to be disrupted due to drone-related threats.",
+      "risk_tags": [
+        "airport disruption",
+        "security"
+      ],
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1d0204cf02b3",
+      "headline": "SBU arrests Russian agent who guided drone and missile strikes near Pavlohrad",
+      "one_sentence": "Authorities have arrested an agent connected to drone and missile strikes in Ukraine.",
+      "risk_tags": [
+        "arrest",
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b7b92c0a7579",
+      "headline": "Police drone captures video of suspect brandishing box cutter while robbing person in Nashville",
+      "one_sentence": "A police drone was instrumental in apprehending a robbery suspect brandishing a weapon.",
+      "risk_tags": [
+        "arrest",
+        "crime"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge in the last 48 hours, with unauthorized flights highlighting safety risks and smuggling attempts challenging security measures.",
+    "linkedin": "Recent drone incidents over the past 48 hours reveal increasing challenges in aviation safety, smuggling risks, and law enforcement applications."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-17"
+}
