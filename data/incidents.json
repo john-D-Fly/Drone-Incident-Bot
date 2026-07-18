@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Eight killed after Ukraine launches wave of drone strikes on Russian energy, military targets - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnUwWTBPaFpKNnpqaGlqMmJvQ1l6Q3BkdnNVRkoyZzY5bmRuUmw3bmU2WXA3VzJMdHpLcWlTNnRHNFN1VjdTWDZDbXJldktGeXpDb3RrazMtSUhuZ3ZJUHVjXzBvWFZhcW1neE9qcDIyOG5MTDNEVUViTUEtMVM0ZkRwQUdKYWRkMS1ON2F1RFFweHh1V3ZRa0UxX3JNbGlpcUpGNi02UEJZSEFpTmVXR0xwNGpHS0hZdmJUcEFtYzRPYjFIVHdYNkJEeTlUZ2dZcmhmMmJOQU5aREt3?oc=5",
+      "source": "New York Post",
+      "date": "2026-07-18T13:08:00+00:00",
+      "description": "Eight killed after Ukraine launches wave of drone strikes on Russian energy, military targets  New York Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-18T14:51:50.338042+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "647a79dece59"
+    },
+    {
+      "title": "Rupprecht Law – FCC Drone Import & Marketing Ban - sUAS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTG1rcDBuVklpRkV5Z1QtQkRXdW82a3VqbFlfNTRGS0pMcWViUmxHY2tzY0FsN1Y3QXlYVjRSOGNCcGNNYWVxMFhlTmVxa1hpdzBGd1VzODlJcVR3SDhzeDQwRHdqRkRSbmdDX3o3VHRuVUY3VkVVR0llYnUyRFhHelRkamY?oc=5",
+      "source": "sUAS News",
+      "date": "2026-07-17T07:00:00+00:00",
+      "description": "Rupprecht Law – FCC Drone Import & Marketing Ban  sUAS News",
+      "query": "drone illegal",
+      "detected_at": "2026-07-18T14:51:49.160895+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4dd266de6e78"
+    },
+    {
+      "title": "James City County first in Virginia to test lifesaving AED delivery drones - Williamsburg Yorktown Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjEzUzZWeTA4bGpPNWV3TlFGbFVLNXhCb0NTNEdmOHpwWjRCV1g3Yk95OVcyNkh2UVhyNGF0TE9uX181VF91X1hiQnBkMmdob3ZaQjNvZHBSNG05aDdQd1IzcVVKRDZiWDRVWlhHZmhXM1pzMTVjVHN6a0UwcTdpb1ZDTGJGd0d2N29sZzBESnliUUtZTVRRVWUtS2JEOEFfQ0U5QVA2NU8xRzBCLVVkbkF5aFZ6MXYtWmZV?oc=5",
+      "source": "Williamsburg Yorktown Daily",
+      "date": "2026-07-18T14:00:00+00:00",
+      "description": "James City County first in Virginia to test lifesaving AED delivery drones  Williamsburg Yorktown Daily",
+      "query": "drone arrest",
+      "detected_at": "2026-07-18T14:51:46.384617+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "8f7ab8b548dd"
+    },
+    {
+      "title": "Finland tightens Gulf traffic controls after drone threat - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUtPRUNjUk9pUGpvdHJtNEhUazNCMHdITzVvbTkyd24zYjRPb3pETVVGNXRxekVPQVA1MWtkdG1ZRmc1Rld2d1QwQ1RleEV2NFlFeWdqMzl4SklmVFJXSDVPZ18xUEc1SXRmTklfc1piNHdLa1pldmg2a1NiUVVRRnJWbVI?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-07-18T13:49:19+00:00",
+      "description": "Finland tightens Gulf traffic controls after drone threat  Latest news from Azerbaijan",
+      "query": "drone incident",
+      "detected_at": "2026-07-18T14:51:45.636334+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "e00afc4c073a"
+    },
+    {
       "title": "Iranian strikes kill eight Kurdish opposition fighters in Iraq, group says - ایران اینترنشنال",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10V1FFRkdqVVQtZUdhM1g4eTNvZlRBZkJQTkd1WUFSQ04xbzgxaUhsM043Ri1TTWRNUnBEU3d1blluWkpwVUlwbkNnMksySXBiVXc?oc=5",
       "source": "ایران اینترنشنال",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "11c10a65d4b8"
-    },
-    {
-      "title": "GPSO Investigation into Drone Usage Near Prison Results in Arrest - klax-tv.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT2I1NF9ZTEwwLWo3N05jeDRrS08zcC1kZng3S0swREJUWUpkVXhMQXpacExlOUk2ck92TklUanQzQ09pU2NwNmJLbVZjbHV1cmF2b3lsekQxRnZJcjY1c2Z0OTNzWlp1czNnWDl2Qk5VeFR6RG9paXoxV05PNXc4SG5jSTl5Y3JiZEE1c1lhUXBjZ3ZMamktSFQ1dGhKa052MUY2VGo4XzYxWmFLMjV6Yk50TU95WEFlLTZnSDI0WnRlM0RORnpXb21jOGxQYmg1VWVoU3VKZHNWOU9p?oc=5",
-      "source": "klax-tv.com",
-      "date": "2026-06-16T18:06:00+00:00",
-      "description": "GPSO Investigation into Drone Usage Near Prison Results in Arrest  klax-tv.com",
-      "query": "drone prison",
-      "detected_at": "2026-06-17T01:00:20.318046+00:00",
-      "location": "Near Prison Results in Arrest",
-      "category": "smuggling",
-      "id": "6f71a9945e7a"
-    },
-    {
-      "title": "VIDEO: Florida man points BB gun at police drone, gets arrested - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MSVJ2Nk1pSUFrS3RCRmJRenhySzBKSjFmdmtPbnBNS0FpSUM5N2F3ZW5ka1dHRmdXYjFrQ3dwZXdRQ0R2WWJUUHJTY2tJeFJxMjdEOUNyeENWaW00LVk0TTZVNVE1T00tZ1lXYkNn0gFzQVVfeXFMT3oyYVBDQ1plWFhwd2RueGZ0TkNNZFVBUklrZm5SZTU0NEc1VFRsV1dQd2U3RkV2c1dDYmlPVUZRTTFoZGxzS3VpTXcyWk5MaVBYZVp1UnU4X1FzSmVYTzFjeGxjS0tocE92MHFMemJTYzdINA?oc=5",
-      "source": "KTLA",
-      "date": "2026-06-16T18:57:26+00:00",
-      "description": "VIDEO: Florida man points BB gun at police drone, gets arrested  KTLA",
-      "query": "drone arrest",
-      "detected_at": "2026-06-17T01:00:19.103931+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "12470353f2e0"
-    },
-    {
-      "title": "Caught on camera: Sheriff’s Office drone records suspect shooting at it - FOX 13 Tampa Bay",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUMtQm5sVEdGNTJva29vNHk2NmFjWHZkdC1KclZQakZQRzg0Mjc5Z0JPMldVblBhS1h1OHVYaEY4NUtvQnYtb3Z2bFlJaTFkQ1FyQTN1REVDR1doOHhiT3Z2OHFFRndjWkpqQTdmQll0bXJOSjFTN0tUemJCcVdraTVsVERrd1N5Z01uUDIxU1VCTURzQUHSAZsBQVVfeXFMTW8xTU1QMXlPN0FLbnNxbFpmNmRwbnlYMGdFZUtBZGNzNDFmVl8xMDViWjA4ak9VWVl5bDNHek5XUnowWGxxNnBhOHNtUnFaMHpLSVlKalVoQUo3NFYzcTUxcHRaU3dzTG12a0d0d2pDY1FydG1oZkNEODlFalpjVWNYNGdkUC03aEk5c0xHOVUtUllPTEhCNWpWWmM?oc=5",
-      "source": "FOX 13 Tampa Bay",
-      "date": "2026-06-17T00:38:41+00:00",
-      "description": "Caught on camera: Sheriff’s Office drone records suspect shooting at it  FOX 13 Tampa Bay",
-      "query": "drone arrest",
-      "detected_at": "2026-06-17T01:00:19.103931+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b6235e61101f"
-    },
-    {
-      "title": "Was Trump the target? FBI foils alleged drone attack plan at White House UFC event - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVpwXzVqWUo4SnA4eFhOem5zd2ZpZHU5WTBwQ0RzRHNZTXRib2NMMEF5bXFIbmQ1czhGd0p1X2JWUGtOdTcxWkxzbkdiZ2JUSTVEMFpQT3prazB4dmZpRXhqLVZJVDVxYjNFRV9nWmNZMUJOOXAyRHMyOHQyeC12MDh4X3dpRDM0SDJTZnh1c2thNjZTUzEtZlNWMVBndExUWjM3bnJPZmx1N1VBQm5LRmRfN3VaQ1lrVkZJWDQ1bXU3cWZ5cnhzQndHU0Rwc29YTGk3cnNsWnJXQkZ4aFdJ0gHkAUFVX3lxTE45Z1VZc2xKSF9QX3g3d0lsckJ5d0pNYUtxY2ZwbkpIcURQaWRqTzNQSzZjRlZRQmlVUU85NS1QcE1NUms4MWI0V3d2aXhUZ1B6bDVBaGxUYlhSUHV0Tm1zQ3hhay1lTGczR3lsY2FoYVhXNFVud3hndXEzVXNmZ0JVY3VVSk9LM2FNMTBaRVRHQlUwb0ZqdzNZZnJQX05ObXBKUHBSZ0ZJODZKRFFmd0xLNmFiYjFzSlBzREJBSmZVTXJjUGphMjJRT256N3BoM05oLW1sWmQtQjQ3Y2lyalFrNTFHQQ?oc=5",
-      "source": "India Today",
-      "date": "2026-06-16T21:48:37+00:00",
-      "description": "Was Trump the target? FBI foils alleged drone attack plan at White House UFC event  India Today",
-      "query": "drone incident",
-      "detected_at": "2026-06-17T01:00:18.465644+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "faf51c3698a9"
     }
   ],
-  "last_updated": "2026-07-18T11:03:02.524941+00:00",
+  "last_updated": "2026-07-18T14:51:51.533295+00:00",
   "total_count": 1000
 }
