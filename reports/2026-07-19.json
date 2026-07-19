@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "In the past 48 hours, various drone-related incidents surfaced globally, with a significant focus on illegal drone activities, including more than 700 illegal drones seized during the World Cup in the U.S. Reports of drone smuggling at prisons, notably in Louisiana and Malaysia, highlighted ongoing security challenges. Furthermore, drone arrests spanned various locations, including a significant apprehension linked to espionage in Germany, where a Moldovan was detained over a spy drone incident at a weapons firm. The situation in Ukraine remains tense, with drone strikes targeting various facilities causing fatalities. Meanwhile, countries are increasingly wary of unauthorized drone flights affecting infrastructure, prompting new regulations and security dialogues, especially in areas like Erbil, Kurdistan, and airport disturbances in Kuwait due to drone disruptions.",
+  "totals": {
+    "other": 17,
+    "smuggling": 3,
+    "arrest": 7,
+    "security": 4,
+    "terrorism": 6,
+    "airport": 5,
+    "total_incidents": 49,
+    "by_category": {
+      "airport": 5,
+      "arrest": 7,
+      "interference": 1,
+      "other": 22,
+      "security": 4,
+      "smuggling": 4,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 9,
+      "drone illegal": 6,
+      "drone incident": 12,
+      "drone prison": 2,
+      "drone terrorism": 12,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Illegal Drone Activities",
+      "rationale": "The recurring theme of illegal drone activities across various incidents points to a growing concern for security.",
+      "incident_ids": [
+        "9b0437ade380",
+        "b29b971bbdab",
+        "d685a0629c29",
+        "3aeb664c0e2c",
+        "40d5b498cc26"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "The presence of multiple incidents related to drone smuggling into prisons indicates a significant illegal trafficking operation.",
+      "incident_ids": [
+        "b29b971bbdab",
+        "529b184f39bb"
+      ]
+    },
+    {
+      "topic": "Drone Disruptions at Airports",
+      "rationale": "Several incidents reflect increasing disruptions caused by unauthorized drone activity at airports.",
+      "incident_ids": [
+        "40d5b498cc26",
+        "e7b04c32ab95"
+      ]
+    },
+    {
+      "topic": "Espionage and Security",
+      "rationale": "Espionage-related drone incidents underscore the ongoing national security concerns stemming from unauthorized drone flights.",
+      "incident_ids": [
+        "d33dd59ef9b4",
+        "247cf71b1912"
+      ]
+    },
+    {
+      "topic": "Drone Strikes and Terrorism",
+      "rationale": "Incidents involving drone strikes in conflict zones reflect escalating tensions and the politically sensitive nature of drone usage.",
+      "incident_ids": [
+        "8f7ab8b548dd",
+        "13b401c500d7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9b0437ade380",
+      "headline": "More than 700 illegal drones seized during the World Cup",
+      "one_sentence": "The FBI reported the seizure of over 700 illegal drones during the World Cup event in a significant crackdown.",
+      "risk_tags": [
+        "illegal",
+        "security"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b29b971bbdab",
+      "headline": "Louisiana prison involved in alleged drone smuggling operation",
+      "one_sentence": "A Louisiana prison is reportedly involved in a drone smuggling operation, prompting investigations.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3aeb664c0e2c",
+      "headline": "Reno Police Drone Tracked Armed Suspect To Quiet Arrest",
+      "one_sentence": "Reno police utilized a drone to track and arrest an armed suspect without incident.",
+      "risk_tags": [
+        "arrest",
+        "crime"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "4a6ddb70da3d",
+      "headline": "Iran downs US MQ-9 Reaper drone over Ahvaz amid rising tensions",
+      "one_sentence": "Iranian forces shot down a US MQ-9 Reaper drone, escalating military tensions in the region.",
+      "risk_tags": [
+        "drone",
+        "military"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5c70ee35084d",
+      "headline": "Kuwait International Airport Suspended After Drone Attacks",
+      "one_sentence": "Kuwait International Airport faced multiple flight cancellations due to drone attacks, affecting service.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [
+        "Kuwait"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "A busy 48 hours for drone incidents worldwide with arrests, smuggling and regulatory responses highlighting growing concerns.",
+    "linkedin": "In the last 48 hours, significant drone-related incidents unfolded globally, from illegal activities during the World Cup to security challenges in military conflicts."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-19"
+}
