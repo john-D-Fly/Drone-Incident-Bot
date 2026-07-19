@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "More than 700 illegal drones seized during the World Cup, says FBI - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFVZ1doWldobVYwaHdhZ3BtT1E4YUY5N2FRZGNnekhKbmxTODItMFV6ejg3blRUemx6WGFhY015ZzZtOExiOGtMYlQ2REcyVllLcnJkbi1tNTBQajhIYy1jcHMtR2I5ZV9yeElFOG1rZE1KWUROY01OU3pZVzlPaHUzYnJ0XzRGUm51LUNEUmEwWmJGUzBPUHNkMDU4alY2SkJBSFp3MDU2SjNrdWNKS1NCOGkzN041MWc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-19T04:10:26+00:00",
+      "description": "More than 700 illegal drones seized during the World Cup, says FBI  The New York Times",
+      "query": "drone illegal",
+      "detected_at": "2026-07-19T05:52:23.479848+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d3f8301534b1"
+    },
+    {
+      "title": "Kuwait International Airport Suspended After Drone Attacks, Triggering Major UAE Kuwait Flight Cancellations for Emirates, Etihad, and Air Arabia: New Travel Alert - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdHNRWWd4eXBpeHl1bXFrdnF0UTlNSmdUelNXdHFjSzBqVFQzRHhPby1zbFV5N2JNQTZmUDFGR1VtOTZpem4wRG85Vm92dlVOdHBPTVduV2o1WjQwb2VTSFJMWUk0Mk5aQ3NXZDhrNzExNWRKUDk5NmpZZjBFZDIwbXRNeVZ0UQ?oc=5",
+      "source": "Nomad Lawyer",
+      "date": "2026-07-19T03:23:21+00:00",
+      "description": "Kuwait International Airport Suspended After Drone Attacks, Triggering Major UAE Kuwait Flight Cancellations for Emirates, Etihad, and Air Arabia: New Travel Alert  Nomad Lawyer",
+      "query": "drone airport disruption",
+      "detected_at": "2026-07-19T05:52:22.551829+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "40d5b498cc26"
+    },
+    {
       "title": "Israel weighs nationwide 6-month ban on private drones - www.israelhayom.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkFZRWZaclNYc29sVi1PeWNSVG9XdUtJMDJGTXFrV3lnZkxMZnNFd1VyMnN3QklZZFFWT3FPOTdBRFlmaS1CY25QRVJrSF9CV3FWd2hsTXhBNXp1LWZzelZja2tUUm9STVc0OHhsYS1iVnI2TzF5aGVGMm9UY1Y3RzhuUEVkZFhVS2tDZ2U5ak15blV4MzJOQVN3?oc=5",
       "source": "www.israelhayom.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "surveillance",
       "id": "703ae25d2bf5"
-    },
-    {
-      "title": "Mexican Military Jams Drone Spying on South Korea's Training - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlgyUmhLaWEtc1RTY3hjVWRDcFd6X3phN3NFM1VtaEdEWVlhajdFSHNEZWIxT0V2WE53MkVIaWs3b3R5eXk1eWtRX3ZXYkVpLXYxTjd4N0MwcnJwLWNJTkVKZkdrVnJoSDRFWmhDQlQ4U3lkSTgzeU1MSUk3TXBNa2ZVbG83UQ?oc=5",
-      "source": "조선일보",
-      "date": "2026-06-17T06:45:00+00:00",
-      "description": "Mexican Military Jams Drone Spying on South Korea's Training  조선일보",
-      "query": "drone incident",
-      "detected_at": "2026-06-17T07:57:06.726388+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "2cc44b12c01b"
-    },
-    {
-      "title": "FBI Stops Alleged Drone Plot Targeting White House UFC Event - rg.org",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWZtV3VpcVlnaGtnTEtXYzhCLWNjTnN0QnVscDdLTTF2WlJub2Qzd1dfU3VFaDVIclhOeUE4WjVfX1hyMVR0RS1Qb21OUHdIUzV4SVF4UndYRGdZRFZFc19hdVpZUWZ5LVZBRFdONEd2SWg0Ul8ybm1GT1FUbF9UbmVB?oc=5",
-      "source": "rg.org",
-      "date": "2026-06-16T23:05:42+00:00",
-      "description": "FBI Stops Alleged Drone Plot Targeting White House UFC Event  rg.org",
-      "query": "drone incident",
-      "detected_at": "2026-06-17T07:57:06.726388+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fad05de9d460"
     }
   ],
-  "last_updated": "2026-07-19T02:41:46.106580+00:00",
+  "last_updated": "2026-07-19T05:52:25.400899+00:00",
   "total_count": 1000
 }
