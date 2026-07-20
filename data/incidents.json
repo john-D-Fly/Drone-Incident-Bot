@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Toronto police intercept one more illegal drone during World Cup final - TorontoToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZld6UWJ0NHZNMTE4alFPRFBPTEp2Y09WVXNfeXJlRmhwYmtDNzZWMjNJZlliSmU1QkwyQVkwdjJ2Z0VFQ29UTFUzckwwMmhuYTZXM0lmb3AtQndmeGxRWmRCTGp1Z2puOExGeFh3Mm8wSXNGc24zRnBlVDlIWGhfbUdRUXpobmxzZS1fRUZJYXBHY2stcTZraFhiUUdpU2ZweEE4VzFTUlJnQlVYbTdxa2owSGxmbVp1Z3JwTlNGX2FPT3pfUE5RX0FDbzY5M1g2TDRWYg?oc=5",
+      "source": "TorontoToday.ca",
+      "date": "2026-07-20T02:42:49+00:00",
+      "description": "Toronto police intercept one more illegal drone during World Cup final  TorontoToday.ca",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-20T03:53:04.345816+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e42cb3c93244"
+    },
+    {
+      "title": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFVZ1doWldobVYwaHdhZ3BtT1E4YUY5N2FRZGNnekhKbmxTODItMFV6ejg3blRUemx6WGFhY015ZzZtOExiOGtMYlQ2REcyVllLcnJkbi1tNTBQajhIYy1jcHMtR2I5ZV9yeElFOG1rZE1KWUROY01OU3pZVzlPaHUzYnJ0XzRGUm51LUNEUmEwWmJGUzBPUHNkMDU4alY2SkJBSFp3MDU2SjNrdWNKS1NCOGkzN041MWc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-19T18:26:00+00:00",
+      "description": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic  The New York Times",
+      "query": "drone illegal",
+      "detected_at": "2026-07-20T03:53:02.887468+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a29169efc530"
+    },
+    {
+      "title": "Woman, daughter killed in drone strike on home - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHAyamlYSlRTdEc1QU4wY3BtcmQ2aWJ4UWhBWEYxT2ZfZWdScmZOVEUxVEdjS2hURjBDbUF6RUNmNkNNeTlQNnB6bHpxdU1xSjZKZnh4NjFzMXZEeFlGdTA5ZlBpUm84a1hnNlRpaWFwNm1xTm11NFZTZTBNc1A0a25HejZidUhtcGfSAZIBQVVfeXFMTWZZcTJaYkxNMjZhc1BmcFBFamIweWpzZGVsanJnaU04aTQ5MXVTRjRZY2hzeUl1WkMybUJzaWx2RU4zLThwVWwxZmthNVhjVmp1SnJscHBXV2Y2UjNHR0ZwdS16RDJ0NlBYQklyYUQxdTF4QTJyZzBJRnV1THQwcWdtZ3RYUEE2eU5jYUlWQ05NVGc?oc=5",
+      "source": "The Express Tribune",
+      "date": "2026-07-19T21:37:42+00:00",
+      "description": "Woman, daughter killed in drone strike on home  The Express Tribune",
+      "query": "drone incident",
+      "detected_at": "2026-07-20T03:52:59.639440+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9914a0746604"
+    },
+    {
+      "title": "Iran shoots down drone amid 2026 war tensions with US, Israel - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVRzM0p4LVpKZHBOTnlBSlRTaWFyRXJSWHBxMGdXRFNXWFE3SVIzc196SGpqc2kyMEp2R0JseEoxLWhVVC1pczd1VmZuUTZReU9KdGU3OTlScWItSlh3bmxQamRmMjVZRUhPN0xBVUUzYnd4cFltSm5pRk12a0hTempPT0NMdHlKREdnOGpWTTBQdw?oc=5",
+      "source": "Crypto Briefing",
+      "date": "2026-07-20T00:48:52+00:00",
+      "description": "Iran shoots down drone amid 2026 war tensions with US, Israel  Crypto Briefing",
+      "query": "drone incident",
+      "detected_at": "2026-07-20T03:52:59.639440+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8b1fca6b171e"
+    },
+    {
       "title": "Woman, daughter killed in drone strike on home - The Express Tribune",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHAyamlYSlRTdEc1QU4wY3BtcmQ2aWJ4UWhBWEYxT2ZfZWdScmZOVEUxVEdjS2hURjBDbUF6RUNmNkNNeTlQNnB6bHpxdU1xSjZKZnh4NjFzMXZEeFlGdTA5ZlBpUm84a1hnNlRpaWFwNm1xTm11NFZTZTBNc1A0a25HejZidUhtcGfSAZIBQVVfeXFMTWZZcTJaYkxNMjZhc1BmcFBFamIweWpzZGVsanJnaU04aTQ5MXVTRjRZY2hzeUl1WkMybUJzaWx2RU4zLThwVWwxZmthNVhjVmp1SnJscHBXV2Y2UjNHR0ZwdS16RDJ0NlBYQklyYUQxdTF4QTJyZzBJRnV1THQwcWdtZ3RYUEE2eU5jYUlWQ05NVGc?oc=5",
       "source": "The Express Tribune",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "4f090e6c060e"
-    },
-    {
-      "title": "FBI arrest 5 in drone-attack plot against White House UFC event | Morning in America - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM201cXU2QmV1Z09ITmhYYmM4ck05NmU5QW1lMHV1R0p0MlFINzRpTDhCVV9ybEowNjNDQm03ZnQ1QUs5Rld3R2x3TndfTzBLeno5LXprT0dJS1gtR2oyRllqZ3NZR3lqSXNzRW5wQlhDVzhrY0Y3UGoyQld0NnE3NTFqZzdwOG5lR1YzSWEtQ0ZPUnJZckZpNFVHVllNZ3lLN1JZSjBpRHhhUDBERjY3N0RpSUJ5a1RVNERBdEJCVjFoSGp4WDlr?oc=5",
-      "source": "NewsNation",
-      "date": "2026-06-17T11:25:56+00:00",
-      "description": "FBI arrest 5 in drone-attack plot against White House UFC event | Morning in America  NewsNation",
-      "query": "drone arrest",
-      "detected_at": "2026-06-17T17:05:48.740178+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b3e83da954cd"
-    },
-    {
-      "title": "Drone ends Southern California DUI suspect’s attempt to dodge arrest - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZFNsOXhVWUdiNFNrSnpocmc1SV84aVNUREtzbTNrNXIyRGZ2R24yVkhUalNKTXVJSGs3Qzdmd09TX25sdnZaLU5odFZ2M2FRTnluSmp1SVg0N2E1STluRHY5UWhBMW9Ub19tcG1yMlVSWkVDazllYmtZQXp3R1Zhb29Zd1J6Qlg5ZjB6aXI4bDJLdw?oc=5",
-      "source": "Yahoo",
-      "date": "2026-06-16T15:06:53+00:00",
-      "description": "Drone ends Southern California DUI suspect’s attempt to dodge arrest  Yahoo",
-      "query": "drone arrest",
-      "detected_at": "2026-06-17T17:05:48.740178+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b90c1dc5e4d0"
-    },
-    {
-      "title": "World Cup drone incident: Korea FA says unauthorized drone jammed at training in Mexico - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTGZwMzE2bVFtRUJOUVpYWTdaRjlseXVEZWxQVXVoU2NEX1o5ZHFraXpLR3FMTW81T2R4VkpfTDdWajFmX2EtQl9HQnIzN25rbFNoZ0hiT3NvWDdlTjNfckRaTG43UnJWRkpMWl9EU2NBaFJZTWtVOG90eVNqLTJwSjF1NFZSZ1haV0VHVFJPUWtWcV9jQVZHMWdSV0tWNzZFcmFmaVR4TzVuaXNxejRoODJXMmhrSDFxLUFENnI2NHhOaGVNVFJCTUMycWVpcGNTUVc2clFWaTcyYUt4eFhuNGNrNUY1Z0JrWDJ5eFlKT0prQjEta05FRlVEV2cxRlNyeEVRTkVCcjBpQQ?oc=5",
-      "source": "Central Oregon Daily",
-      "date": "2026-06-17T15:40:07+00:00",
-      "description": "World Cup drone incident: Korea FA says unauthorized drone jammed at training in Mexico  Central Oregon Daily",
-      "query": "drone incident",
-      "detected_at": "2026-06-17T17:05:48.119069+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "d1258a75eaf9"
-    },
-    {
-      "title": "Anti-Elite, Pro-Drone: This Is a New Age for Terrorism - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXRhTHk4NVhMdDF1b25xNU9IQ2JXUlk1Ykl3X2FUTDZhRk16RjFoSXlsQ0V2NEg2VGNqZVZDOGtPenpvM3pvekxpT0l6eXF6ZGRhdVk1VkJpNUpJNW5xTjQ5Q0U4VFJXdHdIZmNjRlFPSGdSMXpIbFYxTVp5b0hYU0JYSQ?oc=5",
-      "source": "Newsweek",
-      "date": "2026-06-17T13:39:00+00:00",
-      "description": "Anti-Elite, Pro-Drone: This Is a New Age for Terrorism  Newsweek",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-17T15:07:32.788777+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "41dfe5d4e7b5"
     }
   ],
-  "last_updated": "2026-07-19T21:52:15.463797+00:00",
+  "last_updated": "2026-07-20T03:53:04.806134+00:00",
   "total_count": 1000
 }
