@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
+      "source": "LSM",
+      "date": "2026-07-21T07:05:02+00:00",
+      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-07-21T08:27:45.264545+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c14f2dae8d09"
+    },
+    {
       "title": "Four arrested after suspected drone drug smuggling attempt at Columbus County prison - WWAYTV3",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3RzcEpXT1N2eWNPa21VdDBFV3dXRWNrUTNvNDJWbGxEUGVwX3R3VmRpd2hFa2RGcnFXcGowU2Q5YkJNMzlLYWVPNldZTGkxV0E3OU9fWndzN05tekxNVVBWYUFLcWFBRlc4dVlYQW0zQlpteVV6djJGXzhHNW13MTJnZGhSTENxYkdSNXBKRi1xbTZhUlpkcll0SFZuM3oxbWpwZlA0NGJ1VTFiNmc?oc=5",
       "source": "WWAYTV3",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "d2daeeecc27c"
-    },
-    {
-      "title": "Drone spying scandal overshadows Mexico-South Korea World Cup clash - www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkZUZDJRWG90cXBsZnFjNUJvTmw0UlNVcjY3alBSdXNjYTlpQ0ZPalQ4cnA5Vy02V1dEZnlRQjRpMXRIcFBrbmNFZEV1aWZ6dW80ZzgtWU1zekVlelJValVjbUFueG5pOW5taDIyUldTT0VmaFVqM2p6Y2R4dVZMOG45LVFtZUdtVlJ5ZHQ1WHhiVGJ4dWJERHA3cEJLNGZKQjNoYUhCSWJnTGs?oc=5",
-      "source": "www.israelhayom.com",
-      "date": "2026-06-18T06:05:37+00:00",
-      "description": "Drone spying scandal overshadows Mexico-South Korea World Cup clash  www.israelhayom.com",
-      "query": "drone incident",
-      "detected_at": "2026-06-18T07:46:51.717860+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "86f44ea727f7"
     }
   ],
-  "last_updated": "2026-07-21T05:50:12.435135+00:00",
+  "last_updated": "2026-07-21T08:27:47.818729+00:00",
   "total_count": 1000
 }
