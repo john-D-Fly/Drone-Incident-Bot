@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have been reported across various regions, highlighting significant issues surrounding drone smuggling and terrorism. Notably, in Iraq, security forces arrested several individuals involved in drone manufacturing and thwarted a potential smuggling operation targeting a prison. Concurrently, countries like Latvia and Ukraine reported drone crashes connected to ongoing conflicts, with one incident being confirmed as Ukrainian. Moreover, with the World Cup events, authorities seized over 700 illegal drones, emphasizing the increasing security challenges posed by unauthorized drone flights in heavily populated areas. The geopolitical landscape remains tense, particularly with threats linked to drone strikes and retaliatory measures noted in regional conflicts involving Iran and its use of drones against perceived threats.",
+  "totals": {
+    "other": 13,
+    "crash": 3,
+    "arrest": 9,
+    "smuggling": 5,
+    "interference": 1,
+    "terrorism": 5,
+    "security": 3,
+    "airport": 1,
+    "total_incidents": 56,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 3,
+      "interference": 1,
+      "other": 26,
+      "security": 3,
+      "smuggling": 12,
+      "surveillance": 1,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 8,
+      "drone crash": 3,
+      "drone illegal": 12,
+      "drone incident": 11,
+      "drone prison": 3,
+      "drone smuggling": 6,
+      "drone terrorism": 6,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling and Arrests",
+      "rationale": "Multiple incidents of drone smuggling attempts and arrests highlight increasing efforts to combat this illegal activity.",
+      "incident_ids": [
+        "2c4ab720bb7c",
+        "4a7db1f3c15c",
+        "c60011f8d1ca",
+        "8b7e87bac6b6",
+        "61855e34e084"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Conflicts",
+      "rationale": "Recent drone crashes have been reported in conflict zones, reflecting ongoing geopolitical tensions and operational challenges.",
+      "incident_ids": [
+        "81b7d968637d",
+        "c14f2dae8d09",
+        "d18686beeb11"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "60d2d0a48943",
+      "headline": "Iran strikes radar systems, drone hangars as part of regional responses to US aggression",
+      "one_sentence": "Iran has launched strikes targeting radar systems and drone hangars amid escalating tensions with the US.",
+      "risk_tags": [
+        "terrorism",
+        "conflict"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2c4ab720bb7c",
+      "headline": "Iraqi Security Forces Foil Drone Manufacturing Plot in Baghdad, Arrest Three",
+      "one_sentence": "Iraqi security forces have arrested three individuals for attempting to manufacture drones in Baghdad.",
+      "risk_tags": [
+        "arrest",
+        "smuggling"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "c14f2dae8d09",
+      "headline": "Drone that crashed in Latvia confirmed as Ukrainian",
+      "one_sentence": "A drone that crashed in Latvia has been confirmed to be of Ukrainian origin, adding to the regional tensions.",
+      "risk_tags": [
+        "crash",
+        "conflict"
+      ],
+      "countries": [
+        "Latvia",
+        "Ukraine"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8896a040139a",
+      "headline": "National Security Service foils clandestine drone manufacturing cell in Baghdad",
+      "one_sentence": "National Security Services in Iraq have disrupted a clandestine cell engaged in drone manufacturing.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "bed351b0b5ff",
+      "headline": "Four arrested after suspected drone drug smuggling attempt at Columbus County prison",
+      "one_sentence": "Authorities arrested four individuals connected to a drone drug smuggling attempt at a prison.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Monitoring increasing drone incidents, with significant arrests and accidents emerging in conflict zones.",
+    "linkedin": "Recent days have seen a rise in drone incidents globally, from arrests in Iraq to drone crashes in Latvia, highlighting various security challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-21"
+}
