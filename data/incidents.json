@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Atlanta FIFA festival draws 95 drone seizures - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1B1WWk2SDZIcHllSjZuZXJKRnV4WllGVFhkRUZoRk9SS0hXbjJTajRlTkY4NkIycGtMa2p0VlpsYzdpdDViMXdoX2gwVmRvVGRNa2JEajZLaDBjY01KbC1ta3R4R0FFNEtySDVVODNQS2NHZWJmVlg5YjJmYnR6cHlGMld1T2I4NHFmVnJyVDVIVGo0NklSVzNmbnJqYmhubVkwXzRvV01TQ0Mw0gGyAUFVX3lxTFBKTnZBeHNEQ2gxY0d3ZWhTSFE3QXZqZGlSOVlNV05FY2ZyRWJPR05QbTkyZUtHWXVoTGNEX21vMU5QeUpKSnpJaGRxY0Nyd0VWREt5bnFOd19FNlltd21zMkVxaVNPck5WT2NaWlhXeWpNWFhnaVFZbmNsQmNmRVM5aFVhcWtHbDBnRWMyTmJqcEI2NVFnS1hLX0JfczZKbGpKTTdLQ0g5S2ZFNnlfSzBCbVE?oc=5",
+      "source": "FOX 5 Atlanta",
+      "date": "2026-07-21T22:47:47+00:00",
+      "description": "Atlanta FIFA festival draws 95 drone seizures  FOX 5 Atlanta",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-21T22:56:15.443908+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "710b65f2887e"
+    },
+    {
+      "title": "95 drone pilots ignored no-fly zone during Atlanta World Cup, FBI says - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNF9DS2luRzZCMXpGVTVxbWNNNnZGZnlQaDlfanNJbjlnUDc1elhQNTZqa3RwN2dDdEVZQUFzbUxtczdyQ21JdnBTUUpSZnJ6UTkyQ3ZMMlJsVHRaaXF4anpDdmtOVzZIdVBMNXZGb1lxSnpnbE9mQ0FzSGc0Q1BweTFUdk5wTzc5Z1o0ajA1cFN2MWtXTlRNLU5lNXJodWdUTkxKYmNMMkZYcXFoUWRjVHlfRjZZVjZoQ0NtdWt1QVJJZ9IB1gFBVV95cUxNaFVneGs1V1gwdWt5UGt2ZGZ4TVVZazFJOE1LajRMRGhQZFFYQVdpbDhSbzZQNy1mSXIxLVY4NVI3a0NTMm5CSnhzaDVIWEExdHozTUdMVjNzMjlXVl94QnhwTHdqUkw5dEpTVmhNbm5HU1VHOUlEUk9JTW5RS1AtVk9kcGhWclJOdkEzVzVkeDhPTDB0eE5LZEZNZGl2OHBMMFhSeUhFSFdEMU1iVTU2LThvYlhlQlRXLXV5eVoxUXdsa0h0YVBzLVgzRFdxMERrUEtLNHJB?oc=5",
+      "source": "WSB-TV",
+      "date": "2026-07-21T21:35:34+00:00",
+      "description": "95 drone pilots ignored no-fly zone during Atlanta World Cup, FBI says  WSB-TV",
+      "query": "drone illegal",
+      "detected_at": "2026-07-21T22:56:13.867923+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "39ea9cc00d14"
+    },
+    {
+      "title": "Four charged in alleged drone drug plot targeting prison - NRcolumbus.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUk9XdkJZNnFoaXdSQ2VMVXhHVDhzenZDUW1obHlyU0VFNXpubXpZd2J3QU41WkpyVHR5dm45NDZMZkNsY2EwNk1jaE91eEt4ZzMyRWdYdXZRcG5pODExUjlYdndBV05OUHRQSDNNSFI5dmY1cng1WEo2c2I0MTV0amNsUUlybmVPZlkwQXZ0Y1dzNVZhTHJFdWN5ZkxYRFlVVHNtWlJHa3FIbDRGM0tiYWFPMGlzMVZLeWkybEo0OWNMNGluenoxSzJicUtBYnNiMUNJUg?oc=5",
+      "source": "NRcolumbus.com",
+      "date": "2026-07-20T20:55:00+00:00",
+      "description": "Four charged in alleged drone drug plot targeting prison  NRcolumbus.com",
+      "query": "drone prison",
+      "detected_at": "2026-07-21T22:56:12.237333+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "de73b1d0a55a"
+    },
+    {
+      "title": "Four arrested after suspected drone drug smuggling attempt at Columbus County prison - WWAYTV3",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3RzcEpXT1N2eWNPa21VdDBFV3dXRWNrUTNvNDJWbGxEUGVwX3R3VmRpd2hFa2RGcnFXcGowU2Q5YkJNMzlLYWVPNldZTGkxV0E3OU9fWndzN05tekxNVVBWYUFLcWFBRlc4dVlYQW0zQlpteVV6djJGXzhHNW13MTJnZGhSTENxYkdSNXBKRi1xbTZhUlpkcll0SFZuM3oxbWpwZlA0NGJ1VTFiNmc?oc=5",
+      "source": "WWAYTV3",
+      "date": "2026-07-20T21:09:46+00:00",
+      "description": "Four arrested after suspected drone drug smuggling attempt at Columbus County prison  WWAYTV3",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-21T22:56:11.756745+00:00",
+      "location": "at Columbus County prison",
+      "category": "smuggling",
+      "id": "38431bf36f90"
+    },
+    {
+      "title": "One killed in Fujairah drone incident, projectiles strike tanker near Qatar - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTV0SFJ0b0tIdTB0b0c4RUt4a0s2ZE5ZNDVBUWlaYVltYWVnS2o0cmhPLTJ6dUotT3NHbndtbU9jWFNvT1pPZDNhYTcxNG1kb0tWMzBjbEU3b0JBNUotR0lKYWRxNmo4cHNQTzl2dl9PMktKeUczdERvdDVibDNjSWZoZ3o5Qm8zenJuTW1jQ0w4UTZQTU8zVXhDdHRoMkRsRHc?oc=5",
+      "source": "News On AIR",
+      "date": "2026-07-21T19:39:52+00:00",
+      "description": "One killed in Fujairah drone incident, projectiles strike tanker near Qatar  News On AIR",
+      "query": "drone incident",
+      "detected_at": "2026-07-21T22:56:10.670076+00:00",
+      "location": "in Fujairah drone incident, pr",
+      "category": "other",
+      "id": "31508fd20117"
+    },
+    {
+      "title": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVlXblM5bGNOdzd3MEJUSFVNOEJjX194ay0yWWVIT1dTYUM1YUhrcE1JMkUxcWotVEQ0N0NYY0hlS1lTejlOZVFyY0RfUDA1aVJZLTVNMmphOU45eUhKQlhEc0gwcE9Tb2FjMm0wdlVaZlREQU5JdGZPcGNVX1dPdjc1VC14X0hlSERUVEM3aWp1dHZWeTIwMFpKZ05NWkZUYy1UQU4tTDlwNWxTMy1SRHd3TGxuUFlNbUgyNw?oc=5",
+      "source": "LSM",
+      "date": "2026-07-21T10:59:24+00:00",
+      "description": "Shards found in Latvia, possibly related to drone incident / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-21T22:56:10.670076+00:00",
+      "location": "in Latvia, po",
+      "category": "other",
+      "id": "e119f884ea4b"
+    },
+    {
       "title": "PHOTOS: Drone 11 captures Parkway North crash scene where tractor-trailer crossed median - WPXI",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnelJWOC1Rd3ItQWEwemxQUWZ6UVhpeG9ObnBjaWtZTmhrUG56WWhUb0NGTkVjWWx1aVRtS0tNeXJHRS1xV1hYREpjMGxTVXFRUkZnMmVGZDF4bkNGOFZaMU9qa3BweFl1ZXlhbDFPRzgxRWMtQ0cxaA?oc=5",
       "source": "WPXI",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "32d1a7712032"
-    },
-    {
-      "title": "Turkey’s road to Europe starts at freeing political prisoners, not drone factories: EP rapporteur - Turkish Minute",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUtLRGlGRUljbGhFOTViZk5udm82WURFRWlkaU1yeGwxOUdXbzd4cF9LVFFBX0hXU05HWVdydTFRRG1wZ3VZQjhkTGpqeURNX3RHa1hiU0htdE1qeUtqb05TVk9oa3F6MnFKc212YVNyclBkbDVIT25YWEhlRElNeTNNckJQVnN4WjlVajUzazVpNEtIdmhlTFduWk1vdnNIQ05tVWxSdjh5eklXb0ZUZGtnM3JPd1JhOE1ZZFlfeVdqTTlGcFY5VzM5ZWp6VWRHMVHSAdcBQVVfeXFMUEZOUVViZTJDTGdrVUlYY3pUU2JLSHNxVFhsTTE3cFU0aktxYS1tTmotT2syN0JlTEdXOS1VMTlpVjlrZnlaUFlrNVdpcFJ6N3l1azE4c1dvZmZHSVQ4M2EyaWs2cDRaOE85UXpZZHl3aTY1TERNYWozb0lzOW1yVnRZaEtDRnplX3dFLXhiNFlCWjVnZjRFX1FXajhGR0p4OFRQTVN6U2ljV2dDdmRxcnBfdmVqMnNQaWFJanVudTBYY05BeEZHcENMQ05oRG9DM05yV3FBaHM?oc=5",
-      "source": "Turkish Minute",
-      "date": "2026-06-18T13:19:51+00:00",
-      "description": "Turkey’s road to Europe starts at freeing political prisoners, not drone factories: EP rapporteur  Turkish Minute",
-      "query": "drone prison",
-      "detected_at": "2026-06-18T15:10:31.043650+00:00",
-      "location": "at freeing political prison",
-      "category": "smuggling",
-      "id": "f1b161368745"
-    },
-    {
-      "title": "Ex-detective sentenced over prison drone drug drops - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2szcUROOWw5cmdMQ28tRktNNi1HbkpUZThFUEFpXzRVRkJNSFVubVhOZVE4MENRaUt0ZUNPVmQ1WVRVVC04YkEyX29RUU9PajRjcXZ0Q3JJekV3cVNUVHU0cHVrNF9pcTJla0RmOVZ6TzVsT2RBNDNQSGpvVDF2TA?oc=5",
-      "source": "Yahoo News Canada",
-      "date": "2026-06-18T13:07:38+00:00",
-      "description": "Ex-detective sentenced over prison drone drug drops  Yahoo News Canada",
-      "query": "drone prison",
-      "detected_at": "2026-06-18T15:10:31.043650+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "75d6b0e1667c"
-    },
-    {
-      "title": "Former detective sentenced over Northants prison drone drug drops - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JelJNR1F2QzJyVkxocWFsWHhidHpBQTJBZm1wMWQtNGdkVENNRmdINHVURUVaRl9MQlNMb1R1MXZqNXZHY2ZIU1p1QklUckhCTWxmVHdSTHhhUQ?oc=5",
-      "source": "BBC",
-      "date": "2026-06-18T13:07:33+00:00",
-      "description": "Former detective sentenced over Northants prison drone drug drops  BBC",
-      "query": "drone prison",
-      "detected_at": "2026-06-18T15:10:31.043650+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7cc7b8386d99"
-    },
-    {
-      "title": "Ex-detective sentenced over prison drone drug drops - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS3BLTE1YUjFSdVowSEZjZ3NucFhsVzJjY2ZsY0YtWTJqQzg4bXpEZTF1ZVZsaVFUZDJuTnN4eEMtSUp1NEVJbXhBeXY5N3hwOXk3OWRzdFBJOHMw?oc=5",
-      "source": "BBC",
-      "date": "2026-06-18T13:07:33+00:00",
-      "description": "Ex-detective sentenced over prison drone drug drops  BBC",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-18T15:10:30.479558+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "6363f01f2a5b"
-    },
-    {
-      "title": "Police drone helps thwart Las Vegas home break-in - KSNV",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy1QTFFZZmhCODgtUHJERndWTndiNUdvRFMtdHlRbnJPWWEzLVZ3M0RLOUtIT2lwbzFNSjNnWHo1ZGhHZUNiSTVuajhBUGFJaDNrMzEybGNnQk5zcGdWQ3U3aUR2MndkYzVFU0tlREtuZnNDQUVLdG9ZNDFsY0E2em05VWtsVVdscDlnU1Q1YjlBUnhKSkZqNkRiei0wVUNCQkNV?oc=5",
-      "source": "KSNV",
-      "date": "2026-06-16T20:25:13+00:00",
-      "description": "Police drone helps thwart Las Vegas home break-in  KSNV",
-      "query": "drone arrest",
-      "detected_at": "2026-06-18T15:10:29.856458+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f4f31ca85bdd"
-    },
-    {
-      "title": "BRPD uses drone to help arrest two armed vehicle burglary suspects - WBRZ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjkxVU82TTZ1bzJKOG9RNHVhTzU5cUZ0RllpUkVUX0dnaXJlZW1zVHBwZnI3SDByb2NiTjRfd3I2cWFJUXJvazFqZ2Q2RVF0aUFMb0lFYUhzeXJMd184bWl4R2pLMEZScThtME5JeG1RTlItbk9GakVNMXMyMXFmRGJDOFdNWmQ2OWlTSGx1NEhXeV9mWlMyXw?oc=5",
-      "source": "WBRZ",
-      "date": "2026-06-17T23:44:11+00:00",
-      "description": "BRPD uses drone to help arrest two armed vehicle burglary suspects  WBRZ",
-      "query": "drone arrest",
-      "detected_at": "2026-06-18T15:10:29.856458+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "3c069d5299f9"
     }
   ],
-  "last_updated": "2026-07-21T21:08:35.239685+00:00",
+  "last_updated": "2026-07-21T22:56:15.946657+00:00",
   "total_count": 1000
 }
