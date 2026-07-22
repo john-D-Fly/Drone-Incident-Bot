@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Czechia Moves to Legalize Shooting Down Threatening Drones Near Critical Infrastructure - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1NyVTE5Y19NZ28yWkRHd1pRTW5ZQk43aVlMdHlDNEdvY3JZZGZEZFByV2x2YjNXM19Ra3htQmN6c29XWmctUTJ1dEJSREh0alNhUDdLUUw2RWQ5aVdRUk1Qc2RQNHc3NlpfS2xrWmJxNVg4RGVuRU9tZmU1Sy1nTE1kVGd1Qzgtb1R3UEswRzhhZEtxWXphS2FibmRZckhoc3F4Rk1sS1BDSnVGbV9URnJUQVBWV2FhV1JTWTFSQ3VtY29qSDhzMWh2bzV4U28?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-07-22T15:06:43+00:00",
+      "description": "Czechia Moves to Legalize Shooting Down Threatening Drones Near Critical Infrastructure  UNITED24 Media",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-22T15:41:42.773820+00:00",
+      "location": "Near Critical Infrastructure",
+      "category": "terrorism",
+      "id": "9cd8a466cff5"
+    },
+    {
+      "title": "Wildberries strikes bring Ukraine’s drone campaign into Russia’s consumer economy - EU Today",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXBSTE5nNGl1TzhzQzJXZDhFSWF4cElGRDVYdXJMMEpJX3VpQnhXNzAzUGt5M3BxRmI5NXR4VjRzRndsZWpsR2R6ZDVSbk1HRTVaUURFTXp4RVZnV3p4eXJQWEhSREl6cUlFcmhhYkx1QXd2c0l1WWg4WTd5cXBKajctQl9OQi03UHRBa3I0WUpXSTdzNnpNLTF3MmFGR19UQlE?oc=5",
+      "source": "EU Today",
+      "date": "2026-07-22T13:33:54+00:00",
+      "description": "Wildberries strikes bring Ukraine’s drone campaign into Russia’s consumer economy  EU Today",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-22T15:41:42.298643+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c1bd35aa1e41"
+    },
+    {
+      "title": "Autonomous Sonar Drone Finds Wreckage of Famous Plane Crash - Manufacturing.net",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnB5MG9xZ1VUNW9vVG50dmVNWXlYcGFnWE9NSkhNZjUxNm9TRldxbWdpTWoyclE4dEtra3Z0UWZnUWxqQzh4bkctYmZxOTFYRWd0U0FsLUpqRDBXeG9oZF9HbGxLMWlTbzVRM1pRMFBOSlllRGxIMW9wcVhraDFjdVFGbVc0eE5zU2YxTlR0U1ZSRmd0RnBWZEFZeFM5c3NTUjRFOFFzQmhZRlctWHk4V0Exdw?oc=5",
+      "source": "Manufacturing.net",
+      "date": "2026-07-22T15:03:09+00:00",
+      "description": "Autonomous Sonar Drone Finds Wreckage of Famous Plane Crash  Manufacturing.net",
+      "query": "drone crash",
+      "detected_at": "2026-07-22T15:41:40.891551+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8bd373686ac8"
+    },
+    {
+      "title": "Capitol Police Anticipated Drone Plot Against UFC a Month Before It Was Uncovered - Reason Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmcxRmhSeE0ySTJjN2VLanJHTGYyU1U2RmdsdTAxUHBlcDVZZzB3V3U4MUtPWmxZT0FOc2U5WHhuNm5oM3ZMR014WjV3TFI3cEQ3cUU4VXNiRjZsZzNxRkZUUEZ5d0hxNUtITS1uMXlxODFGQmxPNjhfMW5YZ25xZWRzc25XUzYzcjQzZUV1WmVWT0JPZEFibGRBbFNKNEo0dTlDbGRTdWU5V2pocTVQSmtB?oc=5",
+      "source": "Reason Magazine",
+      "date": "2026-07-22T15:38:00+00:00",
+      "description": "Capitol Police Anticipated Drone Plot Against UFC a Month Before It Was Uncovered  Reason Magazine",
+      "query": "drone arrest",
+      "detected_at": "2026-07-22T15:41:39.008049+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4c6af16a27bd"
+    },
+    {
       "title": "Iran launches drone attacks on US bases in Jordan and Bahrain - Yeni Safak English",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlJnZWQ0WXpOVFV4TGRrZnRxS3gzMlM3Q1lwb1ItV3VyZDl2TmFBZ3d1Zk01RHNRNjkyRzhxVjdDNm9VNUFHdEpSSS1GUUJ2NWFuck92cnh6ZVJRT3lZVDQ5dExSbDNZdDRJVy1EX1NGeFRGMS14YUMzY2VvNUVGbDRhREM1anpkWDdyRWpQSlBTV3RqVldPUS15UkRDVlVvU3c?oc=5",
       "source": "Yeni Safak English",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "1b2d9b8a6073"
-    },
-    {
-      "title": "“The last thing we want is a clash with Ukraine.” Why Lukashenka responded mildly to the UAV strike on the bus - belsat.eu",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjRMUGtMMXVBakNzQTg1dXdyc1Z5WDlUcXRpTUZoZmFlYW5QWjNOUjE0SzFRMFRiWGIyNjlFV1hMcERDSm1ZbXJ2WmE5OUpXTVF2Nlg1NXRDX3ljSEpET1pKV0JNVjJnVy0xXzR1TmxGcmE0NUMzb3ZFUTZ1Z0dwZmZ3SWJnOFdZbGRhM0F4ZXVRaVVxVWFmUC1vMkVhOXdIZy1JUm1nMzhpcGNHYkYzU1Iyd1JaX1FaeDljYmFjTU4ybEotMGxSdEZpWFN0bjM2U0NR?oc=5",
-      "source": "belsat.eu",
-      "date": "2026-06-18T17:22:00+00:00",
-      "description": "“The last thing we want is a clash with Ukraine.” Why Lukashenka responded mildly to the UAV strike on the bus  belsat.eu",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-19T01:05:11.166658+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a4a6cb59bbb9"
-    },
-    {
-      "title": "Man charged with flying illegal drone around Dallas Stadium during World Cup - Fort Worth Star-Telegram",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5faXhodWU4QTg4ZlhEcHJfdk5WYlRIdTR3XzRmbFVIOW9peUdJTUp2NGI1X3BkSjE1bDU4YjBPZFpocEdxMW81dldyN3E2STBWZEFKalpheEZPZ2JCRFFpRk5ZMnVTRG1CMWh1eGE4ams1TWJMakY00gF3QVVfeXFMTzlPTk5HbnBzY3FEWmpLdnlYLWFSdkdaREdrMTdPT2NraVZpZzZSbnNweC04UGpaSFpoMzA2UXpFb21ycHFPdld1OXgtNHdTRnFHbm5hekRnVHlYZXVZV0xZTUFsZTFtUFNzblJyal9BR1JKUmdQdUE?oc=5",
-      "source": "Fort Worth Star-Telegram",
-      "date": "2026-06-18T23:44:30+00:00",
-      "description": "Man charged with flying illegal drone around Dallas Stadium during World Cup  Fort Worth Star-Telegram",
-      "query": "drone illegal",
-      "detected_at": "2026-06-19T01:05:10.258217+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b53268aa9b2e"
-    },
-    {
-      "title": "Belarus Summons Ukrainian Envoy After Drone Strike on Belarusian Soccer Team Bus - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWtna0JJYkpYVGJPUU1hSU5pWnR0bkJmSlhqLXBFcW1MZWRuczAzNTkwS0dsMzdadFJnaG1pdVlPMFJCRVgwb0wtUjA4OWdwLWctLVVHeGs4cElqRjhhak42MzBRNmNEcGdXa2MyS2dFR2V1QlNvRWMwdUVMSEo4MGs3bmVNN2hlZWtLTW05R3ZsTmpvRUY2ODNxVmY1VzgyanpZTlBveWc2TjR4dHJ3WnV6djNqMmxid0ZGeEdlMDQ5YmJfVnJpeg?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-06-18T23:20:36+00:00",
-      "description": "Belarus Summons Ukrainian Envoy After Drone Strike on Belarusian Soccer Team Bus  The Moscow Times",
-      "query": "drone incident",
-      "detected_at": "2026-06-19T01:05:06.918033+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d8e2e40fa751"
-    },
-    {
-      "title": "Alleged Ringleader of UFC Terrorist Plot is a Mexican Illegal Alien - Homeland Security (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUdLbC1VdmZFcUlzSVNkSzRxQzRQcThBRHZ4UjZhZi05TzdoOUxtTGkzNW9LajlNV2RXXzNFWjVETDB0QnJCbVE1NHdCMTc4VGsxN2JSSDFrYWQ2azhkN3g2SGtyc2k0ZkRFOWU3UmhTQlpzc1RSUVhpd0MxQ05LSzQ4TU1YS0JwQWh6UDZsRnpSWGhHVkxkU196RQ?oc=5",
-      "source": "Homeland Security (.gov)",
-      "date": "2026-06-18T12:24:06+00:00",
-      "description": "Alleged Ringleader of UFC Terrorist Plot is a Mexican Illegal Alien  Homeland Security (.gov)",
-      "query": "drone illegal",
-      "detected_at": "2026-06-18T21:43:52.179247+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "7fc0c31f70cb"
     }
   ],
-  "last_updated": "2026-07-22T13:52:21.640099+00:00",
+  "last_updated": "2026-07-22T15:41:43.239566+00:00",
   "total_count": 1000
 }
