@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Drones create growing security challenge at major events - National Desk",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmg0V1drWFE5WjJ6OFVJd0VvQ1VzWWY3QUVGZHZVUkxoSWp6b1Fhd2lnemlLdGVqQlNfazBvWGstMGc4WU9MRXZHQW81LWotdllqSWRqblI0Y2V5MkJQZVVqc1lvSjl2WUVrYkNZNGFFQmJEVWVDWXlwUUI5VmsyeUp6M081UTQ2ZmNxd1kxaU5MRk9HTThvTDJFZmFtbGYtNTRhNmJlVHhaczF2ZjRYbzZlTWVOSzhRRElQYmQzLU4wTkFvNk40Y2NpY2ZTQQ?oc=5",
+      "source": "National Desk",
+      "date": "2026-07-20T19:53:36+00:00",
+      "description": "Drones create growing security challenge at major events  National Desk",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-22T19:18:18.290349+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b5f01c71a42e"
+    },
+    {
+      "title": "Czech Republic Moves to Legalize Drone Takedowns Near Power Plants, Airports - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HS2lHLUVjbENyWXN0S2ZVSHdRXzJqUGxtYVpxVVE5ZzcwWjRRSkItU2QtVHY1aExKVGRkSEN1NDdzUXA4Y1FiMFJnYw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-07-22T18:28:10+00:00",
+      "description": "Czech Republic Moves to Legalize Drone Takedowns Near Power Plants, Airports  Kyiv Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-22T19:18:18.290349+00:00",
+      "location": "Near Power Plants",
+      "category": "airport",
+      "id": "9c8adc3539b0"
+    },
+    {
+      "title": "‘An Enormous Shitstorm Is Coming’: Russians React to Ukraine’s Wildberries Strikes - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55cWlpeVZOa244T211bUNDV0YxV0lVcjdyY1ltOFA0Z05tdGhvcy1vVHBoa2laNjRKajhmOE9ob2lLZUZHY3BhcHhYaw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-07-22T11:31:35+00:00",
+      "description": "‘An Enormous Shitstorm Is Coming’: Russians React to Ukraine’s Wildberries Strikes  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-22T19:18:17.825126+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "841eaa3404d6"
+    },
+    {
+      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VblNvWEY4Nm1aZGg1TzlBNWlVZ0d3R0RhY3d6VjFIb2Z4OUF4SXB6b3NaVjhENVlXVk9WN2V4a2s0OFpPV09xQzV4eUdNeXdZbUN6ZDlhd3h4dw?oc=5",
+      "source": "BBC",
+      "date": "2026-07-22T14:52:25+00:00",
+      "description": "Ukrainian drones hit Russian online giant retailer Wildberries for second time  BBC",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-22T19:18:17.825126+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ea2027c778e0"
+    },
+    {
+      "title": "Drone-assisted cross-border drug smuggling surges since 2021, Punjab worst hit: Government - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZTNGNzIzc1lpQW9odDVqMENpNkI2aWZEYTVGV0p1dzhWa3dYampSa3dxT2FkcE9yaXYzOF9kYmRzSG1Nd0tGZ3I5bzNYLTVRVXRzWTZ2aTNLNU40QXFpMkp5T2lSVXFidjZiT2JIN1ppMlJ5QVJ5dW9GNGtTeTRELUIzd0hJRGxNREVmZEtZSUlrRUF2X1BhTDNUVjRtcURETFR1UXRYMUYtNmEtazVheDYxeFZYWGV1UjEycGNJOGxGVkJKUVZDb0FfeDBjcFp4RGVId19UTVBCNDh5TEtfa01IdjIzU29jQVZYa9IB8gFBVV95cUxOcWJha0VUbUNLQUZZbTZQT09oTWJBM1kteUZVb3kwZVBoeGEyQzZTVGpZaHV1OG5Sb09BWlZlOE5PYWZvMFBOeFZjTEtTQTZIVDhCME54em01czVhSVpwMkFSU005LVR3Zmd3NXFWUTcxaTVJWDJwMUlqNFBvcXh2NzRHVzY0WGVaUzdoekNfZ3llR2RwT05GUDU1RW9qQ2ZadkpSRDZUZ3ExZWQ0b2owY2pCbXdkdkJFc1FyMVFmeVNSSjlKUk5HMnFHaG9JNzNKV1dEMVFwT0JrRUJ0bnplMklxeEpkYUxTTzc0eXBHVXZzUQ?oc=5",
+      "source": "The Times of India",
+      "date": "2026-07-22T17:41:00+00:00",
+      "description": "Drone-assisted cross-border drug smuggling surges since 2021, Punjab worst hit: Government  The Times of India",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-22T19:18:14.805104+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f8d1dd157917"
+    },
+    {
+      "title": "Mind Over Drone: How Cognitive Load and Pilot Fatigue Are Reshaping Flight Safety - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVXBFaDNuVTVLWXJ5SFJKUXBnN1F0dUxtSUxOaWVWQWU4WnZ2M0ltYkRPaDBIdV9DWEcwQkljTEhhU01kZFVQNWNMaXQ2Z01ERFpHZFVGY01jaGhSSVNUS3lLSi1RTGdLNjhNN3I2WmxpLVplSVlKbzlDOTVfNm9lb2J5eTRiUjVxYW16NkdvUGtLbS1KYzJlVw?oc=5",
+      "source": "Dronelife",
+      "date": "2026-07-22T15:03:10+00:00",
+      "description": "Mind Over Drone: How Cognitive Load and Pilot Fatigue Are Reshaping Flight Safety  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2026-07-22T19:18:13.700415+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c8bf64e05953"
+    },
+    {
       "title": "Butts County sheriff calls for change after drone with contraband is seized along I-75 - WGXA",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEN5bmR4VndlbEYzWmoyZnl4YmlmOV8zd1RFa2s0MWdweXlPUkRseUQ4REJvVGJoS3RTV2xfS3NzbFpnUVZ3cXlrRUI0NkdmbUNydWhZVlNDR3JBVVVVZlZiMTdDeE9aMmFNQllMb0VROGhiUHlLTl9zVXJWLXhEMzdiRS1UcG5vcHpZRFVfdXk3TjRhYWkyLWZaX3N5OG9jVXB3U2FNUlROYXNHMXlncS16QQ?oc=5",
       "source": "WGXA",
@@ -11927,80 +11999,8 @@
       "location": "near Rugby",
       "category": "smuggling",
       "id": "bc4d3918720b"
-    },
-    {
-      "title": "Drone unit assists arrest of suspected drunk driver after several crashes, CPD says - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmNnMUNEVTM5cm1hZm54cnZzaVlOdG1MaGNscDhMUVFpWWFGOE4zZnhpenZDX083bnJ4cjBKdUtNUzZhOWgtWko4V3VuQ21aX3RrYWx0ZVBTZ2N1NTNZYXpsejlFZVUxck9xSmNNekZzTHRVRGpoOU1vVE1LSlhEQm5TcUw5Ny1EVnljempldjEwSjcxUlEtTFZlYmxDUE95S3FyZHQzc192enVIZnpYcGx2ekxGQWxpZFVz?oc=5",
-      "source": "FOX19 | Cincinnati",
-      "date": "2026-06-19T02:33:56+00:00",
-      "description": "Drone unit assists arrest of suspected drunk driver after several crashes, CPD says  FOX19 | Cincinnati",
-      "query": "drone arrest",
-      "detected_at": "2026-06-19T07:57:37.639094+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "642fa13680c0"
-    },
-    {
-      "title": "Honduran Man Charged with Illegal Drone Operation Before FIFA World Cup Match - Patch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnZaSkNQWTBkdlBnaUFHODhtMkFZVHd5QWhkN2FBTndldzVQdlBxcUUzanh1YnZSejVRb1pUUTcxVm5jbmhDT1BuaDdJdWtOTTV1amM5ZDF4THlYQlhFLTZveGFXU1FwaE9qZkVsemczV0FnWTMzTnZ6c3UzNUo3ZmZfc2d0OTZuMG5Vb1pDWUdWNS04TDdaNHFfUmJVeTIyQmJIQWF6Z9IByAFBVV95cUxOMWRoNXA0aDdqZF9fTUw3WFpUYnZGcHZHa2Vmdk5BQTd4cFBjRXJ4QlhfUDR1Y2M3V05ROHE1Tjdyc19JN0RRQzdBQTNtX0RQMGtpTnBDTHFtZHFvb3JzYVIxNjAwU29FVjZROXpFWVFnSG9EWkhjQ3RWdnZNczJwY0hZOEoxMVl1YUtJaFg0OGo5UW5TSGVlWktmQmx6dHdoMDNSeGRxUTctZ0doYVZCaEx3RTJaSFo3YTRiLW1tVkVwUGNna1BhcQ?oc=5",
-      "source": "Patch",
-      "date": "2026-06-19T05:18:06+00:00",
-      "description": "Honduran Man Charged with Illegal Drone Operation Before FIFA World Cup Match  Patch",
-      "query": "drone illegal",
-      "detected_at": "2026-06-19T05:47:22.057408+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f48cfea4ff3a"
-    },
-    {
-      "title": "New technology helps law enforcement hone in on illegal drone use - KSL.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUIzNEdkdXZwNmw5azBDX2V6dHpDRFJQVm5GQzhxM25qM25TdzFxMXJpMjAwOW8tdUxEamRobGJ4TGlZVlNMRkh2cjZLSGdvLXpld2M2V3MtSTdoZzBTUjZ1S2ZNd0V4cVBsQlFqN0toSTk5bURyUHBMMS1EeGRtTUctdS1lLTI0d0dJUkhKN2dFQ1RfcktmY0xTUTJuTmFlb2pEOA?oc=5",
-      "source": "KSL.com",
-      "date": "2026-06-18T13:02:51+00:00",
-      "description": "New technology helps law enforcement hone in on illegal drone use  KSL.com",
-      "query": "drone illegal",
-      "detected_at": "2026-06-19T05:47:22.057408+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f791d2e92f70"
-    },
-    {
-      "title": "Drone strikes beyond the battlefield pump up market for technology to repel them - WHTC",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHZOUUgwckRFRnVkSXdsWm1FTElja0IxcmxTOTh2cV9DTXBDQURBLUM3UXJNX0ZuNGdXM0JqMkd1OGJvR0VHaFYyUmR3WjZmYnV1M19rLS1kQU4wdV80RnJ0V2VxNzRwNWF4Vkl6MklXbGlCdmExRUZPVnhoem8xNmZSRVdWNVZwdVNGT2gtb2lDWHZnVGhQaTA3UEFTaTJEbFhsd09BU3Iwa1FUYlE?oc=5",
-      "source": "WHTC",
-      "date": "2026-06-19T05:20:11+00:00",
-      "description": "Drone strikes beyond the battlefield pump up market for technology to repel them  WHTC",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-19T05:47:20.930007+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2ac1b65fc3bc"
-    },
-    {
-      "title": "BCSO credits new indoor drone in arrest at domestic violence call - KRQE",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUdoVnZhLWZDc09YMjZMS3BwM0FnTkR0VGdCNDZFSEs4bUd3Y29zcmFoakpqNmR3aG41amxOYVdMM01xVlJYamlKZnNTcHV0eVkyalA2bDhWQjNaN2p6T0ZTR3lnWEFhU094SDVSbEh4RVZrVWl5TFVKdmVrUHVwdzhFQlRKZHpURldIaFVlZTBCaWp5RkFkcno4Q0FUZ19LUDZHSFdQQzFNSlFXWF930gG0AUFVX3lxTE9xcGpqcjRtYTBReEEzY0NiOFFoU1dGcDBiSkhYUXBSMnB1ekQ5WmRZMk8tVVYwN2xoZDNBTEJBb3oyTG5iZnhMVzZwSmRneWFVNy1HR0pGblVQZmNKemZPUlpyb0F6eGJhTEJOeDBsaUQtMDRBQ2JocENvM05xektSa0hLdmcxNzVRR2tsQ3oyMU5MSjlkTFZuZ1BMVFBQbU1sRWhSemtmR0wyOG45NElTYVBPVg?oc=5",
-      "source": "KRQE",
-      "date": "2026-06-19T04:05:00+00:00",
-      "description": "BCSO credits new indoor drone in arrest at domestic violence call  KRQE",
-      "query": "drone arrest",
-      "detected_at": "2026-06-19T05:47:19.295446+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "cfbe9123c081"
-    },
-    {
-      "title": "Santa Maria Fire to use drones, education, enforcement to manage illegal fireworks use - Santa Maria Times",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNV1hPQ3lkam5ycTZ6MFhFNkdVTFdLdnZvcHR1ZzhUMEFfQXJVQUpkRHV5N1gtWUdVaUI3eVdFdkJaX3pGOTRod0NrMGthTWtLMVBGVnlNUVBwMUlXdjNnbGowaTRQLWhuNG9ISDNmd055YjFjWE9GN1Z1SGdtVG1zNThhQnprcmExSWw1bUd0RHhPQzFMZFNVUU5rZE1lbXlQbUlhWXg2OGVJZURSWnkxOG1FZXFhd0FXeTlkbF9fMWFyc3VmR3FXbkNGcVJOc29ZRUcwZmZUQkl5SHUyZ3FBTU9CYVZKdWFQRGlta19OMWJJOGlIYVlMV2pFeXpRUkxuejZ3T3ZVZ3ktWWNlc1Y2Vk5vMDdMd3FkUWfSAZ8CQVVfeXFMUFdDRmVoT3NRNkdvUW5hMFphdFFSWUt0QnFrR1EyOWgtOWFaZVdkOFltQngwSVZlRGFmM3hWdVlkUHFZRUNQVnlLZU51SHdnMEtHd3daX194WWU1WFhOT0ZuWGZGUlpUSkJiY1dhOXhKNUNhU0J4Wk5ZdFlOb2dGU0diekFwVkJCR2JMOUhyaUlHZnZDOVJDcnRWR1c0a2pJY0pFVy1jVzFpdmFZQzJaYjRxZ3d2WlVWTXVpb0VFRzR3bzdzU2d1cG5HaWVfM21jZC1nUFJDOHkybHA2Y3Q5c2h2UkhlWU9IZzhONE9aS3FSYndSUVViZDltUWRuQVFQdk84UEpqamdNWTBUVVJMNlBOZ0E5QWVNNDIxQTZGZUk?oc=5",
-      "source": "Santa Maria Times",
-      "date": "2026-06-19T01:05:44+00:00",
-      "description": "Santa Maria Fire to use drones, education, enforcement to manage illegal fireworks use  Santa Maria Times",
-      "query": "drone illegal",
-      "detected_at": "2026-06-19T03:13:46.747968+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6939c4b10df2"
     }
   ],
-  "last_updated": "2026-07-22T17:18:26.948626+00:00",
+  "last_updated": "2026-07-22T19:18:18.751501+00:00",
   "total_count": 1000
 }
