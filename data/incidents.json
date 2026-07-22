@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Wreckage of 1952 Pan Am plane crash that changed air safety found near Puerto Rico - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlFZY0FVLVJaTTg2cmNVYTNudGcyTEl0YzF4WV9ZZEpzVXRmY05TRE52U19vVU13VnFoM1d6Wk9pT19sT2NodWNUNGloT2V3aWxaZDI4b3h6YUNsMUNGYkJNcy1CSzM1U2VPRThKUklkY04wRjhHN21JT25oWEItYmxwRERYVWFXSFE1MldmdUpXb3M3TG0xbVd1a0FUUW92dS13czFISG10QkE?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-22T09:11:00+00:00",
+      "description": "Wreckage of 1952 Pan Am plane crash that changed air safety found near Puerto Rico  The Guardian",
+      "query": "drone crash",
+      "detected_at": "2026-07-22T11:09:13.403705+00:00",
+      "location": "near Puerto Rico",
+      "category": "crash",
+      "id": "be44cd3736fb"
+    },
+    {
+      "title": "Cracker seller pleads not guilty in drone tobacco smuggling case - The Sun Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanRaT21VUmdibC1BUUd5ZjZybzIyQzNFQnRDRVV5aGxGUjZPeUVoR3loOUhISmVvRnN2NzNkT2c0aEdJRnFLdlRfbEktOU9jMzh4U3J1RFctVUNFeGtOa0ZiNi1jMzRpZWw4T0RjdHhZUjhSMXBhYnJDekZFaXB1Q2RIa0dkQmdHd2RZM0N4WUZ6Qnpnc0ExdE1OaVBEY0JmR0RTdVpHd3pZQUtWS1E?oc=5",
+      "source": "The Sun Malaysia",
+      "date": "2026-07-22T07:04:24+00:00",
+      "description": "Cracker seller pleads not guilty in drone tobacco smuggling case  The Sun Malaysia",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-22T11:09:11.691385+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "41f15c15ed61"
+    },
+    {
+      "title": "Unidentified drone fell in Kurdistan’s Halabja - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3RiMlgwYzdDV3ktY3hKWnJyT2hNYWdDbk0waExfQVJoUEhfUk40R0tQTTR6cGNBQmpGWTNmR1ZIWC1tZnVmekpKbVh6NlVuaEEtaEJwZUplOTlTMXJxY0RjVHdWRWR5akRMY21Ja2dLRzNLcTdoRXVtYzYtLU84dEt2R2o?oc=5",
+      "source": "شفق نيوز",
+      "date": "2026-07-22T08:34:21+00:00",
+      "description": "Unidentified drone fell in Kurdistan’s Halabja - Shafaq News | Latest breaking news in Iraq and the world  شفق نيوز",
+      "query": "drone incident",
+      "detected_at": "2026-07-22T11:09:10.572980+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "20d4583131ec"
+    },
+    {
       "title": "Wreckage found of Pan Am plane crash that helped lead to today's safety briefings on every flight - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGxKVWtBSi1KWE1ZLWUwMm16a01mbGxfbklKZTdsbkdrY3N3aGdWb1lROG1zYm9ZZlVHeDlzdElUVEJSd0d6aTdjcU9NYjdDelQtS25MTTlyZU1pVHZHbTdRcEREUkFWckZsWkRUWXMyaW1sdllXb19Dc2RuNEVFZFhKZGVESUJhWXo2TmpIV1B2LVJELXRvQnpjZWpwYmFxQ0HSAacBQVVfeXFMT2RqNWhxdXlVUlYzZktwd2Q0NlAzYjFENlZ2RGpUMnktbElRREpNY25tZHRyRENjeXVjb1BSbmVWWTRKZ2dLN3VuOUtLR2NVdThaNmVlTFNVajNhUkdORHQ3VlFoYkU2REtRMXRzQVJEVklQcVV0UGU2b2ZTOHQ2d3hqTXRUWGdoWlNDU1VBQ2M4LUdFQWd4OWVjUmd5bFZDZGNfYjV0SUk?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -11963,44 +11999,8 @@
       "location": "near Donaldson prison leads to contraband arrest in Heflin",
       "category": "smuggling",
       "id": "82d708b9c6f8"
-    },
-    {
-      "title": "France probes whether botched arson and Belarusian ‘spotter’ arrested outside Ukraine drone supplier are linked - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2xCaHlHRXFPLWNIcVo5OUVyMTZza0FRWDk3bmdqd2h2YzU2elZ6YVlZVkU0MUh1QW43dnBWVExvMk8xNjA0aVBXdERVSjU4MXVhbG83bk1ISjJ5eFNFd1JvYzlmY3JlcGpRdzZ3ZzVqYzlZcDMyUjZSTS1xUmhLa2lsV041OFhuQTdJVDJ0cWx5Z3lQUFROWUV1a05aRVd2VjRUejI5dmRUaHlyY1B3OTRPS3VDeHk1WDdOcGhOZEV1Y2RBUlJDajVrdVZxNTdiV2pFS0dIWXpyWUlVLUhZ0gHkAUFVX3lxTE9MUlJ1T3NUY2l0V1ZZd0tfalM1U19RanhmZmxNalk0SENCaWo2SFBvejcyWl9fTDBjaDRtZzd3V2J1ckhsYjFZVnZYN3RIaXZ0OFRQTG44d1FLZGVBeHVodEw1bEJDNUtxTWcxZkVDUmR6dHdWWWZkSkFOeG5QMWNhamYybi1FOE1yVHBuNXFzQnRqVHplY3labWZKS1VXaEZCQkJkdDI0VDloQmZsVHhyZUFWRko5ejRGRnNBRXpscENYbGtjYjNRV19pc2dWODZrUWpjWjlUR2JhdDBRQkQ4U1I1Ug?oc=5",
-      "source": "Meduza",
-      "date": "2026-06-18T20:34:00+00:00",
-      "description": "France probes whether botched arson and Belarusian ‘spotter’ arrested outside Ukraine drone supplier are linked  Meduza",
-      "query": "drone arrest",
-      "detected_at": "2026-06-18T20:52:55.819342+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "62e0e216d4d4"
-    },
-    {
-      "title": "Ex-detective sentenced over prison drone drug drops - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbllqaWJMYU5IOXlfZGNpcUxtSWduQzJWN1BkUnlObzg5NGhXQTQzeTlwaFdsNEk2WnBmdnBtcGU3elpfRmpDaWtFbGtRUXF3QWlyT2Q0R2hQU19SQ0V2MzdZVzhYRkI1andjUzZ1WFQ1MU9hSDdmc1JNRjBGdWtwRUFBM1VxdXpIRzJNdkVRVVRNTHhqME9ET0daNFNJTDFYUEE?oc=5",
-      "source": "MSN",
-      "date": "2026-06-18T13:54:10+00:00",
-      "description": "Ex-detective sentenced over prison drone drug drops  MSN",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-18T19:46:00.753841+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1a3f83afd9b1"
-    },
-    {
-      "title": "Arrest after drone dropped contraband near Bessemer correctional facility - WSFA",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkgyblJtb3NxeUpNOVVKUGxsY1lJTHRXS09DbjRFNmhYTGZNYVZfbFg0X0QxZmpRVDk3dmZBaXpzWXhid3ZVNklSU29IVVNYelp6cGZ4MWxqLS03bTA1SjVqSl9FMV9FZkg3c19qMF9iODBPX1JqRUFmZHdEcDJqNGlqNnpWN0MyOGZ2dTVxVXF2cHc3c1NFVDE5bFJGMm5Na2dmdWxkbTU1TXozRDBCZlp3?oc=5",
-      "source": "WSFA",
-      "date": "2026-06-16T21:00:00+00:00",
-      "description": "Arrest after drone dropped contraband near Bessemer correctional facility  WSFA",
-      "query": "drone arrest",
-      "detected_at": "2026-06-18T19:46:00.237190+00:00",
-      "location": "near Bessemer correctional facility",
-      "category": "smuggling",
-      "id": "978d9fc80c64"
     }
   ],
-  "last_updated": "2026-07-22T08:28:18.300439+00:00",
+  "last_updated": "2026-07-22T11:09:16.082139+00:00",
   "total_count": 1000
 }
