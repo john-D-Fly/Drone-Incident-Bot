@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "'No drone zone' in effect during Comic-Con 2026 - 10News.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3lFdjdIWXJCQi1vMzZDUm9UM0Z4UlJJcVZtNFdLQlZmWU9rbHF5TmR4M2xDanV4aTZRRWhJRVRDYURhYzBhVFkzVW5JV1ZaY1JhUlYteXhhRWUzNUs0ZGwtcF9KUmRJMk1NekkybTRqTm1jWTIzR1NzWVZ3UmtXNTM0V25IcHRpVm5EaQ?oc=5",
+      "source": "10News.com",
+      "date": "2026-07-23T20:37:52+00:00",
+      "description": "'No drone zone' in effect during Comic-Con 2026  10News.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-23T21:03:53.486760+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "43a67e5d2a26"
+    },
+    {
+      "title": "Busted: Drone carrying Meta glasses, Play Station to prison - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWsyTXFLWWlhUUtwZzJyc05XZzNuZ1NaOERYZnVvOWtCTVVwLVU4V3ZzczdySHdLMlo2Yi1sYkxhenhIZlpwZWxmRm5wNjd0T0xncGo4Y1IzRmVCVjVLZ2I4TldMcWNDQm5HamxBbTFVTkt0Q2RWSElLTVpFSDlwa0VYdFVBdUVOc0JRMjlvMldHNTNWeGdjOFVodGJOQVNvSjNfOXctdmFTT1VnU041Z2pR0gG3AUFVX3lxTE8yRVE2S1p2QXo5NDdrdmgxdXpiSDg5ZWxTMTJlWlZDbEZXZERDX1I2SnhsTUxWamUybVVNeVFlak1tYmdTVjYwQ1dxNkpUQTJuQlQ0THktQTY1SkFIT2haZ3dDb0xaNExGNmQ3MUR4YVJwY19GMlhHZ0tPNFNfakNvV2pjMUVKVk9jaTBvWUtuNkVHalVUakRWOUNVQUUyT2l2NVJtMmR0T0VfeHBQY3hHRDNzY2k5RQ?oc=5",
+      "source": "FOX 5 Atlanta",
+      "date": "2026-07-23T20:39:29+00:00",
+      "description": "Busted: Drone carrying Meta glasses, Play Station to prison  FOX 5 Atlanta",
+      "query": "drone prison",
+      "detected_at": "2026-07-23T21:03:50.311363+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e25404bf2b08"
+    },
+    {
       "title": "Busted: Drone carrying Meta glasses, Play Station to prison - FOX 5 Atlanta",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3SHY2eGtjZ3ZCWWE3cjdqa1I1RGJBekZHdlNRVVVXMzM3Ty1mUnNPWTBZOV91Y2MwUFZ1OWUyZ0JfNjFoNHlka3NBS0s3WGxpekdVUWZXT3E1VUppY0xMdEVDX0rSAWpBVV95cUxNVkFPWktlOU5ocEMyYWhKMWswRWNVX2huV0tZZXlkNTdPdTlDTFJqb1hVbVZnOTFJUHBlOVU5MjJEMzBJMUljM19nN0hvWmVJZUM5UmRPZEFkMERUdnMzdHZQaVE3dXU2XzVR?oc=5",
       "source": "FOX 5 Atlanta",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "61b13de0e8ed"
-    },
-    {
-      "title": "France Arrests Belarusian Suspected of Filming Drone for Russia - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RZmJWMTRlX3B2VmhwVFNVbGNSUndmOFgyQ0tLNW1hYUcyeG03RGpyYWJtQTBRSGlUYVBta2doSXFCSFNxbEJaREtDcw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-06-19T19:02:57+00:00",
-      "description": "France Arrests Belarusian Suspected of Filming Drone for Russia  Kyiv Post",
-      "query": "drone arrest",
-      "detected_at": "2026-06-20T00:55:07.325733+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "76293e4af742"
-    },
-    {
-      "title": "United States: ICE and FBI Investigation Leads to Charges Against Illegal Alien Who Flew Drone in Restricted FIFA Airspace - The St Kitts Nevis Observer",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQekpoajJEdUhjUXJQQktRZWxTWVpSd0NMeG1wWUhnQ3hZLW5wcXFTelJpYnBFZWFEWkNncEl6ZTJvWmoyNDlfV24xa0pPR0ZmNlNxeElnTExuRmFxUDRoVkFNbENoV05rLXhKNXJDMFk3N09xZEFSTXhVT0xaVkhHbm9RWXgzLXUzclpMRXRRYlhqS1l6ZnVMYVNmTm4xVEM3X2Q5VnEtWXdHNzRyX3o0M0hUWmtuMjM3Wm9iM09ZN1pnbjNyM1kzQVlKQ0JpMGV2eHc5RDlLTXhIajRoSUhlSDJNSFk5VERvUmZFdTlLSEFPMG12?oc=5",
-      "source": "The St Kitts Nevis Observer",
-      "date": "2026-06-19T23:09:06+00:00",
-      "description": "United States: ICE and FBI Investigation Leads to Charges Against Illegal Alien Who Flew Drone in Restricted FIFA Airspace  The St Kitts Nevis Observer",
-      "query": "drone illegal",
-      "detected_at": "2026-06-19T23:25:50.994336+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "61c2fef1d6b2"
     }
   ],
-  "last_updated": "2026-07-23T19:16:37.175008+00:00",
+  "last_updated": "2026-07-23T21:03:54.085183+00:00",
   "total_count": 1000
 }
