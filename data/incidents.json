@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Angola Court Jails 2 Russian Spies on Espionage, Terrorism Charges - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsejY5UVJVd3pJNDF3amktRGdBNmJNaFZJNTZvZDh6UkxjQWY3dVVwTkJjdkx5Y0NZZGo4Rnh0M3J0S3BDaFl3dUhidw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-07-22T19:24:16+00:00",
+      "description": "Angola Court Jails 2 Russian Spies on Espionage, Terrorism Charges  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-23T02:42:59.617754+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d09e3c00bd6e"
+    },
+    {
+      "title": "Punjab Sees Sharp Rise in Drone-Based Drug Smuggling, Centre Tells Rajya Sabha - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmZ0UFZsV09iZVBXR0Rmc21yVkJKVjZBb2xrYjlIcU5aUU9uaGxZNzFsWGNheURQSzh0ZVVzLTJhWk5xVmxRelJuc05aQk9iTW13bU1UeVN5LUxGci1MUGxrWTNtZjZ5bWRpRkt0cVpJc29xcFpWNXJKQ2lQVGJ0OE9jbjBVQkZsaFVLMg?oc=5",
+      "source": "Daily Pioneer",
+      "date": "2026-07-23T02:02:29+00:00",
+      "description": "Punjab Sees Sharp Rise in Drone-Based Drug Smuggling, Centre Tells Rajya Sabha  Daily Pioneer",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-23T02:42:56.281539+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5a3eb9f7858e"
+    },
+    {
+      "title": "Middle Georgia prison drone smuggling busts nets 2 metro Atlanta arrests - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkdtN19mdFAtd1NhWWJEWTlWQWlMWFV3aWxVZlRmbERYZC1Jc0JNS0NRVHl6QkdLU01YaGJ1VVBLal9QZVhNT2xsN205ZUJScEozdGpxaEFKSlZacU1lUFI2N0FDVlZ1RDVhalM4NEJXQ01vdHNkMjA2cGtabnBpNGZtZVM2ZXhB?oc=5",
+      "source": "AOL.com",
+      "date": "2026-07-22T10:55:43+00:00",
+      "description": "Middle Georgia prison drone smuggling busts nets 2 metro Atlanta arrests  AOL.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-23T02:42:56.281539+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "fb21e120fb0e"
+    },
+    {
+      "title": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75 - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3lvZ29KOXJJOG1UczVKY3VaS1lJWWdhMUp6RkdLSC1zNFdoZS15Ykx1bGQ3RHBCZVVueUtOWll0VzdGc01jWmw1dms3M1M2cDNHOEloVjEtZEZDSnQzYnJCWlZBYVdycUV4NDItSEFVVi1qaEJ6bldOTnNKUU5JQVRoUVdSRE1zVTNBRmtaQTZoTjV5QW1TdDBFQTJmNHlmU1RZV2wxNk92V0k?oc=5",
+      "source": "FOX 5 Atlanta",
+      "date": "2026-07-23T00:00:47+00:00",
+      "description": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75  FOX 5 Atlanta",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-23T02:42:56.281539+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "9b1891488d6f"
+    },
+    {
       "title": "Butts County sheriff calls for change after drone with contraband is seized along I-75 - WGXA",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEN5bmR4VndlbEYzWmoyZnl4YmlmOV8zd1RFa2s0MWdweXlPUkRseUQ4REJvVGJoS3RTV2xfS3NzbFpnUVZ3cXlrRUI0NkdmbUNydWhZVlNDR3JBVVVVZlZiMTdDeE9aMmFNQllMb0VROGhiUHlLTl9zVXJWLXhEMzdiRS1UcG5vcHpZRFVfdXk3TjRhYWkyLWZaX3N5OG9jVXB3U2FNUlROYXNHMXlncS16QQ?oc=5",
       "source": "WGXA",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "a557379974b2"
-    },
-    {
-      "title": "Drone unit assists arrest of suspected drunk driver after several crashes, CPD says - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmNnMUNEVTM5cm1hZm54cnZzaVlOdG1MaGNscDhMUVFpWWFGOE4zZnhpenZDX083bnJ4cjBKdUtNUzZhOWgtWko4V3VuQ21aX3RrYWx0ZVBTZ2N1NTNZYXpsejlFZVUxck9xSmNNekZzTHRVRGpoOU1vVE1LSlhEQm5TcUw5Ny1EVnljempldjEwSjcxUlEtTFZlYmxDUE95S3FyZHQzc192enVIZnpYcGx2ekxGQWxpZFVz?oc=5",
-      "source": "FOX19 | Cincinnati",
-      "date": "2026-06-19T02:21:14+00:00",
-      "description": "Drone unit assists arrest of suspected drunk driver after several crashes, CPD says  FOX19 | Cincinnati",
-      "query": "drone arrest",
-      "detected_at": "2026-06-19T11:35:24.542040+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "aa57ffd5d1e5"
-    },
-    {
-      "title": "BRPD uses drone to help arrest two armed vehicle burglary suspects - WBRZ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjN0dnp1MHpweTFRazViZ0hzZi1RaTVXUzlmbjRrb1g4WlF5cWw2OHI2ZERyR2doWkdERUVJQVRrWUxsLXI5QWxBRmE3Q19LWFl1QWhzV2pHTnM4WW5mcDZDLVY4dHVtSmtIdlVMTkpUc1p3QTdEVVg4YkhMR1RfUllyRDFqb0hEMDlTa1BSQW1RbWcxanZZ?oc=5",
-      "source": "WBRZ",
-      "date": "2026-06-17T23:41:15+00:00",
-      "description": "BRPD uses drone to help arrest two armed vehicle burglary suspects  WBRZ",
-      "query": "drone arrest",
-      "detected_at": "2026-06-19T11:35:24.542040+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "783236681801"
-    },
-    {
-      "title": "Drone breach at South Korea camp intercepted before Mexico clash - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZW4xNi1FQnFaQkJGWG1pUkx0SzZqLWRLTHBGVVZHLU9ySlRVWE1PLU5JdDZzVnFWRTNHejhyRXUxbnJmdjBFT2szTzloTjVqVXpyRlRuRnNWWDlNZWctLW9UQ3UySFJzbDMtZnpvUVB1Rm5jU3FCYXJYWW9QSFlwSjB1dFFudldaSkZFcWR5dXY3dG8wdWZuVWpjTWlBWkZEb2ZkRjlhUEhmSkZiMC1BbXNuSlBlNUVib0RTM2R5LThma3J2MmFoSVhRb2NvcVdTRHNaUV9Ia2xoRjN5ckx3MGJKSWZrTDl4RTJJZGlSTjloM0RlNGV4YndR?oc=5",
-      "source": "MSN",
-      "date": "2026-06-18T20:28:58+00:00",
-      "description": "Drone breach at South Korea camp intercepted before Mexico clash  MSN",
-      "query": "drone security breach",
-      "detected_at": "2026-06-19T09:44:01.645249+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "f3eaf8c8bf74"
-    },
-    {
-      "title": "Portugal, Slovakia to provide drone defense equipment to Romania, president says - Romania Insider",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2RRSmI5Z3h1SE54RHdlZUVfcjgyMGNYbE9VZnB4TVloMWt2Z2t2RF9aVWF0VTh6QTlhTy0zcDRvNmRRRG1YcnFFakdHUXV5Qk5DaUNKWDJNR1FMTy1NSlZjNmNfN3I0WUcyTUZRZ1FEUVEwQndBU3JGSmM3Ry1oQ9IBhgFBVV95cUxNQTB4empCcFBNN2x0emNjTGZxcVZqbDdSdzhQUExCRVJBVVBad3RBSjM0VEVqUjZ6UWc5ZGlaNDJHRnd3NU5WSWoxbVdpMk9xb29fZklpcWlOVVFuZm5oVVlwX0tHbm9fdmkwOXY2T2pKc255bHdlUGIxY2haYU9pYUtKOVlIdw?oc=5",
-      "source": "Romania Insider",
-      "date": "2026-06-19T05:53:43+00:00",
-      "description": "Portugal, Slovakia to provide drone defense equipment to Romania, president says  Romania Insider",
-      "query": "drone incident",
-      "detected_at": "2026-06-19T09:43:57.571434+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ebba402f18af"
     }
   ],
-  "last_updated": "2026-07-22T23:02:40.327552+00:00",
+  "last_updated": "2026-07-23T02:43:00.703537+00:00",
   "total_count": 1000
 }
