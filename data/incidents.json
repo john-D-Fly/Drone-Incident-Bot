@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Russian Oil and Energy Facilities Burn After Massive 223-Drone Attack Across Multiple Regions - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrTDdGSXcxeWNNLXVROU9KeXIzaC1SRnVzVWFIa1BpOU0xU0hMdzFZeHZ1RnBHbnJ1SEZSVjlacjVFbGhxVkJUTm5tSQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-07-23T09:35:35+00:00",
+      "description": "Russian Oil and Energy Facilities Burn After Massive 223-Drone Attack Across Multiple Regions  Kyiv Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-23T11:08:55.814607+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "00d3c8d75595"
+    },
+    {
+      "title": "Ukrainian drone strikes hit about 10% of Russian retail giant Wildberries’ warehouse space - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUExWYmNvZmZxZm1UVDhnOFBrTks2bmxBZDc3c1FqcENYVmd3akdzc1ZnZGJRQ0xSVVkxTnhBZ1NRbFExTFJBM1Q3TkFKRkNiMkw0dHlOel8yQU5QdW5aNlc1SGFYdUE5RzVLRFFfbHV4TEJVaGh6UV9NaUg3WkxKYVlTTTFZX182TC0yaDgxaE5YR09NSlNsd3E1NEpqX0lOd3BoUXdDNVVsUFRINV9MQWE3cXJVY0xJcGVxTVBnaGNTMUxJV3hGX9IByAFBVV95cUxPUExWYmNvZmZxZm1UVDhnOFBrTks2bmxBZDc3c1FqcENYVmd3akdzc1ZnZGJRQ0xSVVkxTnhBZ1NRbFExTFJBM1Q3TkFKRkNiMkw0dHlOel8yQU5QdW5aNlc1SGFYdUE5RzVLRFFfbHV4TEJVaGh6UV9NaUg3WkxKYVlTTTFZX182TC0yaDgxaE5YR09NSlNsd3E1NEpqX0lOd3BoUXdDNVVsUFRINV9MQWE3cXJVY0xJcGVxTVBnaGNTMUxJV3hGXw?oc=5",
+      "source": "Meduza",
+      "date": "2026-07-23T08:40:00+00:00",
+      "description": "Ukrainian drone strikes hit about 10% of Russian retail giant Wildberries’ warehouse space  Meduza",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-23T11:08:55.814607+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "511ba35930ab"
+    },
+    {
+      "title": "Wreckage of 1952 Pan Am plane crash that changed air safety found near Puerto Rico - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlFZY0FVLVJaTTg2cmNVYTNudGcyTEl0YzF4WV9ZZEpzVXRmY05TRE52U19vVU13VnFoM1d6Wk9pT19sT2NodWNUNGloT2V3aWxaZDI4b3h6YUNsMUNGYkJNcy1CSzM1U2VPRThKUklkY04wRjhHN21JT25oWEItYmxwRERYVWFXSFE1MldmdUpXb3M3TG0xbVd1a0FUUW92dS13czFISG10QkE?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-22T05:16:00+00:00",
+      "description": "Wreckage of 1952 Pan Am plane crash that changed air safety found near Puerto Rico  The Guardian",
+      "query": "drone crash",
+      "detected_at": "2026-07-23T11:08:54.159671+00:00",
+      "location": "near Puerto Rico",
+      "category": "crash",
+      "id": "6712c3b9bc2c"
+    },
+    {
+      "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
+      "source": "LSM",
+      "date": "2026-07-23T09:03:58+00:00",
+      "description": "Mystery drone crashes into lake in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-07-23T11:08:54.159671+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2df697f7e2fb"
+    },
+    {
+      "title": "Low-Cost Drones: A New Challenge in the Fight Against Organized Crime in Latin America - Diálogo Americas",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcDlSVjBRTGNBd3pjNXN0dE9oRndvbzUzelAzTUdRaWo5NTRDY1F1Szh3cFVRZkxKMUxmbmM2VDBMRnctMFp1aUpQdHdUNkpLcXFKWmV0TjVvNlpURnZqMzg1Rm5CYXg3VDFjWnVJWGx4Zi1fc2xTTklqVHBDZzVZcTRla1hoSTJvaEZPZWFwWmVZWXBTeC1zNkpKOUM0NGJ3akRHWElqUk5ocUktdXcydGVEN0EtdlpyY0RVbURtSzJ5dw?oc=5",
+      "source": "Diálogo Americas",
+      "date": "2026-07-23T10:33:32+00:00",
+      "description": "Low-Cost Drones: A New Challenge in the Fight Against Organized Crime in Latin America  Diálogo Americas",
+      "query": "drone prison",
+      "detected_at": "2026-07-23T11:08:53.038764+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "32ab5fa04462"
+    },
+    {
+      "title": "Drone shot down by NATO jets in eastern Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHF6WFpSbDM3TmNRSG16alNsYURwRHQ3a1RPM3ZGMmtTVnNpcGtfRkRjZ1JkaTN5bzBaY2FkSEM5U1NpX1BwZVF1Sm5Cd0lIMmxURUNtMWJodzkyU3dpU2pYTlhHYVJfNlZndDFHbXVSTWwySEdWc0RFRFNEYmdYZEVOQkJyWHRXNllwb2tpRnhHTk5qUVJXNkUtNDQ1djF5QUNfWXdsQ1NzWHhtT1E?oc=5",
+      "source": "LSM",
+      "date": "2026-07-23T08:56:19+00:00",
+      "description": "Drone shot down by NATO jets in eastern Latvia / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-23T11:08:51.299580+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "599904feafe3"
+    },
+    {
       "title": "Russian nighttime strikes target Odessa port and drone workshops - صوت الإمارات",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbUxoaWd0ZU80ZUN5c3U2RTFwWVVVanR5Z3lqVGlTbFRXZ09LS0hYNFB6ZW9SeG9hZUdDckhET3pBU25uQ21kdkRvY1FjSlNnWG5QQnVFbm5zZXR2bmdzVVV1bU0xVUpnZTNuOGRjMkFtSGhDbzVPeDZoWFBwc0xyeHlYeVVWYUwxcG1qNG5zRzJDbS1qcEU0OVk2aHh0cEhuVWpIR0pPNmNxUFVta3djUTN5TmtCcElXYjF0WFJWa1JOWEFxVE0yU1JqZ2dwSFFsamJQY1prRE5rWW9YRW15WQ?oc=5",
       "source": "صوت الإمارات",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c92583a50051"
-    },
-    {
-      "title": "Drone breach at South Korea camp intercepted before Mexico clash - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZW4xNi1FQnFaQkJGWG1pUkx0SzZqLWRLTHBGVVZHLU9ySlRVWE1PLU5JdDZzVnFWRTNHejhyRXUxbnJmdjBFT2szTzloTjVqVXpyRlRuRnNWWDlNZWctLW9UQ3UySFJzbDMtZnpvUVB1Rm5jU3FCYXJYWW9QSFlwSjB1dFFudldaSkZFcWR5dXY3dG8wdWZuVWpjTWlBWkZEb2ZkRjlhUEhmSkZiMC1BbXNuSlBlNUVib0RTM2R5LThma3J2MmFoSVhRb2NvcVdTRHNaUV9Ia2xoRjN5ckx3MGJKSWZrTDl4RTJJZGlSTjloM0RlNGV4YndR?oc=5",
-      "source": "MSN",
-      "date": "2026-06-19T09:13:30+00:00",
-      "description": "Drone breach at South Korea camp intercepted before Mexico clash  MSN",
-      "query": "drone security breach",
-      "detected_at": "2026-06-19T16:52:03.125512+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "8cfa93a2c809"
-    },
-    {
-      "title": "Kansas City seizes 8 illegal drones flying over World Cup events - Read Lion",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0pnLUY4VzFYUXBvQUpJSDVTMHdweHZNVC1YT3d0Q0t6SmR3eE52NG5MWGQ2S3RXaGdGaVcwYjJqZjF4OE9NRlE2djItMm9pT09WQ1lxRVdfRnREUkp5ZWhXQjdlNUJKdEI3ZmlvZTNPTFg3OG1OZXRZR0VLbEVEZGMzVjNWWnlzYzJaUzdLcw?oc=5",
-      "source": "Read Lion",
-      "date": "2026-06-19T15:40:37+00:00",
-      "description": "Kansas City seizes 8 illegal drones flying over World Cup events  Read Lion",
-      "query": "drone illegal",
-      "detected_at": "2026-06-19T16:52:02.482342+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d0adb1280bac"
-    },
-    {
-      "title": "Drone strikes beyond the battlefield pump up market for technology to repel them - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ3V0ck16Y0J0NzVSbkxYSktBNm1LMXdnNmNBRTBjWWt0Q3I2YVFNQ3dOcGI4YUg2Tm5wM3ZFMWNkaEZyeFZJOW5QanJjMFNCWTdRZDFyQnd6VV92MEM4djhxa0hMblZuVWtkWjlZT2w2ZmpLN1BDN3NETXRPR0VaQVF0VVBxcl94Mkt4bFdfUnB6WEtUR1pPX1dtdEJBLWtxdU85RS1EdGdtbVVBNU5Dck10WFlIT25UUVJ5UnlnV05BQTV4a3doeDlhakQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-06-18T15:21:00+00:00",
-      "description": "Drone strikes beyond the battlefield pump up market for technology to repel them  Reuters",
-      "query": "drone airport disruption",
-      "detected_at": "2026-06-19T16:52:01.336084+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9f84da8ec661"
-    },
-    {
-      "title": "Exclusive | Twice-deported illegal immigrant arrested for flying drone in restricted FIFA airspace - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSE85VWhtY3lONjc0bGFyMVFfOXNka3BDY2IyRzkxZWFFYk1YSW53aks5RlkyejM5bFlET2VjMWFQUDUzWWNQNDY0aXFYTVpUV2pHejJkTEVjT0FuSjVfRkZxTHJnaGxOQWZvN0dvVlNuLU5RN1BQNHFOVUlxcE9DUFZ5a055VnQteHo0NHNsYm52enhmZmZsNDNrNUUxT2o0QVN4d3FSZw?oc=5",
-      "source": "New York Post",
-      "date": "2026-06-19T16:13:00+00:00",
-      "description": "Exclusive | Twice-deported illegal immigrant arrested for flying drone in restricted FIFA airspace  New York Post",
-      "query": "drone arrest",
-      "detected_at": "2026-06-19T16:51:59.555444+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "32c29d80b41b"
-    },
-    {
-      "title": "EU blames Russia for drone incidents over European territory - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3h4UWswT1dmU3dNbmhsV0VBN1FkQ2ZxbEU2c0ExdmFhcFR1T3dKSkhZVC1PMDlLaXk5SElXT2FWWWFMRUJEZ1VqMnlXRzgtdGlNVENLR0ZibF9nd2RycG9XZXRmM3FYd2g2c3dPUkJuOTNIdUxfczZSdkQzWndlamlLTlQ4Wl9NYm52NWVIMFU5MVJPb09yOWU1N3ZxS2FPNHNr0gGjAUFVX3lxTFBreHhRazBPV2ZTd01uaGxXRUE3UWRDZnFsRTZzQTF2YWFwVHVPd0pKSFlULU8wOUtpeTlISVdPYVZZYUxFQkRnVWoyeVdHOC10aU1UQ0tHRmJsX2d3ZHJwb1dldGYzcVh3aDZzd09SQm45M0h1TF9zNlJ2RDNad2VqaUtOVDhaX01ibnY1ZUgwVTkxUk9vT3I5ZTU3dnFLYU80c2s?oc=5",
-      "source": "Meduza",
-      "date": "2026-06-19T11:32:00+00:00",
-      "description": "EU blames Russia for drone incidents over European territory  Meduza",
-      "query": "drone incident",
-      "detected_at": "2026-06-19T16:51:58.892337+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "41ec53cf1ee5"
-    },
-    {
-      "title": "Man tried to smuggle smart glasses, pounds of weed into Ala. prison with drone - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzVHOU9LalZ1eG9yYUtxaHdrc0hqS1NmWkY1MnNvMGxDaEdoTmlOQXcxTnlaRWx5TU5WaTVua0R0UFFlXzFvR1BvLWREdVNLQzBzTVZWWDhFWFdtNWhQbFdHazQweDhQTzdGbnIxODhVTnVrOTRtSUVqS0RRdnFBTHJhQmRORkNPZjBlaW5fTTNMdmhkS2VZNjNaYlVyTzlLX3dqMzlDcWpjWVpyQmNmUHlhRFh4X3c?oc=5",
-      "source": "Corrections1",
-      "date": "2026-06-19T13:52:51+00:00",
-      "description": "Man tried to smuggle smart glasses, pounds of weed into Ala. prison with drone  Corrections1",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-19T15:04:52.904523+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "61f277522ec3"
     }
   ],
-  "last_updated": "2026-07-23T08:29:25.622943+00:00",
+  "last_updated": "2026-07-23T11:08:56.925402+00:00",
   "total_count": 1000
 }
