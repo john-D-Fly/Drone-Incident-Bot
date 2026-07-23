@@ -1,0 +1,120 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant rise in drone-related incidents has been observed, particularly centered around Ukraine and Russia. Ukrainian drone strikes targeted Russian retail giant Wildberries, impacting their warehouses and logistics centers. Concurrently, a massive drone attack in Russia set oil and energy facilities ablaze. Elsewhere, drone-related smuggling and arrests were reported in prisons across the US, highlighting ongoing challenges with contraband deliveries via drones. In terms of enforcement, authorities in the Czech Republic are seeking the ability to shoot down threatening drones. The increase in drone activity underscores the dual threats of terrorism and illicit smuggling, raising alarms among security agencies worldwide.",
+  "totals": {
+    "other": 20,
+    "arrest": 8,
+    "smuggling": 7,
+    "crash": 6,
+    "terrorism": 9,
+    "total_incidents": 62,
+    "by_category": {
+      "airport": 1,
+      "arrest": 5,
+      "crash": 9,
+      "other": 33,
+      "smuggling": 13,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 9,
+      "drone crash": 9,
+      "drone illegal": 2,
+      "drone incident": 9,
+      "drone prison": 6,
+      "drone smuggling": 6,
+      "drone terrorism": 16,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone terrorism in Ukraine and Russia",
+      "rationale": "Significant attacks linked to ongoing conflict.",
+      "incident_ids": [
+        "8efff8c91fbf",
+        "00d3c8d75595",
+        "511ba35930ab",
+        "66f9d94281cd",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "topic": "Drone smuggling incidents",
+      "rationale": "Drone use in smuggling presents ongoing security challenges.",
+      "incident_ids": [
+        "5a3eb9f7858e",
+        "fb21e120fb0e",
+        "9b1891488d6f",
+        "4a7706aab80a"
+      ]
+    },
+    {
+      "topic": "Drone crashes and safety",
+      "rationale": "Increasing incidents reveal risks to safety from drone operations.",
+      "incident_ids": [
+        "6712c3b9bc2c",
+        "99aa8c5fceb7",
+        "be44cd3736fb"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8efff8c91fbf",
+      "headline": "FACTBOX - Ukraine’s drones strike Russia's largest online retailer",
+      "one_sentence": "Ukrainian drones have targeted and struck Russia's major online retailer Wildberries.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "00d3c8d75595",
+      "headline": "Russian Oil and Energy Facilities Burn After Massive 223-Drone Attack",
+      "one_sentence": "A massive drone attack has led to fires at multiple oil and energy facilities across Russia.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "5a3eb9f7858e",
+      "headline": "Punjab Sees Sharp Rise in Drone-Based Drug Smuggling",
+      "one_sentence": "Authorities report a significant increase in drone-based drug smuggling in Punjab.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "6712c3b9bc2c",
+      "headline": "Wreckage of 1952 Pan Am plane crash found near Puerto Rico",
+      "one_sentence": "Wreckage from a historic plane crash has been discovered, contributing to flight safety discussions.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c1bd35aa1e41",
+      "headline": "Wildberries strikes bring Ukraine’s drone campaign into Russia’s consumer economy",
+      "one_sentence": "Strikes against Wildberries illustrate Ukraine's strategic targeting of the Russian consumer economy.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.78
+    }
+  ],
+  "draft_social": {
+    "tweet": "Rising drone incidents spotlight ongoing threats in smuggling and terrorism across Ukraine and Russia.",
+    "linkedin": "The past 48 hours have seen a surge in drone-related incidents, highlighting emerging threats in smuggling and terrorism, especially in the Ukraine-Russia context."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-23"
+}
