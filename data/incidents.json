@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Iraq's Erbil airport reopens after drone crash halts flights - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlZzLTJsN2tmdTRXbzZvTEV1bU5ocmJvODMxT1hnQVFHTW1Zb0dsMlBSRVZjdXV4YW01V3NpdGp1eHNTWk9sYzVaRm5vSkstOTBXTjNwN0wzQklhbEFySVY0aVhBbWZfOEt5T2thazdxZ2xYWVlmNlFqNnY1d0FEdmVjS2FtUEZI?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-07-24T09:20:33+00:00",
+      "description": "Iraq's Erbil airport reopens after drone crash halts flights  Latest news from Azerbaijan",
+      "query": "drone crash",
+      "detected_at": "2026-07-24T10:16:06.184713+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ecdbd9447fbc"
+    },
+    {
+      "title": "St. Petersburg's Pulkovo Airport delays 50 flights after regional drone attacks - video - The New Voice of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORE5NWGM5SVNFTzVlTV9wUG4yRG1qOFVKQVdwVkotLXlMS0ZzR0I3d1FfdHpXbTJWdjZQd254UkNPdmk0Mm9EZEpGdHBKN0thdFNUdnh5TlFwMVljS20wVkJ3bU9Rd0ZzM3hCSXY1V0doTElQZGxzUEpZNXJJMGNUenFtT0t3S2xCbmtFQkdGbkxKVm1QdlBRTFJtMWZ0NEQ2REJncG9hM3RKQlBLRUF0aHBMSFYtNHhhZHfSAbYBQVVfeXFMTmVJeW1BaUNsNlgwSjJLLVhqa3RKeUxqUVp3NUxaWGcyRF9VVE1NTjJfdlY1MG12bVFTZFhYbEVYNUpqSnFLM3B2OVdaaUxRS2dzd29SOFVxVnRsQnB0dVRNemhyYjQ2QnRvMVBNU0lVRVVPMFVwNDhjV3ZfdTJ0Q0xQX0dyMTRrY3VFSXJhdmZhZlNiZnBUeWo0dWdNdlJBNmhUbE82Y2dqZ1ZvbC1fYmY3VVVNNFE?oc=5",
+      "source": "The New Voice of Ukraine",
+      "date": "2026-07-24T05:25:00+00:00",
+      "description": "St. Petersburg's Pulkovo Airport delays 50 flights after regional drone attacks - video  The New Voice of Ukraine",
+      "query": "drone airport disruption",
+      "detected_at": "2026-07-24T10:16:05.622278+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "003fe35cd000"
+    },
+    {
+      "title": "Thai Authorities Seize Advanced Drones Intended for Smuggling into Myanmar - Burma News International",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeDVmT3V0M0FRenFSUGdBUjNmcnFFZjlMQ2FyTlBrSU5GVlpCbk9sMHlWc1NGMktSbVRCQjhyaFpTMUFMVExMWlJUdzhsdTJNMDlKQ1Nxei1kbWZiZVlBZEdnS3FhdWlhbEhIekdONF9vYjh3ODN1Vm5SNUlCZGNZQ1RxWkpjS0Qyb1BzTGlTNDY5cDA2UzhEX01LdVQ5Zjlh?oc=5",
+      "source": "Burma News International",
+      "date": "2026-07-24T04:43:27+00:00",
+      "description": "Thai Authorities Seize Advanced Drones Intended for Smuggling into Myanmar  Burma News International",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-24T10:16:04.603297+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8dd362c63371"
+    },
+    {
+      "title": "Nicușor Dan: A drone was shot down over Romania - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUVwcEdwa3RUOE1IejViLVZWd203S2RDZ3JzTjhZMWp0YWN3OGFfWEdXTHBJcERZU0pFdUhuVE41RDBXM245RGMtZHJ0dXNfMWZmS3hmWUlwQnVHeTlSOHB5OW5sbzZmNnVmT2lDOHhKX2VpcVBRTUpzNk10dXlja2RXRFhNMDlpYlZTV1hRM04yZjZM?oc=5",
+      "source": "Informat.ro",
+      "date": "2026-07-24T08:26:10+00:00",
+      "description": "Nicușor Dan: A drone was shot down over Romania  Informat.ro",
+      "query": "drone incident",
+      "detected_at": "2026-07-24T10:16:03.102186+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b3b37e22f678"
+    },
+    {
+      "title": "Romanian F-16 Downs Drone: A NATO Airspace Breach - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1FtM3NuQk5FcDB5WU9Xd2l0LWVWamhuNzlDdmw4emFzRkpFbzlrT1FWeUxhZUo3NVlBY1ptT0VuaU02OHpxWUdqNHV6aGdqTmhncFBrOUkzYndVODlvT1Zvc01ZRnZsZGlTYzhYT2NCd0ItbTVaOXZlYzNIOWo3UVA3SjVtUlpYRWFZU3A4eUI2NEV6VlpPWm5FT1cxUHJoWWJuY9IBqgFBVV95cUxOVUhBZGJIVXZMeWc0TlhCVDdyLV81ZjJDMW1xZVlRTXRlNmU2V0x1TWtjU1d3eklqZUdQTlhieGswMkE2RTRzVVJhTjlkaENmU0xObHRDZWVrQmdWV2U5Rk9Ja3ZRb29ydm9aWUppcEpTUjFnekZwMmU1Q3VaUngzSHZuU1FteWt6aU9WZ21pZFRQeVlrNTQ0VlJVZldjemxHSFYtUXZuU0lLdw?oc=5",
+      "source": "Devdiscourse",
+      "date": "2026-07-24T09:07:11+00:00",
+      "description": "Romanian F-16 Downs Drone: A NATO Airspace Breach  Devdiscourse",
+      "query": "drone incident",
+      "detected_at": "2026-07-24T10:16:03.102186+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "e8cd2ba1e8b5"
+    },
+    {
+      "title": "F-16 downs drone in Romania's airspace for first time - Romania Insider",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WdnRJVDFiaTViU2JCaFM1ZHdTQjZtaTdxN2wwUnpyX3pMdThxNGhqNzRPVXlXUXEzelRQN1FFeFRYTlpyNzBjdGJPbG1BVzhrYjVvdzFzdTB4V3dpaFF2TnpqSUFNQXJhMjZyR2VfZ2pLQdIBd0FVX3lxTE8yQjN0R3RIaGZNMVRSNVlwdlFObVFHRzlPNWdQdHY4VUFPVV85SFgwX2U4QVpCeE56WUhsYlo3Z05Rd19hRHZ0Y0J3bURHc3VVVGZkM1cyMkEzZ2t1YUhKMjc0RWcwWFZZbFp5cjJjd0tobl9UbXJz?oc=5",
+      "source": "Romania Insider",
+      "date": "2026-07-24T08:56:07+00:00",
+      "description": "F-16 downs drone in Romania's airspace for first time  Romania Insider",
+      "query": "drone incident",
+      "detected_at": "2026-07-24T10:16:03.102186+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ce2d2848a904"
+    },
+    {
       "title": "More Than 700 Illegal Drones Seized During The World Cup - Aero-News Network",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTZvSy1qem9HOWpSRTJobnlVVUVBaFJ5elVCdG9nZTVhaFdUTmt0Y3h3bWkzSnlVczlUOWxZNGVIWk1ZSDBBYzBWOFBBQm1kVWl0YWUtVnpodG10ckJYc0FnQUJzSmFEbS1iVV9aVElDc2F0NmwtcnFCYXBIRGk2ek5yOXRGMU8xRG4tRU54cmlsVktXTC1j?oc=5",
       "source": "Aero-News Network",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6b56c99ae7cb"
-    },
-    {
-      "title": "Twice-deported illegal immigrant charged with flying drone in restricted airspace during FIFA Fan Festival - FOX 2 Detroit",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVVTOHI4WUNnb2FnMnVMZVZyRnN3d3Q3QndfbGVGU3oteEVPSVB0NUhvOWpnNFUwRy1KODhhVVhnWlZGVTdBazFCSlU0cTFwakpJNU5INVgtLV9vaF85ZmtNblN0Mk9WbHV5Z3puQWJZdE9jVGV6Vi1WVnpkQUdNWFpYM3VyUUtfZ1BudEEtbVN3ZEtxWHNUMTdmdHQxcFhOX0FHU2VpWG1hcXlvNTRlRG5aYm5jejQtbjQzdV9mZTF5T1htS1FvOXl0a9IB0AFBVV95cUxNVWIyM2dVRGlGc3hBLUZ2eXI4b2V0Tm9MMTBxTi1YSUx3aWxUb09ranp6VjBEdzVEdTZkZFBtOVN2RzhYMHpUV1FqZ0pQNjZuWHZSUi1ZLXZhT2ZBUHU4NUJlQWhsZzVZRG5HZ0gzdzdHVmFKMW1KUkx5YVRyUFJwbE9kVXc2YmZvM2ZCYlBleldyVThQejJyWi1BZDczZnNfU1k1S3ZJY01taXBMXzJPdHhVSTNXMmJ1QzRaSW5VZ2M2N2s5YVpGdm1EdC0xWnV6?oc=5",
-      "source": "FOX 2 Detroit",
-      "date": "2026-06-20T13:45:28+00:00",
-      "description": "Twice-deported illegal immigrant charged with flying drone in restricted airspace during FIFA Fan Festival  FOX 2 Detroit",
-      "query": "drone illegal",
-      "detected_at": "2026-06-20T19:33:30.853124+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "315d0c13afe0"
-    },
-    {
-      "title": "World Cup drone arrest leads to federal charges for flight over Dallas Stadium - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3g4blJPN0tyak4wYzF4NHlibS1reFYtaFYtaXh4dUF2RHlyWF91RURTMGFTcGJDWnlUNFJLVElpcU1fRm4zVUxSTmp1NHBESlNJVndNZjdRWm40aGRoT2ZnNV9CWmZpblZkWHB4akVBWWtOZ1ZUU0lWSUNNUWc1TGo3VnU3eDZsS2c?oc=5",
-      "source": "Yahoo",
-      "date": "2026-06-19T21:26:48+00:00",
-      "description": "World Cup drone arrest leads to federal charges for flight over Dallas Stadium  Yahoo",
-      "query": "drone arrest",
-      "detected_at": "2026-06-20T18:34:20.999541+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f46144798d41"
-    },
-    {
-      "title": "Drone crash sparks fire in Iraq’s Al-Anbar - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzc0tsVllfTllSV3F3RnNKM3VqOW9kRGxzLUxLWXpYSzA3Qjhybk9TTmxTOWFuS0N3M0doVzBvT25VcXlMenlYQ2xvcnJRbVVBbjQ3WTIwZG5sSThIYzRUdi0wUWgwZzg0TFcwRFlob2dCYjktby1RUHdQYjlFUQ?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-06-20T16:23:37+00:00",
-      "description": "Drone crash sparks fire in Iraq’s Al-Anbar - Shafaq News | Latest breaking news in Iraq and the world  شفق نيوز",
-      "query": "drone crash",
-      "detected_at": "2026-06-20T16:34:56.985734+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "e8f128b237c5"
-    },
-    {
-      "title": "DroneShield Capitalizes on Surging Global Demand for Counter-Drone Solutions - Streetwise Reports",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFdhcDR5UHhWNVQzZjFndDEzaS1JVTUwX05rMG05TDAtSi1xZ2ZlSTYydXgxc01mQ01Bam0wR2gzZHU3WWxMVFJ2TE9TUHJrLUZLaGVJNS1QSHJqMXV6UGRVSVhHdkNrZ1pjOTVrdFlndmk4UGtiSF9Xekk0R1l1eWhOTktvZTdzMWNOMG1ucjRUdXlKZFVGRTBqYzZOVWRaVDdqTm5HWW1JYmVZSDljLUFsengxd0ItY2w1NHdnVlpEbmtmMUV5dW9YeEhaUFE?oc=5",
-      "source": "Streetwise Reports",
-      "date": "2026-06-20T09:16:44+00:00",
-      "description": "DroneShield Capitalizes on Surging Global Demand for Counter-Drone Solutions  Streetwise Reports",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-20T15:36:17.852512+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4c287cf3d3c0"
-    },
-    {
-      "title": "Ukraine's drone strikes disrupt Russian supply routes and momentum - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTzVzaUloWVFkSzBEZEVvYzUwbVBJRjlMc1BsRzdpQjVHQ3hyNjNQR050Y2NHSWFndHNUOXM1Y1ZSV3dzdlY1MFdoLUdzY1BkdWlkbHNJckExRGJhbWhmSE1rZVNZc05UYUp1LUJsaVl0UG9vc1NPdlJONE1oQUNwV1M1Mnc0YnJlbktVRHRacENpSS0yWUhCd3Zuc2ZCZFpvQzU0ZVd5MlFaWUphcWI0cGVaNDBGUFZnRjVNa3RqbGhxZUZMUUdqWWlpTHNSWGg1ekkzUHBzOU4wVW9ZcWk2RG5DZUVfczk4cEd4NWtqS21PM3kzbWx6b0tRZXlxdw?oc=5",
-      "source": "MSN",
-      "date": "2026-06-20T13:03:32+00:00",
-      "description": "Ukraine's drone strikes disrupt Russian supply routes and momentum  MSN",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-20T15:36:17.283207+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "8571ba180f8a"
-    },
-    {
-      "title": "Romania: Russian drone strikes Galati apartment building - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1ZMUkRBVXo1VTUtcV9TNW5mWjBCNWNtYXB3WUV4aDV3ejcwNVRGZ3V4WjJpbkhVV1RKck9qbzhrelRqQnk5RXFKWkd0eTV0OVJhbVpPbUc5X2tUVkJ3dnFUUlFhamtRcVRxRkNuRExIcTlCUFdQRGhiY2VMbDdja1EyUVBveGRzejhlQ2l0b9IBjwFBVV95cUxQVnRmaGNJMXdySTZnTVVEQ2lXU1ZWX2xEaXptWDN5Z0hRT1JfRm9DZEV6d1RreTI5TUdkZEFlZEZ3MWdLVU5Qd2lPZHJFdlB4SHgxUXoyRXl1dmpIZml2QWdyeG9BV0hOenpyQmRZNjdQTjlkV1FJT1FwRE83NmE3ekhBWUJRY0VsNF9KV0ZOYw?oc=5",
-      "source": "DW.com",
-      "date": "2026-06-20T04:09:10+00:00",
-      "description": "Romania: Russian drone strikes Galati apartment building  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-06-20T14:48:45.881698+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f3af0224bdb4"
     }
   ],
-  "last_updated": "2026-07-24T07:30:01.562479+00:00",
+  "last_updated": "2026-07-24T10:16:08.785307+00:00",
   "total_count": 1000
 }
