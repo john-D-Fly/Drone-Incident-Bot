@@ -1,0 +1,165 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant rise in drone incidents has been reported, particularly focusing on unauthorized incursions and security operations in Europe and Middle Eastern regions. Romania has seen multiple drone shoot-downs by military jets in response to airspace violations, highlighting growing tensions in the area. In terms of security issues, law enforcement successfully intercepted drone deliveries intended for prisons in Georgia and Thailand, while also managing risks associated with illegal drone use at major events. In the Middle East, the Houthi forces claimed responsibility for drone strikes targeting Saudi Arabian oil facilities amid ongoing regional conflicts. The geographical spread of activities underscores a blend of security concerns, operational challenges in controlled airspaces, and escalating drone terrorism threats.",
+  "totals": {
+    "unauthorized drone": 11,
+    "drone terrorism": 5,
+    "drone smuggling": 4,
+    "drone crash": 9,
+    "security": 5,
+    "airport": 6,
+    "other": 29,
+    "drone arrest": 8,
+    "drone incident": 15,
+    "interference": 1,
+    "total_incidents": 86,
+    "by_category": {
+      "airport": 10,
+      "arrest": 2,
+      "crash": 3,
+      "interference": 1,
+      "other": 48,
+      "security": 8,
+      "smuggling": 12,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 11,
+      "drone crash": 11,
+      "drone illegal": 4,
+      "drone incident": 27,
+      "drone prison": 6,
+      "drone security breach": 2,
+      "drone smuggling": 6,
+      "drone terrorism": 10,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Increased military responses in Romania and security challenges highlighted by prison-related drone incidents.",
+      "incident_ids": [
+        "b4d77155f18b",
+        "752c6cf45873",
+        "e1e8348bb7db",
+        "b0d191bde5ae",
+        "bdfd682ed09f",
+        "11a77c5f4f29",
+        "d6452184ea7e",
+        "f1d7ee44eb70"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Operations",
+      "rationale": "Several reports of drones being intercepted while attempting to deliver contraband to prisons.",
+      "incident_ids": [
+        "11a77c5f4f29",
+        "d6452184ea7e",
+        "bdfd682ed09f",
+        "e25404bf2b08"
+      ]
+    },
+    {
+      "topic": "Drone Attacks and Incidents",
+      "rationale": "Drone attacks attributed to Houthis and other terrorist groups on critical infrastructure.",
+      "incident_ids": [
+        "80119b59e7b7",
+        "d29b329523f6",
+        "6217990b1899"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Multiple drone crashes resulting in significant operational disruption and hazards.",
+      "incident_ids": [
+        "c4471e19a398",
+        "5e9235ee3a9a",
+        "84eae1e8403f",
+        "94a8e9ddd9c4"
+      ]
+    },
+    {
+      "topic": "Escalating Military Engagements",
+      "rationale": "Military responses to unidentified drones in European airspaces suggest increasing tensions.",
+      "incident_ids": [
+        "b4d77155f18b",
+        "752c6cf45873",
+        "e08460f90af0"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b4d77155f18b",
+      "headline": "Romania shoots down second drone after airspace violation in two days",
+      "one_sentence": "Romanian military shoots down a second unauthorized drone in less than 48 hours, escalating tensions in the region.",
+      "risk_tags": [
+        "unauthorized drone",
+        "security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "752c6cf45873",
+      "headline": "Romanian F-16 shoots down drone near Ukraine",
+      "one_sentence": "A Romanian F-16 fighter jet intercepted a suspected drone breaching airspace near Ukraine.",
+      "risk_tags": [
+        "unauthorized drone",
+        "security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "80119b59e7b7",
+      "headline": "Houthis claim strikes on Aramco sites in Saudi Arabia's Jizan",
+      "one_sentence": "The Houthi movement claims responsibility for drone attacks on Saudi oil facilities, marking a significant escalation.",
+      "risk_tags": [
+        "drone terrorism",
+        "security"
+      ],
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b0d191bde5ae",
+      "headline": "NATO Security Breach: Canadian Intern Arrested on Spying Charges",
+      "one_sentence": "A Canadian intern has been arrested for allegedly gathering intelligence on NATO operations involving drones.",
+      "risk_tags": [
+        "drone security breach",
+        "risk"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "c4471e19a398",
+      "headline": "Drone crash sparks fire at Russia's Tyumen oil refinery",
+      "one_sentence": "A drone crash has ignited a fire at an oil refinery in Russia, causing alarm and emergency responses.",
+      "risk_tags": [
+        "drone crash",
+        "environmental risk"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "twitter": "Rising drone-related incidents in Europe and the Middle East, highlighting security concerns and smuggling activities over the past 48 hours. #DroneSecurity #OSINT",
+    "linkedin": "Recent drone incidents reveal a concerning rise in unauthorized incursions and security breaches, particularly in Romania and the Middle East."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-25"
+}
