@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Romanian F-16 shoots down second drone in 2 days after another incursion over airspace near Ukraine - Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWwxY1VHWHN3em83ZW0wMXhaMVRmNnlsODFHZFdqNUxla2lwMHhCNjJ5dVBPdTVvY3VTOC10U21YdGktcXB3dVJ3ZTJnT1ZtRThEcWRkc1dHem9JVXBzbmh6R3ZVc1ZnX280TG92alI0eDkwZzNsSjFqYmp3TENJMFZPQ3ZYbnNqY2tVb0xDMHU2UQ?oc=5",
+      "source": "Euromaidan Press",
+      "date": "2026-07-25T11:30:50+00:00",
+      "description": "Romanian F-16 shoots down second drone in 2 days after another incursion over airspace near Ukraine  Euromaidan Press",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-25T15:02:03.174866+00:00",
+      "location": "near Ukraine",
+      "category": "other",
+      "id": "0c97d25f247d"
+    },
+    {
+      "title": "More Than 700 Illegal Drones Seized During The World Cup - Aero-News Network",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDRLX1NGNnpmRkhBcG9xUFdRX2dWZ2E2NlFSaHByMjFLbzFvWk92NGZSMHNqVmJQYkNyUUp6cU54bEZSSjJUWE9VVmRCemszTElYQkZ1UEhfMEkxamdwZ19VZDkxQzlHR01FNWRkeFM3REllbVoxSGR3ZThoRjNEZUtxYU1WdWRncmpPRzVWUzE0LXE1NlpVQ1RILTltMmJJS1E?oc=5",
+      "source": "Aero-News Network",
+      "date": "2026-07-25T02:57:06+00:00",
+      "description": "More Than 700 Illegal Drones Seized During The World Cup  Aero-News Network",
+      "query": "drone illegal",
+      "detected_at": "2026-07-25T15:02:01.641318+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "434c01968552"
+    },
+    {
+      "title": "FLIGHTS RESUME AT ERBIL INTERNATIONAL AIRPORT AFTER TEMPORARY SUSPENSION FOLLOWING DRONE CRASH NEARBY - SECURITY SOURCES - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrZi1Ea0dPeG1qcW5hMWNVTlI1U2lBTER3M0dNVkZyM2tkVF9nNnNTVlB6M2dWTjBRZ1pqTkxNaDhLNERDaWl4cHBGaV9SSUhINFpZbkd6TUVfRVdjWFBGTWFvaXo5bWJKQ1RyN2VR?oc=5",
+      "source": "news.cgtn.com",
+      "date": "2026-07-24T07:47:39+00:00",
+      "description": "FLIGHTS RESUME AT ERBIL INTERNATIONAL AIRPORT AFTER TEMPORARY SUSPENSION FOLLOWING DRONE CRASH NEARBY - SECURITY SOURCES  news.cgtn.com",
+      "query": "drone crash",
+      "detected_at": "2026-07-25T15:02:01.163880+00:00",
+      "location": "AT ERBIL INTERNATIONAL AIRPORT",
+      "category": "airport",
+      "id": "bcfc70d67d51"
+    },
+    {
+      "title": "Drone crash sparks fire at Russia’s Tyumen oil refinery - Ednews.net",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRy1TNlhpeV9mSnN2czFGRFRqdzVhN20ySEhTMHBQdTJneXJRRE1hdmdFZEs1QlFsaUJzNm5KVUNtRGtEaEo3SFltOHptdkhBMUI1VWhLTTdGOUo2akJkRGNDdTNoSVhNNElKNnFCY0JraklsZXJ4VU82NUgwSWQyQ2NYYw?oc=5",
+      "source": "Ednews.net",
+      "date": "2026-07-25T10:09:58+00:00",
+      "description": "Drone crash sparks fire at Russia’s Tyumen oil refinery  Ednews.net",
+      "query": "drone crash",
+      "detected_at": "2026-07-25T15:02:01.163880+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2200e9a56faf"
+    },
+    {
+      "title": "Lincolnshire Police Drone Tracks Mini Moto Rider To Arrest - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WbnNVUGxRaGpRWVZhU0lCM1dvNG8ycER0WWtiSHFWN1pTc0RxeTNMV1JsN05VaG1qOXVlT2hFNTJzYlRnWnVUcXZfMHpEdTRsbGJuZ0huQlBlVlB5MkVSRzdJa1BFeVQyZnRldFlYMnBCQWxuaVUtUjR3VlNMQQ?oc=5",
+      "source": "DroneXL",
+      "date": "2026-07-25T11:58:00+00:00",
+      "description": "Lincolnshire Police Drone Tracks Mini Moto Rider To Arrest  DroneXL",
+      "query": "drone arrest",
+      "detected_at": "2026-07-25T15:01:59.270090+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "6ec9e0b7939c"
+    },
+    {
+      "title": "Pro-Ukraine group claims it helped hack Russian drone air defense system, shooting down Su-57 in friendly fire incident — Moscow confirms fifth-generation fighter jet crashed in 'technical malfunction' - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVmllcEl4UV9HZkJFUjI3SEgwTUstTjZieVg2RHQwYzQ3NXFzN2p0Ql9BRkdOblo0bkpackFmV0NEcVc2ZWhKUFo1LTMyQlA1WHJJdGxCVFhEZGlRZ3lHS2JFY2ZaV1ZoMEVXN1haUmxDSTNENHdrN3NFOWFJXzlvdWF5R09ZSUFlZEp2VzZCdkg0QzBSRVBkNXFxUERLdDZCUmtmNTVEdUVRVlBMSGgxR3VrRlJkWnJ1eHFjQ0dSY0hMaWZBUXllZDJaRDA0Tm8wT2lhci1mcDlqeU5UZWJsUEdiX3hoSVhtdklBZ2ItenpDYVFYX3MyYmpqbV8tTlp2MzhTS2VmMDVSXzN1MkdwRHdKTnN1V1NwTVZCUXpPY0dadFd2dDZtdW9fb1ZyR296Q2VSal9MZDFVLTB4WHRSVURIVldtdTd4NldJOVBtWmV6ZF9zLUxJSzRZSmZEYWpwZW9JMA?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-07-25T10:30:00+00:00",
+      "description": "Pro-Ukraine group claims it helped hack Russian drone air defense system, shooting down Su-57 in friendly fire incident — Moscow confirms fifth-generation fighter jet crashed in 'technical malfunction'  Tom's Hardware",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T15:01:58.683653+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e89e215f87c2"
+    },
+    {
+      "title": "Costa on drone incident: Romania’s security is Europe’s security - Цензор.НЕТ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTNGZkV4MkkzbHNtS3RKUF9sZjdaa29SdG9hTmhZSGQ5X2YwbFhlY0l4TVpOQ3F0U1FkbC1wVXFNNFpCRG1lX0hSU0tlbFJreXMwS3NTbVlWbkNDaU8xWWMwVWZCQ0VHOVhLVG85MnNVZnN3SzlXd3VOLTRJcFlDYlZCZW1QbmdWQkRhcm1ZNlBnRkk1X2pGQ09KVThJR0VYa3g5NlZuSExzMDMxMWZPSG9yczNXMTVvRWdR?oc=5",
+      "source": "Цензор.НЕТ",
+      "date": "2026-07-25T10:52:00+00:00",
+      "description": "Costa on drone incident: Romania’s security is Europe’s security  Цензор.НЕТ",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T15:01:58.683653+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8e0422b93818"
+    },
+    {
       "title": "Romania shoots down second drone after airspace violation in two days - Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXh0ZG9VQUNBVGdwb2plaXdlRmM5OFJyZVVVT0tDQ3h1QVFJNXBNSTBKaVFZQW4wbTcwZHRpZUctWkVSWWZTR0NPcndoRWp0UFdBSUw2NjQ5THRsTU54eEZBeWtaaFVSV1YxODd3UWdDNmxDWk9BNW14bjVzeTNZTUxMTXh5bG9oU09GUElyX2xtdjlr?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "7af7da842701"
-    },
-    {
-      "title": "IE Police Using Drones To Curb Illegal Fireworks For Fourth Of July: Report - Patch",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNaG9XZ0o2cDJBUGV6cFEwSnpqWTJqOF9wdW9JUHYxdHM5blFQNi1STXFPbWkyQkNGY2U1Q0VhQ1VmcXFMV0JyaUR0Zk9pU1UyZGRmRGU5enBWbU1oUEk1RlF0Wml5MW9qMjgyZW9mSlViUmFROFdKOE9ld3V6TGpHTno1TWpILTd1UzQ2THhJV0xPUlRhRTQ4aUdOajNPeDJKemlDU1lmN3BnUmM1U24xRUhjamU5bFJCNlZCTEtWcURwZU44VmdhTUVfN084WFVQTEV4bFpFRU15c0hWWTh4VlgzUVE3OUg2Z2l3Yk5ONDlsbmpMbXhjRDRiTThrMldfamFGVUNXaUkxcEhYTWlkVERNckdxN2szS3c3QzN0MUg0SXcwQ1pqX2pXR2xMR01ndlRQd3J30gHOAUFVX3lxTE5FWnFueWVGMkR1ZFpPVHY3ekxQdWJsOVl1UEVFU1ptdkxpSEdsRHp2M0NsNjhHa1VjSy1mcU1DVkVVZnVZWWxoVFBlOEVEcGJIWU9GN2J5UG1GeFg5MlZaRVRKdzIxblo4bmxJWUp6YmJCQ19WYUh6ejdnT0lfZ2lOSXNZN25MQm1QVk4zZHM0ZGhkOFNhUEJmN0RnREttYmQ2NGRnbjVPSFI2d19meGpFdjRqRHpkckxLRWMwTmZJejd5TmlMMTE4dUFIV0R3?oc=5",
-      "source": "Patch",
-      "date": "2026-06-23T23:24:20+00:00",
-      "description": "IE Police Using Drones To Curb Illegal Fireworks For Fourth Of July: Report  Patch",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T00:49:05.377962+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f2a93940a920"
-    },
-    {
-      "title": "Drones will be used to crack down on illegal fireworks this Fourth of July - LAist",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTJQSlVodGFSQm5kRWRiS2h5YVBCNDV6ZGM5Y0dSRFAzNUxHZWVRS2MxeGlyOUtfT0luOUlwbTNqS2wwRVhZV25xaFVhRnowMHVuOF9iVWJqSW5pcEhRQWswQXlBaHVxTmZqOTBhZkpPUUdvN01hVDMwUkt5cXV4SjJyRk4tMWt0ZHVnRkFDS29TdktNc0Z6dXYtUHRoRWpkNUhxLVJ3?oc=5",
-      "source": "LAist",
-      "date": "2026-06-23T23:33:00+00:00",
-      "description": "Drones will be used to crack down on illegal fireworks this Fourth of July  LAist",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T00:49:05.377962+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "387fcced45a9"
-    },
-    {
-      "title": "Drone delivery of saw blade and phone tied to alleged escape plan by 2 Florida inmates - WZTV",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNWGNnRFJkY0l4elJ6LUpaVXMwX1Vtb0Q1RjJHdWNnMHQ1bkNzUDYweUZWOUg4MkRWSkFELTVZVDl2akRaY2pOaEhucVNzMzhON190SXdDd2p0SmpGZzlRODZYVm80azZNak1SQmNLTENKa19CVWVxTGl1bVZGNlFqOXlRZWpab3ptcEFIXzQzUjhWYndaaFpGcldrTEhPUUc5bHVMR082RzFuMlEyZVR3SmxReDd2OUJRU0tBTmttSTN3SzFURFVEeFFmaktDRlE5ekdETXBEc3VjbG9XMHRfN2lrRW43N0xkSkI2cURWbkpJY0Eyd1pCUlNfOHNvQTEwM2FsWXh0SktCYzFLZjg1X0NfdHVzLU5qNi04dlZhN0NkQXdDcHdydS1Ycm9hZ0dxc1FxSzZUbUhob3NMQU9LQ0plQkxRZG1nYnJERFNMM0tvTkE2LWVWVnc2RWtjN2JGaG5ka18zQnNwblFHMzhjaVVjY1oxaFlRREV4cDlzeFA1blZsUlhyek5EaWUxQ2pYVHdTSHlycVIyaE0?oc=5",
-      "source": "WZTV",
-      "date": "2026-06-23T18:27:00+00:00",
-      "description": "Drone delivery of saw blade and phone tied to alleged escape plan by 2 Florida inmates  WZTV",
-      "query": "drone prison",
-      "detected_at": "2026-06-24T00:49:03.636115+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b14f57f9de3b"
-    },
-    {
-      "title": "Director Patel Describes Healthcare Fraud Arrests - FBI (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdk5HcmxnVTRza2tnZkhaYlM0RGVrNnVqRlU2U3BaaVZrb1YyT3U4WW1vYk51TWtrRFJ5UlN4NHNwZWctMGVJMnNiWlhrYlN5RjhScHRQcmdJZV9MVGktSC0zUndRX3UzczNCN3o3ZThQRlZQZUhFXw?oc=5",
-      "source": "FBI (.gov)",
-      "date": "2026-06-23T19:07:34+00:00",
-      "description": "Director Patel Describes Healthcare Fraud Arrests  FBI (.gov)",
-      "query": "drone arrest",
-      "detected_at": "2026-06-24T00:49:02.612037+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "363b5c07abee"
-    },
-    {
-      "title": "Cape Coral officers arrest man after chase, neighborhood search and drone response - Gulf Coast News and Weather",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOERkbHRzX0IyWWZoUHlxV29aRXdXdlVQN05OcGZsWG9OV2FsNkhpYkJQMjIyNndFNHp2WDN5eEptYVFmYjJheHhTZGhPY1lNWDg0U1lFRGw2QVRhaWR5bWlfbkVYeG9TUVlnU1lkcnFyYk9nZzVxSFlrWEFSblN1SU5UNks5WkNzR290ZHM0VnJ2VVAtdnpyOVhpaw?oc=5",
-      "source": "Gulf Coast News and Weather",
-      "date": "2026-06-24T00:21:00+00:00",
-      "description": "Cape Coral officers arrest man after chase, neighborhood search and drone response  Gulf Coast News and Weather",
-      "query": "drone arrest",
-      "detected_at": "2026-06-24T00:49:02.612037+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5d32e4f9c727"
-    },
-    {
-      "title": "Over 300 Drones Flying Near World Cup Stadiums Seized By US Officials So Far Says TSA - Simple Flying",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkxTelY2Z084SW9uQUJBUHExc1ZUTUhxcnlQN19Lb2s1WmtpNVNCNlhfZ1dUWVVJUWRDVXpoVEk0Vk00OWZIRTBBODRyNlRmZVp3TUtRVEYyR3Q0UjJSdzFsLTFrNjdwMDM4cXZ2X2dKMGtuU2p1TEppV1FpendzbEpsbGhpZw?oc=5",
-      "source": "Simple Flying",
-      "date": "2026-06-23T23:13:40+00:00",
-      "description": "Over 300 Drones Flying Near World Cup Stadiums Seized By US Officials So Far Says TSA  Simple Flying",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-23T23:26:46.143807+00:00",
-      "location": "Near World Cup Stadiums Seized By US Officials So Far Says TSA",
-      "category": "other",
-      "id": "8b16af35070c"
-    },
-    {
-      "title": "Acting Odessa mayor warned after drone strike killed a woman on unauthorized beach - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tUl9zMkFHWldGaktEQ1hJVlpPdnotX3FTODRkZkJZUV8tbzN5Ylo5ZVJ6VmZuNzlOaUNFc0phZkV6MHgzVjF6WDVYZmdnQTc1LUNpRThCTDdqbDU3VzVtRXl0ajRKc0RB?oc=5",
-      "source": "mezha.net",
-      "date": "2026-06-23T19:32:25+00:00",
-      "description": "Acting Odessa mayor warned after drone strike killed a woman on unauthorized beach  mezha.net",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-23T22:29:58.507243+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "6c42a52b795a"
     }
   ],
-  "last_updated": "2026-07-25T13:24:46.652583+00:00",
+  "last_updated": "2026-07-25T15:02:03.672386+00:00",
   "total_count": 1000
 }
