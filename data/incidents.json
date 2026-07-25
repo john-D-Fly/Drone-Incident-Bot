@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Loud blasts heard over Erbil amid reports of drone crash near airport - Rudaw",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZkJiMHB1LUhVX0tVUmVpeGUzSFcyMDFId1JmdGtoU0VJMXJlUXU0MGJub3l3bk0taUNONmJ6Q3FVaFpqQ1VHcWxiRnVfTDJxRThnU251RG95NzZ3RmxFS043T3N3VS1CZlE?oc=5",
+      "source": "Rudaw",
+      "date": "2026-07-24T07:22:23+00:00",
+      "description": "Loud blasts heard over Erbil amid reports of drone crash near airport  Rudaw",
+      "query": "drone crash",
+      "detected_at": "2026-07-25T00:02:30.141607+00:00",
+      "location": "near airport",
+      "category": "airport",
+      "id": "5a8defe01813"
+    },
+    {
+      "title": "Drone helps Colonie police catch suspect - WRGB",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUUthbXRhcU1qOXBzNTVJMTVNY04tQWxCS1RrSGtGbm1rV25aR3VYMGh6eGtLSTJWd3hwN2JQVXIwalZQcmRPNk9Ud0JiU0c5TldsRGcwcmhndjU0VU1LeU1QWV9ZU3NUUzRCZWthNDYzeEhYMUxhTEhJYld6Yjg?oc=5",
+      "source": "WRGB",
+      "date": "2026-07-24T22:49:44+00:00",
+      "description": "Drone helps Colonie police catch suspect  WRGB",
+      "query": "drone arrest",
+      "detected_at": "2026-07-25T00:02:27.801708+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a58bd4b48677"
+    },
+    {
+      "title": "Romania says F-16 shot down drone over the country's airspace - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlc4bDgtYnpqVHJ0cVM0T01HLVpQRHZoZTVQcUxfMW9TeF9rOTNEZU42OEFlOXRNbG9XQ0o2Qzg0MDhrckJidzg2YVRoZDg5VGJNajZQMmVBby13MmRnR0YzY3AxVHZIS1pmeVVYMzRNRmF4X0FaZ2hmWW9SVW5hYkxWbmVCZjZRQk5kWV9iRTNnU3lnaDdreDR1Y1RoU0NSaU5KaFlB?oc=5",
+      "source": "Euronews",
+      "date": "2026-07-24T10:03:22+00:00",
+      "description": "Romania says F-16 shot down drone over the country's airspace  Euronews",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T00:02:27.197766+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "341b7fc38a70"
+    },
+    {
+      "title": "Romania Downs Shahed-Type Drone for First Time After Airspace Breach - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtclhSTlU4VXA1VjN6N2c0RUtQR21mX1puS2d6UERtVlRKT2hSdFdQWGxta2NXSUhIV010dnlKcHpMbHlUWGNqSWg5TQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-07-24T22:28:29+00:00",
+      "description": "Romania Downs Shahed-Type Drone for First Time After Airspace Breach  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T00:02:27.197766+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f1d7ee44eb70"
+    },
+    {
       "title": "Shahed-Type Drones Filmed During Mali Village Attacks - Bellingcat",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckUyN19wM2RoMjRxQnQwSFBYMlhwQjVYNjloQWdsWURudUdRR25Ga01fVFE1VkYwTzlsTF90RzBfcVNzNlA1bldrRk1oYVAya0tHVVBmcnB1RS1sV182aVBPOTNGWGxoOW93XzNBVW94blhHT2E3ZTdlaW5CQjJMN0NNUUptSXlSWTBMTnB6alphLU1zbW1KcDlGU2dWS0g0RVE?oc=5",
       "source": "Bellingcat",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "2393870ca256"
-    },
-    {
-      "title": "Downed US pilot saw Iranian drones swarm in 'jellyfish' formation - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUHVya0N1RFlyazNseWQtN3l5b3J1THFPMkJsZ3lUNzctaE5sUVFpa0Q4SU1reDVhTnBpZnhCbWEtVkM5cTFPRVpQdUJlYlNicGdKSVpzQXY0TkQxSG1jdHJhZEY1SlF6Q3c?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-06-23T09:37:19+00:00",
-      "description": "Downed US pilot saw Iranian drones swarm in 'jellyfish' formation  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-06-23T11:05:49.789254+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b20453050818"
-    },
-    {
-      "title": "Lithuania Intercepts Three-Meter Smuggling Drone Equipped With a Parachute - REFORM.news (ранее REFORM.by)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0YxUjRJWG5CVHVjZlk0N0dMWUZqSEduVG40c3pWSVZLTlB5WVI5QjVmM256SFBwYkhGMjk0d3JyOXhiSE9ycnVJWnhyb1ZwczFvWko0T2MydGQ5TGEzMjQ4WDFUVnZKMHB6cEROZl84Wk5WWnpranJ1Y0NCTDhtaFlCRnVyMXhHcmdHdTNMTDBETXFXekd2eXlOY0ZIQUnSAaMBQVVfeXFMTklocWE4V25rNHpwazJzQ0JGc2M3NUtsaEhOUUgtTzRDUDhtNWJrck11cnN5N0NxYURYM2l2RkZUVEVCT3pLRnpncUl2azFWYnpldDdJZ1BEZnpmQXB0TmhEdXdIbVhuTENHWjQyYkZUb1NDOWhSMC1sZG1kbWdod20tSUZiNXo3UlkyQ0ZxOEFmR0ZOZm01OEtEbHAyNWoxd2pDUQ?oc=5",
-      "source": "REFORM.news (ранее REFORM.by)",
-      "date": "2026-06-22T16:39:27+00:00",
-      "description": "Lithuania Intercepts Three-Meter Smuggling Drone Equipped With a Parachute  REFORM.news (ранее REFORM.by)",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-23T09:12:52.294354+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f289d153cac6"
-    },
-    {
-      "title": "It appears there were actually two drone strikes at Latvian fuel depot / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUNMOVVucEhzYVhpVkM2eW5BcmkyN2VGUjd3TGZTWVVxZmg2MVhhcEdweXFpUS1wZ0hQZEhieVdYMnVHWERPX0UyUmNvWkxyRTk2ek1OcURvZkE3OGI0MThsaFRmaUVuOVlzclRqQ083UjNOOUpUa29ORGltQVJraFExdExkby03OEZUcUZFN085c0Y1NG02RG1hdG1feGk5ZW5WNzQzTnVnUUM0UjBuTGpwZHF4a1FlbzRKRzhuZktIdE1pem5XUUNhbjBiUQ?oc=5",
-      "source": "LSM",
-      "date": "2026-06-23T07:54:43+00:00",
-      "description": "It appears there were actually two drone strikes at Latvian fuel depot / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2026-06-23T09:12:50.990818+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c7bb871214d3"
-    },
-    {
-      "title": "Fighter drones and a look at the new Global War on Terror memorial | Headlines - Federal Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1Y2dDlKTnBaNjg4WEdRWmRJQjdDUmViYnU4djZNbm1QOU9iUWJOaklIeWhZenR3QWFpNVBhUzZXV0t4V29YSWxXeDNzYlV4UjNsM1NEak9BR29sV1RDd09zU1RBZGsyWmZ2dUFfNnBqYTB5RFJSVS1zR2NTOV84RFhmYkxOLXJZQmFGOGZTUUUxZGo5VG96b01Ya05qOGh4QURCX3lXMHQzbE1GMUxxRWoxbDhLMDhDZ19ZeXBaYjc?oc=5",
-      "source": "Federal Times",
-      "date": "2026-06-22T16:50:26+00:00",
-      "description": "Fighter drones and a look at the new Global War on Terror memorial | Headlines  Federal Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-23T05:24:54.970121+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "8e8a9eb6b271"
     }
   ],
-  "last_updated": "2026-07-24T22:03:39.131899+00:00",
+  "last_updated": "2026-07-25T00:02:32.845888+00:00",
   "total_count": 1000
 }
