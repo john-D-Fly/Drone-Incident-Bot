@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Romania shoots down second drone after airspace violation in two days - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXh0ZG9VQUNBVGdwb2plaXdlRmM5OFJyZVVVT0tDQ3h1QVFJNXBNSTBKaVFZQW4wbTcwZHRpZUctWkVSWWZTR0NPcndoRWp0UFdBSUw2NjQ5THRsTU54eEZBeWtaaFVSV1YxODd3UWdDNmxDWk9BNW14bjVzeTNZTUxMTXh5bG9oU09GUElyX2xtdjlr?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-07-25T11:07:32+00:00",
+      "description": "Romania shoots down second drone after airspace violation in two days  Latest news from Azerbaijan",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-25T11:09:22.869377+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "84eae1e8403f"
+    },
+    {
+      "title": "Drone crash sparks fire at Russia's Tyumen oil refinery - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWIycXduVFk4YzRyMG84NFdESF9LYnZfUE5CamxTbnFORjlILUhmQmR6dGFXV2hJdEZlaURRODF5elRWTnVrQ1Q4YzFrakVZbTZIaVpKU3NBODluSGRkZ05tQ2hnUDVMNVBOd3lYSWdPaFMzZHYyck5QUzNDdHNwVG9yVFk3TWhBWVlvY2NQYVJBcC01QkhHb1dQdw?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-07-25T10:07:18+00:00",
+      "description": "Drone crash sparks fire at Russia's Tyumen oil refinery  Anadolu Ajansı",
+      "query": "drone crash",
+      "detected_at": "2026-07-25T11:09:20.834367+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "94a8e9ddd9c4"
+    },
+    {
+      "title": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75 - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVNGa1VFMHdxWWVEWFVSaEdaQ2JpVEdCdWluVU1kVUdnQ2hnWDJCbnZFYlc0bHJ4NXdqSWpmZXI3aHI4VWZNb1pLZENRa2c0MWtRZUdHN2xFcHFjWDR0UGFzN3dWTU9vRDc4aE1pVG1FLW9sNnRpM3hleDYzc0lONG5PVzQ?oc=5",
+      "source": "AOL.com",
+      "date": "2026-07-25T09:16:57+00:00",
+      "description": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75  AOL.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-25T11:09:19.301568+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "bdfd682ed09f"
+    },
+    {
+      "title": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTFqVzhxWF9JaWl4THNtMGg3aGFpdWN2WDFBNW1tRW1ZcmdtTi0xWmV0V2w0ZGd5VFJKUUcxd1VlRFdjY2FLUHZtLUNzTHphdkdhSFJRdm4xeVZwLU4ybll0TnBoNHdOU2RDWFpHalNvdWUyaGwtNThaZkdrekpxMnB2TWhZVjNSTERuQ2JpbGRqWUNlZWF3OERQRWgzSHpyYVl3Ql93VGl0WlHSAbABQVVfeXFMTmF1OHJkM19UYmFHeWc3eGVVRV9HOE1Ld01RcW9MSFhFalRUVmE1MFVvNmZicFdWN0EzMmc2VzVaSG1laHRuaVNIdl8zUFFadElzdDhMNXF0V09nWmtuc2pObVhGWXN0MUNZdl9zUjNJWnJLRDRUVHljQlBHSm1LSXlOcFlrVUhqTHQyV2Y5YWxTeEFIMFJJSUNRYkM4aW9mMEx6dkJHTHR4dW1uU3NKOGg?oc=5",
+      "source": "Fox News",
+      "date": "2026-07-24T15:42:02+00:00",
+      "description": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally  Fox News",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T11:09:18.156724+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "62b455ea36bd"
+    },
+    {
       "title": "Fire breaks out at Tyumen oil refinery after drone crash - Apa.az",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWZpMk03UzI3SFNzVkZGSzVnUkR4MG9wZXR6WHRVc1g0bXZPaWd4TjUzU1prdzZOUUsxWE9RUWM2SlV0aEtFSF9VNUFyRGtfSThpcjlpN0syOGthNUtPZWJpR2xYMi1uN1VLVEY1cmo1bU5oclZmdWlyZXhfUkEzYmNrX2V3R2tSVHJEVEpzdy00a19qOTVVMFVNdw?oc=5",
       "source": "Apa.az",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "2b067e187051"
-    },
-    {
-      "title": "US fighter pilot shot down by Iran describes alarming 'jellyfish' drones before crash: 'Real alien s--t' - nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOERtSDRXRnNNNDkydkxJd0pXRjhnVXhjcEUyNnA5a2VyT0lpSS12RG5FV2l2TWhXRkx0d2NlamotcUc2VzNMQ1NDYTh2S2ZjTDhISDdrNTlVVHFLZU12aW1oVHZwT2M0M2xzWlFrcGZQWl9tbVlRa0xPdTlFNVVqZTZhZ0NET1E4MzcyeEdOdFo5VkZPQzhNeEFuWFk2bFNjWmF5MDhmX01sd0cyV21rYTR2MUtXSGtqUUZSMEswMk94SFhiWm9mZGZWR29hckVPMS1TbEduOA?oc=5",
-      "source": "nypost.com",
-      "date": "2026-06-23T11:58:33+00:00",
-      "description": "US fighter pilot shot down by Iran describes alarming 'jellyfish' drones before crash: 'Real alien s--t'  nypost.com",
-      "query": "drone incident",
-      "detected_at": "2026-06-23T19:38:49.270070+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "8810c5f851b0"
-    },
-    {
-      "title": "Drone delivery of saw blade and phone tied to alleged escape plan by 2 Florida inmates - WUHF",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNdXZldld4OGV5cUp4WjRkLXdtSnRJa3pPVkt4clEzd1FWLUQ1U19Gb2pyS2huTF93aFpvTzhOT0ZYLWdid09pelFWT29GV0kwbk8yeDJiQWVaZ1NsSENSOGVEeG1qQ0x2Q0lNUHJHOW9KcGVMOWo5NEViTHpPVjhVQTVBVE1IZm9NS2NiV1FMREg5b21xd1pia04yNDlvMWI4OVlKc01NcFg1TDlNV0lUTmdLOURGU0lEMDN2TVZVNUpZRngyM0VsMHpkYzUzZHFOOUIxMFg4eHdEaWxyS2Y5Nm9YUmhmTFJFb2RUUEM5NjdCVzJOaU5jQ05GaWZlVkgta2R6ejVuZmpBNGxYRDVGOF9rSkpjMkFJeE8xRWluNlcyZFB3VWc1LTlld2RkYkhUNkRlSTBDYXkyLTZYcGVCaklHRTJRZkVZS1J3Yjdyc0VRaGJKNkQzN1YwdjdsM3cxbFhoT18yZEsxT0tTV3ZHcVVNZUxNU1hMZ0JEMG0wZmpSRVF1U2FzclFiT2hMWlNCcllfbmota3FqVldqeThhS0pWdDQ?oc=5",
-      "source": "WUHF",
-      "date": "2026-06-23T18:36:21+00:00",
-      "description": "Drone delivery of saw blade and phone tied to alleged escape plan by 2 Florida inmates  WUHF",
-      "query": "drone prison",
-      "detected_at": "2026-06-23T18:46:25.531098+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "86f41d545c09"
-    },
-    {
-      "title": "World Cup 2026: United States authorities seize more than 300 unauthorised drones - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cEdDUjdPcGRzNjlYaFduTkZ4R1A3NDZVQ3dGcHJnMGJ4TUhsNlRqOFpVeVgwTXgzOExUenpodmxxVU4tWklWSEhmYkpMM2xpZGNrNEVNN3V2N2pva3RRdmNmRmdHYU12Vnc?oc=5",
-      "source": "BBC",
-      "date": "2026-06-23T17:32:15+00:00",
-      "description": "World Cup 2026: United States authorities seize more than 300 unauthorised drones  BBC",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-23T17:37:43.419811+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5c9957b72356"
-    },
-    {
-      "title": "Chino To Deploy Drones To Catch Illegal Fireworks Users - KFI AM 640",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlFkaC1wU3poRUV0LU5pcGF4SnlId21lMFRvTG9ndmJDNzNmUmFKSXRrSl9SejVQaUtPU0FsMzR6UExUOXRXUGltbU1XZC00RDFOR2FYMk1iWUtVOGE0d0l3c3pOR2dvUmdKOHNzdlVSdkN0aWRqZlpOVWl1SDZDYUdBS2VjcDlJX0FnUmp2Z3J5TDBFVDVYVnhDM2RXd2RCd1B4Q0tn?oc=5",
-      "source": "KFI AM 640",
-      "date": "2026-06-23T17:30:00+00:00",
-      "description": "Chino To Deploy Drones To Catch Illegal Fireworks Users  KFI AM 640",
-      "query": "drone illegal",
-      "detected_at": "2026-06-23T17:37:41.792748+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c26262c63216"
     }
   ],
-  "last_updated": "2026-07-25T09:46:29.113604+00:00",
+  "last_updated": "2026-07-25T11:09:23.381575+00:00",
   "total_count": 1000
 }
