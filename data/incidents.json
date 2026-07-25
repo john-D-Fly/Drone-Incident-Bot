@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "At least 14 dead in latest attacks between Russia, Ukraine - CBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tcWRwTTBXZGVhY0dFVGRfSmlpWnI4dks1MkxWM25lQS1aYTR5eklidk5uM09KMmNpY3ZJeU9Wc2Fiek5FaHBSVklBSFhWSU43cURiOTY1MVhiNHNHT3I5T2stY3I0NnNLc2Z1OTJNcEZzWW5V?oc=5",
+      "source": "CBC",
+      "date": "2026-07-25T16:18:34+00:00",
+      "description": "At least 14 dead in latest attacks between Russia, Ukraine  CBC",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-25T16:56:37.612913+00:00",
+      "location": "in latest attacks between Russia, Uk",
+      "category": "other",
+      "id": "11ae6a15a104"
+    },
+    {
+      "title": "NYPD drones help catch Brooklyn teen subway surfers - News12 | Brooklyn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVBPYUJyZmFwODBkWlZkSVlYSTNtaHFqX0U2OVJvQ19hV0VtMU4zbUljSXNoUWhGa3d2MGVpa3pCLVhnNGN1M0xBc2RtZHhjN3JOdFZYTXVGcktuLTFLVjloUFpXSVBNdmhidDl6a1hVajlRbTU1cXhDYU9zWHBXcHc5WDV2dw?oc=5",
+      "source": "News12 | Brooklyn",
+      "date": "2026-07-25T16:20:55+00:00",
+      "description": "NYPD drones help catch Brooklyn teen subway surfers  News12 | Brooklyn",
+      "query": "drone arrest",
+      "detected_at": "2026-07-25T16:56:33.732738+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fe729f575215"
+    },
+    {
       "title": "Romanian F-16 shoots down second drone in 2 days after another incursion over airspace near Ukraine - Euromaidan Press",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWwxY1VHWHN3em83ZW0wMXhaMVRmNnlsODFHZFdqNUxla2lwMHhCNjJ5dVBPdTVvY3VTOC10U21YdGktcXB3dVJ3ZTJnT1ZtRThEcWRkc1dHem9JVXBzbmh6R3ZVc1ZnX280TG92alI0eDkwZzNsSjFqYmp3TENJMFZPQ3ZYbnNqY2tVb0xDMHU2UQ?oc=5",
       "source": "Euromaidan Press",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "15cc4bae2f69"
-    },
-    {
-      "title": "US jet pilot saw drone swarm before crash in Iran: Report - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQeFdybHFGc2pDejVZOVIyYjhFZUpSR0dha1ZOa1kzSDRFNTdCeXE0M2RwbEp5S1NkTWlZYzU4d2k2UnQ4Q3RIdkZscXRjVkVQelZTMmZSWGRRY3lzcU1EeEpBNEo3MWh3aEFEdXRfWXBfYkpEWGM5Q9IBfkFVX3lxTE9CQkhGRlZNSVlhUUgwaUtJSnpCeG91UV9mS21hZGwzR2FHVmhZd2JDNDYwOF8tMUZHLUFld0xCUzNYcFZTNWU3RFVOY3k3NjlRZXJDQ0h2dTlaUWlhTjBIdXpOblRXTC1QWFJSUE1qTkNadHBpNU9IVDZTSC1Tdw?oc=5",
-      "source": "NewsNation",
-      "date": "2026-06-24T01:54:15+00:00",
-      "description": "US jet pilot saw drone swarm before crash in Iran: Report  NewsNation",
-      "query": "drone incident",
-      "detected_at": "2026-06-24T03:11:34.647921+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "58e256a3d291"
-    },
-    {
-      "title": "$100,000 Fines, Jail Time, Seizures: Inside the World Cup's No-Drone Dragnet - Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ21YcW1PS1I1ZDhCOWNQRW5nWXJqak1PX0tFWVh2a0l1WTE4TmpEcXhBa1ZRZEptVW1yTUd3SGJNN0lOcE50NHlrVFg0SkYwTEM4X0dUQTVuQlBGTl9BWDhCSDFBek9XLXlicFZqS2Z5aHU0SGt3eU1ITzZJenpKSk5IXzlNb0QyX0N1Wk5ueE9ZNy1RanlMaTJYM0dENFpkaXJVTjFpYlhmZU0?oc=5",
-      "source": "Latin Times",
-      "date": "2026-06-24T00:55:52+00:00",
-      "description": "$100,000 Fines, Jail Time, Seizures: Inside the World Cup's No-Drone Dragnet  Latin Times",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-24T01:41:58.998945+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7af7da842701"
     }
   ],
-  "last_updated": "2026-07-25T15:02:03.672386+00:00",
+  "last_updated": "2026-07-25T16:56:38.772632+00:00",
   "total_count": 1000
 }
