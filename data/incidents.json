@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Fire breaks out at Tyumen oil refinery after drone crash - Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWZpMk03UzI3SFNzVkZGSzVnUkR4MG9wZXR6WHRVc1g0bXZPaWd4TjUzU1prdzZOUUsxWE9RUWM2SlV0aEtFSF9VNUFyRGtfSThpcjlpN0syOGthNUtPZWJpR2xYMi1uN1VLVEY1cmo1bU5oclZmdWlyZXhfUkEzYmNrX2V3R2tSVHJEVEpzdy00a19qOTVVMFVNdw?oc=5",
+      "source": "Apa.az",
+      "date": "2026-07-25T08:53:00+00:00",
+      "description": "Fire breaks out at Tyumen oil refinery after drone crash  Apa.az",
+      "query": "drone crash",
+      "detected_at": "2026-07-25T09:46:26.541865+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "69472ffd85ea"
+    },
+    {
+      "title": "Thai Authorities Seize Advanced Drones Intended for Smuggling into Myanmar - Karen News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUxEdlRpdnQtaGJjUURscjV3TW02Rlp1aHpWT0wyeGtrZ0thZEtpX1l2cG9wUV81d2l5b3VZa3RoWVRHNVVRYm1xVWJNODFXa0FOb01sbm15aWlRMzZBVkJfWllRa0VUOC1oY2UySDNaN3pqLW1BNy0wT2t3OXItMUNsMTdNSkFYOHpOMjRPaHhiVFFKSFhkbDJSR1FobjVkem96WllxS0s?oc=5",
+      "source": "Karen News",
+      "date": "2026-07-25T07:09:23+00:00",
+      "description": "Thai Authorities Seize Advanced Drones Intended for Smuggling into Myanmar  Karen News",
+      "query": "drone smuggling",
+      "detected_at": "2026-07-25T09:46:25.019457+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b5b8dee239bc"
+    },
+    {
+      "title": "Erbil Airport Says Flights Continue Normally After Drone Interceptions - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYlVqYjRvalUtSzFtSUMyLUZ0N0xXQzVEdjdPbmNkQ2F1ODRkN2Zpd0tQME1YWDN1bWNJdElyQTRPYlhuSV9NbnFYWkdUa1VqSk0zU3ZMNHZNMGV6Y1VZbHhtdENLLXpDenlodHo3Tmp6eXFwUS1yb0czOEgtWkRhLVdPMW1nUTVfZEdBSGxBdVBrLVoxSTE3cEszZG14aHpPRVJueHBpb0ZITmdvLXJZX3ZNbnE?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-07-24T19:57:03+00:00",
+      "description": "Erbil Airport Says Flights Continue Normally After Drone Interceptions  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T09:46:23.960541+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "e08460f90af0"
+    },
+    {
+      "title": "Romania Shoots Down Second Russian Drone in Airspace Near Ukraine - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGNjTjhPZlZMSEluNW91UXY4eDhPanBwYzhuNG56RG4zQWpXQkwwM2tKVG9LdUlLZ3MxMzR2cUdJbGdFR1lFd1hjelV3R2M0QTNzNjJZM1FZc1FGdl9zUW5icVpPdlp2U09reWdVdEZIWHZwRHhuY05XUVU3Uk55V0hBbjlKdlRTMkVJNnl2V2xnQzBH?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-07-25T07:27:48+00:00",
+      "description": "Romania Shoots Down Second Russian Drone in Airspace Near Ukraine  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-07-25T09:46:23.960541+00:00",
+      "location": "Near Ukraine",
+      "category": "other",
+      "id": "5e9235ee3a9a"
+    },
+    {
       "title": "Drone crashes near Erbil airport, flights temporarily suspended - ایران اینترنشنال",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZHRTSWJJOW1XZUlpSHczQUQ1dGx3eEYxdDg5M3EzaFE5VFlsZV9obERIeHRsekFwWXE4b1NNTE55Z2Q2V3pBam5wMDRBYzN1TkE?oc=5",
       "source": "ایران اینترنشنال",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c26262c63216"
-    },
-    {
-      "title": "A knife, a magnet and a drone: How Sacramento deputies made an arrest - abc10.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVVZyM1JPeElqOFNLQ0k5elNETXRnRmN5cDhUSW8yRHNuZjhnYWpRY3JnNWExNTdQb1hqX0pDRTZxUGFaT2F2blN5bUNKaVRidzFvMmNmZmdsNFMxcUxIZEVWSTQ0bHMyZXZJZFJRd1VTUG5jTjJscVNZQmlmdW5neEFxY3FWNS1yQ05KdFF4bk0yZGhzZkIwR0JZdGlHLVBtanA4WkpsaUNBNUVKdUNTRklMOUV2QnV4V1lDMWNYdTZfSFh6RUxaWWxSRnRqMG5uU2lLMWJ6X2Rodw?oc=5",
-      "source": "abc10.com",
-      "date": "2026-06-23T00:43:00+00:00",
-      "description": "A knife, a magnet and a drone: How Sacramento deputies made an arrest  abc10.com",
-      "query": "drone arrest",
-      "detected_at": "2026-06-23T16:52:09.554357+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e685a911abc7"
-    },
-    {
-      "title": "F-15 pilot saw Iran's 'jellyfish' drone formation when jet was shot down during Epic Fury - report - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUHVya0N1RFlyazNseWQtN3l5b3J1THFPMkJsZ3lUNzctaE5sUVFpa0Q4SU1reDVhTnBpZnhCbWEtVkM5cTFPRVpQdUJlYlNicGdKSVpzQXY0TkQxSG1jdHJhZEY1SlF6Q3c?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-06-23T10:07:39+00:00",
-      "description": "F-15 pilot saw Iran's 'jellyfish' drone formation when jet was shot down during Epic Fury - report  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-06-23T16:52:08.944665+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ce89bd1e484d"
-    },
-    {
-      "title": "Illegal Drone Fliers Arrested During US-Australia World Cup Game - NEWStalk 870",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MWjc2eE5EUmZIODI1UVlpd0VfdzRUNlJublF1alVaaFdfeTExdnhJWTk2R0tnQTU2Q3VRajZudU9nOTFHWkthX0J6N1R0TjZGTU9oLTJSazVBUVNad1RCaTdxcVhoOVRLUjZyREtB?oc=5",
-      "source": "NEWStalk 870",
-      "date": "2026-06-23T12:45:52+00:00",
-      "description": "Illegal Drone Fliers Arrested During US-Australia World Cup Game  NEWStalk 870",
-      "query": "drone illegal",
-      "detected_at": "2026-06-23T15:04:29.508491+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "312cc2e7fe3b"
-    },
-    {
-      "title": "‘Real alien sh*t’: US pilot downed over Iran describes ‘jellyfish’ drone swarm - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxVTB2bEd3cENLRUJsQ1dvb25XSmdZa3NsdUc4anhxSUl5YTI5bXhnLVZJSldySnJiSFhkc3JUTDk3S3RfWWF4MjFHeXNZRmVqd0hlVnN3?oc=5",
-      "source": "Ynetnews",
-      "date": "2026-06-23T13:21:00+00:00",
-      "description": "‘Real alien sh*t’: US pilot downed over Iran describes ‘jellyfish’ drone swarm  Ynetnews",
-      "query": "drone incident",
-      "detected_at": "2026-06-23T15:04:26.020167+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "97006b8ae883"
     }
   ],
-  "last_updated": "2026-07-25T07:15:50.584644+00:00",
+  "last_updated": "2026-07-25T09:46:29.113604+00:00",
   "total_count": 1000
 }
