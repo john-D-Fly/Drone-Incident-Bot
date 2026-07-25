@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Why did Romania shoot down another drone after an airspace violation? - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHpHVVpDQnAwQnBNR0RZZjJFMldRTGdHNHp3aTFzUXR4ZEt5Um9jbmRyV2tfVjF2ZW9zVjVjQWhiZzVDeHczVkg2NnB3UVFrX3BDZ0lXYjJlMWQ3YUhldHBGV1FQX2NXd25GSEEzRjBFY1gzQzZrQmxLSlE5ZHpXQWUxUHUzV3lvNmEzUTYxQnlqQjQ?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-07-25T15:46:23+00:00",
+      "description": "Why did Romania shoot down another drone after an airspace violation?  Latest news from Azerbaijan",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-25T17:59:13.182537+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "39be9ce46b4d"
+    },
+    {
       "title": "At least 14 dead in latest attacks between Russia, Ukraine - CBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tcWRwTTBXZGVhY0dFVGRfSmlpWnI4dks1MkxWM25lQS1aYTR5eklidk5uM09KMmNpY3ZJeU9Wc2Fiek5FaHBSVklBSFhWSU43cURiOTY1MVhiNHNHT3I5T2stY3I0NnNLc2Z1OTJNcEZzWW5V?oc=5",
       "source": "CBC",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a182c8cbdd74"
-    },
-    {
-      "title": "Authorities arrest 2 more suspects in planned attack on Trump's UFC show - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRk4xRVBFSkRmRWtzeDAxZlI0NUR6UHlMQmtJV0FWclJlWlozWWhsYUhSelRsalNSeV91OGJYREVfRjhFRFl4V2ZSQTc2TVpTTWJKaFUyU1F0N01hZDhPR2NNZXdSUUxhQkZDOFRQVWl3QmE1eXJYQk1FdDFwU0NEVU9wa0l5WG1QQ3lwUFNITG9JZw?oc=5",
-      "source": "NPR",
-      "date": "2026-06-23T05:53:42+00:00",
-      "description": "Authorities arrest 2 more suspects in planned attack on Trump's UFC show  NPR",
-      "query": "drone arrest",
-      "detected_at": "2026-06-24T05:23:29.810259+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "15cc4bae2f69"
     }
   ],
-  "last_updated": "2026-07-25T16:56:38.772632+00:00",
+  "last_updated": "2026-07-25T17:59:13.731199+00:00",
   "total_count": 1000
 }
