@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "How the NYPD is using drones to catch subway surfers - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDdnSWIteWstVEZqbVprWHZfWUYyRUFGZ01GbkMwX2d1TmhFQVB1blppd1N6RDlVMVEtaHVZZ3NLYWEzNzU2aTczMWIwbTlIby1aenFBb1dsRlJpUjd4QUhpT0FOMUZOdVNLc3FBV3RQWWh2c1lZT3ZTcGZzNGFoWjZ1bl9vUdIBiwFBVV95cUxQRlAtOXYtdGg1elNGNklQejVpNTB0OUZ3QWhjcWRsd3doTTNrQ2ROdHNJR1lVZEZmZ0duWlBTUEVINC15YnVkdjZ6NWJVcHg2NkJQU1o5VlZ0MUplYkw2bi1Yc2cyUS1xaF9IOTlPeDJ0SjQ0YVZnVXM2bE1HMDIxU3A4TU5SdUxCVEpn?oc=5",
+      "source": "ABC7 New York",
+      "date": "2026-07-26T02:48:45+00:00",
+      "description": "How the NYPD is using drones to catch subway surfers  ABC7 New York",
+      "query": "drone arrest",
+      "detected_at": "2026-07-26T04:24:34.804297+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eaaa3bf2eb57"
+    },
+    {
+      "title": "Latvian Defence Minister Sprūds under pressure over drone incident / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVkM3pMektjV0Y2QUxXbVkyMWZKRGVBejcyekxzSUlzYjFxbGJLbEx2QUpwcnFaQk12VV85aFdIVVI4eno1TGwwMzhGWFhZU2RwdXNtaklEQ3V2aU9EQU55R1JVNm1DX2pndXRtQWdTbGlVaE9aTXFkd3NDRlBjaFo4NUd0RUV6NmJvb3Z1bEptem1nMzFIUTN5ZnpQRHpNQXdrS1pqakJtUW9lN2NWaDA3UGlMSG1JbmV5ZVg0Rko3MUNlS0lqNy1GVQ?oc=5",
+      "source": "LSM",
+      "date": "2026-07-24T23:10:26+00:00",
+      "description": "Latvian Defence Minister Sprūds under pressure over drone incident / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-26T04:24:34.194052+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fd4009c406f5"
+    },
+    {
+      "title": "Romania shot down a drone for the second time in two days following an attack - Інтент",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNVFLN2Z5UThVTGM1Wi15NHNMVERWQTd0NHFvUE8ycGMxSF93UXQtSFVFNG9QYkc1VU9jR1BvbG5mVVEzUFJYM3hVYVgweldmYTJxR0VKcG9WS055X090MmRualdHb29GekJndXpfX0x4Yk00NFlBMXpvcVlodU9CRVY3QTU5WmQtOXVHaDg3cHdoZTdJRGtxYk1hQzd5Q3BqaU9fTlhpbVN1em5keGRpcWxGUWJCbE1DZ2Jub2hNSnFyNEVtQVhPQU1Lc0h6VDlJcWVPT3pUWHRlS19KdG8zQ1lIUllOSTNCbUh3aGNHT2RPcEdRdVR1TjRn?oc=5",
+      "source": "Інтент",
+      "date": "2026-07-25T07:57:47+00:00",
+      "description": "Romania shot down a drone for the second time in two days following an attack  Інтент",
+      "query": "drone incident",
+      "detected_at": "2026-07-26T04:24:34.194052+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8f74a955ee82"
+    },
+    {
+      "title": "Israeli authorities are investigating the crash of a drone near the home of Itamar Ben-Gvir in Hebron - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORTJzVF8xSFpnR1NSdkdYQTkzbENkWGhOelVtcnkzRjZfTzFuYlRZd2hlaUJ6YnNFdllNdUhVWmxxUEFJNXZWRGxpRFdhUzN3OVZzWG85aUFmRTYyVnBqUVlZeUhGZHRqcDRzbVQySFZxOHlBYklFYlMwNlR4TGJGVlg3MTlzY1FEWnFvalZSclkwVXlWS3RoZkE2ZFI2d1F6d1lkQjRtS2FpMmV5MTQ2Z3NpZnZUT3lkVEpGZnl4dHgtWGtkeUNobDRhczN6OHI1QkJJeEt3YkZESDBKN3lJRENTSHc4MVRM?oc=5",
+      "source": "صوت الإمارات",
+      "date": "2026-07-26T00:38:11+00:00",
+      "description": "Israeli authorities are investigating the crash of a drone near the home of Itamar Ben-Gvir in Hebron  صوت الإمارات",
+      "query": "drone incident",
+      "detected_at": "2026-07-26T04:24:34.194052+00:00",
+      "location": "near the home of Itamar Ben",
+      "category": "crash",
+      "id": "61bdce509fdb"
+    },
+    {
+      "title": "Drone falls near Ben-Gvir’s home in Kiryat Arba, no explosives found - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NNFQ4WEtBbzNqeUNuZzBvUlA3ZFlIUXY0ZlVYeG12UUQwYjZSWmhlUzFQUGoxZF9mTVN6V1p6MkFuYnYyTTdDNDZObVZqbkdUdmtkRkNB?oc=5",
+      "source": "Ynetnews",
+      "date": "2026-07-25T19:37:25+00:00",
+      "description": "Drone falls near Ben-Gvir’s home in Kiryat Arba, no explosives found  Ynetnews",
+      "query": "drone incident",
+      "detected_at": "2026-07-26T04:24:34.194052+00:00",
+      "location": "in Kiryat Arba, no",
+      "category": "other",
+      "id": "5a7b3d4f0588"
+    },
+    {
       "title": "Drone crash in Ben-Gvir's neighborhood caused by local youth, not terrorists - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wYzAteVhGclZhLWlMb3ppV2pRSU9GSjd4dWtIUVZDang1TjViV0hfSTkyR2JOMzdaVmlyQVI0M0lXTEtjcUtxUUcyX3dWVkFWTDJmVWNvVkVSc0lR?oc=5",
       "source": "The Jerusalem Post",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "0dbd0c3dc332"
-    },
-    {
-      "title": "Drone Drops Smuggle Drugs And Contraband Into Hudson Valley Prisons - News12 | Westchester",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGtrWmRJQm9IRVdITWhHYjhmSV9MdnA2c3YzYnUwZjAtNEJRVndNZXlCTE0ydjdnUFhLZzgtYzl0Y2xHcjZlR1N5b0ttMXMyTUZwdlNvQnlLOFQydXpwY1ROMVhUalJ5WnQxWWtzaXdmMlJGSDFrbVJTWTBleVJSU3V4bUhHYmktWWxUZURONFVOTi03TlM1cUJadWphRTA?oc=5",
-      "source": "News12 | Westchester",
-      "date": "2026-06-24T12:11:23+00:00",
-      "description": "Drone Drops Smuggle Drugs And Contraband Into Hudson Valley Prisons  News12 | Westchester",
-      "query": "drone prison",
-      "detected_at": "2026-06-24T12:49:39.735433+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "8cc00e9255d7"
-    },
-    {
-      "title": "Back-to-back drone crashes in Turkey's Black Sea region - Bianet",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTZDOFBNNlpPVjVHN2dlYkR3cU9ZQk9wZU5Oa0NQRUVtYlYwMXVqd29UYlEzdFdXVE5BXzBmazJRUE1CdWNaYlEteXhzT05renM0MXIyLXlMU0ZWQm05WWpkN3RILUloU3FnbDJ3MTBLV3M5bDQ1WmljRHBDX3RGWk5yc2FsSHp4c3o5MTZ2c2c?oc=5",
-      "source": "Bianet",
-      "date": "2026-06-24T09:40:00+00:00",
-      "description": "Back-to-back drone crashes in Turkey's Black Sea region  Bianet",
-      "query": "drone incident",
-      "detected_at": "2026-06-24T11:04:06.242853+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6a1030d50c01"
-    },
-    {
-      "title": "Russia is Fitting its Drone Boats With Illicit Starlink Terminals - The Maritime Executive",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzBhTk5raTlxa3h4bGhac1ZzcFFIbGdfQ01DRTl4akU1aVdyNm96VU9HQ3lsYXpyM3UxcVpnNHpMWGY3bDQ4d2xwVG9WT0xEZDVRNzdaZUJUMmFVbWRMdHp5TGp0S2tnUkw4ZWxxaWlEU24yaWxwc0ZBcHZXWGNwNjZzQnNObDBXTG1NcTVHclZ1djByTXhEbHYtT2Nka1ZjVW9aVEQtMTRCOThkZnZEV3dyTVM?oc=5",
-      "source": "The Maritime Executive",
-      "date": "2026-06-24T01:59:52+00:00",
-      "description": "Russia is Fitting its Drone Boats With Illicit Starlink Terminals  The Maritime Executive",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T09:11:09.613164+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fa294d8e31d0"
-    },
-    {
-      "title": "Was Iran's 'jellyfish' drone swarm behind US F-15E jet crash? - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmR6clJXbmk4VVVvcWdXZEFnel96ZjI5alZOSGdDa1VxUFZ4clA3ZXBYdUthTFZIaFhmVWRpRS1DM3Q4aGtValhhYUhiazZlaWlkYmNCWnBDOTJjckw4RFN2TUViQ1ljd1V5U19tTFl0YkJXSTdNNDRXMWpaOHlOQ0dOa293d0I5Q1dsbU1UTDZJVHVpMU5xZm1RaGw5ZUxBeVZSNlJB?oc=5",
-      "source": "Deccan Herald",
-      "date": "2026-06-24T08:54:36+00:00",
-      "description": "Was Iran's 'jellyfish' drone swarm behind US F-15E jet crash?  Deccan Herald",
-      "query": "drone incident",
-      "detected_at": "2026-06-24T09:11:05.910617+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "33a4e4d40725"
-    },
-    {
-      "title": "CA Police Using Drones To Curb Illegal Fireworks For Fourth Of July: Report - Patch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVRObWdjUXZXNEljUzFFYVB5VlpaWmxEcGI4T3RwbEJQX1ZXYkRPSnFRMkJFVXNsTG5UZnY2bmE0LUFpaTlsdUc5dU85UGhXNG5Na21FcGp1OGdGd3Z3X01yWnVKRVA2LUIyaVVJQ3FSbVByTXpDVGdsTHdyWjk2TWllb1ItcnFrcjgxbnIxU0xEUWJaQmgyR2tsRkNFY3RlNTRkZ3dR0gHEAUFVX3lxTE9HWG40RzQ4ZmlRZGdPOENYa1JVZDI5R2hodXg1dk1PZWR0U2FzWkNKNmFYTDM1dHhURVBSVFZ4emFzTXNjU0FJb2RPZUlTSHpLekFmS3RLT2NXTWl0NTYxT0dNcDA2NWhDOUhxcnBqazdpSXBmWVhfbll0U2VZMFdCZHU1OFVwcFo2Q2RqSUJWQTZTVGJaVzd3NzVjMW55c2ZiN19tNEFkVUotcjBCRHdoaGRwS2R5Njl6TDJKNVFEMHdldlM?oc=5",
-      "source": "Patch",
-      "date": "2026-06-23T23:23:54+00:00",
-      "description": "CA Police Using Drones To Curb Illegal Fireworks For Fourth Of July: Report  Patch",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T07:16:47.622229+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c3cd15604580"
     }
   ],
-  "last_updated": "2026-07-26T00:00:36.517540+00:00",
+  "last_updated": "2026-07-26T04:24:39.112520+00:00",
   "total_count": 1000
 }
