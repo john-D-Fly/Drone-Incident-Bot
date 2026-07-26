@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Yemeni air force hit Houthi missile, drone launch sites after Saudi-led Coalition forces strike targets - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XeG5PaWtJMmdFNmxsLUZTQTh2dHBJQXVncWVLZGJ0UlhYVlVYSl9UOVBlVHdwWjF1RGQwanMwVWF1aHNNUURDcm0tUEt6SUpQQmdsVlF1RWVwS1Y0UUE?oc=5",
+      "source": "Arab News",
+      "date": "2026-07-24T22:49:12+00:00",
+      "description": "Yemeni air force hit Houthi missile, drone launch sites after Saudi-led Coalition forces strike targets  Arab News",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-26T07:34:28.566159+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e0d6f95080f2"
+    },
+    {
+      "title": "Drone falls near Ben-Gvir’s Judea home; incident under investigation - JNS.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2hmeFVmcnZVVHRXdDRaTWEtSnBieG5DQncxbXh0c0dBSUM3cnRkd0J6eFQtbElXV052d0FKZktpNS1iM24zTVczRVJ4Vk45azNqd3kzX0hUZTJZWW5Cb3pnczJwTkg1QkZpZWRYWC1rTk1pUHRQUEpWRS1BekEzSll1X09JeE9kNXc0NnV0Y0J0UUk4ZjJQajBLc1pieU1mb0Y5Ri1n?oc=5",
+      "source": "JNS.org",
+      "date": "2026-07-26T06:28:17+00:00",
+      "description": "Drone falls near Ben-Gvir’s Judea home; incident under investigation  JNS.org",
+      "query": "drone incident",
+      "detected_at": "2026-07-26T07:34:24.392443+00:00",
+      "location": "near Ben",
+      "category": "other",
+      "id": "f74c48dda35f"
+    },
+    {
       "title": "How the NYPD is using drones to catch subway surfers - ABC7 New York",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDdnSWIteWstVEZqbVprWHZfWUYyRUFGZ01GbkMwX2d1TmhFQVB1blppd1N6RDlVMVEtaHVZZ3NLYWEzNzU2aTczMWIwbTlIby1aenFBb1dsRlJpUjd4QUhpT0FOMUZOdVNLc3FBV3RQWWh2c1lZT3ZTcGZzNGFoWjZ1bl9vUdIBiwFBVV95cUxQRlAtOXYtdGg1elNGNklQejVpNTB0OUZ3QWhjcWRsd3doTTNrQ2ROdHNJR1lVZEZmZ0duWlBTUEVINC15YnVkdjZ6NWJVcHg2NkJQU1o5VlZ0MUplYkw2bi1Yc2cyUS1xaF9IOTlPeDJ0SjQ0YVZnVXM2bE1HMDIxU3A4TU5SdUxCVEpn?oc=5",
       "source": "ABC7 New York",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "61f98113e7c1"
-    },
-    {
-      "title": "Designing Drones for Africa - War on the Rocks",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lNmlIaGZmMHRjTkhjdDhfWlprWjFKZ1lKY1pBYkZjcFVDOXNIdGNEb2ZtOFVwTno2VTlSR1pmREFxbm5lX2NLeUdVYklwYTFFXzhJT3MzM25TR2psM0tNRkFtckN3XzdDdWxFTFJES0JqQWZo?oc=5",
-      "source": "War on the Rocks",
-      "date": "2026-06-24T08:34:49+00:00",
-      "description": "Designing Drones for Africa  War on the Rocks",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-24T12:49:42.661498+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4243be3d58cb"
-    },
-    {
-      "title": "Iraq to prosecute illegal drone use under anti-terrorism law - 964media",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBpVW5kcTAybElMdkVhdldVMElnNFRIV2cxc1IzY1dlQ3JiSFIyX2dVY1c2MjVVR29HT1c3MVRSSHkwaEl3?oc=5",
-      "source": "964media",
-      "date": "2026-06-24T11:22:47+00:00",
-      "description": "Iraq to prosecute illegal drone use under anti-terrorism law  964media",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T12:49:41.407591+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0dbd0c3dc332"
     }
   ],
-  "last_updated": "2026-07-26T04:24:39.112520+00:00",
+  "last_updated": "2026-07-26T07:34:29.560291+00:00",
   "total_count": 1000
 }
