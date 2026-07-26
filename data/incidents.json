@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Israeli authorities are investigating the crash of a drone near the home of Itamar Ben-Gvir in Hebron - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORTJzVF8xSFpnR1NSdkdYQTkzbENkWGhOelVtcnkzRjZfTzFuYlRZd2hlaUJ6YnNFdllNdUhVWmxxUEFJNXZWRGxpRFdhUzN3OVZzWG85aUFmRTYyVnBqUVlZeUhGZHRqcDRzbVQySFZxOHlBYklFYlMwNlR4TGJGVlg3MTlzY1FEWnFvalZSclkwVXlWS3RoZkE2ZFI2d1F6d1lkQjRtS2FpMmV5MTQ2Z3NpZnZUT3lkVEpGZnl4dHgtWGtkeUNobDRhczN6OHI1QkJJeEt3YkZESDBKN3lJRENTSHc4MVRM?oc=5",
+      "source": "صوت الإمارات",
+      "date": "2026-07-26T01:07:13+00:00",
+      "description": "Israeli authorities are investigating the crash of a drone near the home of Itamar Ben-Gvir in Hebron  صوت الإمارات",
+      "query": "drone crash",
+      "detected_at": "2026-07-26T20:08:51.409708+00:00",
+      "location": "near the home of Itamar Ben",
+      "category": "crash",
+      "id": "1cebbdf0a4c8"
+    },
+    {
+      "title": "Police drone helps catch armed suspect before he sees officers coming - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXNXNlNEa1ZCLTFNcGpzQ240ODdGVFp5Q3Q5TnRNRERHZjc5Ml9IQklzSGl4VDNVaDg4WFdWbmwxNl9qVEJZX0oycHcxT2s5eFFYZTJzcVd1RGNLRTVjX1pQMWl0ZDk0WUZFX25nb0ZBUFkyU3JyeUZQMUJHWGhtZXJkSm1Nbno5U1BlVFh2d1N3X1ItQjJkOWxmLXNZNzRuU0tiU0xjVWllME9qd2liMDNCTkg4Uk1kdnVwVlR0cWZDVzFFWWItZ0dB0gHeAUFVX3lxTE90UTVoeF83bWlXR2RBZGlCTmF1RzFUb3FmWFdQaHpCenRGdFBOcnNCZU5GUDhNbjE1UjRJZUdtNDd0UUliTGlhT3QzWS01UE1rYk9UU3J2RF9yZzVLUXZfamNCbDFIYkVBR2g3SjJ6aUlPUkNkOEIyMXhKdGhTTU03SWlaOWQyNk5UWEpOeWR0ZUJSS0pfUUQ4SHRNTjE0QVBQd2plOVBsR3BrbTUzN3BqRjI5RWtKbC1iQTV4Uk5TQURiRnJIdk5JSHRpdWM3Y1pnYXVGNWotbHlVM1I4Zw?oc=5",
+      "source": "WSB-TV",
+      "date": "2026-07-26T20:02:10+00:00",
+      "description": "Police drone helps catch armed suspect before he sees officers coming  WSB-TV",
+      "query": "drone arrest",
+      "detected_at": "2026-07-26T20:08:49.514540+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b7a4bf527a99"
+    },
+    {
+      "title": "NYPD drone captures teen subway surfers on video - Upper Michigan's Source",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjBOQlRnTW1VWXRtTHpWcFFrdktnNXdXTFdwczlnX19JZ2Utc1JLejBWQ0FLRDN1VkVXZ2wzZ2NZWVQ4QklVUHB2R2ZXSzU5MzBhbzRKSDdjanV5YWhmUDU2Wl9kbDhITVpjdE9vLWY0bWFjWmEzMV9xbjZSVjZEVG9QTWhnRkpXS1lGR2pxTEhldUFJQnpVVERn0gGuAUFVX3lxTE41QVlObV9WaXhrS1JhNmw3cC0tYTFBbDN0TC1JbUhKMjlsSks0R0JvU0FCekx6TGNjNncyNmI2bVdTemlCcUhXSDRWdmVvNjAwS1ZuQmRzQ0VNTDgwTHRXcnNNVXpuaXctZVpnTjhyLTdIOWQ2U1NsWEZSRkJOTnJKczYzOUdZcUZUUGpXQVduR2s4ZGljTDl1RXJrNlVuTmZDek1tVDVCRHd6N0xRZw?oc=5",
+      "source": "Upper Michigan's Source",
+      "date": "2026-07-26T19:19:00+00:00",
+      "description": "NYPD drone captures teen subway surfers on video  Upper Michigan's Source",
+      "query": "drone arrest",
+      "detected_at": "2026-07-26T20:08:49.514540+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c1bc7d6b4e2f"
+    },
+    {
       "title": "Third drone shot down in Romania: Ministry of Defence provides details - Цензор.НЕТ",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUttZGRDNWd3MDZfMlUzc29jekMzMmxXNFQydlNzYTV0WXNZTlItSVFIZ1V4UE5LSVN6X0JwcFh4V29Va0txYXRNR1JROGltV1JJYzBSa0g4aUlaNWdGMlJpN1JabXpFUXI5NmxoN0dpY0tldjc2YnhBYTkxdDVzenlCdC1HallQSDYwRXFHMm5NSE9NaXZIbnUtdzlZOS1EeWtpaEc4eUtsTm5jb2NyTjZDZ3dDVjVqdUxzRUgxYw?oc=5",
       "source": "Цензор.НЕТ",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "7ef36e32a4c8"
-    },
-    {
-      "title": "SkySafe and University of Illinois Urbana-Champaign Extend Partnership, Setting New Standard for Drone Detection and Airspace Intelligence - sUAS News",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcDAtemxQMEpFTjFKVGtWVXJWbVE4by1lelo5RnBzbjBwd0hLZ2ZLVmhaY0IyR2stNHloUEJtSnZxSjFLbUZSZ2d0WDk4cTYwMzJHRHU2S0xfNjFXbVEtZG5BUUwtVWhiQm9HQUVjNzlNc1Z6UU5LRnNQOGxMc2tUNDVTYTFqX1lxd1hPVWdLVWE0eW9GZFZrcWpfa3pSa01VQ1MzeTN4ZkxFTmhkNHRPU25DYTZFV19DMk9ZRzdjMmRkVTJMQlBHdXV4RlNCNDU0amJIOFMxdlBCQXh5NUo2TXBVTGNDT0xNbjJ1TjZ3LXpoU2JIcmpHWXBfUElQWm5v?oc=5",
-      "source": "sUAS News",
-      "date": "2026-06-24T19:25:54+00:00",
-      "description": "SkySafe and University of Illinois Urbana-Champaign Extend Partnership, Setting New Standard for Drone Detection and Airspace Intelligence  sUAS News",
-      "query": "drone incident",
-      "detected_at": "2026-06-24T19:34:56.819140+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a12b5f03280a"
-    },
-    {
-      "title": "Air marshals warn drone operators to avoid World Cup restricted zones - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWo2RWR1UkQ1OThubW5DazdEei1BQ2hWSUlaVlVkRklfRWF1b2d2aUdHQUZXNlplbjNadWJGa3J0ZkRGdlhEZXo4czFLMzRIZXNWZG5DdGpqaGNDdktZcjJMTVVVVGxQVE93STFDblUyWVZHT0tTdjZtVHpxZjFNbk9tTS1wTmNDcjdJZzBrYmtwcjNHNEZNUXY2aHlyWWlZaVE?oc=5",
-      "source": "CBS News",
-      "date": "2026-06-24T14:23:00+00:00",
-      "description": "Air marshals warn drone operators to avoid World Cup restricted zones  CBS News",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T18:39:17.881150+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "e5f8ebd8b699"
-    },
-    {
-      "title": "Drones Will Be Used To Combat Illegal Fireworks This Fourth of July - LAmag",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjZOM3JSOTQybXZYRmszSk5YR3BrMGc2U0s2MmpYamo4bEw3VTdsSXpEcm5HbzdyTnZtVzZuT19CVV9fWkJQNnFUZnpYNTJtaTV5VDZoOEpHdUFPYU5jdUJlaEZfWjhRaGUwN3l6WEU5VExjcXdJeFowZmc2M3NuYzFuUHFhU2piME81WVk4Z1hCemROb3c?oc=5",
-      "source": "LAmag",
-      "date": "2026-06-24T18:00:16+00:00",
-      "description": "Drones Will Be Used To Combat Illegal Fireworks This Fourth of July  LAmag",
-      "query": "drone illegal",
-      "detected_at": "2026-06-24T18:39:17.881150+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "44284846bf88"
     }
   ],
-  "last_updated": "2026-07-26T17:00:09.184714+00:00",
+  "last_updated": "2026-07-26T20:08:53.909535+00:00",
   "total_count": 1000
 }
