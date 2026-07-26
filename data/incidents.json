@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Russia used jet-powered drone equipped with video camera in attack on Chernihiv supermarket, police say - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wUENNb3ppLXo2QnF0b1JsVURrWmFPM3k0QXNKazhSWm02NmU0Y1B0ZVFlODRtTnhQcm1NS3M0QkI1eHZrWF9uN1NqcGUxU3FYc3BIVDh2czFGTzVlMVFhRlhYTXnSAXBBVV95cUxQSXBleXpCSkRSbUlvZU9DMFplTWRWRjJuR1RMMXhUeFYxaHJrSkJod0RjakQ1YmYxTjRiazA3aHk4RWtFY2lxcXo4SURWaUlQRmN2Sml5NmFlTEs2M29pTjBET3FCR2FLRVl1eUVFY3FB?oc=5",
+      "source": "Українська правда",
+      "date": "2026-07-26T15:36:00+00:00",
+      "description": "Russia used jet-powered drone equipped with video camera in attack on Chernihiv supermarket, police say  Українська правда",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-26T21:58:54.171336+00:00",
+      "location": "in attack on Chernihiv supermarket, po",
+      "category": "other",
+      "id": "c1fa80cdf60f"
+    },
+    {
+      "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
+      "source": "LSM",
+      "date": "2026-07-25T19:53:01+00:00",
+      "description": "Mystery drone crashes into lake in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-07-26T21:58:52.606785+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f3f4103f8726"
+    },
+    {
+      "title": "NYPD drone captures teen subway surfers on video - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmJmYk02OWVHRUxJMDRpUEFLX25BZTBudExkbFFBVFZxckxNQ1Fhdlp5ZUNzUEVPNDJDdXg1aVBqX1duWEFyVHFRU2J5S21iaTk3U2prVUJjRmFHRTlJNV9xWHFabk55UjBDSDhqaUFudDlDVWU2WmtpVE1rcW5TcldmWHE4X3hjNzBVdUpR?oc=5",
+      "source": "WDBJ7",
+      "date": "2026-07-26T19:07:00+00:00",
+      "description": "NYPD drone captures teen subway surfers on video  WDBJ7",
+      "query": "drone arrest",
+      "detected_at": "2026-07-26T21:58:50.477836+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "324b13f161a4"
+    },
+    {
+      "title": "NYPD drone captures teen subway surfers on video - Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbV81dE8tcUVFWElPNHFtaWUycDNYbG9RU19iaVNCSGpJYUtyYzRLTjZzQlRxbmk4bUtVLW9sTWlOYUREOF9lNTloamVoeGJackY0VUFaMFg0NlZsb1ExNGhNa3NBYjEwMVZGTnZiTFJYdnZZcDctYk1kQklzRXZJaXR4RDVpdXY5Z2tJ0gGfAUFVX3lxTE5xSjVzOWE3VEpkZ25jQUJaaVp5bWZKajgyZGxGU2NCX25CYkdxZlB3c2l4VVBXT3Z1TDluRWJMdFJ3ZEZBMF9INDMzWTFfUGpxcmNHWUxGZW9RYkl0SFJaa2dGNXZCNW5lc2dMenFTcFdnTUpqSDU4M2kyT3AwNUQwdE0wdjZFb00xZDlYTEE1dzRRNGFkaWdKMXJHUjRaSQ?oc=5",
+      "source": "Live 5 News",
+      "date": "2026-07-26T19:19:00+00:00",
+      "description": "NYPD drone captures teen subway surfers on video  Live 5 News",
+      "query": "drone arrest",
+      "detected_at": "2026-07-26T21:58:50.477836+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1c5d1b079c5a"
+    },
+    {
       "title": "Israeli authorities are investigating the crash of a drone near the home of Itamar Ben-Gvir in Hebron - صوت الإمارات",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORTJzVF8xSFpnR1NSdkdYQTkzbENkWGhOelVtcnkzRjZfTzFuYlRZd2hlaUJ6YnNFdllNdUhVWmxxUEFJNXZWRGxpRFdhUzN3OVZzWG85aUFmRTYyVnBqUVlZeUhGZHRqcDRzbVQySFZxOHlBYklFYlMwNlR4TGJGVlg3MTlzY1FEWnFvalZSclkwVXlWS3RoZkE2ZFI2d1F6d1lkQjRtS2FpMmV5MTQ2Z3NpZnZUT3lkVEpGZnl4dHgtWGtkeUNobDRhczN6OHI1QkJJeEt3YkZESDBKN3lJRENTSHc4MVRM?oc=5",
       "source": "صوت الإمارات",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "70e09c22004d"
-    },
-    {
-      "title": "Jacksonville man charged in drone conspiracy to drop drugs, phones, weapons and escape tools into federal prisons - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDJnLXpPbE1odFN1LXdqVjNNUV9fbXhoT3FCMEczZnhhbFRuMW1YWlNPbE9JY1RsYUN1aV9iQlZXeU1HY211RWdoSW1LRHpxR3ZDblZ0TDQxcEJ0eXMtLS1lVkZzYldvOURoOEl5ODl1bVpDWEVBQ2J1OXlKV1RsaVotdXVkV3hqaUdVYlR1LWtlNkdhWDk0ZFVDVzN6Q1UzblFVVnYyRjVrU1liamRjTlNJQ0xtU0E1YkhHendoUlg0SlFZZk0zYmxodWd5XzE3bk81ZlpTT09zOW05YnVaeXhaOTZET2d0?oc=5",
-      "source": "News4JAX",
-      "date": "2026-06-24T20:00:32+00:00",
-      "description": "Jacksonville man charged in drone conspiracy to drop drugs, phones, weapons and escape tools into federal prisons  News4JAX",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T20:37:28.986899+00:00",
-      "location": "in drone conspiracy to drop drugs, ph",
-      "category": "smuggling",
-      "id": "77363b2945f1"
-    },
-    {
-      "title": "Officials: Greenville resident among 12 people indicted in Georgia drone smuggling conspiracy - FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGlsLVRDRWwtZDVPbmZkcFpqOVhORFVjS0dWN0haN0g0aFlZZENYLUFtcG45R2I5R1A0V2xBVl9zOU83VzZLSTdzVGs0MnJ3NGRwWHFQZzctYlE2T1ZKZUdCZTEwWHhYVUF3U2EtUkZJX2piUDBCOUY4YWU4SzlYb25pQnRyQVJIVUYtUnF3d1NPRmJncjZLVGZuS1JjUC1PekZhSDNKOTdDTkdCVTBITmN6UkxELWpHaExjOFdVVUdiX0VlT2FKSw?oc=5",
-      "source": "FOX Carolina News",
-      "date": "2026-06-24T20:15:00+00:00",
-      "description": "Officials: Greenville resident among 12 people indicted in Georgia drone smuggling conspiracy  FOX Carolina News",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T20:37:28.986899+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "905fbe1e3450"
-    },
-    {
-      "title": "Drone and K-9 help find wanted man in town of Friendship - fdlreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlQ3Y3VPeEVJM2RMVEV3aVRzLTdhSlpYV1lWOXFNQkdUVldoOFl6eDQ4UDZYVkJ2S3hZd05RV0xMRndHWmQtVDZCTlMwZU90eW5vM01LREh2ejZZbTcyZWNiUHBUZnBQamdSSkFfTmpJQU9STFNBWTI2a1pGVHhkRW85X0ZORTlwREs4RnB2WHQtRU05SXlBNHRxZEx6bzFNNEdiNHJuYVRWYTZsSUFxODM1SmE2QW9UVXNUMmo0azRWdw?oc=5",
-      "source": "fdlreporter.com",
-      "date": "2026-06-24T18:30:00+00:00",
-      "description": "Drone and K-9 help find wanted man in town of Friendship  fdlreporter.com",
-      "query": "drone arrest",
-      "detected_at": "2026-06-24T20:37:28.436557+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a1b1e3c0a6b9"
-    },
-    {
-      "title": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare - 41NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnZDUW5iT2Y1YUVzSW1ReWlrb2dvU1dDNzljYTYtTGVrWWZ4S3hyZlg3MGJ6R2k3WFBxSk1xTVVyVzdjMkZwZjhZVWpTN1lHZHROMjBYczJZRm1QXzVqSmx3aFlXTW5DWTQ1ZDlYUmpmSDRoaVpaczdnU0xwZWFaMkVFdzJuTWU4NlpHN0FtaXFpeUR1eldSVmcwOHdXVkNuc3dTbllDdDE1MGthVnRz?oc=5",
-      "source": "41NBC News",
-      "date": "2026-06-24T19:23:11+00:00",
-      "description": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare  41NBC News",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T19:34:57.942094+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "7ef36e32a4c8"
     }
   ],
-  "last_updated": "2026-07-26T20:08:53.909535+00:00",
+  "last_updated": "2026-07-26T21:58:55.180099+00:00",
   "total_count": 1000
 }
