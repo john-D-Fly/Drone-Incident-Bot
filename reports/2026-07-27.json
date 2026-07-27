@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the last 48 hours, drone activity has intensified across various geographical locations, particularly highlighting tensions in Romania where multiple incursions and military responses have been reported, including three drones shot down in three days. This surge in drone incidents coincides with allegations of unauthorized UAV activity attributed to Russia, raising security concerns in the region. Meanwhile, the NYPD continues its efforts to combat subway surfing among teenagers using drone surveillance, resulting in multiple arrests. Other incidents include a controversial drone strike linked to Ukraine-Russia hostilities and investigations into drone crashes in civilian areas, underscoring the pervasive risks associated with UAV use. These patterns reflect escalating drone deployment for both operational and security purposes, revealing a need for updated policies on drone security and incident management.",
+  "totals": {
+    "other": 20,
+    "smuggling": 3,
+    "arrest": 7,
+    "incident": 13,
+    "terrorism": 5,
+    "crash": 4,
+    "total_incidents": 65,
+    "by_category": {
+      "arrest": 4,
+      "crash": 7,
+      "other": 49,
+      "security": 3,
+      "smuggling": 2
+    },
+    "by_query": {
+      "drone arrest": 23,
+      "drone crash": 6,
+      "drone incident": 25,
+      "drone prison": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 7,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Romanian drone incidents",
+      "rationale": "A series of drone shots down in Romania linked to airspace violations raise security concerns.",
+      "incident_ids": [
+        "cd23aa0efe2f",
+        "1f76ac7b9008",
+        "7d599d326f9c",
+        "324b13f161a4",
+        "2f4f66196435",
+        "2068edd764f5",
+        "3e2a15a42733"
+      ]
+    },
+    {
+      "topic": "NYPD drone surveillance",
+      "rationale": "NYC police utilize drone technology to monitor and apprehend subway surfers, leading to multiple arrests.",
+      "incident_ids": [
+        "8e416305969d",
+        "0bee32d65372",
+        "c5488a8bfb67",
+        "f3f4103f8726",
+        "d0ced72efb2d",
+        "c1fa80cdf60f",
+        "f5795a8e3e26"
+      ]
+    },
+    {
+      "topic": "Drone crashes",
+      "rationale": "Several incidents of drone crashes reported, including significant incidents in urban areas associated with investigations.",
+      "incident_ids": [
+        "c4fccbbf59c2",
+        "61bdce509fdb",
+        "5a7b3d4f0588"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c4fccbbf59c2",
+      "headline": "Drone crash in Ben-Gvir's neighborhood caused by local youth, not terrorists",
+      "one_sentence": "Israeli authorities investigate a drone crash near Itamar Ben-Gvir's home, concluding it was not a terrorist act.",
+      "risk_tags": [
+        "crash",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1f76ac7b9008",
+      "headline": "Suspecting Russia, Romania Shoots Down Third Drone in 48 Hours",
+      "one_sentence": "Romania's military has shot down a third drone, heightening tensions regarding airspace security amid accusations against Russia.",
+      "risk_tags": [
+        "incident",
+        "security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "0bee32d65372",
+      "headline": "WILD VIDEO: NYPD says five teens were arrested after subway surfing drone footage",
+      "one_sentence": "The NYPD's drone surveillance leads to the arrest of five teenagers engaged in subway surfing.",
+      "risk_tags": [
+        "arrest",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "80c5a7590801",
+      "headline": "Deadly Ukrainian drone strikes hit Russia",
+      "one_sentence": "Ukrainian drone strikes have reportedly resulted in fatalities within Russian territory, intensifying military tensions.",
+      "risk_tags": [
+        "terrorism",
+        "incident"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "7515524117e2",
+      "headline": "As Drone Smuggling Surges, Centre Expands Narcotics Control Bureau Network In Border States",
+      "one_sentence": "In response to rising drone smuggling, authorities are expanding their narcotics control efforts in border states.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone activity surges globally with significant incidents in Romania and the NYPD's continued crackdown on subway surfing.",
+    "linkedin": "The last 48 hours have seen a rise in drone incidents, from military engagements in Romania to NYPD arrests, indicating a growing need for robust drone management and security policies."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-27"
+}
