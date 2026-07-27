@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "NYPD drone captures teen subway surfers on video - WYMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUNwbnZqV3VOa1Q3T00xQXYtc1F2TUx3c3hvM1Z4ejJqRVBCeXFzb29BU1RuM2E3RTNWSmxJT3QzdnBuNjhUYldadWNoQWZTcjdTcXpqZWxhZmdCVWp4Ql9oV281QWhjb21BMnZ4TndHdGpwWWdaQzVnS0p5REpYUHpkZUgwQWMtZDVuUw?oc=5",
+      "source": "WYMT",
+      "date": "2026-07-26T19:07:00+00:00",
+      "description": "NYPD drone captures teen subway surfers on video  WYMT",
+      "query": "drone arrest",
+      "detected_at": "2026-07-27T02:53:45.875411+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "823b5dfaa000"
+    },
+    {
+      "title": "NYPD drone captures teen subway surfers on video - WSAZ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtiekJkMW1yVW1MWGxUZ3QzeUhlRXBTMktSVkFJdW9nay1wRkVPb3d0eTNaZDBlZWNuVWVRRnliM3dBYVpVTG94c2FKOHRGQUxRenZEcThPbU5tNTVlZ1haVUNpQnRaejRlTlJENWg2RTBzbjZ3SkdWcXE2Q2JFREZpbWtWRVZJTXNnUw?oc=5",
+      "source": "WSAZ",
+      "date": "2026-07-26T19:07:00+00:00",
+      "description": "NYPD drone captures teen subway surfers on video  WSAZ",
+      "query": "drone arrest",
+      "detected_at": "2026-07-27T02:53:45.875411+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "efb76603dc0f"
+    },
+    {
+      "title": "NYPD drone captures teen subway surfers on video - WSAW",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGVzOGtUeVVWbEtNcjFiUS1CczYzM0MwY0dyaDhlZzRqbV9vc0YxRE1KeTlLSUNicWZmc0NKZ0EyeFljcGQ2Q3J4UEVHUVVxbnFqSXFNTjBydzF1UExrS2oxQV9PencyOGFDbmo3RFVmRWJtRDAtWG40MXVqVGl1TTg3Qm9vOUFpMWRPLQ?oc=5",
+      "source": "WSAW",
+      "date": "2026-07-26T19:07:00+00:00",
+      "description": "NYPD drone captures teen subway surfers on video  WSAW",
+      "query": "drone arrest",
+      "detected_at": "2026-07-27T02:53:45.875411+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "13e6775e71fc"
+    },
+    {
+      "title": "WILD VIDEO: NYPD says five teens were arrested after subway surfing drone footage - WBAL News Radio",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0ZIZ2c0bHFJR2lxYldWbnJQVTEzc2VBVVFEN2pDZEtGNVZPN2l6U1NFSFIzcUt5U3JMS2FIVFJvWTFuZUZhc1hpYllidm1RNVdKdmtTZ2JERWZwT1FxS0FKbnNmdUhiZnBYai15MHBpMkhlVC1pbDkzSnAwcG9TTGNtU2kybDFtalVwZEZ2NXNNZUlPTlRWa1BTZmlhcV9sZmI0?oc=5",
+      "source": "WBAL News Radio",
+      "date": "2026-07-27T01:17:30+00:00",
+      "description": "WILD VIDEO: NYPD says five teens were arrested after subway surfing drone footage  WBAL News Radio",
+      "query": "drone arrest",
+      "detected_at": "2026-07-27T02:53:45.875411+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "7760b1dcd05d"
+    },
+    {
+      "title": "WILD VIDEO: NYPD says five teens were arrested after subway surfing drone footage - WJCL",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EbEZxeVZ5T0lncE93a1Vma2E0MjNWQUVSQ21ROXFTakVybkhhemhhN013NHNVLWRINHhCanJmRnF6cHRidFJNWFBXcGRtT1hZSkduVGlfR09IOXFDOTNZVlVDMXhrWG1Eb3JuVmNWX2RzVy0tSGZtQ0hVUDVXMVU?oc=5",
+      "source": "WJCL",
+      "date": "2026-07-27T00:34:10+00:00",
+      "description": "WILD VIDEO: NYPD says five teens were arrested after subway surfing drone footage  WJCL",
+      "query": "drone arrest",
+      "detected_at": "2026-07-27T02:53:45.875411+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "76fa073b3d76"
+    },
+    {
+      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
+      "source": "LSM",
+      "date": "2026-07-25T14:11:20+00:00",
+      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-07-27T02:53:45.334626+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "accf2d2f2619"
+    },
+    {
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckFkOENsbXJBLTNydmlTeEt2SGVUSnctdzVSN2FRR1JpX2RWdkJoNllVVjVTZmZUakh0LTJvTGxIYkNJMFlmN0lFY1FfS1RrYUlaZ2preHRZdDIxbVdKaHc5SFpfOFBHZ1lyZzgxc2g0UHBlWnl1NlN1REdGZ1lTWmU1OXV5M0FHZW1pNlNVdFkzNDFoTTFmQXBfYnNpSGJQeUM5YThJLVFiclJDMlUw0gG0AUFVX3lxTE44aWdjR0gxVGxUajBVaEl1SUk0a05IdG4zTjBkQlBvM3A2OTE5dmM0eGQyQlhLRHhhVFJPQWJVX1ViWFNqbnM4cW9jb1UtMDNFajdLaGs2NFRaWFZveHl1eG5DQ1dwY211T0REcTlQZWFDQ2I4UWFVQVRLWUx4VFZWTkdiMksyQk9feW9YT01NeUp5YktSVDUwOWJJNjc0REFUT084Undsc2NXVXJLS2RCTTBQMQ?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-07-26T18:27:13+00:00",
+      "description": "Romania summons Russian envoy as it shoots down third intruding drone  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-07-27T02:53:45.334626+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7d599d326f9c"
+    },
+    {
       "title": "VIDEO: Drone records group of teens subway surfing - WKRC",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVk96SWZvRkVoOGozRzNsUmdkOVNNcVlsbEFkTnlsV1F1RzRWVzF0d3pFZUViTEZkT0tlWE40emJDa3ExcmgyMjI4RnhXNGtoY1lPQ0E2dVNJUnlhQTJveWJ4OXgtSFMtcno1NFZwYUZqbzV1amVlREx4ZUtnMlBGek9SVklXZzU5eXppVTQ4bTI4bURxeEFxcUlZVUo5ZkxHZ3gwMnhyYkZwTl9vWjhWVUFOa3ktZ3JvVWRkdkhXVDAtNDdNa3dYc3VDZGUwaGxpRE9OUmVqSE02SzNSVGV3WjRsbHJOcW1MU1BIY2FOdGFyS3BTOG84YUhkWjctRmpfR2RNd2RGLVppNXl5M1Zuall4eDNmNHNWTXJwR1V2NFRyRVp1V0FMaWhwUElxQ2dRckJ6QjBNbkx4dFdOUUZLV3o0b2NSa1lfdUNjX3BHSTVZcU16by0yeTB0VQ?oc=5",
       "source": "WKRC",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "c40eb077a721"
-    },
-    {
-      "title": "Trump DOJ asserts presidential privilege over drug boat drone strikes memo - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb19VT0gyUGRHRHhSbk8zZ2xYSEIyTGRMb0x3VVUtY1JKeWxxX1REZTVWaUNPaF9vNkg1QmYtczFQQ2hBSlNuZ1NpcjV4MHVWaEg0WW5vR3lHRkd4UzROTEE3Y3NieXVmYVZFNkhnenZRX1VYZFR4cndtNW44OVpUSlhUdmVTQWdSWkZNYmtvRmJxM1lNNDdWYlNUYXRETXg2cjlja2FWTEg3dw?oc=5",
-      "source": "Courthouse News",
-      "date": "2026-06-24T20:26:15+00:00",
-      "description": "Trump DOJ asserts presidential privilege over drug boat drone strikes memo  Courthouse News",
-      "query": "drone terrorism",
-      "detected_at": "2026-06-24T21:33:01.306079+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "be2b55a9ba30"
-    },
-    {
-      "title": "Justice Department announces arrests in ‘sophisticated’ drone network used to deliver meth, phones and weapons to prisons - KTEN",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPS1FMSzF5N214cEdnUHExbzE4QTZvaUZiakF3dm1PZkJjRGw0VmdudlNiQTlkVWtUNG1XWkVDMHpNMTFHaDd4eHd6UnBqd09LdXVpem1YZ1N3VEk5NkJZeEpWZkZMRjk4WTg5cUNvT0ZOeHZGb0lOd2VJcVlIcTVsSUZ4dHV5WHBkUDBMRmRJQ2czeFRlNEx5Q01FWGowOVVGaEdDMGN2QXVKMERfRjR5UXJiM0ZKNGZ3a0d2U3VBWHhnYmsyV1J2bWFnNnhhellSZzZ0MXAzaFVwdmh0SVVHLXVpM0ZBQnF6Z2JINHlNaHVIU2tKX29DcnNiM19UN1NwaE52UnNrZnlqTm9pRU9UZ1BIeGxBNkxSR1NEeA?oc=5",
-      "source": "KTEN",
-      "date": "2026-06-24T20:30:00+00:00",
-      "description": "Justice Department announces arrests in ‘sophisticated’ drone network used to deliver meth, phones and weapons to prisons  KTEN",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T21:32:58.018132+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c5fad2700ccb"
-    },
-    {
-      "title": "Federal indictments in prison smuggling using drones - Classic City News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXRrZWY1S0x3cWVlenlJWFpaU3JTaktOTWMwdmNRbjNUY0JWTTlPQThzbXZwM1NNN3k1cGJrZDhSSFNqZUgzUVdqVzQ5UUkzc1ljSmxIRVFBMkRYWGp3RjNCOTM5RVlLdlRxdE1aSDRwMzZMaU12QXFCVE1RZWgwOUJzZnVvQlVTemdKWWR2WURQVzg?oc=5",
-      "source": "Classic City News",
-      "date": "2026-06-24T20:28:49+00:00",
-      "description": "Federal indictments in prison smuggling using drones  Classic City News",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T21:32:58.018132+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a0abc1679234"
-    },
-    {
-      "title": "Justice Department charges operators in drone ring that smuggled drugs and weapons into federal prisons - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Xc3FITHNicEZEYWRqZ2lCNmF3ZkdGM2hjSkFyZ2pIWUloaGhGbzFRaS1jMjRPVDl4b2k2R2ZSUXloSGR0Y0lKMnU5N08wRDlYaTQ5WVJmaEpTVkx5OXNNWVNUbHNGZldvWDAyVXZYdHhGZw?oc=5",
-      "source": "mezha.net",
-      "date": "2026-06-24T20:49:00+00:00",
-      "description": "Justice Department charges operators in drone ring that smuggled drugs and weapons into federal prisons  mezha.net",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T21:32:58.018132+00:00",
-      "location": "at smuggled drugs and weapons into federal prison",
-      "category": "smuggling",
-      "id": "42ac74a9d61f"
-    },
-    {
-      "title": "Drones used to drop drugs, contraband in prisons in several states including Mississippi - WAPT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTJLQWd5Vmh1Rmt0cXY2dk1IOGVCMHQybTFfRE5vRnVSTHNlTHpDTXA2cWtNVm8xcF9zNkxOUm5yMW92ZWlwcWN4UEo2TFI2OUVyX3NQRWJGdGJKRU92Mm5ZVUdzb2REQUpieEt3alJDYjl5N3VuUGZVdm5zRG53Z0NaYVZQMi1hYWVTN3Jab3l3WDJDci12Z1dncnU5OVVoUXR0OUc2RDNlbDFLamtfVWdSSnhuUXk2VU9xZ2FfN25ITE0?oc=5",
-      "source": "WAPT",
-      "date": "2026-06-24T20:43:00+00:00",
-      "description": "Drones used to drop drugs, contraband in prisons in several states including Mississippi  WAPT",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T21:32:58.018132+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "fffc730c4d54"
-    },
-    {
-      "title": "Kentucky, W.Va. prisons targeted in alleged drone smuggling conspiracy out of Georgia - WCHS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE1NdVdhbGdEZUhWUGlaYTNiV1pmaXJTOVowNWFZeG5STWxXVlhpWFFKZXllSTZpcjByZlhadVN5SGUxVm5HNHpOQy1LTEZlX2NGZGFYV05GTTZkWjVtanQ0V0pOdURzRDdqc2lrUzlhckI3VW80M19Hak1WM3JvdXlzUWRoY01vckZseHNhWGZxblBRd2JZbExncmwycVZ6bFphN1lZX0NJSGtFUGduZjBn?oc=5",
-      "source": "WCHS",
-      "date": "2026-06-24T21:29:54+00:00",
-      "description": "Kentucky, W.Va. prisons targeted in alleged drone smuggling conspiracy out of Georgia  WCHS",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-24T21:32:58.018132+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a2a06fdaf934"
-    },
-    {
-      "title": "Fighter pilot’s reported sighting of drone swarm in Iran has military, UAP implications - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQeFdybHFGc2pDejVZOVIyYjhFZUpSR0dha1ZOa1kzSDRFNTdCeXE0M2RwbEp5S1NkTWlZYzU4d2k2UnQ4Q3RIdkZscXRjVkVQelZTMmZSWGRRY3lzcU1EeEpBNEo3MWh3aEFEdXRfWXBfYkpEWGM5Q9IBfkFVX3lxTE9CQkhGRlZNSVlhUUgwaUtJSnpCeG91UV9mS21hZGwzR2FHVmhZd2JDNDYwOF8tMUZHLUFld0xCUzNYcFZTNWU3RFVOY3k3NjlRZXJDQ0h2dTlaUWlhTjBIdXpOblRXTC1QWFJSUE1qTkNadHBpNU9IVDZTSC1Tdw?oc=5",
-      "source": "NewsNation",
-      "date": "2026-06-24T17:17:44+00:00",
-      "description": "Fighter pilot’s reported sighting of drone swarm in Iran has military, UAP implications  NewsNation",
-      "query": "drone incident",
-      "detected_at": "2026-06-24T21:32:56.889299+00:00",
-      "location": "in Iran has military, UA",
-      "category": "other",
-      "id": "7230721263cd"
     }
   ],
-  "last_updated": "2026-07-26T23:05:14.702357+00:00",
+  "last_updated": "2026-07-27T02:53:50.475634+00:00",
   "total_count": 1000
 }
