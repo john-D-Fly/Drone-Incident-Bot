@@ -1,0 +1,117 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have significantly impacted various regions, especially around Ukraine and NATO member states. Noteworthy are the multiple drone attacks and drone interceptions, particularly in Romania, where authorities have responded to several unauthorized incursions, including shooting down drones potentially linked to the ongoing Ukraine conflict. Smuggling attempts using drones have led to arrests and drug seizures in Georgia and Washington County. Authorities are increasingly leveraging drone technology for policing, as seen in several arrests related to contraband and illegal activities. Additionally, tensions involving drone operations in the Middle East highlight the perceived threats aerial capabilities pose to regional security. Overall, drone-related incidents reflect escalating security challenges and operational responses across borders.",
+  "totals": {
+    "terrorism": 7,
+    "security": 5,
+    "arrest": 11,
+    "other": 55,
+    "smuggling": 5,
+    "airport": 3,
+    "unauthorized drone": 4,
+    "drone incident": 24,
+    "total_incidents": 83,
+    "by_category": {
+      "airport": 3,
+      "arrest": 5,
+      "crash": 1,
+      "other": 57,
+      "security": 3,
+      "smuggling": 12,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 17,
+      "drone crash": 12,
+      "drone illegal": 3,
+      "drone incident": 18,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 7,
+      "drone terrorism": 17,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Ukrainian Drone Attacks and Responses",
+      "rationale": "Focused incidents around attacks and countermeasures related to Ukraine's conflicts.",
+      "incident_ids": [
+        "b63dc31e8262",
+        "730a2a0e60f3",
+        "e9e9e04c6e7e",
+        "5f57e473d557",
+        "b382801e3f8d"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Incursions",
+      "rationale": "Repeated unauthorized drone incidents causing security alerts in Romania and NATO borders.",
+      "incident_ids": [
+        "8c07adb27af1",
+        "1cccb961c9e9",
+        "ee33eb121123",
+        "d8b98c7c4b3d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "82d5b9d11e64",
+      "headline": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "one_sentence": "Ukraine has dismissed Iranian threats related to drone attacks as pressures involving the Caspian Sea situation escalate.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9109550514e6",
+      "headline": "Wildberries Eyes State Support, Seeks Warehouses in Kazakhstan Amid Ukrainian Drone Strikes",
+      "one_sentence": "Wildberries is looking for warehouse locations in Kazakhstan due to disruptions from Ukrainian drone attacks.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8c07adb27af1",
+      "headline": "Russia, EU officials react after Romania shoots down three unauthorized drones",
+      "one_sentence": "Romanian authorities downed three unauthorized drones, prompting reactions from Russian and EU officials.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "1ebd38a25609",
+      "headline": "Upper Darby Police Department credit new crime intel center, drones with arrests",
+      "one_sentence": "The Upper Darby Police are leveraging drone technology to drive arrests through enhanced crime intelligence.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "7ded060ba3aa",
+      "headline": "NYPD drone captures teen subway surfers on video",
+      "one_sentence": "NYPD's use of drones results in the capture of subway surfers, culminating in multiple arrests.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Over the past 48 hours, drone incidents in Ukraine and NATO regions highlight escalating security challenges and operational responses.",
+    "linkedin": "Recent drone incidents reveal increasing tensions and operational adjustments needed in response to security threats across the regions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-29"
+}
