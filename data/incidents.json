@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "FAA issues drone flight restriction over Menasha tornado damage area - WBAY",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHY3SWhpeUtCd3JZRGZZVWVvUVJZQXp1QjljZXdnU19jaWt6aUlMQkx5R1VfcXRJamJobVNLWlMxeVQ5cjl1MEFlU2ZYQ3dxdTJpNlRoaS1LSXlHVHFkb1VfZFB2dGJCN0hZdjBNdkt0dnI4WlNHZ2tEM3RxdzNSaFhYelh3NHM2cnJyNHZNWEREUURzdUU3bUVCWGFRLWVuZGhV?oc=5",
+      "source": "WBAY",
+      "date": "2026-07-28T23:00:00+00:00",
+      "description": "FAA issues drone flight restriction over Menasha tornado damage area  WBAY",
+      "query": "unauthorized drone",
+      "detected_at": "2026-07-29T00:02:59.408030+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ce21ba433163"
+    },
+    {
+      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWtBZ2NFQWdpMUQ5dkRMZHpMVElFNkZNZnNWRzV1eHZZanc1ZHJRQWkyMnNxM2dvbGRua3pSTTcxTlpuSDVTcGtpUFpaUmJ0MDBZTUVaeFlINjF0ZnZHdi01UWlZNnJFZ3NheEZ6bXk1SF9ZYzdXbXVqMGFxdVl2ejdqc3c2cEdUX2FtUDdMR0lPaGFLQ1B6ZDdfc2t3X2RzNEE4aHFlU3loYlZETXg2dmpRTVp3VWp0R0NmaXRWR1RGYVYwMDdsQw?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-28T00:17:24+00:00",
+      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-07-29T00:02:57.244887+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "21f2037009e1"
+    },
+    {
+      "title": "Viral TikTok trend leads to 8 arrests in Spring - Click2Houston",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalJzeDVDZ1k4MEpqOEFiTl9yaU1tMnZwaHhCUG1MTWRoeEpESEc5dHNTTGRVRU03aW05ZzcybHZUbjNIZzVfNnVMYTgzU0IzbWFyZ0ZZNkxrY1JBLWVaYUxaUnQ2UEhzT1F5cUpkQnpOSGtHeVpVRHFrSnVKc0I0ZkxGMUY1NjJHREUydFVQQ1FXTUtvNWNkMkJ4UDc3ZHFoS29kcFZoWmZXS29nTEViQg?oc=5",
+      "source": "Click2Houston",
+      "date": "2026-07-28T18:43:09+00:00",
+      "description": "Viral TikTok trend leads to 8 arrests in Spring  Click2Houston",
+      "query": "drone arrest",
+      "detected_at": "2026-07-29T00:02:55.038551+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4726b38e8e49"
+    },
+    {
+      "title": "Upper Darby Police Department credit new crime intel center, drones with arrests - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTRWQnFHWUtSM0VEZEw4ZktHOE9rSWluLV9WUWg3ZERrWTV3dVo5blVPQ3dvYnd2Q091bDQxRUFXUEpkeVkySkZMSlpMbko5OWtkdkllWkszc3BBVDFHTmRQWXRLZUdxTVlGUTBNU2NrZFNKWUR1OVp2MTZUd2tXdHZ6OTB2R0pGZ2RaY1Q1bUNwU1k3X2g5LXhjWjVFdXd4WWpHcmhtcndZZ9IBrwFBVV95cUxPYnVxRHhtZldKWlhfRWxNb0t1NXNrWVZyel9HcExDODJkUGZFQzNQdVhVTktUYmVMLUJReEszcjZFb1FrQXJQeHJzR3NMall2UHBqVGRhbmI1T2pvWWpCRVlocEFSSE5selkzNWRPQjRpa0xYTGpBT1ZveHhDRXc5dHdtMlNha1JpRHpqQTNZeEJGU0tyUkF3RkpjWDhKY2xEamNkcU1kdmdkYTN3WkY4?oc=5",
+      "source": "6abc Philadelphia",
+      "date": "2026-07-28T23:52:51+00:00",
+      "description": "Upper Darby Police Department credit new crime intel center, drones with arrests  6abc Philadelphia",
+      "query": "drone arrest",
+      "detected_at": "2026-07-29T00:02:55.038551+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "231fccbb0f36"
+    },
+    {
+      "title": "Russia Rejects Romanian Claims of Drone Airspace Violations - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDhkaDRwT0tkcURTanBxUDYxY2FHNWhhNkFTTktQMGR3U2poNklha0tPZGktUEVWX3JhRllPb3M4WUhxdU9iWWhGbmxpTDEzZVZEbHBlTjA1bTFpSWpZZUFYMTlwWXBXSzdMX09zNUl4Q19kZXgtY0ZobVhhUU1PR2RDZFBqRnAwelE3RA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-07-28T20:38:19+00:00",
+      "description": "Russia Rejects Romanian Claims of Drone Airspace Violations  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-07-29T00:02:54.296780+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "94ca710f9b2f"
+    },
+    {
       "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWtBZ2NFQWdpMUQ5dkRMZHpMVElFNkZNZnNWRzV1eHZZanc1ZHJRQWkyMnNxM2dvbGRua3pSTTcxTlpuSDVTcGtpUFpaUmJ0MDBZTUVaeFlINjF0ZnZHdi01UWlZNnJFZ3NheEZ6bXk1SF9ZYzdXbXVqMGFxdVl2ejdqc3c2cEdUX2FtUDdMR0lPaGFLQ1B6ZDdfc2t3X2RzNEE4aHFlU3loYlZETXg2dmpRTVp3VWp0R0NmaXRWR1RGYVYwMDdsQw?oc=5",
       "source": "Reuters",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "feedab64b90f"
-    },
-    {
-      "title": "Group accused of federal prison contraband drone smuggling scheme ran out of former Macon daycare - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkwyUHJfQkoteW5GOFdCa19FU2tsZzhHQzV4ZktsWEtkOHdaaGJpNkFMRGVleTZxaHhGcnBLWmEyZ0xyTHRCd3ZpM2JwM05ZWGRBeGlKZ0VCVGdtYkRQYnA3Sm9ONDN0NF9Kdm1FaEpDQzd6M3ExRDdxSDhGci00dDhxNGxYRHJwMVVyVWZtaFNQbE5uS2RMQWdxLXRmUVNSYVltcXRPVGdQWkxpVTc5RURwMkhWclVKc19CdFB2ZmVjeFZkakgtZUJLZmpjNWJr?oc=5",
-      "source": "CBS News",
-      "date": "2026-06-25T17:00:36+00:00",
-      "description": "Group accused of federal prison contraband drone smuggling scheme ran out of former Macon daycare  CBS News",
-      "query": "drone prison",
-      "detected_at": "2026-06-25T17:50:35.836027+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "41be10d9ea13"
-    },
-    {
-      "title": "12 charged with allegedly using drones to smuggle contraband into prisons - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWQwSmpyWWFvLVdaYm9EcldDRFdaZkxWVmxTUnI1Rk9yeUlmTWhjVkRYTHRFOTlnNVlGZVQxVW1TSGpBT0xweGFtMzRXWVJRV1NqaW1yMzc2OTJKTVg1UlZQeUJtZkliRnNxYnIwblFnamY5U0hraWhRTDdWdUFkMDFVT01qOXpwcWxEZUw3d0pvUnY3RnNWQnVMdTHSAaIBQVVfeXFMUE9ORGhGSTZZOUhXdDgzNVBITWJfRWxIblFXdjNMMm8tSXZHU3pTWkxMWlFQb1ZDYVY5OXRqekxOaS1yU2FGUnh2NkF4b3ZRQVN4UmxuLVRRbnp6U1lZR1pEYS02ODA1d2U0VWJFTHJDZHkteEVaaTRidG5ldGlsUnR0SUZYdHRDeHlvM0xpdzJvNWU3c05DMEVnOHB2RjJuUHBn?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-06-25T16:37:45+00:00",
-      "description": "12 charged with allegedly using drones to smuggle contraband into prisons  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone prison",
-      "detected_at": "2026-06-25T16:49:23.768271+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "27a671496cff"
-    },
-    {
-      "title": "2 Lexington prisons part of major drone smuggling conspiracy, feds say - Hanford Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjNESEI4SDFLOWMzYVFUTVJIY2NTZmd1M2NOanp5TGduRl8tYk5XUmllR1V4Wl9zZVcyVXFyaXNKSS1EdFJENzJfRzV5WU5tZ2lFS3NXazNQVzl2YV8wcndKcFFpMUJzR3hmZGU3ZUc1aEVOTlMzeDM1THp6YWFOQ2Utc1o5UVVDeFBuWjEybnR6b1k4WWd1NkE4bDd0ejJuVkxSMGVmR0JBYVBzMTVsR2NDODVsSGF1ZDV1Q0NueXR4ZThyT2pkX2lFTk5QNFhzQ1p5RWVhWjZ0RjZId2xHS29pRlVzY2J6alJCZ0xVT1h5TGfSAfgBQVVfeXFMT1JVUjl1eEZZbnJpYl9QdHBQQ2x2eUYwSG5PU1pmMWw5RVNjQW9malpoekhTZHRPRFVYV0IzQkV6YjNHa280UWYzZS1RNy03ZVEzb3VxNVVaZkIwbW04WUhrSEZaZ3IzVDFzZUNIdGR1OVl0X0lYV0hYd0FLM1VrNHBaY1EycVZVVW15Yy1FUHpMdnJXak5yQTZWTk5FTS0zTGRLWkNKcGlzWU1aMlVWcFNwMXFzWXhZdjQ5X2ktNFdqS1JzSnBkdFhmcFk2RXQ4Qll6TVA3V3hWTVFuVFlDTDFrUzNfUWlJWUhveXM4U21JYnRhVTdNdUs?oc=5",
-      "source": "Hanford Sentinel",
-      "date": "2026-06-25T15:35:00+00:00",
-      "description": "2 Lexington prisons part of major drone smuggling conspiracy, feds say  Hanford Sentinel",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-25T16:49:23.290124+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "937c3dafa813"
-    },
-    {
-      "title": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare - 41NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnZDUW5iT2Y1YUVzSW1ReWlrb2dvU1dDNzljYTYtTGVrWWZ4S3hyZlg3MGJ6R2k3WFBxSk1xTVVyVzdjMkZwZjhZVWpTN1lHZHROMjBYczJZRm1QXzVqSmx3aFlXTW5DWTQ1ZDlYUmpmSDRoaVpaczdnU0xwZWFaMkVFdzJuTWU4NlpHN0FtaXFpeUR1eldSVmcwOHdXVkNuc3dTbllDdDE1MGthVnRz?oc=5",
-      "source": "41NBC News",
-      "date": "2026-06-24T19:04:45+00:00",
-      "description": "12 indicted in Macon drone smuggling scheme that allegedly operated from former daycare  41NBC News",
-      "query": "drone smuggling",
-      "detected_at": "2026-06-25T16:49:23.290124+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "46068f2cfdd6"
-    },
-    {
-      "title": "FBI, Seattle Police Seize 11 Drones, Arrest 4 During World Cup Match - The Seattle Medium",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QRmpKdXFwUk9ibHhrLWVEbnRNWWp4NDctV3hva25nMjhQdEdVRzZjYzJseHJucjNUZVBhOHhTUlpzMXFid1d3WEdCNG9uOHk1SU54QjA5cjNWOER6ck9jVklvR3dOTy1mckE?oc=5",
-      "source": "The Seattle Medium",
-      "date": "2026-06-25T15:50:46+00:00",
-      "description": "FBI, Seattle Police Seize 11 Drones, Arrest 4 During World Cup Match  The Seattle Medium",
-      "query": "drone arrest",
-      "detected_at": "2026-06-25T16:49:22.760278+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a61c2b2c5d68"
     }
   ],
-  "last_updated": "2026-07-28T22:57:55.412479+00:00",
+  "last_updated": "2026-07-29T00:02:59.887960+00:00",
   "total_count": 1000
 }
