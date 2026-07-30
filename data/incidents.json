@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian strikes across Ukraine kill 10 and a missile falls in Poland - NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCQ2RZOXpSNC01Skk4YkVSdmkzWkd0aE1uOGVKSGZSQURTUkd6bm9iQmhacnB0RUY3ZFBNcmEzeHF2bC1tQnBQazZjYWpqbks4WEkwSXBmUVhZcGI4ekpodGIybmlNNC03Z21JSERR?oc=5",
+      "source": "NPR",
+      "date": "2026-07-30T09:53:10+00:00",
+      "description": "Russian strikes across Ukraine kill 10 and a missile falls in Poland  NPR",
+      "query": "drone terrorism",
+      "detected_at": "2026-07-30T23:06:36.170836+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "aa4e6dae3d65"
+    },
+    {
+      "title": "US-Owned Gas Storage Tanker Damaged In Egypt Drone Strike, Fire Spreads To Second LNG Vessel - Marine Insight",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2k0MDZnSWJ6R0ZieDBmQThRaXBFeE1qWFZvejhuU3pKcElNUkxwR2FERER6U1pwNUdveVNCcFd4V0l3bl9IdnhxZ2YyYVJwejVxOXByRkxaTmtEWC04blI2ZEFKSkFVX1BEX0diZk1HQ1djcU1GUks0SFNKaElCVmNnOWRad0xxbnQzcFJxWDlWNDhBUjd1YlNLWldTSi05eVNoVkUzRHBfdEtBQzdEY0pfQVhTaVNQTUxvMVRJRQ?oc=5",
+      "source": "Marine Insight",
+      "date": "2026-07-30T11:34:32+00:00",
+      "description": "US-Owned Gas Storage Tanker Damaged In Egypt Drone Strike, Fire Spreads To Second LNG Vessel  Marine Insight",
+      "query": "drone incident",
+      "detected_at": "2026-07-30T23:06:31.858341+00:00",
+      "location": "In Egypt Drone Strike, Fi",
+      "category": "other",
+      "id": "99f4b78eee94"
+    },
+    {
       "title": "DOJ: 94 unauthorized drones seized during FIFA World Cup in North Texas, 3 operators charged - wfaa.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQM0RicjUtcWViU2c1VGhDR3V2SkIzWGh4TDRmQlJiVkdpR1k5WXB4SlhXVnE2WVFwNVpNVmxFc2l4bmFkUktrRWs2dlo4T1hFUENqT0tEZXN2WTJGSHl4cFJTQnRwSTdfcU9yeHVuaUREZDdKWTlLbFBXWVM1MnJpODZHMlpqdHRsU0tEM0U0QnFweDc2NWozeFFVaTBVZlNFZHk5TXQ1YVNqUkdiWXMwMUpnMW52Sm1KMnotY3A1Nlg1MG12Q0w1eGFTWlE0NFkwM2VoaDlqdkhZbEg4dFhpSFVfc2Q2Z05COXlwLVAzbmMzTktqNk1BaWRlYlJGZ2U1cUtFNW1mYXZrVWZCWGExZl93?oc=5",
       "source": "wfaa.com",
@@ -11975,32 +11999,8 @@
       "location": "at Newark Airport",
       "category": "airport",
       "id": "3ea14140670a"
-    },
-    {
-      "title": "JetBlue flight collides with drone in New York - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzRrTXI4TklzNldjNERzRk5laEF2d0JLN2RQaFZvQ214eUNEODVsNURtSktTQVFuRENpLVV0eXhrVlNrekJfY1pXYVplOGhNN2Q1OEJfX2NzZVBPM09JY3JDRF9uUXJMSE1CT05Lb1M4MFVjUWdhSXBPWXVILU5ua0hsd0Z4Z0JQbnRTSmVmZw?oc=5",
-      "source": "NBC News",
-      "date": "2026-06-29T18:22:23+00:00",
-      "description": "JetBlue flight collides with drone in New York  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-06-29T19:35:25.460790+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "04e8c7a52172"
-    },
-    {
-      "title": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVFUTXBpYy1OMi0wMm1XamlMZHBKU3BCQ2NPRWhyT3JNLTlXOVprSjVoOVBuRlhBT0lWdzlNZXlpOTRpY0lpTnhZZ2MtU0RUSWhuT3oxdjRzWERzb09GMnh2amxuTVJmTXZPVWJKV3lBU29rU1o5U082T1BseGc3MlJ0VHpSQjhMNFEwS3hHemEwRE1mQ3BKSjQtdndnUTlONlhvWi10WElmb19vYURF?oc=5",
-      "source": "ABC7 Bay Area",
-      "date": "2026-06-29T17:48:45+00:00",
-      "description": "JetBlue pilot reports hitting drone as flight approached landing at JFK Airport  ABC7 Bay Area",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-29T18:44:59.007702+00:00",
-      "location": "at JFK Airport",
-      "category": "airport",
-      "id": "88aa43c2e61b"
     }
   ],
-  "last_updated": "2026-07-30T21:09:29.105831+00:00",
+  "last_updated": "2026-07-30T23:06:37.270653+00:00",
   "total_count": 1000
 }
