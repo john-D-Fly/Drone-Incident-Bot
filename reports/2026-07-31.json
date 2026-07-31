@@ -1,0 +1,122 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a significant increase in drone-related incidents, particularly in the Middle East and Eastern Europe. Notably, Egypt has reported multiple drone attacks causing fires on gas vessels at Damietta Port, linked to escalating regional tensions. In Ukraine, Russian drone strikes continue to claim lives, with recent reports indicating at least 10 casualties in various attacks. Furthermore, unauthorized drone activities have spiked, particularly during busy events like the FIFA World Cup, prompting law enforcement responses in multiple locations. The convergence of these incidents highlights a growing trend in the utilization of drones for both security threats and illicit activities, raising concerns about public safety and regulatory compliance.",
+  "totals": {
+    "crash": 8,
+    "other": 41,
+    "security": 2,
+    "terrorism": 6,
+    "smuggling": 2,
+    "arrest": 7,
+    "total_incidents": 114,
+    "by_category": {
+      "airport": 5,
+      "arrest": 9,
+      "crash": 9,
+      "other": 79,
+      "security": 4,
+      "smuggling": 6,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone crash": 14,
+      "drone illegal": 5,
+      "drone incident": 41,
+      "drone prison": 2,
+      "drone smuggling": 3,
+      "drone terrorism": 28,
+      "unauthorized drone": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone attacks",
+      "rationale": "significant casualties and implications for regional security",
+      "incident_ids": [
+        "ec8561f3ebb2",
+        "71a69c317171",
+        "4fc930b68e0a",
+        "7dc1fe8251bc",
+        "da51b08735ac"
+      ]
+    },
+    {
+      "topic": "regulatory concerns",
+      "rationale": "rising unauthorized drone incidents highlighting governance gaps",
+      "incident_ids": [
+        "02212b25a35a",
+        "7f0a0fa51ba5",
+        "8e739e3e5b00",
+        "2f0eba024c54",
+        "94d3604181bc"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ec8561f3ebb2",
+      "headline": "Islamist terrorist drone attack and ambush kill 10 in Pakistan, police say",
+      "one_sentence": "A recent drone attack in Pakistan resulted in 10 deaths, marking a significant security threat in the region.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Pakistan"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "da51b08735ac",
+      "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta",
+      "one_sentence": "Egyptian authorities confirmed that a drone attack ignited fires on two gas vessels at the Damietta port.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Egypt"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f4a3f108f5c7",
+      "headline": "Woodway police use thermal drone to capture armed felon on roof",
+      "one_sentence": "Police utilized a thermal drone to successfully apprehend an armed suspect hiding on a rooftop.",
+      "risk_tags": [
+        "arrest",
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "99f4b78eee94",
+      "headline": "Russian missile and drone strikes across Ukraine kill 8, injure dozens",
+      "one_sentence": "Recent coordinated Russian strikes involving drones have resulted in multiple deaths and injuries in Ukraine.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9b9f2021802c",
+      "headline": "Unauthorized drones seized during FIFA World Cup in North Texas",
+      "one_sentence": "Law enforcement seized nearly 100 unauthorized drones during the FIFA World Cup, indicating a security breach.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising security issues, particularly in Egypt and Ukraine.",
+    "linkedin": "Over the past 48 hours, drone-related incidents have surged, drawing attention to security implications in Egypt and Ukraine."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-07-31"
+}
