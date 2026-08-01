@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IS2tsaTVsYnllZzNQdkNJWm9ZMUhUdkR4YlFoVEY3VWVubE1FdUl1VnJfOFlWemZWS0xwM00zT2g3WmNHQ1pMb1VqUEhOMVRfbEU4TDkxZjRoQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-08-01T13:35:39+00:00",
+      "description": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship  BBC",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-01T17:59:37.970641+00:00",
+      "location": "in strikes on Kyiv, as",
+      "category": "other",
+      "id": "5d20e394bb71"
+    },
+    {
+      "title": "Problems in Splitin: drone causes traffic disruption ahead of busy weekend - Portal.hr",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTERjWG96bXZ6cXItZUp3OVRNaWttLXBKVnl5SHlWd1BzMU03X2l1OFpuM0lrdGFzWjJfWW9KT2dJM2R3TnhlTm53QkNRalItaUlFWE1sbmFsd19GMzQ2Ujg4UFpQYWU0SkIzOHBNeHVsQURoQ1RJZ0prX0NscllBYzVhLUIzOTFrQVBQcGJVWHF4THp0bnlSM0Y0SktydWVxd0RhdzVzSmdvZw?oc=5",
+      "source": "Portal.hr",
+      "date": "2026-08-01T08:36:14+00:00",
+      "description": "Problems in Splitin: drone causes traffic disruption ahead of busy weekend  Portal.hr",
+      "query": "drone airport disruption",
+      "detected_at": "2026-08-01T17:59:35.842121+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "4a95619d1b35"
+    },
+    {
       "title": "Russia Clamps Down on Posting Videos of Ukrainian Drone Strikes - wsj.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBfYWlDYThtS1ZYbEptUGtSWVpXWGt2WVpvSGpadkV1bnM4Y1lQQ3BwNGExSncxWUZXUnRzcjVWQmctOVJ5dXBIN3VEdnA5aUJhYzhpR2dseVBsdjJSc0ROSlRtUjNHSE5TajNlenY1UzNvMmlYeEotTDJUR0ozc0VYSVhOeHhOeHZPeGpHNG5TOTA3VzNJZzRheHpZYW8?oc=5",
       "source": "wsj.com",
@@ -11975,32 +11999,8 @@
       "location": "near JFK",
       "category": "airport",
       "id": "c88bb0b273c9"
-    },
-    {
-      "title": "JetBlue Reports Drone Strike Near JFK - Aero-News Network",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnZ1U2xxQWZVZ2hmcGluM3BNWVJEbWZEVERJRG1kTVpVal9Nd0d4cGdqTU9hdzdZQ1FLRElZVXNEdXNpNnUxV0hiUUFhM0Jlc3R5d1lRVG1kcjhQalJiVThVU0VyZ1VhRjktS3ltNWU1d2pCRG9sX2xOUGFMcjNnY1UzZm4wUk5RWEo2TllVUzRfaEZUUHk0?oc=5",
-      "source": "Aero-News Network",
-      "date": "2026-07-01T04:02:07+00:00",
-      "description": "JetBlue Reports Drone Strike Near JFK  Aero-News Network",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-01T05:36:51.487125+00:00",
-      "location": "Near JFK",
-      "category": "other",
-      "id": "7033f259acbf"
-    },
-    {
-      "title": "Former inmate arrested after drone drops contraband near Holman Correctional Facility - WTVY",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWVFa1RYRXpwTnJqUUwyQTlteC00Z29UUjRSUnJ3OVFZSm5qbG5NNEhMUlVoR0lfRUtXX01xakJBeE9RTEVxQ3cwLUdPWTJEdW1mQW1wbHhtVWdFWEp2QS1DRlVpOHYwbHEyR18tUkY3a3ZPMlByUTBEaWE4MnJiYnhoUmdrNHhNUWozLWtyLVMxUnk2RHVnNTlBbnZTcTM5cFJKUUJ4YlotWkNwU3pSQk1uNzVOZFlPdVE?oc=5",
-      "source": "WTVY",
-      "date": "2026-06-30T14:22:00+00:00",
-      "description": "Former inmate arrested after drone drops contraband near Holman Correctional Facility  WTVY",
-      "query": "drone arrest",
-      "detected_at": "2026-07-01T01:51:53.063680+00:00",
-      "location": "near Holman Correctional Facility",
-      "category": "smuggling",
-      "id": "94ac09d41337"
     }
   ],
-  "last_updated": "2026-08-01T14:59:44.274042+00:00",
+  "last_updated": "2026-08-01T17:59:39.035638+00:00",
   "total_count": 1000
 }
