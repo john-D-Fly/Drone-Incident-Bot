@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Southern Military Zone Thwarts Drug-Smuggling Attempt via Drone - petra.gov.jo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHdyNE1GRm5GZlVIZzlReUtYUkM2UmY1RTFWblIzSTdydXZBT3J6bThWWWduSEFJckFOLVhRN0FFdTJ5anRja3JQM25UdDRsYlcwUnlWX1B4UE15UWdMQk9BZkJlN01EZVBGdFNRYmxpUXoyN1FmQ2gxcU9XQktCVjJ5X2RkNHlKaWVaQTl3TWZxQklfVzBfSktB?oc=5",
+      "source": "petra.gov.jo",
+      "date": "2026-08-01T11:10:27+00:00",
+      "description": "Southern Military Zone Thwarts Drug-Smuggling Attempt via Drone  petra.gov.jo",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-01T20:51:50.108925+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "8c3e5d2c565f"
+    },
+    {
       "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IS2tsaTVsYnllZzNQdkNJWm9ZMUhUdkR4YlFoVEY3VWVubE1FdUl1VnJfOFlWemZWS0xwM00zT2g3WmNHQ1pMb1VqUEhOMVRfbEU4TDkxZjRoQQ?oc=5",
       "source": "BBC",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "eaabd5c72c29"
-    },
-    {
-      "title": "FAA probes reported JetBlue drone strike near JFK - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNejJtdm1sYWREcnk3YVBpQm5rNmEyVXdjcmxMZXg0dWlMZEdVbFlVNUpUM1pDRUotckpBVm96V19nZGhKdEEyaUZkNG5PSVNpSUZsWWRNQjFxcEwtRlNaX0tWVW9YTXljZkVCSzBNWm95QzFxSlI3dFI2TUFEQ3p3cjBvejAwSC1LVkdCRnRhRXQzWUxCaWJlMXR1al9UOFZ5eWtKWDJuc1I5ZGpxZW8xRlhwOFBueTdRVE05MGhBTTk3ajdkYjg2YlRjUzlZemZOeVJxcVNNQkZFRU1reDRuV2N0Q1pOUQ?oc=5",
-      "source": "MSN",
-      "date": "2026-06-30T13:43:26+00:00",
-      "description": "FAA probes reported JetBlue drone strike near JFK  MSN",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-01T05:36:51.487125+00:00",
-      "location": "near JFK",
-      "category": "airport",
-      "id": "c88bb0b273c9"
     }
   ],
-  "last_updated": "2026-08-01T17:59:39.035638+00:00",
+  "last_updated": "2026-08-01T20:51:54.235064+00:00",
   "total_count": 1000
 }
