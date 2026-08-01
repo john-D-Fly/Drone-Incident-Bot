@@ -1,0 +1,177 @@
+{
+  "narrative_summary": "In the past 48 hours, several significant drone-related incidents were reported globally, with a notable focus on smuggling and security breaches. In the Southern Military Zone, authorities intercepted multiple drone missions attempting to smuggle drugs. Meanwhile, in the United States, thermally equipped drones assisted police in apprehending suspects linked to burglary. A concerning trend was observed in multiple reports of unauthorized drones interfering with emergency operations, particularly during fire incidents. Internationally, communications failures were noted regarding military drones, particularly near U.S. operations in South Korea, raising safety concerns. Moreover, multiple instances of drone attacks linked to terrorism were reported in Egypt and Pakistan, reflecting an expansion of drone utilization for malicious purposes. The data highlights the increasing complexity and risks associated with drone operations.",
+  "totals": {
+    "smuggling": 3,
+    "arrest": 9,
+    "other": 21,
+    "security": 4,
+    "terrorism": 7,
+    "crash": 4,
+    "airport": 1,
+    "total_incidents": 72,
+    "by_category": {
+      "airport": 1,
+      "arrest": 8,
+      "crash": 3,
+      "other": 47,
+      "security": 4,
+      "smuggling": 4,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone arrest": 12,
+      "drone crash": 8,
+      "drone illegal": 2,
+      "drone incident": 31,
+      "drone smuggling": 4,
+      "drone terrorism": 10,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple incidents of drone smuggling attempts indicate increasing attempts to utilize drones for illegal activities.",
+      "incident_ids": [
+        "3ba13810ea67",
+        "2513f777874e",
+        "09ca9074df80"
+      ]
+    },
+    {
+      "topic": "Drone Security",
+      "rationale": "Increased reports of unauthorized drones during critical operations show a vulnerability in security protocols.",
+      "incident_ids": [
+        "0087d28d3162",
+        "ad4ff8e754ad",
+        "dba52a584a07"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Incidents indicating the use of drones for terrorist attacks highlight the associated risks in high-conflict areas.",
+      "incident_ids": [
+        "ec8561f3ebb2",
+        "f72d3bf837cc",
+        "b42d55fdebdb"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "3ba13810ea67",
+      "headline": "Southern Military Zone Thwarts Drug-Smuggling Attempt via Drone",
+      "one_sentence": "Authorities intercepted a drone attempting to smuggle drugs in the Southern Military Zone.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2513f777874e",
+      "headline": "Army foils drone drug smuggling attempt",
+      "one_sentence": "The army successfully thwarted another drone drug-smuggling operation.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "0087d28d3162",
+      "headline": "Unauthorized Drone Interferes with Fire Operations",
+      "one_sentence": "An unauthorized drone led to operational delays during fire activities.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "ec8561f3ebb2",
+      "headline": "Islamist Terrorist Drone Attack Kills 10 in Pakistan",
+      "one_sentence": "A drone attack and ambush by terrorists resulted in the deaths of ten in Pakistan.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Pakistan"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b42d55fdebdb",
+      "headline": "Wildberries founder calls Ukrainian drone strikes 'acts of terrorism'",
+      "one_sentence": "A prominent figure characterized drone strikes in Ukraine as terrorist acts.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "3fe5d32318b6",
+      "headline": "Russia’s billionaire mayonnaise king is under arrest over drone project",
+      "one_sentence": "A billionaire associated with military drone projects has been arrested in Russia.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "39770963cfac",
+      "headline": "Russia Clamps Down on Posting Videos of Ukrainian Drone Strikes",
+      "one_sentence": "New regulations were imposed to restrict the public sharing of drone strike videos in Russia.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d38a74b8bc3d",
+      "headline": "Fire activity increases on Wide Mouth 2 fire; unauthorized drone leads to operational delays",
+      "one_sentence": "Fire activities were hindered due to the presence of an unauthorized drone.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "6720cd8142cf",
+      "headline": "Egypt Confirms Drone Caused Fire on Gas Ships",
+      "one_sentence": "Egypt confirmed a drone strike caused a fire on ships at its Mediterranean port.",
+      "risk_tags": [
+        "incident"
+      ],
+      "countries": [
+        "Egypt"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f70cde8a7937",
+      "headline": "Questions arise over possible communication gap after US drone incident",
+      "one_sentence": "Concerns over communication failures arose after a US drone incident.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2026-08-01",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
