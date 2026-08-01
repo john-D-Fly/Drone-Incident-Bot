@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "South Korea reviews near-shootdown of U.S. military drone near North Korean border - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR5blJza3NsalZyTkFxYXpNQjEtdHBPRjV3Q0tLWGJHdUlKYk1VUXlfUVI4Q1dQR3dFMEFJR1gtOGNydkx6R1d3Mnp2cFBYWlY2dG5BQTViTEpUNVEyTm1aWWJmSXR4cVN3UkdvdFoxeXVrVlZqRGlfQVRWWncxVw?oc=5",
+      "source": "The Japan Times",
+      "date": "2026-07-31T05:38:00+00:00",
+      "description": "South Korea reviews near-shootdown of U.S. military drone near North Korean border  The Japan Times",
+      "query": "drone incident",
+      "detected_at": "2026-08-01T09:58:24.329144+00:00",
+      "location": "near North Korean border",
+      "category": "other",
+      "id": "a34c4ab30353"
+    },
+    {
+      "title": "UKMTO reports two tanker incidents off Oman as Kuwait says it intercepts Iranian drones - jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Q0lfcHlHQ0NhMVdzT0FDc0NjcGZGbU1sRHgtRjZfQkUzN1J4ejAxdFdLeFVsT2hKM1JTWGs4Qllncll0eFY3S3RVQVVmTDd5T3V4cVlTLXl6ZVlJ?oc=5",
+      "source": "jpost.com",
+      "date": "2026-08-01T07:31:16+00:00",
+      "description": "UKMTO reports two tanker incidents off Oman as Kuwait says it intercepts Iranian drones  jpost.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-01T09:58:24.329144+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "42e10ef10cab"
+    },
+    {
       "title": "Fire activity increases on Wide Mouth 2 fire; unauthorized drone leads to operational delays - abc4.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFgyRWMtQXl1U0RsTEpqWXNNUFV1OEpNMHJHc2F3Y09odC1qbmFXbWpNbnROR0kxR0Z5LVVqcGkwRm9nXzBRMzE5NTl4YWJCaS1XU0c3MDhjQk1aZFdkcTRjeEdPY2YzeUpQVE53TVNnNFVCQVo1MG9PNm1iTE1Xd25DdWtCVGxlUy12U0Jhb3pqb3pvYThPOUtQUlRHNDFfQkc4akRiRmxPZjBaUWl0STU5UThaOXMxdEIzTjJ5cEpycElvT1FB?oc=5",
       "source": "abc4.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e94b856f21b8"
-    },
-    {
-      "title": "Kirkwood's newest tool against illegal fireworks is a drone that talks back - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmtkck9RSC1rY2I0ZUFKY2dRMDJoUXZMT2pwNVlWOEZaTTNxdFBaSURIblhMbWpZNnNoQTNuMzA3YWRiVmlXaVlnNGh4MDBldlpPeXVfWG1tVWZZYUhkQ1JacFdZMGtHRW90VUN6T1lpOWtxNExxT202UGRJeFRGOUp4by0zRUIyb29UaUdweG84TW9OMHczUWRBWVRVamp3aHdjWlJmckhZWk9WNVh6aDhJb0Y?oc=5",
-      "source": "Audacy",
-      "date": "2026-06-30T19:25:11+00:00",
-      "description": "Kirkwood's newest tool against illegal fireworks is a drone that talks back  Audacy",
-      "query": "drone illegal",
-      "detected_at": "2026-06-30T19:37:08.144676+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "06accf62c253"
-    },
-    {
-      "title": "FAA probes reported JetBlue drone strike near JFK - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNejJtdm1sYWREcnk3YVBpQm5rNmEyVXdjcmxMZXg0dWlMZEdVbFlVNUpUM1pDRUotckpBVm96V19nZGhKdEEyaUZkNG5PSVNpSUZsWWRNQjFxcEwtRlNaX0tWVW9YTXljZkVCSzBNWm95QzFxSlI3dFI2TUFEQ3p3cjBvejAwSC1LVkdCRnRhRXQzWUxCaWJlMXR1al9UOFZ5eWtKWDJuc1I5ZGpxZW8xRlhwOFBueTdRVE05MGhBTTk3ajdkYjg2YlRjUzlZemZOeVJxcVNNQkZFRU1reDRuV2N0Q1pOUQ?oc=5",
-      "source": "MSN",
-      "date": "2026-06-30T13:42:25+00:00",
-      "description": "FAA probes reported JetBlue drone strike near JFK  MSN",
-      "query": "unauthorized drone",
-      "detected_at": "2026-06-30T18:40:58.528913+00:00",
-      "location": "near JFK",
-      "category": "airport",
-      "id": "a1d30b2e6d19"
     }
   ],
-  "last_updated": "2026-08-01T07:26:58.598750+00:00",
+  "last_updated": "2026-08-01T09:58:29.195213+00:00",
   "total_count": 1000
 }
