@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Fire activity increases on Wide Mouth 2 fire; unauthorized drone leads to operational delays - abc4.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFgyRWMtQXl1U0RsTEpqWXNNUFV1OEpNMHJHc2F3Y09odC1qbmFXbWpNbnROR0kxR0Z5LVVqcGkwRm9nXzBRMzE5NTl4YWJCaS1XU0c3MDhjQk1aZFdkcTRjeEdPY2YzeUpQVE53TVNnNFVCQVo1MG9PNm1iTE1Xd25DdWtCVGxlUy12U0Jhb3pqb3pvYThPOUtQUlRHNDFfQkc4akRiRmxPZjBaUWl0STU5UThaOXMxdEIzTjJ5cEpycElvT1FB?oc=5",
+      "source": "abc4.com",
+      "date": "2026-07-31T04:29:24+00:00",
+      "description": "Fire activity increases on Wide Mouth 2 fire; unauthorized drone leads to operational delays  abc4.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-01T07:26:58.099298+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "0087d28d3162"
+    },
+    {
+      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Lee News Central",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObTNBOE5YRlFjbWt1TjMwMFpPR0N4T3NPeXA5cDZiWHhJMkFlREQ0T1l2dlBOWVdaZUR4UmJKRUJNWUNJZmVnMXE3ZE9PbS1QemZWZHN0RUk0U0V5QjJWYWhObmUtUHpRdVpZZWRtMlctN2l3SWItZVlxaklLMGJtc0RpckRncUJackFuLW9QT2VkUGlOLWhMOTZfcFd0QVVwTzhNNW5ZTDZTRnhwcHo3YXZDb1hOTHlCT2hmc3pzNU9seVVudC04NHZMaG55ZjFrUklZV0hyaVM?oc=5",
+      "source": "Lee News Central",
+      "date": "2026-07-31T23:46:00+00:00",
+      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Lee News Central",
+      "query": "drone crash",
+      "detected_at": "2026-08-01T07:26:56.097208+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9862f4e437c1"
+    },
+    {
       "title": "Wildberries founder calls Ukrainian drone strikes 'acts of terrorism' - news.az",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblRuWlMtN0c1R2dmY2xYLUlfWkdLaW5tS3ByZThrV0tUZlpETnpjTzVFSU1KRWh3QWZHZUQ5U19WMm9xTGs5SDhZT18zM1laZmFWSmFFTDlPRDgyRFZVV1YxN2tJdzd5WFBEWTNGME5rUjhkcTNwSE5SVi0zSXZZZVNEb0lPRVFHRHFFVlJ4bGRlZw?oc=5",
       "source": "news.az",
@@ -11975,32 +11999,8 @@
       "location": "near JFK",
       "category": "airport",
       "id": "a1d30b2e6d19"
-    },
-    {
-      "title": "Hamilton County deputies arrest wanted suspect after drone-assisted search in Meigs County - WCLE Mix 104.1",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV05pOWtkR29UbFdCRExtRHVVQU1ZMmEyUTc5emRYMld1RmNVN0FLYkNQT3ZuUDhKUDhybmpISGtJeHNQS0R3V0xwZnFlQ1lsdTE4S21GUXdyV3M1aDZWamo5Vmd6cXctYnJtNE9HV2pMc3V0akRfbHgtZGRBVnUta2R6SGl1VHh6dFBVTTBNY051amFtLURPTTBpM29sODBTckNtczVPUWhUYWU3a09rLWkzTDR6eW1GMkIwRG9waVhTcExBT2RB?oc=5",
-      "source": "WCLE Mix 104.1",
-      "date": "2026-06-30T13:22:19+00:00",
-      "description": "Hamilton County deputies arrest wanted suspect after drone-assisted search in Meigs County  WCLE Mix 104.1",
-      "query": "drone arrest",
-      "detected_at": "2026-06-30T18:40:54.493749+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c70dc56b7f85"
-    },
-    {
-      "title": "First Responder Drone Assistance Leads to an Arrest - El Paso County Sheriff’s Office",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0N2b0FJQklKZlpDdll3cVZ4V3BtTThjLVZkSThQQjVOVXZjRXdzMFIwY0VfVnNFdkxEbUNHbk5MeVNWOW9fYWJxdDJQQjAwRGJpVHFyaGNscGRmVXVuUHJpbnNoa1VSdm5udzlXM1pWMWxLLUJzZHdsaWdrWUxnMEJhOFpoaDZuaUE?oc=5",
-      "source": "El Paso County Sheriff’s Office",
-      "date": "2026-06-30T14:47:35+00:00",
-      "description": "First Responder Drone Assistance Leads to an Arrest  El Paso County Sheriff’s Office",
-      "query": "drone arrest",
-      "detected_at": "2026-06-30T18:40:54.493749+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "998ce480b16b"
     }
   ],
-  "last_updated": "2026-08-01T04:20:11.952381+00:00",
+  "last_updated": "2026-08-01T07:26:58.598750+00:00",
   "total_count": 1000
 }
