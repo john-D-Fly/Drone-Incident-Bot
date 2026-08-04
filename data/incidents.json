@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Ukraine accuses Russia of war crime after video shows drone attacking market vendor - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0dKYnNEVVFrdlNXS1JkMXNlcVlYekZlTTFXZ21IVU5wLUpvRTRoZFVNUUtvcUZOWHlZZG84Z0huU3ltdlVrVFpMZ3dMV1dSano3bmlRM3Bnam5Qa0Vmd2ZsOGpxQWstTkNBV19DLXo1OWVsMDlzOUtwT3pYNm8wdW41VUhOOXBqQV90TjBsUDdnRVlJVEhGNnB3MExacFdES19PdGYyQkp3dmNhcGxnQy1LUFFJZ0U5YnB4UHFuV2RIQmtrQXc?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-04T13:34:35+00:00",
+      "description": "Ukraine accuses Russia of war crime after video shows drone attacking market vendor  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-04T16:11:09.952306+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a24d8d8b3dcf"
+    },
+    {
+      "title": "Russian and Ukrainian drone strikes kill at least 5 in each country - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHQ5Z0tIakJVMmRXOE5zSUQ2eGJraURSaEE5SXBSRVR0WmNzMjcxNWNVc3BnWVpXbjBLTUkxOFo3R0dzQVowYkRobThZM0dQWmloYnVlbmpMOUxRcno2X09HdE1ZYXlqdG05dDhYZ3J2UlQ1ZFdpYjI4TkpLaDBPV3BiMy1mZFE?oc=5",
+      "source": "AOL.com",
+      "date": "2026-08-04T13:07:30+00:00",
+      "description": "Russian and Ukrainian drone strikes kill at least 5 in each country  AOL.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-04T16:11:09.952306+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0302699f4338"
+    },
+    {
+      "title": "Ukrainian drone strikes deepen Russia’s fuel crisis - National Security News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmZYNFAySFN1TERRM0MxRlZBUzAyZGU1c3VKWU9JSWk2Zi1rRWRfdXE3UjFpZm4wRWxLS28yYzdRTjAyY3RpX3F4QzFQNTdxSkR5SGVXZm1Dd3BuNnhmb21BbHREVUpwM2RQaXlVa2JIdUJBOFhmMERRRWRCcWttTFdFVE9mcEdZQTBTWHZ3cXF5SEFPbk9n0gGcAUFVX3lxTE93RHhpTU9NZlhhYVJNY0x3cWpGa1FNcFJGYmRmSXlaT09iazRNbWZkbkxfcXM2REk5YUpqemJSUHFBdlNsQU1TWVhWdmtMak1wU0p5VWJOUUl6bXBvSEdIT3E0Tm9qdmY1alNFaVlpVFBOVTAyZnBmU2NpNW9KVjllVFhPdFMwTVdQd2YycXdvY2ZCTWx5dmU4bUYxbw?oc=5",
+      "source": "National Security News",
+      "date": "2026-08-04T11:21:40+00:00",
+      "description": "Ukrainian drone strikes deepen Russia’s fuel crisis  National Security News",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-04T16:11:09.952306+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "78a7b10ff396"
+    },
+    {
+      "title": "Ukraine strikes 3 more Russian warehouses and kills 5 people in overnight attacks, officials say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNqV053eGo1Y3UtWjV1S0VuZGFOdU1KWlJRb2pDZkFlTl9ETEhta21XNjIxaDMwRDU5S1c0bTBLemdLdkVEN1FZa19jVU5ZWkRHRDd6aVBhZFNYYnRXU3pkbnN3UWlaYnNyMG12Tm9jMF9ZdkczOFQ0OTNXOHEzWTlQZ0NCRkJWUXhhYXdrSGhBdGV1anpWWXdxS053WEwydjAxSVNYanI4SjBUX0xzcEFET2VFMnE0U2Y3NERmbXFLX3h4VklR?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-04T06:58:00+00:00",
+      "description": "Ukraine strikes 3 more Russian warehouses and kills 5 people in overnight attacks, officials say  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-04T16:11:09.952306+00:00",
+      "location": "in overnight attacks, of",
+      "category": "other",
+      "id": "1d640368cc2c"
+    },
+    {
+      "title": "Drone crash and explosion in Russia kill seven, injure 40 - omidradio.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUm1wUGtGbm9aUWlIRFhYNFlJVkRRNnZlRE5FUjdxNWFZcXNwYkxyU21wSVRDZVY1OU5MU2NUOU5RWmJhdjZiYVhyZVkwZktlVG9ZUUx0NVA3SVU3Z0lEcW43SUdxaUJLaGJsSUNRY1B5Ymk0Z08wbzBVMEFuS0tTX0VGWk9SdERoVllKaWVhcmRMei1IT2phNA?oc=5",
+      "source": "omidradio.com",
+      "date": "2026-08-04T04:39:20+00:00",
+      "description": "Drone crash and explosion in Russia kill seven, injure 40  omidradio.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-04T16:11:08.462997+00:00",
+      "location": "in Russia kill seven, in",
+      "category": "crash",
+      "id": "0a2bae39493f"
+    },
+    {
+      "title": "Ukraine drone crashes into Russian beach, killing 7, including 3 kids, after reportedly being hit with anti-aircraft fire - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTdFb1JzeTVqZE5pSXJTWG1VclVHR1VXS0hXVHJhNm9ycEZTR29LeVJTV2tHcUxETDE0SXQxSU5FVjlfWDY3Y2hxSDRLT3F5ck9sa2JHczktSXFvS1N4Q3NCZHlmbXhTVDBFV21mMU1yblVBbkxpSURoX1pvdDVpcmVaMlcycmZZME04S0NvdVJVSnJOSVkwVGl0eDV6Vm5tc2Q3WjkzM2toUW5iQ3poaks2cHVOZkZMblBFSlpsVlFEUQ?oc=5",
+      "source": "New York Post",
+      "date": "2026-08-03T18:13:37+00:00",
+      "description": "Ukraine drone crashes into Russian beach, killing 7, including 3 kids, after reportedly being hit with anti-aircraft fire  New York Post",
+      "query": "drone crash",
+      "detected_at": "2026-08-04T16:11:08.462997+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "794ec89ee20a"
+    },
+    {
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHFZd2R5YU5fSjRQRl8zYXZNRk1TUkwzTVhZYlFiTURXNExzRnZGWHA3a1JKajRQekdjN3RpY1RDbnQ4M1kwTVVTRS02YWFNeVk3OTRCMDR5TlkyVWRIRUFKYXRYV0h0OUNMZ3g2TUlJNFNiR1ZZVHBHU21kd21LZjdGemZNeG5ZYjRmRVFwVUNOQzNFVXpLcUJXOUp1M3kyYktYMW9qXzE0M1QxMUlPdUhzWl9SMzA?oc=5",
+      "source": "NBC News",
+      "date": "2026-08-04T11:58:05+00:00",
+      "description": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach  NBC News",
+      "query": "drone crash",
+      "detected_at": "2026-08-04T16:11:08.462997+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d43ef6fc6399"
+    },
+    {
       "title": "Chaos at busy Russian beach as several killed by Ukrainian drone - The Independent",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOS1uNDY2SnJuQjNlSVhhRFAxcXNWMEE2SG5VYVVFUHZRb0NmbnU0MGxuN1Y2aDVLS0hmeTdpTWQtYjhjbjVvcG9XZ3R4ZUoyclVKSkhKajhFdlluOS0xTC03QlUyOThFUGkyNWE2M1doMnhYem05bWE3b3JQcUppV293eHI2Qk5mZTVNZlpJV3pjZW95UG00SzBkMUtyV2NkWC1rQ2w3M0VETmtGUmFqdi13?oc=5",
       "source": "The Independent",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "aa0b23967212"
-    },
-    {
-      "title": "Sac Metro Fire to issue citations to illegal firework activity after drone patrol - FOX40",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUpubG1DYV9qbW1CR2pMTGhRWjBlZTg3bUJvQmluV0NyZGtFdXl1dmlPRzlYOUx3RWYyampxOExtT3p5ajJlT2N5dl9KcjItbnVjRlZxZkxIanR3YTJTM19kSFA2RlVkTS1yZ09hbXRYWWV2Nm91bTZZNTlYc1hwUnlKWndsTWNuZHN6dTloakYwMnZOVDQ3ZTc2ZllpX2k4VmtUMHE0c0VYa0I5dDNmM3dOMUxYZw?oc=5",
-      "source": "FOX40",
-      "date": "2026-07-06T05:58:37+00:00",
-      "description": "Sac Metro Fire to issue citations to illegal firework activity after drone patrol  FOX40",
-      "query": "drone illegal",
-      "detected_at": "2026-07-06T10:20:56.310137+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "18da528396c4"
-    },
-    {
-      "title": "Romania, Ukraine Discuss Protocol to Prevent Drone Incidents - БТА",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYktOT1ppUGdQNGtWYWlHaEpuRldxMzJqOGdvaTJLMG51YWppZFZiSWpMNm9IdE1pdmhtUUc3cnMxRE9fOURBdDhMN0xHVXc1YVdEVzY5YjZRWExEVUpmemJrRHBJVk1GS05VdWY3RUhBeUZWVWlIMXZHMUw5bHJLb0o3dTk1czlhdDdUNm44elpza1F4MHpMUVFTVjRLd0J0MlZ4OA?oc=5",
-      "source": "БТА",
-      "date": "2026-07-06T07:25:24+00:00",
-      "description": "Romania, Ukraine Discuss Protocol to Prevent Drone Incidents  БТА",
-      "query": "drone incident",
-      "detected_at": "2026-07-06T10:20:52.974426+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f4317b740633"
-    },
-    {
-      "title": "MFA Summons Swedish Ambassador Over Drone ‘Attack’ on Russian Embassy - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0FzaER2a3kzZmpjeUhiUHhXa2VCNVBGN1JkVExPSmxLdmZidHQ2SE5JQ01sMWpNSGFiVE5xMmxDSUtPQXgyc0JGU0U5RDI1aTFNZjAtLTVmMzFGZnZPc004dWZNTy1SbjNKb2xSNUVVbnBUeEg5TGtnSXpxR3V0bjNzWk4yMmZiM0lxSjVJdklvWUNtcHpnQy1Xb3h5cmVqVGVFNmtCcm5xVEU4YmlUYmlUZTlkbFE?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-07-06T10:12:33+00:00",
-      "description": "MFA Summons Swedish Ambassador Over Drone ‘Attack’ on Russian Embassy  The Moscow Times",
-      "query": "drone incident",
-      "detected_at": "2026-07-06T10:20:52.974426+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5e85085b0b74"
-    },
-    {
-      "title": "New DroneShield report reveals serious gaps in airport counter-drone security - Airside International",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHBYTGFzcmFvYmNmbkNoUlJwRExVTWs4MzdSM1Z3S25JYm1Ld2ZrSmdqOUxDZ1FGdUNYSWc2Y29aNXBxY0NzZ2NYcFNkaEMybnVaM2x4V0ZsZ2s5SlNYb3RBcEw5OHVCY0JsRzFQWi1TMGQ2Q0hiOU93TjducjFKQXAwWUotVW9xMzNGRkJqOTNnRFZoVmxuNUE0U2FVckVrdjJn?oc=5",
-      "source": "Airside International",
-      "date": "2026-07-06T09:32:09+00:00",
-      "description": "New DroneShield report reveals serious gaps in airport counter-drone security  Airside International",
-      "query": "drone incident",
-      "detected_at": "2026-07-06T10:20:52.974426+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1567345152d5"
-    },
-    {
-      "title": "FBI seized more than 600 drones flying over World Cup games in US cities - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQi1qM1g5eGhvNlV6RWREbXhTT3BXb0p1ZGdKSzFSRl9pVHV5WERBMTNqTkd5ZV9aQldlckNFeWpwelB1OU5LOU41dFY1MW5faHJodWp5WndJd3lJdWcwU09XZXl4R0FfUjhfbTZjUXBoOTFWNlQzc3FFbEU1VHBDQjZobm04b1lCMmNqbjhR?oc=5",
-      "source": "theguardian.com",
-      "date": "2026-07-05T16:37:00+00:00",
-      "description": "FBI seized more than 600 drones flying over World Cup games in US cities  theguardian.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-06T05:10:59.274518+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b6957417d2e8"
-    },
-    {
-      "title": "Russia reports drone strikes on Ukrainian troops - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEZOaWMtTjRRUE5HLXlZY2M2RFJiQ2RTRnNKdFluT181eW5MdGdHUklxa1R2SGpoQko5bXI0N1R0a2JGQnhwQi10QUhmRF9YaVlWLTFYcWJXNUVTb2Jyb2ZmY3pSNjFXNDRtd2NqQXdCcWJDWWI2cGFpbTlUMjlKNm9uZ0dZa1ZsQ0lRdTlldlhNNjhaR21JTg?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-07-06T04:03:00+00:00",
-      "description": "Russia reports drone strikes on Ukrainian troops  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-06T05:10:58.757854+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9e23764bdefa"
-    },
-    {
-      "title": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVlXblM5bGNOdzd3MEJUSFVNOEJjX194ay0yWWVIT1dTYUM1YUhrcE1JMkUxcWotVEQ0N0NYY0hlS1lTejlOZVFyY0RfUDA1aVJZLTVNMmphOU45eUhKQlhEc0gwcE9Tb2FjMm0wdlVaZlREQU5JdGZPcGNVX1dPdjc1VC14X0hlSERUVEM3aWp1dHZWeTIwMFpKZ05NWkZUYy1UQU4tTDlwNWxTMy1SRHd3TGxuUFlNbUgyNw?oc=5",
-      "source": "LSM",
-      "date": "2026-07-05T04:08:59+00:00",
-      "description": "Shards found in Latvia, possibly related to drone incident / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2026-07-06T05:10:54.416841+00:00",
-      "location": "in Latvia, po",
-      "category": "other",
-      "id": "b64cd7c03c04"
     }
   ],
-  "last_updated": "2026-08-04T13:01:35.067069+00:00",
+  "last_updated": "2026-08-04T16:11:11.015048+00:00",
   "total_count": 1000
 }
