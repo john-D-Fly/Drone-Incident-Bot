@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Wildfires Near Spokane Threaten Key Airports - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTS1TVUdmSjhsTjN6UFVOelZzZ0U2NXIwQ08wVkY0SzRJVG5RZURVZmJhM3l4TjlRdE9ua0dQbGdiM3lsdVJBczQ2cFp0QlhJTjJ0VG1KRXRUbi1hVDEzbVY2WVZDTW9teWQ2OUxHMjdvVnh4cDB1VWNDMA?oc=5",
+      "source": "FLYING Magazine",
+      "date": "2026-08-04T19:30:00+00:00",
+      "description": "Wildfires Near Spokane Threaten Key Airports  FLYING Magazine",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-05T00:02:01.811624+00:00",
+      "location": "Near Spokane Threaten Key Airports",
+      "category": "airport",
+      "id": "4cd999f7087f"
+    },
+    {
+      "title": "Russian and Ukrainian drone strikes kill at least 5 in each country - Fine Day 102.3",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjVxd3lUZnB6SWFQekFjeTRGYzdZa3VTM3pXT0Fic0Voa0QxSko4UWZjTENtSTl1YmlJNWV2c0VVbmxoNkpSWFNmQ0hMUk1TMmZmS3VIajV1c2ZWYjh0Y0h5UVlSZDBWR3BvZHFTZUYwaXJKOUh6MTE5dlBfUUVqNEdRRF9xVFBiQ2UxRnl5SWduZGtYS3RITzgySnpDTmxabnV3ZEJFakIteFlpZGR3X2tPMnV0MTB1?oc=5",
+      "source": "Fine Day 102.3",
+      "date": "2026-08-04T11:22:50+00:00",
+      "description": "Russian and Ukrainian drone strikes kill at least 5 in each country  Fine Day 102.3",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-05T00:02:01.255414+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a0819dc58389"
+    },
+    {
+      "title": "Police drone first to arrive after 911 call for restraining order violation - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmttT0pUYmh1ci1HbklqLVJuR1NRSWNKVG5nZi1pbjNTTWNEMG9nRXVwb1QxN1gxUUN2ck12RHN0Q2FxYmtsdWFwWW5GcEFHZUdnaElsb3ZiR25QbGlraG56cFRJN1lYVjZWZ1VpUF9xdXYxenJHdldXalVKZzZ5SzZB0gGHAUFVX3lxTFBnUkp4cnVOZWdWMUNRNjkxNUtJSTdHQjVUTEdXcFUzQzAyRmc0YTZsYVRDZ2xCaTU4R1BKZnE3NG9OZE9uRkZJSHJOMW9DazFhYWtVS2UzdmwzRjZUQzExNHZNR3VyNjBRTzIzNURKZjV4cTBzOF9TbkFuVDQxMVd3Vm9ZRXVZTQ?oc=5",
+      "source": "NewsNation",
+      "date": "2026-08-04T19:38:22+00:00",
+      "description": "Police drone first to arrive after 911 call for restraining order violation  NewsNation",
+      "query": "drone arrest",
+      "detected_at": "2026-08-05T00:01:56.914802+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b69f7a36216a"
+    },
+    {
+      "title": "Airports are not ready for the drone era, new global study warns - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZndJQXgtY210UXJnSEIzcWM3WjVNQlpWVEtGZ0pqWjRNQXE5Mmg4bndPRzN5YVlUbzR5dXdjQjhGXzB6dFNMOU5LdlQtbGcyMFhORlEzazd5WVdxWnRZSHBaSWN2VWZIWnpUQkJLSnJ5YkdDOHZGdDVBOFVWX0NWYS0yN3JJd0hJNXBQTVNVa1FXT1dSel9zTmZPRklWNlRFNHRObWhB?oc=5",
+      "source": "Digital Journal",
+      "date": "2026-08-04T20:33:04+00:00",
+      "description": "Airports are not ready for the drone era, new global study warns  Digital Journal",
+      "query": "drone incident",
+      "detected_at": "2026-08-05T00:01:56.250641+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c719a069754c"
+    },
+    {
       "title": "Wildfires Near Spokane Threaten Key Airports - flyingmag.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTS1TVUdmSjhsTjN6UFVOelZzZ0U2NXIwQ08wVkY0SzRJVG5RZURVZmJhM3l4TjlRdE9ua0dQbGdiM3lsdVJBczQ2cFp0QlhJTjJ0VG1KRXRUbi1hVDEzbVY2WVZDTW9teWQ2OUxHMjdvVnh4cDB1VWNDMA?oc=5",
       "source": "flyingmag.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "585ea9deed4c"
-    },
-    {
-      "title": "Russian strikes kill 28 in Kyiv area, exposing Ukraine air-defence shortages - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-05T23:33:00+00:00",
-      "description": "Russian strikes kill 28 in Kyiv area, exposing Ukraine air-defence shortages  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-07T03:22:52.283857+00:00",
-      "location": "in Kyiv area, ex",
-      "category": "other",
-      "id": "c407c96d0ee0"
-    },
-    {
-      "title": "Inmates pick from drug menu then gangs send drone delivery to cells - The Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzR6NUFkRmFHaXZfbUhFWDZkYnhmSlA0RmxoWEFiMVI1akIzdGFqVEUtNVoxUzZOOHluZlZtM3ItVkZsRlNVQmlHdzVLdUxFUkxKRUt1M1Rsa0ZiVzd3bHFRTzJJX2JEazdCYlROd3c3T3lnNHBtOTRJZE5jQ2JQZEtTUHg?oc=5",
-      "source": "The Times",
-      "date": "2026-07-06T23:01:00+00:00",
-      "description": "Inmates pick from drug menu then gangs send drone delivery to cells  The Times",
-      "query": "drone prison",
-      "detected_at": "2026-07-07T03:22:49.613277+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1fbae8c22827"
-    },
-    {
-      "title": "Juvenile injured in drone incident during Big Bang Boom fireworks - NEWS CHANNEL NEBRASKA- Northeast",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXd4TjBPc1RNSUNJYmg5cVFxRDFfNkxVSUd4c0o1VUZnMG5lYkhEQXdPU0M1VGRkTlV2bEkydXhTSXpTNFIxTHplV1dJdzE4cUpiXzhvVXd1NjFtUERTTmhmQWQ2MFB6aVN1clE1ekJ6ekktZkdJdktUZmRFajN4d0NmLVFOejIyTGRNbU5XeDRFUFBuUkZEY0lXN0hCSUVPZXhydW5qNURfeUhkLWhEQmE1Ymlud3dUM3VfZ3JBbW0?oc=5",
-      "source": "NEWS CHANNEL NEBRASKA- Northeast",
-      "date": "2026-07-06T19:17:10+00:00",
-      "description": "Juvenile injured in drone incident during Big Bang Boom fireworks  NEWS CHANNEL NEBRASKA- Northeast",
-      "query": "drone incident",
-      "detected_at": "2026-07-07T03:22:48.025634+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5e4479cf9d16"
-    },
-    {
-      "title": "One injured after drone incident at Norfolk’s Big Bang Boom fireworks event - KTIV",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZG8waWJLOTFNbGYzSU01V0tqdXZxdkEyVFBwOUdOMFFlSUpERW9IOUlxV3haRk51anQ2WjRTekVWRDEtbU5SU2ZRMHJVb19tTm05YlVmYVZfNjJnWkphSXNJUjBmd0JGZjAwQnlIaGlhZnlmWWR3RjA4dGtpNzhkTEtEZU54RUdJamJvOURkOHBXS3lRNUxxTUxJNXVRR0VXTmxmVUJXenhXY2s5WHlJ?oc=5",
-      "source": "KTIV",
-      "date": "2026-07-07T00:45:00+00:00",
-      "description": "One injured after drone incident at Norfolk’s Big Bang Boom fireworks event  KTIV",
-      "query": "drone incident",
-      "detected_at": "2026-07-07T03:22:48.025634+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c2b891a95331"
     }
   ],
-  "last_updated": "2026-08-04T22:10:53.164029+00:00",
+  "last_updated": "2026-08-05T00:02:02.399618+00:00",
   "total_count": 1000
 }
