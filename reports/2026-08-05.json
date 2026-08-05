@@ -1,0 +1,160 @@
+{
+  "narrative_summary": "In the past 48 hours, numerous drone-related incidents have occurred, primarily concentrated around airports and unauthorized activities impacting firefighting operations, particularly near Spokane. Security concerns have heightened as unauthorized drones disrupted firefighting efforts in multiple locations, leading to emergency calls for grounding all such flights. Significant airport disruptions were reported in Germany due to drone sightings near runways, leading to flight delays and security alerts. Additionally, drone operations have been linked to smuggling and interference with law enforcement in various regions. Overall, the incidents highlight pressing challenges related to drone regulation and enforcement, necessitating urgent policy discussions to ensure public safety.",
+  "totals": {
+    "security": 5,
+    "airport": 11,
+    "other": 14,
+    "smuggling": 4,
+    "interference": 4,
+    "arrest": 7,
+    "drone crash": 6,
+    "drone terrorism": 8,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 27,
+      "arrest": 8,
+      "crash": 13,
+      "interference": 3,
+      "other": 50,
+      "security": 7,
+      "smuggling": 10,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 12,
+      "drone arrest": 17,
+      "drone crash": 18,
+      "drone illegal": 9,
+      "drone incident": 30,
+      "drone prison": 5,
+      "drone smuggling": 1,
+      "drone terrorism": 16,
+      "unauthorized drone": 12
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruption",
+      "rationale": "High frequency of drone sightings disrupting operations.",
+      "incident_ids": [
+        "001695e9779a",
+        "c7f97ce095e6",
+        "46e08a82ba84",
+        "eb86d1985bdd",
+        "3680ba985a4c",
+        "fbb1b627af80",
+        "d5ba8a4d7a16",
+        "1d174768f7fa",
+        "ef039d075bda",
+        "9001a0a312fe"
+      ]
+    },
+    {
+      "topic": "Firefighting Interference",
+      "rationale": "Incidents of unauthorized drones affecting firefighting efforts.",
+      "incident_ids": [
+        "b91d7e5a87d2",
+        "bc7c88cfe8e7",
+        "df88982bbd2e"
+      ]
+    },
+    {
+      "topic": "Drone-Related Arrests",
+      "rationale": "Incidents leading to arrests, particularly for drone misuse.",
+      "incident_ids": [
+        "8783966ff375",
+        "9a40014d4cd3",
+        "f6b814b53c49",
+        "44f76934ec50"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "001695e9779a",
+      "headline": "Flights disrupted after drone found at German airport",
+      "one_sentence": "Flights at a German airport were disrupted after a drone was discovered on the runway.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b91d7e5a87d2",
+      "headline": "Unauthorized drones halter firefighting efforts",
+      "one_sentence": "Unauthorized drones interfered with firefighting efforts in Spokane, causing delays and safety challenges.",
+      "risk_tags": [
+        "firefighting interference"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "eb86d1985bdd",
+      "headline": "German police investigate suspicious object at Leipzig Airport",
+      "one_sentence": "German police have launched an investigation into a suspicious object found at Leipzig Airport, potentially linked to drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fbb1b627af80",
+      "headline": "Drone find at German airport leads to flight disruption.",
+      "one_sentence": "A drone discovery at a German airport resulted in significant disruptions to scheduled flights.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f3f6208d7f63",
+      "headline": "Drones carrying drugs pose challenge to Hertfordshire prison",
+      "one_sentence": "Drones carrying drugs have become an increasing challenge for security at Hertfordshire prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e57df309a170",
+      "headline": "Ukrainian drone crashes on beach with vacationers",
+      "one_sentence": "A Ukrainian drone crash on a beach in Russia led to multiple fatalities including children.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9a826c95aff1",
+      "headline": "Drones assisting in multiple arrests",
+      "one_sentence": "Drones have been instrumental in assisting law enforcement with multiple arrests in recent operations.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d2fe80d9ca8b",
+      "headline": "FBI disrupts plot targeting UFC event with explosive drones",
+      "one_sentence": "The FBI disrupted a plot involving explosive drones aimed at a UFC event near the White House.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "A wave of drone incidents across Europe raises alarms—flights disrupted, firefighting hampered, and smuggling persists. #DroneRisks",
+    "linkedin": "Recent drone incidents highlight significant challenges for security and safety across various sectors, from airports to firefighting."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-05"
+}
