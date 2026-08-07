@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires - AppleValleyNewsNow.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVnE4UjFvSHJNeDBZWWFEa0hTSE9YVkNiMkNyZ216R3FwUjlIN2ZDb0NOUVJEZVl4bGdtQ3ZXaWY0Y0l0Uk5IVXk5cWJaWERYSmJnVF9kVWJfQURMQXkwQklLbkZyNXhLSzhtbHJqZHY2aGZtTTBGTW5GdU5KNWNfbmFsd1Z3c0h6dWdDcl9SS1VyNGF4azFsT1QtN0stRjRleExzbnV1WWFPRWdud3R6b3lqdkgtU0tieWk2SzhubGJONU0wTWJjSEdnd2hka2dxdms4TExFWEExZkF3bVlxSGJOczdmMTd5YldiUnh5OHdhcE1qR1E?oc=5",
+      "source": "AppleValleyNewsNow.com",
+      "date": "2026-08-05T17:52:00+00:00",
+      "description": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires  AppleValleyNewsNow.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-07T10:00:37.044031+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f872a47cb332"
+    },
+    {
+      "title": "XQ-58 Valkyrie Crashes At Dugway Proving Ground In Utah (Updated) - twz.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFp5bTZ4a2ZqT0RvMllqejNQWXFqbWh5VnZwRXdHZldzTmczUUtOaDBmbzd5ZTl2SFd1WF9VeVdUbUh0cF9OMDJmb2VQakR6Yk44ME0yX2FzSlN1THcxNUlBbXRGNnpEWmEwUm5pMnN4a3I5REkzWnZyOUZlRmRldVJuYVVGaXlSQWh4R2FkaTY5UFFaaGpwRXZHNA?oc=5",
+      "source": "twz.com",
+      "date": "2026-08-05T21:28:58+00:00",
+      "description": "XQ-58 Valkyrie Crashes At Dugway Proving Ground In Utah (Updated)  twz.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-07T10:00:34.843076+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c11cc0bcbf36"
+    },
+    {
+      "title": "Drone find at German airport leads to flight disruption. A runway is still closed - myMotherLode.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnRUV1FiUXN0UXhFX25vNzBHUEtTMVFkajJnSTYxS3pobHhEd1ZiaTB5LUhYSVFMbjVFa0RvMWExTmpHLVk3bF9nVjl5V0dFYk5oS01WZ0lNX1VRWVlsa3V2YmNYLVhTQnpVSERMMVBjaG9sRmQ3V1J4Z2QwZkt6R1BRRTJhV09NODlpaldHcnpjbklBYWJBRHhLYVh2dW1odTVtRXE0bEE5aGJycGJxQWtNNW8zVjlNeEJkM2ZaXzQ2bHdfdUlNOHBHeTkyM1R2NU1F0gHTAUFVX3lxTE82dFRXUWJRc3RReEVfbm83MEdQS1MxUWRqMmdJNjFLemhseER3VmJpMHktSFhJUUxuNUVrRG8xYTFOakctWTdsX2dWOXlXR0ViTmhLTVZnSU1fVVFZWWxrdXZiY1gtWFNCelVIREwxUGNob2xGZDdXUnhnZDBmS3pHUFFFMmFXT004OWlqV0dyemNuSUFhYkFEeEthWHZ1bWh1NW1FcTRsQTloYnJwYnFBa001bzNWOU14QmQzZlpfNDZsd191SU04cEd5OTIzVHY1TUU?oc=5",
+      "source": "myMotherLode.com",
+      "date": "2026-08-05T12:21:16+00:00",
+      "description": "Drone find at German airport leads to flight disruption. A runway is still closed  myMotherLode.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-08-07T10:00:34.342185+00:00",
+      "location": "at German airport",
+      "category": "airport",
+      "id": "000dac2820f5"
+    },
+    {
+      "title": "Germany's security council discusses drone incident at air cargo hub - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHV0dUZiNGV1ZS12ZmV3ZDBFOWhaTm9TLXE2V2U4a0ZxQklpT0ZFNnc4NXpFN3NBS05JdU1RdFc3VEktaWItYnBiSmlnQXlkeHEzRlozTzFwV1hhZkx0bHhic1FfTENsS0VtZHlzZ3lYd0syT1M5S2pjeHdrNVdYRVdkV1AtbU5Pdmc?oc=5",
+      "source": "Yahoo News Singapore",
+      "date": "2026-08-07T08:16:16+00:00",
+      "description": "Germany's security council discusses drone incident at air cargo hub  Yahoo News Singapore",
+      "query": "drone incident",
+      "detected_at": "2026-08-07T10:00:32.087885+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0315465af3d3"
+    },
+    {
+      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport - arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUtRcnZJbFMzNGs2ZndWZVB4cVBPcmMybXVLWlB1WC03M1BwVG50c0N3T3VvX1UtVGtaUDBDLVYxV0JlYnlkb1pSOU5uSVFKVlZfRE8zWk5xbnQzU1FDVXVhNk1HS2JMUmtKMFczTlZYNmFnb3E5WnNjRnBhLVdVOWFCREcwejhIaC1BSHU0aHV6SWk1aW05VmhYN1ZXc0FZb3hUNE15azdnUW9vbWpHQWhRZURoSjQ4?oc=5",
+      "source": "arstechnica.com",
+      "date": "2026-08-06T22:01:55+00:00",
+      "description": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport  arstechnica.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-07T10:00:32.087885+00:00",
+      "location": "at German airport",
+      "category": "airport",
+      "id": "9f4536e9be95"
+    },
+    {
+      "title": "Germany Security Council Probes Drone Incident at Leipzig Airport - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWQtVzQ1c2pNX20yem9mRl8tQzZKbWxmQVgzOXJZUk9zcW5pRk5YY2owUWZCNVR1YWd1VGVZVWxjTFd2RkhoVVNZWkxtbFpyQkVISDVSdjhzaGJPeFJ0c3Fpa1JIS0ZEQ0I5eHlFd3hucDI5YXRSclJPUmNCYjFGWms2RFBGXzFqTlFSRlNpNjBEamw5LVJLNWZfU29WMFlvLTM4?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-08-07T08:25:26+00:00",
+      "description": "Germany Security Council Probes Drone Incident at Leipzig Airport  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-08-07T10:00:32.087885+00:00",
+      "location": "at Leipzig Airport",
+      "category": "airport",
+      "id": "47d2592939d0"
+    },
+    {
+      "title": "Germany's security council discusses drone incident at air cargo hub - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNndCMC1YYWd2MVVyb25yTUItVUNMN1pFUkpJSWJlYWJqVU0zaDhYaENaNmZmTEtWUTJpWXNoczA2cFI1MERSQlVYdXU2alVLMzFjS1ZpcmF3WjcyNDJ6aWY1YloxMGNUeUlWRTJGZHBVeHVPdHRsN1VHQmw0aVZVbUQ1cUxBUlFlb0IzNjBFY29EVXBXcEd1VERjQVB5QTVCZGFKNU9EaDhlZw?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-07T08:17:44+00:00",
+      "description": "Germany's security council discusses drone incident at air cargo hub  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-08-07T10:00:32.087885+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "afa61931c1b4"
+    },
+    {
       "title": "Drone with explosives found at German airport, official sees 'new quality' of threat - Ottumwa Courier",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQms0eVJGajdpNTYxY01ESEZIY1JYd2p6dVFMN0dyNnE1dzZQSmo4Q3k4VnNGT2hqOVRGWGowdDdNU2QxU1VUVzZQei1uRVF5Sy1yRmlJT3kxNUZNWkdzNlRwR2ZsVnR0UkFUSWI3elRtYW44UXBSY3RPU29sT3YwdFlvdmpUUnRDS2pLemFUclVKVFVVbTFXWGhmSDNMZ2o5bjZ2T1JITkpuV0RJTFNTbFExWHZoRW55STA3MEJoYmlZZlZqbVppa2hwSDQ2YnljaFBFZWNnYk1Pa2FLVUVVYWJodVc0RlczS2VlaS1YcEhYNEVWNHRpWUEyVWJjXzRCOFVBYWRJSGh3Z0dfWkE?oc=5",
       "source": "Ottumwa Courier",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "ba77617ca55c"
-    },
-    {
-      "title": "Adani Group Drishti 10 UAV crashes in India in training incident - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zeGtaSGRrdzZSeWxsdG42UTZORk5TWkpmdXo5czV1OF95X0VUMjIycDQxNzEtM1JWOVU0RUkyT0JrUF9BMHRKX014R2pRZDJOS1lwd2Z3RWFFUHIwZnRQU21TSQ?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-07-15T06:28:57+00:00",
-      "description": "Adani Group Drishti 10 UAV crashes in India in training incident  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-07-15T08:08:53.934058+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3b1291d67fda"
-    },
-    {
-      "title": "Israeli-designed Hermes 900 drone crashes again in India, raising questions over expanding fleet - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ec3ZvTklIbkVIcUJCU0hIWjU3bkNWWko2YXBHQklnUjRrVGF2ajBhQkVyalB1cnhKcTJ0bDFiM0pFaGg3d0xzMC1BNEFCdmlhWGFYVHE3WjVrT0FOUWFmZXFRUkJUb0Fw?oc=5",
-      "source": "calcalistech.com",
-      "date": "2026-07-15T07:40:00+00:00",
-      "description": "Israeli-designed Hermes 900 drone crashes again in India, raising questions over expanding fleet  calcalistech.com",
-      "query": "drone incident",
-      "detected_at": "2026-07-15T08:08:53.934058+00:00",
-      "location": "in in India, ra",
-      "category": "crash",
-      "id": "c342fdf55af2"
-    },
-    {
-      "title": "Drone attacks on Russian ships in the Sea of Azov are \"terrorism\" in Moscow's view - Gamereactor UK",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEM4ZmF5UEVIQ3B3aUxTQWh0Z2l6emZmdjBlU2xhN0JaQndBa0dtTUVDLThDc3duUEFzUGdVLVNnbmlHTXVIeXh1UWQtM1VGeDJ5aHVVUGxWMS1DeTFJckZxQlNvdXdPQUZjSkwtREl3d0Zmb3pyOGdHdjJuV0FJUU56U3pHMDZ5eHhUd0ZkaVhENHJMMFJWc21UYlQzaFpXN25QcGdLWVFQdlVrX2FTM3FoYUNPUQ?oc=5",
-      "source": "Gamereactor UK",
-      "date": "2026-07-14T17:13:34+00:00",
-      "description": "Drone attacks on Russian ships in the Sea of Azov are \"terrorism\" in Moscow's view  Gamereactor UK",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-15T05:30:27.117976+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "d9c86ed36bb0"
-    },
-    {
-      "title": "FBI: World Cup drone seizures included real estate photographers, roofing inspectors - NBC 5 Dallas-Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0w0MXdkOUc3TmNiNmNkbllVTXVfSUg0Wmtia2lHWEI3TUdWbzlnNkNESDJLLXBiRE9MNzVHOTROcUMyNEs2UjFad3JOdTlqcjlhdUlOUVhmM3hHUFFmcVB6bHJJMHUzVVNhRWNzNlBfQWY0VG5jQndpSVN1WjZFYU90QmZqMmFiTFRmQzFIWGR5Uk5FQk5ISXdoeWs5S1VSWk8wbXVYcGRLZmpCUWJmSWh3TDlaSWdV0gHAAUFVX3lxTE9zMlJwVkRWRlo2UFhUakdocUs2eFNncHpfWkVhNjgydHZscEtoY3UwZHFnRU5Gb3RWbV9YeldoYTM0VGhrMTBCc0dkcGZ2NHVweWNFdDVIR0pvMTl1ZlhFNUVpTDA1QkloUFZYVldxVk42X2dJLWRYS3M0N0wwTWtYX3BzbDJjOC01RW5Mb2hjbWhtSWw0VHNJQldQazdwTEhtUmZaSUJxblp3X29mZk5CdDZVNDhrQVFSZlk3OWJRQg?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "date": "2026-07-15T02:45:28+00:00",
-      "description": "FBI: World Cup drone seizures included real estate photographers, roofing inspectors  NBC 5 Dallas-Fort Worth",
-      "query": "drone arrest",
-      "detected_at": "2026-07-15T05:30:23.457959+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "31e6b0fb4248"
-    },
-    {
-      "title": "Drones used to arrest robbery suspects - WKRN News 2",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVYzbW04WjItWnZuYnFTb3NYcDZ3cG1Lb2FvWGpFSktCMmw4d0VDbHlKOTZJZFpHSGppUnc2U3k3U1Z1MXZnZ1JzbGxGa01xaHl2enNlRmVYR1hPZExiOE1NZU5aTDBjOXI1NzU3YVJqb1l4SHVVNHdqZjFSVDlieA?oc=5",
-      "source": "WKRN News 2",
-      "date": "2026-07-15T03:11:55+00:00",
-      "description": "Drones used to arrest robbery suspects  WKRN News 2",
-      "query": "drone arrest",
-      "detected_at": "2026-07-15T05:30:23.457959+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "29dc5cae52e3"
-    },
-    {
-      "title": "Russian drone crashes in Moldova, attacks across Ukraine injure at least 57 - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNEVIeTAtcWp3SkRnN0NfYmh6Y09OcVZ1bUZfNjZtdFVQZ3ZKbFZnR2g4ODNvay1HRTlqNmwxeFIyWEJKeEdxRnpBclR4REIxWEtNSEZGLWsyOXRtSWotM28wNGk0UkZFVWNBZ0hMNlUzZTJHYVdnbTNabmVDcmF3TnVCbTl2U3NSanJOeHNKUndHR2VDNjJmSmJNaFdxWkRiR1AzMm81Q0tSZzBmWU12NA?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-07-13T10:23:05+00:00",
-      "description": "Russian drone crashes in Moldova, attacks across Ukraine injure at least 57  The Kyiv Independent",
-      "query": "drone crash",
-      "detected_at": "2026-07-15T02:26:27.022915+00:00",
-      "location": "in Moldova, at",
-      "category": "crash",
-      "id": "9515006ba29d"
-    },
-    {
-      "title": "Drone users could face jail time and high fines if flying during Pensacola Beach Air Show - WKRG",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVnk5NXJQbUsxbXBVYjdhVnJQa3ZaQmVQOXlDaWNJdU5PNEY2LWhXQUZmQlBKWl9pNWNhMEJFVDQ2Q0lrT0dFRExzckZueTFPYXJCc0c5ODc1V3ZvQ1h4Ylc0NUdaSnl4dTNIMnVUQTVQMl9sZG95NDViNUNmd01VNFI5eC1JQzEzdDJNWko5VjI1VjFuRGEwTEFSNzhXckhKdnpwR1pPYVczT2QwczB2Uy03cmJnTGV5R0hQN2VKUkhHUXNCNTBseC0zSDNhMDhxeTF5ZTJMY0VEUVIyZHfSAeMBQVVfeXFMTmxmTi1PVEQ4ZFhlVWRaS0owVDM1Z0JxX1dlUEVZeFhReTVCX1RwNGxQNk15ZlQybzBVVFZzcWF1ZmVtYnpxT0lIdjdNMy1paC1Hd1hUWUFzU3JmSTZXQTEwOEpTQXpkUm9teU1BV194cS11VkJYVFpxSVJOcFZ6dndsbmFRaWs0RnI0TWtXaG91ZXhiOG42RTdkZk5Hb0RTTUwtUFlueFFpaktnaXhEbDdJYXNEdXItYTBqRms4RGQwUTlNOFRCd01NNXc1UHVfMm55MjktVTVqOXg5bjRwQ1lTMkE?oc=5",
-      "source": "WKRG",
-      "date": "2026-07-13T23:52:28+00:00",
-      "description": "Drone users could face jail time and high fines if flying during Pensacola Beach Air Show  WKRG",
-      "query": "drone prison",
-      "detected_at": "2026-07-15T02:26:25.814422+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "016f0d92c9b9"
     }
   ],
-  "last_updated": "2026-08-07T08:13:16.356713+00:00",
+  "last_updated": "2026-08-07T10:00:37.560137+00:00",
   "total_count": 1000
 }
