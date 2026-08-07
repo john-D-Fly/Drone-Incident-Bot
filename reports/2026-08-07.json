@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a significant uptick in drone-related incidents primarily centered around security risks at airports in Germany. An explosive drone was discovered at Leipzig Airport, prompting a wide-ranging investigation by authorities and raising concerns over possible terrorism. Similar incidents at various airports have posed security challenges, contributing to significant operational disruptions. Unauthorized drones have also interfered with firefighting efforts in Washington. These incidents highlight an emerging pattern of drone misuse across locations, necessitating stronger regulatory measures and coordinated law enforcement responses.",
+  "totals": {
+    "airport": 25,
+    "smuggling": 4,
+    "security": 5,
+    "terrorism": 3,
+    "other": 11,
+    "total": 48,
+    "unauthorized drone": 14,
+    "drone incident": 20,
+    "drone crash": 4,
+    "drone security breach": 1,
+    "drone airport disruption": 12,
+    "drone illegal": 5,
+    "drone prison": 3,
+    "drone arrest": 4,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 54,
+      "arrest": 4,
+      "crash": 6,
+      "other": 37,
+      "security": 9,
+      "smuggling": 7,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 19,
+      "drone arrest": 7,
+      "drone crash": 6,
+      "drone illegal": 10,
+      "drone incident": 42,
+      "drone prison": 4,
+      "drone security breach": 1,
+      "drone smuggling": 3,
+      "drone terrorism": 7,
+      "unauthorized drone": 21
+    }
+  },
+  "clusters": [
+    {
+      "topic": "airport security incidents",
+      "rationale": "The events at Leipzig Airport and other locations demonstrate an increasing threat to aviation security.",
+      "incident_ids": [
+        "b3009a4804bd",
+        "27ec580713e5",
+        "00c842a24c43",
+        "6786c1115bb3",
+        "f872a47cb332",
+        "910b03a2f978"
+      ]
+    },
+    {
+      "topic": "wildfire interference",
+      "rationale": "Unauthorized drone usage is significantly hindering firefighting efforts.",
+      "incident_ids": [
+        "f4c70c9f3ae0",
+        "c11cc0bcbf36",
+        "39b2627e8fb",
+        "e94b6bbcd12e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b3009a4804bd",
+      "headline": "German security council discusses explosive drone at Leipzig airport",
+      "one_sentence": "German officials are discussing the implications of an explosive drone found at Leipzig Airport, reflecting escalated security concerns.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "27ec580713e5",
+      "headline": "Bus driver kicked explosive drone out of the air at German airport",
+      "one_sentence": "A bus driver actively intervened to remove an explosive drone from the airspace of a German airport.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "703560258982",
+      "headline": "Unauthorized drone leads to operational delays in firefighting efforts",
+      "one_sentence": "Unauthorized drones have caused significant delays in firefighting operations at the Wide Mouth 2 fire.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9f4536e9be95",
+      "headline": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7",
+      "one_sentence": "A drone incident in Russia reportedly resulted in chaos and multiple fatalities on a beach, raising concerns of escalating conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f872a47cb332",
+      "headline": "Explosive drone found at German airport raises alarm",
+      "one_sentence": "An explosive drone's discovery at a German airport highlights a serious security threat.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "A surge in drone incidents, especially involving explosive devices at German airports, underscores growing security concerns globally.",
+    "linkedin": "Recent drone incidents at airports signal the urgent need for enhanced security measures to address rising threats."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-07"
+}
