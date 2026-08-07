@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires - KXLY.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSUVPVjF5NmF3N2x5SzdkMnJWampEMGJMcGhsNGtPUnExQlhJRjZSSVl5T01oNDZVMkRVNlM4RlUwQjVkRmkxRTV4bktrOTQ4U2hnZWY1X1p4eERZWlFiLURReUlaQURSVEhkb2VDMXY2S1NCbzE2dUtCOGlmdTFLcUxNMy1nQlhhYUdJR2Y4M3VsRlRfbjZkNG5kZ0gyZ0paVUpfQlVza1V4d00yOU9hMnJXZ203UXdWNXpUNWZ3NFVGR3VURzdET0hscmJCczh3SFpiSFA0NE55NUhkRUU2ak0yUHV4U2tIS2MxUjFsalA?oc=5",
+      "source": "KXLY.com",
+      "date": "2026-08-05T18:03:17+00:00",
+      "description": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires  KXLY.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-07T17:48:44.943818+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "c8a2f84140d3"
+    },
+    {
+      "title": "FAA Proposes Civil Penalty Against Drone Operator for Alleged Agricultural Flight Violations - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM01uYzlwZVBiVWdDSElTV2VReWxQLXhBdEVZTExJTUpMSW51QnM1Nl9xNWxtQXFDOERfbnBPSUk5dURmd2JRbEpzSVctOWJRbzVjY1hjYm84U0pPM29MNThqRTR3WVN1Zkxib1NhY2gxNERmcmpyQkF5M01nOTFvSXo5b01QUjh6LTFlag?oc=5",
+      "source": "Dronelife",
+      "date": "2026-08-07T17:01:15+00:00",
+      "description": "FAA Proposes Civil Penalty Against Drone Operator for Alleged Agricultural Flight Violations  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-07T17:48:44.943818+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "59f9173f7617"
+    },
+    {
+      "title": "Army Intercepts 1.5 Million Narcotic Pills in Coordinated Balloon and Drone Smuggling Blitz - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkU2ZFdfeUF4NlFWRzZ5T0lOVXdZdVViUnBLSDA2S3RUcmxod3FuaFAzaEdJQ1FDZlpzS2xybVcxQk5Tem9jeDFGOWlRVnV6VTBFYTVIMDZSX0dzS0NBR0w3SzdnLXFQRG1OS1dVRm1oeGwtRWZEa0VEanhRUVZBQVVYTnZEWVNkTElPMXNpTGxiYndFbjNXdnlmNXJPUXZDOUN6d2dVYXZfczJCSGlSSkdwc2o2V3cybGozc3g4VURRS2dSUGdYcWp6QnBhUQ?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-08-07T03:50:47+00:00",
+      "description": "Army Intercepts 1.5 Million Narcotic Pills in Coordinated Balloon and Drone Smuggling Blitz  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-07T17:48:40.957765+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5e79a8c1fe91"
+    },
+    {
+      "title": "Explained | What do we know about the German drone incident and the airport it targeted? - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdF9YeThHakdJM0hFMGJrdnVBV2xBUmpZSXAxbnhxbXE1UEljaEZRSnpPaklJeFRTbUJzMU02TlBGVFppaHNrdnpmWllfcUYyV1FEVU8yOEVkbHYyTGNyUUwwYUJ1S0ZoeWVkZjhFMXVScWVySXpjamhEMGpQRmlaYkpHNk9iX3p0MEx5ZFJhNFM2a1h5TkR1UktkTGJzd2ZHNVBlWFpfQ2E1QUZtcWt3OWZ2OGk5TTh2Z1NkWkZ3RkdIT21GQVM5YThidmdkUm81?oc=5",
+      "source": "Deccan Herald",
+      "date": "2026-08-06T15:32:47+00:00",
+      "description": "Explained | What do we know about the German drone incident and the airport it targeted?  Deccan Herald",
+      "query": "drone incident",
+      "detected_at": "2026-08-07T17:48:39.753948+00:00",
+      "location": "at do we know about the German drone incident and the airport",
+      "category": "airport",
+      "id": "4af00ae41b2e"
+    },
+    {
       "title": "D-Fend Solutions’ EnforceAir Provided World Cup Counter-Drone Security Across Array of Host Cities, Adopted by 20+ Public Safety Agencies - sUAS News",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcTduTDBSai1hQm44RHJlMTEza0ZzRExvNmhsbEg0RmJmRVZTVU9mVzFpdTJSZHRMLXFzbWR2MGI4RWwtR2pKbFJueUtTemlYd25NRHNtdzh3d0FMZmE4Q3hBckhON3RXTVE5Njc2Y2J0cmdlRU1vcnlrd0xnME8tdHFpVkNzNHpTWklwVGp5X19lSWtEcTVrVDJRVDF0eWtxdGFLakE2NEVVOHpFM3FHWlFLM1drTGlVUEgwQ1Faam1haVRnbVUtTjViQ1JkWUhTb3lEYVNjZUNGMnFzNHd2T2VuV3lhczFpLVU4Z0FORC1iZmVRRHJfVzl5OGM?oc=5",
       "source": "sUAS News",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "3fc5cf8fb43f"
-    },
-    {
-      "title": "Drone use during Pensacola Beach Air Show could land you in prison - Pensacola News Journal",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT1p1LWR1SWNRVVcxdEg5SktzTHo2RURlSVlBUWxhVkpMSGpKdmNIMTNUa3J6UWlvYVF1MUZYVnZCd3dqREhtVmk3UVNXcnM2Q1JGQldXRTNpdXJ6SWJxT1pwamw5Z21ISU1HY2dxQ1hydUowWXp2QW90LVdFWEpaTl9jMkFKXzRZV3NVM25WaFdxc0l3cE9pU2tsWVcweDd4QjhfOWdEbXpua2F5dnpTVFN3aTV0MnVlWmpfN28zQWxPWld2WWxKMFlRdHgybjVvekFDdjV4UzV2ZTItLVAxdS15ZWNYRTQ?oc=5",
-      "source": "Pensacola News Journal",
-      "date": "2026-07-14T10:06:00+00:00",
-      "description": "Drone use during Pensacola Beach Air Show could land you in prison  Pensacola News Journal",
-      "query": "drone prison",
-      "detected_at": "2026-07-16T05:40:07.803826+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f5bb3b984ee2"
-    },
-    {
-      "title": "Amazon Prime Air drone deliveries coming to Omaha - KMTV 3 News Now",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczdfSWpqVzRGYktMeWY5bTlNdGZPZHNhRTk3YTRtVlBCdm9MbWVEa0hOeUE1UUJKb2pvQkhNVGx4WUNyS0p2S3lOMmFaMUFsLTFYdjFycTBjYUFrdjNhOW80Q2l0LUswZlJGNFJldjgyV19Pbk9teUloUGFjYnZRYkZDdHRTNlVSOXFYeWY5cHJ6NFdoV1VpY0hJZi1YMENXUksxYUVOWHEtOUM4cEE?oc=5",
-      "source": "KMTV 3 News Now",
-      "date": "2026-07-15T21:20:00+00:00",
-      "description": "Amazon Prime Air drone deliveries coming to Omaha  KMTV 3 News Now",
-      "query": "drone incident",
-      "detected_at": "2026-07-16T05:40:06.107657+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fb35ddc5224c"
-    },
-    {
-      "title": "Rep. Bernie Willis’ new drone law sets rules for Ohio police surveillance - Springfield News-Sun",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVhta0k0Z2VwNjUxZzNlQ3hma3lnWDBVY05PVm1IeGNSbEJ6cDYyU1RVSGhCS3A4c1ZxajQ1aEtPeUh5R3A0Y00tVHZLaXUxa1dSN0s0c2U4Yzg0Vk5CNnBjcUxqMmJQbXJFc3d2eHBWeVR5VUlub0VTc1Q1enAybXJsOVRWbm1CaF9WbzVWYkhod0pCMnllag?oc=5",
-      "source": "Springfield News-Sun",
-      "date": "2026-07-15T19:01:51+00:00",
-      "description": "Rep. Bernie Willis’ new drone law sets rules for Ohio police surveillance  Springfield News-Sun",
-      "query": "drone illegal",
-      "detected_at": "2026-07-16T02:34:26.899126+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "5716b9b23ccb"
-    },
-    {
-      "title": "Drone smuggling - DailyVoice.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTWnpNeS1jZnVKVEg5SDE2cVBsWXU0cXZBRVBMdTR5QV8zSmlJdTJGMVJVMDBoWGJNOUJRRUJtRjBqZFJOS1NDUUVsak94eWVHM1ZlaDFtWWNnZWtZ?oc=5",
-      "source": "DailyVoice.com",
-      "date": "2026-07-14T11:58:00+00:00",
-      "description": "Drone smuggling  DailyVoice.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-07-16T02:34:24.801436+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "b8c15d00ccbb"
     }
   ],
-  "last_updated": "2026-08-07T16:53:29.935800+00:00",
+  "last_updated": "2026-08-07T17:48:45.592756+00:00",
   "total_count": 1000
 }
