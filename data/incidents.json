@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Explosive Drone Targets Ukrainian Antonov Cargo Aircraft Carrying Ammunition at Leipzig Airport - Aviation News.eu",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjA5Q1hjbk9jRUVXdFNXazVfWTQzMkhHQlYzSldPMzFhOFo4UVpmbnpjV05TTlB0Y0NCRmEwNmdpa21IaGh4YVR2bzd1OWFhRW13Qm0yWjN4VmFiNE05OERUX1ZlZjY3ODZJZjFmYUxNMG5DblVKNjBjdUJrc1diQ3V3QXVoTmlYdXBfTzNLZFo3ZURZUGV2QzM4TnlVV29qNC1IYkdBN2JtbXFCTTZMY2FELU1jYjZGVkFjOTdpZ3FMczItd19PTlJGREVLZw?oc=5",
+      "source": "Aviation News.eu",
+      "date": "2026-08-07T09:29:38+00:00",
+      "description": "Explosive Drone Targets Ukrainian Antonov Cargo Aircraft Carrying Ammunition at Leipzig Airport  Aviation News.eu",
+      "query": "drone security breach",
+      "detected_at": "2026-08-07T22:33:56.515579+00:00",
+      "location": "at Leipzig Airport",
+      "category": "airport",
+      "id": "849757488799"
+    },
+    {
+      "title": "Southern Military Zone Foils Drone Drug-Smuggling Attempt - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3RVRGtzZFdhNVJBUUJhY2JjZXlCakNKR0xqWXZES1pWTEMxOFhHdnJHX2EtX3BObV80cjNzTEhiUlFSLXpDZFdmdjJ6ZnJvbEJ4TzRlZXNFUkRnSlIyYUl4cUkwTy1UQWxJSFR3RE50RnAzUmdCRDVxdC1fRnk5TlcyMjA2QUdsZVRqTGJCRXd2M3ExY0pqeHpoTXJSVW1XcGpuTVhFYw?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-08-07T05:23:04+00:00",
+      "description": "Southern Military Zone Foils Drone Drug-Smuggling Attempt  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-07T22:33:53.869733+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "0a887b116b22"
+    },
+    {
       "title": "Russia’s Wildberries plans new ‘partner hubs’ after Ukrainian drone strikes on its warehouses - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QdkYtT2g1SnM1Ulo3TjhPeWd1MlZZcld2bzFpTUNhNlZPOGNzMzRuUXU0NW1qQUZUd2JwcU5qSG5NN2hSaUpFVkJHaHFIZHpsdXBNZA?oc=5",
       "source": "arabnews.pk",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6bdd2c801c00"
-    },
-    {
-      "title": "Saudi Arabia Travel Alert: Abha Airport Attack Triggers Flight Disruptions Across the Kingdom - Travel Tourister",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1phN21sTFFtQVhZNlQ3ZTUtZVlTV2FWaWdfYTMxWGE5dTVXVTMtNnozNWFoOUhKaVB4WkZNRFhvN2l0WGhrOEJ1V3dFMXpNUWd0SGg1UWNzem5nUEY0YWk3c05jN2NJb0Z3VENfQWFGaGcxUDhNM3hIbWdtRjRxNzgxR3lZUEpqTWVFX3JnN2pPNTNZblczQVJKZmxxcHQyd3VPdGR5VmRkZy1EQndGOU00WURqMFh5SW9wYnIxcHd2OUk?oc=5",
-      "source": "Travel Tourister",
-      "date": "2026-07-16T07:15:12+00:00",
-      "description": "Saudi Arabia Travel Alert: Abha Airport Attack Triggers Flight Disruptions Across the Kingdom  Travel Tourister",
-      "query": "drone airport disruption",
-      "detected_at": "2026-07-16T10:59:18.470614+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c774a5b3f203"
-    },
-    {
-      "title": "Drone Incident Halts Oil Operations at Iraqi Ports - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnVoRTE5ZmxDZU5uX3RCUEZqalVxTGdYcGVseElqS05la3pNMXZsZXc4aGN1OV9OYmVadkFhZGdERjV3bWpxejVmZW1SNmVYQlJkRnFTQ3M1aWdDVDdFRkNocVBCNWFrYnd1LVU2T0x3UGF4N0dfckh2WjIxYld4aHdlTS1kWHhQdnc3QUFKTldkNUZCMWltekl6eFRPNE9Ia3JnMl9VSTladnVxa0pKSmVCZHByd9IBuwFBVV95cUxNMkVNTGVkdlk4X3lNLTVYeVFZaGN4LURVTTNBNWdWNGZLSnBxVHM1ZG4zekxNb2c3cFRGVDdJcUZjUHJSenk1aXFmektfdjFBaXN5RkZQV2hqRXV6a19YYlZ6UlQ5RUVqQUNyT3FkMTNpZ3lLMHZIcFF3bzJrLXZiVXEwQm1IUm9lNWk2RDZlNFRBYjhOY2FFR1VnZmlzMFlmN3VjcXYxNmRMUXBMX1RSSjhJazNGU2hoWUNj?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-07-16T09:51:21+00:00",
-      "description": "Drone Incident Halts Oil Operations at Iraqi Ports  Devdiscourse",
-      "query": "drone incident",
-      "detected_at": "2026-07-16T10:59:16.370486+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "31ce521580b9"
     }
   ],
-  "last_updated": "2026-08-07T20:39:42.165474+00:00",
+  "last_updated": "2026-08-07T22:33:57.952623+00:00",
   "total_count": 1000
 }
