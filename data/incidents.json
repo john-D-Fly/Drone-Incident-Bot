@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Update: More Than 40 Drones Have Violated No-Fly Zone Over Spokane Fires - Aero-News.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGVMNDZJQV9aYUI4LVgtRW50bUdoMmtMMElELUZId3Mwd2tpRHF1R082OHRFNjlsSGxRcFpIclRlWThXb3AxOERWajYxUVdlQmI1QWliNHduSTNULVpUanJxUTJ5OWdfR01PbFVNVG4tcXFiNm1ZM0NDZnMtYVBhNjRQOFVLV2N6c2N3cEJ2NTFLN3VycGdJ?oc=5",
+      "source": "Aero-News.net",
+      "date": "2026-08-08T04:02:40+00:00",
+      "description": "Update: More Than 40 Drones Have Violated No-Fly Zone Over Spokane Fires  Aero-News.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-08T16:32:22.569490+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "40a30b9ab55e"
+    },
+    {
+      "title": "Drone enters Bulgaria, explodes near pipeline at Romanian border - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMElEMkl0ekFaSWFrOUIxX3VPa3l0ZklITFpSMF82T1RLelRwWElkUmhETkZsZUMtYTBBdVhSbFZBZ0JLSFdBZ2JGS1JJbkxIdEpCbVFXMDFkRUxlOGkyZ3RXenNPQThsM1pFMERoSzdFNW8zd092WUhHUmcwOFNHYjBqWXRNeUdneXpTVTBpcG5ndEs4RTdCcTJ0VDNUWVo2SUgzNm5Ra2R4T0xnTDc0Q2QyU0pCd2s2OGZISjZ3SnI?oc=5",
+      "source": "France 24",
+      "date": "2026-08-08T12:13:10+00:00",
+      "description": "Drone enters Bulgaria, explodes near pipeline at Romanian border  France 24",
+      "query": "drone crash",
+      "detected_at": "2026-08-08T16:32:20.545945+00:00",
+      "location": "near pipeline at Romanian border",
+      "category": "other",
+      "id": "0495e1e1eb77"
+    },
+    {
+      "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-08-08T15:45:43+00:00",
+      "description": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-08-08T16:32:18.104569+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "217b763dba62"
+    },
+    {
+      "title": "US Intelligence Links Russia to Leipzig Airport Drone Incident - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nMHFXcUF5ZEVhM3ZDZWNndlFteUJBRWJKQlh2aTVNUTMwdmtNREJOem1xTFRwU1Q2bkowa3djNzdoaHVVNmRXamxJZw?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-08-08T09:35:04+00:00",
+      "description": "US Intelligence Links Russia to Leipzig Airport Drone Incident  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-08-08T16:32:18.104569+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "0de379b7e8d1"
+    },
+    {
       "title": "FAA Proposes Civil Penalty Against Drone Operator for Alleged Agricultural Flight Violations - dronelife.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM01uYzlwZVBiVWdDSElTV2VReWxQLXhBdEVZTExJTUpMSW51QnM1Nl9xNWxtQXFDOERfbnBPSUk5dURmd2JRbEpzSVctOWJRbzVjY1hjYm84U0pPM29MNThqRTR3WVN1Zkxib1NhY2gxNERmcmpyQkF5M01nOTFvSXo5b01QUjh6LTFlag?oc=5",
       "source": "dronelife.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "022c34408fbe"
-    },
-    {
-      "title": "Espionage arrest over drone flight at German weapons firm: prosecutors - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mOXhnTmZlRGViaTBPSVl5N0dfY1BHVDMtTHY2dm84ZlRfOEI4Y1F2ZHRLRTdfSVp6UEJpcHZnM3RnMzZIQ1U0TktOVmdOclZkdWlkbE13?oc=5",
-      "source": "Arab News",
-      "date": "2026-07-17T14:15:15+00:00",
-      "description": "Espionage arrest over drone flight at German weapons firm: prosecutors  Arab News",
-      "query": "drone arrest",
-      "detected_at": "2026-07-17T19:07:30.650269+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "93ce59d3d24d"
-    },
-    {
-      "title": "SkySafe and Cellebrite Bring Drone Forensics to Investigations - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnVwbzJzUUFRN3hTX2hFRml3VG44d0dPVzgwOEJlSV9OLVV1MHMtbGNLd29VbUd1emc0MTRMc2lsV2Fnb2J6aUdrc2pfeFVsX1NfOWp1QmpzMUxzajRqd0N0MExlcnlhWERfek5rbTAzRHNTTUFueFhDYXU3NmZ1MlNrWmlpWXpmc0Y4?oc=5",
-      "source": "Dronelife",
-      "date": "2026-07-17T12:10:02+00:00",
-      "description": "SkySafe and Cellebrite Bring Drone Forensics to Investigations  Dronelife",
-      "query": "drone incident",
-      "detected_at": "2026-07-17T19:07:30.095304+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "28ffb61ef80b"
-    },
-    {
-      "title": "Kuwait and Bahrain Respond to Iran Drone Strikes - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pSDNMTHpHLUJYU1BkZzRuN2lvTk05eEszTzBFU3ZLTlc4eXdLVzVGaHI1QUliZlFEUnhXakNMM25pZ0hUbUw2N01vektoeEdPd09MVjZyUWFUbzQ0Q0hYR3ZrVHh6NzM3NXJkWkhXWHVRYThx0gF6QVVfeXFMT1o2cG9yb0hvMjd3RjZsQU9SU01ldDdhZDdFRVNyNDlGOEJlRDNfbXVlS3p6T3g3Z3JSZksta2NZNWFkMk5TQ2stUFFMWmdvbzVvVllRdTQtM2poblV0TmxzQVZkdzMtM2pRR19ZbkR5b1hsU0hfYTh4Mnc?oc=5",
-      "source": "The Defense Post",
-      "date": "2026-07-17T04:36:26+00:00",
-      "description": "Kuwait and Bahrain Respond to Iran Drone Strikes  The Defense Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-17T17:11:04.620536+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fa17a38bd4f5"
-    },
-    {
-      "title": "Germany Detains Moldovan For Spy Drone Incident Over Arms Maker KNDS - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkxCc294Mm52TTAzYVdMOXRpdVAxVG9nUl9rcWR2cVc5cml0YVFOQVdwZUNWZFBsamx0c3pIanBMZ1RIa1JhVHgzakdBZmZuT0M0ck8yVnB2Ym1mellLc3R0blRCVXhkTDgxa0tuUUkwbHhYMjBCdXlkSEhQSjlqS21udjVlRlhjc3ZLTllFSTN2dHphTGdWN3U0aFB4dTA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "date": "2026-07-17T13:43:21+00:00",
-      "description": "Germany Detains Moldovan For Spy Drone Incident Over Arms Maker KNDS  Global Banking & Finance Review",
-      "query": "drone incident",
-      "detected_at": "2026-07-17T17:10:59.888907+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d33dd59ef9b4"
     }
   ],
-  "last_updated": "2026-08-08T15:28:35.376679+00:00",
+  "last_updated": "2026-08-08T16:32:23.111711+00:00",
   "total_count": 1000
 }
