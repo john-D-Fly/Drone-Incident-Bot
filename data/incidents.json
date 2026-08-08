@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Libya’s Zawia refinery says leak caused by drone crash is under control - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4Rjl1NUh2bmd0MmlUOW1UTWw3ekZCNVo4eFdobVQ2ZzB3MW9jYTRSZXFaT3dXZi0xLXFwb2c2eG5kYnlpVmhUcFg4bnQtNUxlTnlR?oc=5",
+      "source": "Arab News",
+      "date": "2026-08-08T07:32:20+00:00",
+      "description": "Libya’s Zawia refinery says leak caused by drone crash is under control  Arab News",
+      "query": "drone crash",
+      "detected_at": "2026-08-08T10:31:55.394047+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c2fbf5719686"
+    },
+    {
+      "title": "Libya’s Zawia refinery says leak caused by drone crash is under control - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JUE51T09hWEVSYnQ4N3JLYXV2YmFyQy1zYUI5aEdGN1pVa3NMSDA1MXlEclF2ZmFrdHBCLTcwMzV0REpGRlhfeldLM2N5V2ozVGIxVVkzc1RGbmczbXc?oc=5",
+      "source": "Arab News",
+      "date": "2026-08-08T07:24:13+00:00",
+      "description": "Libya’s Zawia refinery says leak caused by drone crash is under control  Arab News",
+      "query": "drone crash",
+      "detected_at": "2026-08-08T10:31:55.394047+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "81faad849aa0"
+    },
+    {
+      "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmI0RmpkMzdFUFp1ZTl3cnp5dE92TjJzc2s4azIwSXlWN1JueWR3S0p5LV9JN0ladFRUcUljeDgzTTlubkFMOXdNYUlaeG9NQkhhb2Q3SWNEemVyR0tPZ3lHeUk1bWFubnZqaFZJZmdOTy05RlQ3SVVYN2t2dXB1bkU1NUkyeGRzQUdIbEg1NmFPclMzc21COWRsRVJVQzRsSWJNMU0xakFMR3R1UGVCVA?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-08T02:17:00+00:00",
+      "description": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-08-08T10:31:52.847810+00:00",
+      "location": "near Ukrainian plane carrying ammunition",
+      "category": "other",
+      "id": "370b491a7356"
+    },
+    {
       "title": "While Fighting Wildfires, They’re Also Fighting Illegal Drones - snjtoday.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3BWTDFRZWZqUlVLUElubENpUDM2X2h3WlZ2OTZNSUtLVlE5MjlUVEVkTS00UmN3TmpHd2FKcDFkd0RxTWJyYk81cEhkSVNCU2hVcHdZaEZZMWtRQWFVT3ljTnVyVzJXYkdER1R3Ym1EMHlfMkFHQy1HWTc3QWFNSEtHS1JNVFUxX0E?oc=5",
       "source": "snjtoday.com",
@@ -11963,44 +11999,8 @@
       "location": "near Pavlohrad",
       "category": "arrest",
       "id": "1d0204cf02b3"
-    },
-    {
-      "title": "Erbil Remains Secure After Coalition Intercepts Explosive-Laden Drones - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzFtVnc0UFFpVE15QUVyV3lCcXY4d1RFVXEyQ244QXNzZjVsQVRBN0tLdU1IbVppVUFaOTd5eW1DMktFRlFFVVliQTJNZWNfUXV5RGsxU2o3WEM5TDlhdGVvNThiNFNRRHMzNUNDckZVQk00REJoNkVGTGRkVWxtZWpQRERvcUtKMU1OM0xTcE9fbmlmMTFieFpCWFY1S1RkNE5hZVJpSDl0MlR6OWVRWUdCSTc?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-07-17T02:34:53+00:00",
-      "description": "Erbil Remains Secure After Coalition Intercepts Explosive-Laden Drones  Kurdistan24",
-      "query": "drone incident",
-      "detected_at": "2026-07-17T03:29:08.857557+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0950dbc11f4b"
-    },
-    {
-      "title": "Iraqi PM Condemns Drone Attack on Kurdistan Region, Vows Zero Tolerance - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZno0Y0VuLVZGLThCc2hHNmE4MnVEcDItUUJ1MExtNzNxam9GWDJxRGU0WG5sSmcxUHgxVXV4S0l2ZGJGTmtBVEM4aUtNLXhtN3I3LW45em1BMTBrY2FzTUVSWDE0WGlVVGhNVEM3cWkwOFR0dFRxOWJ2VENJS3VHUVptMWtxcDVVa1V3NzM2VDhQaXE2akVGcWljaGZNbGJ5T0tULUs5d1M5UTdIWE1IR2loVDQ?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-07-16T17:03:15+00:00",
-      "description": "Iraqi PM Condemns Drone Attack on Kurdistan Region, Vows Zero Tolerance  Kurdistan24",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-16T23:58:39.653876+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6a90818ff73e"
-    },
-    {
-      "title": "Amazon Prime Air drone deliveries coming to Omaha - KMTV 3 News Now",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczdfSWpqVzRGYktMeWY5bTlNdGZPZHNhRTk3YTRtVlBCdm9MbWVEa0hOeUE1UUJKb2pvQkhNVGx4WUNyS0p2S3lOMmFaMUFsLTFYdjFycTBjYUFrdjNhOW80Q2l0LUswZlJGNFJldjgyV19Pbk9teUloUGFjYnZRYkZDdHRTNlVSOXFYeWY5cHJ6NFdoV1VpY0hJZi1YMENXUksxYUVOWHEtOUM4cEE?oc=5",
-      "source": "KMTV 3 News Now",
-      "date": "2026-07-16T06:53:24+00:00",
-      "description": "Amazon Prime Air drone deliveries coming to Omaha  KMTV 3 News Now",
-      "query": "drone incident",
-      "detected_at": "2026-07-16T22:06:14.816893+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3b919acfc619"
     }
   ],
-  "last_updated": "2026-08-08T09:36:42.075896+00:00",
+  "last_updated": "2026-08-08T10:31:59.672459+00:00",
   "total_count": 1000
 }
