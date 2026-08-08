@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia Denies Role in German Airport Incident, Calls it a ‘Contrived Provocation’, Blames Kyiv Instead - kyivpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xRE1XaTVubkNWZFhlZVNYQ2piYmVvLXFtY3ZzeFpWU0gzUFhScW1SUzBFSXRZOVJUZmdLWGFWR1lEVXNiN2JkTUtVOA?oc=5",
+      "source": "kyivpost.com",
+      "date": "2026-08-08T01:03:05+00:00",
+      "description": "Russia Denies Role in German Airport Incident, Calls it a ‘Contrived Provocation’, Blames Kyiv Instead  kyivpost.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-08T23:27:25.370431+00:00",
+      "location": "in German Airport Incident, Ca",
+      "category": "airport",
+      "id": "44b4eca76587"
+    },
+    {
+      "title": "US Intelligence Links Russia to Leipzig Airport Drone Incident - kyivpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nMHFXcUF5ZEVhM3ZDZWNndlFteUJBRWJKQlh2aTVNUTMwdmtNREJOem1xTFRwU1Q2bkowa3djNzdoaHVVNmRXamxJZw?oc=5",
+      "source": "kyivpost.com",
+      "date": "2026-08-08T09:35:04+00:00",
+      "description": "US Intelligence Links Russia to Leipzig Airport Drone Incident  kyivpost.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-08T23:27:25.370431+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a0eaa3c11e79"
+    },
+    {
       "title": "Explosive Drone Targets Ukrainian Antonov Cargo Aircraft Carrying Ammunition at Leipzig Airport - aviationnews.eu",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjA5Q1hjbk9jRUVXdFNXazVfWTQzMkhHQlYzSldPMzFhOFo4UVpmbnpjV05TTlB0Y0NCRmEwNmdpa21IaGh4YVR2bzd1OWFhRW13Qm0yWjN4VmFiNE05OERUX1ZlZjY3ODZJZjFmYUxNMG5DblVKNjBjdUJrc1diQ3V3QXVoTmlYdXBfTzNLZFo3ZURZUGV2QzM4TnlVV29qNC1IYkdBN2JtbXFCTTZMY2FELU1jYjZGVkFjOTdpZ3FMczItd19PTlJGREVLZw?oc=5",
       "source": "aviationnews.eu",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "9c328888ac9f"
-    },
-    {
-      "title": "Ukraine Says Drone Campaign Has Hit 147 Russian-Linked Vessels in 11 Days - gCaptain",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHk3NDVoQXVnZTlSeEM0NjI5NENFanNPc05mU1M3UWpfMUZ2VGVVTmhrNEl5eVRrMGVMOWNUdG9WY2NoUS1JaTM0blhaRnJuWFZLM0NrSElQSHM2b182MEx3ZHZ2RHk1R2ZVS2xzLXJTWkExUlktNnpEUjFHcWo0NGFGYnVxaTFad1VuUDF5aWo5M3ZBVDZTNm90QQ?oc=5",
-      "source": "gCaptain",
-      "date": "2026-07-16T14:17:38+00:00",
-      "description": "Ukraine Says Drone Campaign Has Hit 147 Russian-Linked Vessels in 11 Days  gCaptain",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T09:24:34.523145+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a4739157372a"
-    },
-    {
-      "title": "Kurdistan Counter-Terrorism Service: Five Drones Intercepted Over Erbil - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NqcEk2UmVYUlhqYWlYRExWUmtBa2hIOWl3UjdxXzNTWFZlZHlkMzlNX3V2TWRQeWs0OTA1ajNvXzNOUmJBWlA5T1BwMFBDZDFrY2w1SHlwWFRBMzAzcmxNYTNFZXZHM1V3OVRaMUVmd3VGSDAzRENaYWx6bEpzdmFyaDB6NThBa2hCT3NOUWJ0aHk3OEVxYk5XTHROZlBUOTU2MHJ3UUtqMnEtenNVa2M4Rnk?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-07-18T05:13:41+00:00",
-      "description": "Kurdistan Counter-Terrorism Service: Five Drones Intercepted Over Erbil  Kurdistan24",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T05:25:41.770995+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0e5c6ab58b25"
     }
   ],
-  "last_updated": "2026-08-08T22:28:05.565563+00:00",
+  "last_updated": "2026-08-08T23:27:30.464641+00:00",
   "total_count": 1000
 }
