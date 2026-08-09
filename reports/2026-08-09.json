@@ -1,0 +1,119 @@
+{
+  "narrative_summary": "In the past 48 hours, several notable drone incidents have occurred, primarily in Eastern Europe and the Middle East. Iraq reported a foiled cross-border drone plot, while operations against armed groups were carried out in Babil, highlighting ongoing concerns about drone-related terrorism. In Ukraine, multiple drone crashes and explosions occurred near gas pipelines, with officials denying accusations of malicious intent. Latvia and Moldova also experienced drone crashes, contributing to concerns about unauthorized aerial activity. Meanwhile, there was an increase in drone smuggling arrests, emphasizing the evolving landscape of drone misuse across borders. The rising frequency of drone incidents raises significant safety and security concerns across these regions.",
+  "totals": {
+    "crash": 9,
+    "other": 30,
+    "smuggling": 3,
+    "airport": 17,
+    "security": 3,
+    "terrorism": 2,
+    "total_incidents": 107,
+    "by_category": {
+      "airport": 25,
+      "arrest": 1,
+      "crash": 20,
+      "other": 54,
+      "security": 1,
+      "smuggling": 6
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 3,
+      "drone crash": 32,
+      "drone illegal": 2,
+      "drone incident": 37,
+      "drone security breach": 5,
+      "drone smuggling": 6,
+      "drone terrorism": 7,
+      "unauthorized drone": 14
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Incidents in Eastern Europe",
+      "rationale": "A concentrated spike in drone-related activities, accidents, and security incidents across several countries.",
+      "incident_ids": [
+        "ffe571575d24",
+        "d6b2404a58df",
+        "b9bf43f1a3cd",
+        "c599aba5d1e1",
+        "d6b2404a58df",
+        "869fd522334e",
+        "d322163d3003"
+      ]
+    },
+    {
+      "topic": "Counter-Drone Operations",
+      "rationale": "Various nations undertaking initiatives to counter drone threats, including smuggling and unauthorized use.",
+      "incident_ids": [
+        "2aad754407d9",
+        "d3de388c92e5",
+        "f0b89d998bd6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "af7afb542eb2",
+      "headline": "Iraq foils cross-border drone plot",
+      "one_sentence": "Iraqi forces successfully foiled a cross-border drone plot aimed at compromising national security.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d6b2404a58df",
+      "headline": "Mystery drone crashes into lake in Latvia",
+      "one_sentence": "A mysterious drone has crashed into a lake in Latvia, prompting investigations.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "c599aba5d1e1",
+      "headline": "Iraq Dismantles Armed Cell in Babil, Seizes Drones",
+      "one_sentence": "The Iraqi military dismantled an armed cell in Babil and seized multiple drones during the operation.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "ffe571575d24",
+      "headline": "Drone Crash Sparks Fire Near Moldova-Ukraine Border",
+      "one_sentence": "A drone crash led to a fire near the Moldova-Ukraine border, intensifying safety concerns in the area.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d322163d3003",
+      "headline": "PFG Confirms FPV Drone Crash at Zawia Oil Refinery",
+      "one_sentence": "A FPV drone crash was confirmed at the Zawia oil refinery, raising safety alarms.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Libya"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Notable drone incidents reported in Iraq and Eastern Europe, with rising concerns over national security breaches and unauthorized activities.",
+    "linkedin": "Recent drone incidents in Iraq and Eastern Europe reveal an escalating challenge for security forces and raise pressing concerns about unauthorized drone activities and potential threats."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-09"
+}
