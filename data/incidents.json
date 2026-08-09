@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Bulgaria Summons Ukrainian Envoy Over Decoy Drone - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xSkhselcydVVNQThzV0FmV0xqLW5mX24xcEk0VkltVUpQaFRaQ2RYdFc0RnM5ZE9vbzB5OHlSMmZlSk9DSkxYc2otTQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-08-09T08:15:08+00:00",
+      "description": "Bulgaria Summons Ukrainian Envoy Over Decoy Drone  Kyiv Post",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T08:41:12.708754+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "44033d1397ab"
+    },
+    {
       "title": "Law enforcement issues warning about flying drones over rally - KBHB Radio",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFBLUjhXM2N5MXhLN2hqX0lNUFJXSm03TDlsaGlWT0Y4VGIzbVRnbnFmT0RIY3Vic2tGUU52dzRfTVFtR1RPbkltMTN2aGRvcFBfOEhoZmkwOTFtcjF5cVZLVkRjWTBFMUxDTE9tcUFId3VXOWJ1OVJscWY4dEhLVF8tS3pNelV3ZnB6YQ?oc=5",
       "source": "KBHB Radio",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6c9a57805d82"
-    },
-    {
-      "title": "Flight restrictions ordered over Aspen Acres Fire in southern Colorado, drone pilot facing charges - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjZ4ODJBWXlkcDNoanp3VG13MTl6RnE2ZmRiWlc4TE81MVdYOGNiQkRwejV0V0ZZRXBrbnFjZXlENS1rTWJCTTBFbWRGblZJMkNMb1Zkd1VSZ3RBWFNXQ2FqTGgtTm84WkZyZDVaQ1lxRWZ6WlctQXM5VFM1aEZWY0dCZzhtTTJ2clg0OHgtcmxOajVVZDBGZjNad2FPSm5reUl1N2puUVlhb0FweGsxTEJ0Qnd3RHgtMVFFeA?oc=5",
-      "source": "CBS News",
-      "date": "2026-07-18T21:13:00+00:00",
-      "description": "Flight restrictions ordered over Aspen Acres Fire in southern Colorado, drone pilot facing charges  CBS News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-18T21:51:43.386522+00:00",
-      "location": "in southern Colorado, dr",
-      "category": "security",
-      "id": "65b110835457"
     }
   ],
-  "last_updated": "2026-08-09T07:53:15.380890+00:00",
+  "last_updated": "2026-08-09T08:41:15.442317+00:00",
   "total_count": 1000
 }
