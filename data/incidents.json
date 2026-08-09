@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Iraq foils cross-border drone plot - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tdjlzQ1EzWFJCOWZLc0s5VHpCYlNjcUJoSWVWZ2t1YjdUZFVVS3IyQUF5bXR3bG9WLXZRbzd0X0VFZG9GWTBnWC1NMjUyMGZocE5CaVR2NFd0RG5tMFBFdEkzYXUwV2JGM2NHSzdWT0E4SjA?oc=5",
+      "source": "شفق نيوز",
+      "date": "2026-08-08T21:07:39+00:00",
+      "description": "Iraq foils cross-border drone plot - Shafaq News | Latest breaking news in Iraq and the world  شفق نيوز",
+      "query": "drone security breach",
+      "detected_at": "2026-08-09T13:48:55.467786+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "af7afb542eb2"
+    },
+    {
+      "title": "Mystery drone crashes into lake in Latvia / Article - Latvian Public Media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
+      "source": "Latvian Public Media",
+      "date": "2026-08-09T08:53:10+00:00",
+      "description": "Mystery drone crashes into lake in Latvia / Article  Latvian Public Media",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T13:48:54.392389+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "d6b2404a58df"
+    },
+    {
+      "title": "PFG Confirms FPV Drone Crash at Zawia Oil Refinery - Libya Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY0VBUW14QUpKMzVFaFB6Y1d4M0NGZFNRSWI1OWs4bGVZRnJRRFdHLTByNG9MU0JIWGI2RUFHZ0Utcy1zRjk0WUlpU3VieGw4N0VuUmR4aHRJUnZSVm16RFNUS1F2cmEzOVlFWFY4VFhuYndyMm14UlNUY0RMRDRTSFE0cXkzT2txM201RU1TVzBISFdacTBta0pmZDBHWGpHQ3RHdG5KUkd2ZzNERjgxclJGbURhQTJsVjJvVnpSZDM4Z3B3c2JqekZuMG51Ym53R3B2VFgtQ1RjbktucGtaTXRCNlY?oc=5",
+      "source": "Libya Herald",
+      "date": "2026-08-09T13:44:50+00:00",
+      "description": "PFG Confirms FPV Drone Crash at Zawia Oil Refinery  Libya Herald",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T13:48:54.392389+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "3473b3101b9b"
+    },
+    {
+      "title": "Drone Crash Sparks Fire Near Moldova-Ukraine Border - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvaWRwc25WUkxsNlF1Z0xHV2tnMkQzVGJQWXowMmsxSXJGUDA4RHZ0LWYtU0EyZ1RYWkkxVUlMcGNxS2NpYkFXbzJzQQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-08-09T12:33:12+00:00",
+      "description": "Drone Crash Sparks Fire Near Moldova-Ukraine Border  Kyiv Post",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T13:48:54.392389+00:00",
+      "location": "Near Moldova",
+      "category": "crash",
+      "id": "ffe571575d24"
+    },
+    {
       "title": "Iraq Dismantles Armed Cell in Babil, Seizes Drones - Kurdistan24",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhpYmRKekZvdmt3YkN0Qmd1TGY1YWJRS2RNdW82bTQ1LXdONU9YcGREd05CR0lialVSbml1ZXdiTGlBSlBhbENfa01McF9MZlFjUVUtNkxTZHZmamV3NlRNSTJ1VkFkb0VZWEZFV2ZNSE8tS01zRExTcWkwcnZfdFh5UVN0VWh5SV96dEkwenBRQmtfU0FxdA?oc=5",
       "source": "Kurdistan24",
@@ -11951,56 +11999,8 @@
       "location": "in Latvia, po",
       "category": "other",
       "id": "2ce8ca655df6"
-    },
-    {
-      "title": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFVZ1doWldobVYwaHdhZ3BtT1E4YUY5N2FRZGNnekhKbmxTODItMFV6ejg3blRUemx6WGFhY015ZzZtOExiOGtMYlQ2REcyVllLcnJkbi1tNTBQajhIYy1jcHMtR2I5ZV9yeElFOG1rZE1KWUROY01OU3pZVzlPaHUzYnJ0XzRGUm51LUNEUmEwWmJGUzBPUHNkMDU4alY2SkJBSFp3MDU2SjNrdWNKS1NCOGkzN041MWc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-19T18:06:11+00:00",
-      "description": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2026-07-19T19:05:11.234242+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ff1388e28451"
-    },
-    {
-      "title": "Latvian Defence Minister Sprūds under pressure over drone incident / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVkM3pMektjV0Y2QUxXbVkyMWZKRGVBejcyekxzSUlzYjFxbGJLbEx2QUpwcnFaQk12VV85aFdIVVI4eno1TGwwMzhGWFhZU2RwdXNtaklEQ3V2aU9EQU55R1JVNm1DX2pndXRtQWdTbGlVaE9aTXFkd3NDRlBjaFo4NUd0RUV6NmJvb3Z1bEptem1nMzFIUTN5ZnpQRHpNQXdrS1pqakJtUW9lN2NWaDA3UGlMSG1JbmV5ZVg0Rko3MUNlS0lqNy1GVQ?oc=5",
-      "source": "LSM",
-      "date": "2026-07-18T17:27:32+00:00",
-      "description": "Latvian Defence Minister Sprūds under pressure over drone incident / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2026-07-19T19:05:08.146079+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8b7e87bac6b6"
-    },
-    {
-      "title": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFVZ1doWldobVYwaHdhZ3BtT1E4YUY5N2FRZGNnekhKbmxTODItMFV6ejg3blRUemx6WGFhY015ZzZtOExiOGtMYlQ2REcyVllLcnJkbi1tNTBQajhIYy1jcHMtR2I5ZV9yeElFOG1rZE1KWUROY01OU3pZVzlPaHUzYnJ0XzRGUm51LUNEUmEwWmJGUzBPUHNkMDU4alY2SkJBSFp3MDU2SjNrdWNKS1NCOGkzN041MWc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-19T15:08:07+00:00",
-      "description": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2026-07-19T15:57:21.913600+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "25f182a5c883"
-    },
-    {
-      "title": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFVZ1doWldobVYwaHdhZ3BtT1E4YUY5N2FRZGNnekhKbmxTODItMFV6ejg3blRUemx6WGFhY015ZzZtOExiOGtMYlQ2REcyVllLcnJkbi1tNTBQajhIYy1jcHMtR2I5ZV9yeElFOG1rZE1KWUROY01OU3pZVzlPaHUzYnJ0XzRGUm51LUNEUmEwWmJGUzBPUHNkMDU4alY2SkJBSFp3MDU2SjNrdWNKS1NCOGkzN041MWc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-19T04:10:00+00:00",
-      "description": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2026-07-19T13:37:51.870359+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9b0437ade380"
     }
   ],
-  "last_updated": "2026-08-09T12:48:24.104529+00:00",
+  "last_updated": "2026-08-09T13:48:56.886829+00:00",
   "total_count": 1000
 }
