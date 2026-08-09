@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "FAA Proposes $289,215 Fine Against Gorge Drones - Aero-News.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhOeEhUUmRVNFNoY0xIWVdySmVMRUdUYkhLZ052VDhuS1lPY3hTdTV2SUJkTzZaMHFvUGo4dmpOUmpqWjU0X21Qc25EM1kyeTB1RzJGVm5XVEhBOWp4OTZzdUlCR2ZOd3lHOThxOVQyRjJHNHZGOHBGakJma3l3LVhMS1Vha25NaW1GYml0T2RFZmdWUEJN?oc=5",
+      "source": "Aero-News.net",
+      "date": "2026-08-09T09:57:47+00:00",
+      "description": "FAA Proposes $289,215 Fine Against Gorge Drones  Aero-News.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-09T16:34:02.109004+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6cc1991147fe"
+    },
+    {
+      "title": "Five Killed as Drone Attack Strikes Belgorod Overnight - Военное дело",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0N4dEs5MzBjRWVZOEctWVJqamI5ZG5vYnF0dXBiMWhHdzBjeV9QTHVEZVRxVlFLR2hXZUxVa3NGcUhqSWU0Nl9Ud1k4NjhpWTBsZEZZNDV2aW13cVpUNFJTR1FFYU1kbS1VVjEwZlFGdGpjREVqcWRQYnUtVm9veG8zSTl5dHE2R0lCZGRVR3ptdXBxR3p5NzRUYw?oc=5",
+      "source": "Военное дело",
+      "date": "2026-08-09T11:30:02+00:00",
+      "description": "Five Killed as Drone Attack Strikes Belgorod Overnight  Военное дело",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-09T16:34:01.554455+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c23d20d3ff99"
+    },
+    {
+      "title": "Iraq Dismantles Armed Cell in Babil, Seizes Drones - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhpYmRKekZvdmt3YkN0Qmd1TGY1YWJRS2RNdW82bTQ1LXdONU9YcGREd05CR0lialVSbml1ZXdiTGlBSlBhbENfa01McF9MZlFjUVUtNkxTZHZmamV3NlRNSTJ1VkFkb0VZWEZFV2ZNSE8tS01zRExTcWkwcnZfdFh5UVN0VWh5SV96dEkwenBRQmtfU0FxdA?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-08-09T14:39:00+00:00",
+      "description": "Iraq Dismantles Armed Cell in Babil, Seizes Drones  Kurdistan24",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-09T16:34:01.554455+00:00",
+      "location": "in Babil, Se",
+      "category": "other",
+      "id": "45cea36cdcc3"
+    },
+    {
+      "title": "While fighting wildfires, they’re also fighting illegal drones - The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY21BX01UM0Y4dE8wWDFDWnk4QW91cHdLLUpNUUp2QlN4Wm1HQ2JmV1VEeTFaa1V5dXFCcnN0RTFBUk5RV3pYVEpPTzQ5STQ3V2Z2VnpvVWVsR3BtdWZfYjhRMzllalotaGhLU3ZlNTJLaEYybkxpS2VMTWEyUkhkbE9kemkxdDNhb2c?oc=5",
+      "source": "The Salt Lake Tribune",
+      "date": "2026-08-09T12:02:05+00:00",
+      "description": "While fighting wildfires, they’re also fighting illegal drones  The Salt Lake Tribune",
+      "query": "drone illegal",
+      "detected_at": "2026-08-09T16:34:00.378446+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "56bbe0a1080a"
+    },
+    {
       "title": "US MQ9 drone said to crash in Djibouti - Breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1pVUUwUGJNRkhyWnVUN0ItczVXZXdGY1h0aVMzUHpIWkV0Qm9IUEFkM2xvekRFTi1xcXVlNUFjcW95U2NvTmdZcXJvRjdXci1nUnJFR0F0dW9FWFJ0NWpUdy1IVEpqMnluZ3NyZXZSdEhMYlIzcDNqLTNOODl1M2FpTk5lZjB3OFBj?oc=5",
       "source": "Breakingthenews.net",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "ec0c54432753"
-    },
-    {
-      "title": "‘You cannot hide from a drone strike’: The terror falling from the sky in Sudan - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FeE5VUmR0Vm1LeS1HbGQ5bGpKMFpvRGdVNlc3WnNDX3NuRkVQZDE3bDZMODlzaW8wZTNobGJsT2hkSTlxbU1BaUxzVjBqaXo3MlNpTzVnTlgyazB5VERQVUlWRDVleERfNENqRXN5QmJRVDN4REhDTlJpUQ?oc=5",
-      "source": "CNN",
-      "date": "2026-07-20T04:01:25+00:00",
-      "description": "‘You cannot hide from a drone strike’: The terror falling from the sky in Sudan  CNN",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-20T06:44:48.892922+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "c6cc5a63630a"
-    },
-    {
-      "title": "Two arrested after drone smuggling attempt foiled at Melaka’s Sungai Udang Prison - Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTFVySjIxU29OOGNUQS1vNGM0UVNVQkozWk0xNFNvcUJSYk5DMUdvVmIwcHBobXJlMHNkV2hSNTNnUnVIMTJGTmVnelFrZHFHN1U5NUptcjBsbDRGN3BTaXN1TThfUW43dzZodXlLQ0pQcVJZZ2dvVzRYazI0VWhjZ20tOGU0Y3hxcmRrdEppLTBKejBMek5xckVmMlZxUndHcVo4WjJIYnlqenlPS3V2WUVONGE2cnp0SVlLV2tRcHJldVBHeW9uZ2V4SzJlY29TaTFkT9IB2gFBVV95cUxOVlI3d21ITW44Q0hLN2RicXhVa2RBTmlyR2JNUENnS2NYMHRlWDJXSWpiYzNYeWFIX0VWOXQ4YXpKTEEwR2NreTh1Sk1DbGtTaXdZOE9DV2pXX0NuYmotcldCbHMwcTBuSXEwcTNEazBqSmpqZ3c3SlFRampxNkNXUFRJeTc0bTFWcDVibnQ4dVJiVkhkaDRGM2loZW5URzAtNDBDVGwyekxxZWl6UGVwR2VOYW1uTnJ6dnlycTctRE5qNHBici1GX1A2NEFIdWVtdmJhRTVzRUdCQQ?oc=5",
-      "source": "Malay Mail",
-      "date": "2026-07-20T05:16:44+00:00",
-      "description": "Two arrested after drone smuggling attempt foiled at Melaka’s Sungai Udang Prison  Malay Mail",
-      "query": "drone smuggling",
-      "detected_at": "2026-07-20T06:44:45.947590+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "87b3125d0a2a"
-    },
-    {
-      "title": "Toronto police intercept one more illegal drone during World Cup final - TorontoToday.ca",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZld6UWJ0NHZNMTE4alFPRFBPTEp2Y09WVXNfeXJlRmhwYmtDNzZWMjNJZlliSmU1QkwyQVkwdjJ2Z0VFQ29UTFUzckwwMmhuYTZXM0lmb3AtQndmeGxRWmRCTGp1Z2puOExGeFh3Mm8wSXNGc24zRnBlVDlIWGhfbUdRUXpobmxzZS1fRUZJYXBHY2stcTZraFhiUUdpU2ZweEE4VzFTUlJnQlVYbTdxa2owSGxmbVp1Z3JwTlNGX2FPT3pfUE5RX0FDbzY5M1g2TDRWYg?oc=5",
-      "source": "TorontoToday.ca",
-      "date": "2026-07-20T02:42:49+00:00",
-      "description": "Toronto police intercept one more illegal drone during World Cup final  TorontoToday.ca",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-20T03:53:04.345816+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e42cb3c93244"
-    },
-    {
-      "title": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFVZ1doWldobVYwaHdhZ3BtT1E4YUY5N2FRZGNnekhKbmxTODItMFV6ejg3blRUemx6WGFhY015ZzZtOExiOGtMYlQ2REcyVllLcnJkbi1tNTBQajhIYy1jcHMtR2I5ZV9yeElFOG1rZE1KWUROY01OU3pZVzlPaHUzYnJ0XzRGUm51LUNEUmEwWmJGUzBPUHNkMDU4alY2SkJBSFp3MDU2SjNrdWNKS1NCOGkzN041MWc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-19T18:26:00+00:00",
-      "description": "More than 700 illegal drones seized during the World Cup, says FBI - The Athletic  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2026-07-20T03:53:02.887468+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a29169efc530"
     }
   ],
-  "last_updated": "2026-08-09T15:30:56.778972+00:00",
+  "last_updated": "2026-08-09T16:34:02.676857+00:00",
   "total_count": 1000
 }
