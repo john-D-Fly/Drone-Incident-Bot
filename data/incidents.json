@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "US MQ9 drone said to crash in Djibouti - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1pVUUwUGJNRkhyWnVUN0ItczVXZXdGY1h0aVMzUHpIWkV0Qm9IUEFkM2xvekRFTi1xcXVlNUFjcW95U2NvTmdZcXJvRjdXci1nUnJFR0F0dW9FWFJ0NWpUdy1IVEpqMnluZ3NyZXZSdEhMYlIzcDNqLTNOODl1M2FpTk5lZjB3OFBj?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-08-09T15:06:00+00:00",
+      "description": "US MQ9 drone said to crash in Djibouti  Breakingthenews.net",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T15:30:54.434800+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "c8b0d46e4af3"
+    },
+    {
+      "title": "Southern Military Zone Foils Drone Drug-Smuggling Attempt - petra.gov.jo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3AwUmtQUFRINE1paThqWks4ZlhfR3pPQ2oxbTNIemJCM3VuUnJvOUJHVl9sVW1JRU9ZNDVIZGk2Zld2eDdaZ3NWVmhBTzRZR2cxeGFJUWxOZGptdFY4QlFBY1RXMHJxb2xDOUVacTc2Tl9sTHpfLW51Q2U1dkVVQVRVZmR1N184OGc1NHR4YVN3UFRURXFlbmZvRGxteENXOEJwMXpHRQ?oc=5",
+      "source": "petra.gov.jo",
+      "date": "2026-08-09T06:12:15+00:00",
+      "description": "Southern Military Zone Foils Drone Drug-Smuggling Attempt  petra.gov.jo",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-09T15:30:53.049147+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "af4c3ea2d2c0"
+    },
+    {
+      "title": "Moscow Court Arrests Drone Solutions Executives Over Alleged Large-Scale Fraud - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDOEk3YXNQaVFNeUFDSlJBdXYtR00yVlVqRU9ZbzJDR3hCUWNxM3Q2Z05zTVBUSEFqZloyWl9wV21zRDVEWVJyS2o3OTJ0VHZhX0ZQbXBtWFdYaG9BMW5ZeGZBQm90cU1iUHc?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-08-09T14:40:49+00:00",
+      "description": "Moscow Court Arrests Drone Solutions Executives Over Alleged Large-Scale Fraud  Межа. Новини України.",
+      "query": "drone arrest",
+      "detected_at": "2026-08-09T15:30:52.537742+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c53402c54797"
+    },
+    {
+      "title": "Exploding drone incident at German airport housing Ukrainian planes highlights ‘new threat’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ3gzcTdTSVhkbUc4enN3NlNuLTZtZE9SNmkybUZPWE9JUGpVS0lkVjFpT0VPM3VOb29OZWVRN2E5NjFranZZc0JWMEZSN3BSalR3aEp3VWwwbGM5Z1NzYktLZk1hckEya0Z1c21jQjBvRzBRSTBGcHFkRXBEWUlrTjd4YmVxeXNQRHcyMTBJVGlDQkgyLTN3RV9zSXU0bmF2MTNuNlZ6RXZJcHdEZk9jdjQyTzBrWjZaNGc?oc=5",
+      "source": "NBC News",
+      "date": "2026-08-09T13:45:47+00:00",
+      "description": "Exploding drone incident at German airport housing Ukrainian planes highlights ‘new threat’  NBC NewsBus driver kicked explosive drone out of the air at German airport, lawmaker says  ReutersUS Intelligence Links Russia to Leipzig Airport Drone Incident  kyivpost.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-09T15:30:51.948406+00:00",
+      "location": "at German airport",
+      "category": "airport",
+      "id": "dc2fc4058eda"
+    },
+    {
       "title": "Combat Drone Explodes Near Moldova-Ukraine Border - Kyiv Post",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvaWRwc25WUkxsNlF1Z0xHV2tnMkQzVGJQWXowMmsxSXJGUDA4RHZ0LWYtU0EyZ1RYWkkxVUlMcGNxS2NpYkFXbzJzQQ?oc=5",
       "source": "Kyiv Post",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "a29169efc530"
-    },
-    {
-      "title": "Woman, daughter killed in drone strike on home - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHAyamlYSlRTdEc1QU4wY3BtcmQ2aWJ4UWhBWEYxT2ZfZWdScmZOVEUxVEdjS2hURjBDbUF6RUNmNkNNeTlQNnB6bHpxdU1xSjZKZnh4NjFzMXZEeFlGdTA5ZlBpUm84a1hnNlRpaWFwNm1xTm11NFZTZTBNc1A0a25HejZidUhtcGfSAZIBQVVfeXFMTWZZcTJaYkxNMjZhc1BmcFBFamIweWpzZGVsanJnaU04aTQ5MXVTRjRZY2hzeUl1WkMybUJzaWx2RU4zLThwVWwxZmthNVhjVmp1SnJscHBXV2Y2UjNHR0ZwdS16RDJ0NlBYQklyYUQxdTF4QTJyZzBJRnV1THQwcWdtZ3RYUEE2eU5jYUlWQ05NVGc?oc=5",
-      "source": "The Express Tribune",
-      "date": "2026-07-19T21:37:42+00:00",
-      "description": "Woman, daughter killed in drone strike on home  The Express Tribune",
-      "query": "drone incident",
-      "detected_at": "2026-07-20T03:52:59.639440+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9914a0746604"
-    },
-    {
-      "title": "Iran shoots down drone amid 2026 war tensions with US, Israel - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVRzM0p4LVpKZHBOTnlBSlRTaWFyRXJSWHBxMGdXRFNXWFE3SVIzc196SGpqc2kyMEp2R0JseEoxLWhVVC1pczd1VmZuUTZReU9KdGU3OTlScWItSlh3bmxQamRmMjVZRUhPN0xBVUUzYnd4cFltSm5pRk12a0hTempPT0NMdHlKREdnOGpWTTBQdw?oc=5",
-      "source": "Crypto Briefing",
-      "date": "2026-07-20T00:48:52+00:00",
-      "description": "Iran shoots down drone amid 2026 war tensions with US, Israel  Crypto Briefing",
-      "query": "drone incident",
-      "detected_at": "2026-07-20T03:52:59.639440+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8b1fca6b171e"
-    },
-    {
-      "title": "Woman, daughter killed in drone strike on home - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHAyamlYSlRTdEc1QU4wY3BtcmQ2aWJ4UWhBWEYxT2ZfZWdScmZOVEUxVEdjS2hURjBDbUF6RUNmNkNNeTlQNnB6bHpxdU1xSjZKZnh4NjFzMXZEeFlGdTA5ZlBpUm84a1hnNlRpaWFwNm1xTm11NFZTZTBNc1A0a25HejZidUhtcGfSAZIBQVVfeXFMTWZZcTJaYkxNMjZhc1BmcFBFamIweWpzZGVsanJnaU04aTQ5MXVTRjRZY2hzeUl1WkMybUJzaWx2RU4zLThwVWwxZmthNVhjVmp1SnJscHBXV2Y2UjNHR0ZwdS16RDJ0NlBYQklyYUQxdTF4QTJyZzBJRnV1THQwcWdtZ3RYUEE2eU5jYUlWQ05NVGc?oc=5",
-      "source": "The Express Tribune",
-      "date": "2026-07-19T21:37:27+00:00",
-      "description": "Woman, daughter killed in drone strike on home  The Express Tribune",
-      "query": "drone incident",
-      "detected_at": "2026-07-19T21:52:10.058141+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b8488869cc2b"
-    },
-    {
-      "title": "Following Ukrainian drone strikes on its biggest warehouse, Russian online retail giantWildberries offers sellers discounts and loans, but no compensation for destroyed goods - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQLUVhc0N6VUtCdUZLTEdPOUxCX3hDYTlMQzcxQ2FjeEhraklYRXRUclpZQlhMcmIxUzlac2owbHRYS1JvWE9EUTduRkRGMndNbzRlenI0dkQ5RG9OVTgtVGI3LUVVZmN4c3BIXzQ5Z3FXam1vRjBqWmFIaDlqeHIwTnNFNFZ0bHVjOFFhQm5zOGZ1aFhIMWV5eWgyWnBmNktxOC1RcGVzbjdKVmJlRTRBdENka0t6YjZoS05XMjlqR1dTV251S2UtMEVrTEZablFOWGVGNFA5Z2pWVl9lbjlNZ3ViSzBWZUx5SlJwcGF5ZXJEQTYtVWt2UXBvVWg1ZjJzNXBkLV9jSHpId2hMVFNZbTZReFZ6MG0wS0g3TmZEcUhRNkJMTk5weFp2S3hKUFE3VUx2T1BXZ1ROaG9Y0gG8AkFVX3lxTFAtRWFzQ3pVS0J1RktMR085TEJfeENhOUxDNzFDYWN4SGtqSVhFdFRyWllCWExyYjFTOVpzajBsdFhLUm9YT0RRN25GREYyd01vNGV6cjR2RDlEb05VOC1UYjctRVVmY3hzcEhfNDlncVdqbW9GMGpaYUhoOWp4cjBOc0U0VnRsdWM4UWFCbnM4ZnVoWEgxZXl5aDJacGY2S3E4LVFwZXNuN0pWYmVFNEF0Q2RrS3piNmhLTlcyOWpHV1NXbnVLZS0wRWtMRlpuUU5YZUY0UDlnalZWX2VuOU1ndWJLMFZlTHlKUnBwYXllckRBNi1Va3ZRcG9VaDVmMnM1cGQtX2NIekh3aExUU1ltNlF4VnowbTBLSDdOZkRxSFE2QkxOTnB4WnZLeEpQUTdVTHZPUFdnVE5ob1g?oc=5",
-      "source": "Meduza",
-      "date": "2026-07-19T17:33:00+00:00",
-      "description": "Following Ukrainian drone strikes on its biggest warehouse, Russian online retail giantWildberries offers sellers discounts and loans, but no compensation for destroyed goods  Meduza",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-19T20:47:55.489426+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a2528ea871ea"
     }
   ],
-  "last_updated": "2026-08-09T14:33:28.948624+00:00",
+  "last_updated": "2026-08-09T15:30:56.778972+00:00",
   "total_count": 1000
 }
