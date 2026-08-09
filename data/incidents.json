@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Law enforcement issues warning about flying drones over rally - KBHB Radio",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFBLUjhXM2N5MXhLN2hqX0lNUFJXSm03TDlsaGlWT0Y4VGIzbVRnbnFmT0RIY3Vic2tGUU52dzRfTVFtR1RPbkltMTN2aGRvcFBfOEhoZmkwOTFtcjF5cVZLVkRjWTBFMUxDTE9tcUFId3VXOWJ1OVJscWY4dEhLVF8tS3pNelV3ZnB6YQ?oc=5",
+      "source": "KBHB Radio",
+      "date": "2026-08-09T00:53:53+00:00",
+      "description": "Law enforcement issues warning about flying drones over rally  KBHB Radio",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-09T07:53:14.892292+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2e24d363cb92"
+    },
+    {
+      "title": "Iraq Dismantles Armed Cell in Babil, Seizes Drones - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhpYmRKekZvdmt3YkN0Qmd1TGY1YWJRS2RNdW82bTQ1LXdONU9YcGREd05CR0lialVSbml1ZXdiTGlBSlBhbENfa01McF9MZlFjUVUtNkxTZHZmamV3NlRNSTJ1VkFkb0VZWEZFV2ZNSE8tS01zRExTcWkwcnZfdFh5UVN0VWh5SV96dEkwenBRQmtfU0FxdA?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-08-08T19:36:00+00:00",
+      "description": "Iraq Dismantles Armed Cell in Babil, Seizes Drones  Kurdistan24",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-09T07:53:14.382136+00:00",
+      "location": "in Babil, Se",
+      "category": "other",
+      "id": "d8242cd234c5"
+    },
+    {
+      "title": "Explosive-laden drone, likely from Ukraine, crashes in Bulgaria near gas pipeline, Kyiv denies targeting - wionews.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaDh1WkRBQzVEVTRhZkdRaTJjTTNuRGxBdXJhS08yQjdSZDlqZ014UHplb2hQOHN2WTJ5QTZVS1NjcnRpOHREM3pTUi12Skd2bkdZdW1Jb0dwMHlIdHNaQzZLQmVwYm9hZE9oSmVOLUJPMmxKQ0ZVbW1Ma1hfd3B1NVlfck5JdEtFZm51SkNUUXM3bzhEYUpaWndDbXcwMjZvZE1DMHVMSEw4MzdYa1FKZ0hZZE42UlVWdmpLclA3c2Q5bnFwQkFyRVZleGJHMk8tdFFaWHBvUlEtV2VjWXfSAeMBQVVfeXFMTTd0TkkxelFvcTN5WHM1RG9COExTelUtZTRqV2JEZ1NCNkdYY0ZYNGMtRmU4SG9SaW5yR0JtS2tpc3dlUjZoYm1YNTRCYjF1V3k4LVJpWENQNW9jMU9JOXduZUJWUHJodG13dkR6cDU4RFlCTDNRVkVmY1NTdG0wR0dfd1ZqUDd1NE83b0ZQNGRSN0plMUR2ckRQWDVVZVJ2MlhYUGh4dVFxODYxbzMtajlFbzE0c1RMLTNrVDlwQ3Z1MTVMaFk1b2o2Z1BTdllOSExIcjY1WTRJMF9hNGpHOXVmcUE?oc=5",
+      "source": "wionews.com",
+      "date": "2026-08-08T17:20:00+00:00",
+      "description": "Explosive-laden drone, likely from Ukraine, crashes in Bulgaria near gas pipeline, Kyiv denies targeting  wionews.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T07:53:12.928618+00:00",
+      "location": "in Bulgaria near gas pipeline, Ky",
+      "category": "crash",
+      "id": "508d2243fa2c"
+    },
+    {
+      "title": "Israeli drone crashes in southern Lebanon, leaving two injured - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkUtdXVCOUNBcE4zUVBDNWp5VmNGaFJJQVdFaGoxeG9JWlhGNEpKbHJJa3YzcllQbGVFZ3VSTTRWUDFQNWpWOWNQSnYwZVBVMlFZZ0hXSk9iaThlU0pEcW9jUHdSUlNiRkNmVGdVSV8wcWI1eE5HSWhveWI5V0l3QXVhVVZkZjJSNHc?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "date": "2026-08-09T05:48:12+00:00",
+      "description": "Israeli drone crashes in southern Lebanon, leaving two injured  Latest news from Azerbaijan",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T07:53:12.928618+00:00",
+      "location": "in southern Lebanon, le",
+      "category": "crash",
+      "id": "fc5e2e52740d"
+    },
+    {
+      "title": "Ukraine investigates drone incident with Bulgaria, Foreign Ministry says - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUGI1T2Y1X2VmMzVXTDgwYk1rdkVVcVRyMFczYU9QRlF6cUh1RHFzNWxaWXZla083LVl4cjhycVJjaDZFdGJtTlZ4UWd1eTNUWlJ5dDR5TnprUXFWNVhIVXBRWXJKT3FOYWtyTlExVmRCczNNc1ZQRUhBay1JN2hCbWFmazE0X3NPd0dMN253RnhmT2NPbG9EWWF5dHM4dUlxd0hveElhdlZ1U1YtT0JIMEtvdUNKcWVzZHpDcjJvSGNsWU5i0gHKAUFVX3lxTFBGRTVBZzQ1OUl0REZHcUpxYmlQVmVidHRtUVJLTHNydzhKR3VhVVltUkVpMFFWdkUteTlkRlZDVWJ0Sy1ZRmQ3ZlpQWWJIY2RhRDRic051QTltX2ZvQXhXVHBWZGpSbFdiWDJ3Vk1yODhFc2w5LWtCcmNxZlhGVlVIdDFZLWp5TDdrUzRGbDJhbDY5OHdEbGdMYU43QUhzc0Mxa1kzX1BFeVIxTnVWZ1VreUxNWnljbGEydUx2cEphaFNKTnJMVGtNQ3c?oc=5",
+      "source": "Ukrinform",
+      "date": "2026-08-08T17:22:00+00:00",
+      "description": "Ukraine investigates drone incident with Bulgaria, Foreign Ministry says  Ukrinform",
+      "query": "drone incident",
+      "detected_at": "2026-08-09T07:53:10.299918+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "47dd9fa95ff2"
+    },
+    {
+      "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-08-09T06:51:04+00:00",
+      "description": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war  Al Jazeera",
+      "query": "drone incident",
+      "detected_at": "2026-08-09T07:53:10.299918+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fbae7c21cdb0"
+    },
+    {
       "title": "Ukraine denies targeting Bulgaria as drone explodes near pipeline - france24.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSERqeWI4NzJGM256MjUxRGdWazd1VkY2N0w2TXE2bnNBQjdNZVBRT29aT1U5N19ZZGt1RmtIX0tMS3VjZmhZOGx6MXBHa01rZ2YwNk9VakF6cDNYQ2tWS1BFSk1zbjNXMll3R09odWk0cTE3WjNnTkFBTWV5aU1OZGpZYUtXZk9kWjNqRFRmaUM0M2pwQWU3bGJ5RDZLUFpXT2NmanI5V2N3QlZDSHM1NTF3?oc=5",
       "source": "france24.com",
@@ -11927,80 +11999,8 @@
       "location": "in southern Colorado, dr",
       "category": "security",
       "id": "65b110835457"
-    },
-    {
-      "title": "Eight killed after Ukraine launches wave of drone strikes on Russian energy, military targets - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnUwWTBPaFpKNnpqaGlqMmJvQ1l6Q3BkdnNVRkoyZzY5bmRuUmw3bmU2WXA3VzJMdHpLcWlTNnRHNFN1VjdTWDZDbXJldktGeXpDb3RrazMtSUhuZ3ZJUHVjXzBvWFZhcW1neE9qcDIyOG5MTDNEVUViTUEtMVM0ZkRwQUdKYWRkMS1ON2F1RFFweHh1V3ZRa0UxX3JNbGlpcUpGNi02UEJZSEFpTmVXR0xwNGpHS0hZdmJUcEFtYzRPYjFIVHdYNkJEeTlUZ2dZcmhmMmJOQU5aREt3?oc=5",
-      "source": "New York Post",
-      "date": "2026-07-18T20:06:39+00:00",
-      "description": "Eight killed after Ukraine launches wave of drone strikes on Russian energy, military targets  New York Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T21:51:42.848305+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "13b401c500d7"
-    },
-    {
-      "title": "Photos and videos show the aftermath of Ukrainian drone strikes that killed eight night-shift workers at online retailer Wildberries’ warehouses in Russia - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQN2pxQUdUWElUX3RwX2dUWWVMYmlFUTFMbTlQaHdub3o3OVpDUXdXMWp3RGNoR0d6alFNMlRkay16UmRTTmFfLUgwOUp5WTJBUm4zeENJaTBOR3RVeGJuZzVoQkxjcWNVbHZrY0JLby1EUkhBV1VsRE1QNFYwS0R0NDhCSWdsV1FNUTZycFllTERZNFo2eWExSzIzZGt2djdSdC1DRWVhMk5nQS1ZclZXNHhtU0FkY3hBMmFsQXRMRlB4elJoaTlnMF9lSE9FNlJDc1VyNzdUT1FfaTI3c2NacUthNDlvd080S1ZYUUpwRnB4bUFTOHJ4WWYxMFQ2SWUxZGVmeGlMN1lmdjFKS09xbzF4MzFWa2Z3U0NyM2JfLWw5MFHSAaMCQVVfeXFMUDdqcUFHVFhJVF90cF9nVFllTGJpRVExTG05UGh3bm96NzlaQ1F3VzFqd0RjaEdHempRTTJUZGstelJkU05hXy1IMDlKeVkyQVJuM3hDSWkwTkd0VXhibmc1aEJMY3FjVWx2a2NCS28tRFJIQVdVbERNUDRWMEtEdDQ4QklnbFdRTVE2cnBZZUxEWTRaNnlhMUsyM2RrdnY3UnQtQ0VlYTJOZ0EtWXJWVzR4bVNBZGN4QTJhbEF0TEZQeHpSaGk5ZzBfZUhPRTZSQ3NVcjc3VE9RX2kyN3NjWnFLYTQ5b3dPNEtWWFFKcEZweG1BUzhyeFlmMTBUNkllMWRlZnhpTDdZZnYxSktPcW8xeDMxVmtmd1NDcjNiXy1sOTBR?oc=5",
-      "source": "Meduza",
-      "date": "2026-07-18T15:22:00+00:00",
-      "description": "Photos and videos show the aftermath of Ukrainian drone strikes that killed eight night-shift workers at online retailer Wildberries’ warehouses in Russia  Meduza",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T20:03:13.645321+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ab261842d8cf"
-    },
-    {
-      "title": "Israel strikes Hezbollah in southern Lebanon after drone incident - Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVRVcS1BQVdGcmUwZmlpeGE5SDMxRnUtNmVFR21iZk8zZl8xQXAtN3lzeG1aeDJJTWs1eEJMWFN1VDdCUjI0bUhwZUxzM1NxdkQ0UzRDczlyNm1kRzhIZGJGZ3B2bUM2czlDY1RYR2NkcmtrVDRFbEFjTFVoOHlkSWZjbU1aTEF4Nk1yelFnb25OXzFvbFdhUHJ1a2Y4WmY1cm5r?oc=5",
-      "source": "Egyptian Gazette",
-      "date": "2026-07-18T17:15:57+00:00",
-      "description": "Israel strikes Hezbollah in southern Lebanon after drone incident  Egyptian Gazette",
-      "query": "drone incident",
-      "detected_at": "2026-07-18T18:01:28.912188+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f3f5c1e8f433"
-    },
-    {
-      "title": "Expert Calls Wildberries Drone Strikes a NATO-Backed Terrorist Operation - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX19XRGY3VUZGbDJBb2hvaDhMSlByQUtKYU5vWEIydGo1NTJLRXpJZHhyZ2VnZ0FVUlgwT01aTms4Z1pmODVSUVVueDVJbHA5QmxoRkRCamFxZnBtV243RzFPOTkySzJpSnFQbGx0UlF6QmRxbjdhNllsajRJWDY4OVQtVE5zR2ZRdkp1bm14NkFkU3ViUEJOXzVxNmJVYjY3VFFwWl9LaGNncDBMd1dueGtYc9IBtwFBVV95cUxQSzhjenA3TUdmbFNEUy1adC1oRmkwazUyYkw1Rk9oWFM1b05wQ1NhdmdYSE9XZTBRUENqUllIbEVnN1AzdTRCNENYeEVfSXNETC1NMGluTzZ0amZrMXNvNVRMbG5pSEJTbVdRSXR3a2piVXVuOVl0ZE5CS1ZsQlozcGxBXzlsUE9rb3VoaDFkeXNtbU1vbjFGMG9lRkY5cnhVZ3N2TVJWdmJLLTZVT1R2TDJqbFE3dWM?oc=5",
-      "source": "Военное дело",
-      "date": "2026-07-18T12:00:03+00:00",
-      "description": "Expert Calls Wildberries Drone Strikes a NATO-Backed Terrorist Operation  Военное дело",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T15:56:26.626915+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "30ff7e21237b"
-    },
-    {
-      "title": "With the help of drones, Riverside writes 79 citations for illegal fireworks - Daily Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnpLbXVkaWFSa2NlX0lrMEhzdnQ2SUo2MFZIbXZJRS11WHhEUkJCVXpXbDZGVkFsNEpsYWQ1aVQxOEhMREotb2xvNndrM0JQWTlxSjdZeGMtZGJZY3hxVzB2dFg5YUhjS3lqUnRaMTVIaC1CUXFGVWxfZFlCdVRhaFZvWmRCWUlnRHhCa1FtNHpMYy0yWGZnUEU0Ni1NZkttaGZNQ09VTTREbHh2NzFFdFFiTDZDNU9r?oc=5",
-      "source": "Daily Bulletin",
-      "date": "2026-07-16T20:02:19+00:00",
-      "description": "With the help of drones, Riverside writes 79 citations for illegal fireworks  Daily Bulletin",
-      "query": "drone illegal",
-      "detected_at": "2026-07-18T15:56:25.481848+00:00",
-      "location": "in With the help of drones, Ri",
-      "category": "other",
-      "id": "72334fa2f80d"
-    },
-    {
-      "title": "Erbil International Airport Confirms Airspace Fully Open After Drone Incident - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmFWUDNGVTQ5V2NVT1FSY3RnVnRBUnZBWUpRUzBLNjNFdFI4ZVA2U3BrRzdLZkJhWGZCSjZtWWNROWZlYTM4NGVWUDlBeFJySXc3VkF0c0JyRlZmNllPRXRERElhZjlmbXRqTUVaYUlMb2dNR2xEVnI3S0Y0dGh6VmFydVM4UVZ5cGhzd1ZhajlubkJCeFpxOG5BMUJvZGpEWjFyNzJJLVk3RW9pYTB1eGJFXzJVNnFSTkZyU1h3?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-07-18T09:24:19+00:00",
-      "description": "Erbil International Airport Confirms Airspace Fully Open After Drone Incident  Kurdistan24",
-      "query": "drone incident",
-      "detected_at": "2026-07-18T15:56:21.925344+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "a6b272fe8c04"
     }
   ],
-  "last_updated": "2026-08-09T05:04:14.832931+00:00",
+  "last_updated": "2026-08-09T07:53:15.380890+00:00",
   "total_count": 1000
 }
