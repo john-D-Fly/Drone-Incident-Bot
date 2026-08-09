@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Ukraine denies targeting Bulgaria as drone explodes near pipeline - france24.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSERqeWI4NzJGM256MjUxRGdWazd1VkY2N0w2TXE2bnNBQjdNZVBRT29aT1U5N19ZZGt1RmtIX0tMS3VjZmhZOGx6MXBHa01rZ2YwNk9VakF6cDNYQ2tWS1BFSk1zbjNXMll3R09odWk0cTE3WjNnTkFBTWV5aU1OZGpZYUtXZk9kWjNqRFRmaUM0M2pwQWU3bGJ5RDZLUFpXT2NmanI5V2N3QlZDSHM1NTF3?oc=5",
+      "source": "france24.com",
+      "date": "2026-08-08T17:09:10+00:00",
+      "description": "Ukraine denies targeting Bulgaria as drone explodes near pipeline  france24.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T05:04:12.253214+00:00",
+      "location": "near pipeline",
+      "category": "other",
+      "id": "46b67ea51b71"
+    },
+    {
+      "title": "Ukraine responds to drone explosion incident in Bulgaria - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUVduTFZuUldPMFFSc0VaaUhabzFPY1N6eHBTZVpjZjkwZEkyZVJqbkJpN1g1TDBiTUZKQlUyUEVSR3ZWZjB0X1lWTnFxNl9MVVpZWERGdFpaOFU3b3BvRTZVcnHSAXBBVV95cUxOaUtWRERhSVZtbTNiN28yWWJDYzBhV2wzdTkxakpzUXFXQkRJVGVMVXVqRlRFRk5OOUpQU1FXOWpQQjZqNWJ0X0hBRGx3MjMxOF92eXdTOVFjSVBWODFnZndZSnBWWmtvZnc5a2hIRDRU?oc=5",
+      "source": "Українська правда",
+      "date": "2026-08-08T17:32:00+00:00",
+      "description": "Ukraine responds to drone explosion incident in Bulgaria  Українська правда",
+      "query": "drone incident",
+      "detected_at": "2026-08-09T05:04:09.815651+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e92ec0877357"
+    },
+    {
       "title": "Law enforcement issues warning about flying drones over rally - kbhbradio.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFBLUjhXM2N5MXhLN2hqX0lNUFJXSm03TDlsaGlWT0Y4VGIzbVRnbnFmT0RIY3Vic2tGUU52dzRfTVFtR1RPbkltMTN2aGRvcFBfOEhoZmkwOTFtcjF5cVZLVkRjWTBFMUxDTE9tcUFId3VXOWJ1OVJscWY4dEhLVF8tS3pNelV3ZnB6YQ?oc=5",
       "source": "kbhbradio.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "a6b272fe8c04"
-    },
-    {
-      "title": "Eight killed after Ukraine launches wave of drone strikes on Russian energy, military targets - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnUwWTBPaFpKNnpqaGlqMmJvQ1l6Q3BkdnNVRkoyZzY5bmRuUmw3bmU2WXA3VzJMdHpLcWlTNnRHNFN1VjdTWDZDbXJldktGeXpDb3RrazMtSUhuZ3ZJUHVjXzBvWFZhcW1neE9qcDIyOG5MTDNEVUViTUEtMVM0ZkRwQUdKYWRkMS1ON2F1RFFweHh1V3ZRa0UxX3JNbGlpcUpGNi02UEJZSEFpTmVXR0xwNGpHS0hZdmJUcEFtYzRPYjFIVHdYNkJEeTlUZ2dZcmhmMmJOQU5aREt3?oc=5",
-      "source": "New York Post",
-      "date": "2026-07-18T13:08:00+00:00",
-      "description": "Eight killed after Ukraine launches wave of drone strikes on Russian energy, military targets  New York Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T14:51:50.338042+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "647a79dece59"
-    },
-    {
-      "title": "Rupprecht Law – FCC Drone Import & Marketing Ban - sUAS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTG1rcDBuVklpRkV5Z1QtQkRXdW82a3VqbFlfNTRGS0pMcWViUmxHY2tzY0FsN1Y3QXlYVjRSOGNCcGNNYWVxMFhlTmVxa1hpdzBGd1VzODlJcVR3SDhzeDQwRHdqRkRSbmdDX3o3VHRuVUY3VkVVR0llYnUyRFhHelRkamY?oc=5",
-      "source": "sUAS News",
-      "date": "2026-07-17T07:00:00+00:00",
-      "description": "Rupprecht Law – FCC Drone Import & Marketing Ban  sUAS News",
-      "query": "drone illegal",
-      "detected_at": "2026-07-18T14:51:49.160895+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4dd266de6e78"
     }
   ],
-  "last_updated": "2026-08-09T03:41:44.676516+00:00",
+  "last_updated": "2026-08-09T05:04:14.832931+00:00",
   "total_count": 1000
 }
