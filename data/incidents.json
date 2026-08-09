@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Israeli drone crashes near home in southern Lebanon, injuring 2: Sources - aa.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTE9LVnFuZ3ktaG5LWDZROUo1TWlaRVJCWTJ5aUlSc2k5RUIxdUVkdVNxNzdReTBEMzJkMG1ndVFGdjU1STlZLXdLOGttWGFCc24tYXpwVC1YV3FUWXhsSDJwUWtxd09tN3BWcmYxTk9aQTlXVGNNcEdWcEpNSTBDbm9WX3RvamJGZF9LczQ1Mk1wLUJVbVY3RDRBYUs5RnJmaUpWUGo4S25YdkEzRmZVWTMzdzVZUQ?oc=5",
+      "source": "aa.com.tr",
+      "date": "2026-08-09T01:06:10+00:00",
+      "description": "Israeli drone crashes near home in southern Lebanon, injuring 2: Sources  aa.com.tr",
+      "query": "drone crash",
+      "detected_at": "2026-08-09T01:42:19.873497+00:00",
+      "location": "in southern Lebanon, in",
+      "category": "crash",
+      "id": "c4d270c5a876"
+    },
+    {
+      "title": "Ukraine responds to drone explosion incident in Bulgaria - pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUVduTFZuUldPMFFSc0VaaUhabzFPY1N6eHBTZVpjZjkwZEkyZVJqbkJpN1g1TDBiTUZKQlUyUEVSR3ZWZjB0X1lWTnFxNl9MVVpZWERGdFpaOFU3b3BvRTZVcnHSAXBBVV95cUxOaUtWRERhSVZtbTNiN28yWWJDYzBhV2wzdTkxakpzUXFXQkRJVGVMVXVqRlRFRk5OOUpQU1FXOWpQQjZqNWJ0X0hBRGx3MjMxOF92eXdTOVFjSVBWODFnZndZSnBWWmtvZnc5a2hIRDRU?oc=5",
+      "source": "pravda.com.ua",
+      "date": "2026-08-08T17:32:00+00:00",
+      "description": "Ukraine responds to drone explosion incident in Bulgaria  pravda.com.ua",
+      "query": "drone incident",
+      "detected_at": "2026-08-09T01:42:17.268973+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d3de388c92e5"
+    },
+    {
       "title": "Russia Denies Role in German Airport Incident, Calls it a ‘Contrived Provocation’, Blames Kyiv Instead - kyivpost.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xRE1XaTVubkNWZFhlZVNYQ2piYmVvLXFtY3ZzeFpWU0gzUFhScW1SUzBFSXRZOVJUZmdLWGFWR1lEVXNiN2JkTUtVOA?oc=5",
       "source": "kyivpost.com",
@@ -11975,32 +11999,8 @@
       "location": "in Iraq, gr",
       "category": "other",
       "id": "a1e99c2cfc3b"
-    },
-    {
-      "title": "Kurdistan Counter-Terrorism Service: Five Drones Intercepted Over Erbil - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ybjlJVXBOZGt3RXFWNHVpcFBoNGliMEVkbnh1eXp4bmViOWdnQVU4ZEFaUnFJYnlkZlBUNXZtbEhGUU9hOWd0MGlQY3hCWjFSX3RzMzZ3?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-07-18T09:08:02+00:00",
-      "description": "Kurdistan Counter-Terrorism Service: Five Drones Intercepted Over Erbil  Kurdistan24",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-18T11:03:01.384403+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "cbac1dcc592b"
-    },
-    {
-      "title": "Spain Anti-Drone Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGx4U2VIV0hWVzJfX1JsUWlVMk5uTkdKWnRLZ05NT3Q5ZEd3SUJoQnk1Z1FTRkNFZFVfMnkxWm92RUZ1UkpaMVN6MjhMSzJBWUF1aFVORWNreFFLRUlLX1FEdUZ1bXYxejVQMXhVWWlWTWY5c00wZ2RRQ2xFamIxY0JINk5JT1VNLUE?oc=5",
-      "source": "MarketsandMarkets",
-      "date": "2026-07-18T04:59:19+00:00",
-      "description": "Spain Anti-Drone Market Size, Share,Trends, Growth Analysis Report, 2030  MarketsandMarkets",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-18T09:24:35.056752+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9c328888ac9f"
     }
   ],
-  "last_updated": "2026-08-08T23:27:30.464641+00:00",
+  "last_updated": "2026-08-09T01:42:22.405816+00:00",
   "total_count": 1000
 }
