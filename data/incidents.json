@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Australia must ‘assume the worst’ after drone breach at country’s top fighter jet base - 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclpaaTZXS0l4OHctc0FvVU5vSHFST2N0akVEMUtnT3lJSHJ6dlNPcjh4SnhDQkJhSDVTR05GNVJhMVo3bnM1RUFaUEFraDlMSjNrUGdaM0xZTk9xSEtzSWFuQ1VTUWU4OGZIMzVISGVGMVhndUNlZEJXckZCRldOWFlwZUVlX0ljUjVSZ1dIWHA3UEdyNWpfdzI5aEp4cEFYeUthNFJjMzdheXNhVHdSU1VfMUEwUExWMzJqcUgyQzfSAcYBQVVfeXFMTmlBdTZzMEZtVm1HaF9yWG9WS2RqMUFNaTQ0RElPRFE3S1F3ekVzeVZlRnNibDc1SXdOeGRmTzFPWUpleUhTZUFkRURIZUVxYnk5WG0tR1pjUUVJTnA4ejFIdHlSbmVPb0QxNUlRdVkwWHMtYUJHNGswb19tTUh3UU5KS2R3cXF0VS1RZU9VRjVsRm1SVEplTjVRSWNRY0cyaE1iR284ZWpvb1FPTEJPcUVYZ2gtVXhubkQtQTdkZmRONFkzazJB?oc=5",
+      "source": "7NEWS",
+      "date": "2026-08-10T05:26:00+00:00",
+      "description": "Australia must ‘assume the worst’ after drone breach at country’s top fighter jet base  7NEWS",
+      "query": "drone security breach",
+      "detected_at": "2026-08-10T09:19:39.644499+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "bf4d1b4d18fe"
+    },
+    {
+      "title": "Jordan Foils Drone Drug Smuggling Attempt Along Western Border - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVk0bE9Db1RFOGVhUFhyOXZ5YmhTeDRNQXRGNEExQklDLTFCd0dSeHh6bl9IOEkwV0xDV2hiLTVkMlNIaDRVWnFZbk9TcE5vN3Nyc0czMW41NmlCT0N2QUtrQW9wN3J3V3hfOE1GOG0xX2tZd1pIS0s3Yk5DeU5neUxUQkJySlR1em5fMXBFYnJWNEtUUE1hQ1FaZVNDVWdZQWlWaW1lRmE?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-08-09T14:01:28+00:00",
+      "description": "Jordan Foils Drone Drug Smuggling Attempt Along Western Border  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-10T09:19:37.083555+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "dda8a591806e"
+    },
+    {
+      "title": "Drones spotted flying over German military base 2 days after device with explosives found at cargo airport - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsYXQ1WFNvcW9WVUlDWEJYUXBoVDFWT3M2R1dQTTczRTFyMWVtSzhLeUw0eXY2VHJENVRPa19lNmhKVXg5alhSd081US1HZzFCbUxWeHYxY0V0ZlduaENkc0Q1SWxJV0FNWGxjVFlJWmJQV1NlOVBrTg?oc=5",
+      "source": "CBS News",
+      "date": "2026-08-08T18:23:06+00:00",
+      "description": "Drones spotted flying over German military base 2 days after device with explosives found at cargo airport  CBS News",
+      "query": "drone incident",
+      "detected_at": "2026-08-10T09:19:35.995058+00:00",
+      "location": "at cargo airport",
+      "category": "airport",
+      "id": "1bcfae959f63"
+    },
+    {
       "title": "Drones breach Australia's top fighter jet base - 7news.com.au",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXZ4a1pMVVFJYms0M2pQcUlVQkRoelBaNDZvZW44cFp0eWs1UnZmbW1aNzBJbkJMSS1DSmNoWXVmZHI3LTg1eWZldEJzSTRyc3ppbUdyNFlCNVNzcURXaDNXTEtvYVV1cUkwOHlJMVlWQjgyQll0UHpWVnp2R2Y5NkdUVUlpZ1JvVHF3eFVyaXhlNE5JM2Q0Z3RhYW1ndw?oc=5",
       "source": "7news.com.au",
@@ -11963,44 +11999,8 @@
       "location": "in Baghdad, Ar",
       "category": "arrest",
       "id": "9add919e6e0b"
-    },
-    {
-      "title": "In the Czech Republic, critical infrastructure companies will be allowed to shoot down potentially dangerous drones - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2dxWW0yRW02d3NIUXJ6alJadEhCUXZqSFMxa3dCdVVmazlMZldJekZnTmJibGF0OFk2ell3Ti1kUGczVFF0dmpIX01sOWkzVnNYN1hjaE5LS0RCLXR6OE1PYzdUSDVjVWJ3YUstb1ZiQ3FYOHlRdWZRVXZmRnpjTkxRbDdIVEpJRFhXQk1OVi1PWG1SLW5ZeFFZS2xKa3BkWkZGblFDYnBCNmJRZUxQQXJCcDBGRXlzLWxEdExhY20zMWtwck5RSFpGN3FLc2tQUmpn0gHSAUFVX3lxTFBacW5xendDS01BRWFVcUhNOHQzajF2VmJ3Y0hhRUNzYnhpcTZUMHZaUUVYNnZHckJiSVBkbGdRdUhxeEpicU9UdVUyM19zaHFQd045MUFKb3oweFVwQjBrb1NJS2lIUWEyR3RnS0p2aGZrc3lzNVJLZ3cwcjh4M2pfbWlMVDE4cGt5NmF6MUJpOHVrWHpvX0RubklGVVFxaXd3QzQ1OGE0d1h2THY4aFczbGdlcjQ1RXgwejBzTmkwa0JVNjdCOTlLN0duUWx6M3dfUQ?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "date": "2026-07-21T18:44:25+00:00",
-      "description": "In the Czech Republic, critical infrastructure companies will be allowed to shoot down potentially dangerous drones  Українські Національні Новини (УНН)",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-21T19:21:03.189096+00:00",
-      "location": "In the Czech Republic, cr",
-      "category": "other",
-      "id": "806271716a1d"
-    },
-    {
-      "title": "Iraqi Security Forces Foil Drone Manufacturing Plot in Baghdad, Arrest Three - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNblFYb0NUODJjT1ZOSnZyTkZGNFJ5a3VGbHZYOTR1aE1PSmxUaGdUQjF0aGZ6ZmNBa240blcyN2hVN1I4UTdBRWx3b1huRXZYRGVhUnN0bjBzckJhMjJLeklUa3JObTlGU2VYaU51R2owU0RYLVJjRnFmRUQ1ZTRTWFN0SWJkbmxkalRhSk5SbDM3ZENzUVV4LUhIZzJ4alQtM2UzZ0lKZi1qYktTb0F5MmhMcWVkMGZDbFY4?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-07-21T18:41:17+00:00",
-      "description": "Iraqi Security Forces Foil Drone Manufacturing Plot in Baghdad, Arrest Three  Kurdistan24",
-      "query": "drone arrest",
-      "detected_at": "2026-07-21T19:20:58.831438+00:00",
-      "location": "in Baghdad, Ar",
-      "category": "arrest",
-      "id": "4c3497aa6902"
-    },
-    {
-      "title": "Three drones destroyed near US Embassy in Erbil - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSU1WRGNlSmQ3U0RkRm5IbkJNMW92Zm1WR2JPOTlqOHBvMlJBY0tzdVVxaGpRbHppNlNJQ05HU2tPLVpTZ0R1WVpZSlhUOExyWGVtczB3MEdpZWdGNkxRelBCeGJtN2hnLXlFSEJOeWNxTGptbmxMMVgwM3Jqa1FMc2wxX2xvdw?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-07-21T18:03:34+00:00",
-      "description": "Three drones destroyed near US Embassy in Erbil - Shafaq News | Latest breaking news in Iraq and the world  شفق نيوز",
-      "query": "drone incident",
-      "detected_at": "2026-07-21T19:20:58.247538+00:00",
-      "location": "near US Embassy in Erbil",
-      "category": "other",
-      "id": "4a7706aab80a"
     }
   ],
-  "last_updated": "2026-08-10T07:39:55.969026+00:00",
+  "last_updated": "2026-08-10T09:19:41.133889+00:00",
   "total_count": 1000
 }
