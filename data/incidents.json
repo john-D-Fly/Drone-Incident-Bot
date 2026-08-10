@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "‘Assume the worst’: Drones breach top fighter jet base - 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclpaaTZXS0l4OHctc0FvVU5vSHFST2N0akVEMUtnT3lJSHJ6dlNPcjh4SnhDQkJhSDVTR05GNVJhMVo3bnM1RUFaUEFraDlMSjNrUGdaM0xZTk9xSEtzSWFuQ1VTUWU4OGZIMzVISGVGMVhndUNlZEJXckZCRldOWFlwZUVlX0ljUjVSZ1dIWHA3UEdyNWpfdzI5aEp4cEFYeUthNFJjMzdheXNhVHdSU1VfMUEwUExWMzJqcUgyQzc?oc=5",
+      "source": "7NEWS",
+      "date": "2026-08-10T11:33:00+00:00",
+      "description": "‘Assume the worst’: Drones breach top fighter jet base  7NEWS",
+      "query": "drone security breach",
+      "detected_at": "2026-08-10T18:56:03.545949+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "453eb720c984"
+    },
+    {
+      "title": "Moldova recalls ambassador to Russia for consultations after drone crash - Armenpress",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ub1hmVG1uWjc4dkhQREdfNDdkUVRMMXg0OU5ZU0ZqNE9tSlB3MmY5YzlGZFkyRlQxdkljbGZhQ2NyRGdFU3REUWU1VXpmU29ZVWfSAVdBVV95cUxQX1NHeGFWUmR1S1hSZmFaa0R0TDVuT3Mxd2wwUzVMb3hsWGxScFdBOTJndHZMTFZkVlhlVEJpUlM2LXZtRHdZaF8waTRGM2ZET2JUaHdRbTA?oc=5",
+      "source": "Armenpress",
+      "date": "2026-08-10T16:43:00+00:00",
+      "description": "Moldova recalls ambassador to Russia for consultations after drone crash  Armenpress",
+      "query": "drone crash",
+      "detected_at": "2026-08-10T18:56:02.503560+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "85baf2673b0d"
+    },
+    {
+      "title": "Moldova Recalls Ambassador After Combat Drone Explodes on Its Territory - united24media.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXlVWEd1cXRhM3k2VUdxc0h0RURhUXFRMUh4bmFBeUFYRERLRzhvUUFwaERDUjE3SnY0YVhoN2dLTFU2OThiVGh3b204M3FyTFJOelBmN2Z4bWdMM1czR3V0eVNEN3JXUnR3Wmw4U1JpNzBGYTJ5Uk4xSHN4YUUtWUQ2REwzYURtOFdGcUVRYzBNM0dxS3EzNzM1ck1KVmlhT21KbFZ2dW5lcWFlQ3c?oc=5",
+      "source": "united24media.com",
+      "date": "2026-08-10T13:49:58+00:00",
+      "description": "Moldova Recalls Ambassador After Combat Drone Explodes on Its Territory  united24media.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-10T18:56:02.503560+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0d2e9c456aa8"
+    },
+    {
+      "title": "Ukrainian ambassador on drone incident in Bulgaria: Ukrainian forces did not direct UAVs towards it - pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RXkyck1UdHBIZm81QS1IUnhQWEpHVnpsUDdGNWhrQnVlMTBEOVVEU3Bqb1A1d203VjJ1WGtlbTBCRnpaWDNlR0Q2d0MyX2xjeVJpc2ZPbE95bzZWYjdkRG1XUGrSAXBBVV95cUxPU3R2dGJQRk9fY1BBUTVnejZkczVrNnl4cC1BOF9SWktSTTBvTGNsS1RnMXo0WjFDZ051STJHaUE0SmJVTlNrNWU3X1l3UmMtRUlkR2p0eU5MOTJkNTVDMDVXc05QZ01kdWdxSURpMEdG?oc=5",
+      "source": "pravda.com.ua",
+      "date": "2026-08-10T14:17:00+00:00",
+      "description": "Ukrainian ambassador on drone incident in Bulgaria: Ukrainian forces did not direct UAVs towards it  pravda.com.ua",
+      "query": "drone crash",
+      "detected_at": "2026-08-10T18:56:02.503560+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "37c0fc54646c"
+    },
+    {
+      "title": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash - kyivindependent.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkpmbGxyeHJ4c2pSY21BQk9kZ3JrMUpGWFYzWUs1LU1Ld3VqYUsza0hCS3NiTlFaY0o3ZThHenVKVTROWHJDb1dBX3BTR2JYRml3RTBncHkyZkc3Sl85QjZDaWVrRURtYVFoWXJ3TF91Q3d3Yld6cXJneF9TWjNWNEVwV0hKaWxESGQxWEJKOVdzR00?oc=5",
+      "source": "kyivindependent.com",
+      "date": "2026-08-10T14:53:35+00:00",
+      "description": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash  kyivindependent.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-10T18:56:02.503560+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "12c50d397504"
+    },
+    {
+      "title": "Moldovan president condemns Russia over killer drone crash - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckxKSVNoNU5IOEw1RjZYMERFcWxiUkRMdjZNei0zNWFpWFdXU0tyRmFITW5LcGF2QmVsS0pxcWU4YXVoMm1NRy0zVU5XbDhCUjdSRkxlYV9FNXh5c003WkdwTDhZSy1HM28zWnktcGNaMnhPcGZGUmZuMnBISE1kYi1nRWUzQVhWUUVnNzBUM0s2QQ?oc=5",
+      "source": "politico.eu",
+      "date": "2026-08-10T15:26:00+00:00",
+      "description": "Moldovan president condemns Russia over killer drone crash  politico.eu",
+      "query": "drone crash",
+      "detected_at": "2026-08-10T18:56:02.503560+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "876241a99ea5"
+    },
+    {
       "title": "Iraq to brand unauthorized drone operators as terrorists - Caliber.Az",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZm0zazM1ajhWN0dyaHpaS09pYmJWT2RId0VNWF9pNzBraHpsWVRHSGdBTHlCdTA4ZTIxelhpdTZpSUFZcXl3akhiNzc4RmpxVzhPSEtMQzc2UGRVa2RGdk5EZDFQTHRfZjdWWnFPRm1Kcll4cDNiS1JkVmJCS2c5WGFYVUFvWFNFVUJB?oc=5",
       "source": "Caliber.Az",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "b5f01c71a42e"
-    },
-    {
-      "title": "Czech Republic Moves to Legalize Drone Takedowns Near Power Plants, Airports - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HS2lHLUVjbENyWXN0S2ZVSHdRXzJqUGxtYVpxVVE5ZzcwWjRRSkItU2QtVHY1aExKVGRkSEN1NDdzUXA4Y1FiMFJnYw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-07-22T18:28:10+00:00",
-      "description": "Czech Republic Moves to Legalize Drone Takedowns Near Power Plants, Airports  Kyiv Post",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-22T19:18:18.290349+00:00",
-      "location": "Near Power Plants",
-      "category": "airport",
-      "id": "9c8adc3539b0"
-    },
-    {
-      "title": "‘An Enormous Shitstorm Is Coming’: Russians React to Ukraine’s Wildberries Strikes - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55cWlpeVZOa244T211bUNDV0YxV0lVcjdyY1ltOFA0Z05tdGhvcy1vVHBoa2laNjRKajhmOE9ob2lLZUZHY3BhcHhYaw?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-07-22T11:31:35+00:00",
-      "description": "‘An Enormous Shitstorm Is Coming’: Russians React to Ukraine’s Wildberries Strikes  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-22T19:18:17.825126+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "841eaa3404d6"
-    },
-    {
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VblNvWEY4Nm1aZGg1TzlBNWlVZ0d3R0RhY3d6VjFIb2Z4OUF4SXB6b3NaVjhENVlXVk9WN2V4a2s0OFpPV09xQzV4eUdNeXdZbUN6ZDlhd3h4dw?oc=5",
-      "source": "BBC",
-      "date": "2026-07-22T14:52:25+00:00",
-      "description": "Ukrainian drones hit Russian online giant retailer Wildberries for second time  BBC",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-22T19:18:17.825126+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ea2027c778e0"
-    },
-    {
-      "title": "Drone-assisted cross-border drug smuggling surges since 2021, Punjab worst hit: Government - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZTNGNzIzc1lpQW9odDVqMENpNkI2aWZEYTVGV0p1dzhWa3dYampSa3dxT2FkcE9yaXYzOF9kYmRzSG1Nd0tGZ3I5bzNYLTVRVXRzWTZ2aTNLNU40QXFpMkp5T2lSVXFidjZiT2JIN1ppMlJ5QVJ5dW9GNGtTeTRELUIzd0hJRGxNREVmZEtZSUlrRUF2X1BhTDNUVjRtcURETFR1UXRYMUYtNmEtazVheDYxeFZYWGV1UjEycGNJOGxGVkJKUVZDb0FfeDBjcFp4RGVId19UTVBCNDh5TEtfa01IdjIzU29jQVZYa9IB8gFBVV95cUxOcWJha0VUbUNLQUZZbTZQT09oTWJBM1kteUZVb3kwZVBoeGEyQzZTVGpZaHV1OG5Sb09BWlZlOE5PYWZvMFBOeFZjTEtTQTZIVDhCME54em01czVhSVpwMkFSU005LVR3Zmd3NXFWUTcxaTVJWDJwMUlqNFBvcXh2NzRHVzY0WGVaUzdoekNfZ3llR2RwT05GUDU1RW9qQ2ZadkpSRDZUZ3ExZWQ0b2owY2pCbXdkdkJFc1FyMVFmeVNSSjlKUk5HMnFHaG9JNzNKV1dEMVFwT0JrRUJ0bnplMklxeEpkYUxTTzc0eXBHVXZzUQ?oc=5",
-      "source": "The Times of India",
-      "date": "2026-07-22T17:41:00+00:00",
-      "description": "Drone-assisted cross-border drug smuggling surges since 2021, Punjab worst hit: Government  The Times of India",
-      "query": "drone smuggling",
-      "detected_at": "2026-07-22T19:18:14.805104+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f8d1dd157917"
-    },
-    {
-      "title": "Mind Over Drone: How Cognitive Load and Pilot Fatigue Are Reshaping Flight Safety - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVXBFaDNuVTVLWXJ5SFJKUXBnN1F0dUxtSUxOaWVWQWU4WnZ2M0ltYkRPaDBIdV9DWEcwQkljTEhhU01kZFVQNWNMaXQ2Z01ERFpHZFVGY01jaGhSSVNUS3lLSi1RTGdLNjhNN3I2WmxpLVplSVlKbzlDOTVfNm9lb2J5eTRiUjVxYW16NkdvUGtLbS1KYzJlVw?oc=5",
-      "source": "Dronelife",
-      "date": "2026-07-22T15:03:10+00:00",
-      "description": "Mind Over Drone: How Cognitive Load and Pilot Fatigue Are Reshaping Flight Safety  Dronelife",
-      "query": "drone incident",
-      "detected_at": "2026-07-22T19:18:13.700415+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c8bf64e05953"
-    },
-    {
-      "title": "Butts County sheriff calls for change after drone with contraband is seized along I-75 - WGXA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEN5bmR4VndlbEYzWmoyZnl4YmlmOV8zd1RFa2s0MWdweXlPUkRseUQ4REJvVGJoS3RTV2xfS3NzbFpnUVZ3cXlrRUI0NkdmbUNydWhZVlNDR3JBVVVVZlZiMTdDeE9aMmFNQllMb0VROGhiUHlLTl9zVXJWLXhEMzdiRS1UcG5vcHpZRFVfdXk3TjRhYWkyLWZaX3N5OG9jVXB3U2FNUlROYXNHMXlncS16QQ?oc=5",
-      "source": "WGXA",
-      "date": "2026-07-22T17:10:17+00:00",
-      "description": "Butts County sheriff calls for change after drone with contraband is seized along I-75  WGXA",
-      "query": "drone prison",
-      "detected_at": "2026-07-22T17:18:23.146968+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5a21aa1edc92"
     }
   ],
-  "last_updated": "2026-08-10T17:50:32.957767+00:00",
+  "last_updated": "2026-08-10T18:56:05.272228+00:00",
   "total_count": 1000
 }
