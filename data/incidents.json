@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Iraqi Authorities Reaffirm State Monopoly on Weapons, Warn Against Unauthorized Drone Launches - fananews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnBuYXZGNEYyazFEMjJ0WFJvakw3eGR6dGszMlhPRXU2cVZOZ1hfX1RTZjNCVngzLWVpaUFvOHZnSl9VazJyR0FjelIzVU8wWlAwSGx3TXAzUVh1Zl9yRnZfTnI1bkM5Rk5lM2dmWTcwZ3Rab3pWWjdoNm9lbFQ0VUx4bl9WNjVfWS1iLTB1OURjZlFIUWc2WmJQcVgwOXYwSTQyaUZhcGgtSXRBRHFuUXlsXzBISzlVbjhPUTFPdHZOaC1ZSmVEUFM3Zw?oc=5",
+      "source": "fananews.com",
+      "date": "2026-08-10T16:35:18+00:00",
+      "description": "Iraqi Authorities Reaffirm State Monopoly on Weapons, Warn Against Unauthorized Drone Launches  fananews.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-10T22:36:16.047504+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "ac1dd76fd162"
+    },
+    {
+      "title": "Iraq says unauthorized drone launches will be treated as terrorism - iranintl.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Id2hwMGJqVDNYVnd4VDluemJKR1NGX1MyY3kwLUZQcXphMWJyYWc3NGNMUVRqMWF1UHFPSm5zNjBxbDIxRVByeDliLW5YeTZ1SGc?oc=5",
+      "source": "iranintl.com",
+      "date": "2026-08-10T11:37:48+00:00",
+      "description": "Iraq says unauthorized drone launches will be treated as terrorism  iranintl.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-10T22:36:15.476682+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "20c8ccac3ee9"
+    },
+    {
+      "title": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tWXJxZlFIRkU5Z01KUUt0Z2lJb0ZMbjJ4YmJUMElQVFN5eklLaTJHWFE5OXZIT0pvMkk1T3VOY3BJZ3Rsb2VodHR3S2o0UHM0QnpVQmhrV0hZekJp?oc=5",
+      "source": "BBC",
+      "date": "2026-08-10T21:50:37+00:00",
+      "description": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says  BBC",
+      "query": "drone security breach",
+      "detected_at": "2026-08-10T22:36:14.988258+00:00",
+      "location": "in Navy drones, Mo",
+      "category": "security",
+      "id": "ed0cf9801713"
+    },
+    {
       "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13 - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1pOWHMzN3JWVkhlMkVXejRSUmN2SWhBVDBkUWRrZWxoYzJpaUNFZWVJWjRpb1U2Z3dpcFV4VWdwVzdLRlUxaTZlOU5NbjNOakJ4cFpGZEhMMW93aWIweFRaRUdyOFo4VHpnQ0pzZ1hfSlpiX2dIaDVIZFl4NVRGRl9RNGRWSVNNWkhwUEZPTU5PZW8?oc=5",
       "source": "The Guardian",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "aebcb7676845"
-    },
-    {
-      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
-      "source": "LSM",
-      "date": "2026-07-22T02:37:08+00:00",
-      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
-      "query": "drone incident",
-      "detected_at": "2026-07-23T08:29:16.439487+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ed5bcb93c4dc"
-    },
-    {
-      "title": "Iran Declares ‘Dark Night’ for US Radars, Strikes 3 Bases in Kuwait - Orinoco Tribune",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUhzYXFrd2F1eFVqdEZOeU9uTnlaaFNIem0wdXhRVmt4aEIzS21HRkxEYTZIX3hyLUFKNG9vOVpSRVF2aWhTZkxXS3NuakRjQlpYS3JXZkJnazBGRWE2VVNoRnpGdWdnVzVIdWpjT3p4TGRpNnZ0VFZuS1YtSThySnlXLUc5dmRqb0dqb0hFMG9HaTRJM3hZ?oc=5",
-      "source": "Orinoco Tribune",
-      "date": "2026-07-22T15:34:43+00:00",
-      "description": "Iran Declares ‘Dark Night’ for US Radars, Strikes 3 Bases in Kuwait  Orinoco Tribune",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-23T05:53:19.653054+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ca77e9cac1dd"
-    },
-    {
-      "title": "Opposition MP Duncan arrested for flying unlicenced drone – Walrond - Demerara Waves Online News- Guyana",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjRHZkJHV0V2b2JPRF81Zl91bVkxR0ZMdzgzVzdOSHo5MEFXN0stMUlaSFRGX2oyY29YanFfemw3UFkzVXFFZkc1SnNSV2llMjJGLUVDWEg5WEQxMUVNbWxsMXpDRXVlU0NnXzBWZjh6aHMzN3JiSkJYX3BNQzRmU1BiWmFlVGJCYm9yZTV2eS11SmdFX0lF?oc=5",
-      "source": "Demerara Waves Online News- Guyana",
-      "date": "2026-07-23T04:33:16+00:00",
-      "description": "Opposition MP Duncan arrested for flying unlicenced drone – Walrond  Demerara Waves Online News- Guyana",
-      "query": "drone arrest",
-      "detected_at": "2026-07-23T05:53:16.163719+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "7314f16d7841"
     }
   ],
-  "last_updated": "2026-08-10T21:39:51.586406+00:00",
+  "last_updated": "2026-08-10T22:36:16.579016+00:00",
   "total_count": 1000
 }
