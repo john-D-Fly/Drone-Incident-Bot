@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi - Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWU5QVREMXVSNWNoVDNVZDRuOEx5Wnp3SVVDUmxoclVFTTVpU0lFX21BWFE2YzJ1SmlpUGJEMVFrdXhHa0RVN0J4VEJHU3lYbFdaOWw0X0ZlVk5Ta2E4RzJwd0FhTkhtZXVaT05jQms2MkNnQnlBcFZ5SXVGZFNYLU9YUXZsSFptaTFINHJmV2ZLdE0tQWF5b0w1NTI4clAzbnlLaEJka05LX3RjdU0wRnZUOUQtcGFTN1d2ZXlaZENtVU91enc?oc=5",
+      "source": "Hiiraan Online",
+      "date": "2026-08-11T02:45:13+00:00",
+      "description": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi  Hiiraan Online",
+      "query": "drone arrest",
+      "detected_at": "2026-08-11T03:43:10.148071+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "8bb4c8bf1459"
+    },
+    {
+      "title": "Drones spotted over German base days after Leipzig bomb incident - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByM0MwaERxMTlVU3o0ZnpoSHlEX2tOM1lCTTlJdTVXX25EcXZqaWNnTTh3SHdPb3hOUFpDdkpjbWxTNmxxZkprOGFUVWo1UEMxd1VOUDFzbWZTdw?oc=5",
+      "source": "bbc.com",
+      "date": "2026-08-09T16:18:10+00:00",
+      "description": "Drones spotted over German base days after Leipzig bomb incident  bbc.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-11T03:43:09.484960+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "34e9d87e030e"
+    },
+    {
       "title": "Drones launched from Iraq without authorization considered ‘terrorist act’: Ministry - thenewregion.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRWRqdWZhWnRwaGFTVHBmYWVuRFZJUW9XZUNBSWhJSW5SajJseVNQSjFlYjliWGJHODR4eHliQ1Z5V2xJV1lRWlN2VQ?oc=5",
       "source": "thenewregion.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "511ba35930ab"
-    },
-    {
-      "title": "Wreckage of 1952 Pan Am plane crash that changed air safety found near Puerto Rico - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlFZY0FVLVJaTTg2cmNVYTNudGcyTEl0YzF4WV9ZZEpzVXRmY05TRE52U19vVU13VnFoM1d6Wk9pT19sT2NodWNUNGloT2V3aWxaZDI4b3h6YUNsMUNGYkJNcy1CSzM1U2VPRThKUklkY04wRjhHN21JT25oWEItYmxwRERYVWFXSFE1MldmdUpXb3M3TG0xbVd1a0FUUW92dS13czFISG10QkE?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-22T05:16:00+00:00",
-      "description": "Wreckage of 1952 Pan Am plane crash that changed air safety found near Puerto Rico  The Guardian",
-      "query": "drone crash",
-      "detected_at": "2026-07-23T11:08:54.159671+00:00",
-      "location": "near Puerto Rico",
-      "category": "crash",
-      "id": "6712c3b9bc2c"
-    },
-    {
-      "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
-      "source": "LSM",
-      "date": "2026-07-23T09:03:58+00:00",
-      "description": "Mystery drone crashes into lake in Latvia / Article  LSM",
-      "query": "drone crash",
-      "detected_at": "2026-07-23T11:08:54.159671+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "2df697f7e2fb"
     }
   ],
-  "last_updated": "2026-08-11T01:42:14.086340+00:00",
+  "last_updated": "2026-08-11T03:43:15.695809+00:00",
   "total_count": 1000
 }
