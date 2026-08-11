@@ -1,0 +1,122 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant number of drone incidents have surfaced globally, raising security concerns, particularly in regions such as Europe and the Middle East. In Iraq, authorities are classifying unauthorized drone flights as terrorist acts, reflecting increased vigilance against drone misuse. Notably, incidents affecting military and critical infrastructure, like the oil refinery strike in Libya, underscore persistent threats. Concurrently, Europe grapples with heightened tension amid ongoing Russia-Ukraine hostilities, exemplified by drone attacks extending far into Russian territory. On a more local scale, arrests in Kenya related to intercepted drone parts indicate cross-border smuggling attempts. With mentions of drone-related incidents in Australia, Moldova, and Germany, there seems to be an escalating pattern of drone-related security breaches urging a re-evaluation of counter-drone measures worldwide.",
+  "totals": {
+    "security": 12,
+    "other": 20,
+    "arrest": 8,
+    "crash": 10,
+    "smuggling": 5,
+    "terrorism": 5,
+    "airport": 7,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 6,
+      "arrest": 12,
+      "crash": 30,
+      "interference": 1,
+      "other": 39,
+      "security": 22,
+      "smuggling": 6,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone arrest": 17,
+      "drone crash": 42,
+      "drone illegal": 1,
+      "drone incident": 12,
+      "drone prison": 1,
+      "drone security breach": 22,
+      "drone smuggling": 6,
+      "drone terrorism": 13,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Operations",
+      "rationale": "Growing trend of unauthorized drone activities categorized as security threats.",
+      "incident_ids": [
+        "82d07c5d79c7",
+        "30acad6a3b85",
+        "106fa57f39fd"
+      ]
+    },
+    {
+      "topic": "Terrorist Use of Drones",
+      "rationale": "Increased use of drones in terror attacks and legislation to combat such activities.",
+      "incident_ids": [
+        "e23573085615",
+        "b99b86e4c03b",
+        "c4381a9a56bd"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "82d07c5d79c7",
+      "headline": "Iraq Classifies Unauthorized Drone Flights as Terrorism",
+      "one_sentence": "Iraq now considers unauthorized drone flights as acts of terrorism.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e23573085615",
+      "headline": "'New level of danger': Drone incidents scare Europe amid Russia-Ukraine war",
+      "one_sentence": "Drone threats are increasing significantly in Europe due to the ongoing conflict.",
+      "risk_tags": [
+        "security",
+        "terrorism"
+      ],
+      "countries": [
+        "Europe"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "106fa57f39fd",
+      "headline": "Fire rages after drone strikes Libya’s largest oil refinery",
+      "one_sentence": "A drone strike has ignited a fire at Libya's largest oil refinery.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Libya"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "3338a2dedc71",
+      "headline": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi",
+      "one_sentence": "In Kenya, police have arrested a Somali national for possessing intercepted drone components.",
+      "risk_tags": [
+        "arrest",
+        "smuggling"
+      ],
+      "countries": [
+        "Kenya"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "738e7f83d3ae",
+      "headline": "Australia must ‘assume the worst’ after drone breach at country’s top fighter jet base",
+      "one_sentence": "Australia warns of serious security breaches following a drone incident at a fighter jet base.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant rise in drone-related incidents globally; security implications deepen as unauthorized operations are labeled terrorism.",
+    "linkedin": "Rising drone incidents globally signal heightened security concerns; from aerial assaults on critical infrastructures to illegal imports, the surveillance landscape continues to evolve."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-11"
+}
