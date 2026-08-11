@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "UK military drones with Chinese cameras found sending data to Beijing: Report - firstpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjdGNEFjY0pTYXphcFhtOEdTcnhxNFhMQWRyOUZpTmZweWZ6bDQzLWdsbnRLOXRDd0N3cEMtck1XeXRBV3ZueFVlZjZNc0VxTkEtRzJXSXdXQXpPUWlwRXFDYTFSVWpuYzFaMFdNSW9PdGFyU09BSGt5Nmg2bnNNMGszQlhnTkhWZ2psckxad0R1YWRnUHhMamwzNlFJbHBLU25scjU1VzJzT1hVX2ZEMU1zSFUxMFBBdVgxQkF1MjRCd3pycm01ZtIBzgFBVV95cUxQLUVRb3diQnJzR3puZVFzT19uNTJBa2N5WHdNWVVaOFZmZU84amU1Rm1sTE5hdGVRcFd5NXBXckM5NEQtaUgycnBxbm1oRVhqMTJKc3JqaGtMUzF5eUVtaHlMYVdSRVAwaWRDRzhITjRoOFlBdzUtMGpmRkJFTHBhQ2VfU3RaX1h6MkRXQ2d2bnZtZWZWcEJuSlY0bTBMZThFVzdoal9XRUZnMUp5dnJEVlRsbENORGxXdmdzdXV4N0VrLWk1NTJYOW1WOEl4Zw?oc=5",
+      "source": "firstpost.com",
+      "date": "2026-08-10T01:30:36+00:00",
+      "description": "UK military drones with Chinese cameras found sending data to Beijing: Report  firstpost.com",
+      "query": "drone security breach",
+      "detected_at": "2026-08-11T07:05:43.861070+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c6c098032033"
+    },
+    {
+      "title": "Ukraine drone attack kills one, wounds two in Russia's Voronezh region - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52bHR1bTRXM3FqVFpncTBXRG84VUoxaGtUTlJIN1J2ZVFnSGJOejAyNmdrYkNRTlhlX1I3aktiSHFIaktETzY1ckJDR05teGVxc1dDUlpUN1c?oc=5",
+      "source": "TRT World",
+      "date": "2026-08-11T05:49:55+00:00",
+      "description": "Ukraine drone attack kills one, wounds two in Russia's Voronezh region  TRT World",
+      "query": "drone crash",
+      "detected_at": "2026-08-11T07:05:42.917012+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "24e33e608b04"
+    },
+    {
+      "title": "Tourist boat drone crash sparks medical episode - Yahoo News New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5WkFCRjhjUnhoLXBhSUZRVmVwaGNmZFowSm1BSTlCSy1jNF9McVh2b0w3UERrdGEwbWJuT2dRZTFBSlBBSHM4MFJZTmdSaFRwejh1ZUtJTWl0X2E0eEtmWF9xTG1MWmlvQW50QUtJbjZfdVkxNm80enhVeDE?oc=5",
+      "source": "Yahoo News New Zealand",
+      "date": "2026-08-11T04:57:00+00:00",
+      "description": "Tourist boat drone crash sparks medical episode  Yahoo News New Zealand",
+      "query": "drone crash",
+      "detected_at": "2026-08-11T07:05:42.917012+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e8820439bd19"
+    },
+    {
+      "title": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi - Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWU5QVREMXVSNWNoVDNVZDRuOEx5Wnp3SVVDUmxoclVFTTVpU0lFX21BWFE2YzJ1SmlpUGJEMVFrdXhHa0RVN0J4VEJHU3lYbFdaOWw0X0ZlVk5Ta2E4RzJwd0FhTkhtZXVaT05jQms2MkNnQnlBcFZ5SXVGZFNYLU9YUXZsSFptaTFINHJmV2ZLdE0tQWF5b0w1NTI4clAzbnlLaEJka05LX3RjdU0wRnZUOUQtcGFTN1d2ZXlaZENtVU91enc?oc=5",
+      "source": "Hiiraan Online",
+      "date": "2026-08-11T05:42:36+00:00",
+      "description": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi  Hiiraan Online",
+      "query": "drone arrest",
+      "detected_at": "2026-08-11T07:05:40.980332+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "db6396767e02"
+    },
+    {
       "title": "Fire rages after drone strikes Libya’s largest oil refinery - Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MdkhENHBNMUlzdmNMM1J2eTczTUFsRV9yX2h5RmJWZWJza3FHQzRENjhENnJpdGxYWEZNUl9CeDlCY01ucXhRZU1IZXN2YzNDaTlOdzR0ZDY2bndVNTBWN0dWTVJ0aHfSAVxBVV95cUxOLUs3bmJ4cjc5WWtvWkJfRkkzWG1aWDhhYmJwU0tEaGZMSkFfaXd2bG9fWkNvNFVqbnFSWjVJVThhNVE3YU04dzF6X29fVlUxXzF6dWZqc1RKa09lag?oc=5",
       "source": "Modern Ghana",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "511338501a6b"
-    },
-    {
-      "title": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75 - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa21xN3VFTFV3V1NNVnZOU0dyeXcxWmpBRXRKOUtnX2NOWDQtX0JONlo0YTFBS05BSFZiZ0NNX1NwcVJhRTZGVk5hNFo0a2hpMkVsVDVRRGNZUlVjdVBuMVpidEJobDh3SnR2SFZQSDdwY3FlTmp6RHJtUzZoU3BlajBsTHRWUURCT19yQmhPS1pPZw?oc=5",
-      "source": "Yahoo",
-      "date": "2026-07-23T00:00:00+00:00",
-      "description": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75  Yahoo",
-      "query": "drone prison",
-      "detected_at": "2026-07-23T15:57:54.496410+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "69ad877109e8"
-    },
-    {
-      "title": "Bulker damaged in drone strike in Black Sea as attacks on shipping mount - Shipping Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSnRXNmNCTTZQbEhsWUtrZ3RFejFQM2ZEeHlmRXduRHNaM2NKdVRIRXRQRkIyc3Z4WGoteE1HWVlBcGJ4N2JYZG1LMFVPVnUtYmMyQjlxSjNGemhRNU9wZkFwWlRUT2JRNHRCZGZPU21lTFZNVmM4YWhxZW1pQ3UwZDRkekNjdzFTYzM4MDNJY2JjNjZ2QlhwcVNhNHVmaHBiMWQxLTV1TVZyNUZ4M1FadXF4NzdldFdqUXozZnNPMDY5ZjJh?oc=5",
-      "source": "Shipping Telegraph",
-      "date": "2026-07-23T01:03:34+00:00",
-      "description": "Bulker damaged in drone strike in Black Sea as attacks on shipping mount  Shipping Telegraph",
-      "query": "drone incident",
-      "detected_at": "2026-07-23T15:57:52.846886+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1c725fe215af"
-    },
-    {
-      "title": "FACTBOX - Ukraine’s drones strike Russia's largest online retailer - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3FRVVZraWU5RTJvYlI1Q3R6d0toUDVtNi1ENWtHcDZSdk9QNDY3NVN6Vnp2UlRLa0ZtVXRiTFpIZmVHbGg3VWkxRnJFZkhCY2lqbHFRbFc0QlZKZHBrd21RRjJYNFlMM3RSTnZwYXFYVjRrOWwzVUdqZ213eWJBMHhYQzhtZ200bTMybUo2RWktSmtRYWlsdGg3RXp5QWFSU2J0ZmljZw?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-07-23T09:55:18+00:00",
-      "description": "FACTBOX - Ukraine’s drones strike Russia's largest online retailer  Anadolu Ajansı",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-23T13:58:26.076239+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8efff8c91fbf"
-    },
-    {
-      "title": "Russian Oil and Energy Facilities Burn After Massive 223-Drone Attack Across Multiple Regions - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrTDdGSXcxeWNNLXVROU9KeXIzaC1SRnVzVWFIa1BpOU0xU0hMdzFZeHZ1RnBHbnJ1SEZSVjlacjVFbGhxVkJUTm5tSQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-07-23T09:35:35+00:00",
-      "description": "Russian Oil and Energy Facilities Burn After Massive 223-Drone Attack Across Multiple Regions  Kyiv Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-23T11:08:55.814607+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "00d3c8d75595"
     }
   ],
-  "last_updated": "2026-08-11T05:07:21.387773+00:00",
+  "last_updated": "2026-08-11T07:05:45.292891+00:00",
   "total_count": 1000
 }
