@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drones and wildfires don't mix. If you fly, our firefighters can't. Aircraft are in the air right now supporting suppression operations across Santa Fe County, and an unauthorized drone anywhere near a fire can force those pilots to pull back or ground the whole op - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0VEMlI0YUZIV1hrT2RyaGxpNGtaZC1scUhneFBSMm44RFltR1pBODJpSERKYnpxRzJ5WXpweHM3NEZVeU12d3JsTUxMNlJXazd4Sm13OXZ2UDBwbXhBLWhqRTd2bzNYVUNfUGU4Y3cxX0podWNvUWd1ekNYNmE2eUQxbVdHTnJUQTNsRTRkU1JrSEh4NEdzemFUZ3A5U2drcmIydFoyMldkbUI5UFJ5QlkyUFRPOE92cXF5a3ZWOEZiYWVBQVY5R3ktZ0VkUk53eXZB?oc=5",
+      "source": "facebook.com",
+      "date": "2026-08-12T23:32:01+00:00",
+      "description": "Drones and wildfires don't mix. If you fly, our firefighters can't. Aircraft are in the air right now supporting suppression operations across Santa Fe County, and an unauthorized drone anywhere near a fire can force those pilots to pull back or ground the whole op  facebook.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-12T23:40:01.887327+00:00",
+      "location": "in the air right now supporting suppression operations across Santa Fe County, an",
+      "category": "security",
+      "id": "6907aa8ee885"
+    },
+    {
       "title": "Kuwait Foils ISIS Drone Terror Plot Targeting Vital Infrastructure Facility - صوت الإمارات",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUkVpb0JfRmkwb2t2a29iQktQcF95T2xyeC1ielFfX0FJNVp5VldtaVFTY2Jta0tYNDNMY21yZnlITVh3dm9HTE95STlpTUdmOFQ4RXlQOUtySXhPbXJJSlBiRlJBb1ZiV2gyS0tqVm0yV2tyVDZZVmtQUmRQNm4yQ3JZcXBvalNzZkRENF9HMjBRTFk1RXpZTW1GMUdLd1NSVWk5WXNQZmJFYy1zeXdDN3lWX0l0MmpvWTlyaTNVZ0ZiMXVWeWc?oc=5",
       "source": "صوت الإمارات",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fe729f575215"
-    },
-    {
-      "title": "Romanian F-16 shoots down second drone in 2 days after another incursion over airspace near Ukraine - Euromaidan Press",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWwxY1VHWHN3em83ZW0wMXhaMVRmNnlsODFHZFdqNUxla2lwMHhCNjJ5dVBPdTVvY3VTOC10U21YdGktcXB3dVJ3ZTJnT1ZtRThEcWRkc1dHem9JVXBzbmh6R3ZVc1ZnX280TG92alI0eDkwZzNsSjFqYmp3TENJMFZPQ3ZYbnNqY2tVb0xDMHU2UQ?oc=5",
-      "source": "Euromaidan Press",
-      "date": "2026-07-25T11:30:50+00:00",
-      "description": "Romanian F-16 shoots down second drone in 2 days after another incursion over airspace near Ukraine  Euromaidan Press",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-25T15:02:03.174866+00:00",
-      "location": "near Ukraine",
-      "category": "other",
-      "id": "0c97d25f247d"
     }
   ],
-  "last_updated": "2026-08-12T21:43:38.666611+00:00",
+  "last_updated": "2026-08-12T23:40:02.337091+00:00",
   "total_count": 1000
 }
