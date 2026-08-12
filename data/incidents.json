@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "1 killed, 8 injured in Ukraine's Luhansk strikes - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXZQUDhGTkY3R1JrQXo5TnM2RHlPQjJHa0U1VU9veWdhb1NTckkzd2k2SWFxTmEyemx0SWdtR204Zm1md05sS0IwWFlVMzNkN2hRV20xUktiVkxLYVBkUUFzRHpVRXR4SGNQclVGdmtIQnJUTzN0bkxhcXl4YTZrTE1sc05taklpR1B2OUZteHJpN25CV3FB?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-08-12T10:24:00+00:00",
+      "description": "1 killed, 8 injured in Ukraine's Luhansk strikes  Breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-12T11:45:04.533221+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "209389d79d45"
+    },
+    {
+      "title": "Iraq Classifies Unauthorized Drone Flights as Terrorism - english.globalarabnetwork.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZmNvT1FlM3JxbEREV2ltZFJ1SFZVa3pVeDVzRDIxYjQ0SDZmWkV4T1lKaklJRjhtLURHVlJ2b01kNXgydVdfaHdWcExHZjBIWTNsNl9fTC1ONFctMXE1dVp5cXBPNmtaUWd1cTJveVQ4dW1OSDNNWXp3R0ZxUWdjcV9LRm9oa1JUVzUxY08xamdjMGJRbjJJXzlDZFhOZlR5MHRpaE54M24?oc=5",
+      "source": "english.globalarabnetwork.com",
+      "date": "2026-08-11T07:28:20+00:00",
+      "description": "Iraq Classifies Unauthorized Drone Flights as Terrorism  english.globalarabnetwork.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-12T11:45:04.533221+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "95ad0c5f69c5"
+    },
+    {
+      "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1FWbmRRRnZ3VXp3MHFhSWdWNjM1bFM3WGFFdVctTlBSZFRySHprVm1hcklQajNoX0xIdU1VeWZFcTFNQTJ4bDRzT0wxSVp0Z2drb1k1cWFnM0E4YldNTDhJVUlaTldwb0UzUFNMSkRyekhWSXBVY0sza3dDZlhVdTRDMkFHRXJYOTJjY21kWUpMbV9YWEJ0Z2JMNXZvbW90OXlnZXJ3V21jZE3SAbABQVVfeXFMTlE0TjVMN2FlZzhuTVhjck1IQU1VZjljMzR1eGI2NmMwbVd5Y2Q3ZDJpLU9WTC1JQ21oWWdzNWJyVlhPZVdPbU9SWFpYcS1CaWg4bzdBaTRLMDZzdmplU0NDOWhGUDJEbHRCNGJpYzZhQWNrLVBHSjFXUWVrYWtuR2hXRFI3RzllNzZWdlY0R3JlMHdObW8tM1p0cGx2UWp0OE95NXlmX3lNdFRuaFd6dno?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-08-12T08:28:07+00:00",
+      "description": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?  Al Jazeera",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-12T11:45:04.533221+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6dbc0a73a36b"
+    },
+    {
+      "title": "A Russian drone crashed in the Darnytskyi district of Kyiv - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUzRIVDZnRERFUTgtVlBhYks2RThQV3A2NDAyb3hjRjhDTkx2MWZXQkkwcnBtR2dRMmI0aUhzNGRkZjRSV0lXQzFoZlF3X1NTZzJmZVA0RzVYd2lDekZfWWlaYnlsbHZVS21UMXFkbGthTFdPLXM4SWxjMzZMbGhQWnB3?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-08-12T11:20:53+00:00",
+      "description": "A Russian drone crashed in the Darnytskyi district of Kyiv  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-08-12T11:45:02.981936+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b94398810f9a"
+    },
+    {
       "title": "Russia strikes Ukraine with ballistic missiles and 138 drones overnight - newsukraine.rbc.ua",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmgzak9SNlcxSXFZeldPT3hSNThSZ1ZIZWRYTEdMdExuSmlXWXNRTWJPaDczRUtxM2ZKQmpGTWZFVzZiRlY0T0ZtMEgydzRFYmduUDh0QXQyWVFhUUcyRmUwdHV6VmFES0pjNUFISEh5NE94SGN0ellmTU5sX3cyY0JRQUJLY0VabUZXTzJISEZIZGNJb1hfVGR3?oc=5",
       "source": "newsukraine.rbc.ua",
@@ -11951,56 +11999,8 @@
       "location": "at Erbil airport",
       "category": "airport",
       "id": "0ad0d067f5a1"
-    },
-    {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGM0J0ZjM1eldDMVFGRVBpNDFDbk9ZdEw0UTBVU19MblZ5SHJ2d1NvMC11TWsyeFZGR1VnZm5uQUhMLW8zNzU1WUNIWjR0LUhsX2R3WXBqOFdxdw?oc=5",
-      "source": "BBC",
-      "date": "2026-07-24T18:51:17+00:00",
-      "description": "Ten killed in Russian attack on drone exhibition near Kyiv  BBC",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-24T20:18:45.689931+00:00",
-      "location": "near Kyiv",
-      "category": "other",
-      "id": "f88ddfd9481f"
-    },
-    {
-      "title": "SBU arrests Russian agent who coordinated missile and drone strikes on southern fuel infrastructure - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IOS1VSW9GZEhGT0F1YkxUa2lUZjViZy1SV2xuZl9HZl9OOTljZVQtLUppTEUwUjNLRzlQWS1pOWdUQ0VEVjdkYWtuc3ZkMWstMVZXZVRVWnVrMUxWN2x1LURQd2xhVjBa?oc=5",
-      "source": "Межа. Новини України.",
-      "date": "2026-07-24T17:00:32+00:00",
-      "description": "SBU arrests Russian agent who coordinated missile and drone strikes on southern fuel infrastructure  Межа. Новини України.",
-      "query": "drone arrest",
-      "detected_at": "2026-07-24T20:18:42.111087+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "364ef3e31a79"
-    },
-    {
-      "title": "Amarillo man’s attorney: Seized drugs worth $32,000 should be tossed out - NewsChannel 10",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnk2bEt2M3RfYTVBTE9VMFhZOGhvUUYzYUFJVU5tX3pQWTlCOEVSbUhsd1l3TlRqS0Q5ZXhZUTZPWFBHYVE3QVFLUXo0N2xVMDQxTXNEYnVxRl9kalVqakpKYmR5ZnYzNmFpWEVueGRxLUM3WXBKWEFnbG5walFwNEk5ZDZxejktMmhxY0lxQ290UTdzRGxqaHppWnRLYnliZDlkaEZpV21McXpOSzZB0gHDAUFVX3lxTE10WTR3Z0xoR0pVS3U4SDdQQ2wwMFJrdU41M1I1eW1yLVlPVmY4TWc1RzVhZWlTazVmRml3bnhxMDhPdTduaE52NHhNZXJJVkU3YUl1a1NockpUUGZaQ1VjbmNZdFNDdE1uaWZwcGRKcmx4bWhhUG5IUDhFelZKdW1zSEJoeU9CVUU0bHA0amREWHRCcERmWnZVay1SMG92bzBFT1VmVHNWT1dYNVloT1RKZzJ0U09sc090cHlsdkQwTF9faw?oc=5",
-      "source": "NewsChannel 10",
-      "date": "2026-07-24T18:42:00+00:00",
-      "description": "Amarillo man’s attorney: Seized drugs worth $32,000 should be tossed out  NewsChannel 10",
-      "query": "drone arrest",
-      "detected_at": "2026-07-24T20:18:42.111087+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "08aceae3cc81"
-    },
-    {
-      "title": "Sheriff: Citizen report thwarts alleged drone drug delivery to N.C. prison - Corrections1",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDZncnFiWkFON3JyYXFUb1YzaUFGV2ZaTnA5VVAwb25fSzA5MHN5cnFDOTBzMXFXenZlaVZhOU54MkpKY0RRb01UQnV6ck1DOXlQUkFrbXcxYjlpdFRfNzMyaEhZWHd4cEVLNDFyQlVKVHpJdFg4TmxuX3ZHZ0dhYndSZ29CWjJZRUkwcmtsTW1lOHpJekR0NkIwYWpFbWdwTHBUanByX25fT0FSSTJFM0xB?oc=5",
-      "source": "Corrections1",
-      "date": "2026-07-24T16:51:40+00:00",
-      "description": "Sheriff: Citizen report thwarts alleged drone drug delivery to N.C. prison  Corrections1",
-      "query": "drone prison",
-      "detected_at": "2026-07-24T18:16:50.894338+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "010a11a6491f"
     }
   ],
-  "last_updated": "2026-08-12T10:03:32.884940+00:00",
+  "last_updated": "2026-08-12T11:45:05.589183+00:00",
   "total_count": 1000
 }
