@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes Ukraine with ballistic missiles and 138 drones overnight - newsukraine.rbc.ua",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmgzak9SNlcxSXFZeldPT3hSNThSZ1ZIZWRYTEdMdExuSmlXWXNRTWJPaDczRUtxM2ZKQmpGTWZFVzZiRlY0T0ZtMEgydzRFYmduUDh0QXQyWVFhUUcyRmUwdHV6VmFES0pjNUFISEh5NE94SGN0ellmTU5sX3cyY0JRQUJLY0VabUZXTzJISEZIZGNJb1hfVGR3?oc=5",
+      "source": "newsukraine.rbc.ua",
+      "date": "2026-08-12T08:20:00+00:00",
+      "description": "Russia strikes Ukraine with ballistic missiles and 138 drones overnight  newsukraine.rbc.ua",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-12T10:03:31.996666+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0041d6dcbefe"
+    },
+    {
+      "title": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1FWbmRRRnZ3VXp3MHFhSWdWNjM1bFM3WGFFdVctTlBSZFRySHprVm1hcklQajNoX0xIdU1VeWZFcTFNQTJ4bDRzT0wxSVp0Z2drb1k1cWFnM0E4YldNTDhJVUlaTldwb0UzUFNMSkRyekhWSXBVY0sza3dDZlhVdTRDMkFHRXJYOTJjY21kWUpMbV9YWEJ0Z2JMNXZvbW90OXlnZXJ3V21jZE3SAbABQVVfeXFMTlE0TjVMN2FlZzhuTVhjck1IQU1VZjljMzR1eGI2NmMwbVd5Y2Q3ZDJpLU9WTC1JQ21oWWdzNWJyVlhPZVdPbU9SWFpYcS1CaWg4bzdBaTRLMDZzdmplU0NDOWhGUDJEbHRCNGJpYzZhQWNrLVBHSjFXUWVrYWtuR2hXRFI3RzllNzZWdlY0R3JlMHdObW8tM1p0cGx2UWp0OE95NXlmX3lNdFRuaFd6dno?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-08-12T08:28:07+00:00",
+      "description": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’  Al Jazeera",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-12T10:03:31.996666+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c04073bd9e74"
+    },
+    {
+      "title": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3FJWWdvcUpzRGQxNTFaNFNlTC1DYXdSejRNMFY5M3JPcm8yNUlhY0JQdE5udzNXeHcxYTdpanFmd09SbGczdkJYUnJjVUYwNkxmc296VUxmSUhFTld4SlZORzI4dkIwQ0FsMnVidTZyYkppTVpQTFlQVUhQbG5KbWE4R200U3N4T2hTV3RkeHkzYkFsLU9NenBrOXFiS3VyblFJ?oc=5",
+      "source": "yahoo.com",
+      "date": "2026-08-10T14:53:35+00:00",
+      "description": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash  yahoo.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-12T10:03:30.501411+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "037347926d20"
+    },
+    {
+      "title": "Army Foils Drone Drug-Smuggling Attempt on Northern Front - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGJ2QUctanBTRHJSeVBPTXRYTzlhcURlMkRabG9GZVNXOHZMRXpQMXV0NGhocmJGaERlNGlJZTBzbjlhTU1XS3pNQW9Tc3NfTzZlWU5NSHI1NUtpNGdjVk90b2NVdm1aRDd2aV95RmlhTVd1LXNfT05GVVFzQ0JubmFRaFQ1MkhDWEhyQnZjS0lJM0FWZm5UX3dRZEJGU2pYdlJkbHhERQ?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-08-12T01:25:23+00:00",
+      "description": "Army Foils Drone Drug-Smuggling Attempt on Northern Front  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-12T10:03:28.937937+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "af352737f6cd"
+    },
+    {
+      "title": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi - Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWU5QVREMXVSNWNoVDNVZDRuOEx5Wnp3SVVDUmxoclVFTTVpU0lFX21BWFE2YzJ1SmlpUGJEMVFrdXhHa0RVN0J4VEJHU3lYbFdaOWw0X0ZlVk5Ta2E4RzJwd0FhTkhtZXVaT05jQms2MkNnQnlBcFZ5SXVGZFNYLU9YUXZsSFptaTFINHJmV2ZLdE0tQWF5b0w1NTI4clAzbnlLaEJka05LX3RjdU0wRnZUOUQtcGFTN1d2ZXlaZENtVU91enc?oc=5",
+      "source": "Hiiraan Online",
+      "date": "2026-08-12T08:57:27+00:00",
+      "description": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi  Hiiraan Online",
+      "query": "drone arrest",
+      "detected_at": "2026-08-12T10:03:28.433034+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "875c21b219a5"
+    },
+    {
       "title": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi - Hiiraan Online",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWU5QVREMXVSNWNoVDNVZDRuOEx5Wnp3SVVDUmxoclVFTTVpU0lFX21BWFE2YzJ1SmlpUGJEMVFrdXhHa0RVN0J4VEJHU3lYbFdaOWw0X0ZlVk5Ta2E4RzJwd0FhTkhtZXVaT05jQms2MkNnQnlBcFZ5SXVGZFNYLU9YUXZsSFptaTFINHJmV2ZLdE0tQWF5b0w1NTI4clAzbnlLaEJka05LX3RjdU0wRnZUOUQtcGFTN1d2ZXlaZENtVU91enc?oc=5",
       "source": "Hiiraan Online",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "010a11a6491f"
-    },
-    {
-      "title": "Drone helps Colonie police catch suspect - WRGB",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUUthbXRhcU1qOXBzNTVJMTVNY04tQWxCS1RrSGtGbm1rV25aR3VYMGh6eGtLSTJWd3hwN2JQVXIwalZQcmRPNk9Ud0JiU0c5TldsRGcwcmhndjU0VU1LeU1QWV9ZU3NUUzRCZWthNDYzeEhYMUxhTEhJYld6Yjg?oc=5",
-      "source": "WRGB",
-      "date": "2026-07-24T17:41:22+00:00",
-      "description": "Drone helps Colonie police catch suspect  WRGB",
-      "query": "drone arrest",
-      "detected_at": "2026-07-24T18:16:49.850772+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eab8ed13f4cf"
-    },
-    {
-      "title": "Colonie police uses thermal drone to track car break-in suspect - WNYT.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTlCODlvemFXdjFCeEVJZl8tZlZ2NTJ2S2lONVl4UzR4ZndRbkFJOXN4TWwweGNoWWVNQmZOUWZLTDNHS1BWNDBnbk5XV2d4ZUR1R3lTSldNMjlJNW5hbTdzanBkYm5wVWppMlkxZElfRWlReVJMYzNMbEdVTGN4VUhNT0F4MGNwRGZtaGtFUzRMcmozVWxJQw?oc=5",
-      "source": "WNYT.com",
-      "date": "2026-07-24T17:03:52+00:00",
-      "description": "Colonie police uses thermal drone to track car break-in suspect  WNYT.com",
-      "query": "drone arrest",
-      "detected_at": "2026-07-24T18:16:49.850772+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8e3cb19daca8"
-    },
-    {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGM0J0ZjM1eldDMVFGRVBpNDFDbk9ZdEw0UTBVU19MblZ5SHJ2d1NvMC11TWsyeFZGR1VnZm5uQUhMLW8zNzU1WUNIWjR0LUhsX2R3WXBqOFdxdw?oc=5",
-      "source": "BBC",
-      "date": "2026-07-24T15:12:11+00:00",
-      "description": "Ten killed in Russian attack on drone exhibition near Kyiv  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-07-24T18:16:49.311263+00:00",
-      "location": "near Kyiv",
-      "category": "other",
-      "id": "6217990b1899"
-    },
-    {
-      "title": "Romanian jet fighter shoots down suspected Russian drone - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTRlX1BTZUM0Y2RQYTVyS1d3VU9UU3luS1FMQV9YaGxvbjdNV3hkUGVYOGpoOE5PZHZGc2tUN2xFNXFrOFltbmU4Mno3alNBOFQ1dGtmZHhUZldzQU10NDBRZHZkNzM1ZHR1M0Y0TldoczktclppMEE3b1haM2x6ZkpIU09Zek8wVG1SeHNHRDhLZVpsa0NvbVJiS0dsQdIBowFBVV95cUxPRUFsc1M0OS1WNHQ5OEtmaHV2RVRRY0FpM1FneEdLM3lpNnBMRm1qeEdMdWpYQkI5bVc3R2NMZXFfcDVkS0tmSGdRMjJ2UzNLczZOMmE4NEpNVEVJSFd3aXNXbTRjVHdFU1I0Y3lMaERuZ1lHTGFVSHFCbk5NckE4MWlYLWhCT2E5aHY5SE5kLW9CQVJhNEg3d0VoeEpoR2xfY2s0?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-07-24T16:56:37+00:00",
-      "description": "Romanian jet fighter shoots down suspected Russian drone  Al Jazeera",
-      "query": "drone incident",
-      "detected_at": "2026-07-24T18:16:49.311263+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "da047a4117f6"
-    },
-    {
-      "title": "Drone surveys mandatory for quarries in T.N. to curb illegal mining: Minister T.K. Prabhu - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk9kODY2bUxPYTZsRkdNLTJPSk5wRXFGLWh5V0dMWnFRT1o1N01WR2VyTXF5XzhONElPZmI2NWJqN1g2djM1aE5Tc1k3N1kzN0xhX0MxSnlkT3N0MEI3S3JsdlY1QTRYdy1JVXZxVWdoQmdTcE1uc0pxN3R2TV9wQnZaTEw5Z2xxVzdnR2xKTkxOUkd4QnNhTVdxTGxIQXk5TklaaFZkWDBGTVhlTjJRQkdGZXFuTFVaeVZOQ3dpWUFkX0lfX1JIX205dVFEbzVWUHRmU3JzcGV4N1YxaUtNeUdWMNIB6gFBVV95cUxPSHhUbmppQm1wdTFpc1J1Mmh0eFVkLVBqVkwxYVAwZEE2aDRJbFF0cXlrMHFsdGwxZHlsYnZ6OUZacEpLdHozUVdVcVM2a19kQzlNRnR0b3FqODBNNVgwOFlPbWRpSk8yTUY1TnJuV0cza1J6eGItQ1VtV1ZOcTZTUWRtOXotWnREZTRqU1lBdmhHaEZWZ2dfbUNSN0RnVlVMZExDVEVPajJMLXZNcDlTMFloWllPdWNBZlppMkZUcm92UUw5b1JFakgwMkV3Q2h4emI3NWN2MlVIMGtpa0hNWEZmVkpiX1ZzSEE?oc=5",
-      "source": "The Hindu",
-      "date": "2026-07-24T16:00:50+00:00",
-      "description": "Drone surveys mandatory for quarries in T.N. to curb illegal mining: Minister T.K. Prabhu  The Hindu",
-      "query": "drone illegal",
-      "detected_at": "2026-07-24T16:41:30.943593+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0d7bf0e9ea94"
     }
   ],
-  "last_updated": "2026-08-12T06:13:00.764516+00:00",
+  "last_updated": "2026-08-12T10:03:32.884940+00:00",
   "total_count": 1000
 }
