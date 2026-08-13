@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Vietnam Admits Airports Have No Drone-Detection Gear After Tan Son Nhat Shutdown Hits Flights - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcWp3VTZMVTBaQzljN2ZraHhMOXhmTm5feGxwOExGcVBSUk5wTEhsWDB1WTRoQVlsdHlMT01uZ3JEUTI1WDh6QTFvaTlKMnRXVjQwaktzZ0hDNVRpU0dJQm5zcWZBZWczYTJBMnNmWnE2TUMzS2dwX3RTVy1NcGwtazMwMS1tbXV2SmJwTTllMmNmbzRVbThNcEllS1FBTEFSdHNVelBvemdmZEZSVTJZSHNXR016em0xbzFIbThLY0d4dEQtb3lpVnh6SE5SWXJfYzBZS1hQdmFUZFpOT1dSbnln?oc=5",
+      "source": "Tech Times",
+      "date": "2026-08-12T20:33:03+00:00",
+      "description": "Vietnam Admits Airports Have No Drone-Detection Gear After Tan Son Nhat Shutdown Hits Flights  Tech Times",
+      "query": "drone airport disruption",
+      "detected_at": "2026-08-13T04:13:41.875539+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c59d01cd66c4"
+    },
+    {
+      "title": "Woman arrested, charged with smuggling contraband into Limestone County Correctional Facility using drone - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXpzNTcyRXVLNGhMVEFYX2J1aHc5bUQxU2FxZ01LX0hOQ215NFc3eG93bDRzMXgtOUZQZWh4TWl3N1ZaRWd4VFRHTGozbWQtU3AtZ2lfNzh5MlpELUE4VmZla29KMVFUSnFGMVBnWXhhc2VTeUFTSFhWUmc2YXU4M29FUXNWVVNrMzhfV1ZOWWk4em1RWllha19oVUF3ajV4NGhGYWdOOUZlTzB4aXY1RjJRa3pjNnF5QUJacHJwR3puLW8?oc=5",
+      "source": "1819 News",
+      "date": "2026-08-12T19:37:58+00:00",
+      "description": "Woman arrested, charged with smuggling contraband into Limestone County Correctional Facility using drone  1819 News",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-13T04:13:40.824183+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b1e32b3d706d"
+    },
+    {
       "title": "Webinar: Capturing the complete picture: Modern approaches to public safety investigations - police1.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjlQX1VPOXhZeUxhcUJTTGQzVTFKZGFMTmRDZzRiX0NwMHRyRXM4M01uU1JpaC1wc3dGQ0hzZ1A1NXIxSnZKR19idF9HWUljWlRXcDR2eGNIdHY1eUV1M3cwQ1dmLWR6cUV3dUk5NG1pTlJMT0NQMnNaLU9aR2s3Um1FbVhLMGhMZTRVV1A3Ylhia1ZRYlFyTHdFRUR2VTRtUGVvQWJsa3dZS0JjU0gxcGJ6SnpYZmRRSXBv?oc=5",
       "source": "police1.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "1b82c862d167"
-    },
-    {
-      "title": "Explsive drone crashes in Ben-Gvir's neighborhood, IDF opens investigation - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wYzAteVhGclZhLWlMb3ppV2pRSU9GSjd4dWtIUVZDang1TjViV0hfSTkyR2JOMzdaVmlyQVI0M0lXTEtjcUtxUUcyX3dWVkFWTDJmVWNvVkVSc0lR?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-07-25T21:22:19+00:00",
-      "description": "Explsive drone crashes in Ben-Gvir's neighborhood, IDF opens investigation  The Jerusalem Post",
-      "query": "drone crash",
-      "detected_at": "2026-07-25T21:55:10.607728+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "5e0b1bb1b349"
-    },
-    {
-      "title": "Yemeni air force hit Houthi missile, drone launch sites after Saudi-led Coalition forces launch strikes - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XeG5PaWtJMmdFNmxsLUZTQTh2dHBJQXVncWVLZGJ0UlhYVlVYSl9UOVBlVHdwWjF1RGQwanMwVWF1aHNNUURDcm0tUEt6SUpQQmdsVlF1RWVwS1Y0UUE?oc=5",
-      "source": "Arab News",
-      "date": "2026-07-24T22:49:12+00:00",
-      "description": "Yemeni air force hit Houthi missile, drone launch sites after Saudi-led Coalition forces launch strikes  Arab News",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-25T19:20:30.334324+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "754a03e9173e"
     }
   ],
-  "last_updated": "2026-08-13T01:56:22.303455+00:00",
+  "last_updated": "2026-08-13T04:13:44.987698+00:00",
   "total_count": 1000
 }
