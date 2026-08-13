@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, a series of drone-related incidents have emerged across various regions. Notably, there has been a rise in drone smuggling activities, including multiple arrests related to contraband being flown into correctional facilities in the U.S. and a successful drug smuggling attempt in Pakistan. In Vietnam, unauthorized drone disruptions have caused significant operational delays at Tan Son Nhat Airport. Concerns regarding drone security have been highlighted as a number of drone crashes occurred in Kurdistan, Ukraine, and Bulgaria, raising alarms about drone safety and regulation. Meanwhile, the situation in Iraq has escalated, with the classification of unauthorized drone flights as terrorism amid ongoing tensions. Overall, these incidents underscore the growing risks associated with UAV technologies in both civilian and military contexts.",
+  "totals": {
+    "airport": 5,
+    "other": 27,
+    "smuggling": 7,
+    "crash": 5,
+    "security": 7,
+    "arrest": 10,
+    "terrorism": 5,
+    "total_incidents": 103,
+    "by_category": {
+      "airport": 8,
+      "arrest": 13,
+      "crash": 17,
+      "interference": 1,
+      "other": 36,
+      "security": 8,
+      "smuggling": 14,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 19,
+      "drone crash": 21,
+      "drone illegal": 6,
+      "drone incident": 4,
+      "drone prison": 2,
+      "drone security breach": 6,
+      "drone smuggling": 10,
+      "drone terrorism": 21,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activities",
+      "rationale": "Includes incidents related to drone disruptions and regulations, particularly in airports.",
+      "incident_ids": [
+        "4ae75cc08250",
+        "0a81b42b3a41",
+        "20b144b6cf10",
+        "0a81b42b3a41",
+        "9e92c29d63e6"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling Incidents",
+      "rationale": "Highlights the use of drones for smuggling contraband across borders and security breaches in correctional facilities.",
+      "incident_ids": [
+        "5a94d78dae6e",
+        "13eed610a8b1",
+        "458e9cbaf5fa",
+        "3d89f415eb15",
+        "a00e69bb921c"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Focuses on drone crashes across different countries, stressing safety and regulatory concerns.",
+      "incident_ids": [
+        "ec2dc0580287",
+        "369b8fe59176",
+        "1cc9e3bbe447",
+        "b94398810f9a",
+        "d2b342110022"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5a94d78dae6e",
+      "headline": "Woman accused of using drone to smuggle contraband into Limestone County Correctional Facility",
+      "one_sentence": "A woman is charged with flying a drone to smuggle contraband into a correctional facility.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "20b144b6cf10",
+      "headline": "Drone Grounds 22 Flights at Vietnam’s Busiest Airport in First-Ever Intrusion",
+      "one_sentence": "Tan Son Nhat Airport faced unprecedented disruptions due to unauthorized drone activity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4fbebea2b28d",
+      "headline": "Webinar: Capturing the complete picture: Modern approaches to public safety investigations",
+      "one_sentence": "A recent webinar discussed new methodologies in public safety investigations using drones.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "ec2dc0580287",
+      "headline": "Four Drones Crash in Kurdistan Region, No Casualties Reported",
+      "one_sentence": "Recent drone accidents were reported in the Kurdistan region, raising safety concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "1c10b1821913",
+      "headline": "Drone, K-9 locate man wanted for Austell salon break-in",
+      "one_sentence": "An arrest was made using drone and K-9 support in locating a suspect connected to a break-in.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone-related activities highlight growing concerns around security and smuggling operations in multiple regions.",
+    "linkedin": "A surge in drone incidents, including smuggling and unauthorized flights disrupting airport operations, points to escalating security challenges globally."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-13"
+}
