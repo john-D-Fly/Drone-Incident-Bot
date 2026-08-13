@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Could a chip help Vietnam keep unauthorized drones away from airports? - Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmNXTlFDX2MzTC1oY0FMT0c1akYySkoxTnNNRGhsODFHVXJDaWtmUk55N2pEQnpzUUJNQzAwMm1aT0JIejNqQkp3OV9KNFE4MEtDV1dBNTk0Y0g0WTFiNVpDdnpaenZWUjB5ejZLR2c5anAyV09NVERMemxNaWhObkoya3BJT2lLaVppYTA0cVRHd3RVWGNIWTZYbFJ4bGJ3TDRHQlB6MHZybG8?oc=5",
+      "source": "Báo VietNamNet",
+      "date": "2026-08-13T11:03:00+00:00",
+      "description": "Could a chip help Vietnam keep unauthorized drones away from airports?  Báo VietNamNet",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-13T11:45:12.487251+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ec2dc0580287"
+    },
+    {
+      "title": "Drone disruption at Tan Son Nhat Airport: How much did it cost carriers? - Tuoi Tre News | The News Gateway to Vietnam",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc092cE9rZEJsV0hsU2tFTklZNGs3eFQ4MFc1ZngxclBBZWszNm5Ta0dIOURxYm9Yd2tXSWszOFp0NDdOcjRtLWVyNFlDNUFuMXN6eHVmOS1XaEZLeXBTMFh0TW9YMWtpcVBEOGZpX0ZtNnFVWDd6UEE2RnZmV0lwVHg3OThpMFA4eEJjOFZTak1ocDl3OEN1YTBLa0x5ekJQNk1hU0RsWm1oM0FMSzlaN3YwQUNSb09y?oc=5",
+      "source": "Tuoi Tre News | The News Gateway to Vietnam",
+      "date": "2026-08-13T07:52:00+00:00",
+      "description": "Drone disruption at Tan Son Nhat Airport: How much did it cost carriers?  Tuoi Tre News | The News Gateway to Vietnam",
+      "query": "drone airport disruption",
+      "detected_at": "2026-08-13T11:45:09.774652+00:00",
+      "location": "at Tan Son Nhat Airport",
+      "category": "airport",
+      "id": "3bd21dc3e073"
+    },
+    {
       "title": "Libya reels from assassination, oil strikes and central bank turmoil - middleeasteye.net",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUdFbkg1cHJIV2lJaVRHMkVxTW94YjNpVUhCMmRabDBKZFZNMVBILWpPVlpnb3Z3MzktZkhURWFURG1JSWVVUG9ybDdHWFpBQllQbWFzY2MzUzh5cDdhTWtwUWlrWUVtNVBOdmVmMUlsQUZRakFLdm04RllFYnJDN0kzT2JOcjBhTzkyYUtyTVQ3S3lZS0dxRUZjdlZpdw?oc=5",
       "source": "middleeasteye.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7d6e76f6fd50"
-    },
-    {
-      "title": "Romania downs new drone after third consecutive airspace breach - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU5pMUo1RVloTHB1NW5zNm5Kaloxc0JzYlpZNXMzSkhRenlid0dvRW9FWE1XQ3VKX3dmYTVFcjNteGQ2MGlBeUdXVEhzRTBQTzlGMGs1b0JZUV83QTY3SUF6b09VX2FNVXAyaUo5R0VqX0RRLWpxZHcwVHFlZzg2Wl9oaXVLQjdQNE10T1hfZW5XQkM1amg2allCYkQ3aEttd1ZCQW9B?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-07-26T11:58:53+00:00",
-      "description": "Romania downs new drone after third consecutive airspace breach  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-07-26T13:20:53.030441+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "acf5b44c1ce4"
-    },
-    {
-      "title": "Warehouse attacks knock out 10% of Wildberries’ logistics network across Russia - The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcl93Y19NalpBc0V5TlpYb3ZDb3RTQmpMZ0R6a3ItSGJkUmdWWG1mTDg1U3FyUkxVODhJV19vUGdCUGpyazRZd1R0T2hOZDJueC1WWVhLcExrS3dnOUQ5Zm96V0IyeXVkejhOV3ZIclIxajNwMFM3X0xFdXRCUE5DNmJvckhrSmx2ckZHQjBINUxmanVTU3FGRmZQSDdxeVFOcDk5MGZVdFAyUU1IVm9yOFdTbmRlaFZ0UVVialB1Z3FIMGJrS3fSAb8BQVVfeXFMT0RpWXRncE9EOEswc3Jua2NTSXpNQUxRMW1DcHBmSWVsdWFLR2l4b3NuUDFVR2tpdmNXNjRrbUgzTE1hbTRqZl9hSUZhNDNPNnN4bnV3WWJheDg3Y0UyY1VuR3AwV3hxdWNzUVNsQ2JZam5lMG4zSTVXZExpSXFaeXhNMXZZQ3BsZ1JOWmpHSm5penh3eEtqNE1USk9McGFJRkl6VmVGZXVIenMzMWdlQmFwcDVWQmh4WUpscElEejg?oc=5",
-      "source": "The New Voice of Ukraine",
-      "date": "2026-07-26T10:05:00+00:00",
-      "description": "Warehouse attacks knock out 10% of Wildberries’ logistics network across Russia  The New Voice of Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-26T11:24:58.667715+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b11763801670"
     }
   ],
-  "last_updated": "2026-08-13T10:04:43.661267+00:00",
+  "last_updated": "2026-08-13T11:45:13.067576+00:00",
   "total_count": 1000
 }
