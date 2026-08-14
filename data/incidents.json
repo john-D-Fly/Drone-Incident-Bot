@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea - WKU Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVNuVGZzYV9rc1FvREo4c3pYM2Z3MDZ0U0g2emNkbklPc3hZZ3IxNThleHBVbDRzZnRFSnEyWUN0RXRYX0ktbXJSS094NnBsTk9XTWEwNVYybnQ3RlA0ZlZrbFlRX2RkMWRkOHluTUJiOHRCeFRFWWg3TTY1d2Q5ckxqNW1HMUYzdmFSVFA1N1hyQTZlbWZwVzQ3ZVlZOVpQbGwzeGVRRFBBRzVNdFE?oc=5",
+      "source": "WKU Public Radio",
+      "date": "2026-08-13T15:18:00+00:00",
+      "description": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea  WKU Public Radio",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-14T04:08:19.088551+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "517356b35909"
+    },
+    {
+      "title": "Warning issued over Illegal drone flights near Vietnamese airports - The Star",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2pFWHl1Q1hJQi1KVGNkV3djZENRTENrYW1hbjRzUXRmcVBWWmYzakxSNlZIZjNSZS1YTzdzaVh3RzNoNU1lZC1ISUJhX0o0M0hZVnppNDVjRWc1NkpuRm5DcmdaYWVuaE1WTW9CVWhHY0NSR2VXRzZKOTBMY3RiTVpWQXBvZU1yanM4RjNhRDM0LXhQbURrQnhNQmRva1FBUWJyczdYXzNyVHhXdWpLa1dlMTZRaVBMZTkyQVBSVUxVSlZ5LUpwTA?oc=5",
+      "source": "The Star",
+      "date": "2026-08-14T02:57:00+00:00",
+      "description": "Warning issued over Illegal drone flights near Vietnamese airports  The Star",
+      "query": "drone illegal",
+      "detected_at": "2026-08-14T04:08:18.085458+00:00",
+      "location": "near Vietnamese airports",
+      "category": "airport",
+      "id": "73d3505dd9de"
+    },
+    {
       "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea - wkyufm.org",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVNuVGZzYV9rc1FvREo4c3pYM2Z3MDZ0U0g2emNkbklPc3hZZ3IxNThleHBVbDRzZnRFSnEyWUN0RXRYX0ktbXJSS094NnBsTk9XTWEwNVYybnQ3RlA0ZlZrbFlRX2RkMWRkOHluTUJiOHRCeFRFWWg3TTY1d2Q5ckxqNW1HMUYzdmFSVFA1N1hyQTZlbWZwVzQ3ZVlZOVpQbGwzeGVRRFBBRzVNdFE?oc=5",
       "source": "wkyufm.org",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f65128ebd637"
-    },
-    {
-      "title": "Romania again scrambles F-16s over drone incident - The Sofia Globe",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNclAweXNqRkZWRlBJelZaZUdhMFBWOTlhc2czMW5IRFlzMGtYMkpxTHBWeUloVUY4QVhhRnBLZkFsOEViQ0NFVFNTOUU0RGJZOUxyZWs0bVBoSUJjeHlENFp5UWNKOEhvR2ZQNTF6X2RmUzliaS11U3ZJWkZ5M0gwM25qT3VkWFRIbGVtWg?oc=5",
-      "source": "The Sofia Globe",
-      "date": "2026-07-27T10:20:30+00:00",
-      "description": "Romania again scrambles F-16s over drone incident  The Sofia Globe",
-      "query": "drone incident",
-      "detected_at": "2026-07-27T16:19:01.566732+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bab58ab5eba7"
-    },
-    {
-      "title": "Deadly Ukrainian drone strikes hit Russia - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13TVhOcGJwMDZoRFVnTFhMd3BlRW9xUzgza2RfQldwUmdFYms3WVJuYkctZzE1US1NdUN3aDAzRXBxLWJJeGpKZlp1Qk91Nm9tNXNwc1hEN04?oc=5",
-      "source": "TRT World",
-      "date": "2026-07-27T13:31:13+00:00",
-      "description": "Deadly Ukrainian drone strikes hit Russia  TRT World",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-27T13:38:41.280871+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "80c5a7590801"
     }
   ],
-  "last_updated": "2026-08-14T01:54:09.375495+00:00",
+  "last_updated": "2026-08-14T04:08:20.035112+00:00",
   "total_count": 1000
 }
