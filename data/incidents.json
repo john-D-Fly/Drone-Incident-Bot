@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "NATO jets shoot down drone in Latvian airspace: spokesperson - CP24",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjhOODg0U1dKZTIwM0FLTVJBeTNPLXNyWnRuUV9qSmVaOEJ4Z21TcDk4SEdlN19ZUlFFYk9DN213QzdublBZMHhLcGI3UjBRcXQxXzFDdEpqWnVJUHJ0S0hzbC1XbXNNdTUySDNwZHg3LU5KSjl1Tmh2WWtFdU1TRWdlcTMyX3daaU4zVXNpaElKeWdmc3ZWVmpaSlhSNXlSQkZ0Z1ZR?oc=5",
+      "source": "CP24",
+      "date": "2026-08-14T14:42:24+00:00",
+      "description": "NATO jets shoot down drone in Latvian airspace: spokesperson  CP24",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-14T14:50:47.351311+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8be7ed84596c"
+    },
+    {
+      "title": "NATO jets shoot down drone over eastern Latvian airspace: Defense ministry - english.alarabiya.net",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHd4eDNrRXl3T3FaSlpQanY0azE5Q3U5YmlNNzdVRUJWLXJiTkEzTEtBeHdpVDlYYkdWeFdvZnp5WnFhOUczd3hpb0U0UWZqeWpqUXdwamhwVmVjLThBazFwOGRzOFhiMjBRYTI1QnRmVjdfeFhRQjM0YTVKNV9wdm1nQkx1eVZySXkzaDlWSWswZzVlSmVwYW1JRy1VcVVUOHfSAaIBQVVfeXFMUGx3eHgza0V5d09xWkpaUGp2NGsxOUN1OWJpTTc3VUVCVi1yYk5BM0xLQXh3aVQ5WGJHVnhXb2Z6eVpxYTlHM3d4aW9FNFFmanlqalF3cGpocFZlYy04QWsxcDhkczhYYjIwUWEyNUJ0ZlY3X3hYUUIzNGE1SjVfcHZtZ0JMdXlWckl5M2g5VklrMGc1ZUplcGFtSUctVXFVVDh3?oc=5",
+      "source": "english.alarabiya.net",
+      "date": "2026-08-14T07:20:00+00:00",
+      "description": "NATO jets shoot down drone over eastern Latvian airspace: Defense ministry  english.alarabiya.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-14T14:50:47.351311+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "714bf12c7748"
+    },
+    {
+      "title": "Three bomb-laden drones intercepted over Erbil, Kurdistan counter-terrorism says - Rudaw",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSTJhWnZGckkwWWhDeVdhMEVOVzBQV1c4a2ZWV2lKZ0lCYUJDZTFRTlFaSk0wc0hwbnpqRXhJejVmcGR6dkl3RXBYUm9LWmQzU0lOU3k5RDNESlVTNEI1dDg4X0F2U19aZHc?oc=5",
+      "source": "Rudaw",
+      "date": "2026-08-14T05:55:56+00:00",
+      "description": "Three bomb-laden drones intercepted over Erbil, Kurdistan counter-terrorism says  Rudaw",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-14T14:50:46.784969+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "6571e436eb17"
+    },
+    {
+      "title": "Drone crashes in Romania near border with Ukraine - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWl9HdzB6dmMwNGktUDRaV2JIbWE2SDJQVXB1bGIxZkJEZDdvaVBRaDAxV2JndS11WmRreE9jTVh2R1NqbFFaTmRpMzZGU0JqUmxFRlJtTjhpWDA3TzJjRXlob2tNNFBIYWEyM1NYS0RWV3otQ0NfMmFZQXVXaXVhMUlfU2lDdlNselJFSUlwMDRzbnhT?oc=5",
+      "source": "Yahoo",
+      "date": "2026-08-14T11:47:00+00:00",
+      "description": "Drone crashes in Romania near border with Ukraine  Yahoo",
+      "query": "drone crash",
+      "detected_at": "2026-08-14T14:50:44.630597+00:00",
+      "location": "near border with Ukraine",
+      "category": "crash",
+      "id": "fe5f6b59cb97"
+    },
+    {
+      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-14T13:08:35+00:00",
+      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-08-14T14:50:44.630597+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bea18e68c09f"
+    },
+    {
+      "title": "Prosperity man arrested after standoff that downed a drone, hurt a K-9 - wltx.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUEpOMDRZS3pBYWFjQUZGbXh6a3BHeDhESUNfcDllX0RVSDM0WHA5R1hnVGhXbElQc3hCT3QzYmNzanltVk4yVWhRSEwtdUFSMUo3R1o3YURfWGloYWNWRmlOOHpJM0s0UjhTYVF1TDJfT2FFZzlBVVY0WlltZXRGNmpXNEM5NGRycnZQMzE4THV5V0htdnZSUDFxTHgxUE9KV2NQZU81MllYZld4bFRUMWIxeTZXX0xMZFNZcldWX2tqdEFrdnpUTkNHQWp6R28?oc=5",
+      "source": "wltx.com",
+      "date": "2026-08-14T03:21:00+00:00",
+      "description": "Prosperity man arrested after standoff that downed a drone, hurt a K-9  wltx.com",
+      "query": "drone arrest",
+      "detected_at": "2026-08-14T14:50:42.483626+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "94fd9d328d75"
+    },
+    {
+      "title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-14T10:46:33+00:00",
+      "description": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'  CNBC",
+      "query": "drone incident",
+      "detected_at": "2026-08-14T14:50:41.865135+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a04bdac5d765"
+    },
+    {
       "title": "Kratos pauses XQ-58 Valkyrie flights after drone crashes during Utah test - aerotime.aero",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByT29CYkxPb1hVd1dKTFlYbUtlTkNZdzMwaTQ2WmFsUi1nUnl5clhEc2F0RjBaaDVzbFU0aExCTTZ3NkpXNURuSUtLMG10dDRkYU42WHdOYXRicmlPRkJGQXpfcWRZVWxLWlJrVktzMG4waTd4b2pTb1RWb0M?oc=5",
       "source": "aerotime.aero",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ee33eb121123"
-    },
-    {
-      "title": "Iran Unleashes Drone Storm: IRGC BOMBS Iraq’s Largest Gas Field Khor Mor After Bombing Kurdish Bases - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM1ZkVnV2eEpCaDZDZUhlUmhoU092V25vOVZtR282QjYzUHBROE56eGdVeUtKd0N1cW9SU2dHdVh3QlNHM1o3Tnhjb0dGVkc2OW5saHdHUTIzaHk0Zkdlbmt5V25MZExQak9JT2pLQVpGaTdoMkRvMVVfLWtvQ29BdWlYZ1pZbkF3N1I3ekJFR0RubVhycVlGYXA3aHltX2h1YlRrRWNqODU1MzhYazVteXJEZUE2VEE4bk5MX0p1dmNaTF9IbmdiUU5YcXJFT3d5Q1BWUWNTalZhd1hlZmdJZ0I4VXpMNlZ6bWVJZnRJTExaOUdEeDhsVVh5WGdONzRFZWZrLTNYQ25oeE3SAZACQVVfeXFMUGtJbTdkal9ON0R2MG9fSTNNSEQ2bUwtMnFsbnp3OU5KNjR3SjhhVTBSaDVzY2w2YUR6Z2gxYmVnbnMyakQwTkt0cU1CYUg4cG04RUo5RnNaVnFsSHhUQTJiaHV3ajN4YjEzTHQ4VEtaczJ4bUNmaVdGTFlER0lrZGQwMXBnbHpiSlFiQmZzY3FKRDJ0MmJvdW9za2d6eTlhaGpPOEU1dEpDTzdnNHI0M3FhU3NaQW1xSnVYeDBPbHZUN2xET21yeHZlakNmajFqZ0VlZUo3MkFTbTB5S1VfdE94VkZsa2gwZEVKTkxCWHA3M25fbDBfcFVEY29XS0RsZFQ0eEQxc0VxZHhwQ0ZfZ1U?oc=5",
-      "source": "The Times of India",
-      "date": "2026-07-28T06:40:34+00:00",
-      "description": "Iran Unleashes Drone Storm: IRGC BOMBS Iraq’s Largest Gas Field Khor Mor After Bombing Kurdish Bases  The Times of India",
-      "query": "drone crash",
-      "detected_at": "2026-07-28T07:37:29.537934+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "02e4473cba17"
-    },
-    {
-      "title": "VIDEO: Fire Rescue drone helps rescue lost dog from South Bay sugar cane field - WPEC",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNeHhvOUJjVHlKVm9hYU1tSjg3SEZleVRsYmFXeFY4QmE2a3JyZ2VQVmZhTVBqQjJIZTFOWTNwS1JTYlJOVkRyM09fblV2U01zZzVPMzVHYVRIVW1YWTAzX2tKMG1NVzVnRElkVm1vQ09TUE1TVUtJNUI5NmxZQmVJc3B6U1FWa2tIV3hTUTU4VFJOZnZXbVp1TVpNSk1QRUtRQU40SHBZa2FpWEVCMnFjZWh5ZUNZdkdKU1pTbVZvVjZoUXFTTHo3ay1xS1FxaE5DeGdhd3ZJS0N2Z043OEpQVjI3dE95OTRlNG1ocDlmbUhSbkpiZlM1RFRrNnR5S1gtZGUxd0dQeVR4bVBYREFSZVE4d2c2RlAzaDBKdmVRRFRCcHo4Z3NqTGZsWVVZV0REWkRHRGVqS3hEdmRoTy04MFBTMGNHWlNVd0pMWkJ3?oc=5",
-      "source": "WPEC",
-      "date": "2026-07-27T19:15:32+00:00",
-      "description": "VIDEO: Fire Rescue drone helps rescue lost dog from South Bay sugar cane field  WPEC",
-      "query": "drone crash",
-      "detected_at": "2026-07-28T07:37:29.537934+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e8e501edc399"
-    },
-    {
-      "title": "Drones and AI Used to Stop Iranian Agents Smuggling into Britain - VOI.ID",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaUUR0aU1aQlpFeV85WVVvX2RRZGd2Z2JuQ2NOY25tSEZxZk1EVXdJRHc2cWlIbXhFMXBSMDVWMk9iSG_SAUJBVV95cUxQdGpsSFFKMHJxUmlNUjNRTlBkTEd3RTltaWJOLWdrRnB0cnRZTzVoNGhDLXV2eEdSM2VycnZtdnJRQ1E?oc=5",
-      "source": "VOI.ID",
-      "date": "2026-07-28T04:11:12+00:00",
-      "description": "Drones and AI Used to Stop Iranian Agents Smuggling into Britain  VOI.ID",
-      "query": "drone smuggling",
-      "detected_at": "2026-07-28T07:37:27.760846+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "37a69532936e"
-    },
-    {
-      "title": "2 arrested after thwarted drone contraband drop in Washington County, sheriff says - WGXA",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRjNqSWUzT3pPRWZxdFVXM0xiMlNFU1Zia2UzYUZGV29wSWtOdTJZQ1JVTGF4QjVYUl93dUVHUlVNN3JkV2RiTzJoaFJOem9oU2RublY2MlhhQm9WbTdxdXBwcGd2b2ViZHVBTy1lX1E1ZDlRZ2JNM2JXdHBIS2hRcGNyRzF3S3RjQUtHN1JsTlliM2F4OV8zZVFmQ1NhQU1wNzJJVlJqTGNFQkgzRndRbUVKR0t2ekxtNzV3UTBUQ01UbWl4NkU0cGJjd0NfOXVIWmNmWE1FTFZEUnBVSVpIcGQ0cDFISWxpeGhuUkdiV1JCRHdhamlGcEhkaFRoeW1KWjdxZFZELWtwbUxHUElaQlRsWko5dnhXdDFrWk1qVUxFa0dlVEMxNWtGbFhGWnpqa3lTU2d1cTdjZzRobG4zYlgtT213RVRNeGdaWU9JZnE5dnBHc0hHN1ZFUXRYeDhLWTdsWlBFbFpWXzBWMUJGVURucVYzYTZNWGx0Z01sQmQ0Y3VWR2U2YXhB?oc=5",
-      "source": "WGXA",
-      "date": "2026-07-28T04:11:30+00:00",
-      "description": "2 arrested after thwarted drone contraband drop in Washington County, sheriff says  WGXA",
-      "query": "drone smuggling",
-      "detected_at": "2026-07-28T07:37:27.760846+00:00",
-      "location": "in Washington County, sh",
-      "category": "smuggling",
-      "id": "e379127183fa"
-    },
-    {
-      "title": "Romania expels Russian diplomat and recalls ambassador after repeated drone incidents - Romania Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGR3dUVSTWN6VTUzYmhtbVlUazdzSXdjMHpuQTJ1OFZINUFTZ0hGY180bmN4aEVISERYMkZNcXIwSFVONFkybkNyMjkxdFNvRm1CbXF6R3k2YWlPNHpvcU5sWExhNUtVWFZMWl9oZ0dzSGUycFZTVnJ1ZC1PeW9iM01PSVdnYThpQWc5enRpdi1hSFph0gGaAUFVX3lxTE5MdjFTVU9LaWhIbEFEU1lselBiT3Q1UHNBcW9RUWFKV2hYNE95cXBGeHk2c3JkeUx0WmRnVDRJLTZDS2VTRXNXZzRLeGxOTTVOV1p0QzlOWjRyRWVSbHlKWW5iUTJub3NmYV9vVDZjUmI3dzd0dlk4b1ZfbjlQZUthQ1hZQmNndzZsTDI1YW1xS1hDNFVsbVBtUmc?oc=5",
-      "source": "Romania Insider",
-      "date": "2026-07-28T06:48:02+00:00",
-      "description": "Romania expels Russian diplomat and recalls ambassador after repeated drone incidents  Romania Insider",
-      "query": "drone incident",
-      "detected_at": "2026-07-28T07:37:26.556850+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "14538ad3207d"
-    },
-    {
-      "title": "Jordan downs drone after airspace breach - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hVURzOTZYZXUzZjVMeU9wZ2RUaTZyZEZMYXRaVU1VdXdzZmdXbS16MnVmR2dub0duQktJY2IyU3pJUzItclVOaDZGOGhsRVpOdlQxR0lOUm0?oc=5",
-      "source": "TRT World",
-      "date": "2026-07-28T06:42:57+00:00",
-      "description": "Jordan downs drone after airspace breach  TRT World",
-      "query": "drone incident",
-      "detected_at": "2026-07-28T07:37:26.556850+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "1f1de8550f46"
-    },
-    {
-      "title": "After 700 Drone Seizures, What Did the FIFA World Cup Really Prove? - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcU9QdVNONEdkSTAwamM4QTRfM1F4UWlPNF95THRjaEQ3REVjUWp4Y1lVSWxqUzhiOGtiaE9UNHZrcVNQMHY5ZTNleWIyLWw4aktnRzlFU1I2c19xRUVTUkw1NEFtMmN2UmxXOWZQWUdENnIzcjVTSF9GZnRPYmVPSGRB?oc=5",
-      "source": "Dronelife",
-      "date": "2026-07-27T18:44:37+00:00",
-      "description": "After 700 Drone Seizures, What Did the FIFA World Cup Really Prove?  Dronelife",
-      "query": "unauthorized drone",
-      "detected_at": "2026-07-28T04:08:25.298173+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9983d88ca990"
     }
   ],
-  "last_updated": "2026-08-14T13:04:16.925891+00:00",
+  "last_updated": "2026-08-14T14:50:47.885615+00:00",
   "total_count": 1000
 }
