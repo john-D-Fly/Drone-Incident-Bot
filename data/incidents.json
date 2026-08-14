@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "WATCH: Drone crashes into hurdle at European Championships - Canadian Running Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTdiQ08tXzhRVEM0elRwbDhFbHA5TnI5Wlc0SHdpaTY5cU0xSnBxSU8zYzlqSzYxMDFoU0xhWXFwNWtMcmhDdHpaUjVXY29ZUmpFRlNiY3B1SHFqVTViZU9EQV8zaDFObTNkdmRMbS1qZjl5UEMxTmtnV3ZzSm4zcDY0TmROdUM3ZkU5NWlYYndrSkdMQzgtTHctaw?oc=5",
+      "source": "Canadian Running Magazine",
+      "date": "2026-08-14T16:32:35+00:00",
+      "description": "WATCH: Drone crashes into hurdle at European Championships  Canadian Running Magazine",
+      "query": "drone crash",
+      "detected_at": "2026-08-14T16:51:21.362493+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "5583c7beda4e"
+    },
+    {
+      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-14T00:20:17+00:00",
+      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-08-14T16:51:21.362493+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c32d7eb16e4f"
+    },
+    {
+      "title": "Drone crashes, sparks forest fire near Romania’s border with Ukraine - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWN3TjZlQW9aQkM0d1hOMVc4QmgtcFJhd19vR3NCWE85NEU3RXNhejhRQmJpZHlvaWdZZzBEd2lSc1gySjc2dmpZZDhURGVKZDZpNEt4UmppQ0FYYlFWdUpOZ1RKQTVCekpLekhsMzgtT0FyNWVhUXVtMHl5TGpMR2lRYmFWM0p1djJKcjhocWlFQTUzMnhnUVpRWE5yY0paNy1zU29jWVFzTlE?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-08-14T15:50:44+00:00",
+      "description": "Drone crashes, sparks forest fire near Romania’s border with Ukraine  Anadolu Ajansı",
+      "query": "drone crash",
+      "detected_at": "2026-08-14T16:51:21.362493+00:00",
+      "location": "near Romania",
+      "category": "crash",
+      "id": "c83d048e69c5"
+    },
+    {
+      "title": "What Happens When You Crash Your Drone In The Wilderness - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUDBKLUN3MnBHQUE0QTZKOXZISFhweGFQblROSXh6Wjg2Q1JWVGRrdHU2RE4zM1puaXpqelUtQ2pMWm5NRDRxdmJiVWtJOWlwakJaVG9xZXd2VlhKUG1veGx1RWV3NW9DanVqaTBUY1VidkRXa0NCb2NVZw?oc=5",
+      "source": "Yahoo News Singapore",
+      "date": "2026-08-14T16:19:59+00:00",
+      "description": "What Happens When You Crash Your Drone In The Wilderness  Yahoo News Singapore",
+      "query": "drone crash",
+      "detected_at": "2026-08-14T16:51:21.362493+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "642955e785c5"
+    },
+    {
       "title": "Helicopters, drones used in Schenectady illegal e-bike crackdown - wnyt.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzYtaGlWZnBBMHpVWTN5VEdGZ25lOVJFTjNiUUdnY0l5WFE2eXBzekhVZ1RPU0RXRmthUGdVOUlFVjZkRC1kZzNuRGJ6c1A3bVJaUUNsTVdhMFpqUFNfaC1JTVlKbTVrbEJYVjh3Z1BxZXVIZnoxVWxHLTV4TUtoREUzdXJFLUZaZWdNc2JBZXJrVzR4MjM0dA?oc=5",
       "source": "wnyt.com",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "fcff6fb82e4a"
-    },
-    {
-      "title": "NYPD drone captures teen subway surfers on video - WHSV",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd21WY28zdXVzMUhLQ0w5T2VSZ3htTlE3cTFBU0Y4SGdpSXQ3UUlZTEFILUpJb1d2dkJXNWFCY2R6eWZQZEpTdkdJZTRZU1MyamRMRy1sWE1kbkt6ek04TDJLaUlUOTBYMzM2QWtkY2UzcWdTMVRkZXZ3MnM0RUlyMzk2eW_SAZgBQVVfeXFMUFBDTEJEM0R1Nm9jOTJ0R2NJTlk4MGg2SjRpZ3U5M0huVFpjZUl5NVg5S29qNjZyWUhCbWZyUDBZLVI0S0FVNmFfZnBPTTJPcFEtQXNwMUI0bGExdEZGWk9WR1VadGYxLW9haENsd2t2eGdaZ09uNVIwTzhpU1MwZWVNNDEyMWdpR1lzQlpIUjVmV3VfRENpMTc?oc=5",
-      "source": "WHSV",
-      "date": "2026-07-26T19:19:00+00:00",
-      "description": "NYPD drone captures teen subway surfers on video  WHSV",
-      "query": "drone arrest",
-      "detected_at": "2026-07-28T15:20:18.841763+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "266a555bc908"
-    },
-    {
-      "title": "NATO member Romania shoots down stray drones from Ukraine war after years of incursions - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNllvRC1jdHRLejl6SzdRSDAtSWJxQll2QmdRU3JHMk9jRFYwMlRub3hvbmYtbDh1SmVvc0t3a3FhVFFQZ00yOG5OLWFIellQM1pKbXZ5ZmhLT0U1NHZrU3I4Y3pZMzRiQXhDM2Rnc0pHd1NhUXVJcVJYTG1SYk5lWnZSbFpIVW5qTEJRaU5DeEd4T3p2M0hOdjZSdExvV0hJTzlmbXltT3HSAa4BQVVfeXFMT3lBQkdtMG1RUnNZUmpuaG8xMkd3NjA4TzhoZGc5eWx4anpING5Cbmc1WGxZUVN4bFdob3Z0aHVJaWxoeEpRalp6dzFBWGZNZlc4dVFrOG0tYnFjZm44Ymw5aTd5UVVCRl9rRjFLc2pWOGZjbmVENUx6R2Zad3NaX3NHdEpnQ0IxeEhNZU1RVVZGNlM5bjZFNEhwc1M2MzFZdUFZbUszaldzS3MteU5B?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-07-28T15:00:10+00:00",
-      "description": "NATO member Romania shoots down stray drones from Ukraine war after years of incursions  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone incident",
-      "detected_at": "2026-07-28T15:20:18.259869+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f44047873e09"
-    },
-    {
-      "title": "Missile strikes kill civilians in Kyiv, other Ukraine cities; Russian-held areas also hit - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGVRUHVnRkRNblRHUk9DcGk5QmFjdzhLZ1pqdjhnNXhZWDJSV2dBRTBPbVk4UUxGeG84YzFveW5xRkRxSFBkT1JPTmtxbUlxYkRTd2YwRXA2cURvUGlHZnVETEhNRUFLUVQtSE1kUHhzZTFzejNjeW1zUXIxZm9aeFFNVnN0LVpaV0ppSC1DcjlNZFNzZnpSUkNOcXhudEN5V042UFdPV0NOcm9XOGstWGc5YmswUkdnMVhqNzUxZUFHX2M?oc=5",
-      "source": "Japan Today",
-      "date": "2026-07-26T22:10:12+00:00",
-      "description": "Missile strikes kill civilians in Kyiv, other Ukraine cities; Russian-held areas also hit  Japan Today",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-28T12:52:54.294272+00:00",
-      "location": "in Kyiv, ot",
-      "category": "other",
-      "id": "8856c7d413c9"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWtBZ2NFQWdpMUQ5dkRMZHpMVElFNkZNZnNWRzV1eHZZanc1ZHJRQWkyMnNxM2dvbGRua3pSTTcxTlpuSDVTcGtpUFpaUmJ0MDBZTUVaeFlINjF0ZnZHdi01UWlZNnJFZ3NheEZ6bXk1SF9ZYzdXbXVqMGFxdVl2ejdqc3c2cEdUX2FtUDdMR0lPaGFLQ1B6ZDdfc2t3X2RzNEE4aHFlU3loYlZETXg2dmpRTVp3VWp0R0NmaXRWR1RGYVYwMDdsQw?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-28T00:30:13+00:00",
-      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-07-28T12:52:52.725842+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8ddca5813728"
     }
   ],
-  "last_updated": "2026-08-14T15:50:58.053656+00:00",
+  "last_updated": "2026-08-14T16:51:23.812856+00:00",
   "total_count": 1000
 }
