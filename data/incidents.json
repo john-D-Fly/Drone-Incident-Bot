@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "\"No Drone Zone\" established for Maryland State Fair - WMAR 2 News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGE3NFZkNll2dFBYbFFQZ1Y1ekFpMXFFLUp3SXBuUmMyVTNxX2NpUzJHd1ZIWHgwR0tOdFRTVWVjSXhmSHlSYWNzQ2JUaVpOdlc4ci1td3ZkWFVBR01zbHl4NG5GRzZvVHJtQnEwcmlON3k5cm5mdjYzTU1VY25IR1JkOV95NVJDWVVPR1N6d3ltU2twMU84SFI5XzRhY0x2V3hEOUlhcw?oc=5",
+      "source": "WMAR 2 News",
+      "date": "2026-08-14T18:55:24+00:00",
+      "description": "\"No Drone Zone\" established for Maryland State Fair  WMAR 2 News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-14T19:47:10.107334+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c61eeb3371ef"
+    },
+    {
+      "title": "Texas Senators Examine Growing Cartel Drone Threat Along Southern Border - texasscorecard.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnliUUp5QktYcE1EZVVqQ3EzWElTX1lieWZBY2ZLdWZJRVVENk9FS3lRZXU5aThHXzYtU0FVaGJpTG1yQlpYUlB4emwybktVTkczdTE1eEJkOW5PYk5YcGJlYzRSTUVUdG5ULUNqUmNMczNLeFFvMkRLbVRFV2lVd2lzSTlja2picHlIVVBiMzFoLVhJZ25aMWlDV0ZBMGJoMlVWc3M4cEJNdw?oc=5",
+      "source": "texasscorecard.com",
+      "date": "2026-08-13T17:05:28+00:00",
+      "description": "Texas Senators Examine Growing Cartel Drone Threat Along Southern Border  texasscorecard.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-14T19:47:06.672538+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "f8cc1bec029f"
+    },
+    {
+      "title": "Three Michigan men arrested after alleged attempt to get contraband into FCI McDowell using a drone - WVNS",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYjJMamRwWDliYVN2anBHc2hHRnY5VjV5R1hOM1pSaDBjcWY4SFo0M3d6V2o4clFkaGhMaUIzcWIwZEoweFNESXVrb2E3VXNkUnBSVXNHNEtjOVVId0lYT1dwZkRPdDh5MXdnVDhPcXM4bndnRTFIX0NBTGhzVk8ycjVEVjRKVE95aUFrTFFSQTFsQkxZbDdYR09ldjRHRTQxWHU4emRqT2s3TGhteWx2Z1VhdTU0Umdkamw1QngzTWtIdlVnUGthTXNBMmE1eXp0MGlxcl9zTnlLUVdoSkdsanVoT0tfQnlmX1BVTNIB8gFBVV95cUxQVEU1Z1NnOFRjczZGYXFvN19DREN0aUhTcDlwUERvanV1c2ljVlRpTTBBMVlDbE4tQzBRQW5jNU40OW1fWjNmTzk5U2RoV3FtT1BpbjV4aWg2V1gyU1V3cktUdFBacWx5LS1LcTI4T0FYeGVTc19oZU9DdHdrUTduNzNOUElROUEtSFNEZEFFUS1Kak5fN0NLdkVOR1NrVWtGcU9LZFl6WkVGTEpveXZRTkVqTkZPbUtMVzFVdGdKREJOdlNOdHBEMEdWMjNBUkl2NWp4MzJHSXo4dFAySFpwd1JSOUxhaFJhWGhCSTJLcHB5dw?oc=5",
+      "source": "WVNS",
+      "date": "2026-08-13T22:01:26+00:00",
+      "description": "Three Michigan men arrested after alleged attempt to get contraband into FCI McDowell using a drone  WVNS",
+      "query": "drone arrest",
+      "detected_at": "2026-08-14T19:47:06.220238+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "bb7a763865dd"
+    },
+    {
+      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-14T19:28:30+00:00",
+      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-08-14T19:47:05.660452+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d16be8cb096c"
+    },
+    {
       "title": "Three bomb-laden drones intercepted over Erbil, Kurdistan counter-terrorism says - Rudaw",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSTJhWnZGckkwWWhDeVdhMEVOVzBQV1c4a2ZWV2lKZ0lCYUJDZTFRTlFaSk0wc0hwbnpqRXhJejVmcGR6dkl3RXBYUm9LWmQzU0lOU3k5RDNESlVTNEI1dDg4X0F2U19aZHc?oc=5",
       "source": "Rudaw",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "46e0ae9a3c8d"
-    },
-    {
-      "title": "N.C. Sheriff's Office, Duke Expand AED Drone Program With 2 New Launch Sites - officer.com",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONnZUT2s5SnJ1R09MUTlCTUc0VGZzRXh1OUdkNnQ5eWJ0ZjJ6djc5bzF3TzhIazUxdTBIOXpBanBTMlU4RVpOVVYyamZ0ZDYyaUlzd3FLTnp0OXdSUXpKMGwtcjVvWVUtNG5mYmJBTE5za28xWTg4ZzVVZHZQMnh1eXhBMWx6MlhJT3dSajF2NW1Tbk53NWtDTVRYZUpVLXJwd191UWp4a0Rqbm94NmlGYXdrQVFaUmdfX2dpYWF6ZmN2a3VHaGJIU2M0Q2VQaGt0ZXk5QlREMVlDdkFaaXowZ1hNUWZrLWdRcThsbldZeWlCcUIwOXNYSEQ2SVMxdGhRckhZTDlPcVVUdC1DTkpKb0pHaW80dE9PNTFJ?oc=5",
-      "source": "officer.com",
-      "date": "2026-07-28T18:12:27+00:00",
-      "description": "N.C. Sheriff's Office, Duke Expand AED Drone Program With 2 New Launch Sites  officer.com",
-      "query": "drone arrest",
-      "detected_at": "2026-07-28T19:22:39.124482+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d6745fa30232"
-    },
-    {
-      "title": "Jordan shoots down drone after airspace breach - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVW9yRksyWFFRR0lEODlYbHFMbHUzSFBPMFVaQW4zVG9rTzdPdWpiaEFUZlpiNWY4Ri1qaW1mS0hWUFF6QXl2Zy1yTjJDSDVFeks5RlJHOHZaRFNGaVhiTTNsSnZ0UGQ1aFg2OExnUExxR0I3WUl0UHlJS3VRSEx2MFlZY2RqSWdrY3hMV1JSRWp6YklvYWc?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-07-28T06:14:25+00:00",
-      "description": "Jordan shoots down drone after airspace breach  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-07-28T19:22:38.346377+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "7c9445c09187"
-    },
-    {
-      "title": "NATO member Romania shoots down stray drones from Ukraine war after years of incursions - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNllvRC1jdHRLejl6SzdRSDAtSWJxQll2QmdRU3JHMk9jRFYwMlRub3hvbmYtbDh1SmVvc0t3a3FhVFFQZ00yOG5OLWFIellQM1pKbXZ5ZmhLT0U1NHZrU3I4Y3pZMzRiQXhDM2Rnc0pHd1NhUXVJcVJYTG1SYk5lWnZSbFpIVW5qTEJRaU5DeEd4T3p2M0hOdjZSdExvV0hJTzlmbXltT3HSAa4BQVVfeXFMT3lBQkdtMG1RUnNZUmpuaG8xMkd3NjA4TzhoZGc5eWx4anpING5Cbmc1WGxZUVN4bFdob3Z0aHVJaWxoeEpRalp6dzFBWGZNZlc4dVFrOG0tYnFjZm44Ymw5aTd5UVVCRl9rRjFLc2pWOGZjbmVENUx6R2Zad3NaX3NHdEpnQ0IxeEhNZU1RVVZGNlM5bjZFNEhwc1M2MzFZdUFZbUszaldzS3MteU5B?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-07-28T11:04:55+00:00",
-      "description": "NATO member Romania shoots down stray drones from Ukraine war after years of incursions  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone incident",
-      "detected_at": "2026-07-28T19:22:38.346377+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1cccb961c9e9"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWtBZ2NFQWdpMUQ5dkRMZHpMVElFNkZNZnNWRzV1eHZZanc1ZHJRQWkyMnNxM2dvbGRua3pSTTcxTlpuSDVTcGtpUFpaUmJ0MDBZTUVaeFlINjF0ZnZHdi01UWlZNnJFZ3NheEZ6bXk1SF9ZYzdXbXVqMGFxdVl2ejdqc3c2cEdUX2FtUDdMR0lPaGFLQ1B6ZDdfc2t3X2RzNEE4aHFlU3loYlZETXg2dmpRTVp3VWp0R0NmaXRWR1RGYVYwMDdsQw?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-28T15:38:14+00:00",
-      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-07-28T17:26:21.200608+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0ea7ead9f00c"
     }
   ],
-  "last_updated": "2026-08-14T18:52:44.511068+00:00",
+  "last_updated": "2026-08-14T19:47:10.571544+00:00",
   "total_count": 1000
 }
