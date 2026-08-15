@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Italian NATO fighter jet shoots down drone in Latvian airspace - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWFVYndJZEl2RHczYUh6YTE2MDZVS3dQNkdpZW5NRE95Z2xqcjVJcEtYY1JXbUlYbWZQYXFxdUdtcE9fRDIxMkRRcEhFZ3JJbkdkdlE1TmVGdHF5VDFpNEVwdDllcmZtMHRsWExkVWVhbE1Tc09QQWc3YXR6SFRoalRZQ19qUHlIdVRTdHZRYnB4bDMtRlB3NjVVWGZwUEMzTU5tZ3pYeHlJYnVvaHg0Wmk0SWlFS2xXLTBqdUFxT0RmcUgxR25Qdjc5SUNJZGRS?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-14T02:25:00+00:00",
+      "description": "Italian NATO fighter jet shoots down drone in Latvian airspace  Reuters",
+      "query": "drone crash",
+      "detected_at": "2026-08-15T07:29:37.609604+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6b3ced0ec353"
+    },
+    {
+      "title": "Maritime Incident Reported Near Strait of Hormuz After Drone Attack Hits Vessel - wanaen.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVlFZktPS2dSZTA0NVp2c2JzYjNpeVdOeXJKVzBvb3ppdEpwaER0SlJQUEhTTlJyLVV5S19malNTNEFYcWJDMWM3djcya1NVYmJvQ09IdUZybVRjZXRyelBnWncwVDZ1ZUJwbjJFSHpTWkFBeVJZS29UOUFhTEtfVHpDZF9Md2FPXzdfWGNnZ3A5SGt6anNtTEdFUm1SUHdt?oc=5",
+      "source": "wanaen.com",
+      "date": "2026-08-15T07:28:37+00:00",
+      "description": "Maritime Incident Reported Near Strait of Hormuz After Drone Attack Hits Vessel  wanaen.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-15T07:29:34.858304+00:00",
+      "location": "Near Strait of Hormuz After Drone Attack Hits Vessel",
+      "category": "other",
+      "id": "60c23cf7d14b"
+    },
+    {
       "title": "WATCH: Drone crashes into hurdle at European Championships - runningmagazine.ca",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTdiQ08tXzhRVEM0elRwbDhFbHA5TnI5Wlc0SHdpaTY5cU0xSnBxSU8zYzlqSzYxMDFoU0xhWXFwNWtMcmhDdHpaUjVXY29ZUmpFRlNiY3B1SHFqVTViZU9EQV8zaDFObTNkdmRMbS1qZjl5UEMxTmtnV3ZzSm4zcDY0TmROdUM3ZkU5NWlYYndrSkdMQzgtTHctaw?oc=5",
       "source": "runningmagazine.ca",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "0915052f4326"
-    },
-    {
-      "title": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75 - aol.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVNGa1VFMHdxWWVEWFVSaEdaQ2JpVEdCdWluVU1kVUdnQ2hnWDJCbnZFYlc0bHJ4NXdqSWpmZXI3aHI4VWZNb1pLZENRa2c0MWtRZUdHN2xFcHFjWDR0UGFzN3dWTU9vRDc4aE1pVG1FLW9sNnRpM3hleDYzc0lONG5PVzQ?oc=5",
-      "source": "aol.com",
-      "date": "2026-07-28T18:12:22+00:00",
-      "description": "Butts County drone contraband bust: Deputies intercept prison delivery on I-75  aol.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-07-29T19:14:46.544187+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "72f995e4ee78"
-    },
-    {
-      "title": "Explosions reported at Egypt's Damietta Port, security officials suspect drone attack - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pRTJaZkpBT2FCUlJHanFLd2RaUHRQRXJPYWdnc0JtZURBeDVybUQ2QTdNelRUZ3hzMWFkeWMtcnY5UXNrUWFhRC1mOGQwdnQ4UjlQNTNPTndaS3ZR?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-07-29T16:43:32+00:00",
-      "description": "Explosions reported at Egypt's Damietta Port, security officials suspect drone attack  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-07-29T19:14:45.314436+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fd877e323871"
     }
   ],
-  "last_updated": "2026-08-15T06:36:27.146965+00:00",
+  "last_updated": "2026-08-15T07:29:40.402073+00:00",
   "total_count": 1000
 }
