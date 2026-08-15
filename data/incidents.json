@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "\"No Drone Zone\" established for Maryland State Fair - WMAR 2 News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGE3NFZkNll2dFBYbFFQZ1Y1ekFpMXFFLUp3SXBuUmMyVTNxX2NpUzJHd1ZIWHgwR0tOdFRTVWVjSXhmSHlSYWNzQ2JUaVpOdlc4ci1td3ZkWFVBR01zbHl4NG5GRzZvVHJtQnEwcmlON3k5cm5mdjYzTU1VY25IR1JkOV95NVJDWVVPR1N6d3ltU2twMU84SFI5XzRhY0x2V3hEOUlhcw?oc=5",
+      "source": "WMAR 2 News",
+      "date": "2026-08-14T18:59:35+00:00",
+      "description": "\"No Drone Zone\" established for Maryland State Fair  WMAR 2 News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-15T13:29:05.576626+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "df78bd325b3a"
+    },
+    {
+      "title": "Drone attacks test Iraq’s Sept. 30 weapons deadline - Shafaq News | Latest breaking news in Iraq and the world - shafaq.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOU5oQzViUVRUVTRRTV8tTjRZVXNmMEt3TzFVNnloemUtdzZlbnhCeTVYQU1ITThEQjVXLTdZYVQyNHFtYVhYV0R4TlJBaWZnMjBZLVdXOWFxLVRoMm95Y3pOWWJ3UEo1dG9tU1JteFlENVRMQUkyZXh1MVl3TUZDTWNqaVdFeENDanc?oc=5",
+      "source": "shafaq.com",
+      "date": "2026-08-14T23:12:56+00:00",
+      "description": "Drone attacks test Iraq’s Sept. 30 weapons deadline - Shafaq News | Latest breaking news in Iraq and the world  shafaq.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-15T13:29:05.032566+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "ed654eef1704"
+    },
+    {
+      "title": "Russia, Ukraine trade overnight drone strikes targeting port, industrial facilities - anews.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRFVkQ1cFFsa2JNOHNzNE16eUFPVG00c3Z5bnlCQW5XQmVzVmpxZHFNZHFta1V1Wml1elc4SnpKaGZ0MkpEYzA0MFg3N2UyWG1IU25QZjNRT1ZvWG4ySzZTQUxnQk5oR091MC1JSXktWHBpd1lLS0RaN05SeEN5dkdCRUItSWJqN1hVajlYSm1ndnZtVmRVOEpuSElIaGhYYWRqM2gzaGIzVnZyV1N4cWljajR2blQ2dFJ3blFlZzDSAcYBQVVfeXFMT0FROHhxbzZJb2c1LWlENHBrRjNucmtTVl96ZE5TdTNEN0dkVXl5ZTIzZXhxYTdrVEw1ZC16ZUZzZnFueGFINzMtbXNnNGJWejBRemNvZWNOQlhXd2wzVE9BZm5uQmJ6cW95WVBnZE1rd2tCXzMta0txZzhIa0h3M2ZScWZRdWp0REdjMXdvekpOTUdDX1huZzFOZC10Y3ZDaFMxYUxwZ1BOWXVuZjUyb0V6NUhwSFpaY0ZWTC02dDV1ZThaT2RB?oc=5",
+      "source": "anews.com.tr",
+      "date": "2026-08-15T11:34:03+00:00",
+      "description": "Russia, Ukraine trade overnight drone strikes targeting port, industrial facilities  anews.com.tr",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-15T13:29:05.032566+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2b34353f2d1e"
+    },
+    {
+      "title": "Texas legislature evaluating ways to support law enforcement fighting cartel drones - Barron News-Shield",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTVXbm9EUW5pbUFBX3diTTNkZWJqTmRfNng4Y1o2ODBkaEhPc18tMnJubjR2aHJabEdPd3FvcllYbG8tZHdBLWp1TGxWLUdSaEY2LXh0SVJqZHlzRlJocDMzNjNpbTFDSDFPX0F4UmFteVQ3a3dqaGQtOFJDaEtWMW5vU1ptTEs0enJjdEpLUWxDYXlRbWc?oc=5",
+      "source": "Barron News-Shield",
+      "date": "2026-08-14T19:17:00+00:00",
+      "description": "Texas legislature evaluating ways to support law enforcement fighting cartel drones  Barron News-Shield",
+      "query": "drone illegal",
+      "detected_at": "2026-08-15T13:29:04.003484+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2f2bc238bca7"
+    },
+    {
+      "title": "Arrests Of Top Figures In Russia's Drone Industry Highlight Claims Of Wartime Corruption - Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPai1mOXpibjhIRG92S21oQTVhZmw2clZ2Mkd4TWxLZ0lXNG9FcVpSc2gzQUVMUUJNTE15VVlMSWViLW1NSGQ0Z01pOTVTZERlbElCbTZFWjM4LTJMMnRXVU9IeHg0d1NYeXZCT1hkSnFQTHY1a1dzVUcweV9oRlhTdFVpc2ctcUxJX0HSAYwBQVVfeXFMT1hMUWFVSG9JLVBCMDd4RXhIT2RUQVFSbWFTcUpuX3JwZ0daNXdNYXRPaU5KY2FVcnRlS3RfUFVkaWsxUWRHQ05Ed0tjdXVLMnJsX3JlbjZYaUI4S2tSQUNGbDVwaFlUdUk3a09mendPaWpxZUQwXzBpWFJWUTFzSENUd3R4WmxlSDR6NjQ?oc=5",
+      "source": "Radio Free Europe/Radio Liberty",
+      "date": "2026-08-15T09:37:23+00:00",
+      "description": "Arrests Of Top Figures In Russia's Drone Industry Highlight Claims Of Wartime Corruption  Radio Free Europe/Radio Liberty",
+      "query": "drone arrest",
+      "detected_at": "2026-08-15T13:29:01.526012+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "bccc663c1cce"
+    },
+    {
       "title": "Russia, Ukraine trade overnight drone strikes targeting port, industrial facilities - A News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRFVkQ1cFFsa2JNOHNzNE16eUFPVG00c3Z5bnlCQW5XQmVzVmpxZHFNZHFta1V1Wml1elc4SnpKaGZ0MkpEYzA0MFg3N2UyWG1IU25QZjNRT1ZvWG4ySzZTQUxnQk5oR091MC1JSXktWHBpd1lLS0RaN05SeEN5dkdCRUItSWJqN1hVajlYSm1ndnZtVmRVOEpuSElIaGhYYWRqM2gzaGIzVnZyV1N4cWljajR2blQ2dFJ3blFlZzDSAcYBQVVfeXFMT0FROHhxbzZJb2c1LWlENHBrRjNucmtTVl96ZE5TdTNEN0dkVXl5ZTIzZXhxYTdrVEw1ZC16ZUZzZnFueGFINzMtbXNnNGJWejBRemNvZWNOQlhXd2wzVE9BZm5uQmJ6cW95WVBnZE1rd2tCXzMta0txZzhIa0h3M2ZScWZRdWp0REdjMXdvekpOTUdDX1huZzFOZC10Y3ZDaFMxYUxwZ1BOWXVuZjUyb0V6NUhwSFpaY0ZWTC02dDV1ZThaT2RB?oc=5",
       "source": "A News",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "29ed07cfd3a7"
-    },
-    {
-      "title": "A Houston man allegedly flew a drone during the World Cup to video his church. He could face a year in prison - Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUkxGNGlfdGFpTi1nV0o1Y0FGaGNubGp3U1M2ZVh5WmwtV2NNclRuZzZLQWRjN3JlVkp3bndaai0zQ05DcXI2NmlxODF3ZGd0cVEzZXgwNWRjNzZDaVpRZ1NsOUlVWkxZd1ZZUEJlX19RWUZxTzY3aUxUZF9DQUc0c2dQTlA4cGoxdHo4NDVWTFNHWC1LZ3dBM3pocG1INXE2elNMUGZlNTdhbG1SV0JhQWlZanFjdDBYQ0s4MnNyUHhjRldNOWFIOHQzam5BQm96cUVmdW9YTjFjc2FV0gHkAUFVX3lxTE5oZ25jc0FJUHlzQUhkekdBYXY5eFI1TkstaDZGeEJ2UFBTWUdkYmJBQnRsMXpsc0ZoOW5YWXFDSkZiVjFKUFRLVnNOZG1QYlV5Qzd3bzlDTENzc291OUo2aXNuZVpYbDV6ekVZZ3pJMnBuRUtQNzVhblBFZC03YnBmZ3ExcFB4bUNWZjFtQXQ2TTd2RFRsa0h1T0ZLaDZhZ0JhUFRvXzJfYnY0WUM5Nkk5WjNfQW1yZEs1TktTS0R0V1I5WExlX3gzaHFicDQwQ09IakNYemQyQno1eTRJaDE3UlVpcA?oc=5",
-      "source": "Houston Public Media",
-      "date": "2026-07-29T19:47:01+00:00",
-      "description": "A Houston man allegedly flew a drone during the World Cup to video his church. He could face a year in prison  Houston Public Media",
-      "query": "drone prison",
-      "detected_at": "2026-07-29T23:58:37.365207+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "5b56df0de5eb"
-    },
-    {
-      "title": "Israel to 'respond' after 'drone' hits bulldozer in south Lebanon - Naharnet",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUG1EbXlieG1sSUNHeWJWOHh4ZlpOR1JSNmRsbF9ReHNGSTJ5d3hOeXl4V1lTeE1NalR0UjVfMkVweGlOa2RHVks3SVBKWDZ2a01oa0pqNk44RF9TSjFmdmFCZXlGZnZNb1VLR0t6UXBJbUx6cG10c0s2UkdMREkydmpfRG1jN3NOTXczRU12UTFqX2tLQk9FNV85a05PbXZEemJhcHJXOA?oc=5",
-      "source": "Naharnet",
-      "date": "2026-07-29T11:36:00+00:00",
-      "description": "Israel to 'respond' after 'drone' hits bulldozer in south Lebanon  Naharnet",
-      "query": "drone incident",
-      "detected_at": "2026-07-29T23:58:35.788569+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a1d33807d4be"
-    },
-    {
-      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-29T22:29:19+00:00",
-      "description": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-07-29T23:58:35.788569+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fce32cf84ec3"
-    },
-    {
-      "title": "Drone hits gas storage tanker at Egyptian port, signaling possible expansion of Mideast war - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeWdMc0V3VnRjUktleml3Uk1NbTV1MmY3WUwzbk9NTW9vektEcW41Zi1UVzY5S28yUDRvZ1FIb2NWdXFqNE1fMVZZZmhUV0tXN1ROeXpRSXc2M3dielBqLXlHZEd0UXM0MU1tWjdjT3ZYVk01aXg3SmVSTmxfeDEzcWJhaFNNdW5yQmtERlVQMXlCYWVzR2tTSTl3RWVVblBWUTR2cTY3bjNzQ09pNjR3WHdXWGJKZjR2clpraFJ0azFRa2lhamNsd2FYTmUzU1hCMnc?oc=5",
-      "source": "The Times of Israel",
-      "date": "2026-07-29T16:25:33+00:00",
-      "description": "Drone hits gas storage tanker at Egyptian port, signaling possible expansion of Mideast war  The Times of Israel",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-29T22:00:40.629440+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a50f8987aabe"
-    },
-    {
-      "title": "A Houston man allegedly flew a drone during the World Cup to video his church. He could face a year in prison - houstonpublicmedia.org",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUkxGNGlfdGFpTi1nV0o1Y0FGaGNubGp3U1M2ZVh5WmwtV2NNclRuZzZLQWRjN3JlVkp3bndaai0zQ05DcXI2NmlxODF3ZGd0cVEzZXgwNWRjNzZDaVpRZ1NsOUlVWkxZd1ZZUEJlX19RWUZxTzY3aUxUZF9DQUc0c2dQTlA4cGoxdHo4NDVWTFNHWC1LZ3dBM3pocG1INXE2elNMUGZlNTdhbG1SV0JhQWlZanFjdDBYQ0s4MnNyUHhjRldNOWFIOHQzam5BQm96cUVmdW9YTjFjc2FV0gHkAUFVX3lxTE5oZ25jc0FJUHlzQUhkekdBYXY5eFI1TkstaDZGeEJ2UFBTWUdkYmJBQnRsMXpsc0ZoOW5YWXFDSkZiVjFKUFRLVnNOZG1QYlV5Qzd3bzlDTENzc291OUo2aXNuZVpYbDV6ekVZZ3pJMnBuRUtQNzVhblBFZC03YnBmZ3ExcFB4bUNWZjFtQXQ2TTd2RFRsa0h1T0ZLaDZhZ0JhUFRvXzJfYnY0WUM5Nkk5WjNfQW1yZEs1TktTS0R0V1I5WExlX3gzaHFicDQwQ09IakNYemQyQno1eTRJaDE3UlVpcA?oc=5",
-      "source": "houstonpublicmedia.org",
-      "date": "2026-07-29T19:47:01+00:00",
-      "description": "A Houston man allegedly flew a drone during the World Cup to video his church. He could face a year in prison  houstonpublicmedia.org",
-      "query": "drone prison",
-      "detected_at": "2026-07-29T22:00:38.117299+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "614818b2ad4b"
     }
   ],
-  "last_updated": "2026-08-15T12:35:44.190044+00:00",
+  "last_updated": "2026-08-15T13:29:06.128811+00:00",
   "total_count": 1000
 }
