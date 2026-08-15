@@ -1,0 +1,130 @@
+{
+  "narrative_summary": "In the past 48 hours, drone-related incidents have predominantly occurred across Iraq, Ukraine, Latvia, and the U.S. A significant concern has emerged with the use of drones in terrorism-related activities, as evidenced by the ongoing drone attacks in Iraq and Ukraine's retaliatory actions against Russian forces. The U.S. is witnessing an increase in arrests linked to drone smuggling, especially concerning contraband delivery to prisons. Meanwhile, a new 'No Drone Zone' has been declared around the Maryland State Fair, further highlighting regulatory responses to unauthorized drone flights. There are also reports of various crash incidents, particularly in Romania, raising safety and environmental concerns.",
+  "totals": {
+    "terrorism": 6,
+    "other": 22,
+    "airport": 6,
+    "smuggling": 5,
+    "arrest": 11,
+    "crash": 10,
+    "interference": 2,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 7,
+      "arrest": 13,
+      "crash": 19,
+      "interference": 2,
+      "other": 62,
+      "smuggling": 10,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 19,
+      "drone crash": 33,
+      "drone illegal": 8,
+      "drone incident": 11,
+      "drone prison": 2,
+      "drone smuggling": 10,
+      "drone terrorism": 21,
+      "unauthorized drone": 13
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Terrorism",
+      "rationale": "Drone attacks and military responses in urban conflict areas",
+      "incident_ids": [
+        "ed654eef1704",
+        "2b34353f2d1e",
+        "4df61fb82c2d",
+        "078c79fd4f43",
+        "5d73e403f785",
+        "aa81ee10513f"
+      ]
+    },
+    {
+      "topic": "Regulation",
+      "rationale": "Increased state regulations responding to concerns over unauthorized drone flights",
+      "incident_ids": [
+        "df78bd325b3a",
+        "62cdb3604b2e",
+        "f33d2f3164ad"
+      ]
+    },
+    {
+      "topic": "Drone crashes",
+      "rationale": "Increased incidents of drone crashes reported, particularly in Romania",
+      "incident_ids": [
+        "900c7898b139",
+        "d53c1f8b8c28",
+        "32f096bfb168"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ed654eef1704",
+      "headline": "Drone attacks test Iraq’s Sept. 30 weapons deadline",
+      "one_sentence": "Drone attacks in Iraq raise concerns about adherence to imminent weapons deadlines.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2b34353f2d1e",
+      "headline": "Russia, Ukraine trade overnight drone strikes",
+      "one_sentence": "Drone strikes exchanged between Russia and Ukraine target critical infrastructure.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "df78bd325b3a",
+      "headline": "\"No Drone Zone\" established for Maryland State Fair",
+      "one_sentence": "A 'No Drone Zone' has been established to prevent unauthorized drone activity during events.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "900c7898b139",
+      "headline": "Drone crashes spark forest fire near Romania’s border with Ukraine",
+      "one_sentence": "A drone crash has caused a forest fire near the Ukraine-Romania border.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f5acbeab7be3",
+      "headline": "Three Michigan men arrested after drone contraband attempt",
+      "one_sentence": "Three men have been arrested following an attempt to smuggle contraband into a federal prison using a drone.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Intensifying drone incidents highlight rising concerns in terrorism, regulation, and safety across multiple countries.",
+    "linkedin": "Recent drone incidents show escalating concerns in terrorism and regulatory measures being adopted worldwide."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-15"
+}
