@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "\"No Drone Zone\" established for Maryland State Fair - wmar2news.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGE3NFZkNll2dFBYbFFQZ1Y1ekFpMXFFLUp3SXBuUmMyVTNxX2NpUzJHd1ZIWHgwR0tOdFRTVWVjSXhmSHlSYWNzQ2JUaVpOdlc4ci1td3ZkWFVBR01zbHl4NG5GRzZvVHJtQnEwcmlON3k5cm5mdjYzTU1VY25IR1JkOV95NVJDWVVPR1N6d3ltU2twMU84SFI5XzRhY0x2V3hEOUlhcw?oc=5",
+      "source": "wmar2news.com",
+      "date": "2026-08-14T18:55:24+00:00",
+      "description": "\"No Drone Zone\" established for Maryland State Fair  wmar2news.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-15T03:37:45.214723+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5d73e403f785"
+    },
+    {
       "title": "FAA bans drone flights around Maryland State Fair grounds - cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmxXd2xHeU0tQ3BWWldTVFo4NTB4SlZTLTcyd3JPUE9sTlpVaVlpRWlZWUJhbm1zTHVXU3VsY09wT2lSTmV6YXQ3aWJZSC1qbkoyU1VCWTdCTnpsVkhfY200bEc4N25nWnYwVWRRcEswXzhxWUMwdUZfRFZtWWM1LU5uSkFvT0ZXX0I0SE52TF9XLXhYUDMwcVczdXhSQQ?oc=5",
       "source": "cbsnews.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7e1e8791bc73"
-    },
-    {
-      "title": "Explosions reported at Egypt's Damietta Port, security officials suspect drone attack - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pRTJaZkpBT2FCUlJHanFLd2RaUHRQRXJPYWdnc0JtZURBeDVybUQ2QTdNelRUZ3hzMWFkeWMtcnY5UXNrUWFhRC1mOGQwdnQ4UjlQNTNPTndaS3ZR?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-07-29T16:22:23+00:00",
-      "description": "Explosions reported at Egypt's Damietta Port, security officials suspect drone attack  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-07-29T17:13:39.795436+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5deaf7e24333"
     }
   ],
-  "last_updated": "2026-08-15T02:50:31.958325+00:00",
+  "last_updated": "2026-08-15T03:37:45.751857+00:00",
   "total_count": 1000
 }
