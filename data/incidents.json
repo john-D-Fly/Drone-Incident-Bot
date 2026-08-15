@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "FAA bans drone flights around Maryland State Fair grounds - cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmxXd2xHeU0tQ3BWWldTVFo4NTB4SlZTLTcyd3JPUE9sTlpVaVlpRWlZWUJhbm1zTHVXU3VsY09wT2lSTmV6YXQ3aWJZSC1qbkoyU1VCWTdCTnpsVkhfY200bEc4N25nWnYwVWRRcEswXzhxWUMwdUZfRFZtWWM1LU5uSkFvT0ZXX0I0SE52TF9XLXhYUDMwcVczdXhSQQ?oc=5",
+      "source": "cbsnews.com",
+      "date": "2026-08-14T21:16:00+00:00",
+      "description": "FAA bans drone flights around Maryland State Fair grounds  cbsnews.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-15T02:50:31.405358+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "62cdb3604b2e"
+    },
+    {
+      "title": "Drones target Erbil as attacks fuel fears of regional spillover - The New Arab",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkQ4YUgxZEhWWS0tQkJwaXJod0FoMWtKVEpjaEdmRjBpWEpNYVVucUZXX1JlMEpkMUdyY3l5eDhHUkJvaXhoTDlQOUFkemJVZEo1T0ZFQWpKelVUaEc5eGFxTnJsdDZNenhMeXVjQmRYcmZRd2l0d0c1VVVyZjUwVjhkc3FLRzFFWU9jdGd0ONIBlAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP?oc=5",
+      "source": "The New Arab",
+      "date": "2026-08-14T14:42:39+00:00",
+      "description": "Drones target Erbil as attacks fuel fears of regional spillover  The New Arab",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-15T02:50:30.745196+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f5acbeab7be3"
+    },
+    {
+      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
+      "source": "reuters.com",
+      "date": "2026-08-14T00:53:10+00:00",
+      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  reuters.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-15T02:50:28.814872+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e309492d275c"
+    },
+    {
+      "title": "3 Michigan men arrested after drone appears to deliver contraband tobacco to federal prison - cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRm9Dbm92enpkWFQ3UjFhRkRFdW1EaGZiaF9qUWUwbWM2MGpFWnRUMjFoYmlQdXRIc3p1bE00SDlmWC0yS2lra0JhcDliSzBwQmY4eFJyT1liMi1CUEVWbjI4MG4tOExoMnJsd2NtWWhOVlA2TGpFSFR2eWxUTWM2eVFHbTZfRU5oYmF2VmhMNlNVVHNocEc0WWtQTQ?oc=5",
+      "source": "cbsnews.com",
+      "date": "2026-08-13T17:36:17+00:00",
+      "description": "3 Michigan men arrested after drone appears to deliver contraband tobacco to federal prison  cbsnews.com",
+      "query": "drone prison",
+      "detected_at": "2026-08-15T02:50:27.574485+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "e8dfff544822"
+    },
+    {
+      "title": "Townsend woman arrested after damaging police drone during hourslong SWAT standoff - newslinklive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnpQajY2WndhRzVBWDBYdFpEcS1QRjBMbmZVZU1IZ0EtT1U1d05TME1lSUpqMEp6WVhLMDRHNTV5ek00dWhSX3J3Y3J5NWVwVVVyUC1aa0xwREZ5V0RBMjlrRXVpMjVMelM1YXZ4NEVVbVQ1d1p1WllVUlpFVXJXMkc1dXo4THhFSEtqWlFsLXY0NjF3TU9WUUk0S3RCemNqMHJGNEp4NlhHSE9lRkNQWjExdmJUVW9FZ3Zr?oc=5",
+      "source": "newslinklive.com",
+      "date": "2026-08-14T15:36:41+00:00",
+      "description": "Townsend woman arrested after damaging police drone during hourslong SWAT standoff  newslinklive.com",
+      "query": "drone arrest",
+      "detected_at": "2026-08-15T02:50:26.428955+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "32f096bfb168"
+    },
+    {
+      "title": "Forsyth County's AED drone program adds two new launch sites - WXII",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEgwWGNiSFllQ0RDbXlPTjdOSjM3NWsxUjhDVW1RR2Q0WWEwV3F4UG5aQzdKRVBlNmxaTklkMGF5UUlmNUtxeHBwZUlFUUltMERLbjBQcGtpRTdOYnR5eWt3N2oyLWZhd2ViemlOd01vVHRlLTAwb2ZhRjB2TnBsajNQNA?oc=5",
+      "source": "WXII",
+      "date": "2026-08-14T21:41:00+00:00",
+      "description": "Forsyth County's AED drone program adds two new launch sites  WXII",
+      "query": "drone arrest",
+      "detected_at": "2026-08-15T02:50:26.428955+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3d933d86d631"
+    },
+    {
       "title": "Drone attacks test Iraq’s Sept. 30 weapons deadline - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOU5oQzViUVRUVTRRTV8tTjRZVXNmMEt3TzFVNnloemUtdzZlbnhCeTVYQU1ITThEQjVXLTdZYVQyNHFtYVhYV0R4TlJBaWZnMjBZLVdXOWFxLVRoMm95Y3pOWWJ3UEo1dG9tU1JteFlENVRMQUkyZXh1MVl3TUZDTWNqaVdFeENDanc?oc=5",
       "source": "شفق نيوز",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5deaf7e24333"
-    },
-    {
-      "title": "Ukrainian drones strike across Russia, hitting refineries, Wildberries warehouse - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPci1oZGNSclBOc3NUX2VsZDdBYlVSNnJsYklvRDduS0d5S3BGa1ljb3I3cEZkS1dUS0dNcVIyS29sOXUzYXp3UG9Qa1g1YjhtOFdRWkw3Q2ZBdURkUzVaX1JERmJBQ2d5Tmw1TEhxRFVvd21YUVBMeHc4clNxbFlLY2REc0VtMUJGYjFBdkREX0pRTk5VVXFxUmtZZFBYOGJndTV3YmJnb0pwUEI0eGlaVVNpN28xNjJOblRxVQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-29T03:37:00+00:00",
-      "description": "Ukrainian drones strike across Russia, hitting refineries, Wildberries warehouse  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-29T15:14:23.553877+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "adf67b1de269"
-    },
-    {
-      "title": "Refuse Illegal Orders! Don't Drone Iran! - Las Vegas - CODEPINK - Women for Peace",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKd2ZWbE50VjhhLXA4VmhFd1FORWtyZGgwa1I4ZGVPRkNtV3pLSGlVWm5ES1JveWpmcnBiRGR2TVUtWDllRjFr?oc=5",
-      "source": "CODEPINK - Women for Peace",
-      "date": "2026-07-29T13:00:42+00:00",
-      "description": "Refuse Illegal Orders! Don't Drone Iran! - Las Vegas  CODEPINK - Women for Peace",
-      "query": "drone illegal",
-      "detected_at": "2026-07-29T15:14:22.395714+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2ab2e7f63915"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWtBZ2NFQWdpMUQ5dkRMZHpMVElFNkZNZnNWRzV1eHZZanc1ZHJRQWkyMnNxM2dvbGRua3pSTTcxTlpuSDVTcGtpUFpaUmJ0MDBZTUVaeFlINjF0ZnZHdi01UWlZNnJFZ3NheEZ6bXk1SF9ZYzdXbXVqMGFxdVl2ejdqc3c2cEdUX2FtUDdMR0lPaGFLQ1B6ZDdfc2t3X2RzNEE4aHFlU3loYlZETXg2dmpRTVp3VWp0R0NmaXRWR1RGYVYwMDdsQw?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-28T10:04:53+00:00",
-      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
-      "query": "drone crash",
-      "detected_at": "2026-07-29T15:14:21.841763+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f8a399963a89"
-    },
-    {
-      "title": "Murfreesboro Police hoping to add five new drone pilots following training event - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjRsQTRaQUV3WHBtZ3kxSDVmS0w4aDFkNUd4LUZWN1JESUhTMjc1LVZRT2l0ZlZMMmdiQ0N6aHlybVFXWVFheHh1ZnA1ZmJ4cnpTb192VVlwM2ZuRnk5Q2x6eDN3VmxFYnp4aU9pcUFWYkNETnJWZWw4SzdnWGRXbi1PZEdFS2tFd3hGTDVUaU9fSkFWa3M1TFo1bDFvUFdrbS1uN21sNGpvVTVtQVZN?oc=5",
-      "source": "WSMV",
-      "date": "2026-07-29T14:00:00+00:00",
-      "description": "Murfreesboro Police hoping to add five new drone pilots following training event  WSMV",
-      "query": "drone incident",
-      "detected_at": "2026-07-29T15:14:18.788370+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4e8c4265f27d"
-    },
-    {
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRjdTMDRNclRXSG5namNtRk5NQmdmVDF3OVc0TUowbWhkYmM2bG9uM0VCSG9xR0ZiTkkwaFFjaks5b2cwalJ0MU9tMGZJNzZpQkpNcUJzX1RXZw?oc=5",
-      "source": "BBC",
-      "date": "2026-07-27T16:33:05+00:00",
-      "description": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars  BBC",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-29T12:59:38.406883+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "82d5b9d11e64"
-    },
-    {
-      "title": "Wildberries Eyes State Support, Seeks Warehouses in Kazakhstan Amid Ukrainian Drone Strikes - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdnRJMV9UV1ZhR2cwYUJ3OTNhT2dUWFdqb3JvR2ZxZDlRaDB6SXBLQXVlcF9ITUhQeHp6LTdTdERlT3JHTHhBV2RBa2xfTXNocVh1S0VwWnJKb3QyX1ZqV0tDdnY1d0lVczI4MDRTaXlWeFMyb3BZMm0wLXRQZ2Nmb0l4TTlrSG5fQ2JBZVNSVzF3d3huQ1JOLVNjYzZYelFEQ25QdnlkbUFFcWhFY2xXSXBNSHpUX0Y1NE5JeDdYWk5sazJBek43eTlGbnVLTzVubVlTRFdn?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-07-29T09:26:00+00:00",
-      "description": "Wildberries Eyes State Support, Seeks Warehouses in Kazakhstan Amid Ukrainian Drone Strikes  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-07-29T12:59:38.406883+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9109550514e6"
     }
   ],
-  "last_updated": "2026-08-15T01:11:44.240552+00:00",
+  "last_updated": "2026-08-15T02:50:31.958325+00:00",
   "total_count": 1000
 }
