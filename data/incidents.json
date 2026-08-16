@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Sparks police use drone to locate robbery suspect at Wedekind Regional Park - KRXI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1FGclpydUtZVjY5RnlPb3VXdlBGWHEtc29VZmhRbVlNYXRyR2pDLTFydEZJcVJ3Tk9HTUZIQ2pqUWhRQ2FMWnQzTDhHazVPME9mcm15Z2xXWG9IaUxMLU1HWXJsNW9xdF84QmxtTlZxdWg4amRVQ180X2tEWmRnbVdqNmFObGpmWmV3b3lMWmpodFdjbDNjZllyLUlVSG9mOVZfZy1fQVg2Y3RMY0ZWQ2d5OEl6dVE?oc=5",
+      "source": "KRXI",
+      "date": "2026-08-16T23:15:55+00:00",
+      "description": "Sparks police use drone to locate robbery suspect at Wedekind Regional Park  KRXI",
+      "query": "drone arrest",
+      "detected_at": "2026-08-16T23:18:24.054662+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "bb796888c1b2"
+    },
+    {
+      "title": "Estonian foreign minister on drone incident in Romania: the threat will persist as long as Russia continues t - pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZHFjNERSQlFlREVhNWk2VkhkT2c0aGNndkFLZUh4UDJhdW15Y1B0Vzk1MktOcnNaQVVsa3EzTmhHYmxGeVJYXzM2SDl4QWV1cGc1TVFpZDE2azFXZDNwUUtQVWtMcW15MzBwQnhvN3LSAXBBVV95cUxNWmRxYzREUkJRZURFYTVpNlZIZE9nNGhjZ3ZBS2VIeFAyYXVteWNQdFc5NTJLTnJzWkFVbGtxM05oR2JsRnlSWF8zNkg5eEFldXBnNU1RaWQxNmsxV2QzcFFLUFVrTHFteTMwcEJ4bzdy?oc=5",
+      "source": "pravda.com.ua",
+      "date": "2026-08-16T09:48:00+00:00",
+      "description": "Estonian foreign minister on drone incident in Romania: the threat will persist as long as Russia continues t  pravda.com.ua",
+      "query": "drone incident",
+      "detected_at": "2026-08-16T23:18:23.419330+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "dc6450033d78"
+    },
+    {
       "title": "Israel tested over 100 countermeasures, but Hezbollah FPV drones still threaten troops in Lebanon - ynetnews.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FUE4tSlZnaW9LZGxadjA1YmNkRk12UEp5ZURZaWxET2d3ZUNMUlpPMDY3MkphRzF2emhRVDVTMmFzRVBWakFta0lXUXdFTG5TeHlkNGJR?oc=5",
       "source": "ynetnews.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "bc9c4eb685a9"
-    },
-    {
-      "title": "Investigation launched after Amazon drone crashes while delivering package - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZE56STh5Mk5GVWUzRXFHcm9kbDlVMEdSY1NHNmlKa1JqOW5LMzNhcnZPUUd5bkRfaE5GWDl3Smpkd05DZUdzeVE0R1p3T1R3eEV6dWtkU21FTnk4YWlmWVVva3RiR2J1TmFMeWhiSG1fbGIzSzZtakx2ZWdvTmV1Rk5PdWJybUw1bXpPU2ZoQmRTYlFtOUVEQTg0eVRFakVwOUE?oc=5",
-      "source": "The Independent",
-      "date": "2026-07-30T10:16:00+00:00",
-      "description": "Investigation launched after Amazon drone crashes while delivering package  The Independent",
-      "query": "drone crash",
-      "detected_at": "2026-07-30T13:59:52.693113+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "754e7a4bcd2e"
-    },
-    {
-      "title": "Darlington Amazon drone crashes into garden on delivery - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ycGU5VHI0XzZWOXpQLXFWT1A0WGdoNTNwOXctUUJQSjFJZlF1Rk10Q1BKbzAxQWhOeUxLVGg2RzBSRW1GOXdGVDhrMmZCbnpNMHF1RUN5bGw?oc=5",
-      "source": "BBC",
-      "date": "2026-07-30T11:01:03+00:00",
-      "description": "Darlington Amazon drone crashes into garden on delivery  BBC",
-      "query": "drone crash",
-      "detected_at": "2026-07-30T13:59:52.693113+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "7d13a258e362"
     }
   ],
-  "last_updated": "2026-08-16T20:20:45.737028+00:00",
+  "last_updated": "2026-08-16T23:18:29.287852+00:00",
   "total_count": 1000
 }
