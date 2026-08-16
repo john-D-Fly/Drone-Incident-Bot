@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Spanish fighter jet downs drone breaching Romania's airspace - France 24",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1NaN1JwckZwbWx4enh6TjJPYVM3Q21uRE1nRDF6NHFpNFVlSEZtdGM2MjdHN1lUSjF4bmkxWWpTdHpiVkphdEF6TkxzN2pPNXhJVHNwR1IyRnI1WXdDQjdHTEd6dmE4RkJXQS1XZ0NtVndQbXVJaE9ZOXhiQWZSUEJlS0FpNGJpQnloVUhqYnRqUXJaYnJQMmZ6ZHVuYUNHS1JzelFCOA?oc=5",
+      "source": "France 24",
+      "date": "2026-08-16T07:50:35+00:00",
+      "description": "Spanish fighter jet downs drone breaching Romania's airspace  France 24",
+      "query": "drone incident",
+      "detected_at": "2026-08-16T09:26:06.766329+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "6308ec9236bb"
+    },
+    {
       "title": "Massive drone attack sets Russia's largest Wildberries warehouse ablaze - turkiyetoday.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhGZ1FUbTlQYngzNnlLZDg3RFhtVmpfd2h4S1NaSUpaX0RwQTdRakNqYmtpdGxEZ01xMUljcXJ2NVB5VjRGeGxva3JfSmFVZWhKNHQ2YVF2eHlyV2g0c2h2ZjBLdXFNSnBCQll0R3dNRHFndU5mVEhRVU9xNlFOQmREVDZPMkFPcXBsNHQwMGZBeHBRQk1pSExYZ1J1d3dWSklvZWNWalFGbDJBd0xvU2d1bw?oc=5",
       "source": "turkiyetoday.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "abb4c8d154d2"
-    },
-    {
-      "title": "Large crater and debris found in Poland after overnight Russian attack on Ukraine - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2VwbEIxN0FIbkJIMFNNMVRwdW9raUgwOHVLSjJWaWxmUWpJdG80SENrYzhKNlgyc05YZzBpb19UZ005QUdmV2I1bUxXQTAtMmlETm1CWElpc05oQmVLREFjdUxRQzJOTGVrZWZHcmZBQ2w0VHV2Y2FScFYxVUNqQjI2S3Z6YmdoVzFFM0JheG5DZmNUdUxjSVJTR1BRaHJvbnEwRjYxUmxSeGc4XzZTMHpSQmZzY1RwdmdpNDFqVi1iZzhlRldpSFIyZ0I?oc=5",
-      "source": "TVP World",
-      "date": "2026-07-30T05:49:00+00:00",
-      "description": "Large crater and debris found in Poland after overnight Russian attack on Ukraine  TVP World",
-      "query": "drone crash",
-      "detected_at": "2026-07-30T09:29:41.011405+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "749214874b48"
     }
   ],
-  "last_updated": "2026-08-16T08:27:50.525314+00:00",
+  "last_updated": "2026-08-16T09:26:12.409688+00:00",
   "total_count": 1000
 }
