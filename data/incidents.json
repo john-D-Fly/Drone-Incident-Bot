@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "WATCH: Police share footage of wild crash in SW Oklahoma City - KFOR.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhsUlRzV1RXMDF5TFQxdXhoWFhRZjZYMXI4NWJtX3VDZ01wTGpmdnh5TEQwQW5QTVFKaWk4cnY3X0tSWDNRU2s3LUdRbEs5WXZONFc1TXVYTTludGU1eWhlc05QX29Ibko0allFUFBGLXgwdnkyN3NWOFdiSEhNaFFUUUxzOVFRNUg40gGQAUFVX3lxTE1iMTN0cnBMeUhBdVdWUFRjbENKZFJPWkNvLWNaUDBfRndDeGdMcDlqSGVnd0NITkduNmFqelBYdjhkMXhXNW9lbHdQNFZ6N2dlVTZsRndlYVdYbzAxX3FXT0o2SzBFcFdySHRtNkVOMnd2UUZlS083S1ZydUdKV1hZOWhCcHRCZjh3aUQtcWZmZg?oc=5",
+      "source": "KFOR.com",
+      "date": "2026-08-15T13:30:00+00:00",
+      "description": "WATCH: Police share footage of wild crash in SW Oklahoma City  KFOR.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-17T04:41:28.410225+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e76efd54cbd4"
+    },
+    {
+      "title": "NATO jet shoots down drone over Romania as airspace incursions mount - EUalive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmZtajdhRUswLUJqSjQ2RU94UzJUUWRhMEMtdDl4Qk1iZVdDLWlxTUJtd3NJUUltMFAxYlNlM3JfMThfZnY1RU9oLTh4X1duTVp1S3JGY1l4ZEJKWHN5MGhLc0lJcHl1VjN5S3BpZTB3b0JoZTBBeVJjNmUzLWtTTFo1c1JwZzNiX2pqd013UEFBMTg?oc=5",
+      "source": "EUalive",
+      "date": "2026-08-17T04:24:53+00:00",
+      "description": "NATO jet shoots down drone over Romania as airspace incursions mount  EUalive",
+      "query": "drone incident",
+      "detected_at": "2026-08-17T04:41:25.676518+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "94404b594b77"
+    },
+    {
       "title": "Arrests Of Top Figures In Russia's Drone Industry Highlight Claims Of Wartime Corruption - rferl.org",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPai1mOXpibjhIRG92S21oQTVhZmw2clZ2Mkd4TWxLZ0lXNG9FcVpSc2gzQUVMUUJNTE15VVlMSWViLW1NSGQ0Z01pOTVTZERlbElCbTZFWjM4LTJMMnRXVU9IeHg0d1NYeXZCT1hkSnFQTHY1a1dzVUcweV9oRlhTdFVpc2ctcUxJX0HSAYwBQVVfeXFMT1hMUWFVSG9JLVBCMDd4RXhIT2RUQVFSbWFTcUpuX3JwZ0daNXdNYXRPaU5KY2FVcnRlS3RfUFVkaWsxUWRHQ05Ed0tjdXVLMnJsX3JlbjZYaUI4S2tSQUNGbDVwaFlUdUk3a09mendPaWpxZUQwXzBpWFJWUTFzSENUd3R4WmxlSDR6NjQ?oc=5",
       "source": "rferl.org",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "8e739e3e5b00"
-    },
-    {
-      "title": "Amazon MK30 Crash-Lands in Darlington Garden, Exposing CAA Contingency Gap - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEUtMmNWdlp4MzNjQTdMY0R2ZUNLVnVVRkZGUy13QXBjMHU0M1ZfTWFNWlZnNVRfQmxiTWp2Z1FBRzZIX29USXVJb180Sl9DRFc0ZGV4bnltZGVza3BXRm5Sa3FtQm1oVEh2cG9oUzlydlNteWFQZkdjbGFVSzlEYTJPN0o5QXFwWWxIUTNoU0xCUVlyUTFkRzlnRkhaak9KVEk2dXBtSXdyQVQ3RW1LRzFtSTVHc2M1d3BPRVpZMnc4MDQ?oc=5",
-      "source": "Tech Times",
-      "date": "2026-07-30T13:20:59+00:00",
-      "description": "Amazon MK30 Crash-Lands in Darlington Garden, Exposing CAA Contingency Gap  Tech Times",
-      "query": "drone incident",
-      "detected_at": "2026-07-30T21:09:23.709079+00:00",
-      "location": "in Darlington Garden, Ex",
-      "category": "crash",
-      "id": "3c9cba522f2c"
-    },
-    {
-      "title": "Exclusive: South Korean Military Mistakes U.S. Drone for Enemy in Communication Failure - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ21OaGZMVFFEdnpzcVNNV2tjYk1TZU9MM013RGNHUE1MYlJfdnU1cENEajZQMlRENzRqM3QtNGpabU9XaWExZ1lrekdGRm0wbWRsaFVobTVheTRtS3o0OHh5TE5JNzA3NVc4NzZ1b0ZnUjdFb3pIOTJKU1N2Q2dDSGFqZkJPWDY1?oc=5",
-      "source": "조선일보",
-      "date": "2026-07-30T20:04:17+00:00",
-      "description": "Exclusive: South Korean Military Mistakes U.S. Drone for Enemy in Communication Failure  조선일보",
-      "query": "drone incident",
-      "detected_at": "2026-07-30T21:09:23.709079+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8d3ba8098591"
     }
   ],
-  "last_updated": "2026-08-17T02:58:29.990288+00:00",
+  "last_updated": "2026-08-17T04:41:31.337428+00:00",
   "total_count": 1000
 }
