@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "WATCH: Police share footage of wild crash in SW Oklahoma City - KFOR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhsUlRzV1RXMDF5TFQxdXhoWFhRZjZYMXI4NWJtX3VDZ01wTGpmdnh5TEQwQW5QTVFKaWk4cnY3X0tSWDNRU2s3LUdRbEs5WXZONFc1TXVYTTludGU1eWhlc05QX29Ibko0allFUFBGLXgwdnkyN3NWOFdiSEhNaFFUUUxzOVFRNUg40gGQAUFVX3lxTE1iMTN0cnBMeUhBdVdWUFRjbENKZFJPWkNvLWNaUDBfRndDeGdMcDlqSGVnd0NITkduNmFqelBYdjhkMXhXNW9lbHdQNFZ6N2dlVTZsRndlYVdYbzAxX3FXT0o2SzBFcFdySHRtNkVOMnd2UUZlS083S1ZydUdKV1hZOWhCcHRCZjh3aUQtcWZmZg?oc=5",
+      "source": "KFOR",
+      "date": "2026-08-15T13:30:00+00:00",
+      "description": "WATCH: Police share footage of wild crash in SW Oklahoma City  KFOR",
+      "query": "drone crash",
+      "detected_at": "2026-08-17T07:52:08.585361+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8f06a018a508"
+    },
+    {
+      "title": "Sparks Police say drone helped in arrest of robbery suspect - 2news.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblBsTzV4QkRqQ1dhVGNuSzI2RFkzdWx2RmZYVkJadnJXRW9lbVRhZVQ2azQzZVZhS3Q2clRHeXZ3UnBTcjR0U2poSGxuTl84Y21Rd2liZHBkb1VDMk1rOF9NcnUxUGNqYmVBWHc4SFJVeUk3eWJHbjczczNqNTdHRWYtZ3lLck1SMWlwUzN0S3ViZXlERE11SFRJMldiNXJYenRvOGo4NzVqZ0dxOHNPbWxKc1lLbFo5ak43d2tDdGZ4M2RVTjZlRXBCaE1rS3psa05ScUU4cWxsQQ?oc=5",
+      "source": "2news.com",
+      "date": "2026-08-16T23:08:00+00:00",
+      "description": "Sparks Police say drone helped in arrest of robbery suspect  2news.com",
+      "query": "drone arrest",
+      "detected_at": "2026-08-17T07:52:06.464390+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "0b46d26bb962"
+    },
+    {
       "title": "Russia strikes Ukraine with 128 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWdPMmVOSlJ1eEtyanB3QmZBRlFvYXpYODVjRHZSMnotQjM5VkVpVW5fUGg2TUEzQmt3N2pzQlRRUlFkdkQ4VlNXb3lTUlBjUTRYTkxac2c5NlkwOW5vdTZIU1pBc3pRS3Y1ckdWV2tpRk1ySUpHTnUwRTJyYmpPREJDMHIzaElOY0ROTzd6a3k2Q2lYeHV4VHdyT2k?oc=5",
       "source": "RBC-Ukraine",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "5cd212543b9d"
-    },
-    {
-      "title": "Thermal drone helps Woodway officers capture burglary suspect on rooftop - KXXV",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZvZC01Zl9CakRVNUhhUkF1UTdnU3QxcHZldzFEbkFIWlRCUnZkX3BiWHU2QUl4aDRJaXdmemhXOXBEU212cVNnenB0Vks1M2owRmdOWjlnNkhDaFpQa0haMGdVWndxSFVDRks1UW5WQmNsZFZraWZwVmgyRUdxbDZlN3J5OVVYTVpoV2dBbTFuTFItdjZleTdJTUF5QV8xZ083YlRqdDZBYUlzS0NZVWs2V3FjT3liNzZxYjlUc3BwZG5oaWV3aHFOR1ctYzZ1M3JoSG50SlNtTlpUZzA3WnRmZzZtbkw1VUE?oc=5",
-      "source": "KXXV",
-      "date": "2026-07-30T16:33:21+00:00",
-      "description": "Thermal drone helps Woodway officers capture burglary suspect on rooftop  KXXV",
-      "query": "drone arrest",
-      "detected_at": "2026-07-30T21:09:24.281416+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5220b0027bea"
-    },
-    {
-      "title": "Thermal drone aids Woodway police in rooftop arrest during burglary investigation - KCENTV.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcHhZb1lXZHdudTBKSUs3b011czR0UXdjVjY1VEJUaGotU1JuVHdMZ2pKY3hSUFhCbWpPb0RsbmdTTEFnZzhncVhMTkF3VEowSUNkLTRFa1NRWnlCUXA5dXVWckdrWVJhUk9SeHNYUkNpWmF1dmF1U3R6dXlpOUhzcG9kV25nMXJ1MENHdXVyZUV2TnBMU1A4ZEtTRk5qUm9XbmwwbXhxQTdMa2VjdE55QU1MZy1QVnZLblpqWHBIYXNUeTFEa0l3bmM0dGpGaWczTEs4a0JlYzhaRm4taHZyQUhnSQ?oc=5",
-      "source": "KCENTV.com",
-      "date": "2026-07-30T17:52:00+00:00",
-      "description": "Thermal drone aids Woodway police in rooftop arrest during burglary investigation  KCENTV.com",
-      "query": "drone arrest",
-      "detected_at": "2026-07-30T21:09:24.281416+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "d37c0d7220d5"
     }
   ],
-  "last_updated": "2026-08-17T06:53:41.278468+00:00",
+  "last_updated": "2026-08-17T07:52:10.987579+00:00",
   "total_count": 1000
 }
