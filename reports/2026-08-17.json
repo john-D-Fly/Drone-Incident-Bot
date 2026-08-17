@@ -1,0 +1,128 @@
+{
+  "narrative_summary": "In the past 48 hours, several drone incidents, primarily revolving around terrorism and unauthorized operations, have occurred predominantly in the Kurdish regions of Iraq, where drone strikes have targeted the Prime Minister's office. Reports suggest Iranian involvement, heightening tensions. Concurrently, security forces in the U.S. have utilized drones to assist in arrests and to address illicit activities along the Texas border. Notably, NATO jets have engaged drones breaching Romanian airspace amid rising security threats. The eventful period underscores increasing concerns over drone terrorism and smuggling activities, along with the regulatory efforts to mitigate risks associated with unauthorized drone flights.",
+  "totals": {
+    "other": 21,
+    "terrorism": 13,
+    "interference": 1,
+    "smuggling": 4,
+    "airport": 1,
+    "arrest": 7,
+    "crash": 5,
+    "security": 6,
+    "total_incidents": 75,
+    "by_category": {
+      "airport": 1,
+      "arrest": 6,
+      "crash": 4,
+      "interference": 1,
+      "other": 45,
+      "security": 9,
+      "smuggling": 3,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 12,
+      "drone crash": 13,
+      "drone illegal": 3,
+      "drone incident": 19,
+      "drone prison": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 15,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Kurdish Drone Strikes",
+      "rationale": "Frequent attacks on governmental offices linked to regional tensions.",
+      "incident_ids": [
+        "1927336e22fe",
+        "ff9fda8b958e",
+        "4c2e5c36be4b",
+        "8f9cb47462bc",
+        "d508ccf594b7",
+        "d94a970ae58c"
+      ]
+    },
+    {
+      "topic": "U.S. Drone Operations",
+      "rationale": "Drones assisting law enforcement in arrests and managing border security.",
+      "incident_ids": [
+        "8e2db6eb3488",
+        "s36e9192b77c",
+        "e76efd54cbd4",
+        "49ffcd3caebe"
+      ]
+    },
+    {
+      "topic": "NATO Drone Engagements",
+      "rationale": "Responding to unauthorized drone incursions in European airspace.",
+      "incident_ids": [
+        "0ac774c93acd",
+        "9bf43e7328b5",
+        "9aaf5f620c82"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "1927336e22fe",
+      "headline": "KDP Condemns Drone Attack, Urges Baghdad to Act",
+      "one_sentence": "The KDP condemned a drone attack and urged the Iraqi government to take action.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4c2e5c36be4b",
+      "headline": "Drone Assault Hits Office of Iraq's Prime Minister",
+      "one_sentence": "Drone assaults have targeted the office of the Iraqi Kurdistan's Prime Minister.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8e2db6eb3488",
+      "headline": "Senate Panel Tackles Illicit Drones and Fuel Trafficking",
+      "one_sentence": "A Senate panel in Texas addresses illicit drone usage in fuel trafficking.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "05a2a760dc34",
+      "headline": "FBI Disrupts Plot Targeting UFC Event with Explosive Drones",
+      "one_sentence": "The FBI disrupted a plot to use explosive drones at a UFC event.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "17134f48eae5",
+      "headline": "NATO Fighter Jets Down Unauthorized Drone in Romania",
+      "one_sentence": "NATO jets shot down a drone breaching Romanian airspace amid increased tensions.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents spike as tensions mount in Iraq and U.S. law enforcement steps up its game.",
+    "linkedin": "Recent drone-related events highlight growing security concerns in international airspace and ongoing issues with terrorism and smuggling."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-17"
+}
