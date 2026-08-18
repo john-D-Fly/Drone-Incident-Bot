@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Germany opens new drone research centre - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-18T08:41:28+00:00",
+      "description": "Germany opens new drone research centre  DW.com",
+      "query": "drone security breach",
+      "detected_at": "2026-08-18T18:36:56.707039+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "73a2e78dc2f1"
+    },
+    {
+      "title": "Drone crashed and exploded in Zhlobin, Flagshtok reports - Belsat",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkJBSy1tLUhxZjhLQkFVN2loWlNvWHlpdDhpVVJhR0tGcVhGbmhBTWprTHdNQVNXMEhzd3pJeDBodTZ2MWJKUTA2MTJSdjdKZk9KdnFRb0ZLMkxjcm00V1Nsc1RWbmM2Wnl1X1U0S3REZU42QmVMc0E5WnhTc20yMG5uWEtmT2lfbkd4azhB?oc=5",
+      "source": "Belsat",
+      "date": "2026-08-18T15:25:00+00:00",
+      "description": "Drone crashed and exploded in Zhlobin, Flagshtok reports  Belsat",
+      "query": "drone crash",
+      "detected_at": "2026-08-18T18:36:55.621837+00:00",
+      "location": "in Zhlobin, Fl",
+      "category": "crash",
+      "id": "61df9d33741f"
+    },
+    {
+      "title": "Egypt suffered its first attack of the regional war after a drone hit two gas ships near the Suez Canal - okdiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGF6bjczbkdfa1dYWU0yb3RUcXFseXE0WEdxUm1nS2ROVDRrbE95TXo2M0lmYWQ4TzJ2Znhrc2VYUjZ6aG1HSUZQb0kzWmJsTGdVUktZaXJURXhqTi1oSmlySC1lSmFIZkN6UWwtZnN3V1N4Sl9sdWFuaW9aR2MwYUNPWHhjV1M0ZkltRnVFLWdlN194aHhkWnhMX3NaVnYzMDFnZU5TY2tjNl83QUhHOWdoOEk2eDh0S21uZnVMUi1OMm9HXzM3VHJKM1Q4ekNzMzVjSE5n?oc=5",
+      "source": "okdiario.com",
+      "date": "2026-08-18T14:30:00+00:00",
+      "description": "Egypt suffered its first attack of the regional war after a drone hit two gas ships near the Suez Canal  okdiario.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-18T18:36:52.904508+00:00",
+      "location": "near the Suez Canal",
+      "category": "other",
+      "id": "e96db69bfaa0"
+    },
+    {
+      "title": "Drone Explosion Near Zaporizhzhia Nuclear Plant Staff Transport Area Kills One, Injures 15 - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRG1lVlFuanhkejdQamkwR1VDRFozY0xxN1pHRWluTVBfa2V5WmU3MXFvbk1XcEJZc3NOckdyc0g3MnJaYlQwRFRJMHNaRXJDLXg0cENPS2l6clB3dDZHaDFQVnFrbERXaDJGcVhJWXNrSWI0OVN3RnFvZl9kWElvVUozdDZ0NGtpR0R2MTZiaWwyemxKYk1wcFE5X1djVnF5RkxHUjhBWWw4VTMwclJKTXQ1eWRlMWVkZ0VYRkZ2blhYUnZnRVkxWnl5UWU3dEx1SWc?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-08-18T17:34:00+00:00",
+      "description": "Drone Explosion Near Zaporizhzhia Nuclear Plant Staff Transport Area Kills One, Injures 15  UNITED24 Media",
+      "query": "drone incident",
+      "detected_at": "2026-08-18T18:36:52.904508+00:00",
+      "location": "Near Zaporizhzhia Nuclear Plant Staff Transport Area Kills One",
+      "category": "other",
+      "id": "30aeb02d08cb"
+    },
+    {
+      "title": "Drone Attack Near Zaporizhzhia Nuclear Plant Kills One, IAEA Says - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejVRMFhwcVY2cUhwRHBDc1MtRDNCTjR6UEdkSWFPSGdRS1JiS210NWw1RGFzREVDcXVUQkpvMG1tWG1fZFV2SHpEbGk2T3owN19CQmVvZ3d1eTJHTHhfOGIwOEJUSGYxNmNoYjNuMnpQbUhLa1JpZ1lCejJSTUJwNnJpcmpaSDdLTzNlQ3MzSzRWRzNpTmZ6UGYtOFBGWllNZXdUTTUza0Z6V08wVXAyYUludw?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-08-18T14:37:36+00:00",
+      "description": "Drone Attack Near Zaporizhzhia Nuclear Plant Kills One, IAEA Says  The Moscow Times",
+      "query": "drone incident",
+      "detected_at": "2026-08-18T18:36:52.904508+00:00",
+      "location": "Near Zaporizhzhia Nuclear Plant Kills One",
+      "category": "other",
+      "id": "750464049a8f"
+    },
+    {
       "title": "Ukraine identifies Akhmat drone company commander behind attacks on Sumy - The New Voice of Ukraine",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdk56YXh2VXRzdHNBbWRDZ0pKMndhSlFkLWJhcnJSSDJqbVBLNWRaWkxXZXRYdXI4bjNKaEhESkQ3V1ZSYlp2Xy00TjR5WHV5U3V4a1FWYWJ1R2syTkxBR3MtTk9uWkN6OFhHWDFOOElJY3hBcUtiMk5NdnNaM09pb1k0SzFVRXhQQXRWUFMwMEJzYnFZZ1dGQ09HMzZoSHJxclp4My12REdQTVd2S09ybTNYQnFoMkFheWRrUkRIcDRZRk9LVTAtSEdaUWpNTlpBNlIxQm95Z9IB0wFBVV95cUxPNXBnbG15Y1k1ZGRLc0NZMXBSSFRHRzBfdzRGTkh1T2ktejZFQkExa3NUcTFMY1VkVm9xblR0dHExSmdmVWFKd3Y0WS1JMG1ING1uMzhDdHh2ZE01d1ZDM2pPRDhkYy1SU3U3TWN2ZHJOZEhSb2V5WnJNbFJnNFdQbzNHMXhhWV9tZUR1b2lDMzlHaTBZVTIwbFNLWmxKN0dORm5CQXNscjF6SjE4Yy0yUVY1ejBBLXQyS1lYdEpxQWtkaXZUVk4yNXd4QWJrUXJzaWdR?oc=5",
       "source": "The New Voice of Ukraine",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "7b940f082da4"
-    },
-    {
-      "title": "Ukrainian drone strikes Russian beach resort - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhrS3cwbTZwaHFGdTlzTEtsUjNWMUU2Yl9YM3VQcEZ1Z3ZlWHNXdzlsbzlwZkNjeWJqNXlTVXdUQ09MZjhFTlJZOExZVWp2bUlCeTBZc2QwZzlHWWw3eVR0R3pKbTJYdlhKZ1o5RjhiVW5rQm96SGd1Q3ViSFk3clBsMDB0Uzctd2hBeFdvUlRza19VRk9tXzF3?oc=5",
-      "source": "Yahoo",
-      "date": "2026-08-03T15:01:51+00:00",
-      "description": "Ukrainian drone strikes Russian beach resort  Yahoo",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-03T17:50:01.171479+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "308cdeb0b778"
-    },
-    {
-      "title": "Ukraine targets Wildberries again as Russia hits Kharkiv publishing house - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbnRzSzNQLU9pYTFlcEs5UXN5VkdIQkhzR045QUlWNDhISDRHUHI1cng3VXh3dTZuR2ZFMURKMkpHR2pFSVB4VGt5NmxBLUlKaEFpSVAtS3ExWV8yZmswMEZkVlhtWlJSRFpMVEZyYWowU2JGZWw1MjFDbTFycUF4bzFNVDM0YTJyTUY2UzJqd3hhbHFtNnZfcU9JVk1kT2ZlMHE0RlVZYk51WWQzdlZ2WmJmUEpNRmphQ2YxX1NTLVFqcENwWW1La1F3?oc=5",
-      "source": "France 24",
-      "date": "2026-08-03T06:38:35+00:00",
-      "description": "Ukraine targets Wildberries again as Russia hits Kharkiv publishing house  France 24",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-03T17:50:01.171479+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "279cb0c6d029"
-    },
-    {
-      "title": "Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOU9OREpRMlEtczBGTWExZ2lIZ2pMRVlKSV9hcEx6b1NGam9YcDVEV3g3YmRSRmNKYk5YUUJZWlQ4cUNRMW9mX2JxcHVPdWc3czBDQjQ1TGhEV2Q0WEJncS0zV0Z4dk5XbTFTU1drNUZJbnEtek9tcGRIWlJLdGhpWnVQVG1TVDY4aHhXN2NTYzZkOUJDWmluaUJ2NWU4RGM3WFVQNy00enRNblVXdnlvNXowbzJYZTNYdUZ2Yjlucw?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-03T06:10:00+00:00",
-      "description": "Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-03T17:50:01.171479+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "532fc3d4115f"
-    },
-    {
-      "title": "Ukrainian drone strikes kill 5 in Russia - arkansasonline.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS21LMVVfNUFTQmhERGtMUl9uZHBrd1MzY1JmcnFhVGpYLWdZbWNrZktGemMxOG1SQjRjSTRONkZpMlBNUEI0S2ZUV05XTWFPRGxqV0xzSzB1WjJYV2hsYkhGOU91UWxPRzVGNjVUVkZDX0xnQXQ1Z1ZDNTBHbmZjMmMxUHIxZXRkSFN5X2FLR0FpeHM?oc=5",
-      "source": "arkansasonline.com",
-      "date": "2026-08-03T09:00:00+00:00",
-      "description": "Ukrainian drone strikes kill 5 in Russia  arkansasonline.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-03T17:50:01.171479+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1b5b7a37e20a"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "abcnews.com",
-      "date": "2026-08-03T13:24:06+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  abcnews.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-03T17:50:01.171479+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5ae2a1859ddd"
     }
   ],
-  "last_updated": "2026-08-18T17:25:57.720383+00:00",
+  "last_updated": "2026-08-18T18:36:58.360633+00:00",
   "total_count": 1000
 }
