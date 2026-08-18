@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Ukraine Strikes Six Russian Drone Command Posts and Ammunition Depot - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9adUtkNnFqb0RXbnpkeS1kTHVDRlllWlRpbUdWVWR1VS1ZRFhkRl91eW5VMDUyb2NCQ1d1RTJ6QjlGZGl1eDQ1YlkyWlhROXhkZlg3M2FOUGV4R2VVMEZfSm9nWE95bi1w?oc=5",
+      "source": "mezha.net",
+      "date": "2026-08-18T09:55:27+00:00",
+      "description": "Ukraine Strikes Six Russian Drone Command Posts and Ammunition Depot  mezha.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-18T10:26:41.988518+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cbdee00ca06a"
+    },
+    {
+      "title": "Sparks Police say drone helped in arrest of robbery suspect | Local News | 2news.com - ktvn.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGk1V1pEU0dSMXVVX2t0YTZzX2NGQXBWNHd3S1hXZkNkNl8teE5tWXh4ZWZDVFljdm10OW9EcDhpcDh1QUVFQURvb29iMnZoWDJ0MWdZSkRTd0tuTWVwRmtyS1VONlRzblNINjhJbWJEeVRwOC1aT29LaXRrVlkxejZ6ZzB0ekJXODd5V21NcV9WcXhOWWR3eFRwUE1xYUlXc0Y0LUlVS2V2cU5ZcEVxUk8zekNBdGQzMUZOeFdWOFJyQjNTdXltNDFVM0xET2VYay04QzR4dw?oc=5",
+      "source": "ktvn.com",
+      "date": "2026-08-16T23:08:00+00:00",
+      "description": "Sparks Police say drone helped in arrest of robbery suspect | Local News | 2news.com  ktvn.com",
+      "query": "drone arrest",
+      "detected_at": "2026-08-18T10:26:38.277438+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "d82ea5fa9626"
+    },
+    {
+      "title": "50-centimetre-deep crater found in Moldova after drone crash - Європейська правда",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00VEx3Y0RsV0ZwWEg5QWlycXZDVXRRRUhLTmt1QU1CTGJGZ0I4eU5uS3ZDMDlQbHFUZEN1WmhZMHdNeVplRFB1STVCNlItc3FoYlkwaW1ITGdkNER4ZU1HTXVUT2dZTl9ZNEpjUDRhaGU?oc=5",
+      "source": "Європейська правда",
+      "date": "2026-08-18T04:55:00+00:00",
+      "description": "50-centimetre-deep crater found in Moldova after drone crash  Європейська правда",
+      "query": "drone incident",
+      "detected_at": "2026-08-18T10:26:37.707013+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "52e9e24070b2"
+    },
+    {
+      "title": "EU Calls Drone Attacks on KRG Leadership 'Unacceptable' - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkNfanFDaGlONW05M2Vxek9GUndHRVJBbVh1Qk9xRm01YlZnRFg4aWxMQkx6TmotYTVaRWpteldJYlRhVXp6MnhhalY3cnpjRkl2d0hEVWdBSVdFNWxKT2RON0VMNW81RElIUGx1ZkcyQXZ6RUprQnlwT1hNYkxXLXZUbDMyX0Z3OUpmWUtMV0J1aXgtRU1DeFhaYjdoUQ?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-08-18T10:03:00+00:00",
+      "description": "EU Calls Drone Attacks on KRG Leadership 'Unacceptable'  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-08-18T10:26:37.707013+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1e090f50ed4c"
+    },
+    {
+      "title": "Germany updates: new drone resarch center to be opened - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0NjUkRuYjUxQXdzRzBiNTF6UEpIY25CajZYQ3pvOWlGM0Z1UmVaVmZFOGsxTFpTNWE1QkhHQ1JQQVR1Y0FsbnNCY2oxRTd4VFZhay1Fclp6Q0FwTlN3MGJrbkI2bDlrdzBzcTRrbmNqNGRPQWVWbWZIM252RC1hZjMyY2hNOUlKY0lacmVuX1hZSTQ?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-18T07:43:06+00:00",
+      "description": "Germany updates: new drone resarch center to be opened  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-18T10:26:37.707013+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "09ceb7785e95"
+    },
+    {
       "title": "Russia Labels UK 'Terrorism Accomplice' Over Drone Support for Ukraine - news.sbs.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9POVBYTC1lb0F1NDBVS1JGMmxwZnhWbElodDhud3d0clZ5MnZHdUx4N2p1WW1EQ2tnOWFLYUllOUFBMFRYdjg0a2F1R3FlUDdHR0dvRnhwVWNMTVQzM3NfLUVta2p3QQ?oc=5",
       "source": "news.sbs.co.kr",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "5db18352a049"
-    },
-    {
-      "title": "Drone from Pak drops Rs 50 crore heroin, weapons in Bikaner; police foil bid - indiatoday.in",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGlvTlF0ak1fU3FHZHJZOVpMc1k2dHJhUmpYSF91dy1hTlAtbk5ib1JGLTAzcXBySWlZRVZqVHZ5WW1MLUlJb0cxT19KUWNzcmpUbFBZbThmdDM4VDZrUU90LUo3WEpDRGJsc0lXVjBIQlZGdFNMcHpHZDdEOFRNNDM3UUVid2dXbEZSd1VXQ19CVDJiYlNtclBvVWhvRTdXSENuN2dpS0U4dW8zMllONVZEY3h6TDhPZVJIbGQwMlhNOHhmMDZxX2Z30gHPAUFVX3lxTE1KZjExTHRJRVl4UVAxc0JKcHVlbDUxTURybFZ1RFZTSEJ4NFRVUzBtWlpLRV94d1BZaDJjaHZ5Ty12VW1La2J5NEJSNGlfdUt5WDg3aFVZM3pvOFlTOEVwTlpPSV91d0NEVHBBWDZQVEtROUQ4M2h6TDlTd0RLTXhXRHc3MnZEc004djhLQkhZUUlRa1VtZXl2NGROQTdKQzUyTkhwVmpRU2E4MU1EUTVsb29kaF9jV0VfXzd0RUlFZUMyV0dhT0ZBdnpiZk1mSQ?oc=5",
-      "source": "indiatoday.in",
-      "date": "2026-08-02T11:33:00+00:00",
-      "description": "Drone from Pak drops Rs 50 crore heroin, weapons in Bikaner; police foil bid  indiatoday.in",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-02T15:01:37.530567+00:00",
-      "location": "in Drone from Pak drops Rs 50 crore heroin, we",
-      "category": "terrorism",
-      "id": "6d48e3025e31"
-    },
-    {
-      "title": "Drone from Pak drops Rs 50 crore heroin, weapons in Bikaner; police foil bid - India Today",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGlvTlF0ak1fU3FHZHJZOVpMc1k2dHJhUmpYSF91dy1hTlAtbk5ib1JGLTAzcXBySWlZRVZqVHZ5WW1MLUlJb0cxT19KUWNzcmpUbFBZbThmdDM4VDZrUU90LUo3WEpDRGJsc0lXVjBIQlZGdFNMcHpHZDdEOFRNNDM3UUVid2dXbEZSd1VXQ19CVDJiYlNtclBvVWhvRTdXSENuN2dpS0U4dW8zMllONVZEY3h6TDhPZVJIbGQwMlhNOHhmMDZxX2Z30gHPAUFVX3lxTE1KZjExTHRJRVl4UVAxc0JKcHVlbDUxTURybFZ1RFZTSEJ4NFRVUzBtWlpLRV94d1BZaDJjaHZ5Ty12VW1La2J5NEJSNGlfdUt5WDg3aFVZM3pvOFlTOEVwTlpPSV91d0NEVHBBWDZQVEtROUQ4M2h6TDlTd0RLTXhXRHc3MnZEc004djhLQkhZUUlRa1VtZXl2NGROQTdKQzUyTkhwVmpRU2E4MU1EUTVsb29kaF9jV0VfXzd0RUlFZUMyV0dhT0ZBdnpiZk1mSQ?oc=5",
-      "source": "India Today",
-      "date": "2026-08-02T11:33:00+00:00",
-      "description": "Drone from Pak drops Rs 50 crore heroin, weapons in Bikaner; police foil bid  India Today",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-02T13:19:27.120370+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "05198fc3ef41"
-    },
-    {
-      "title": "Ukrainian Drones Kill 2 in Russia, Strike Wildberries Warehouse - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUFOSUhMZFlqeU12cm5zZUN0VXBQUmp6QmhydjFlQmpDSmhaUklMRUFlYVliT3BrX3hfSkh5TFpSSGxjb3d5UlNITTFDcF93d0w0TjlIdnRzako2Tm5xN3BkUUFrWElWTm1aaXlTb0VvN0hhYm1rQ1pKajM0ZTA0a3ZmR2ZERDFjY25mNVVuNUZmLXhlYzJHVTQ1MEhZa1NUaDBQVlBFV0tldVRZZDE4VA?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-08-02T07:37:00+00:00",
-      "description": "Ukrainian Drones Kill 2 in Russia, Strike Wildberries Warehouse  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-02T11:15:37.570514+00:00",
-      "location": "in Russia, St",
-      "category": "other",
-      "id": "238361e9cdc9"
-    },
-    {
-      "title": "Ukrainian Drones Kill 3 in Russia, Strike Wildberries Warehouse - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUFOSUhMZFlqeU12cm5zZUN0VXBQUmp6QmhydjFlQmpDSmhaUklMRUFlYVliT3BrX3hfSkh5TFpSSGxjb3d5UlNITTFDcF93d0w0TjlIdnRzako2Tm5xN3BkUUFrWElWTm1aaXlTb0VvN0hhYm1rQ1pKajM0ZTA0a3ZmR2ZERDFjY25mNVVuNUZmLXhlYzJHVTQ1MEhZa1NUaDBQVlBFV0tldVRZZDE4VA?oc=5",
-      "source": "The Moscow Times",
-      "date": "2026-08-02T07:37:45+00:00",
-      "description": "Ukrainian Drones Kill 3 in Russia, Strike Wildberries Warehouse  The Moscow Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-02T09:07:57.138046+00:00",
-      "location": "in Russia, St",
-      "category": "other",
-      "id": "9b8c9bb51f4c"
-    },
-    {
-      "title": "More drones crash in Latvia / Article - LSM",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamU0dXRTY2hiRzgxM2FoSHFoVG9kTzNaTnBJTXF6NjNqdnA3MTdjWFVDclFWTkRXbTV6TnlNRjc1MDdja3dldlpDVjAyMVdHZnp4M24yVGl6d0txWWRGZjBXWnY3cFVmcGhrb3NpV0tyRlpKS3pkWWh0YVNKQm40dkUwUnRTVG14eVZCQ0VJaF9VbDZ6?oc=5",
-      "source": "LSM",
-      "date": "2026-08-02T07:12:38+00:00",
-      "description": "More drones crash in Latvia / Article  LSM",
-      "query": "drone crash",
-      "detected_at": "2026-08-02T09:07:55.595281+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "68bc24c26975"
     }
   ],
-  "last_updated": "2026-08-18T09:32:19.145196+00:00",
+  "last_updated": "2026-08-18T10:26:43.083380+00:00",
   "total_count": 1000
 }
