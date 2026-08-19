@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Germany opens new drone research centre - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-18T08:13:48+00:00",
+      "description": "Germany opens new drone research centre  DW.com",
+      "query": "drone security breach",
+      "detected_at": "2026-08-19T05:29:07.303171+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e30ec15b6e88"
+    },
+    {
       "title": "Germany opens new drone research centre - dw.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
       "source": "dw.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "a46a2a3754cf"
-    },
-    {
-      "title": "Bill introduced to police unauthorized drone activity at the Port - guampdn.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVVVkbGdQYWtHdkdGbi1ZYjlWQkpSdEtTbVFEaGJrU2kzbEhpZ3hQMlpKeVM3OUN1ckEwV014SFFEN3hIQWIwZVpPZjhEOS0wU3Z1eDhuVk1VTzNOTDdCeWRoLVA2b2hJa1JuQUFnMHp1dXB3NzZkT1VCeWpNZ3RlaFUzWjBSUll0VHV4ZlJOM2toYW1UQ21WYU5sS24taFZUbEoxLXBrRkZSSlRjdFIydlVhU2U1WE9xRVVjczVYRm40alZUUWV2V2lzRXpFbG5tNzVveWRuX0h6bmR2?oc=5",
-      "source": "guampdn.com",
-      "date": "2026-08-04T02:00:00+00:00",
-      "description": "Bill introduced to police unauthorized drone activity at the Port  guampdn.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-04T04:13:12.102381+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "91c5e253ea24"
     }
   ],
-  "last_updated": "2026-08-19T04:35:15.268796+00:00",
+  "last_updated": "2026-08-19T05:29:08.817681+00:00",
   "total_count": 1000
 }
