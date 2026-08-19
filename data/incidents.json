@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes Ukraine with ballistic missiles and drones overnight: Air defense's work reported - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnc2QkVoWlFSRV8xXzdRSllPc1Y2LVdHb201alhuYlAwYUpDZVBUa01RME5qNFZGNncxaTcyTzhqVTJvS1N6QjlJek5tX3hLOHFIeUtIb0ppekdVSWVzVUFmNENDWktadXFTQTN3eVE0SGh1WVB3MFQ0dVZORXhfbTFsSkVuWWZUQk5hSWdPeFBnLTlucnZ5Xzln?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-08-19T07:01:02+00:00",
+      "description": "Russia strikes Ukraine with ballistic missiles and drones overnight: Air defense's work reported  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-19T08:36:01.426152+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "12d06bf94572"
+    },
+    {
+      "title": "Moscow’s Domodedovo Airport shifts to special regime after massive drone wave - The New Voice of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejAtd2hHb3Y1bVF5aW91Q3Z5TGFvcTVTRzRYUGRKTDJrZGp5OTdsMzBEelBRX0d3bnF4TllPREZSeE9uM2lkNnE4MlpsdTJlaGpuU0p4SHc1M3hwUXRURlVXWnpHUTBiUHB2clFKd2xfdzhseUc5T28zdUNaVUdROVZFdng5M1RXZ3N2VGhB0gGKAUFVX3lxTE5FWnhtOFlTYkxvZGp4YUczMDhyeG12XzZKOUc5TjNqSkhQWWNmZmt1LTN0YjMwZ0ZTSkJ0U1NCN0EzVm1QLXJtMGhVQ3BwaDh1QXZkeG91ZWtXdUs5OEpjNHZDN2gwbVp3dUNwWGlLOURFMWQ3ZkFJY2MzZnk2dWRiUEx3MmFKYkVHZw?oc=5",
+      "source": "The New Voice of Ukraine",
+      "date": "2026-08-19T06:19:00+00:00",
+      "description": "Moscow’s Domodedovo Airport shifts to special regime after massive drone wave  The New Voice of Ukraine",
+      "query": "drone airport disruption",
+      "detected_at": "2026-08-19T08:35:59.098062+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "85d70afb5472"
+    },
+    {
       "title": "Iran strikes Kurdistan with new jet-powered drones, KRG says - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ISjU2dEk1RGM0U2hyVUxRbXNSRDdyNTJqV0lVRWlHTF8tbkZOZHI2bXR5dUo4WEZQbHlfS0F2YjVuSEtxNEJCYzZkT0RHMS1iaFdEeWVxVUZNWFZh?oc=5",
       "source": "The Jerusalem Post",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "38fe44bad40a"
-    },
-    {
-      "title": "Israeli tech company works to prevent drone, helicopter collisions - jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yM3ViaHpRN2I1UHdOVm8zVldxcDNLcEZpWk5NZ0FDMHBxRW9QX1lDRTNEVTczSjZLR3cyaS1JYWRxVUZoa2ZpamRXRDc0djlqal9PWW8yYU91aVl3?oc=5",
-      "source": "jpost.com",
-      "date": "2026-08-04T06:09:36+00:00",
-      "description": "Israeli tech company works to prevent drone, helicopter collisions  jpost.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T07:38:52.733412+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6bca9200ac4e"
-    },
-    {
-      "title": "Sheriff warns of fines and arrest for drone operators - KXLY.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEE2XzlMUW5rQ0laamRtN2lUY25OWnNHcDctM05BOWlKcXZsRHpVb1R0UC16RGFlMHhabFR5Wk1hZTgyaFVNNEtFc0VzUXJGYkhsVDRmdThhclA2bUZGSkZITExMZXQ2MTlVQWNNbEZSTW5lX1ZuRi01bmdrNEpmVnZqQnNFcVFKYko4X2pRQVc5UTNyR1pIdXF2M2NadW53OUlQWnNfT1ZJYVZRMjI0VFpxNHNDS2RMVTRfNU5lVmFTU1QwcVZj?oc=5",
-      "source": "KXLY.com",
-      "date": "2026-08-04T06:42:00+00:00",
-      "description": "Sheriff warns of fines and arrest for drone operators  KXLY.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-04T07:38:50.601239+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "eab92d7d6c78"
     }
   ],
-  "last_updated": "2026-08-19T07:36:50.956576+00:00",
+  "last_updated": "2026-08-19T08:36:02.682955+00:00",
   "total_count": 1000
 }
