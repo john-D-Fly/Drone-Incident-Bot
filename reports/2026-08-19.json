@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone incidents have been reported, notably including attacks on Kurdish Prime Minister Barzani's office. Both the EU and Saudi Arabia condemned these attacks as unacceptable and violations of Iraqi sovereignty. Iran's drone offensive continues to raise alarms, with increasingly advanced strikes against Kurdish targets. Domodedovo Airport in Moscow was placed under special regulations due to a massive drone wave, highlighting security vulnerabilities. In the smuggling category, authorities reported various incidents involving drones, emphasizing a growing trend in both drug smuggling and unauthorized prison drops, particularly in France. Additionally, several countries are ramping up drone defense initiatives amid these escalating threats.",
+  "totals": {
+    "other": 34,
+    "interference": 5,
+    "airport": 9,
+    "smuggling": 6,
+    "arrest": 10,
+    "terrorism": 6,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 13,
+      "arrest": 4,
+      "crash": 10,
+      "interference": 3,
+      "other": 69,
+      "smuggling": 14,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 8,
+      "drone crash": 8,
+      "drone illegal": 8,
+      "drone incident": 28,
+      "drone prison": 4,
+      "drone security breach": 15,
+      "drone smuggling": 8,
+      "drone terrorism": 29,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Kurdish Drone Attacks",
+      "rationale": "Increased incidents targeting Kurdish leadership reflect heightened geopolitical tensions.",
+      "incident_ids": [
+        "d1a11efe98f1",
+        "d774baffb66b",
+        "80f7fa9402ad",
+        "e7ad9d7ce885"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Multiple airports are facing disruptions, indicating rising drone threats to aviation safety.",
+      "incident_ids": [
+        "mZKGuAoSHUjiuVcI6pC1",
+        "mD9LOetTM2Y9PE0PzDBT",
+        "bHUtVE9gYjFbMfxHYZVY"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Reports of drones used for smuggling into prisons indicate evolving tactics among criminals.",
+      "incident_ids": [
+        "f85ac9f9fe83",
+        "d90a3a8c7830",
+        "3fa32983f02b"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "d1a11efe98f1",
+      "headline": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+      "one_sentence": "The Kurdish Prime Minister Barzani's office was hit by drone strikes, leading to widespread condemnation.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "30aeb02d08cb",
+      "headline": "Drone Explosion Near Zaporizhzhia Nuclear Plant Kills One",
+      "one_sentence": "A drone explosion near the Zaporizhzhia Nuclear Plant resulted in one death, raising safety concerns.",
+      "risk_tags": [
+        "incident"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "7c9e6c9e3ec0",
+      "headline": "Drone attack strikes Kurdistan Prime Minister's office in Erbil",
+      "one_sentence": "A drone attack targeted the office of Prime Minister Barzani in Erbil, reflecting ongoing regional tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "597be652ba51",
+      "headline": "Drone incursion at Tan Son Nhat prompts crackdown on illegal UAV use",
+      "one_sentence": "Vietnam initiated a crackdown on illegal drone operations following recent airport incursions.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "cdae473b3c08",
+      "headline": "Drone Attack Near Zaporizhzhia Nuclear Plant Kills One, IAEA Says",
+      "one_sentence": "An Attack near Zaporizhzhia Nuclear Plant resulted in one dead, escalating fears around nuclear safety.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents escalate, with attacks on Kurdish leadership and airport disruptions amid international condemnation. #DroneThreat",
+    "linkedin": "A surge in drone-related incidents over the past 48 hours highlights increasing geopolitical tensions, particularly surrounding Kurdish leadership and airport security."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-19"
+}
