@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Iran strikes Kurdistan with new jet-powered drones, KRG says - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ISjU2dEk1RGM0U2hyVUxRbXNSRDdyNTJqV0lVRWlHTF8tbkZOZHI2bXR5dUo4WEZQbHlfS0F2YjVuSEtxNEJCYzZkT0RHMS1iaFdEeWVxVUZNWFZh?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-08-19T14:19:46+00:00",
+      "description": "Iran strikes Kurdistan with new jet-powered drones, KRG says  The Jerusalem Post",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-19T15:30:09.009260+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a123d2919820"
+    },
+    {
+      "title": "Drones breach key RAAF base again as Marles moves for reform - The Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOODlnMzJWNVY5dkFveWdLYlYzeXVpdTQ3d2liQ0hZSG1UWG1KNlE2TTkwVEkwckFwM2lXYUw1dG95ZWRrRjBHMkNwR3JXSnF5U3J1eFpXOFBkM3BwN2JLSUFCYlhuN1pZWDNpVGF5M2hWMGo2ZHVfeDE1ZU1fRm1DLWZnNEx5T1dtV0tsb0ppbEYyZmVBMElvMTlNZEhPaHlJTTROVU54S3BicEF5Rmt2OHl1UlZVQW43a3YtRmt0YjlfRkhobzlJV1ZsU2NSQ051aWhmVlFxVGh3QV9oSHhPWjVtbVpxZkhjWUw1VVNVWdIB9AFBVV95cUxONVVGS3diRDMwWmdpanI5dzVLOWdsblJKQzlER0NmeDFHWjg0M2NuM29GZjBScjB3aWpnVGY5anFDTlhqd29IUUg0ZTBLUEQ5ZmcwSTV0MVhaV3RqczZBOFY4VW5JVUpCcG5NMDIwLWZZajdKeUdsbFpyVS1sSTBBZW43cUJEemZRTVRJX2JMTGhjS0pJa2xnOHJrQjhSUXZlRFZSODFPd2p5UnZGbDhMT3V2R3dDR0c0Qk5XTGhlbmZMaFpYczkzdnJNMGhaUEhLZDRRUV9YdUl1ajE3WWp3R3oyZElZX242VlJwcUwtZHBzOUND?oc=5",
+      "source": "The Daily Telegraph",
+      "date": "2026-08-19T13:59:42+00:00",
+      "description": "Drones breach key RAAF base again as Marles moves for reform  The Daily Telegraph",
+      "query": "drone security breach",
+      "detected_at": "2026-08-19T15:30:08.440847+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "167b40a139cf"
+    },
+    {
+      "title": "Saudi Arabia condemns drone strike on Iraq's Kurdish regional premier's residence - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15d0xfQkQxcExzRzBGeVZFbm9iMnZIS2VwMTFJSUlMWUxaVC1YVkVNY3A4OVl3SlUyNWVDcmpFYk9LTEdqNFg1b2gxYW95Q01Zd2JXSzd4OEQ?oc=5",
+      "source": "TRT World",
+      "date": "2026-08-18T12:27:01+00:00",
+      "description": "Saudi Arabia condemns drone strike on Iraq's Kurdish regional premier's residence  TRT World",
+      "query": "drone illegal",
+      "detected_at": "2026-08-19T15:30:07.912817+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c4623bf1e870"
+    },
+    {
+      "title": "Stray drone crashes into police station in Türkiye’s Black Sea city of Trabzon - turkiyetoday.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbE40SFJDcEVyVUJzMndMdzVfemdKYzRmM0tIQUIxTmozU2haOXZXaWdWYi0ySFFlUURBcXFkNF9iMFpRa0RDX3hwTXVFX29wLUxHR3drSW9Jb3pLLW9JUHFJeUgwWVNKaTZNc1hNSi1jR0x4VkVyWEFkR3VXSVRvQmR6TlJVN2FfX0x0TURrWXBNUnk5MjhxS0tTZVhhQ245Z0tfSHRKMTQzOEt4UmxYemx2V2hMRFNMa25zVjlR?oc=5",
+      "source": "turkiyetoday.com",
+      "date": "2026-08-19T05:47:53+00:00",
+      "description": "Stray drone crashes into police station in Türkiye’s Black Sea city of Trabzon  turkiyetoday.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-19T15:30:07.310339+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "fc9853ee96a6"
+    },
+    {
+      "title": "German drone crash highlights the need for controlled test ranges, drone countermeasures - Resilience Media",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2JVNEMwRjZ2TVNGS0YwbjRpTU0tOEJ0VVFObENHZUgxXzRJeHdPWktmR2I2VUhCdkZSNEhIRGhLNTVJU2tNY2xJTkY5ejh6NWhwbVNteXhaSU90OC0tcU1naE1vUEpVSUp3ZEhTcnkzYUg3UV96d2MtTTZFYzdQa3pnczlDSW9OcE8wQTlCazA2U2xpYnpScjgyY011TnB0VXZxX1ZPRWxibjVndml2V1R0aGNaZw?oc=5",
+      "source": "Resilience Media",
+      "date": "2026-08-19T14:53:55+00:00",
+      "description": "German drone crash highlights the need for controlled test ranges, drone countermeasures  Resilience Media",
+      "query": "drone incident",
+      "detected_at": "2026-08-19T15:30:04.113153+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8097f7cb6ada"
+    },
+    {
       "title": "Drones breach key RAAF base again as Marles moves for reform - The Courier Mail",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR1V1eS1OU2dQeXdkOHIyZTFTZFNuWHVBSWMtSUxnUkVWVzNhVHlqamMwS0Y0VFZwa0NHN0h6Zm5fZlVaWFVVZXdWMmJvdEQ3SGVyelVRWndCcVhjODc1NklBUTllazFMMzVMWjA1LWxrVEJsWmVqZnhkcGtzbF9iTFRKelFLLTBlVTBtQzAzR3pLVldKc1dhT0VBZDd6NjBPOEF4amZuUDJLd1FOWUw1c3VheXRVVmtnMXhFbkJZZG9IMWFLUzU2bVFvZmthUmlLUTA0OGpETDhmaXZ3U184U3lCbzBqdWVJTm04?oc=5",
       "source": "The Courier Mail",
@@ -11939,68 +11999,8 @@
       "location": "in Russia kill seven, in",
       "category": "crash",
       "id": "0a2bae39493f"
-    },
-    {
-      "title": "Ukraine drone crashes into Russian beach, killing 7, including 3 kids, after reportedly being hit with anti-aircraft fire - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTdFb1JzeTVqZE5pSXJTWG1VclVHR1VXS0hXVHJhNm9ycEZTR29LeVJTV2tHcUxETDE0SXQxSU5FVjlfWDY3Y2hxSDRLT3F5ck9sa2JHczktSXFvS1N4Q3NCZHlmbXhTVDBFV21mMU1yblVBbkxpSURoX1pvdDVpcmVaMlcycmZZME04S0NvdVJVSnJOSVkwVGl0eDV6Vm5tc2Q3WjkzM2toUW5iQ3poaks2cHVOZkZMblBFSlpsVlFEUQ?oc=5",
-      "source": "New York Post",
-      "date": "2026-08-03T18:13:37+00:00",
-      "description": "Ukraine drone crashes into Russian beach, killing 7, including 3 kids, after reportedly being hit with anti-aircraft fire  New York Post",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T16:11:08.462997+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "794ec89ee20a"
-    },
-    {
-      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHFZd2R5YU5fSjRQRl8zYXZNRk1TUkwzTVhZYlFiTURXNExzRnZGWHA3a1JKajRQekdjN3RpY1RDbnQ4M1kwTVVTRS02YWFNeVk3OTRCMDR5TlkyVWRIRUFKYXRYV0h0OUNMZ3g2TUlJNFNiR1ZZVHBHU21kd21LZjdGemZNeG5ZYjRmRVFwVUNOQzNFVXpLcUJXOUp1M3kyYktYMW9qXzE0M1QxMUlPdUhzWl9SMzA?oc=5",
-      "source": "NBC News",
-      "date": "2026-08-04T11:58:05+00:00",
-      "description": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach  NBC News",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T16:11:08.462997+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d43ef6fc6399"
-    },
-    {
-      "title": "Chaos at busy Russian beach as several killed by Ukrainian drone - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOS1uNDY2SnJuQjNlSVhhRFAxcXNWMEE2SG5VYVVFUHZRb0NmbnU0MGxuN1Y2aDVLS0hmeTdpTWQtYjhjbjVvcG9XZ3R4ZUoyclVKSkhKajhFdlluOS0xTC03QlUyOThFUGkyNWE2M1doMnhYem05bWE3b3JQcUppV293eHI2Qk5mZTVNZlpJV3pjZW95UG00SzBkMUtyV2NkWC1rQ2w3M0VETmtGUmFqdi13?oc=5",
-      "source": "The Independent",
-      "date": "2026-08-04T06:50:00+00:00",
-      "description": "Chaos at busy Russian beach as several killed by Ukrainian drone  The Independent",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-04T13:01:33.963343+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e707177f12ea"
-    },
-    {
-      "title": "Poachers detected by drone as Loughs Agency seizes illegal net on River Foyle - Derry Journal",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHNNSFBXUXNXMlRZcUtqRVNqMDZiOHF4NTBjaGY4cGN6UE8xSjlxWXN2TjluVE1FUHpYUHAzd2hoVTl6Smc1WkZUbUp3Nk9UWU9JUGM3MXZkblI5M1BpTGVCVS1XZUhaeVZaV0Q5T18tRTJBV0d2QmdOZm5VSS1NT1cyb0dVOWxBaWxmWExxVkpMWm1UeW1KeTNKWVJuRUV3Z0RrSnRlY2JnNDFoYXVrQXR6MndSZUl1MWwwRVRzQTY3d2J6TFd6N3ZOWQ?oc=5",
-      "source": "Derry Journal",
-      "date": "2026-08-04T12:10:00+00:00",
-      "description": "Poachers detected by drone as Loughs Agency seizes illegal net on River Foyle  Derry Journal",
-      "query": "drone illegal",
-      "detected_at": "2026-08-04T13:01:32.881660+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "93380b61629a"
-    },
-    {
-      "title": "Illegal drone in Taoyuan Airport no-fly zone impacts nine flights - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUnk3Y2tEM3FfTnB1V2hmQVRKYmZ6VXFWeHVyU1NZeU1ldVR4YXk5ZVNxbmVWb1ZJdDU5dlpNOGJuUVRBcm84QXRSQkRJUjFadFNiNkdvdks0cy1rZ1k2ZGlCRTF4dEFWX1JtMVNnU19mZEQzMTBGdWpB?oc=5",
-      "source": "Taipei Times",
-      "date": "2026-08-03T16:00:00+00:00",
-      "description": "Illegal drone in Taoyuan Airport no-fly zone impacts nine flights  Taipei Times",
-      "query": "drone illegal",
-      "detected_at": "2026-08-04T13:01:32.881660+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "733988bc084b"
     }
   ],
-  "last_updated": "2026-08-19T14:32:33.497234+00:00",
+  "last_updated": "2026-08-19T15:30:10.099342+00:00",
   "total_count": 1000
 }
