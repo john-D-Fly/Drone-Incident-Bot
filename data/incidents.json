@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Germany opens new drone research centre - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-18T20:35:52+00:00",
+      "description": "Germany opens new drone research centre  dw.com",
+      "query": "drone security breach",
+      "detected_at": "2026-08-19T11:23:52.519778+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9275cf5dd3ea"
+    },
+    {
+      "title": "Vietnam tightens drone controls after airport disruption - vietnamnet.vn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMThVXzFYdXhCSUh1WklENUhYSFRQRW9fRnIwVnRBZXVhT2JKbTg5YU8wVXhrekZ1VmppenhTSk1fS1RmQkVyOXZYVXprNnRPNk02NEttT09GeVZTMEFDblNDTlg1VTNseGxOR3dQY2s3UHFhSWc3NWFNSGhJYzA3cFBvWWV3NC11V3A3ckVwcEZtVjgtUHVhNkxn?oc=5",
+      "source": "vietnamnet.vn",
+      "date": "2026-08-18T03:48:00+00:00",
+      "description": "Vietnam tightens drone controls after airport disruption  vietnamnet.vn",
+      "query": "drone airport disruption",
+      "detected_at": "2026-08-19T11:23:50.850202+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "ae975c5201b3"
+    },
+    {
+      "title": "SWAT standoff at northside Houston apartment ends with officers flying drone into building, HPD says - abc13.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWc2SE5GOHlMV2hKZk5TLXp2STJScG52WkVLcjFVRGhCXzZFWFBrY0gyYUVDMzNhcmd5UmVjMTh1MG84LUtqVnNJY3o4b01wbHJ6d2VLYUpTeExkQWtseDJTb0xiTGc1MGFGRFJOT0RoVjRqb1FpcEVFQXROTHExNE5GcF84Y0pnNHNUZ0xtelRmN0tkX0cyZEQzczdQbVZDX0N5YnE5N2ZBR0t0RkRnWkNXb21rXzZHaUFV0gHAAUFVX3lxTE5Ub2ZaQUsxRzJnb2Zndl9zdEVIeVhTWEc3cFZCaGVBWGNRVjZfTU1HWXhMdEthUXR3ZVR6TG1OQnFuNnlNSUdkcFRzSWN2d0ptZGJQVUt5RDQ5dHhfNEpBZ0IwZ0dsbENJMEVpZzhHalpodDZQdEJUQ0VlYXNDRkpqU19qMkZhOEJlYlhQOXJxSzlZNU15YXhjaVY0OXNwYndZbTBydTNVY3ZjSlNxdFBBZEVCZnd4Q2hLR2p5a0dnZA?oc=5",
+      "source": "abc13.com",
+      "date": "2026-08-18T13:37:53+00:00",
+      "description": "SWAT standoff at northside Houston apartment ends with officers flying drone into building, HPD says  abc13.com",
+      "query": "drone arrest",
+      "detected_at": "2026-08-19T11:23:49.141370+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e73f05c0a7ae"
+    },
+    {
       "title": "Canadian MP Condemns Drone Attacks on PM Barzani’s Office - kurdistan24.net",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDdtOFdHNHJRcmhjRklrelNnMlBDTWZoRmdpX3cySENJT2JHWFVMZ3hlMUttcmJ4bmJabTFvNUpNdXhKS3NEdDllem5iUTZjUEZ6UjVHeHR4aXhTSmt0R2dBQ3Zza3NpRlV1eE8xWFh4enJTUXZoRWtEMF9nTm9od1pJdjZxR2Q5Um04OS13WW52WlNGeGl1N0FlaHMxNFNPUVE?oc=5",
       "source": "kurdistan24.net",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "9d239edb3aa1"
-    },
-    {
-      "title": "Russian and Ukrainian drone strikes kill at least 5 in each country - Palestineherald.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2xsR2d2eEMyUWstRjA5YUVjbDJYSUE4bkdLdFdzUFh6bEdZMDUtUmJEdkVoc1dWblczbXBYbWw0V3Zid2NRZWY1YmJoZVFlVEplVnY0X0N3SUpnbGZhYmVpZjlVLW9adlAwT21rUHNyY0lKVk90ekFxdlpmT0o1UExrTHlhNGh1Vzdoby1ORExOQTk0TnBvTjlQSERBelAzaUdhdE1lcGlhVnZmc29fNW1ocnEtU2Z1ZHdGYWVaYm9IdXhJNzVfcUwtZ21FRGo1Z2lHNHhaQTE5dzhuTXJpYm1IU2tac0ZNOGYzVXdwcw?oc=5",
-      "source": "Palestineherald.com",
-      "date": "2026-08-04T09:26:18+00:00",
-      "description": "Russian and Ukrainian drone strikes kill at least 5 in each country  Palestineherald.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-04T10:38:22.224396+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a93a4930f585"
-    },
-    {
-      "title": "Haryana to deploy AI-powered drones to track illegal constructions, mining | Hindustan Times - hindustantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3N5N3F4Mkhja2lqWVVWZ2c0QzBrMURBSHpGQkk0RF9ub3c1NmJ5cGNMdmh3SW9GYU8xOUZab2FEYjV3RkpJcDYwakEybTNPZUs0YzhhZUFQNExSRUFLc2Yxelg4cUxYU01zTWd4cks0M3M3MHFwN2kwYzh2Ui1BMGNfU2tVaXhTRGRvOUdyN3NSOUdJMndMV2EweUNjdjVjM2ZXaXdnVkEwaU40c1RQNGlkQXJDT0FZbE0ySnJvM0RFQ3preEpoVXhWWWNvQUxpa0xCTDlKYW1rc0tzMTVPaUxn0gHnAUFVX3lxTFBlZ1dXZDcwZWcxSzJETEw0a1pRRVp4a2RBMTJYRHZDMy16NEpkVUE2UWdGNzJIRGdiR1JfbG1UbS01R2tSaTlzQ00wdll3VG1jWlRsVlBLSFRRc2NtSE03akJ6bmdoekczMF95LTB3UlNobWVmWDFibXp0Vk55czEtQ21QMVZ2SEFVRUdfX1NmSTJVMjREbWMzbFFBaDA5dDZIT2tXcjJTdFEtbEIydFRxSnFvdHd3ZGdxMmh2Y3JLTWhVN2JTa1ptNnp5enJ4ZWhuM3d5cjFSWGxSYm15UGdpTjdaV2F6TQ?oc=5",
-      "source": "hindustantimes.com",
-      "date": "2026-08-04T03:31:11+00:00",
-      "description": "Haryana to deploy AI-powered drones to track illegal constructions, mining | Hindustan Times  hindustantimes.com",
-      "query": "drone illegal",
-      "detected_at": "2026-08-04T10:38:21.238561+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "41ae0a86793d"
-    },
-    {
-      "title": "Illegal drone in Taoyuan Airport no-fly zone impacts nine flights - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUnk3Y2tEM3FfTnB1V2hmQVRKYmZ6VXFWeHVyU1NZeU1ldVR4YXk5ZVNxbmVWb1ZJdDU5dlpNOGJuUVRBcm84QXRSQkRJUjFadFNiNkdvdks0cy1rZ1k2ZGlCRTF4dEFWX1JtMVNnU19mZEQzMTBGdWpB?oc=5",
-      "source": "Taipei Times",
-      "date": "2026-08-04T09:32:07+00:00",
-      "description": "Illegal drone in Taoyuan Airport no-fly zone impacts nine flights  Taipei Times",
-      "query": "drone illegal",
-      "detected_at": "2026-08-04T10:38:21.238561+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "111fad914713"
     }
   ],
-  "last_updated": "2026-08-19T10:27:39.413811+00:00",
+  "last_updated": "2026-08-19T11:23:54.105524+00:00",
   "total_count": 1000
 }
