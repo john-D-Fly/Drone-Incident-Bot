@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drones breach key RAAF base again as Marles moves for reform - The Courier Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR1V1eS1OU2dQeXdkOHIyZTFTZFNuWHVBSWMtSUxnUkVWVzNhVHlqamMwS0Y0VFZwa0NHN0h6Zm5fZlVaWFVVZXdWMmJvdEQ3SGVyelVRWndCcVhjODc1NklBUTllazFMMzVMWjA1LWxrVEJsWmVqZnhkcGtzbF9iTFRKelFLLTBlVTBtQzAzR3pLVldKc1dhT0VBZDd6NjBPOEF4amZuUDJLd1FOWUw1c3VheXRVVmtnMXhFbkJZZG9IMWFLUzU2bVFvZmthUmlLUTA0OGpETDhmaXZ3U184U3lCbzBqdWVJTm04?oc=5",
+      "source": "The Courier Mail",
+      "date": "2026-08-19T14:00:31+00:00",
+      "description": "Drones breach key RAAF base again as Marles moves for reform  The Courier Mail",
+      "query": "drone security breach",
+      "detected_at": "2026-08-19T14:32:31.741553+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "652b10d0bec1"
+    },
+    {
+      "title": "EU Calls Drone Attacks on KRG Leadership 'Unacceptable' - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkNfanFDaGlONW05M2Vxek9GUndHRVJBbVh1Qk9xRm01YlZnRFg4aWxMQkx6TmotYTVaRWpteldJYlRhVXp6MnhhalY3cnpjRkl2d0hEVWdBSVdFNWxKT2RON0VMNW81RElIUGx1ZkcyQXZ6RUprQnlwT1hNYkxXLXZUbDMyX0Z3OUpmWUtMV0J1aXgtRU1DeFhaYjdoUQ?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-08-18T20:17:19+00:00",
+      "description": "EU Calls Drone Attacks on KRG Leadership 'Unacceptable'  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-08-19T14:32:27.312761+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c6134159c4af"
+    },
+    {
       "title": "EU Calls Drone Attacks on KRG Leadership 'Unacceptable' - kurdistan24.net",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkNfanFDaGlONW05M2Vxek9GUndHRVJBbVh1Qk9xRm01YlZnRFg4aWxMQkx6TmotYTVaRWpteldJYlRhVXp6MnhhalY3cnpjRkl2d0hEVWdBSVdFNWxKT2RON0VMNW81RElIUGx1ZkcyQXZ6RUprQnlwT1hNYkxXLXZUbDMyX0Z3OUpmWUtMV0J1aXgtRU1DeFhaYjdoUQ?oc=5",
       "source": "kurdistan24.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "733988bc084b"
-    },
-    {
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13a2ZCWUQ0NFZBV1JhLXp3T1hPOUoyM3g5SzFELUk1NFRNWUVPam1SSVFLSXhMZVFkLXJVd1BGclZtRUp1VzNPYjRnZjBGVG10RlgyRkFZakFwQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-08-04T09:35:06+00:00",
-      "description": "Five dead in Moscow region as Ukraine continues warehouse strikes  BBC",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T13:01:32.300944+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8821c8462639"
-    },
-    {
-      "title": "Russia says 7 killed when Ukrainian drone debris hit crowded Russian beach as 5 killed in Ukraine - ketv.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BQV9zeVpvbnVkOXkxRklSbTVFMXRaSDNjLU1mQ2xfWXlXUDJ0QWJZQUZwTUhlMWI3V01EZnNVVzBUbmM5Y29KN3dMU1h0RlU2OGhnWm81RkJrbU1RTzJ4T3BuUGhOdEVtM2poRm5aUFktaWpRQ2drbHRqeVA?oc=5",
-      "source": "ketv.com",
-      "date": "2026-08-04T11:30:00+00:00",
-      "description": "Russia says 7 killed when Ukrainian drone debris hit crowded Russian beach as 5 killed in Ukraine  ketv.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T13:01:32.300944+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9bd1b3182c2c"
     }
   ],
-  "last_updated": "2026-08-19T13:42:34.235032+00:00",
+  "last_updated": "2026-08-19T14:32:33.497234+00:00",
   "total_count": 1000
 }
