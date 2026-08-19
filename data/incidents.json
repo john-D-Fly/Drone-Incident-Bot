@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian Drone Strike Kills Woman in Belgorod Region - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3FRVVBCNVlXSnpNN01ydU12MGJzVmJiSm14QkVZUWJkMVEzN3BlMndGQmFaZnUtS3BERW81SmNKeXZqWHRYWjZ6aVY3ekc3aVN4Z1M2aENzX3p0SGZDOGxYYVVxTkJnX1IwUEZ5dVBZQWJPaHZGcExvZER3YlZwbVgycG9pU0o2bVJrNEhSSTNlVF9sRVVvRnd3bWxUQ3Ata0t2OE40UQ?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-08-19T15:15:53+00:00",
+      "description": "Ukrainian Drone Strike Kills Woman in Belgorod Region  The Moscow Times",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-19T23:21:23.343673+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7684fac2b241"
+    },
+    {
       "title": "Drone breaches spark security concerns at RAAF base - 7NEWS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMndvYTUwTG9qa0U0N1R4QjdUaUZBYnZRR2hmNE1YcWRpaHVuajdlTFk4UWJTQjBtSUdKSUFNN21hMjRZc2F5QVpmMDRxbk4ycEFyTDJEN1FUUGlkNm1UejJhZTVVVmhOR3lDcUVvc1Y0Ny16dTNxR1FyLUNTOTY4T2RtdEZ1TnMxNHNENTRIRHJPWk1fanMwNWlGVVZEME9WblE?oc=5",
       "source": "7NEWS",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "f82c821598fd"
-    },
-    {
-      "title": "Twice In One Week, Georgia Deputies Arrested People Trying To Use A Drone To Drop A Package Into State Prison - BroBible",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3Q4NWhKSG5tZEFmbU16ZURNTUlBSlJ0eUNZcWlkMklhdzZhYXREZndKdlRsTndJN0xlTG5CRXljYURZLVp3TXNmZTNLam5WNFBzRHFFTURqZ3k1R3otY29hdWZQUm84UEdNRnhXMkpReEZPbDBYREdMSkc4N3lFTDVnQ2p1amxiNXJaVWN0c1VEdw?oc=5",
-      "source": "BroBible",
-      "date": "2026-08-04T19:50:38+00:00",
-      "description": "Twice In One Week, Georgia Deputies Arrested People Trying To Use A Drone To Drop A Package Into State Prison  BroBible",
-      "query": "drone arrest",
-      "detected_at": "2026-08-04T20:23:11.955311+00:00",
-      "location": "In One Week, Ge",
-      "category": "smuggling",
-      "id": "dad825368199"
     }
   ],
-  "last_updated": "2026-08-19T21:23:59.773676+00:00",
+  "last_updated": "2026-08-19T23:21:24.409206+00:00",
   "total_count": 1000
 }
