@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Germany opens new drone research centre - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-18T08:36:38+00:00",
+      "description": "Germany opens new drone research centre  dw.com",
+      "query": "drone security breach",
+      "detected_at": "2026-08-19T04:35:13.473400+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "753765c782fd"
+    },
+    {
+      "title": "Germany updates: New drone research center to be opened - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUV3WWUxYUd0OHlFNlJTcUNEYWFuTXlJTEZaVWRPelBZRFUzNHMzYmI5UHdEVUxxQTNNUy05WHB5SC1tUk9RVDlSRUM4TmNKcW5yVkI2VFhBWERCQ3VDSUpWZmNVdi12MExEWEZUUURIMnpEa1pYZE04QThvWXNkUFRhdW1sWnJ1TjlwS3JLVTI5LTdB?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-18T13:34:10+00:00",
+      "description": "Germany updates: New drone research center to be opened  dw.com",
+      "query": "drone security breach",
+      "detected_at": "2026-08-19T04:35:13.473400+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1c77ee74f919"
+    },
+    {
+      "title": "Drone crashed and exploded in Zhlobin, Flagshtok reports - Belsat",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2pVcldqZVRkQV9uUGtBU2RuN0FkSjl5c01pSFFUcmI3b1FFb25oa1JnZkFqNWtwNHBKRThJcjdCeUhmUndtMVM0N3NYUlMzYWRPMU9iemdxTXdwSG1nVFd6aXVyMUpDV3VDbmZxRmxVNDRXYXZlYlVhWEdBOEZqcTdlMXdLQU95bkV5bWpR?oc=5",
+      "source": "Belsat",
+      "date": "2026-08-18T14:45:00+00:00",
+      "description": "Drone crashed and exploded in Zhlobin, Flagshtok reports  Belsat",
+      "query": "drone crash",
+      "detected_at": "2026-08-19T04:35:12.367004+00:00",
+      "location": "in Zhlobin, Fl",
+      "category": "crash",
+      "id": "6ae0459387f1"
+    },
+    {
+      "title": "Southern Military Region foils drug smuggling attempt using drone - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmltNnBHZXhocVpMdUNZdjRuLUkwQW03d0JMUlpxZW8xd3lpVjZqTkZfYjlPNlo3NGhFdTlKRnBtVlMtVVhJNjV6WDVFV3BmVDF3NXNVQ3UxUWJwek9xMVVEOVhMVVkxYmZMbk8zN29EbGxOQm5PUy1WTDBubVdabWd2WmI2dmlsemY5X2F3N0x4V1lxRnpuSjdn?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-08-18T15:25:01+00:00",
+      "description": "Southern Military Region foils drug smuggling attempt using drone  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-19T04:35:10.593887+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3f405589bcd4"
+    },
+    {
       "title": "Maia Sandu: More Aid to Ukraine Can Stop Drone Incursions - romaniajournal.ro",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG5abUFpcGNaYnRPWnYwOWdZdWFzV3UtR3c4ZFl0TDFsTUFOd3l6Tnh2cmJuelFLQ29TdHBPRDlRdTZZaVptc2tSWmVvcno1YllPLUc0SkdJRmwtSm9iR25HUFNqbnlWZGZKYWoyNl9JMURDaEVETHZ1ZFhibHdpT093Mlhma0lkaGxhc20ydnFFSThUTGJkQl9MbFLSAaIBQVVfeXFMUEZscjlpUG5pd1MtRFJ2ajdFUTMyY3RmdkNaMmZQWDNjRjhvZ1ZMRmJQRmlmaXRBbEtfd1lmZWppUjlwYmRLTWh1OF9lc1VBTXJGZmJoNVV2dEcwRm5MRHdwU2hEM1hsazVTOUp5T0lNdUFiOWY2RFNiUmJRTjRpcGdMLXNoaVZYdk9XWUJxeThEOHJ3QjUyMDk0UmNZdXZWTEF3?oc=5",
       "source": "romaniajournal.ro",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "91c5e253ea24"
-    },
-    {
-      "title": "Children killed as drone explodes on Russian beach - Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU09HcTBzZDdHM0xIel85VkE3QTZRUG8yMkxFYmZSRVdoV3VnTVJuY3JDUnVZZXo5TnhTdU9yZDZoeVpyb3RtbURDRGJFR2N1RXAxMjRtc2NMYkxHUVNwN2M1UG9vWS15X1ZBUjZEWW9fTWhCTGxabTVJY1hQNUtYR0o5a1U1TTNEMXZ1NjJjLUV4Zjg0cnJCbk5YNzFYaFB1QTZXX0FhaGZDaENJVzI4WmVhdkk3NTg?oc=5",
-      "source": "Nine.com.au",
-      "date": "2026-08-03T22:28:04+00:00",
-      "description": "Children killed as drone explodes on Russian beach  Nine.com.au",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T04:13:09.916142+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bf1c17e4c641"
-    },
-    {
-      "title": "Russia says seven killed as Ukrainian drone hits crowded Russian beach - cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmtrX21kWmp1X0FzRWhhYS1HLXRtRDNseldsbFlpdUNSOWptTVNOUlpEN01ldHFjcDE0YURMZFg0VXdOOTdGbGdoZTdwUVMxQ0lGYzJKTmZzZU81TEhtSDhJQjRtdlZkYUJDa1RGMmtsdFltVVpCMWRIMnF5NnlJejFRemR4YjQ?oc=5",
-      "source": "cnn.com",
-      "date": "2026-08-03T18:59:46+00:00",
-      "description": "Russia says seven killed as Ukrainian drone hits crowded Russian beach  cnn.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-04T04:13:09.916142+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c3d9ea31dbc2"
-    },
-    {
-      "title": "Drones carrying contraband into NC prisons on the rise, officials say - wect.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3ZRMUxvQ3hMQ0FpSFZKZmhsSmJRNDNCeEtUZGVWd3I4SnlIU2sydzBzSlB3SDlqZlJsSUtaeUxxT3J4NXF2Sl9JTjVjbEx3Q3lqOEJsLVhXTzNfYmNKTHROcTYyVDJDTjlybmFMSDVuYld0cG1EeWcxVjVxVVhGOXVfcUlCV2xPdXlIVVlJaUNsTkN3a1lmTy1B0gGuAUFVX3lxTE9vMDRKM3M5RUtYWTc1cEx0UEtIaFl0N3FlMnpOTV9BRzYwcnh0TDBOb2ZtYlpWcHFzY0ZXWklGYVdUb1hGZzFLc0ZkNDZfczNiN2xaWUxPZVZadGxCUDVtd3FFTGNwNENzVDYzUFBGRnlBTGttbzQ0UUIxMWlvUEpwYzltaG1ObG45ZERoelhUT3ZFVG1NbVZkMUphYTZpUnJqX1BjQkVoTGh0eDZRUQ?oc=5",
-      "source": "wect.com",
-      "date": "2026-08-03T16:05:00+00:00",
-      "description": "Drones carrying contraband into NC prisons on the rise, officials say  wect.com",
-      "query": "drone prison",
-      "detected_at": "2026-08-04T04:13:08.749695+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f21d5541c836"
-    },
-    {
-      "title": "How a late-night drone sound led to felony arrests in Georgia - FOX 5 Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ04wZlpfWU9rMHlhV0dZejNWVEZSM09Qc004WVNXTmlJam5BUGFrNnhCaHI4T21pZFFXbE9velJBWndEbnh4MDZfaWNNZFFiMW5vMDNkNndXR3BVdi1zWS1ycEp6ZFUwZHJCc2pBb2ZzaGVfdV8yV1l2Wm8ybHNMdjNJQkIwR29FeGM4Nkthbw?oc=5",
-      "source": "FOX 5 Atlanta",
-      "date": "2026-08-04T00:41:52+00:00",
-      "description": "How a late-night drone sound led to felony arrests in Georgia  FOX 5 Atlanta",
-      "query": "drone arrest",
-      "detected_at": "2026-08-04T04:13:07.666685+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5d7b79eea639"
     }
   ],
-  "last_updated": "2026-08-19T02:55:54.486618+00:00",
+  "last_updated": "2026-08-19T04:35:15.268796+00:00",
   "total_count": 1000
 }
