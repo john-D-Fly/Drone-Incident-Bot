@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes drone component facilities, other targets in Kyiv, defence ministry says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGJoZF9SaTdRNUxGRnhoYzJFVTUzUklXV21uVjM4cXh2Ulh6LXZQdmFkMnVRcU9uR3hSdDFKdzRoZHZDREtmcl9uYmExZndlNDZyb3l5WXYxZ091MzgxTDlLbGpJYTFhSXFTbmlubUhXNGZ2MEYwOGNNaURYNkJUaEhKYTZFdmtweWVzb0IwRzVRZmY2RUxQNHZVOThKeFotclc4aXhGS2V4NVByT2FuMXdzTmx2SFpMNlVF?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-20T05:14:00+00:00",
+      "description": "Russia strikes drone component facilities, other targets in Kyiv, defence ministry says  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-20T18:37:20.365948+00:00",
+      "location": "in Kyiv, de",
+      "category": "other",
+      "id": "afcb0d629f39"
+    },
+    {
+      "title": "Drone crashes in Romania during Russian attack on Ukraine - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWo2ckxCRXZlM2pLc2puTTNoVVptaDZzNlIzWHNCSkVPajdqcFl4dmx2WkEycnFEc0NBdGF4MFZYMWZKamRQQkRmT2Y4YVJqX05JaE02X1N6ZVd1MkxNNVphQWVsbkFwTjNDVGdHNjRTRDhQS0taNmxUX2syYzlwS0FTamdUdzFXdGItOFpmdFk?oc=5",
+      "source": "TVP World",
+      "date": "2026-08-20T09:54:00+00:00",
+      "description": "Drone crashes in Romania during Russian attack on Ukraine  TVP World",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T18:37:18.530704+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "2ee3d27dcf5c"
+    },
+    {
+      "title": "How drones are exposing the limits of international arms control - Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUo3VFRKZldRM21zZmxnM1puMTU0ZC1PQm0tVWVjQ0tWbE5kV2lvcVZ2WlZOOC1Hc0ZLWC0teFdhQmE0TnBVdl9fSGszc0U4RUNCQXhZODYxTVY5YVlWNlZsSkIwa2NaamhHWEk2dDNQZVRxY3ZmUXJhYXN5eVJqTm5SeVZsZXRYOVUxOXFPVVdrWXJzdHBtNHE5Skg2aF9qTGktTXJn?oc=5",
+      "source": "Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "date": "2026-08-20T16:07:10+00:00",
+      "description": "How drones are exposing the limits of international arms control  Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-20T18:37:16.877431+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0f5b63836c85"
+    },
+    {
+      "title": "Romania destroys drone near gas project, blames Russia - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA2Z1hkeENFTmN3eDNWdDZQd1dfYW9oQW01MlM1U0JhZnowYnFuMGVHMVFtNlF0Rm9xNkc3RE1VVFJGSFFsQ0piNmF4eEd5NEZpR3FZb3BHUkIyWXRVVU5wVEJkR0dPOV9TSGhCWVBGVXR5cElOTVdBTDNGenpSQ0ljSG5TdnhhMWQzWk5aMNIBjwFBVV95cUxQRXJ4aVJWcVROZmN4cWdXaGhwd01DSVRia3BKOTVDMXI4WWFXMXdlNmxXaU51SkNPMTFzYXY2MGRRcEw3aHJwRjZpT3cxY053RTRqZXVSYXlOeVl0andWMEVraHN6Zk1Dd2dUNlVkd3lISGxxeGk4bDBBZUhLdUdZa3hzb0cwR3RjRzFSUWMwTQ?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-20T14:00:13+00:00",
+      "description": "Romania destroys drone near gas project, blames Russia  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T18:37:15.304289+00:00",
+      "location": "near gas project",
+      "category": "other",
+      "id": "76f26745fe87"
+    },
+    {
       "title": "Inside the Counter-UAS Response to Drone Flights Over Spokane Wildfires - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEpSdWRsb0ZOTUhOSmNJUXc3Y1NrN2FxSU1vWV9haTJ0Qkw4VlBzSEhxZk9ad2w5MTlXZGg4QXBRTTR3clBnZm8yNDNmdllFZjNkUEZtVWR4X1h1WjVoZWZ3V3hMQm9KWHVCcEhCYlBxZWdkemY0NWROSGtlM19PdlFIbVJuQQ?oc=5",
       "source": "Dronelife",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d9cec0ecff20"
-    },
-    {
-      "title": "Explosive Drone Discovered Next to Ukrainian Cargo Jet in Suspected Sabotage at German Airport - airlive",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGRZaE9uUGpmVi1WSlkxV3lwc18zZXkxTUFRRWdPbDVSekJFdDNFazNhcWptWTNib21CUXpHSHdCa3Z3THJBbG9sdkFIaUpCUnVGR1dQRmZ0QmE5djN3ZUZwLVJIYVV0ZkJHRWZId3lzSDVVZ2RCUk51WENPcExEdEtTaE9jM0pUclFYbDROZ2FrZy1wQ3l2cW82VTJPNWVUSThkQk1EdF82U29DSENLVEtoVDRTeTI5MlF2WXY3cHhZUVBqa0gyY2F2dUQxRURS?oc=5",
-      "source": "airlive",
-      "date": "2026-08-05T13:16:05+00:00",
-      "description": "Explosive Drone Discovered Next to Ukrainian Cargo Jet in Suspected Sabotage at German Airport  airlive",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "at German Airport",
-      "category": "airport",
-      "id": "6fb391694818"
-    },
-    {
-      "title": "Explosive drone found near Ukrainian plane at German airport - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUtPODl1VjJOb2hheDJzaV9pREQwcGVHS0Vzc2lzQnowU0VaaEZEQWxuZVZ4QzYyVEQ1VzdUS2hiUXlJdE1DX2psbWRpdHlkOV9FSk96a2ItSUEwT1VqejlMTXFpRmItZ2VqSDI4T0ktVlFWLTZ1TUk2OEJTYjRrR1FPblBJQUptdUc3a2hRYUxHYmRYQWlYc1doWDJILXc4YkJEeVRIZlFCY2Mwc0lSXzNZYnJqSGxQeEV5X1hwbGV1UnlpZVc0eg?oc=5",
-      "source": "RFI",
-      "date": "2026-08-05T11:14:12+00:00",
-      "description": "Explosive drone found near Ukrainian plane at German airport  RFI",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "c3509f042e06"
-    },
-    {
-      "title": "NATO is aware of drone incident near Ukrainian aircraft in Germany - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjBmeHFaMllvc0JKTkJ2RV90eEI2UzBqampOSkN1M1pwaEJpUl9penBYcFA1WVJoTEJGWUQ1TzhEdFJTeDl4Y1Bqd2pNZkNsTDFDQVE1Unk3U1ZreU5hV3JsR3liM1I4QWl5eWZzVGM5NjhZd01mWDZ3WHNzbFNyVHpRN2JOWVFfUk4xa3NTUi0?oc=5",
-      "source": "yahoo.com",
-      "date": "2026-08-05T12:19:00+00:00",
-      "description": "NATO is aware of drone incident near Ukrainian aircraft in Germany  yahoo.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "near Ukrainian aircraft in Germany",
-      "category": "other",
-      "id": "302831875dd4"
-    },
-    {
-      "title": "Bomb disposal robot deployed after drone carrying explosives found at German airport - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFcyenlkNTJ4OVBuc0traTZWb3RYMTRWenBZNl9SNlNFc0J2OTBodWlUdWZWU2x0OGhSa3c1WUxxOEJ0bllCVThiN3J3ZDRWMExGY2V0LUhmZ21VOEs0dE02RGJnMG1RTGp2Z05zdkoxSXVxUTEzcTNiS3ZmVmZKcHRCZGNBUVFfTTNnYU9qN1hYc3c2RmdxRzFXSWNteC00S3NTaFIxT1diUQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-05T11:37:00+00:00",
-      "description": "Bomb disposal robot deployed after drone carrying explosives found at German airport  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "ea2d5f0fe50c"
     }
   ],
-  "last_updated": "2026-08-20T17:27:41.644503+00:00",
+  "last_updated": "2026-08-20T18:37:21.501099+00:00",
   "total_count": 1000
 }
