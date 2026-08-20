@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in Romania during Russian attack on Ukraine - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZzdNOEtBNmRrcG9tZTE4ajhUdUgyczY2aDlaSWRBV3hCWl90RmE4aXhIZ3RRYzJiN0tFWjJXemhPMEFnc21PYkhsdzdmUU1pUGNJeGdiNFhiUjRuSVRTNk93QVFIbVhuaEhpZ29tc0FSZ3piYTNwRjcxMFE2QWxZNmg5VWtzNE1SeWVhRERwUks?oc=5",
+      "source": "TVP World",
+      "date": "2026-08-20T09:46:00+00:00",
+      "description": "Drone crashes in Romania during Russian attack on Ukraine  TVP World",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T13:44:52.456185+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "43ad3782a18f"
+    },
+    {
+      "title": "Drone Crashes On Romanian Territory - REFORM.news (ранее REFORM.by)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hcE1aRGRlS2s4WkJSRkJyQk5Ha3pOeV9IYlh1QW9kU0tqbEh0UlZvendoeVNOTlhMcWw2RWhnM3RhYmFHejB6SWNpOWNDeWlnRUhmSWtiU0Frc1VjRkR3c3kzN3d1Y1FGYWlr0gFvQVVfeXFMT1htdjE3X1RGX0xxbmFKeEQ3b0FEUU5ub3pjZUl1YlJnRVU3Q295RTI5Z0tVQ3UxdHo2QW9KQjA2M3JvSXNJanREdHUzamxUMXhTY2FXV3diQ2xRSHplemVuMEViNy1IbmVmRzRyOThB?oc=5",
+      "source": "REFORM.news (ранее REFORM.by)",
+      "date": "2026-08-20T10:12:05+00:00",
+      "description": "Drone Crashes On Romanian Territory  REFORM.news (ранее REFORM.by)",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T13:44:52.456185+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "060275f0bf11"
+    },
+    {
+      "title": "Drone debris was found in Moldova after Russia's overnight attack on Ukraine. Sandu reacted - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmNmblZYNW1FR0RFTWt3T21yeXc3ajdsR0M2VmpLcE15NHQxTk1rTDFrNmdqdXhkMThVTEtHdFVoc2toVGJMQVR0WDhLUm5nUnZGOFh6b1lRV2dsNktrWEE0Tl9MdVRXVE11X2wtTnd2MUZGXzJyXzM1VWY0UmNIMzFQX1FrYjZNX0QzRG1wNFo4MlRSYTdNaFJNb05MaDl2SHM4cFh0VVdFVERkWmh5UEZR0gGwAUFVX3lxTFBpVDcyV3Q4eHdnN1FXR2ZDTE9fUk1NREFycGk5TDhPOXhuOEtPTDdCQzhWanRLTGZRTGdyNkx1RjlLMi1DNDVqME4yMHZwbS11d3dZaTlUcFMxOS1lUVJUM3RldUV1RjJDTmMyQkppcWJSYS1oRHI4RnNaVk90XzRCT3RZQlRTSmZXWWV4eHVqVlpEN2wyeGhhcnNLR2xMQ2JHcVJQMTZNYnluamt6dTJw?oc=5",
+      "source": "Українські Національні Новини (УНН)",
+      "date": "2026-08-20T13:28:59+00:00",
+      "description": "Drone debris was found in Moldova after Russia's overnight attack on Ukraine. Sandu reacted  Українські Національні Новини (УНН)",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T13:44:49.318726+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "affe21195a57"
+    },
+    {
+      "title": "Romania destroys explosive-laden naval drone near Neptun Deep gas project - Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmVZNG5sNU9WU3lfRzJWZGJ5YTg2QkVLYjhSVk8ySWVYRUprLVJ3WnZDSGhYaDF3OEtBempoZEcxQWhwaHVUR3pua2pXRWNjNkN6LVlUVmxQeDBYa1c4aEdMbjVMZDJuQVh0WUI5MV9rcUF4SUg5TjB0VktHbXRqMFZZYTVmR1p4RFhQd2lSOHlsWEgzVHc3V0lvRTQxUGR4VkxLVzFhNWhxNWVJLUpyTENMd01oMUZW?oc=5",
+      "source": "Türkiye Today",
+      "date": "2026-08-20T12:57:12+00:00",
+      "description": "Romania destroys explosive-laden naval drone near Neptun Deep gas project  Türkiye Today",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T13:44:49.318726+00:00",
+      "location": "near Neptun Deep gas project",
+      "category": "other",
+      "id": "7c6beebac28a"
+    },
+    {
+      "title": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-20T11:40:28+00:00",
+      "description": "Romania destroys marine drone near Neptun Deep gas project, minister says  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T13:44:49.318726+00:00",
+      "location": "near Neptun Deep gas project",
+      "category": "other",
+      "id": "5eaad2b86ae1"
+    },
+    {
       "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -11939,68 +11999,8 @@
       "location": "at German airport",
       "category": "airport",
       "id": "374e229b1932"
-    },
-    {
-      "title": "Drone Incident Disrupts German Airport Near Ukrainian Cargo Plane, Sparks Security Investigation - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb055MDM3S09BZWRYR0dQWmJydkFCcGg2WVRxcHNyWjZ5cFVISW56cHNoMVNNV04tNU9jaklJeEVWNnZ1WHhnSWthdFNWN3VnWG1xTk4tdGhIWUlkZlQ0dDExZHdrUFU5bFZqRDdkblRyd0lVQVJaMVdOLW5PT3I0ZHJqWFZOd0JDUWZHbnhUbXRUbGdwcnZHUkhwVDBMeVpXQjUtdjFDS3NKRWprVGpMcjVGRnhPaTVVaUluWnoyN0Njd0Ruandpa1JoX1hLakt1Wi14Znln?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-08-05T11:11:52+00:00",
-      "description": "Drone Incident Disrupts German Airport Near Ukrainian Cargo Plane, Sparks Security Investigation  Kurdistan24",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T12:51:08.288447+00:00",
-      "location": "Near Ukrainian Cargo Plane",
-      "category": "airport",
-      "id": "e57df309a170"
-    },
-    {
-      "title": "What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination - The Diplomat – Asia-Pacific",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalJfMGFjNFY4dmRZNWQwN2JIUHZvQU9IbGZlX3FNR1ZsY3VHYXlWN2dac1AyVVpxa3hJVlRqbHFHRUNMd2xYdVRfM2ppQzNGeVhBRXlpTEhPT1V3OVZqbGhobXZuWG9nMlE0Mi12Vm9mT2Vhbk5vUF9UWlVuNm1ndUlWdDVrN0VuQVVCTFViUVVidGo2TWtmN2FqdzlsMzY2cHdBeWduQUp2WW5XYnRFYUtWQ1d1ekxWMUE?oc=5",
-      "source": "The Diplomat – Asia-Pacific",
-      "date": "2026-08-05T05:35:54+00:00",
-      "description": "What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination  The Diplomat – Asia-Pacific",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T12:51:08.288447+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b80bba6210c4"
-    },
-    {
-      "title": "Wildfires Near Spokane Threaten Key Airports - FLYING Magazine",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTS1TVUdmSjhsTjN6UFVOelZzZ0U2NXIwQ08wVkY0SzRJVG5RZURVZmJhM3l4TjlRdE9ua0dQbGdiM3lsdVJBczQ2cFp0QlhJTjJ0VG1KRXRUbi1hVDEzbVY2WVZDTW9teWQ2OUxHMjdvVnh4cDB1VWNDMA?oc=5",
-      "source": "FLYING Magazine",
-      "date": "2026-08-04T19:30:58+00:00",
-      "description": "Wildfires Near Spokane Threaten Key Airports  FLYING Magazine",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T10:33:39.916544+00:00",
-      "location": "Near Spokane Threaten Key Airports",
-      "category": "airport",
-      "id": "0e96781dfadb"
-    },
-    {
-      "title": "700 drones confiscated during FIFA World Cup security operation - DroneDJ",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rNUcyUkpiR1NabHhUS0N1LXlqSkNTZ0ZtNEFBSXA3ZElhTFMzUWFKc1RUZE0zc0NfU2FHeGhMLV9ndTJkdkVFeXVhclB1U0hwbTROQTVaNXRtU1ZyR2JrTEZaQTQ3cUhlTkhZ?oc=5",
-      "source": "DroneDJ",
-      "date": "2026-08-05T08:18:00+00:00",
-      "description": "700 drones confiscated during FIFA World Cup security operation  DroneDJ",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T10:33:39.916544+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5a40014d4cd3"
-    },
-    {
-      "title": "Unauthorized drones halter firefighting efforts - NonStop Local KHQ",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZktYRXNlRi0tbzhzcmFKNjFWbkgwcHJoa21JSFdvVk9yVjhRYml5V19rSlVHLWNBSkNZak8wRzhfT1FoMEFKYlFULTJTcnlXbmNLb0o0QVRXdjYwVEVaLU5fOEo2czJkSWxnRDc3SEZ6TWd5Z2VPR2tScGpTbk5xbXZlQ3g0Nlp6VFhFOGtHb2pQbjRKanh3Z0k4cWxaTVlHUm9lMWFNVWZrYzlNVkVKUVBpOEpVNFVjbDBKQ0M4UQ?oc=5",
-      "source": "NonStop Local KHQ",
-      "date": "2026-08-05T01:56:27+00:00",
-      "description": "Unauthorized drones halter firefighting efforts  NonStop Local KHQ",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T10:33:39.916544+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "4b89c266d4b2"
     }
   ],
-  "last_updated": "2026-08-20T12:47:56.237613+00:00",
+  "last_updated": "2026-08-20T13:44:55.442993+00:00",
   "total_count": 1000
 }
