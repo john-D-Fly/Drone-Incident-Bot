@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Drones fly in face of RAAF security - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWC1GUUFSX3BnTlBPdUlvcWF4R2hyNUVhTFVtSkJGNFZCVllIcVl6LVhEbHhpOHZEUWJMWWtHaGIxNGpJRThFTTV0bzZhek5DWTI2cDJ6TGFGSzVJbTNXeXdjdDRUSGxMay1XMlVUYmtEaVJjU2Z6NEY4OFMzY3pBMnRBRmZFRzhiZFdjVUdyVUxJUkpHX3l6NkFuX2l4ZXhKZnI1alZDSnNvLXZVdlAwTmRsMjhmaUhDbUZ2SFZteXNYZEpScUc0NjFQYUw0eU1yY3F0VEdEdzRobEExbzBySWh1eHVNWHlIcmdqMDVoMkFlQ2EtamfSAfsBQVVfeXFMTk52SVJhNUxIMW1NWmJLWm1yOEJWVWhDRWt5Nk9wRnpGdGFsQkl3Z0ZvQUVkTUNCQ0FLYUd3eU9wUmlEenFqN3d2djFhNFZZQ1dCQjh5MFNrWHI0WVhEV1QzQVNBMmhEOHFBc0N6TjBFMXRPcEcyeW9rd1R3WTNRWnZwMS11X3NkcjRDMGNwdFhRR0h3c3NJUmtGaXFEYnEyek1OenNlaGZfZFVxeUZTamlLeWhTeVIxZnpHRlZ1MHp3cGxwMFkxZjJWcjBpOGUxMFB3eFk4UUM5WkdvZm9EajRwTmF5ekZ1RmtWNDdlWW9nU1M3bXVOZ2g3a2c?oc=5",
+      "source": "The Australian",
+      "date": "2026-08-20T10:29:00+00:00",
+      "description": "Drones fly in face of RAAF security  The Australian",
+      "query": "drone security breach",
+      "detected_at": "2026-08-20T11:24:54.080976+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8d95039c8fad"
+    },
+    {
+      "title": "FAA cracks down on illegal drone spraying with record fine - Farm Progress",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalg1QWRGQi11SmlvX2lNalJpN0FlVEg0bWdmRUhHajJQaVpDZmJ5bkxMUnlCX2tOS2dJQURsblU1R0I2aU02XzI2Y002dTRvMHdiNEtIZ2lPQXAzTWRBYm1QdWNOWS16Yi1nOUNLdUNzeXFvNnludjNoS2haRmtPbjNtUnFCcTB6Y3BNdmZxWWliQlJTdWlKU2JwdFBxR2NaaEE?oc=5",
+      "source": "Farm Progress",
+      "date": "2026-08-20T11:06:07+00:00",
+      "description": "FAA cracks down on illegal drone spraying with record fine  Farm Progress",
+      "query": "drone illegal",
+      "detected_at": "2026-08-20T11:24:53.476441+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "3849b381d1e6"
+    },
+    {
+      "title": "Drone Crashes in Romania as Russia Strikes Kyiv - Novinite.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3dEYW9mNVdwWHc3YU5JcXpjenR0ZnoxR1lyN3FxZnRrMGNxVGxuU1BIUDlaam56b1NDTWNZYVQ2U1U2V1ptUFN2OGo4SDdpTldQUzEzWkdVWVpFbGE3dTV6aS1pLUltTG1ZNWdPN1hfVFpyclktZG5NaVRJWURqOFBoS3FEbTFwWXYzeVZSZVMwZw?oc=5",
+      "source": "Novinite.com",
+      "date": "2026-08-20T05:23:29+00:00",
+      "description": "Drone Crashes in Romania as Russia Strikes Kyiv  Novinite.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T11:24:52.921587+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "6b7f4888754f"
+    },
+    {
+      "title": "Drone Crashes Near Romania’s Border With Ukraine - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0ZadVFTbWgtYkFLMUtjay04R2dpX1ZPMDJINERvVGtkOVoxdkp4VUNPNHN4NW4tWTlES3dtaHVONlJKTFF3UGZTNkRIVjVneDhiMXQ3OFk3WmlMU01OZXJKWFFWYW9RaWhLZ0hVdjBibGZ0MS1lMmR2cXN5ZHJiU0JTdG9lam8?oc=5",
+      "source": "Мілітарний",
+      "date": "2026-08-20T11:07:12+00:00",
+      "description": "Drone Crashes Near Romania’s Border With Ukraine  Мілітарний",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T11:24:52.921587+00:00",
+      "location": "Near Romania",
+      "category": "crash",
+      "id": "e37a5048a940"
+    },
+    {
+      "title": "Drone Crashes On Romanian Territory - REFORM.news (ранее REFORM.by)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YbXYxN19URl9McW5hSnhEN29BRFFObm96Y2VJdWJSZ0VVN0NveUUyOWdLVUN1MXR6NkFvSkIwNjNyb0lzSWp0RHR1M2psVDF4U2NhV1d3YkNsUUh6ZXplbjBFYjctSG5lZkc0cjk4QdIBb0FVX3lxTE9YbXYxN19URl9McW5hSnhEN29BRFFObm96Y2VJdWJSZ0VVN0NveUUyOWdLVUN1MXR6NkFvSkIwNjNyb0lzSWp0RHR1M2psVDF4U2NhV1d3YkNsUUh6ZXplbjBFYjctSG5lZkc0cjk4QQ?oc=5",
+      "source": "REFORM.news (ранее REFORM.by)",
+      "date": "2026-08-20T03:02:40+00:00",
+      "description": "Drone Crashes On Romanian Territory  REFORM.news (ранее REFORM.by)",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T11:24:52.921587+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "0b0e889adb3d"
+    },
+    {
       "title": "Romania reports drone crash near Moldova border - The Copenhagen Post",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkZjZWFPUmVNV2g0blpMajZVT0g4YUs0M0JoSWdfNVA3WU9rOFBxdVR6cjIzbWRsT3dyQjNuYzU5NFBjMU1fMzJxa2FGQl9hRmhxb01kRllNVDM4c01ZTUNmTlVUQWJXZnhDMTFpZDRiM1lyN2VNUjhmeXd4bHphdnNOQmtHejNnTDVBTUNn?oc=5",
       "source": "The Copenhagen Post",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "837131249e11"
-    },
-    {
-      "title": "VIDEO: Drones assisting in multiple arrests - kmph.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJdG91eC03RVVXMFQzQmI0NnpFazJiV0FYWlRrYTQxODNHc2RmN0xMZ2N4QTFiNjhuekV5bU9NVjI1aDVNVnM1ODI3VUFNVXc3OUdwa0RIeEtMbll0eDV4bnBNR3JNMTh5aGw5WWFEbXRNV2ItX3I0QmR3?oc=5",
-      "source": "kmph.com",
-      "date": "2026-08-05T05:06:16+00:00",
-      "description": "VIDEO: Drones assisting in multiple arrests  kmph.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-05T10:33:35.876308+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "9a826c95aff1"
-    },
-    {
-      "title": "ICE arrests criminal illegal alien flying drone in illegal airspace near World Cup stadium - ice.gov",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSW4yYmZ4ZjlWTjhGU29kMjhLY0doVDlkajdDT0JpVDFPOVdfdkQ4Nk1WVDV2YTRXeGV6VXRfdE9UUFNPcWtRRXJWeDJIUTlndlBwQUJCcWJQRDBpU1dzeHBnaTNhQkppRVlwazZuTWJrUXpKYm1QTEVCU2tLZG1EZ21Bck1aQ2o3UklQZjdubGZFM0NORmFQV2VDNGdmSnJENjBSejZlZEhzNWtWN0VxRHU2NA?oc=5",
-      "source": "ice.gov",
-      "date": "2026-08-03T11:03:48+00:00",
-      "description": "ICE arrests criminal illegal alien flying drone in illegal airspace near World Cup stadium  ice.gov",
-      "query": "drone arrest",
-      "detected_at": "2026-08-05T10:33:35.876308+00:00",
-      "location": "near World Cup stadium",
-      "category": "arrest",
-      "id": "8783966ff375"
-    },
-    {
-      "title": "[Editorial] Drone incident should serve as a wake-up call for US-Korea communication - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0JaSlFGaGJuUEFiQWIwa1dJSloyS3NrT3NjV0xCWV90aFlZMkFOY0QtbE5Bbk5nNGhUNThZcHVTZHRZRXFTaDBObE9TX0N6d3FiVUZ0SG9veXNNXzBnTjFHQnZYWl9KVHlWSmJadUJ6SGxCbFRBU1c5R195Yi1ENw?oc=5",
-      "source": "한겨레",
-      "date": "2026-08-04T08:04:00+00:00",
-      "description": "[Editorial] Drone incident should serve as a wake-up call for US-Korea communication  한겨레",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T10:33:35.370055+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b5f05fe5a8dd"
-    },
-    {
-      "title": "Israeli tech company works to prevent drone, helicopter collisions - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yM3ViaHpRN2I1UHdOVm8zVldxcDNLcEZpWk5NZ0FDMHBxRW9QX1lDRTNEVTczSjZLR3cyaS1JYWRxVUZoa2ZpamRXRDc0djlqal9PWW8yYU91aVl3?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-08-04T15:31:14+00:00",
-      "description": "Israeli tech company works to prevent drone, helicopter collisions  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T10:33:35.370055+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "29ac76994fa4"
-    },
-    {
-      "title": "Flights at German airport disrupted after suspect objects sighted - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUE9IT0w2NVFaWTZvVDRYNU4xUUtGcl8wNVVGdWpTTXpyWXNPM1diUzdVbmpXQWhVVmVpVnF2U1JYd1dMVEkzcnVQa240MjZKRUkwVWV2Y0w0WllRMndLc2pDbkxwbHFNSXZzbmJYdHR4RWsyOHJHVU13cmVZQ1YzS3NqVUlmZzdPMkdPTWNyUHBzZHBNWVpWamYtcmp0U1owMGtTU1dRcFA3cElsNWM5bFQ1SkJBcW9yRThFdWw2ckFLX1JMU2JPOA?oc=5",
-      "source": "Euronews.com",
-      "date": "2026-08-05T08:22:10+00:00",
-      "description": "Flights at German airport disrupted after suspect objects sighted  Euronews.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T10:33:35.370055+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "d139559258a7"
     }
   ],
-  "last_updated": "2026-08-20T10:29:02.755490+00:00",
+  "last_updated": "2026-08-20T11:24:55.804347+00:00",
   "total_count": 1000
 }
