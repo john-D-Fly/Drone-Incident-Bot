@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Inside the Counter-UAS Response to Drone Flights Over Spokane Wildfires - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEpSdWRsb0ZOTUhOSmNJUXc3Y1NrN2FxSU1vWV9haTJ0Qkw4VlBzSEhxZk9ad2w5MTlXZGg4QXBRTTR3clBnZm8yNDNmdllFZjNkUEZtVWR4X1h1WjVoZWZ3V3hMQm9KWHVCcEhCYlBxZWdkemY0NWROSGtlM19PdlFIbVJuQQ?oc=5",
+      "source": "Dronelife",
+      "date": "2026-08-20T16:58:36+00:00",
+      "description": "Inside the Counter-UAS Response to Drone Flights Over Spokane Wildfires  Dronelife",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-20T17:27:41.111119+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f88436636a61"
+    },
+    {
+      "title": "Maia Sandu Calls for Increased Pressure on Russia After New Drone Incident - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFFoWWp4ejFDeVNZd1dhbUZCc1VHVVZxMUNBelN6anJ0TE1pQ2ZFX3ItOXJ3bkJuaUNsaFEtVEpqM20xbzlxbmJHc2pSNWc0VnJKaXlFc1RGczZCZl9XRlRvTXFoeUZWY3hXaU1SbUk3X2xFSmJyRWktcllveHdxSWltTlJ0Y2hrWW5nZUFXSmlzckt4VWc5RWk5Z3JROHU4d25RUjZqRXNEQlh0dWp3M0lR?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-08-20T17:19:45+00:00",
+      "description": "Maia Sandu Calls for Increased Pressure on Russia After New Drone Incident  UNITED24 Media",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T17:27:35.787294+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f95a5a9a83ae"
+    },
+    {
       "title": "Moldova Confirms Russian Strike Drone Crashed Near Ukrainian Border - Межа. Новини України.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Nc09CUlBVZnNkdmF1SnZGTUJyWHpzZjJXTU9mWjFWOWlpYzMyTVJIdE1BMzhadU1lTnlXRFh1b1JzajNhWjgtUzRMdkFHMmxSSjVMZFNVY0tuSThLN3dHZDZKRFBsUnZPVnBuSFRKYw?oc=5",
       "source": "Межа. Новини України.",
@@ -11975,32 +11999,8 @@
       "location": "at German airport",
       "category": "airport",
       "id": "ea2d5f0fe50c"
-    },
-    {
-      "title": "Germany opens terrorism probe after explosive drone found at air cargo hub - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3BpblZBS1htemV4QTBDclF3WmVSSVNEbkxUYzBVZjJiTzlPcE04N2RsWmw1UzJ6eWZDZTY1N0x4VjRxQThlTVctMWt5cG12cjhGbGZ2ZTlLbHpUZVB4dlpiU2dzeEEyUGl2TEdIUlRrNV9vdmYxTk1NWW9BZWpDVm4yT3l4TG81Z3dZSUM1dUo1elU0aWJHR2tfbzdNdw?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-05T06:21:00+00:00",
-      "description": "Germany opens terrorism probe after explosive drone found at air cargo hub  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "f14db3cfe066"
-    },
-    {
-      "title": "Drone Incident Disrupts German Airport Near Ukrainian Cargo Plane, Sparks Security Investigation - kurdistan24.net",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb055MDM3S09BZWRYR0dQWmJydkFCcGg2WVRxcHNyWjZ5cFVISW56cHNoMVNNV04tNU9jaklJeEVWNnZ1WHhnSWthdFNWN3VnWG1xTk4tdGhIWUlkZlQ0dDExZHdrUFU5bFZqRDdkblRyd0lVQVJaMVdOLW5PT3I0ZHJqWFZOd0JDUWZHbnhUbXRUbGdwcnZHUkhwVDBMeVpXQjUtdjFDS3NKRWprVGpMcjVGRnhPaTVVaUluWnoyN0Njd0Ruandpa1JoX1hLakt1Wi14Znln?oc=5",
-      "source": "kurdistan24.net",
-      "date": "2026-08-05T11:11:52+00:00",
-      "description": "Drone Incident Disrupts German Airport Near Ukrainian Cargo Plane, Sparks Security Investigation  kurdistan24.net",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "Near Ukrainian Cargo Plane",
-      "category": "airport",
-      "id": "e8ab1fc04b79"
     }
   ],
-  "last_updated": "2026-08-20T16:33:55.396177+00:00",
+  "last_updated": "2026-08-20T17:27:41.644503+00:00",
   "total_count": 1000
 }
