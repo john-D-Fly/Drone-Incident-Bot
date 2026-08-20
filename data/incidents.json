@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Romania reports drone crash near Moldova border - The Copenhagen Post",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkZjZWFPUmVNV2g0blpMajZVT0g4YUs0M0JoSWdfNVA3WU9rOFBxdVR6cjIzbWRsT3dyQjNuYzU5NFBjMU1fMzJxa2FGQl9hRmhxb01kRllNVDM4c01ZTUNmTlVUQWJXZnhDMTFpZDRiM1lyN2VNUjhmeXd4bHphdnNOQmtHejNnTDVBTUNn?oc=5",
+      "source": "The Copenhagen Post",
+      "date": "2026-08-20T09:58:23+00:00",
+      "description": "Romania reports drone crash near Moldova border  The Copenhagen Post",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T10:29:00.405173+00:00",
+      "location": "near Moldova border",
+      "category": "crash",
+      "id": "258717fcab3c"
+    },
+    {
+      "title": "Drone Crashes in Romania as Russia Strikes Kyiv - Novinite.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3dEYW9mNVdwWHc3YU5JcXpjenR0ZnoxR1lyN3FxZnRrMGNxVGxuU1BIUDlaam56b1NDTWNZYVQ2U1U2V1ptUFN2OGo4SDdpTldQUzEzWkdVWVpFbGE3dTV6aS1pLUltTG1ZNWdPN1hfVFpyclktZG5NaVRJWURqOFBoS3FEbTFwWXYzeVZSZVMwZw?oc=5",
+      "source": "Novinite.com",
+      "date": "2026-08-20T05:22:11+00:00",
+      "description": "Drone Crashes in Romania as Russia Strikes Kyiv  Novinite.com",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T10:29:00.405173+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "f4a3adcd0fd1"
+    },
+    {
       "title": "Drones breach RAAF airspace for second time in a month - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0RSMzRMT0laRDE2UU1QWXgxMTFXdVp6Y0FfYmh0S2pRR1JnRVgwNnd4NGFoRnA5Y0dLaGNOMEtDSExhT0psZnVnVGM3MVd4aEdfdE1IS0RWSlRxaktyVkhfVlE0NjJ1TzRmUXBKTk51WC1pS3hzR0p6dzRnWnF3Qkd3WnNQcHhMZWhGY0pXVmcyLTV0N0FOSGtZdl9YLThSQURaTXZDenRGTnc?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -11975,32 +11999,8 @@
       "location": "at German airport",
       "category": "airport",
       "id": "d139559258a7"
-    },
-    {
-      "title": "Private drones continue to hamper firefighting efforts in Spokane - MyNorthwest.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPUVhWc2l3bE5UUTdKNHh0NUlweU52ZmJzYXUxUmo3a2RPWUFnVGtmR0puYVg2a3FNUnVkTXo5OFA4aFJSeGRUYW5HanZSSnVLRURod0NUMjZFeDNYYkZpcHdBazJMbk5TRVc5M1hJX29ZeG93MF9qdDhlMGs?oc=5",
-      "source": "MyNorthwest.com",
-      "date": "2026-08-04T18:13:42+00:00",
-      "description": "Private drones continue to hamper firefighting efforts in Spokane  MyNorthwest.com",
-      "query": "drone illegal",
-      "detected_at": "2026-08-05T07:37:36.332609+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "233ec2edcbc7"
-    },
-    {
-      "title": "Ukrainian drone crashes on beach with vacationers at Russian Black Sea resort as warning system fails to sound. Seven people killed. - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQTN2WVRfWTdaUTAwQU9GU2FvSFdMd0N2NktFSm9TbWN3bVJycWlLb1RaUnJLSmxZM0tlQ2R2MmduSk4wSUw2a0tCdnhLeW44Smp0THI3YzNrNVRTRV83dWs1bENRV3F1dDBCRVlYeDhoOFNVVURjQ2hUdWV1RU1SQmFzdzRKaUlhT0ZBR1FaUnZPUU82VXVqODZoMVA3RDZmWTV1QlA4WHJHVXp1dEN3ZUw5NFh5Rno1VUZoTmpMaERVRUU4MGo5eVBscWtDdHJxVVZnbHRzQlVKY2doRmI2VVJ2UmdIaF8tOVB3Uk01M0FsX2ZpSGpNWXYtSdIBgAJBVV95cUxQekFyMlNKR0VTSmFkWGIzc3B4bnRIZl9JdW1iUzhvZU5JZXRBTlRpbEtZeWxTelBtUVFoODJnb1pZdFBIT1pKM2xfLUtiLVJUQzMyeUdUWDRTMHhFdkdaejJ2dWdrLVNYWEtLdG91Z21SLU1NeHJ0Z3YxS0tpOHJZUXdXbTFwWGN6NW5EQ0ZvUU1LYVRHYi1YdTJSSzRWVG51d3Nkb3JaR1JiRFZfUm5IT2xsODh3WWNuZk1GUTZiV2Q5WFpodlZwRVZ4UXpGajVtQ1o2ekJiWGZRelo0UllyaG84SDJiVXcwa1NVbHV0bFAxM2JDT1czT1J6RVRkN0Z6?oc=5",
-      "source": "Meduza",
-      "date": "2026-08-03T15:56:00+00:00",
-      "description": "Ukrainian drone crashes on beach with vacationers at Russian Black Sea resort as warning system fails to sound. Seven people killed.  Meduza",
-      "query": "drone crash",
-      "detected_at": "2026-08-05T07:37:35.611220+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "40e771d4f157"
     }
   ],
-  "last_updated": "2026-08-20T09:33:14.539130+00:00",
+  "last_updated": "2026-08-20T10:29:02.755490+00:00",
   "total_count": 1000
 }
