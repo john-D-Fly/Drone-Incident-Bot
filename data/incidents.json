@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Moldova Confirms Russian Strike Drone Crashed Near Ukrainian Border - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Nc09CUlBVZnNkdmF1SnZGTUJyWHpzZjJXTU9mWjFWOWlpYzMyTVJIdE1BMzhadU1lTnlXRFh1b1JzajNhWjgtUzRMdkFHMmxSSjVMZFNVY0tuSThLN3dHZDZKRFBsUnZPVnBuSFRKYw?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-08-20T15:33:45+00:00",
+      "description": "Moldova Confirms Russian Strike Drone Crashed Near Ukrainian Border  Межа. Новини України.",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T16:33:52.767901+00:00",
+      "location": "Near Ukrainian Border",
+      "category": "crash",
+      "id": "0bab20fe5e69"
+    },
+    {
+      "title": "Drone enters Romanian airspace and crashes in Tulcea near Ukraine border - Airforce Technology",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05UFRTbGtTeVlUSjd6UTdUa2ZfcVFVWDc3Z1VPWUtNLU9ROG9aOV9vNXBXUHlxeElXb1lmbFdNNmI5cWxVZFRZMzRkVEF1OGxtSEUxUVp5Qm5mYVlUVHp6VTJSWmo2VFNnTWprZG80WGI5MGhPSlVyUnln?oc=5",
+      "source": "Airforce Technology",
+      "date": "2026-08-20T16:07:39+00:00",
+      "description": "Drone enters Romanian airspace and crashes in Tulcea near Ukraine border  Airforce Technology",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T16:33:52.767901+00:00",
+      "location": "near Ukraine border",
+      "category": "crash",
+      "id": "96e068afa75c"
+    },
+    {
+      "title": "French hospital helicopter landings disrupted by illegal prison delivery drones - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVHJORnllNjJXeUQzazdyM1pJNkpCVjhBcE1uODRYTDU1MEJ4WGJQZlc4WjJWVGpYelhHN2hKcVFnaGNkNjFaR2U4MV9vMFp2TnNJZnNGbTNCUFpjTTVNQW5JNVkxeW5OeHJnZzdwVU9yd29qMnJtcUtBeGVvNTA4aWgtMWtCT2xKUHpRMkh6TmtuUEU4WTdHMU9HRjIzZFpZajJMbGoyY2ZDLVYyeXU0TFhHbWlmMFpU?oc=5",
+      "source": "RFI",
+      "date": "2026-08-20T15:09:01+00:00",
+      "description": "French hospital helicopter landings disrupted by illegal prison delivery drones  RFI",
+      "query": "drone prison",
+      "detected_at": "2026-08-20T16:33:51.752460+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5e44cf6504ee"
+    },
+    {
+      "title": "Man arrested after drone flies near Truist Park during Braves Game - Marietta Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVXVtRjlYY3FseUg4NG1FX3Bnd1hrMzJQaF9vYWJyVGRuUUppOXVPWnlhb0c2d09ObDNYNFB3ZHhpQnFjTmp1VkZXTHpnYUxqR0NTS05wSG1laHpCV0h1Y1RCdzQyaG4zYl90Q0NJaUR0M211UW9LY2V0ejRjeWc4WThvdk90eno1R3FvX0VCTjg2c0RLd24yTE5OQUJiQ2dpb2NfeEdtQUZJS2tCVFVEWm9IYllHOFI2REp1bEpTc195MEJIaXFpUVcwSlk0NGtYRXRuQXdLaVhOTE9fM181d0Y4NHo4ZWROcDVuTXk1dG4?oc=5",
+      "source": "Marietta Daily Journal",
+      "date": "2026-08-20T15:58:00+00:00",
+      "description": "Man arrested after drone flies near Truist Park during Braves Game  Marietta Daily Journal",
+      "query": "drone arrest",
+      "detected_at": "2026-08-20T16:33:50.790015+00:00",
+      "location": "near Truist Park during Braves Game",
+      "category": "arrest",
+      "id": "62f8321efb91"
+    },
+    {
+      "title": "Exploding Drones Are New Reality For NATO - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1RxRlZLME1uOV8xWlhuRGVxYVpHYkMzVHp2X0UwLTdIMWFEWDdFV3paRjJDczVuREljNk9WQnpFbEhSdTdLX2VaTDYtU3puTndkVEYwbU90T1RydzVMUTI5dDY5bzdQT1BNNU96TnRwSnBkWHRiOGNiZVF0V0VMbw?oc=5",
+      "source": "Newsweek",
+      "date": "2026-08-20T14:32:00+00:00",
+      "description": "Exploding Drones Are New Reality For NATO  Newsweek",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T16:33:50.260232+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "11f7c439dcf9"
+    },
+    {
+      "title": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-20T15:08:48+00:00",
+      "description": "Romania destroys marine drone near Neptun Deep gas project, minister says  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-08-20T16:33:50.260232+00:00",
+      "location": "near Neptun Deep gas project",
+      "category": "other",
+      "id": "f69726aa7f52"
+    },
+    {
       "title": "Drones fly in face of RAAF security - The Australian",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWC1GUUFSX3BnTlBPdUlvcWF4R2hyNUVhTFVtSkJGNFZCVllIcVl6LVhEbHhpOHZEUWJMWWtHaGIxNGpJRThFTTV0bzZhek5DWTI2cDJ6TGFGSzVJbTNXeXdjdDRUSGxMay1XMlVUYmtEaVJjU2Z6NEY4OFMzY3pBMnRBRmZFRzhiZFdjVUdyVUxJUkpHX3l6NkFuX2l4ZXhKZnI1alZDSnNvLXZVdlAwTmRsMjhmaUhDbUZ2SFZteXNYZEpScUc0NjFQYUw0eU1yY3F0VEdEdzRobEExbzBySWh1eHVNWHlIcmdqMDVoMkFlQ2EtamfSAfsBQVVfeXFMTk52SVJhNUxIMW1NWmJLWm1yOEJWVWhDRWt5Nk9wRnpGdGFsQkl3Z0ZvQUVkTUNCQ0FLYUd3eU9wUmlEenFqN3d2djFhNFZZQ1dCQjh5MFNrWHI0WVhEV1QzQVNBMmhEOHFBc0N6TjBFMXRPcEcyeW9rd1R3WTNRWnZwMS11X3NkcjRDMGNwdFhRR0h3c3NJUmtGaXFEYnEyek1OenNlaGZfZFVxeUZTamlLeWhTeVIxZnpHRlZ1MHp3cGxwMFkxZjJWcjBpOGUxMFB3eFk4UUM5WkdvZm9EajRwTmF5ekZ1RmtWNDdlWW9nU1M3bXVOZ2g3a2c?oc=5",
       "source": "The Australian",
@@ -11927,80 +11999,8 @@
       "location": "Near Ukrainian Cargo Plane",
       "category": "airport",
       "id": "e8ab1fc04b79"
-    },
-    {
-      "title": "Human ‘safari’: Video shows civilian hunted by attack drone in Ukraine - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFhZTEloS2h2UDVTdjF0WjRTMmotWTRvZE5hd1lkUGhiMjJPRXlMSkZOUzlZamNZcFFQRjNUS1oxV3BiYXkwQTJ2b2o3OW9nZHMzLVpsWmRGZjZiZjFSRkw0SHFjeUZEOU81d0JpdlRhSHpjR2VoX0N6SEgxNl9ZMm52V0NyVjRYV3NvSWlFSkdlalpaTE5EaFcwaEJYWUFVZElMa1NUbk1nQUFBU2Qw?oc=5",
-      "source": "NBC News",
-      "date": "2026-08-05T14:31:51+00:00",
-      "description": "Human ‘safari’: Video shows civilian hunted by attack drone in Ukraine  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "69f61c7a7664"
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tRnlVVHAtTjQyLUlpd0stck83MWdDR3RLYXVpUWVXUFM5LXJKTnhwZF9nRFpyOXM5M0xJbTRkRUlJOWRWUFZmRXdOeTVBYVlvbzFDdHllQkNBdw?oc=5",
-      "source": "BBC",
-      "date": "2026-08-05T15:41:55+00:00",
-      "description": "Drone carrying explosives found at German airport, police say  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T17:35:40.374209+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "f6233260b2e0"
-    },
-    {
-      "title": "Unauthorized drones halter firefighting efforts - khq.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZktYRXNlRi0tbzhzcmFKNjFWbkgwcHJoa21JSFdvVk9yVjhRYml5V19rSlVHLWNBSkNZak8wRzhfT1FoMEFKYlFULTJTcnlXbmNLb0o0QVRXdjYwVEVaLU5fOEo2czJkSWxnRDc3SEZ6TWd5Z2VPR2tScGpTbk5xbXZlQ3g0Nlp6VFhFOGtHb2pQbjRKanh3Z0k4cWxaTVlHUm9lMWFNVWZrYzlNVkVKUVBpOEpVNFVjbDBKQ0M4UQ?oc=5",
-      "source": "khq.com",
-      "date": "2026-08-05T01:56:27+00:00",
-      "description": "Unauthorized drones halter firefighting efforts  khq.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T12:51:13.117616+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "b91d7e5a87d2"
-    },
-    {
-      "title": "Majority of Organizations Lack Drone Mitigation Due to Legal Restrictions - Security Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOck9XX0hwTVlVWVh3c0RBT29DanRlSWtjd2NoWU80Sk1sZEpCNEFxVUJPcnhUNFFfZ1dMSjVKWExRaHRVcGJXaldpMUNQYVhSNFRCSTFabkZpVzNyc0g0Z0Ytc0NFQnB4RU1SODhTWlM1VGhnNVBuVDlWcXVsOXdLU2Z0UmwzUmFrR2tBT2xqUzRKT2dTOXl4MHYyRUUtR2MyYUVLZk9YWmo5XzlpcnpsczZiWVhHYlNDcTh1ZVNBNA?oc=5",
-      "source": "Security Magazine",
-      "date": "2026-08-05T09:00:00+00:00",
-      "description": "Majority of Organizations Lack Drone Mitigation Due to Legal Restrictions  Security Magazine",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T12:51:13.117616+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "98b020ac8f3a"
-    },
-    {
-      "title": "Ukraine accuses Russia of war crime after video shows drone ‘safari’ attack on civilian - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOU55a3Q0Y3EtbzFHX1owUHRtc0VtMUNRTWcybGNnNHZyVjR3eTk0RkRPT09EYTJfUHlKYnh3cmc2NU5RZHNPcWVfNEI3d2c5Rll1ZkNVYkxyQXp5NUwyOThDZTJ6UUM5dmJlVFdxdlpKQ3VoOE8wQ2RnV3M1QldNUFdZSUFNMVpfZTRqQzRFeC1LWms?oc=5",
-      "source": "The Japan Times",
-      "date": "2026-08-04T23:28:00+00:00",
-      "description": "Ukraine accuses Russia of war crime after video shows drone ‘safari’ attack on civilian  The Japan Times",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-05T12:51:12.572744+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "61ac25d11bda"
-    },
-    {
-      "title": "Hong Kong tests thermal drones to catch illegal smoking at construction sites - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWdaZnpzb3liWWpCbG42dUNhZUZKSFhEdVBrbDVrRUNXOEIwbzJMaEVIRkF6al9ya0xlelJiZUxreUtCalVhMi12VERKWk9HRXQ4d09aSU5KQjJsSnBXVVlEeFJ2OVZub3NYYk54clNPVGZzcXN6V2JqZjJ0R0R2aUc0VGFJYzI5Z2NvMWxpakRCakNJV3A1VjVENjNwQXU2bWxwNXY3LUlFTi1ZTlRKMFNCQkVsYzdheXZiZlhZa0w5Uk90RHZLX3FyNGJTeWFPZzlmcy1IWEdFQdIB2gFBVV95cUxOdVNfR3F2eWlLSVhPZElUS3pCeFlSVklrM2FIX3dCSWNVd3hCbUxOc2k1QUNXbWVZaWFGSENwUEUyNl9aMGV4eXZBeWNCVDZFWnJIbU5BNDJGWWNFZm5TRUhwT0VKb29Ccm0tYk9IX1ppa1Q3aTJJN05MRTNjQU5IRWQwQWkyQlZTTGgtT01XY2NXNGptbnBEaTR6YlpYVjhoLXdka0JLWVRwMnRHZHFrc0EwcndpZTlhUnhneVY3Q0hNek5ZenBTZ2lPNko0eTAyVkl4Vmhaaktjdw?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-08-05T08:54:57+00:00",
-      "description": "Hong Kong tests thermal drones to catch illegal smoking at construction sites  South China Morning Post",
-      "query": "drone illegal",
-      "detected_at": "2026-08-05T12:51:11.479427+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eb86d1985bdd"
     }
   ],
-  "last_updated": "2026-08-20T15:32:23.424410+00:00",
+  "last_updated": "2026-08-20T16:33:55.396177+00:00",
   "total_count": 1000
 }
