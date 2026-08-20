@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "A military drone Shahed-136 has entered unauthorized into the airspace of the Republic of Moldova, through the village of Etulia, Gagauzia - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhaWEpnbWo3bnVnVHBaVk50dld1ZnllUEk1QXUzM1BIc296cHFWTGNuWmxkM3hWOS1YaWFwVUxJQlJWTVJCMGxmdWxCa1RFY1hrLUg3UTRSSGpUVGNvYTlLUXgzeWdnMFRkdmdJU0RBb2xsWTZCbEdKeDB5UlBNeWE5cUVxN1JlaDdNMElINGptbENhQnJ3U1hJMllMcDlNQWt1UlJvc2FBV0l6TmVmeg?oc=5",
+      "source": "Informat.ro",
+      "date": "2026-08-20T05:45:47+00:00",
+      "description": "A military drone Shahed-136 has entered unauthorized into the airspace of the Republic of Moldova, through the village of Etulia, Gagauzia  Informat.ro",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-20T06:43:19.648940+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "181ca56e6abd"
+    },
+    {
+      "title": "Dronebusters: JTF-SB Marines Enhance Counter-Drone Proficiency [Image 5 of 5] - DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSTJtSXpSZnItNUhSdzMtc3VIRUd1aEdFRHBvMm9FdDIxRHE4ZTAxWDhTejJWWUszQU1nVGU3YlJkVkFJM01WU0lfbUNMcGNJR3FiSy1jVDczSWFpck5haDRhYnVWWXdVc3ZRczQwbmQ0cWZGa212bHdFSE5EdW5OZmp1YWQ3WUo2VzVfSXdVSEtJUnlueFVBeUJmM1F4Y2xEOGc?oc=5",
+      "source": "DVIDS",
+      "date": "2026-08-19T21:22:00+00:00",
+      "description": "Dronebusters: JTF-SB Marines Enhance Counter-Drone Proficiency [Image 5 of 5]  DVIDS",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-20T06:43:19.648940+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "26f47a40e167"
+    },
+    {
+      "title": "Incheon Airport Conducts Training to Strengthen Drone Terrorism Response Capabilities as Part of 2026 Eulji Exercise - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjRmhfOUotRGpQZnFaMmpaV0lMUWR2NnA1X3J0ZVdGVElNUmFXcndQODJIdGVuQUV4bzNCNS1hemZxLTVWZ19vMmNRUTBxd1o1dExjdWNqNExnMlE3M1Y4dFJlMzh4dGJrYVFBLWltallwSDZHZ1E?oc=5",
+      "source": "아시아경제",
+      "date": "2026-08-20T05:11:12+00:00",
+      "description": "Incheon Airport Conducts Training to Strengthen Drone Terrorism Response Capabilities as Part of 2026 Eulji Exercise  아시아경제",
+      "query": "drone illegal",
+      "detected_at": "2026-08-20T06:43:18.134244+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "14149f70d6a6"
+    },
+    {
+      "title": "Another drone enters Romanian airspace, crashes in Tulcea County - Romania Insider",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mYUhEVHpBSmo4aU5RSWFzaFU3V0ZZdnFOb1BlVWlzVDAyTENiYnlNT1JhS3pjUFFsY1pRYkFuR0FfU0J5eEFfTWNNUmJzNTl0SEhMSFozTU9rS011U29jN2wwYktkcUZVbkpfU1ZjQXdfdVdRc1l2c0RZZkVzd9IBgwFBVV95cUxPc0NtNGFFS0M2MUFleTRPdkVWazFtVXJINk5oR1dadDM4MWN2VnRTS0ZkUnBqeHFsblJCUmF3MzFUM1R6YnAyVDRyMG12aVN0ZGVCVmZVSlZmZnRYLUxic3pIRm9pd0ZWaXhHbXpSX2JGVUNpWnVRTFRpUlhiazRrM2lOYw?oc=5",
+      "source": "Romania Insider",
+      "date": "2026-08-20T05:28:14+00:00",
+      "description": "Another drone enters Romanian airspace, crashes in Tulcea County  Romania Insider",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T06:43:17.611220+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "10f54c382353"
+    },
+    {
+      "title": "Drone enters Romanian airspace, crashes near Ukraine border - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43aVdUR0YzX2NVeHdBMldsYVVjczBkSkQ1bHlZN3FWZURSdVN4SHE5QkVhSWZiWG9vUEprU1RONGN5SkxvVDF1Y0VndE9RN3FMekoybWdyRkg?oc=5",
+      "source": "TRT World",
+      "date": "2026-08-20T06:21:03+00:00",
+      "description": "Drone enters Romanian airspace, crashes near Ukraine border  TRT World",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T06:43:17.611220+00:00",
+      "location": "near Ukraine border",
+      "category": "crash",
+      "id": "684d91afa7dc"
+    },
+    {
+      "title": "Drone crashes in Romania after entering airspace near Ukrainian border - aa.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmtPeWRaX0s0dzhHUWg4ck05MS01dm8xVFZ1X2UtOXR1ZDB4R3NfMkZ6V2txVWJXVUliOVZqUFlPZ3BCZWFKWUFnSWc1NEtwdC1xVUN4OFRPa3BpeXBhaV9tZ0ZPNkJtUV95d3lIRjlMY0kzOFh2MktlNHZiS0xIWmdYTXdhZFE1Um53M25ja09hOW9SUGRaVWtkclBudlRaWE1ITUFaZVRjQVFSNHow?oc=5",
+      "source": "aa.com.tr",
+      "date": "2026-08-20T04:18:34+00:00",
+      "description": "Drone crashes in Romania after entering airspace near Ukrainian border  aa.com.tr",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T06:43:17.611220+00:00",
+      "location": "near Ukrainian border",
+      "category": "crash",
+      "id": "c3c20cdf700b"
+    },
+    {
+      "title": "Military drone crashes near Romania's Ukraine border - Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHo0RklBczJtcUswU1FmQ1RMUDNpY0V0YkUtZ1h6UFZwT1lJSzNuNzdYZG1nVkJnUVBJekYtcUVUNTdIMkpYOHplT1l3RExOVncya0IxV2JxZFVFSEd3c1dob1Z3TzQ4X0MyWVh4VDJFc0pPTTFFTFZmOUF2LWFPWDJQbGJ6MkxiUmdfcU0xNm94c0ZxS2VXaWtVZw?oc=5",
+      "source": "Türkiye Today",
+      "date": "2026-08-20T06:08:40+00:00",
+      "description": "Military drone crashes near Romania's Ukraine border  Türkiye Today",
+      "query": "drone crash",
+      "detected_at": "2026-08-20T06:43:17.611220+00:00",
+      "location": "near Romania",
+      "category": "crash",
+      "id": "6303b0627c15"
+    },
+    {
       "title": "Canadian MP Condemns Drone Attacks on PM Barzani’s Office - kurdistan24.net",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDdtOFdHNHJRcmhjRklrelNnMlBDTWZoRmdpX3cySENJT2JHWFVMZ3hlMUttcmJ4bmJabTFvNUpNdXhKS3NEdDllem5iUTZjUEZ6UjVHeHR4aXhTSmt0R2dBQ3Zza3NpRlV1eE8xWFh4enJTUXZoRWtEMF9nTm9od1pJdjZxR2Q5Um04OS13WW52WlNGeGl1N0FlaHMxNFNPUVE?oc=5",
       "source": "kurdistan24.net",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f158b8f1c26d"
-    },
-    {
-      "title": "Airports are not ready for the drone era, new global study warns - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZndJQXgtY210UXJnSEIzcWM3WjVNQlpWVEtGZ0pqWjRNQXE5Mmg4bndPRzN5YVlUbzR5dXdjQjhGXzB6dFNMOU5LdlQtbGcyMFhORlEzazd5WVdxWnRZSHBaSWN2VWZIWnpUQkJLSnJ5YkdDOHZGdDVBOFVWX0NWYS0yN3JJd0hJNXBQTVNVa1FXT1dSel9zTmZPRklWNlRFNHRObWhB?oc=5",
-      "source": "Digital Journal",
-      "date": "2026-08-04T23:46:55+00:00",
-      "description": "Airports are not ready for the drone era, new global study warns  Digital Journal",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T04:09:05.829533+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "061efbca247c"
-    },
-    {
-      "title": "CCD: Drone crash on Gelendzhik beach caused by Russian air defense - Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXBGdHhGdVdOXzlDbnhKNVlibF9LRW9OUWNBVkVkWXZwTjFYWlZ1Z1RFUk1LSEdkX2o2VjMyLS1HT3VqcXczLVNpUGtuUXp0bU9mZ0pVbGlZUHhTWlVlZW00dDgxeWFtVDh1Yk1QMm9qcDg1RjJ5VE9CVmtvX0UtM3I3MFNwME4zSnp4R2x4dkRWcGtDQi1IWVF4czlkRzVISTRMeUlPVXhldUtMdDBBbkZCNmxCenlCaUZF0gG7AUFVX3lxTE1ZcEZ0eEZ1V05fOUNueEo1WWJsX0tFb05RY0FWRWRZdnBOMVhaVnVnVEVSTUtIR2RfajZWMzItLUdPdWpxdzMtU2lQa25RenRtT2ZnSlVsaVlQeFNaVWVlbTR0ODF5YW1UOHViTVAyb2pwODVGMnlUT0JWa29fRS0zcjcwU3AwTjNKenhHbHh2RFZwa0NCLUhZUXhzOWRHNUhJNEx5SU9VeGV1S0x0MEFuRkI2bEJ6eUJpRkU?oc=5",
-      "source": "Ukrinform",
-      "date": "2026-08-04T23:32:00+00:00",
-      "description": "CCD: Drone crash on Gelendzhik beach caused by Russian air defense  Ukrinform",
-      "query": "drone crash",
-      "detected_at": "2026-08-05T04:09:03.612238+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "fafd549140e7"
-    },
-    {
-      "title": "How a late-night drone sound led to felony arrests in Georgia - fox5atlanta.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ04wZlpfWU9rMHlhV0dZejNWVEZSM09Qc004WVNXTmlJam5BUGFrNnhCaHI4T21pZFFXbE9velJBWndEbnh4MDZfaWNNZFFiMW5vMDNkNndXR3BVdi1zWS1ycEp6ZFUwZHJCc2pBb2ZzaGVfdV8yV1l2Wm8ybHNMdjNJQkIwR29FeGM4Nkthbw?oc=5",
-      "source": "fox5atlanta.com",
-      "date": "2026-08-04T00:41:52+00:00",
-      "description": "How a late-night drone sound led to felony arrests in Georgia  fox5atlanta.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-05T04:09:01.441835+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "972e61d282b1"
-    },
-    {
-      "title": "Police drone first to arrive after 911 call for restraining order violation - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmttT0pUYmh1ci1HbklqLVJuR1NRSWNKVG5nZi1pbjNTTWNEMG9nRXVwb1QxN1gxUUN2ck12RHN0Q2FxYmtsdWFwWW5GcEFHZUdnaElsb3ZiR25QbGlraG56cFRJN1lYVjZWZ1VpUF9xdXYxenJHdldXalVKZzZ5SzZB0gGHAUFVX3lxTFBnUkp4cnVOZWdWMUNRNjkxNUtJSTdHQjVUTEdXcFUzQzAyRmc0YTZsYVRDZ2xCaTU4R1BKZnE3NG9OZE9uRkZJSHJOMW9DazFhYWtVS2UzdmwzRjZUQzExNHZNR3VyNjBRTzIzNURKZjV4cTBzOF9TbkFuVDQxMVd3Vm9ZRXVZTQ?oc=5",
-      "source": "NewsNation",
-      "date": "2026-08-04T21:08:46+00:00",
-      "description": "Police drone first to arrive after 911 call for restraining order violation  NewsNation",
-      "query": "drone arrest",
-      "detected_at": "2026-08-05T04:09:01.441835+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "43a1d3dd66e6"
-    },
-    {
-      "title": "Wildfires Near Spokane Threaten Key Airports - FLYING Magazine",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTS1TVUdmSjhsTjN6UFVOelZzZ0U2NXIwQ08wVkY0SzRJVG5RZURVZmJhM3l4TjlRdE9ua0dQbGdiM3lsdVJBczQ2cFp0QlhJTjJ0VG1KRXRUbi1hVDEzbVY2WVZDTW9teWQ2OUxHMjdvVnh4cDB1VWNDMA?oc=5",
-      "source": "FLYING Magazine",
-      "date": "2026-08-04T19:30:00+00:00",
-      "description": "Wildfires Near Spokane Threaten Key Airports  FLYING Magazine",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T00:02:01.811624+00:00",
-      "location": "Near Spokane Threaten Key Airports",
-      "category": "airport",
-      "id": "4cd999f7087f"
-    },
-    {
-      "title": "Russian and Ukrainian drone strikes kill at least 5 in each country - Fine Day 102.3",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjVxd3lUZnB6SWFQekFjeTRGYzdZa3VTM3pXT0Fic0Voa0QxSko4UWZjTENtSTl1YmlJNWV2c0VVbmxoNkpSWFNmQ0hMUk1TMmZmS3VIajV1c2ZWYjh0Y0h5UVlSZDBWR3BvZHFTZUYwaXJKOUh6MTE5dlBfUUVqNEdRRF9xVFBiQ2UxRnl5SWduZGtYS3RITzgySnpDTmxabnV3ZEJFakIteFlpZGR3X2tPMnV0MTB1?oc=5",
-      "source": "Fine Day 102.3",
-      "date": "2026-08-04T11:22:50+00:00",
-      "description": "Russian and Ukrainian drone strikes kill at least 5 in each country  Fine Day 102.3",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-05T00:02:01.255414+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a0819dc58389"
-    },
-    {
-      "title": "Police drone first to arrive after 911 call for restraining order violation - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmttT0pUYmh1ci1HbklqLVJuR1NRSWNKVG5nZi1pbjNTTWNEMG9nRXVwb1QxN1gxUUN2ck12RHN0Q2FxYmtsdWFwWW5GcEFHZUdnaElsb3ZiR25QbGlraG56cFRJN1lYVjZWZ1VpUF9xdXYxenJHdldXalVKZzZ5SzZB0gGHAUFVX3lxTFBnUkp4cnVOZWdWMUNRNjkxNUtJSTdHQjVUTEdXcFUzQzAyRmc0YTZsYVRDZ2xCaTU4R1BKZnE3NG9OZE9uRkZJSHJOMW9DazFhYWtVS2UzdmwzRjZUQzExNHZNR3VyNjBRTzIzNURKZjV4cTBzOF9TbkFuVDQxMVd3Vm9ZRXVZTQ?oc=5",
-      "source": "NewsNation",
-      "date": "2026-08-04T19:38:22+00:00",
-      "description": "Police drone first to arrive after 911 call for restraining order violation  NewsNation",
-      "query": "drone arrest",
-      "detected_at": "2026-08-05T00:01:56.914802+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b69f7a36216a"
     }
   ],
-  "last_updated": "2026-08-20T05:29:43.816580+00:00",
+  "last_updated": "2026-08-20T06:43:20.104933+00:00",
   "total_count": 1000
 }
