@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Oregon officials warn drone operators: Stay away from active wildfires - KTVZ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWhyLW5GY1VrRTlyRXphMGhCeElJUFhTeVI3dHhTd3hxWjU5Y3hzMWR5NnZVNy1HczNNMlA4ZVA0ZmszZlpGalVVaGNJUktXZk5sNWx1WkRWVS1XaVdaSU5yZlZyZ0FwVzVQdGR4ZVhNVTNHb1RqdjJUMkJJZU1QOVB5LTZZZGdJaWhIVm9TaTh6ZTJFX3hxX2ZyeWo3Nlp2ZnpHTXBR?oc=5",
+      "source": "KTVZ",
+      "date": "2026-08-20T23:38:56+00:00",
+      "description": "Oregon officials warn drone operators: Stay away from active wildfires  KTVZ",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T06:44:32.854638+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0ba450047f56"
+    },
+    {
+      "title": "Romania destroys drone near gas project, blames Russia - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA2Z1hkeENFTmN3eDNWdDZQd1dfYW9oQW01MlM1U0JhZnowYnFuMGVHMVFtNlF0Rm9xNkc3RE1VVFJGSFFsQ0piNmF4eEd5NEZpR3FZb3BHUkIyWXRVVU5wVEJkR0dPOV9TSGhCWVBGVXR5cElOTVdBTDNGenpSQ0ljSG5TdnhhMWQzWk5aMNIBjwFBVV95cUxQRXJ4aVJWcVROZmN4cWdXaGhwd01DSVRia3BKOTVDMXI4WWFXMXdlNmxXaU51SkNPMTFzYXY2MGRRcEw3aHJwRjZpT3cxY053RTRqZXVSYXlOeVl0andWMEVraHN6Zk1Dd2dUNlVkd3lISGxxeGk4bDBBZUhLdUdZa3hzb0cwR3RjRzFSUWMwTQ?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-20T20:10:58+00:00",
+      "description": "Romania destroys drone near gas project, blames Russia  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T06:44:27.258014+00:00",
+      "location": "near gas project",
+      "category": "other",
+      "id": "1fa52fb9330e"
+    },
+    {
       "title": "Kenyan police arrest Somali man after drone parts intercepted in Nairobi - Hiiraan Online",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWU5QVREMXVSNWNoVDNVZDRuOEx5Wnp3SVVDUmxoclVFTTVpU0lFX21BWFE2YzJ1SmlpUGJEMVFrdXhHa0RVN0J4VEJHU3lYbFdaOWw0X0ZlVk5Ta2E4RzJwd0FhTkhtZXVaT05jQms2MkNnQnlBcFZ5SXVGZFNYLU9YUXZsSFptaTFINHJmV2ZLdE0tQWF5b0w1NTI4clAzbnlLaEJka05LX3RjdU0wRnZUOUQtcGFTN1d2ZXlaZENtVU91enc?oc=5",
       "source": "Hiiraan Online",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "e59b986b5ebd"
-    },
-    {
-      "title": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires - KXLY.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSUVPVjF5NmF3N2x5SzdkMnJWampEMGJMcGhsNGtPUnExQlhJRjZSSVl5T01oNDZVMkRVNlM4RlUwQjVkRmkxRTV4bktrOTQ4U2hnZWY1X1p4eERZWlFiLURReUlaQURSVEhkb2VDMXY2S1NCbzE2dUtCOGlmdTFLcUxNMy1nQlhhYUdJR2Y4M3VsRlRfbjZkNG5kZ0gyZ0paVUpfQlVza1V4d00yOU9hMnJXZ203UXdWNXpUNWZ3NFVGR3VURzdET0hscmJCczh3SFpiSFA0NE55NUhkRUU2ak0yUHV4U2tIS2MxUjFsalA?oc=5",
-      "source": "KXLY.com",
-      "date": "2026-08-05T18:12:39+00:00",
-      "description": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires  KXLY.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-05T19:28:46.057013+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "53e7ef8cad91"
-    },
-    {
-      "title": "German anti-terror police investigate explosive drone found at Leipzig airport - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWhVZ204ZktyQjVFQVlxMEwxekJ3aW5DNVRodzl4bzRGVTB4dkNoOU8zeS1vcWhfUlhRZWxKVldDRi1YQjRITGo4RG1qZTVZTkJSRDVhdjVsNDBnUEQxbkhTSHZJb3Q5SkhCTVRmNURaYnRyeDgtWVNzaVZDUUZudTdIWVpFV2NsbmJpQkdXbGVvaVVpdFBPNg?oc=5",
-      "source": "politico.eu",
-      "date": "2026-08-05T18:05:04+00:00",
-      "description": "German anti-terror police investigate explosive drone found at Leipzig airport  politico.eu",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-05T19:28:45.522047+00:00",
-      "location": "at Leipzig airport",
-      "category": "airport",
-      "id": "74b32fab58e3"
     }
   ],
-  "last_updated": "2026-08-21T05:31:17.475843+00:00",
+  "last_updated": "2026-08-21T06:44:33.334389+00:00",
   "total_count": 1000
 }
