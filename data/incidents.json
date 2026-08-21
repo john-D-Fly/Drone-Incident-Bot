@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Officials announce temporary ‘No Drone Zone’ around Maryland State Fair - NottinghamMD.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmRFX0E5R3hEZ3lXTGhPTy1VdG0zNUE1NlR2ZmdaWG9rcU1SclZoSmRlMzdnOUN6ZWwtMnRtVjVlWm9rOUQwcmZObXJWS045TGl4UjdCUlJhMjNkLXYwdEE5UjBoM3RKczR4RlpKVFJtZlE4NFhQQUdaVEhmNzRMUkt1Yk9QR3FYZks1anBveUxValVjTFotWkNFX3Y4U0hBRmhaQUc0MUl3dw?oc=5",
+      "source": "NottinghamMD.com",
+      "date": "2026-08-21T18:28:18+00:00",
+      "description": "Officials announce temporary ‘No Drone Zone’ around Maryland State Fair  NottinghamMD.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T18:35:04.114437+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5d80f038085f"
+    },
+    {
+      "title": "NYPD says it will neutralize unauthorized drones over US Open in Queens - Gothamist",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3A1STVtbmF1NXBxWVFZc0hoeG5NUnp3REpqdkJ1eDV6bnF3NDRsRWVBUkNXT21yMjRrWEg4TWZlbVFtV3VMWTB1eFprS0ppLWtsYWFINmw0ZDBrN1dmdDZLbUVZbUdJa3JDOE16RDhyYmkxaE1EX0lXcEZaY0tXdzhDMFk2NkR6eTA2WnRsMVA1V2xWZFRFNG1taHZfY2M?oc=5",
+      "source": "Gothamist",
+      "date": "2026-08-21T15:25:00+00:00",
+      "description": "NYPD says it will neutralize unauthorized drones over US Open in Queens  Gothamist",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T18:35:04.114437+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "574cd669713e"
+    },
+    {
+      "title": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre - Inbox.eu",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUs2RFIzZ0YzSjc2RnFNVmFHQnZnblF1NElDVVFuM1NyNl8xcndTMXgzSEIzc19zbWlLMjlNOTZadnA5OTN1bTlWeG1VVjU1MGtFT2lneVR1Z3BlNDE5OEo4c3pNTG1ibGhfSE91WFAyQ0psbklBcmJfX3paeTlyMjJjLUlWT1haaFBIZFByU0xCeGxQNVpnNGlMdXdxY1pueEhUZ2lFbHhzNkZsZVY4cEFIWGZVOXJiaEE?oc=5",
+      "source": "Inbox.eu",
+      "date": "2026-08-21T18:07:50+00:00",
+      "description": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre  Inbox.eu",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-21T18:35:03.586407+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f1efff8d8cb1"
+    },
+    {
+      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-08-21T09:09:09+00:00",
+      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-21T18:35:03.586407+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "aa5d6c2bf832"
+    },
+    {
       "title": "NYPD says it will shoot down unauthorized drones over US Open in Queens - Gothamist",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3A1STVtbmF1NXBxWVFZc0hoeG5NUnp3REpqdkJ1eDV6bnF3NDRsRWVBUkNXT21yMjRrWEg4TWZlbVFtV3VMWTB1eFprS0ppLWtsYWFINmw0ZDBrN1dmdDZLbUVZbUdJa3JDOE16RDhyYmkxaE1EX0lXcEZaY0tXdzhDMFk2NkR6eTA2WnRsMVA1V2xWZFRFNG1taHZfY2M?oc=5",
       "source": "Gothamist",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "d65d54192541"
-    },
-    {
-      "title": "10 arrested at muddy Lollapalooza, including a backstage brawler, drone operator and poncho seller - chicago.suntimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2xicHRPSHB6SXhWbHUtbUJiSEFVejExZGRGV3FDeUdpV3NLVG4yMUJnVmhucU9PdWwtZ09GcVdWeUhPV3hfNk5wR0dnaG42dGZHcjJtX1NmU05xZUJnZVFWSF9URzRnUnZRZFF2cXRaZmdoNG1sUTZTZEJoczFwaDZRYUo1bzdfMS1ZOENaMF9vYjlDbFBSQQ?oc=5",
-      "source": "chicago.suntimes.com",
-      "date": "2026-08-04T18:28:00+00:00",
-      "description": "10 arrested at muddy Lollapalooza, including a backstage brawler, drone operator and poncho seller  chicago.suntimes.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-06T04:11:15.979762+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "0b84cbe54109"
-    },
-    {
-      "title": "Russian Geran-2 Drone Wreckage Found in Moldova - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02S1pXYnRheGdpUVRfYVVCZFg1QXd2UHFhQk45Zmxnc1ZUcjI5VGVacm5jRDV5X2NQNlJDcHc1WWlXRUdnR3Q3WDhMWQ?oc=5",
-      "source": "Kyiv Post",
-      "date": "2026-08-05T22:14:02+00:00",
-      "description": "Russian Geran-2 Drone Wreckage Found in Moldova  Kyiv Post",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T04:11:15.303251+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "00149655703c"
-    },
-    {
-      "title": "Leipzig Airport Targeted Again As Explosive Drone Triggers Alarm - eurasiareview.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckJmTnRuMVR5LVFDUFFpQm9ZVGsyNWRqbW9KZlFhTDR1bXpERGhON0pSZnFKRUVSLWZScHZjNnRxbUZtWWVWNUpHT3J3MzRKM19OUk92aldJV0tCRmhhd0NDOWUtU2V3Z3dZLXJmMnQ5VEFEa1pyV1U0dXJQaFY1Vk9SNFRkd3dEd1Q4NWZTTEotLVZCSm9YZHNqNk9DTXZBZTVNd1RYaw?oc=5",
-      "source": "eurasiareview.com",
-      "date": "2026-08-06T01:23:15+00:00",
-      "description": "Leipzig Airport Targeted Again As Explosive Drone Triggers Alarm  eurasiareview.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T04:11:15.303251+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "7dbe7e43fb3f"
-    },
-    {
-      "title": "German police deploy bomb disposal robot at airport after drone find - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUE9IT0w2NVFaWTZvVDRYNU4xUUtGcl8wNVVGdWpTTXpyWXNPM1diUzdVbmpXQWhVVmVpVnF2U1JYd1dMVEkzcnVQa240MjZKRUkwVWV2Y0w0WllRMndLc2pDbkxwbHFNSXZzbmJYdHR4RWsyOHJHVU13cmVZQ1YzS3NqVUlmZzdPMkdPTWNyUHBzZHBNWVpWamYtcmp0U1owMGtTU1dRcFA3cElsNWM5bFQ1SkJBcW9yRThFdWw2ckFLX1JMU2JPOA?oc=5",
-      "source": "Euronews",
-      "date": "2026-08-05T08:22:10+00:00",
-      "description": "German police deploy bomb disposal robot at airport after drone find  Euronews",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T04:11:15.303251+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "0a95c5e47edc"
     }
   ],
-  "last_updated": "2026-08-21T17:27:37.126560+00:00",
+  "last_updated": "2026-08-21T18:35:04.633504+00:00",
   "total_count": 1000
 }
