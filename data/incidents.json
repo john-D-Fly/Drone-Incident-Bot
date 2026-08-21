@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "How O’Fallon’s ‘Drone as First Responders’ program led to arrests - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFFaNlpTMkNfLWRvUTRlV1F5Z0xUV3VaME9XUVJiVXdDSFdxRkpUZmc3dXdTWEQtekxuXzNqOGhaVk1qOTFNazJxNnBudmlFbENhOFdwTFkzZVlwa1dkcHlFZ2tFRWJCODJ4Sm5iUk5KVEdDdjBYeWtWa2xQZjJRLThiT1hWc0tlSTZjaGc4eW11RG1FbEotcXhDWQ?oc=5",
+      "source": "KMOV",
+      "date": "2026-08-20T23:13:00+00:00",
+      "description": "How O’Fallon’s ‘Drone as First Responders’ program led to arrests  KMOV",
+      "query": "drone arrest",
+      "detected_at": "2026-08-21T14:33:37.626761+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ba3bed92ab05"
+    },
+    {
+      "title": "Romania destroys drone near gas project, blames Russia - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA2Z1hkeENFTmN3eDNWdDZQd1dfYW9oQW01MlM1U0JhZnowYnFuMGVHMVFtNlF0Rm9xNkc3RE1VVFJGSFFsQ0piNmF4eEd5NEZpR3FZb3BHUkIyWXRVVU5wVEJkR0dPOV9TSGhCWVBGVXR5cElOTVdBTDNGenpSQ0ljSG5TdnhhMWQzWk5aMA?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-21T02:11:44+00:00",
+      "description": "Romania destroys drone near gas project, blames Russia  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T14:33:37.034556+00:00",
+      "location": "near gas project",
+      "category": "other",
+      "id": "73a9d3c16885"
+    },
+    {
       "title": "Military-style drone-killer zaps prison phone delivery bid - eKathimerini.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVN5UVMtdHR4OWVFc0N3eVZzS3BYUlpxS3ZHT0xDSWNadjJQY2dKZ2Y5aG5ic2x6QUladmdoTm84NDVnc19KamVscEJzcnM3UUNTMTQ1OTVXazJpWVZjdkF4LTdLczdFeDZQUjBueHlYSE9DSmlLR2RpbGRYdzZjeDI4VUdzXzhsWG9nVE43M1FUMC1KZnA2RGFKa2h1dV9EakY4?oc=5",
       "source": "eKathimerini.com",
@@ -11975,32 +11999,8 @@
       "location": "at a German airport",
       "category": "airport",
       "id": "69f1a3a28a59"
-    },
-    {
-      "title": "Drone with explosives found at German airport, official sees ‘new quality’ of threat - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
-      "source": "AP News",
-      "date": "2026-08-05T19:59:00+00:00",
-      "description": "Drone with explosives found at German airport, official sees ‘new quality’ of threat  AP News",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-06T00:04:14.553404+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "062dc4718208"
-    },
-    {
-      "title": "Man attempts to drop drugs into Utah State Prison with drone, winds up in prison - fox13now.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeFdIbVl1TjdmR2IxbFlQajNkWF9PT1lwOVVCTnBpcGtwaWNQZ2tYT0VSa0MyaG4wX0g0TWRwRkt5OHAyLTNmZjVQTGdVX3dkU1F5UXByS2hLYW5lRU4yUmNNSF9ycWRBYllBUGwwWm5xTHI4YmN4WlN5LXAxemd3TXlISVZDZzNhQTlRamN4Ukx2ZExCZGNNNVBnNjRwMndwRTlnQXRnN3dyeHdXOVJPVDZlTkJMQTB4N2duT1RNMzQyNkZ2bzk1QlNUaFdpYUhn?oc=5",
-      "source": "fox13now.com",
-      "date": "2026-08-05T17:26:39+00:00",
-      "description": "Man attempts to drop drugs into Utah State Prison with drone, winds up in prison  fox13now.com",
-      "query": "drone prison",
-      "detected_at": "2026-08-06T00:04:13.994086+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "1b08b392046c"
     }
   ],
-  "last_updated": "2026-08-21T13:43:26.883711+00:00",
+  "last_updated": "2026-08-21T14:33:42.520520+00:00",
   "total_count": 1000
 }
