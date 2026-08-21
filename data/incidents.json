@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-08-20T18:06:08+00:00",
+      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-21T04:36:33.060425+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ab964f797468"
+    },
+    {
+      "title": "Drone used by police to catch suspect in O’Fallon, Missouri - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanJnM3N3VU96NlJ0WXRYMDJWV3o0UEc1YUV2WVNGb0hzVXR1dFNHRE9LTFpVSUlyR1VrckdhZXYzSWROU1cxSmppU2tmTWoxbVg5d3hEbzV0UHQxTzVVTGdiak4teGVUU3B5elQ4a3BIQmhzaTZsY2p0STdBeF9vNElacllsLWJ1T0hiSmlVd2pyTEhOd1Vz0gGcAUFVX3lxTE00M2d2cWZmZ0tjTHE2WGhoTkRqV0Y4UHU0ZkE1RkJUclRkcDVtSVA1dU5kWHluYzBMMGlQVG5uV0g1UzVYSWFNbGVIRGRyUW9GaXZDb3JtaWdsSHo1LTJtV2N1SnEzei1GcGljTmRYY2NteWdsc3RIbTRNUWNDSW9rUWpJZmdFOTR2N0RHb05kNUJvMTQya3Jfa1lPSA?oc=5",
+      "source": "FOX 2",
+      "date": "2026-08-21T03:15:46+00:00",
+      "description": "Drone used by police to catch suspect in O’Fallon, Missouri  FOX 2",
+      "query": "drone arrest",
+      "detected_at": "2026-08-21T04:36:29.890235+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b104709d957a"
+    },
+    {
+      "title": "Romania destroys drone near gas project, blames Russia - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA2Z1hkeENFTmN3eDNWdDZQd1dfYW9oQW01MlM1U0JhZnowYnFuMGVHMVFtNlF0Rm9xNkc3RE1VVFJGSFFsQ0piNmF4eEd5NEZpR3FZb3BHUkIyWXRVVU5wVEJkR0dPOV9TSGhCWVBGVXR5cElOTVdBTDNGenpSQ0ljSG5TdnhhMWQzWk5aMNIBjwFBVV95cUxQRXJ4aVJWcVROZmN4cWdXaGhwd01DSVRia3BKOTVDMXI4WWFXMXdlNmxXaU51SkNPMTFzYXY2MGRRcEw3aHJwRjZpT3cxY053RTRqZXVSYXlOeVl0andWMEVraHN6Zk1Dd2dUNlVkd3lISGxxeGk4bDBBZUhLdUdZa3hzb0cwR3RjRzFSUWMwTQ?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-20T14:07:48+00:00",
+      "description": "Romania destroys drone near gas project, blames Russia  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T04:36:29.402422+00:00",
+      "location": "near gas project",
+      "category": "other",
+      "id": "0e62ef7d7dc2"
+    },
+    {
       "title": "Drone illegally flew over airspace of Moldova - Moldpres",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTc4U0tUZGJjMVdYTVE5OFFnSGZJXzdzdDNkMEtzenk2WkFwSWF6NERLRDZFQTZTaVVVVFRmdml4eEtsdm92d0ItaHFVd3FxYmRSTHBfV05PWGVsTFBWNXl4UU5QcFp3em1iYUVmVEJxVWt2SkhCTlk2V3ZjdHZXYUhBMERJMnlD?oc=5",
       "source": "Moldpres",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "1ad9a91edc3c"
-    },
-    {
-      "title": "Flight disruption as drone carrying explosives found at German Airport - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOE1wYzZGVWtnUE1zb3J6aEJ5TWxRVzZmWEtFLWt5aXNIS1hwVGFhTmJUTFNDUUx1OUpETnRLTTBzYzRzeFp6a3BRVWExLVVYVVE4U3F6WGZBbHFMUVNEM2oxQWZMVjdTcXN3QXNlZl9Sa0hudXNFb3pwT2N3TGRxLTVQVkQ3MlZXYVZodzU3OXh1eGlDbmNOSFF0cTk4QnFtWjlNSU5n?oc=5",
-      "source": "The Independent",
-      "date": "2026-08-05T14:03:00+00:00",
-      "description": "Flight disruption as drone carrying explosives found at German Airport  The Independent",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-05T19:28:43.392519+00:00",
-      "location": "at German Airport",
-      "category": "airport",
-      "id": "8aeb5c75c435"
-    },
-    {
-      "title": "Flying object hits plane at German airport as drone discovered carrying explosive device - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fcHFoSE44OUxrRG4zOEtfSzlqVUwwX0pwNVhYdUhWX2J2dUhHQUpfa2pVWlJJaHNGU3hiSmwxck41aE8tVkYzUHhIVjY0NUFxTl9iczBsYmRWMmZDWllTUmhpZEdVUFdWMWpHcWU5VTd2dld5NEtyVDdIWXVtdw?oc=5",
-      "source": "CNN",
-      "date": "2026-08-05T10:10:58+00:00",
-      "description": "Flying object hits plane at German airport as drone discovered carrying explosive device  CNN",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-05T19:28:43.392519+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "ad5291ae2549"
-    },
-    {
-      "title": "Drone find at German airport leads to flight disruption. A runway is still closed - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWV9DbmdIdnoxQ0NpZkMwWDZOWTdvUm5UbXVuLVc5WE44ci1PUjFDTXEyR1U2UXdtdTNZa0Vaa3RwSUlSTGYxb3kxRDF5VlRteVJPY3dNU3BhMTg3NlpCM3NuSC0tVnh2TkhzMmR1WE83MUY1ck9wWk55cmJaN1FUUDZIZHhNSHUxNWdiMF90aU9SNEN4MGVUZWtNN1V5X1NlTkZFVW5EWUFZSTVxcnpqa9IBtgFBVV95cUxON1FYNjkycGdOY0pWWlVyYldpa3ZzdzBfLU1CZ3ZZem1PN0ItUzFCSGdhU1hRNklXWlNBNDd1MVlIdnRuZDhJclQ0NWZaMGxJTlkyT1JNa084cDBsd0t1cldmMkNlbEh0aG9jaHhyUW9xclNYaG1kd255Z1g0VDNqWUxjWUx3b1l3ZlJjOFZEWlIzdjg5RW5WSExZZnlMTkVPLVdheVBCdWhWS0JDSE80cVVzUW9IUQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-08-05T18:11:17+00:00",
-      "description": "Drone find at German airport leads to flight disruption. A runway is still closed  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-05T19:28:43.392519+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "3e382ca7c6e7"
     }
   ],
-  "last_updated": "2026-08-21T03:01:33.631581+00:00",
+  "last_updated": "2026-08-21T04:36:34.328764+00:00",
   "total_count": 1000
 }
