@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "NYPD says it will shoot down unauthorized drones over US Open in Queens - Gothamist",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3A1STVtbmF1NXBxWVFZc0hoeG5NUnp3REpqdkJ1eDV6bnF3NDRsRWVBUkNXT21yMjRrWEg4TWZlbVFtV3VMWTB1eFprS0ppLWtsYWFINmw0ZDBrN1dmdDZLbUVZbUdJa3JDOE16RDhyYmkxaE1EX0lXcEZaY0tXdzhDMFk2NkR6eTA2WnRsMVA1V2xWZFRFNG1taHZfY2M?oc=5",
+      "source": "Gothamist",
+      "date": "2026-08-21T15:37:00+00:00",
+      "description": "NYPD says it will shoot down unauthorized drones over US Open in Queens  Gothamist",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T17:27:36.491112+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "d213ee98a76b"
+    },
+    {
+      "title": "US destroyed a lost Reaper drone after hard landing in Middle East - Task & Purpose",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HMHF2RU95aGJJY3VFTndGd3V4OXI3Y3dIdjE1c1VBN25EWkd3cU00ZFBHTGc0Z25CMy1iTWZVWUNlVERmVy02Z3RIeW5hRmNzcW5TQkg4R0tQd21zSUJERDZyQl9Uel9ncWc0?oc=5",
+      "source": "Task & Purpose",
+      "date": "2026-08-20T15:03:19+00:00",
+      "description": "US destroyed a lost Reaper drone after hard landing in Middle East  Task & Purpose",
+      "query": "drone crash",
+      "detected_at": "2026-08-21T17:27:33.848162+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9a4870d09a7b"
+    },
+    {
+      "title": "Oklahoma City police use drone to stop dog attack - KOKH",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHZGWmVna3Z5aFdXT0JHa0FtaVc0X1p0anZTQUhkRVpSVjZxaGVNbkktQ1J3aEVoVHVrMzdJc0pTemdTdm9tODBXaVY5THY0Q1VsVU9xekt5ZnNmU2cxeW9EaEVWYXpKNV84MTlYTVpEMFBlbFdvb21OT3I2U3hpLVIxR2pLdw?oc=5",
+      "source": "KOKH",
+      "date": "2026-08-21T15:26:46+00:00",
+      "description": "Oklahoma City police use drone to stop dog attack  KOKH",
+      "query": "drone arrest",
+      "detected_at": "2026-08-21T17:27:31.384787+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9221b44d85fd"
+    },
+    {
+      "title": "Jet Fighter Destroys Naval Drone Near Black Sea Gas Platform ‘to Protect Lives’ - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHRsdFlteXd2aGFOa1ZzMllLRVVsbEdEOXM1UkptOEppVmZHdlV5eDRlcjlMZEdIdnc3a19takp2TTdJVm1RN18zcmZmYl9EZWI2aDlBc2xORWFTV0gyNXM3c25DY295Uk1FUTBPaXRodXNrYUlHTmUxSnlxWVkxUWVoQzdJbElnbnR3d3VKVWF0RlBkMWV4UUJEQllVVVFadFhOSlNKLWdQZDluUEZxdTlvMUlDUUpJVk5v?oc=5",
+      "source": "WSJ",
+      "date": "2026-08-20T13:33:02+00:00",
+      "description": "Jet Fighter Destroys Naval Drone Near Black Sea Gas Platform ‘to Protect Lives’  WSJ",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T17:27:30.774320+00:00",
+      "location": "Near Black Sea Gas Platform",
+      "category": "other",
+      "id": "c44a524a92e4"
+    },
+    {
       "title": "Drone-assisted arrest made in Durham armed robbery; 2 boys, aged 14, facing charges - CityNews Toronto",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQREgtVTk2UEhRbmJUa2hIbjNDMUhJRTBVX3REVEwwMHhqTnNweHVyczRXRHhEanNfU0Rmc0xueS0tRHhuNkZfSlRiM2pFYnVDRWlwNUVXX0pxZHJZVGdQQUZXUHFRaTlabVZzNE9lbHhfc0hDZDBDakVJQkZES1lscTlKSDdvV05hU3R4WkNsVmhjQ2QxOWt2YXJfMlVROHgySDBtRzRYa0dLVGN5VzE3YzgtZkt5VV91eGdIaw?oc=5",
       "source": "CityNews Toronto",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "0a95c5e47edc"
-    },
-    {
-      "title": "Drone with explosives found at German airport; official calls it a ‘new quality’ of threat - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVFMbDhrbnVEWDhpTjdDUVdFU3B1QmVDbmpXMm1xUFdzNkV4R0JOelp3Y25UaFZXYzg4b3MzVHJqdVFfcEJVd3JnT000SnZ3WkdOU1hoR2ozcTZTSG9laHdBVHVSTmxXN29od0lSV0FZczFxVFNRSHJsemlYcnJ2aTdldVhfR05NRGtSWWhOTWZrb1ktSmF0MGtpLU83cDBKempNQzhuQjZpSlI3T2hWS0ZBN0huaVNpRXRJ?oc=5",
-      "source": "NBC News",
-      "date": "2026-08-05T21:01:39+00:00",
-      "description": "Drone with explosives found at German airport; official calls it a ‘new quality’ of threat  NBC News",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T04:11:15.303251+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "aaf052bb7f1c"
-    },
-    {
-      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenM3ZEt0Tkk3QWh5TGw3Q2NIb3BRSHpmcE5uTWFCOE1pLWVyMmNUOGdjT21JVU54dkNlaEp2djctczVkZ3ZUR3VoTU9hUC1tS3o1TzVlN01weFVxeGhQczl4NUt4LWc4enlLcG1SNlB0c2lqcWhIY3VnNGRBMTZHcUN2c2Y0ZTZlSWs3UjRnVXZNcDFrT1k0TUYxYWtDd1o2Q25ydk9DMi1sbEFq?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-06T02:18:00+00:00",
-      "description": "The Leipzig drone bomb marks a dangerous escalation for Europe  The Guardian",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T04:11:15.303251+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dfe954be8300"
-    },
-    {
-      "title": "Ukrainian Drone Strike Hits Major Wildberries Hub in Tula - Yahoo News New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvT3ZzU093RG9zTFpya2xhYXJ4cUZhR19PaE9jdWduZWV4ejU0eVV5eVAxeUJ5bElQVEpSaWZ0dHJhbXBweEJ1TTVGRk1UWFRTOU9ETzlmTmNwTXVZZnpQNUhtMUU5dm0tejJCcWU2TThzc3RZTnJ5V2JaZ0hDZFk?oc=5",
-      "source": "Yahoo News New Zealand",
-      "date": "2026-08-05T12:50:14+00:00",
-      "description": "Ukrainian Drone Strike Hits Major Wildberries Hub in Tula  Yahoo News New Zealand",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-06T00:04:16.681624+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "63b0a89dad3f"
-    },
-    {
-      "title": "Ukraine strikes 3 more Russian warehouses and kills 5 people in overnight attacks, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNqV053eGo1Y3UtWjV1S0VuZGFOdU1KWlJRb2pDZkFlTl9ETEhta21XNjIxaDMwRDU5S1c0bTBLemdLdkVEN1FZa19jVU5ZWkRHRDd6aVBhZFNYYnRXU3pkbnN3UWlaYnNyMG12Tm9jMF9ZdkczOFQ0OTNXOHEzWTlQZ0NCRkJWUXhhYXdrSGhBdGV1anpWWXdxS053WEwydjAxSVNYanI4SjBUX0xzcEFET2VFMnE0U2Y3NERmbXFLX3h4VklR?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-04T14:14:23+00:00",
-      "description": "Ukraine strikes 3 more Russian warehouses and kills 5 people in overnight attacks, officials say  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-06T00:04:16.681624+00:00",
-      "location": "in overnight attacks, of",
-      "category": "other",
-      "id": "d1c1bdd72c21"
     }
   ],
-  "last_updated": "2026-08-21T15:31:57.850344+00:00",
+  "last_updated": "2026-08-21T17:27:37.126560+00:00",
   "total_count": 1000
 }
