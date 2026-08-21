@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "NYPD poised to take down drones hovering over the US Open – marking a national milestone - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG1QWEZwcXJ3eE1CLXFaSE0wV0sxZm02Q1FHeDRiX3otZVc3OHhGRmEwR3VOSmRxU2dUOGJfUk5zMkNpZGowTjR4SmQ4M0F6UUV5ZDNmb25sMEllZ2dGajQ1bS1EMnRNaTdkMkhiRkdRNDhJZWtzV2d2dFlWcVFvb194NjhHV0ExOU50SU5NWUx5Nkp0cFJYMzJVUkM?oc=5",
+      "source": "New York Post",
+      "date": "2026-08-21T19:49:00+00:00",
+      "description": "NYPD poised to take down drones hovering over the US Open – marking a national milestone  New York Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T20:24:20.066256+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e77e2039cf25"
+    },
+    {
+      "title": "NYPD says it will neutralize unauthorized drones over US Open in Queens - Gothamist",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3A1STVtbmF1NXBxWVFZc0hoeG5NUnp3REpqdkJ1eDV6bnF3NDRsRWVBUkNXT21yMjRrWEg4TWZlbVFtV3VMWTB1eFprS0ppLWtsYWFINmw0ZDBrN1dmdDZLbUVZbUdJa3JDOE16RDhyYmkxaE1EX0lXcEZaY0tXdzhDMFk2NkR6eTA2WnRsMVA1V2xWZFRFNG1taHZfY2M?oc=5",
+      "source": "Gothamist",
+      "date": "2026-08-21T18:57:00+00:00",
+      "description": "NYPD says it will neutralize unauthorized drones over US Open in Queens  Gothamist",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T20:24:20.066256+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "c98703fd56f6"
+    },
+    {
+      "title": "Unauthorized drone flights over wildfires can ground life-saving aerial operations - The Coos Bay World",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU2xpYjhnVFExUVFvaTlHU1JaZUx4elBxc3NITXBpMl9HRzZCZ2taaHIyaTQ3UnVQVjAyTVFrR3g4MVZ4YTMzR0d5b2JwZUdlTnJRUTR4bk13S1Z6czJfSm1zSUcyMWpXWVhSaEtiLW83YzJKOURjZjhXOW9BenQ3T2dhSnN3dmk5a3l1cC1WT21wUW41Tllvb2JYQlFLSjNZZnFJUTg4bHpuT0VRS2JlUVBScU9tTkRxQ0pkNUhVd2dwRXV5ajFmYW1TMEpDa2c3T1IybE11YnB0dmp5bjhyVEY5eVZTdzM5dHpDTUtVcjN2X2Mx?oc=5",
+      "source": "The Coos Bay World",
+      "date": "2026-08-21T19:00:00+00:00",
+      "description": "Unauthorized drone flights over wildfires can ground life-saving aerial operations  The Coos Bay World",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-21T20:24:20.066256+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "fb899af668fb"
+    },
+    {
+      "title": "Drone Carrying Electronics Intercepted Over Larissa Prison - tovima.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZEhJUU53cHpYRjVYY2N5bDlqaF9WZ0ttbDJiWF9ZX1hqYnExU2c2X1dtNmJRYlZkOUt6ejB0RVJXbTh0TFdMLTc3MlAwdzhDb08xUjZjUDl2ajlRR3hNbTVlVGIzd2ZYc0NPandvQTdiUmlqaVJ2VFZid21tSWZZbzVvdWIyOENrNGZfUmF3cW1jaHU10gGaAUFVX3lxTE5SRV9DVGN1N19CdThYODNTYXJ4bDhnRFh5WlFSLWNXbE9VZEVoY0tuMWJ6WmYzbWFnbWFjdXp5b2pyMktUTXZKTzlPUmxFRHA2RWNmTVlPMkdpM1UwMDNzZ0VTWWtPTDVwNDdNWXlseXB1MmZ0U1ptaDlFSHNiRl9xdVVjbXdWYmxGc05femxVMTluNWEzOTh4YUE?oc=5",
+      "source": "tovima.com",
+      "date": "2026-08-21T18:21:37+00:00",
+      "description": "Drone Carrying Electronics Intercepted Over Larissa Prison  tovima.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-21T20:24:16.144954+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "582d9759266a"
+    },
+    {
+      "title": "Lawmaker demands stronger defences for UK North Sea after Romania drone incident - Upstream Online",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazNIbWRmd0pUZmpKblZhV1M5cDZyWUxUSGYybk5ONTUtLUhPSGFkQjIxTzlMY0FsQlhyTDlad3ZKdHVOVmw2WVJEZHBQeFhfWF9SRENHd2hBYmNWcEpaeF9fWlo4VmpGQnhQdnZiSUR0VkhBSFpJTjdLME1haWoyNlYxS0pNNzQyenpyelF3RS1HYnA5U2Nzc3c3dlYtNVJwanhBQXZEVURqY190TXRBVUZuSTlQa3ZfakR3S3F1dWd3Vmd3Q2E3UzBzdEJUSW1WQ0tsSXFB?oc=5",
+      "source": "Upstream Online",
+      "date": "2026-08-21T15:33:44+00:00",
+      "description": "Lawmaker demands stronger defences for UK North Sea after Romania drone incident  Upstream Online",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T20:24:14.940687+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a005501d5ad4"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-08-21T09:56:10+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T20:24:14.940687+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "221b98acb54b"
+    },
+    {
       "title": "Officials announce temporary ‘No Drone Zone’ around Maryland State Fair - NottinghamMD.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmRFX0E5R3hEZ3lXTGhPTy1VdG0zNUE1NlR2ZmdaWG9rcU1SclZoSmRlMzdnOUN6ZWwtMnRtVjVlWm9rOUQwcmZObXJWS045TGl4UjdCUlJhMjNkLXYwdEE5UjBoM3RKczR4RlpKVFJtZlE4NFhQQUdaVEhmNzRMUkt1Yk9QR3FYZks1anBveUxValVjTFotWkNFX3Y4U0hBRmhaQUc0MUl3dw?oc=5",
       "source": "NottinghamMD.com",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "0807e2c9eeb9"
-    },
-    {
-      "title": "Leipzig Airport Targeted Again As Explosive Drone Triggers Alarm - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckJmTnRuMVR5LVFDUFFpQm9ZVGsyNWRqbW9KZlFhTDR1bXpERGhON0pSZnFKRUVSLWZScHZjNnRxbUZtWWVWNUpHT3J3MzRKM19OUk92aldJV0tCRmhhd0NDOWUtU2V3Z3dZLXJmMnQ5VEFEa1pyV1U0dXJQaFY1Vk9SNFRkd3dEd1Q4NWZTTEotLVZCSm9YZHNqNk9DTXZBZTVNd1RYaw?oc=5",
-      "source": "Eurasia Review",
-      "date": "2026-08-06T01:23:15+00:00",
-      "description": "Leipzig Airport Targeted Again As Explosive Drone Triggers Alarm  Eurasia Review",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T07:37:58.807195+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1a5b3de01cf5"
-    },
-    {
-      "title": "German minister: Airport drone incident was 'hybrid attack scenario' - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbURrOTFSSGhDMlRhVWlmUGNNSjNFaTk0b3pJSGNobS1rNHBhcDNheUVJeWhib0tiQ3RpXzY1aVM4cEpLRy1Oa3h1VU1rbWFGWXpuM3E2WnBqRlhVSDRubEFGNGo0LVZBeFdtTDl0TVFuQ2s1cUhkaHg1ZXI3QzdrZmYzQUFaWXBNQTRSZWl0R0xJQW9qZHBscENKZw?oc=5",
-      "source": "yahoo.com",
-      "date": "2026-08-05T21:49:16+00:00",
-      "description": "German minister: Airport drone incident was 'hybrid attack scenario'  yahoo.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T07:37:58.807195+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "3232dbab4a00"
-    },
-    {
-      "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTGJsMG1FMFB2VHRaWE5jcU5rRmltRktEdnVQVWEyWUJyZkFMeGMyd3NCd3hlNC1nU0Q5NXE0bGJBSnROMTRWVWgtc2VWZVFfaUpqbm1yLU5ZYzlzaUtvWG9xbHdTcHpieG9aWHJKM3c3MmdILXBENEt3N2ZCdF9EZDRxTmRhUGhOLUd3ZXZiYmRLd0hoVXpXN0pCYnJUNnh2dlE5WlJPbmdjb2JVOFprYjBFaVYya0dkS1A4N25NM2xxYzh5djZR0gHMAUFVX3lxTFBhRjZ1Y2hVWF9pSWthVVd3T3NkSFpmUjlTcC1hV0dCcXVLQ0wwXzYwM3BfUVp2ZDlkRzQ3cEJ5Vnp0M0Z2anpJMkpTSjdsbTF6Q0N2NFJVY3hQbkJlLU1rcTN3WVFER2FQOTBfZXN6RG9vejJ1QnBvckVvd3FqSjd4QjZNcjJYUVRCTno3WnNVWTlERnZGaVlOdHBXNUIxM0U3elJaa1NjcGZvOE5zcDdjMFZKRF9wVFgwY2JtM3lacnNFcjQzUWotRTBFMw?oc=5",
-      "source": "Fox News",
-      "date": "2026-08-06T01:46:12+00:00",
-      "description": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children  Fox News",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T07:37:58.807195+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bd0860b55a0a"
-    },
-    {
-      "title": "XQ-58 Valkyrie Crashes At Dugway Proving Ground In Utah (Updated) - TWZ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFp5bTZ4a2ZqT0RvMllqejNQWXFqbWh5VnZwRXdHZldzTmczUUtOaDBmbzd5ZTl2SFd1WF9VeVdUbUh0cF9OMDJmb2VQakR6Yk44ME0yX2FzSlN1THcxNUlBbXRGNnpEWmEwUm5pMnN4a3I5REkzWnZyOUZlRmRldVJuYVVGaXlSQWh4R2FkaTY5UFFaaGpwRXZHNA?oc=5",
-      "source": "TWZ",
-      "date": "2026-08-05T21:28:58+00:00",
-      "description": "XQ-58 Valkyrie Crashes At Dugway Proving Ground In Utah (Updated)  TWZ",
-      "query": "drone crash",
-      "detected_at": "2026-08-06T04:11:18.251009+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b1dd2e9109e3"
-    },
-    {
-      "title": "Drone with explosives found at German airport, official sees 'new quality' of threat - The Batesville Daily Guard",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY1BPbV9WTDJJNFU2bkpPckQ3NVRUTXk5ZzlFcml2S01ONjBhdXZodFBoOHN4ZW10cVJVQmczLWcyWFVSOFBqdVpPY052dlduTkZyOXB0Z2lLM1d0TUhmWGRtMWFNT3pWd2dXNmtBY0hwXzBuTHVPMzlvTGl4bG8wclJSVVlwcnN6Zjc2UkFxMktSVUdFT1ZsM0xxa29ZM2lJc1Bob0VobUNzNnJ4bllUMzhTUVlST3ZHczhqc0s0ejVXb1ZPWVJETHVDakZaQ1NTc3IxQlZrb3ZxOEhWRE1ZT09Va0xPSEswV2N2emtfTjJWYVlxeWh6S1JYSkhjQQ?oc=5",
-      "source": "The Batesville Daily Guard",
-      "date": "2026-08-05T19:59:25+00:00",
-      "description": "Drone with explosives found at German airport, official sees 'new quality' of threat  The Batesville Daily Guard",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-06T04:11:17.663217+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "abba56e5fea3"
-    },
-    {
-      "title": "Unsealed warrant reveals new details in case involving man attempting to drop drugs into Utah State Prison with drone - ABC4 Utah",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaDVHM3FwUHZ6dDNPc3BOb1RQbDFISjRUZmZhMG1VNkJhREVvSWVvR1ZGVjdIU1pRMWR4dklNYk1MRlY5Z0lOVjhNQ2J6RC15NlU3S29tT1Ffb2RKTTd0ZmdydXJRUjYwclMyRlEyTUxOUTNHc0xZQ25JaFUyQU5raEtPS19FdmQ0Zy10aWRyRXA2QdIBlwFBVV95cUxOa3dFS0ZjR3dMUWktcWNzN3QwZkhVc01keTltVC1adDJKTjh0NjFRNVNtc3h0WExlVTd3ODYyYlBpNzVGRGVOSDcwM294SFZWa1ZOYWpGbTRPSFh3YW56MVhNc2p5OURPOFBGN2pPN3Vmbmk0R2luLWI1U0hMMVpiN1k4WG9TV3VLM2w1UTI0aTBCbGZqR0t3?oc=5",
-      "source": "ABC4 Utah",
-      "date": "2026-08-05T22:45:13+00:00",
-      "description": "Unsealed warrant reveals new details in case involving man attempting to drop drugs into Utah State Prison with drone  ABC4 Utah",
-      "query": "drone prison",
-      "detected_at": "2026-08-06T04:11:17.051719+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d65d54192541"
     }
   ],
-  "last_updated": "2026-08-21T18:35:04.633504+00:00",
+  "last_updated": "2026-08-21T20:24:20.660326+00:00",
   "total_count": 1000
 }
