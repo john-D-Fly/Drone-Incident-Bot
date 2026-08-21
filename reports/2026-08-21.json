@@ -1,0 +1,128 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable spike in drone incidents across several categories. In Romania, multiple drones were destroyed near gas projects, attributed to ongoing tensions with Russia, illustrating increased military activity. Smuggling incidents included seizures related to prison delivery attempts in France and the U.S. Additionally, drone activity in proximity to wildfires in Oregon continues to pose safety risks, prompting officials to issue warnings. Arrests were made in connection with drones being used for illicit deliveries, which is becoming a concerning trend. These incidents underscore an evolving landscape of drone usage—from smuggling and security breaches to aviation safety—which may necessitate stringent regulatory measures.",
+  "totals": {
+    "smuggling": 4,
+    "arrest": 8,
+    "crash": 10,
+    "other": 18,
+    "interference": 4,
+    "terrorism": 2,
+    "security": 6,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 6,
+      "arrest": 7,
+      "crash": 22,
+      "interference": 4,
+      "other": 67,
+      "security": 5,
+      "smuggling": 7,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 11,
+      "drone crash": 27,
+      "drone illegal": 8,
+      "drone incident": 42,
+      "drone prison": 5,
+      "drone security breach": 8,
+      "drone smuggling": 2,
+      "drone terrorism": 8,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling and Security Breaches",
+      "rationale": "Incidents related to smuggling and security breaches highlight the growing challenges posed by unauthorized drone operations.",
+      "incident_ids": [
+        "c29fb0e939ed",
+        "be9381b7fb28",
+        "62f8321efb91",
+        "f88436636a61"
+      ]
+    },
+    {
+      "topic": "Military Drone Incidents in Romania",
+      "rationale": "The destruction of drones related to military activities in Romania amid geopolitical tensions demonstrates a significant military focus.",
+      "incident_ids": [
+        "201661b2065f",
+        "afcb0d629f39",
+        "5eaad2b86ae1",
+        "8b0e889adb3d"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Numerous arrests related to drone activities indicate a rise in illegal usage and law enforcement responses.",
+      "incident_ids": [
+        "531673a6d111",
+        "a3e3aa30ef66",
+        "0d5d00234812",
+        "f8bcb293410e"
+      ]
+    },
+    {
+      "topic": "Drone Crashes Near Ukraine Border",
+      "rationale": "A series of drone crashes in proximity to Ukraine highlight the risks associated with the ongoing conflict.",
+      "incident_ids": [
+        "fe12a83313c8",
+        "bdb300481cc6",
+        "5f1faa895485",
+        "c56665794499"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c29fb0e939ed",
+      "headline": "Military-style drone-killer zaps prison phone delivery bid",
+      "one_sentence": "A military drone thwarted an attempted delivery of mobile phones to a prison, emphasizing smuggling risks.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "531673a6d111",
+      "headline": "Russia Announces Foiling of Drone Attacks, Arrest of 8 People",
+      "one_sentence": "Russia has reported the arrest of eight individuals and destruction of numerous drones in foiled attacks.",
+      "risk_tags": [
+        "arrest",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8adc9ac7b82a",
+      "headline": "Amazon scales up drone delivery amid crashing incident",
+      "one_sentence": "Amazon's drone delivery service is scaling up despite a report of a drone crashing into a pool.",
+      "risk_tags": [
+        "crash",
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "b761db1c31a0",
+      "headline": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "one_sentence": "In Yemen, drone attacks from both Houthis and government forces escalate as tensions rise.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight escalating risks, from smuggling to military operations in Romania.",
+    "linkedin": "Insights from the last 48 hours show a worrying trend of drone-related incidents, emphasizing the need for stronger regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-21"
+}
