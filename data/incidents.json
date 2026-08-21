@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone illegally flew over airspace of Moldova - Moldpres",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTc4U0tUZGJjMVdYTVE5OFFnSGZJXzdzdDNkMEtzenk2WkFwSWF6NERLRDZFQTZTaVVVVFRmdml4eEtsdm92d0ItaHFVd3FxYmRSTHBfV05PWGVsTFBWNXl4UU5QcFp3em1iYUVmVEJxVWt2SkhCTlk2V3ZjdHZXYUhBMERJMnlD?oc=5",
+      "source": "Moldpres",
+      "date": "2026-08-20T19:23:00+00:00",
+      "description": "Drone illegally flew over airspace of Moldova  Moldpres",
+      "query": "drone illegal",
+      "detected_at": "2026-08-21T03:01:31.674068+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a50d9a5ea36d"
+    },
+    {
+      "title": "Romania destroys drone near gas project, blames Russia - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA2Z1hkeENFTmN3eDNWdDZQd1dfYW9oQW01MlM1U0JhZnowYnFuMGVHMVFtNlF0Rm9xNkc3RE1VVFJGSFFsQ0piNmF4eEd5NEZpR3FZb3BHUkIyWXRVVU5wVEJkR0dPOV9TSGhCWVBGVXR5cElOTVdBTDNGenpSQ0ljSG5TdnhhMWQzWk5aMNIBjwFBVV95cUxQRXJ4aVJWcVROZmN4cWdXaGhwd01DSVRia3BKOTVDMXI4WWFXMXdlNmxXaU51SkNPMTFzYXY2MGRRcEw3aHJwRjZpT3cxY053RTRqZXVSYXlOeVl0andWMEVraHN6Zk1Dd2dUNlVkd3lISGxxeGk4bDBBZUhLdUdZa3hzb0cwR3RjRzFSUWMwTQ?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-20T16:26:01+00:00",
+      "description": "Romania destroys drone near gas project, blames Russia  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T03:01:28.723522+00:00",
+      "location": "near gas project",
+      "category": "other",
+      "id": "dbed4cb43beb"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-08-20T18:07:21+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-08-21T03:01:28.723522+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "f0747b6e8663"
+    },
+    {
       "title": "Oregon officials warn drone operators: Stay away from active wildfires - KTVZ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWhyLW5GY1VrRTlyRXphMGhCeElJUFhTeVI3dHhTd3hxWjU5Y3hzMWR5NnZVNy1HczNNMlA4ZVA0ZmszZlpGalVVaGNJUktXZk5sNWx1WkRWVS1XaVdaSU5yZlZyZ0FwVzVQdGR4ZVhNVTNHb1RqdjJUMkJJZU1QOVB5LTZZZGdJaWhIVm9TaTh6ZTJFX3hxX2ZyeWo3Nlp2ZnpHTXBR?oc=5",
       "source": "KTVZ",
@@ -11963,44 +11999,8 @@
       "location": "at German airport",
       "category": "airport",
       "id": "3e382ca7c6e7"
-    },
-    {
-      "title": "Drone with an explosive device found at a German airport and detonator removed - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
-      "source": "AP News",
-      "date": "2026-08-05T12:48:00+00:00",
-      "description": "Drone with an explosive device found at a German airport and detonator removed  AP News",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-05T19:28:43.392519+00:00",
-      "location": "at a German airport",
-      "category": "airport",
-      "id": "561300f9f704"
-    },
-    {
-      "title": "Civilian drone enters Ben-Gurion Airport's airspace, causes flight delays - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CekpKV3BVLXptMGtyWVhMT3FhLUlxaDZGdTVONUJLLS1WMUlFTXJZVmVNUHpoWURDUXpZZnlyMTY1UlAwUkNyMUxNZEw3aHJRalpZRS0wSkJUUU9j?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-08-05T16:09:38+00:00",
-      "description": "Civilian drone enters Ben-Gurion Airport's airspace, causes flight delays  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T19:28:41.130874+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "bd2d2fca2333"
-    },
-    {
-      "title": "NATO is aware of drone incident near Ukrainian aircraft in Germany - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjBmeHFaMllvc0JKTkJ2RV90eEI2UzBqampOSkN1M1pwaEJpUl9penBYcFA1WVJoTEJGWUQ1TzhEdFJTeDl4Y1Bqd2pNZkNsTDFDQVE1Unk3U1ZreU5hV3JsR3liM1I4QWl5eWZzVGM5NjhZd01mWDZ3WHNzbFNyVHpRN2JOWVFfUk4xa3NTUi0?oc=5",
-      "source": "Yahoo",
-      "date": "2026-08-05T12:19:00+00:00",
-      "description": "NATO is aware of drone incident near Ukrainian aircraft in Germany  Yahoo",
-      "query": "drone incident",
-      "detected_at": "2026-08-05T19:28:41.130874+00:00",
-      "location": "near Ukrainian aircraft in Germany",
-      "category": "other",
-      "id": "25852ffe21b6"
     }
   ],
-  "last_updated": "2026-08-21T01:15:19.131004+00:00",
+  "last_updated": "2026-08-21T03:01:33.631581+00:00",
   "total_count": 1000
 }
