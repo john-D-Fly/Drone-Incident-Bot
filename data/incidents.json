@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drone breaches spark security concerns at RAAF base - 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMndvYTUwTG9qa0U0N1R4QjdUaUZBYnZRR2hmNE1YcWRpaHVuajdlTFk4UWJTQjBtSUdKSUFNN21hMjRZc2F5QVpmMDRxbk4ycEFyTDJEN1FUUGlkNm1UejJhZTVVVmhOR3lDcUVvc1Y0Ny16dTNxR1FyLUNTOTY4T2RtdEZ1TnMxNHNENTRIRHJPWk1fanMwNWlGVVZEME9WblE?oc=5",
+      "source": "7NEWS",
+      "date": "2026-08-22T00:15:25+00:00",
+      "description": "Drone breaches spark security concerns at RAAF base  7NEWS",
+      "query": "drone security breach",
+      "detected_at": "2026-08-22T02:53:09.571555+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "5db87436bd3e"
+    },
+    {
+      "title": "Oregon drone pilots warned: Flying near wildfire could mean $75,000 fine, year in prison - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2NFb3hMSmw0NGc4eS1hdGdTVEoxQTJtUXJ0ZWhBQTZfUjZMSk94N1k2UGo3VWFnaV9lZThIS19LVThUN0JIdzJKOUVCZXo3Ny1fYnhFQk1DQUFiNkpXSWZhT3pZLUxiUXNxeU91SmY2SDVFamF2VDBneHJJRkx5ai0ycGJNcmJfX0N3dEhHeDN4aW9KTl9TZXdYLV91NkxYSXFzRnFaNE9yY0tyWXFydUNpYV9LZ2FYMHA3T3NVc1dPa1ozOElxMTJSWWNVeVk5VlJZUDhKdFZRV01qeDJlN25qYzFUdw?oc=5",
+      "source": "Central Oregon Daily",
+      "date": "2026-08-22T01:25:00+00:00",
+      "description": "Oregon drone pilots warned: Flying near wildfire could mean $75,000 fine, year in prison  Central Oregon Daily",
+      "query": "drone prison",
+      "detected_at": "2026-08-22T02:53:07.410587+00:00",
+      "location": "near wildfire could mean",
+      "category": "smuggling",
+      "id": "14ecc3d6e5b5"
+    },
+    {
+      "title": "Germany may impose sanctions against Russia House after drone incident at Leipzig airport - Бабель",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcFhrdG1LZDJfNzRsUmp3X3l0N3pJUWNLdmVXcWRrc2JMZmxXd19ISGlLTVNMeGhZRWxhd1VIMHY5WEY2UFYwWnd4dzN0eDlSTVNUTmRRTUc2UHotRjZ5bnB4UGk0VkNxNWlBb3BleGdSYmNFQ3dWVTNsU3ZpQWZEV29jc0JyN0dpU3k5OVY4eGRpYTRyZVU4ejZqSXprV1RidzdlS0g4N3kzTTZYZzhya1F1ZnEzczZrRE1sbExn0gHDAUFVX3lxTE5OSHp0U2FTS1lIb0dVX1FQYUd3Rzc5VXdJck5xS2w2WDdaZ0dhekNOeFphZTBZdGhYY3dXcTZ4Mi1YeVVkX0dfWjlUb1FHTUo1ZGZnaGFMeEV0T1lCMzlBcGlxWmpuZUxtWXdrME9LV2dWZXdpQ1UxWU9qNU1PMlFJeGNZRWp1ODM5RmN2SGgxZFJwM0Nvc3VXWUhhRUoyN1hhek1hVDRLRG1IcVBzUjZYRFdnZjJ2NTRiUkl0QTVQOWxEQQ?oc=5",
+      "source": "Бабель",
+      "date": "2026-08-21T10:04:40+00:00",
+      "description": "Germany may impose sanctions against Russia House after drone incident at Leipzig airport  Бабель",
+      "query": "drone incident",
+      "detected_at": "2026-08-22T02:53:05.597891+00:00",
+      "location": "at Leipzig airport",
+      "category": "airport",
+      "id": "ffa04a72c742"
+    },
+    {
       "title": "‘If there’s a wildfire, don’t fly’: Unauthorized drones delay Oregon wildfire response - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUhpeXNqMkFjTk5LWkpUajFJVVNPUWhQWTA5aFVzNDk4ekQ1M3dTRmJkdzRxT01USHl6ekQ3cG5iVWprT2pTVjZHZmxEWVJMTkw0NWlCSnJmUjM3SC01UHhIaEZadXNtSFBGTy00YTdxZjYxVzhKampKSktLcXBTT05vWnU3NFZhalJOOXQ0UFZ5ZDlTWHRMTHotdw?oc=5",
       "source": "Yahoo",
@@ -11963,44 +11999,8 @@
       "location": "at we know about explosive drone found near runway at Leipzig airport",
       "category": "airport",
       "id": "96a3c6458a57"
-    },
-    {
-      "title": "German Police Defuse Bomb-Laden Drone Found Near Ukrainian Antonov Cargo Planes at Leipzig Airport - PYOK",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0pQZWVvSlloSkY3czE3cWtUbzJKXzhleGphR29Tak93TDhsQ3phaExEdTBVV2I5VzBjcEJxeGZoVUtUVG81MU03ZVJ1bnFTN1pnZGtfQUViWkdudUxNUGhWaHhDVndLcFlIRUJpY1l4RmYzaVYzM3FmU2ZndDlzOWllYjVVN1hBXzRYRllaYWdjQzVFREpfQ09PSjRiYU0wcks5YVVSYlc5eFNGUzZhMHNLUDlVRTg1akdueTFwUUZoRmVlNy1pOUlKRXBSN2RHTjhxVXZUSjBMbVRRRXc?oc=5",
-      "source": "PYOK",
-      "date": "2026-08-06T07:37:21+00:00",
-      "description": "German Police Defuse Bomb-Laden Drone Found Near Ukrainian Antonov Cargo Planes at Leipzig Airport  PYOK",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T10:37:36.982512+00:00",
-      "location": "at Leipzig Airport",
-      "category": "airport",
-      "id": "6e030ad4559d"
-    },
-    {
-      "title": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires - AppleValleyNewsNow.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVnE4UjFvSHJNeDBZWWFEa0hTSE9YVkNiMkNyZ216R3FwUjlIN2ZDb0NOUVJEZVl4bGdtQ3ZXaWY0Y0l0Uk5IVXk5cWJaWERYSmJnVF9kVWJfQURMQXkwQklLbkZyNXhLSzhtbHJqZHY2aGZtTTBGTW5GdU5KNWNfbmFsd1Z3c0h6dWdDcl9SS1VyNGF4azFsT1QtN0stRjRleExzbnV1WWFPRWdud3R6b3lqdkgtU0tieWk2SzhubGJONU0wTWJjSEdnd2hka2dxdms4TExFWEExZkF3bVlxSGJOczdmMTd5YldiUnh5OHdhcE1qR1E?oc=5",
-      "source": "AppleValleyNewsNow.com",
-      "date": "2026-08-05T20:16:10+00:00",
-      "description": "Unauthorized drones disrupt firefighting efforts at Spokane Complex fires  AppleValleyNewsNow.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-06T07:38:03.262451+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "7a2183484a96"
-    },
-    {
-      "title": "Germany opens terrorism probe after explosive drone found at air cargo hub - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNHo1TXpXTS1qMzBON2R1QW1OOWpMWm5wbHZ2d1BSQVpRa1VqWW15N2hpZ1lLUW1WUXJCYU9fV2tWR094X3RTT3p4S3dKdGNERHBNaDhEeWpPaUIwbmJyLTRMdTFITV9RWlJURFRKZmh6T1pMS05VXzM4RkhuandBUzNUTDE0Sk1obWVmSDlZbmpLZw?oc=5",
-      "source": "yahoo.com",
-      "date": "2026-08-05T14:10:57+00:00",
-      "description": "Germany opens terrorism probe after explosive drone found at air cargo hub  yahoo.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-06T07:38:02.761353+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "6337ee87c26d"
     }
   ],
-  "last_updated": "2026-08-22T01:11:15.476186+00:00",
+  "last_updated": "2026-08-22T02:53:11.572252+00:00",
   "total_count": 1000
 }
