@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Forest Service says 67 drone incursions have taken place near wildfires in 2026 - Action News Now",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNEFfV0FqTWFHVHRQdE9jU2lPSWdBV1hPNUtJZXBlOXhTSWc3TnNCcXFIczhhNWFmUDA3akpzaUg0UUcxTk1DbUdrOGFTR0RrZFVsVEpnaUhEdVN5TFczN0tZcmc0OU9KMW10MEM4bzhoclV0Qnd6c3RLZnRfZ1c4VlRPSzNJdkxscGFRY3RhVmw0dTVrRDVLRDZ0bEFESFItTDhQcE4tTmVlS1NMY0R3ZFdjd1FSRm1wNFVFR0UwZmdaNjlRVklaampaRlRsR2YyRXJIcEkwOUpHWXhhNWdsbFFBTDdweE5ZdktCTm05UUZsUWtiQkZ0QlFvUFBnWExwdWVnXy1FY0dTYjBuSHlMdW1n?oc=5",
+      "source": "Action News Now",
+      "date": "2026-08-23T03:07:21+00:00",
+      "description": "Forest Service says 67 drone incursions have taken place near wildfires in 2026  Action News Now",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-23T04:35:38.640392+00:00",
+      "location": "near wildfires in 2026",
+      "category": "other",
+      "id": "4b8c2b26e27b"
+    },
+    {
+      "title": "Israeli drone strike kills Palestinian, wounds others in latest violation of Gaza ceasefire deal - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wWkhmZmpfTkhIb3hQbXNLaGZPc2VPVGVkSlVMTEo0TVkwQzExcm1zNjhBaTMzRGpSR3RnYUYyNkhjRHA2ZkVUYjFnNGtpY19WaEphVWE1MlQ?oc=5",
+      "source": "TRT World",
+      "date": "2026-08-22T14:28:54+00:00",
+      "description": "Israeli drone strike kills Palestinian, wounds others in latest violation of Gaza ceasefire deal  TRT World",
+      "query": "drone illegal",
+      "detected_at": "2026-08-23T04:35:37.162881+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "50e0d598fa48"
+    },
+    {
       "title": "Unauthorized Drones Over Wildfires Can Ground Operations - mycentraloregon.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWNzMWs4bUNrdk5iNGdDU0dKczgzUTNLal80UFlwT1hHYkVmdS1ocGVORnpVTFVNN0RseVVqOTBDMjNrVkJ5WTNxS3UzUmY1QmVsaGtSZFFqUHlyRzlEOEpCRjFmd0ZGbTF2SVFUdkNWc0NJaXNqRm9xdWJQbDB3ZHdUV3NJVm5YY3dSX1VpZmV3WmZRV2NmNWJscnVZUlhrc3c?oc=5",
       "source": "mycentraloregon.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "04a134779930"
-    },
-    {
-      "title": "Drone with explosives found at German airport, official sees 'new quality' of threat - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkxwSEJPRkVCT3dJRy1uU24zaUticzVBcjBfcVJ4RWtfZTNUbk9pNnhSVlJJQ3Y5UlF5aGxzek1aVFdmOE91eElWYVNrZ3V3MkcwdUVsRGpqbk5OZkdXbnNJOGVDcVZzeFNvU0lPYWxlLWhLRDFRVU5KR1pHei1Wag?oc=5",
-      "source": "NPR",
-      "date": "2026-08-06T05:23:08+00:00",
-      "description": "Drone with explosives found at German airport, official sees 'new quality' of threat  NPR",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T15:12:36.091702+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "ab251fb3b593"
-    },
-    {
-      "title": "Civilian drones ground aircraft battling Wash. wildfires - FireRescue1",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVThwdXgtU2ZiTTYxTVUzSVRubGZhbnFxajhrS2FSZWJ1c2lHLW9IaHpGZzhVMDJrcWpWUFVRbFgzamdpeTF6QklmbEpkTWV5Q1ZlYWZSODBWaU8tWkxFZVBXSUZ1SjBCOU52YWhBbXlONXVTalNNNUk4SUtVWXBuYTdKOGVjSF9raFpNeGcwV3RlajVkTTNUTEVLbWUyNnNtV2VPODFRcXlrMXoxSWhBSWtteExnRUF5bHplcm9R?oc=5",
-      "source": "FireRescue1",
-      "date": "2026-08-04T15:19:14+00:00",
-      "description": "Civilian drones ground aircraft battling Wash. wildfires  FireRescue1",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-06T12:55:22.925201+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "af1b7ab4c7e8"
     }
   ],
-  "last_updated": "2026-08-23T03:01:33.191575+00:00",
+  "last_updated": "2026-08-23T04:35:39.109669+00:00",
   "total_count": 1000
 }
