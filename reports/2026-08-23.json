@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, a notable spike in drone-related incidents has emerged, particularly surrounding unauthorized flights over wildfires which pose serious operational risks—67 such incursions near wildfires were reported. Additionally, several incidents of drone strikes in Ukraine are alarming, with a Russian attack resulting in significant casualties. In the U.S., the NYPD is on high alert at the US Open, ready to neutralize unauthorized drones, reflecting an increasing emphasis on drone regulation. Reports of illegal drone activities aim to enhance border security, especially in New South Wales, while other operations have been thwarted, highlighting counter-drone measures against smuggling and attacks. Overall, there's a growing concern over national and public safety due to various malicious or negligent uses of drones.",
+  "totals": {
+    "other": 20,
+    "crash": 5,
+    "terrorism": 5,
+    "security": 10,
+    "smuggling": 9,
+    "arrest": 8,
+    "interference": 3,
+    "airport": 2,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 1,
+      "arrest": 3,
+      "crash": 2,
+      "interference": 3,
+      "other": 27,
+      "security": 13,
+      "smuggling": 11,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 6,
+      "drone crash": 3,
+      "drone illegal": 4,
+      "drone incident": 11,
+      "drone prison": 4,
+      "drone security breach": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 9,
+      "unauthorized drone": 16
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Interference",
+      "rationale": "High number of incidents related to unauthorized drone flights affecting emergency operations, especially near wildfires.",
+      "incident_ids": [
+        "4b8c2b26e27b",
+        "beb7d72354b4",
+        "75f2e9058943",
+        "974de4921968",
+        "fb899af668fb"
+      ]
+    },
+    {
+      "topic": "Drone-Related Violence",
+      "rationale": "Increment in incidents involving drone strikes and attacks resulting in civilian casualties.",
+      "incident_ids": [
+        "03740c973849",
+        "50e0d598fa48",
+        "30e8261bd327",
+        "a720ce89a555",
+        "1da5adf1b9c1"
+      ]
+    },
+    {
+      "topic": "Smuggling and Law Enforcement",
+      "rationale": "Increasing discussions regarding counter-drone measures amidst concerns over smuggling and security breaches.",
+      "incident_ids": [
+        "d174ffdc8626",
+        "fe83d9347656",
+        "431e40ba1c2a",
+        "582d9759266a",
+        "e0a63d12aa4c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a720ce89a555",
+      "headline": "Home Affairs hunts drone fleet to protect our borders.",
+      "one_sentence": "Australian authorities are escalating their anti-drone efforts to enhance border security.",
+      "risk_tags": [
+        "security",
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "03740c973849",
+      "headline": "Baloch Yakjehti Committee condemns reported drone attack on civilians.",
+      "one_sentence": "A reported drone attack on civilians in Mastung has been condemned as 'state terrorism'.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "50e0d598fa48",
+      "headline": "Israeli drone strike kills Palestinian in Gaza.",
+      "one_sentence": "A drone strike by Israeli forces has resulted in one death and multiple injuries in Gaza.",
+      "risk_tags": [
+        "terrorism",
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4b8c2b26e27b",
+      "headline": "67 drone incursions reported near wildfires in 2026.",
+      "one_sentence": "The Forest Service reports a staggering 67 incursions of unauthorized drones near wildfires, risking firefighting operations.",
+      "risk_tags": [
+        "security",
+        "unauthorized"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d174ffdc8626",
+      "headline": "Army, BSF and Punjab police discuss joint strategy to counter drone-led smuggling.",
+      "one_sentence": "Authorities are collaborating to develop strategies against drone-led smuggling along the border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "window_hours": 48,
+  "date_utc": "2026-08-23",
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  }
+}
