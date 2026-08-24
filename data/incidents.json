@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "AirSight and Flock integrate drone detection with law enforcement data - Military Aerospace",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMC1JOVZaNGhlY3c2R204WHF2dVNmV2xFV05ndGh5bG5yTy1RdlRHeUswcTY5OG9CTjRjcXhucHZvNlU0S2dsNUFiR1A0VGhHcVpGb2hPX2pYU0NaV3MxWkxQc0wtT3pJVmlhbkJvZWc4NnVKaUFQYWhNTnRySGNkd3JqVTB6THo4RVBuenZObkhYWS0wdGt6X0J5LXc4eHB3VURrdWs3X0tHWWJaY05Vd0VWZUZZSzM0a2QyV005V3FOUWsxenc?oc=5",
+      "source": "Military Aerospace",
+      "date": "2026-08-24T08:03:09+00:00",
+      "description": "AirSight and Flock integrate drone detection with law enforcement data  Military Aerospace",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-24T08:57:12.607791+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "eba83dc6b9b4"
+    },
+    {
+      "title": "Police charge man over attempted $1 million prison drone drug delivery - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2JXbUM3aFk0dzdVZVhOTG5MLVV6OVhDN2tyaWVBQzQwbWRLQWxXWXZhR1YxMVItRmo0NVJEOC1JNGgwX3dZZDBUNU5oeUVQM1k1NHpTN0FscTNGM0R1R2tSb1VhRzRMOGpiRk9DNjdNcEh3X2d5N0hZcjBVMUluYWtPazFVaDVhZlRyVWN6UWhsdDFfY0E?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-08-24T08:13:55+00:00",
+      "description": "Police charge man over attempted $1 million prison drone drug delivery  ABC News & Headlines – Australian Broadcasting Corporation",
+      "query": "drone prison",
+      "detected_at": "2026-08-24T08:57:09.626140+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "86d7b914e56d"
+    },
+    {
       "title": "Man Charged in Attempted Prison Drone Drug Drop - Mirage News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlhfX3luV2hrXzlTSUgwZHFub1NtZzVFekpiXzJ5c1JCaEJjVzVnQV9ZeHVzSFdzdDFhRXJFTlZqREVIc2huWXgyX1U2bVFCR3poNHRmemV5MkFmYzBVR3VERDJXUERTT2VhTXotbnFCVUVGN2poUUtoNXg0dlpDakg2REoya182OTB3?oc=5",
       "source": "Mirage News",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "21d75c714203"
-    },
-    {
-      "title": "Federal Public Prosecutor investigating drone incident in Leipzig - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEJCMVpHdXpHek9UNTBReFdlWlNiVURES01LeWp4ZnNZazB0OXlkcVVCVGg1Z0ZLajVfZF81VXZOLTdaRUtnQUlUUDhKSXNLQ3Ywdmc2N1F4c2hSbmFpOHNJZ0VrYjZXLVpnaU1aOTlSZm1ldWs2TXNQdHAyTjZHbEI2djZJbUpLRHN5UVNXWmV6SUN1VHZvdm14UzloNF9teTlrWg?oc=5",
-      "source": "Yahoo",
-      "date": "2026-08-06T17:48:32+00:00",
-      "description": "Federal Public Prosecutor investigating drone incident in Leipzig  Yahoo",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T23:57:27.957333+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "31ebef274ed2"
-    },
-    {
-      "title": "Leipzig drone incident fuels fears of Russian election meddling - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFpGMFdkRTkta1dCOFEwOHNrVFNNTzhWQ3NwODRtdjhTREN4S2gzRFFOZzhWT0JDWlZ6WnBKbEtJaEdMd0lUb3BHVFU5Sm9mQUdWX2J6dS14Vk9PbHd0cHplbjczUG51SUx5TDFjejJ1SFlKalVFOEt6NG1pVzdWdU1oempjYm00RVpta0lVUWZhYkJYZWln?oc=5",
-      "source": "politico.eu",
-      "date": "2026-08-06T14:38:00+00:00",
-      "description": "Leipzig drone incident fuels fears of Russian election meddling  politico.eu",
-      "query": "drone incident",
-      "detected_at": "2026-08-06T23:57:27.957333+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "1ef6f12b6baf"
     }
   ],
-  "last_updated": "2026-08-24T07:58:49.895445+00:00",
+  "last_updated": "2026-08-24T08:57:13.089092+00:00",
   "total_count": 1000
 }
