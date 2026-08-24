@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Man charged following attempted drone drop of illicit drugs into prison - Queensland Police News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGZiZGlXcW55d3N2WTN5LWtQWEFTSmdaam8tMWxmWV9PVklOZml2QWRDVE93NTl4QUprb1M4d1JYNHRfek51X2NxZFV5ZUhGM1RsTk10YnRZNXl3VFduTFQwQjNfVFZTMS1lcXAyZHVNYVZyUDF2anMwWHNFQThsMGd1T2xVOGxaa1YzTk0yRkE0WlNMOTI4dUpYd3dKVjdkUjlYdnlPSkZRdzJCT2x4ajlLclZYOHc?oc=5",
+      "source": "Queensland Police News",
+      "date": "2026-08-24T06:39:47+00:00",
+      "description": "Man charged following attempted drone drop of illicit drugs into prison  Queensland Police News",
+      "query": "drone prison",
+      "detected_at": "2026-08-24T10:36:09.865765+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "937a2cfdd713"
+    },
+    {
       "title": "Cops foil $1m drone drug drop into prison - Yahoo News Australia",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tZG5aODYwUERaUl82X3dYOUU2YmRPQjA4b1FHSWZDRVFTUEJzRDB6U0pTZ29BUEJ1SFRxdXFLTmRRdlRmaXJvOHJYbmwtek9KU3ZlaDlUczlJQm9qOEFEQUxJeG1TNVYyejZwd0lnV3lKdw?oc=5",
       "source": "Yahoo News Australia",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "8a45da9d340a"
-    },
-    {
-      "title": "Drone delivers defibrillator directly to remote cardiac arrest emergency in Sweden - Engineering and Technology Magazine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2cxY3hQN0NhT3BZQ3FyTXN2aHdFN3BSeTQyQ2JUWXA1QXl0cVZYYTE0SVNRQ0xIdVJYV2ZaRlp2QUNHV3REdzFsMWlONDlOeE5jc1Q4V0E2aFRaOVVtRl8tR1ZSeHFzSmZWWGhOeEN2Qzl6MFFqZ3hKUU1uTnhwWDhjR1lRa0hDSEFhZ0FiRlNlUWstMGxWaVAydWlvWHF3NTFoVGxCOHB1ZERoUkZlcW5B?oc=5",
-      "source": "Engineering and Technology Magazine",
-      "date": "2026-08-06T13:30:35+00:00",
-      "description": "Drone delivers defibrillator directly to remote cardiac arrest emergency in Sweden  Engineering and Technology Magazine",
-      "query": "drone arrest",
-      "detected_at": "2026-08-06T23:57:28.517740+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "c67a749eab41"
     }
   ],
-  "last_updated": "2026-08-24T09:52:51.515442+00:00",
+  "last_updated": "2026-08-24T10:36:13.268431+00:00",
   "total_count": 1000
 }
