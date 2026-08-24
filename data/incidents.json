@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Man charged after drone drops drugs into jail - The New Daily",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ211QlFkV3BYenVYLTRRbGpQTmRHaEdRYXp5c0hMRUtncl9jVDZfRldFbV9OX2pwZVU2ZFg5emZ6TllGeDBPeE4wTm9Db1Rma09OMlNFQXpXcE81U1NrMzVUUkNDSEJ1OEE5VHhocDd6Qm5mSnFlbkFPMnI2M1BIOXNZSEdEQkZhcGk5SQ?oc=5",
+      "source": "The New Daily",
+      "date": "2026-08-24T22:26:18+00:00",
+      "description": "Man charged after drone drops drugs into jail  The New Daily",
+      "query": "drone prison",
+      "detected_at": "2026-08-24T23:20:56.490630+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "2458ed198056"
+    },
+    {
+      "title": "Drone used to smuggle $324K in contraband, drugs into Virginia prison, officials say - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0dyV1dqYUlUb0VxT0E1Tnd2b1JFaDRqdC1oRXUxY0dJakdrOER2VUgwQ2VGd05pSDgtMGRwVHJxaVB3RXlRWmRPbVNFNHdrU0FLNThpY0tDZTItX2Z5b3pYWS1xN1dUNkRzZEdEZ2JGYzBtdE53VUFGazRTMHhXcGE1bDRnUGg0RzZZMFRXYk9pdw?oc=5",
+      "source": "WTVR.com",
+      "date": "2026-08-24T20:50:34+00:00",
+      "description": "Drone used to smuggle $324K in contraband, drugs into Virginia prison, officials say  WTVR.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-24T23:20:55.935507+00:00",
+      "location": "in contraband, dr",
+      "category": "smuggling",
+      "id": "535bd61a13f3"
+    },
+    {
       "title": "Motorola Solutions Completes Acquisition of D-Fend Solutions - officer.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMGZMam9pUGFyU08tS3E3SEt5LXMzRUQwMmNvUjVadVcyOU5fVTc5VXJkd1BwTTMzYURVQVZUN2wyWkl1OUt0d0pRaEJJeHJUVTRfWlBGUjRLXzY0Ym5aYTJEMHhnc0RLQjhrV3QzWEEzSlp1OWJldEtBVlNnbVlxOGNvVFRPTjhVMVZsVzFCWHlmMWpmdkxSbXFkYkR2YVFJN0lwMHNDOFZma3N1d081WGRGd3VEdlF3anlDTXR1cC1oNEVhU2FBaFA4Wmh0QjBORUlScjNiOGVYbGE3YlJzMVdnaE4?oc=5",
       "source": "officer.com",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "17729f02e990"
-    },
-    {
-      "title": "AFPM: FAA drone rules essential to better protect critical energy infrastructure - American Fuel & Petrochemical Manufacturers",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5",
-      "source": "American Fuel & Petrochemical Manufacturers",
-      "date": "2026-08-06T12:00:00+00:00",
-      "description": "AFPM: FAA drone rules essential to better protect critical energy infrastructure  American Fuel & Petrochemical Manufacturers",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-06T23:57:32.872453+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "57e90e391e8f"
-    },
-    {
-      "title": "D-Fend Solutions: Inside the Counter-Drone Operations at 2026 FIFA World Cup - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeExfZnVydzhfLXh4bFVOeDljSHd0UkZjVjRjOVpMeVNsel91WW10Vy1fVUdSVmdyanRCeE93UWZfMllCaTNHUjFhWE85Q0ZCbWRmTWlLVFVUT2MxMWM5MU02WTNJOFdsSmt2MFVTZFNqM1RHVmliOHRUa3ZTaW5mYkx3?oc=5",
-      "source": "Dronelife",
-      "date": "2026-08-06T19:17:52+00:00",
-      "description": "D-Fend Solutions: Inside the Counter-Drone Operations at 2026 FIFA World Cup  Dronelife",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-06T23:57:32.872453+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dc2138e143f5"
     }
   ],
-  "last_updated": "2026-08-24T22:24:52.087877+00:00",
+  "last_updated": "2026-08-24T23:21:00.220466+00:00",
   "total_count": 1000
 }
