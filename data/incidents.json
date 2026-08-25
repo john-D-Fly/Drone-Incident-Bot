@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Police Log: Officers respond to car event speeding, a Main Street argument, and suspicious drone activity - TownLift, Park City News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUd2NkNoeWpwMDg2cTdaWTN1dzcwazZmX05jWkVpc2RNYlRfM2YzNzRpM092aG84TTdlRUQyWFlOOXdRdVZjMWhMSHBTNnJPTWQ3TkYxaXB2bXJ6d2ljRThBTEtMV0wxbGRoWklaQ0dMNG9RcjEwSHhFV2pnOVJfRURXMGtmUHdJeTRnaVBGNXFPczQ0a05VdDJwSmpKZndGV2NPQkVMRk9UY0xDZHY5QmNhZkFWX0NuUFA2UElpUk5KaUVVdzQ3Unp3R0I?oc=5",
+      "source": "TownLift, Park City News",
+      "date": "2026-08-25T20:01:57+00:00",
+      "description": "Police Log: Officers respond to car event speeding, a Main Street argument, and suspicious drone activity  TownLift, Park City News",
+      "query": "drone incident",
+      "detected_at": "2026-08-25T22:25:48.965479+00:00",
+      "location": "in Street argument, an",
+      "category": "other",
+      "id": "6bced675cd47"
+    },
+    {
       "title": "Germany news: Third drone found in Leipzig airport probe - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
       "source": "dw.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2407b39ab0b1"
-    },
-    {
-      "title": "Drone delivers defibrillator directly to remote cardiac arrest emergency in Sweden - eandt.theiet.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2cxY3hQN0NhT3BZQ3FyTXN2aHdFN3BSeTQyQ2JUWXA1QXl0cVZYYTE0SVNRQ0xIdVJYV2ZaRlp2QUNHV3REdzFsMWlONDlOeE5jc1Q4V0E2aFRaOVVtRl8tR1ZSeHFzSmZWWGhOeEN2Qzl6MFFqZ3hKUU1uTnhwWDhjR1lRa0hDSEFhZ0FiRlNlUWstMGxWaVAydWlvWHF3NTFoVGxCOHB1ZERoUkZlcW5B?oc=5",
-      "source": "eandt.theiet.org",
-      "date": "2026-08-06T13:30:35+00:00",
-      "description": "Drone delivers defibrillator directly to remote cardiac arrest emergency in Sweden  eandt.theiet.org",
-      "query": "drone arrest",
-      "detected_at": "2026-08-07T15:54:52.652048+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "22764b913f4c"
     }
   ],
-  "last_updated": "2026-08-25T21:26:57.179314+00:00",
+  "last_updated": "2026-08-25T22:25:54.090120+00:00",
   "total_count": 1000
 }
