@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Third drone and suspected military explosives found near Leipzig airport - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVd1ckZWX0hSSGtXQVRUSUo1dG54Q0NickRYWkg4czRlNm9OcG1qeWJic3NfenlGZ1o5T01PZkZudXItRm92T3FHc05LMEoxWERVbjhVb2h0aXU0aVFPdHR3TlYwSUdHRl9UTzdSZHVObHhQOERjcU1MNVRweXJsZVg4NUpSemxiVktEd01xT1hLLVlkNk5vckp0dUdJQWNvV2J0X2VaSUhKM1lpVm9la1d4LUlQbFU?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-25T18:33:00+00:00",
+      "description": "Third drone and suspected military explosives found near Leipzig airport  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-08-25T19:30:46.645203+00:00",
+      "location": "near Leipzig airport",
+      "category": "airport",
+      "id": "fad6a9069a53"
+    },
+    {
       "title": "Slovak police thwart arson plot targeting Ukrainian drone factory, media reports - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0oybGxGb21pc3plTkR6QW9BQ0JlY2VTTmV6eXN4REw2YWdrZlBMbkVUU3Exd2E1c3pWb25VUEN3VlNya3lhYXNTY1BFQmJMSUV5UjF6WUN2U1N2R3NPMUE1eXRLT3kzYWRSZFBuLXREUEphZER0a1BTTDlQTmtITDEtMjJYd2dQdS1pRUdMenJXUQ?oc=5",
       "source": "Yahoo",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "991ee035c38a"
-    },
-    {
-      "title": "Ondas Selected to Provide Advanced Counter-Drone Protection for Jacksonville Jaguars NFL Games - Ondas Holdings",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFhzQ283c3J1bllFX000eGJvLWRfTGQ2bUhRSDZYako4WGJxdVZYdGRiaVZranpoamRHWmJFd184NVlsdzlRdEF3dW5RUVZLOTJkdWFHbTMxQm4teTIwRHdPMlk0ZHRLdjd3M1ZuSFphS2JLR3hsOUdzNmxrLVRmSWI0V3ZWU3Jxa2N3QUlZYjA2UE43VzIyM0QtVmZVT2RLcnVYM0pjaDhrUQ?oc=5",
-      "source": "Ondas Holdings",
-      "date": "2026-08-07T12:31:57+00:00",
-      "description": "Ondas Selected to Provide Advanced Counter-Drone Protection for Jacksonville Jaguars NFL Games  Ondas Holdings",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-07T14:51:39.640188+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "164d0ce9a1f7"
     }
   ],
-  "last_updated": "2026-08-25T18:37:44.103660+00:00",
+  "last_updated": "2026-08-25T19:30:52.222875+00:00",
   "total_count": 1000
 }
