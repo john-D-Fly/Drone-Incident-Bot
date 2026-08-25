@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Germany news: Third drone found in Leipzig airport probe - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-25T06:44:20+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-25T21:26:51.331993+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "abe6954b1bf0"
+    },
+    {
       "title": "Third drone and suspected military explosives found near Leipzig airport - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVd1ckZWX0hSSGtXQVRUSUo1dG54Q0NickRYWkg4czRlNm9OcG1qeWJic3NfenlGZ1o5T01PZkZudXItRm92T3FHc05LMEoxWERVbjhVb2h0aXU0aVFPdHR3TlYwSUdHRl9UTzdSZHVObHhQOERjcU1MNVRweXJsZVg4NUpSemxiVktEd01xT1hLLVlkNk5vckp0dUdJQWNvV2J0X2VaSUhKM1lpVm9la1d4LUlQbFU?oc=5",
       "source": "The Guardian",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "22764b913f4c"
-    },
-    {
-      "title": "D-Fend Solutions: Inside the Counter-Drone Operations at 2026 FIFA World Cup - dronelife.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeExfZnVydzhfLXh4bFVOeDljSHd0UkZjVjRjOVpMeVNsel91WW10Vy1fVUdSVmdyanRCeE93UWZfMllCaTNHUjFhWE85Q0ZCbWRmTWlLVFVUT2MxMWM5MU02WTNJOFdsSmt2MFVTZFNqM1RHVmliOHRUa3ZTaW5mYkx3?oc=5",
-      "source": "dronelife.com",
-      "date": "2026-08-06T19:17:52+00:00",
-      "description": "D-Fend Solutions: Inside the Counter-Drone Operations at 2026 FIFA World Cup  dronelife.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-07T14:51:39.640188+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "991ee035c38a"
     }
   ],
-  "last_updated": "2026-08-25T19:30:52.222875+00:00",
+  "last_updated": "2026-08-25T21:26:57.179314+00:00",
   "total_count": 1000
 }
