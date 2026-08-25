@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Remember: Lab Is A No-Drone Zone - Los Alamos Reporter",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91dFE2U3ZmUlNpVmFLQ2VTODlETVlPNVhhY2loN0xSeHQ2dXROOE03eWJPa1ZNV29Qb25QZEZPeFREdWVzVDFQTDREMUxzZEhFMnFRcE43bi1nTVhrcnFlcmNXYkR1NTFvc0JhSzFWSHFGYVA0M0xPTHBFRXUyQQ?oc=5",
+      "source": "Los Alamos Reporter",
+      "date": "2026-08-25T02:31:10+00:00",
+      "description": "Remember: Lab Is A No-Drone Zone  Los Alamos Reporter",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-25T02:57:16.869334+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b14996240ac1"
+    },
+    {
+      "title": "From a Crashed Prototype to Jamaica's Largest Drone Spraying Business - Commercial UAV News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0V2SFoxN2V3M0pvZk9QWlpfNzhRMVkzYnBaakF1am9JdXdsUjJYTWljWUxFVm9kb3JlZ2pDdXYwNllRcjVHLWt0dW90Uk0wU3Y5WG1GRmdydHFUNWdzMHhQLWRzX0d0UEtzVVl0Y0lyakUza1FCRmZGY1lNazRpRjRHTTd1TmwyZ1hzOTdxSVRDelU?oc=5",
+      "source": "Commercial UAV News",
+      "date": "2026-08-24T13:34:38+00:00",
+      "description": "From a Crashed Prototype to Jamaica's Largest Drone Spraying Business  Commercial UAV News",
+      "query": "drone crash",
+      "detected_at": "2026-08-25T02:57:14.618394+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "45a73a8941c8"
+    },
+    {
+      "title": "Correctional Officers Stops $324K Drone Contraband Drop at Prison - Eastern Shore Undercover",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDBDMVUxZzM1RENKOC1UczNBU3FQdHJMRXpNUVRVQXZzb0JLeVlqOGxQa2NNdjktOVFiY0hNanNQS2dqb2M2YmoycEc1ZFlwSjFXVExOckZVY1JpZWhoR0Y2N3c0R0JmSmdSWVVaaVAxSDZSWmlZUlRGLU9MVUNjUDVEZW13eVlDNGFnckNaRVlMdEttWEQxWmYweGFQc2tBdHlCSjhxdEpKZk92WHJiaUpOcmZNQTg?oc=5",
+      "source": "Eastern Shore Undercover",
+      "date": "2026-08-25T01:16:33+00:00",
+      "description": "Correctional Officers Stops $324K Drone Contraband Drop at Prison  Eastern Shore Undercover",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-25T02:57:13.098469+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "55ca6dde4846"
+    },
+    {
       "title": "Op-Ed: Remember … Lab Is A No-Drone Zone - Los Alamos Daily Post",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93MV9ONDF2YU5udXhNOVZwQms3SHBoZlRJYVAtLXZqaVJocjlGYnZIRkRTdkdjUFZCMFZ2SG1BWkE3X2hrTVNCNE53YU9JX3Y0ZVZ6TnVfbV9hMUlOanBfRGRRc0tUdUdmRklZUWNLbw?oc=5",
       "source": "Los Alamos Daily Post",
@@ -11963,44 +11999,8 @@
       "location": "at to know as Germany investigates an explosive drone at a key cargo airport",
       "category": "airport",
       "id": "de0a352e129b"
-    },
-    {
-      "title": "Drone with explosives found at German airport - China Daily Global Edition",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0F5NlFSNHFRbTNHWlpOUkxsUXRjZS1Od2Y1dWRRQmNCVU9uZTQ0ODRmd0hjTWUzSkYtMFhXbnVOa3lLV2lORGZBUnRpb3VwZ0gzdDJ1cWh2aHBMRjM3NHR1WGNHWGI1Ykl3ZEZ1WTJhS1VPUTNKVXdnMHVwckRMV19n?oc=5",
-      "source": "China Daily Global Edition",
-      "date": "2026-08-07T01:42:01+00:00",
-      "description": "Drone with explosives found at German airport  China Daily Global Edition",
-      "query": "drone incident",
-      "detected_at": "2026-08-07T02:54:48.531364+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "2f7d0b1a32af"
-    },
-    {
-      "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children - FOX 8 TV",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOTZ2ZzRFTHJOQkpxby15OVZVV3JON2tRVnRNenpwYzh6RVdtOVFpOXRqbFdILTg3dUtlSE9JX2g2WUVERjE5WEh4alhqaWJ3SVRiU1R5YmRfOTRIcWxBa2NhaHZOY0JhQ0RzUHR1ejNGSmJLQlVnMzh0c1JJXzU1VlJHMGQtdzV1ckNNbDlrLWdSa242SzRBbmdhYXViRHpaYzRXZDNKa0FEQVltQXEyZ0EybXhPRi1lNHBTbDdkNjVGS2ZkTUg0SkhpMFVmUQ?oc=5",
-      "source": "FOX 8 TV",
-      "date": "2026-08-06T23:11:56+00:00",
-      "description": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children  FOX 8 TV",
-      "query": "drone incident",
-      "detected_at": "2026-08-07T02:54:48.531364+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "47c4b786ac8f"
-    },
-    {
-      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUtRcnZJbFMzNGs2ZndWZVB4cVBPcmMybXVLWlB1WC03M1BwVG50c0N3T3VvX1UtVGtaUDBDLVYxV0JlYnlkb1pSOU5uSVFKVlZfRE8zWk5xbnQzU1FDVXVhNk1HS2JMUmtKMFczTlZYNmFnb3E5WnNjRnBhLVdVOWFCREcwejhIaC1BSHU0aHV6SWk1aW05VmhYN1ZXc0FZb3hUNE15azdnUW9vbWpHQWhRZURoSjQ4?oc=5",
-      "source": "Ars Technica",
-      "date": "2026-08-06T22:01:55+00:00",
-      "description": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport  Ars Technica",
-      "query": "drone incident",
-      "detected_at": "2026-08-07T02:54:48.531364+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "9dcb7a083467"
     }
   ],
-  "last_updated": "2026-08-25T01:13:06.213177+00:00",
+  "last_updated": "2026-08-25T02:57:17.401963+00:00",
   "total_count": 1000
 }
