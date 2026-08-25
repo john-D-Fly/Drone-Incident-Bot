@@ -1,0 +1,126 @@
+{
+  "narrative_summary": "In the last 48 hours, a diverse range of drone-related incidents has been reported, predominantly in Romania and Germany. Notably, Romania has seen unauthorized drone incursions triple compared to the previous year, raising security concerns. In Germany, multiple drones linked to incidents at Leipzig Airport have been found, some containing explosives. Meanwhile, prisons across several regions, including Virginia and Sussex, have reported substantial smuggling attempts with contraband worth over $300,000 being dropped via drones. In Vietnam, an airport drill was conducted in response to drone disruptions, highlighting the increasing need for responsive measures in airport security. The incidents underline ongoing challenges in managing drone activities that interfere with public safety and national security.",
+  "totals": {
+    "arrest": 4,
+    "airport": 6,
+    "other": 15,
+    "smuggling": 12,
+    "security": 1,
+    "terrorism": 2,
+    "crash": 2,
+    "total_incidents": 66,
+    "by_category": {
+      "airport": 11,
+      "arrest": 3,
+      "crash": 2,
+      "other": 22,
+      "security": 1,
+      "smuggling": 24,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 3,
+      "drone crash": 3,
+      "drone illegal": 6,
+      "drone incident": 15,
+      "drone prison": 12,
+      "drone smuggling": 12,
+      "drone terrorism": 7,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Prison Smuggling Incidents",
+      "rationale": "Multiple reports of drone smuggling attempts at prisons highlight a concerning trend in contraband deliveries.",
+      "incident_ids": [
+        "d9a13de39f62",
+        "b0487884d9f0",
+        "7201ae6802b5",
+        "e3a0babd3991",
+        "fdc72f39c1aa",
+        "5bc1215bf6a6",
+        "5d46f77b05ce"
+      ]
+    },
+    {
+      "topic": "Drones at Airports",
+      "rationale": "Increasing incidents related to drones at airports emphasize the urgent need for improved security measures.",
+      "incident_ids": [
+        "fb6e494b3d19",
+        "4cd3c77f29a2",
+        "fdc72f39c1aa",
+        "b0487884d9f0",
+        "d9a13de39f62",
+        "c55eed97977f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5d46f77b05ce",
+      "headline": "Romania records 25 drone incursions in 2026, nearly triple 2025 total",
+      "one_sentence": "Romania has reported a significant increase in drone incursions this year.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fb6e494b3d19",
+      "headline": "Vietnam holds airport drone response drill after Tan Son Nhat disruptions",
+      "one_sentence": "Vietnam conducted a drone response drill following disturbances caused by unauthorized drones.",
+      "risk_tags": [
+        "drone airport disruption"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d9a13de39f62",
+      "headline": "VADOC intercepts Attempted Drone Delivery At State Prison",
+      "one_sentence": "Virginia authorities successfully intercepted a drone attempting to deliver contraband at a state prison.",
+      "risk_tags": [
+        "drone prison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b0487884d9f0",
+      "headline": "$300K+ in contraband dropped at Sussex state prison via drone",
+      "one_sentence": "$300,000 worth of contraband was dropped via drone at a state prison in Sussex.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "c55eed97977f",
+      "headline": "Police use spike strips, drone to arrest wanted driver after Petoskey pursuit",
+      "one_sentence": "Authorities utilized drones to apprehend a wanted driver following a police pursuit in Petoskey.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones cause disruptions at airports and prisons, with significant arrests and contraband deliveries in the last 48 hours.",
+    "linkedin": "Recent drone incidents show growing challenges in airport and prison security, highlighting the need for better protective measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-25"
+}
