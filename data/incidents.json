@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Wrights Spring Fire team working with law enforcement to track illegal drones - KDRV",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVGdvYWFiaFZBaFdBSDJ6ZVVLZGdsSG4xMURud0Z5R0FCblpIeUExNVp5MnBWT3VESU5LRHlyRGIwanVybGc2bGt5REFycjIybEV3bFl0Qi1RcGRIWnk3M3EtUzRHYm5Xa0ZXQ3pIOHFuVF9qUFN4TFJPdkFoYndoUlppMDRGQlV2c2kzc1dsdGlSZ0pQT3F4OXVhRlg1Y3FubGpSMnhwQndEMm5Qd3lGbWN4dzJRNFdjX0dkR2dqc1Vob2VxQW9yQTk2dUFMeUZQY1psOUpheUp3Ri14LXNRU3NZQTVEM1N6?oc=5",
+      "source": "KDRV",
+      "date": "2026-08-24T22:45:00+00:00",
+      "description": "Wrights Spring Fire team working with law enforcement to track illegal drones  KDRV",
+      "query": "drone illegal",
+      "detected_at": "2026-08-25T05:30:31.023275+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "523090db2447"
+    },
+    {
       "title": "‘If there’s a wildfire, don’t fly’: Unauthorized drones delay Oregon wildfire response - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTVsSi1iV1I1aGZoUXgtcjFUZUpmWE1DWVhNQUFRSzRaRVZBZi00ck1lVzB0MUNvemFTNmg4dy1lR0ZWZEJBUEt0OWN1V004M0U3NE95WVV3TENoZ19xa20xMXFwNFJ3TEQwMVUtdnotVTcwYVpiaklydk1qOGZfSA?oc=5",
       "source": "AOL.com",
@@ -11987,20 +11999,8 @@
       "location": "at German airport",
       "category": "airport",
       "id": "f9c4c88b92c6"
-    },
-    {
-      "title": "Terrorism investigation after drone with explosives found at German airport - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQai1jX3JYc2FOcUNrR1dMWDktdGkxaGRPUmtmOVpGZFhOZy1FTEtzNk5nQm5Nek1tOWpGMm4tQy1Ia1NwcUFlNVFtMzEzMTRtNjNjVm12a2lXSFVTeC1kT0dxY3lVSS10a29vZXpOdlpmNW04WU9RWG5MMHBnWmlQZnNvZ0k2TlN3ZVVTeWdIWdIBlAFBVV95cUxOZVk4VDZlVGdZWVd0LU95SmM1Y050bHQ4WHo1QXdwUi1NSEhLVTRtMTItMnRWSUxxYlNGb203OHNyV2ZPZ0ZITVlwbnV1T2ZjejhrcTF3SEthMkN2clZmY3JWREJVT1pDbFJhMHo0ejVaY3VDb0VHNkN6ZHFwbjhtb3lUMzlINmozbnZHS3Bacm1iZzV4?oc=5",
-      "source": "NewsNation",
-      "date": "2026-08-06T14:13:12+00:00",
-      "description": "Terrorism investigation after drone with explosives found at German airport  NewsNation",
-      "query": "drone incident",
-      "detected_at": "2026-08-07T04:54:01.272447+00:00",
-      "location": "at German airport",
-      "category": "airport",
-      "id": "4ea4bb00d0e1"
     }
   ],
-  "last_updated": "2026-08-25T04:37:35.790059+00:00",
+  "last_updated": "2026-08-25T05:30:32.839879+00:00",
   "total_count": 1000
 }
