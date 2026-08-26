@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Private Drones Now a Significant Problem Over Wildfires - AerialFire",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTS1IY015SHptMWFHVnBQZWNoUFFmVWktTjdjaE5QTENGYV9aQktDUmg3QTZHM0E4WmhjYVUxNmM0XzdvM2pDUzJfUzRINzJYdDM5QldsMzlyYUJLVF9JNEhwWXVIaXNib3lWM3RjRGNYMTRTWDFtUXZac1NrTFZqUVpYcWRWZFVhZWFRYTRRaTJVUUhzUHpFYQ?oc=5",
+      "source": "AerialFire",
+      "date": "2026-08-26T15:57:37+00:00",
+      "description": "Private Drones Now a Significant Problem Over Wildfires  AerialFire",
+      "query": "unauthorized drone",
+      "detected_at": "2026-08-26T16:16:39.155557+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ac3edc9d0b4c"
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-25T20:48:23+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T16:16:33.118181+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2425963e1080"
+    },
+    {
+      "title": "“If You Fly, We Can’t”: Drone Incursions Still Disrupt Wildfire Response Across the West - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTJudmw1bWZMT2JpMFlDWHppcmFkclBJZ18xd1VmZGxTdnV3bUROQmpUVDB0N0ZES0pLZG9xcVhNenhDWGFTXzN3VUNkZnA1bWVtMWh2UEFzQ2FhMDBhcV9kc3dxcEdHeDctdTFXYzkteGtsYWxDSFNZZnJHOXZnUHBMUUhJVEpZQUE?oc=5",
+      "source": "Dronelife",
+      "date": "2026-08-26T15:50:47+00:00",
+      "description": "“If You Fly, We Can’t”: Drone Incursions Still Disrupt Wildfire Response Across the West  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T16:16:33.118181+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "9363f04ca3ab"
+    },
+    {
       "title": "Slovak police thwart arson plot targeting Ukrainian drone maker Skyeton, company confirms - The Kyiv Independent",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGFkSGlTMkZQM3FaWHpFYko0MWNrTDFUenEwNkNVYUJKUjR5ekRUWVA2LUpXcnRzTlV6NHBLeVNjNXpwTENjd0k2Y214SDdjZlFCcllFNGhlTkN4Wndob3d4RFhINWEyNlRyWW5Bc2Fna3JzalQwMThzcUJvcjZBTjZqT3Y3LVp0bGpqaVFTOVVBa2VVM2wzU0U0d3ZCUnJWTWJVN1FlQmpFR3Q4?oc=5",
       "source": "The Kyiv Independent",
@@ -11963,44 +11999,8 @@
       "location": "at Leipzig airport",
       "category": "airport",
       "id": "a78b7b759e6b"
-    },
-    {
-      "title": "Unidentified drone explodes in Bulgaria, close to major gas pipeline - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnVsYjJiaDh4UmpIRTJEbkhhYTZObXdNekc1NlFoWVF0NFlKS29uNzJYb2dSRFlCZGs4MENUajM2N0dJcmc1bk5xOUk3M3hQMTRiZHE5dlFIUUE0cnVUdGxUQUlUNGNfWXBSYUJpd2FZM1VleXBMWTNydUFyUjEyY0dvRWwxWVFpelZWZ2t4WGZhTUhuaU1aak9EekZzRy1Sa1ZLSWdJZEJ4VkRRTUlRNmlpOVExUlc5MDY0Nw?oc=5",
-      "source": "Euronews.com",
-      "date": "2026-08-08T10:56:27+00:00",
-      "description": "Unidentified drone explodes in Bulgaria, close to major gas pipeline  Euronews.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-08T12:46:09.108605+00:00",
-      "location": "in Bulgaria, cl",
-      "category": "other",
-      "id": "ce359fb97af6"
-    },
-    {
-      "title": "Libya’s Zawia refinery says leak caused by drone crash is under control - arabnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4Rjl1NUh2bmd0MmlUOW1UTWw3ekZCNVo4eFdobVQ2ZzB3MW9jYTRSZXFaT3dXZi0xLXFwb2c2eG5kYnlpVmhUcFg4bnQtNUxlTnlR?oc=5",
-      "source": "arabnews.com",
-      "date": "2026-08-08T07:32:20+00:00",
-      "description": "Libya’s Zawia refinery says leak caused by drone crash is under control  arabnews.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-08T11:27:24.308087+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "fd5563217526"
-    },
-    {
-      "title": "Libya’s Zawia refinery says leak caused by drone crash is under control - arabnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JUE51T09hWEVSYnQ4N3JLYXV2YmFyQy1zYUI5aEdGN1pVa3NMSDA1MXlEclF2ZmFrdHBCLTcwMzV0REpGRlhfeldLM2N5V2ozVGIxVVkzc1RGbmczbXc?oc=5",
-      "source": "arabnews.com",
-      "date": "2026-08-08T07:24:13+00:00",
-      "description": "Libya’s Zawia refinery says leak caused by drone crash is under control  arabnews.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-08T11:27:24.308087+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "41071e400baf"
     }
   ],
-  "last_updated": "2026-08-26T13:53:25.192386+00:00",
+  "last_updated": "2026-08-26T16:16:39.940172+00:00",
   "total_count": 1000
 }
