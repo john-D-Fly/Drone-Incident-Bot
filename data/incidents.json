@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian drone attacks on Moscow resume hours after CIA director's visit, mayor says - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSm9CZDhmOTdLU0I0SzZWVTM1UzRyclRUUVJsQldIQVlmcnEyNUUtdnhZeUl1Zjl5Sy00TFlrRWZjWFo0ZHQwRzVrWE9relBUbS1ubDR5aU5QTVFibGVuNTVMQVE2ZkwwdWcxTzBYU09VV0hfMjViM2pvTUtCZ2lCeENmU3BLcXk3N1g4S1F2N0JJNllCYWJrUnZLYUtRUFBkSWpoTUxQYmdWUEgyd1RzeU530gG3AUFVX3lxTFBhQzVmMzFIU1p6R0ZyTW4weUtYa0RWbkVpQWpBSXQzbll1ejhpTmJaZnRGMTlsNFhERjJXWkhrV1d4eGMtQ0M5Snk1N21BYUgtdzE3RE5GSHdFTXFYS1JUSE5xVVFRY0pqRFg1d0J4ZC1ZR1JBejEtOEZlMmlIUVBPMFZCTHQtWmstZmlDaWVGQUZhY2lJWEgtOGJGNERmSlNDaXpwSlVKZlVGMmhSV1VwM1g3WEpkbw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-08-26T09:03:26+00:00",
+      "description": "Ukrainian drone attacks on Moscow resume hours after CIA director's visit, mayor says  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone crash",
+      "detected_at": "2026-08-26T09:39:56.833972+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0ab82fbb1dd6"
+    },
+    {
+      "title": "Slovak drone factory narrowly escapes Russian-linked napalm arson attack as police arrest three foreign suspects - EUobserver",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVGUxLTYtR2JnZEVkU3Q1WDZCVmhkNDU1dXhWcUxWeG1OUHlZMjVZanYwYzU3S0dfWU54WEJzWkFNeVZkdGN0Vk9fTEppLV9HdF9OcjJCdjg1bG1uN0ZUenkwTkNFTTh0WHJZWko4T3VrYUxZdFljNF91NjJoTFVOY1cwSGc3X2NZTnB6QkJlQjVKUUVMQ19DNTNTNUl4d0Z2M2ZZOWNzRFZQQWQ4Nk1sb2JVc3VBT3lLRXFwanhfVlV1S1IzUnBBRFhWMVNrSkJIZTlpd19NQXBCZWc?oc=5",
+      "source": "EUobserver",
+      "date": "2026-08-26T09:34:55+00:00",
+      "description": "Slovak drone factory narrowly escapes Russian-linked napalm arson attack as police arrest three foreign suspects  EUobserver",
+      "query": "drone arrest",
+      "detected_at": "2026-08-26T09:39:54.731429+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "9e95a4b0161f"
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-25T23:49:59+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T09:39:54.124134+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "955eb416c0b2"
+    },
+    {
       "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
       "source": "DW.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "595081a80b48"
-    },
-    {
-      "title": "Explosive Drone Targets Ukrainian Antonov Cargo Aircraft Carrying Ammunition at Leipzig Airport - Aviation News.eu",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjA5Q1hjbk9jRUVXdFNXazVfWTQzMkhHQlYzSldPMzFhOFo4UVpmbnpjV05TTlB0Y0NCRmEwNmdpa21IaGh4YVR2bzd1OWFhRW13Qm0yWjN4VmFiNE05OERUX1ZlZjY3ODZJZjFmYUxNMG5DblVKNjBjdUJrc1diQ3V3QXVoTmlYdXBfTzNLZFo3ZURZUGV2QzM4TnlVV29qNC1IYkdBN2JtbXFCTTZMY2FELU1jYjZGVkFjOTdpZ3FMczItd19PTlJGREVLZw?oc=5",
-      "source": "Aviation News.eu",
-      "date": "2026-08-07T09:29:38+00:00",
-      "description": "Explosive Drone Targets Ukrainian Antonov Cargo Aircraft Carrying Ammunition at Leipzig Airport  Aviation News.eu",
-      "query": "drone security breach",
-      "detected_at": "2026-08-07T22:33:56.515579+00:00",
-      "location": "at Leipzig Airport",
-      "category": "airport",
-      "id": "849757488799"
-    },
-    {
-      "title": "Southern Military Zone Foils Drone Drug-Smuggling Attempt - وكالة الانباء الاردنية",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3RVRGtzZFdhNVJBUUJhY2JjZXlCakNKR0xqWXZES1pWTEMxOFhHdnJHX2EtX3BObV80cjNzTEhiUlFSLXpDZFdmdjJ6ZnJvbEJ4TzRlZXNFUkRnSlIyYUl4cUkwTy1UQWxJSFR3RE50RnAzUmdCRDVxdC1fRnk5TlcyMjA2QUdsZVRqTGJCRXd2M3ExY0pqeHpoTXJSVW1XcGpuTVhFYw?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "date": "2026-08-07T05:23:04+00:00",
-      "description": "Southern Military Zone Foils Drone Drug-Smuggling Attempt  وكالة الانباء الاردنية",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-07T22:33:53.869733+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "0a887b116b22"
-    },
-    {
-      "title": "Russia’s Wildberries plans new ‘partner hubs’ after Ukrainian drone strikes on its warehouses - arabnews.pk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QdkYtT2g1SnM1Ulo3TjhPeWd1MlZZcld2bzFpTUNhNlZPOGNzMzRuUXU0NW1qQUZUd2JwcU5qSG5NN2hSaUpFVkJHaHFIZHpsdXBNZA?oc=5",
-      "source": "arabnews.pk",
-      "date": "2026-08-07T14:08:38+00:00",
-      "description": "Russia’s Wildberries plans new ‘partner hubs’ after Ukrainian drone strikes on its warehouses  arabnews.pk",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-07T20:39:41.161332+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6eff6877826f"
     }
   ],
-  "last_updated": "2026-08-26T08:41:32.456478+00:00",
+  "last_updated": "2026-08-26T09:39:59.438945+00:00",
   "total_count": 1000
 }
