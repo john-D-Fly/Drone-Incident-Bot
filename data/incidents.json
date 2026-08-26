@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Slovak police thwart arson plot targeting Ukrainian drone maker Skyeton, company confirms - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGFkSGlTMkZQM3FaWHpFYko0MWNrTDFUenEwNkNVYUJKUjR5ekRUWVA2LUpXcnRzTlV6NHBLeVNjNXpwTENjd0k2Y214SDdjZlFCcllFNGhlTkN4Wndob3d4RFhINWEyNlRyWW5Bc2Fna3JzalQwMThzcUJvcjZBTjZqT3Y3LVp0bGpqaVFTOVVBa2VVM2wzU0U0d3ZCUnJWTWJVN1FlQmpFR3Q4?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2026-08-26T13:18:45+00:00",
+      "description": "Slovak police thwart arson plot targeting Ukrainian drone maker Skyeton, company confirms  The Kyiv Independent",
+      "query": "drone arrest",
+      "detected_at": "2026-08-26T13:53:20.599476+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f6a7871d0b1f"
+    },
+    {
+      "title": "Five PMF commanders arrested amid drone workshop probe - The New Region",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MUi1TV3pkRFpLc2FsLWc0MEc0OEJsem9Lcmk2TXZ4czU1WWhRME9pUF94Qy1zWnVEblF4OVJmS1dzOXR5UWhzSDMzUQ?oc=5",
+      "source": "The New Region",
+      "date": "2026-08-26T12:53:49+00:00",
+      "description": "Five PMF commanders arrested amid drone workshop probe  The New Region",
+      "query": "drone arrest",
+      "detected_at": "2026-08-26T13:53:20.599476+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "6c653d74b62d"
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-25T23:49:59+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T13:53:20.050901+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a6bca81d35bb"
+    },
+    {
       "title": "Russia strikes Ukraine's Zaporizhzhia, injuring 2 children - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0lqWDZza2pCa2xGb2M4aDd2UTZpVXU4WkktV0c0WkExdmwwNTVZbHRQOGhUM001YVBhT0M5TjllTHozUUJNYUFvWmJORmdwSU9keVZUem9yaC1VZXBsOXgydF9mM19FVXcxQW1UNHFJbEM4X2FzTVhVZm9jbHJsTF9HOVR5c1YwODRLRXFxTzNlem9SQ2d1aEZR?oc=5",
       "source": "RBC-Ukraine",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "41071e400baf"
-    },
-    {
-      "title": "Suspicious drones sighted over German military base days after Leipzig airport incident - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUdLQTNOR2QtWWczejRMZG4tR1NQVUtwOWMwcF9IalVXRkF0Z05EQVQyYTQtdTZsY3UxUXJpY0R3MkNZVTNoMkRtV0hNc095YVFJLVYyb0hQRjFqOGZwZFRQbG5Wa0NHTDVrU1ZhNm9FanVyb0JmMWJUSEJidThESjloa2NNQzRLajNXeWwxWWpkNnpUX3R3eUZwUGpmbTV3MjFHTlczUUx1dEJMMDBQdGxHZFY4X2c?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-08-07T20:39:38+00:00",
-      "description": "Suspicious drones sighted over German military base days after Leipzig airport incident  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2026-08-08T11:27:20.975410+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9c6b1bdd9021"
-    },
-    {
-      "title": "A news report by DW details the discovery of an explosive drone at Leipzig Airport on August 5, 2026. The drone reportedly contained 800 grams of Semtex, which expert Nico Lange notes is double the amount used in the 1988 Lockerbie bombing. The report - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLVhvR215V1FDV3l3d3VIOFhXMkpxZ1ktY2VvbTFTVzJaaHR3LWZwYnQtSmFmTXlMMzh5X0xkdFVGZ3hZTWtwbUtNNjY3LW9fbG1UU0MzY0Q2SEc3M1RUSTNNSENDV2ZRT1BlUWxlRWVzOXN4b1gxaXloUFBkN3R5cDJXR0p0eEZDczA0TzR1dEpVWWt3dTYyOVZQdlZDbFkxNks0UjlDV3FKU25Rb2RJTjRmZzVORzJjLVdDV2JTVENmdkFYb1h6cnp4ZmFxM2NoQkswTm1nbnB1dTN6T3B0ZG5R?oc=5",
-      "source": "facebook.com",
-      "date": "2026-08-07T17:40:04+00:00",
-      "description": "A news report by DW details the discovery of an explosive drone at Leipzig Airport on August 5, 2026. The drone reportedly contained 800 grams of Semtex, which expert Nico Lange notes is double the amount used in the 1988 Lockerbie bombing. The report  facebook.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-08T11:27:20.975410+00:00",
-      "location": "at Leipzig Airport",
-      "category": "airport",
-      "id": "544446e89b7d"
-    },
-    {
-      "title": "U.S. officials tie Leipzig airport drone incident to Russian government - The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmxoVUw4NG5USzhzYjljSEpuM3ZqRm9lNC10ZEhQeE0xQ2xma2xfRVEtN1JmS0NFRFZ4SUUwQUFHZEkzT3JYS19LN3ktTTN6LTQzRVdZaVc0WVZTbG5xZ3NfcGJGOUVCRTl2N0xrREJTRWZnMzBib2dpNTBsd2lGOVBvNEF0Z0czdjlCMGptYXRHZkN1X0tNcnNUaUp6LVM3aXpBWUx6ZVNlbE1TMF9na0I3dWxrb05DZDFBTEtaMDRIaWpDcXE1NHh30gG_AUFVX3lxTFBJamV1NTU4ZFV6ZDlsZVJ3TUdqYXM3aFFyR0o1NnpldG1QQVB1U3FINXhaX0NDQ0dPQnBzWjZMa0dUOUxvU00tQjkwUlh5bWFwOXZIQTNMTFNrVm16TGEyUE1BVE9KdVA1eHRzRm9zVGVNMVJrakFTemdPMnNWNjZKdS1zUExJTzhETVVjc0t6MEdMR29LZFNFY0l0TVJCUUllWVA5WTV5bFRVM2pERElpX3lXd3FjR3ZyTVVzdzMw?oc=5",
-      "source": "The New Voice of Ukraine",
-      "date": "2026-08-08T09:57:00+00:00",
-      "description": "U.S. officials tie Leipzig airport drone incident to Russian government  The New Voice of Ukraine",
-      "query": "drone incident",
-      "detected_at": "2026-08-08T11:27:20.975410+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "70ba096b968c"
     }
   ],
-  "last_updated": "2026-08-26T12:50:32.579149+00:00",
+  "last_updated": "2026-08-26T13:53:25.192386+00:00",
   "total_count": 1000
 }
