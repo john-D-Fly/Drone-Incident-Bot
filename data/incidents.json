@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-25T12:50:54+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T08:41:27.254652+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "46fbf529411c"
+    },
+    {
       "title": "Germany news: Third drone found in Leipzig airport probe - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
       "source": "dw.com",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "6eff6877826f"
-    },
-    {
-      "title": "Everdrone AED Drone Beats the Ambulance in Sweden, and a Bystander Restarts a Man's Heart - DroneXL",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX25ZQlJyZGhRZktLZHN2UFF2c2sxYUdyaU5zcTRpOXlSdUl2UThHbXJ3bEkweFI2aVVhNWx6OENpYnJESzIzQzQ3YnVjN0Y0T1Y4V1VXZm83RmswRlhjeGhTcDhLeGYxSDV5REdwdnkyZzdKTTVXdi05SzBYVU9XLVd3?oc=5",
-      "source": "DroneXL",
-      "date": "2026-08-07T13:00:00+00:00",
-      "description": "Everdrone AED Drone Beats the Ambulance in Sweden, and a Bystander Restarts a Man's Heart  DroneXL",
-      "query": "drone arrest",
-      "detected_at": "2026-08-07T20:39:37.354081+00:00",
-      "location": "in Sweden, an",
-      "category": "other",
-      "id": "1e867305a87a"
     }
   ],
-  "last_updated": "2026-08-26T07:44:52.224999+00:00",
+  "last_updated": "2026-08-26T08:41:32.456478+00:00",
   "total_count": 1000
 }
