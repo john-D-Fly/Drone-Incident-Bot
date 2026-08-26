@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone crash kills two in Russia, Wildberries warehouse ablaze - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JVy1iNWFZdUVNd3BuUFdjQ1ZLcmNtcDh6MTZ0NlF1S01jT2I3eGhHOEh4YktHLWdmd2ZEWlowWnA4aVc0Tm9JV3BJUHkzNzZHUnB6VFRVVQ?oc=5",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "date": "2026-08-26T10:07:30+00:00",
+      "description": "Drone crash kills two in Russia, Wildberries warehouse ablaze  Bangladesh Sangbad Sangstha (BSS)",
+      "query": "drone crash",
+      "detected_at": "2026-08-26T11:28:28.367926+00:00",
+      "location": "in Russia, Wi",
+      "category": "crash",
+      "id": "30103adf13ec"
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "DW.com",
+      "date": "2026-08-25T15:51:55+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T11:28:25.928276+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "3634ab78c75c"
+    },
+    {
       "title": "MY DRONE CRASH INTO A HORROR HOUSE Estate Of Michael Jackson (V8jbcL8vAV) - Mshale",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GT2xZbWpvcWdJWmdWc011c3FjYUliV3gzenpCXzVjbXhBZnBWMC1YUTBPTGNWLUF4WENCYk5UTHhmOEFEVUdQWmdMb0lNVnNEb0R2WlBSc3REMC1qMEIzQg?oc=5",
       "source": "Mshale",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "aa719493eac8"
-    },
-    {
-      "title": "D-Fend Solutions’ EnforceAir Provided World Cup Counter-Drone Security Across Array of Host Cities, Adopted by 20+ Public Safety Agencies - suasnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcTduTDBSai1hQm44RHJlMTEza0ZzRExvNmhsbEg0RmJmRVZTVU9mVzFpdTJSZHRMLXFzbWR2MGI4RWwtR2pKbFJueUtTemlYd25NRHNtdzh3d0FMZmE4Q3hBckhON3RXTVE5Njc2Y2J0cmdlRU1vcnlrd0xnME8tdHFpVkNzNHpTWklwVGp5X19lSWtEcTVrVDJRVDF0eWtxdGFLakE2NEVVOHpFM3FHWlFLM1drTGlVUEgwQ1Faam1haVRnbVUtTjViQ1JkWUhTb3lEYVNjZUNGMnFzNHd2T2VuV3lhczFpLVU4Z0FORC1iZmVRRHJfVzl5OGM?oc=5",
-      "source": "suasnews.com",
-      "date": "2026-08-07T15:42:19+00:00",
-      "description": "D-Fend Solutions’ EnforceAir Provided World Cup Counter-Drone Security Across Array of Host Cities, Adopted by 20+ Public Safety Agencies  suasnews.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-08T08:40:08.472731+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e922dfbbaf56"
-    },
-    {
-      "title": "Libya's Zawia refinery says leak caused by drone crash is under control - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2lPTGFjWENBRzRza2dLa2RKTEhKVDhFNVBBSHhjODAzWW4xbGk3T00yME1nSWFpQTl0YmEwV2xqR2hCZ2xTRExkZlBPQXJiSFlwdEFaLUdzckppVDlOZy1jYWNXT3BtVjlOcjFCX1AwdzJSclNQTGNPVXFnRXF5c0lsYm1ybDRGVUdkN3g3OGJhSjNZVHlDVUY2alNoWXRTNlFGRXVmVnN4R2c3MF9xYUROWVlsRm4wczF1ZjNaYUJWUQ?oc=5",
-      "source": "marketscreener.com",
-      "date": "2026-08-08T07:01:18+00:00",
-      "description": "Libya's Zawia refinery says leak caused by drone crash is under control  marketscreener.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-08T07:49:23.122754+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "811ddf528c46"
     }
   ],
-  "last_updated": "2026-08-26T10:33:43.435440+00:00",
+  "last_updated": "2026-08-26T11:28:30.891094+00:00",
   "total_count": 1000
 }
