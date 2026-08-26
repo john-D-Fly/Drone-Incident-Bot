@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Germany news: Third drone found in Leipzig airport probe - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
+      "source": "dw.com",
+      "date": "2026-08-25T12:50:54+00:00",
+      "description": "Germany news: Third drone found in Leipzig airport probe  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-08-26T07:44:46.436294+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d681bcab3db7"
+    },
+    {
       "title": "The new weaponry of jihadism in Africa: Drones and multi-million dollar ransoms - Escudo Digital",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2M0RmlNcU14T2kySkFlZ3VkUGQ4cEE1eXBjLXExQ0UtM2FZOXpGRWJkLVgweDMxbXk1MW1BcG1zMlk2ZkxIbnpoU1dWZVBnaEJJOUV2ZHJnbExMbjY2S2JwV2hDTFlRUGl4aDlXa05LR3FuY0NaeEdLeFEyaURiUE1kd3ZLV0c4QmxsaWR2bGlBV3Rmc0lsS2dLVkJEY1FhczNnV3BDSFUySGYtYXM3RTc4ellLdENfRGQ5ZUJldE53N3lPMGFBMno1bw?oc=5",
       "source": "Escudo Digital",
@@ -11987,20 +11999,8 @@
       "location": "in Sweden, an",
       "category": "other",
       "id": "1e867305a87a"
-    },
-    {
-      "title": "Russia dismisses German drone incident as 'fabricated provocation' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjEybjlvSW1HS2QzMkxxbjlXbUNPbk0zX19DNWw2aU9ucnJmSjRreWpKSDhfSlMtUTdjTTVFcFNWYVkzdEJ3RG84dVYwc2xvVW8zY0dsV0kzV2ZqUmJSYjRmY3YwcmpHVzcySXE0WlBBamNBVUJRMFR0YU45ZEFKZ0ZIeDNFbnlETkRSWTlMR3g3TnFPSjJJX3FoU1pORHU0RzZSY0dLMUVEVmpkdTNJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-07T20:24:25+00:00",
-      "description": "Russia dismisses German drone incident as 'fabricated provocation'  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-08-07T20:39:36.766478+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6fc8236aaf5c"
     }
   ],
-  "last_updated": "2026-08-26T06:47:41.738057+00:00",
+  "last_updated": "2026-08-26T07:44:52.224999+00:00",
   "total_count": 1000
 }
