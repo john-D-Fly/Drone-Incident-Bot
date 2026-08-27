@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "Over the past 48 hours, significant drone incidents have been reported across various regions, particularly linked to the ongoing conflicts in Ukraine and Russia. Notably, Kyiv experienced multiple drone attacks, while a drone strike near Lisichansk resulted in nine fatalities. In the realm of prison security breaches, authorities intercepted several contraband deliveries via drones, resulting in multiple arrests, including at facilities in Virginia and Doncaster. Additionally, there is increasing concern regarding unauthorized drones disrupting wildfire response efforts in the U.S. and potential threats posed by foreign drone craft linked to Russia. Overall, the events reflect a continued rise in the use of drones in both criminal and military contexts, raising pressing policy and security concerns.",
+  "totals": {
+    "other": 12,
+    "smuggling": 10,
+    "crash": 7,
+    "terrorism": 5,
+    "arrest": 8,
+    "airport": 8,
+    "interference": 1,
+    "total_incidents": 72,
+    "by_category": {
+      "airport": 17,
+      "arrest": 5,
+      "crash": 8,
+      "interference": 1,
+      "other": 21,
+      "security": 1,
+      "smuggling": 16,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone arrest": 10,
+      "drone crash": 11,
+      "drone incident": 25,
+      "drone prison": 7,
+      "drone smuggling": 8,
+      "drone terrorism": 8,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Attacks and Strikes",
+      "rationale": "Increased military drone activity in conflict zones, particularly between Ukraine and Russia.",
+      "incident_ids": [
+        "caf006068d96",
+        "f3d730ad3637",
+        "dfb17bb093ca",
+        "dd3b05bb07f5",
+        "eb862edc2447"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Contraband",
+      "rationale": "Multiple incidents of drones being used to smuggle contraband into prisons.",
+      "incident_ids": [
+        "dbbbbc887731",
+        "a5ff853a008c",
+        "9ffa6f39b976",
+        "d757fbf4b88f",
+        "00d25ea9c08a"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Public Safety",
+      "rationale": "Various drone crashes leading to injuries and hazardous situations.",
+      "incident_ids": [
+        "a8ac58f07d23",
+        "460059c067d3",
+        "8b554a392123",
+        "30103adf13ec"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "caf006068d96",
+      "headline": "Kyiv Endures Hours-Long Drone Attack as Russia Strikes Ukraine",
+      "one_sentence": "Kyiv experienced sustained drone attacks as part of Russian military operations.",
+      "risk_tags": [
+        "terrorism",
+        "military conflict"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f3d730ad3637",
+      "headline": "Drone Strike Kills Nine on Bus Near Lisichansk",
+      "one_sentence": "A drone strike near Lisichansk resulted in nine fatalities.",
+      "risk_tags": [
+        "terrorism",
+        "civilian casualties"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "dd3b05bb07f5",
+      "headline": "Arrests After Drone and Drugs Found Near Prison",
+      "one_sentence": "Authorities arrested individuals after drones with drugs were found near a prison.",
+      "risk_tags": [
+        "smuggling",
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "d757fbf4b88f",
+      "headline": "Prison Officials Intercept Drone Smuggling $324K of Drugs",
+      "one_sentence": "Prison officials intercepted a drone delivery estimated at $324K filled with contraband.",
+      "risk_tags": [
+        "smuggling",
+        "infrastructure threat"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "eb862edc2447",
+      "headline": "Drone Crash Sparks Massive Fire at Wildberries Logistics Center",
+      "one_sentence": "A drone crash triggered a large fire at a logistics center in Russia.",
+      "risk_tags": [
+        "crash",
+        "public safety"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f140892d568d",
+      "headline": "U.S. Sanctions UK’s Palestine Action as Terrorist Group",
+      "one_sentence": "The U.S. has declared UK's Palestine Action a terrorist group amid broader geopolitical tensions.",
+      "risk_tags": [
+        "terrorism",
+        "geopolitical"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the past 48 hours, drone incidents varied from lethal strikes in Ukraine to smuggling operations linked to prison contraband.",
+    "linkedin": "Recent drone incidents over the last 48 hours highlight the escalating threats posed by drone technology in both military conflicts and domestic security."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-27"
+}
