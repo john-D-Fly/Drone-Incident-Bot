@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes Ukraine with 2 missiles and 267 drones overnight - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUtQWnlWSkpDMkhyaE52RmtaWVFGTDEwT21Rc2l2dUx4Nk1DZFlwQXEtbThaZ012M0tDOFk1NkdXNl90Rlc5emFTSjdoRWYwdDhZaTZyWWotbG8wMTJzcUJHTWRHSFh4Y0xqZ0V2c1pCdWNFWTEtZTJvSUhTTzg3YkR0SnNTS3hNNVV6QThwbU5NTUd2?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-08-29T06:13:02+00:00",
+      "description": "Russia strikes Ukraine with 2 missiles and 267 drones overnight  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-08-29T12:22:49.463729+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3ad18ff61f98"
+    },
+    {
+      "title": "Investigation ends into Sheerness police drone crash - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Uc045R0VnM3hTb3ZGcm9ILWktM3lVNEFURWUxS3RoOVdYNlc4bTA5eko0NlM1bmxKT3FWSFN5T3B0QjJUelFwdUJ6U0NXQng3TWNQLVpTelVrOEgt?oc=5",
+      "source": "BBC",
+      "date": "2026-08-29T06:00:51+00:00",
+      "description": "Investigation ends into Sheerness police drone crash  BBC",
+      "query": "drone crash",
+      "detected_at": "2026-08-29T12:22:47.958968+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "dd92a2d2d18c"
+    },
+    {
+      "title": "Two-year-old child dies in Kyiv following drone crash – mayor - Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTdqSkswNnZhOFFXRWJZWHhvbU1yWFJBcUpfRjVjck9ScUVSNU1JTndXdDZkYmZnc09sVFFwTHBCYjJUaUtqbHNVS19CUWhmdEFGeFVlRElSZE4wX0pFaTlRQlNNUmVOUHE0c2tLcTNaNGRhZ0ZXUTNsejh4eVItbzJjNG1CYV9mWl8yalhRUzBxU1BQY2c?oc=5",
+      "source": "Apa.az",
+      "date": "2026-08-29T10:55:00+00:00",
+      "description": "Two-year-old child dies in Kyiv following drone crash – mayor  Apa.az",
+      "query": "drone crash",
+      "detected_at": "2026-08-29T12:22:47.958968+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4bf9cabb166d"
+    },
+    {
+      "title": "Child injured after drone attack on Kyiv – video - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ESWJwVXI4UXlnQzkxbmNwRnEtdzNfczAwVVN1eGF5SjJqN25kYnVLY0plT0h2UzZraU00WmtpU3ZIWE4yNldISDRJQWpGVHZLMWhLVnRiU1A1QW9ILUdPU25wS1bSAXBBVV95cUxQYVdZbGcwaTlUNFVMZ2U2cGpmMzgtTlVoWTZsT09nTGU1dlVKQWFNbDBHQTFTV2xWOUxSNXhwelZQOGE2RDZMRE8zWGxJdmpvamhVcFRLcEM3YWxZQmRJc1d3U2dkT0ZOTlRUSk5TQ0U4?oc=5",
+      "source": "Українська правда",
+      "date": "2026-08-29T09:48:00+00:00",
+      "description": "Child injured after drone attack on Kyiv – video  Українська правда",
+      "query": "drone crash",
+      "detected_at": "2026-08-29T12:22:47.958968+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e4feeddc820e"
+    },
+    {
+      "title": "U.S. military uses laser to blast cartel drones at southern border - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmx3WU05TUZQb2FGaHBlMmZIYUdfS1BWMkdGc0lWc1BnbzlleS14RmNlM0pkQXQ1Z1NsVFVZVDczdVhpSzl3MV9VWGtoYkFsMTVMZk1sVFF3TjMwbDlnUEZFRzd4RjJXQ0J2THZhanFQRHF1Z3FDOGcwV3Q0RlA5bjhBOF9XTEt3MEJrdTBkcnVYbEZaTjVOcmNCdF9CUHZnS0l2R3dfRHBtU0ZL?oc=5",
+      "source": "Washington Times",
+      "date": "2026-08-28T14:09:37+00:00",
+      "description": "U.S. military uses laser to blast cartel drones at southern border  Washington Times",
+      "query": "drone smuggling",
+      "detected_at": "2026-08-29T12:22:46.270637+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b562f443e81f"
+    },
+    {
+      "title": "Drone-delivered AED used in life-saving cardiac arrest response in Sweden - ehospice",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdF9nOW9oakJLbG00TGYtY1AzVjJ0S1Z2c3FpU3BHaV9mQXIyY3A0TmVlOEp1V3ZvdFJNdWxzOUdaWTJMX0t2RFpsd3BmRHVKQmRiZm5uZDdXbEJBa2RxM0s4T3k0SW43U1ZLTjhhNHZKeWM4VEJuWXU2Y09HZ1JFRDZjVDJXQnZRSUhSWkZwdmF0cFA3dUJkb0RrbEFQR05fbHJaTFlSdEp2OURUUHd5cndQeTR5QQ?oc=5",
+      "source": "ehospice",
+      "date": "2026-08-28T12:13:18+00:00",
+      "description": "Drone-delivered AED used in life-saving cardiac arrest response in Sweden  ehospice",
+      "query": "drone arrest",
+      "detected_at": "2026-08-29T12:22:45.720132+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "4b55504a2d73"
+    },
+    {
+      "title": "Merz prepares sanctions after Leipzig drone incident — Politico - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNek9VZ3BxV1l6OFJkaHlzMDg5VDZiNHRYOWxTb2RENDJuZ3Z1NVdJandzRF9EX0dKQVp6SlZHMmhMa29Pd3EyRzQ4cXduR2ZaNVp2WUVsOTZCeVFVd1FBN1FzdUFRYUFlUUtsOXhJV0ZzM3ZTR1Y4b1lQa0JiMHNRNGhvd3B4M25wNFJHcm5fOUZfTWpEMzdLUVpla2VDOW5kbGU2Sg?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-08-29T11:36:59+00:00",
+      "description": "Merz prepares sanctions after Leipzig drone incident — Politico  UA.NEWS",
+      "query": "drone incident",
+      "detected_at": "2026-08-29T12:22:45.130688+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d1fdb2447876"
+    },
+    {
       "title": "Charges laid following investigation into alleged illegal landfill outside Halifax - CBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzZFb2tMQklxdFdpZTVQQ0JrMG5aZkVFR2RtbzNfR1lFdWN0SDhfSUhRVmxhVk04eEhWSkJ6VHF5R2JSQUNfVjJ4amY4WmZJODhadjBiQzdDdVpZY3NKRHdVQ1JWLTNGNTk5cjZxUVI0VjNwa0oxX0JiRGlINlF1MXFqSGhVVTZBdnZvT0tR?oc=5",
       "source": "CBC",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "e86b83f1a428"
-    },
-    {
-      "title": "U.S. Embassy Issues Alert as Drone Crashes Near Key Djibouti Airbase; Houthi Involvement Suspected - FTL Somalia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlhSbWhzdmJEZ19vb1NLNTZzeXJoNVNTZ2wxN1NBelJaUDRPWTF6V1lSZDZTZXRMeGtqOFRGSmtMX2ZReEJyX1hocmlDbzRoaW5LV2ZZa2NuOVY1ZnBZR2F1MVNhNHphM3JjanA4TTlXUkJzOUt6UzdOTTNuVUF2MHBOemFRSlc0dDVUWjFkRW9XMGxhazhSZ3NXZm1aTVRIQ29kYzkxcVJKd3h0OExiS2VRU1puWGZXQWltazRMLXhNQQ?oc=5",
-      "source": "FTL Somalia",
-      "date": "2026-08-09T15:48:20+00:00",
-      "description": "U.S. Embassy Issues Alert as Drone Crashes Near Key Djibouti Airbase; Houthi Involvement Suspected  FTL Somalia",
-      "query": "drone crash",
-      "detected_at": "2026-08-09T17:30:35.944226+00:00",
-      "location": "Near Key Djibouti Airbase",
-      "category": "crash",
-      "id": "30112b4fdf61"
-    },
-    {
-      "title": "Southern Military Zone Foils Drone Drug-Smuggling Attempt - وكالة الانباء الاردنية",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3AwUmtQUFRINE1paThqWks4ZlhfR3pPQ2oxbTNIemJCM3VuUnJvOUJHVl9sVW1JRU9ZNDVIZGk2Zld2eDdaZ3NWVmhBTzRZR2cxeGFJUWxOZGptdFY4QlFBY1RXMHJxb2xDOUVacTc2Tl9sTHpfLW51Q2U1dkVVQVRVZmR1N184OGc1NHR4YVN3UFRURXFlbmZvRGxteENXOEJwMXpHRQ?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "date": "2026-08-09T06:12:15+00:00",
-      "description": "Southern Military Zone Foils Drone Drug-Smuggling Attempt  وكالة الانباء الاردنية",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-09T17:30:34.416055+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a84a4c8ba7b5"
-    },
-    {
-      "title": "Bulgaria summons Ukrainian ambassador over drone incident - pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBadkhBTkx1OGRWNVl6bnFFbjRyY1laUlBjOXNzTHdrdkxTRlFNM2N6eUFIdEFrMEFGUktwdk94cThkOGtwZ1VXVnpTLXR6Ykp6cm1VSU0xZ29kMkpPenJIYWZiVDTSAXBBVV95cUxPZUlrSmszSVFfVjNYT0t6TldsQ2h0bVE0NGV1OEhnTjdmVmVmbmt5Y1RFSlZPQUVaanVCSFI3UHRmV3F3Nmx2a1RzVHRYMDNHMVJjX1VxYTViQWJxUWVwT3QxWTV6TElmX3hZZVZKSUdR?oc=5",
-      "source": "pravda.com.ua",
-      "date": "2026-08-09T05:52:00+00:00",
-      "description": "Bulgaria summons Ukrainian ambassador over drone incident  pravda.com.ua",
-      "query": "drone incident",
-      "detected_at": "2026-08-09T17:30:33.255955+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "15fcbe0c1e7d"
-    },
-    {
-      "title": "FAA Proposes $289,215 Fine Against Gorge Drones - Aero-News.net",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhOeEhUUmRVNFNoY0xIWVdySmVMRUdUYkhLZ052VDhuS1lPY3hTdTV2SUJkTzZaMHFvUGo4dmpOUmpqWjU0X21Qc25EM1kyeTB1RzJGVm5XVEhBOWp4OTZzdUlCR2ZOd3lHOThxOVQyRjJHNHZGOHBGakJma3l3LVhMS1Vha25NaW1GYml0T2RFZmdWUEJN?oc=5",
-      "source": "Aero-News.net",
-      "date": "2026-08-09T09:57:47+00:00",
-      "description": "FAA Proposes $289,215 Fine Against Gorge Drones  Aero-News.net",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-09T16:34:02.109004+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "6cc1991147fe"
-    },
-    {
-      "title": "Five Killed as Drone Attack Strikes Belgorod Overnight - Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0N4dEs5MzBjRWVZOEctWVJqamI5ZG5vYnF0dXBiMWhHdzBjeV9QTHVEZVRxVlFLR2hXZUxVa3NGcUhqSWU0Nl9Ud1k4NjhpWTBsZEZZNDV2aW13cVpUNFJTR1FFYU1kbS1VVjEwZlFGdGpjREVqcWRQYnUtVm9veG8zSTl5dHE2R0lCZGRVR3ptdXBxR3p5NzRUYw?oc=5",
-      "source": "Военное дело",
-      "date": "2026-08-09T11:30:02+00:00",
-      "description": "Five Killed as Drone Attack Strikes Belgorod Overnight  Военное дело",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-09T16:34:01.554455+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c23d20d3ff99"
-    },
-    {
-      "title": "Iraq Dismantles Armed Cell in Babil, Seizes Drones - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhpYmRKekZvdmt3YkN0Qmd1TGY1YWJRS2RNdW82bTQ1LXdONU9YcGREd05CR0lialVSbml1ZXdiTGlBSlBhbENfa01McF9MZlFjUVUtNkxTZHZmamV3NlRNSTJ1VkFkb0VZWEZFV2ZNSE8tS01zRExTcWkwcnZfdFh5UVN0VWh5SV96dEkwenBRQmtfU0FxdA?oc=5",
-      "source": "Kurdistan24",
-      "date": "2026-08-09T14:39:00+00:00",
-      "description": "Iraq Dismantles Armed Cell in Babil, Seizes Drones  Kurdistan24",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-09T16:34:01.554455+00:00",
-      "location": "in Babil, Se",
-      "category": "other",
-      "id": "45cea36cdcc3"
-    },
-    {
-      "title": "While fighting wildfires, they’re also fighting illegal drones - The Salt Lake Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY21BX01UM0Y4dE8wWDFDWnk4QW91cHdLLUpNUUp2QlN4Wm1HQ2JmV1VEeTFaa1V5dXFCcnN0RTFBUk5RV3pYVEpPTzQ5STQ3V2Z2VnpvVWVsR3BtdWZfYjhRMzllalotaGhLU3ZlNTJLaEYybkxpS2VMTWEyUkhkbE9kemkxdDNhb2c?oc=5",
-      "source": "The Salt Lake Tribune",
-      "date": "2026-08-09T12:02:05+00:00",
-      "description": "While fighting wildfires, they’re also fighting illegal drones  The Salt Lake Tribune",
-      "query": "drone illegal",
-      "detected_at": "2026-08-09T16:34:00.378446+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "56bbe0a1080a"
     }
   ],
-  "last_updated": "2026-08-29T05:51:45.248419+00:00",
+  "last_updated": "2026-08-29T12:22:50.551645+00:00",
   "total_count": 1000
 }
