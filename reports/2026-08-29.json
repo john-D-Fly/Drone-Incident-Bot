@@ -1,0 +1,131 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a significant surge in drone-related incidents primarily across Europe and Ukraine, with a notable focus on military and security implications. In Ukraine, Russian drone strikes resulted in devastating impacts, including extensive use of military drones against urban areas and infrastructure, increasing concerns regarding civilian safety. In Germany, incidents involving drone strikes linked to accusations against Russia have emerged, raising alarm over national security and countermeasures being considered. Additionally, various accidents involving crashes of drones, such as those seen in Sweden and South Korea, highlight ongoing safety challenges associated with drone technology and operations. Arrests related to drone smuggling were also reported, indicating persistent illicit activities using drones for drug trafficking near borders, emphasizing the dual-use nature of drone technology in both security and criminal contexts.",
+  "totals": {
+    "airport": 3,
+    "arrest": 8,
+    "crash": 7,
+    "other": 34,
+    "smuggling": 4,
+    "terrorism": 9,
+    "total_incidents": 45,
+    "by_category": {
+      "airport": 3,
+      "arrest": 4,
+      "crash": 10,
+      "other": 24,
+      "smuggling": 2,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 6,
+      "drone crash": 11,
+      "drone illegal": 3,
+      "drone incident": 9,
+      "drone prison": 1,
+      "drone smuggling": 4,
+      "drone terrorism": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Military Drone Strikes",
+      "rationale": "Heightened military activity and use of drones in conflict zones.",
+      "incident_ids": [
+        "3ad18ff61f98",
+        "f4c0cfefd94b",
+        "d5a02fecfa3f",
+        "2056e0226480",
+        "edc8de05f5e3",
+        "6945e2b57667"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Concerns related to drone technology failures and their impacts.",
+      "incident_ids": [
+        "dd92a2d2d18c",
+        "4bf9cabb166d",
+        "e4feeddc820e",
+        "5eb6c76f27b8",
+        "42a879b231a0",
+        "91b501a90f76"
+      ]
+    },
+    {
+      "topic": "Smuggling and Illicit Use",
+      "rationale": "Relationship between drone technology and illegal activities.",
+      "incident_ids": [
+        "e8046053908d",
+        "b79040c8994b",
+        "7ef71db77f72"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "3ad18ff61f98",
+      "headline": "Russia strikes Ukraine with 2 missiles and 267 drones overnight",
+      "one_sentence": "Russian forces used a large number of drones and missiles in a recent attack on Ukraine.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4bf9cabb166d",
+      "headline": "Two-year-old child dies in Kyiv following drone crash",
+      "one_sentence": "A tragic drone crash in Kyiv resulted in the death of a young child.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "7ef71db77f72",
+      "headline": "Arrests after drone and drugs found near prison",
+      "one_sentence": "Authorities arrested individuals after discovering a drone linked to drug trafficking near a prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "b562f443e81f",
+      "headline": "U.S. military uses laser to blast cartel drones at southern border",
+      "one_sentence": "The U.S. military deployed laser technology to target cartel-operated drones near the southern border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "116a2adc6d26",
+      "headline": "Germany's Merz plans to blame Russia for drone incident in Leipzig",
+      "one_sentence": "A political escalation in Germany as accusations against Russia surface regarding a recent drone incident.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent spikes in drone incidents emphasize rising military and security concerns, particularly in Ukraine and Germany.",
+    "linkedin": "The past 48 hours revealed a sharp increase in drone-related incidents globally, highlighting pressing military and security issues."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-08-29"
+}
