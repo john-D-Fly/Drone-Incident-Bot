@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Oregon drone pilots warned: Flying near wildfire could mean $75,000 fine, year in prison - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2NFb3hMSmw0NGc4eS1hdGdTVEoxQTJtUXJ0ZWhBQTZfUjZMSk94N1k2UGo3VWFnaV9lZThIS19LVThUN0JIdzJKOUVCZXo3Ny1fYnhFQk1DQUFiNkpXSWZhT3pZLUxiUXNxeU91SmY2SDVFamF2VDBneHJJRkx5ai0ycGJNcmJfX0N3dEhHeDN4aW9KTl9TZXdYLV91NkxYSXFzRnFaNE9yY0tyWXFydUNpYV9LZ2FYMHA3T3NVc1dPa1ozOElxMTJSWWNVeVk5VlJZUDhKdFZRV01qeDJlN25qYzFUdw?oc=5",
+      "source": "Central Oregon Daily",
+      "date": "2026-08-29T00:01:48+00:00",
+      "description": "Oregon drone pilots warned: Flying near wildfire could mean $75,000 fine, year in prison  Central Oregon Daily",
+      "query": "drone prison",
+      "detected_at": "2026-08-30T17:56:18.474797+00:00",
+      "location": "near wildfire could mean",
+      "category": "smuggling",
+      "id": "9f0743762afc"
+    },
+    {
+      "title": "Germany plans new measures against Russia over airport drone incident - Azernews.az",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53OF9GcEhJSlAyTWx6WkJ2aG44aEtsU1RoUngyNWNDd05fWVdoU0c5emlsS08yWlh5alM1OGJHdFJJZ0U2amVmY2FDQ1ZsUVF2Qkk1cw?oc=5",
+      "source": "Azernews.az",
+      "date": "2026-08-29T14:24:00+00:00",
+      "description": "Germany plans new measures against Russia over airport drone incident  Azernews.az",
+      "query": "drone incident",
+      "detected_at": "2026-08-30T17:56:16.836732+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "c2762a60be69"
+    },
+    {
       "title": "Shafaq News..Iraq deploys drones to track illegal land encroachments - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDVFTFFvNklfMDFHRnRnU1dsU3RzX0JtV19NYU5PNElHZFJTUVIwOEJkbnhQVUVBTmJ0a2NxcEQ5bnl3aWN6YlRxTVQyWEhHemVDeGpuVjFpN2tzeE5MSHRDcjZKbTI5Slkzbkd6NEJTbzVtVFNzN21NYTZhWTE5RENUVFgzek1KV3RPV2RB?oc=5",
       "source": "شفق نيوز",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5fa05909c18d"
-    },
-    {
-      "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3hiUFBfanpWT1dUcDdnak5lUEFPYkwtSmFaWjlicmpncFM3VVNsZGVrRXJRQ05CUHVXR0c1Wk5YRkZBTmRsSXpldVNOaWJJb0ZkMlpYUUtRTl9SSE9YV0dGMG5hZjdMRE4zem1KbHQwUVc2b2Y2U05faUhiUnBWSHUwNERKblZsSy1pa2QzV1pSLWQ3S01SXzJqTmV2T2ZtUzFPTWtnUdIBrAFBVV95cUxNY201WEFTRy1ydkUzV21ZeGhVZldqNklub1ZFQWgxODQ0dG8tZ3RJNWFMUTFQNjcyeDdTeFVxWWg5VkR5MlFxeTdCMHRtMWdsWlJKMHVHcE11M1VXLU41Z1RDdHluR0E5aHJraWhSU1V6Nl9EV2dRV3k2MnQyTzZZZGdaU1FuNFgyZVNVdTMyTjZkNEJ2cmJ1eEp1Y2dqQU9rMGdJQjhUX2NNVFpG?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-08-08T17:11:07+00:00",
-      "description": "2 drones spotted flying over German military base after drone with explosives found at cargo airport  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone incident",
-      "detected_at": "2026-08-10T03:53:58.127401+00:00",
-      "location": "at cargo airport",
-      "category": "airport",
-      "id": "acab44939d38"
-    },
-    {
-      "title": "Security fail: Drones breach Australia’s top fighter jet base - The Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcDJIZWhaT1h4SkkzSTJCRzlGTzg0WnpNbElCOENEeHpKcVhhYVVtV1ZmYkE0RWcxWWgzeUduSUtNTkl0eFYyTW82eVVfbG5yNTFweFhYVTFSR1AxSE9LR0tLN0k1MHNGY1hBWUsyRWZxa3B4NzRXSlBNV1h5cUZkbUk5dV83VzZyRDZKckVtU01QZUt3LTZQWGVKQ1VRQXJVTHFjaTNNR3FFbHBSanF1RmVyZ3hHTU84Q1hic1l0c21BNmQ2TnNhOF94aXMwUGNMeGMtVmFFSk9rdExYdEUtVjhtSzBCeXVQcUVHTXdONnk0d9IB9wFBVV95cUxOWlNLOGRVbHR3Uk5PUmMtOXhiaEltLW1YamZFVnRpUmFyN2F6WURTdDllVmpqM28wN0RQTWxqckpyYjVNU3pRNlhJWWZjMHAxaDBFLUxNOWNJRnZiMUhGNjRzUXBmLTRZMXhmcVAzUHRfRVdYMTRYZ09HTnA2SkJBTTIwTlNXNkZDVThta2lobWgxNGs4QWllcUlVLVRUeU5pN3otVmRET0NScEhFZ2hhVXprNDEtVm4wcnhzd3psV1F5dHl0NFRnaWtrcDlXdmFoYW0ta2dfMGs0cFV6dE5BTXdKdXVfN0IzUlBrZWJlVWd0TGVLVG5Z?oc=5",
-      "source": "The Daily Telegraph",
-      "date": "2026-08-09T14:09:09+00:00",
-      "description": "Security fail: Drones breach Australia’s top fighter jet base  The Daily Telegraph",
-      "query": "drone security breach",
-      "detected_at": "2026-08-10T01:45:38.802665+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "cfadc6462aa1"
     }
   ],
-  "last_updated": "2026-08-30T13:38:31.586622+00:00",
+  "last_updated": "2026-08-30T17:56:22.549172+00:00",
   "total_count": 1000
 }
