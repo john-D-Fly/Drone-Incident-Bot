@@ -1,0 +1,143 @@
+{
+  "narrative_summary": "In the past 48 hours, a variety of drone incidents have been reported across multiple countries, highlighting issues of terrorism, smuggling, and public safety. Notable incidents include a terrorism investigation in Poland following a fire at a drone factory, and various arrests in the U.S. linked to outstanding warrants aided by drone surveillance. Additionally, drone smuggling attempts were thwarted along the U.S.-Mexico border, and Iran's military actions involved drone strikes impacting surrounding regions. These incidents reveal ongoing tensions in geopolitical landscapes, as evidenced by drone violations of airspace in Moldova amid conflicts involving Russia and Ukraine. The proliferation of drones has raised concerns over unauthorized use, prompting discussions on regulatory measures, particularly related to drug smuggling and homeland security.",
+  "totals": {
+    "terrorism": 3,
+    "smuggling": 4,
+    "arrest": 8,
+    "crash": 3,
+    "interference": 2,
+    "other": 17,
+    "total_incidents": 47,
+    "by_category": {
+      "airport": 2,
+      "arrest": 6,
+      "crash": 2,
+      "interference": 2,
+      "other": 29,
+      "smuggling": 4,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 6,
+      "drone crash": 4,
+      "drone illegal": 5,
+      "drone incident": 16,
+      "drone prison": 3,
+      "drone smuggling": 3,
+      "drone terrorism": 8,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Multiple incidents showcase the use of drones in arrest operations.",
+      "incident_ids": [
+        "accf2ce3d12c",
+        "cf77c08b7620",
+        "25357ae97e4c",
+        "d8f776080e30",
+        "de5acd0f7740",
+        "b6b35e1b5d79",
+        "a6d57e5a8855",
+        "9f0743762afc"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Cases highlight the use of drones for drug and component smuggling.",
+      "incident_ids": [
+        "313f086bb56b",
+        "5a71b91eafed",
+        "135c9c31765c",
+        "ed9c3b1edb9c"
+      ]
+    },
+    {
+      "topic": "Public Safety and Policy",
+      "rationale": "Recent incidents reflect growing discussions on drone policies and public safety.",
+      "incident_ids": [
+        "94a5ac5a94a8",
+        "0f0adf5697f9",
+        "6b54ad886a29"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "13cafa0ade51",
+      "headline": "Poland launches terrorism investigation after blaze at drone factory",
+      "one_sentence": "Poland has initiated a terrorism investigation following a significant fire at a drone manufacturing facility.",
+      "risk_tags": [
+        "terrorism",
+        "safety"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "313f086bb56b",
+      "headline": "Pentagon Says Lasers Took Down Drones Smuggling Drugs on US-Mexico Border",
+      "one_sentence": "The Pentagon reported that lasers were used to disable drones involved in smuggling operations on the U.S.-Mexico border.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "accf2ce3d12c",
+      "headline": "Deputies: Drone used to find, arrest man wanted on outstanding warrant",
+      "one_sentence": "Law enforcement utilized drone technology to locate and arrest an individual with an outstanding warrant.",
+      "risk_tags": [
+        "arrest",
+        "technology"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "25357ae97e4c",
+      "headline": "Laredo police arrest man after drone-assisted chase, evading arrest charge",
+      "one_sentence": "A man was arrested by Laredo police following a pursuit aided by drone surveillance technology.",
+      "risk_tags": [
+        "arrest",
+        "technology"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e553e048141a",
+      "headline": "Ukrainian Strikes Cause Casualties in Belgorod, Authorities Say",
+      "one_sentence": "Ukrainian military strikes reportedly resulted in casualties in Belgorod, marking an escalation in the conflict.",
+      "risk_tags": [
+        "terrorism",
+        "geopolitical"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  },
+  "draft_linkedin": "The latest data showcases the growing impact of drone technology on national security, enforcement, and conflicts, demanding a re-evaluation of regulatory frameworks.",
+  "window_hours": 48,
+  "date_utc": "2026-08-31"
+}
