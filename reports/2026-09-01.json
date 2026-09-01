@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "In the past two days, the ongoing tension involving drone-related incidents continues to highlight the precarious security landscape, particularly in Ukraine and Poland. Multiple drone attacks have been reported, with Russia accused of perpetuating strikes against civilian infrastructure and drone facilities linked to Ukraine. Poland is investigating a fire at a drone manufacturer with potential ties to terrorism, reflecting heightened security measures. In Latvia, border guards intercepted drones used for smuggling activities. Additionally, in the Middle East, drone incursions are affecting airspace security, notably with Iranian drones intercepted by UAE forces. The theme of heightened security risks associated with drones is consistently evident across various regions, indicating a growing need for robust regulatory frameworks.",
+  "totals": {
+    "terrorism": 6,
+    "other": 12,
+    "smuggling": 5,
+    "arrest": 8,
+    "airport": 6,
+    "interference": 3,
+    "crash": 2,
+    "total_incidents": 70,
+    "by_category": {
+      "airport": 5,
+      "arrest": 9,
+      "crash": 2,
+      "interference": 3,
+      "other": 34,
+      "smuggling": 9,
+      "terrorism": 8
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 9,
+      "drone crash": 6,
+      "drone illegal": 1,
+      "drone incident": 23,
+      "drone prison": 5,
+      "drone smuggling": 5,
+      "drone terrorism": 18,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone terrorism",
+      "rationale": "Increased drone attacks linked to regional conflicts raise concerns.",
+      "incident_ids": [
+        "248edf7196eb",
+        "5eab65d02fd0",
+        "ac4d0186fd5b",
+        "e65bfd7be618",
+        "two decades after Beslan"
+      ]
+    },
+    {
+      "topic": "Drone smuggling",
+      "rationale": "Multiple incidents reflect the use of drones for illicit trafficking.",
+      "incident_ids": [
+        "d8508929db61",
+        "56469fbf6c37",
+        "3123f7867af1"
+      ]
+    },
+    {
+      "topic": "Drone crashes",
+      "rationale": "Emerging patterns of drone crashes raise safety concerns.",
+      "incident_ids": [
+        "30c782c4e138",
+        "097fca47f383"
+      ]
+    },
+    {
+      "topic": "Drone arrests",
+      "rationale": "Several arrests indicate the role of drones in facilitating crime.",
+      "incident_ids": [
+        "f1b0febfb6cf",
+        "58df9429118c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "248edf7196eb",
+      "headline": "Budanov Says Russia Will Keep Drone Attacks Until September Vote",
+      "one_sentence": "Russia is expected to continue its drone attacks leading up to the September elections.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5eab65d02fd0",
+      "headline": "Poland Opens Terror Probe Into Fire At Factory Supplying Ukraine Drones",
+      "one_sentence": "Poland's investigation is focused on a factory supplying drones to Ukraine amid rising tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ac4d0186fd5b",
+      "headline": "Russian Drone Strikes Civilian Infrastructure in Semenivka",
+      "one_sentence": "Drone strikes in Semenivka missed injuries but targeted civilian infrastructure.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "d8508929db61",
+      "headline": "Latvian Border Guards Find Cigarette-Smuggling Drone",
+      "one_sentence": "Latvian authorities have intercepted a drone used to smuggle cigarettes.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "e65bfd7be618",
+      "headline": "Drone Attack Sparks Fire at Russia’s Key Baltic Oil Port of Ust-Luga",
+      "one_sentence": "A drone attack in Ust-Luga has created significant disruptions in oil port operations.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "",
+    "linkedin": ""
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-01"
+}
