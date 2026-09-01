@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Iran downs MQ-9 drone, strikes bases in Jordan and UAE - Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW52NG1Fb2dNLTNqbUEwOHNFTjlScllNaFcxOEZ6MXIybFN5TFNhVXZGeDFvaDZ3aTgtbUo4RGFlUXNLTklyNUlXNUZRQjEzSGRTTXhKeW13cnZJcWlqa2RaaFRZbU9wOFZxRlNXYW0xc1N4bWdVRHNiaUNfQnVhRHZKVndNMGtFLUVHZVRESDhSd3k5bmVF?oc=5",
+      "source": "Yeni Safak English",
+      "date": "2026-08-31T20:06:51+00:00",
+      "description": "Iran downs MQ-9 drone, strikes bases in Jordan and UAE  Yeni Safak English",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-01T01:40:54.145366+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "31d179ca64bb"
+    },
+    {
+      "title": "Laredo police arrest man after drone-assisted chase, evading arrest charge - KGNS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzc3Vkxma3ZRWWozRWVKSDFxZnZVWDNvUGY0NWRLOUlRYzNjUGlJcXRzcFYwbFpJM2RyekZGQ21TUVRPeXpzcEYtNzFDSEVaYzhjaE9YT01NNHJ2ckNwUHd2YnpEaTFiSnl0Qi1Za2szOHdJdjVqNDBSaWNLQ2NvM3hNS3RMWW1kY1Z3SS1udzg0ZnpWYzdxNlVsbzNYb1NhTEJBN3oyUTBENTV3VGZyUw?oc=5",
+      "source": "KGNS",
+      "date": "2026-08-31T22:28:00+00:00",
+      "description": "Laredo police arrest man after drone-assisted chase, evading arrest charge  KGNS",
+      "query": "drone arrest",
+      "detected_at": "2026-09-01T01:40:50.003569+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "58df9429118c"
+    },
+    {
+      "title": "Merz says Germany close to response over suspected Leipzig drone attack - Brussels Signal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0RBckZJQ1hhZWZqdWd6YjZhUDhMaWRaaHBkSENNdmktVlJjcFo3Z1BfbTMyLUdOWUw0X3lTSlEtNlBXbF94QmREb3BiYXJiLURKOWhHSVh3Z2FVM2xYdzNkVHlKOWhHZWtiX2piSnlqUmE3dkpiVzQwYTlQNjhWQ3M5bDRFTXc0R09uTzNLTkJucUpNY19mYnZhQTM4YlBZcEdVdVRhemxlQQ?oc=5",
+      "source": "Brussels Signal",
+      "date": "2026-08-31T11:14:25+00:00",
+      "description": "Merz says Germany close to response over suspected Leipzig drone attack  Brussels Signal",
+      "query": "drone incident",
+      "detected_at": "2026-09-01T01:40:49.386349+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "33ff0ac80052"
+    },
+    {
+      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1Q0Qm9uVnJmSzRlMWVFVUdhUWxGUlRHREFGNWZ1UVRJOWVmMEY0Y3NZR3M5M0s3RzliX1JtbGlfN0VSd0VGNTUxOVkyVDlsMS13QTh2d3RIWlpsd1JRLUhaYlVOak5PbWZldjdSbDBTbUxSNGpra2Z4MzY4SmNjZG1jOHk1ZXFEM2M4bVJxdFhHTEIzNFlJR9IBngFBVV95cUxNa3hJZUhkNkdQeDR1TXJHaTdqcWo2XzMzd1lnMUp1RWNWaElLX1pzazRNLTJjRmV4aG9aWU84TGRadGFlcEJSelRTbFpob1VoWGt6OFhQckN6Mzc4X2w2cFNZTEthRTVtcXEyaS1mS2xab2ZaNGV6akhVekluSzhuSzhScDRBRmhteEpJNG9IQzZVSDBndWJ4VGJUTzJLZw?oc=5",
+      "source": "aljazeera.com",
+      "date": "2026-08-31T21:35:08+00:00",
+      "description": "Poland opens terror probe into fire at factory supplying Ukraine drones  aljazeera.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-01T01:40:49.386349+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "efb0a6c57832"
+    },
+    {
+      "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXZxRVNNa1pHN3lfMXFCSU1TZjY5MUZaUDRUODlYTk1YbkNfVzhSMWMyLWdRVnJGRzI3Tm1IemxWdzdhejlqeFNWRm9rRnl4QkJ1QnhSVHpYVFhBci1Ga1Q4dzZGNTY2RDhURTV2MDR4Y1NLNTdCYVB4N1FXdldkcXdoNGdUMU1RV3dmNkI1akNlT0xV?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-31T14:14:00+00:00",
+      "description": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane  The Guardian",
+      "query": "drone incident",
+      "detected_at": "2026-09-01T01:40:49.386349+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8a95582a1e3d"
+    },
+    {
       "title": "Update: Drone Incursions Continue To Disrupt Wildfire Response Across The West - aero-news.net",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHduNGNPbmREVGdqYUFlanN4SW8yRjMxZmhJZVM1dnV1MlFsUl9UZnNzWGlVRmV0ZVd0dlJLdWdSYjF4c011NEczeTZVTnlwV2tGWHByemtVbWlyS1lHZU1qMzNEcVpKSENyRVZrNFNvN2EtVzhzakU5eUpTR3FVdmV5UXp2N1RpNnYwSTZYMm13Vnd5dURz?oc=5",
       "source": "aero-news.net",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "019439606fb8"
-    },
-    {
-      "title": "Ukrainian ambassador on drone incident in Bulgaria: Ukrainian forces did not direct UAVs towards it - Українська правда",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RXkyck1UdHBIZm81QS1IUnhQWEpHVnpsUDdGNWhrQnVlMTBEOVVEU3Bqb1A1d203VjJ1WGtlbTBCRnpaWDNlR0Q2d0MyX2xjeVJpc2ZPbE95bzZWYjdkRG1XUGrSAXBBVV95cUxPU3R2dGJQRk9fY1BBUTVnejZkczVrNnl4cC1BOF9SWktSTTBvTGNsS1RnMXo0WjFDZ051STJHaUE0SmJVTlNrNWU3X1l3UmMtRUlkR2p0eU5MOTJkNTVDMDVXc05QZ01kdWdxSURpMEdG?oc=5",
-      "source": "Українська правда",
-      "date": "2026-08-10T14:17:00+00:00",
-      "description": "Ukrainian ambassador on drone incident in Bulgaria: Ukrainian forces did not direct UAVs towards it  Українська правда",
-      "query": "drone crash",
-      "detected_at": "2026-08-10T16:02:33.471103+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a122f56a393e"
-    },
-    {
-      "title": "Moldovan president condemns Russia over killer drone crash - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckxKSVNoNU5IOEw1RjZYMERFcWxiUkRMdjZNei0zNWFpWFdXU0tyRmFITW5LcGF2QmVsS0pxcWU4YXVoMm1NRy0zVU5XbDhCUjdSRkxlYV9FNXh5c003WkdwTDhZSy1HM28zWnktcGNaMnhPcGZGUmZuMnBISE1kYi1nRWUzQVhWUUVnNzBUM0s2QQ?oc=5",
-      "source": "politico.eu",
-      "date": "2026-08-10T14:28:22+00:00",
-      "description": "Moldovan president condemns Russia over killer drone crash  politico.eu",
-      "query": "drone crash",
-      "detected_at": "2026-08-10T16:02:33.471103+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "eab45dfb8fe6"
-    },
-    {
-      "title": "Drone helps Baton Rouge officers capture man following stolen car pursuit - wbrz.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGVNeWV2UGhmYzJfQXY5a2NaX2dhTW9hZU5Da0JnekJLRGN4WXp5Y1BkZnJ1anhVTWxGYndSUjNIamF3Y1ZQbDhRTkp5VkYyamlhZ1JIaFdOQlZ1MG1ob1dVdWJDY29RcHA2MmJ6ODlBbW1mUG9keGlhd3VQU3BjZFY0QjFONnVZaHVMZzl1dHAtUXh6Zi1jSEJsbkxVQjRYOUE?oc=5",
-      "source": "wbrz.com",
-      "date": "2026-08-09T22:30:21+00:00",
-      "description": "Drone helps Baton Rouge officers capture man following stolen car pursuit  wbrz.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-10T16:02:31.292921+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "701a8006c298"
-    },
-    {
-      "title": "Australia must ‘assume the worst’ after drone breach at country’s top fighter jet base - 7NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclpaaTZXS0l4OHctc0FvVU5vSHFST2N0akVEMUtnT3lJSHJ6dlNPcjh4SnhDQkJhSDVTR05GNVJhMVo3bnM1RUFaUEFraDlMSjNrUGdaM0xZTk9xSEtzSWFuQ1VTUWU4OGZIMzVISGVGMVhndUNlZEJXckZCRldOWFlwZUVlX0ljUjVSZ1dIWHA3UEdyNWpfdzI5aEp4cEFYeUthNFJjMzdheXNhVHdSU1VfMUEwUExWMzJqcUgyQzfSAcYBQVVfeXFMTmlBdTZzMEZtVm1HaF9yWG9WS2RqMUFNaTQ0RElPRFE3S1F3ekVzeVZlRnNibDc1SXdOeGRmTzFPWUpleUhTZUFkRURIZUVxYnk5WG0tR1pjUUVJTnA4ejFIdHlSbmVPb0QxNUlRdVkwWHMtYUJHNGswb19tTUh3UU5KS2R3cXF0VS1RZU9VRjVsRm1SVEplTjVRSWNRY0cyaE1iR284ZWpvb1FPTEJPcUVYZ2gtVXhubkQtQTdkZmRONFkzazJB?oc=5",
-      "source": "7NEWS",
-      "date": "2026-08-10T11:33:00+00:00",
-      "description": "Australia must ‘assume the worst’ after drone breach at country’s top fighter jet base  7NEWS",
-      "query": "drone security breach",
-      "detected_at": "2026-08-10T14:57:19.680199+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "738e7f83d3ae"
-    },
-    {
-      "title": "Moldova summons Russian ambassador following drone explosion on its territory - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFRVRUpuZW1Xd0VFcU1tbzRNT2puTzdmVlJxVS1LbEF1aGlQTFRURmJYN3htcTFiazh2bW5wYThoRDZJZDBuUXAyRTdpNzJYY2ppdm41NkM4cGZ3Wks3a2hCajhxRlF6a3RDbWRfZG52ZnIyUnh4Y2dzdTRRbXdEVnBMS3VXZVV1LV94eDhFVkFrMUR2ZWNhVjVRWWFSc1E?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "date": "2026-08-10T14:08:07+00:00",
-      "description": "Moldova summons Russian ambassador following drone explosion on its territory  Latest news from Azerbaijan",
-      "query": "drone crash",
-      "detected_at": "2026-08-10T14:57:18.647827+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "90b64bfd4f44"
     }
   ],
-  "last_updated": "2026-08-31T22:32:01.506580+00:00",
+  "last_updated": "2026-09-01T01:40:55.688371+00:00",
   "total_count": 1000
 }
