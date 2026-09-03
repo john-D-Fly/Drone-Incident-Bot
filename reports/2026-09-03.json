@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant focus has been on drone-related incidents connecting Germany and Russia, particularly surrounding claims of state-sponsored terrorism linked to the Leipzig airport attack. Several EU officials, including Kallas, have echoed this sentiment, blaming Russia for the attack and urging a coordinated response. Meanwhile, other reports indicate a drone-assisted arrest in the United States, underscoring the diverse applications of drone technology from law enforcement to conflict. Additionally, there have been alerts regarding dangerous drone operations, which have led to regulatory scrutiny in various regions, illustrating the ongoing implications and threats posed by drone technology globally.",
+  "totals": {
+    "other": 45,
+    "terrorism": 16,
+    "airport": 16,
+    "smuggling": 2,
+    "crash": 4,
+    "arrest": 13,
+    "unauthorized drone": 3,
+    "illegal": 3,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 26,
+      "arrest": 9,
+      "crash": 4,
+      "interference": 5,
+      "other": 50,
+      "smuggling": 2,
+      "terrorism": 24
+    },
+    "by_query": {
+      "drone airport disruption": 12,
+      "drone arrest": 14,
+      "drone crash": 7,
+      "drone illegal": 5,
+      "drone incident": 40,
+      "drone prison": 1,
+      "drone smuggling": 1,
+      "drone terrorism": 39,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Russian drone terrorism",
+      "rationale": "The majority of recent incidents and responses are linked to accusations of drone attacks and state-sponsored threats involving Russia.",
+      "incident_ids": [
+        "14392e5a6104",
+        "2fc106849dbf",
+        "c8cca39f74ae",
+        "6be85767d74c",
+        "d9d19fd1ca64",
+        "b23d097bc7d8",
+        "30e0a6dab021"
+      ]
+    },
+    {
+      "topic": "Drone incidents and arrests in the US",
+      "rationale": "Increased utilization of drones for law enforcement has led to multiple arrests, showcasing a growing trend.",
+      "incident_ids": [
+        "387370e02843",
+        "5bb158793148",
+        "8467457396e5",
+        "7f6b46ea5390"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6f3899be8f71",
+      "headline": "EU Vows Tougher Russia Measures After Leipzig Drone Attack",
+      "one_sentence": "The EU is considering rigorous actions against Russia following a drone attack at Leipzig airport.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5d5fa6d899ac",
+      "headline": "Drone incident: how should the EU respond?",
+      "one_sentence": "EU leaders discuss responses to the escalating drone-related threats from Russia.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "EU"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9438de1f7511",
+      "headline": "What to know about Germany’s drone attack accusations against Russia",
+      "one_sentence": "Germany raises alarms about Russia's alleged involvement in drone attacks.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "cb4c20f60de8",
+      "headline": "Russia to close branches of Germany's Goethe-Institut after drone spat",
+      "one_sentence": "In the wake of escalating tensions, Russia has decided to close Goethe-Institut branches in Germany.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [
+        "Germany",
+        "Russia"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "40716b59dc62",
+      "headline": "Russia shuts down Germany’s cultural centers after drone incident",
+      "one_sentence": "Russia’s closure of cultural centers in Germany is seen as a response to accusations over a drone incident.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [
+        "Germany",
+        "Russia"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Heightened tensions over drone incidents between Germany and Russia spark calls for tougher EU measures. #DroneIncidents #EU",
+    "linkedin": "As Europe grapples with state-sponsored threats linked to drone technology from Russia, top officials urge swift and decisive action."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-03"
+}
