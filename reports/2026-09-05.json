@@ -1,0 +1,140 @@
+{
+  "narrative_summary": "Over the past 48 hours, a series of significant drone incidents have emerged, particularly concentrated in the context of airport disruptions and drone-related security concerns. The most notable event includes a Russian drone strike on the SBU headquarters in Kyiv, injuring at least 12, indicating ongoing tensions in the region. In San Diego, airport operations were heavily impacted by drones and weather balloons, leading to multiple flight delays. Additionally, reports of unlicensed and potentially dangerous drone imports are prompting calls for regulatory action in various jurisdictions. On the legal front, several arrests are linked to drone operations around prisons, with authorities responding to incidents involving drone contraband drops. Brazil is also examining its policies in light of reported incidents involving unauthorized drone usage. These trends highlight the increasing need for robust drone regulations and law enforcement collaboration to mitigate public safety risks.",
+  "totals": {
+    "arrest": 4,
+    "airport": 6,
+    "crash": 6,
+    "interference": 3,
+    "illegal": 3,
+    "other": 15,
+    "smuggling": 7,
+    "terrorism": 6,
+    "total_incidents": 97,
+    "by_category": {
+      "airport": 17,
+      "arrest": 7,
+      "crash": 14,
+      "interference": 5,
+      "other": 40,
+      "smuggling": 10,
+      "surveillance": 1,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 21,
+      "drone arrest": 10,
+      "drone crash": 17,
+      "drone illegal": 7,
+      "drone incident": 19,
+      "drone prison": 10,
+      "drone security breach": 2,
+      "drone terrorism": 9,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Multiple incidents of flight disruptions due to drone activities.",
+      "incident_ids": [
+        "6a5fe2b94c61",
+        "caeb6f374ff2",
+        "18f33ded9aa6",
+        "ebbe3490179a",
+        "ebbe3490179a",
+        "bafc522766b0",
+        "d0e3d1dfb47f",
+        "545c0a446d2d"
+      ]
+    },
+    {
+      "topic": "Drone Arrests Related to Illegal Activities",
+      "rationale": "Incidents reflecting arrests in relation to the use of drones for smuggling drugs or contraband.",
+      "incident_ids": [
+        "2f745e1e6b5e",
+        "9f746a30b5aa",
+        "b7e1d067c9b7",
+        "bed769ccb9e3",
+        "4e564456581b"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Frequent reports of drone crashes causing concerns over public safety.",
+      "incident_ids": [
+        "fda80624fd30",
+        "56bc3d972762",
+        "1a46cfe5ff92"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "1af89ba64830",
+      "headline": "Russia tells data centers to deploy drone defenses",
+      "one_sentence": "Russian authorities have mandated data centers to enhance their drone defense systems against increasing risks.",
+      "risk_tags": [
+        "security",
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "ebbe3490179a",
+      "headline": "Drone industry seeks government action against illegal imports",
+      "one_sentence": "The Indian drone industry has urged government intervention to address over 50,000 illegally imported drones.",
+      "risk_tags": [
+        "illegal",
+        "policy"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6a5fe2b94c61",
+      "headline": "San Diego Airport chaos due to drones triggers ground stop",
+      "one_sentence": "San Diego Airport faced significant operational disruptions caused by drone sightings and a weather balloon.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "18f33ded9aa6",
+      "headline": "Baltimore police use drone footage to catch graffiti suspect",
+      "one_sentence": "Police in Baltimore utilized drone footage to successfully apprehend a suspect involved in graffiti vandalism.",
+      "risk_tags": [
+        "arrest",
+        "surveillance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "35318bea3d5a",
+      "headline": "Federal government denies involvement in drone strike",
+      "one_sentence": "The federal government rejected allegations linking it to a drone strike aimed at a former prison commander.",
+      "risk_tags": [
+        "terrorism",
+        "policy"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents have raised safety and regulatory concerns, especially around airports and unauthorized usage.",
+    "linkedin": "The past 48 hours have seen a series of drone incidents highlight growing concerns regarding airport security, unauthorized use, and regulatory challenges."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-05"
+}
