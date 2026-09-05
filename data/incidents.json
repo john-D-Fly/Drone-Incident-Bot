@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Russia tells data centers to deploy drone defenses - news.risky.biz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkdKazFQX1Vod1Y1Tm9SVkZJYlRuME51WmhCa0s3R3JBQnlmaTAtLWY0RW9jWUxSZ3V6dExHR2FvVVNKV1VrN3hSZzlSZjhqZ0ZGM0ViMUNMM2xxWE41aU5RSW1YUWVrZXItYWRfcXNwdDJLQ245bVVKR0d6cUo2SEtTYVE0R3h5a1JON1pYQ1QtVG8?oc=5",
+      "source": "news.risky.biz",
+      "date": "2026-09-04T03:04:16+00:00",
+      "description": "Russia tells data centers to deploy drone defenses  news.risky.biz",
+      "query": "drone security breach",
+      "detected_at": "2026-09-05T15:48:28.800460+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1af89ba64830"
+    },
+    {
+      "title": "Drone Industry Seeks Govt Action Against 50,000 Uncertified, Illegally Imported UAVs - KNN India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzNFeVl4NU9Bd1RsYnVaQTY3UDlMRllCT1FNbmdZRWpPRGJCT2lTUjljOW1mSjhBaTM1SXhtUHRMU2hza1Z4ekMySzA5TVJoajhkWUE2VW1xeksyQjEtUFlvY1RTdG45WEN6VGJVRHdmTElXVlhmeVcwT284MlZxSU8tMVJEWDZhVXN2ZFBqd1FQRWc3OTlfNFNZWDhpS1NmeWN4c0RpdlZIX0ZuQWxfQkNqMllPNUZ5UHdTUWx2bjF0ZzEtY1VpNnFR?oc=5",
+      "source": "KNN India",
+      "date": "2026-09-05T09:09:52+00:00",
+      "description": "Drone Industry Seeks Govt Action Against 50,000 Uncertified, Illegally Imported UAVs  KNN India",
+      "query": "drone illegal",
+      "detected_at": "2026-09-05T15:48:28.187429+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ebbe3490179a"
+    },
+    {
+      "title": "Zipline drone crashes onto Houston Highway - Click2Houston",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWxMdlgxeHpGT3BBaWt6TGdaZnZkMmZnSWxaNHh0RGpWbW8wa3hEa0tvQTNkQjVrYU1hREhWNy1ZZWtERzZKZ183SXVLWGJjX09vSkQ2NGw1MWhaMnZwQUU1NHFfZUkzN1QwLUdVVk1uRDMzZWdqWFJhV1U0ejNIeWpHamRtRWhBMUVqRWJvWHIwd0ZQT1VxWGVra2NIZ05HS25N?oc=5",
+      "source": "Click2Houston",
+      "date": "2026-09-04T23:41:09+00:00",
+      "description": "Zipline drone crashes onto Houston Highway  Click2Houston",
+      "query": "drone crash",
+      "detected_at": "2026-09-05T15:48:27.591613+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1a46cfe5ff92"
+    },
+    {
+      "title": "San Diego Airport Chaos: Drones, Balloon Trigger Ground Stop - traveltourister.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkFHbGpOOVFocGNyckxMOTJRaE0xMW9jVzNCMTBRMExtVW9TdEt3VlZKZkFRcEhJVEZrbWZSYmE5ZHJ4dkxwczgzYmVmdEFCNTZlSVdCZU9maVpfbWVFWkNpRFZOVkp5M3RqN3k1QUlfQi0yYmh1WTZRYXdXbnUzMkR0N1pIVkhtaUtsZjNDckhjWGdWTEhaRlhsRTFTWjdzUlU4?oc=5",
+      "source": "traveltourister.com",
+      "date": "2026-09-05T08:42:18+00:00",
+      "description": "San Diego Airport Chaos: Drones, Balloon Trigger Ground Stop  traveltourister.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-09-05T15:48:27.006822+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "6a5fe2b94c61"
+    },
+    {
+      "title": "Baltimore County police drone footage catches Towson graffiti suspect committing crime - WBFF",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlNQU2liazJYUUdzQUxiTmkwSjc3bWh3THZBMHF5TmNXdjRGbmRpdjJjR0JzWjh3ZHpTc2FFX3RkSzZqZXYyNVVGS2tCSl9HVE50RUdTcEhrRkctWEFEQXJqbndCYWdIWGJHZXRRaFlyWTB0cjJTTkNYRUlRODFnQXNlbFVHQnQ2Qkk2dTFQSHVWZTlPbFMwaHdGa2JVdnNMY0tZSExR?oc=5",
+      "source": "WBFF",
+      "date": "2026-09-05T15:40:41+00:00",
+      "description": "Baltimore County police drone footage catches Towson graffiti suspect committing crime  WBFF",
+      "query": "drone arrest",
+      "detected_at": "2026-09-05T15:48:25.150938+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "18f33ded9aa6"
+    },
+    {
       "title": "Drone Industry Seeks Govt Action Against 50,000 Uncertified, Illegally Imported UAVs - KNN India",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzNFeVl4NU9Bd1RsYnVaQTY3UDlMRllCT1FNbmdZRWpPRGJCT2lTUjljOW1mSjhBaTM1SXhtUHRMU2hza1Z4ekMySzA5TVJoajhkWUE2VW1xeksyQjEtUFlvY1RTdG45WEN6VGJVRHdmTElXVlhmeVcwT284MlZxSU8tMVJEWDZhVXN2ZFBqd1FQRWc3OTlfNFNZWDhpS1NmeWN4c0RpdlZIX0ZuQWxfQkNqMllPNUZ5UHdTUWx2bjF0ZzEtY1VpNnFR?oc=5",
       "source": "KNN India",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "f5acbeab7be3"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
-      "source": "reuters.com",
-      "date": "2026-08-14T00:53:10+00:00",
-      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  reuters.com",
-      "query": "drone crash",
-      "detected_at": "2026-08-15T02:50:28.814872+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e309492d275c"
-    },
-    {
-      "title": "3 Michigan men arrested after drone appears to deliver contraband tobacco to federal prison - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRm9Dbm92enpkWFQ3UjFhRkRFdW1EaGZiaF9qUWUwbWM2MGpFWnRUMjFoYmlQdXRIc3p1bE00SDlmWC0yS2lra0JhcDliSzBwQmY4eFJyT1liMi1CUEVWbjI4MG4tOExoMnJsd2NtWWhOVlA2TGpFSFR2eWxUTWM2eVFHbTZfRU5oYmF2VmhMNlNVVHNocEc0WWtQTQ?oc=5",
-      "source": "cbsnews.com",
-      "date": "2026-08-13T17:36:17+00:00",
-      "description": "3 Michigan men arrested after drone appears to deliver contraband tobacco to federal prison  cbsnews.com",
-      "query": "drone prison",
-      "detected_at": "2026-08-15T02:50:27.574485+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e8dfff544822"
-    },
-    {
-      "title": "Townsend woman arrested after damaging police drone during hourslong SWAT standoff - newslinklive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnpQajY2WndhRzVBWDBYdFpEcS1QRjBMbmZVZU1IZ0EtT1U1d05TME1lSUpqMEp6WVhLMDRHNTV5ek00dWhSX3J3Y3J5NWVwVVVyUC1aa0xwREZ5V0RBMjlrRXVpMjVMelM1YXZ4NEVVbVQ1d1p1WllVUlpFVXJXMkc1dXo4THhFSEtqWlFsLXY0NjF3TU9WUUk0S3RCemNqMHJGNEp4NlhHSE9lRkNQWjExdmJUVW9FZ3Zr?oc=5",
-      "source": "newslinklive.com",
-      "date": "2026-08-14T15:36:41+00:00",
-      "description": "Townsend woman arrested after damaging police drone during hourslong SWAT standoff  newslinklive.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-15T02:50:26.428955+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "32f096bfb168"
-    },
-    {
-      "title": "Forsyth County's AED drone program adds two new launch sites - WXII",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEgwWGNiSFllQ0RDbXlPTjdOSjM3NWsxUjhDVW1RR2Q0WWEwV3F4UG5aQzdKRVBlNmxaTklkMGF5UUlmNUtxeHBwZUlFUUltMERLbjBQcGtpRTdOYnR5eWt3N2oyLWZhd2ViemlOd01vVHRlLTAwb2ZhRjB2TnBsajNQNA?oc=5",
-      "source": "WXII",
-      "date": "2026-08-14T21:41:00+00:00",
-      "description": "Forsyth County's AED drone program adds two new launch sites  WXII",
-      "query": "drone arrest",
-      "detected_at": "2026-08-15T02:50:26.428955+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3d933d86d631"
-    },
-    {
-      "title": "Drone attacks test Iraq’s Sept. 30 weapons deadline - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOU5oQzViUVRUVTRRTV8tTjRZVXNmMEt3TzFVNnloemUtdzZlbnhCeTVYQU1ITThEQjVXLTdZYVQyNHFtYVhYV0R4TlJBaWZnMjBZLVdXOWFxLVRoMm95Y3pOWWJ3UEo1dG9tU1JteFlENVRMQUkyZXh1MVl3TUZDTWNqaVdFeENDanc?oc=5",
-      "source": "شفق نيوز",
-      "date": "2026-08-14T23:12:56+00:00",
-      "description": "Drone attacks test Iraq’s Sept. 30 weapons deadline - Shafaq News | Latest breaking news in Iraq and the world  شفق نيوز",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-15T01:11:43.160630+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "d053febce73a"
     }
   ],
-  "last_updated": "2026-09-05T12:24:44.738119+00:00",
+  "last_updated": "2026-09-05T15:48:30.790098+00:00",
   "total_count": 1000
 }
