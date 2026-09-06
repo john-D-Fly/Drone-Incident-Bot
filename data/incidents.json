@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "California Passes 400-Foot Drone Restriction For Concerts - Aero-News.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0w5NGtDcERLYURVT2hBcUtOTjNCTWJ2QWRuUzljektIRUFMbl9IQVBxLXJJUjJsYUJucUFKMVRKNGRSd1JCazJkWkx3ejdwOUVQaS1mdkkxNjg4NTRPNHdUcWVzNWR5S3c5VHpZdnJGZDg1em9zUDU5ang4aU9lYnB6R1BRcmIwS2JsRTlUbGFwYTlPZENF?oc=5",
+      "source": "Aero-News.net",
+      "date": "2026-09-06T04:02:05+00:00",
+      "description": "California Passes 400-Foot Drone Restriction For Concerts  Aero-News.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-06T10:21:37.544725+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "50f1f4cae4fe"
+    },
+    {
+      "title": "San Diego flights resume after drone, balloon disrupt airspace - insideflyer.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWJJY09rTjNjaTJVcWswVzVyY1BnLWZLWlkzUmswYjViZ0lYYkdLQkpPSThTelJDWFJOQjRYWFpMcmVaYzd0QXF3M2k1b05UMFpKN1lnaDBCSUJRMW5jMFlaaWlBX3RKcGlCa0RmVU91TmZEazlXMGx1R3F0MGVjN2hhYldTNmx4Ri1rUXFkSnRZWENBLThVaGpDWQ?oc=5",
+      "source": "insideflyer.com",
+      "date": "2026-09-06T05:19:06+00:00",
+      "description": "San Diego flights resume after drone, balloon disrupt airspace  insideflyer.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-09-06T10:21:34.871926+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "2547e5dd6068"
+    },
+    {
+      "title": "Two plead guilty to drone drop plan at Allenwood Federal Prison - dailyitem.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSXRiZmRSb0szZm9YdkF2Yy1sZmktSFpMM0E2bWZ2TWlpZ2xIUE5VSXlYcHF2X3lQLTdRLVBhRFFpSjdiTnpGb3VkdzN2bUFCNkN6YzlGM1lkanNja1lLX2JscjNBRGNHWFBmUGdJYnFTRmstdEFDOURuWGtmRFlQYjdaVWZPbm81Z0xwR2dyMk9ua2dLeEwxM3daeTUwanNPOGpobWlXRXpQUkY2N0I0eFNyRXdWb3VkTnZLel9BenlfQWpYRUdPM0hIWUNEZ3NGOXdrVldnbkhlb1hY?oc=5",
+      "source": "dailyitem.com",
+      "date": "2026-09-05T16:00:00+00:00",
+      "description": "Two plead guilty to drone drop plan at Allenwood Federal Prison  dailyitem.com",
+      "query": "drone prison",
+      "detected_at": "2026-09-06T10:21:34.328059+00:00",
+      "location": "at Allenwood Federal Prison",
+      "category": "smuggling",
+      "id": "c824091cf42f"
+    },
+    {
       "title": "Police, BSF seize drone, illegal arms; Three held in 24 hours in Amritsar - tribuneindia.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjNsN0xWOGxPUFJvWGQzRTdDaDJCempqVDRMNW84S0dxMXFGRGJuRW9ELW4za2xjRy1raUJwaFBXNnp4elF5SlJ4WEJwcXVVNHpnaUl0dUh2cFdpUVk0aHBKSk1rbHdsYTV4T2NILWZveEx0dC0zS291UWhnanFtTmRDamc3T2NscGtBRVlKMmxBM3RtMFBFZC0wTTRvX0xCVnVkSFlhaG1YdnhqME5uVkhQUS3SAbgBQVVfeXFMTjdDZGNoMWFwMjR2TGRUeGt4WVk0MzJVRl9rdC05RlNRN1FyRkRFbk8tc3Awd29KVXNoV2xtUlI0RURfNklHVE9rR2R5R2lmU3NDeG1vQk8zR2E0Q2c3b1RlZ003Z3hGb0pPMGJDV2JOS0xmdVVNZUliMjlfQ0FRWjBoNVUwQVRLb2NMTHpLVGhxMlJDQXdHdXN1aEFJQWlmcHpVbkF4eGowNGw5UzFESEl6eTk4R003cw?oc=5",
       "source": "tribuneindia.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "bccc663c1cce"
-    },
-    {
-      "title": "Russia, Ukraine trade overnight drone strikes targeting port, industrial facilities - A News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRFVkQ1cFFsa2JNOHNzNE16eUFPVG00c3Z5bnlCQW5XQmVzVmpxZHFNZHFta1V1Wml1elc4SnpKaGZ0MkpEYzA0MFg3N2UyWG1IU25QZjNRT1ZvWG4ySzZTQUxnQk5oR091MC1JSXktWHBpd1lLS0RaN05SeEN5dkdCRUItSWJqN1hVajlYSm1ndnZtVmRVOEpuSElIaGhYYWRqM2gzaGIzVnZyV1N4cWljajR2blQ2dFJ3blFlZzDSAcYBQVVfeXFMT0FROHhxbzZJb2c1LWlENHBrRjNucmtTVl96ZE5TdTNEN0dkVXl5ZTIzZXhxYTdrVEw1ZC16ZUZzZnFueGFINzMtbXNnNGJWejBRemNvZWNOQlhXd2wzVE9BZm5uQmJ6cW95WVBnZE1rd2tCXzMta0txZzhIa0h3M2ZScWZRdWp0REdjMXdvekpOTUdDX1huZzFOZC10Y3ZDaFMxYUxwZ1BOWXVuZjUyb0V6NUhwSFpaY0ZWTC02dDV1ZThaT2RB?oc=5",
-      "source": "A News",
-      "date": "2026-08-15T11:34:03+00:00",
-      "description": "Russia, Ukraine trade overnight drone strikes targeting port, industrial facilities  A News",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-15T12:35:43.109436+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2990178daced"
-    },
-    {
-      "title": "Texas legislature evaluating ways to support law enforcement fighting cartel drones - The Black Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEs3S2VXN1hHQkd6eVhHZTlJVDMySHN5RGFSbWdhQnREZXpWa3VzSktvdHNJeGlteUFOVlhBajMyTXZ1amNuZUk0WDhNQWpBUGZKQ1hNbC1UbzZtQURIbWtuYWZKek9EOFoxODNGNjVqcmtmQlVseDlGUnB2WjFtTWJ1Rjl2M1VFUkxjVEtnMnRERm83UnNMSGJDal9vLTh3bWdFRHh6Zk9yRmVCVjdNUHJ2ZDhfT09QY3c?oc=5",
-      "source": "The Black Chronicle",
-      "date": "2026-08-14T21:43:21+00:00",
-      "description": "Texas legislature evaluating ways to support law enforcement fighting cartel drones  The Black Chronicle",
-      "query": "drone illegal",
-      "detected_at": "2026-08-15T12:35:42.089219+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8e0f639c19e5"
-    },
-    {
-      "title": "BCSO drone helps Butte County deputies find 18-year-old Gridley man after car pursuit - krcrtv.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0NZWDdzNnV3b2ZKNW05ak8yRmFXVGxGUlBxMlVMMVQtMmw0ZXc4SmRBMFhfN2Z6Ri1heXhwdG81MDhtWi1IaTNQeUhkaEU2SGxGbHBpc3hBVEJIZXZsTHo5anV1MG9ZWlVBQi05bVlnR0ljRkw0UV8wUmpCV3dEZjN1ZXJhejh2cTBLZnBUTGlMajhWX2RzQnItVjBkWURRNzdORjNVOV9ZYUhjSlJzQlJON1RhUQ?oc=5",
-      "source": "krcrtv.com",
-      "date": "2026-08-14T23:37:27+00:00",
-      "description": "BCSO drone helps Butte County deputies find 18-year-old Gridley man after car pursuit  krcrtv.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-15T12:35:39.555295+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "58ce044885b9"
     }
   ],
-  "last_updated": "2026-09-06T05:32:16.486398+00:00",
+  "last_updated": "2026-09-06T10:21:38.026939+00:00",
   "total_count": 1000
 }
