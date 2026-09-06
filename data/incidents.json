@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Arkansas Firefighters Stop “Air Operations” After Unauthorized Drones Delay Response - Arkansas Radio",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2t0T01hY0pJWjk5OG9KME16U0xrWVo3b3RZeWdFUklCY1VkU2poWDBrM0hFbW85S3RqcTE2UnpFNEdEVmFkQnRkdkNSNmtfeThFbkxsSW5IMHY2amtSYTlSTnIzeG9rM1ZveHk2NFE2QnJMc2puOU1OcHZuVEt4a2o5enJRVzlZQ2pTcmRUY2Y5QkRpa0hZbFpZRG1TZ1htcUt1WVZtMlJqTmozVHpmdGZ0TEJ1R0g3?oc=5",
+      "source": "Arkansas Radio",
+      "date": "2026-09-05T22:17:00+00:00",
+      "description": "Arkansas Firefighters Stop “Air Operations” After Unauthorized Drones Delay Response  Arkansas Radio",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-06T00:36:20.474452+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "8c50383e52dc"
+    },
+    {
+      "title": "Food delivery drone crashes onto Highway 6 in NW Harris County - Arc XP",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWJrdmloQU9nTDVHbUxJVHk2eGZEajJEck1LUHl6OVBLT0NJeEhmcXJ5WWpLckRJNmwzTU00SnpOS3IxaUszN3M2N3lVMUVnbTB1VkFYMGsxSFBYZ19ScWc0WWp4QXRUUnZRZlp1czhFelBJM2FhOEZoVmN5Mm05LThxNDh5bjlWa0VsSXYwZ051ZXRFNm41QjllQ0RhaERWSlhESkRkNUU4TnVCWkJETjRCN0wyM3ZDYlpVWndJMzRZNERtbzVrQg?oc=5",
+      "source": "Arc XP",
+      "date": "2026-09-04T22:07:38+00:00",
+      "description": "Food delivery drone crashes onto Highway 6 in NW Harris County  Arc XP",
+      "query": "drone crash",
+      "detected_at": "2026-09-06T00:36:17.989792+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e98cba62fcd7"
+    },
+    {
+      "title": "Southern Military Zone Foils Drone Drug Smuggling Attempt - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcG5CUHdiWS1rejA2TEUyS3ZZT0ZHRWZTbWF3akFRblVIZGhmbVlWeHFmWllaRm8xWl9sb2RwUUt6cHhNcWVNYUlKNDBTaFo1V24zQzFGUjVxQWRfQWtMc1lZZWx2MXZiRGJRTE8wclA0ZkppbjNWbGRwLVdhcjRBSFUzT2IzUnd4RnI2dHE4Sk1GQTQtdUVXOWViUl9GRGtEd3JvOQ?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-09-05T19:30:45+00:00",
+      "description": "Southern Military Zone Foils Drone Drug Smuggling Attempt  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-09-06T00:36:16.220940+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f4e52506d915"
+    },
+    {
       "title": "Russian drone crashes onto roof of building in Kyiv, causing fire and injuring five - ukrinform.net",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZS1ObkY2YnlfMXVqTklmRXNVSFU5VHhTNUZraXpLY211WW9IZC1wM0pwcGRtLUpCYzlYdVJ4c3QtY3BuNnZneDFpMGF0d29qeWRzdUlRSlQ0aW9zb1BIekwzU0taY09VNlBZWERHSXFia3BfeF8xbWFFaXdMU3BtQm1IcC1BLS1nT1dxMFExcXVaUENFYWZpNHJNUnlqWXJVNUtkODdld2NBSUVHSmwwc2F6aDRvemtUY0NPSy1tZ2JRSXhpc0M5cnVGakk4TDdD0gHQAUFVX3lxTE5lLU5uRjZieV8xdWpOSWZFc1VIVTlUeFM1RmtpektjbXVZb0hkLXAzSnBwZG0tSkJjOVh1UnhzdC1jcG42dmd4MWkwYXR3b2p5ZHN1SVFKVDRpb3NvUEh6TDNTS1pjT1U2UFlYREdJcWJrcF94XzFtYUVpd0xTcG1CbUhwLUEtLWdPV3EwUTFxdVpQQ0VhZmk0ck1SeWpZclU1S2Q4N2V3Y0FJRUdKbDBzYXpoNG96a1RjQ09LLW1nYlFJeGlzQzlydUZqSThMN0M?oc=5",
       "source": "ukrinform.net",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "2b4ce646b206"
-    },
-    {
-      "title": "Maritime Incident Reported Near Strait of Hormuz After Drone Attack Hits Vessel - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVlFZktPS2dSZTA0NVp2c2JzYjNpeVdOeXJKVzBvb3ppdEpwaER0SlJQUEhTTlJyLVV5S19malNTNEFYcWJDMWM3djcya1NVYmJvQ09IdUZybVRjZXRyelBnWncwVDZ1ZUJwbjJFSHpTWkFBeVJZS29UOUFhTEtfVHpDZF9Md2FPXzdfWGNnZ3A5SGt6anNtTEdFUm1SUHdt?oc=5",
-      "source": "WANA News Agency",
-      "date": "2026-08-15T07:28:33+00:00",
-      "description": "Maritime Incident Reported Near Strait of Hormuz After Drone Attack Hits Vessel  WANA News Agency",
-      "query": "drone incident",
-      "detected_at": "2026-08-15T09:24:56.741471+00:00",
-      "location": "Near Strait of Hormuz After Drone Attack Hits Vessel",
-      "category": "other",
-      "id": "f1ccab0a0b45"
-    },
-    {
-      "title": "Drone crashes, sparks forest fire near Romania’s border with Ukraine - aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWN3TjZlQW9aQkM0d1hOMVc4QmgtcFJhd19vR3NCWE85NEU3RXNhejhRQmJpZHlvaWdZZzBEd2lSc1gySjc2dmpZZDhURGVKZDZpNEt4UmppQ0FYYlFWdUpOZ1RKQTVCekpLekhsMzgtT0FyNWVhUXVtMHl5TGpMR2lRYmFWM0p1djJKcjhocWlFQTUzMnhnUVpRWE5yY0paNy1zU29jWVFzTlE?oc=5",
-      "source": "aa.com.tr",
-      "date": "2026-08-14T15:50:44+00:00",
-      "description": "Drone crashes, sparks forest fire near Romania’s border with Ukraine  aa.com.tr",
-      "query": "drone crash",
-      "detected_at": "2026-08-15T08:27:13.286424+00:00",
-      "location": "near Romania",
-      "category": "crash",
-      "id": "900c7898b139"
-    },
-    {
-      "title": "Texas legislature evaluating ways to support law enforcement fighting cartel drones - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHNyZWFfVUtNM2k0dERvRXcwREhKWmJONmkta1l5Q3VVcjVuVEtEOTIzZVJRT2w3VFE4eU5fZWRqRnB3RGQxU2c3YWVJV0pEOURTckc0VzhyMWpJMDBWQkl4TWVmNmxFT1dZSzJQT19ZOWlEOXhYS2dFanpHeTE5ZGZTMmFZNFAyckVER09MNXpmLW9RTTd5MktubDRRc3dvcmNJ?oc=5",
-      "source": "yahoo.com",
-      "date": "2026-08-14T19:17:00+00:00",
-      "description": "Texas legislature evaluating ways to support law enforcement fighting cartel drones  yahoo.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-15T08:27:11.790504+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cc16aadbd4bc"
     }
   ],
-  "last_updated": "2026-09-05T22:39:32.991570+00:00",
+  "last_updated": "2026-09-06T00:36:20.989400+00:00",
   "total_count": 1000
 }
