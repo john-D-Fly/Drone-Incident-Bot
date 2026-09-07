@@ -1,0 +1,118 @@
+{
+  "narrative_summary": "In the past 48 hours, a notable increase in drone incidents has been reported, particularly regarding unauthorized operations and their impacts on public safety. In Arkansas, unauthorized drones posed serious risks, grounding aerial firefighting efforts, while in Indiana, police seized illegal drones along with arms. A drone crash in NW Harris County added to the incidents, emphasizing safety concerns. Meanwhile, law enforcement recorded significant arrests related to drone involvement, such as the arrest of individuals linked to smuggling operations at Allenwood Federal Prison. Several warnings were issued by police in various regions regarding illegal drone activities, indicating heightened governance focus on UAV regulations.",
+  "totals": {
+    "security": 3,
+    "arrest": 6,
+    "terrorism": 2,
+    "smuggling": 3,
+    "other": 9,
+    "airport": 4,
+    "interference": 3,
+    "crash": 4,
+    "total_incidents": 54,
+    "by_category": {
+      "airport": 6,
+      "arrest": 7,
+      "crash": 5,
+      "interference": 3,
+      "other": 23,
+      "security": 4,
+      "smuggling": 5,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 4,
+      "drone arrest": 10,
+      "drone crash": 8,
+      "drone illegal": 5,
+      "drone incident": 13,
+      "drone prison": 1,
+      "drone security breach": 1,
+      "drone smuggling": 4,
+      "drone terrorism": 3,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Operations",
+      "rationale": "Various incidents highlight unauthorized drone activities endangering safety.",
+      "incident_ids": [
+        "6320b02b947c",
+        "344b8c7fa2a2",
+        "204e8f377285",
+        "d336427a3a80",
+        "e8864885b6cb"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Multiple arrests linked to drone activities demonstrate increased law enforcement focus.",
+      "incident_ids": [
+        "af5c54d1f0d2",
+        "041a072092b9",
+        "4e49e2367df8",
+        "d908d630c9a6",
+        "b92545d0d384"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6320b02b947c",
+      "headline": "Unauthorized Drones Ground Aerial Firefighting Operations in Arkansas",
+      "one_sentence": "Unauthorized drones have impeded firefighting efforts in Arkansas, raising safety concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "344b8c7fa2a2",
+      "headline": "Kallas Scraps EU Defence Advisory Group after Member State Opposition",
+      "one_sentence": "EU defense discussions show friction over drone-related security policies.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "204e8f377285",
+      "headline": "Plateau Police: Illegal Drone Operations Face Arrest, Prosecution",
+      "one_sentence": "Authorities are taking a strict stance against illegal drone operations.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "a987d428445b",
+      "headline": "6 Killed in Ukrainian Drone Strikes Across Russia and Crimea",
+      "one_sentence": "Ukrainian drone strikes have resulted in fatalities across contested regions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f6b2dc311eb4",
+      "headline": "US CCA Drone Wingman Crashes on Its First Real Test",
+      "one_sentence": "A military drone experienced a crash during testing, raising questions about operational reliability.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge with unauthorized operations causing air disruptions and illegal activities leading to arrests.",
+    "linkedin": "Increased drone activity poses risks from unauthorized operations disrupting safety and legal repercussions for offenders."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-07"
+}
