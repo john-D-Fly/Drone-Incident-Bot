@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Drones Ground Arkansas Firefighting Aircraft - avweb.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YanhySWUwLWdzdGVCazVkTHVxZW9USF9TUy1vRW9ldDN0QnhtZ3UyQlhNZmVIYloyemJxd1RCMTIwNUFlVE1KVlZXck90UzRyclh5NVlFdzl4Z19vZGRfR28teVNZMjgxSDRXVGVQWkJWMzRxRXJqeW5VM1N6dw?oc=5",
+      "source": "avweb.com",
+      "date": "2026-09-07T16:44:00+00:00",
+      "description": "Drones Ground Arkansas Firefighting Aircraft  avweb.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-08T00:55:22.350388+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "904e225114f0"
+    },
+    {
+      "title": "Germany Plans Stronger Airport Defences After Leipzig Drone Incident - ftnnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNmFxWnRTYWZYYldhTktJaGFJRzVUdnpzMkRrb0NzdUp2QVFKRFhpTmVNMzRJY3Y3QU1ycHdvUXpab1ZYQzZDeFlnQ01UQ2FLVlpaN2d4WF9LcUFZeGFPckVOZFV6Sk5tN2EwaHRXTTNTZEtoZG1leWNOYkx0ZWZiZFNuVkpudw?oc=5",
+      "source": "ftnnews.com",
+      "date": "2026-09-06T07:50:44+00:00",
+      "description": "Germany Plans Stronger Airport Defences After Leipzig Drone Incident  ftnnews.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-09-08T00:55:19.410098+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "b785ccd7bfc4"
+    },
+    {
+      "title": "Wild drone video shows cops drop hammer on LA street takeover - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUlxVWN3VW45bXQ3OXlPeXNCTm9pWGdMdEJnS2daZUNpTTRFMVJpQnJaOGRDa0hoYjNMSTRqTnp3ZHVyU3V4TF9lMVMzT3c0akJwWHBWR0lQS0VTa3hUNkt1ODlzNEx4YWRDVkFuM1BjejdMUjJYbm02Y1lxeFZNT1VWUWJTeDBi?oc=5",
+      "source": "New York Post",
+      "date": "2026-09-07T23:18:00+00:00",
+      "description": "Wild drone video shows cops drop hammer on LA street takeover  New York Post",
+      "query": "drone arrest",
+      "detected_at": "2026-09-08T00:55:17.524011+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "75707742256f"
+    },
+    {
       "title": "Drone operators fined NT$16 million - taipeitimes.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUEQ4dUl0VXBKWGpnVWRGV09pd1BrWS1SZVZlSWcxUUoyZnBOWS1xaGY4UjhBUV9FZnIyMzBTX0xDUi11OUhrbDA1WXY4OThCbnVsQ083a3plN2RHMnkzUXZJMkxEamhmdlk3VnBHVE53a2JHQ1ZiVjZn?oc=5",
       "source": "taipeitimes.com",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "94381497a2b3"
-    },
-    {
-      "title": "Sparks Police say drone helped in arrest of robbery suspect - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblBsTzV4QkRqQ1dhVGNuSzI2RFkzdWx2RmZYVkJadnJXRW9lbVRhZVQ2azQzZVZhS3Q2clRHeXZ3UnBTcjR0U2poSGxuTl84Y21Rd2liZHBkb1VDMk1rOF9NcnUxUGNqYmVBWHc4SFJVeUk3eWJHbjczczNqNTdHRWYtZ3lLck1SMWlwUzN0S3ViZXlERE11SFRJMldiNXJYenRvOGo4NzVqZ0dxOHNPbWxKc1lLbFo5ak43d2tDdGZ4M2RVTjZlRXBCaE1rS3psa05ScUU4cWxsQQ?oc=5",
-      "source": "KTVN",
-      "date": "2026-08-16T23:08:00+00:00",
-      "description": "Sparks Police say drone helped in arrest of robbery suspect  KTVN",
-      "query": "drone arrest",
-      "detected_at": "2026-08-17T01:13:31.805141+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e633f4598f85"
-    },
-    {
-      "title": "Sparks police use drone to locate robbery suspect at Wedekind Regional Park - KRXI",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1FGclpydUtZVjY5RnlPb3VXdlBGWHEtc29VZmhRbVlNYXRyR2pDLTFydEZJcVJ3Tk9HTUZIQ2pqUWhRQ2FMWnQzTDhHazVPME9mcm15Z2xXWG9IaUxMLU1HWXJsNW9xdF84QmxtTlZxdWg4amRVQ180X2tEWmRnbVdqNmFObGpmWmV3b3lMWmpodFdjbDNjZllyLUlVSG9mOVZfZy1fQVg2Y3RMY0ZWQ2d5OEl6dVE?oc=5",
-      "source": "KRXI",
-      "date": "2026-08-16T23:15:55+00:00",
-      "description": "Sparks police use drone to locate robbery suspect at Wedekind Regional Park  KRXI",
-      "query": "drone arrest",
-      "detected_at": "2026-08-16T23:18:24.054662+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "bb796888c1b2"
-    },
-    {
-      "title": "Estonian foreign minister on drone incident in Romania: the threat will persist as long as Russia continues t - pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZHFjNERSQlFlREVhNWk2VkhkT2c0aGNndkFLZUh4UDJhdW15Y1B0Vzk1MktOcnNaQVVsa3EzTmhHYmxGeVJYXzM2SDl4QWV1cGc1TVFpZDE2azFXZDNwUUtQVWtMcW15MzBwQnhvN3LSAXBBVV95cUxNWmRxYzREUkJRZURFYTVpNlZIZE9nNGhjZ3ZBS2VIeFAyYXVteWNQdFc5NTJLTnJzWkFVbGtxM05oR2JsRnlSWF8zNkg5eEFldXBnNU1RaWQxNmsxV2QzcFFLUFVrTHFteTMwcEJ4bzdy?oc=5",
-      "source": "pravda.com.ua",
-      "date": "2026-08-16T09:48:00+00:00",
-      "description": "Estonian foreign minister on drone incident in Romania: the threat will persist as long as Russia continues t  pravda.com.ua",
-      "query": "drone incident",
-      "detected_at": "2026-08-16T23:18:23.419330+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "dc6450033d78"
     }
   ],
-  "last_updated": "2026-09-07T22:32:03.400661+00:00",
+  "last_updated": "2026-09-08T00:55:23.132441+00:00",
   "total_count": 1000
 }
