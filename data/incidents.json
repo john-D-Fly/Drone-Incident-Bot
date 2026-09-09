@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Arkansas Stops Aerial Firefighting Efforts After Drones Interfere - aero-news.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXIxZi15ZXhaZEwwMEdBWGJfMWYxbUI3dm43MThGcXM0dXFUVVdtWlNneUVSMGxrUlpJSEYzYUFmbklZX3VNOFNQcmFSbGFoc2NmZEVRS3p0VjRndTVwQm9DSHJlVXFySmJ3aXk3RGxGWkgzRnZLLVdYYV9lRERYbFg2Vl9ieVNUTTViQ05sUHZocEV4VVY0?oc=5",
+      "source": "aero-news.net",
+      "date": "2026-09-09T09:25:44+00:00",
+      "description": "Arkansas Stops Aerial Firefighting Efforts After Drones Interfere  aero-news.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-09T20:30:46.385902+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "a6e8ad329d29"
+    },
+    {
+      "title": "Drone intrusion temporarily shuts Taichung air base - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtVVJQNDRDckNTQVRfMlZhRjFKQmFhX2pySWMxZzBhUFF0SWp2X0dZTTVJOXRsSC0wTmhoUUhFY3lCNEpXaWxKRm1uS0F0c0xNMWFJYjR4N1RIWU1oeTdKVUlqMHh2NnpkdWZpTGhfSGRFWVZ1MTREcw?oc=5",
+      "source": "Taipei Times",
+      "date": "2026-09-09T16:00:00+00:00",
+      "description": "Drone intrusion temporarily shuts Taichung air base  Taipei Times",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-09T20:30:46.385902+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "070a85271046"
+    },
+    {
+      "title": "IRGC says it captured advanced US underwater drone near Hormuz - iranintl.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15QlpvaVZiby1FSWZabkJBWHpmTnVTWURKbDdBSFluWGl5TGY2ZlJYTDNYWDNjTTZXLXJBSWZ0Q0J5UXpBdUNVVEg5NEZqX3Rvc3c?oc=5",
+      "source": "iranintl.com",
+      "date": "2026-09-08T15:22:29+00:00",
+      "description": "IRGC says it captured advanced US underwater drone near Hormuz  iranintl.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-09T20:30:45.746433+00:00",
+      "location": "near Hormuz",
+      "category": "other",
+      "id": "e3d28899f60c"
+    },
+    {
+      "title": "A drone crashed near a shopping center in Kyiv - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDc5M2FvSzFqamR1REJseHNqVV9XQl80NTlsUXJFOFYwaFFKQ1V2ZkI4a3N1SUgtUWNGdmVDanlsbjRGamhteUR0UzVfVm1oSGY0MC1mU19odmw4cndkWm41MkYwZFJYRmRic1NhaVh4dEtYcXBHYVdSRGxTMzM3UERnOGlrUQ?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-09-09T18:41:40+00:00",
+      "description": "A drone crashed near a shopping center in Kyiv  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-09-09T20:30:43.889803+00:00",
+      "location": "near a shopping center in Kyiv",
+      "category": "crash",
+      "id": "54b63324378d"
+    },
+    {
+      "title": "Ukraine war latest: Russia resumes drone attacks on Kyiv, kills 1, injures 16, damages residential buildings - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUxHNUFYem5aMXZPRmNfNUN0V3NLUEpVWlJjeXZGa3FpZk1xa1c2bjBPYjhyd3Q2UVFtX2pLRTk1dTlSU3FUck1YUFJLMU1ydmJVTG5hakZSRk1fVmRZZHZ1Rld3QzFONFRWOFFHQVlIN28yZkJQRDNsYjhqNjVUQk1xMVNzWDFLZnNzNC1DU1BDT0Q3M0lxcWZkbjlETndzVGNHaG82LWZDQW5reU9pd3VHcWZ5MTQzSnVZcGpKNnZ2UTBjdlMwdkM5b1FqZw?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2026-09-09T17:47:09+00:00",
+      "description": "Ukraine war latest: Russia resumes drone attacks on Kyiv, kills 1, injures 16, damages residential buildings  The Kyiv Independent",
+      "query": "drone crash",
+      "detected_at": "2026-09-09T20:30:43.889803+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b17249803f68"
+    },
+    {
+      "title": "Norway's PM: Zelenskyy's plane almost hit by drone - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHkxZk1RcWx6aXQ1WkpmVlNPek4zd1Q2Sko1d1VzTFJHQjB5N3NRZzV1OVVKY1hfRFF1Zl9TTXpraGhZRDVIRko4QWcwWk9PcWlKYVZmUHBnTEZWcWhUZ3ZLanJRa2ZtSDZ2R0RJUDI4OFM1UWVEUzBXSGdxTnpaU2E1M3cwNG_SAYcBQVVfeXFMTk1GUzhCSGNHVTFlRXhFeEswMUl4VnYtQmJNcFJrQzRHTVFYZHBpMW5QZnpScGlQTzlXREpaMnRyS3Q1RFhRME9GUy01WjMyeklBMTFUYy1kNGo5UjZxeXhRdElhODFQZWkwdkxDc29JWi1wZmpBQWk3Z1RVd1FTYWw1bGw4ZURN?oc=5",
+      "source": "dw.com",
+      "date": "2026-09-09T20:03:44+00:00",
+      "description": "Norway's PM: Zelenskyy's plane almost hit by drone  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-09T20:30:40.900168+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ead55ba3f4d2"
+    },
+    {
+      "title": "Opinion | Leipzig Attack Is a Warning of the Drone Threat Against Europe - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRhVGFPLXJSallxNDMtZUVUVGVpTWI3eTZ4V0RwZFYyU2RsMHl2UGlCLWVjTjRjYTNIQ1dkdHBqcW9DcXE3ZXF5cG9Tc3BuVDFCLUVsSnRWV3hvTnVpc094MzNGQXo4c0dyaVhvMTMtYUdrVUZUcGZRUFNvcG1rWk0xOUxoczVJdlFVaUt6N19jeGtUY0M1VXBHSzRJRV9w?oc=5",
+      "source": "WSJ",
+      "date": "2026-09-09T16:30:33+00:00",
+      "description": "Opinion | Leipzig Attack Is a Warning of the Drone Threat Against Europe  WSJ",
+      "query": "drone incident",
+      "detected_at": "2026-09-09T20:30:40.900168+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "a899dd95e51c"
+    },
+    {
       "title": "ACLU Lawsuit Stops Sonoma County’s Unauthorized Drone Surveillance, Protecting Privacy Rights - freeyork.org",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5T2JqMUtXc1c1ZUliLXJDa091VFdjRWdGczNubXZPempycHlSVnprWGQtcUhrVkZDbjBnT0w2c0NYSDdIazdxUllLU1ByVjhEYklkS184VjZFNi1vVkM5QU5FUGV0SXRKUl9WSkFtajU?oc=5",
       "source": "freeyork.org",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "71994ec5fb4e"
-    },
-    {
-      "title": "Could an explosive drone at a German airport signal a growing Russian threat to NATO? - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSX2xrNGNVSVM2bi02M1pHMkZIU3NvanY0enl5NWlydTdvWUdQdGdMeXZnbVZZamZnYjhTVHB1Rl84QkNUOVBoT1ExV1VEX1VjdXZMR2ZLVFRqR1Y5cEhHZ3daSlVLcUViTHc?oc=5",
-      "source": "CBC",
-      "date": "2026-08-18T08:00:00+00:00",
-      "description": "Could an explosive drone at a German airport signal a growing Russian threat to NATO?  CBC",
-      "query": "drone incident",
-      "detected_at": "2026-08-18T08:35:20.033795+00:00",
-      "location": "at a German airport",
-      "category": "airport",
-      "id": "316448a0bdfe"
-    },
-    {
-      "title": "Germany updates: new drone research center to be opened - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUV3WWUxYUd0OHlFNlJTcUNEYWFuTXlJTEZaVWRPelBZRFUzNHMzYmI5UHdEVUxxQTNNUy05WHB5SC1tUk9RVDlSRUM4TmNKcW5yVkI2VFhBWERCQ3VDSUpWZmNVdi12MExEWEZUUURIMnpEa1pYZE04QThvWXNkUFRhdW1sWnJ1TjlwS3JLVTI5LTdB?oc=5",
-      "source": "dw.com",
-      "date": "2026-08-18T07:47:53+00:00",
-      "description": "Germany updates: new drone research center to be opened  dw.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-18T08:35:20.033795+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2408169911bc"
-    },
-    {
-      "title": "Buzzkill: How To Defend Europe Against Drones – Analysis - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2lvRTF2UktUZG94bnNCMUVBQnN2T1NCVmZsWUV1Vy1iTzh0bVBZMGJMZG1VQ0FBY1ZWTnNTN29fMG9GM0pUS1lDNlZpR2QxU2JsN0ZHa1ZNQVJFRmhQN1RxWGFkQ0pBdTFVVFBBRVo4emFoZGo1V1ZtQkZnX0o5dThwaUhwb1EyU1l1Tlp4ZlhtTGhUazhYRg?oc=5",
-      "source": "Eurasia Review",
-      "date": "2026-08-18T01:12:06+00:00",
-      "description": "Buzzkill: How To Defend Europe Against Drones – Analysis  Eurasia Review",
-      "query": "drone incident",
-      "detected_at": "2026-08-18T07:36:44.439283+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e9d107975950"
-    },
-    {
-      "title": "50-centimetre-deep crater found in Moldova after drone crash – photo - Українська правда",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NngyNTNxYThGTmwxMHRyX0luRWU5V1JVVUZqeTNlcldxUHc0XzVmRXlWSWVuVnlNRktscjZfdVRrUkVlTS1wYUZOaW1xMXFhbUQ4ckNPVHRkbTc1a00zc0w1NzHSAXBBVV95cUxQczdOdkRwMnNFeTc5bDhwTUJzMHdfUmlhb3FMejBmZFlhUHh0RExJSThPQXUtTm83cHlQTmJXWnR0VDJtd19UOFFGY2U5X1FoRjNFRzhyMFhoalNhZm9JdEozTzJOU1U4VVk5UURfVGdj?oc=5",
-      "source": "Українська правда",
-      "date": "2026-08-18T05:30:00+00:00",
-      "description": "50-centimetre-deep crater found in Moldova after drone crash – photo  Українська правда",
-      "query": "drone incident",
-      "detected_at": "2026-08-18T07:36:44.439283+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "79eebe2adb54"
-    },
-    {
-      "title": "UAE Condemns Iranian Drone Strike on Kurdistan Region Prime Minister's Office in Official Statement - kurdistan24.net",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHI3ZVFIMWNDZjVCMm5lWDZTaUtFeER0VXBfYnp3dVRFOUVrQjNrbUhFY1V4Q2JIeENLcE9GR2tRT1JCd2RrZGNoejlLOC1EbUlUZk5OeFVXaGVnQ0R2UThIUHFONTBHQV9pVlpqMzYySGVMa3VPTV9VbVlVOVZXV2VsdGhUc1pCSUdCNlI3RUpHZTdGTnRwMnZVWUUxS2FPSnBiWVhtRnViS3VDQ2t3cDA4Qk5YVWJZS1FJRFZmRjNxb1ZFS2F0c3BuSzFubmJKR19HUFFyT2Zmdw?oc=5",
-      "source": "kurdistan24.net",
-      "date": "2026-08-18T06:02:27+00:00",
-      "description": "UAE Condemns Iranian Drone Strike on Kurdistan Region Prime Minister's Office in Official Statement  kurdistan24.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-18T06:40:55.191618+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f85ac9f9fe83"
-    },
-    {
-      "title": "A crater was discovered in Moldova after a Russian drone crashed - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUZIX1JUbE9YQ21QN2NfV2RlV05ZUVNackVsV09ZM2laRlJYcU1RY1BpVmNRc3VWc0JWN2Y0Z3JaN1laU2JhTndwX3hWdXNrdWdDV2t1TGdFZ0l6eVoyTWhlSjJUVlhVM1l2M0NvbC03aE1MRmZsbHUwVHJTNWNQQlZrSThfY25h?oc=5",
-      "source": "UA.NEWS",
-      "date": "2026-08-18T05:46:23+00:00",
-      "description": "A crater was discovered in Moldova after a Russian drone crashed  UA.NEWS",
-      "query": "drone crash",
-      "detected_at": "2026-08-18T06:40:53.711294+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3cc389d966da"
-    },
-    {
-      "title": "Washington County deputies arrest Savannah man Friday in alleged prison drone drop - wgxa.tv",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOU3VVRnUtS0hSQUVKb0JSc1FpSVVVOFMtRFBFQ0ZRR0RMVTBQLWt0QktIcTAxVlhwQnpWSmhERm5PdTdrTWo1bnhfbzNLZW42dG1RSEs0RTNLd2FTY3NxY3VUejIzd09iSFFiT3FXOHRfRzhGTmFHbmNSa2pTRmFBUVE5c3dRdkpvVzlDVXFSWlZMc1lsOGRqaDJMTVI2TF9FTldvUnZWODgtSElUSk40cWJVMm11Rld0LXpjSWJ0ZGVoanJ3eEJnUlJpNE9tNkpVdFdiR2xBWTV6OUt3Mzk5enBhLTZXZkRTUzR1N0wtc0tKUDJMOE5BbmZFdjhpd1F1eDVnRUVCVmwwRXVUQXRCXzBJZ2ZVOVNMSXBxR0VLY0dBaDdjZ2NJZ0xBTlpVUjFKRW9QZkc0Wm9oZ2ZxZkRCbXpYWk1RQUJaRGFXTVFabi1VdGVwMDF6OVJzSk1fVHI4NHFEM3I2aWxLV2RVaE9XUk03N2JjMmxOMUpOTmpibkx4aGRtTGhkUjd2OHVWMkFHRGNR?oc=5",
-      "source": "wgxa.tv",
-      "date": "2026-08-17T19:12:38+00:00",
-      "description": "Washington County deputies arrest Savannah man Friday in alleged prison drone drop  wgxa.tv",
-      "query": "drone arrest",
-      "detected_at": "2026-08-18T06:40:51.762769+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "24b8ea469c11"
     }
   ],
-  "last_updated": "2026-09-09T17:35:53.854865+00:00",
+  "last_updated": "2026-09-09T20:30:47.035398+00:00",
   "total_count": 1000
 }
