@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "Over the past 48 hours, a surge of drone-related incidents has been reported with varying implications across numerous categories. Arkansas has grounded aerial firefighting operations due to unauthorized drone interference, mirroring concerns about public safety amid increased drone-related policy maneuvers. Significant arrests of individuals linked to illegal drone operations were made in multiple locations, reflecting tighter scrutiny and legal enforcement against illicit activities involving drones. Regions like Ukraine and Russia remain embroiled in military tensions, with drone incidents contributing to both attacks and damage. Flight operations in the Middle East experienced disruptions due to drone sightings, emphasizing ongoing airport security concerns that are prompting procedural reviews. As legal frameworks evolve, enforcement against malicious drone activities is being prioritized.",
+  "totals": {
+    "interference": 5,
+    "arrest": 7,
+    "other": 14,
+    "crash": 5,
+    "terrorism": 4,
+    "airport": 5,
+    "smuggling": 2,
+    "security": 3,
+    "total_incidents": 69,
+    "by_category": {
+      "airport": 3,
+      "arrest": 5,
+      "crash": 4,
+      "interference": 6,
+      "other": 38,
+      "security": 4,
+      "smuggling": 7,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 11,
+      "drone crash": 7,
+      "drone illegal": 7,
+      "drone incident": 13,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 3,
+      "drone terrorism": 10,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Interference and Safety Policy",
+      "rationale": "Significant instances of unauthorized drones interfering with emergency response operations and airport security.",
+      "incident_ids": [
+        "f8f8fbf9c084",
+        "163ae0f49233",
+        "bb039709000e",
+        "7d8c465ba24a",
+        "0a34dfeb9514"
+      ]
+    },
+    {
+      "topic": "Criminal Activities",
+      "rationale": "Multiple arrests made in connection with illegal drone operations and smuggling activities.",
+      "incident_ids": [
+        "47fcb7d4800f",
+        "878c8aa9fad5",
+        "a28e646d937f",
+        "ad3277314fc1",
+        "a887bf6010b7"
+      ]
+    },
+    {
+      "topic": "Military Confrontation",
+      "rationale": "Drone incidents linked to military engagements in Ukraine and surrounding regions.",
+      "incident_ids": [
+        "e06a00172a16",
+        "bb039709000e",
+        "4 Killed in Ukrainian Drone Attacks on Russian Regions and Crimea",
+        "6 Killed in Ukrainian Drone Strikes Across Russia and Crimea"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f8f8fbf9c084",
+      "headline": "Arkansas Stops Aerial Firefighting Efforts After Drones Interfere",
+      "one_sentence": "Interference by unauthorized drones has halted aerial firefighting in Arkansas, raising concerns over public safety.",
+      "risk_tags": [
+        "interference",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "47fcb7d4800f",
+      "headline": "NIA chargesheets 7 foreign nationals over illegal Myanmar entry",
+      "one_sentence": "Seven foreign nationals have been charged in India for illegal entry and drone warfare training.",
+      "risk_tags": [
+        "arrest",
+        "illegal"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "bb039709000e",
+      "headline": "Russia resumes drone attacks on Kyiv, injures 9 and damages residential buildings",
+      "one_sentence": "Increased drone attacks in Kyiv have resulted in multiple injuries and extensive property damage.",
+      "risk_tags": [
+        "drone terrorism",
+        "crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "f8a68f2f07d2",
+      "headline": "Plateau Police warn against illegal drone operations",
+      "one_sentence": "Authorities in Plateau have issued warnings regarding the illegal operation of drones in the region.",
+      "risk_tags": [
+        "security",
+        "illegal"
+      ],
+      "countries": [
+        "Nigeria"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e600aa9f12c7",
+      "headline": "Matthew Van Dyke Under NIA Scanner: US National Accused Of Illegal India Entry, Drone Training",
+      "one_sentence": "A U.S. national is under investigation for illegal entry into India relating to drone training.",
+      "risk_tags": [
+        "arrest",
+        "illegal"
+      ],
+      "countries": [
+        "India"
+      ],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "twitter": "Drones cause safety concerns in Arkansas & disrupt air travel in the Middle East as new arrests and security measures unfold.",
+    "linkedin": "The past 48 hours have seen various drone incidents highlighting crucial safety and enforcement challenges across multiple regions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-09"
+}
