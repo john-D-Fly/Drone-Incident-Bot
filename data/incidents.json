@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Drone intrusion temporarily shuts Taichung air base - taipeitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtVVJQNDRDckNTQVRfMlZhRjFKQmFhX2pySWMxZzBhUFF0SWp2X0dZTTVJOXRsSC0wTmhoUUhFY3lCNEpXaWxKRm1uS0F0c0xNMWFJYjR4N1RIWU1oeTdKVUlqMHh2NnpkdWZpTGhfSGRFWVZ1MTREcw?oc=5",
+      "source": "taipeitimes.com",
+      "date": "2026-09-09T16:00:00+00:00",
+      "description": "Drone intrusion temporarily shuts Taichung air base  taipeitimes.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-11T03:16:48.239803+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e116d5f8e65b"
+    },
+    {
+      "title": "Monterey Co.: Unauthorized Drone Temporarily Grounds Firefighting Aircraft - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0hqREQ3RHo4VnVFdk1hYkVQRFVHdjM0MGh4ZS1qZUN1ZVpqLWh1ZVI4M3dJZ3dwUWRXRzBXZFZVR2tIU0phVGNYR0Q3anhmTlE1ZGpvQnBDZXgtc1FRYjlOMnlydkNJNEoxT1c5Yl9KSFFjU0V3YThVZmM1bW1hNDFXTE0tdU9SZW4wTG1MQVllY0tYYm15Q1RvdWUzdUpO?oc=5",
+      "source": "SFGATE",
+      "date": "2026-09-11T02:31:29+00:00",
+      "description": "Monterey Co.: Unauthorized Drone Temporarily Grounds Firefighting Aircraft  SFGATE",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-11T03:16:48.239803+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "1d2408b1cb28"
+    },
+    {
+      "title": "Unauthorized drone flying near Big Sur fires forces aircraft battling blazes to land - San Luis Obispo Tribune",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LczMzU2FYVU5EWjdMdElnYlo3d3VHQ3kxNHluRTB2OExlY3BqeVV1cmJjODBzUV9kSmhGZ1pLdFZwZFppUmpGdjBmU3ROM0U2SXo4VWtzWUw1X3RmRVRLb2k2LUFmd0E2RnZyU1JKQWNfakFJRThV0gF3QVVfeXFMT3Jqb2xSdzZEMTNYNXF6THZ3SUtGdmJzRzB6akd1VF84STM3ZHR2YXk4aHQtbjJGVl9JZDRsYUpURVhXUXVkMTBwT0NCQWNBVlRxM3pualdYZTdGN1hIaW10VjE0dmtKRDFONHpHSzFTajh4SDJ3emM?oc=5",
+      "source": "San Luis Obispo Tribune",
+      "date": "2026-09-11T00:46:06+00:00",
+      "description": "Unauthorized drone flying near Big Sur fires forces aircraft battling blazes to land  San Luis Obispo Tribune",
+      "query": "drone illegal",
+      "detected_at": "2026-09-11T03:16:46.526995+00:00",
+      "location": "near Big Sur fires forces aircraft battling blazes to land",
+      "category": "security",
+      "id": "f92abf905171"
+    },
+    {
+      "title": "Russian drone flies deep into Romania before crashing in Moldova - stripes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVNjVk41X2xqQTg1TXdfTVhvT0RsVTZ5YnF3N2ZNUHh1OGo5UHlUZTJGRmdKTWdSSktqWDdUcE54QTJiTjd4ajdnOHpRQnhndEVaWEp2cGJSaHIydXhyVVIyVE1FcTgtMzd5UUlncDlITEgtM3pEWHZBWlFTaWJFNUhRT25oQ1JEbXFaZlF2VFFGSVpHeERURG96ZnQ0UEU?oc=5",
+      "source": "stripes.com",
+      "date": "2026-09-09T21:39:46+00:00",
+      "description": "Russian drone flies deep into Romania before crashing in Moldova  stripes.com",
+      "query": "drone crash",
+      "detected_at": "2026-09-11T03:16:45.972896+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "b0a862da289f"
+    },
+    {
+      "title": "Drones are becoming organized crime’s weapon of choice in Latin America. Governments are struggling to keep up - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTREd3AtNUh3SWFzRFdvejZCWXNpY0dkejFTVGRweFNmSWlWbzBGbkpqVjMwSjhlS1FFdGNTV2tnT21TakhCS3p6VGFjT3pDeWFEc1RFaEd0eXpGQnM2SXk0cGlsOVN2NTBaLVQyRjB6ejZNdjNhR1lCRlYxdU5EMUhNbw?oc=5",
+      "source": "CNN",
+      "date": "2026-09-09T10:00:29+00:00",
+      "description": "Drones are becoming organized crime’s weapon of choice in Latin America. Governments are struggling to keep up  CNN",
+      "query": "drone prison",
+      "detected_at": "2026-09-11T03:16:44.676414+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "2dfeeafbc416"
+    },
+    {
+      "title": "DOJ says drone drops brought meth, marijuana and phones into prisons; inmate sentenced - WGXA",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPcUV6TmVCOGpDNW9pUjZvb01pSzloWEktby14TjgtMlpnS1NJNlEzTHladFM1STVwblZqclQxdmNvZ2NwdnpQMmc1SUJ5UDFDZXFrb2NjRVBnZFhKNnBvdU9hR2M5V0l1NGM0WExTTXVYd29BWVM1akNLM3A2d00xYUN3Sk8zb3M3VVFRSGcxNVNydVQtZ0ZfQTFlemFtZ3NfRUgwc2p6U1BvM0lURXJqc2RnbzZ6TTZWTG40SnFlOTVyRF8tcjZEaVZxT2wtYWhlZnlYbEx1X2xWWWFjaGRNSHF0VXBCam5NMEEtUEVtMlZjcXpZX3Y0OVF0TzRKVWxYWVpYWGF3anQ5SEJESnFNVjZ5cEt4OFZHWU9jRk9JUHlvbzA0aDZmX1FtWkhPbDcyd1Z5SVk2SUZoZU1QdDYwTTVSYmpqSXpoTzEzTlJFb2Rtb2pCU1ZKQkhKeUxHU0MzVTFYNFdleVNreVZYOGRWbE1SeTllYXdMUlBHaUQtclNoNmxCWGJVeThlZ24wMHI2ZkE?oc=5",
+      "source": "WGXA",
+      "date": "2026-09-11T01:01:54+00:00",
+      "description": "DOJ says drone drops brought meth, marijuana and phones into prisons; inmate sentenced  WGXA",
+      "query": "drone smuggling",
+      "detected_at": "2026-09-11T03:16:44.113682+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "4e362f845fd7"
+    },
+    {
       "title": "Strengthening Counter-UAS Through Operational Alignment - unmannedsystemstechnology.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2FUQXhlNHpPcjk1WDBCbWJaUXZ2WGl2NWZnb083eDJoajV1NXo0eTJDdDFGcWM2bkxCdk5GUGNZamQ2eUlkZmtZS2V3YW1vR3V4T2ZULUtaVmVLN3Q5WDA1dHpQUWh4aW9mcERDYW40X2dfNzZDZi1FMjhlZmx3RnNyT3p0Nk9PZHVUbmNULW9kdTBGSm8xaEJzV2duVlhQNTJRVTNuZ0l6UQ?oc=5",
       "source": "unmannedsystemstechnology.com",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "terrorism",
       "id": "167515ce10ac"
-    },
-    {
-      "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFVOeUhOR3h1SHJSS28wRi1LelR4UmlrUXBmdnFGdUZBRXYySWxaTTRpWDR2UlJyaThLUVkzQWt6b1NzbnAxMWxGYkppZlhlY0xwS1FwXzdSWFBTeDlGcXpQNDZzaTRIQTJ2cEwwLTgzcHg0NWhacVRYQ2FmV25tUFRBOUstU1l4bm1TcUVGZ3Y1MFM1cmdHeGtwcFNRYjDSAaQBQVVfeXFMTkNreFJ5SThkT1JPV1ZzenJxTkcwUldtTno1MHk2X2psU3V3VGVCeVJILUhiVVRqQ2RBVDd1VlA2dXVlNjJuN0U0SWptRGd1dWRhS0tzeHJJTFRlM0RkakZiVHR5UlFWVkY5WFRscFJSak4yTFNaczVHaDFGdmt6NkxWVXNxcDFlOTRCV2ViamVNLXpEOU5NSUx4X094RGhhamZ6NlY?oc=5",
-      "source": "aljazeera.com",
-      "date": "2026-08-18T05:52:49+00:00",
-      "description": "Iraqi Kurdish PM Barzani’s office targeted in drone attack  aljazeera.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-19T01:12:01.865361+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "36acf8b6daf9"
-    },
-    {
-      "title": "Iran strikes Kurdistan with new jet-powered drones, KRG says - jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ISjU2dEk1RGM0U2hyVUxRbXNSRDdyNTJqV0lVRWlHTF8tbkZOZHI2bXR5dUo4WEZQbHlfS0F2YjVuSEtxNEJCYzZkT0RHMS1iaFdEeWVxVUZNWFZh?oc=5",
-      "source": "jpost.com",
-      "date": "2026-08-19T01:04:52+00:00",
-      "description": "Iran strikes Kurdistan with new jet-powered drones, KRG says  jpost.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-19T01:12:01.865361+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4375b7c662e2"
-    },
-    {
-      "title": "Germany opens new drone research centre - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-18T08:36:38+00:00",
-      "description": "Germany opens new drone research centre  DW.com",
-      "query": "drone security breach",
-      "detected_at": "2026-08-19T01:12:01.272796+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "74c574d8ad08"
-    },
-    {
-      "title": "Drone Explosion Near Zaporizhzhia Nuclear Plant Staff Transport Area Kills One, Injures 15 - united24media.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRG1lVlFuanhkejdQamkwR1VDRFozY0xxN1pHRWluTVBfa2V5WmU3MXFvbk1XcEJZc3NOckdyc0g3MnJaYlQwRFRJMHNaRXJDLXg0cENPS2l6clB3dDZHaDFQVnFrbERXaDJGcVhJWXNrSWI0OVN3RnFvZl9kWElvVUozdDZ0NGtpR0R2MTZiaWwyemxKYk1wcFE5X1djVnF5RkxHUjhBWWw4VTMwclJKTXQ1eWRlMWVkZ0VYRkZ2blhYUnZnRVkxWnl5UWU3dEx1SWc?oc=5",
-      "source": "united24media.com",
-      "date": "2026-08-18T17:34:00+00:00",
-      "description": "Drone Explosion Near Zaporizhzhia Nuclear Plant Staff Transport Area Kills One, Injures 15  united24media.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-19T01:11:57.472351+00:00",
-      "location": "Near Zaporizhzhia Nuclear Plant Staff Transport Area Kills One",
-      "category": "other",
-      "id": "dd4e0a52cc69"
-    },
-    {
-      "title": "Germany Launches Drone Defense Research Center Just 2 Weeks After Explosive-Laden UAV Found at Leipzig Airport - kyivpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxMDdvQ0F0TTJOM2RDZ2FQMTBibWpNenZ2MXZjc2JacHpHeWFEa3EtLVlDRWxXN2hTbElkUVMxbnZ4VmlRa2k4MGM1aw?oc=5",
-      "source": "kyivpost.com",
-      "date": "2026-08-18T16:18:41+00:00",
-      "description": "Germany Launches Drone Defense Research Center Just 2 Weeks After Explosive-Laden UAV Found at Leipzig Airport  kyivpost.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-19T01:11:57.472351+00:00",
-      "location": "at Leipzig Airport",
-      "category": "airport",
-      "id": "4ef0c0b1a061"
-    },
-    {
-      "title": "Maia Sandu: More Aid to Ukraine Can Stop Drone Incursions - The Romania Journal",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG5abUFpcGNaYnRPWnYwOWdZdWFzV3UtR3c4ZFl0TDFsTUFOd3l6Tnh2cmJuelFLQ29TdHBPRDlRdTZZaVptc2tSWmVvcno1YllPLUc0SkdJRmwtSm9iR25HUFNqbnlWZGZKYWoyNl9JMURDaEVETHZ1ZFhibHdpT093Mlhma0lkaGxhc20ydnFFSThUTGJkQl9MbFLSAaIBQVVfeXFMUEZscjlpUG5pd1MtRFJ2ajdFUTMyY3RmdkNaMmZQWDNjRjhvZ1ZMRmJQRmlmaXRBbEtfd1lmZWppUjlwYmRLTWh1OF9lc1VBTXJGZmJoNVV2dEcwRm5MRHdwU2hEM1hsazVTOUp5T0lNdUFiOWY2RFNiUmJRTjRpcGdMLXNoaVZYdk9XWUJxeThEOHJ3QjUyMDk0UmNZdXZWTEF3?oc=5",
-      "source": "The Romania Journal",
-      "date": "2026-08-18T08:31:19+00:00",
-      "description": "Maia Sandu: More Aid to Ukraine Can Stop Drone Incursions  The Romania Journal",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-18T23:20:36.629903+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "32ce17d25baa"
     }
   ],
-  "last_updated": "2026-09-10T23:45:09.851038+00:00",
+  "last_updated": "2026-09-11T03:16:48.765150+00:00",
   "total_count": 1000
 }
