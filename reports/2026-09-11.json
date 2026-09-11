@@ -1,0 +1,159 @@
+{
+  "narrative_summary": "Over the last 48 hours, drone incidents have increased in various regions, highlighting ongoing concerns around unauthorized drone activity. California is poised to impose restrictions on drones near large outdoor events as part of heightened security measures. Additionally, significant cross-border incidents have emerged, with reports of drone strikes impacting Ukraine as it faces ongoing military aggression, leading to civilian casualties and delays in high-profile flights. The FBI issued warnings about potential drone attacks linked to Iran. Meanwhile, unauthorized drone usage has obstructed firefighting operations in California, calling attention to safety hazards. Multiple law enforcement efforts are also targeting illegal drone activities related to drug smuggling, indicative of the growing convergence of crime and aerial technology. Efforts to regulate and monitor drone usage are becoming increasingly urgent as threats evolve in this space.",
+  "totals": {
+    "security": 7,
+    "other": 24,
+    "terrorism": 10,
+    "smuggling": 5,
+    "arrest": 5,
+    "interference": 5,
+    "crash": 8,
+    "airport": 2,
+    "total_incidents": 99,
+    "by_category": {
+      "airport": 3,
+      "arrest": 2,
+      "crash": 14,
+      "interference": 4,
+      "other": 54,
+      "security": 5,
+      "smuggling": 8,
+      "terrorism": 9
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 7,
+      "drone crash": 25,
+      "drone illegal": 14,
+      "drone incident": 17,
+      "drone prison": 7,
+      "drone smuggling": 2,
+      "drone terrorism": 15,
+      "unauthorized drone": 10
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Regulations",
+      "rationale": "Increased attention to unauthorized drone use impacting safety and security.",
+      "incident_ids": [
+        "ed0e080035e9",
+        "da5e287c502b",
+        "de3ed06fc733",
+        "f92abf905171"
+      ]
+    },
+    {
+      "topic": "Military Drone Incidents",
+      "rationale": "Militarized drone usage linked to ongoing conflicts, particularly in Ukraine.",
+      "incident_ids": [
+        "f4a700ccf5d8",
+        "f12703952b87",
+        "4d992419bc57",
+        "a6bd3ddf84f1",
+        "9a6cd8d42627"
+      ]
+    },
+    {
+      "topic": "Illegal Drone Use and Smuggling",
+      "rationale": "Significant incidents related to drug trafficking and unauthorized use raise security concerns.",
+      "incident_ids": [
+        "7cac7f8fbae5",
+        "7ff4fecf9e03",
+        "db420a7c523b"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ed0e080035e9",
+      "headline": "California Moves to Restrict Drones Near Large Outdoor Events",
+      "one_sentence": "California has initiated steps to impose drone restrictions around large public events to enhance safety.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f4a700ccf5d8",
+      "headline": "Russian drone hits Kyiv warehouses; injuries reported.",
+      "one_sentence": "A recent drone attack in Kyiv has resulted in multiple injuries and significant property damage.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "da5e287c502b",
+      "headline": "RNC Airspace Closed To Drones",
+      "one_sentence": "Airspace over the RNC has been closed to drone activity in an effort to assure security.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "6f54433aaa72",
+      "headline": "Russian drone crashes at gas station in Kyiv, injuring three.",
+      "one_sentence": "A drone crashed at a gas station in Kyiv, causing injuries to three individuals.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "ef89f5d6ca1a",
+      "headline": "Experts warn of new terrorism threats from AI, drones.",
+      "one_sentence": "Experts have raised alarms about escalating drone-based security threats, compounded by technological advancements.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "de3ed06fc733",
+      "headline": "Experts warn of new terrorism threats from AI.",
+      "one_sentence": "A recent discussion highlighted the intersection of drone technology with emerging threats like AI.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c0fca5f4db81",
+      "headline": "Drone drug ring busted: ‘Hitman,’ ‘Gangsta,’ ‘Mohawk’ sentenced in Georgia prison conspiracy.",
+      "one_sentence": "A Georgia prison was the site of a significant drone smuggling trial involving drug trafficking.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "9e34f8208312",
+      "headline": "Drone smuggles $31,000 worth of meth into Federal Prison.",
+      "one_sentence": "A drone was intercepted after attempting to deliver drugs valued at $31,000 into a Federal Prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents are on the rise, with rising concerns about smuggling and safety regulations. #Drones #Security",
+    "linkedin": "Recent drone incidents highlight the urgent need for stricter regulations and better monitoring to prevent risks associated with unauthorized activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-11"
+}
