@@ -1,6 +1,102 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized drone interferes with firefighting aircraft in Big Sur - Local News Matters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1FjVGJLVEpOMDQtVUczbnhmaENobTFTWEFGWkdfZDNDNFhrMkN2anNLMXdMZkt5S25OVVV0MGZDck04TnJ2OWxuYzd5bE9zOV9IQmYxMURPRjBaWmlocVRIZlRaVVRVcWFDLUExbFc2UzRLdUQzNjh3M0xSdmxWdEFn?oc=5",
+      "source": "Local News Matters",
+      "date": "2026-09-11T13:00:00+00:00",
+      "description": "Unauthorized drone interferes with firefighting aircraft in Big Sur  Local News Matters",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-11T20:32:06.310019+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "eb329c60a3a2"
+    },
+    {
+      "title": "UN Security Council Marks 9/11, Targets AI, Drone Terror - miragenews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjlIeFdOMUdOcDVNallxY3Q2XzgteUQxaWkyb3V3ZWluU2luSGdzOFl6NFNEVG9MbEx5aXpkOWxOUjBsR1YxQ2hyYVFuZWdLQ29tR3Y4ekl5aThmcVhaWGpGcFdoQzRwN05tNDJSck5yNkpDUVZYWDhvSVBJQU4tMVhSVFQyVnNWWlE?oc=5",
+      "source": "miragenews.com",
+      "date": "2026-09-11T18:50:00+00:00",
+      "description": "UN Security Council Marks 9/11, Targets AI, Drone Terror  miragenews.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-11T20:32:05.749410+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "b0498639bcf1"
+    },
+    {
+      "title": "Russian Drone Strikes Emergency Medical Vehicle in Donetsk Region, Killing One and Injuring Two - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWmNOSDhGcmxVNUYzTjNqUFNqTzlpUmVqUXctbnRDTkloT1plY3ZoR1NRMXhjR0tCSlNpZVZQa20xUHB6Z29qQk1hMkZNS2xEY3l5TzRyRXpOZG90QW5JektQbEJ5MXpLZnc?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-09-11T19:39:50+00:00",
+      "description": "Russian Drone Strikes Emergency Medical Vehicle in Donetsk Region, Killing One and Injuring Two  Межа. Новини України.",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-11T20:32:05.749410+00:00",
+      "location": "in Donetsk Region, Ki",
+      "category": "other",
+      "id": "3dda5ce4a008"
+    },
+    {
+      "title": "25 Years Later, We Still Live in the World the War on Terror Made - Truthout",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmlwNWQ4ZnRmVDA1cE5YVmk3ckU3eEJWUWtackRYalpGa1pNWmdXdnc1anNPcnd0cmxDc09xOGVlRVZoek1NZkF4M2dJN1hlY2VHb2o4TDBETmpZVWRFQVRhYlk3UGNReWlVT2xRQVNmSVhla2V2dFU0R1VkN184S1k5a0RCb0gwZEs4Smd6WGE4UUdUdDNNN0w5VQ?oc=5",
+      "source": "Truthout",
+      "date": "2026-09-11T17:10:47+00:00",
+      "description": "25 Years Later, We Still Live in the World the War on Terror Made  Truthout",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-11T20:32:05.749410+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "ddb900144fae"
+    },
+    {
+      "title": "A warehouse caught fire in the Boryspil District after a drone crashed - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVFNemVqeE1ocTluU3ROX2xzak5kRm9SSWVHdkt6VFJqeXJiQ29fQ3dqY2haTWdIR1hobmlMa3R3Y2JzX1VTWUNCZzNEQm83eS12TXEyNnhQcEJWWTZKam5HZDhlSW1RTlpmcEdVVWFoOWxKYmU5TWw1Z3pyQVNPTWVMUkhWMXAyOXdSVnFhV0YzaVRtM2c?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-09-11T18:56:16+00:00",
+      "description": "A warehouse caught fire in the Boryspil District after a drone crashed  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-09-11T20:32:04.005212+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "160f53425546"
+    },
+    {
+      "title": "Russian Drone Crash Sparks Warehouse Fire in Kyiv Region, Woman Killed Elsewhere - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DcTJNRldMczQyV1JmSWk2b3RmQlJ2VDFDWFUzb1FTM3FBemRUSkNvVWQ3cVAyRGtqNjdpWExGbmFIV291bzg5THJZVFJTUDBscmN1YlZHNV8zWllpMWxLWWd2QzNydWM?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-09-11T19:39:29+00:00",
+      "description": "Russian Drone Crash Sparks Warehouse Fire in Kyiv Region, Woman Killed Elsewhere  Межа. Новини України.",
+      "query": "drone crash",
+      "detected_at": "2026-09-11T20:32:04.005212+00:00",
+      "location": "in Kyiv Region, Wo",
+      "category": "crash",
+      "id": "e094d0597602"
+    },
+    {
+      "title": "Drone unit brought in to find a man arrested on suspicion of drink-driving - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSGxfNk9TNFVuWXE2VmU5Vlgwc2VpRTkyM2NpRWhPeFNKbnBQOVhSNFYwWlJkb2VUZ2J5cTZWOXE0ekVLZmpMbzVxRXpKTDZLMi1IVHRrdXgtTG1QV1RaYVNPRWplaTlySmtXYy1EMXNvVUt1cDJmck1FTWs?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2026-09-11T17:15:00+00:00",
+      "description": "Drone unit brought in to find a man arrested on suspicion of drink-driving  Yahoo News UK",
+      "query": "drone arrest",
+      "detected_at": "2026-09-11T20:32:01.729610+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "578c15823ef5"
+    },
+    {
+      "title": "NASA drone flight lands Chinese tourist in federal court in Orlando - floridatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVW81LXFkMkd2TnRkWXF0WGFpMjF3Vmg3N3kzbVBVOWFsODNRalJmYjJVQk01c2dmZUt6SENfX0VOMXJnNnhOczVGS3hSYzh5YmhpYUJxWUhkOGV6OGtQXzBvSFU1Wm0ybTJiOGlCR29ZZEFMYVg5NVZWUmtrdHZoQVFjU3lWcmREa0ljaE9LUEJCeTZOOGVqNnNQelJidmJKakw3cVFBcWtwME5WcFh2M0t4MU5kTVRqSUp4WGtRREdDYUdwam83NUpydzlDSlFxUE9YMkZuWnpiX0N1dmNrRk43WjRiejJzOUJHNm9NYmtHUXJBV0VZcWdmOGQ3QQ?oc=5",
+      "source": "floridatoday.com",
+      "date": "2026-09-11T09:04:00+00:00",
+      "description": "NASA drone flight lands Chinese tourist in federal court in Orlando  floridatoday.com",
+      "query": "drone arrest",
+      "detected_at": "2026-09-11T20:32:01.729610+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "31d02f22ec02"
+    },
+    {
       "title": "RNC Airspace Closed To Drones - Aero-News.net",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHBKa1N5VTRnTVY3MTRQdHR6b2dqb0ZsT0J1UEJ5SFVxRzZiLXAyRHR5Q0h2ZlVUZmFfYW1NMUdyUjl3Z2xENWo3SEZMYWY4aTBkdzhlVzdRcC1rT0phdXZzVk9hekdSTmdWeUZ3MVZzVGhOOTRkZ3hZbnU1Ukd6c005Zk1iYjZyNEkwblhrU0Z2SjZWUC1r?oc=5",
       "source": "Aero-News.net",
@@ -11903,104 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "1188e2b0fd4c"
-    },
-    {
-      "title": "UAV (Drone) Jammers Market to Reach USD 5.90 billion in 2031, Growing at 27.2% CAGR, Says MarketsandMarkets™ - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRzhwMmlGQlo2WWVheXVHYWFsMHplQlFHOWpkVDB1ZWc0dGduYjk3UTd0bXFGV0NqbDR4RXpiOWhPbmo4WmR1SFVPeXRpSmlKN3NDYnYyWENlMGxmSUVnTDZ6a3Fua3ZldkNBSzlOSEoxMDRtMmVuRlBtV2JqYkctc01wTVllQQ?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "date": "2026-08-19T12:15:00+00:00",
-      "description": "UAV (Drone) Jammers Market to Reach USD 5.90 billion in 2031, Growing at 27.2% CAGR, Says MarketsandMarkets™  Yahoo Finance Singapore",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-19T12:44:33.836650+00:00",
-      "location": "in 2031, Gr",
-      "category": "interference",
-      "id": "10ce367ff3bc"
-    },
-    {
-      "title": "Pakistan’s militants are fighting from the air now - arabnews.pk",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50eUIySUdyMDRlaVNUWTRkdmk3MU5ERHRMelBEN0ZnUmtrUm94ZXFXZ0ZkUUliUlBtaHl1Ry05YV8xNjRfaG5NTVZFcTY?oc=5",
-      "source": "arabnews.pk",
-      "date": "2026-08-19T08:20:22+00:00",
-      "description": "Pakistan’s militants are fighting from the air now  arabnews.pk",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-19T12:44:33.305438+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "088651c1aa25"
-    },
-    {
-      "title": "Germany opens new drone research centre - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-18T17:46:37+00:00",
-      "description": "Germany opens new drone research centre  DW.com",
-      "query": "drone security breach",
-      "detected_at": "2026-08-19T12:44:32.770042+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5271f19eb4c7"
-    },
-    {
-      "title": "Germany opens new drone research centre - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
-      "source": "dw.com",
-      "date": "2026-08-18T20:35:52+00:00",
-      "description": "Germany opens new drone research centre  dw.com",
-      "query": "drone security breach",
-      "detected_at": "2026-08-19T11:23:52.519778+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9275cf5dd3ea"
-    },
-    {
-      "title": "Vietnam tightens drone controls after airport disruption - vietnamnet.vn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMThVXzFYdXhCSUh1WklENUhYSFRQRW9fRnIwVnRBZXVhT2JKbTg5YU8wVXhrekZ1VmppenhTSk1fS1RmQkVyOXZYVXprNnRPNk02NEttT09GeVZTMEFDblNDTlg1VTNseGxOR3dQY2s3UHFhSWc3NWFNSGhJYzA3cFBvWWV3NC11V3A3ckVwcEZtVjgtUHVhNkxn?oc=5",
-      "source": "vietnamnet.vn",
-      "date": "2026-08-18T03:48:00+00:00",
-      "description": "Vietnam tightens drone controls after airport disruption  vietnamnet.vn",
-      "query": "drone airport disruption",
-      "detected_at": "2026-08-19T11:23:50.850202+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "ae975c5201b3"
-    },
-    {
-      "title": "SWAT standoff at northside Houston apartment ends with officers flying drone into building, HPD says - abc13.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWc2SE5GOHlMV2hKZk5TLXp2STJScG52WkVLcjFVRGhCXzZFWFBrY0gyYUVDMzNhcmd5UmVjMTh1MG84LUtqVnNJY3o4b01wbHJ6d2VLYUpTeExkQWtseDJTb0xiTGc1MGFGRFJOT0RoVjRqb1FpcEVFQXROTHExNE5GcF84Y0pnNHNUZ0xtelRmN0tkX0cyZEQzczdQbVZDX0N5YnE5N2ZBR0t0RkRnWkNXb21rXzZHaUFV0gHAAUFVX3lxTE5Ub2ZaQUsxRzJnb2Zndl9zdEVIeVhTWEc3cFZCaGVBWGNRVjZfTU1HWXhMdEthUXR3ZVR6TG1OQnFuNnlNSUdkcFRzSWN2d0ptZGJQVUt5RDQ5dHhfNEpBZ0IwZ0dsbENJMEVpZzhHalpodDZQdEJUQ0VlYXNDRkpqU19qMkZhOEJlYlhQOXJxSzlZNU15YXhjaVY0OXNwYndZbTBydTNVY3ZjSlNxdFBBZEVCZnd4Q2hLR2p5a0dnZA?oc=5",
-      "source": "abc13.com",
-      "date": "2026-08-18T13:37:53+00:00",
-      "description": "SWAT standoff at northside Houston apartment ends with officers flying drone into building, HPD says  abc13.com",
-      "query": "drone arrest",
-      "detected_at": "2026-08-19T11:23:49.141370+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e73f05c0a7ae"
-    },
-    {
-      "title": "Canadian MP Condemns Drone Attacks on PM Barzani’s Office - kurdistan24.net",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDdtOFdHNHJRcmhjRklrelNnMlBDTWZoRmdpX3cySENJT2JHWFVMZ3hlMUttcmJ4bmJabTFvNUpNdXhKS3NEdDllem5iUTZjUEZ6UjVHeHR4aXhTSmt0R2dBQ3Zza3NpRlV1eE8xWFh4enJTUXZoRWtEMF9nTm9od1pJdjZxR2Q5Um04OS13WW52WlNGeGl1N0FlaHMxNFNPUVE?oc=5",
-      "source": "kurdistan24.net",
-      "date": "2026-08-18T20:16:00+00:00",
-      "description": "Canadian MP Condemns Drone Attacks on PM Barzani’s Office  kurdistan24.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-19T10:27:38.331783+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e903a6712c22"
-    },
-    {
-      "title": "Germany opens new drone research centre - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHd6aWlXRzJrY2Y0RTktbGJOa0J6X3gzYVhITnh4eklOd0k3NHF6cWxxYWpxYVZiOU9GbWhIRWxpWS1pVDdGZHh2bEhmRkhvVXZmd05RdEJjTElVQUFvZzM1bWc1Q0oyUG43OGNYNjhhMGxRRjVqY0pFT0FobUt4UQ?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-18T20:35:52+00:00",
-      "description": "Germany opens new drone research centre  DW.com",
-      "query": "drone security breach",
-      "detected_at": "2026-08-19T10:27:37.814446+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "894261bf3bd6"
     }
   ],
-  "last_updated": "2026-09-11T17:33:34.490994+00:00",
+  "last_updated": "2026-09-11T20:32:06.793287+00:00",
   "total_count": 1000
 }
