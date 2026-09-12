@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone crashes in Romania’s Suceava county - news.az",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LTk10MC1wZ1MzNkk1STlPRUI3RHMwYW5ONXQ5Rzl4Qm4xejBNeWN5Y3BJOXVpVFNfbHUxTGh2SVFaY1ZGLXJjZkl3M0RZZHNBMDFKUTFDSlpZbndRWExUN2xLbmU3T1VKencyZFJB?oc=5",
+      "source": "news.az",
+      "date": "2026-09-12T18:58:15+00:00",
+      "description": "Drone crashes in Romania’s Suceava county  news.az",
+      "query": "drone crash",
+      "detected_at": "2026-09-12T23:46:26.349466+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "da90a961ebab"
+    },
+    {
+      "title": "Brussels Airport Traffic Disrupted by Drone Sighting on Friday Evening - globalbankingandfinance.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEtKbVJFUk8xUjg5eHVZbTVUV0xQcW9SWTNua0NncjE1bU0tc1NiSnhCQ1ZhNHRocWx1cjgzZkZad1ZkNjVfd2tiWldzUkhpcGpabXhlUDRUOVBuVVZ1dGwyU2RiNU1fRXk5UHZYWUpfclpMaDRWa25yR3IxZHJxX2FoN0Q2V21kTEF5cThKMU5nMU9XZDhBYkNiVWk?oc=5",
+      "source": "globalbankingandfinance.com",
+      "date": "2026-09-12T17:39:14+00:00",
+      "description": "Brussels Airport Traffic Disrupted by Drone Sighting on Friday Evening  globalbankingandfinance.com",
+      "query": "drone airport disruption",
+      "detected_at": "2026-09-12T23:46:25.857089+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2775daf88f13"
+    },
+    {
       "title": "Drone crashes in Romania’s Suceava county - Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LTk10MC1wZ1MzNkk1STlPRUI3RHMwYW5ONXQ5Rzl4Qm4xejBNeWN5Y3BJOXVpVFNfbHUxTGh2SVFaY1ZGLXJjZkl3M0RZZHNBMDFKUTFDSlpZbndRWExUN2xLbmU3T1VKencyZFJB?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -11975,32 +11999,8 @@
       "location": "Near the Ukrainian Border",
       "category": "crash",
       "id": "bf1f3b5d6601"
-    },
-    {
-      "title": "Spanish NATO jets scramble as drone crashes in eastern Romania - Brussels Signal",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0hZeUwxelJzNU5lcjd0eTgtNEx5YmxZU1gtbFU2R25zQXZNbU9LVGtJczRWQ2xnX25fSGhfT1hWbk43NGhiWDJmQXp0aXlPT0VSbGFjaUpuYzhlUHdoTlNPeHAyMDN1c1NKQXFIb1o3bVR2WktUT0lFOHVpb3JXRXluWjRuMmZlb09NMExveGl5aVZXQWpya3RsREoxQQ?oc=5",
-      "source": "Brussels Signal",
-      "date": "2026-08-20T06:07:26+00:00",
-      "description": "Spanish NATO jets scramble as drone crashes in eastern Romania  Brussels Signal",
-      "query": "drone crash",
-      "detected_at": "2026-08-20T08:37:02.737189+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "021f597a2b17"
-    },
-    {
-      "title": "A military drone Shahed-136 has entered unauthorized into the airspace of the Republic of Moldova, through the village of Etulia, Gagauzia - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhaWEpnbWo3bnVnVHBaVk50dld1ZnllUEk1QXUzM1BIc296cHFWTGNuWmxkM3hWOS1YaWFwVUxJQlJWTVJCMGxmdWxCa1RFY1hrLUg3UTRSSGpUVGNvYTlLUXgzeWdnMFRkdmdJU0RBb2xsWTZCbEdKeDB5UlBNeWE5cUVxN1JlaDdNMElINGptbENhQnJ3U1hJMllMcDlNQWt1UlJvc2FBV0l6TmVmeg?oc=5",
-      "source": "Informat.ro",
-      "date": "2026-08-20T05:45:47+00:00",
-      "description": "A military drone Shahed-136 has entered unauthorized into the airspace of the Republic of Moldova, through the village of Etulia, Gagauzia  Informat.ro",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-20T06:43:19.648940+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "181ca56e6abd"
     }
   ],
-  "last_updated": "2026-09-12T21:14:21.336019+00:00",
+  "last_updated": "2026-09-12T23:46:29.058386+00:00",
   "total_count": 1000
 }
