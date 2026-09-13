@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "In the past 48 hours, drone activity has manifested in various regions, notably escalating tensions in the Russia-Ukraine conflict with multiple drone attacks and strikes resulting in casualties. Noteworthy incidents include a drone hitting a residential area in Stryi, with recent reports indicating the intensification of Russian drone strikes in Ukraine and surrounding areas, prompting concern for public safety in border regions. Meanwhile, unauthorized drone use continues to disrupt vital operations, including firefighting efforts in Big Sur, highlighting ongoing challenges in drone regulation and enforcement. Policy discussions are also emerging, as countries like China enforce stricter drone possession laws amid rising security threats associated with drone misuse and terrorism.",
+  "totals": {
+    "other": 13,
+    "crash": 8,
+    "arrest": 9,
+    "smuggling": 3,
+    "security": 4,
+    "airport": 5,
+    "terrorism": 8,
+    "total_incidents": 77,
+    "by_category": {
+      "airport": 4,
+      "arrest": 8,
+      "crash": 11,
+      "interference": 2,
+      "other": 33,
+      "security": 4,
+      "smuggling": 4,
+      "terrorism": 11
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 13,
+      "drone crash": 13,
+      "drone illegal": 2,
+      "drone incident": 14,
+      "drone prison": 1,
+      "drone smuggling": 4,
+      "drone terrorism": 19,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Russia-Ukraine Conflict",
+      "rationale": "Intensifying drone strikes and military actions observed.",
+      "incident_ids": [
+        "2a3204713695",
+        "e094d0597602",
+        "3c276fbcae5b",
+        "eeb81333251c",
+        "90b0f0056d7e"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Usage",
+      "rationale": "Incidents of unauthorized drone usage disrupting operations.",
+      "incident_ids": [
+        "ca7dd8e97d00",
+        "56fb912d24dd",
+        "f22ba161ddd3",
+        "4a6a05a53643"
+      ]
+    },
+    {
+      "topic": "Policy and Regulation",
+      "rationale": "Shifts in regulations and enforcement regarding drone ownership and use.",
+      "incident_ids": [
+        "3bfbdeb51201",
+        "f35de212e75c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "eeb81333251c",
+      "headline": "2 killed, several injured in drone attacks amidst Ukraine-Russia conflict.",
+      "one_sentence": "An escalation in drone attacks in the Russia-Ukraine conflict has resulted in casualties.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "3c276fbcae5b",
+      "headline": "Russian Drones Hit Sites Near Polish Border, Increasing Tensions.",
+      "one_sentence": "Drones originating from Russia have struck near the Polish border, heightening security concerns.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "90b0f0056d7e",
+      "headline": "Residences targeted by drone strikes in Ukraine, causing alarm.",
+      "one_sentence": "A drone strike on residential buildings in Ukraine has raised significant alarm among local populations.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.88
+    },
+    {
+      "id": "ca7dd8e97d00",
+      "headline": "Unauthorized drone activities disrupt crucial firefighting operations in Big Sur.",
+      "one_sentence": "Firefighting aircraft operations near Big Sur were forced to land due to unauthorized drone presence.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "3bfbdeb51201",
+      "headline": "Beijing bans drone ownership as security measures tighten.",
+      "one_sentence": "In a significant move, Beijing has banned drone possession within city limits to enhance security.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone-related incidents surge across borders with escalated tensions in Ukraine-Russia conflict and unauthorized disruptions at essential operations.",
+    "linkedin": "Recent drone activities highlight increasing tensions in conflict zones and ongoing challenges related to unauthorized drone usage impacting safety and security."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-13"
+}
