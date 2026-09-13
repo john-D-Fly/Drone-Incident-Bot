@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Wreckage from a crashed drone was found near Suceava in Romania - ua.news",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVgtRk05cWpKRDdtNzRNNWRoc1F6WkJCT0x2NmtWYVhPTVJ3aXQ0NU5mSlRzV28tazBrV2ZMQmNEcWxyTlZsZ0dTellfdk9oRVlUOWpYUThxdm5KRVNJZHZpYlFmcDdYN01wbjRNSVRIYWg2UDhTQ0FzZWJ2cWZILTgwcVRGR05CZVF3?oc=5",
+      "source": "ua.news",
+      "date": "2026-09-12T18:06:49+00:00",
+      "description": "Wreckage from a crashed drone was found near Suceava in Romania  ua.news",
+      "query": "drone crash",
+      "detected_at": "2026-09-13T03:27:44.583950+00:00",
+      "location": "near Suceava in Romania",
+      "category": "crash",
+      "id": "27c9a973c863"
+    },
+    {
+      "title": "restaurant burglar — Hides in Ceiling Before Drone Arrest - The Korea Daily",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByckhMRE9aeVhwZ2FIR0g3RUJZaFMzaVVhdDZYbmJ3TUlyUlg0TGJISUxKcFEybHo1OWkxMmlKZmh4OVVkNmhUWUFxVGtJNHkxclRnSVpEdEU?oc=5",
+      "source": "The Korea Daily",
+      "date": "2026-09-12T20:15:55+00:00",
+      "description": "restaurant burglar — Hides in Ceiling Before Drone Arrest  The Korea Daily",
+      "query": "drone arrest",
+      "detected_at": "2026-09-13T03:27:41.966180+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f706eef185a8"
+    },
+    {
+      "title": "Naples man wanted on bench warrant following arrest for stealing drone from pawn shop - Gulf Coast News and Weather",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGE5cEJhU0p2ZXVILW1wUXBlTUNGd0dJbDI5RlFNRWxkckdCTzR3RE12OTYwTTFwRTBDV1lac3k2RW9pQmNUMVpMcjN3TGZrN0JxMlFSelFDUW1kWjlhSzdMak1pcU1fTC1QWFNrMmlLYUkwMEhIaWJVMlptb1hVM1JJLWk4dFY5TWk2SWRuaVZiaG1aSDhQckFJdUJzX0Ru?oc=5",
+      "source": "Gulf Coast News and Weather",
+      "date": "2026-09-12T18:03:00+00:00",
+      "description": "Naples man wanted on bench warrant following arrest for stealing drone from pawn shop  Gulf Coast News and Weather",
+      "query": "drone arrest",
+      "detected_at": "2026-09-13T03:27:41.966180+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c14727f29733"
+    },
+    {
+      "title": "Russia's drone war comes to Moldova and Romania - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0FZSzc4TkVjRk52WHdwTEJSXzZLdHo4dG5hVmptVFJwLVZKWE1Rc2lHeFhGTDlfNmNQMGY3eW9pY0lrT1pGaGVaek9LNHJnbXRvY1FNLTBYb1Nya0FPNHdMOWlaWEdIYjlfMEtOUWZQeXZleU82TWo3UDkzaUFIbW9jclVpQdIBhgFBVV95cUxOYTd6TXRPY3RvOER4WXJ2bXpRUFRWQzlvYjBWOUFFQzQ1YnYxcEpPUE95Zmltck1ocFhiWUk5UE1CQ0ZkcUFOZnpyQmQxZmlvenFic1dTWDliMHBVQjFIVFpsOXhhdDZiczR5cnhDZERhUnNBV2lFbTRFUUxKMFFGNzFNWGI0dw?oc=5",
+      "source": "DW.com",
+      "date": "2026-09-12T06:22:43+00:00",
+      "description": "Russia's drone war comes to Moldova and Romania  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-13T03:27:41.125611+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "9f13363848d8"
+    },
+    {
       "title": "Drone crashes in Romania’s Suceava county - news.az",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LTk10MC1wZ1MzNkk1STlPRUI3RHMwYW5ONXQ5Rzl4Qm4xejBNeWN5Y3BJOXVpVFNfbHUxTGh2SVFaY1ZGLXJjZkl3M0RZZHNBMDFKUTFDSlpZbndRWExUN2xLbmU3T1VKencyZFJB?oc=5",
       "source": "news.az",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "3f8ab53d2481"
-    },
-    {
-      "title": "Drone breaches spark security concerns at RAAF base - 7news.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMndvYTUwTG9qa0U0N1R4QjdUaUZBYnZRR2hmNE1YcWRpaHVuajdlTFk4UWJTQjBtSUdKSUFNN21hMjRZc2F5QVpmMDRxbk4ycEFyTDJEN1FUUGlkNm1UejJhZTVVVmhOR3lDcUVvc1Y0Ny16dTNxR1FyLUNTOTY4T2RtdEZ1TnMxNHNENTRIRHJPWk1fanMwNWlGVVZEME9WblE?oc=5",
-      "source": "7news.com.au",
-      "date": "2026-08-19T20:25:38+00:00",
-      "description": "Drone breaches spark security concerns at RAAF base  7news.com.au",
-      "query": "drone security breach",
-      "detected_at": "2026-08-20T08:37:03.871961+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "01c5af501864"
-    },
-    {
-      "title": "Drone crashes in Romania after entering airspace near Ukrainian border - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGxDN2h1WThSWUZGM3UzcHlLTXhfd1hqWU9jLUZ4SldqNkRoV3NVU1F2d2tZVlZhNmQ4UmZoMUJpX0M1R2FuNzJHVWQ4eTlhZkNVR0VNQlpZTlNuaDJ6aGwzUFlqcUY0b0xRQWU3YlN2Nk1FcllIS1JsQWFDekRaYjVkcW0wamVuZkxmS3VnSHMyR01hREE?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "date": "2026-08-20T05:19:11+00:00",
-      "description": "Drone crashes in Romania after entering airspace near Ukrainian border  Latest news from Azerbaijan",
-      "query": "drone crash",
-      "detected_at": "2026-08-20T08:37:02.737189+00:00",
-      "location": "near Ukrainian border",
-      "category": "crash",
-      "id": "610b32691131"
-    },
-    {
-      "title": "Drone Enters Romanian Airspace and Crashes in Tulcea County, Fighter Jets Scrambled - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVFVeDlzMmJHWnNWZmJxZnEzZzc0ZkRaZGRpNlRTM0lIV3ZWdGpBQllVVk04X0t0OHJXVXJLbkFfOFY4MmJXRVYxb0pTLUJieFVVMTkwMWtXOFBIWXpLeFRNSmpjTlFEdkNjQkVrVUdfWkNUb3lQaFJ0T1dhaS1nMHdtTUtHYUVQWHBKWGQ4eWtPT29vQkJFZElIYXFwb1Zkcks4bjZvelgzejN6dWtHSFBrd1RBWkltbWNJeHU2eFRCNTFsNEpkUQ?oc=5",
-      "source": "UNITED24 Media",
-      "date": "2026-08-20T08:33:00+00:00",
-      "description": "Drone Enters Romanian Airspace and Crashes in Tulcea County, Fighter Jets Scrambled  UNITED24 Media",
-      "query": "drone crash",
-      "detected_at": "2026-08-20T08:37:02.737189+00:00",
-      "location": "in Tulcea County, Fi",
-      "category": "crash",
-      "id": "228631a55d88"
-    },
-    {
-      "title": "A Drone Entered Romanian Airspace and Crashed Near the Ukrainian Border - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwcElyeVBEV0g3eVZnc0FIcXIydS1mRzdIbjc0VVpqc2dPUXZOUGVXdkhtcEZCOHg5dnNfTXNycmF1M0JQV3hrYThSTmI4b1ZHdzRYX3RvZG1GTkNfU25SZlpsVXU0ajZicFhfblBzMA?oc=5",
-      "source": "Межа. Новини України.",
-      "date": "2026-08-20T08:23:49+00:00",
-      "description": "A Drone Entered Romanian Airspace and Crashed Near the Ukrainian Border  Межа. Новини України.",
-      "query": "drone crash",
-      "detected_at": "2026-08-20T08:37:02.737189+00:00",
-      "location": "Near the Ukrainian Border",
-      "category": "crash",
-      "id": "bf1f3b5d6601"
     }
   ],
-  "last_updated": "2026-09-12T23:46:29.058386+00:00",
+  "last_updated": "2026-09-13T03:27:47.456368+00:00",
   "total_count": 1000
 }
