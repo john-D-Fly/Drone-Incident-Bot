@@ -1,0 +1,114 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone incidents have unfolded across various regions, centering mainly around Lithuania and the ongoing conflict between Russia and Ukraine. NATO jets have shot down several drones entering Lithuanian airspace, reflecting heightened security tensions in the Baltic region. In Ukraine, drone strikes resulted in casualties, with one attack near a train connection with Poland drawing international concern. Meanwhile, in China, stricter regulations on drone usage are being enacted following a high-profile crash. Other incidents included a surveillance drone crash off Japan's coast and police utilizing drones for logistical support in arrests. The span of incidents underscores the evolving challenges regarding drone technology, including its implications for security and international relations.",
+  "totals": {
+    "smuggling": 5,
+    "other": 18,
+    "terrorism": 5,
+    "arrest": 7,
+    "crash": 9,
+    "airport": 2,
+    "policy": 2,
+    "total_incidents": 87,
+    "by_category": {
+      "airport": 3,
+      "arrest": 5,
+      "crash": 23,
+      "other": 45,
+      "security": 1,
+      "smuggling": 6,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 4,
+      "drone crash": 19,
+      "drone illegal": 6,
+      "drone incident": 34,
+      "drone prison": 3,
+      "drone smuggling": 3,
+      "drone terrorism": 14,
+      "unauthorized drone": 2
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Lithuania Drone Incidents",
+      "rationale": "Multiple related incidents of drone interceptions and military responses.",
+      "incident_ids": [
+        "fea8b258ca47",
+        "a64975f64165",
+        "98f56c969865",
+        "be731749219a",
+        "98f56c969865",
+        "75e1fad80b2b"
+      ]
+    },
+    {
+      "topic": "Chinese Drone Regulations",
+      "rationale": "New drone policy changes following a significant accident.",
+      "incident_ids": [
+        "70ad2ef8957f",
+        "70ad2ef8957f",
+        "f66e522c2344"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8d363fcfc2a4",
+      "headline": "Japan's Surveillance Drone Crash",
+      "one_sentence": "Japan says its surveillance drone probably crashed off its northwestern coast.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "982366e5f25d",
+      "headline": "Drone Strikes Near Polish Border",
+      "one_sentence": "A drone that crossed the border between the two countries crashed in Romania.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "fa3c221fa564",
+      "headline": "2 Killed in Drone Attacks in Ukraine",
+      "one_sentence": "Two individuals died as drone attacks intensified in the region.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f618993fe939",
+      "headline": "Lithuanian Bomb Disposal at Drone Site",
+      "one_sentence": "Lithuanian experts neutralized an explosive device at a drone crash site.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "80d39455c055",
+      "headline": "Conroe Police Utilize Drones in Stalking Case",
+      "one_sentence": "Conroe Police used drones and cameras to arrest a stalking suspect.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "A surge in drone incidents highlights ongoing security tensions in Europe, particularly in Lithuania and Ukraine. #OSINT #DroneEvents",
+    "linkedin": "Recent reports of drone incidents across Europe reveal rising tensions, notably in Lithuania and Ukraine, emphasizing the need for strategic security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-15"
+}
