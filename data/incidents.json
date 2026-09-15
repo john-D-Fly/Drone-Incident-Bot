@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Okinawan businesses lament stricter rules for drone flights - japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1VsSm9pSDV6Wktpd1BzcGZkd0pNUmUtXzlvMHhhbldyeUtIUUpZNkxvYVFQN18tQjRRbWtTQlNaN0Jwa25aUi1FZW9lcWRaeXpIc1lkMllqWE9ieEpDMkxPRXkzR1VPakNVTlMxYmYtcy16bnFnV2NxV1hiemFiX3dZMlRGdU43cUpXVWFjUVBMdw?oc=5",
+      "source": "japantimes.co.jp",
+      "date": "2026-09-14T10:49:36+00:00",
+      "description": "Okinawan businesses lament stricter rules for drone flights  japantimes.co.jp",
+      "query": "drone illegal",
+      "detected_at": "2026-09-15T00:20:04.734740+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5dca957fa400"
+    },
+    {
+      "title": "Prison Drone Flew $31,000 of Meth Back to Its Launch Site - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFpBdUhXVnJUakdjSGlPblAxUVpFWkRacTNDZ1hMREpjSGNXUWNZN0JMbHd1TFpMMWF2RmJYc2N3eWRDYVlNai1nOFVqd1hOcXBHeXF3SnpuSWxZdTdSN3lZZkVVa2dUZTJGX2dpWXJpSXJTU29PVFpWa3lDZ1p3dVln?oc=5",
+      "source": "DroneXL",
+      "date": "2026-09-14T16:17:00+00:00",
+      "description": "Prison Drone Flew $31,000 of Meth Back to Its Launch Site  DroneXL",
+      "query": "drone smuggling",
+      "detected_at": "2026-09-15T00:20:02.033724+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "a4cf33b6b46a"
+    },
+    {
+      "title": "Drone pilot arrested for secretly filming inside homes in Kaesong - dailynk.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IaXFnV0tPU2xiS0toeVRhY0FOT3JtZVpjbDFQdXNHUkQxX2NaYjNZRHRoQmJCMy16ZGljZHpPTW0tUV9aTWtrbnRlT3QyVk54YnVhUER0Rk11a1F6dkFMWGVSRlZpR0dUREQyVmZLSm5rZWg4YWpV?oc=5",
+      "source": "dailynk.com",
+      "date": "2026-09-14T20:43:23+00:00",
+      "description": "Drone pilot arrested for secretly filming inside homes in Kaesong  dailynk.com",
+      "query": "drone arrest",
+      "detected_at": "2026-09-15T00:20:01.464063+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "eba00add1173"
+    },
+    {
+      "title": "NATO Fighter Shoots Down Drone in Lithuania Amid Tensions - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbl9FNl9MS0tQTmVHRmxiR1d5ODFUeXhwOE9ia1FtU0pxS1lLTlJFWTdFT3ZGcTY1dmx2U1E0TE9aM2s4TWJPYkxwdlF1ak13Nm1RMEJ3c2FmOUZBYkhOMjZldmRyZjlYZmI3aURjVmZFN2NNZkFKNS1XMktkQlE0OVpJWmhhMGxB?oc=5",
+      "source": "Global Banking & Finance Review",
+      "date": "2026-09-14T22:41:15+00:00",
+      "description": "NATO Fighter Shoots Down Drone in Lithuania Amid Tensions  Global Banking & Finance Review",
+      "query": "drone incident",
+      "detected_at": "2026-09-15T00:20:00.735414+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1670ac25aed1"
+    },
+    {
+      "title": "Germany strengthens defenses against Russian hybrid threats after Leipzig drone incident | Ukraine news - #Mezha - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVE5PVmxFYjZIS3Fwekh4X2pEXzljQW05Z3Q5eFJFNTRTV0hmUm5KaEtMbUZwR0QwQ0MzekxkWlFmT190MExYMmstNFZGM2JHMWg0LVZQVkg1NkxRZC03UWNNdllFTG5MRDJXUjV3RnVjTFU?oc=5",
+      "source": "Межа. Новини України.",
+      "date": "2026-09-14T23:54:36+00:00",
+      "description": "Germany strengthens defenses against Russian hybrid threats after Leipzig drone incident | Ukraine news - #Mezha  Межа. Новини України.",
+      "query": "drone incident",
+      "detected_at": "2026-09-15T00:20:00.735414+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "26fb92e1c7fb"
+    },
+    {
+      "title": "A Russian drone struck a passenger train just steps from a NATO border - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2g1dnNxb3N5UU1tVGgyUkl4aHNXdUJYU1VlWTR1UTZrbTc0Q0lfd1ZOeEw0bUVKekNYb3pBTWpqZUtwZW1nZnhnc1g4NXRqczZkd2R6SDdONkJZSThWWm5qVDRMRE9QeDNsSzgxOHBPRTUyUnNhNjdLTmYzOGxyamJBVEJFMFVUTzFja3R5aDVoWngxSW9Kc0hyYTYyeHNCN0t3MU1XdC1uWDJ3Tk9ycQ?oc=5",
+      "source": "Scripps News",
+      "date": "2026-09-14T21:30:57+00:00",
+      "description": "A Russian drone struck a passenger train just steps from a NATO border  Scripps News",
+      "query": "drone incident",
+      "detected_at": "2026-09-15T00:20:00.735414+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "78a2fc6355b6"
+    },
+    {
       "title": "Drone pilot arrested for secretly filming inside homes in Kaesong - 데일리NK",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IaXFnV0tPU2xiS0toeVRhY0FOT3JtZVpjbDFQdXNHUkQxX2NaYjNZRHRoQmJCMy16ZGljZHpPTW0tUV9aTWtrbnRlT3QyVk54YnVhUER0Rk11a1F6dkFMWGVSRlZpR0dUREQyVmZLSm5rZWg4YWpV?oc=5",
       "source": "데일리NK",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "99416870184b"
-    },
-    {
-      "title": "‘If you fly, we can’t’: State officials warn against flying drones near wildfires - OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOelBqWDQwQWx6ZTV0Qk5IYXBhVXlRYUNwQmoxMmUtSlJXdlZrV1ZfVnhJTGxFdE9YN3BkSVpyS0g5aG9EN3BHd1lGekRlV2xUZWkwMTJ3eFRjZ2V5UmN3RWxfU3dSUVhraVlRSDZ4RHRpVFRMZVAzTHZGLVNab2dZVGpyNUZLUjJqWmREMXdfbDloc1oyaEd1OFZFcWhWLTNoWC1JNU5DdUdISk8xalRFNlFwRmcwdFVKMmFveU96bHFSNGQ50gHYAUFVX3lxTFBLcDUwTzNQTWlZSG13RXZkMkszSDRoTmkyZG5BSFVJTkFrOHA0a1RWS3lYZ2ZCUHh2R1FINEZCTVJJYmRIYnMzZmlKWjBvenhBVnJDNjBGb2J4ZlFza25JeUFVRE9uUWZlejlsVml5cUYzT3FIaFh3V2FPMTVob2RjZGtwQVhfeGVkSjJQMlR1a3VuMFlyNk9KelZ6SmhPT0t6Y2hSRlM1RUM0aFlyaHJISW95RC1QTHNhcWdfT09fbXBNVExNd0NiVWZPeE1TTDlCaV9JZUhyOA?oc=5",
-      "source": "OregonLive.com",
-      "date": "2026-08-20T22:52:00+00:00",
-      "description": "‘If you fly, we can’t’: State officials warn against flying drones near wildfires  OregonLive.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-08-20T23:24:20.814559+00:00",
-      "location": "near wildfires",
-      "category": "other",
-      "id": "c4f25fe3ecd3"
-    },
-    {
-      "title": "Six arrested after Mississippi agencies deploy armored vehicle, drone in standoff - Magnolia State Live",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREtTQ3ZCWUJCbnVHYmhsY1VFeHV5YjNITUNMblI5M1JwbzVXQkt4MHNJTE9YR0ljYnRHQmdEVk0zZ2h4YWFoM3ZpNXVPTEJuMjZCVUdOMTZ1YXY3cllzcHYwZl9PQjd3aFEyb21pQkJfVlVoYjJnQ1FXTk5sREx2WkFrMWZCSGV6QXM2TUhqOVFBcDB4RDd4V2g5M1dycDRQWERNR2lLNzEyVVlUNWhYS1M1emNMWDk2amVuaHppOA?oc=5",
-      "source": "Magnolia State Live",
-      "date": "2026-08-20T10:55:36+00:00",
-      "description": "Six arrested after Mississippi agencies deploy armored vehicle, drone in standoff  Magnolia State Live",
-      "query": "drone arrest",
-      "detected_at": "2026-08-20T23:24:16.185883+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "904d892dfa26"
-    },
-    {
-      "title": "How O’Fallon’s ‘Drone as First Responders’ program led to arrests - First Alert 4",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFFaNlpTMkNfLWRvUTRlV1F5Z0xUV3VaME9XUVJiVXdDSFdxRkpUZmc3dXdTWEQtekxuXzNqOGhaVk1qOTFNazJxNnBudmlFbENhOFdwTFkzZVlwa1dkcHlFZ2tFRWJCODJ4Sm5iUk5KVEdDdjBYeWtWa2xQZjJRLThiT1hWc0tlSTZjaGc4eW11RG1FbEotcXhDWQ?oc=5",
-      "source": "First Alert 4",
-      "date": "2026-08-20T23:13:00+00:00",
-      "description": "How O’Fallon’s ‘Drone as First Responders’ program led to arrests  First Alert 4",
-      "query": "drone arrest",
-      "detected_at": "2026-08-20T23:24:16.185883+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "dc41ada55530"
-    },
-    {
-      "title": "Jet Fighter Destroys Naval Drone Near Black Sea Gas Platform ‘to Protect Lives’ - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHRsdFlteXd2aGFOa1ZzMllLRVVsbEdEOXM1UkptOEppVmZHdlV5eDRlcjlMZEdIdnc3a19takp2TTdJVm1RN18zcmZmYl9EZWI2aDlBc2xORWFTV0gyNXM3c25DY295Uk1FUTBPaXRodXNrYUlHTmUxSnlxWVkxUWVoQzdJbElnbnR3d3VKVWF0RlBkMWV4UUJEQllVVVFadFhOSlNKLWdQZDluUEZxdTlvMUlDUUpJVk5v?oc=5",
-      "source": "WSJ",
-      "date": "2026-08-20T14:35:00+00:00",
-      "description": "Jet Fighter Destroys Naval Drone Near Black Sea Gas Platform ‘to Protect Lives’  WSJ",
-      "query": "drone incident",
-      "detected_at": "2026-08-20T23:24:15.625656+00:00",
-      "location": "Near Black Sea Gas Platform",
-      "category": "other",
-      "id": "230fa0b5c5aa"
-    },
-    {
-      "title": "Drone enters Romanian airspace and crashes in Tulcea near Ukraine border - Airforce Technology",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05UFRTbGtTeVlUSjd6UTdUa2ZfcVFVWDc3Z1VPWUtNLU9ROG9aOV9vNXBXUHlxeElXb1lmbFdNNmI5cWxVZFRZMzRkVEF1OGxtSEUxUVp5Qm5mYVlUVHp6VTJSWmo2VFNnTWprZG80WGI5MGhPSlVyUnln?oc=5",
-      "source": "Airforce Technology",
-      "date": "2026-08-20T16:12:16+00:00",
-      "description": "Drone enters Romanian airspace and crashes in Tulcea near Ukraine border  Airforce Technology",
-      "query": "drone crash",
-      "detected_at": "2026-08-20T22:26:12.434737+00:00",
-      "location": "near Ukraine border",
-      "category": "crash",
-      "id": "32b665f83bf1"
-    },
-    {
-      "title": "Romania destroys drone near gas project, blames Russia - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA2Z1hkeENFTmN3eDNWdDZQd1dfYW9oQW01MlM1U0JhZnowYnFuMGVHMVFtNlF0Rm9xNkc3RE1VVFJGSFFsQ0piNmF4eEd5NEZpR3FZb3BHUkIyWXRVVU5wVEJkR0dPOV9TSGhCWVBGVXR5cElOTVdBTDNGenpSQ0ljSG5TdnhhMWQzWk5aMNIBjwFBVV95cUxQRXJ4aVJWcVROZmN4cWdXaGhwd01DSVRia3BKOTVDMXI4WWFXMXdlNmxXaU51SkNPMTFzYXY2MGRRcEw3aHJwRjZpT3cxY053RTRqZXVSYXlOeVl0andWMEVraHN6Zk1Dd2dUNlVkd3lISGxxeGk4bDBBZUhLdUdZa3hzb0cwR3RjRzFSUWMwTQ?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-20T14:00:15+00:00",
-      "description": "Romania destroys drone near gas project, blames Russia  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-20T22:26:09.601403+00:00",
-      "location": "near gas project",
-      "category": "other",
-      "id": "549e728f71c0"
     }
   ],
-  "last_updated": "2026-09-14T21:34:53.954351+00:00",
+  "last_updated": "2026-09-15T00:20:07.101565+00:00",
   "total_count": 1000
 }
