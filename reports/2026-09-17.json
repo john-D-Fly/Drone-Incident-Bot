@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "In the past 48 hours, various drone incidents have been reported globally, with a notable focus on illegal activities, crashes, and security risks. In Japan, a reconnaissance drone from the Air Self-Defense Force crashed into the Sea of Japan, indicating vulnerabilities in military drone operations. Concurrently, in the realm of law enforcement, a drone search led to the arrest of a fugitive in Lompoc, showcasing the increasing integration of drones in policing. Additionally, troubling reports have surfaced about a thwarted escape plot by a South Korean drug lord utilizing a drone from a Philippine prison, highlighting ongoing concerns regarding smuggling and prison security. Other significant incidents include NATO's interception of a suspected Russian drone over Lithuania, reinforcing geopolitical tensions. The diverse range of incidents illustrates both the potential benefits and threats posed by UAV technology in both civil and military domains.",
+  "totals": {
+    "crash": 15,
+    "arrest": 9,
+    "other": 20,
+    "interference": 1,
+    "terrorism": 5,
+    "smuggling": 6,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 3,
+      "arrest": 8,
+      "crash": 41,
+      "interference": 1,
+      "other": 44,
+      "smuggling": 17,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone arrest": 10,
+      "drone crash": 37,
+      "drone illegal": 3,
+      "drone incident": 37,
+      "drone prison": 15,
+      "drone smuggling": 4,
+      "drone terrorism": 14
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone incidents",
+      "rationale": "The incidents indicate widespread engagement of drones in various sectors from military ops to crime and public safety.",
+      "incident_ids": [
+        "4b022eb19e72",
+        "8d5a2c2f1331",
+        "efdc05bb7009",
+        "f3eaa6636980",
+        "65331cdf4fa4",
+        "87887687088f",
+        "d968534949ac",
+        "0e6b41df519e",
+        "9b990dd39ae2"
+      ]
+    },
+    {
+      "topic": "prison security",
+      "rationale": "Clear representation of how drones are being utilized in and around prisons, reflecting security vulnerabilities.",
+      "incident_ids": [
+        "eaf9262db1c9",
+        "be16fe203938",
+        "160684b087fc",
+        "30f8a61e9bff"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "4b022eb19e72",
+      "headline": "Japan Air Self-Defense Force Recon Drone Crashes into Sea of Japan",
+      "one_sentence": "A reconnaissance drone from Japan's Air Self-Defense Force has crashed into the Sea of Japan.",
+      "risk_tags": [
+        "crash",
+        "military"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "efdc05bb7009",
+      "headline": "Suspected fugitive arrested in Lompoc after drone-assisted search",
+      "one_sentence": "A fugitive was apprehended in Lompoc, aided by a police drone that tracked them down.",
+      "risk_tags": [
+        "arrest",
+        "law enforcement"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f3eaa6636980",
+      "headline": "Korean Drug Lord's Drone Jailbreak Undone by a Viral Test Flight",
+      "one_sentence": "A South Korean drug lord's escape plan using a drone was foiled after test footage revealed the plot.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [
+        "Philippines",
+        "South Korea"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d968534949ac",
+      "headline": "FBI disrupts plot targeting UFC event with explosive drones",
+      "one_sentence": "The FBI has disrupted a significant drone-related plot involving explosive devices aimed at a UFC event.",
+      "risk_tags": [
+        "terrorism",
+        "interference"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "priority_score": 0.95
+    },
+    {
+      "id": "8d5a2c2f1331",
+      "headline": "Bosnia's Jablanica to use AI drones to detect illegal waste dumps",
+      "one_sentence": "Jablanica in Bosnia plans to implement AI drones to monitor and detect illegal waste dumping activities.",
+      "risk_tags": [
+        "illegal",
+        "environmental"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents surge, revealing both innovative law enforcement applications and serious security concerns, ranging from military mishaps to thwarted criminal plots.",
+    "linkedin": "Recent drone incidents highlight the expanding role of UAV technology in both law enforcement and security, showcasing both its potential and risks in various contexts."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-17"
+}
