@@ -1,6 +1,102 @@
 {
   "incidents": [
     {
+      "title": "Bosnia's Jablanica to use AI drones to detect illegal waste dumps - IntelliNews",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVhqcWdnN09DRGZIdkNKNVU2SlVMLXlENHRtRGVxZjk3LUZhYVZTZWU4T1pndHhscnQ0VDFYdlRLNExPRm9zNUVkNnZOc01PRVQ4aEozZXU1cTZKZERTSjhMZ1RIQlBLVm5RZlJMeUJHQy1Xa0tRdXFWenlTcWp4Nm5SaXhzbEg4MGM1cl9wSkNrdXY1b1hqS1dHbTA1S1lrU2JrQVp0M1lHR2lFM3llM2N5T1p6NTNSY2c2TERoU2FZRkwyVDA5aDlyUQ?oc=5",
+      "source": "IntelliNews",
+      "date": "2026-09-17T08:53:16+00:00",
+      "description": "Bosnia's Jablanica to use AI drones to detect illegal waste dumps  IntelliNews",
+      "query": "drone illegal",
+      "detected_at": "2026-09-17T20:01:13.181544+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a49acb3912b0"
+    },
+    {
+      "title": "Reports of unauthorized drone briefly pause flights operations at DC airport in highly restricted airspace - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUhGeEVuRFRGQ1hJY1RWaFZsT2tuaXltV0wzbFR0S2JabWd6dE92Wm9DSFBjM3JQbXBPWXpZb1ZjTUZzcS0wdHVLLTBuN3l2Q0laa09HbXR2Z1hzODdDYTR6SWUyendlX04tSkRCX2dNN2xkVDNUb1lURC0zcTE2OW9MUUh0TXlpaWdmT2s1Z0IxY3hxUHZMS2RsRGdaOU1LWkFRQTJOZzJBS2o0S2Jn0gG0AUFVX3lxTE1fWnF3UWxSbXB3WXd3U2FxLXlob0VldTEwYXRTWURrTTZYa1RrRi1PeU1hYTQxaDdYSUZHaVlnSUJCQkVmT2NtclNybnpCbUFVNkpSaUJyanVjekJwSTkwYkF6XzJGVTZWRnhQWlAyeXdTVGtIMW5FaGhoX0tjTU9Fdl9RUnpwLXJaVTdyOWxaNlBUYWJnWkRxQkp1MnlVTVNCT0ZlOXhzcWxoTXl1RHhjaW9KMg?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-09-16T19:49:04+00:00",
+      "description": "Reports of unauthorized drone briefly pause flights operations at DC airport in highly restricted airspace  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone illegal",
+      "detected_at": "2026-09-17T20:01:13.181544+00:00",
+      "location": "at DC airport",
+      "category": "airport",
+      "id": "e385be26c074"
+    },
+    {
+      "title": "South Korean killer’s drone escape from Philippine prison foiled by test footage - scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGh0SmZXOVBmUW1NUWNTTkdTOHgzMU5NS2NSTzh6ZWJ1XzF4XzNFNmNmenBFRVBlWGd4allmTTd5XzBUdEFlRFNtbWdhbm52SzdZZHNUdlFwaThIRHVSTkNQc1JwWUQxdGF5YmttUllaU3FXTjhsUFc4M2V1YWR2a3AxcVlsMnJOZ0cxckhudDdMSTZlaFUzOV9Dd2ZhTjhxUno3UDNqN3gtbDRFa2s5eGExVkk0UTNhZC1SSVlMcFNDQjDSAcMBQVVfeXFMUGIwb0NUQVlvXy1LRzRzSFRhcS04YV84Sll2V2dBS0FsS0YwYzdyakZXSFVhM3JvS0NMV09RMThxd3dMT3RTMVBtMzkzclh2alJsQzlGdG5vZDlNMTM3N3FWSHFTUVZuRjYyejBKYmtWUDRZRGtsTjMyVHpWRnFqSU01YXJYb0hCa0YzTTVJaHZlVW05aFZpeld3REptdUdrcnJjVWdVNlRidzZVMDF0MzdvR0dQSVExTFI2NDRTazQ2Nklv?oc=5",
+      "source": "scmp.com",
+      "date": "2026-09-16T05:10:05+00:00",
+      "description": "South Korean killer’s drone escape from Philippine prison foiled by test footage  scmp.com",
+      "query": "drone prison",
+      "detected_at": "2026-09-17T20:01:10.984178+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "3498f71118d3"
+    },
+    {
+      "title": "Pakistan vows to honour Mecca defence pact after drone incident near holy city - WION",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWlGdjBuamZhXzBLNzJHdF9ydkxuMkZFT2ktNjBQN0lYei1aSklzSlhRdWtyd2NpYnJJWjJMSm9ncWNyTjg2V1M5UlFvTlkyd1o0Y2RVRE5uZ2t2a0REaVF3OTNJRVZIOXdTaTlKMk04NHQ3T2FYc1prcnZNNjdTNUpCY1YyUXVRaVc3eF9KaEtoSmpKWDhmMWJjZzI5WDllcnVwNDNsd0Z3Z9IBrwFBVV95cUxNczhQQUM0WWVzV1piLXg3VmlNclV1SzF6TnhXZ3ltVDNUOUh4RUg3ZXR4TUZMRkVFOUdWUEFsSGdIY0NQSk1JVzJDaEplc0lXLXB3V2hJOV9QQkVqdWhKQ0J3RmNMY3JRQklIaHBsLTZjUHpZTmJBUUpzenVzSFBYbDU2UVd0TnJZRHhVVzJyVVNtc0t4cjVXTU9uQTNyVk9INDViVmFLOTRheGRvLWlZ?oc=5",
+      "source": "WION",
+      "date": "2026-09-17T13:52:00+00:00",
+      "description": "Pakistan vows to honour Mecca defence pact after drone incident near holy city  WION",
+      "query": "drone incident",
+      "detected_at": "2026-09-17T20:01:08.953618+00:00",
+      "location": "near holy city",
+      "category": "other",
+      "id": "5b8327229980"
+    },
+    {
+      "title": "Closing the Drone Response Gap - Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVJTSDNuazNZd3ltODNSTjRxUUVLdUpuV1psVHp5UFRWUDZRMmlCR2lCUi1BaDRzT2QyX0NsNTJfZ2lPY3ZGTWJIVGlPRE5fMWkxb1ZDQUtDQ3NTb081Tlh2VXdvY2VFSDh6cXJQbHFwNlZiZU9heVBjWXUySnV0Qk9weDJtYmIx?oc=5",
+      "source": "Security Today",
+      "date": "2026-09-17T19:16:46+00:00",
+      "description": "Closing the Drone Response Gap  Security Today",
+      "query": "drone incident",
+      "detected_at": "2026-09-17T20:01:08.953618+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "87b5bb433bf4"
+    },
+    {
+      "title": "Managing Drone-Related Risks in Critical Infrastructure: Webinar Highlights & Recording - Airport Industry-News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN04zZDVGaEtGY3BvZnZFN0M0UXBJZ2w0SUwzWkczTTlwYmRRbmZJU21xVzVxUDE5bXJ5YU54aExhLU9ZZGFRb291RDVNRnMwZEpCZUJoeDNUNW1VU3Y1MGJtb21neW5pN0hIOU9DbFA1M0RRZXRBM01fTTZWTUl3bmM4SV9saE1ja2p5MHc4dUI4dmJnbnBVSmRoWTBnUjhCSUlLbHp2ZHFQWUMtdHhRc2xQcERncU9NV0E?oc=5",
+      "source": "Airport Industry-News",
+      "date": "2026-09-17T13:30:04+00:00",
+      "description": "Managing Drone-Related Risks in Critical Infrastructure: Webinar Highlights & Recording  Airport Industry-News",
+      "query": "drone incident",
+      "detected_at": "2026-09-17T20:01:08.953618+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "bff3b82334c5"
+    },
+    {
+      "title": "Finnish President Warns Citizens to Prepare for Russian Hybrid Attacks and Drone Incidents - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmNmYkpMNlNPNXAwTUNweW9OaXR4bkZmMFJ5SHFKRFAwTm5sYlFhR19aQjMybDBDSFVyVHBVS1NQcnpLeURqOEpHTEppTktZazZsVDlpV2hRZHh6M1lxZTJGeVVnUW5ZVG5aTDdsMjJMOENhUG1yYzRGS2lWWFFBZWFKNXlwb2tTRjJldGdjTFFMVl8zaVMxZ2lueFhmcjh3QnhkYlgtWFZQRDdoSW1fRTFfS1BZVGxrV0VONjA1b0Z6WGxIOEFN?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-09-17T16:25:21+00:00",
+      "description": "Finnish President Warns Citizens to Prepare for Russian Hybrid Attacks and Drone Incidents  UNITED24 Media",
+      "query": "drone incident",
+      "detected_at": "2026-09-17T20:01:08.953618+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6cc8cadfc5fe"
+    },
+    {
+      "title": "Drone incident at Reagan National Airport - Good Morning America",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUdJZWVMSURfX0tGZl90a2NiY1Z3NUZWT0xiaS0yZUlPRmlBV3pmNC14NUpyY1ZZUmVPMXVCclRQVWExUERjUlFmRXRaMy1ZdTE3M3IxRWl1SjIyOUVRTEdRaHNUVzdETVBWTzFwZ2tVcWYzN09PVWxTbU81Q0h0c0JmRXpBRGRLMlF0NEZFSkxTZmJYOHlMRTBpb1dJRXfSAZ8BQVVfeXFMTk1HSWVlTElEX19LRmZfdGtjYmNWdzVGVk9MYmktMmVJT0ZpQVd6ZjQteDVKcmNWWVJlTzF1QnJUUFVhMVBEY1JRZkV0WjMtWXUxNzNyMUVpdUoyMjlFUUxHUWhzVFc3RE1QVk8xcGdrVXFmMzdPT1VsU21PNUNIdHNCZkV6QURkSzJRdDRGRUpMU2ZiWDh5TEUwaW9XSUV3?oc=5",
+      "source": "Good Morning America",
+      "date": "2026-09-17T11:38:23+00:00",
+      "description": "Drone incident at Reagan National Airport  Good Morning America",
+      "query": "drone incident",
+      "detected_at": "2026-09-17T20:01:08.953618+00:00",
+      "location": "at Reagan National Airport",
+      "category": "airport",
+      "id": "58a77e7d57a1"
+    },
+    {
       "title": "Bosnia's Jablanica to use AI drones to detect illegal waste dumps - intellinews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVhqcWdnN09DRGZIdkNKNVU2SlVMLXlENHRtRGVxZjk3LUZhYVZTZWU4T1pndHhscnQ0VDFYdlRLNExPRm9zNUVkNnZOc01PRVQ4aEozZXU1cTZKZERTSjhMZ1RIQlBLVm5RZlJMeUJHQy1Xa0tRdXFWenlTcWp4Nm5SaXhzbEg4MGM1cl9wSkNrdXY1b1hqS1dHbTA1S1lrU2JrQVp0M1lHR2lFM3llM2N5T1p6NTNSY2c2TERoU2FZRkwyVDA5aDlyUQ?oc=5",
       "source": "intellinews.com",
@@ -11903,104 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "4cd3c77f29a2"
-    },
-    {
-      "title": "Germany finds another drone linked to Leipzig airport incident, media reports - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0pRdF9pZXdfdzhUZ2NOekwycWZlTTdvX0M4aHlpQ2x4MWxFQldaZ1pFc3dMZkxGa0tnUS1JU3FuYVRyM2l2SlZfT3BVd0xGM0Mta3YxMjA3cnBpUEpkSW85akpuMWN1dUVtMVIteWJzc2h3M3ZudElMa1lDdkxZRGQ1V3plMHlERGhFY1NiNGltb0NnV1UzajZTQnBOS2dhR1NEUFg1eG0?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-08-25T13:07:14+00:00",
-      "description": "Germany finds another drone linked to Leipzig airport incident, media reports  The Kyiv Independent",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T13:49:19.329340+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "fdc72f39c1aa"
-    },
-    {
-      "title": "Those behind hybrid attacks against Germany 'will pay,' Merz says, as officials find third drone at airport - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzVHcncwbUNkZEd6SFJIZ3pLX1NkR3hoNkJMR1ZXLWVNaDZLSGc4cC04OGhLOXcwTEQydFc4MGRxSVpBemUtZVZEbmx1NmdWSGtnODhYX0ZsYzlZWXZqQU05WDAxUlRpY25JR1FScDA1TXg1a2lhQjFKcWpYT1VVZGJmdUp5dlpHOUhRYVFidWF2ejI0SDhTLUJCZEI0R2lMUjBOclNLVW84RnAyOUhhSkRqOWFLeHZSUXlPeXlwN1dJNlBHQ2h2N01JbjNENWhWTmc?oc=5",
-      "source": "Euronews.com",
-      "date": "2026-08-25T06:49:10+00:00",
-      "description": "Those behind hybrid attacks against Germany 'will pay,' Merz says, as officials find third drone at airport  Euronews.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T13:49:19.329340+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "8955c3252abb"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-25T11:14:19+00:00",
-      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T13:49:19.329340+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "d9950de194de"
-    },
-    {
-      "title": "Merz on incident involving Ukrainian aircraft in Leipzig: Those responsible will pay for it - Цензор.НЕТ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDZzbjJ4RzRBQ0VhVHplYkNjTS04aTlyR2dzajE1Zk5kTExQVFF5LUJxMlFoSzh5U3ZBaExaUjNOWVRLeV83SGU2alAxN1VLT3NJRG1TMklfb1ptSmNfQWJNY3o4Mnl0bjNWTkx0dk9fdWhWcVBRV0hEM0QwaWNyYTJhOWozdmwwT0xGSUppT2RLdmtGN0gtbWYza2lsdHd1MEU4czVn?oc=5",
-      "source": "Цензор.НЕТ",
-      "date": "2026-08-25T11:42:00+00:00",
-      "description": "Merz on incident involving Ukrainian aircraft in Leipzig: Those responsible will pay for it  Цензор.НЕТ",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T12:45:08.387762+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ed38cc02e37f"
-    },
-    {
-      "title": "Germany to Reveal Perpetrators of Leipzig Airport Drone Attack Soon - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NVMHNZd2ZLOGx6VFczRHM2LWYtTG9nT01sdlJaY01jNTVqWFlkYmllXzhvXzN2SnpqMG5sOEJabU9rd1QwNGs5X3k1ZzItcFBQSk1qSjNzQXZ5M3JNcmFyeUh1dV81OEpURkNPc1lKTjFMeS0yYXMxUzNIUmZqX0dEUUdxWFhrSEN6ajhJY2lUbXh5aFg5eVluUG0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "date": "2026-08-25T10:50:37+00:00",
-      "description": "Germany to Reveal Perpetrators of Leipzig Airport Drone Attack Soon  Global Banking & Finance Review",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T12:45:08.387762+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "9674d428be68"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-25T06:43:41+00:00",
-      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T12:45:08.387762+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "c2b7365900f4"
-    },
-    {
-      "title": "Three drones reportedly used in attack targeting Ukrainian An-124 in Germany - The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVnZtRVVVWGVXQWxpY0s5S282YnFxOFAyVnZQVnFlNXlsdXZNYTJYTjNFQlpkSThtVmxfcFR1RGxlTGZsWXNmSG1vQjZ3QmoxVXhJUHNUT1lJMGVPemdsUC1OQVBzQ3JkdXh0SUxUeE5pbGxKNVFEaVozQ014ajZpUmNyVFVDUGExcDNOQVluck1HS0kwMXk5ZU9rZ3hlMVFmS1RNbUZXNmtmUEtrR084aW9xaUhjaGhMQmctUzhNbTRmLV85cVHSAbsBQVVfeXFMTzdwY2FNNW9LbnFIb3IxV2pkN2VTcTFHMWFmdXZlMXRVclBhb1FienUyY2tUbEdWb0RNd25pXzZSR1J6Y0ExcXF5b1RrQWJucVBOVVp2MXFuZ1hmVUNpSXlSNWVaNzV6S0QxdFFCcE5sZ21jS2ZBZGUxZHlIbGJwbW12OE1kcGZfSUVPbDloWlVJSHZRS2xDNDZrQTdZUjVRb0p3WjdNdkVrY2QwUmh4MllwS3hFN2VEVXdiYw?oc=5",
-      "source": "The New Voice of Ukraine",
-      "date": "2026-08-25T10:15:00+00:00",
-      "description": "Three drones reportedly used in attack targeting Ukrainian An-124 in Germany  The New Voice of Ukraine",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T11:26:09.260442+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b7056844cddd"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
-      "source": "dw.com",
-      "date": "2026-08-25T09:55:41+00:00",
-      "description": "Germany news: Third drone found in Leipzig airport probe  dw.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T11:26:09.260442+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "71c14b4e4ecb"
     }
   ],
-  "last_updated": "2026-09-17T16:21:00.340905+00:00",
+  "last_updated": "2026-09-17T20:01:16.009662+00:00",
   "total_count": 1000
 }
