@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Flights briefly paused at DC airport as unauthorized drone appears over runway - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xc2M0VzBuUTRNRENMVW5oNmVnYzBzX1NiZFNoYWFmcG13NHpMWmhtNjA4LXpVckRGeXBpeThlUXFZTHU5VHJiQ2pQVERoSktRYTVINnlPbURHeDVySXhqc1VpM0ZNUQ?oc=5",
+      "source": "cnn.com",
+      "date": "2026-09-18T02:33:00+00:00",
+      "description": "Flights briefly paused at DC airport as unauthorized drone appears over runway  cnn.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-18T08:47:59.789214+00:00",
+      "location": "at DC airport",
+      "category": "airport",
+      "id": "5d994e00b346"
+    },
+    {
+      "title": "Unauthorized drone flight near Reagan National Airport briefly pauses flights - WJLA",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdk0zWHJBUHJmazhKZHVQNXl3MzdXVmxsUG5aWkY2bG5CRHExUDlmSTZHSWlzdUhEaExUT1hLN0ZXQUN4VUhudUJWSlZIYUloUy11OWQtdUxGWXViNU1qQXdwUjEtY1RQZDlmWTJGTnFSS0k5WXVpbFAzcWQ5eUN5N2lVQ1Z0N0s0c1czQWVzdlozdG9RdXF6RS02akJfN3hfY0k0X2hGbG81YzhWaU5IT1hraElTc3ZjejdrWDhwLVlPTzdLd3Q5eG15QkVLdGJybkowQmlWRzZfdEt3Zy05Yi0zeXI2UkZOaUdnNEM5Z1VRUTN6WHBRZA?oc=5",
+      "source": "WJLA",
+      "date": "2026-09-18T04:45:27+00:00",
+      "description": "Unauthorized drone flight near Reagan National Airport briefly pauses flights  WJLA",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-18T08:47:59.789214+00:00",
+      "location": "near Reagan National Airport briefly pauses flights",
+      "category": "airport",
+      "id": "9e9f91ffa469"
+    },
+    {
+      "title": "U.S. made Saudi F-15 jet reportedly shot down by Iran-backed Houthis after drone attack as Africa’s most powerful military commander declares support - africa.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdnA1Wm9UaC1uWFZ0T0RvTHFScDllMlJpb0drQjR2QnRiSDR6N1QtRFJIejhlbXY0LUpzaHFDeFY3b253TVJQM3d5dHRXd3R5NnNUYzZKZHhLcHo3b0ZNOWh3bjlqQzVBdWs0VnQySS0zSG14ZWJhOEFsZW0zb1JKek00UGMtNlFMVm9RakJsNzBCRmRScXNZV0E5TmJoRnY3SENSb29xdVgtaVhYMjJxZ1RiMDhkTE1veFZnWWk4djMwdThjYTM5QUdYbElvX0trVjlldDUxUzNUQQ?oc=5",
+      "source": "africa.businessinsider.com",
+      "date": "2026-09-17T18:00:00+00:00",
+      "description": "U.S. made Saudi F-15 jet reportedly shot down by Iran-backed Houthis after drone attack as Africa’s most powerful military commander declares support  africa.businessinsider.com",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-18T08:47:59.234913+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a9f032b1c270"
+    },
+    {
+      "title": "Reports of unauthorized drone briefly pause flights operations at DC airport in highly restricted airspace - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUE9iXy1rMENqNVo1SEY5eGRPTDlMdGd3U2szWEFvamY3NWtOamhwVllGOV9DXzUwNWpVMDRnY2FTTmllS054cVpmcl9BaWFaWEFoZ3hYQXRyTjM3ei1ITUY3aEoxYlJrUE1jOU9fdlg0WmE4OWFIeGdvOVJJYk13YVg2TVZRNnBnM3M2LUVyYVp1bmlzYlRCcE1GLWd0WUhsVG1ScjYwTVZhYXdiWkpDcHZlRDJKam9mSTdDa045dEFOYUtGaHZBSUdqTlo?oc=5",
+      "source": "ABC7 New York",
+      "date": "2026-09-18T00:07:32+00:00",
+      "description": "Reports of unauthorized drone briefly pause flights operations at DC airport in highly restricted airspace  ABC7 New York",
+      "query": "drone illegal",
+      "detected_at": "2026-09-18T08:47:58.124348+00:00",
+      "location": "at DC airport",
+      "category": "airport",
+      "id": "a3d2561bf4ab"
+    },
+    {
+      "title": "A South Korean drug convict serving time at the New Bilibid Prison could not execute his escape plan of strapping himself to a drone, the Bureau of Corrections said on Thursday. https://tinyurl.com/43eax4ra - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEltOGRTZ0tDZmxwdjVfV1ZqQUlyelF6R1Jxd3RXWk9UaVRKekJKN0ZQRUh2OUw5amVFYmdidjY1akNmN2E5MmxvQVhPQVBCM1NrcG0ycmtpR1plZUt0Qnp5QlhMdnlBUmxqSDMwaDdkS21PUV8wTjl3S1k0cl9ESmlrVU1RaVplVHJPWVN4MHE4VEt0WW5WMWgwcFFJVEZHU0czYWNCY0k1a0NfX3FubDR4TlNUTlJ2aUF5VUs1bUhKTUV0TFg1d29JNHlnS2pkYWlWUm56RnlqbFpa?oc=5",
+      "source": "facebook.com",
+      "date": "2026-09-18T00:30:33+00:00",
+      "description": "A South Korean drug convict serving time at the New Bilibid Prison could not execute his escape plan of strapping himself to a drone, the Bureau of Corrections said on Thursday. https://tinyurl.com/43eax4ra  facebook.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-09-18T08:47:55.888553+00:00",
+      "location": "at the New Bilibid Prison",
+      "category": "smuggling",
+      "id": "6e83eadf139b"
+    },
+    {
       "title": "Unauthorized drone flight near Reagan National Airport briefly pauses flights - WJLA",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdk0zWHJBUHJmazhKZHVQNXl3MzdXVmxsUG5aWkY2bG5CRHExUDlmSTZHSWlzdUhEaExUT1hLN0ZXQUN4VUhudUJWSlZIYUloUy11OWQtdUxGWXViNU1qQXdwUjEtY1RQZDlmWTJGTnFSS0k5WXVpbFAzcWQ5eUN5N2lVQ1Z0N0s0c1czQWVzdlozdG9RdXF6RS02akJfN3hfY0k0X2hGbG81YzhWaU5IT1hraElTc3ZjejdrWDhwLVlPTzdLd3Q5eG15QkVLdGJybkowQmlWRzZfdEt3Zy05Yi0zeXI2UkZOaUdnNEM5Z1VRUTN6WHBRZA?oc=5",
       "source": "WJLA",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "e59d26e741f7"
-    },
-    {
-      "title": "Wrights Spring Fire team working with law enforcement to track illegal drones - dailydispatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTFxclR1MVBNNnVjSGpFRDczZ241TUJNbzFLRFF2bldSVDduVjJRQ3E5T2VEb2ZNQkViSkt6TFV6M3RWejd6dnp1YkwwdGNEVWItTWV1c0VmX0dudDBCYnYtbm1rUzBvSjlWM0g5ZWl4WGJPT3ZoSEozVjBWYlVaYWkta0NXYzVFcVJwZnpPWkNSV29pbUhnbmJmLXZ5eEg5QVYyWTRTTlNjdzZtSHUzWjhFMVh6Y29yQ2Vib3BB?oc=5",
-      "source": "dailydispatch.com",
-      "date": "2026-08-25T15:58:04+00:00",
-      "description": "Wrights Spring Fire team working with law enforcement to track illegal drones  dailydispatch.com",
-      "query": "drone illegal",
-      "detected_at": "2026-08-25T16:36:02.070052+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cbb18558f841"
-    },
-    {
-      "title": "The head of Russia’s flagship Tula drone center is arrested on fraud charges - Meduza — Новости",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjFjdnZxTmFneDh6bFF5RHl5bXJ3bG80Zk1FTEdXWHkza1F3bllxc1lOakYxWC1LRjBxRXdLaUVPTXFhT25JaUs4OFU1OFpaclE1ZEtzUGVkeWZ5TW1JUklNeGszSGdoM05QSmhlaHBFWmFDUElXWGZpOWVPYmtwT0VnTm5LMmg3TUhxYUNvY3FfNVllTUtTbm1FYTVaNjJ3SG1veTRlNFlleTFFdlNkY1o0MA?oc=5",
-      "source": "Meduza — Новости",
-      "date": "2026-08-25T16:16:00+00:00",
-      "description": "The head of Russia’s flagship Tula drone center is arrested on fraud charges  Meduza — Новости",
-      "query": "drone arrest",
-      "detected_at": "2026-08-25T16:35:55.506957+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f83f075f2dcb"
-    },
-    {
-      "title": "Germany struggling to deploy drone defence systems, industry says - euractiv.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamt5UXQtbEFTTkRpa2xMZjdFMURMdU5qVXFuSlN0dlBVS3Bfd1dOcG9EZjVpdVU2aHFISl9qYzJCamxNczhoOElJbFdOYTBLRW9WbllxcEkxclJkTEJPb1BxdTdQeC12aGZodnM1eVFMbXlTZ205MEl3MkxVSzN6Vl9LV2RqMmZNaDRxdnhnV3VOZDlhT2c1dzFWdw?oc=5",
-      "source": "euractiv.com",
-      "date": "2026-08-25T15:54:21+00:00",
-      "description": "Germany struggling to deploy drone defence systems, industry says  euractiv.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T16:35:54.809114+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9bdf77a9e394"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-25T06:45:26+00:00",
-      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T16:35:54.809114+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "f44e114e80c9"
-    },
-    {
-      "title": "Slovak police foil planned arson attack on drone factory, charge 3 foreigners - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnBrRGMtdHRVbXdVRVpSZmlfajBIVmd1TTBHUkx3UkNXY24yVkZrdEg0aUxHXzItYVdRdTVmend0NzNsT2tjUzJZR2VnRmVSbWVVN3k4UmFfVVBST2RpekNtdjdLRUh2VUxZaE1TSmliS2VWLVp3S2ppbHBDa3dkbDhScVBQVkdfTWR4TmxzT2cxOEFuZ2tlODF3aHNwTUNJRUhwV3ZYanVpV0wzVWlISWtSZl96QQ?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-08-25T14:48:48+00:00",
-      "description": "Slovak police foil planned arson attack on drone factory, charge 3 foreigners  Anadolu Ajansı",
-      "query": "drone arrest",
-      "detected_at": "2026-08-25T15:40:26.110244+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "316dde750597"
     }
   ],
-  "last_updated": "2026-09-18T03:27:04.530657+00:00",
+  "last_updated": "2026-09-18T08:48:00.296878+00:00",
   "total_count": 1000
 }
