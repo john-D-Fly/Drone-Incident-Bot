@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Suspected Drone Near Washington Airport Suspends Flights for 20 Minutes - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXJEbmNuVWRiQzE5R3dES1ktVkllZmRUVGkxWWhWT2NzY1dzTzdqeVREdmRrWl9td0MyNE1zYUtwTmZ1bERCRGdBVkJhdklCazd5YTgxdk5aS0hueUJSYjFtMVJSSkEyVEdqaGtMZVp5MmltSU1TWGx5T1JYaVQ0M2l5SU9LVVh1ZEZrNXQwb0ZGMGN3N0hDOEw0VDRpbDluaEZxb3JRVTBSVThnMkE?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-09-18T08:50:21+00:00",
+      "description": "Suspected Drone Near Washington Airport Suspends Flights for 20 Minutes  UNITED24 Media",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-18T13:25:01.120810+00:00",
+      "location": "Near Washington Airport Suspends Flights for 20 Minutes",
+      "category": "airport",
+      "id": "09be439d5456"
+    },
+    {
+      "title": "Flights Resume At Washington National Airport After Unauthorized Drone Causes Brief Halt - Simple Flying",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUtPeWYzQU1Yb2RKWWs0RDBGTmlGN0RjZGVrSVJRcGVFbjZmWjN2cXYyM0h6OV9vcTRFRFk0bUlqT1RVSzRJVzU3akF3dGM4bG53d2taTExmOEZka19hRGpuUTJLWnVTazYxdGJySlhhZEtobTNYSmUzRWJtcVVkOWVJMENJbEJEUGV1WUVOMTl2UWNkT2U3aUhMdUEtWmc?oc=5",
+      "source": "Simple Flying",
+      "date": "2026-09-18T07:35:31+00:00",
+      "description": "Flights Resume At Washington National Airport After Unauthorized Drone Causes Brief Halt  Simple Flying",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-18T13:25:01.120810+00:00",
+      "location": "At Washington National Airport",
+      "category": "airport",
+      "id": "5d6b23d6ba17"
+    },
+    {
+      "title": "Flights briefly paused at DC airport as unauthorized drone appears over runway - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xc2M0VzBuUTRNRENMVW5oNmVnYzBzX1NiZFNoYWFmcG13NHpMWmhtNjA4LXpVckRGeXBpeThlUXFZTHU5VHJiQ2pQVERoSktRYTVINnlPbURHeDVySXhqc1VpM0ZNUQ?oc=5",
+      "source": "CNN",
+      "date": "2026-09-18T02:33:00+00:00",
+      "description": "Flights briefly paused at DC airport as unauthorized drone appears over runway  CNN",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-18T13:25:01.120810+00:00",
+      "location": "at DC airport",
+      "category": "airport",
+      "id": "70f319facf5f"
+    },
+    {
+      "title": "Military Shooting Down Cartel Drones At the Border - EastTexasRadio.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkgyUTRIU3JZb0NBZXo3bFhZLVFlRURHTXQzUUIyaXROR0M2TFpZZjlqZ3dGcmczRXBtQXRsZWhaaXdPZzAxTnZkZ3g1Tlhmc29ldl9LOHpiVVZMTTBtM0VHT1Q3TkU1c211c3IwWXJ2cm1SRk1kUFlsbFMydmxiRG14MlY?oc=5",
+      "source": "EastTexasRadio.com",
+      "date": "2026-09-18T11:18:45+00:00",
+      "description": "Military Shooting Down Cartel Drones At the Border  EastTexasRadio.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-09-18T13:24:56.840442+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "472ad283270d"
+    },
+    {
+      "title": "Closing the Drone Response Gap - securitytoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVJTSDNuazNZd3ltODNSTjRxUUVLdUpuV1psVHp5UFRWUDZRMmlCR2lCUi1BaDRzT2QyX0NsNTJfZ2lPY3ZGTWJIVGlPRE5fMWkxb1ZDQUtDQ3NTb081Tlh2VXdvY2VFSDh6cXJQbHFwNlZiZU9heVBjWXUySnV0Qk9weDJtYmIx?oc=5",
+      "source": "securitytoday.com",
+      "date": "2026-09-17T19:16:46+00:00",
+      "description": "Closing the Drone Response Gap  securitytoday.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-18T13:24:55.700080+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5a4c16f20a98"
+    },
+    {
+      "title": "Flights briefly halted at Reagan National after pilots report drone near runway - WCPO 9 News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGg0SlUwMFR6eDRGemNyc0p4Q3lFMHJQb1NvWTY5MHVGLVZUQnB1U2J3ZDhPV29NbUZSZ3BkWk9TWDFFcW40T29jV2JZLXJMUElVdXgweGFwTVJVR3VvUEVlbEYwZE9kU01Id201elNJOHJ3cXJsaHBUeS11OTlxR1RpNklWRnd4YnhfQzBaNUR5SklkSGdIYndyYTdpZ04wcm9DQUtmeDVvUnp3dUpBTTd3?oc=5",
+      "source": "WCPO 9 News",
+      "date": "2026-09-18T12:55:04+00:00",
+      "description": "Flights briefly halted at Reagan National after pilots report drone near runway  WCPO 9 News",
+      "query": "drone incident",
+      "detected_at": "2026-09-18T13:24:55.700080+00:00",
+      "location": "near runway",
+      "category": "airport",
+      "id": "c84d2f3d95fd"
+    },
+    {
       "title": "Flights briefly paused at DC airport as unauthorized drone appears over runway - cnn.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xc2M0VzBuUTRNRENMVW5oNmVnYzBzX1NiZFNoYWFmcG13NHpMWmhtNjA4LXpVckRGeXBpeThlUXFZTHU5VHJiQ2pQVERoSktRYTVINnlPbURHeDVySXhqc1VpM0ZNUQ?oc=5",
       "source": "cnn.com",
@@ -11927,80 +11999,8 @@
       "location": "near Leipzig airport",
       "category": "airport",
       "id": "fad6a9069a53"
-    },
-    {
-      "title": "Slovak police thwart arson plot targeting Ukrainian drone factory, media reports - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0oybGxGb21pc3plTkR6QW9BQ0JlY2VTTmV6eXN4REw2YWdrZlBMbkVUU3Exd2E1c3pWb25VUEN3VlNya3lhYXNTY1BFQmJMSUV5UjF6WUN2U1N2R3NPMUE1eXRLT3kzYWRSZFBuLXREUEphZER0a1BTTDlQTmtITDEtMjJYd2dQdS1pRUdMenJXUQ?oc=5",
-      "source": "Yahoo",
-      "date": "2026-08-25T18:18:16+00:00",
-      "description": "Slovak police thwart arson plot targeting Ukrainian drone factory, media reports  Yahoo",
-      "query": "drone arrest",
-      "detected_at": "2026-08-25T18:37:38.947689+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6466e5f04bfa"
-    },
-    {
-      "title": "Russian drone center director arrested on fraud charges - The Defence Blog",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWw1cDZrR01KZlFQeHA0b0k0TDVTdEJCX2pvbFJPV3NhMGs5WGhGcXdRTmRtYnFzLUVPa3RzbWN3RDBScGYzcTVoOUxXZXJvWWc0bDh0X0xNa0o5VWRmdld4VkRHOVJBYmZROExacFo4SzREOGZhNWxGNWE4UUNkb3dfNldYSk9X0gHcAkFVX3lxTE9RVmxfaThaT2tmNm40VmtoN04xTkw0ZTJDY0FhMW14cFI0Nm5Ldms2Z3hud01xRVN0Y3VWUEZzR2gyZ2pSZUE4ZVRXZGE1MmtzbU00YXNaUEZTendJZ0d2bVhRV0RtaWZ0ZS1rdXFNbWtiY1MyN1lFbjlBenlDT1kxNUhUNGhqUFlQcDhiOGIzMklhdjNiUlJUVkhnbzAyRkR5VUg1eERLQXF5T0lXV2syNzZzZWstUTRheUswTWtqeXBDeVpXX3VQNHVuRnEwWmdRUmk2YVNLZnRzWXF5Q1FURWFETGJaXzVTN0Q2cUhSV1hsc29tU2FNSHlXTzYtT0htdWJtd0RzNHB4MGtvc2tiVFdKcEpNNHlLN2ZYNXVVOE1zRWtYclpHeFRhbTlxYVJLMXNydGx6bTd3MGtlelRSQVNaVlBOZmxpVzM5cUNWWnNJbnN1YjdVSFEwUA?oc=5",
-      "source": "The Defence Blog",
-      "date": "2026-08-25T13:15:56+00:00",
-      "description": "Russian drone center director arrested on fraud charges  The Defence Blog",
-      "query": "drone arrest",
-      "detected_at": "2026-08-25T18:37:38.947689+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "ed2aad65fb05"
-    },
-    {
-      "title": "The head of Russia’s flagship Tula drone center is arrested on fraud charges - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjFjdnZxTmFneDh6bFF5RHl5bXJ3bG80Zk1FTEdXWHkza1F3bllxc1lOakYxWC1LRjBxRXdLaUVPTXFhT25JaUs4OFU1OFpaclE1ZEtzUGVkeWZ5TW1JUklNeGszSGdoM05QSmhlaHBFWmFDUElXWGZpOWVPYmtwT0VnTm5LMmg3TUhxYUNvY3FfNVllTUtTbm1FYTVaNjJ3SG1veTRlNFlleTFFdlNkY1o0MA?oc=5",
-      "source": "Meduza",
-      "date": "2026-08-25T16:16:00+00:00",
-      "description": "The head of Russia’s flagship Tula drone center is arrested on fraud charges  Meduza",
-      "query": "drone arrest",
-      "detected_at": "2026-08-25T18:37:38.947689+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "73612e350500"
-    },
-    {
-      "title": "Germany news: Third drone found in Leipzig airport probe - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkFJN2VBaWdoSGptRlpaNm52ZjkzNXAwbDloSk1zOVhsbjBGQzVMYXZ0MzI3ZnhydEtyaTUtVzNEZFZqeWNCZFBRdEhIV0o5ODh2MlBwMDY4TU43b3RiVTBabHM3Sk45SGVIcGlOUm93aTdZLUpQY01iVERDV29WejRieWFSUkxOeEhsNXVtdzRBbzBqdkE?oc=5",
-      "source": "DW.com",
-      "date": "2026-08-25T06:22:34+00:00",
-      "description": "Germany news: Third drone found in Leipzig airport probe  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T18:37:38.390944+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "453a665a630d"
-    },
-    {
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bc00tUjhPSzhkbWFhODlFOGRzYUVSUHoyZm01VFM4eFA3V3FrRmltTGtuSXNubEV5aXl5U2hVZTJ2Rk1hNzB5cFA5TDloZmx1TTU4Nl8tblg0Zw?oc=5",
-      "source": "BBC",
-      "date": "2026-08-25T17:12:21+00:00",
-      "description": "Germany's Merz warns attackers will 'pay price' after drone incident  BBC",
-      "query": "drone incident",
-      "detected_at": "2026-08-25T18:37:38.390944+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f0eab811a316"
-    },
-    {
-      "title": "Wrights Spring Fire team working with law enforcement to track illegal drones - dailydispatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTFxclR1MVBNNnVjSGpFRDczZ241TUJNbzFLRFF2bldSVDduVjJRQ3E5T2VEb2ZNQkViSkt6TFV6M3RWejd6dnp1YkwwdGNEVWItTWV1c0VmX0dudDBCYnYtbm1rUzBvSjlWM0g5ZWl4WGJPT3ZoSEozVjBWYlVaYWkta0NXYzVFcVJwZnpPWkNSV29pbUhnbmJmLXZ5eEg5QVYyWTRTTlNjdzZtSHUzWjhFMVh6Y29yQ2Vib3BB?oc=5",
-      "source": "dailydispatch.com",
-      "date": "2026-08-25T15:58:51+00:00",
-      "description": "Wrights Spring Fire team working with law enforcement to track illegal drones  dailydispatch.com",
-      "query": "drone illegal",
-      "detected_at": "2026-08-25T17:30:45.825480+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e59d26e741f7"
     }
   ],
-  "last_updated": "2026-09-18T08:48:00.296878+00:00",
+  "last_updated": "2026-09-18T13:25:01.636699+00:00",
   "total_count": 1000
 }
