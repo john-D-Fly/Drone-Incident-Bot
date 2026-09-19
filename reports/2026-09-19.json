@@ -1,0 +1,127 @@
+{
+  "narrative_summary": "Over the past 48 hours, there has been a significant number of drone-related incidents predominantly centered on unauthorized drone activity causing disruptions at multiple airports, particularly in Luxembourg and Washington D.C. Several flights were paused or diverted due to suspected drone sightings near runways. Noteworthy are the repeated drone activities near military bases in the UK, raising security concerns. In Moldova, reports regarding Russian drone breaches continue to surface, reflecting ongoing tensions in the region. Additionally, incidents involving drones tied to criminal activities, such as a murder-for-hire plot in Florida, further illustrate the diverse implications of drone use. These events underscore emerging risks and necessitate a review of current policies to address the growing prevalence of unauthorized drone operations.",
+  "totals": {
+    "airport": 22,
+    "other": 21,
+    "security": 3,
+    "smuggling": 3,
+    "arrest": 5,
+    "interference": 4,
+    "terrorism": 4,
+    "total_incidents": 100,
+    "by_category": {
+      "airport": 41,
+      "arrest": 3,
+      "crash": 5,
+      "interference": 2,
+      "other": 37,
+      "security": 4,
+      "smuggling": 6,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 11,
+      "drone arrest": 8,
+      "drone crash": 3,
+      "drone illegal": 5,
+      "drone incident": 27,
+      "drone prison": 9,
+      "drone security breach": 2,
+      "drone smuggling": 4,
+      "drone terrorism": 12,
+      "unauthorized drone": 19
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity at Airports",
+      "rationale": "Multiple incidents at major airports causing disruptions indicate a persistent threat to aviation safety.",
+      "incident_ids": [
+        "e84ac4af1efe",
+        "927de5b8c847",
+        "7d1cbed0e43c",
+        "fed490f15cd0",
+        "ca19584a3e63",
+        "2bcaa55cb564",
+        "4b022eb19e72",
+        "d37429dc78ac"
+      ]
+    },
+    {
+      "topic": "Military Drone Incidents",
+      "rationale": "Increased sightings near military bases suggest possible security vulnerabilities.",
+      "incident_ids": [
+        "2a14370effa9",
+        "487acc38354d"
+      ]
+    },
+    {
+      "topic": "Drone-Related Crimes",
+      "rationale": "Drone incidents linked to criminal activities highlight the need for stricter measures.",
+      "incident_ids": [
+        "2b3c051519c7",
+        "ca1b498b778e"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e84ac4af1efe",
+      "headline": "Luxembourg Airport halted operations after unauthorized drones were detected.",
+      "one_sentence": "Luxembourg Airport was forced to stop operations due to unauthorized drone activity.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "2a14370effa9",
+      "headline": "Drones are spotted near British military bases almost every day.",
+      "one_sentence": "Increased drone sightings have been reported near British military installations.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "927de5b8c847",
+      "headline": "Luxembourg Airport Halts Flights Over Unauthorized Drones.",
+      "one_sentence": "Flights at Luxembourg Airport ceased due to unauthorized drones being detected.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "7d1cbed0e43c",
+      "headline": "Drone sightings briefly shut Luxembourg airport.",
+      "one_sentence": "The airport in Luxembourg experienced temporary shutdowns due to drone sightings.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "aa3f979e3e82",
+      "headline": "Neighbors fighting over drone in Central Florida turns into murder-for-hire plot.",
+      "one_sentence": "A dispute over a drone in Central Florida escalated into a murder-for-hire scheme.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "48 hours of escalating drone incidents across airports, military zones, and criminal activities highlight urgent safety concerns. #droneincidents",
+    "linkedin": "Recent drone incidents, particularly around airports and military sites, demand a reevaluation of safety protocols amid rising unauthorized activity."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-19"
+}
