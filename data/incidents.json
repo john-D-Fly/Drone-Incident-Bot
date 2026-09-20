@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Suspected Drone Near Washington Airport Suspends Flights for 20 Minutes - united24media.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXJEbmNuVWRiQzE5R3dES1ktVkllZmRUVGkxWWhWT2NzY1dzTzdqeVREdmRrWl9td0MyNE1zYUtwTmZ1bERCRGdBVkJhdklCazd5YTgxdk5aS0hueUJSYjFtMVJSSkEyVEdqaGtMZVp5MmltSU1TWGx5T1JYaVQ0M2l5SU9LVVh1ZEZrNXQwb0ZGMGN3N0hDOEw0VDRpbDluaEZxb3JRVTBSVThnMkE?oc=5",
+      "source": "united24media.com",
+      "date": "2026-09-18T08:50:21+00:00",
+      "description": "Suspected Drone Near Washington Airport Suspends Flights for 20 Minutes  united24media.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-20T05:45:34.521513+00:00",
+      "location": "Near Washington Airport Suspends Flights for 20 Minutes",
+      "category": "airport",
+      "id": "498bdfb8ba1b"
+    },
+    {
+      "title": "Luxembourg’s only airport halted flights for hours after ‘unauthorized drones’ were detected overhead - meduza.io",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNekQ1bmxDMDNZazlQTUNFa2JscnMyQ2hKWHF3MVZ0UVRsV1hYeVRjcFgwRGdMWUd3Q3JiWVgzRHR1c3JsYWo2NXFZaU53eHd1dkVCSDZhc0ljQzQ3Q0pCbEg2aEYzUThSbmlfZXh1TnEyZWJGOXpuZjN1Ukd0LXl5dWl2R0kyMms0dWZlT3k2bXZjYVlBYnZwLTFOMGNrTG5kNjlrUkw2VURyX3JSUEVMOHp2UmJiWExpaDlIQy1PaTBBQ2VMbHZDY1dST3Q0TU96Q2lQZUlwVdIB1wFBVV95cUxNekQ1bmxDMDNZazlQTUNFa2JscnMyQ2hKWHF3MVZ0UVRsV1hYeVRjcFgwRGdMWUd3Q3JiWVgzRHR1c3JsYWo2NXFZaU53eHd1dkVCSDZhc0ljQzQ3Q0pCbEg2aEYzUThSbmlfZXh1TnEyZWJGOXpuZjN1Ukd0LXl5dWl2R0kyMms0dWZlT3k2bXZjYVlBYnZwLTFOMGNrTG5kNjlrUkw2VURyX3JSUEVMOHp2UmJiWExpaDlIQy1PaTBBQ2VMbHZDY1dST3Q0TU96Q2lQZUlwVQ?oc=5",
+      "source": "meduza.io",
+      "date": "2026-09-20T01:56:00+00:00",
+      "description": "Luxembourg’s only airport halted flights for hours after ‘unauthorized drones’ were detected overhead  meduza.io",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-20T05:45:34.521513+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d74a6d585dd1"
+    },
+    {
+      "title": "The Rise of A.I. Is Raising Threats From Drones, Police Group Warns - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXNUREZlbm5QdHAydF9MdzlvMkUtLTBqWk56bTd5SHFTRThPZ1ZQMl9pMVBFdzhJbDVGMlAtc1l3Q05ZdzBzdnV6SWJ4Wk9MY2JPQk5pbVBSWTBqY29rTWhxdzF3NElxc3IycVQybzlfMU54RENJVl9GM0ZjSm16cnJ0WHd1UDB0aFpJbDdWNA?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-19T07:00:24+00:00",
+      "description": "The Rise of A.I. Is Raising Threats From Drones, Police Group Warns  The New York Times",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-20T05:45:34.521513+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "ca785520a5ed"
+    },
+    {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0M1RqdlhDaEtlM0o2NEJqWEgtclk1NWZkeklLQTl2NUFFSEdLOFlPRVp2Mm1Lemx4czFSZnlBRVVhVkh6a0hJcXNQbWtoMF9JUVFKTUR1WVdUczQ?oc=5",
+      "source": "BBC",
+      "date": "2026-09-19T23:49:26+00:00",
+      "description": "Houthis say they targeted Saudi capital with ballistic missiles  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-09-20T05:45:31.395888+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8c0887a805ac"
+    },
+    {
+      "title": "Luxembourg airport reopens after drone alert diverts 19 flights - eutoday.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oaGFIcm9CeGdsUVR5UlhCU1g1TExYS0wzS19lUDRjTlIyREl5NWRTSzRIQ3Q4R1JmMVVDRWhGUU1QVUZOTFpORXM3SWhuTDdXNUQyeFd1b0RYZjhpN0dENWdwY0pkNEpRRUpxNURTenIyNmw3ZlM4?oc=5",
+      "source": "eutoday.net",
+      "date": "2026-09-19T09:44:45+00:00",
+      "description": "Luxembourg airport reopens after drone alert diverts 19 flights  eutoday.net",
+      "query": "drone airport disruption",
+      "detected_at": "2026-09-20T05:45:31.395888+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "026a02716e24"
+    },
+    {
+      "title": "Neighbors’ drone dispute turns into murder-for-hire plot, authorities say - WECT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU5kVHNwdG4tbHhqZ2RDQUsxTWx4amhWNXU4TDFRbEtSNEJ1bTFCZm44bW1oNHpucWxfS2xRNXpLUk9wYWsyd1NndXBkbm9OUU84NlV6cTBuLS1xTU15bHk2OFZxcko4YV9QajM5V3ljSlRBcExKWk0zSTltcm4xYl9OVmlycnlZUEc0RXl2TGdvcGxlNzVzY05NRkJDaUlleExIeWpFONIBuwFBVV95cUxPYXk4X3pEX1ZZc09McHhXNmpQSlJSTk91bmJ3OU1kalZlYXREeGQtUG8wdVJuY2lvV2MzeENGdlVuWkI1Q0E4TUUtdGhVRmVsY2IxdmgtbFZMcTFReE1Uc2ZBN2l0ZEVzNUJXM1RaU0g2OFV0cUVFS3lGdlFGZEdMOEczODlkSzRwQnNuUkU3OXRNZTdkRlV4RTAzemp6SUVTbkN0Wmk0RU9zc2I4X1VQajVjYU1IOWFYRDl3?oc=5",
+      "source": "WECT",
+      "date": "2026-09-20T04:35:00+00:00",
+      "description": "Neighbors’ drone dispute turns into murder-for-hire plot, authorities say  WECT",
+      "query": "drone prison",
+      "detected_at": "2026-09-20T05:45:30.626617+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6ee7706fba47"
+    },
+    {
+      "title": "Drone sightings briefly shut Luxembourg airport - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YXltVVNONThlNGh5SHpJNi1QaExMVkdzSXYtaEV5NGpUMjVuREpTSXB1dVRxNUhqaFBFMHdLVDUxUnhlUGRrdTlXQTMxcEpkbGk5TVZLbjhVZjBneGF6eUQ2dlk4anM0MGFfVXRMbnZiSjZD0gF0QVVfeXFMTTNiaDlpMXU3aEdLUy1udEx0TmRleHFlMFFiNFhOaTZqMkw4ZTNlcmptTlZsamhuZ3dReXhscnh3bWJGTmFCLTB0dmdMaE5sZEtIcVlNRFhmVUd1ZmNEMUJNRFRSdGlfZk5EWFREWnM1RERBa3E?oc=5",
+      "source": "dw.com",
+      "date": "2026-09-19T14:58:45+00:00",
+      "description": "Drone sightings briefly shut Luxembourg airport  dw.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-20T05:45:28.775734+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "8ee3dc00ae77"
+    },
+    {
       "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
       "source": "abcnews.com",
@@ -11915,92 +11999,8 @@
       "location": "near prison",
       "category": "smuggling",
       "id": "7ef71db77f72"
-    },
-    {
-      "title": "Laser used to shoot down cartel drones near Mexico border - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0SnNoZGtTdVctUTY2QWpNTFVsQmE2Z0dGdWJqamtyUWhlMENuYUlJX19kakNuUE9sNTA3TWdsbEQyWV84SEdmNUtjNmF2bW5oRmQxX0x1aTV5Ykt1RVBHeW0ybjBsa2FCQkRuUnFWai1iT2xTVnAw0gF8QVVfeXFMT2ZickhVS2lDVGtNRTdvVmdiNkl2TkVyRm9vMmszVzhNNXpFems1SFF2SWtHYUJrZTI5dTFNaG4zU3FjcExuVDAwY1Awd3plbk9maFV0R1F3M3hCa1huT2VlTVV5ZFhFOWU2blg5aF8xSnFCbmZSc0JKNkxnUQ?oc=5",
-      "source": "KTLA",
-      "date": "2026-08-28T12:49:01+00:00",
-      "description": "Laser used to shoot down cartel drones near Mexico border  KTLA",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-28T13:50:12.472719+00:00",
-      "location": "near Mexico border",
-      "category": "other",
-      "id": "259654efe53c"
-    },
-    {
-      "title": "Drone-delivered AED used in life-saving cardiac arrest response in Sweden - eHospice",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdF9nOW9oakJLbG00TGYtY1AzVjJ0S1Z2c3FpU3BHaV9mQXIyY3A0TmVlOEp1V3ZvdFJNdWxzOUdaWTJMX0t2RFpsd3BmRHVKQmRiZm5uZDdXbEJBa2RxM0s4T3k0SW43U1ZLTjhhNHZKeWM4VEJuWXU2Y09HZ1JFRDZjVDJXQnZRSUhSWkZwdmF0cFA3dUJkb0RrbEFQR05fbHJaTFlSdEp2OURUUHd5cndQeTR5QQ?oc=5",
-      "source": "eHospice",
-      "date": "2026-08-28T02:25:04+00:00",
-      "description": "Drone-delivered AED used in life-saving cardiac arrest response in Sweden  eHospice",
-      "query": "drone arrest",
-      "detected_at": "2026-08-28T13:50:12.002244+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "fed69e5926be"
-    },
-    {
-      "title": "Baltic Sea Nations to Form Joint Drone Defence Task Force - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHJfMkRiWC1OWmhLOGR2aXFxbi0ybFF4WDJvQzJ1UXEwR194REkwTWc4TFFORV8yMmhGX2VWcW5mUGREdnZnRmZBYnNtZy1veENxYU1LOVVydEFvSmlvUmpMbkFDWmtKR19ZUy1xWUhYUUROalc5WExYQWVZa3d2cW9sUERqSkpzdURZU3hkR1EzOGw3MmlNTC1oR0pMUQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "date": "2026-08-28T09:22:24+00:00",
-      "description": "Baltic Sea Nations to Form Joint Drone Defence Task Force  Global Banking & Finance Review",
-      "query": "drone incident",
-      "detected_at": "2026-08-28T13:50:11.395794+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3d0d363d23f2"
-    },
-    {
-      "title": "Leipzig-Halle shut down by armed drones: 150 Russian sabotage attacks in three years as CIA director heads to Moscow - Escudo Digital",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3Q4VEd2UTQzNzNMcktSMm1JSTdxTTJ4OWJKZWxjUlVBOE5veWQ4NXU0Ti1XTm9vdGRDaHZXc2l3VkRlRkc0LURqTTcyRGxfeGpiMWlJWmt4VV9zbXQ1VU9pZW9PWXUyRUllS0NCZUpaMF9lT25Pb3ZzV3dzWTZPa25ORENpM2Q5ekU2TFFlUjlibWxSMk9SUlpXZC1fekhHcl9mbkhCanZTNEl0clQzVi04aEtaeUluaE1XN0pNcnJHYU1wS2Q1bWdaTUlxSWowVTVLUzhReFl4WFJWSkV4NW9QTGF6M2xSX2s0VTNOQjloQ1BtUld6SVVWaDI?oc=5",
-      "source": "Escudo Digital",
-      "date": "2026-08-28T05:00:02+00:00",
-      "description": "Leipzig-Halle shut down by armed drones: 150 Russian sabotage attacks in three years as CIA director heads to Moscow  Escudo Digital",
-      "query": "drone incident",
-      "detected_at": "2026-08-28T13:50:11.395794+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "95cda0712f34"
-    },
-    {
-      "title": "Russia intensifies daytime drone strikes on Ukrainian cities - RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92aDh4V29paFdKNllEdGxqZDdROGFKX2dEdEJtU0xxY0pVc1IyaWJNUVh5Qkw3QzV6bDlIYVd5Y29PbDFQNkZtc2JwR1dqUmgzU2M2b2FDaHNEdXFxTlV4S3Y1X3hzemQwaV9OdC1oMHI?oc=5",
-      "source": "RTE.ie",
-      "date": "2026-08-27T09:45:29+00:00",
-      "description": "Russia intensifies daytime drone strikes on Ukrainian cities  RTE.ie",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-28T01:16:54.267657+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "edc8de05f5e3"
-    },
-    {
-      "title": "Reports: Russian jet drones hit Kyiv; Inland strikes escalate - wng.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeHBHZkoyUG1PVXc4a0l6aGdLSlBKLXUzdXlSSFZMT2tic3JBUzh6OUhMaUlvMjMtRWliMmFyS2dObUh3WkpJSHhjdTFQSnlWd3FXS0VzRGlPb3BQalVDejNZak1Vd3pyckg3MTlWWHIyXzI3dEl0ODNjRkM3U2NNWXlZWW9YQ01lLU1RQzhHMFVzbHpBbzdXMA?oc=5",
-      "source": "wng.org",
-      "date": "2026-08-27T20:15:00+00:00",
-      "description": "Reports: Russian jet drones hit Kyiv; Inland strikes escalate  wng.org",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-28T01:16:54.267657+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d5a02fecfa3f"
-    },
-    {
-      "title": "Iraqi security foils attempt to manufacture drones in Baghdad - IraqiNews",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUVmNjFucXk5NURwV0F0R2txZzlra1haLTNSVHFoTThNbUJrT3M0UDM2T0xnQkRnbEQwQlNtVlhyc3EtdVVMZEIwak9xNjRQd1ZNUS1ReW52c3JvcG1WclROWndYVnhfWlNid080Wnc2NFhaQzA3YUN5MDZoNGlieWRuM1NOS3JOZVZNQUhYVlJLSzhHQk13Tg?oc=5",
-      "source": "IraqiNews",
-      "date": "2026-08-27T16:45:29+00:00",
-      "description": "Iraqi security foils attempt to manufacture drones in Baghdad  IraqiNews",
-      "query": "drone illegal",
-      "detected_at": "2026-08-28T01:16:53.230426+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "047952956def"
     }
   ],
-  "last_updated": "2026-09-20T00:42:19.414352+00:00",
+  "last_updated": "2026-09-20T05:45:35.031725+00:00",
   "total_count": 1000
 }
