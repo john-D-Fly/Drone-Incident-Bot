@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Once an inmate, this Oregon man now flies drones to aid police - The Register-Guard",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1M3TkczYkJIRHg3Z1dpN1ctbjdTdXVHTHV0YmlLNl9RcV9tUzJ2MkFDOERKeXNDVkFhUEd0YTQ0YzZvX3NVZHp5TjhpXzctNGFzaGdzX2ZMSzcxRzdpZTJDbUxBRWFVRlNRRXhYQURFd3hDTVBFME42R1ptRktQbmNWRHR2eEx6SUxpcEpDQ2owMEt3M3pIUnN5ekcyTldaY1BvdUhHZkdjUjZM?oc=5",
+      "source": "The Register-Guard",
+      "date": "2026-09-20T13:55:00+00:00",
+      "description": "Once an inmate, this Oregon man now flies drones to aid police  The Register-Guard",
+      "query": "drone prison",
+      "detected_at": "2026-09-20T14:31:32.767060+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b4710ecea7bd"
+    },
+    {
+      "title": "Boston Police Drone Crashes Into Parked Car Less Than a Week Into New Program - MotorBiscuit",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQzgyOWF1dXVTV1ZpMjlESnFPUEdJblVMZTZMQ2l0YUZRbGszZG9jLXB6aGN6Mm5NOHgtY3JzelJLQnh4cFdHbDlMYXFzR3o5WW1oc0QzV25YMkJaWEppVTE1cklydVREOExtdWZJVWdaQ2xRZDlrMTVXYVQ2TkxkX3I1R3VYeHlYc19jcUN2MGttckFnOXNCRFZwdndlVlNpS0NhdEs1X1UxWDQ?oc=5",
+      "source": "MotorBiscuit",
+      "date": "2026-09-20T10:17:09+00:00",
+      "description": "Boston Police Drone Crashes Into Parked Car Less Than a Week Into New Program  MotorBiscuit",
+      "query": "drone incident",
+      "detected_at": "2026-09-20T14:31:31.129831+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "301f1ce2fb06"
+    },
+    {
+      "title": "Flights briefly halted at Reagan National after pilots report drone near runway - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0NqNlFvN3RBc1pMUHZtN24zdHUyMkQtTmFIRGU5UVBNeFEzVDloQWFJN0F2NkdlLXNZMEdhd0hpdTlMc0xjemZZdFpRd0lMeVEzdS1WYjdOZG9UVm9OQTZycEU5T2xhYS1nVnlFUm1QdWJJVkxCZmN4cEhHSU5NenAtblZOXzZvbjNmNDRIZlYtczktcWJjTl9fY2dvcW03SXZ5cnlTcm9UWEZWTHcxOTdNWV9KM0pORTZz?oc=5",
+      "source": "Scripps News",
+      "date": "2026-09-20T08:39:12+00:00",
+      "description": "Flights briefly halted at Reagan National after pilots report drone near runway  Scripps News",
+      "query": "drone incident",
+      "detected_at": "2026-09-20T14:31:31.129831+00:00",
+      "location": "near runway",
+      "category": "airport",
+      "id": "429c60efb7d8"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "abcnews.com",
+      "date": "2026-09-20T08:07:32+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  abcnews.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-20T14:31:31.129831+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "55594a78237b"
+    },
+    {
       "title": "Moldova condemns unauthorized drone-like aircraft over its territory - Türkiye Today",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGVtZDVoVS1GWktEYUhzUkx0WVpYYWktbmFDMTZvYlFCUUNZNE8wa0I4YUhIc0pHalBXU191a25FSWdmendxeF9DanplNVZUMGI2OWpnSDgzZ1NvUlk5b2pwWVpDdWFac1F6UGxhNEl6T3lGZjVodm5KaGdMUXZWZ29RZVR5akU2TEhPamowWllfN0tpOGNMSFMxQ1RiQXFRbkJjWU9obG1kNUxNMHkwU3dB?oc=5",
       "source": "Türkiye Today",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "49db28b7ba27"
-    },
-    {
-      "title": "US military laser shoots down 3 cartel drones near border: Pentagon - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmk3ZHNYRWVEQkhJNkcweGM3UXRxaFRQbWpKc0NyOUxQOGQ1c0V6QWZfUGJNdzZkNWQ5Q2NDTllzVEo2cngtN2dPRDA0bnBONDVBUGpzUGdncFI3WU00c19DSnJSamtCc0FSbzZSdVZRSlNMN1FYaGxjY0tBT01aZU530gGHAUFVX3lxTFBtb29xcFZJbXZsNUxmaEY1TUQzSTl6MEdqZDhNLWE0NXhIVWk0TUw2VnYxX1ZaZVo4YzFoaVFzRmprYW5sNUhaUmVXOW1TbW90QUNXOXk2bkc5RjV4eG9NemdzZEFUbVJ5Y281WHNfSEotNkhtNm1hZzc5TUZIMTBfd2FXdk1mRQ?oc=5",
-      "source": "NewsNation",
-      "date": "2026-08-28T22:32:53+00:00",
-      "description": "US military laser shoots down 3 cartel drones near border: Pentagon  NewsNation",
-      "query": "drone smuggling",
-      "detected_at": "2026-08-28T23:24:46.208367+00:00",
-      "location": "near border",
-      "category": "other",
-      "id": "e8046053908d"
-    },
-    {
-      "title": "Drone-delivered AED used in life-saving cardiac arrest response in Sweden - eHospice",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdF9nOW9oakJLbG00TGYtY1AzVjJ0S1Z2c3FpU3BHaV9mQXIyY3A0TmVlOEp1V3ZvdFJNdWxzOUdaWTJMX0t2RFpsd3BmRHVKQmRiZm5uZDdXbEJBa2RxM0s4T3k0SW43U1ZLTjhhNHZKeWM4VEJuWXU2Y09HZ1JFRDZjVDJXQnZRSUhSWkZwdmF0cFA3dUJkb0RrbEFQR05fbHJaTFlSdEp2OURUUHd5cndQeTR5QQ?oc=5",
-      "source": "eHospice",
-      "date": "2026-08-28T12:13:18+00:00",
-      "description": "Drone-delivered AED used in life-saving cardiac arrest response in Sweden  eHospice",
-      "query": "drone arrest",
-      "detected_at": "2026-08-28T23:24:45.695627+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "660de7191562"
-    },
-    {
-      "title": "Drone helps Otter Tail County Sheriff Deputies locate man hiding in a field after a vehicle accident - Perham Focus",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVktrOUtVNlphcGVIYWpGTFFfVjBvRVBCelJtV1F3NVpMamYzYWs0NTNoMjN3ZDNVSTZDV0xEZTNEbExIM1gzS3N6bGp3R284Nk9VMUZTRUdWcExOa2lXWFpSMXM3UWljN3hIYzh5emt2d2E3ZXJUWXNPa2JDeFd5Z2ZQQjVYNk1oZktpVElpQ2hYWFE0cjZaRUN5VGFMbHpfd29hNW83X1RMcGZPM0ZVSGFmcFV1TzE1b3VfcHRtNHJaN0RxcnA0X1dqOEZBeDA1TFJleFN3?oc=5",
-      "source": "Perham Focus",
-      "date": "2026-08-28T20:35:18+00:00",
-      "description": "Drone helps Otter Tail County Sheriff Deputies locate man hiding in a field after a vehicle accident  Perham Focus",
-      "query": "drone incident",
-      "detected_at": "2026-08-28T23:24:44.994175+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "b2c190f7f0c0"
-    },
-    {
-      "title": "Russia strikes Ukraine with 164 drones overnight - Air defense's work reported - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVJiY2tFdXlnbTNhcGo1LURCcEI0Z09WdnZ1aGxiYUE1WUZ3R29oYU1scTk5dHlIMlJMUTl1VnU5bmZDOExidkZZTlhfQWd5MG5IYmN1WnR1QWRaa3hOeHU2X0dGX2ZsQk0zZmt3UzV5MFhfYnI2X0R5X001Zll3ajhLb3ZldVBYTU81UV9RRjlBVXl5OExoRkgwNmg?oc=5",
-      "source": "RBC-Ukraine",
-      "date": "2026-08-28T07:15:54+00:00",
-      "description": "Russia strikes Ukraine with 164 drones overnight - Air defense's work reported  RBC-Ukraine",
-      "query": "drone terrorism",
-      "detected_at": "2026-08-28T13:50:15.345643+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "5e39f4d6fa69"
     }
   ],
-  "last_updated": "2026-09-20T10:44:02.930999+00:00",
+  "last_updated": "2026-09-20T14:31:37.151874+00:00",
   "total_count": 1000
 }
