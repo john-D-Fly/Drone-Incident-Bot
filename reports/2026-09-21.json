@@ -1,0 +1,128 @@
+{
+  "narrative_summary": "Over the past 48 hours, notable incidents involving drones have unfolded across various regions, particularly affecting airport operations in Luxembourg and in Washington, D.C. Unauthorized drones have prompted temporary disruptions of flights at Luxembourg Airport, resulting in flight delays and alerts, while flights at Reagan National Airport were halted due to drone sightings. Additionally, there are growing concerns regarding the use of drones in criminal activity, with a focus on smuggling incidents into prisons. There has also been a spotlight on drone terrorism as the FBI has issued warnings regarding potential drone threats related to international tensions, particularly involving Iran's aspirations to attack US sites. Overall, the surge in drone activities underscores the need for enhanced security measures and regulations to mitigate risks to aviation and public safety.",
+  "totals": {
+    "security": 6,
+    "terrorism": 6,
+    "interference": 8,
+    "smuggling": 4,
+    "airport": 12,
+    "crash": 4,
+    "other": 9,
+    "total_incidents": 87,
+    "by_category": {
+      "airport": 31,
+      "crash": 8,
+      "interference": 6,
+      "other": 27,
+      "security": 5,
+      "smuggling": 4,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 18,
+      "drone arrest": 2,
+      "drone crash": 4,
+      "drone illegal": 2,
+      "drone incident": 25,
+      "drone prison": 11,
+      "drone security breach": 2,
+      "drone smuggling": 1,
+      "drone terrorism": 10,
+      "unauthorized drone": 12
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized drones disrupting airport operations",
+      "rationale": "Many incidents highlight the problems caused by unauthorized drones at airports.",
+      "incident_ids": [
+        "13b97879318d",
+        "4219a035ff29",
+        "6442f443aef2",
+        "f9bca8a27fd6",
+        "de11f77d1963",
+        "d3bb4d2bd799",
+        "29b8e5eb6e99",
+        "0752e4dfd94a"
+      ]
+    },
+    {
+      "topic": "Drone incidents related to terrorism",
+      "rationale": "Increased concerns about drone usage in potential terrorist activities.",
+      "incident_ids": [
+        "4219a035ff29",
+        "3ce91b49dd60",
+        "55ad74889cf9",
+        "b2ad3e7fb409"
+      ]
+    },
+    {
+      "topic": "Drone activities in prison smuggling",
+      "rationale": "Several incidents indicate a trend toward using drones for smuggling contraband into prisons.",
+      "incident_ids": [
+        "bf907151ea66",
+        "a0aafe7cefc6",
+        "1eb76a8c0f09",
+        "b1fba07c5e72"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "55ad74889cf9",
+      "headline": "FBI warns Iran aspired to attack California with drones in retaliation for war",
+      "one_sentence": "FBI states that Iran has threatened to utilize drones for potential attacks on the US.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "4219a035ff29",
+      "headline": "No Ideology Required: Drones and the New Domestic Extremist Threat",
+      "one_sentence": "A discussion on the emerging threat of drone use by domestic extremists.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6442f443aef2",
+      "headline": "Dubai and Middle East flight disruption: airlines face delays",
+      "one_sentence": "News of ongoing delays affecting flights in the Middle East due to drone interference.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f9bca8a27fd6",
+      "headline": "More Than 400 Flights Delayed at Moscow's Four Airports After Drone Attack",
+      "one_sentence": "Drone incursions have severely impacted operations at multiple Moscow airports, causing significant flight delays.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "de11f77d1963",
+      "headline": "Unauthorized Drones Disrupt Operations at Luxembourg Airport",
+      "one_sentence": "Operations at Luxembourg Airport were halted due to unauthorized drone activities.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Significant drone-related incidents disrupt flights across major airports in Luxembourg, D.C., and Moscow over 48 hours, highlighting urgent security concerns.",
+    "linkedin": "Over the last 48 hours, various drone incidents have significantly impacted airport operations in Luxembourg and D.C., underscoring the increasing need for stringent drone security measures."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-21"
+}
