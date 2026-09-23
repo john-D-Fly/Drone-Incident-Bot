@@ -1,0 +1,121 @@
+{
+  "narrative_summary": "In the past 48 hours, various drone incidents have emerged across multiple locations, notably involving smuggling and security threats. In Pakistan, authorities shot down eight drones launched by the Afghan Taliban, signaling ongoing tensions in the region. Ukrainian cities faced drone attacks resulting in casualties, while a Russian drone crash landed in Kyiv, highlighting urban vulnerabilities. There was notable interference at airports, including two temporary shutdowns in Luxembourg due to unauthorized drones. The U.S. has raised concerns about cartel drone capabilities, and legislation is being proposed to enhance drone safety protocols. Overall, patterns indicate a continued rise in drone-related incidents, emphasizing a need for stricter regulations and improved enforcement against unauthorized drone uses.",
+  "totals": {
+    "other": 21,
+    "crash": 10,
+    "smuggling": 4,
+    "arrest": 6,
+    "terrorism": 5,
+    "interference": 6,
+    "security": 2,
+    "total_incidents": 63,
+    "by_category": {
+      "airport": 4,
+      "arrest": 8,
+      "crash": 11,
+      "interference": 6,
+      "other": 23,
+      "security": 2,
+      "smuggling": 6,
+      "surveillance": 1,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 9,
+      "drone arrest": 11,
+      "drone crash": 12,
+      "drone illegal": 4,
+      "drone incident": 5,
+      "drone security breach": 3,
+      "drone smuggling": 4,
+      "drone terrorism": 9,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Cross-Border Drone Activities",
+      "rationale": "Increased drone incidents related to smuggling and terrorism in border regions",
+      "incident_ids": [
+        "bbf8bc0724e4",
+        "10b7943bb6ef",
+        "c29b546c8067"
+      ]
+    },
+    {
+      "topic": "Airport Operations Disruption",
+      "rationale": "Multiple reports of drone interference leading to airport shutdowns",
+      "incident_ids": [
+        "54a2570bad79",
+        "d3cfee33d7ae"
+      ]
+    },
+    {
+      "topic": "Drone Crashes with Civilian Impact",
+      "rationale": "Incidents of drone crashes occurring in urban areas with reported injuries or fatalities",
+      "incident_ids": [
+        "3383e064bd4e",
+        "1bf6ba79a9b1",
+        "9c3ea4987a73"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "bbf8bc0724e4",
+      "headline": "Pakistan shoots down 8 drones launched by Afghan Taliban",
+      "one_sentence": "Pakistan's military shot down eight drones allegedly launched by the Afghan Taliban.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "1bf6ba79a9b1",
+      "headline": "Explosives found near a German Airbase",
+      "one_sentence": "Investigators found explosives near a drone crash site close to a Bundeswehr airbase.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9c3ea4987a73",
+      "headline": "1 dead, 7 injured in drone strikes on Kyiv",
+      "one_sentence": "Recent drone strikes in Kyiv have left one dead and seven others injured.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5d3d62663ee7",
+      "headline": "These are your rights if your flight was disrupted by drones",
+      "one_sentence": "Travelers disrupted by drone incidents can now refer to new guidelines detailing their rights.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "6c963c677f3a",
+      "headline": "Flights Briefly Paused At DCA Due To Unauthorized Drone",
+      "one_sentence": "Unauthorized drone activity briefly halted flights at Ronald Reagan Washington National Airport.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising security concerns and smuggling issues across borders, with significant airport disruptions due to unauthorized drones.",
+    "linkedin": "The last 48 hours have seen a surge in drone-related incidents that underscore the urgent need for enhanced regulations and operational protocols in airspace management."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-23"
+}
