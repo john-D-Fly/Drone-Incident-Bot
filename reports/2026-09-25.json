@@ -1,0 +1,145 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have occurred across various categories, highlighting security threats and law enforcement actions. Notably, Russia launched drone strikes in Ukraine, resulting in casualties, while Pakistan conducted airstrikes targeting suspected drone launch sites in Afghanistan, claiming civilian casualties. There has also been an uptick in contraband-related incidents, particularly involving drones supplying drugs and other illicit items to prisons in Georgia and Johnson State Prison. Additionally, there are reports of unauthorized drone flights disrupting air traffic in Berlin and Romania. The international landscape shows increasing concerns around drone warfare, particularly with rising military actions involving drones in conflict zones like Ukraine and Pakistan.",
+  "totals": {
+    "other": 38,
+    "terrorism": 3,
+    "crash": 23,
+    "smuggling": 8,
+    "arrest": 10,
+    "airport": 6,
+    "security": 1,
+    "unauthorized drone": 4,
+    "drone illegal": 3,
+    "total_incidents": 120,
+    "by_category": {
+      "airport": 7,
+      "arrest": 14,
+      "crash": 22,
+      "interference": 2,
+      "other": 52,
+      "security": 1,
+      "smuggling": 19,
+      "surveillance": 1,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 8,
+      "drone arrest": 15,
+      "drone crash": 28,
+      "drone illegal": 5,
+      "drone incident": 12,
+      "drone prison": 13,
+      "drone smuggling": 3,
+      "drone terrorism": 30,
+      "unauthorized drone": 6
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Warfare",
+      "rationale": "Increasing military utilization of drones in conflict environments, especially in Eastern Europe and South Asia.",
+      "incident_ids": [
+        "cb3e41b725e8",
+        "8fb52f09e01c",
+        "602e05e5866c",
+        "e6f1faa2ef21",
+        "e6b4ac909a72",
+        "c6db846c8a77",
+        "ba6e47dff6e7",
+        "d6e91d7e5fb2",
+        "e21c25c0cb31"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Multiple incidents involving drones delivering contraband to prisons, highlighting security lapses.",
+      "incident_ids": [
+        "8c4a91832047",
+        "bb4ca72de098",
+        "b34ee45d8aaa",
+        "d8c1b635ca6d",
+        "3ee0289b828b"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Flights",
+      "rationale": "Rising incidents of unauthorized drone flights affecting air traffic and safety in civilian areas.",
+      "incident_ids": [
+        "bd4e4a18332e",
+        "7d5b7094e73a",
+        "9c3f201e7594",
+        "460fbd79a8d2"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "cb3e41b725e8",
+      "headline": "Russia strikes Kyiv office with drone, killing and injuring civilians",
+      "one_sentence": "Russia's drone strike in Kyiv resulted in civilian casualties, escalating the ongoing conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8110560a0669",
+      "headline": "‘Irrefutable evidence’ links Afghan soil to terror attacks in Pakistan",
+      "one_sentence": "Evidence suggests that Afghanistan is being used for imminent terrorist attacks against Pakistan.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Pakistan"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "602e05e5866c",
+      "headline": "ISW connects drone crashes in Moldova and Romania, a Starlink fire in Poland, and a Berlin airport shutdown into one Russian pattern",
+      "one_sentence": "Recent drone crashes in Romania and Moldova appear to be linked to ongoing Russian military operations.",
+      "risk_tags": [
+        "crash",
+        "terrorism"
+      ],
+      "countries": [
+        "Romania",
+        "Moldova"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f46a588a4bdc",
+      "headline": "The Pacific Drone Arms Race Has No Rules",
+      "one_sentence": "Increasing militarization of drone technology in the Pacific raises substantial geopolitical concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Not specified"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "83a83c8dcf63",
+      "headline": "Conroe Police DFR Drone Helps Officers Locate Suspect After Assault, Leading to Arrest",
+      "one_sentence": "The use of drones by law enforcement in Conroe proved effective in capturing a suspect following an assault.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Not specified"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents rise with security risks as Russia strikes Ukraine and contraband efforts persist at U.S. prisons. #DroneNotable",
+    "linkedin": "Recent drone incidents reveal escalating tensions globally, particularly in Ukraine and concerning prison security in the U.S."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-25"
+}
