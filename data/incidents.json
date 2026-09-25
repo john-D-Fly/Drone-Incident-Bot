@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Unauthorized Drone Suspends Berlin Airport Flights, Planes Diverted to Dresden - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VN3VoRVcxdV9iQnRObEpNY05uU19ZQmRIdnlYM0ZydUdEdl8xREUxZ3VnT2hqbDA0NE9fa1lZUUs3dkh5UkNfd2FCZUFLckRJb1BFWElzaVRoWHRGaWlQM2FhOXExLUNod0ZzeW8xUW05Zw?oc=5",
+      "source": "mezha.net",
+      "date": "2026-09-23T21:48:18+00:00",
+      "description": "Unauthorized Drone Suspends Berlin Airport Flights, Planes Diverted to Dresden  mezha.net",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-25T00:27:44.448970+00:00",
+      "location": "in Airport Flights, Pl",
+      "category": "airport",
+      "id": "bd4e4a18332e"
+    },
+    {
+      "title": "Pakistan air strikes kill four civilians in Afghanistan: Kabul - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMnpwd2hOY1AzeFBKNXdaU3NYc3N2VlJHY2ZwLTV5bS1tU05ka1hsMHNaTUNMWXItaVdxa1J0WXpnVnBxYU5KdXRZRFZ3SGNIanBYaU1qVEl3M2VOdTB2bHVqRlo3WU9Kd2NYWTh2bENtTnRydmdLNXFmMkNjaUlwbGdIQktuUWRBRkI3QjJJYTFvU3lYa2xGakk4c3h3OVh3NmtMWXhuWUh0RW9HWUhTRFpxZjlTbG55dmxtV3kyZ1R5SXJDd044aXJVc0t2cFN1dno2aVkxZXVlNmtYaFRWY9IB5wFBVV95cUxOR0dFclA4a0ZQR0p2Y1hBWGViY0FKZC1rRVRLN2dTRi1vNC1fNUtzeXFDYzlMSGhRTVQtZ0plQlRNem4wQkJ0Y2xCZ0ZPVmMyaGJ3bTdNMTMwUkdPaFpSRWZjUzhSMW85eTR4azNKUUZBeUZxRG53R3p1enBFZ2xONTNfMWN0b0ZCdzExcGNScDNGLTgydUVDdnhpNzlnU0tSekxCcnhYb1RITVpPVThnb1VWTGszX3RWa1ZOQjNhNlBTUzJ5QWlGa1NZR0dKc3c2aFpyM1FzRkpWTUdJeUtWbTF2anVNNHM?oc=5",
+      "source": "The Hindu",
+      "date": "2026-09-24T07:11:22+00:00",
+      "description": "Pakistan air strikes kill four civilians in Afghanistan: Kabul  The Hindu",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-25T00:27:43.930225+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "29f92560f1a1"
+    },
+    {
+      "title": "Pakistan Strikes Afghan Sites After Drone Incursion - Kashmir Observer",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdkclZOZ3dqM19oM2lGSXp6TjFSekw2WldsU2RtNHRzTXNVYjMzVWZJcFMzSUxUeUFkTkRhRXhySzEyckVxSWhlXzlEbHJFZzltbmRTQkFFbnBkRkRDQmFuUEJFQ2xfQ21fY2Y1dkV5c25iM0ROUGF6QTJ3NlRzQTg4bWx4SEpROUlhb1RIdmJ0eE0yX0E?oc=5",
+      "source": "Kashmir Observer",
+      "date": "2026-09-24T10:27:00+00:00",
+      "description": "Pakistan Strikes Afghan Sites After Drone Incursion  Kashmir Observer",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-25T00:27:43.930225+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "e21c25c0cb31"
+    },
+    {
+      "title": "Russian Drone Crashes at Kyiv Garage Cooperative, Injuring One Person - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05OWVVM0VlUUd3c2xVZ3E1b3hMUklPZjZVbXA2WlRSMmVUZ1NsRzlzQmFhQU5XaUVocm82TFM5VVVJWTFUUVZmS0JnSGJfNmxFNW82LVlyOVp2MVZaNTVmUTcwZjFFMFA4UGc?oc=5",
+      "source": "mezha.net",
+      "date": "2026-09-24T11:25:21+00:00",
+      "description": "Russian Drone Crashes at Kyiv Garage Cooperative, Injuring One Person  mezha.net",
+      "query": "drone crash",
+      "detected_at": "2026-09-25T00:27:42.126089+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8c04690b4c16"
+    },
+    {
+      "title": "Baby bottle, drugs found in drone delivery headed to Georgia prison - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDRTVWlhdDZGY0FrN0QycEljb3BPbFFRLUxYaGVBNWVTTGI1MUQ2M1ZOdW4zaEVzRTUzMkhMZzlmSHBKUWR3V1p2bDZPaEZKVTBodm4yZmdJUG1ZNFU5ZDRhcHJ1X1NoX1VmZkx3WmdienZpWUdPMXNtNnBaWk5HTmVTX18?oc=5",
+      "source": "Yahoo",
+      "date": "2026-09-24T21:48:21+00:00",
+      "description": "Baby bottle, drugs found in drone delivery headed to Georgia prison  Yahoo",
+      "query": "drone prison",
+      "detected_at": "2026-09-25T00:27:40.923219+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "7eb8ac679117"
+    },
+    {
+      "title": "Drone carrying marijuana, phones and tobacco intercepted near Johnson State Prison - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzVGbnhHdTVlal9sSlBTdnU0V2FINzUzaGE1MVJScGthR2ZYTldYVFl5Q3lrT1pBZlJLOTc0NVhlMllkclgtYk81bjlmdG1MRThRT28wSGdoVlFaNnhjY2lOZU9nS21kTGNUOGJncGZsODNxSjMtZDVaUTBjUVh2SHJsaGJqY1Q3QWs2Sk9yc2ZQQ1hOWW1aY2laMldOZW9GdndGWjFJYw?oc=5",
+      "source": "41NBC News",
+      "date": "2026-09-24T16:22:54+00:00",
+      "description": "Drone carrying marijuana, phones and tobacco intercepted near Johnson State Prison  41NBC News",
+      "query": "drone prison",
+      "detected_at": "2026-09-25T00:27:40.923219+00:00",
+      "location": "near Johnson State Prison",
+      "category": "smuggling",
+      "id": "aff2ea18665f"
+    },
+    {
+      "title": "10 convicted for crimes at FCC Pollock, eight have entire sentence suspended - KALB | News Channel 5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWm56SjdZbi0teGVIWDcxUGluN0FPdnhKN0xaWi1xd1NMdEN3cXlOMVh5MnFfd3gzY2tpeVBSZXFpV3llLWZYcHp6UzhhTTc5TGFZYnk0NHhGal90V0JfcjVjVWNsbmlyc2pnNEVUZlE3NFhrU3JjcXNILXhNNktsSDlTNmJQcnBzeDRXRjFfQzI1dXdUQVZkOGlscXlRUDVMMjBr?oc=5",
+      "source": "KALB | News Channel 5",
+      "date": "2026-09-24T22:38:00+00:00",
+      "description": "10 convicted for crimes at FCC Pollock, eight have entire sentence suspended  KALB | News Channel 5",
+      "query": "drone prison",
+      "detected_at": "2026-09-25T00:27:40.923219+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b263a6fad95c"
+    },
+    {
       "title": "Louisiana State Police reminds the public that federal airspace restrictions will be in effect during LSU home football games at Tiger Stadium. Drone operations are prohibited within a 3-nautical-mile radius of Tiger Stadium and up to 3,000 feet above ground le - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEZGR21TbldXUlJ1MDcyZk1NRTJnMHA3aUozSkc5YUdjVEhnZld2UDNVRVRfdVB0bkRGVE5vZzhzRW1LS3Q0aDVwLW1RYjgyX1k1ZTB2a3ptNmxsRUtnRDdPWlF5aE9Uc0RWMW5neVFkdWlhZ2dudlBRN3h4Wkl1Q0pEeXM3clZFZ2J6WVhNOEo2S0lqeXJ5Mi14YVk2dDNaNW9CZVBQMnpXSU5SdXJ0eWMtNGZmYzQtU1FNb1ZaZ0thZzVYOXpoQkhjN0FSZ1paSmxtMFlXN3ZscEhBWFlydXFxUGQ?oc=5",
       "source": "facebook.com",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "40dde1565c30"
-    },
-    {
-      "title": "EU summons Russia envoys, eyes sanctions after Germany drone 'attack' - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2ZSYzZyZXJPUkJvbXV0TUhmN29qVGszU2NtSFF3MnRkV2ZmazROT2NhZWN1TXE0eWpPWkl2ekVXcW1oNHJBdC1wRTVKTEtrZnpEQUYwYWFIV2Zzb3dDc2RYZXB5a2QtWm4weHVrZ2NzX0VBak5NYWNGM1YwMHd5SnFPcnZPYmxlSUNwUmNoMkc4U0YxU2hKcC1hdjRUdkVlaVdSWkNscC1hUklaWGxuVWo5OA?oc=5",
-      "source": "France 24",
-      "date": "2026-09-02T20:19:12+00:00",
-      "description": "EU summons Russia envoys, eyes sanctions after Germany drone 'attack'  France 24",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "239e6bdc171d"
-    },
-    {
-      "title": "EU summons Russian envoy, eyes sanctions after Germany drone 'attack' - RFI",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRU80THBTcjBObEt3NzRheldpSE5KTFpnZWlUcVgtVy1XRjZ5Smo1ZnFBb21SU01XX0NtVmhWdG83T1FVVmFvUWJZRlJSTFRnVEZpQkZiaTBjcDRINlFTRHJGLVFiVXlNTFVaOUpxTS1nRkRPY204QUM3V0VGUDc2dnlNVm52c01TZ0tMR3dEQ2NMSmljclh5U3BaUlBGY3ZsTGNRcFdSZExYSU9la0ctbA?oc=5",
-      "source": "RFI",
-      "date": "2026-09-02T18:50:07+00:00",
-      "description": "EU summons Russian envoy, eyes sanctions after Germany drone 'attack'  RFI",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e12b9c433fa1"
-    },
-    {
-      "title": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack - San Bernardino Sun",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QLW1kUUZ3bV9neHpBUjlnLS0zaFFnOG4zczFMaXhON2tBMjdnYXY1RS1jNEkyUWIzdnBfNUdhb1V0YVNVdzZ3M1gxUHpKT0NuX2VWbW4yVFJoaGIwOFB5Z1VIU1lZd1pFZEd1RENjdTJsSHhzNWNIdUtRTQ?oc=5",
-      "source": "San Bernardino Sun",
-      "date": "2026-09-02T15:50:41+00:00",
-      "description": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack  San Bernardino Sun",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3dc9a50f1930"
-    },
-    {
-      "title": "Finland to summon Russian ambassador over Leipzig Airport drone incident - aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnZudzR5V0tqc0FNQjFvY1Y5OHJqZnM5N293QWlCeXN6R0V1aTF4cDVWd1pVUC02WHl5UnVaMTItdWlnYmRFRGU4UFBjZVI3VmZQaHZ2VjRJMWlsbkNfbmtDTGxKdWI3ZE9EVTNYWjBhcUp6NkFNVEo1UUFrUGlWMUJ2SnAzeU5uQ19SbS1kcFhrb3hUWGRQVGdWcHNTRmJONUdqVjAzVUw3eUtOR3p6Z1dR?oc=5",
-      "source": "aa.com.tr",
-      "date": "2026-09-02T15:18:40+00:00",
-      "description": "Finland to summon Russian ambassador over Leipzig Airport drone incident  aa.com.tr",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "b4117076ebdb"
-    },
-    {
-      "title": "As Europe Faces 'New Normal' Of Russian Threats, Leaders Seek To Close 'Every Loophole' Through Tougher Sanctions - Radio Free Europe/Radio Liberty",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHZrSmd1Y3E1anE2bUhfTXNFLW1sOEt5TF82WE51RjVwRFUxcUZUckk3cmNLSDluMzR3OXJSSXVEd19WRGZfRUVMZ25xQVpWNGFpNlFiYnA2OW9wb2I4dEdfUktMLS1IcnJkVWlxQmlBWlZvZU9QWGhHYWtqcG5qby1fNGZLZm9ELXfSAYoBQVVfeXFMT3h2a0pndWNxNWpxNm1IX01zRS1tbDhLeUxfNlhOdUY1cERVMXFGVHJJN3JjS0g5bjM0dzlyUkl1RHdfVkRmX0VFTGducUFaVjRhaTZRYmJwNjlvcG9iOHRHX1JLTC0tSHJyZFVpcUJpQVpWb2VPUFhoR2FranBuam8tXzRmS2ZvRC13?oc=5",
-      "source": "Radio Free Europe/Radio Liberty",
-      "date": "2026-09-02T14:28:08+00:00",
-      "description": "As Europe Faces 'New Normal' Of Russian Threats, Leaders Seek To Close 'Every Loophole' Through Tougher Sanctions  Radio Free Europe/Radio Liberty",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "0e6f3b7d4385"
-    },
-    {
-      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport - npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTBmbzdjaFl0WERMemtSY1pBNWc4UDlER1dRZlVXc0hNUV9yRzdTalVMRlk5djEwdnhkelpNR09LWlZHekVuNkJxMkhmUkJhbDNzT2VmNElyQ0RqUkxzZFZyaE0xRFFETlB5aXJiM1JFdEVfa0VTYTBUTjI3OGtac3FpcmVjd1U?oc=5",
-      "source": "npr.org",
-      "date": "2026-09-02T08:43:05+00:00",
-      "description": "Germany blames Russia for last month's attempted drone attack at Leipzig airport  npr.org",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "at Leipzig airport",
-      "category": "airport",
-      "id": "278f8507e1c1"
-    },
-    {
-      "title": "European Commission says Russia behind drone incident in Germany - wng.org",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYzJjRzZwWXVTYmZxcU1oTmRGMERsVlk4RnFSR3YwSXhURmJ3MER6alJYaldUbVFNbHFwYTFtVXBxc2laWkw2djFqWHN0RUY4WVNvV2JPMWZyUWF4WEYzc210eTAzVVdKeWcwc0YzTjZZMlBmbzBpaW94Nm1reUtMNmhXcXpuVk1FaDFsQnZrVzZoY25WQkxieExNUWw?oc=5",
-      "source": "wng.org",
-      "date": "2026-09-02T16:53:00+00:00",
-      "description": "European Commission says Russia behind drone incident in Germany  wng.org",
-      "query": "drone incident",
-      "detected_at": "2026-09-02T20:34:08.485969+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "230369539d1c"
     }
   ],
-  "last_updated": "2026-09-24T21:59:53.917064+00:00",
+  "last_updated": "2026-09-25T00:27:44.960268+00:00",
   "total_count": 1000
 }
