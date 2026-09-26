@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Pittsburgh International Airport embroiled in lawsuit over unauthorized drone defense contract - triblive.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjhXM0NjUWlTaFo4RVp4UjF1YUVqeWRhSEdPZ0VveGIzdTVDU1JhanB0Mjc0WVFYdHhVTGdBcVdyMVMzUVh2RVZsTG1aSjlkR1ZPMjVIWFFycVQxek43a1VyTGR0cGdkRjZhV25rZXBDMi1nZW55ckVRNmNIenFVVjZuR1NsVW80d0p1VjdqVHlFZ1lVV21STjdEQU5SajVtc0tpU3NuZ3ZUM0VMcm1ZOUxGc1N0QmNmeVB4V1pMdw?oc=5",
+      "source": "triblive.com",
+      "date": "2026-09-25T20:21:34+00:00",
+      "description": "Pittsburgh International Airport embroiled in lawsuit over unauthorized drone defense contract  triblive.com",
+      "query": "unauthorized drone",
+      "detected_at": "2026-09-26T21:52:22.381390+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "f14cdef13076"
+    },
+    {
+      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-09-25T18:22:41+00:00",
+      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-26T21:52:21.823578+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f9132165b9de"
+    },
+    {
+      "title": "NSW men charged over alleged drone prison drug-drop attempt - 1News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWJIVDVHaXRWdlZRYzNBVnlhZEZhWUhQZE5YQUVJTG5pRDZVOVdBcElXNE5zUUhiYWFPc1dzcDEyaDZnWnFsaXpMSzlGWVR1cHdWZ3BMQkY4cTJOenh0d01jVUFTUEZOWEpKODFzUGNwQnRLa1JSbnpsSjFEZ2VSRTNaaWFRT2M3emR5QWhKclFaUXN2QmlJT0x2aw?oc=5",
+      "source": "1News",
+      "date": "2026-09-26T20:08:57+00:00",
+      "description": "NSW men charged over alleged drone prison drug-drop attempt  1News",
+      "query": "drone prison",
+      "detected_at": "2026-09-26T21:52:18.641424+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "5c00a2a305a1"
+    },
+    {
+      "title": "Paris Study: AED Drones Reach 95% of Cardiac Arrests in Five Minutes - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iUEtlZW5VVU5JNG45V0NnaC1scmhtUUNXSm5meVYtT0ZJbm5ZaXpLMW5ySEowc3ZvUS1XeDZJcEJ4NDdlaU45RE1fWW16LUN2RktvYVNHZWt2MndhYURydW9pQWFiS2RVTC1jaVIxSDZCa3RhRnRLYmdGQ29LZw?oc=5",
+      "source": "DroneXL",
+      "date": "2026-09-26T21:35:00+00:00",
+      "description": "Paris Study: AED Drones Reach 95% of Cardiac Arrests in Five Minutes  DroneXL",
+      "query": "drone arrest",
+      "detected_at": "2026-09-26T21:52:17.474473+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f659ed71e381"
+    },
+    {
       "title": "Rajasthan border districts face growing drug, weapons smuggling threat via Pakistani drones - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaHp6TnEzOVRMTjhXRi1pWWprRlRrRUFzM2Zlb05TZ0wxdkI5YTQzNVNLcVVOWkNLdHdaSnd1ZVlIM0NXVWZ4UGl2RmJ5TkxDeVR1RUJoeXdYMG51M3huRUNRdXVyQW1uME5SUFpaMXZwMjFTVXg2THNGeXNLQnFVRDVHODYxY1R0WU15TTB5aHBMbnlRNTFzdkRSaXdSR0lwTmc3T1VOSnl6Wi01dTJWcmRzSjZDR29rdGZ4VEVDOWR0QnEyc3FGMzFucE5OM2RhRkRneDAyYTZnVzNjcjc5MWxvZ3RtTmvSAfQBQVVfeXFMUEtFbFJqN2FyZVMySkl6OVpDWDBvN3NFcUExYlZOeUlHTXZVc3NhNEdVNXpULUUwYmc5eV9Td09ZV2pvWXRTQjl1RExBaWhUMkczRUtMdHlTOWhZSVQwcmJTMG5PMXhYM1FNMmU4SDRVX09zcXhBa3NZY0xsNGNGc18yLURrM3pBbWNEREhpVkZzcXhOZkJieHFWS2V2SzNqZXNQX3BpYUhuZzItY1BXM3NuOVNhMjVGY185WWRWa21YaThLM3JqdnpReks4MXhJZ1VhQVZQMXN6ZkluaXlyUkd0WHhGSHgyOEJrXzFGZlI4dW5OXw?oc=5",
       "source": "The New Indian Express",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2a480ae6e7ec"
-    },
-    {
-      "title": "EU Vows Tougher Russia Measures After Leipzig Drone Attack - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckdLdm5nZXhPMDBtUlhrcXlWRWt4Y2ZPdG1tWnVzZ1ZwNDNub0U5Q0NaamVKMDBjbDBDYlR6S2pOMDFuQnp6TlVWSWFRV3hYeUl4UElnQVpqMXFrRzA5a3hhMFBndDE2LVpkMzlVZWpIVGs3RVlLOUJmc2JPZkRTRDBtRW9IejhybTY3RngtWXNMOXhQNTZYaDIzREFNamZFdUoxTmpR?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "date": "2026-09-03T14:00:00+00:00",
-      "description": "EU Vows Tougher Russia Measures After Leipzig Drone Attack  Crude Oil Prices Today | OilPrice.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T19:39:45.542655+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "03fe15c2f89b"
-    },
-    {
-      "title": "Germany has blamed Russia for the Leipzig drone incident - now what? - ACLED",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWswYnlxN2ZQSm8zN0duWWN1bzVtRUNuT2RjbkZ4UFR5WUFpTzFlNmFWSURVQ3dYM2stM3pOcE04aS1ZcEppUUItWlJrbmswR0hpSU9ES0U2WjZxc3Z5VXB2d0twLWJRS1ZpX3FrNXlzZFFGdnA5MXNiNGg5UGRpRE40X2RJcF9wRUNZNHhxbDRtRmlJWDhUT2N3?oc=5",
-      "source": "ACLED",
-      "date": "2026-09-02T16:51:05+00:00",
-      "description": "Germany has blamed Russia for the Leipzig drone incident - now what?  ACLED",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T19:39:45.542655+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "717899cae2ce"
-    },
-    {
-      "title": "EU Looks to Curtail Russian Visas and Tankers After Drone Attack - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOWZkSlNDSHJGWWZsQkNDLUUzVHc0V2lKaFpKOWxnaDF1RUpfN3ZQZ3Qtb0tiT0NNdDdCMEMzelQ2SHJmQXAwR3lSVUVwMFdnX09JX3pfd2hBdnV0OEtXRWxrM09mZDdvd1lnV19RRlp0RUZBMVVIMjQ1bHlheVQzMDFfWXBzRnRkMko5QVJGM25GUnlzMlBoTVh3bDhVNVIyR2oxLWhTWDFtNFd6ZGJEaENub0xJZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-09-03T16:14:40+00:00",
-      "description": "EU Looks to Curtail Russian Visas and Tankers After Drone Attack  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T19:39:45.542655+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "795b12b28811"
-    },
-    {
-      "title": "Russia rejects British allegations of involvement in Leipzig Airport drone incident - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2M0ZWtBN2RTTmtHTGdqcmljS2FlRkxUUUJkc0E1blRvcGVFMFVmYV80M2p6b2hsREFhS1dBdEFWZmFISV92d1NZU3I5eWx3V3E3Q3VaYVNYckg3TjdkZ2JnWm51NHZPMTR3dlJjR0tYNFBKN2tUWngtN3RIWkg4TFJiNmkwTE1aNndfVm42OFF6akFyelZLZTZEMG90QmJXRVhlYUdWTzNfZUYwR2pUOUtteVpJejJmRUE?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-09-03T16:42:43+00:00",
-      "description": "Russia rejects British allegations of involvement in Leipzig Airport drone incident  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T19:39:45.542655+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "8e29ece67412"
     }
   ],
-  "last_updated": "2026-09-26T18:21:52.825015+00:00",
+  "last_updated": "2026-09-26T21:52:22.959259+00:00",
   "total_count": 1000
 }
