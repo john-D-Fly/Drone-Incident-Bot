@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "title": "Solca Drone Crash: Romania Scrambles F-16s - MiGFlug",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalpmY05lRlNUSGdDdHNDd0tIRlVBTDZrMGZpWThOdHdHN3JCbWw1WmRfYXV2MFhHeWlJa19DenNaalpKNWI0Yk1NUGNfOS1jSXRHdm5VTWZzbUpWTlpNNktLdWloSHkyQ1k3bGpoV0ZrdW9ZaUx4akVzbVkzLThJY2JlZncwV1RqZ3VtY1pCTGVOQQ?oc=5",
+      "source": "MiGFlug",
+      "date": "2026-09-25T11:07:59+00:00",
+      "description": "Solca Drone Crash: Romania Scrambles F-16s  MiGFlug",
+      "query": "drone crash",
+      "detected_at": "2026-09-26T14:09:30.172969+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "aa825f0076f2"
+    },
+    {
+      "title": "Drone-delivered AEDs could reduce defibrillation delays after cardiac arrest - news-medical.net",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHM4ZlBrMHBad3JmV2o2UDVRX3MxTURpNzI4MEJMMTdfSGp4d2g3N3QtQWtoYlNjRlNCWW9kMm4ycEpQTmVJWVN6LUZYNk9SRUtsc19DRmlUMEZYbkM3dEVQYW0yZ1F2Z3piSThheGxhd0hWQm0wd1BHekpxSF82MXYwQnJMUjZsNXd4ay1ReGdac3pMUmYwaWlCNElpZjNidndtMVhNdFpQSWJfek5LajN4SlFCN0YtZXV4eFhja25ldw?oc=5",
+      "source": "news-medical.net",
+      "date": "2026-09-26T02:50:00+00:00",
+      "description": "Drone-delivered AEDs could reduce defibrillation delays after cardiac arrest  news-medical.net",
+      "query": "drone arrest",
+      "detected_at": "2026-09-26T14:09:26.869041+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "dd3b2df42d4f"
+    },
+    {
+      "title": "Two reservists killed in IDF drone explosion accident during operations in Gaza - timesofisrael.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMExBRmZ1VDU5LUw4ZzRSSElPZ1NldUF4bVViYzJfWWtGblVsTWt0YmQwdG9BcGl3cFpHdzhuRXVDUm1BTk1HaENrU3NVUjFTREozdmlsU21qeDBQeW1lekxkbmRVTG1xUDlrS2pFSGFIRFZva3pFTTg3cF90V3BSUkZQbzhFcEFlVDlYQ0VyYUE2VlNiUzdhYlBWMW8wb1hKTk9Fc3RZbkM1TVVXRVBr0gG0AUFVX3lxTE1pLXRYUWh1QTFiTWdMS2lrdDhiQ0J2ODNYSmtjOFZlS1JNek5DaGVHMWhhT3JZZ2FCVVFUcFZVY2dvZDRuX3gtM2VWUml0UkZZSDZfNmtqVU9iYnh0TXdRU1ZCdE9LbTFfMGtVa24wN2VqX0VGMWNUX3NiNFpHcTZXbi0xZWhIZzVIN2tsaEQ1d3ZlVlhJcmlIeWtyeE16d0V6RUpxdUxYNGJJZDdPQXRzMFJJag?oc=5",
+      "source": "timesofisrael.com",
+      "date": "2026-09-25T19:16:05+00:00",
+      "description": "Two reservists killed in IDF drone explosion accident during operations in Gaza  timesofisrael.com",
+      "query": "drone incident",
+      "detected_at": "2026-09-26T14:09:25.888961+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "a9768289f68b"
+    },
+    {
       "title": "Alleged prison drug-drop plan foiled after drone crash - Yahoo News Australia",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44N1djYTlYZDZkeFY2dnc4UHk3WVFadFllLTVsLUZqalYybGluN2JMMGxPV1RYM1BPd3BrSkszOG1qRVBIbkFkT21kdmpCWXFpRlowYjk4Y2dZb2YxYmJPbkNLbUZNNnBpN0w3a0c2ZmhoN1VZTkdkeXc0NA?oc=5",
       "source": "Yahoo News Australia",
@@ -11963,44 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "5d5fa6d899ac"
-    },
-    {
-      "title": "What to know about Germany’s drone attack accusations against Russia - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHVFVzcxa0hDT3RqUFpLYXJTWVplb0p5LU5SVHp1ampRclJ6UE1ndU9qcmZVTjdaQ0NKaVRNS0g0LTNRSXdqdjAydy1rRVZVZFQtZzJrYnhyRHZ6b0pUY19jRWhIaFR1WGpYMmZSNklxencwMlQyUFdSUzFHeEE3YVhVQVpUeks1QlhsdXVPSUluN2liTUZWRVJ0eWxLQk5nQkZPSUVMMnVMWjjSAbABQVVfeXFMUGR6MWtuUjJYdk8tbVlrWEFfYjEyTW04T0NjU1poem02ZVJ6ZndSeVl0LU9sSjdpVlpqX1pYQk1SZEFjSnoxZjByNTRNNXFtX1lycUJJaTdoNVZCbDRQaFdQRXNNYXE2WU4xVXJfbjdydnJkRFYyVGJQWlFIR2pUOEVJY041UExlYlBrU1luN1NTVW5JQ3FSREdRVjBzQXBRVE1STHhZUUJKS1Nndl9LVWo?oc=5",
-      "source": "aljazeera.com",
-      "date": "2026-09-02T01:42:26+00:00",
-      "description": "What to know about Germany’s drone attack accusations against Russia  aljazeera.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T16:08:24.947374+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9438de1f7511"
-    },
-    {
-      "title": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0hhbGxvSjRDQUxyRlFvQmM1VzE3VEIxdjFvM0ZELXB1RWRTZ1hEUXM1Rjl5T1NMRjlETGE1UFJFZFI5LWcyOUJzZ29lS09KeGJlaGVnUTJDS3pQMzFkOGxlakxDVGEtd3huUEM4ekRYUF91VXpEOGM4WDRaZC1SQmNJUTVva2o1YjJsbnh2TDhreEVrZ2VscGNlcEhzWlF3UFgxR25mYWtuZ3ZkRXJ5eDUyRmJNdw?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-03T08:53:35+00:00",
-      "description": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T16:08:24.947374+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cb4c20f60de8"
-    },
-    {
-      "title": "Russia shuts down Germany’s cultural centers after drone incident - wng.org",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNW9tNnI0dENwdG9ZaXk0bEN1bjhGSVZYWWx3Q2FVbGRtZ2lqU210NTI3NGhQaVFISUkzX3VFRnJGbm11VTZXRnVKUDhwTDZXWVgzYnZmV2xFWG9LUGFscU9jZWpEZEt0SHdrdFB3Q0liejZfeTRGb3dJQThweU9OMlRPajQ0YS1ScjhTWnFmSkE0eDg1RHFwSW5ESDE?oc=5",
-      "source": "wng.org",
-      "date": "2026-09-03T15:54:00+00:00",
-      "description": "Russia shuts down Germany’s cultural centers after drone incident  wng.org",
-      "query": "drone incident",
-      "detected_at": "2026-09-03T16:08:24.947374+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "40716b59dc62"
     }
   ],
-  "last_updated": "2026-09-26T09:10:21.708944+00:00",
+  "last_updated": "2026-09-26T14:09:33.271839+00:00",
   "total_count": 1000
 }
