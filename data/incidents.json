@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Russian drones kill two in market outside Kyiv, three others in different regions, officials say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVF1UXZ0clUzdWpxRktGWjFjUGsxajFzZFp4eVNrNlctejhTQWZxRDFuYXd6SnA0bWhrVnVaTjZRLXJMR2VxUkdweVdiZ2FJaWpzUjVfZFhBVWgzTUx2emVTSVdwYko3Yy1WOU16bWVyZmw0OHpKQzZpX1JWa2tsOXRKYUl3ekVlUzE1MEh4eU9UWktidi1Cd1pfRkN2VmZ6QTFxMDRxblR3NkxYMHhjN1NaQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-27T20:42:05+00:00",
+      "description": "Russian drones kill two in market outside Kyiv, three others in different regions, officials say  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-09-27T20:57:19.674552+00:00",
+      "location": "in market outside Kyiv, th",
+      "category": "other",
+      "id": "7ab457183679"
+    },
+    {
+      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmo2UWI2Z2xxczFLZS1WVmJ1VHBkcml4cm0wNkx5bHZTcS13c29NUUFuaG95SDVnR0dqQkFmUno1Zjl2ZlpNUGtQVHo0OG5QM3RjbUlPYXVydmVpWllMODh2cFhVLVBvOEdlWDAweUU0d3hqUy15NEszQm1mbkwwZWxFWnRYaEtfOEpzTTJLeWNoVm15YmNkS29hU3BvMnJ2LV8xZXROYVBRSHZ1WWVBVEJobDVSR3RDd1N3SlNwUGZGQ3pwTzN5anFyLWdEZWlKM3o3Skc4bw?oc=5",
+      "source": "theguardian.com",
+      "date": "2026-09-26T05:00:00+00:00",
+      "description": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests  theguardian.com",
+      "query": "drone arrest",
+      "detected_at": "2026-09-27T20:57:15.538154+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "ed99d93c1cbd"
+    },
+    {
       "title": "US Space Force Deploys Laser Systems at Cape Canaveral to Counter Drones - israeldefense.co.il",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XWFRhUGJQZUhMWkNBYUpGNWQ1R0J5bXViSEwyOVR5S1BJQnZTOVNVSkFycWhoLVNDaC10U1A4bzRRNHJ2M0VGMjY0b3FiMFNkcjhuSENoSkI?oc=5",
       "source": "israeldefense.co.il",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "d111d013ce47"
-    },
-    {
-      "title": "Moscow Airport Disruption Deepens as Ukraine Presses Russian Airspace Warning - EU Today",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PMWRyVDVnQWxmeVQ4WVdVTXI5cVc4QnJKVElRTEtjRWY1cFRYNXlsN3BSU0ZDd2h3Ylc0SVBvOVBPSHRybEd2ekNBREFFVnZBbVNXUkU0TmhsVy1pR2tDdEtaZ0xoVHlFUDNmNFU0cUlWZFczSUs5aQ?oc=5",
-      "source": "EU Today",
-      "date": "2026-09-03T11:39:27+00:00",
-      "description": "Moscow Airport Disruption Deepens as Ukraine Presses Russian Airspace Warning  EU Today",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-03T22:19:37.729532+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "54c79b7517b0"
-    },
-    {
-      "title": "Moscow Airports Go Dark for Second Straight Night After Zelenskyy Warns Airlines to Stay Away From Russia - united24media.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWVYUFVaX0pOQU10N2FLRk9LbEllOGpoMW9NNDF4Nkt5TktPclFhajJnUmhnTmI5RG1ablFyZkFIQmZNTkdVVk5TOUQ1R1lsSEpwZERkZGpXZlhydEhzaU15WEVaZVMwcjFOTzJHZDhFX3hncWhpbWhuNDA2OWZZZlpiU05JN2NkZHVaa3VsLWZXMktFTUx5Z0JkTXVqank1VF9QbURodEMwQ3JoaXhFZTBock9ZWkFuN0RKZTdTQ2lBVVpBVTZ3Q0d3VFQ1Nl96MUpOWUIyTS14OTZnV013YUxpQ2FYaDA?oc=5",
-      "source": "united24media.com",
-      "date": "2026-09-03T07:07:14+00:00",
-      "description": "Moscow Airports Go Dark for Second Straight Night After Zelenskyy Warns Airlines to Stay Away From Russia  united24media.com",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-03T22:19:37.729532+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "47c8979b9878"
     }
   ],
-  "last_updated": "2026-09-27T17:31:53.694525+00:00",
+  "last_updated": "2026-09-27T20:57:20.836191+00:00",
   "total_count": 1000
 }
