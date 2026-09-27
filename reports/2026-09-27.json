@@ -1,0 +1,120 @@
+{
+  "narrative_summary": "In the last 48 hours, there have been multiple drone incidents reported across various regions. Notably, smuggling activities have come to the forefront with reported cases of drug drops into prisons in NSW and Punjab. The IDF's actions against Hezbollah following drone attacks highlight ongoing military tensions. Additionally, airport security has been accentuated with Pittsburgh International embroiled in unauthorized drone defense contract issues. There were emerging concerns of drone threats at southern borders related to cartels. Crashes involving drones have also resulted in fatalities, especially in the context of operations in Gaza, signaling the potential hazards associated with drone technology in military engagements.",
+  "totals": {
+    "other": 12,
+    "smuggling": 5,
+    "airport": 4,
+    "arrest": 8,
+    "crash": 8,
+    "total_incidents": 56,
+    "by_category": {
+      "airport": 6,
+      "arrest": 8,
+      "crash": 15,
+      "other": 14,
+      "smuggling": 13
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 9,
+      "drone crash": 10,
+      "drone incident": 7,
+      "drone prison": 7,
+      "drone smuggling": 8,
+      "drone terrorism": 7,
+      "unauthorized drone": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "prison smuggling",
+      "rationale": "Increased activity related to drones smuggling contraband into prisons.",
+      "incident_ids": [
+        "c6e1f66b4263",
+        "9d793aaedf95",
+        "51feb738456f",
+        "219419f2a86c",
+        "34391ade037d",
+        "f9132165b9de"
+      ]
+    },
+    {
+      "topic": "military drone incidents",
+      "rationale": "Recurring drone attacks resulting in military response and fatalities.",
+      "incident_ids": [
+        "6e07eba39392",
+        "51feb738456f",
+        "f1dba107fd0d",
+        "fc8318db5aa4"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "c6e1f66b4263",
+      "headline": "Jacksonville Jaguars Deploy Drone Defense After NFL Recorded Nearly 11,000 Violations Near Stadiums",
+      "one_sentence": "Jacksonville Jaguars have taken steps to enhance drone security measures at their stadium.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "34391ade037d",
+      "headline": "Eyal Zamir orders establishment of expert team to examine fatal drone accident",
+      "one_sentence": "An expert team will be formed to investigate a recent drone accident that resulted in fatalities.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "6e07eba39392",
+      "headline": "IDF strikes Hezbollah after drone attack on troops",
+      "one_sentence": "The IDF retaliated against Hezbollah following a drone attack on its forces.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "51feb738456f",
+      "headline": "IDF retaliates after Hezbollah drone attack",
+      "one_sentence": "In response to a drone attack from Hezbollah, Israel launched retaliatory strikes.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "9d793aaedf95",
+      "headline": "Live - Yemen forces say four Iranian drone, missile experts killed",
+      "one_sentence": "Yemen forces have announced the deaths of four Iranian experts involved with drones and missiles.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f02425d54326",
+      "headline": "Two men charged after allegedly attempting to smuggle drugs and contraband into NSW prison using drone",
+      "one_sentence": "Two individuals have been charged for attempting to smuggle contraband into a prison using a drone.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone-related incidents underscore growing concerns over smuggling and military use.",
+    "linkedin": "Recent drone incidents highlight significant issues in smuggling activities and military responses globally."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-27"
+}
