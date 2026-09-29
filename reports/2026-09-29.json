@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant number of drone incidents were reported, primarily focused on security and smuggling. Notably, over 30 unauthorized drones were observed at a Seahawks parade, raising security concerns. In Ukraine, Russian drone attacks caused widespread fear, killing five individuals across the country, including in locations like Kyiv. Meanwhile, multiple reports highlighted the ongoing challenge of drones used for prison-related smuggling, prompting calls for stricter measures, especially in regions like Georgia. Concurrently, counter-drone drills were held in Taiwan to prepare for potential threats. These incidents reflect a disturbing trend of drone misuse in both civilian and high-stakes scenarios, necessitating urgent policy discussions and protective measures.",
+  "totals": {
+    "security": 2,
+    "terrorism": 5,
+    "smuggling": 6,
+    "other": 9,
+    "arrest": 9,
+    "interference": 2,
+    "drone arrest": 4,
+    "drone terrorism": 3,
+    "unauthorized drone": 2,
+    "drone prison": 5,
+    "drone airport disruption": 2,
+    "drone incident": 6,
+    "total_incidents": 67,
+    "by_category": {
+      "arrest": 7,
+      "crash": 9,
+      "interference": 4,
+      "other": 25,
+      "security": 2,
+      "smuggling": 16,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 10,
+      "drone crash": 10,
+      "drone illegal": 1,
+      "drone incident": 5,
+      "drone prison": 13,
+      "drone smuggling": 4,
+      "drone terrorism": 18,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "The significant number of unauthorized drone sightings at events highlights a growing concern over drone security.",
+      "incident_ids": [
+        "6af8ec558408",
+        "62e4a9b0dfd5"
+      ]
+    },
+    {
+      "topic": "Drone Terrorism in Ukraine",
+      "rationale": "The recent drone strikes in Ukraine demonstrate the severe impact of drone warfare on civilian life.",
+      "incident_ids": [
+        "b05b494ebdcd",
+        "34cc68aa0274",
+        "797c82ff28d2"
+      ]
+    },
+    {
+      "topic": "Prison-related Drone Smuggling",
+      "rationale": "Multiple incidents related to drones smuggling drugs into prisons call for enhanced security measures.",
+      "incident_ids": [
+        "b5bef5d7da2d",
+        "f464e29b2646",
+        "d791cac5da31",
+        "af1729bba21b",
+        "3dd5b5249936"
+      ]
+    },
+    {
+      "topic": "Drone Usage for Arrests",
+      "rationale": "Several arrests facilitated by drone surveillance illustrate the technology's dual-use potential in law enforcement.",
+      "incident_ids": [
+        "e651a15b17a4",
+        "5189d30802ac",
+        "fc50df23a223"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6af8ec558408",
+      "headline": "Criminal charges sought after more than 30 unauthorized drones over Seahawks parade",
+      "one_sentence": "Criminal charges are being pursued following the unauthorized use of over 30 drones over a Seahawks parade, raising serious security concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "b05b494ebdcd",
+      "headline": "‘This is terrorism’: daytime Russian strike hits science academy in Kyiv",
+      "one_sentence": "A Russian drone strike targeting a science academy in Kyiv is being labeled as terrorism, resulting in critical injury and fear among civilians.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.95
+    },
+    {
+      "id": "2cb6a60d6644",
+      "headline": "Russian Summer Air Travel Fell Amid Surge in Daily Drone Attacks",
+      "one_sentence": "A surge in drone attacks has severely impacted summer air travel in Russia, highlighting the escalating threat landscape.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "b5bef5d7da2d",
+      "headline": "New measures to tackle prison drones, drugs and boost employment",
+      "one_sentence": "New governmental measures are being proposed to combat drug smuggling via drones in prisons, aiming to enhance employment and security.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f464e29b2646",
+      "headline": "Sheriff calls out legislators as drones continue dropping drugs, weapons into Georgia prisons",
+      "one_sentence": "Ongoing drone smuggling issues have prompted Georgia's sheriff to criticize legislators for insufficient action against drone-related drug drops.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal the urgent need for improved regulations as unauthorized use threatens security from parades to prison smuggling.",
+    "linkedin": "A wave of recent drone activity underscored pressing security and regulatory challenges, from unauthorized flights disrupting public events to drones facilitating drug smuggling in prisons."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-09-29"
+}
