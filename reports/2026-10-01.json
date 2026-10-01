@@ -1,0 +1,140 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone-related incidents have highlighted a range of urgent concerns across various regions. Notably, drone terrorism allegations have surfaced involving Ukraine, with calls labeling Russian drone strikes against civilian targets as acts of terrorism. Concurrently, drone usage for illegal smuggling, particularly in connection with prison drop schemes in the U.S., has drawn law enforcement's attention, leading to several arrests. Furthermore, drone crashes have been observed in Kyiv and Moldova, emphasizing public safety risks. Overall, these incidents reflect rising tensions involving drones in conflict zones and their illegal applications domestically, prompting renewed discussions about regulatory and safety measures.",
+  "totals": {
+    "terrorism": 6,
+    "smuggling": 5,
+    "arrest": 9,
+    "crash": 6,
+    "other": 8,
+    "total_incidents": 59,
+    "by_category": {
+      "arrest": 8,
+      "crash": 8,
+      "other": 25,
+      "security": 2,
+      "smuggling": 11,
+      "terrorism": 5
+    },
+    "by_query": {
+      "drone arrest": 14,
+      "drone crash": 8,
+      "drone illegal": 4,
+      "drone incident": 7,
+      "drone prison": 7,
+      "drone smuggling": 5,
+      "drone terrorism": 9,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone terrorism",
+      "rationale": "Incidents involving alleged terrorist actions or responses concerning drone use.",
+      "incident_ids": [
+        "ef54dd94ee79",
+        "100a9241ffc4",
+        "heat",
+        "4f696bd26b38",
+        "afc4af3a0cd8",
+        "b736c903617d"
+      ]
+    },
+    {
+      "topic": "prison smuggling",
+      "rationale": "Cases where drones were used to smuggle contraband into prisons.",
+      "incident_ids": [
+        "67caa55a482f",
+        "b5ec10a61fd7",
+        "logistics"
+      ]
+    },
+    {
+      "topic": "drone crashes",
+      "rationale": "Evidence of drone crashes and their impacts on safety and security.",
+      "incident_ids": [
+        "0f57c0f7f8d3",
+        "dfa03ef2b54a",
+        "f1e312f7d4c0",
+        "b3ec0ac7b0b60"
+      ]
+    },
+    {
+      "topic": "law enforcement actions",
+      "rationale": "Use of drones by police to assist in arrests and monitor crime.",
+      "incident_ids": [
+        "990cfc67d655",
+        "0fbfd546bb1d",
+        "d560dd92b290"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ef54dd94ee79",
+      "headline": "Butenko called the Russian drone strike on a school in Kyiv a cynical act of terrorism",
+      "one_sentence": "The Russian drone strike targeting a school in Kyiv is condemned as terrorism by officials.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "67caa55a482f",
+      "headline": "New tools to tackle prison drones, drugs and help offenders into work",
+      "one_sentence": "New measures are proposed to prevent drone smuggling in prisons and support offender rehabilitation.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "0f57c0f7f8d3",
+      "headline": "Drone Plummets in Front of President Lee: Another Crash at Armed Forces Day Event",
+      "one_sentence": "A drone crash occurred during a significant event attended by President Lee, raising safety concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "dfa03ef2b54a",
+      "headline": "Drone explosion in Moldova: new details and photos of wreckage emerge",
+      "one_sentence": "Details of a drone explosion in Moldova reveal significant wreckage.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Moldova"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "b5ec10a61fd7",
+      "headline": "Loganville man arrested with drone, drugs in alleged prison drop scheme",
+      "one_sentence": "Arrests were made in connection with a drone-assisted drug smuggling operation targeting a prison.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Latest drone incidents highlight ongoing challenges from terrorism and smuggling operations, raising urgent safety concerns worldwide. #DroneSafety #Terrorism",
+    "linkedin": "Recent drone incidents reflect alarming patterns in terrorism and illegal smuggling, necessitating a reevaluation of safety protocols and regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-01"
+}
