@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Russian drone strikes Kyiv school, pupils escape unhurt - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnFjaWVIMl9qUFNhR2VXS1FLb3lIQ1BIT3VCRTZnRWpvZk9WT3hVY2pfZENXUFJ0MHF1eE9hak1YZkhRX3NWWFV1OFo0bEVaeW85ampfYjNKeHpnNFJ3Vk8wdTN1bkFVNDZ2MHlNREJsNms0eTBVT0J1amdldUdHbG80Qkx0Yk9NSGdUc2VRSG9jb052MHdMVlY1ZUFNRjF0RnlPS2NaaDlZdENJT3pBaDJ0OA?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-01T04:18:00+00:00",
+      "description": "Russian drone strikes Kyiv school, pupils escape unhurt  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-02T22:55:21.016975+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "30e9d83aaa93"
+    },
+    {
+      "title": "Crime, kidnappings and drone attacks flagged in US warning for border region - 930 WFMD Free Talk",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFJNUmx1a0FqcndXaEp5LWhZdVhFTk9XYktIcWYzYllOTmhaTUEtbmx3eHNRM0FPdVgtSDBsWjhzbkJteVVSQ29URm41Vk9jVGNUV3V1YlEwUExUWV9mXzlSOU00MzlnTnZaWUdSSlVRcm95a0lsbG5lbjR1OFpZZE1hUzFReVNLTVQtVU04dGNtYzU3YTV3VzlENzUzMGcxTFpOWVJpVlhUWTRK?oc=5",
+      "source": "930 WFMD Free Talk",
+      "date": "2026-10-02T21:16:08+00:00",
+      "description": "Crime, kidnappings and drone attacks flagged in US warning for border region  930 WFMD Free Talk",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-02T22:55:21.016975+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0e15ff11ebe9"
+    },
+    {
+      "title": "Russian airstrikes choke bridges across Dnipro River in Kyiv - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5TTks5OXBwTG8wMk1WQ0hCaUxRenlXMnBVZlBNVklSZHBDQmg5SmNTRWE5dkFwb1VpM21IUlljMThNTkpveEZlNlJvemhSMDBuOUJRcldyRThMNUoybnE5dW51LThsNW5tODlZWUd0ZlgxcFhTb01ITVRUT05zbVpwaVJ0dnB1VU40cFVLUVlPM2VBMk8zUFpTUXEzVXg1VUdWc1EtY1ZnWlpMWkJJ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-02T04:32:00+00:00",
+      "description": "Russian airstrikes choke bridges across Dnipro River in Kyiv  Reuters",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-02T22:55:21.016975+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "de224eb0cdec"
+    },
+    {
+      "title": "Russian drone crashes onto highway in Poltava region, truck catches fire - ukrinform.net",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOay1WS2llRks1VHk1V1ZfYm9kXzg5X3F3emxnZGN2MFhxTklEQzJGX2pNblI1SDBFdG5MT1V5czlMcGptNURXbzBkM296aUJnNU5na1YyRHBWdVg0ZlFpRC1VNTdWNW5vU2V4dmwydGlWTXN6ai1lV2ZEV3JFc2Q1SlVaSUw3QmIzdF9MLTVPXzNzNHh0aWdnTElwSmVkOHA3Uy11ZndTTVlhbkVjTGxIYzlwMlRzOWVOWjJlQkgzUFZlUVHSAcMBQVVfeXFMTmstVktpZUZLNVR5NVdWX2JvZF84OV9xd3psZ2RjdjBYcU5JREMyRl9qTW5SNUgwRXRuTE9VeXM5THBqbTVEV28wZDNvemlCZzVOZ2tWMkRwVnVYNGZRaUQtVTU3VjVub1NleHZsMnRpVk1zemotZVdmRFdyRXNkNUpVWklMN0JiM3RfTC01T18zczR4dGlnZ0xJcEplZDhwN1MtdWZ3U01ZYW5FY0xsSGM5cDJUczllTloyZUJIM1BWZVFR?oc=5",
+      "source": "ukrinform.net",
+      "date": "2026-10-02T14:21:00+00:00",
+      "description": "Russian drone crashes onto highway in Poltava region, truck catches fire  ukrinform.net",
+      "query": "drone crash",
+      "detected_at": "2026-10-02T22:55:19.335723+00:00",
+      "location": "in Poltava region, tr",
+      "category": "crash",
+      "id": "8e5f9e74d03c"
+    },
+    {
+      "title": "Everett Police drone racks up two more arrests - everettpost.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHE1c1dJYjJtNmwteWlYb1o3Y09EWmVzZVhUYVlXNlp1dV9RUDZjLWxhUEQxRlAzc3Jqc3lObEE3WVRFUXFpRjVWZTNrSlNWZnlPUk1rY0FKNHh5eUpxRFFoaS1KV3NsYnlQbHFQcXlyMlN2bE02eHM1VGFGNWhhSW5xVU1GVXp6MnNVQWVScw?oc=5",
+      "source": "everettpost.com",
+      "date": "2026-10-02T21:34:54+00:00",
+      "description": "Everett Police drone racks up two more arrests  everettpost.com",
+      "query": "drone arrest",
+      "detected_at": "2026-10-02T22:55:16.979327+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "2d50f83d3900"
+    },
+    {
+      "title": "Drone Incursions at Wildfires Surge as Aircraft Face More Groundings - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLS1BPRi1Md3pnNGVzQllGQTUwc252ZjI1MDJPNTNzQ2o0bV9iRVpGcXJmT0c5ZEI0aFNScm9SNEdESmhIYkJaelFfMW8tM0ZkVUhNZGktYUZfcEthOGJRWXBUTFE4c3MyX3NhZk5vVTJvbjg?oc=5",
+      "source": "Dronelife",
+      "date": "2026-10-02T15:39:16+00:00",
+      "description": "Drone Incursions at Wildfires Surge as Aircraft Face More Groundings  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2026-10-02T22:55:16.306605+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "1042c6c71d2d"
+    },
+    {
       "title": "Russia slams Ukraine's drone deals as terrorism - breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeW9CYW5IZ2ZUOVAtNW5aM3gwQWxUaGhyaFVKWGFieVhVSF9qNk4wV1kwMDR3Nnh4UHk2THdLX3ROQTNHRnJGallvVVNyTF9vZ2lzbHlOOHM5LUhGZWl0QVowZmZqc3JWU2tRY3dxS2NIRnk3NVJsWjdvU2JKRzVIb29iTmppSzRxbTk0QWktVlI2cjV2VzBF?oc=5",
       "source": "breakingthenews.net",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "b4dee8dcd2bb"
-    },
-    {
-      "title": "Russian ambassador to Germany calls Leipzig drone incident 'provocation,' denies involvement - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVVWTWVWNkxMNUxreVZ4Y0pMVEs0d2JVOTlDbGhzTUt3QVV0VnNiaEVoZUdzT0ZoMWhMakdJenBqcXVwcGJ0VzBGbmNfanJNZjhuMFA0bU5UcGM0VE1obGxxaDFaNU8tR1Ixbkg4YnNXM3doWWVKWjZYWTRRYjdFSzllbHNUY01obTVVUzBDamVmT1VNS1dMVHlsTjhUNlFCaG5aOG44YmhTQ2xHV2FBY1NDemhHdldwRGpGVk03WkpKRXBNWEg4?oc=5",
-      "source": "Anadolu Ajansı",
-      "date": "2026-09-08T14:35:59+00:00",
-      "description": "Russian ambassador to Germany calls Leipzig drone incident 'provocation,' denies involvement  Anadolu Ajansı",
-      "query": "drone incident",
-      "detected_at": "2026-09-08T21:35:37.278776+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "dfb78b43dba1"
-    },
-    {
-      "title": "Secret Service Fails to Update Protection Policies Consistently - Legis1",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ycFRSNlhVUElFLUZKWjlZV1ZPMnBhdGREakVTcm1iT3ZBVUxZZi1jVUo5cERjVzE0Q2s5cWpYSUExLVdUZXdycFY1dEl3Tm5nZDdJSnlJMG1SZHQtRkZaSmp2T3VOY3JKUXRqOWktNzI5NUN2LWc?oc=5",
-      "source": "Legis1",
-      "date": "2026-09-08T17:58:26+00:00",
-      "description": "Secret Service Fails to Update Protection Policies Consistently  Legis1",
-      "query": "drone incident",
-      "detected_at": "2026-09-08T21:35:37.278776+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "63807a32856e"
-    },
-    {
-      "title": "ACLU Lawsuit Stops Sonoma County’s Unauthorized Drone Surveillance, Protecting Privacy Rights - freeyork",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5T2JqMUtXc1c1ZUliLXJDa091VFdjRWdGczNubXZPempycHlSVnprWGQtcUhrVkZDbjBnT0w2c0NYSDdIazdxUllLU1ByVjhEYklkS184VjZFNi1vVkM5QU5FUGV0SXRKUl9WSkFtajU?oc=5",
-      "source": "freeyork",
-      "date": "2026-09-08T16:49:00+00:00",
-      "description": "ACLU Lawsuit Stops Sonoma County’s Unauthorized Drone Surveillance, Protecting Privacy Rights  freeyork",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-08T18:20:43.710766+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "0fd2c6b72e35"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-09-07T21:52:17+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-08T18:20:43.095772+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "780b0f93cfd7"
-    },
-    {
-      "title": "Matthew Van Dyke Under NIA Scanner: US National Accused Of Illegal India Entry, Drone Training - News18",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWW53dC1oQmw1clY4ODJrenNaMG9RU2dJMkF4TWxoZ2ZydFk2Vy0yZV9hVDVWVkEyVjdwQ21kZEhiOVlubjZEUGRGMWhWTWtmLWZuTkpXcmpSUTFpUnk1aEh5Q0ZEUC1sa1JDQW0zZzM4WnJTczZ4SXdnNFI2YlRKS0dwRVJTQ281N3dwZUVPUnJhRGZ1SUxUR2trUUhuSjNKLU9LOVZ2SjAzYWRCRzhCWGRNZTdlUnRIcFBILUVaNHZTTGh0NHByUEtnZWZvTVRqZTZRVktNSGxmUdIB3wFBVV95cUxNelZ4bHRrZnRvWWlnRWNEQkpGWk95MDgwSFJKT1pUOWs1R0ZTMzM0cU9xTFJRVW1hSEdpSzFTb2pnRFpNUzFQY1hEMHZpNE5ydENicm14Q2tGOVpuLWxnLWtLNzNzTlJVLXNvUGRDU09hNFhVZ0dmX2trY1ZJdDF2VXBObTQyWFBUM0FQUlR4cVZSNnhkVUdJeV9RVmI2UGhCaE9ycFpuV1pmOUpVSHZ6LS1KNzlLcjV0VXFBc3hMMzY2MTNyeW1MUzZfVkpqdGtmQzhzMDJNR2J4MHFBSE5J?oc=5",
-      "source": "News18",
-      "date": "2026-09-08T17:48:45+00:00",
-      "description": "Matthew Van Dyke Under NIA Scanner: US National Accused Of Illegal India Entry, Drone Training  News18",
-      "query": "drone illegal",
-      "detected_at": "2026-09-08T18:20:42.037835+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e600aa9f12c7"
-    },
-    {
-      "title": "Sydney rapper’s audacious drone smuggling plot at Supermax prison - dailytelegraph.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMG5BbUVlUXA3a0gzVlhrQ0l4SjJOOV9SYVc4Y0tQalMxc05oTUhKUkNCc3YyV3BRVEw3dEk1U0pXcUVuNjFfZHk5R2N4UXQwRGZjaUJFVlc0TUI5Zk9OYXRUQXBFdDM4Vi1sOXV1Z3JhOUlaSEV3YmlWRkFHVkNwVmJQLVNWWFMzSnUtMktqR3JjY1c5ZjhJVmw0ZHBCeU5HUXk1NENzLVNWTGg1ZE1tbVdsZG9nSDA1RGF1MkU4T1dSNGNSbVlXZzg0aW5IbVhNdGZ3T2RyOW93LUJEaU1tNTg0dHN1OXFnUHdPV0pod0hEZ9IB9wFBVV95cUxPLWZEdUJjRjV6a0ZSNG14S3hOWlBVSUdudk5JUVNmN25sY2hSYXoteE9vWFlrVllxRzhzcmhrV3k1eXVyWUZpamgxSElKd1prNU9HT2gtbWNjSWxYY1EyMzZYaEluZlRENGlJbGwzX215bDdPa3lYcWtRZzduUXpaQWoyaVhuaHJmSHRqbzdWUlgtajZqemtMZ0dhZmVaLXphWlFjWnlCYmxPMGRYVmJrb0JaS1dWcDhVdWVXQjUyOU9XTW9GdU1ZTEc0YlFyS0liTWlNdW8wVGRCdklGVWEyQ05yMjZhVWdjeWJpSFZMNWZTQVlWLTl3?oc=5",
-      "source": "dailytelegraph.com.au",
-      "date": "2026-09-07T02:17:13+00:00",
-      "description": "Sydney rapper’s audacious drone smuggling plot at Supermax prison  dailytelegraph.com.au",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-08T18:20:39.908939+00:00",
-      "location": "at Supermax prison",
-      "category": "smuggling",
-      "id": "65e406a94d98"
     }
   ],
-  "last_updated": "2026-10-02T19:00:02.131469+00:00",
+  "last_updated": "2026-10-02T22:55:22.288911+00:00",
   "total_count": 1000
 }
