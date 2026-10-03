@@ -1,0 +1,160 @@
+{
+  "narrative_summary": "In the past 48 hours, several notable drone incidents have occurred across various regions. Unauthorized drone activities have raised concerns in the US, particularly in border regions, prompting alerts about potential crime and terrorist activities. Security measures are tightening, with police deploying drones for enforcement and exploration in various incidents, including unauthorized flights over military installations. Several drone crashes were reported, including in Romania and Ukraine, while the recovery of a crashed Global Hawk drone by Japanese forces is ongoing. Additionally, incidents involving drone strikes in Moldova and a significant warning from the FBI regarding no-fly zones during major events have emerged, highlighting evolving security challenges around drone operations.",
+  "totals": {
+    "security": 4,
+    "other": 20,
+    "airport": 2,
+    "arrest": 8,
+    "terrorism": 6,
+    "interference": 1,
+    "smuggling": 1,
+    "crash": 5,
+    "total_incidents": 51,
+    "by_category": {
+      "airport": 2,
+      "arrest": 8,
+      "crash": 12,
+      "interference": 1,
+      "other": 24,
+      "security": 2,
+      "smuggling": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 11,
+      "drone crash": 10,
+      "drone illegal": 3,
+      "drone incident": 12,
+      "drone prison": 1,
+      "drone terrorism": 11,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Incidents of unauthorized drones have raised security alarms, prompting law enforcement and government responses.",
+      "incident_ids": [
+        "687dab1b452a",
+        "51843ef9a2a5",
+        "c62a5985c015",
+        "0755d896ef7f"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Multiple reports of drone crashes, particularly in Romania and Ukraine, indicate a growing concern for operational safety.",
+      "incident_ids": [
+        "8e5f9e74d03c",
+        "1042c6c71d2d",
+        "031ed7603a79",
+        "40f05dbd8633"
+      ]
+    },
+    {
+      "topic": "Police Enforcement Using Drones",
+      "rationale": "Police agencies are increasingly incorporating drones in law enforcement and recovery operations.",
+      "incident_ids": [
+        "0755d896ef7f",
+        "d3351e891f38",
+        "7c44619673e3"
+      ]
+    },
+    {
+      "topic": "Drone Strikes Related to Conflict",
+      "rationale": "Drone strikes in conflict zones, notably in Ukraine and Moldova, have serious implications for regional security.",
+      "incident_ids": [
+        "dc46f58d62d3",
+        "9570eaee3d72"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "687dab1b452a",
+      "headline": "Louisiana State Police restrict drone operations during LSU games",
+      "one_sentence": "Federal airspace restrictions for drone use are in effect during LSU home football games.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "51843ef9a2a5",
+      "headline": "US border region warned of crime and drone attacks",
+      "one_sentence": "A warning highlights the rise in crime, kidnappings, and potential drone attacks in the US border area.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "dc46f58d62d3",
+      "headline": "Russian drones cause fires in Moldova",
+      "one_sentence": "Russian drones spark fires across four districts in Moldova amid ongoing conflict.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "8e5f9e74d03c",
+      "headline": "Russian drone crashes onto a highway in Poltava region",
+      "one_sentence": "A crash involving a Russian drone led to a truck catching fire in Ukraine.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "0755d896ef7f",
+      "headline": "Reno Police use drone for DUI arrest",
+      "one_sentence": "Police in Reno employed a drone to locate and arrest a suspected drunk driver.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "f78e2b866891",
+      "headline": "EOCO arrests three over drone operations at headquarters",
+      "one_sentence": "Three arrests were made following drone flights near EOCO headquarters in Ghana.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "c62a5985c015",
+      "headline": "Unauthorized drones spotted over US Air Force base",
+      "one_sentence": "'Multiple waves' of unauthorized drones have frequently been seen over a US Air Force base.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9570eaee3d72",
+      "headline": "Mosque and houses damaged in BLA drone strike",
+      "one_sentence": "Residential damages occurred following a drone strike by the BLA in Surab, Pakistan.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the last 48 hours, drone incidents have escalated across various regions, with unauthorized activity alarming authorities, notably in the US and Ukraine.",
+    "linkedin": "The past two days have seen a rise in drone-related incidents, prompting serious security alerts and operational responses from authorities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-03"
+}
