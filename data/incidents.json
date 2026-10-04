@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Russian drone strike on Kyiv bridge injures two - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0gxOGhZcmVjQjcyTTZFLW84T3ZoNGlXa3NFNy1Tc243ZlotMXIxem1tTnUycC1Ddkl3Q2NwczlHeEJyZHBJejFyTmRxUm9hTTltVl92NGJqWHRua0E0NWhiM3RWQWhCejdVdnF6WkhSMjFRSVZEM25DcC1DbGhiTG1LaEtKbFdPVHZwejhYekUxMmQ0RkE?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-10-04T11:00:00+00:00",
+      "description": "Russian drone strike on Kyiv bridge injures two  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-04T15:41:06.122863+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "ca9f17b302c0"
+    },
+    {
+      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-03T14:13:35+00:00",
+      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-04T15:41:06.122863+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "107c4a669321"
+    },
+    {
+      "title": "A drone carrying unexploded ordnance crashed in Kyiv - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpyMUpyUUFqYnZzU2M4ZWkyNHhiTFhab2JWbVVvb3JKMzNpUHpQOUc2OFZKaUQwWDBRMm9ybGo0LTYxVHlNSzVFUTNTVkFUdDR0LVptV185VVpMWUdESUNrek1yMVRZZm83STJaUVpVTEJYdVRvT0RrdWlCMkRLNHVNSDI?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-10-04T15:37:35+00:00",
+      "description": "A drone carrying unexploded ordnance crashed in Kyiv  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-10-04T15:41:04.402936+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "7601dc97b014"
+    },
+    {
+      "title": "Enemy attacked Kirovohrad region with UAV: drone crashed in Kropyvnytskyi district; no casualties were reported - censor.net",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUkxTllibF8zRndrcG5Odjk2ZWJFT2szN0xqN1FmR3VLenVxa084N1RWcFhMQ1NRRUstMjQ4Y1QySGFaM2lQS0FSRy1rQmVYT2pkcmJYSE5tTExiSWppQ2F2b1ljX2RUSGlHaGEwRkVUZEt4UXM1d045WnpsVUtkZDBFLWxfc2U0SS15eWRIMEpraXAxOW91R1JMdFF6T1ViMHJTUTBZRm5GTHAtYzNr?oc=5",
+      "source": "censor.net",
+      "date": "2026-10-04T13:13:05+00:00",
+      "description": "Enemy attacked Kirovohrad region with UAV: drone crashed in Kropyvnytskyi district; no casualties were reported  censor.net",
+      "query": "drone crash",
+      "detected_at": "2026-10-04T15:41:04.402936+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "02f3b476debf"
+    },
+    {
+      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
+      "source": "LSM",
+      "date": "2026-10-04T10:34:59+00:00",
+      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
+      "query": "drone crash",
+      "detected_at": "2026-10-04T15:41:04.402936+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5f37631d5287"
+    },
+    {
+      "title": "Punjab sees surge in cross-border drugs, arms smuggling and drone activity from Pakistan - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTRXNWJCMkIwcWJ0YkFFNFcxeEducDkyazRUTGhhQVpKUWZjQVg3X1FNMGluT2syY2R3b0Y3NVUwajllODFlRnFkbUdNRnYtYXZXV1lGZ0VuQnpmTERSWTlfTGhnQTNPZV9vOGNJRGtHbjFSQU9hWFdHT0Y5Mm5NQkltTDB0VFJhRTVwazdMNW1IU0YwSWd3cUxhZmJ0b3NMRVJ6ZGdqXzZaMzNCaWdMS0ZMRnIyeWRmTWxDZ0xyN01mRFBaZl9oU1N2Sm5ha0JaMklKckUxd0RIUE1tSm51amVR0gHiAUFVX3lxTE5tNFc1YkIyQjBxYnRiQUU0VzF4R25wOTJrNFRMaGFBWkpRZmNBWDdfUU0waW5PazJjZHdvRjc1VTBqOWU4MWVGcWRtR01Gdi1hdldXWUZnRW5CemZMRFJZOV9MaGdBM09lX284Y0lEa0duMVJBT2FYV0dPRjkybk1CSW1MMHRUUmFFNXBrN0w1bUhTRjBJZ3dxTGFmYnRvc0xFUnpkZ2pfNlozM0JpZ0xLRkxGcjJ5ZGZNbENnTHI3TWZEUFpmX2hTU3ZKbmFrQloySUpyRTF3REhQTW1KbnVqZVE?oc=5",
+      "source": "The New Indian Express",
+      "date": "2026-10-04T08:33:00+00:00",
+      "description": "Punjab sees surge in cross-border drugs, arms smuggling and drone activity from Pakistan  The New Indian Express",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-04T15:41:02.787625+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "efd51a47185f"
+    },
+    {
       "title": "NFL stadium deploys tech that can take over rogue drones - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFliQVdEeUpvR1hlc1hONlYyVHFaazNKU3VGYjFqMHVpLVZiRjBZN3A0ZmZCV2pLdnlFVXhTNkpYZ1h2NXhpS3RPaGdVa2VQdmtWbE13Rno0eGlHODVtZ0dGakY5QnVvam83ZkR3cVh2dHNmTDNGbTJEeS1aYkhwYTJpYlU?oc=5",
       "source": "Yahoo Sports",
@@ -11927,80 +11999,8 @@
       "location": "Near Large Outdoor Events",
       "category": "security",
       "id": "f155a441cc5f"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-09-09T07:51:54+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-09T17:35:52.714656+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fa91c845e726"
-    },
-    {
-      "title": "Texas Senators Call for Drone-Powered \"Smart Wall\" - Dronelife",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRE1pVkFxRVlxcVpqSWFWSUFGQlIzNmwyTXdoVnlObDBiTFFONTdfR2ppN3I1cEp1ZEdtREZ5OXBzdkZZRXotNHU3ck1tZWpyVFh5SXZ3aHBYcmlmRDg0RTVFUFVFTS00V2JLeDdlQURPZzg0YWs1LURDYXVPY0hjekdGSkdEbUdHc3c?oc=5",
-      "source": "Dronelife",
-      "date": "2026-09-09T15:40:32+00:00",
-      "description": "Texas Senators Call for Drone-Powered \"Smart Wall\"  Dronelife",
-      "query": "drone illegal",
-      "detected_at": "2026-09-09T17:35:51.515195+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7224fa182b77"
-    },
-    {
-      "title": "Camden turns to drones, cameras to catch illegal dumpers - NBC10 Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlFaaVhOQXkwUUFBRkpQQVQxOGxKalh5Wnp0cGJKc1dRNEpLMU1BdmIydVViTE5YMUlSaEFVMWYzRlNjZ202RkNVdnRCbEJWZUcyVEFZNmx0a3ZPdHVVNUZNdWdkSF9rQTExWXhZWk9LemNHZ0Y1RGpfbUJuOU1USlEyWHF1TU5lR1Z6Nk5mdUFvRWFmWHFqWlM5bU9SUUIxbkR0V3ZZX2FaUdIBsgFBVV95cUxQM2Y5ejk3djk3eElOWFF4aEdXSThBUC1JY1dWVVVxZ1VQOFF5czF6RGt5YlZTTWZZTEtpeEFNdnRKcWUtQUZxRXpieFNrczduaWJUamhwRzdmeGNweHV4blpUMlVjNGpDb3NwU25IRG1kRGROTnQ2eE9kSWV0MEJjNVNMN2U0TWpDWXJLNlpOZGJ3UWYzNDdHRXpRNjBLQW1jVWRJOVRnNmkwa2xybTdIYWl3?oc=5",
-      "source": "NBC10 Philadelphia",
-      "date": "2026-09-09T16:10:43+00:00",
-      "description": "Camden turns to drones, cameras to catch illegal dumpers  NBC10 Philadelphia",
-      "query": "drone illegal",
-      "detected_at": "2026-09-09T17:35:51.515195+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fd3cfd8fbfd9"
-    },
-    {
-      "title": "Russian drone hits Kyiv warehouses, injuries rise to 9 - english.nv.ua",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamd1WXpDNjNLLVVuUDNubGI0NjhrdlBaZEJYSXNBRmJSdVFtX1BaTHFBNm1Ca2o2LUxaYjZtUUpWUllTVXBMTjNRa29rd0pqSEtTS3pxczdsZzNXSTdpb1E1ZTA0U3kydVF1dzNFNi1xQmV5aXVKTG11SjJuMkFfeDRiT1FpblBRaHFwZTFmdTE3NDNSa0NETTdpMk9TXzVrMFlSMTFoaFgtd9IBpgFBVV95cUxQd1B0UUpMYjBsd0RqOFVpYnRHTGxKUVlyY3M2cDIzNGxxNVp3LUNMSWYzUndfQ0JyWmtVMVBvbGtlMVREVnpPMUVSUm1lZDIwRWk5WjZZWGg0a3pFUWZyRVB0RWZlMno2dS00aThiT29KcFR4X0NwMVllaGxSVlBpVGVOTjJTSFhHSWpId1ZyUG41MnJ5dnNNdkVyakRVV0gzcUhTbERn?oc=5",
-      "source": "english.nv.ua",
-      "date": "2026-09-09T12:05:00+00:00",
-      "description": "Russian drone hits Kyiv warehouses, injuries rise to 9  english.nv.ua",
-      "query": "drone crash",
-      "detected_at": "2026-09-09T17:35:50.927718+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3fc1642215a2"
-    },
-    {
-      "title": "Russia resumes drone attacks on Kyiv, kills 1, injures 12, damages residential buildings - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVE1KdWYxRWppZGhpRVNXaGxhcTR4RW51OTJpWEZsODdXNHBrOS1oMFF6T0NhOWhpQVI4UC04Rm10N2dOaTdGUnBPTGtfRFhPakNFc2l4dVUyLVpoVEhSRTF0bGdrM1g5RVZlTmVzVW1sY0h5WHZkdVpVVUtuYUtGWkQ3OGV4aTdtd04xZVViZ3dKN3pLc01iLXJIOXlpTkd0VTY2a3hTbkZqRDFDLVlPOGVONUdRYWh2cE1MVXdvRQ?oc=5",
-      "source": "The Kyiv Independent",
-      "date": "2026-09-09T12:43:54+00:00",
-      "description": "Russia resumes drone attacks on Kyiv, kills 1, injures 12, damages residential buildings  The Kyiv Independent",
-      "query": "drone crash",
-      "detected_at": "2026-09-09T17:35:50.927718+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "152708c32044"
-    },
-    {
-      "title": "Drone video shows path of destruction from Amazon cargo plane crash - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3gtVUZCaWtpTUxYT1hSTTk3bXpNQ19PRms2ZFJTNExCbFIwdE9JWWQzMXJrTXd3aE00RG9jYzBQRVo4SmNYSzYxOHZUUUtpOEstZUhSYVpsMnRJbk9kWUJ0N2RVWTl6MGlwaWV2OHdpeXJWeVBFUFFvZ0VEdWxRQW03d2k5ZWZIZ01oa21NYXlUa0xlZGplWFNZYlhaWXRGODdYRGFiUFI1VDBRNUFiUEdVSlhPbUZwUFYwRzR3Wkg?oc=5",
-      "source": "USA Today",
-      "date": "2026-09-09T15:06:14+00:00",
-      "description": "Drone video shows path of destruction from Amazon cargo plane crash  USA Today",
-      "query": "drone crash",
-      "detected_at": "2026-09-09T17:35:50.927718+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "5048a1cf8929"
     }
   ],
-  "last_updated": "2026-10-04T10:56:17.617891+00:00",
+  "last_updated": "2026-10-04T15:41:07.262185+00:00",
   "total_count": 1000
 }
