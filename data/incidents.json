@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Race to unlock secrets of Russia’s deadly jet-drone - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3piY0Q1TV9EUTlOd3gwd0VWdFZjcTNoZy04TWhnbEdUV1FLWGUtd0d4WmFKTzZWNnVuYTFMMHNWM2tCTWJTRjhmb0dhTE1PRDhlZVRWSTBSMWhWc0ZZaWFkZExHWVpjRTkxVWJqT0pKMG5oZEpyb2JvSXBHOXY3R1RBZi1va2lSSUNwdzJPbHIwUjZrQ25VdlpVd2NCSHEybHdjMXhB?oc=5",
+      "source": "thenationalnews.com",
+      "date": "2026-10-04T19:34:04+00:00",
+      "description": "Race to unlock secrets of Russia’s deadly jet-drone  thenationalnews.com",
+      "query": "drone crash",
+      "detected_at": "2026-10-04T22:47:05.685414+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "0a97203dba6d"
+    },
+    {
+      "title": "Burglary suspect arrested in Santa Fe after allegedly hiding from drone - KOB 4",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjZNa25BczQ5bXhReHdCbHV5eVlhcGE0S2dPMjNnRlBVM2pyeEVKdjFGMkxCbHFNZTZiME9LWlVEQnlERUhxQmNXMXk3SjRlWVlGYUkxRTBxSUhrWmFsZ1hkSFBQUjRlUC1zV3BqVEhYaTMtbVRyODlOX3ZWMzBRSlhrbl9XMy1vUm9MMnhOUHY2MVFLOXBQSHJabzFBR3V5M2w2TEdn?oc=5",
+      "source": "KOB 4",
+      "date": "2026-10-04T18:58:23+00:00",
+      "description": "Burglary suspect arrested in Santa Fe after allegedly hiding from drone  KOB 4",
+      "query": "drone arrest",
+      "detected_at": "2026-10-04T22:47:03.024264+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "12a26f547916"
+    },
+    {
       "title": "Illegal Drones Spark Security Fears At Nuclear Plants - Evrim Ağacı",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXRIZFI5dTNKOFhFOTNSQjM5b1psU1FzRHU1ZnJ4aTE1Q0diLXFHTFV0cXBhVWpWNFFUV0RQN2FSeFlMY3hGalFYeFVqWkcxOWkyN0NwSlBNUXB4cGJLV2pGRWUtVm03RHZlVFhhXzJZdzllLTktRXpXVTh2TUdJZUdRR2JlcTllN2tGN3ZCb1Q?oc=5",
       "source": "Evrim Ağacı",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "a6e8ad329d29"
-    },
-    {
-      "title": "Drone intrusion temporarily shuts Taichung air base - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtVVJQNDRDckNTQVRfMlZhRjFKQmFhX2pySWMxZzBhUFF0SWp2X0dZTTVJOXRsSC0wTmhoUUhFY3lCNEpXaWxKRm1uS0F0c0xNMWFJYjR4N1RIWU1oeTdKVUlqMHh2NnpkdWZpTGhfSGRFWVZ1MTREcw?oc=5",
-      "source": "Taipei Times",
-      "date": "2026-09-09T16:00:00+00:00",
-      "description": "Drone intrusion temporarily shuts Taichung air base  Taipei Times",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-09T20:30:46.385902+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "070a85271046"
-    },
-    {
-      "title": "IRGC says it captured advanced US underwater drone near Hormuz - iranintl.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15QlpvaVZiby1FSWZabkJBWHpmTnVTWURKbDdBSFluWGl5TGY2ZlJYTDNYWDNjTTZXLXJBSWZ0Q0J5UXpBdUNVVEg5NEZqX3Rvc3c?oc=5",
-      "source": "iranintl.com",
-      "date": "2026-09-08T15:22:29+00:00",
-      "description": "IRGC says it captured advanced US underwater drone near Hormuz  iranintl.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-09T20:30:45.746433+00:00",
-      "location": "near Hormuz",
-      "category": "other",
-      "id": "e3d28899f60c"
     }
   ],
-  "last_updated": "2026-10-04T19:13:45.228757+00:00",
+  "last_updated": "2026-10-04T22:47:08.762483+00:00",
   "total_count": 1000
 }
