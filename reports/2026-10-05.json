@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "Over the past 48 hours, several notable incidents involving drones have emerged, primarily focusing on security concerns and criminal activities. In Ukraine, a drone strike claimed a life at a pharmaceutical plant, highlighting ongoing tensions and the risk posed by military drones in civilian contexts. Reports from Pakistan indicate measures being taken to thwart drone-related smuggling, including the installation of fishing nets at security outposts. Meanwhile, a surge in drone activity has been observed along the Punjab border, suggesting an increase in cross-border smuggling of drugs and arms. In a separate development, UK prisons continue to struggle with drone-related issues, with calls for improved countermeasures against smuggling operations. Additionally, several arrests were made involving drones tracking suspects in various incidents, underscoring the evolving role of drones in law enforcement.",
+  "totals": {
+    "other": 18,
+    "smuggling": 3,
+    "terrorism": 5,
+    "arrest": 6,
+    "crash": 6,
+    "interference": 2,
+    "security": 1,
+    "airport": 1,
+    "total_incidents": 51,
+    "by_category": {
+      "airport": 1,
+      "arrest": 6,
+      "crash": 7,
+      "interference": 2,
+      "other": 30,
+      "security": 1,
+      "smuggling": 3,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 11,
+      "drone crash": 11,
+      "drone illegal": 3,
+      "drone incident": 8,
+      "drone prison": 2,
+      "drone smuggling": 4,
+      "drone terrorism": 7,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Increased threats and attacks involving drones underline a significant security concern.",
+      "incident_ids": [
+        "57b6eaac995c",
+        "e07fc3ef6c7e",
+        "20145ce5eb46"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Multiple reports indicate a rise in cross-border smuggling activities using drones.",
+      "incident_ids": [
+        "efde199b0f9a",
+        "19a58918a36b",
+        "2238769bcab9"
+      ]
+    },
+    {
+      "topic": "Drone Incidents in Law Enforcement",
+      "rationale": "Drones are increasingly being used in police operations, showing their operational value in arrests.",
+      "incident_ids": [
+        "443afd8ef984",
+        "589ed7ea6eb9",
+        "95c138da6337"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "4ac04808e845",
+      "headline": "Authorities investigate viral drone footage during National Day fireworks display",
+      "one_sentence": "Investigations are underway regarding drone footage that appeared during a fireworks display.",
+      "risk_tags": [],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "4a2a15942043",
+      "headline": "'Thriving drugs market' at prison due to drones",
+      "one_sentence": "Drone use is contributing to a serious drugs market in UK prisons, raising alarms.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "222b9ae11cff",
+      "headline": "UK prisons plagued by drone issues",
+      "one_sentence": "Inspectors indicate that UK prisons are failing to effectively counter drone threats.",
+      "risk_tags": [],
+      "countries": [
+        "UK"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "20145ce5eb46",
+      "headline": "Drone Strike on Pharmaceutical Plant in Ukraine Claims One Life",
+      "one_sentence": "A drone strike at a pharmaceutical facility in Ukraine has resulted in one fatality.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "dfc412d93697",
+      "headline": "Pakistan installs fishing nets at security outposts to block drone attacks",
+      "one_sentence": "To prevent drone attacks, Pakistan has placed fishing nets around critical security points.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "Pakistan"
+      ],
+      "priority_score": 0.5
+    },
+    {
+      "id": "e1be3134769c",
+      "headline": "Suspected Drone Crash in Romania Highlights NATO’s Air Defense Challenge",
+      "one_sentence": "A suspected drone crash in Romania raises concerns regarding NATO’s air defense capabilities.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising security concerns and challenges in law enforcement.",
+    "linkedin": "Over the past two days, increased drone-related activities, from smuggling to security measures, have underscored the evolving role of drones in contemporary incidents."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-05"
+}
