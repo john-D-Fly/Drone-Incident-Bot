@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a noticeable surge in drone-related incidents, particularly focused on smuggling and security threats. Notably, Bulgaria has experienced multiple drone attacks, impacting commercial vessels in the Black Sea, with concerns raised about the implications for international law. The U.S. military has also taken precautionary measures by withdrawing bombers from a British base due to threats posed by Iranian drones. Meanwhile, incidents of drone smuggling into prisons have persisted, exemplified by arrests in Midlands prisons. Countries like India and Pakistan continue to witness cross-border drone activities associated with drug trafficking. Overall, these incidents highlight the evolving risks associated with drone technology in security and law enforcement contexts.",
+  "totals": {
+    "other": 29,
+    "arrest": 16,
+    "smuggling": 6,
+    "terrorism": 4,
+    "airport": 1,
+    "crash": 6,
+    "total_incidents": 90,
+    "by_category": {
+      "airport": 1,
+      "arrest": 15,
+      "crash": 4,
+      "other": 46,
+      "smuggling": 18,
+      "terrorism": 6
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 22,
+      "drone crash": 3,
+      "drone illegal": 3,
+      "drone incident": 30,
+      "drone prison": 4,
+      "drone security breach": 1,
+      "drone smuggling": 14,
+      "drone terrorism": 11,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Attacks on Vessels",
+      "rationale": "Multiple incidents involving drone attacks in the Black Sea affecting commercial shipping.",
+      "incident_ids": [
+        "4c60b9bc1b7b",
+        "bfd4cb84be8d",
+        "8d2aa34ac684",
+        "decf93e70e8a"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Increased drone smuggling activity leading to arrests of suspects attempting to transport contraband into prisons.",
+      "incident_ids": [
+        "478ed5e1640c",
+        "39e9eded2f17",
+        "ab17589279f6"
+      ]
+    },
+    {
+      "topic": "U.S. Military Security Measures",
+      "rationale": "Concerns about Iranian drone threats prompting precautions in U.S. military operations.",
+      "incident_ids": [
+        "2bcd8fbb74ea",
+        "fef8ccfe642a",
+        "f1fb634ed38d"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "4c60b9bc1b7b",
+      "headline": "Bulgaria Halts Rescue for Crew of Sunken Ship After Drone Attack",
+      "one_sentence": "Bulgaria has suspended rescue operations due to a drone attack on a commercial vessel.",
+      "risk_tags": [
+        "maritime_security"
+      ],
+      "countries": [
+        "Bulgaria"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "decf93e70e8a",
+      "headline": "Seventh Person Arrested in Suspected Plot to Attack U.S. Planes",
+      "one_sentence": "Authorities made a seventh arrest in connection with a suspected drone attack plot targeting U.S. aircraft in Britain.",
+      "risk_tags": [
+        "terrorism",
+        "arrest"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "478ed5e1640c",
+      "headline": "Man Charged After Drone Smuggling Contraband into Midlands Prison",
+      "one_sentence": "A man has been charged for using a drone to smuggle contraband into a Midlands prison.",
+      "risk_tags": [
+        "prison_smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "2bcd8fbb74ea",
+      "headline": "U.S. Military Withdraws From Another Base Over Fears of Drone Attack by Iran",
+      "one_sentence": "The U.S. has withdrawn personnel from a base in response to drone attack threats linked to Iran.",
+      "risk_tags": [
+        "military_security",
+        "terrorism"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "39e9eded2f17",
+      "headline": "Two Men Arrested after Drone Attempted to Smuggle Contraband into Midlands Prison",
+      "one_sentence": "Two suspects were apprehended attempting to use a drone for smuggling into a Midlands prison.",
+      "risk_tags": [
+        "prison_smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8d2aa34ac684",
+      "headline": "Suspected Iranian Drone Plot Led US to Remove Bombers from UK Base",
+      "one_sentence": "Concerns over an Iranian drone attack prompted the U.S. to withdraw bombers from a UK airbase.",
+      "risk_tags": [
+        "military_security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Surge in drone incidents over the past 48 hours, highlighting risks in maritime safety, prison security, and military operations.",
+    "linkedin": "A significant surge in drone-related incidents has been observed recently, drawing attention to critical issues in maritime security, prison smuggling, and military precautions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-07"
+}
