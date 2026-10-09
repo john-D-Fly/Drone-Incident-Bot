@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant number of drone incidents have been reported, particularly involving law enforcement actions and drone smuggling activities. In the United States, multiple incidents have drawn attention, such as a man's arrest for unauthorized drone flights near airports in Dallas and another in Florida linked to suspected prison drops. Internationally, drone attacks in Ukraine against Russian data centers highlight ongoing geopolitical tensions. Notable behavior includes the FBI alerting about potential drone attacks linked to Iranian operatives. The incidents underscore the increasing necessity for stricter drone regulations and counter-drone measures, particularly in response to rising security threats worldwide.",
+  "totals": {
+    "smuggling": 7,
+    "terrorism": 5,
+    "other": 13,
+    "arrest": 7,
+    "airport": 5,
+    "crash": 4,
+    "interference": 1,
+    "total_incidents": 47,
+    "by_category": {
+      "airport": 5,
+      "arrest": 3,
+      "crash": 4,
+      "interference": 1,
+      "other": 20,
+      "smuggling": 10,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 9,
+      "drone crash": 3,
+      "drone illegal": 4,
+      "drone incident": 15,
+      "drone prison": 3,
+      "drone smuggling": 2,
+      "drone terrorism": 6,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized drone activities",
+      "rationale": "Several incidents involving arrests related to unauthorized drone flights indicate a pattern of increasing regulatory challenges.",
+      "incident_ids": [
+        "5aacbd5b6959",
+        "75fd555b4d49",
+        "a6b61ca27896",
+        "1790fe273a60"
+      ]
+    },
+    {
+      "topic": "Drone attacks and geopolitical concerns",
+      "rationale": "Increased drone attacks, particularly involving Russia and Ukraine, highlight significant security concerns.",
+      "incident_ids": [
+        "56c142d9c4f4",
+        "56f88b9b8bf3",
+        "f5a3e0fd89f8",
+        "e20496f639df"
+      ]
+    },
+    {
+      "topic": "Regulatory responses",
+      "rationale": "Policies to manage drone smuggling and illegal activity reflect the adaptation of legal frameworks to emerging threats.",
+      "incident_ids": [
+        "1790fe273a60",
+        "4d5b4cb838fc",
+        "4e6c3536fe71",
+        "38abf318acc5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "5aacbd5b6959",
+      "headline": "Dallas man faces 8 years in prison for unauthorized airport drone flights",
+      "one_sentence": "A Dallas man has been sentenced to eight years in prison for illegally operating a drone near an airport.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "56c142d9c4f4",
+      "headline": "Ukraine expands drone strikes on data centres owned by Russia's Yandex",
+      "one_sentence": "Ukrainian forces have intensified drone strikes on data centers associated with Yandex, a major Russian internet company.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5afbc251c968",
+      "headline": "FBI warns Iran aspired to attack California with drones",
+      "one_sentence": "The FBI has issued a warning regarding potential drone attacks orchestrated by Iranian operatives targeting California.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "4d5b4cb838fc",
+      "headline": "Denton police arrest two men in house burglary with help of drone",
+      "one_sentence": "Authorities in Denton have successfully apprehended two suspects involved in a burglary, aided by drone technology.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "7720770a7bbd",
+      "headline": "FAA cracks down on illegal drone spraying with record $290K fine",
+      "one_sentence": "The FAA has imposed a historic fine of $290,000 for illegal drone pesticide spraying operations.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight growing threats from unauthorized flights to geopolitical tensions.",
+    "linkedin": "In the last 48 hours, drone activity has surged, revealing critical law enforcement challenges and international security concerns."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-09"
+}
