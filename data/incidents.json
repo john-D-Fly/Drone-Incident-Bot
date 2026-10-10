@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Drone attack stops Russian government planes landing in Moscow - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmFWRExwVzctam1SUnBZT1RkejNjeXJiU215eXR5Um1OdXpHZ3RXZVoxWDZzWEpRUllEU0tIZXdLRjZCVkM4QjZsTEctWkdXTmV2RDVvdDhPaGZsSXFRaHUzYTQ4QWJvWDlaWHN1VDFkUVNtZG1EcVJ4dEFfeDFxQUlDTTBsOXJuYXV4eXEyXzJTdVBrRkRQWFpR?oc=5",
+      "source": "The Telegraph",
+      "date": "2026-10-09T16:06:00+00:00",
+      "description": "Drone attack stops Russian government planes landing in Moscow  The Telegraph",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-10T19:48:39.332448+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4c9c649fb788"
+    },
+    {
+      "title": "Over 400 Drones Target Moscow Region, Grounding Hundreds of Flights - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZcTJDbzNhWEY5NDFLOXJGR3o2TEVuRk1wNklWbDJhRHhqbHhYQ0EyZURUTWNpZnBTVVAta2sxbTFCUjE3ekdkRnRTTQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-10-10T12:07:05+00:00",
+      "description": "Over 400 Drones Target Moscow Region, Grounding Hundreds of Flights  Kyiv Post",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-10T19:48:39.332448+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "57654cfc6d26"
+    },
+    {
+      "title": "Pakistan’s drone tactic overwhelms India's border defences as smuggling attempts surge - MorungExpress",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0REVWZIUTJfdmZzaHBWa2trV2RjbzJISEd4VGVpVm5hdEpCTlN4bS1WVGhKRTU3bkFya3JKbTRYa3JTVi02bXV4eGFPUGE0TkR6OWV5cVdaZ2FzX1lqaGlCdTE5MUZwa3prWkZ1cTVqNG81a3JHTFpOdkRLbkptdV9TYXJ1UFhfZ3RENUhFTGgyNnNSVU9QWUpHTklWbWhDMVFGZEdBR09ESDlMd3B4SE8teEw?oc=5",
+      "source": "MorungExpress",
+      "date": "2026-10-10T12:00:38+00:00",
+      "description": "Pakistan’s drone tactic overwhelms India's border defences as smuggling attempts surge  MorungExpress",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-10T19:48:37.998863+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "b40945b52112"
+    },
+    {
+      "title": "Greeley Police use drone to track fleeing vehicle instead of pursuing it - 9News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzBHMVV0NExidUMtY3lJTXVFRG1IZE9SU2I1T3l6RmZNQzBzVnBWeE1zUENLMzM3RDBuOUJma002cDhxQTlhSk41OUM4bG1vSGxhcnlhVTY5TnpiM290aFVxOGpVLU5NUGNEYXhsSkRyQnZPRkFxTkNsWGhvNzA5VTVMZ0F6UVBUSWRodGthU0dVZ0t0S0cwcktWMjZKRVdFYmNrUzV6d3hSVW9TZlVwRThXVUV0c3JRd2ZFYUJKRDQ?oc=5",
+      "source": "9News",
+      "date": "2026-10-10T12:24:00+00:00",
+      "description": "Greeley Police use drone to track fleeing vehicle instead of pursuing it  9News",
+      "query": "drone arrest",
+      "detected_at": "2026-10-10T19:48:37.372215+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d8a770f7bb3f"
+    },
+    {
       "title": "Moving B-1 bombers from UK to US is no drone warfare solution - Asia Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkVTdnUwdS1OZ0ZZNXN3V2ZlOVlmb2xFSmxIRnlBTmhRY3dUNUk1LWVqeC1JMXFJWWxhc0x0c0pfbzFiRExGaFVsY2U0anpneHpnOFdzenhaR0pGTE5vR3EtT2VvcWR2MG81eURIYzQ4VFQ0ekdPTnZTOVJLV1Eya0lHckdaRGFBb2RNU2I3QjF5ell4YXpB?oc=5",
       "source": "Asia Times",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "1886576cb3ad"
-    },
-    {
-      "title": "Beijing launches drone buyback in crackdown after Citic Tower crash - ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmVoRDNmRU9HR0pFSm5MZUlkdHIxbmhuVTZudlliZXY0eVdkRHJOdG14QlFBZVB2VGR5RzZPc3E0RkNwa1VZUko1aWpiNjFGWWN0VGs5Y3pQU1BuU2FPMnJyLTl2OXdVd3NBTHpjYWxjSjJqekVUWXhzb3BlWkZETkZZLVA?oc=5",
-      "source": "ft.com",
-      "date": "2026-09-14T08:52:23+00:00",
-      "description": "Beijing launches drone buyback in crackdown after Citic Tower crash  ft.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-14T11:56:45.200265+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "6f0cad1a6d37"
-    },
-    {
-      "title": "Beijing bans drone possession months after deadly crash - Caliber.Az",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTB3cndEcnJKMjNObzVQNlRpWm16aEhkYUlONzBJU1IzSExVazFrN2dZVzNYN3VGVHJFWUo0T1Z4TVhqWnlUd0lqNlk0ZS0weDlsZGd6enBRS3ltYTNnUzVtSkRYRDVMYzFTWVlNWmh2bWlTS2dleXZGS2MxeS1BUnhwN3lBUFgzUXc?oc=5",
-      "source": "Caliber.Az",
-      "date": "2026-09-14T03:04:50+00:00",
-      "description": "Beijing bans drone possession months after deadly crash  Caliber.Az",
-      "query": "drone crash",
-      "detected_at": "2026-09-14T05:50:18.300029+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "68fa4fad18eb"
-    },
-    {
-      "title": "Beijing bans drone possession after June's deadly skyscraper crash - economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOU3JrMkVvdHUwVWFDNjBMeGwzYUdpc1Z0TVVHcjVBd2xIbFJyYTZ1ekk4RUwzNmIyY2V1QXVndFpTOTgyYlZoRGJhcHVRMWFkMmlLWUFUUW5JcjFBdXc5eVJzYUlWYzV2UDNMemdiRU9VRTN6bV9iUjVnUUk3VXo5QkU5djlCR2RXTWpWY2VGMmZlajJZQnpDRXJyRFpVaXIxRTJoY3V4azNXcjRtOU9BRFBSa0I2dkJ3TW91M1BkTEVoYmk4alpQVVlIVFFwMzBmQmcwa0tCQUprZE9RVVVtRnZwRFNwby1rT1diSUlUbEJSTXlyeWJ4V3k1dThqYnM0ak4xVzM2UjNzTEpGa1JUMUMzUklkdGhha3hwcGVkSWtPcTRDRE1fRmsyVHk5SzJmclNSRFRSbUk2MVFmel9scGhHOFBaMmlB0gHkAUFVX3lxTE1GQmpqa1g2TVpnUExreDc0ZnpNczFHR2U5dzkxYmF5VThpWVgxOE5BTG9KMk9Nd3BNaVk1aDBDNDVYeTEtaWs5VjN4WTBxMjZCaTZZbUZQU2NwYUxGTFpURzI4T1BkTWFYWGx5Q1BSakNWZjRYY0J6TjEzaEozUjl5TTlZNVFfRTdHa3NuT2d3b2xOUUtKQThPYm9fTzNaU0lDYjhKTDFfTVVZWWl2enZweDh2QTBjcm4xQ1pfQ3hYTUtDNWxJQ1BlMkF1cFNLQzRKLUk2QlVLaW01ZkJPbU4zaFhLQg?oc=5",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-09-14T04:23:05+00:00",
-      "description": "Beijing bans drone possession after June's deadly skyscraper crash  economictimes.indiatimes.com",
-      "query": "drone crash",
-      "detected_at": "2026-09-14T05:50:18.300029+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "35274122e7e3"
-    },
-    {
-      "title": "Police officer faces misconduct hearing after drone hits child - dronedj.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10WG9lLXZRRU10ZTRtSjE2bWMxY05OZDZRQjVJajUxd1ZGb1lreUhSVXlSWmwwOEpIc0hlQnVwTWtKOWtqUG9xZVhuWlJTbjRtd0RlQm5vdkUzMkJlZFN0eWxxTnNscEJ3?oc=5",
-      "source": "dronedj.com",
-      "date": "2026-09-13T11:44:00+00:00",
-      "description": "Police officer faces misconduct hearing after drone hits child  dronedj.com",
-      "query": "drone crash",
-      "detected_at": "2026-09-14T05:50:18.300029+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "4a4fad479862"
     }
   ],
-  "last_updated": "2026-10-10T09:28:59.342094+00:00",
+  "last_updated": "2026-10-10T19:48:42.824222+00:00",
   "total_count": 1000
 }
