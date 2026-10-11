@@ -1,0 +1,123 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone-related incidents have occurred, predominantly in Eastern Europe, particularly Moldova and Ukraine. Notably, drone explosions in Moldova have raised concerns over security violations, with reports of unidentified drones causing damage and potential casualties. A surge in drone terrorism was noted, especially with incidents related to Ukraine-Russia tensions as drones were reportedly launched into Ukrainian territory. The use of drones in law enforcement was also highlighted, with police efforts in the U.S. using drones to track suspects. Policies addressing drone threats are gaining traction, with discussions in Australia on shoot-to-kill laws against unauthorized drones. Overall, the incidents underline a growing intersection of technology and security challenges across various regions.",
+  "totals": {
+    "arrest": 5,
+    "crash": 7,
+    "illegal": 2,
+    "interference": 1,
+    "smuggling": 3,
+    "terrorism": 2,
+    "other": 16,
+    "total_incidents": 33,
+    "by_category": {
+      "arrest": 2,
+      "crash": 4,
+      "interference": 1,
+      "other": 21,
+      "smuggling": 3,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 5,
+      "drone crash": 6,
+      "drone illegal": 2,
+      "drone incident": 7,
+      "drone prison": 1,
+      "drone smuggling": 3,
+      "drone terrorism": 5,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Explosions and Terrorism",
+      "rationale": "Multiple incidents of drone explosions raising security concerns, particularly in Eastern Europe.",
+      "incident_ids": [
+        "9954018863c6",
+        "608ee35a55cd",
+        "f01cb8bb219a",
+        "aa6ca6e6603e"
+      ]
+    },
+    {
+      "topic": "Use of Drones in Law Enforcement",
+      "rationale": "Police departments employing drones to assist in apprehending suspects and monitoring crime.",
+      "incident_ids": [
+        "56f4e1bd8787",
+        "d8a770f7bb3f",
+        "24a54e80dfba"
+      ]
+    },
+    {
+      "topic": "Policy Responses to Drone Threats",
+      "rationale": "Emerging discussions on implementing stricter regulations and laws regarding drone usage.",
+      "incident_ids": [
+        "998b96cc5c91",
+        "eb09ad14b71c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9954018863c6",
+      "headline": "Unidentified drone explodes on Moldovan territory",
+      "one_sentence": "A drone explosion occurred in Moldova, raising concerns over aerial security.",
+      "risk_tags": [
+        "terrorism",
+        "security"
+      ],
+      "countries": [
+        "Moldova"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f01cb8bb219a",
+      "headline": "KP Security Crisis Deepens: Terrorism Incidents Surge",
+      "one_sentence": "A report indicated a 195% increase in terrorism incidents related to drone activity.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "56f4e1bd8787",
+      "headline": "2025 homicide suspect arrested at Richmond BART, drone video shows",
+      "one_sentence": "Drone footage assisted in the arrest of a homicide suspect at a BART station.",
+      "risk_tags": [
+        "arrest",
+        "law enforcement"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "cc7a69fc4267",
+      "headline": "Drone attack stops Russian government planes landing in Moscow",
+      "one_sentence": "A drone attack disrupted the landing of government aircraft in Moscow.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b40945b52112",
+      "headline": "Pakistan’s drone tactic overwhelms India's border defenses",
+      "one_sentence": "Drones are increasingly being used to facilitate smuggling across the India-Pakistan border.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents in Eastern Europe surge, with multiple explosions and law enforcement applications being reported.",
+    "linkedin": "Recent drone incidents highlight growing challenges and responses in Eastern Europe, underlining the intersection of technology, terrorism, and border security."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-11"
+}
