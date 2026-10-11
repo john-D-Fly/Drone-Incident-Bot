@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Australia plans shoot-to-kill drone laws to counter rising threats - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTRZTU1FMUJvdk1ick1GeEJpLUtOX2lycnFqSUNLZUNuUFd0NDhNcUpaRm8wZm5uSnlrLXM5elNabUNydDBINEVNTU9YNE1TYkRDN2FjSkc2R212aXdPZnpkbzNtQVQ1eEF6YlRZczNITk9KT09nRXZLVXlNeklwRlppRUxqLXN6RzFJd3F5c1pESzVLYXRoUU1pU3Zfd194YXpGdjFOb0RoNjZUWkZZaEE3cTZDQ0kyNFlj?oc=5",
+      "source": "AFR",
+      "date": "2026-10-11T01:00:00+00:00",
+      "description": "Australia plans shoot-to-kill drone laws to counter rising threats  AFR",
+      "query": "drone illegal",
+      "detected_at": "2026-10-11T04:19:22.264322+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "998b96cc5c91"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-10T22:03:35+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-10-11T04:19:18.560935+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "99824a02eb9e"
+    },
+    {
       "title": "Drone attack stops Russian government planes landing in Moscow - The Telegraph",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmFWRExwVzctam1SUnBZT1RkejNjeXJiU215eXR5Um1OdXpHZ3RXZVoxWDZzWEpRUllEU0tIZXdLRjZCVkM4QjZsTEctWkdXTmV2RDVvdDhPaGZsSXFRaHUzYTQ4QWJvWDlaWHN1VDFkUVNtZG1EcVJ4dEFfeDFxQUlDTTBsOXJuYXV4eXEyXzJTdVBrRkRQWFpR?oc=5",
       "source": "The Telegraph",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "766660221408"
-    },
-    {
-      "title": "Beijing Bans Drones in Sweeping Curbs After Citic Tower Crash - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGhJdkM2OFlIZTU3QXp4VDlEa3JzUVdHQWFsS3YxRFpqQ1gwRUVhX1dGYmtJNmN0azF3Q0IxRTBGVHBndVk5TEhuRHFOYkNNb1Byc0NieFhUZ0t4b1dHSEI3WFFrOWNDNG5VZkN5T0FjQlRzM0pZNnRCLUVKdGpzajgyaUlIVEtLY3ZwVlFMVEJXN0JndmJ0TEJhVWpWbmdiTDZUVGU0T1RQQ1pIZ3hhamtR?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-09-14T04:44:00+00:00",
-      "description": "Beijing Bans Drones in Sweeping Curbs After Citic Tower Crash  Bloomberg.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-14T11:56:45.200265+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "995e2713d1e5"
-    },
-    {
-      "title": "Beijing puts a total ban on drones in update to regulations after deadly crash - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckVObEZjdFVrUnZnME83d0t2Q04zOEVfSHpKZ3N5NGlSVWxCRUVjOTNNZTh1cVg2QXF6Vl9EckQ3dUhhX0REWHFYVlY2ejNFR0hjYkRFdW9NQlhGYzJKZHNCbk1ycHoxNEZ0WXdQbHlaOE9SdlNUMk9qaEhGaGJLclotUmE1WldiVlFwLThKX0FKdEN6d1I1WWYzV0Rla3R1Z0R5bTlHSGFaSG5MeXFuck9rbDFhOXhwelhqdlN0V0ctUdIBwgFBVV95cUxNUkFSeTRDMjJGa3ZZM2ZTbnFNTW1zbmtnaDhxWFZqVkJ2SUpmSHZxbmkteG5QQU9DMlpjZklaQ1g4d1VTMTVFS0hEWFhuZnVpbHMxTWtQSGJhT3VtVmJHYld6MFhWa2VSTUdldVYtZjRrd1hpRzVZbUFBc2ljVFFvZXZZMmRvUEsxNmlIV1dCcEFteXpqS0dfMUpuYl85REtDOWJFUkVNYTN1SElvaVhOY0p3al9fa1hWeTNBRzQ0R3B5dw?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-09-14T06:00:09+00:00",
-      "description": "Beijing puts a total ban on drones in update to regulations after deadly crash  South China Morning Post",
-      "query": "drone incident",
-      "detected_at": "2026-09-14T11:56:45.200265+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "1886576cb3ad"
     }
   ],
-  "last_updated": "2026-10-10T19:48:42.824222+00:00",
+  "last_updated": "2026-10-11T04:19:24.780326+00:00",
   "total_count": 1000
 }
