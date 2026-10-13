@@ -1,0 +1,146 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone incidents have sharply risen in various categories, particularly in the realm of airport disruptions and terrorism. Notable incidents involved drone sightings near Amritsar airport, causing flight operations to be disrupted, and disturbing reports of drone attacks in Ukraine impacting Russian communications. Several arrests linked to suspected drone smuggling and related criminal activities were also reported, highlighting ongoing contraband issues in prisons. Additionally, the threats posed by drone technologies were underscored by various articles discussing Hezbollah's upgrades in drone explosives and warnings about potential AI-enabled drone terrorism. Furthermore, crashes involving drones have led to casualties in regions such as Lviv, emphasizing the ongoing risks associated with uncontrolled drone activity.",
+  "totals": {
+    "crash": 6,
+    "terrorism": 5,
+    "smuggling": 5,
+    "arrest": 6,
+    "airport": 4,
+    "other": 24,
+    "total_incidents": 48,
+    "by_category": {
+      "airport": 5,
+      "arrest": 4,
+      "crash": 6,
+      "interference": 1,
+      "other": 20,
+      "security": 1,
+      "smuggling": 8,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 4,
+      "drone arrest": 8,
+      "drone crash": 6,
+      "drone illegal": 4,
+      "drone incident": 10,
+      "drone prison": 2,
+      "drone security breach": 2,
+      "drone smuggling": 1,
+      "drone terrorism": 10,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone crashes causing casualties",
+      "rationale": "Several reports involve drone crashes leading to fatalities or injuries, indicating a critical area of concern.",
+      "incident_ids": [
+        "21366aa9fe74",
+        "3c1f5bd04d49",
+        "6ab342704dbc",
+        "d7eeb906241d",
+        "f1b7b1b87b41"
+      ]
+    },
+    {
+      "topic": "Drone terrorism",
+      "rationale": "The increasing evidence and warnings surrounding drone threats, including AI capabilities for drone attacks, emphasize the escalating risks.",
+      "incident_ids": [
+        "0b708e47ece0",
+        "71c9f10c5d5c",
+        "aedbe744c367"
+      ]
+    },
+    {
+      "topic": "Prison-related drone activity",
+      "rationale": "Multiple arrests and activities involving drones linked to contraband drops in prisons underline smuggling issues.",
+      "incident_ids": [
+        "36f0b48a6c2b",
+        "28fa145c4459",
+        "60d9347dd18e"
+      ]
+    },
+    {
+      "topic": "Airport disruptions due to drones",
+      "rationale": "Incidents affecting flight operations due to drone sightings highlight a significant safety and operational risk.",
+      "incident_ids": [
+        "b603f8e66191",
+        "d7eeb906241d",
+        "7a65693d4c2a"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "28fa145c4459",
+      "headline": "Drone and drugs seized during Monroe County traffic stop",
+      "one_sentence": "Authorities seized a drone along with drugs during a traffic stop in Monroe County.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6ab342704dbc",
+      "headline": "Drone crash in Lviv region claims three lives",
+      "one_sentence": "A recent drone crash in the Lviv region has resulted in three casualties, raising safety concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "71c9f10c5d5c",
+      "headline": "MI5 warns of potential AI-enabled drone terrorism",
+      "one_sentence": "MI5 highlights the risk of AI technologies being used to enhance drone attacks in the UK.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "b603f8e66191",
+      "headline": "Drone reports disrupt flights at Nuremberg Airport",
+      "one_sentence": "Flights at Nuremberg Airport were briefly disrupted due to reports of drone activity in the area.",
+      "risk_tags": [
+        "airport",
+        "disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3c1f5bd04d49",
+      "headline": "Downed enemy drone crash near Lviv results in casualties",
+      "one_sentence": "A downed enemy drone in Lviv resulted in casualties, highlighting the dangers of drone warfare.",
+      "risk_tags": [
+        "crash",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9b241e66e789",
+      "headline": "Contraband drop stopped by Monroe County Sheriff",
+      "one_sentence": "Monroe County Sheriff intercepted a drone involved in a contraband drop, leading to multiple arrests.",
+      "risk_tags": [
+        "smuggling",
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight escalating risks, from airport disruptions to casualties in crashes. #DroneSafety #Security",
+    "linkedIn": "In the past 48 hours, we've seen a surge in drone-related incidents affecting airport operations, safety concerns due to crashes, and ongoing attempts at contraband smuggling."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-13"
+}
