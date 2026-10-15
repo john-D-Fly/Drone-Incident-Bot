@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the past 48 hours, a variety of drone incidents have emerged across different regions, highlighting ongoing concerns regarding security and illegal activities. Notably, one incident involved a drone crash near Romania's Sulina port, while in Latvia, reports emerged about drone activities causing damage. On the arrest front, a Chinese student was jailed for drone-related filming of military installations, and multiple arrests were made of individuals linked to drug smuggling operations involving drones, emphasizing the dual threat of drones in both criminal and security contexts. The implications of these activities raise significant policy and safety considerations, particularly surrounding border security and anti-drone measures.",
+  "totals": {
+    "other": 27,
+    "crash": 6,
+    "smuggling": 4,
+    "terrorism": 3,
+    "arrest": 5,
+    "airport": 2,
+    "total_incidents": 63,
+    "by_category": {
+      "airport": 2,
+      "arrest": 8,
+      "crash": 8,
+      "other": 36,
+      "security": 1,
+      "smuggling": 5,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 6,
+      "drone crash": 8,
+      "drone illegal": 4,
+      "drone incident": 20,
+      "drone prison": 3,
+      "drone security breach": 1,
+      "drone smuggling": 8,
+      "drone terrorism": 7,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Smuggling and Illegal Activities",
+      "rationale": "Multiple incidents highlight the use of drones in smuggling operations and illegal drug transport.",
+      "incident_ids": [
+        "97f41f1fa2be",
+        "b1e95ebdbdd8",
+        "d2d628608305",
+        "af8e3b335bd2",
+        "c9b364312d1d"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Incidents",
+      "rationale": "Significant drone crashes reported, impacting civilian and transportation safety.",
+      "incident_ids": [
+        "e0b7636e8fd6",
+        "c27bdb1f9ce1",
+        "0ea43c0bd1d2",
+        "e454be4f0012",
+        "d80e1edf45d7"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Arrests linked to drone-related activities demonstrate law enforcement responses to threats.",
+      "incident_ids": [
+        "09c8a9d687c8",
+        "48630b4c548f",
+        "b1e95ebdbdd8",
+        "d2d628608305",
+        "c27bdb1f9ce1"
+      ]
+    },
+    {
+      "topic": "Terrorism and Security Breaches",
+      "rationale": "Concerns grow about terrorists using drones in operations, especially in conflict zones.",
+      "incident_ids": [
+        "2f3ccae3ea02",
+        "3d67702f8ca9",
+        "1ade755e6f51"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e0b7636e8fd6",
+      "headline": "Basic facts so far about latest drone incidents in Latvia",
+      "one_sentence": "Recent drone incidents in Latvia raise significant concerns regarding security and safety.",
+      "risk_tags": [
+        "security",
+        "risk"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "c27bdb1f9ce1",
+      "headline": "Deadly Drone Crash in Broken Rock Area",
+      "one_sentence": "A deadly drone crash near Broken Rock has led to significant incidents and ongoing investigations.",
+      "risk_tags": [
+        "crash",
+        "disaster"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "09c8a9d687c8",
+      "headline": "FSB Arrests Individual Over Drone Crossing Allegations",
+      "one_sentence": "The FSB reported an arrest linked to drone activity involving border crossing allegations.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b1e95ebdbdd8",
+      "headline": "Anti-Drone Units Arrest Police Constable with Drugs",
+      "one_sentence": "A police constable associated with anti-drone units was arrested for drug possession.",
+      "risk_tags": [
+        "arrest",
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e454be4f0012",
+      "headline": "Drone Incident Reported Near Romania's Sulina Port",
+      "one_sentence": "A drone incident near Romania's Sulina port has drawn attention to security protocols in maritime areas.",
+      "risk_tags": [
+        "incident",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone incidents continue to rise globally with arrests, crashes, and concerns about security protocols in various regions.",
+    "linkedin": "Recent drone activity showcases a range of security challenges, from illegal smuggling operations to significant crashes, prompting calls for enhanced regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-15"
+}
