@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Civil Air Patrol Supports Air Force Anti-Drone Training - Aero-News Network",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUVhdzZSNlJUWGNaeUFqTHdoUHhOZ0VWN211UnNhN0UyblRKbU1laURCSjlCX0lGR09QQTNYYzFXUHNHa1FGMVpxLS01RWF4enpTNlF1Y21tbkdpMU9DS3lyeXhTMGRwSDdad1piaGc1N2FOQVBkb0dPYXdNR1FfZGZoeU5ZVUdzYXJUN0F1MG9aZlRtUzZV?oc=5",
+      "source": "Aero-News Network",
+      "date": "2026-10-15T00:00:00+00:00",
+      "description": "Civil Air Patrol Supports Air Force Anti-Drone Training  Aero-News Network",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-15T01:13:23.174741+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b1e95ebdbdd8"
+    },
+    {
       "title": "‘Marshals’ Season 2 Episode 4: High-Stakes Standoff After Drone Crash in Broken Rock - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2E3UWY0T0tnVTc5S1BNV2dmWGZBWXV1dDZLSEcyLU82aHZJRzhrU1AxMEs0dFJGaGplRkQ0NnhNNVFDSGt1RzY3d0I4ODYtQ1lJMlk0ZUtMakN2Q0FidVkzVUpPd016Rmk1MFVCdldOelRlV3dXajNmWUQxejIyTTlsejh5ajJHcG0xZU1aRHRFcHpV?oc=5",
       "source": "Yahoo",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "b721cf88eb42"
-    },
-    {
-      "title": "SDF confirms Global Hawk drone crashed off western Japan - Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOMnhfb0lBMVlsT3VBa3JpanpjLWlEQ3VMUmhvVEhFOFdUVkxudDl1YUdnbUJzZUNldHdCVldzX3VQcjAxNG1pU2VQSFhJbzRlUHd3QXdrSDBKUQ?oc=5",
-      "source": "Japan Wire by Kyodo News",
-      "date": "2026-09-16T12:17:35+00:00",
-      "description": "SDF confirms Global Hawk drone crashed off western Japan  Japan Wire by Kyodo News",
-      "query": "drone crash",
-      "detected_at": "2026-09-16T14:37:36.213049+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4dcfe80b0df5"
     }
   ],
-  "last_updated": "2026-10-14T22:02:48.195324+00:00",
+  "last_updated": "2026-10-15T01:13:23.963889+00:00",
   "total_count": 1000
 }
