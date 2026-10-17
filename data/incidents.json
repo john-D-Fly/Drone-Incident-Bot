@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone TFR Takes Effect for Entire U.S.-Mexico Border - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tMFJSMG5GMEdwU3JQRl9od0UyaXV5Ty1DNGVqMGFLMUhENVZXYWJtUlA1eGEwQzQwbUJ4SGExSlM1ZmpuSWdGMkxwTk4yTTZGbTVIQ3dpcmh1MVhOMnVHUjl2NUNpM2M2Vi1qbkRNemNzbXFZSUoxa0Q1amxVQQ?oc=5",
+      "source": "FLYING Magazine",
+      "date": "2026-10-17T12:01:45+00:00",
+      "description": "Drone TFR Takes Effect for Entire U.S.-Mexico Border  FLYING Magazine",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-17T18:10:54.267340+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "2677dfd96503"
+    },
+    {
+      "title": "NIA Charges Two More In Drone-Based Arms, Narcotics Trafficking - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMW9PU0ZmM0tvMVVfanVfOUw0NDhRaGlvWE1FbDBPdl96cS0yYmFlZ2xtc21CRkVKRGFsV05pLWp0UGV3anc4cHNmSXlOTHNwYUNiRDU4eDUtWV8wTUY2TzF3endwSkVBbWhpS1U0VmtON0JfOW1LRjIwS1JNMkptNFpvUlVRQTlCbm9KblRDS1RyUnJWYXhQWXEyZmRRRElsNFludy1MRTPSAasBQVVfeXFMT29ORGFMWGc0YmN4R21LcmUwLVZ2OE90U2hSWGY1MVhwWWthWGVIbVkxYk5SR19rQkJaYUZxMmtrd0xMX280emZjNnd3Tndzb3Vza3FKZTFvbkZOYjJ0dVdnZ0RNNWprVHhkLU9qWmo2SVJ4eDBUMXJveDJmOG1xd0dfMWNyaXNjX25ZMmt3dXFzVXNDQXFJU0p4cnlLUUluM3Z1VlFORldBUXM0?oc=5",
+      "source": "Rediff",
+      "date": "2026-10-17T15:07:21+00:00",
+      "description": "NIA Charges Two More In Drone-Based Arms, Narcotics Trafficking  Rediff",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-17T18:10:49.917784+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "f154ab305b7d"
+    },
+    {
       "title": "U.S. Issues Temporary Flight Restrictions for Drones at Southern Border - The Presidential Prayer Team",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0lwQXVmTFFsZjVZTXc0c3hZcldjaXRDc1VnWlRjUEFIa3RHZUxKOVFHVWJSd2dKbGRSWjdYMng5TlppOEVXa1ZFZjVzVWlMd3RDaThFOXlwaDJrY2JxakpLYW5YUHJNZGRIQWVjYkVQZW5yUk9wTHBuSFBldmIteWx4c3dPeFM5anFISXZfaFY0UzBzaU5NTXNBR3BreUNpR0dicV9sRTJscWRxWTZxLWF0RTNkaGdTYWQ1RFFR?oc=5",
       "source": "The Presidential Prayer Team",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "bff3b82334c5"
-    },
-    {
-      "title": "Finnish President Warns Citizens to Prepare for Russian Hybrid Attacks and Drone Incidents - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmNmYkpMNlNPNXAwTUNweW9OaXR4bkZmMFJ5SHFKRFAwTm5sYlFhR19aQjMybDBDSFVyVHBVS1NQcnpLeURqOEpHTEppTktZazZsVDlpV2hRZHh6M1lxZTJGeVVnUW5ZVG5aTDdsMjJMOENhUG1yYzRGS2lWWFFBZWFKNXlwb2tTRjJldGdjTFFMVl8zaVMxZ2lueFhmcjh3QnhkYlgtWFZQRDdoSW1fRTFfS1BZVGxrV0VONjA1b0Z6WGxIOEFN?oc=5",
-      "source": "UNITED24 Media",
-      "date": "2026-09-17T16:25:21+00:00",
-      "description": "Finnish President Warns Citizens to Prepare for Russian Hybrid Attacks and Drone Incidents  UNITED24 Media",
-      "query": "drone incident",
-      "detected_at": "2026-09-17T20:01:08.953618+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6cc8cadfc5fe"
-    },
-    {
-      "title": "Drone incident at Reagan National Airport - Good Morning America",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUdJZWVMSURfX0tGZl90a2NiY1Z3NUZWT0xiaS0yZUlPRmlBV3pmNC14NUpyY1ZZUmVPMXVCclRQVWExUERjUlFmRXRaMy1ZdTE3M3IxRWl1SjIyOUVRTEdRaHNUVzdETVBWTzFwZ2tVcWYzN09PVWxTbU81Q0h0c0JmRXpBRGRLMlF0NEZFSkxTZmJYOHlMRTBpb1dJRXfSAZ8BQVVfeXFMTk1HSWVlTElEX19LRmZfdGtjYmNWdzVGVk9MYmktMmVJT0ZpQVd6ZjQteDVKcmNWWVJlTzF1QnJUUFVhMVBEY1JRZkV0WjMtWXUxNzNyMUVpdUoyMjlFUUxHUWhzVFc3RE1QVk8xcGdrVXFmMzdPT1VsU21PNUNIdHNCZkV6QURkSzJRdDRGRUpMU2ZiWDh5TEUwaW9XSUV3?oc=5",
-      "source": "Good Morning America",
-      "date": "2026-09-17T11:38:23+00:00",
-      "description": "Drone incident at Reagan National Airport  Good Morning America",
-      "query": "drone incident",
-      "detected_at": "2026-09-17T20:01:08.953618+00:00",
-      "location": "at Reagan National Airport",
-      "category": "airport",
-      "id": "58a77e7d57a1"
     }
   ],
-  "last_updated": "2026-10-17T15:02:31.108445+00:00",
+  "last_updated": "2026-10-17T18:10:54.800180+00:00",
   "total_count": 1000
 }
