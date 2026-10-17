@@ -1,0 +1,126 @@
+{
+  "narrative_summary": "In the past 48 hours, a range of drone incidents have emerged, particularly focusing on the U.S.-Mexico border, where multiple temporary flight restrictions have been implemented due to unauthorized drone activity, raising security concerns. Additionally, notable incidents include drone strikes in the Black Sea, escalating fears of Russian military actions and NATO's preparedness. Reports also highlight concerns regarding drones' usage for smuggling, especially in prisons where items have been flown in. In Iran, incidents involving fishing vessels and injuries due to drones remain concerning, showcasing the diverse implications of drone operations across regions. The growing anxiety surrounding unauthorized drone flights has prompted tighter regulations and alerts from federal agencies.",
+  "totals": {
+    "security": 6,
+    "other": 10,
+    "smuggling": 5,
+    "airport": 6,
+    "crash": 4,
+    "interference": 1,
+    "arrest": 5,
+    "terrorism": 4,
+    "total_incidents": 60,
+    "by_category": {
+      "airport": 10,
+      "arrest": 3,
+      "crash": 3,
+      "interference": 1,
+      "other": 26,
+      "security": 8,
+      "smuggling": 7,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 3,
+      "drone crash": 5,
+      "drone illegal": 1,
+      "drone incident": 11,
+      "drone prison": 6,
+      "drone smuggling": 5,
+      "drone terrorism": 8,
+      "unauthorized drone": 18
+    }
+  },
+  "clusters": [
+    {
+      "topic": "U.S.-Mexico Border Drone Activity",
+      "rationale": "Increased unauthorized drone activity has led to several regulatory responses.",
+      "incident_ids": [
+        "6b6619404155",
+        "8ba7114702ab",
+        "12fc3404f8a1",
+        "dddc9cc92351",
+        "5fbb424c9f91"
+      ]
+    },
+    {
+      "topic": "Escalation in the Black Sea Region",
+      "rationale": "Drone strikes raise security and military concerns in the Black Sea area, indicating possible escalation.",
+      "incident_ids": [
+        "8d0b6bc033da",
+        "6d9ff616a470",
+        "24e41173e460",
+        "f00000000000"
+      ]
+    },
+    {
+      "topic": "Security Concerns in Prisons",
+      "rationale": "Incidents involving drone smuggling into prisons highlight ongoing security issues.",
+      "incident_ids": [
+        "d2431144b333",
+        "3a8c48c8ef3e",
+        "fc4ac706d832"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6b6619404155",
+      "headline": "U.S. Issues Temporary Flight Restrictions for Drones at Southern Border",
+      "one_sentence": "Temporary flight restrictions for drones have been issued along the U.S.-Mexico border due to security concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8ba7114702ab",
+      "headline": "Drone TFR Takes Effect for Entire U.S.-Mexico Border",
+      "one_sentence": "A comprehensive TFR for drones has been established across the U.S.-Mexico border amid rising security risks.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "3ff61ec0530e",
+      "headline": "Russia's Digital Detox Boomerang",
+      "one_sentence": "A report reveals the implications of Russia's digital detox efforts in relation to drone technology.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "d2431144b333",
+      "headline": "Cowansville Drone Seizure Highlights Security Concerns Over Federal Prison Cuts",
+      "one_sentence": "A drone seizure in Cowansville underscores the ongoing security issues associated with prison cutbacks.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1ce6cd49c28c",
+      "headline": "Moldova Condemns Russia After 5 Drones Crash on Its Territory",
+      "one_sentence": "Moldova has condemned Russia following the crash of five drones within its borders.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones dominate headlines with flight restrictions along the U.S.-Mexico border and drone strikes in the Black Sea, raising serious security concerns.",
+    "linkedIn": "Drones are causing significant disruption, prompting regulatory responses in multiple regions, highlighted by incidents at the U.S.-Mexico border and escalating tensions in the Black Sea."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-17"
+}
