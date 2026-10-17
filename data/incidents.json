@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "U.S. Issues Temporary Flight Restrictions for Drones at Southern Border - The Presidential Prayer Team",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0lwQXVmTFFsZjVZTXc0c3hZcldjaXRDc1VnWlRjUEFIa3RHZUxKOVFHVWJSd2dKbGRSWjdYMng5TlppOEVXa1ZFZjVzVWlMd3RDaThFOXlwaDJrY2JxakpLYW5YUHJNZGRIQWVjYkVQZW5yUk9wTHBuSFBldmIteWx4c3dPeFM5anFISXZfaFY0UzBzaU5NTXNBR3BreUNpR0dicV9sRTJscWRxWTZxLWF0RTNkaGdTYWQ1RFFR?oc=5",
+      "source": "The Presidential Prayer Team",
+      "date": "2026-10-17T09:00:00+00:00",
+      "description": "U.S. Issues Temporary Flight Restrictions for Drones at Southern Border  The Presidential Prayer Team",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-17T15:02:30.554301+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "6b6619404155"
+    },
+    {
+      "title": "Drone TFR Takes Effect for Entire U.S.-Mexico Border - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tMFJSMG5GMEdwU3JQRl9od0UyaXV5Ty1DNGVqMGFLMUhENVZXYWJtUlA1eGEwQzQwbUJ4SGExSlM1ZmpuSWdGMkxwTk4yTTZGbTVIQ3dpcmh1MVhOMnVHUjl2NUNpM2M2Vi1qbkRNemNzbXFZSUoxa0Q1amxVQQ?oc=5",
+      "source": "FLYING Magazine",
+      "date": "2026-10-17T12:00:00+00:00",
+      "description": "Drone TFR Takes Effect for Entire U.S.-Mexico Border  FLYING Magazine",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-17T15:02:30.554301+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8ba7114702ab"
+    },
+    {
+      "title": "Russia's Digital Detox Boomerang - Lawfare",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02cG50MXByZGQzc3dQUVZ3LUVLRXFTUXVEOHpZQ2JmZTVNTF9uWjVMUlgwTG5nWkRRaTVuZ3p6STZ2YjhzZUZyNWNNWUg0VXRvRTI1XzRPR2RZUmpSaTdtTl94TkxOT1dHSGhMZHdGOTRIM0sxWVdpag?oc=5",
+      "source": "Lawfare",
+      "date": "2026-10-16T17:39:09+00:00",
+      "description": "Russia's Digital Detox Boomerang  Lawfare",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-17T15:02:29.957995+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "3ff61ec0530e"
+    },
+    {
+      "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXpKb0M2LTF0aTE2VzFWR0pOSWd5MGpaZ01USmFQRXd1YzVLMWlRWExPZFJ6OEREcjhWT1g0VnhMak5iVTdwWU5oZW5wcG9PdDVfNmVOeDhRVHNuejM0MjJua2l1cnZjQ2xVZnhwek9kU0tpODBpYVg2MTBhdUl4cUpKZ2JlOFFjYnlwN2dUY1J4R2psZG5BYWFfVlRwWnpsNnB5MUl1V0NzRUdhVFMzWTJtWDdnZDVxSXVXUTdIZ0VBSHZ0?oc=5",
+      "source": "Arab News",
+      "date": "2026-10-16T23:41:21+00:00",
+      "description": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response  Arab News",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-17T15:02:29.957995+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8d0b6bc033da"
+    },
+    {
+      "title": "Cowansville drone seizure highlights security concerns over federal prison cuts - The Pulse of the Eastern Townships",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RTkVZNldNNjIzaUJ0cFJ4dDU3TGhKdHh0UkdRVjZfdXhkUXU1WjFMWVlvbjBkN2tSVFlHQUl4UU9qZzZfdFZpUDkzcURWWXZrRmlyQ1JpMVZaMlFuQVl4M0JVSUpGaWdfUjdaSFdocHVwdjAySC0wTkk2TQ?oc=5",
+      "source": "The Pulse of the Eastern Townships",
+      "date": "2026-10-17T14:13:14+00:00",
+      "description": "Cowansville drone seizure highlights security concerns over federal prison cuts  The Pulse of the Eastern Townships",
+      "query": "drone prison",
+      "detected_at": "2026-10-17T15:02:26.826287+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "d2431144b333"
+    },
+    {
       "title": "FAA bars unauthorized drone flights along U.S.-Mexico border over security concerns - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1BYZmM0eWtCeFJVVTBFVW5lSlhfV2tTa1dqSEdzRWxMd2xDQVozN1VrdG9YWVBTNFRjMU8tLTdpQi0yN01mZnVSVExNVVRqNmdqNDdfUkNEckxocWJzaDZXV1VaMjFoc1Z6VUV3cXZudGdSMU05RUdTMnJ2V1RFQ2VmZHp1Unc?oc=5",
       "source": "Mezha.net",
@@ -11939,68 +11999,8 @@
       "location": "at Reagan National Airport",
       "category": "airport",
       "id": "58a77e7d57a1"
-    },
-    {
-      "title": "Bosnia's Jablanica to use AI drones to detect illegal waste dumps - intellinews.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVhqcWdnN09DRGZIdkNKNVU2SlVMLXlENHRtRGVxZjk3LUZhYVZTZWU4T1pndHhscnQ0VDFYdlRLNExPRm9zNUVkNnZOc01PRVQ4aEozZXU1cTZKZERTSjhMZ1RIQlBLVm5RZlJMeUJHQy1Xa0tRdXFWenlTcWp4Nm5SaXhzbEg4MGM1cl9wSkNrdXY1b1hqS1dHbTA1S1lrU2JrQVp0M1lHR2lFM3llM2N5T1p6NTNSY2c2TERoU2FZRkwyVDA5aDlyUQ?oc=5",
-      "source": "intellinews.com",
-      "date": "2026-09-17T08:53:16+00:00",
-      "description": "Bosnia's Jablanica to use AI drones to detect illegal waste dumps  intellinews.com",
-      "query": "drone illegal",
-      "detected_at": "2026-09-17T16:20:57.646273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "8d5a2c2f1331"
-    },
-    {
-      "title": "Japan Air Self-Defense Force Recon Drone Crashes into Sea of Japan - news.usni.org",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTNzancwWE9ySEVtVFRPa2ZWZ3ZJVFlqLVBHY0RqTGY3WTNWU180dGNzczBrNTRUZG84a0FZbUJIRkpKN0YweVYtM3c3di1Nbk4wdlZaUFdib0c3cDhfTV9WUFBBTVV6WDF4M3h5UjZrc2l0RFBjQWJqelA4aHVFQXhHNUlobEQyUEtKXzBRMGM0cnFOZHpOeHFlVXZ2eHpy?oc=5",
-      "source": "news.usni.org",
-      "date": "2026-09-16T19:13:00+00:00",
-      "description": "Japan Air Self-Defense Force Recon Drone Crashes into Sea of Japan  news.usni.org",
-      "query": "drone crash",
-      "detected_at": "2026-09-17T16:20:56.986705+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4b022eb19e72"
-    },
-    {
-      "title": "BuCor denies drone escape plot involving South Korean inmate - BusinessWorld - BusinessWorld Online",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc21IS0RtMEpWUXhVVjZuZTNSTUlMeFVnOXlhZWwyNXpSZnlXRkxTem4wTHlaV3d5SnExcGVuV0JfQUZNemp1RGpKdU5Da0g0Tk9oVkdJOFJVLXZyZnpySVlTVy1NZkhMejA5UUxlOTVHZC1fUFhIbkVFM1NHRUNwSE9GcnktRDVDYXk0aU9ZS3czM28zOEdGX0RSdlVIOUFaUGp6SjNZdzNMT0hiOGdVN0lVY29NQQ?oc=5",
-      "source": "BusinessWorld - BusinessWorld Online",
-      "date": "2026-09-17T13:41:56+00:00",
-      "description": "BuCor denies drone escape plot involving South Korean inmate  BusinessWorld - BusinessWorld Online",
-      "query": "drone prison",
-      "detected_at": "2026-09-17T16:20:55.474058+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eaf9262db1c9"
-    },
-    {
-      "title": "Suspected fugitive arrested in Lompoc after drone-assisted search - KSBY News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUlOTXlYQWw0NkxQWHZuQllqTVNWaEVZNEdtdDJ2RWIwUnhqdXFlQTQ5WWR0S0J2OHpoaDhTZzBkd3RNVUtidGJFQUJKZm9aakQycEcxVFhtRXpvQmJRR1MzaUtKaVNLQ2x5NEtOWkJnRlFMUmw0QkNjMjVvRjU3eHJINmEyYVY1bDNldGMzY0dRYXlMLWNEejhCekEtWlViZHc?oc=5",
-      "source": "KSBY News",
-      "date": "2026-09-17T00:06:14+00:00",
-      "description": "Suspected fugitive arrested in Lompoc after drone-assisted search  KSBY News",
-      "query": "drone arrest",
-      "detected_at": "2026-09-17T16:20:54.136489+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "efdc05bb7009"
-    },
-    {
-      "title": "Video Drone incident at Reagan National Airport - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tMnZ5ejkyLW8tUE02bjJOenBjZ1BWLUtQZ0Zib01nVk5HMTlfeG9pbktKdHNmS01iRVlpaTVGY3FqemhMZWhFUW9VZDY?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-09-17T11:33:05+00:00",
-      "description": "Video Drone incident at Reagan National Airport  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone incident",
-      "detected_at": "2026-09-17T16:20:53.404701+00:00",
-      "location": "at Reagan National Airport",
-      "category": "airport",
-      "id": "65331cdf4fa4"
     }
   ],
-  "last_updated": "2026-10-17T11:23:56.350748+00:00",
+  "last_updated": "2026-10-17T15:02:31.108445+00:00",
   "total_count": 1000
 }
