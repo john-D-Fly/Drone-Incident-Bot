@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Lithuania: Drone Entered Airspace and Crashed - blue News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW1nbzVrX08wTjV2eUZ5dFlOWWhDUi1LMmNuMnROY0RoR1FlMlU2OGM5ZjhjQVR3NDBMTnpqWWdXUll5RjVqbDluSno3MDZhOXJycWI5REVfUldKaGpTNmlOM2pDRDZ4bXRQOHI2Z0IydDBmWXk3alJTdHp4TUtpZVpqTlV6THE4a2xsMzZpVQ?oc=5",
+      "source": "blue News",
+      "date": "2026-10-18T12:53:15+00:00",
+      "description": "Lithuania: Drone Entered Airspace and Crashed  blue News",
+      "query": "drone crash",
+      "detected_at": "2026-10-18T12:59:29.290105+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "72959e67ab03"
+    },
+    {
+      "title": "An air raid alert was issued in Lithuania; debris from what is believed to be a drone was found - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnROaEF5V3VENnE1dDNZMHhqbDJ3ZFA4bHA3OHdpY1AyNldNZjRVU25BaFA1dFhjOVBQWUpaSXpaYWFvbk1QX2VuY1VsN29HbkVQUnRCSzlKUWgyMTBwRkRKV2dyd2JGY1JVUHEwSmNnSWw1aENYaDlxc0toTnBUWGxZZkxYUF9zeWVTMEN1TVRqa0JYTm1QQVE1N1BZdw?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-10-18T10:40:56+00:00",
+      "description": "An air raid alert was issued in Lithuania; debris from what is believed to be a drone was found  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-10-18T12:59:29.290105+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6bc79235ecf1"
+    },
+    {
+      "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5",
+      "source": "Latvian Public Media",
+      "date": "2026-10-18T07:37:43+00:00",
+      "description": "Drone that crashed in Latvia confirmed as Ukrainian / Article  Latvian Public Media",
+      "query": "drone crash",
+      "detected_at": "2026-10-18T12:59:29.290105+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "e9f77e0c8709"
+    },
+    {
+      "title": "Lithuania proposes joint investigation with Poland into suspected drone crash — RMF24 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVZnSVVORUozTHFybWRVSjg3N3N3dmJ4VWkwclB5d1VSMEVoczRmZ1FSbjFiODFXbVM0dzQxVGliSVZSS2RxczVVV0ZMQjlPRlZ0S2Vsa29CSmVLWnFUcmFwbXR4SndvWGgyY2tsZVFJWkkwWEhDaElsLVgzRHh0Y183eVBUbEFnT2lEWjI2bUdMc1lkYkR1c1dYOVk4ekM2UHFEQzhmMkFNWDA?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-10-18T09:56:21+00:00",
+      "description": "Lithuania proposes joint investigation with Poland into suspected drone crash — RMF24  UA.NEWS",
+      "query": "drone incident",
+      "detected_at": "2026-10-18T12:59:25.906349+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "9345be91f4fc"
+    },
+    {
+      "title": "Possible drone explosion in northern Lithuania near Latvian border - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2U2aVBWSkNqMkU1WVh6X3V2V241THBhbG9JNzctNjRDemhMMGwyMGJ1Ym5ZMnFBSUlmdzd5NHpwRXk2QjlqV05mcXB4RjNEc1BVN3lfYzQzSEdfRE1ybEdOcDlnc19rMXRnOU9Na2JETWY2SFZYRUwwY0VtU1VabmJUT0tGNF9GRkxWci1mbEs2TjNhQm93STBkMnRvbTAwQU5CQQ?oc=5",
+      "source": "Euronews.com",
+      "date": "2026-10-18T08:14:31+00:00",
+      "description": "Possible drone explosion in northern Lithuania near Latvian border  Euronews.com",
+      "query": "drone incident",
+      "detected_at": "2026-10-18T12:59:25.906349+00:00",
+      "location": "near Latvian border",
+      "category": "other",
+      "id": "3090147cc609"
+    },
+    {
       "title": "U.S. temporarily restricts unauthorized drones near Mexico border - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlRLbjZWMmsxQkxDUllWYm50TTIzV2pGSzk1RktEZzlrV05pbHhfbUVzckJaWGVMVm4xbG81R0J2NUhaMDlYWDVUYmh6aWh0eDVKOE1aRmxuWHlxM0dVejcyWnd4UmhoN2l1Sm5UVnAzX09TS1FrcmJnaVV0ZlQ5V3FTSkpxRzF6VHNfbkNjcEwxUQ?oc=5",
       "source": "Briefs Finance",
@@ -11939,68 +11999,8 @@
       "location": "at DC airport",
       "category": "airport",
       "id": "a3d2561bf4ab"
-    },
-    {
-      "title": "A South Korean drug convict serving time at the New Bilibid Prison could not execute his escape plan of strapping himself to a drone, the Bureau of Corrections said on Thursday. https://tinyurl.com/43eax4ra - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEltOGRTZ0tDZmxwdjVfV1ZqQUlyelF6R1Jxd3RXWk9UaVRKekJKN0ZQRUh2OUw5amVFYmdidjY1akNmN2E5MmxvQVhPQVBCM1NrcG0ycmtpR1plZUt0Qnp5QlhMdnlBUmxqSDMwaDdkS21PUV8wTjl3S1k0cl9ESmlrVU1RaVplVHJPWVN4MHE4VEt0WW5WMWgwcFFJVEZHU0czYWNCY0k1a0NfX3FubDR4TlNUTlJ2aUF5VUs1bUhKTUV0TFg1d29JNHlnS2pkYWlWUm56RnlqbFpa?oc=5",
-      "source": "facebook.com",
-      "date": "2026-09-18T00:30:33+00:00",
-      "description": "A South Korean drug convict serving time at the New Bilibid Prison could not execute his escape plan of strapping himself to a drone, the Bureau of Corrections said on Thursday. https://tinyurl.com/43eax4ra  facebook.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-18T08:47:55.888553+00:00",
-      "location": "at the New Bilibid Prison",
-      "category": "smuggling",
-      "id": "6e83eadf139b"
-    },
-    {
-      "title": "Unauthorized drone flight near Reagan National Airport briefly pauses flights - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdk0zWHJBUHJmazhKZHVQNXl3MzdXVmxsUG5aWkY2bG5CRHExUDlmSTZHSWlzdUhEaExUT1hLN0ZXQUN4VUhudUJWSlZIYUloUy11OWQtdUxGWXViNU1qQXdwUjEtY1RQZDlmWTJGTnFSS0k5WXVpbFAzcWQ5eUN5N2lVQ1Z0N0s0c1czQWVzdlozdG9RdXF6RS02akJfN3hfY0k0X2hGbG81YzhWaU5IT1hraElTc3ZjejdrWDhwLVlPTzdLd3Q5eG15QkVLdGJybkowQmlWRzZfdEt3Zy05Yi0zeXI2UkZOaUdnNEM5Z1VRUTN6WHBRZA?oc=5",
-      "source": "WJLA",
-      "date": "2026-09-18T02:15:00+00:00",
-      "description": "Unauthorized drone flight near Reagan National Airport briefly pauses flights  WJLA",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-18T03:27:03.980425+00:00",
-      "location": "near Reagan National Airport briefly pauses flights",
-      "category": "airport",
-      "id": "459997be824d"
-    },
-    {
-      "title": "Flights stopped at Washington, DC, area airport as unauthorized drone appears over runway - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xc2M0VzBuUTRNRENMVW5oNmVnYzBzX1NiZFNoYWFmcG13NHpMWmhtNjA4LXpVckRGeXBpeThlUXFZTHU5VHJiQ2pQVERoSktRYTVINnlPbURHeDVySXhqc1VpM0ZNUQ?oc=5",
-      "source": "CNN",
-      "date": "2026-09-18T02:33:00+00:00",
-      "description": "Flights stopped at Washington, DC, area airport as unauthorized drone appears over runway  CNN",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-18T03:27:03.980425+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e9ca7d3bede5"
-    },
-    {
-      "title": "IRGC claims it downed US MQ-9 drone - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnVYcGY5Sl81dDQzbHQxeHlfRzN6Q0VSYlFUUUo2UTh0eFY1MW44eFRndWV6c0xHeXEtWGNnMnhNb3FVb1VCWGdMSGlJRG00YXJfWkNOLWxZNEp1ZDgwa2FPMmo4MUZnanA2TFRTeUg4VlB3Zmp4cFREdkpRRXplNUJpTjJrSG8?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-09-17T12:23:00+00:00",
-      "description": "IRGC claims it downed US MQ-9 drone  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-18T03:27:03.418313+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ee9255d28311"
-    },
-    {
-      "title": "ASEAN Regional Forum drone workshop risks boosting Myanmar junta's capabilities for aerial attacks against civilians - Justice For Myanmar",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUHJYRV9hWUlIQXB4bWh5WDV1MGV4M0NmdXRWak82dDhUV0dBMjQ4MlBjQzk5QlVPVXRGejdPZVZUUmFmVFV4cFRZMlBaX0hDWHRReDcxdTZTNU9CdlAwR0EtdjNZZEp6R1ZOYnZXemt6aVEtbHpvQWVxQnBPaHJkWnhVS3VaZ18zUTcybGpXcDgyX3BrMWcyUzBCT19xRzJNa18yeVcxYVUxaXU1SEhRbzRuYVlkZTNxeThtc1llcVU1TVdXTzVHYnAxYmJSa1dWRG5pVXVvYU5tUXdKMWpFbEw3OHNHd1NQOFNxa19n?oc=5",
-      "source": "Justice For Myanmar",
-      "date": "2026-09-17T05:19:55+00:00",
-      "description": "ASEAN Regional Forum drone workshop risks boosting Myanmar junta's capabilities for aerial attacks against civilians  Justice For Myanmar",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-18T03:27:03.418313+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3e20040de039"
     }
   ],
-  "last_updated": "2026-10-18T08:34:52.529024+00:00",
+  "last_updated": "2026-10-18T12:59:32.624916+00:00",
   "total_count": 1000
 }
