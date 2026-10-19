@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Dallas man indicted for flying drone into protected airspace surrounding two major airports - sUAS News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2NNTEo4dWRxUmcwNFZKU0dhSVFpbEtUcG80ZXAtVkxWaFdUMTBNWkxUWXlwajFTRGxLSE1ZSnczYkVNcVVfeHBGdlFFVnB1dmlDUTMyTmUxRG1UaEMtdllWaW9qTDRnR1BTU1F2MUJQeG9GZlhLcmh0ZmNqeHQ0dUt1aFFucm1ITjVvc3dkUi1reTZmMHQ3Mm1RS0RFQTVPUnRhUmxKWnZmdGE1YjMzWW5MenlubHltRnJLUGZFVmhuSFE?oc=5",
+      "source": "sUAS News",
+      "date": "2026-10-18T23:56:39+00:00",
+      "description": "Dallas man indicted for flying drone into protected airspace surrounding two major airports  sUAS News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-19T05:46:24.333513+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "d6dd99c24937"
+    },
+    {
+      "title": "The Emerging Need to Protect Critical Infrastructure and VIPs from Weaponized AI Drone Threats - The Soufan Center",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xUXRXdWFEV2E4TExTc3lEVkhqOG9xVUJWMDNNbWpVWDhtcC1aUy1LeVNWbUEzb19WeWdvYTB6QnFyQzlxUmxoSFdFbndyVDVfQl9zYWZkbFUxRzVtY1cxdUtzS3NPZw?oc=5",
+      "source": "The Soufan Center",
+      "date": "2026-10-19T04:04:24+00:00",
+      "description": "The Emerging Need to Protect Critical Infrastructure and VIPs from Weaponized AI Drone Threats  The Soufan Center",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-19T05:46:23.796654+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "4c1dafd58155"
+    },
+    {
+      "title": "New tech puts illegal dumpers on notice - Waste Management Review",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1FpdkItSWdKQ0xHUzVzVG5OSmJmRWpVWmI1cENzR0tyczRzVERsRW9GcnQ4UnQxcWxGWElrMk5yTkl0MjJVNk1BY05RQ3FxOGJHbU8tRHhnMTAzZV9MNXdXZHhRZkNtMjlqcTNWMTcyR3VoX2IxU2NvNE1TdlZRalhGYw?oc=5",
+      "source": "Waste Management Review",
+      "date": "2026-10-19T00:05:30+00:00",
+      "description": "New tech puts illegal dumpers on notice  Waste Management Review",
+      "query": "drone illegal",
+      "detected_at": "2026-10-19T05:46:22.645847+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "32cb1d1bbc70"
+    },
+    {
+      "title": "Lithuania calls security meeting after drone crash - The Peninsula Qatar",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzZzcElEUHZTbzZSY3l0clM3cFZ2QWhkM2ZFc0lYWE9Qb1l5RmZ3bEliOFlSWThQaDRhaEQ5ZWNvMFlLaU90X1dfMDFPOWFSVFlRcHVPRFVGMUFVSnZ4OFhGZG0xUENhbXlSb0NyYldNMmFmeGZnNHpycjBRWi1WUjYtUVFHQ0FTTkhpUndhUWVlNFpRSnpoaFdwTUJwVjBG?oc=5",
+      "source": "The Peninsula Qatar",
+      "date": "2026-10-19T02:00:59+00:00",
+      "description": "Lithuania calls security meeting after drone crash  The Peninsula Qatar",
+      "query": "drone crash",
+      "detected_at": "2026-10-19T05:46:22.033866+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "edbd665fca28"
+    },
+    {
+      "title": "Marshals Season 2 Episode 3 Photos: “Falling Sky” Brings a Deadly Drone Crash to Broken Rock Airs Tonight on CBS - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0TjJycnQ1VllOdndSN0dGZFBlMXBsakZva1c5UEIwcmhZLWJjNEhhNzFXUG5oWkxfRnpxdmVKMVRuR29xc19yekdwdk5LX0lnZDkydEYxajh3cnp2eDhTRg?oc=5",
+      "source": "IMDb",
+      "date": "2026-10-19T00:00:00+00:00",
+      "description": "Marshals Season 2 Episode 3 Photos: “Falling Sky” Brings a Deadly Drone Crash to Broken Rock Airs Tonight on CBS  IMDb",
+      "query": "drone crash",
+      "detected_at": "2026-10-19T05:46:22.033866+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "303593196342"
+    },
+    {
+      "title": "St. Petersburg Airport Shuts Down for Six Hours After Drone Attack, Cancelling 29 Flights - Rus Tourism News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUDZFY1B4VFgwU0wwYnZ6N3BYYUEtMmZoTks1MGZzYTlqLVNwQm90QVFnQksycnQ3ZVphSm5oLXVpRzhZZWIyOXB1Z3dTdmhaUV9fREpNODc5X3JNVU83UWIydWxUbHdNbWhtQ3A2MVlPdzd5ekozcjJKZ1lQMkdqRVBSaHN0WHFvZWRXS0J5aG5qZ3dzSS1EU3FIRFhqbDY4SWJUNFVSM2dENDBNNVZkN2p6bFMyWWFva1E5aUQ2bHVTZ2x1eGctUWl3?oc=5",
+      "source": "Rus Tourism News",
+      "date": "2026-10-18T23:17:30+00:00",
+      "description": "St. Petersburg Airport Shuts Down for Six Hours After Drone Attack, Cancelling 29 Flights  Rus Tourism News",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-19T05:46:21.557927+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "50b192753379"
+    },
+    {
       "title": "Ukraine apologizes for drone downed in Lithuania. MFA links incident to Russian electronic warfare - Бабель",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2diNmZ4ZlNtRkc0Y1NPSjNDTVRpcmg1R29YWU45MTVOa3RXS2ZkU1RvS0hRcWkwbDlVTmFsZEV4Z3hVejRDUU9VUzFnUk10S1UtWUVqdTZuYlQ4NzMtQWpXX01Qd193VmlwWFR5LUVYOTlTaG9hZFU4Q1NMS3h5bHpiYk82b0R2dlJqYXhKbDRmaXFIeEVKYlVTRFItNDRmMXRJV19jN0wxMmVNWUtOTXNvUllMWmhUVW1lWExtYlBNZl9vUVRxUNIBzgFBVV95cUxNUGFJc205VW9TVjdrLTZZVUtUU2Y0cV91U3B2djVLenlGemhBZHVkejlxUG1UZkVuQzdXWnAtdnctbUd3bzgySWpvSGdnNUVpUl9Vb01NaWhMd09rbGxPUE56S25YSnk5ck1teVg2MzhFc3EtdHRQSHN0Wk5qdkN5LUVaMTQxSEJqZWdhdk5xTS1ZdVBMRnhYdnJPVFo2ejA4SkQ1X2xMWk81V2tGc19Pemtqd0liRG1JVGgzeGNabWVBM1p0dzlfX1J3N1JmUQ?oc=5",
       "source": "Бабель",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "867f2013110f"
-    },
-    {
-      "title": "World’s 9th strongest military backs Saudi Arabia after Houthi drone attack near Mecca as Yemen militants forge deeper ties with an African terror group - africa.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMG9Na0ptSEhBYWp0al9WaTF1bTUtbWdZYWY3MU1SV0Q3MkFNQ2JNSHBuTXhqb1MzaTVxNkFxYVJnTzdkdkF1NnpoeGFaa1o3SjcxWW9oUGJMMlZfNmJ6b1hCbnhFeUZvWFp3c1ZuRlhrcjJGMkwtajhZOHNfSlFlR3hoZkhFZ2l6V0k1VGtUcURuZ1lCOVlHZFdEYlh2VWZxU014enVlVlljYWdPT2pwNVdiZjhuQ1ZPR1QtOFF4eTRZMlFfT2lMRk9TN0puZjl5LVJWN2YwMHphUQ?oc=5",
-      "source": "africa.businessinsider.com",
-      "date": "2026-09-17T06:00:00+00:00",
-      "description": "World’s 9th strongest military backs Saudi Arabia after Houthi drone attack near Mecca as Yemen militants forge deeper ties with an African terror group  africa.businessinsider.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-18T23:02:22.275040+00:00",
-      "location": "near Mecca as Yemen militants forge deeper ties with an African terror group",
-      "category": "terrorism",
-      "id": "de9ce7b486a8"
-    },
-    {
-      "title": "Three sentenced over drone plot to smuggle drugs into HMP Manchester - gmp.police.uk",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUw0MTNueUJkRVVyWlJpajdpNWgwZG9LUTlfd3dMQ2g4SlQ4SllxclQ2WGQxb3VRbkxWNHM1X1BNcEttQWhhRFlQRUZhcDBKd29fWEtLM2NTTVgyc0NuTlk2WUtvX2xvUER4bVlOZzFCWmF4ekFsSGZBMFZhdXk2WW94S2psQ1pvX2ZwSnhwVU1JZjdJNy1VczhaaWlDMkl1VGR4SUh5QnRidi1fSkJVV05WWnE0VXlYb2FpRzh4TndORHdWWkhRVlNyekJjYWxJYmc0S0M5RjVCWmxW?oc=5",
-      "source": "gmp.police.uk",
-      "date": "2026-09-18T11:00:00+00:00",
-      "description": "Three sentenced over drone plot to smuggle drugs into HMP Manchester  gmp.police.uk",
-      "query": "drone prison",
-      "detected_at": "2026-09-18T23:02:18.883417+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "e7f44217e4f6"
-    },
-    {
-      "title": "Reagan National Airport Halts All Flights After American Airlines Pilot Issues Banned Device Warning - TheTravel",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3BMVkZ3VVcyS2l3OEVOcWxGQVJyTS0wZHotR1ExUnhTMTQ5RmhhZE5nYThrNWlPbGZPS0NhNENqMmFOVENyLUZrZzREc2VKRzEwRnRVck01SHFVekJhQk5vOTNpMDFMYVNHcVlGdWVDS1RLNUdoRExGSTBrUGpFb25LaVoxem5DM19ES3ptYzFnOHVnX24talFoWktIYTBoX2htUDc0clJxalZsWFlpcmhtUEdtNUFVUEJvTW5Kd2Q5cTlYaFE?oc=5",
-      "source": "TheTravel",
-      "date": "2026-09-18T21:00:16+00:00",
-      "description": "Reagan National Airport Halts All Flights After American Airlines Pilot Issues Banned Device Warning  TheTravel",
-      "query": "drone incident",
-      "detected_at": "2026-09-18T23:02:16.973216+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "eb007e4f5dfb"
-    },
-    {
-      "title": "German prosecutors open new investigation after drone wreckage found near military base, echoing Leipzig incident - theins.press",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSTW1YWWZTcTF5MjY3MHdlejItQVBub0EyTElaNlFNVnlyNVh0UzBOcE5SU1ZwdFl2SS1aMU9tVzZyVk95M1ZXQmMyRQ?oc=5",
-      "source": "theins.press",
-      "date": "2026-09-18T15:16:26+00:00",
-      "description": "German prosecutors open new investigation after drone wreckage found near military base, echoing Leipzig incident  theins.press",
-      "query": "drone incident",
-      "detected_at": "2026-09-18T23:02:16.973216+00:00",
-      "location": "near military base",
-      "category": "other",
-      "id": "c0c4725311b1"
-    },
-    {
-      "title": "String of daring Russian plots is testing Washington’s restraint - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVZlTUctTVE1aGJsUGlzX3dwUFJNRUdXWlpsNDRiTTlvMVdNNl9DWWladmpxTWg4MEpUMlc1enFGcEl5QmhRMFR2dmlUbTl2V1VvTGNvbGxDa3l0aVlIM09ENWpJbmtCZWx6QkpqWjJGcmRkeGVXRlkwLUpJbHRtc2Zlc2FpUXR5TXl6bkVWZmdCakdSZGtWUG45UUJYVXQ0N3k4ck5XanBIbXM?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-18T16:00:00+00:00",
-      "description": "String of daring Russian plots is testing Washington’s restraint  The Washington Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-18T20:28:39.023599+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9c7614a5b144"
-    },
-    {
-      "title": "Neighbors fighting over drone in Central Florida turns into murder-for-hire plot, docs show - WESH",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRm5HZnk2X21DU0tFbDdUMHZld1JJRE1Ba3oycmRkSG5VSkZKd1JVNVlQWVZXOXdHMTBzNm1Md0ZaaHFGdGxFS2tkZENiVXdEajFLVXF6RXA3QzB3TndBUkRJU2x6Q2xPQ0ROcUoxd0s3NWZsMDJjOVpOcnhNSUlURU5tV2s0dw?oc=5",
-      "source": "WESH",
-      "date": "2026-09-18T16:08:00+00:00",
-      "description": "Neighbors fighting over drone in Central Florida turns into murder-for-hire plot, docs show  WESH",
-      "query": "drone arrest",
-      "detected_at": "2026-09-18T20:28:34.874221+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "2285c52ce1e3"
     }
   ],
-  "last_updated": "2026-10-19T00:50:32.628649+00:00",
+  "last_updated": "2026-10-19T05:46:24.915933+00:00",
   "total_count": 1000
 }
