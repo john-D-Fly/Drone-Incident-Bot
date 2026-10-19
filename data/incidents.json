@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian Drone Strikes Highlight the Vulnerability of Russia’s Data Centers - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFNtVUprR09nNXZlQ3p6UWVjd2pYLU9lZHFXb1RmQjRNSHRaVUh4WE1SUXRnUV9YM3VLQ2g5OHJ6SWtCX1FfZGVLeVZGWnNQTEpaRFNzUG91VkNpNFp2WFJJQ1lDb2FTbHMyTVNaaWlzYjY3dU1IdWkyWlRUOHZIT2RmWVRTZF9HTlhBbWxnclJnREw5NXFwOHdoT2E5ajJvckJZODFDMG5EUEk?oc=5",
+      "source": "Homeland Security Today",
+      "date": "2026-10-19T09:12:36+00:00",
+      "description": "Ukrainian Drone Strikes Highlight the Vulnerability of Russia’s Data Centers  Homeland Security Today",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-19T12:17:10.254379+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "4bb066f85c18"
+    },
+    {
+      "title": "Russian drone crash damages 11 houses in Lviv region - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0FScHN0bGE1dVZmMEdOamFZZVRoMGI5MTcza01Va3MyUl9XMzhSbS1CRVJYa2VwRm9tMTVOQnpseG5sdXRvUG4ySlFpWThhdHVNQ2Z0LVJUSngxVVp1ZWJVTVFoRzEtSTZCS0h6T3ZfQk9hQUxwZXRBaGctRVA0U25odFdDT0tZYjNLZkxaRXZmajVraS1oQ1FCejRvNmxqeDZYMmJVMFIwQdIBqgFBVV95cUxPS0FScHN0bGE1dVZmMEdOamFZZVRoMGI5MTcza01Va3MyUl9XMzhSbS1CRVJYa2VwRm9tMTVOQnpseG5sdXRvUG4ySlFpWThhdHVNQ2Z0LVJUSngxVVp1ZWJVTVFoRzEtSTZCS0h6T3ZfQk9hQUxwZXRBaGctRVA0U25odFdDT0tZYjNLZkxaRXZmajVraS1oQ1FCejRvNmxqeDZYMmJVMFIwQQ?oc=5",
+      "source": "Ukrinform",
+      "date": "2026-10-19T10:12:00+00:00",
+      "description": "Russian drone crash damages 11 houses in Lviv region  Ukrinform",
+      "query": "drone crash",
+      "detected_at": "2026-10-19T12:17:08.367156+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "648642b16aa4"
+    },
+    {
+      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
+      "source": "Gulf News",
+      "date": "2026-10-19T03:45:18+00:00",
+      "description": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights  Gulf News",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-19T12:17:07.750632+00:00",
+      "location": "in Saudi Arabia, ur",
+      "category": "airport",
+      "id": "b9c407dae9f7"
+    },
+    {
+      "title": "Lithuanian minister says Sunday drone crash was part of Ukrainian attack on St Petersburg - LRT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVDJEWHljQS0ybTA4OUhtMGo0UHlvRFlwQ3lpeWlIbTg0VjJWMk5Gc2lQeGVBQV84aU9ETVpTN3dnbDNrVDVIQ0VqN0NFeEFicURYNlYxUF9uUU1yeHEtdU1WNk1lbzJTRmJldzRmaVVUamJBRWJMTmRzdVBtVkVsRjdaMHhlUm1iemx0cHBHNHBpSXNYWW1XRVR0amwteFhXcDNhOGVZTkdjNzZkLXpFR0Y3Mm1MUUI3Vm45M3FnRFlyM3dGWTc0TkluamxJc2J3eXBRYQ?oc=5",
+      "source": "LRT",
+      "date": "2026-10-19T06:40:00+00:00",
+      "description": "Lithuanian minister says Sunday drone crash was part of Ukrainian attack on St Petersburg  LRT",
+      "query": "drone incident",
+      "detected_at": "2026-10-19T12:17:04.920302+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "8c3ffac0048d"
+    },
+    {
+      "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car. - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRhQTZsbGpORE00RGZyeGpRR2RyU0NTRnhtMjIzNS1nRFlUenh2YXpWc3FORVpZR0dsWWZVRGpiUDdhWERBdmdYM2ZDR2NQYmtwNnBYaU1sYXpRZUNZclE5cmNTdEF0ZktRcXB3dXZZSzZ4QThHNFpLSE1JRlRRcGpBd1J5VXVCUFpCOGI1ejJoZnU4c2hweDFoOThfeVRubFNCTUg3c2x2RjZBbU1oV0ZzTEU1QWlPZ1HSAboBQVVfeXFMUFltWWVWZGdMaGI2Y3Q1a2ZWUWJPZHFJV2MxM0JXWW9yWDRWUmdQT3VQMEpZLVBDdS02Skt3MzFJdkI1a19yZ0d2RjNIV2xvdGpuTEptN1plZG1hZWZFQmRJb25GZ1h4SVE2TEVmSmc5UDNPNlBWNW1mbndzVFRpQm5KX2RmN3h4VUI2MFh1NUNuUzM3Uk1fbVhnZHFXeVNRdDB1UTdlbjRnSlhoWmJFQ3l0X2xWQTlzLWt3?oc=5",
+      "source": "DW.com",
+      "date": "2026-10-18T14:53:39+00:00",
+      "description": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.  DW.com",
+      "query": "drone incident",
+      "detected_at": "2026-10-19T12:17:04.920302+00:00",
+      "location": "in Lithuania, da",
+      "category": "crash",
+      "id": "0c7d81c7f1c7"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-19T03:43:36+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-10-19T12:17:04.920302+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "b20ff4f95f89"
+    },
+    {
       "title": "Dallas man indicted for flying drone into protected airspace surrounding two major airports - sUAS News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2NNTEo4dWRxUmcwNFZKU0dhSVFpbEtUcG80ZXAtVkxWaFdUMTBNWkxUWXlwajFTRGxLSE1ZSnczYkVNcVVfeHBGdlFFVnB1dmlDUTMyTmUxRG1UaEMtdllWaW9qTDRnR1BTU1F2MUJQeG9GZlhLcmh0ZmNqeHQ0dUt1aFFucm1ITjVvc3dkUi1reTZmMHQ3Mm1RS0RFQTVPUnRhUmxKWnZmdGE1YjMzWW5MenlubHltRnJLUGZFVmhuSFE?oc=5",
       "source": "sUAS News",
@@ -11927,80 +11999,8 @@
       "location": "near Colonita village",
       "category": "other",
       "id": "2a0b98792b61"
-    },
-    {
-      "title": "Flights briefly halted at Reagan National after pilots report drone near runway - Scripps News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0NqNlFvN3RBc1pMUHZtN24zdHUyMkQtTmFIRGU5UVBNeFEzVDloQWFJN0F2NkdlLXNZMEdhd0hpdTlMc0xjemZZdFpRd0lMeVEzdS1WYjdOZG9UVm9OQTZycEU5T2xhYS1nVnlFUm1QdWJJVkxCZmN4cEhHSU5NenAtblZOXzZvbjNmNDRIZlYtczktcWJjTl9fY2dvcW03SXZ5cnlTcm9UWEZWTHcxOTdNWV9KM0pORTZz?oc=5",
-      "source": "Scripps News",
-      "date": "2026-09-19T04:42:13+00:00",
-      "description": "Flights briefly halted at Reagan National after pilots report drone near runway  Scripps News",
-      "query": "drone incident",
-      "detected_at": "2026-09-19T08:34:24.257298+00:00",
-      "location": "near runway",
-      "category": "airport",
-      "id": "a3b9d956e204"
-    },
-    {
-      "title": "Troopers set flight, drone restrictions at Beaver Stadium for home game - wtaj.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1N3NmdCV09KbEZUNzdpRThTUzd0Qm4tNzBwS2tzZ29jNGN2X2gyeGV5WmNsVFdIWE03b3V2VV9tejZlV1BPaUx4aG96VGN6NFJNNjUxaXRfRGJjdm1IclQ3NEZtTXFuRVZ1WU04MzJ4RmxWaG9TY0IwenNBTTQwejRTZDJkb1VuRnhPVG5ZSmhmbHhTNHU4WHI0S3c1cFR3S2pQVU5iZlhVYmptdDlDSmxfQVRDa1ZKMHfSAboBQVVfeXFMTWNTdzZnQldPSmxGVDc3aUU4U1M3dEJuLTcwcEtrc2dvYzRjdl9oMnhleVpjbFRXSFhNN291dlVfbXo2ZVdQT2lMeGhvelRjejRSTTY1MWl0X0RiY3ZtSHJUNzRGbU1xbkVWdVlNODMyeEZsVmhvU2NCMHpzQU00MHo0U2QyZG9VbkZ4T1RuWUpoZmx4UzR1OFhyNEt3NXBUd0tqUFVOYmZYVWJqbXQ5Q0psX0FUQ2tWSjB3?oc=5",
-      "source": "wtaj.com",
-      "date": "2026-09-18T19:12:45+00:00",
-      "description": "Troopers set flight, drone restrictions at Beaver Stadium for home game  wtaj.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-19T03:23:33.507620+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "a723c92ea9b6"
-    },
-    {
-      "title": "IAEA: Drone strikes cooling tower at Russia’s Kursk nuclear plant, no fire - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2xBQ3NEdGd1QWFHWENaQ0dlWjcyU0Fnd3N6cDQ4QXF0TzRaYmVETlo2VU5TRVdIX1hWYUEyT21yeHQ5b1JCX0VUdDZ1Ym5qdTl2TlQ0TEpjS0JfRXdBUTVkRGVyTUxuOUd0V2ZLNGFnTVhmVWxWMEdNUWE2ZllFM0N4UDZrZUxOcUpYajA3dE1oLTIxTEdj?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "date": "2026-09-18T17:36:39+00:00",
-      "description": "IAEA: Drone strikes cooling tower at Russia’s Kursk nuclear plant, no fire  Latest news from Azerbaijan",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-19T03:23:32.849945+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "fe5a5caee66c"
-    },
-    {
-      "title": "Flights Resume at Luxembourg Airport After Drone Disruption - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmtjU1FqTTZhUFBiOFdlQ0JwM09ONU5XUnJlV1dyQndfN01nLWFBVDlralZDZXp6b2JnWG5PdW9WYWl3cUZqUnNXRVpZV3l2QjlxUFJGUndBNENZVzg1WHpDMDRzNjVfLWR1VlpIb0xfUGVqNnExUVRTMF9RTUZOZFU5UGRIS1lLWnVESUdNOFJWSEwzbWtHRUdmU3VfQk0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "date": "2026-09-19T01:38:25+00:00",
-      "description": "Flights Resume at Luxembourg Airport After Drone Disruption  Global Banking & Finance Review",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-19T03:23:30.013948+00:00",
-      "location": "at Luxembourg Airport",
-      "category": "airport",
-      "id": "1d208a08c79e"
-    },
-    {
-      "title": "Neighbors fighting over drone in Central Florida turns into murder-for-hire plot, docs show - wesh.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRm5HZnk2X21DU0tFbDdUMHZld1JJRE1Ba3oycmRkSG5VSkZKd1JVNVlQWVZXOXdHMTBzNm1Md0ZaaHFGdGxFS2tkZENiVXdEajFLVXF6RXA3QzB3TndBUkRJU2x6Q2xPQ0ROcUoxd0s3NWZsMDJjOVpOcnhNSUlURU5tV2s0dw?oc=5",
-      "source": "wesh.com",
-      "date": "2026-09-18T21:07:00+00:00",
-      "description": "Neighbors fighting over drone in Central Florida turns into murder-for-hire plot, docs show  wesh.com",
-      "query": "drone arrest",
-      "detected_at": "2026-09-19T03:23:26.938596+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "a00075b57dc7"
-    },
-    {
-      "title": "Moldovan police investigate suspected drone crash - tvpworld.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmtyZGZVeVFCdHI5MnVEakt0bHp2aU0zTm4zZlNULUtxSXRrLXNYMWpTYkxsUTVxWDY4a3p3UFh4c3pqOU9ZUFA3T1lYNWlTUXFSd2w4ZmhCWXRIWWNsSEd2MHFxME9BQlFGV21JSDM0cWx5cHdVYl80MnM2OG5yOG1rdW45b1JzU3hFZFhZWXZmWW56TUpMRGhiNUM?oc=5",
-      "source": "tvpworld.com",
-      "date": "2026-09-18T15:54:00+00:00",
-      "description": "Moldovan police investigate suspected drone crash  tvpworld.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-19T03:23:25.238171+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "867f2013110f"
     }
   ],
-  "last_updated": "2026-10-19T05:46:24.915933+00:00",
+  "last_updated": "2026-10-19T12:17:11.470673+00:00",
   "total_count": 1000
 }
