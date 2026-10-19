@@ -1,0 +1,129 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone-related incidents have been reported across various categories including security breaches, crashes, and arrests. In the United States, a Dallas man was indicted for flying a drone into restricted airspace, while the FAA has announced restrictions on drone operations near the Mexico border in response to cartel threats. Regions like Lithuania witnessed several drone crashes, with at least one suspected of being associated with Ukrainian attacks aimed at Russian infrastructure. Moreover, various incidents involving drone deliveries to prisons have also emerged, indicating ongoing issues with smuggling contraband. The juxtaposition of policy responses, such as FEMA's new counter-drone grants, further highlights the increasing focus on combating drone-related risks.",
+  "totals": {
+    "airport": 7,
+    "other": 17,
+    "crash": 11,
+    "smuggling": 5,
+    "terrorism": 4,
+    "interference": 2,
+    "arrest": 2,
+    "total_incidents": 66,
+    "by_category": {
+      "airport": 8,
+      "arrest": 1,
+      "crash": 17,
+      "interference": 2,
+      "other": 27,
+      "security": 3,
+      "smuggling": 5,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 2,
+      "drone crash": 12,
+      "drone illegal": 1,
+      "drone incident": 28,
+      "drone prison": 5,
+      "drone smuggling": 1,
+      "drone terrorism": 6,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Crashes",
+      "rationale": "A series of drone crashes reported in Lithuania and associated with potential military implications.",
+      "incident_ids": [
+        "643f5844cdb5",
+        "553172303d33",
+        "9191cbc751e3",
+        "0f44ab7c5677",
+        "6bc79235ecf1",
+        "e9f77e0c8709"
+      ]
+    },
+    {
+      "topic": "Airport Incidents",
+      "rationale": "Multiple incidents related to airport disruptions due to unauthorized drone activity.",
+      "incident_ids": [
+        "11748a167aed",
+        "b9c407dae9f7",
+        "50b192753379",
+        "2f770c408441"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Drone deliveries of contraband to prisons characterized several incidents emphasizing security vulnerabilities.",
+      "incident_ids": [
+        "b764d58433a1",
+        "9e5b686af44b",
+        "29 Governors Ask DOJ for a Prison Drone Course"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "11748a167aed",
+      "headline": "Dallas man indicted for flying drone into protected airspace",
+      "one_sentence": "A Dallas man faces charges for operating a drone in restricted airspace near two major airports.",
+      "risk_tags": [
+        "Unauthorized Drone",
+        "Airport Security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "4f7e765c9900",
+      "headline": "Nigeria offers Military training to Bangladesh",
+      "one_sentence": "Nigeria is extending military training and drone warfare expertise to Bangladesh.",
+      "risk_tags": [
+        "Drone Terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "643f5844cdb5",
+      "headline": "Drone that crashed in Lithuania carried explosives",
+      "one_sentence": "A drone crash in Lithuania is believed to involve explosives, raising security concerns.",
+      "risk_tags": [
+        "Drone Crash",
+        "Security Breach"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "b764d58433a1",
+      "headline": "Drone delivers contraband to Quebec prison",
+      "one_sentence": "A drone successfully delivered McDonald's nuggets and alcohol to an inmate at a Quebec prison.",
+      "risk_tags": [
+        "Smuggling",
+        "Prison Security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "2f770c408441",
+      "headline": "FAA restricts border drones to counter cartel threats",
+      "one_sentence": "The FAA has imposed restrictions on drone flights near the Mexico border to tackle smuggling concerns.",
+      "risk_tags": [
+        "Drone Smuggling",
+        "Regulatory Action"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones in the news: multiple incidents across US and abroad, from airport disruptions to smuggling in prisons.",
+    "linkedin": "Recent drone-related incidents highlight growing challenges in airport security, smuggling operations in prisons, and military implications across borders."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-19"
+}
