@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Hardening European Critical Infrastructure Against Drone Threats: Spotter Global & CCTV Systems AB Solutions at SKYDD - The Tennessean",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUFpzYVdyeGtxS3k3NFB5WWNlVWtwa2FkNi1TaHA1UFFEN0tWRGFGVHA0RWhBUjlMNGxnaFIzblh0UWpPTjVrQVN0eTVmWW9xbmNFZnNIUWtnR0o0WG5FbHRjejNkRDhUcTZqTHJacjlTNWpMSGI4MUpGNTRPMldSS0NLOHlhd0U4NW5CVTVaalJvVkZQVGlWWXhmYW9EQWJBVWdEankyeWVfMGU0cmliamVkbDdFVERLc1Vrek1WU1pfMU1ualN0RDA0NjNrT0I0MUZPTGkyNlJiVFRMcDR3Zm9menJLQl9sY0FucllRb0xnLWxpcW9tZmF3REt5dw?oc=5",
+      "source": "The Tennessean",
+      "date": "2026-10-20T07:51:38+00:00",
+      "description": "Hardening European Critical Infrastructure Against Drone Threats: Spotter Global & CCTV Systems AB Solutions at SKYDD  The Tennessean",
+      "query": "drone security breach",
+      "detected_at": "2026-10-20T09:10:14.909123+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "871167f4c39b"
+    },
+    {
+      "title": "Drone crashes near petrol station in Kyiv, killing one and injuring six - Українська правда",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hS0ZTUFBmTUNEWmhIT1h0ZUNSNUlrQXdERGxTTzZ5WDZibHB2REFnd2NQRkF1Wm9neE9aVkZmU2dFZm9rS1lKdlhQT21ZRHpHSF9YQlVReWE4Vk5WV2xwcUs2SDHSAXBBVV95cUxNQXRoUXZ1b1lTRFFZanFHbjQ2NElYUXBPclVtcV9YWm00X0dpR3VmTFhBMzd0aTJjcHpGYURGZVVDZ2t6UTF0bXZESTJhWWVfLTBrMDN1eFJpR2c3cUdvaDVId193S1JLQ1RkaU1CbUdr?oc=5",
+      "source": "Українська правда",
+      "date": "2026-10-20T07:55:00+00:00",
+      "description": "Drone crashes near petrol station in Kyiv, killing one and injuring six  Українська правда",
+      "query": "drone crash",
+      "detected_at": "2026-10-20T09:10:13.772746+00:00",
+      "location": "in Kyiv, ki",
+      "category": "crash",
+      "id": "db9bd0a05ff6"
+    },
+    {
+      "title": "In Singapore, Improper Drone Use Can Mean Fines or Prison for Seafarers - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3ZQN2JObDRIVmcyN3hxNjdabnozU3NkWmw1ZFBVLWhfbW9QclR5UG1MeHppUWdtbXgyakRqeGNwT2dsTDF0UDFrNVBOUGJGUDVKTHRHWVdWaHJEVm1mMHFyMk1ZU0s5NndiVGdNNlhMMUlQMDZ1YURPNzZ1SU4tVHBRV1U1UnpEdzlva0M3dXRkVHZVR2xzRGNGR3hCZEV3dmhjT00xNTJOaU9KWEE?oc=5",
+      "source": "The Maritime Executive",
+      "date": "2026-10-20T02:05:34+00:00",
+      "description": "In Singapore, Improper Drone Use Can Mean Fines or Prison for Seafarers  The Maritime Executive",
+      "query": "drone prison",
+      "detected_at": "2026-10-20T09:10:12.686324+00:00",
+      "location": "In Singapore, Im",
+      "category": "smuggling",
+      "id": "fee7c5936dd5"
+    },
+    {
+      "title": "Police in the Philly suburbs are using drones as 'first responders' as they become cheaper and easier to use - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXNUZVlxYnpvdzNfcm05VlBHd2VscngtQnhuV0drZjBSVlJWQVRuWGxweWZiaTNCNzVhbVJ4WDhkdnE0YWdZOXprZXI3X2x3NGxTNUFVZGsyeEUweWhBR1pWSzZwUEVoSm45Z1RvNEdabUlGR2htV004dEh3eElKOWxfclFQNFRVcjFhZHc5Tlcxdw?oc=5",
+      "source": "Inquirer.com",
+      "date": "2026-10-20T09:01:01+00:00",
+      "description": "Police in the Philly suburbs are using drones as 'first responders' as they become cheaper and easier to use  Inquirer.com",
+      "query": "drone arrest",
+      "detected_at": "2026-10-20T09:10:11.488626+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "6c953b8d4373"
+    },
+    {
+      "title": "FBI disrupts plot targeting UFC event at White House with explosive drones - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVY4UzJ0RHJYa3BzUmZZUlpmLTZiRjE0WUk5OWxxYTI3cGc2NllHM01XbjFJaUszeUZoUkhCS0ZubWQ0NDlybnNaZTVrLVJuQ2ZjZGpudHBmZHZYcmFTaW91S0Rkc2VVRGFxXzRycHlDdkNuVlBJNGhMLU5sWjBHbDZCYmVVOHR1U2VSMnFQMWnSAZYBQVVfeXFMUExMbG9CMDlLNF9PbFp5S0ZFZXpmb080c00xX3V4NmFVRnJZNXJ6TG9JRmxmVThmS1VIdXI4ZFU4Wmk1eW1iNmRkVGlKZ3RDT2FqWmMyUnJUR1lqZllpV1c0UkM2T2pnUkNiMUExSW1TSDZ5N3FGRnlkUVhFT1BXS2ZwVFhPRjdzbGxvOWZVQkVuNmxRR2JR?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-19T04:17:10+00:00",
+      "description": "FBI disrupts plot targeting UFC event at White House with explosive drones  ABC News - Breaking News, Latest News and Videos",
+      "query": "drone incident",
+      "detected_at": "2026-10-20T09:10:10.787535+00:00",
+      "location": "Unknown",
+      "category": "interference",
+      "id": "b639e128273f"
+    },
+    {
       "title": "New Border Drone Restrictions Raise Questions for Commercial Operators - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG0wNExvWFl1N25pNjJUMjR0REt2b3ZmRW83NkdQY3RoeGJaQVhuNk5DTl9uT2c1WHRZakFKbG5ISHJNOFpIekZfZUhzTWwzM0NHOElaLVRMdFZGcExrTzZlV3ZHZkNyd2RPZDUycmhkTEhrMzhjc00xN2hiVFYtR3Boc09QaEE?oc=5",
       "source": "Dronelife",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "7d1cbed0e43c"
-    },
-    {
-      "title": "The Rise of A.I. Is Raising Threats From Drones, Police Group Warns - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXNUREZlbm5QdHAydF9MdzlvMkUtLTBqWk56bTd5SHFTRThPZ1ZQMl9pMVBFdzhJbDVGMlAtc1l3Q05ZdzBzdnV6SWJ4Wk9MY2JPQk5pbVBSWTBqY29rTWhxdzF3NElxc3IycVQybzlfMU54RENJVl9GM0ZjSm16cnJ0WHd1UDB0aFpJbDdWNA?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-19T14:06:33+00:00",
-      "description": "The Rise of A.I. Is Raising Threats From Drones, Police Group Warns  The New York Times",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-19T16:15:01.277716+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "27886c5f9873"
-    },
-    {
-      "title": "Moldova denounces repeated Russian drone breaches at OSCE - moldova1.md",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0wSjJyZVg1end4ZVV5Qk83Q096OUVIX2NDaDBTTURpeUJBZFdUU18yMURSUnNTdFJvNEg3SGZoYmw?oc=5",
-      "source": "moldova1.md",
-      "date": "2026-09-17T16:53:41+00:00",
-      "description": "Moldova denounces repeated Russian drone breaches at OSCE  moldova1.md",
-      "query": "drone security breach",
-      "detected_at": "2026-09-19T16:15:00.166766+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "faa29100c3ed"
-    },
-    {
-      "title": "Press conference summary: PM Frieden vows coordinated response after drones shut Luxembourg airport - RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmd1ZzgtTDc2cUxkTEJWUE8zcGdiZ1djNTRyWnltVjY3SXJSYmlUd1VwSEtKeUl3UHBSRmxvQ0JkMU5iWDhnN3IwUFNpTGkwUUoyNy1ZbTM2WTRPdmZScmhLOVFRNHRaT0pSOHJzNW5VYmtsSTgzMjRzUnpLZ0Z5SWNIRlV4dGZ4ZTlEanEwQzRBbTZlRzFmeXdwa0lxSlVXMWZKc2I3bGlqbFFrSTVtLVh5WjNfaUc1aER4aVBn?oc=5",
-      "source": "RTL Today",
-      "date": "2026-09-19T11:20:34+00:00",
-      "description": "Press conference summary: PM Frieden vows coordinated response after drones shut Luxembourg airport  RTL Today",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-19T16:14:58.468601+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "85a0086e9047"
-    },
-    {
-      "title": "‘We are taking this situation very seriously’: Frieden responds to airport drones - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGY2OFE1WTJndG9nRjZsbXhiTFNUeldmcHpheHdfZDNpWXhGMW1RZ0pMU0NZMFZDMmlHZFRVNFpwRkNub0xJQ0VhTE9XS2lvem1KSUdxZ2xUOHJuSTk5NU4tb3dCSmxyc1BfaWdTUXFSWnoxNjV5WVcyYVZ0emt5NlBOMWNrMlpZZHoyWlcwYmphV2Q1TmhkZDZFNC1wcS04M0dlRGhzS3g0YXRJVDdWRjE5NHJhcDhpM2d1ajdsbUdHdjdZVGtN?oc=5",
-      "source": "Luxembourg Times",
-      "date": "2026-09-19T12:34:17+00:00",
-      "description": "‘We are taking this situation very seriously’: Frieden responds to airport drones  Luxembourg Times",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-19T16:14:58.468601+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "2e855d291860"
-    },
-    {
-      "title": "Luxembourg Airport Reopens After Drones Halt Flights Overnight - Rus Tourism News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQi00YWFBUzlwamhzQXpnbVdRQmdndzMxdEdoSkItZVZuU1hYZDhNbDRUdEZWT2J4eTl6eUlXZ2RpdU9mTnNJRVdQOVZjUXQxWEo2TWVNTmI0ZmllOGxDYmd4R0ZJcld1NWRPdzBhMHhQZXAtMDFpQ2NzM3BGZGFVTEF1V2lQeVhvZTVUekRlWDVYX0ZqbGkxRmVMVDlPcE1kVlFpRGRFbms?oc=5",
-      "source": "Rus Tourism News",
-      "date": "2026-09-19T12:25:54+00:00",
-      "description": "Luxembourg Airport Reopens After Drones Halt Flights Overnight  Rus Tourism News",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-19T16:14:58.468601+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "611103532d5e"
     }
   ],
-  "last_updated": "2026-10-20T03:38:57.782731+00:00",
+  "last_updated": "2026-10-20T09:10:16.673673+00:00",
   "total_count": 1000
 }
