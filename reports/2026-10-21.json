@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "In the past 48 hours, numerous incidents involving unauthorized drone activities have been reported across various locations. In France, drones breached a no-fly zone over Toulon, leading to investigations into military security concerns. The U.S. has reacted to potential cartel threats by imposing new drone flight restrictions along the Mexican border. Singapore issued warnings about unauthorized drone usage in port waters, emphasizing safety for seafarers. Meanwhile, a significant drone drop was intercepted outside an Ontario prison, reinforcing ongoing issues of contraband smuggling via drones. There has also been a focus on enhancing drone regulations and counter-drone efforts, with various states addressing illegal drone activities. The geographical spread highlights a range of security implications across North America and Europe, particularly concerning prison contraband and cartel operations.",
+  "totals": {
+    "security": 6,
+    "smuggling": 5,
+    "crash": 7,
+    "terrorism": 5,
+    "other": 9,
+    "airport": 6,
+    "arrest": 8,
+    "interference": 1,
+    "drone prison": 3,
+    "unauthorized drone": 12,
+    "drone incident": 9,
+    "drone illegal": 6,
+    "drone terrorism": 6,
+    "total_incidents": 82,
+    "by_category": {
+      "airport": 7,
+      "arrest": 4,
+      "crash": 10,
+      "interference": 1,
+      "other": 29,
+      "security": 8,
+      "smuggling": 16,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 11,
+      "drone crash": 8,
+      "drone illegal": 7,
+      "drone incident": 9,
+      "drone prison": 8,
+      "drone security breach": 4,
+      "drone smuggling": 11,
+      "drone terrorism": 8,
+      "unauthorized drone": 14
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drones",
+      "rationale": "Significant uptick in unauthorized drone activity impacting security and safety measures.",
+      "incident_ids": [
+        "82193f039b4f",
+        "e4b076f099a1",
+        "558132118bcd",
+        "f3ffbf1886ba",
+        "cc8075fc2599",
+        "50f9ca80241d"
+      ]
+    },
+    {
+      "topic": "Prison Smuggling",
+      "rationale": "Multiple incidents related to drone drops at or near prisons raise alarms about contraband.",
+      "incident_ids": [
+        "c8b8bb19b796",
+        "2694e13fe579",
+        "f3ffbf1886ba"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Reports of drone crashes resulting in injuries or fatalities, necessitating further investigation.",
+      "incident_ids": [
+        "32d3173a7b81",
+        "db9bd0a05ff6",
+        "9191cbc751e3"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "82193f039b4f",
+      "headline": "Drones breach no-fly zone over Toulon, home to France’s main naval base",
+      "one_sentence": "Drones were reported breaching a no-fly zone in Toulon, raising military security concerns.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "France"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e4b076f099a1",
+      "headline": "US restricts drone flights along Mexican border, citing cartel threats",
+      "one_sentence": "New restrictions on drone flights along the Mexican border have been implemented due to threats from cartels.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "f3ffbf1886ba",
+      "headline": "Drone drop intercepted outside Ontario prison",
+      "one_sentence": "A drone drop incident was successfully intercepted outside an Ontario prison, highlighting contraband risks.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "db9bd0a05ff6",
+      "headline": "Drone crashes near petrol station in Kyiv, killing one and injuring six",
+      "one_sentence": "A drone crash in Kyiv resulted in one fatality and six injuries near a petrol station.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "f1fe3fc122f5",
+      "headline": "FAA restricts border drones to counter cartel threats",
+      "one_sentence": "The FAA has put measures in place to restrict drone operations along the border to mitigate risks from cartels.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents raise significant security and safety concerns across North America and Europe.",
+    "linkedin": "Over the past 48 hours, several unauthorized drone incidents have been reported, highlighting growing security concerns around military areas, prisons, and potential cartel activities."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-21"
+}
