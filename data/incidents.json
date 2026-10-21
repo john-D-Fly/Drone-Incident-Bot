@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Birmingham approves $500 drone fine ahead of Magic City Classic - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhoT2VIRE5MR1ZYam4yeUMxYWxlZGJad2hSZ2w1Mjc1U0tmTGk2cEpxd2tNYUl5UzFBSUc0NnEzYUdka3V6WkNzUFloOTBLUElEMThKWHZQNlMyRDJSWFZqTV9uOXk5bzBjZVF1eTJWOXVkQ2lqU3l0SFQ4WWxtUEpXb3NiWkpZNnJFZndFUHFVUWhGbzVGOA?oc=5",
+      "source": "WBMA",
+      "date": "2026-10-20T22:56:39+00:00",
+      "description": "Birmingham approves $500 drone fine ahead of Magic City Classic  WBMA",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-21T01:19:04.941283+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "f73d5b01663a"
+    },
+    {
+      "title": "Hardening European Critical Infrastructure Against Drone Threats: Spotter Global & CCTV Systems AB Solutions at SKYDD - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSDU0bktIVzl6cjE4X3VnRGxwcTl5ZGZRc2hTWS1DSEluV1dMX2xpbmVjejRHdE84eWRrdTh2TFB0OWtyYnpqNDY2enRUMEE3WkNxU1UzUXNERUo5VTlaTHVsemxPemJNV3diZHFNLXJRYjF2cFRfYVRvdVQzSGJkbm1JckpSS3A5T0xSQUswbUVyQkdsT2NTdFhQcUNOcENobmE3YzkzUXFEN1RhaUwxSnhpUm9WZlRDVFNXZllkUnpya0ZnZTBaWWRtQU13b0o4UEtNRFNLa0NYWXJqMWFTRTAzcEw1cS1ETFdTZF9zZlR3bHAwQnFJeGptUVliS3c?oc=5",
+      "source": "The Detroit News",
+      "date": "2026-10-20T18:08:54+00:00",
+      "description": "Hardening European Critical Infrastructure Against Drone Threats: Spotter Global & CCTV Systems AB Solutions at SKYDD  The Detroit News",
+      "query": "drone security breach",
+      "detected_at": "2026-10-21T01:19:03.489576+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "e16f58150e9e"
+    },
+    {
+      "title": "McDonald’s drone drop at Quebec maximum-security prison highlights contraband risks - NanaimoNewsNOW",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdERzR2ljNF9MWW1iZlhFeVBzV0NzTjBTUXlTdjlHYm5EQWVzY1JWYjQtU1MxTUc5bnQ5ZGpRbTNDZ2d5S2JpWkYzdWdYU2lFdU5Tc2VDcHJZVkVqby0wWjdtNGFLQ2FPZFdWQlFJZmF4QmlkelozNjUxOGN3QnM3LWIybE1JcEs2R2o4REZkNTB5eTROR1V5QzFaWTNMZGwtdkxhb0tiR2VoUTVSMTZlRVJHMDM0NFpPOEpiN0Z3?oc=5",
+      "source": "NanaimoNewsNOW",
+      "date": "2026-10-20T19:06:09+00:00",
+      "description": "McDonald’s drone drop at Quebec maximum-security prison highlights contraband risks  NanaimoNewsNOW",
+      "query": "drone prison",
+      "detected_at": "2026-10-21T01:19:00.957218+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f8d929095675"
+    },
+    {
+      "title": "McDonald’s drone drop at Quebec maximum-security prison highlights contraband risks - paNOW",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmJxMDBCb3BOWG1xOTBqTzBlXzAtUmdOanRIMXQtLUhLUkExVU15Qmd4X09BdDctYnFlQTFJSmdQSFNpMGFvd2IyYmZJbjE1NURJbTRSbkh1YlZZYUJFcVpYQ2I4VU4zamJ0dHNad3FUVlg0TFIxUGhSNmhzWUppMkNwUXlkMldKbHBOeEJZLWJtVEctN0xpZENpRlZDYTJ2NFI5WXd1T2pLZ1pvMXJCWUFR?oc=5",
+      "source": "paNOW",
+      "date": "2026-10-20T22:45:01+00:00",
+      "description": "McDonald’s drone drop at Quebec maximum-security prison highlights contraband risks  paNOW",
+      "query": "drone prison",
+      "detected_at": "2026-10-21T01:19:00.957218+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "0d0d9d3c4210"
+    },
+    {
+      "title": "McDonald's drone drop at Quebec maximum-security prison highlights contraband risks | iNwheels - iNFOnews.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmtjZEFRMUNfcUJWM0VLaGVuUnlKMXpfam9pbFlWSTRtNXhSU21jcEVFemUwM3ZxdlVBa2N2X2VJMkRlNTkyWmZ4QUlxTHVQM0Z2cWNNQVdSZ1JIeTJ5WTIwU2JuWlp0ejdtZWZQU2FMQ1VjdkNyMU1UdDdLam5wQTRHNGhoUDFCOUxWdTZUdjdTUVBvVG9ST0NUR1N2Ri03RFN3QkFoX3hFeGJPS0FpY1h0SzBiVGZLN0RNX2lyOA?oc=5",
+      "source": "iNFOnews.ca",
+      "date": "2026-10-20T16:55:40+00:00",
+      "description": "McDonald's drone drop at Quebec maximum-security prison highlights contraband risks | iNwheels  iNFOnews.ca",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-21T01:19:00.369801+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "374d7002b5e7"
+    },
+    {
+      "title": "Southern Military Zone foils electronic control devices smuggling attempt via drone - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbE5iY1pXNTc5REZLM3pkVUpBV0FsVFdqRm5uc1J3Q1FROVNaeER2THVfUzBOZ3VEYVJxZ3QxbmVBcUVlYVkzUDI3OXRfMTRELWc0NVlVU3N2aE4wdm0wYnFwbFNJRk10N0tfa1pCdHItN2oyY1ZaNjhmTk5qSEozcmhXaDJRQXBYd1lPdFlWYXVaOHNsMlIyblM4cEZpWlhtdHF2WDlqb05RdEFKUGx6bnZR?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-10-20T20:25:49+00:00",
+      "description": "Southern Military Zone foils electronic control devices smuggling attempt via drone  وكالة الانباء الاردنية",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-21T01:19:00.369801+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "599286c0e252"
+    },
+    {
+      "title": "Police intercept suspected contraband drop near Gravenhurst prison - OrilliaMatters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXdGa2lNQ2o1VUpUU0k1MHhEbV90XzZ2NFRGeE9PcnA3S050ZnFQM0Rjc2JwVnJlSEpnOVFQT1NPRWJhSERxZWFnQWRhWnY0ZFVTdHY1UTdQTHY1WHd5MXk3SkhfSFBodEVfSGVfSHFtVjMwenBKU3RZamZDQkNVR0VJRTdtaWxKcWgydDU5OHdNNUtJZENuSndHQzloc1ozQ05RcnNkNnhBamVtMHp1ek5iSGV5WnBpNVE?oc=5",
+      "source": "OrilliaMatters.com",
+      "date": "2026-10-20T23:36:11+00:00",
+      "description": "Police intercept suspected contraband drop near Gravenhurst prison  OrilliaMatters.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-21T01:19:00.369801+00:00",
+      "location": "near Gravenhurst prison",
+      "category": "smuggling",
+      "id": "72a9e12a5edd"
+    },
+    {
       "title": "Shabwa Deputy Governor to Asharq Al-Awsat: Houthis Supplied Terrorist Groups with Drone Technology - ASHARQ AL-AWSAT English",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFJsaTBWR1JlUThNNW9fRFJZaHpERkVBZzdvbGoyOW5UdzlRZFhRQ3Z3MmpNOGEtOEhicXJlMU02S3pQMWp4NXF3czlUU2tRMWkyeTY2YWtsZHEyZTBNSHpvSzZ0eEg5ejN2ZFNkN082RnpCdlpVWEk1WGxsdjJzWkRQTm1fZ0RhY2VNVlNhM3ZSOXpwdFNVZzdHbER1TkJBRXd1eGk0OG1Hb1o5ZXpRWVVwUHNfeDgzLURmR24taDRtZw?oc=5",
       "source": "ASHARQ AL-AWSAT English",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "8ee3dc00ae77"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "abcnews.com",
-      "date": "2026-09-18T18:58:05+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  abcnews.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-20T00:42:18.268976+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "eda6be46b4d0"
-    },
-    {
-      "title": "Luxembourg Airport Resumes Flights After Drone Disruption - Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVhnR2tfNE1Tc2sxNzBkYzBiQjVvNUhPUHd6bFpxb1dmMW14cWw2TXE4TVJxZ2dhWUF3MTNycFlNTXZLMnBlbDJLSlMtZXNYVWpjaWVDaW5kSGdEQVpnWXJVSUhETEp3UW1yTl9YQXpPTzdNR2N5RUNiSHlPcXVhMFYtZk9CeEtmczlrWWhn?oc=5",
-      "source": "Nomad Lawyer",
-      "date": "2026-09-19T22:25:50+00:00",
-      "description": "Luxembourg Airport Resumes Flights After Drone Disruption  Nomad Lawyer",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-20T00:42:15.689463+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "21c0d4f1285b"
-    },
-    {
-      "title": "Florida man accused of offering inmate $5K to kill neighbor after drone dispute - cw34.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNcVBTalRPYS1NS09NUDg0RXpoZ1ZXS01wdFBfaXNyN2JaLWdhOWdHS2dYN3FUdjlzemVmWEQydU1UM1hubUljcmRqb2tKZU83bGhMWTV3TWhUR0FpVWlnOWtUeDFVTHVVeXNnZDVmUWV6eGJFT0cybkF2MlBITHczeDIwUkw1bmt3UHJxTjlwNGN5eEdHb19GR2wycE56dHZKckhUWWpnY2V5aHVucUIyc1pzRHBPZzJXZWxEMkZTX1ZsbkJxTXdlRU9iQU1MN2JwYk9WV05PRzVJd3NkR0NsYi1GODhUN3BFREptazNfY1FWdHkxSGxfcHhJamlwOVFVX2pMcjlXdGdFQjhBUm5HX2MzRFJSc0YzMUlqV1BhZnExUGp3ZDBWTE9vdTZHNWRxMEFvdXB0Q0lReU1LQzNBZDBaYlJ3N3N1U3VGbmMyd09qUGdRVUpSYm5fc2J5bkx2OC1UdFBLNlNfYnlKb1plYjdPUE82dk5YaDNEMWJFSzBzdFpP?oc=5",
-      "source": "cw34.com",
-      "date": "2026-09-19T22:07:30+00:00",
-      "description": "Florida man accused of offering inmate $5K to kill neighbor after drone dispute  cw34.com",
-      "query": "drone prison",
-      "detected_at": "2026-09-20T00:42:15.047279+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "689c9959cca0"
-    },
-    {
-      "title": "Chinese tourist pleads guilty in NASA Kennedy Space Center drone case - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTDh2WkR5QVUxRVlSUDhBTkpvNFpBR1dZblRaSF9kQkNxeDM5OXZVZjBqaGxCVEwyZmw1OVI5bnh2T1hVWFVGWm5QV1BDb2lSU3lXaGRfQUVDa3ZnWWhzQml4RHNzNlZreU5icUNRRkkyM2szSlkyTmRxcVZMaXE4SzdrZFdxMkpKZnhUOWZSS2IzR0dxWWs4N29CUV9OU3hrTGNpSnNvbHdFUHltR25UUG5XLTZtLWhYZ0hNWnpyU1lOUm5aeDl6WkVhUThwUGFVZmk2UlRhVXN5Y1RZckl2SlRpWGV4Q2VvT2E2cHM3RXdsVnBDWWdzQ0hlbHk0MHlnTmc5QzlB?oc=5",
-      "source": "Florida Today",
-      "date": "2026-09-18T19:48:00+00:00",
-      "description": "Chinese tourist pleads guilty in NASA Kennedy Space Center drone case  Florida Today",
-      "query": "drone arrest",
-      "detected_at": "2026-09-20T00:42:13.836152+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "361e05790b74"
-    },
-    {
-      "title": "Boston Police Drone Wrecks a Parked Car Six Days Into Its DFR Pilot - dronexl.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnQ2elkzYU40bm5hR1VRdXE3S1lDMVBVQkF2ZXJtTTZrOFdMSHlnWTY3QW9ONU1NR0Z6QXFfT1ZDYk9wcVhLbjd3QWtDZFhITUVFdTNSYWU0b2pFQTVzZE4ydGJEdTVtM05sVnZjLThiTXJqdFA1SUtKZW42UUh4bjZxT002ajhX?oc=5",
-      "source": "dronexl.co",
-      "date": "2026-09-19T12:24:00+00:00",
-      "description": "Boston Police Drone Wrecks a Parked Car Six Days Into Its DFR Pilot  dronexl.co",
-      "query": "drone incident",
-      "detected_at": "2026-09-20T00:42:13.194396+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "266e40e06b1f"
-    },
-    {
-      "title": "Flights briefly halted at Reagan National after pilots report drone near runway - KOAA News 5",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlRwV0VMWjhvQVFpYjlDQzFybUFHQkhZcDVSZi1qSVk3dm9uS1dPNUw1ZFo3eVduWjhNSndGM0lqbkl5bzZUUkpES1BlWUdrVXRNNUpzYU1hR1JFdzROZkR2MTFJeVhNS3ZYYnJjYWFRczRTazFLOHpDZ2lrZ1NJVTRiWEIxdmJpWTNNdGxUYlFmcjhTclZmOHFKSF9KWWhEb05RcGVWNnZKdHRGTU1iYW9R?oc=5",
-      "source": "KOAA News 5",
-      "date": "2026-09-18T13:09:05+00:00",
-      "description": "Flights briefly halted at Reagan National after pilots report drone near runway  KOAA News 5",
-      "query": "drone incident",
-      "detected_at": "2026-09-20T00:42:13.194396+00:00",
-      "location": "near runway",
-      "category": "airport",
-      "id": "9a4d5a83a866"
-    },
-    {
-      "title": "Drone sightings briefly shut Luxembourg airport - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YXltVVNONThlNGh5SHpJNi1QaExMVkdzSXYtaEV5NGpUMjVuREpTSXB1dVRxNUhqaFBFMHdLVDUxUnhlUGRrdTlXQTMxcEpkbGk5TVZLbjhVZjBneGF6eUQ2dlk4anM0MGFfVXRMbnZiSjZD0gF0QVVfeXFMTTNiaDlpMXU3aEdLUy1udEx0TmRleHFlMFFiNFhOaTZqMkw4ZTNlcmptTlZsamhuZ3dReXhscnh3bWJGTmFCLTB0dmdMaE5sZEtIcVlNRFhmVUd1ZmNEMUJNRFRSdGlfZk5EWFREWnM1RERBa3E?oc=5",
-      "source": "DW.com",
-      "date": "2026-09-19T14:40:47+00:00",
-      "description": "Drone sightings briefly shut Luxembourg airport  DW.com",
-      "query": "drone incident",
-      "detected_at": "2026-09-20T00:42:13.194396+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "e9830ab406bb"
     }
   ],
-  "last_updated": "2026-10-20T22:09:27.378934+00:00",
+  "last_updated": "2026-10-21T01:19:05.571866+00:00",
   "total_count": 1000
 }
