@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "US restricts drone flights along Mexican border, citing cartel threats - BorderReport",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeklxRXU5VTVQRm9XWjg0YmwxZEpzcUFjTTBPd1NucF9uNnVlcW03YlhSd3RaallhckVXNllVdGIzblFTbnRlTHlqMFltRGdPZ2dEUUxFdk9OQ01zNWFzVVpZUjVEdnNWNkFyd3docjFNWFdBWU55OUo3cXBjLUtjMld4SGpCRzNMQ0M4clZlX2dheURiOE9fRGdhTjFTQ0RWcXJZNzdVSGxHMmhOaTdlSW9EZ2daTVFKN0JjZXJvUzcxUTZOOENtbUNnUdIB0AFBVV95cUxNY29kSm1iRWdjSHNET2lFcW1oaFBwUUhXNS1aaFhvaXByZW91aEhJZUNWSkpJXzk0bmNqREtGNlpQb3JGeHNjTUotZUhUTDlDNE91U0U1RE1xWk1vNjJkeXdCWWhScXcyUHMwNUJuME9PVmVjZWp6cUVMenZRVWhleGstaEdkNEU4Qk9WbkUxVlNMcmhnVmlSdE5EbnRMd2Npb3k0QkpsTUY5bUh5ZEZ3MFBjVEJiSHpIWWlkTmFNamMzRDc2UWhodXM2TWZEVDZS?oc=5",
+      "source": "BorderReport",
+      "date": "2026-10-20T23:42:09+00:00",
+      "description": "US restricts drone flights along Mexican border, citing cartel threats  BorderReport",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-22T22:07:33.312304+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "7fc00259b554"
+    },
+    {
+      "title": "Drone Attack Hits Saudi Arabia’s King Fahd Airport in Dammam, Flight Disruptions Continue - خبرگزاری اطلس",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJ1TEU0R01JV2pYaTBOSzJjUl95LVNWZEJocFYxemRVcmZoT2JyT0o5TndTaDZ5R2dvaGJrZ1VYblJ3ZllEVVZEZmRKamd2TkE1eXhINDdYeU9ya05PUGRUN2ttZlBBY0ZLUHNLQmdRT0dmRFdSc3Z4bDJoSEtkR0ZhR3JselVfb0JiYi1LLUt1R2xad0pxZHF2cy1Mb1k1WGhlV0xXT183YUJn?oc=5",
+      "source": "خبرگزاری اطلس",
+      "date": "2026-10-22T17:22:53+00:00",
+      "description": "Drone Attack Hits Saudi Arabia’s King Fahd Airport in Dammam, Flight Disruptions Continue  خبرگزاری اطلس",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-22T22:07:30.273977+00:00",
+      "location": "in Dammam, Fl",
+      "category": "airport",
+      "id": "1d0f8118b2b2"
+    },
+    {
+      "title": "2 sentenced in drone drug trafficking schemes at USP Pollock - KALB | News Channel 5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjcyTllYOUE4NGkybXpGOHdBM051UEY4OVRzaTVJaTl2SDVqaW9pNnoxNm5BLVlCN0wyWEMzTmpjQlA2bVc3RDU4OUVhY2FQaUNKZzNCNHktcmJEaFdfTTB4SkJhRmw2UlZzV2FuMjdJLV9QQXgyN3p0ME1ZaHQtMlJjemlWTy0ta2F2dWVVdVI?oc=5",
+      "source": "KALB | News Channel 5",
+      "date": "2026-10-22T20:55:00+00:00",
+      "description": "2 sentenced in drone drug trafficking schemes at USP Pollock  KALB | News Channel 5",
+      "query": "drone prison",
+      "detected_at": "2026-10-22T22:07:29.742591+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "39faa0a36734"
+    },
+    {
+      "title": "'Crow' drones used in Louisiana prison drug smuggling operation, officials say - WBRZ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHNCc0I2TnJnaE1QSjdwV0xYZTRlelBOXzVOVTBhOFpqUWhWdXJpZnJjaExNMkpSbC1CZzdZS1F5WXlyczRhTUhtNm9ZYlk2bnZSaE8yMzRDOFBVeHFzdWkxeGRKN3FfbDc2RkRUT0tzSGM2UnF2a3duRmtUZU50OEtTT1FiV004X2F3S2pmanF0SUpUYXAxYnJVNGh5WEdUb3Q1eA?oc=5",
+      "source": "WBRZ",
+      "date": "2026-10-22T20:25:12+00:00",
+      "description": "'Crow' drones used in Louisiana prison drug smuggling operation, officials say  WBRZ",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-22T22:07:29.122018+00:00",
+      "location": "in Louisiana prison drug smuggling operation, of",
+      "category": "smuggling",
+      "id": "c2223415a33f"
+    },
+    {
+      "title": "Texas woman sentenced for smuggling drugs into prison using bird-shaped drone - KLFY.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZjdmLUc0WlRONzkzTW82OHZiTmpmQ3BSOFpWRTIyWWc2S2szVERibnd1dFZnRmg4N1NqMmxzWUgzTEdnNDlQM1B1TjBNM2hGdFN3TzdDcllfSlZoX0sybVVQRkVZWXdFYVBxSzlKbmZMWnJJaFh5cmZJa3NPSV80R3BZSTlrOG1XT0xYUUN2UERldWpqREE3eU1RQ0UwaUFSazVLRUZNMFc4RXB1WHfSAbMBQVVfeXFMTURKMEY5YzlWVE8tOEp1OXE4NGsyTmZNYVZxcTc3anBjeDl6YUhnd1VqR0pMckRaWHpBdEw2NkpSOXFqTnlkR2RtTVQ4MnozVHltMnc0bzJHYmtyNXdndlpFYkdKY1lIcDJDTEo5ajhhUzlKbTh3bFJHS2FzcGhLMmh3OHhqYkx0XzN6dTRhUFI5cm9EN0N2TmM5djhibWJvN21zV2FTV2cxNGNNMm1xbzlaUEE?oc=5",
+      "source": "KLFY.com",
+      "date": "2026-10-22T20:47:22+00:00",
+      "description": "Texas woman sentenced for smuggling drugs into prison using bird-shaped drone  KLFY.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-22T22:07:29.122018+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "f33046a1e86f"
+    },
+    {
+      "title": "Three arrested in Reno duplex squatting case; all booked into Washoe County Jail - KRXI2",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGFlbWQwUXhzck5aeVEtdXJhMDFPME1FbHNvek1UQ1JZOF9rd3BmSlZUMHRKTWV2ckh0cVl4bVFZNEthVFNERUQ4OXJrbGdnbnhXeW9MOTkwTmJPNkhQRjJZYWVvNDdpaVp1UkFUUlBCSDB1clFQRXA5UjFOdXpLQXBsUy1FWklKOHloUm5GbnQ5d2RiTGg1RlRMUTMyMjl5aXFLUUFyam1hOUludGlB?oc=5",
+      "source": "KRXI2",
+      "date": "2026-10-22T16:02:39+00:00",
+      "description": "Three arrested in Reno duplex squatting case; all booked into Washoe County Jail  KRXI2",
+      "query": "drone arrest",
+      "detected_at": "2026-10-22T22:07:28.578160+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "850d7bc78a96"
+    },
+    {
       "title": "Leipzig Airport security breach raises fears of Russian sabotage in Europe - Travel Tomorrow",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3h5Y0o0YXFjYk9ZYUNfeTc4blExdWEtWVIxQVI2VEZUaFJ2dVVOeEZqcGtDczVucHlCUnNjZWFFejdYQkhjVDdxYmhvS1pSa0lwVjZOYTJyMV91MTFOZ0k3cEtRc0tnY3JReFFGeTcwei04eG51R3dzaVQ5ZmlhMXhZZ3VhUUFINTVNVXRYWGhaaHNnNk1QMkh6XzZHSUdvVUxlZQ?oc=5",
       "source": "Travel Tomorrow",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "security",
       "id": "13b97879318d"
-    },
-    {
-      "title": "No Ideology Required: Drones and the New Domestic Extremist Threat - smallwarsjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmdScGxPZGtXZnVBdV9ibTg4ZFJfekdFcUpJc1JiZVFWMHhSdWRUSUhuWFZnbDZLT21sTWtxeHVXZDE0anpLazZOVzRhX3FHV21xam1IV0Q5TkNzVnBZc3JqN2l3dENtTmp0MnNkQVNheUN6TUJDMEtsV0hzcDZBMTFCakkySVlBQWFKUU45RTYxNkdVZVRsYW40Wnd5TUNiWmpFbWJHbG1qQQ?oc=5",
-      "source": "smallwarsjournal.com",
-      "date": "2026-09-21T06:04:55+00:00",
-      "description": "No Ideology Required: Drones and the New Domestic Extremist Threat  smallwarsjournal.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-21T16:13:39.223751+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "4219a035ff29"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-09-20T21:01:08+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-21T16:13:39.223751+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "55ad74889cf9"
-    },
-    {
-      "title": "DJI drone Bluetooth flaw puts 16 models at risk of disruption - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOExGanZ0VE1ndVRFZEM1UXQ3ek5rV0tGd21WRDI5Zl9JRGZhdTJxQWRHNzM4M2hiQ2NIakpfN2o3M09CS3BxRWE1VmZzbVFhbm9lMXJ6SE45TXJ3MFQ2TmVQM2kwNTc3enJ2TVFyYzBJUTY4ajg3aHVhWlI0Q3BJbDlPblhyVHVma05PVUF0VkdxQQ?oc=5",
-      "source": "Cybernews",
-      "date": "2026-09-21T13:33:11+00:00",
-      "description": "DJI drone Bluetooth flaw puts 16 models at risk of disruption  Cybernews",
-      "query": "drone security breach",
-      "detected_at": "2026-09-21T16:13:38.430315+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "3ce91b49dd60"
-    },
-    {
-      "title": "Russia's Medvedev says European countries 'need to shut up' over drone crash in Romania - Ednews.net",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm50cDBJWXdaSUk1aWE0ZmxTQmJ1MWdtcGJmaEt6VXdJcWdVR3JwR2FheENDdWh2X1JYQkxPbTdMNEVUTWMwaGpXZG1SQXhfRzN5UlVwRE1aWHhBQWhrVEo2WGFfQ1JZUmVtQjlnT2l5TnFyY1U1YU1xblF4XzEzeXpiaGdjU0JDSlNha3k4Z1dzNnlMWVliLTZ1RGNpd2JSR203S05xM0psRjl4OWI0?oc=5",
-      "source": "Ednews.net",
-      "date": "2026-09-20T23:43:36+00:00",
-      "description": "Russia's Medvedev says European countries 'need to shut up' over drone crash in Romania  Ednews.net",
-      "query": "drone crash",
-      "detected_at": "2026-09-21T16:13:36.858721+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "86d6f031a38d"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: airlines face delays as British Airways announces plans to restart regional routes - Condé Nast Traveller India",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNajl1OC03b09aQUw0VzIxV29xLUZqRmFSVWhRNzZ6WFNiOG5aTFpQaFR2VUhNM2RMMEUzWjJlN0lBYkc1Y1dja3J3ZXczU244RmhzZDd6Y0xycnVzQmxFZWxPLUdsaFhPQWY5S2Q1RmFBXzFhX3lrbkU1SF81NWdzenc2V29zeHlFWU0tc1JGc2lRVVk2UWswbDNGUWJ0M2I2NF9SNEswM0tkQnJpNG55dDM2RjhDVDJkSHprUGQ1eFNTc2YzTGl2cXhMQWs?oc=5",
-      "source": "Condé Nast Traveller India",
-      "date": "2026-09-21T08:30:00+00:00",
-      "description": "Dubai and Middle East flight disruption: airlines face delays as British Airways announces plans to restart regional routes  Condé Nast Traveller India",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-21T16:13:36.136670+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "6442f443aef2"
-    },
-    {
-      "title": "More Than 400 Flights Delayed at Moscow's Four Airports After Drone Attack - airwaysmag.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnR0ekhWdVR3OXJxeTZ5TEg5bDR4blgyQm9DcjRXVjRPckVKN2taQzZEU2N5WThoMUMxeEFkMUdGV3BldERsWnM3TnZkX0V3NDZZWVZUZG1qektMOHhvd2dNYWFmUjdBZ1l0SmdfeGZ1My1kN1hvMk5OdndyZzBycw?oc=5",
-      "source": "airwaysmag.com",
-      "date": "2026-09-20T15:14:15+00:00",
-      "description": "More Than 400 Flights Delayed at Moscow's Four Airports After Drone Attack  airwaysmag.com",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-21T16:13:36.136670+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "f9bca8a27fd6"
     }
   ],
-  "last_updated": "2026-10-22T18:19:18.937776+00:00",
+  "last_updated": "2026-10-22T22:07:33.690069+00:00",
   "total_count": 1000
 }
