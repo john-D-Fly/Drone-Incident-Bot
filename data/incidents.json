@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "French Navy Reports Drone Incursion During Harbor-Protection Exercises - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDFSSjgxb0k1c1lrZHU4OThUTHcwVXZyZUxFNXFCUkcwOVhOMkotV3dtNTF2TW12UlFEamc1T3hlS08zaVMzNmgteVhXcGE3d1lBX1ljVE1SV1E3Sk1ndm9JWVNTZVk5RUx1OHVreTJIOUxsYUZsS2oyTU9DMjN4OGdROGQyRmNfUGZIc2lnc05zSGdCTE9lTWhZc3hra2VFcHV4X2tlZC14Vkh2S3c?oc=5",
+      "source": "The Maritime Executive",
+      "date": "2026-10-22T01:43:28+00:00",
+      "description": "French Navy Reports Drone Incursion During Harbor-Protection Exercises  The Maritime Executive",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-22T07:09:34.850308+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "52b44c5c3a1c"
+    },
+    {
+      "title": "McDonald’s drone drop at Quebec maximum-security prison highlights contraband risks - NanaimoNewsNOW",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdERzR2ljNF9MWW1iZlhFeVBzV0NzTjBTUXlTdjlHYm5EQWVzY1JWYjQtU1MxTUc5bnQ5ZGpRbTNDZ2d5S2JpWkYzdWdYU2lFdU5Tc2VDcHJZVkVqby0wWjdtNGFLQ2FPZFdWQlFJZmF4QmlkelozNjUxOGN3QnM3LWIybE1JcEs2R2o4REZkNTB5eTROR1V5QzFaWTNMZGwtdkxhb0tiR2VoUTVSMTZlRVJHMDM0NFpPOEpiN0Z3?oc=5",
+      "source": "NanaimoNewsNOW",
+      "date": "2026-10-20T21:06:17+00:00",
+      "description": "McDonald’s drone drop at Quebec maximum-security prison highlights contraband risks  NanaimoNewsNOW",
+      "query": "drone prison",
+      "detected_at": "2026-10-22T07:09:31.476831+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "85815c40c2e0"
+    },
+    {
+      "title": "Kent Police arrest man in alleged DV case with help of drone - Kent Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObEZEelpERUItMzFpNkJpZVJCWGRlR0U3eHhZcFIwWjZEcWFVOGItX3lsYlp6SVVHQzVHWFpfOXVjcFFLQlpJbTFxNkc2djRPYkM4MDNPWHpsMVFnYTRITzBWVDAwaE5xZ1lDakZoRUVncFVGZUtvSE5EbVJkcFlIaVdHNHlpcVVoT3ZnbUVIT3pXbVVWSXJVNnRJWERnTnNtOWE4?oc=5",
+      "source": "Kent Reporter",
+      "date": "2026-10-21T20:08:32+00:00",
+      "description": "Kent Police arrest man in alleged DV case with help of drone  Kent Reporter",
+      "query": "drone arrest",
+      "detected_at": "2026-10-22T07:09:30.491356+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "c503e5cbd340"
+    },
+    {
+      "title": "IRGC Claims It Downed US MQ-9 Drone Over Strait of Hormuz - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JT0VvSjNWT0tMTFlIQTIweWx4ZENyWjZwWlNKYkpzMXgwblEyQ19BS044eW05M3ZSWHZhZDQ0RzE4bVJ0a2F0R0pGdGs0QXdKNlBjQmxB?oc=5",
+      "source": "Kurdistan24",
+      "date": "2026-10-20T09:56:00+00:00",
+      "description": "IRGC Claims It Downed US MQ-9 Drone Over Strait of Hormuz  Kurdistan24",
+      "query": "drone incident",
+      "detected_at": "2026-10-22T07:09:29.778348+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "5a71e6136de6"
+    },
+    {
+      "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T06:03:00+00:00",
+      "description": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-10-22T07:09:29.778348+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a9c73581619f"
+    },
+    {
       "title": "NY man charged with animal cruelty for illegal capture of great white shark off Cape Cod - NBC Boston",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb0RiT0NfMDlzWWxBc2oycDZSVkFXYld3VFdSM2ZrVXBMTENCcG54WUJWTXNfRmNPSDZEU2VZTWZJZTRldWZoZ0dMMFMwSUxsa0FXZWNJeWVMbFlSRFB0NmVmNFlhMm5YdE4xYzZwTDc3RmJEblI2WGdKMWl5QVFLdzdCamhrQzVQWUVidC13NWVMeGNMcndxQU00UGg5Snp0X1NYSlhaRkdzaXY0QmNnQUhTZjhRUjRyM3d2RmxaSFBvQ3Z5bDFsNTJHNTM5eDYw0gHYAUFVX3lxTFBQX0xqa2tzSGs3WktkcF8zMXZEVXRYSXcyVG91WElsOThtN2k1eU1kWlBpUVhYQ2M5cFJYdllWMC1wSWt0TXJhYXlhU1Y3cmRrdWhfdXJrMWFNOGdYNmI1d1BSMUZKOHhwakNKSEtpclM1Z005UllIVzBBZUhrRm9KclBJR0s2MFcwbWc5Q2xZeEtWZGJjNExHWVgtQ1ZmMTF2Q203cHR4ODZwWUtONlNnOVJmLXp5X3RUZFItYjlSV294UG5EOGJlMUt4WmJtcmRzZWFiUDExdg?oc=5",
       "source": "NBC Boston",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "146ce1fbb2b3"
-    },
-    {
-      "title": "One person still in hospital after prison overdoses - RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWTlhVzVuLXhiLVozeWREb09oUEZNNVhHQ3hXTlFsYzdjaWhnbkdqcnFmVGpuTHU1U1Rub0JSdi1VMXdpbkVpNzZXSG5NbzRIQ0I3RDVnSkpvU2JwdzRuTGFDOV82NENEQ2RvV1JwczdJWXJDUXQzV1BEY2ZvVmthX293?oc=5",
-      "source": "RTE.ie",
-      "date": "2026-09-20T17:21:54+00:00",
-      "description": "One person still in hospital after prison overdoses  RTE.ie",
-      "query": "drone prison",
-      "detected_at": "2026-09-21T09:38:45.171381+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "a0aafe7cefc6"
-    },
-    {
-      "title": "The drone threat to internal security - Escudo Digital",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGhHUFEwVmh4ZXdtX1BZbTh1MDNJSWgwb1kyTlVZcDJQak96T0J4NFo3OTRvckc1dVJmYzhGai1hSVFISTRscWdCMWlQMHY2WTIzeVJ5eVExVmJqeHhleVFBQ2tLdng5dzAtU1RIY3NnNkRNWno4YXRHeU50TjdwejdNd0JueWpBS2lTSw?oc=5",
-      "source": "Escudo Digital",
-      "date": "2026-09-21T05:05:01+00:00",
-      "description": "The drone threat to internal security  Escudo Digital",
-      "query": "drone incident",
-      "detected_at": "2026-09-21T09:38:43.293416+00:00",
-      "location": "Unknown",
-      "category": "terrorism",
-      "id": "5658acd1d70c"
-    },
-    {
-      "title": "Luxembourg Airport Flights Suspended Over Unauthorized Drones - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHFvbjFLa3pFUzQ2clhUQ3NqMmdENDYxUEpqNXVkdzVESFFxN2cyUGE1QTkzMFV4Z1VUb05HOG10d2ZhRnRVcnNwVE5vaDJveUdRSnlPRG5kQVNGRS1SMTNEaG9hODJtdTBEQXFvMUtXbXlneVA3N3NXTkJqc2ZVQjdZZTllMXVXakZ2VVR5QVRWTzFTT3cwSm5oZHJLYmJqMkNHczRwcVBCUQ?oc=5",
-      "source": "IndexBox",
-      "date": "2026-09-19T10:12:24+00:00",
-      "description": "Luxembourg Airport Flights Suspended Over Unauthorized Drones - News and Statistics  IndexBox",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-21T03:35:44.359295+00:00",
-      "location": "Unknown",
-      "category": "airport",
-      "id": "1513a603a44b"
-    },
-    {
-      "title": "Amazon Drones Drop Packages Where State Law Calls It a Crime - DroneXL",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRGtmMVB0cHNCSS1wVDVNTkF6cDYyXy1rQkFsSU9ueVZacEllQ1FSNVVlUWFxWTUxalFOLU45QmRncDlTLTdJZnBFdVZFMDdTbE1abHhpZDJZMmtZSVV2ZVRELVZmYmRqeDFIOGV3bW9oeTZCRzBiTE1wR01adXBfSlhtcEtEOWZLR0ZZ?oc=5",
-      "source": "DroneXL",
-      "date": "2026-09-20T19:05:00+00:00",
-      "description": "Amazon Drones Drop Packages Where State Law Calls It a Crime  DroneXL",
-      "query": "drone illegal",
-      "detected_at": "2026-09-21T03:35:42.206273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e4ace9e8a958"
-    },
-    {
-      "title": "Cleveland Police Drone Policy Bans What Ohio's New Law Still Allows - DroneXL",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMTd0SERGaXRRUmZrOHhHdUdNLVFjQ3VDZS1IX3N3d1dtWERQVkxPaVBCNGpqWk1majRhSEhIV3daeFc4aE5HV1pnZGtZTHV6dWR5RFpONENFdFVaYTIyNVl3TDRNS1JjQkNQa1JRb1RyZnBRUTAtdmMxSjc?oc=5",
-      "source": "DroneXL",
-      "date": "2026-09-20T22:33:00+00:00",
-      "description": "Cleveland Police Drone Policy Bans What Ohio's New Law Still Allows  DroneXL",
-      "query": "drone illegal",
-      "detected_at": "2026-09-21T03:35:42.206273+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "910c0fe47f26"
     }
   ],
-  "last_updated": "2026-10-22T01:15:30.699882+00:00",
+  "last_updated": "2026-10-22T07:09:35.392971+00:00",
   "total_count": 1000
 }
