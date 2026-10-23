@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "Over the past 48 hours, a series of drone-related incidents have emerged across various regions. Significant developments include unauthorized drone activities at the U.S.-Mexico border, leading to new security policies restricting drone use due to cartel threats. Additionally, there were notable drone incidents in Canada and the U.S. involving prison drops and smuggling operations, highlighting growing concerns about contraband delivery via drones. In Europe, conversations are ongoing regarding the empowerment of utility companies to neutralize unauthorized drones. Meanwhile, drone strikes in Ukraine and Pakistan have drawn attention to ongoing military engagements. Overall, a pattern is evident as authorities seek to curtail illicit drone use while grappling with national security implications.",
+  "totals": {
+    "security": 4,
+    "other": 21,
+    "smuggling": 11,
+    "airport": 2,
+    "terrorism": 2,
+    "arrest": 8,
+    "total_incidents": 49,
+    "by_category": {
+      "airport": 2,
+      "arrest": 7,
+      "other": 19,
+      "security": 3,
+      "smuggling": 16,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 9,
+      "drone crash": 2,
+      "drone illegal": 4,
+      "drone incident": 12,
+      "drone prison": 6,
+      "drone security breach": 1,
+      "drone smuggling": 7,
+      "drone terrorism": 3,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "unauthorized drone activity",
+      "rationale": "Multiple incidents highlighting security breaches due to unauthorized drone use.",
+      "incident_ids": [
+        "e940dc7b7b3b",
+        "7fc00259b554",
+        "b02b92a63f6a",
+        "c6ae71f24522"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Incidents indicating the use of drones for smuggling contraband into prisons.",
+      "incident_ids": [
+        "48e9151eee53",
+        "f4606fa45b18",
+        "66c225806e54",
+        "85815c40c2e0",
+        "3bda512ddd9c",
+        "c503e5cbd340"
+      ]
+    },
+    {
+      "topic": "drone incidents related to prison security",
+      "rationale": "Prison-related drone incidents show attempts to bypass security protocols.",
+      "incident_ids": [
+        "d8e8992ae97f",
+        "af75e9df6ef5",
+        "f4606fa45b18",
+        "c2223415a33f"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e940dc7b7b3b",
+      "headline": "Trump administration restricts drone activity along U.S.-Mexico border",
+      "one_sentence": "The Trump administration has implemented restrictions on drone flights along the U.S.-Mexico border due to suspected cartel activity.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "48e9151eee53",
+      "headline": "Drone breaches Canadian prison after $6M plan",
+      "one_sentence": "A drone successfully delivered contraband to a Canadian prison, raising security alarm.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "f4606fa45b18",
+      "headline": "'Crow' drones used in Louisiana prison drug smuggling operation",
+      "one_sentence": "Officials reported the use of specialized drones to smuggle drugs into an operation in a Louisiana prison.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "7fc00259b554",
+      "headline": "US restricts drone flights along Mexican border, citing cartel threats",
+      "one_sentence": "New U.S. policy limits drone flights due to identified threats from drug cartels.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "71059c7a8c3b",
+      "headline": "Europe weighs giving utilities more powers to bring down drones",
+      "one_sentence": "European authorities are considering legislation to grant utilities enhanced capabilities to manage unauthorized drone activity.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "twitter": "Recent drone incidents highlight growing security risks, especially around prisons and borders. Authorities are tightening regulations.",
+    "linkedin": "The latest 48 hours revealed critical drone incidents emphasizing risks related to smuggling, unauthorized flights, and evolving legislation across borders."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-23"
+}
