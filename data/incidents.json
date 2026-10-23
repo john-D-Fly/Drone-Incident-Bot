@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Trump administration restricts drone activity along U.S.-Mexico border - Texarkana Gazette",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjRuWklSWnVDdnNyRVB6SW5xUVVzVDlKTFhUR2VkRWVzLTR0RGYtdUFGSktFZUdnbnlUS0h5NGV5XzVfclNtZ2txQURYWHgtc3Q0Y1NmRUxpdWhqMEdUeThMQ1R2dGFQRVF1R3RjU09CVVJkRTNoMmE4cm1pcE95NzNzUFBCcG1vYlBLNGtiakhhYUM2X2FmbllENUw?oc=5",
+      "source": "Texarkana Gazette",
+      "date": "2026-10-23T03:00:00+00:00",
+      "description": "Trump administration restricts drone activity along U.S.-Mexico border  Texarkana Gazette",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-23T13:06:20.543424+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "e940dc7b7b3b"
+    },
+    {
+      "title": "UK drone container receives safety recommendation for radioactive medical cargo - AirMed&Rescue",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWV0Z19lSzktbVNUalNLRDdOMGN5cExyVV9UUnhpcHB3UnNvbUxVR2xTWGFTdTYtYW5fcjA3ZkhwbW1ZWlpvOHFEZTFKWUxHTlJFcEU2ckNsU0lsR2hnYlU1OTVHc2RPbkVULV9xeDZUQ0RYeVhoamZYQUQ1Wmg5eS1iRGRkZWY3SVBwSGhadmJKSHQ2ZzIxSnAxY3ctdmRIZVZVMzVrOUNQZEtkVjdGcExEemZBVEQ1MzBz?oc=5",
+      "source": "AirMed&Rescue",
+      "date": "2026-10-23T09:05:13+00:00",
+      "description": "UK drone container receives safety recommendation for radioactive medical cargo  AirMed&Rescue",
+      "query": "drone crash",
+      "detected_at": "2026-10-23T13:06:18.194807+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d8e8992ae97f"
+    },
+    {
+      "title": "Drone breaches Canadian prison after $6M plan - Money.ca",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFhSa0NyRVlUa1NNVGhXTHBQQko0cDYwdTBNeTdiTVB3cmRnTDV5YWJmWXc3WmRRZE56dVFZMzZqbXF2Z2V5VVM4TURSVGFjMkRqcXZoZ1UxMTdCUzljV3pkTV84dHZmaGxUWUJvRlBXcVdHNm1sVHB6VzNxVFZPQ3JDZ0RoZG1a?oc=5",
+      "source": "Money.ca",
+      "date": "2026-10-23T08:36:52+00:00",
+      "description": "Drone breaches Canadian prison after $6M plan  Money.ca",
+      "query": "drone prison",
+      "detected_at": "2026-10-23T13:06:16.727013+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "48e9151eee53"
+    },
+    {
+      "title": "'Crow' drones used in Louisiana prison drug smuggling operation, officials say - WBRZ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHNCc0I2TnJnaE1QSjdwV0xYZTRlelBOXzVOVTBhOFpqUWhWdXJpZnJjaExNMkpSbC1CZzdZS1F5WXlyczRhTUhtNm9ZYlk2bnZSaE8yMzRDOFBVeHFzdWkxeGRKN3FfbDc2RkRUT0tzSGM2UnF2a3duRmtUZU50OEtTT1FiV004X2F3S2pmanF0SUpUYXAxYnJVNGh5WEdUb3Q1eA?oc=5",
+      "source": "WBRZ",
+      "date": "2026-10-22T20:25:07+00:00",
+      "description": "'Crow' drones used in Louisiana prison drug smuggling operation, officials say  WBRZ",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-23T13:06:07.910709+00:00",
+      "location": "in Louisiana prison drug smuggling operation, of",
+      "category": "smuggling",
+      "id": "f4606fa45b18"
+    },
+    {
+      "title": "No-one in armed forces will be disciplined over Rēzekne drone incident / Article - Latvian Public Media",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWswX1lURDVydWQxV3AxMkNwVy1ZMVl1emplOGc2cmV1eXlCd0s1NFhrQWVJRlhlMWpYQUFXRlJseEFBd3FuZVlpQy02ajB4Q1NfcHNxLW9rVWVTNTdtZ3RwY09aVkFWRlBfTnZHVGZKM2w2SlVQVXlpQmpnTjN2RUQxSlpNWF93c2pWWkJ0RnBncnpwNURmRDdheWVlX0JCc2VrLXhoYVo3QjQzWEVGVTE2bDYyUjRvYUZaSWdZZmtRT1ROb0l5UmJxOHZFQQ?oc=5",
+      "source": "Latvian Public Media",
+      "date": "2026-10-23T09:56:47+00:00",
+      "description": "No-one in armed forces will be disciplined over Rēzekne drone incident / Article  Latvian Public Media",
+      "query": "drone incident",
+      "detected_at": "2026-10-23T13:06:06.631081+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "af75e9df6ef5"
+    },
+    {
+      "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T16:02:04+00:00",
+      "description": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones  Reuters",
+      "query": "drone incident",
+      "detected_at": "2026-10-23T13:06:06.631081+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "71059c7a8c3b"
+    },
+    {
+      "title": "Romania's President: Russia Escalating the War After Drone Incident Near Constanța - Novinite.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3BReXB6YkM5SGdzSG01cTBwU0lmSFZKMi14ekpaSmNSbGZPa3MwU3pIUXd1bFRtN2lvRVVqa1Q4NmVmQUkxUFZ0cVpVd1JieHpsQVlsOGg1Sk1aSFF3bHlPUXVSNWFnN3FPNmpkTUFJNzhONzJQbFJuVTU1dW5HN3dGRElUa3VpSkJrby0tX05IemZmZ2NQNjBNX2RrVl9GYWhQbWhHVFVtNnlTSWFZQWZYTnN4OGk2Zzd4c3FFcE5DNVd6WDNSaF9NN3E?oc=5",
+      "source": "Novinite.com",
+      "date": "2026-10-23T11:19:09+00:00",
+      "description": "Romania's President: Russia Escalating the War After Drone Incident Near Constanța  Novinite.com",
+      "query": "drone incident",
+      "detected_at": "2026-10-23T13:06:06.631081+00:00",
+      "location": "Near Constanța",
+      "category": "other",
+      "id": "27e942cbca29"
+    },
+    {
       "title": "Russia strikes Ukraine with 176 drones overnight - Air defense's work reported - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVkyYlVweDY4VGU0TVV2MThwZXBmX2QtOHZvOE1oYk84WklqNU90eFgxME1iV1hNaUxTbXhlbm9oZjh4MjFyVGpQNmkyRVZRd01ncGl6UlFCdHlBa0JGeWRacDNNSDlENmFBU3RjNnRTWXNxVTFyZjBsTUVQN09CWDlwaUdmYU45NnA2SWExbHgySG12TEpKWWc5WGM?oc=5",
       "source": "RBC-Ukraine",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "0d5564d174df"
-    },
-    {
-      "title": "Luxembourg Deploys Additional Detection Assets After Drone Sightings - The Defense Watch",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDZEb2FvR2R5VDhpVzU1SEpEUmpadG9sSF9DcVd3OHZfQlBucnVjWmgwVFZHdUUySHZoRFdWUkZpQUZQM3RELS1kUHM0aVdmZVJ1VFJjMFh2RDlWc1JBSDNTWjBLRnVCTWFyOWFPMEsxQWJjdmtpLTNIZFdZWjFOaVpyLVNVUi1wZjZPZ1cxdw?oc=5",
-      "source": "The Defense Watch",
-      "date": "2026-09-21T09:11:00+00:00",
-      "description": "Luxembourg Deploys Additional Detection Assets After Drone Sightings  The Defense Watch",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-22T03:34:17.462508+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3cdf2dd87596"
-    },
-    {
-      "title": "Luxembourg passengers describe being stranded for hours amid drone disruption - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmdfc2xsYVVISEN5aGVETVJjTkVWUEhkMURqWE50d2pfekhMVkhQRmRiVzBXMF9OZW1UdU5ZUnFUb1RvcGQ5U05NWUdoTWF1S0Y1aTN3X3VzREpzaGlWV3FKTEpkZzhBb1V5S0k0b3VyV01QTUh5RjZvOFdtSFVudUVmeTNHWEFjWGxLWnhYdENZemdxNXJOZnNNaDFPTXNhd1AycXBwZ1BOTlluUGEyRnUteDBfQnNfZUE0ZGVlVzBoai1CeHc?oc=5",
-      "source": "Luxembourg Times",
-      "date": "2026-09-22T00:00:00+00:00",
-      "description": "Luxembourg passengers describe being stranded for hours amid drone disruption  Luxembourg Times",
-      "query": "drone airport disruption",
-      "detected_at": "2026-09-22T03:34:17.462508+00:00",
-      "location": "Unknown",
-      "category": "interference",
-      "id": "c18747e2793c"
-    },
-    {
-      "title": "Hamilton County Sheriff’s Office uses drone to arrest 2 teens in cornfield - KSNB",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0pfSkZlZjRkTlJsNTYwRXNhQ0VqRjFuRldONmZ5Z09RRVJaclFDV1hHOVZPMmJtU3JnU0RERmpnbzc5c1RIbUZuVF9lRXlpMUszSnR5dWtDa0JxeUVQbUJtV1F3cFlONUVhMUFvR0lPMnZuYVJrUjdNVGxOUnRjV2syTnVxbDN6blU3WXliTVJSTDZRZEUtZnNISXdMdzBfNUxIMzMydDA1ZGFuSEZOdUJ3?oc=5",
-      "source": "KSNB",
-      "date": "2026-09-21T00:41:36+00:00",
-      "description": "Hamilton County Sheriff’s Office uses drone to arrest 2 teens in cornfield  KSNB",
-      "query": "drone arrest",
-      "detected_at": "2026-09-22T03:34:15.654780+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e21d0b346e1c"
-    },
-    {
-      "title": "Ukraine: Russia launched 172 drones overnight - breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUZubkNzSkgzYjhGdDAxc1FXT2FGbDZiT1J1blgxc2tGNTRtVkhHdk54Slc4YkVWQmRCQjdzYjRFc255MUdpV0t6RUt6bVNRVjhQbGdwRlN3NnJGMGV2TUlpMjRDMWpjMldfU2ZpTzN6U180NGhWejAzU1A4cHpUSW5VTlg0SWUwakxPcHhWaWJFQU41?oc=5",
-      "source": "breakingthenews.net",
-      "date": "2026-09-21T05:33:00+00:00",
-      "description": "Ukraine: Russia launched 172 drones overnight  breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-21T23:51:09.468865+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "ff5c6eef45d5"
-    },
-    {
-      "title": "Hamilton County Sheriff’s Office uses drone to arrest 2 teens in cornfield - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1F3dkhQS2RLV2NEZkdhOWxYcWdOUlZFbWp5QjhCUjlqb3ZFSl9aRTViZDRzSUJzZlFsN0JSY2NjXzlHQjA3S09TYlkzek9jcFhWbng0UWZ0NEp5bmpLdG05ek9Wa0Vic01SbVY4UlY2Q2ZzZHhncmhvYlpyRVI3eXh0R1JYbG83RVdlWWltN0d0akkzS1Q0WXRyWlRDaXJPSzFweXJ0X0daQ1lqeEE?oc=5",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "date": "2026-09-21T00:42:10+00:00",
-      "description": "Hamilton County Sheriff’s Office uses drone to arrest 2 teens in cornfield  KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "query": "drone arrest",
-      "detected_at": "2026-09-21T23:51:05.186334+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "b1f8cb5de5ab"
-    },
-    {
-      "title": "Hamilton County Sheriff’s Office uses drone with infrared, speaker to arrest 2 teens in cornfield - KSNB",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYXlXS0x6X2FTV0d2cXpHeEs0bmRuMkV5bFlLZGpCS08tSnA3OFNCWjNCQzB4ZHZRQU5EUlNFei13LXowaDZucjA0ZHZsRDVDZVltLU41enVmTFFWU3BwVS1kTU1yUlgwVzJmZlFuek1SVS1qaHVFSGhibzQ5RWZYbU4wb1l0RlBEX1lhN0RBRVA5c0JSVGFwYzVGZDVCOXNyY2R2aWVibHByZEh0WHpBUmxkRi1XbXY1UWo5anQ0OGFieVVwMjJj0gHbAUFVX3lxTE5lLWc3SXBqWWpNRzFhaDFTNXdQUnVnbUVLbW1iMEhfTUw2TXd5aTJjb21XLWY5NlpYNldMM3k3TnhhakJiTkdLeTFhQk9jbzR6U2N2NmFTanJ4eG5PUnVDRUtUaXc5S1BEZm8xeGZGS25DNzJBaHFBTHU1Q1pDUmQwbHc2WENCeEpzTmtXUFZMOUtpenRBVVhGX2NIYm1jWFdVeUdYQjdjMEFRbHNpWjZpMVA4dmNLYTYyT0ctTlpxMUpXRVRGcjBCQlZGbGk4ckd3MFRoelZZTVlSRQ?oc=5",
-      "source": "KSNB",
-      "date": "2026-09-21T21:01:00+00:00",
-      "description": "Hamilton County Sheriff’s Office uses drone with infrared, speaker to arrest 2 teens in cornfield  KSNB",
-      "query": "drone arrest",
-      "detected_at": "2026-09-21T23:51:05.186334+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "f811de5d67b4"
-    },
-    {
-      "title": "Flights Briefly Paused At DCA Due To Unauthorized Drone - Aero-News.net",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3dqUTNXVkY1YnJvYzFfNTVuWXk2ZzVMcGFjWEZINWQzZW1Fc1MyQkloVE0yRnZfeVlTQ3lQVW9qQ3JXaDdCaElneG5WQWJxd0JGc3JOWGZQUmpXVVFHZVNjbXdYQ0I2VXpZNnRnN0tXUHkxcENnb0ZKNTNucHRsMlBpZDBfd200cW03eWdTQnJoTnVSdUFscFFIN09nRUI5bFE?oc=5",
-      "source": "Aero-News.net",
-      "date": "2026-09-21T11:36:51+00:00",
-      "description": "Flights Briefly Paused At DCA Due To Unauthorized Drone  Aero-News.net",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-21T20:47:46.089876+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "6b82530763b6"
     }
   ],
-  "last_updated": "2026-10-23T07:01:12.375433+00:00",
+  "last_updated": "2026-10-23T13:06:21.077051+00:00",
   "total_count": 1000
 }
