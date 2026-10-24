@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Ukrainian forces strike Oryol electronics plant, General Staff confirms, drone attacks shut down Moscow airports - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbU11VjVWM21OOG02T05Fc0hlQUROMEVqNDV5b1lTRkdscFpkRVFHQ2RLdW9VT0duX2hUTEttNURGYjNQbFhHNnd4SXpfazFWUVltcFUtaGdlV2ZrSGpEVWxXS3FCQzl3dzRidENoOTladG80VC1xOFJjZ2JleFhBc3N6UVJNYmU4aXpfazlTS1Z3c0YwcmJqXzJQQ0s5dlJGS3VHQ1ZsM0lzektVRHEwbm9rTWRlUzFZX3RNUEZR?oc=5",
+      "source": "The Kyiv Independent",
+      "date": "2026-10-24T08:56:12+00:00",
+      "description": "Ukrainian forces strike Oryol electronics plant, General Staff confirms, drone attacks shut down Moscow airports  The Kyiv Independent",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-24T10:22:31.427770+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "0cd33ea4fbdd"
+    },
+    {
+      "title": "Russian Geran-4 Crashed Near Energy Facility in Moldova - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5bThmUUJDMEQ5eDF3N21hLTMxbFpDTWYxeGRTQVFWbVcydXNMMzZLbmNncTFUM0lTaEhnUGJJcGtCVlV0N1pXMS1Nb3N6MmhEY3AzUGREcHV4T3JjcTNLc0RjczZNenVxMC11TGd4dHBUcHhnanF2X25FMmlCUQ?oc=5",
+      "source": "Мілітарний",
+      "date": "2026-10-24T07:36:29+00:00",
+      "description": "Russian Geran-4 Crashed Near Energy Facility in Moldova  Мілітарний",
+      "query": "drone crash",
+      "detected_at": "2026-10-24T10:22:29.570119+00:00",
+      "location": "Near Energy Facility in Moldova",
+      "category": "crash",
+      "id": "d7dcc5ac4d11"
+    },
+    {
+      "title": "Moscow's Sheremetyevo Airport Resumes Operations After Ukrainian Drone Threat - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmI1d0ozNml3RlRqbk9jZmNIVXZvZFFNYnFQUjZtM3ZNcWJrS0J6SXp5dTFtZU5kcmhDSXo1SXlZeWVjelJsdFBxTm56LTduUlNwbDBZWTFscF9qOTlYalcxOVMtV3g4MWozb0tCeE53a3dZQ21TOU12WlQySWt6Z3FKQW52NjFrQnZWdVlibXhhWEpmX3lkUzlndDRSbDY2c0loQUNQM0xEU3l3U2tqN05PNlJrOHRuTkZBdXNCZlJicUU?oc=5",
+      "source": "The Moscow Times",
+      "date": "2026-10-23T15:48:57+00:00",
+      "description": "Moscow's Sheremetyevo Airport Resumes Operations After Ukrainian Drone Threat  The Moscow Times",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-24T10:22:29.026855+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "dfe6c4726fc4"
+    },
+    {
+      "title": "OPP intercept possible drone drop near Beaver Creek correctional - MuskokaRegion.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEpOcjJqRl9WYkxsZUczU1pQV2s4ZVV2NlJ2Q3JOUVlkVU1COEs3N1VMeF81WjVvV3ZGTVNFOVNSYmRWNHdQZ1kzdDZzMEVHYUdRMXhCMDFIRldlRzlSMzB5cUhISjA4VkJwTkJKWGxLZ1VjbDlDM2M0UWgyYXRwN2dJY182OW9JNFYtaHoxLWpONHBldW01WmlWbWMwUGpHeGc0aGFoYXNoRWpqeTljSktSemlvbE5nekxaUGlBMWdtNkdWX0pmbGxINzdHdkFpMDlvOWw5TTQ?oc=5",
+      "source": "MuskokaRegion.com",
+      "date": "2026-10-24T10:15:00+00:00",
+      "description": "OPP intercept possible drone drop near Beaver Creek correctional  MuskokaRegion.com",
+      "query": "drone prison",
+      "detected_at": "2026-10-24T10:22:28.456551+00:00",
+      "location": "near Beaver Creek correctional",
+      "category": "other",
+      "id": "e8c99d0fdb5d"
+    },
+    {
+      "title": "Moldova Expels Russian Diplomat After Geran Drone Crash - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93T1poWUttc2pnT3ZjQjBsdjhUcVZLbWl4NmF5cHplZk5hbkU0bm95cnBTRmtISkxheGNtbnhpc2JNdFRNSmZUMmdtWQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-10-24T08:45:44+00:00",
+      "description": "Moldova Expels Russian Diplomat After Geran Drone Crash  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-10-24T10:22:26.955533+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1cc84134cae2"
+    },
+    {
       "title": "France Opens Probe Into Drone Incursions Near Naval Base - The Defense Post",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBldjFBZHpfa2RMc2t6eVV6ZjFYdm9RZWpDM2d5aVlHb3BMaVFXZUZ1TWk3M0tMR3RuRkV1b2s0aU1BTllfWC0wMWJOMGxfd21ERVE1Zk82eFl5ZmhpNnBjWjhhMENTNHFEamp4WEdNQURhRjE1TGow0gF8QVVfeXFMTWRpRkxFZjROak5lekYyQm04Sy1BeVNlemtUZVZQeklKTkZ1TmNsMk8wZGM0aGEtb2pIVDIzMEl1d0k0a0FQaldHWkxCSTVPcHNyUjdHTk1DWVlpa0dvVDEybXhYQWhwbmwxVWhxRFN2SlM0dHdHZzJCTlJycw?oc=5",
       "source": "The Defense Post",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "interference",
       "id": "8996c7291e19"
-    },
-    {
-      "title": "Patagonia Report: 5 Inches, 4 Wet Slides, & One Drone Crash - SnowBrains",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YVEFpSGtlUkpPWW1ZbWUwRnU5UEhJU2VMYWNvTEwtMmZSVm40VHBZekx3QnRZOTc5eGt2MTdzTnlyRF8xOU5wMlRHXzVoeTBkeWFHU3BMUkViS1BLbVc2aWNfZHpaWXNGRThwNW9pel8wYXV0?oc=5",
-      "source": "SnowBrains",
-      "date": "2026-09-22T22:40:38+00:00",
-      "description": "Patagonia Report: 5 Inches, 4 Wet Slides, & One Drone Crash  SnowBrains",
-      "query": "drone crash",
-      "detected_at": "2026-09-23T05:31:47.952977+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "a379eb6852b5"
-    },
-    {
-      "title": "U.S. Warns Cartels Are Building Battlefield Drone Capabilities - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdW5ZMm9OZi1FdXVXbVNnci1iVDhUWTc3U2FabzNuUmVSVHFBdlljMUY5QXVoYzdHcUFJaXNWQU9FTnh3TFRPNzcxSHlCQ1I1OXJld1BuZV9EU0xxcG94R203NXNDLXBuMUJjb0drX3NiakhWNkxuOUY3N0dZREFnaVdORGE4UjlYcWlQUTdFOWRoeHpS?oc=5",
-      "source": "Yahoo",
-      "date": "2026-09-22T18:52:11+00:00",
-      "description": "U.S. Warns Cartels Are Building Battlefield Drone Capabilities  Yahoo",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-23T05:31:46.237126+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "d17424336945"
-    },
-    {
-      "title": "Bernalillo County Sheriff’s Office up for award for arrest involving drone - KRQE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0VzTDRoRkE2bS1mYVZHTU95T1VCTHhNN0dZQl9ncVZuWFN1QWloTm5mNF9Lcy1JMnBxWm9idjA5WGttNkZTaGFCU3VMUjNGZGJxU3Y1ZjNhX3otQ19wZHNpQVVVenBKQ0Z4ak5fWnFheDB4RjI4OC1aYnRiLWtMOTVOUF84RUlFbEpDNlNfWlF3a1ZUbEJEYkdicURQQnJzTDlBTW5qaThqZkRiMVB4RNIBtgFBVV95cUxQZVZRUzY3bDR3TklLZkkyQUFQWmQ4cHZwWDBzaTZ6dmVqRk4tVmo1X1ZaTEFmenh3SkNmVC1CenVkb3VBUXdFU1E1MlNnQW5abGs5Nm80NjBXN1dVVHFndEtYa2I2bjloRGs4ZUl0Y1p2WDNuYXBEcGFyU3FfY3ZWS0ZqUlRUSlJfdVp2VnRkU3JBcml4S0xpcDgzRnN6YzRsZTZWYWd6ay10WVFJcEFMZk1zV0RNdw?oc=5",
-      "source": "KRQE",
-      "date": "2026-09-23T03:26:21+00:00",
-      "description": "Bernalillo County Sheriff’s Office up for award for arrest involving drone  KRQE",
-      "query": "drone arrest",
-      "detected_at": "2026-09-23T05:31:45.713720+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "599a0d5bbd33"
-    },
-    {
-      "title": "BKI’s new Punjab strategy: Frequent strikes, police killings, drone smuggling - FM Bharat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3pKNXVkenpmTmtnN0NydVVKa01seG5RbXpCNGVJWWxUdTBDelpyeXl5RV9DVVVIYjF5NW4zbEU4cEtLS3FmNDNMeXFkejhTQnpjbVJxb3VxTU1fN0dFMDZWU2NjWksxUjY3aU9JS2FIeGRZUXRLbmJtRWVWWmxXcXRGb2RDaE5DbEs2NXZZb0RjYUhCa1RmVFhmT2NTNlYwRnhlNGFRcmpmUzA?oc=5",
-      "source": "FM Bharat",
-      "date": "2026-09-22T09:25:48+00:00",
-      "description": "BKI’s new Punjab strategy: Frequent strikes, police killings, drone smuggling  FM Bharat",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-23T00:01:47.584365+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c98ef0cc1547"
-    },
-    {
-      "title": "Video: Why Is the Coast Guard Operating Surveillance Drones in the Great Lakes? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVZaWVlzU3BBMWFrRVEzYjNvbXZWQjNYd1dzaGNFSTU1NW5UTU5WSE82d3NwUzNYUlRvYURfY25pa0ZKQ3VYaUVacE1jTE9RQ0g5MDE1bjBPcGhBTGdUbWY1d2VpR3AxQ3dSZDU5YnFTc2NuelVQRmU0TUp5c3BkRW91OVFQTXhnTmhmU2RlNkQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-21T18:49:33+00:00",
-      "description": "Video: Why Is the Coast Guard Operating Surveillance Drones in the Great Lakes?  The New York Times",
-      "query": "drone illegal",
-      "detected_at": "2026-09-22T21:47:41.613604+00:00",
-      "location": "Unknown",
-      "category": "surveillance",
-      "id": "f285a06952aa"
     }
   ],
-  "last_updated": "2026-10-24T05:25:28.067606+00:00",
+  "last_updated": "2026-10-24T10:22:32.445230+00:00",
   "total_count": 1000
 }
