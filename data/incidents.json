@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "More than 210 flights delayed or canceled at Moscow airports amid drone attacks - The New Voice of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3YzaGR1VDVkSFRGeHpyUWwwRnF2U1JCWTFBeU54dzBfbGhMS0dLNHNaSnhLM3FrM3c5akZaNDdpUU1TZWtKak5kU3cwT3RGcWR5RE8wSUF1b3JZT1BpZjlCWGo1eTlJT3BLcE4wOVFCYjAtSFhSVWs1MnYtdGlhX2c5NU40WGdaWW9tcnZxd3g4ODRXRXBGUW9qWktGbHVPUEHSAZ4BQVVfeXFMTmJwa0xDTjZTeTJqd0E3T3hpVko5d0xsYnA5MEUxOUpsUnljSEFwMFhrcTlINEVabTh4VTJWUlVDTFVkbmJJQVFON2l3TVJMVkVNY3ZQTnpfYUFTRkVKOTJnZFZvUDFybFpQblU4aXFFeGtfT2JWSzJjdl9pWFVfdzJQbWxoYVJtX015d0hOWGd3Y25PbVl5UWdWSWlhQWc?oc=5",
+      "source": "The New Voice of Ukraine",
+      "date": "2026-10-24T16:39:00+00:00",
+      "description": "More than 210 flights delayed or canceled at Moscow airports amid drone attacks  The New Voice of Ukraine",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-24T20:18:53.580002+00:00",
+      "location": "at Moscow airport",
+      "category": "airport",
+      "id": "0618c338a871"
+    },
+    {
+      "title": "More than 210 flights in Moscow were delayed or cancelled following the restrictions - UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUVF9BeEtHTWpCQkVxRjJEdGpNb2RydldsX0VRcTgxMnB2S25NV2hqV1pWdFgwTG1xeE9tNldoWXVLdy11NEJUYWtSRWhid1pMQ2F0dXNidE1UVWdMNU14ak5LSGlka1RXVElycG03NVctaFh5ZVE?oc=5",
+      "source": "UkrMedia News",
+      "date": "2026-10-24T16:32:39+00:00",
+      "description": "More than 210 flights in Moscow were delayed or cancelled following the restrictions  UkrMedia News",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-24T20:18:53.580002+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "4e2bebc222e5"
+    },
+    {
       "title": "Drone that may have crashed on October 18 found in Latvia — LSM English - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0FLSlBBV2N6U1J6ZVBkYnBLbXFNekFMU2FkOU4xeXdHb04yQ2ZOX2t3YUZQelVtMXhjMFhzTi1haWFRZE90UzVnNllqMWhId1BfM1RnVktYLXptejJYWTZ3Y05fdTlkLXE2UEZlcjFWdktiRFBzcV8wMzUtUGtCcUdXR0pjN3Q1aUhtZk1nODYtODRpeWllQ2NrNks?oc=5",
       "source": "UA.NEWS",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "ad83c23a288a"
-    },
-    {
-      "title": "1 dead, 7 injured in drone strikes on Kyiv - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUhJWjJQNHBNaWJMM3U4OFJFd0h0ejlZb0djbWVoVVlTaXE0ay1kNkQ2ZEFsTW16ckZtdjV5aHlsWEFXMkJyTHRDdjZjXzE1VHdGVGJQaTNiNHV5ajFxVUZ6Y0xSZFhpZnROZktqdnBMS05GNWR2ckNUZEg0ZG1nSDBVY2hTWklhSlNQMHNPdw?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-09-23T07:46:00+00:00",
-      "description": "1 dead, 7 injured in drone strikes on Kyiv  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-23T10:52:16.743840+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9ec279bd6704"
-    },
-    {
-      "title": "Trump and 14 Lat Am leaders ignite new drug-terror war at UN - Responsible Statecraft",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHNEtBRnpQTXViVC1WaTAwbi1fanJOQ2lVY1UyM2RkdkJVMTdDUWxhTDhtTTEyenIyblV4MGNoTnh2dkQ5Z0RVQW0zV0xxUWtLVXNBTllMcVNCT0EzSlQzS3BNLWsyLUNzSkRpVDZaMktzLWRLTHNicQ?oc=5",
-      "source": "Responsible Statecraft",
-      "date": "2026-09-22T22:24:08+00:00",
-      "description": "Trump and 14 Lat Am leaders ignite new drug-terror war at UN  Responsible Statecraft",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-23T10:52:16.743840+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "10b7943bb6ef"
     }
   ],
-  "last_updated": "2026-10-24T17:52:22.482409+00:00",
+  "last_updated": "2026-10-24T20:18:56.982424+00:00",
   "total_count": 1000
 }
