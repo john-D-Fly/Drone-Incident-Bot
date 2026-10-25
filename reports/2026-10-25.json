@@ -1,0 +1,136 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have intensified, particularly around conflict zones like Moldova and Ukraine. Notably, incidents in Moldova led to the expulsion of a Russian diplomat following drone crashes near residential areas and energy facilities. Additionally, Ukrainian drones disrupted Moscow airport operations, causing significant flight delays. Several cases of drone smuggling were reported, particularly involving drug deliveries to prisons in both Louisiana and Quebec. Noteworthy was a report evidencing that drones are being weaponized by criminal organizations, raising immediate security concerns. The geographical spread of these incidents highlights the ongoing tactical use of drones in both criminal and military realms, prompting discussions on policy and security measures against such threats.",
+  "totals": {
+    "airport": 5,
+    "arrest": 5,
+    "crash": 12,
+    "other": 25,
+    "smuggling": 5,
+    "terrorism": 4,
+    "drone incident": 12,
+    "drone crash": 10,
+    "drone smuggling": 5,
+    "drone prison": 4,
+    "drone airport disruption": 5,
+    "total_incidents": 55,
+    "by_category": {
+      "airport": 5,
+      "arrest": 4,
+      "crash": 13,
+      "other": 20,
+      "security": 1,
+      "smuggling": 9,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 6,
+      "drone crash": 5,
+      "drone illegal": 1,
+      "drone incident": 15,
+      "drone prison": 5,
+      "drone smuggling": 8,
+      "drone terrorism": 7,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "The incidents emphasize the increasing use of drones for illegal activities, especially regarding drug transport to prisons.",
+      "incident_ids": [
+        "a018fcc45a5e",
+        "1c218d5fc562",
+        "0cd33ea4fbdd",
+        "d0bd6cfa96b8",
+        "1251e3b3ca78",
+        "c2ea0e3a9878"
+      ]
+    },
+    {
+      "topic": "Drone Crashes Impacting Security",
+      "rationale": "Drone crashes near critical infrastructure raise concerns over safety and national security.",
+      "incident_ids": [
+        "d7dcc5ac4d11",
+        "c7f0f6aaf93c",
+        "b22cf3878036",
+        "1b53dc304d4f",
+        "b8e3e9fc0b56"
+      ]
+    },
+    {
+      "topic": "Airport Disruptions",
+      "rationale": "Drone-related threats continue to contribute to significant disruptions at major airports, affecting travel and logistics.",
+      "incident_ids": [
+        "3b9f55512f02",
+        "1ef52eb3aebd",
+        "6f7b3d091faa",
+        "83c58de344b4",
+        "8e9a668b39da"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "a0b7f69a0a01",
+      "headline": "A drone got McNuggets and booze into a top-security Quebec prison.",
+      "one_sentence": "Drone incursions facilitating smuggling continue to pose a significant challenge for prison security in Quebec.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "d0bd6cfa96b8",
+      "headline": "Moldova declares Russian diplomat persona non grata after drone crash.",
+      "one_sentence": "A recent drone crash led Moldova to expel a Russian diplomat, highlighting escalating tensions and security concerns.",
+      "risk_tags": [
+        "diplomatic",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "52bf04041de4",
+      "headline": "Denver police drone video joins body-worn cameras as accountability tool in new lawsuit.",
+      "one_sentence": "The integration of drone footage in law enforcement practices raises questions about privacy and accountability.",
+      "risk_tags": [
+        "law enforcement",
+        "privacy"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "9fb9b63856d3",
+      "headline": "FBI warns Iran aspired to attack California with drones in retaliation for war.",
+      "one_sentence": "Concerns over drone terrorism escalate as authorities warn of potential attacks attributed to escalating geopolitical tensions.",
+      "risk_tags": [
+        "terrorism",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "72dc63c2608f",
+      "headline": "Moscow airport operations temporarily shut down following drone threats.",
+      "one_sentence": "Significant disruptions at Moscow airports highlight the ongoing risk posed by drone threats in conflict zones.",
+      "risk_tags": [
+        "airport disruption",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight the escalating smuggling and security challenges posed by UAVs, especially in prisons and conflict zones. #DroneSecurity #Smuggling",
+    "linkedIn": "Over the past 48 hours, drone-related incidents including smuggling, airport disruptions, and international tensions have heightened security concerns in multiple regions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-25"
+}
