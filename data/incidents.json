@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Drug-laden drone intercepted near Gaza - www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGo0dURUMnYyVlF0SDJ6SnlwNmFlVWtpTzc0RC1xdU9VbW03X2ViV0N6ei1pYzhDUU9NVHgtdDB5elFtbzM3X3F1MW9TcEFMTG5QVThmcGVXdlpnM3dSemM0ZGIwWjNkdHdsdE54WVJBMy1uY1ZNLUhNMkZVQjNmMFU0YkhGTkE?oc=5",
+      "source": "www.israelhayom.com",
+      "date": "2026-10-26T09:13:21+00:00",
+      "description": "Drug-laden drone intercepted near Gaza  www.israelhayom.com",
+      "query": "drone smuggling",
+      "detected_at": "2026-10-26T09:46:07.133752+00:00",
+      "location": "near Gaza",
+      "category": "smuggling",
+      "id": "b6c24916ca55"
+    },
+    {
       "title": "Winnipeg police warn against flying unauthorized drones ahead of Heritage Classic game - CityNews Winnipeg",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82ZnpNaUtvdDdqSFRPZmVGeFNnVkdaa3R6LUtWcnRJV1lYZS1kamFqMTJaYnRCY05nT2J5X0xrbktpbjdBOS1HZG4yY0k2X2czMVdTUjBLSk94R2ExMzdZbWprNk10SGswaExNVU1oZ0NmcW9VZ2ZDeHZEVQ?oc=5",
       "source": "CityNews Winnipeg",
@@ -11987,20 +11999,8 @@
       "location": "in Alabama, Co",
       "category": "other",
       "id": "83040cd0fcba"
-    },
-    {
-      "title": "Russian drone crashes into business center in Kyiv’s Holosiivskyi district - Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXNQdXlrTVBJNlUtbllRckRIOFl2RkFaZVF0bVF3dkNGUExkaEhMalJIRVlxSS1yaktqY1Uwd0VSc1BNQnJMbkdXN3JCNVAxWDItZVNSR1lkSGx5TFk1RFVaMU9NWjI4b0YtQUo3aExmNjB0QmxabmZNb0pzc3FjUExGam14VnB0b0xqbldXeEJ4eTRmUU15R2g2NTlCbGJCZW1QX3BaSW14LVMtUnZCd1V6S3J2TDE0NGdieVE2WELSAcYBQVVfeXFMT1JhTTZkLTZWcWc5TzlQdlpPMFZETEJkQ2QyNEc0dnAydlNwNlNXVUZuRF9xOVhtWmVVc3BocDBUZWo2bEJlVWFHX2d2WHgtanFmT2JXMFdJQVdpRUE5RS0wNk5RUWZkNzVfNXFMM2N4T2tYUnRkWUZDXzNwWGE3UThGTEs4MUE3MFdjcGtyMGx6bG1qUTdfcm9hNHhfeDkxYVpBMEo2enhDSi13SVNCYWphbDJDSzEtMkhuaG1PbVR3NzlKYmln?oc=5",
-      "source": "Ukrinform",
-      "date": "2026-09-23T07:36:00+00:00",
-      "description": "Russian drone crashes into business center in Kyiv’s Holosiivskyi district  Ukrinform",
-      "query": "drone crash",
-      "detected_at": "2026-09-23T22:42:53.138925+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "fac336ee8b09"
     }
   ],
-  "last_updated": "2026-10-26T03:28:34.367167+00:00",
+  "last_updated": "2026-10-26T09:46:11.853043+00:00",
   "total_count": 1000
 }
