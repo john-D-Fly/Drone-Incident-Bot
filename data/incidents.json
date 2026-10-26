@@ -1,6 +1,18 @@
 {
   "incidents": [
     {
+      "title": "Event 11/09: White House 2028 Olympics Task Force Announces Drone Security and Counter-UAS Forum - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSGYzN1YtM2JUeXlnOTdlUlhVRFdkZm9EaXRVMEdLbFZ5dmdnMFdpaklNdGJzN3JzNjg4Tzlkb2hHNHVCTk1EZDJTVmtlREhIU1BtMnpRQnF5VHVIdHB1dzQwTFotR29GVm03ZHlHeW5WWUQ1TDRfTjdOU3Vsd25MVng1Nzl5cTE4MExZYW1YbVBEYko4d1Z6cFZOV2VyeG5VOXhjMHZrYnVzRWZadXlNTVJraTlabHRFZnJSbkR6U01tUTQ?oc=5",
+      "source": "Homeland Security Today",
+      "date": "2026-10-26T14:22:34+00:00",
+      "description": "Event 11/09: White House 2028 Olympics Task Force Announces Drone Security and Counter-UAS Forum  Homeland Security Today",
+      "query": "drone incident",
+      "detected_at": "2026-10-26T21:23:14.419336+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "17c6eaf6ea70"
+    },
+    {
       "title": "Pakistan rejects ‘baseless’ civilian casualty claims by Afghan Taliban - The Express Tribune",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjYtWWRNcVBlQUVwbTZTcnprYWp5dU1nQUFhNzhJN2hwM1NjcURUYUNLdUpxOHRBc1o5M1lLYlF2blJHNG1DY0VuU1B0YXotUmpaYy02VUNUMjlKWUtCMHZsR2JZRXg2SVEwcTdLblBwaGdRd0N0Ri1UUUNzbXF5VEZjOV9ZV0FlZV9aRkJzVTZhNjRFcjE5RVgxcFFZTU0xNUJWRVhoaUo?oc=5",
       "source": "The Express Tribune",
@@ -11987,20 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "c0983d50f2fc"
-    },
-    {
-      "title": "Drone helps arrest 2 teens in cornfield south of Aurora - The Grand Island Independent",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTNvUGUyZUVzMnhnT1RrQmozbWdyQlVRMW16YTZGSXBTNUNkVElUU1Q4aTZUbVFHbFp0QzA3SU5Kb0ZfdnNiY2RtYWtyU2VCUVFjU2R6S2tRNHdjLWdsVjVVUElWamhOOTREVFVfdEpSVDljbUxnMk9HZDJ2N1NVc0VvRm5GU3AydWFVMDBXZTRMQ3NxVW1KNEVMcW5Od1Bxb2c?oc=5",
-      "source": "The Grand Island Independent",
-      "date": "2026-09-23T22:13:31+00:00",
-      "description": "Drone helps arrest 2 teens in cornfield south of Aurora  The Grand Island Independent",
-      "query": "drone arrest",
-      "detected_at": "2026-09-24T07:15:50.903551+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "986d7e69b40b"
     }
   ],
-  "last_updated": "2026-10-26T16:31:41.879748+00:00",
+  "last_updated": "2026-10-26T21:23:20.813304+00:00",
   "total_count": 1000
 }
