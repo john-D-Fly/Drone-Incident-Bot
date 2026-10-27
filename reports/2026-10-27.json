@@ -1,0 +1,137 @@
+{
+  "narrative_summary": "In the past 48 hours, numerous drone-related incidents have emerged globally, including strike actions in Sudan resulting in civilian casualties and mass outages. In Eastern Europe, Russia and Ukraine continue to exchange drone strikes amidst a ceasefire. Security concerns around drone activities are prevalent, as evidenced by NATO's interception of a drone in Latvia and increased caution in the UK regarding potential Iranian drone threats. The smuggling of goods via drones remains a significant issue, with multiple incidents reported, including an Egyptian attempting to breach the Israeli border and suspected drone use for transporting drugs across various regions. Policymakers are also focusing on tightening regulations, evidenced by a call for urgent drone law reforms in several countries.",
+  "totals": {
+    "other": 20,
+    "crash": 6,
+    "smuggling": 5,
+    "security": 2,
+    "airport": 3,
+    "drone terrorism": 8,
+    "total_incidents": 28,
+    "by_category": {
+      "airport": 1,
+      "crash": 5,
+      "other": 14,
+      "security": 2,
+      "smuggling": 6
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 4,
+      "drone crash": 2,
+      "drone illegal": 3,
+      "drone incident": 3,
+      "drone prison": 2,
+      "drone smuggling": 5,
+      "drone terrorism": 6,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Strikes and Terrorism",
+      "rationale": "Multiple incidents involve military drone strikes causing civilian casualties or security concerns.",
+      "incident_ids": [
+        "b0b96078ee9d",
+        "97100aa843ab",
+        "e13363651179",
+        "8bdd8a17d4a6",
+        "11e09a611d9a"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Illegal Use",
+      "rationale": "Incidents indicate ongoing criminal activities facilitated by drones in various regions.",
+      "incident_ids": [
+        "ab621bbd09d0",
+        "501dc905b82e",
+        "2c12bdae486f",
+        "6eb608766678",
+        "d352306f09d4"
+      ]
+    },
+    {
+      "topic": "Drone Crashes and Incidents",
+      "rationale": "Notable drone crashes impacting safety at public events and in urban areas.",
+      "incident_ids": [
+        "41db3af9c29e",
+        "ad09d1043224",
+        "96e9f7b2a382"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "b0b96078ee9d",
+      "headline": "Sudan drone strikes kill 21, cause mass outages in east",
+      "one_sentence": "Drone strikes in Sudan have resulted in 21 deaths and mass power outages.",
+      "risk_tags": [
+        "terrorism",
+        "civilian casualties"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    },
+    {
+      "id": "97100aa843ab",
+      "headline": "Russia and Ukraine Trade Deadly Strikes as Oleshky Ceasefire Begins",
+      "one_sentence": "Intensified drone strikes mark the ongoing conflict between Russia and Ukraine.",
+      "risk_tags": [
+        "military conflict",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 1.0
+    },
+    {
+      "id": "e13363651179",
+      "headline": "Concerns over Iran drone attack prompted pulling bombers from UK base",
+      "one_sentence": "Security concerns over potential Iranian drone strikes led to precautionary measures in the UK.",
+      "risk_tags": [
+        "security",
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "6c9e39a4825c",
+      "headline": "NATO fighters shoot down drone in north-east Latvia",
+      "one_sentence": "NATO intercepted and shot down an unidentified drone in Latvia amid rising regional tensions.",
+      "risk_tags": [
+        "military conflict",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2c12bdae486f",
+      "headline": "2 accused of attempting to throw tobacco, phones over fence at Pollock prison",
+      "one_sentence": "Two individuals have been charged with attempting to smuggle contraband via drones into a prison.",
+      "risk_tags": [
+        "smuggling",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5cdb8f000d81",
+      "headline": "Drug-laden drone intercepted near Gaza",
+      "one_sentence": "Authorities have intercepted a drone in Gaza suspected of smuggling drugs.",
+      "risk_tags": [
+        "smuggling",
+        "drugs"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight ongoing security risks, smuggling operations, and military actions globally.",
+    "linkedin": "In the past 48 hours, a series of drone-related incidents underscore escalating security concerns and illegal activities, particularly smuggling and terrorism, as efforts to regulate drone use intensify globally."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-27"
+}
