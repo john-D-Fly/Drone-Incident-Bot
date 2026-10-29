@@ -1,0 +1,122 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone-related incidents have occurred, predominantly centered around Ukraine and prison-related smuggling activities. Notably, two separate Russian drone strikes at Ukrainian train stations resulted in significant fatalities, with reports indicating at least 27 casualties. In the realm of smuggling, individuals have been implicated in using drones to deliver narcotics into prisons in Texas and Tamil Nadu, raising concerns about the efficacy of prison security measures. Furthermore, law enforcement agencies have deployed drones to assist in light of rising crime rates, contributing to several successful arrests. The juxtaposition of drone misuse for terrorism and smuggling against their strategic use for law enforcement underscores an ongoing challenge in drone regulation and security.",
+  "totals": {
+    "other": 14,
+    "crash": 8,
+    "smuggling": 6,
+    "arrest": 9,
+    "airport": 2,
+    "interference": 1,
+    "security": 4,
+    "total_incidents": 66,
+    "by_category": {
+      "airport": 1,
+      "arrest": 9,
+      "crash": 8,
+      "interference": 1,
+      "other": 30,
+      "security": 2,
+      "smuggling": 15
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 10,
+      "drone crash": 10,
+      "drone illegal": 6,
+      "drone incident": 14,
+      "drone prison": 7,
+      "drone smuggling": 7,
+      "drone terrorism": 6,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Strikes in Ukraine",
+      "rationale": "Recent drone strikes in Ukraine have resulted in significant civilian casualties, contributing to ongoing conflict dynamics.",
+      "incident_ids": [
+        "e04444d1e970",
+        "865ba2929b2b",
+        "a4f563e14d43",
+        "5e58617999ec"
+      ]
+    },
+    {
+      "topic": "Prison Drone Smuggling",
+      "rationale": "Smuggling operations using drones to transport drugs into prisons reveal security weaknesses.",
+      "incident_ids": [
+        "92001af54e41",
+        "2094d5cb3775",
+        "af70eb21b9c5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "e04444d1e970",
+      "headline": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
+      "one_sentence": "A Russian drone strike at a train station in Ukraine has reportedly killed at least 13 people.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "865ba2929b2b",
+      "headline": "Russian drone attack on Ukrainian train station kills at least 14",
+      "one_sentence": "Another drone strike by Russia on a train station in Ukraine has resulted in fatalities, marking a serious escalation.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "409140ef44ef",
+      "headline": "WATCH: Drone helps Madison police arrest 3 fleeing suspects, recover 2 guns",
+      "one_sentence": "A drone assisted police in tracking and arresting three suspects in Madison.",
+      "risk_tags": [
+        "drone arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "92001af54e41",
+      "headline": "Little Elm man smuggled drugs into prisons using drones, federal prosecutors say",
+      "one_sentence": "A man is charged with smuggling drugs into prisons using drones.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "dd124d16d353",
+      "headline": "Theni jailbreak puts spotlight on overcrowded Tamil Nadu prisons",
+      "one_sentence": "Drones were used to track escapees in Tamil Nadu following a jailbreak incident.",
+      "risk_tags": [
+        "drone prison"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    },
+    {
+      "id": "2d3cc4bf3083",
+      "headline": "Albuquerque teen uses drone skills to help search for lost dog after crash",
+      "one_sentence": "In Albuquerque, a teenager used a drone to locate a lost dog after a vehicular crash.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones have been at the center of several incidents, including tragic strikes in Ukraine and alarming prison smuggling cases. #DroneNews #OSINT",
+    "linkedin": "Recent drone-related events highlight the dual-use nature of drones, with significant implications for security policies and law enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-29"
+}
