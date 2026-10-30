@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Packers-Panthers interrupted due to drone hovering near Lambeau Field - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTngyRkMxQlJycU5LWlhISzNJTk1qRk81ZzFqT3lsYW14TlNHVE1QXzVOcjZBMEFYWmFnNkNYVlllMDN1U2FIN09zcy0tN19IbWpoQkRneHRTbG4zc3Y4a0g5Z1IxZzJrY3BGYmozNktWY0VyMENGUTRPTl9ldHZHLUE5aXpPei1yZGwzVFQ1Ml9PLUltMFg0WWF3Tk8wdjQtZF9XVjlxQmg2SUlPeW1DZVpQSnF4Sjg5LXBpZzZR?oc=5",
+      "source": "Yahoo Sports",
+      "date": "2026-10-30T02:27:00+00:00",
+      "description": "Packers-Panthers interrupted due to drone hovering near Lambeau Field  Yahoo Sports",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-30T08:07:31.105061+00:00",
+      "location": "near Lambeau Field",
+      "category": "other",
+      "id": "031b89878468"
+    },
+    {
+      "title": "Russian drone debris sparks fire in northern Kyiv - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTQ5ekltMHFQaDUyczAxcE5LaEk3NlkySzJ1VkdOV1JiRUZNTkpzVkVyRDFFa2lTb293Qm9rNWt6VDI5MG5MRWNBd3FGV1NLSHNJVzNUVmtURzhsYmdrVlhncnBFT3U1UjgzNk5VZEZrVnVNdGd2b1d6WnV3Y252NHlnY2xwelhKZVcxVVBtZzBaZ015TVo5dVpn?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-10-30T05:32:00+00:00",
+      "description": "Russian drone debris sparks fire in northern Kyiv  Breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-30T08:07:30.628378+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "b0cd79c05626"
+    },
+    {
+      "title": "Drone Tracks Down Three Suspects After Groveport Dollar General Stickup - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3kyYTdaajkwWUJURmJjQzFOREwxanlmQUZ3WDZwLTZuYXY4MG5CZHJleVNXYVRjZ0JncDY4dW10QlRDZlN4Y3FLOGFfQzdtSnl5SGtGU184d3lMbHV5cURPWGMwanVSNWNXUGxOZXprbVVjNlRHNGx1empxMzNzYWd1bDM4VHhmc29kaEVkUVh3aE1pWEdpbXpVbFdvUXF4UERN?oc=5",
+      "source": "Hoodline",
+      "date": "2026-10-29T21:56:29+00:00",
+      "description": "Drone Tracks Down Three Suspects After Groveport Dollar General Stickup  Hoodline",
+      "query": "drone arrest",
+      "detected_at": "2026-10-30T08:07:27.036070+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "8d6ac79099f4"
+    },
+    {
+      "title": "Five Hostile Drones Destroyed Before Reaching Target in Kharan, Balochistan - Balochistan Pulse",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3lOOS1aOHBBaS1qMG1OM0l2c0p6cmlMY1lVUHFqZF94bzFjMmQzZHh1Y2hmNFZET21TQUdoUXNzYVZNZmxoRXl0akhoRnBrYU4zeTVoRXc2TGwzZE13eDJxZ3NrT1VpTXBfZF9zbUdhSU9IdUs4ZVNSNkVjeHhNRUJqWV9VRG_SAYcBQVVfeXFMT2t5TjktWjhwQWktajBtTjNJdnNKenJpTGNZVVBxamRfeG8xYzJkM2R4dWNoZjRWRE9tU0FHaFFzc2FWTWZsaEV5dGpIaEZwa2FOM3k1aEV3NkxsM2RNd3gycWdza09VaU1wX2Rfc21HYUlPSHVLOGVTUjZFY3h4TUVCallfVURv?oc=5",
+      "source": "Balochistan Pulse",
+      "date": "2026-10-30T06:44:40+00:00",
+      "description": "Five Hostile Drones Destroyed Before Reaching Target in Kharan, Balochistan  Balochistan Pulse",
+      "query": "drone incident",
+      "detected_at": "2026-10-30T08:07:26.480733+00:00",
+      "location": "in Kharan, Ba",
+      "category": "other",
+      "id": "af293b146f56"
+    },
+    {
+      "title": "Saudi-led coalition says it destroyed drone fired by Yemen's Houthis over Mecca - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObHo2dGY2NVdNTm5vNzM4LW8xcnlTeTN5d1Z4dFJnczVJeWZxNXFveGcyeVJPeG5UUDlBb0NmU3hKUVJLNmtkSmtkNVFDMktUak1aUUwwQW8weDVUZm54ZWxxUmVPelV5UU1ERFJxM2lmMTZOd3Q1dnZPTEduUktuZmpKNzJ0VlpPQ2VxdTRWdWNqNWo2Sl95MzFjV0ZDQmNXWkFKTkVpZlBCQVNrUlJ4a3Nia0pVbWNZd0lleGgtMkVkaEpWVkpGREYxWkZNaHZpZ0ZSYmFrSUd4azRYYVHSAeMBQVVfeXFMTnFabGpzbVBwSTc4aEYyc1QwckRXS0U3RzluNzFTbVZjTndLdjNVR28wY1VXeUg1UVhpUng5TVc0bUhMelZRUEc0dUhLVWhna0wxZlNWN1ZhbXlCZHlkT3laWFNUUXZzVTRUWWZlM3V4QndjRkFGdGxWc3RZV1M0NXI5Z2lpNHJUQWZCUVlTUWRMend2RVhBRGdYNk1xRGZSUHlVaE5hU1pwTDVuN292OGpGSFRHVlg2YkFNSFhMRHNfZ3RqQ3ZzcktIV29SeVNjUUpkVXE4X0JDbTQzZC1BamNoWnM?oc=5",
+      "source": "The Economic Times",
+      "date": "2026-10-30T04:15:57+00:00",
+      "description": "Saudi-led coalition says it destroyed drone fired by Yemen's Houthis over Mecca  The Economic Times",
+      "query": "drone incident",
+      "detected_at": "2026-10-30T08:07:26.480733+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "a87bae4fb4f2"
+    },
+    {
       "title": "Albuquerque teen uses drone skills to help search for lost dog after crash - KOB 4",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEVmeHBsa2pkSzQ0Q1RmTXBvMWlzQ1UyTEVOclQzNEJtRVlUMFA5T1pGVWh0UU0xSFFJdGgtZEpIWnUxalF4eXJUNHZ5LU5JYUxoM2dremtLRm9mMVdkTlc5TFdJRk1KaHplN1k2ZjRKSkxNWmpwOXdSZEpNeGRCUjUwd2s4aUZqN2ZQSkxKSm5wMkxQMFU1TXc4ZUVxRXU3VUw2S21JVzlLZw?oc=5",
       "source": "KOB 4",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "8fb52f09e01c"
-    },
-    {
-      "title": "Conroe Police DFR Drone Helps Officers Locate Suspect After Assault, Leading to Arrest - Woodlands Online",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudVNYblFYRlBxU0xfRkxvbkZvejZWRmdGT3B4dl9tNUhxV0RZT19PRUNEM2hUR3pVM1NjRUVQODZCR096cU1lUUI1WFJGVWc2SlhHOVoxalNnNHduc0xLcnNHS0lleUJFUURZ?oc=5",
-      "source": "Woodlands Online",
-      "date": "2026-09-24T19:42:28+00:00",
-      "description": "Conroe Police DFR Drone Helps Officers Locate Suspect After Assault, Leading to Arrest  Woodlands Online",
-      "query": "drone arrest",
-      "detected_at": "2026-09-25T16:40:27.627738+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "83a83c8dcf63"
-    },
-    {
-      "title": "The Pacific Drone Arms Race Has No Rules - Small Wars Journal",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkhoekJRNEJkb1VJdXdyZkZNc2JOT2NfeXVoUWpjdWhrcVhMbVgyYkt0NnFDVTBVa0lfbmxmVzN5SFhFZDZnSG14bEp2ZEhweE1pTjBkZG5hNmR0amZUWlZqWFI3ZFBJeG1QZ1JnbjlHZnNoMmFEU1lST2p3WjFsa1hwRGVDcGx2?oc=5",
-      "source": "Small Wars Journal",
-      "date": "2026-09-25T06:12:27+00:00",
-      "description": "The Pacific Drone Arms Race Has No Rules  Small Wars Journal",
-      "query": "drone incident",
-      "detected_at": "2026-09-25T16:40:26.921460+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f46a588a4bdc"
-    },
-    {
-      "title": "Two IDF soldiers killed after Israeli drone explodes inside Gaza Strip outpost - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qTzducXVCSE5GV1pnX1ktbTR4aE80V2prU21hZkN3aTVfM3JnSUVpTVMtU2dKV21EZWo3bDZhS0FMMVdyZUxKaWhRWXdIaWMwdUlHOG1Db2Vhc2pZTzZ1ZWFkSmptUVFraTE4eDRn?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-09-25T10:59:15+00:00",
-      "description": "Two IDF soldiers killed after Israeli drone explodes inside Gaza Strip outpost  The Jerusalem Post",
-      "query": "drone incident",
-      "detected_at": "2026-09-25T16:40:26.921460+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "e6f1faa2ef21"
-    },
-    {
-      "title": "500 illegal drone flights hit Port Canaveral. Now come lasers - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkNaNlFwcldOTDZUTzBRM2M3Wm9yV2VXQlJQT1ItTkFWZnlxcndVaTlDRjFwS3ZqajBBT1YxbENqYXpLUmQ3VDh6Nmt1emZjYXJDdGZKYVR5MXg1bV9GR2RhdzB6R25QeGRROWluckVPc0RIMHFzNTBMMk9MdEtwdWMzT0lLMnlZdjYzRVM4dUJOZGlXLVpVM2dwRDAwV0xIV3U4MkljT0xLSXRsRVVLSmpRUFFJQW5ESG96ODlIWkdqR1JPeEtKeDdIR2hZNV9ObGh4YVpyeDE4eTRUWGc?oc=5",
-      "source": "Florida Today",
-      "date": "2026-09-25T09:06:00+00:00",
-      "description": "500 illegal drone flights hit Port Canaveral. Now come lasers  Florida Today",
-      "query": "unauthorized drone",
-      "detected_at": "2026-09-25T11:16:34.330582+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7d5b7094e73a"
-    },
-    {
-      "title": "Ukraine: Russia launched 295 drones overnight - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUnB5ZFZWWnRVYU9TNnVDZGFGc3BrQ2RELXhDV0doMXpkenlneVdocmJUMzY3ZVlhaEZYTzIxSjZYS3c4OW4zbTlEZWNmY1JESHlKZkNrWTgyY19kWXMzWFEyVUhYUkZRQkhYTVJoUkhaQjZEbzlYQW52WDNmTHlQVVc1ZlNlWFNtaWYtNjBZbUxuc21Y?oc=5",
-      "source": "Breakingthenews.net",
-      "date": "2026-09-25T05:32:00+00:00",
-      "description": "Ukraine: Russia launched 295 drones overnight  Breakingthenews.net",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-25T11:16:33.756885+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "616e0b43b2a6"
     }
   ],
-  "last_updated": "2026-10-30T01:34:52.139027+00:00",
+  "last_updated": "2026-10-30T08:07:31.477903+00:00",
   "total_count": 1000
 }
