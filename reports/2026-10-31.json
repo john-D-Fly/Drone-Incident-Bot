@@ -1,0 +1,118 @@
+{
+  "narrative_summary": "In the past 48 hours, drone incidents have spanned across various categories including unauthorized flights, arrests related to smuggling, and significant disruptions at airports. Notably, a Dallas man faces indictment after flying a drone near major airports, prompting concerns over airspace security. Meanwhile, flights were diverted due to drones operating near an airport, indicating ongoing challenges in aviation safety. In Balochistan, five hostile drones were reportedly intercepted by security forces, emphasizing the threat landscape in that region. Additionally, several law enforcement operations utilized drones to facilitate arrests, demonstrating their increasing role in policing. Overall, these incidents reflect broader themes of drone misuse leading to both security risks and law enforcement advancements.",
+  "totals": {
+    "airport": 4,
+    "terrorism": 4,
+    "arrest": 9,
+    "smuggling": 3,
+    "crash": 2,
+    "other": 12,
+    "total_incidents": 36,
+    "by_category": {
+      "airport": 4,
+      "arrest": 4,
+      "crash": 2,
+      "other": 20,
+      "smuggling": 4,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 6,
+      "drone crash": 2,
+      "drone illegal": 2,
+      "drone incident": 6,
+      "drone prison": 2,
+      "drone smuggling": 2,
+      "drone terrorism": 7,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Incidents involving unauthorized drone operations impacting airspace and security.",
+      "incident_ids": [
+        "682e461f698d",
+        "3e3bde175c2d",
+        "7fcd3d8970c7",
+        "a6241c7e9d15",
+        "dc9e6c5c5a97",
+        "1a651576c963",
+        "penssl11aud79"
+      ]
+    },
+    {
+      "topic": "Drone-Assisted Law Enforcement",
+      "rationale": "Multiple incidents where drones aided in police arrests.",
+      "incident_ids": [
+        "50da1ac13c8e",
+        "4d58142d73bd",
+        "8d47520988d3",
+        "64cab2269ef9",
+        "68022d517cfb"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "682e461f698d",
+      "headline": "Dallas man indicted for flying drone into protected airspace surrounding two major airports",
+      "one_sentence": "A Dallas man faces charges for flying a drone into restricted airspace around major airports.",
+      "risk_tags": [
+        "airspace_security",
+        "unauthorized_flight"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "3e3bde175c2d",
+      "headline": "Flights diverted after drones flown near airport",
+      "one_sentence": "Numerous flights were diverted following drone activity near an airport.",
+      "risk_tags": [
+        "airport_disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "50da1ac13c8e",
+      "headline": "Drone helps Madison Police arrest wanted suspect, 2 others",
+      "one_sentence": "Madison Police utilized a drone to apprehend a wanted suspect and two accomplices.",
+      "risk_tags": [
+        "law_enforcement"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "7fcd3d8970c7",
+      "headline": "FAA Bars Unauthorized Drone Flights Within One Nautical Mile of U.S.-Mexico Border",
+      "one_sentence": "The FAA announced a ban on unauthorized drone flights near the U.S.-Mexico border.",
+      "risk_tags": [
+        "border_security",
+        "drone_policy"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "8d47520988d3",
+      "headline": "WATCH: Drone helps Madison police arrest 3 fleeing suspects, recover 2 guns",
+      "one_sentence": "A drone assisted police in arresting three fleeing suspects while recovering firearms.",
+      "risk_tags": [
+        "law_enforcement",
+        "gun_recovery"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight ongoing challenges in airspace security and law enforcement capabilities.",
+    "linkedin": "The last 48 hours have seen a range of drone-related incidents from unauthorized flights near airports to law enforcement using drones in arrests, showcasing both challenges and advancements in drone policy and safety."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-10-31"
+}
