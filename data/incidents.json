@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Dallas man indicted for flying drone into protected airspace surrounding two major airports - sUAS News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2NNTEo4dWRxUmcwNFZKU0dhSVFpbEtUcG80ZXAtVkxWaFdUMTBNWkxUWXlwajFTRGxLSE1ZSnczYkVNcVVfeHBGdlFFVnB1dmlDUTMyTmUxRG1UaEMtdllWaW9qTDRnR1BTU1F2MUJQeG9GZlhLcmh0ZmNqeHQ0dUt1aFFucm1ITjVvc3dkUi1reTZmMHQ3Mm1RS0RFQTVPUnRhUmxKWnZmdGE1YjMzWW5MenlubHltRnJLUGZFVmhuSFE?oc=5",
+      "source": "sUAS News",
+      "date": "2026-10-30T14:54:58+00:00",
+      "description": "Dallas man indicted for flying drone into protected airspace surrounding two major airports  sUAS News",
+      "query": "unauthorized drone",
+      "detected_at": "2026-10-31T13:20:24.180674+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "682e461f698d"
+    },
+    {
+      "title": "KP police get tech to monitor counterterrorism operations - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnT253aGJFUGoyUks3Uzg1MGZKUVRvWi1DSHFKREZjX3ZtencwdVZvNi1tZjh1V3lFd2lMaTBYUlJFNzE1NjJ0OQ?oc=5",
+      "source": "Dawn",
+      "date": "2026-10-30T23:19:51+00:00",
+      "description": "KP police get tech to monitor counterterrorism operations  Dawn",
+      "query": "drone terrorism",
+      "detected_at": "2026-10-31T13:20:23.634250+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "968a68312cb6"
+    },
+    {
+      "title": "Flights diverted after drones flown near airport - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SdE1rNy01YXgtcXFIUUNLX0N3SkFUXzlGWnFyWE5aMGlqUEo3U2hGZXZqbGJwbWJnZ09iT3JvTHZwY1R6a1pCRzQxbDZZVWotUW1WVFhpa2pOZ0VhUHc?oc=5",
+      "source": "BBC",
+      "date": "2026-10-31T09:16:52+00:00",
+      "description": "Flights diverted after drones flown near airport  BBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-10-31T13:20:21.002181+00:00",
+      "location": "near airport",
+      "category": "airport",
+      "id": "3e3bde175c2d"
+    },
+    {
+      "title": "Myanmar is waging the world’s second most intense drone war - EL PAÍS English",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1otS1ZESnpFTXVHOHpQZDlvZjdmY21YOERSb3l0TW12dVFXdjFDMlNqdDE1MWZPNl9PVjk0dFlCaEFiNWp3RkVsa3EwZlZnZm9IbjRkY19yQVhsYUJFbWtoSjZsbk9VbVBpVmoydl9RRzNmUUFFbnhZSTVRZFl0UHpta0FEQUQtZjNRRy1KeFBKbVFZdFJKbzBuTENmOGtPVkQ3MW1sclExN0t1VE01cm1tckc1d9IBygFBVV95cUxOMC1Odzh1UUs1WUtGb3pVZHFXTUZTaTB5WWU1ejhFakh5UkhCQ012N1FEY2Y4d1kxVFBrS0ppLWJPa01xdV9FZGVYdF80ZDVweVhSZm9zREJYajBkTnJQVllrTlJ3Q2FvSVpoaGpHUFdYX0tRbkllVmF3M1c4Z2NyMnNTMEV2cmxnOTlTcDdhNkNLUHg1Z19sTFVCUTlmNndLdGpRWWtfMHA1dTNqaFpCMEI2dlVaRGdqWFRucHpZRHhjeWxoejBoSWhR?oc=5",
+      "source": "EL PAÍS English",
+      "date": "2026-10-31T04:00:00+00:00",
+      "description": "Myanmar is waging the world’s second most intense drone war  EL PAÍS English",
+      "query": "drone incident",
+      "detected_at": "2026-10-31T13:20:18.654123+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7070a8bd9e48"
+    },
+    {
       "title": "Individual penalized for illegally flying drone into military aircraft flight path to film and disseminate videos: MSS - Global Times",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54ZVpEMlI3dUZqX0dlQ2h2QnJzc2I5WUYwdl9YOHhsbmJkakFLWGRSd1llYUZDdFFHSnc0NWM3TnNxalgwSnBCTTh2cnMyU2d5ZkJ0RF80MzdMb3pBZzZDUFRn?oc=5",
       "source": "Global Times",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "airport",
       "id": "a3694e01f99d"
-    },
-    {
-      "title": "Pakistan launches air strikes in Afghanistan, killing civilians, Taliban says - france24.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTE9LUGhTRDhlT1FuM3Q5QTN6bzIxbzh1cC1OQ2g4cW1iR2NNSEZEZTVfRlNYNE5SZ1E5TXNuc2FuWWZpN1Vyam5sM1pwTnl4RlB3MC1mc1BkZHRhUldJdUJ4S21iaVBEaExFaFFuUDNyU3MyU0FpTTJmQloyX0phNXZrNGtXb1A1aEp0SHFEaVNkNnF4cFpTb1NldE44TlAyVVJ0Q0RFdU1ieXR2OWRjY3d0VzN4NjRESXV3aFdENmVFQTg?oc=5",
-      "source": "france24.com",
-      "date": "2026-09-24T08:53:55+00:00",
-      "description": "Pakistan launches air strikes in Afghanistan, killing civilians, Taliban says  france24.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-25T23:51:12.674570+00:00",
-      "location": "in Afghanistan, ki",
-      "category": "other",
-      "id": "5de102e43b82"
-    },
-    {
-      "title": "SkyeBrowse Adds Crash Analysis Tools and Drone-Based Crowd Counts - dronelife.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JZy0zekIxVzBvZzNXSVhicmxkMTVaSlpZTWtvUHRJclo4ZEJUN0Q1YmVMV3NoOXdHSHY3XzRLYW9RV0pyZjlwNENwY21yNzJpSk5IV3pBUGkya3hXSkxMUmE2enJlZ0lOQmVERURXSmpsTjVFMG9TZy05Q0FQdw?oc=5",
-      "source": "dronelife.com",
-      "date": "2026-09-25T18:35:59+00:00",
-      "description": "SkyeBrowse Adds Crash Analysis Tools and Drone-Based Crowd Counts  dronelife.com",
-      "query": "drone crash",
-      "detected_at": "2026-09-25T23:51:10.621905+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "35a3b31baa58"
-    },
-    {
-      "title": "Police intercept drone carrying contraband headed for Johnson State Prison - wgxa.tv",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajE3ZGE2QVp2NGhYNk1fSWFCa3lXbF9LN1BjNHJtQ09lZnZ6UFdPeGtjZzBzMTdobVFGU1RSUEdab2JLcGllZ2RTWGNHcGZuemhWWnNkem1yaHk2ZllFYTZKRmtsZ0RzOUI0UVBuRlNwSjJ5d3ZickhLWmExS2xYOXNac0UzN0x4aTZNZVVKTHFtYWQ3UXdaQ0RPR0o3a21NLTM0Yl9KTFNZWGh1VWR3U3REMmpTRTRSRWZFanVBRWtpZGpmLU5OWU5MT3pxTU5wanlRZVFnTXFvUVNlcVNjV2Nkcms3OVZkNjI1WHJnSThVZlpOb28za3FB?oc=5",
-      "source": "wgxa.tv",
-      "date": "2026-09-24T14:20:16+00:00",
-      "description": "Police intercept drone carrying contraband headed for Johnson State Prison  wgxa.tv",
-      "query": "drone prison",
-      "detected_at": "2026-09-25T23:51:09.288362+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "59063cc39816"
-    },
-    {
-      "title": "WATCH: DHS issues stark warning after 300 ‘hostile’ cartel drones detected at southern border - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2JERFphZW1aSjBkeEJRdGtxQ0hJRW1YS01rQVpDWmFtOHZsV09MYmlZbG56VHhDaHY5aUNCQm5qYng0R0ZCQ3RPUzB6a0JUM3pUdndFVnpCcnVQZG1QRFVkU0w0S1k1MEl2QVJva0ZlQ2ZPcnB1bFRCQmRpMU5nVUxn?oc=5",
-      "source": "AOL.co.uk",
-      "date": "2026-09-25T20:27:00+00:00",
-      "description": "WATCH: DHS issues stark warning after 300 ‘hostile’ cartel drones detected at southern border  AOL.co.uk",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-25T23:51:08.674393+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "cb418543d822"
     }
   ],
-  "last_updated": "2026-10-31T06:40:02.670344+00:00",
+  "last_updated": "2026-10-31T13:20:24.763955+00:00",
   "total_count": 1000
 }
