@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Radu Oprea: “So far, no crashes of aerial vehicles have been reported / The second one (drone) was last observed in the area between Vaslui and Bacău” - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUV1MFlVR21NNW53R3NoLUFweTNJc0VkR2Z1RlBxT1lybW9GaFAzQVZSOWl1WkVnRTdQY0ttSkZ1OXFmZy1PQkEwQS0zM2RyWm5aakZ2MVJZRmhxdmVoU2NDcXp5QUJ3OUJrdHBvNTkwMVJtckJya2tGX0pMSUFKZnljS1NtN0NNNnpoWFd5Q3B6RWZka2wzZkFhdUg3SXhqQTdZ?oc=5",
+      "source": "Informat.ro",
+      "date": "2026-10-31T19:12:41+00:00",
+      "description": "Radu Oprea: “So far, no crashes of aerial vehicles have been reported / The second one (drone) was last observed in the area between Vaslui and Bacău”  Informat.ro",
+      "query": "drone crash",
+      "detected_at": "2026-11-01T01:53:16.794211+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "1e5555873c41"
+    },
+    {
+      "title": "Flights cancelled after drones flown near Jersey Airport for a second night - LBC",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGV4SjhZMTl1dGlFZmpOVHF5T3dnMUE5UVJXNzBtYW5WSUhvTW1TdkRVLXZJOUJyU2g3S3d3ZFp0UFJjWGpSb04xSmFDZDlSMGVYVUlkQ0FBNFV4bUc5a0hSeVVBUGczeGRHQTlHNVBTby1XeFJEV1RDWml6UHZvb2JsWEJMajdkLWVQU3QtWmNtc3JNMmMyTHMtQUdMYWtvbERtQ1Mxank2ZXIwWVNseDUtak1jTDA?oc=5",
+      "source": "LBC",
+      "date": "2026-10-31T23:10:30+00:00",
+      "description": "Flights cancelled after drones flown near Jersey Airport for a second night  LBC",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-01T01:53:16.223779+00:00",
+      "location": "near Jersey Airport for a second night",
+      "category": "airport",
+      "id": "7d4f1292b9ee"
+    },
+    {
+      "title": "Flights diverted for second night after drone sighting | ITV News - ITVX",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjM5cXRYWGNHOFVBVWhqeWgtNHBuc3UxblBFbi03TUdzLW9iRXYwTXZkbEhhN2lpOVJ0ZGM0cklNczF6dkdWZlRrWV9UN1JqeW0zbVZJaHpyT2ZMUUlVZEdORnlsSk1HTmxmdG1YTnI3NXhRbkcwUDkwOVoxQ2hNVGxPLXZEaGdlMm5ZOWFtSnVtdm9xcTNoWi1vV2gzN28?oc=5",
+      "source": "ITVX",
+      "date": "2026-10-31T23:05:53+00:00",
+      "description": "Flights diverted for second night after drone sighting | ITV News  ITVX",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-01T01:53:16.223779+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "fa16839d4e35"
+    },
+    {
+      "title": "Flights disrupted after 'illegal and persistent' drone activity near airport - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg0Mk1zYXlxdktmMlhvN29pc3FHNFNfRDh4Zzd2LVhQbXZMdlpNR3pKV2JZT01HS2ZkUzYwVHA3SnFVUHUtZnp1R3N2ZE9QdkxKbGIwU0Z1RXM3WWJsdUhfSTR5S0RxU29QdnNiakRMcFM3SVVGX0d6SktvU29FUzczMmZIaERpZTJ0Ql80U0YzLUFGZ2FZVTRzVTdLNjdIb3MwTWFwVnlCMnBVMkow?oc=5",
+      "source": "Sky News",
+      "date": "2026-11-01T01:17:07+00:00",
+      "description": "Flights disrupted after 'illegal and persistent' drone activity near airport  Sky News",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-01T01:53:16.223779+00:00",
+      "location": "near airport",
+      "category": "airport",
+      "id": "a5277d9b3fef"
+    },
+    {
       "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFpESHlsUDhvV1BNVzFHQzlsRmRnY21OdFlaVFZpUmNmcGdZeHFGWXFSa3M0OFIyY1VRVmdiaERTOFZMS0dsTjdzZGtJaDgzSHNMSUx5NHQ0eEhVZ21QN2VEQ1hReF9iTXlNZ3hhRjROTWFBclA1SFk5YXJIU0pqTFpPVXhEMkFUMDI2Z0tlNHA2empobHN0b0Y4MNIBoAFBVV95cUxPaERoY3BuYjFOcHBDUnFyOVJYX0NCTmJwSVpTREpiQ01VWnJMZWZpYTBHM3Bqd2c0bU9GNWw5R080cVJtbDNNWHRteTFoTUJLMUdJelZjMV9OazVPRlZMMEs4TjExbk9LZEQxejlpTHBseHRHWkFHWllFZGlIOGxXeEhreWg5MUF6SjBPTjJqVHFEWkpUZ0JtMHoweVc2VzBm?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "crash",
       "id": "4c8f59eb2c4b"
-    },
-    {
-      "title": "Enemy drone crash sparks office building fire and damages warehouse in Kyiv, injuring one person - Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeVk3OFU0WEVSN2ZTNm5wb0UtMjdVWmEySHVUbWszMDFHa2dHclkwc1RTejBzeGsyd0JEM012eXhxN1pjSjd1ZjNMTDRmeGZNQ1V2Y01ud0ZDNWhHYlFGX3RJSzN6QW8yd1d5SHVyZXJIOWtiM0NSNEdhbWZrU29acHNmQldZengxcy1DblZ2bmNXTllfNWxXaXhfYVplaEdKNXFNUmxGZ3VpdldLdVFOTWFGVEN4S1JZbGk4cUNYNjhXWER5R0RQMWgyZEtjWEZ2U3drZy1kTmdkZWwtZklic2VwQdIB4wFBVV95cUxNeVk3OFU0WEVSN2ZTNm5wb0UtMjdVWmEySHVUbWszMDFHa2dHclkwc1RTejBzeGsyd0JEM012eXhxN1pjSjd1ZjNMTDRmeGZNQ1V2Y01ud0ZDNWhHYlFGX3RJSzN6QW8yd1d5SHVyZXJIOWtiM0NSNEdhbWZrU29acHNmQldZengxcy1DblZ2bmNXTllfNWxXaXhfYVplaEdKNXFNUmxGZ3VpdldLdVFOTWFGVEN4S1JZbGk4cUNYNjhXWER5R0RQMWgyZEtjWEZ2U3drZy1kTmdkZWwtZklic2VwQQ?oc=5",
-      "source": "Ukrinform",
-      "date": "2026-09-26T08:02:00+00:00",
-      "description": "Enemy drone crash sparks office building fire and damages warehouse in Kyiv, injuring one person  Ukrinform",
-      "query": "drone crash",
-      "detected_at": "2026-09-26T09:10:18.648587+00:00",
-      "location": "in Kyiv, in",
-      "category": "crash",
-      "id": "eae2454abe5c"
-    },
-    {
-      "title": "Alleged prison drug-drop plan foiled after drone crash - aapnews.aap.com.au",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTy1rdjlGNy1CUmUzVU9pVkFnQWdPajQybmZIcFBHUDVrd0JhRXAxTjhBRnI3LUlLOGdYLTFZRC1LU0M2azZjcFNpb0h3eW5RTHJOc3RSdTZlVDFnek5waFk1SkRlczhyTGFZNVVyLVVNYndaR3RRdkhOd0NMTmxmQy14UVBmeElRaWUyWEpuNkg?oc=5",
-      "source": "aapnews.aap.com.au",
-      "date": "2026-09-26T06:29:56+00:00",
-      "description": "Alleged prison drug-drop plan foiled after drone crash  aapnews.aap.com.au",
-      "query": "drone prison",
-      "detected_at": "2026-09-26T09:10:17.321452+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "adb58d6e76b2"
-    },
-    {
-      "title": "Two men charged after allegedly attempting to smuggle drugs and contraband into NSW prison using drone - 7NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSF9naEQ1VXJUSG95a1R2cG1UbVZtZE4wN0Z6MnlPdlF6RFdSUmxBRUpQNTItaG5Bb3dxcU4tdzNpWUNiT3g4Z0J1eGJXZXhXd0FZbWZxNmc2RWVsUjFNR0xDODJNdk5rVHo4a1lfRGJHRHBfeFJpeFZGbG1OOERfTFA1aEs3TXhENWpCZWF0U3FkbFJXNVVsXy0tOGMwT2FqUkpqaDh5SmJ0NG5fWXlWZ3JhallZcFg3REJVWmtKQllZUTg1amRGamdGTGlkeDNLNF9zNm9LbDgwRWFmTmfSAeMBQVVfeXFMT3oyUUpDU1UxYnZqN0R0ak5SOGtmM09EbE1nMUkzQjlzSXdzOHRZMGxRamlvTnE3TlJSOS1PVXA0NVdMdC1wZWRCRHVJNS14MmxKRFZZX09CSnlPMXBFdVNSR1Nic0FfSnktVUUxUlhkQXRVbkFpNEdFdnhsVEI3Rng4bVF2Y1ViejFzMkpGc21FMi03MjJlenFsdzR3T1lxT2VoclUtZGZRUlpTLVFvSUdOMDRWZi1FSl9TOHNkaXh0NW5Ub1h2amVJd0FNX3NoWjFWUUFfb0Q1RlRMWE43QkxuRjg?oc=5",
-      "source": "7NEWS",
-      "date": "2026-09-26T05:34:00+00:00",
-      "description": "Two men charged after allegedly attempting to smuggle drugs and contraband into NSW prison using drone  7NEWS",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-26T09:10:16.489054+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "f02425d54326"
-    },
-    {
-      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmo2UWI2Z2xxczFLZS1WVmJ1VHBkcml4cm0wNkx5bHZTcS13c29NUUFuaG95SDVnR0dqQkFmUno1Zjl2ZlpNUGtQVHo0OG5QM3RjbUlPYXVydmVpWllMODh2cFhVLVBvOEdlWDAweUU0d3hqUy15NEszQm1mbkwwZWxFWnRYaEtfOEpzTTJLeWNoVm15YmNkS29hU3BvMnJ2LV8xZXROYVBRSHZ1WWVBVEJobDVSR3RDd1N3SlNwUGZGQ3pwTzN5anFyLWdEZWlKM3o3Skc4bw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-26T05:00:00+00:00",
-      "description": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests  The Guardian",
-      "query": "drone arrest",
-      "detected_at": "2026-09-26T09:10:15.784790+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "8979eb5e2638"
     }
   ],
-  "last_updated": "2026-10-31T22:13:25.118612+00:00",
+  "last_updated": "2026-11-01T01:53:18.707620+00:00",
   "total_count": 1000
 }
