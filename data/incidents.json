@@ -1,6 +1,90 @@
 {
   "incidents": [
     {
+      "title": "Ports Present a Uniquely Rich Target for Unauthorized Drones - DroneShield",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmY3a2NBQ2FiZXVrUXh5VXBhYjVtYXdJQ0NLbDJLZWYxSG5aMk1NQXN3cWhMbWp5T29ud05jcUVtT3IzN1N4WnQ4UHJUNnpWdkhsQkJ2d3F5OURjTGw0azdMOV9QUm5HeEZ6S1FkTnVoVW15cVdWRC05cGJfTnFGYmxVejRsV3hfRUpXOW0wQkZXNUUza1J2Qg?oc=5",
+      "source": "DroneShield",
+      "date": "2026-11-03T05:33:27+00:00",
+      "description": "Ports Present a Uniquely Rich Target for Unauthorized Drones  DroneShield",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-03T07:36:47.704012+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "58f28a4fdb5c"
+    },
+    {
+      "title": "How prepared are Australia’s military bases for modern drone attacks? - Defence Connect",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2pld1dDc0hMNWtxX2tLbWlqcmx4QnVwYU9zYjRob0ZMZFpUaEpmQ29WQ1FpSk9Bbng5bVhFMjc0YUVNbXFhUUk0aGlQM1dtQzBERDZ4UG41VkFVM0VOX3FtYlQ0THVCU0ctWjljc1Jqa2pYUXp0amVpLXhhaTA4WU11UFlRb1dZcVRVaW4yZFh3V0xkRjhKcUZUaVJjUEQ4LVZUaWhwbUE1S0hDR1gweEtKQXNGOHRwUXlHYktRUV9KbmRq?oc=5",
+      "source": "Defence Connect",
+      "date": "2026-11-02T01:34:01+00:00",
+      "description": "How prepared are Australia’s military bases for modern drone attacks?  Defence Connect",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-03T07:36:47.194038+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7473a3e00463"
+    },
+    {
+      "title": "A drone crashed near Latvia’s border with Russia — Interia - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXdhV0xaZnpXaTMzWUJ2LXU5OWllZ3JqSGdBaUUta3FJX2pWYmpBVXNhanN0bmlHTFl4QTlCVTFMVGJTSTU3YXhIRlc4dTkzSGpNcElhT0dRWHZNMTdVZFVHVlk5d25McktKQ1JwcGNOemR6OGlVMnctVEVLNUVJcGpOQ3RFR28w?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-11-03T04:50:45+00:00",
+      "description": "A drone crashed near Latvia’s border with Russia — Interia  UA.NEWS",
+      "query": "drone crash",
+      "detected_at": "2026-11-03T07:36:45.482773+00:00",
+      "location": "near Latvia",
+      "category": "crash",
+      "id": "a0a4d66d73bd"
+    },
+    {
+      "title": "Patients stranded during airport drone disruption - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2t1UDJLeURnNTVrVlZ3d1A0a28xNENTam1NclN1QktPdDRkSmJBWl84LVh6eVdvUm1xRlBIdnl6T2tabmVUWklJU0QtZk5yaXNuWjNxem96Wmx5WHNzbFpNMm80WGcwXzdNN2xnV1JSSFkyVmFOdUpPRjA4WEI1X1Roa1Jkdw?oc=5",
+      "source": "Yahoo News Canada",
+      "date": "2026-11-02T18:56:17+00:00",
+      "description": "Patients stranded during airport drone disruption  Yahoo News Canada",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-03T07:36:44.924504+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "2bf1d5d0bf98"
+    },
+    {
+      "title": "Oklahoma City Drone Tracks Armed Robbery Suspect, Leads to Christian Johnson Arrest - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRE5SclM4aGJWQkJET0lJRXJrdVhoRmVIOWxWLWYtMUIxOWkyamQzRHFnRW9LeE1WbG1fTzFzcy16bXBwbXdvZXNjVFZmS1l3MjdJR1pac1Z5YjNtUEdLWWtQY0Q5d2NTZmVGVDZ1TXZCekl2Qm45T254SUFhYllzNmhjaW8xcmJXMlJ0Ti1NeUhvN0syZFdPSE9uNko3Sm8tdXZzbVVrUGVqVVlid1VBVWVR?oc=5",
+      "source": "Hoodline",
+      "date": "2026-11-02T23:38:37+00:00",
+      "description": "Oklahoma City Drone Tracks Armed Robbery Suspect, Leads to Christian Johnson Arrest  Hoodline",
+      "query": "drone arrest",
+      "detected_at": "2026-11-03T07:36:43.156147+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "b2961762aa1e"
+    },
+    {
+      "title": "OKCPD uses drone to track and arrest suspect in armed robbery - KOKH",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTZGeEtiLTN3Z3h4bUtQMU5sM0UyamFpVFZqamRhakNfNldpc1EzRVdpVTJTS0h3Mm1QdWFkM1AwcEVwYU1rY2FCY0JHa09EYUpuaUxRUHYtbmE3ZV9PZUg0ZkJtQXBPS2dSR2ExeXp3SkpQNGp0dmVaTXNIeXAyTUZOYkdnNzRveVdabXhrVUR5X1U2M1E?oc=5",
+      "source": "KOKH",
+      "date": "2026-11-03T03:46:18+00:00",
+      "description": "OKCPD uses drone to track and arrest suspect in armed robbery  KOKH",
+      "query": "drone arrest",
+      "detected_at": "2026-11-03T07:36:43.156147+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "768cb9a2ee5b"
+    },
+    {
+      "title": "Deputies use drone to arrest domestic violence suspect hiding in closet - FOX 13 Seattle",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44eEhNcE9FS202bDU3ZGtiY19na1VyNzk3eXZSV2FlMk50UVl6bW4xd25SeDlDUEUwWmI1QkowS296NnRwT2F5N2V6ZEQtOU1sWEJFX2NHYk1nbG1tdVl5WXpkbWJ1d9IBa0FVX3lxTE9odWVMUm81X2tnS0UxMExkWm9VSWMycmo2bV9oTEhKQjBvR2pUQUgyWHRtbldzdHNpLWpXbFFabEJidEdoYzltU2x4TUVjLUJLMzdLSkFrN3hlWU1kNWFMZDdSaDJCS0JBQXl3?oc=5",
+      "source": "FOX 13 Seattle",
+      "date": "2026-11-03T06:20:04+00:00",
+      "description": "Deputies use drone to arrest domestic violence suspect hiding in closet  FOX 13 Seattle",
+      "query": "drone arrest",
+      "detected_at": "2026-11-03T07:36:43.156147+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "b15493abe84f"
+    },
+    {
       "title": "Starlink, Drones and Foreign Fighters: How ISWAP Is Modernizing Its War in Nigeria - Truth Nigeria",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHBBRnpvNVFsS19JejdtQV9vOGEwei1wYWdINGZQRC0yODNkcTdNZmttOHcyUnBsU0k0dGhWd0ZHX0ZyT0ducXc5RHZmejB4VDd2Y0hrRl9NV1lVQm81aVJqZDJrdXRDTFJlbkFYdW05VkU2ZjRuVGdWVkZlOTZDSUR0alR4THA3TlEwSHVwMzljYzNtc1ZTTjFyNS1QeXdaWUJzbmdmd1RGeTN4dDlQeThhdmY?oc=5",
       "source": "Truth Nigeria",
@@ -11915,92 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "083f39645b2a"
-    },
-    {
-      "title": "Florida sheriff blasts Georgia officials over prisoners’ scams - The Atlanta Journal-Constitution",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0ZvWXg2ZWkxaE5tZjVzQXkwMDJjMVhMZzMxdE1iWjVjWHBJd3BaRk1qMjk3LTJJdzhWT1JwdnN2QjFMdl9wVHdQZFhxcVFPaUZSc2YwMVlGN3oyQXBSM0hKdmxPLVM1WGEtcWpaSktoZDZOQWNNaVZ0M1FyUjFzNGppU0RuMTBzRUw3a1pwdVYwUDBrelVGOFg2V1R6ZGR0?oc=5",
-      "source": "The Atlanta Journal-Constitution",
-      "date": "2026-09-28T23:00:26+00:00",
-      "description": "Florida sheriff blasts Georgia officials over prisoners’ scams  The Atlanta Journal-Constitution",
-      "query": "drone prison",
-      "detected_at": "2026-09-29T11:08:33.520833+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "ebd1c382235a"
-    },
-    {
-      "title": "30 Drone Runs in 90 Days: Drug abuse, drone drops drew Punjab border youth to smuggling - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWNkaUc3VFVFV05Pb1VOLXpyZ0N2cUdibG9sVF8zQjRHR01fSE1Pa25wcEN2Sy1Fb2ZwUVZzZVVCSXRtdFROenpuM0lXTlV3UVZuWkwxb2xTYzlQcWotM1FEOXYyM0ZWM2ljZFhGTGhEem12a2hSWjdNQmxrMWEySmRfaERfLU50cGVSSHZVWmpnaE5JUHNzYzFiVnk0d3pOeTZMU0puTWZreURCX1Z5azZ4ZTJKbEwxRS1HUVVfNNIBwwFBVV95cUxOZnl3cHQ0ZjhpWjl3WVF3VTZlVTlaWW1SZjVOdVZIejhLNDJKcjVhWF9vTnRDWU9lUEpHUXJpSmx5MmVFQ1I4cmNmdmJhMVdYZElEdGsyOHVabzJqM1lYUVp0WGFDZEV0enFSWF9nNXgtb1U4aTB0YWM3d2hvZHFhdExEQkx3QWYwZ3paNGNXa3VWNUFhOU85dmRaY09pUmdYWHFqWVFlc2NqZ3hlaDdvdHZZX0xzV084aUkxSXM5TmdWOW8?oc=5",
-      "source": "The Tribune",
-      "date": "2026-09-29T06:32:16+00:00",
-      "description": "30 Drone Runs in 90 Days: Drug abuse, drone drops drew Punjab border youth to smuggling  The Tribune",
-      "query": "drone smuggling",
-      "detected_at": "2026-09-29T11:08:32.971549+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "c3cfed661e97"
-    },
-    {
-      "title": "Drone tracks masked group at High Point apartments, police recover three firearms and arrest teen - WXII",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0kwaGE2cGQxZTllUkRSanpxTk9Xb0tPdlFnWjRnUHhsYnZMZjRrcHUtc0NwTUVoTE1WMTVEUGdPQTNweDF0WTlIZmE2dEFkekFMQlAxZE1PalEtS2IwMHVQT3NHQ3FNT2JlX3ROXzZ4OE5POFFGMXBuRnhrb1lSVmZNNF9JY04wNWZBNQ?oc=5",
-      "source": "WXII",
-      "date": "2026-09-28T19:11:00+00:00",
-      "description": "Drone tracks masked group at High Point apartments, police recover three firearms and arrest teen  WXII",
-      "query": "drone arrest",
-      "detected_at": "2026-09-29T11:08:32.371014+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "e651a15b17a4"
-    },
-    {
-      "title": "Suspected drone debris found on Romanian farmland near Ukrainian border - pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XUVVtNlhRVm9EVVpHdjFxdmxuMEdFSEZ3a1VqaWRqcjFqV2dwUl9WTW5DZ1ZzRUkxbHZDSFhwX1JxVjZEcG1sT3FSM3BhWjc4THpXODVoaElaRW04ZGszZEwtdmbSAXBBVV95cUxQNmU0SHUzd3M1bWxRa1E3NlJUYm9RLThKQzJZbUdVUjRXdFZiUDc2TUpEalJiZzlEOFlIb2Z5bWF4WUptNzEyTjM4cGhLOUdNcW1QVDVNOW5kcGZxN3JVTUZLNTEycHBBVWJodUIxU3ZS?oc=5",
-      "source": "pravda.com.ua",
-      "date": "2026-09-29T07:47:00+00:00",
-      "description": "Suspected drone debris found on Romanian farmland near Ukrainian border  pravda.com.ua",
-      "query": "drone incident",
-      "detected_at": "2026-09-29T11:08:31.781277+00:00",
-      "location": "near Ukrainian border",
-      "category": "other",
-      "id": "17e60290eb4b"
-    },
-    {
-      "title": "Daytime Russian strike on Kyiv’s science academy kills at least one - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXlEc0NVNnBQc3ZwOVhQZVhDdU1ZbXE3LWZIcEVFRkVJRDZ1QzlBRzBCMVZUcXlUNXlGS0NlSnRJYUVWQTZyMnJRTW9oejBVN2JzdUtKNTFpa3JjQ3ZjaFVjOVFaRFFrN0hWa29GalhvUE5pOWN0MldpWnFncEVDRlQ2d3RKc3hkVUxQWU9GdmMtYURWeEtLQ3hCa3JSZw?oc=5",
-      "source": "theguardian.com",
-      "date": "2026-09-28T22:14:00+00:00",
-      "description": "Daytime Russian strike on Kyiv’s science academy kills at least one  theguardian.com",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-29T04:31:31.572125+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "b78a919bc644"
-    },
-    {
-      "title": "From Kyiv to Culiacán: How Mexican Cartels Are Adapting Drone Warfare Lessons from Ukraine - Global Network on Extremism and Technology",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2NnUFcwOEFVRVZJWGc2dHg5eERDMkxvRzV6OHMwYmk2U2lkaUNoNlkzRGZHa3hveGFJbjd5SnA0TndHVG45UHBEUkc4WlNkRUpObFlIQzNjNXBPQTZ5ZDVjRjBaeC1uekZEcG12TlJwSXphQTI2X3ZnMEpjYXNPVmI4YzhoQ1pWM0FpcU4tUUtPVDdfdFNmQzV2SFZGYk5XcDhJODI4aVRTY014WXhLY19iejVYWU1mX2QxWVRVOXhBY3FXS2c?oc=5",
-      "source": "Global Network on Extremism and Technology",
-      "date": "2026-09-28T14:13:09+00:00",
-      "description": "From Kyiv to Culiacán: How Mexican Cartels Are Adapting Drone Warfare Lessons from Ukraine  Global Network on Extremism and Technology",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-29T04:31:31.572125+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "3c9e6ebe43da"
-    },
-    {
-      "title": "A drone’s perspective meets photographer’s thoughtful eye to create powerful crash photograph - The Joplin Globe",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWjlmaFJNUHJEemt0eFR3TlYwYVBfNTNHaHpsMTBaMUZvZkRvajlmbzVUUVFVNTc3RkJub283bTN6eGd2LUd2SUVRUUR6dFh3MHIxbm02RU9XcGpzUHNZVlE2ekxlUU1tcmxYNml2UzlzVmdqWExIOXh3RE8yLVRoUWJ6S2VkRVBrVjJib2RmWUNocTRMRUFWMXV0NjBiR3pQeEdUYkhrMTJpMDVmR1g5dVp5dDNvaXQ2anY5M3hSd1hsaFN1NHE3NzVQVy1QdzhEYWRfYmdHQVUwVmRib1hvR2s1cEcyZE5Xb3g4ZWkwV2ZSZS1oZTU3Z200YXBHcjlwVnV5bXdNcDE0Zw?oc=5",
-      "source": "The Joplin Globe",
-      "date": "2026-09-28T22:11:14+00:00",
-      "description": "A drone’s perspective meets photographer’s thoughtful eye to create powerful crash photograph  The Joplin Globe",
-      "query": "drone crash",
-      "detected_at": "2026-09-29T04:31:29.720666+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "3d4efde91637"
     }
   ],
-  "last_updated": "2026-11-03T00:35:33.355971+00:00",
+  "last_updated": "2026-11-03T07:36:48.054109+00:00",
   "total_count": 1000
 }
