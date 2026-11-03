@@ -1,0 +1,166 @@
+{
+  "narrative_summary": "Over the past 48 hours, several drone incidents have emerged prominently, especially surrounding Jersey Airport, which experienced multiple disruptions due to illegal drone activity. This has led to flight cancellations and operational challenges, prompting calls for enhanced security measures and governmental support. Notably, Punjab police have reported the dismantling of drone-based smuggling operations involving arms and drugs, highlighting ongoing concerns about drone usage for illicit activities. Multiple arrests across the U.S. also illustrate how law enforcement is increasingly employing drones for tracking suspects in criminal cases. Additionally, a significant crash incident near Latvia's border raises questions about airspace security. The pattern suggests a rising trend in drone-related incidents focused on smuggling, airport disruptions, and criminal tracking, warranting heightened regulatory scrutiny and security protocols.",
+  "totals": {
+    "security": 2,
+    "airport": 11,
+    "interference": 4,
+    "crash": 6,
+    "smuggling": 5,
+    "arrest": 7,
+    "other": 10,
+    "total_incidents": 69,
+    "by_category": {
+      "airport": 22,
+      "arrest": 5,
+      "crash": 11,
+      "interference": 4,
+      "other": 17,
+      "security": 2,
+      "smuggling": 7,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 20,
+      "drone arrest": 9,
+      "drone crash": 10,
+      "drone illegal": 6,
+      "drone incident": 7,
+      "drone prison": 2,
+      "drone smuggling": 6,
+      "drone terrorism": 6,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Illegal Drone Activity at Airports",
+      "rationale": "Multiple reports highlight serious disruptions at Jersey Airport due to unauthorized drones.",
+      "incident_ids": [
+        "4237e8069751",
+        "59ca9bc1d79a",
+        "d84af190ff17",
+        "2bf1d5d0bf98",
+        "de246b7f34f2",
+        "7aae16f7b91a",
+        "93160c374993",
+        "0ff4ae756143",
+        "104ca927b76e",
+        "d6d2bd3c310a"
+      ]
+    },
+    {
+      "topic": "Drone-Related Smuggling Activities",
+      "rationale": "Cases of drone usage for drug and arms transport were reported, particularly in Punjab and Azerbaijan.",
+      "incident_ids": [
+        "e5094dd6f131",
+        "ba365b9e836d",
+        "bd5100bbad20",
+        "a0a4d66d73bd",
+        "b15493abe84f"
+      ]
+    },
+    {
+      "topic": "Criminal Tracking and Arrests",
+      "rationale": "Several incidents showcase law enforcement using drones for tracking and apprehending suspects.",
+      "incident_ids": [
+        "59ca9bc1d79a",
+        "b2961762aa1e",
+        "768cb9a2ee5b",
+        "f21bb65c8d56",
+        "bfee01b229fd"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "4237e8069751",
+      "headline": "Illegal drone activity is leading to repeated flight closures at Jersey Airport.",
+      "one_sentence": "Jersey Airport faces ongoing disruptions due to unauthorized drone activity, affecting multiple flights.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "e5094dd6f131",
+      "headline": "Punjab Police Busts Drone-Based Arms, Drug Supply Networks.",
+      "one_sentence": "Punjab police have arrested 11 individuals connected to drone smuggling of weapons and narcotics.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "ba365b9e836d",
+      "headline": "Paterson Drone Spots Armed Man at Crash Scene.",
+      "one_sentence": "A drone assisted police in locating an armed individual involved in a crash.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "59ca9bc1d79a",
+      "headline": "Drones Disrupt Jersey Flights For Two Nights.",
+      "one_sentence": "Jersey Airport's operations were significantly affected over two consecutive nights due to drone activities.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a0a4d66d73bd",
+      "headline": "Drone crashed near Latvia's border with Russia.",
+      "one_sentence": "A drone crash occurred near the border of Latvia and Russia, raising airspace security concerns.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.6
+    },
+    {
+      "id": "b2961762aa1e",
+      "headline": "Oklahoma City Drone Tracks Armed Robbery Suspect.",
+      "one_sentence": "A drone helped capture a suspect involved in an armed robbery in Oklahoma City.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.75
+    },
+    {
+      "id": "768cb9a2ee5b",
+      "headline": "Deputies use drone to arrest domestic violence suspect hiding in closet.",
+      "one_sentence": "Law enforcement utilized a drone to apprehend a domestic violence suspect hidden in a closet.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [
+        "Unknown"
+      ],
+      "priority_score": 0.7
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight challenges at airports and rising smuggling activities. #DroneSafety #AVSEC",
+    "linkedin": "A surge in drone activity affecting airports and involved in smuggling underscores the need for enhanced security measures and regulations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-03"
+}
