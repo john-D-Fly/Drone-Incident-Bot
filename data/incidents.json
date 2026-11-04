@@ -1,6 +1,54 @@
 {
   "incidents": [
     {
+      "title": "Jimmy's World: FAA Says My Human Drone Is Illegal, Batteries Included - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0phS2lsTGtaMDFHemVvSkJWdGczWElDQXI0Z25abi1STW9IdXhzeC0zSTNibllIa25zeGNwVG56S01uLTh2OEpmUkFaWGRwc3VGX0d4Tk9XM0JEbVM5a0hNcUl5TGJkbEphOGpyMDVxUDFoVjZ1eG1NWWQ1S3h2LTg2OVMwZHhFYXA5ckF3?oc=5",
+      "source": "DroneXL",
+      "date": "2026-11-04T22:03:00+00:00",
+      "description": "Jimmy's World: FAA Says My Human Drone Is Illegal, Batteries Included  DroneXL",
+      "query": "drone illegal",
+      "detected_at": "2026-11-04T22:26:01.332709+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "70259d45084f"
+    },
+    {
+      "title": "Jersey Strengthens Drone Detection Measures Following Airport Disruption - The Times Jersey",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHg0VjROb2FpVDRoOFZOYUNSNGViaVhYcV9oSGZvMTg5TmdNeV9obzNfRUlfZ2o5aXF0UlNJc2xBLTlqeFVtMDhIeEsxeDZLVXdJeDdEQWVJU041UTBCS0VXelNYV1prX182UUQxbmFWT3dJeWcxMTdkcC03Zlc1YmNMZVN0U2JHaHh6YU9jc0wzLVo0LUcwR0FBYzNrNG1wMUNRT0NEakZWemkw?oc=5",
+      "source": "The Times Jersey",
+      "date": "2026-11-04T15:46:25+00:00",
+      "description": "Jersey Strengthens Drone Detection Measures Following Airport Disruption  The Times Jersey",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-04T22:25:59.988029+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "7e9c286b991d"
+    },
+    {
+      "title": "Two Nights of Drone Disruption: Jersey Airport Flights Affected - Travel Radar",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVBHUVlWa2pRWUxQRmpteElGdXNTWVllMHgzeUJRc1RWZmF5aWdwUHJraUNvdjczSDFSVnJ6dFYxYTF2cUU5cDJCc2VSU1JDY2pJT19XOHA1cHNqVWJBTkdDNmo5UDhXWWpUYnJOMUE0dEgyXy1GME8wUjVLNkFtTy1keVliVzdWVkVnYno4RHM2Zw?oc=5",
+      "source": "Travel Radar",
+      "date": "2026-11-04T19:39:11+00:00",
+      "description": "Two Nights of Drone Disruption: Jersey Airport Flights Affected  Travel Radar",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-04T22:25:59.988029+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "a3f2e911f70a"
+    },
+    {
+      "title": "Fire Commanders Can See Drone Locations and Live Video in One Place with New Skydio Partnership - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKTVVyVEw1SHlZMjFUWHNxaEdBdEpOa0l1MXd1N3JOY1FPcHNLUXAzOGxxeC0zMUJjbUdCcFpMaE0yRHJVckFPc0NfX0p4Rmt2UGlDa3RpTzl1TGIzbzNyd2lmRWVDWHNfT2RVWmt5dWpOMHJYOERwa3pfcUs?oc=5",
+      "source": "Dronelife",
+      "date": "2026-11-04T17:26:15+00:00",
+      "description": "Fire Commanders Can See Drone Locations and Live Video in One Place with New Skydio Partnership  Dronelife",
+      "query": "drone incident",
+      "detected_at": "2026-11-04T22:25:57.959624+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "864b58861304"
+    },
+    {
       "title": "Russia strikes market in Ukraine's Odesa, triggering massive fire - RBC-Ukraine",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjdRS0Z5X1AtLVFrODZxRGZldVZwMjRiTEFBNXA0TnhZQkhYeV9abmVCQ3R6MlVBaEtvRl85dmduc3ZaNjc2N1VqUHZZRWRoMlVtcjd1LXVUdkZvcHppMkw4Ykk5ODI2M1ZEVWtUZm02SFptSVhNYXQzTkpFdVdtYTlzX0g3d0llTkFfTEd4TjRuQQ?oc=5",
       "source": "RBC-Ukraine",
@@ -11951,56 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "4508b9b9e550"
-    },
-    {
-      "title": "Cardiac arrest: Drones could speed up delivery of AEDs - healthcare-in-europe.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaWltc3ZKNFVVY3hwTGs2U24yWUVfNlIwTTBQRXUyNWdBeWdCVU5PY0ZXRFdJTXZ3WDdzRks0d0NLWk9mdlVlMXB1Ulk2VF8yZldTWjNUbEg0MzlkRzlBZWtMYmhTLUozaWVONGJwY0d5MUg2Y1lwb0xpTDBVdEIzakdXaEZ0dw?oc=5",
-      "source": "healthcare-in-europe.com",
-      "date": "2026-09-30T11:03:05+00:00",
-      "description": "Cardiac arrest: Drones could speed up delivery of AEDs  healthcare-in-europe.com",
-      "query": "drone arrest",
-      "detected_at": "2026-09-30T15:40:15.718351+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "a5e40e27f5a3"
-    },
-    {
-      "title": "Moldova reveals new details regarding drone explosion incident - pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWUUxOc1BaMGZReXFQOFI5bkhCWmVmRVFDbTFZOTRWQjJibVREUkwyQ2daaFlDaHd4azFLNUdEcUlYLS1MbldLclRYWmRKanNMcVRnd3dUX1pvX0xiSVZDaF84dGvSAXBBVV95cUxQWGNKYWVLQ2NPR2t0emdjSVpES0lndTZEZ1g5VUtEN0hPODZ1aVRNUXl1T0hDMy1pM3dHekhlT3UzYnFuTDEtSDdjRkQ1VnFwZWFBZVJqLTU1Zmd0dE1vZnVmZlBvQnQxRHZYVlJJcGw5?oc=5",
-      "source": "pravda.com.ua",
-      "date": "2026-09-30T08:03:00+00:00",
-      "description": "Moldova reveals new details regarding drone explosion incident  pravda.com.ua",
-      "query": "drone incident",
-      "detected_at": "2026-09-30T15:40:14.866036+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0b1d146501cd"
-    },
-    {
-      "title": "Moldova has released new details about the drone explosion incident - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWpxS0pUaElUVDk0YTVNaURHRHVHQ0pFaWM4Y0I2UGFBRVpNaXh3cjlaazkteFo1QklEc2lnUUY1aU5fczFHQmNXeXpKZll2Ym9mV19za0dyMjh3WXo4YTJWZl9qY2w4Uy1kTm0zNGM4UlJWNDNnSHhRM2ZKX0I2QllvU1F0QkM3UzVld0lmYUZ4bUpueGdsY1FnLWc?oc=5",
-      "source": "UA.NEWS",
-      "date": "2026-09-30T08:21:13+00:00",
-      "description": "Moldova has released new details about the drone explosion incident  UA.NEWS",
-      "query": "drone incident",
-      "detected_at": "2026-09-30T15:40:14.866036+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "6b4214532abf"
-    },
-    {
-      "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-09-30T00:50:21+00:00",
-      "description": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone terrorism",
-      "detected_at": "2026-09-30T08:04:26.555853+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "afc4af3a0cd8"
     }
   ],
-  "last_updated": "2026-11-04T16:52:14.403238+00:00",
+  "last_updated": "2026-11-04T22:26:03.138100+00:00",
   "total_count": 1000
 }
