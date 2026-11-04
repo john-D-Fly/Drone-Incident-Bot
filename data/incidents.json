@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Russia strikes market in Ukraine's Odesa, triggering massive fire - RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjdRS0Z5X1AtLVFrODZxRGZldVZwMjRiTEFBNXA0TnhZQkhYeV9abmVCQ3R6MlVBaEtvRl85dmduc3ZaNjc2N1VqUHZZRWRoMlVtcjd1LXVUdkZvcHppMkw4Ykk5ODI2M1ZEVWtUZm02SFptSVhNYXQzTkpFdVdtYTlzX0g3d0llTkFfTEd4TjRuQQ?oc=5",
+      "source": "RBC-Ukraine",
+      "date": "2026-11-04T13:35:00+00:00",
+      "description": "Russia strikes market in Ukraine's Odesa, triggering massive fire  RBC-Ukraine",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-04T16:52:13.358386+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "67944666a9bf"
+    },
+    {
+      "title": "Houthis claim downing Saudi spy drone - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzBoZUVGWDZFcGs5bC1UQjUxUG5OS3pUQnhJd2ZrRnJ0cFNJdGwyNGg4UklkVDJBV3lIOXRuSmU4a2Vsdm96STVRdjBoNGN5YzBSYUV6Yi16S3dDaW96OE4xSkJ1N2FSaGt3dnZvT1VrR0pnNlJIbkJYMk5OWG1kQXJIYTZDYktfQ3c?oc=5",
+      "source": "Breakingthenews.net",
+      "date": "2026-11-04T13:48:00+00:00",
+      "description": "Houthis claim downing Saudi spy drone  Breakingthenews.net",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-04T16:52:13.358386+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "bd38226a9dc2"
+    },
+    {
+      "title": "At least two killed as Russia, Ukraine report another night of attacks - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tU3FiT3dGOFZLbFpWcDFjOVNIY3VrRkdfeU02Q19xN2V1cS1DQWl2N2V6RWwzaHNkbURORVBOQmZSYTEzTnpoQThUVTBNVm5SM0tNcldNWkM?oc=5",
+      "source": "TRT World",
+      "date": "2026-11-04T09:57:14+00:00",
+      "description": "At least two killed as Russia, Ukraine report another night of attacks  TRT World",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-04T16:52:13.358386+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "cc6ef5e7d57b"
+    },
+    {
+      "title": "Jersey Strengthens Drone Detection Measures Following Airport Disruption - The Times Jersey",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHg0VjROb2FpVDRoOFZOYUNSNGViaVhYcV9oSGZvMTg5TmdNeV9obzNfRUlfZ2o5aXF0UlNJc2xBLTlqeFVtMDhIeEsxeDZLVXdJeDdEQWVJU041UTBCS0VXelNYV1prX182UUQxbmFWT3dJeWcxMTdkcC03Zlc1YmNMZVN0U2JHaHh6YU9jc0wzLVo0LUcwR0FBYzNrNG1wMUNRT0NEakZWemkw?oc=5",
+      "source": "The Times Jersey",
+      "date": "2026-11-04T09:46:25+00:00",
+      "description": "Jersey Strengthens Drone Detection Measures Following Airport Disruption  The Times Jersey",
+      "query": "drone airport disruption",
+      "detected_at": "2026-11-04T16:52:11.494300+00:00",
+      "location": "Unknown",
+      "category": "airport",
+      "id": "49e4fcfaffe0"
+    },
+    {
+      "title": "Man jailed for smuggling prohibited items into prison near Doncaster using drone - The Star",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ybFBxeFhaWmVpZkprajJ5Wlc2cVR6YkljUExRZ1pFQ1BzeTdIVUVIZW91b2JXMWg1T1dXV3BmbVBCejhpR3A3elBGX0xHbzc0TVZHbmlrUF9NaFpXTFVwM1dfbm1RMnk3Qlk4NDd1TG41MVlIS29JRg?oc=5",
+      "source": "The Star",
+      "date": "2026-11-04T10:03:00+00:00",
+      "description": "Man jailed for smuggling prohibited items into prison near Doncaster using drone  The Star",
+      "query": "drone smuggling",
+      "detected_at": "2026-11-04T16:52:10.390833+00:00",
+      "location": "near Doncaster using drone",
+      "category": "smuggling",
+      "id": "9a6700dbfa9b"
+    },
+    {
+      "title": "Police Drone 1 – Wanted Man 0 - North Yorkshire Police",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDNhTzJWTXh5UWtKZ21vTlpHcHdPUlcyOU1qUWZ1VjNwWDVPR2xYU25ocGZhT3ppT1NiQ04yNWJnSVVNbWNzdzRYcWkzeDgzdHZrMElrZHlRWmhVMzBvc0tRYjlQSm11Sm9JNnZnR0JyamtjYkFDbWVoSTd3VTRqQ0xuZ3NHeUxDNTBuUlg5QlJMRzNTN3ZqRHVOS1VKTDkyLURaamZrby01N0tWM0E2T1BJV3Y?oc=5",
+      "source": "North Yorkshire Police",
+      "date": "2026-11-04T16:30:00+00:00",
+      "description": "Police Drone 1 – Wanted Man 0  North Yorkshire Police",
+      "query": "drone arrest",
+      "detected_at": "2026-11-04T16:52:09.964664+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c7146d6669a4"
+    },
+    {
       "title": "Ukrainian drone strike kills two at Russian-held nuclear plant - Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3hOTVNnZHh5cjAydGpPTm51dEdLTmR1MDhDRUhTc2MwMF81MkM2enV0MkRjZmZYb3IxR1U2NXg5VDVjVms2bTVnSzYxU1lpVTJNOGgyUVRFWjlsdVFQYUNNVXM1c2dyN3NLODlXR09MaXN0X0pUN0JtRFNlaWhZbnFDcjVtMUpMRGJR?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "afc4af3a0cd8"
-    },
-    {
-      "title": "Unauthorized Drones Ground Jeju Flights Amid Rising Incidents - chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzJUaXRXeGlxZjBHVnJKT09FaUtqM2RpZUZ3N0pzRUxXdnVVNzM0YTg1STBPc3RWaGpCaXBJMW44UkpZdTRRTmdtRmlvb0lVdjdKUEY5Y3JpR055YXRncEZhNXlfeU94RlNwbXJ5RmRCNlk5Znp4U0paNXAtRFZ3OVdLdVl1RHlO?oc=5",
-      "source": "chosun.com",
-      "date": "2026-09-30T06:19:20+00:00",
-      "description": "Unauthorized Drones Ground Jeju Flights Amid Rising Incidents  chosun.com",
-      "query": "drone illegal",
-      "detected_at": "2026-09-30T08:04:25.339542+00:00",
-      "location": "Unknown",
-      "category": "security",
-      "id": "18527cf7ec4d"
-    },
-    {
-      "title": "Opinion | Vail Law: The law of drones - VailDaily.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVOUVWa3pUTTFoOGVXQzM2N3JEYXpRYmE5dHZGY2REai1uWS04Y19sWkwwSXZKbUxBbWE1TTZmT0gxQUMzR0ZrZmRzeVRIWTI1ZFBaQzJXenUzWnJFOE9MNDhaNGttU3lMLVRGcHg4TVZxLU1hZnNkdw?oc=5",
-      "source": "VailDaily.com",
-      "date": "2026-09-29T23:57:00+00:00",
-      "description": "Opinion | Vail Law: The law of drones  VailDaily.com",
-      "query": "drone illegal",
-      "detected_at": "2026-09-30T08:04:25.339542+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "9046dadd17ac"
-    },
-    {
-      "title": "Russian Drone Crashes and Explodes in Moldova, No Injuries Reported - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmcjZkNEtrMDZpbVc2UFVfbld3czZNXzFzc1FjLWUxT0FkMXlmWmJjMFpIcXQ4QjRNVHVwa2FRdWRVOW80UzFQV3ptVG5nVVVFd1dBaGhBWkNaUW1ZTTktUDlzRWg1M1JjNXc?oc=5",
-      "source": "Межа. Новини України.",
-      "date": "2026-09-30T06:52:21+00:00",
-      "description": "Russian Drone Crashes and Explodes in Moldova, No Injuries Reported  Межа. Новини України.",
-      "query": "drone crash",
-      "detected_at": "2026-09-30T08:04:24.757643+00:00",
-      "location": "in Moldova, No",
-      "category": "crash",
-      "id": "3c78e416edf0"
-    },
-    {
-      "title": "A drone’s perspective meets photographer’s thoughtful eye to create powerful crash photograph - WTOP News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHJhTi1nZ3RZQ19BRjUtbXBiekp5eVdOc3ZNWHdVMktWVVZaSEh1RHBhSlVWMlZzc2pxb045clRsd0x6TmxJTU82UDVqSWd0MzlRU0x3Mk1PZlBYNXVrUUZZajNiM0ZaZ1IycnlCdE9lTERTTl9vaUd4RkFfc1RFQndTS2ZUVlFaUE1jNTdNamVrUnhIRXNJcldkeEFLbE1NeFZPLWoxaXExOEs0alVsYzNQeEhIZ213a2t6UXJWR1pKV24z?oc=5",
-      "source": "WTOP News",
-      "date": "2026-09-28T22:17:27+00:00",
-      "description": "A drone’s perspective meets photographer’s thoughtful eye to create powerful crash photograph  WTOP News",
-      "query": "drone crash",
-      "detected_at": "2026-09-30T08:04:24.757643+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "4ec0ac7b0b60"
-    },
-    {
-      "title": "TDOC using AI, drones to stop contraband, identify threats at prisons - WKRN News 2",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaENXTmNsTUhWczBXV1dGdWpfSmJpd2o0bF9Xd3ZEYmphLVItTGNseFltOVl5ODJ2MHZGQldzZldoZE5NQTBzdzMwQXpVeHVacDBtSzMyQmhUcEMweXdHMmY2dldRMkR2M2ZnUjJQaEw4ZmpjSktVanNsbERzcEh5QkZWX2paaDZRMHlydS13ZHo2VFFHMG8zNEJ6bTFaeTjSAaQBQVVfeXFMTUt1dzR5RUVEOGtCbzd2X002eHRKT0x2bmpXak5zVXBLdU52bTFwcFFrdjd0X0ZnY3MyOENYT3l2SzQxdEZiejlRM0czU2Y4VGJRNUNoVXNMOGNJUXl2alh1TkhkQmEtN0lHaXUxYWtGQmpNZURWQ1N2aEhWcnRydURJLWJma2NzZHVTbjY5dGJlYTBLTlNBSk5rTkxJSnluWU1PMGw?oc=5",
-      "source": "WKRN News 2",
-      "date": "2026-09-30T01:54:26+00:00",
-      "description": "TDOC using AI, drones to stop contraband, identify threats at prisons  WKRN News 2",
-      "query": "drone prison",
-      "detected_at": "2026-09-30T08:04:23.663074+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "3181a04bda18"
-    },
-    {
-      "title": "AIDC, Agency of Corrections hold counter-drone drill - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVVGxIU2Z4aUZKOExuSHExcnctSTNqQU9WZUVVcHZZZUVxcjJ4RmotREV6eTNjWXp1S0YwLUhMd01uWXZJa3RPRThsUElVcHBwcHFTQ3FOVXlGbEMxV1c4NnR5MUVhaEVSeWgtem5jMG9VbHY2aTlZb0hB?oc=5",
-      "source": "Taipei Times",
-      "date": "2026-09-30T03:34:13+00:00",
-      "description": "AIDC, Agency of Corrections hold counter-drone drill  Taipei Times",
-      "query": "drone prison",
-      "detected_at": "2026-09-30T08:04:23.663074+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "494312aeb259"
     }
   ],
-  "last_updated": "2026-11-04T08:40:43.255633+00:00",
+  "last_updated": "2026-11-04T16:52:14.403238+00:00",
   "total_count": 1000
 }
