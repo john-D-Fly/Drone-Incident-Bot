@@ -1,0 +1,132 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone incidents have unfolded across various categories, with a significant focus on drug smuggling and airport disruptions. Azerbaijan reported foiled drone-based drug smuggling attempts from Iran, highlighting cross-border challenges. Meanwhile, Jersey faced airport disruptions due to illegal drone activities, prompting stronger detection measures. The aviation sector is increasingly concerned about hybrid warfare tactics, as drones are cited in bomb hoaxes and other airport-related interruptions. Notably, a Learjet crash was documented through drone footage, further emphasizing the need for effective regulation and safety policies surrounding drone operations. Additionally, law enforcement used drones to track fleeing suspects in various incidents, underscoring their utility in surveillance and public safety.",
+  "totals": {
+    "crash": 3,
+    "airport": 6,
+    "smuggling": 5,
+    "surveillance": 1,
+    "arrest": 6,
+    "other": 4,
+    "total_incidents": 43,
+    "by_category": {
+      "airport": 7,
+      "arrest": 4,
+      "crash": 4,
+      "other": 18,
+      "smuggling": 9,
+      "surveillance": 1
+    },
+    "by_query": {
+      "drone airport disruption": 6,
+      "drone arrest": 10,
+      "drone crash": 2,
+      "drone illegal": 3,
+      "drone incident": 6,
+      "drone prison": 2,
+      "drone smuggling": 7,
+      "drone terrorism": 7
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drug smuggling",
+      "rationale": "Several incidents involved drones facilitating drug smuggling across borders.",
+      "incident_ids": [
+        "54b2378c173f",
+        "4d9b9d6f4fc8",
+        "86939fa74028",
+        "7a8b41755697",
+        "9a6700dbfa9b"
+      ]
+    },
+    {
+      "topic": "airport disruptions",
+      "rationale": "Multiple incidents regarding illegal drone activities disrupted airport operations in Jersey.",
+      "incident_ids": [
+        "7e9c286b991d",
+        "a3f2e911f70a",
+        "c4d448da338b",
+        "a1aba25bab61"
+      ]
+    },
+    {
+      "topic": "drone incidents",
+      "rationale": "Highlights the variety of drone incidents, including crashes and surveillance.",
+      "incident_ids": [
+        "13eedda7954d",
+        "0b0a6e53f9a2",
+        "70259d45084f",
+        "67944666a9bf",
+        "f4d018bd5459"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "54b2378c173f",
+      "headline": "Azerbaijan foils drone-based drug smuggling attempt from Iran – SSS",
+      "one_sentence": "Azerbaijan reported foiling a drone-based drug smuggling attempt from Iran.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a3f2e911f70a",
+      "headline": "Two Nights of Drone Disruption: Jersey Airport Flights Affected",
+      "one_sentence": "Jersey faced significant disruptions at the airport due to illegal drone activities.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "13eedda7954d",
+      "headline": "Drone Footage Of Learjet Crash Site Shows Crater",
+      "one_sentence": "Drone footage revealed the crash site of a Learjet, highlighting safety concerns in aviation.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "7e9c286b991d",
+      "headline": "Jersey Strengthens Drone Detection Measures Following Airport Disruption",
+      "one_sentence": "Jersey authorities are enhancing drone detection measures after recent disruptions.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "4d9b9d6f4fc8",
+      "headline": "DTX detains suspects in drone drug smuggling case in Bilasuvar",
+      "one_sentence": "DTX in Azerbaijan detained suspects related to a drone drug smuggling case.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "d167d328dbe7",
+      "headline": "Thousand Oaks UAS Drone Unit Tracks Fleeing Robbery Suspect",
+      "one_sentence": "Thousand Oaks police utilized a drone unit to track a fleeing robbery suspect.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents include drug smuggling cases and significant disruptions at Jersey Airport requiring improved detection measures.",
+    "linkedin": "The latest drone-related incidents reveal escalating issues in drug smuggling and increased demands for better safety measures at airports."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-05"
+}
