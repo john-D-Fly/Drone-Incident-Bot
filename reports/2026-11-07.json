@@ -1,0 +1,150 @@
+{
+  "narrative_summary": "In the past 48 hours, there has been a notable surge in drone-related incidents that span various concerns including crashes, airport disruptions, and illegal activities. Significant events include a drone crash involving a Learjet in Florida, raising safety alarms. Concurrently, unauthorized drones have disrupted flight operations at multiple airports, prompting heightened security scrutiny. Drone smuggling attempts were also reported across borders, indicating ongoing challenges in controlling illegal activities facilitated by drone technology. Furthermore, reports of drone strikes leading to casualties in conflict zones highlight the evolving threat landscape associated with drone usage. Overall, the incidents underscore the dual-use nature of drones, necessitating urgent policy discussions on regulations and safety measures regarding their operation.",
+  "totals": {
+    "crash": 7,
+    "airport": 5,
+    "other": 9,
+    "smuggling": 2,
+    "terrorism": 4,
+    "arrest": 10,
+    "interference": 1,
+    "total_incidents": 40,
+    "by_category": {
+      "airport": 5,
+      "arrest": 7,
+      "crash": 9,
+      "interference": 1,
+      "other": 13,
+      "smuggling": 2,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 6,
+      "drone crash": 9,
+      "drone illegal": 4,
+      "drone incident": 7,
+      "drone prison": 2,
+      "drone smuggling": 1,
+      "drone terrorism": 5,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone crashes",
+      "rationale": "Multiple incidents related to drone crashes indicate a pattern of risks associated with drone operations.",
+      "incident_ids": [
+        "9aa718f51267",
+        "1a8925384a94",
+        "914307f2b2a9",
+        "13eedda7954d",
+        "ef3b9f10beb2",
+        "6c1b9b2bf7c1",
+        "d8dd232d9dab"
+      ]
+    },
+    {
+      "topic": "smuggling attempts",
+      "rationale": "Reports highlight ongoing smuggling activities using drones, illustrating the exploitation of drone technology for illicit purposes.",
+      "incident_ids": [
+        "2996d355511f",
+        "54b2378c173f"
+      ]
+    },
+    {
+      "topic": "airport disruptions",
+      "rationale": "Multiple unauthorized drone incidents at airports have raised safety concerns and affected flight operations.",
+      "incident_ids": [
+        "3bffba360622",
+        "3dc7df1d3d5d",
+        "e08f1fbca40c",
+        "5ba0133c328c",
+        "0b0a6e53f9a2"
+      ]
+    },
+    {
+      "topic": "arrests related to drones",
+      "rationale": "Several arrests have been made involving drones, indicating law enforcement's active engagement with drone-related issues.",
+      "incident_ids": [
+        "gnhlDrnoho",
+        "c90bd1762de6",
+        "61d0ce392bf9",
+        "gktsIYvtw"
+      ]
+    },
+    {
+      "topic": "terrorism and conflict zones",
+      "rationale": "The use of drones in conflict areas and allegations of drone technology transfer to terrorist groups suggest a growing threat.",
+      "incident_ids": [
+        "bc8de0798d90",
+        "fa30d2b09c81",
+        "d8dd232d9dab",
+        "09dce2cf8bc1"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9aa718f51267",
+      "headline": "Florida Learjet crash linked to drone activity.",
+      "one_sentence": "A Learjet crash in Florida raises concerns about potential drone interference.",
+      "risk_tags": [
+        "crash",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "5ba0133c328c",
+      "headline": "Unauthorized drone disrupts flights at DC airport.",
+      "one_sentence": "Unauthorized drone reports cause flight operations to pause at a highly restricted DC airport.",
+      "risk_tags": [
+        "airport",
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "2996d355511f",
+      "headline": "Border smuggling attempt foiled by drone.",
+      "one_sentence": "An attempt to smuggle illegal weapons via drone from across the border has been thwarted.",
+      "risk_tags": [
+        "smuggling",
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3bffba360622",
+      "headline": "Rising airport drone alerts expose safety flaws.",
+      "one_sentence": "Increase in drone alerts at airports raises significant safety concerns.",
+      "risk_tags": [
+        "airport",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "bc8de0798d90",
+      "headline": "Violence erupts in conflict zones due to drone strikes.",
+      "one_sentence": "Recent drone strikes in a conflict zone result in multiple casualties.",
+      "risk_tags": [
+        "terrorism",
+        "violence"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "In the last 48 hours, notable increases in drone-related incidents highlight emerging safety and security challenges.",
+    "linkedin": "Recent drone incidents indicate rising complexity in managing safety and security concerns in aviation and law enforcement."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-07"
+}
