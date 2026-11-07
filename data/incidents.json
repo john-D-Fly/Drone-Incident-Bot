@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Drone assists deputies during traffic stop leading to felony arrest - KTVN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ1NZeTBkN3o5UkJ2VVdXUWtPNGlwQ2kyOHphWWUyNU94QVdiVjRSU043WFY3WDhsQzBkZ2s5TXNTc1ZabG5tckc3dVVfdVBqY0dVNEtnT1AwWmRST1RQY3lBRVE3MnRXaGtUVExOXzFCZ0dSU2FCVHFMY1pMYXNrZWV3REIyYThSQVFyOTYyS2h1aFBKZy0welpzSTMyMXlGVnJOeXprOTJkV0pidFBIMTFuY2pOUWhYVFRkRXd3cTV6S2h0SG1tdG1BbUNuVHdvVHNDU0pEN3FPVUZEUm5YcHB3?oc=5",
+      "source": "KTVN",
+      "date": "2026-11-07T23:01:00+00:00",
+      "description": "Drone assists deputies during traffic stop leading to felony arrest  KTVN",
+      "query": "drone arrest",
+      "detected_at": "2026-11-07T23:27:12.424490+00:00",
+      "location": "Unknown",
+      "category": "arrest",
+      "id": "3f3b8fd7896d"
+    },
+    {
+      "title": "Basic facts so far about latest drone incidents in Latvia / Article - LSM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnRvaUd6ZkMzaG5CUW80YllJaU51aXFCaUIxS0FyVjBoUWFHTElkMjBKblNDdDd2eFZzN1U1VXp6ZGFZbFRTZjcweHIxRXJoM0RSejZ2VGlpWnVDODBiVEIwZmgxVVhqTVJZbzd6UEJPLWZaWDFXU1BCalYwSjZ0Q0JMT0lWTm82TGstUGRGanF6N1VJTjZFODRLbjBOTENyUG1BUVVDMHVEakhvUTFCVFhSSlVZRUFCY2poYQ?oc=5",
+      "source": "LSM",
+      "date": "2026-11-06T19:08:15+00:00",
+      "description": "Basic facts so far about latest drone incidents in Latvia / Article  LSM",
+      "query": "drone incident",
+      "detected_at": "2026-11-07T23:27:11.934225+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "c58bbb0eb6d8"
+    },
+    {
       "title": "An enemy drone crashed in the Omelnytsia community - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tcTRoMU1BOHRtSDkyTXRra2Fpc00yM0FEbF9VNWJEai1tcWkxMEJyOHVHSXZzVE9La25QeVFMNkp0UUh1NDBuTmZob0tOTEpERmVCRm9pekFmakpvR2V1VXZjVlNPbTF5bkE?oc=5",
       "source": "Mezha.net",
@@ -11975,32 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "de0b60501ec2"
-    },
-    {
-      "title": "Japan begins recovery of crashed Global Hawk drone from seabed - India Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0J5dmRQbE5uUThPRk1ZWXRseDRVc0l3bF9UaFFlQ3hRbmNMRXhxSGZoNFJKYnlLaE01SzVzZzlnRHNTVlNXdDhjd0p2Z1c2LWxCZVk3QUFIQ0RkS0xaV0tSbkhkMWJhRHZhNTV1V2pKcVMycFhHRUc5eVN0YU8tMVFQcTJldjlHMWVBY2ExdUctbld6SHhwNF9lQ00zMHhEWGkwN2NfaU9scHFYbG96VWhUOWs4bDVoQkY3MXZWb0c4RHRWcnM5bzQ4VDHSAdIBQVVfeXFMUFFnMjFJaUZzdm9qYTBJVzhSN1JGUDh5U3FPWXNfbGNYLUhJcmxhejBHRzhTaS1WV1F6T3hRUmZsTGI1aWJ0dVJxUl84TVJtVWFVa3FEaWdGT0JLdXRzRzZLOVpHQmdtWEViS2NxOFFyWXIxWHk2a0dpb1JGZXZUQ1JSekJYVWtWSEhVZ0ItSlFNUVNsMTBCeEN3bXlLNS1DU1RhVTdDUVFHQk04QlY4YjV2NktxbGhTSkRhbDg1TnVMSVZrak9mLVI3NkNMT1pXVFBR?oc=5",
-      "source": "India Today",
-      "date": "2026-10-02T10:04:33+00:00",
-      "description": "Japan begins recovery of crashed Global Hawk drone from seabed  India Today",
-      "query": "drone incident",
-      "detected_at": "2026-10-02T13:36:25.995079+00:00",
-      "location": "Unknown",
-      "category": "crash",
-      "id": "40f05dbd8633"
-    },
-    {
-      "title": "FBI Alert: Strict ‘No Drone Zone’ In Effect During 2026 Albuquerque International Balloon Fiesta - ladailypost.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNjJ1ZFBLdU9jN1hkTldHRzdhX256U0hkLU9YMWxhNHRnZ1ZXVDBOZ2FqZnh2NnJxeWF1cW95ZzQtU1o5TmFKNUZac3hoUVpXNlFDaG5oeWFTaGRhYU5vTXVLMUktZ3hCTjFpRmpiS0lmeVFyYUtMNl9haXdFbmhUZWhYYUM1NkJ6VGJpb25SVUN6T3BGS28xV2dvTUlTX0o4YVNwNkxuNnJvdnJ4Ni1hU3Fxc3dualN3TVVvbnpxenM2MHgwMXFKZXF5REVFWDNMNHlQdElpdkd3bnlrQWtJMTVkZ2d2NHB4NlRTNjZmVXFjUmpKM3Zab0tYZVN6Z0JLb0ZiV19pX0JhR1h4eWZnTFg3Z3dXQ1FqUGM4NXcyQTk?oc=5",
-      "source": "ladailypost.com",
-      "date": "2026-09-30T17:45:00+00:00",
-      "description": "FBI Alert: Strict ‘No Drone Zone’ In Effect During 2026 Albuquerque International Balloon Fiesta  ladailypost.com",
-      "query": "unauthorized drone",
-      "detected_at": "2026-10-02T06:44:11.537256+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "c0d6fb5ba640"
     }
   ],
-  "last_updated": "2026-11-07T19:54:21.485521+00:00",
+  "last_updated": "2026-11-07T23:27:16.381539+00:00",
   "total_count": 1000
 }
