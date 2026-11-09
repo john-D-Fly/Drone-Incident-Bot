@@ -1,0 +1,121 @@
+{
+  "narrative_summary": "Over the past 48 hours, multiple drone-related incidents have been reported, highlighting a range of security and operational challenges. Significant events included the U.S. government accelerating the deployment of counter-drone systems to mitigate threats, while unauthorized drones temporarily halted flights at a D.C. airport. In Ukraine, Russia's drone strikes resulted in injuries to energy workers and destruction to residential areas. Additionally, there were reports of illegal tobacco operations being facilitated by drone cash drops. The frequency of arrests related to drone activities was notable, alongside legislative debates in the Czech Republic about enhancing powers to tackle drone breaches. Overall, the incidents indicate an escalation of both criminal use and governmental responses to drone technology across various regions.",
+  "totals": {
+    "other": 7,
+    "terrorism": 1,
+    "arrest": 5,
+    "airport": 1,
+    "crash": 1,
+    "security": 1,
+    "total_incidents": 16,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 1,
+      "other": 8,
+      "security": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone arrest": 5,
+      "drone crash": 1,
+      "drone illegal": 1,
+      "drone incident": 3,
+      "drone security breach": 1,
+      "drone terrorism": 2,
+      "unauthorized drone": 3
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Counter-drone Measures",
+      "rationale": "Growing incidents provoke response strategies.",
+      "incident_ids": [
+        "67cc32bf5d9f",
+        "6e04ed7ae91c",
+        "b0ac8dc77a33"
+      ]
+    },
+    {
+      "topic": "Drone-related Crime",
+      "rationale": "Various illegal activities facilitated by drones.",
+      "incident_ids": [
+        "3d84791bd80d",
+        "5f8354853c21"
+      ]
+    },
+    {
+      "topic": "Military Drone Strikes",
+      "rationale": "Hostile use of drones impacts civilian infrastructure.",
+      "incident_ids": [
+        "944df8c372f7",
+        "69155bf482ac"
+      ]
+    },
+    {
+      "topic": "Unauthorized Drone Sightings",
+      "rationale": "Incidents disrupting aviation and public safety.",
+      "incident_ids": [
+        "b9f5b396eab7"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "67cc32bf5d9f",
+      "headline": "US accelerates deployment of counter-drone systems",
+      "one_sentence": "The US is speeding up its counter-drone systems to address increasing drone threats.",
+      "risk_tags": [
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "6e04ed7ae91c",
+      "headline": "US vows to address drone threats",
+      "one_sentence": "The US government has vowed to enhance its drone threat response capabilities.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b9f5b396eab7",
+      "headline": "Unauthorized drone disrupts airport operations",
+      "one_sentence": "Flights at a D.C. airport were paused due to unauthorized drone activity.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "3d84791bd80d",
+      "headline": "Drone cash drops fuel illegal tobacco crime wave",
+      "one_sentence": "Drones are being used for cash drops to support illegal tobacco operations.",
+      "risk_tags": [
+        "illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "69155bf482ac",
+      "headline": "Russia strikes Ukraine's residential buildings",
+      "one_sentence": "Russian drone strikes in Ukraine have led to residential building fires.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight a surge in illegal use and countermeasures, with significant disruptions reported in various regions.",
+    "linkedin": "Over the last 48 hours, we witnessed a notable increase in drone-related incidents, underscoring both the risks of illegal operations and the urgent need for enhanced counter-drone strategies."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-09"
+}
