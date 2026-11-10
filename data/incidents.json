@@ -1,6 +1,78 @@
 {
   "incidents": [
     {
+      "title": "Trump Administration Expands Federal Effort to Combat Drone Threats - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOW00UXU0STFGel9lOFU2cFdCUVVpQUU5MjEtM21oOGRUcF8tVVpFdHRoemVxUm8zZ2ZmOUFndUl2bnJSdk5NU1NWQnhlemYxREt1ckMyLUpUeTBHUEo3NWpheDcxU3VEb3VkZFFqemJ6UU1ZSXBxeDlPRmlaalo4Y2t1eENxQnVCcGxjc21UQlNwZmNGZ2VBTW9tN3ZDQzhRQVUw?oc=5",
+      "source": "Newsweek",
+      "date": "2026-11-09T20:41:00+00:00",
+      "description": "Trump Administration Expands Federal Effort to Combat Drone Threats  Newsweek",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-10T03:11:37.309034+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "6a404aab8aa3"
+    },
+    {
+      "title": "US vows to speed up deployment of counter-drone systems to address threats - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHB2MXAwekpROXFyYmtXSFNON1p4QzZjMHdvaUV3OXJrWmotTVdrcGt1QzFRNHduVFA5U09fUnpQbFVpX09TMEhJOVVvYVk2TDAyTmk1c2hZRnUxV1B1VkVUZDJaM3J5Mm5ZNTZYS0pqQ040dUFJcWxkcUlkaEZHc3Y0M3lieUM5ZnB1UUUtd1E5cVBxMTg5M2NWS1VDaTFRZkhncjJjQWs?oc=5",
+      "source": "WTVB",
+      "date": "2026-11-09T16:37:26+00:00",
+      "description": "US vows to speed up deployment of counter-drone systems to address threats  WTVB",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-10T03:11:37.309034+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "42c62905e7e5"
+    },
+    {
+      "title": "Agencies agree to counter unauthorized drones without compromising civilian safety, under new MOU - DefenseScoop",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYThybm40WERSZHFPLWFkZE82NGh0eVNFQ05lSFFEdFVWNHl3RnE5MlNUUXhndmYzdHdDanlQQWsyQXVzU2dibnJLdGZNR2djX0lXaW53YjBhcjhTelJPTS1lTjRHWkcwMkUzUnpLancxNnZsbWZmNTJWU1JGQ2FhNlpzR2xRRnU4V1hsemJfVW9mYWJWd3VCMlpvSFg2VFc3WE9nU0Z3NEU5TlJxTVhDZmxwb2oyRUdyRDdBcThBNkVXNmdROVpqRTduTHBSUQ?oc=5",
+      "source": "DefenseScoop",
+      "date": "2026-11-09T21:18:35+00:00",
+      "description": "Agencies agree to counter unauthorized drones without compromising civilian safety, under new MOU  DefenseScoop",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-10T03:11:37.309034+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "cd303806e70a"
+    },
+    {
+      "title": "Army Drone Crashes in Gimpo: Communication Failure - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMW5TaE94YmdJVE45aWxqZ05HNTdZRjJRYVlfQTRkZ1VNMnNIc3dJQ0RGS0xQbUlEVHJmZ0tGUm9ieVdRNkxKQTlVVDItaXFxbXpka2lCTkNKbnFyaVd2X2UyZHdNQV9CNk1tNXh6TWlOb0VwaHNRaXJxWTJSRnVoaDJIU1lWV3lB?oc=5",
+      "source": "조선일보",
+      "date": "2026-11-10T02:40:49+00:00",
+      "description": "Army Drone Crashes in Gimpo: Communication Failure  조선일보",
+      "query": "drone crash",
+      "detected_at": "2026-11-10T03:11:35.592443+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "5d2237197f03"
+    },
+    {
+      "title": "Suspected drone crashes in Gimpo - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYjdhdTBEdEZYN3QwSTBieF9UN0czNmV0VDI0b3JHS01oanhjaUxCMlFhcVFPZkl0eFlmdkY5YVF5TkM0bTQwWHVQUl9ITnJDTHdpYnotVkFTQQ?oc=5",
+      "source": "Yonhap News Agency",
+      "date": "2026-11-10T02:01:37+00:00",
+      "description": "Suspected drone crashes in Gimpo  Yonhap News Agency",
+      "query": "drone crash",
+      "detected_at": "2026-11-10T03:11:35.592443+00:00",
+      "location": "Unknown",
+      "category": "crash",
+      "id": "4e27bb5ddaf6"
+    },
+    {
+      "title": "Multiple packages of contraband seized at Collins Bay Institution result of suspected drone drops, exceptional searches - Kingstonist News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSFRKb0g0dDkxSzJSYWFNMUVtdExlSGY4dFpLRjMzMXNzSHNua0VWalloRFdTVFlWd1NMd2s2dDNsNEtfdk9pamdtUFdHWU5DenpDVE90MHNCcXphcnZCQzQwZ0VMOVhJMWdZQnItbHJPSXV0WjB0ZDBYUFExbGFPcXhRRVdrRkVsaGZXek5UaWpFSk1neWxtcFprZmQ5TW5HaS1UY1YxcUpGbVpXTVJna1JvVDJPd0ctakRFLWttTUtXMlBmUFRPUmptaUZsbEdMUlFpdTRTaFVucGd0akZreWFtTXNaVFk?oc=5",
+      "source": "Kingstonist News",
+      "date": "2026-11-09T19:41:25+00:00",
+      "description": "Multiple packages of contraband seized at Collins Bay Institution result of suspected drone drops, exceptional searches  Kingstonist News",
+      "query": "drone prison",
+      "detected_at": "2026-11-10T03:11:34.487272+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "99304e688be1"
+    },
+    {
       "title": "US accelerates deployment of counter-drone systems — Al Jazeera - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmJ2X2czc2NObjRWaXlxQUszeU5rNVpyM1FhdnE4RVRBd3JEbXp4Wk5tVXdHbGdYVDc0MjR5WEROM0taSS1aOFBtLTZqSS1kSzU5SXlyMjJ4WmpaUmpPZ0puNExkNzZCR0NLZExtaHdaejAtdW9iOVktS0dsUHFyYzhsZ2J3UXVWQmZaUDh2S1lSWUpLa2IxLTlnY245aHc?oc=5",
       "source": "UA.NEWS",
@@ -11927,80 +11999,8 @@
       "location": "Unknown",
       "category": "arrest",
       "id": "319eaa668693"
-    },
-    {
-      "title": "Everett Police drone racks up two more arrests - Everett Post",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHE1c1dJYjJtNmwteWlYb1o3Y09EWmVzZVhUYVlXNlp1dV9RUDZjLWxhUEQxRlAzc3Jqc3lObEE3WVRFUXFpRjVWZTNrSlNWZnlPUk1rY0FKNHh5eUpxRFFoaS1KV3NsYnlQbHFQcXlyMlN2bE02eHM1VGFGNWhhSW5xVU1GVXp6MnNVQWVScw?oc=5",
-      "source": "Everett Post",
-      "date": "2026-10-02T21:34:54+00:00",
-      "description": "Everett Police drone racks up two more arrests  Everett Post",
-      "query": "drone arrest",
-      "detected_at": "2026-10-03T01:45:07.527654+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "88e8b062281f"
-    },
-    {
-      "title": "Russian drone strikes Kyiv school, pupils escape unhurt - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnFjaWVIMl9qUFNhR2VXS1FLb3lIQ1BIT3VCRTZnRWpvZk9WT3hVY2pfZENXUFJ0MHF1eE9hak1YZkhRX3NWWFV1OFo0bEVaeW85ampfYjNKeHpnNFJ3Vk8wdTN1bkFVNDZ2MHlNREJsNms0eTBVT0J1amdldUdHbG80Qkx0Yk9NSGdUc2VRSG9jb052MHdMVlY1ZUFNRjF0RnlPS2NaaDlZdENJT3pBaDJ0OA?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-01T04:18:00+00:00",
-      "description": "Russian drone strikes Kyiv school, pupils escape unhurt  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-10-02T22:55:21.016975+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "30e9d83aaa93"
-    },
-    {
-      "title": "Crime, kidnappings and drone attacks flagged in US warning for border region - 930 WFMD Free Talk",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFJNUmx1a0FqcndXaEp5LWhZdVhFTk9XYktIcWYzYllOTmhaTUEtbmx3eHNRM0FPdVgtSDBsWjhzbkJteVVSQ29URm41Vk9jVGNUV3V1YlEwUExUWV9mXzlSOU00MzlnTnZaWUdSSlVRcm95a0lsbG5lbjR1OFpZZE1hUzFReVNLTVQtVU04dGNtYzU3YTV3VzlENzUzMGcxTFpOWVJpVlhUWTRK?oc=5",
-      "source": "930 WFMD Free Talk",
-      "date": "2026-10-02T21:16:08+00:00",
-      "description": "Crime, kidnappings and drone attacks flagged in US warning for border region  930 WFMD Free Talk",
-      "query": "drone terrorism",
-      "detected_at": "2026-10-02T22:55:21.016975+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "0e15ff11ebe9"
-    },
-    {
-      "title": "Russian airstrikes choke bridges across Dnipro River in Kyiv - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5TTks5OXBwTG8wMk1WQ0hCaUxRenlXMnBVZlBNVklSZHBDQmg5SmNTRWE5dkFwb1VpM21IUlljMThNTkpveEZlNlJvemhSMDBuOUJRcldyRThMNUoybnE5dW51LThsNW5tODlZWUd0ZlgxcFhTb01ITVRUT05zbVpwaVJ0dnB1VU40cFVLUVlPM2VBMk8zUFpTUXEzVXg1VUdWc1EtY1ZnWlpMWkJJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-02T04:32:00+00:00",
-      "description": "Russian airstrikes choke bridges across Dnipro River in Kyiv  Reuters",
-      "query": "drone terrorism",
-      "detected_at": "2026-10-02T22:55:21.016975+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "de224eb0cdec"
-    },
-    {
-      "title": "Russian drone crashes onto highway in Poltava region, truck catches fire - ukrinform.net",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOay1WS2llRks1VHk1V1ZfYm9kXzg5X3F3emxnZGN2MFhxTklEQzJGX2pNblI1SDBFdG5MT1V5czlMcGptNURXbzBkM296aUJnNU5na1YyRHBWdVg0ZlFpRC1VNTdWNW5vU2V4dmwydGlWTXN6ai1lV2ZEV3JFc2Q1SlVaSUw3QmIzdF9MLTVPXzNzNHh0aWdnTElwSmVkOHA3Uy11ZndTTVlhbkVjTGxIYzlwMlRzOWVOWjJlQkgzUFZlUVHSAcMBQVVfeXFMTmstVktpZUZLNVR5NVdWX2JvZF84OV9xd3psZ2RjdjBYcU5JREMyRl9qTW5SNUgwRXRuTE9VeXM5THBqbTVEV28wZDNvemlCZzVOZ2tWMkRwVnVYNGZRaUQtVTU3VjVub1NleHZsMnRpVk1zemotZVdmRFdyRXNkNUpVWklMN0JiM3RfTC01T18zczR4dGlnZ0xJcEplZDhwN1MtdWZ3U01ZYW5FY0xsSGM5cDJUczllTloyZUJIM1BWZVFR?oc=5",
-      "source": "ukrinform.net",
-      "date": "2026-10-02T14:21:00+00:00",
-      "description": "Russian drone crashes onto highway in Poltava region, truck catches fire  ukrinform.net",
-      "query": "drone crash",
-      "detected_at": "2026-10-02T22:55:19.335723+00:00",
-      "location": "in Poltava region, tr",
-      "category": "crash",
-      "id": "8e5f9e74d03c"
-    },
-    {
-      "title": "Everett Police drone racks up two more arrests - everettpost.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHE1c1dJYjJtNmwteWlYb1o3Y09EWmVzZVhUYVlXNlp1dV9RUDZjLWxhUEQxRlAzc3Jqc3lObEE3WVRFUXFpRjVWZTNrSlNWZnlPUk1rY0FKNHh5eUpxRFFoaS1KV3NsYnlQbHFQcXlyMlN2bE02eHM1VGFGNWhhSW5xVU1GVXp6MnNVQWVScw?oc=5",
-      "source": "everettpost.com",
-      "date": "2026-10-02T21:34:54+00:00",
-      "description": "Everett Police drone racks up two more arrests  everettpost.com",
-      "query": "drone arrest",
-      "detected_at": "2026-10-02T22:55:16.979327+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "2d50f83d3900"
     }
   ],
-  "last_updated": "2026-11-09T20:26:43.843926+00:00",
+  "last_updated": "2026-11-10T03:11:37.704622+00:00",
   "total_count": 1000
 }
