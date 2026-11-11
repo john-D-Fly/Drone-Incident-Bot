@@ -1,0 +1,168 @@
+{
+  "narrative_summary": "In the last 48 hours, multiple drone incidents have become prominent globally. Notably, NATO jets were scrambled in Lithuania following suspected drone incursions, highlighting escalating tensions in Eastern Europe and the security implications involved. Simultaneously, a Ukrainian drone blitz has reportedly severely impacted Russian oil refining capabilities. Various reports emerged concerning drone-related smuggling activities, with a continued uptick in contraband drops into prisons, notably in Texas and Canada. Drug and arms trafficking via drone systems remain alarming issues, prompting law enforcement responses in multiple regions. The exploration of AI drones for monitoring purposes along the US-Mexico border surfaces as a significant move in addressing unauthorized drone operations. Additionally, discussions surrounding aviation security risks caused by drones have gained traction amongst policymakers. Overall, this period has showcased the diverse applications and threats posed by drone technology.",
+  "totals": {
+    "other": 10,
+    "terrorism": 6,
+    "crash": 6,
+    "smuggling": 8,
+    "arrest": 9,
+    "airport": 5,
+    "security": 4,
+    "total_incidents": 69,
+    "by_category": {
+      "airport": 4,
+      "arrest": 6,
+      "crash": 12,
+      "interference": 1,
+      "other": 21,
+      "security": 4,
+      "smuggling": 12,
+      "terrorism": 9
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 9,
+      "drone crash": 10,
+      "drone illegal": 1,
+      "drone incident": 12,
+      "drone prison": 7,
+      "drone security breach": 1,
+      "drone smuggling": 6,
+      "drone terrorism": 8,
+      "unauthorized drone": 12
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Rising incidents of unauthorized drone usage and smuggling underscore the necessity for heightened security measures.",
+      "incident_ids": [
+        "ad58da31dcbd",
+        "0a1117f3f8b2",
+        "9f7fe693abec",
+        "b8cbfcaee198",
+        "65fbbb4cd5bd"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Drug Trafficking",
+      "rationale": "An uptick in drone smuggling activities for drug and arms trafficking highlights evolving challenges faced by law enforcement.",
+      "incident_ids": [
+        "502a5a8cfba9",
+        "6df32daaabe5",
+        "987b15a1cc71",
+        "9cfe3018b303",
+        "ef467cd2dd8b"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Several incidents involving drone crashes reflect ongoing operational risks and safety challenges within drone programs.",
+      "incident_ids": [
+        "63ef0e1fa738",
+        "f0442e8647b3",
+        "6f058572489b",
+        "11876650a9a5",
+        "4e27bb5ddaf6"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ad58da31dcbd",
+      "headline": "AI Drone ‘First Responders’ Could Soon Track Migrants at US Border",
+      "one_sentence": "AI drones may soon assist in tracking migrants at the US-Mexico border.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "502a5a8cfba9",
+      "headline": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
+      "one_sentence": "A new wave of Ukrainian drone strikes has significantly reduced Russian oil refining capabilities.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "63ef0e1fa738",
+      "headline": "Possible Russian Ka-52 crash reported amid overnight drone attack on St. Petersburg",
+      "one_sentence": "A potential crash of a Russian Ka-52 helicopter followed drone strikes on St. Petersburg.",
+      "risk_tags": [
+        "drone crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "9f7fe693abec",
+      "headline": "Inside the booming, deadly business of smuggling drugs into Texas prisons",
+      "one_sentence": "Reports highlight the alarming rise in the use of drones to smuggle drugs into Texas prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b8cbfcaee198",
+      "headline": "Authorities believe drone used to introduce contraband into federal prison",
+      "one_sentence": "Authorities suspect that drones are facilitating contraband deliveries to federal prisons.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "c331ad28df6b",
+      "headline": "Basic facts so far about latest drone incidents in Latvia",
+      "one_sentence": "Recent drone incidents in Latvia reflect growing tensions in eastern European airspaces.",
+      "risk_tags": [
+        "other"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "cc354ffc9c7a",
+      "headline": "Lithuania shuts airports, scrambles NATO jets over suspected drone incursions",
+      "one_sentence": "Suspicious drone incursions prompted Lithuania to close airports and scramble NATO jets for security.",
+      "risk_tags": [
+        "airport"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "1f48f295b94b",
+      "headline": "Fly-tipper near St Albans caught by drone footage dumping waste",
+      "one_sentence": "Drone footage helped identify a fly-tipper near St Albans caught dumping waste illegally.",
+      "risk_tags": [
+        "drone illegal"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "6df32daaabe5",
+      "headline": "Military drone crashes in Gimpo; no civilian damage reported: Army",
+      "one_sentence": "A military drone crash occurred in Gimpo; fortunately, there was no reported civilian damage.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents reveal a surge in smuggling, crashes, and security threats amid NATO tensions.",
+    "linkedin": "In the past 48 hours, drone-related activities have highlighted smuggling, security risks, and military operations across various regions."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-11"
+}
