@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Philippine Police Ban Unauthorized Drone Flights in Clark and Subic for 49th Asean Summit - Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00RGY2S194ajJsR0NDRWtmdElNLTNUM2J3UWVfVlU5ZWF6ejVmTVVCLVczNVBhdk9ycnAyNV9fejM0LWlQWnhIM0hEM1BWa0FkeUlBdjBfUU03WERkUzU2Q1dyTERSTDVpUU9XYk4tSGxlcGM?oc=5",
+      "source": "Avi-Go",
+      "date": "2026-11-13T06:58:46+00:00",
+      "description": "Philippine Police Ban Unauthorized Drone Flights in Clark and Subic for 49th Asean Summit  Avi-Go",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-13T10:36:14.195046+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "3aedc4dd9f4f"
+    },
+    {
+      "title": "Dong-gu Holds 'Chungmu Training' to Prepare for Drone Terror at Multi-Use Facilities - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zMmtqYWVzbXU5VHVoVmhONURCTnhWUnBCekdXR0pJc0E1R1RTVnZlUnNpOElfdG9KbkF4dGRzd3MtUm4ySUNWUktldTk1SENRcTRnRjBzZ1ZxZHA3b1prc0M1ZEI?oc=5",
+      "source": "아시아경제",
+      "date": "2026-11-13T06:47:23+00:00",
+      "description": "Dong-gu Holds 'Chungmu Training' to Prepare for Drone Terror at Multi-Use Facilities  아시아경제",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-13T10:36:13.843182+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "afc9c44be418"
+    },
+    {
+      "title": "Ring Drone Cam Prototype Hit A Wall On CBS When It Should Have Landed - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDFUY0tnQlRQVjhnRmdUdFNZT25fVm4tNllfV1hqbGNVQVhUbVZvZHRrY1U5MlFmQ3RBc29jZk1BYnJBeHVzVEM1Sk1DQnZvMXlwUi1WN1lrQ3k2SkFtNlg4d1lvU0ZEUGFkeEQxaE1CNl9iXzI4UjNBOFNaSmVvRmpIRHNrTUp2Ulhv?oc=5",
+      "source": "DroneXL",
+      "date": "2026-11-13T09:59:00+00:00",
+      "description": "Ring Drone Cam Prototype Hit A Wall On CBS When It Should Have Landed  DroneXL",
+      "query": "drone crash",
+      "detected_at": "2026-11-13T10:36:12.695318+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "252ed34d3186"
+    },
+    {
+      "title": "Drone Contraband Delivery at South Carolina Prison Leads to Federal Sentence - Security Info Watch",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOLVlaNkcyVW9vYkcyRTRXQ0lrTDV0ajFERjd1cWNsaEUtS1FLTEQyazlQSmppVml4QzhqSF91cmI3M3lRRTN3cG9pQnN4aEVTTVd1MUZJa3E5blN1ZGlDNHZ1U19ZbUVCREVKRE94TXBYTGxabUpoa0hBZjJjOTZXOUprOE85Z1ROS2ZYamVrbFdETTJlTElpaHBHRlhaalQzejhQcUZITklVZlRvY2Y2cFNSTGdzZ1lKOXpoUUJJb3R5T1EzVjNSOGMzcndjeV9VaTV0aFpCQ2ZocWZySzFpeXh3cWdQdTVjdUV5MF8zZVgzRXhiVFg2dDVHREdUX3FxbWI2ZGhvNTNZa0xfUXp1bVJ3?oc=5",
+      "source": "Security Info Watch",
+      "date": "2026-11-12T22:46:59+00:00",
+      "description": "Drone Contraband Delivery at South Carolina Prison Leads to Federal Sentence  Security Info Watch",
+      "query": "drone prison",
+      "detected_at": "2026-11-13T10:36:11.239896+00:00",
+      "location": "at South Carolina Prison",
+      "category": "smuggling",
+      "id": "2653fa15d0e6"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland - Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHZLR1NUaGlQOWlfMWdYZGU4eGNyaV9DNlEyNmJzOVBzWTF2c1VlRWllZEpKdTNyUXRqY0JEX3FrREVIMWtVei1pOHJod2kwekFTNVYzeUdGaWFYa0tlZmJiVjlTbnI5SDFGNXhMd2FuQWdqUmZTTnFyN180aWZPOGJ5R0d6dGg3TnRpbjhhTDdnRFk?oc=5",
+      "source": "Nacionale",
+      "date": "2026-11-12T22:06:06+00:00",
+      "description": "Russian warship hit by Ukrainian drone in Gulf of Finland  Nacionale",
+      "query": "drone incident",
+      "detected_at": "2026-11-13T10:36:09.925151+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "d41087e9c3bb"
+    },
+    {
       "title": "Counter-UAS task force turns to Intelligence Community for input on real-world threat assessments - DefenseScoop",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFNUbERZVm80MEVtQURjc0hEQVRVNHR4NmtSQ1IyNDBkTHBZNl9XTTNtc2VrWjJ5SFhDb2hpdE1oV0FPa3ZDMmVwYUR4TDBxVU9NZVByN1ppYU5kUlR2cGRmZzBfQ3pHT0xnNzlMZU9aLXFNV1RMbGcxSkxqbkpublpEbXZUVTBzenZ2TWtCcDQ5dTRzM3V5clFKSGJScW5hN21lOTRn?oc=5",
       "source": "DefenseScoop",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "smuggling",
       "id": "ab17589279f6"
-    },
-    {
-      "title": "Punjab sees surge in cross-border drugs, arms smuggling and drone activity from Pakistan - newindianexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTRXNWJCMkIwcWJ0YkFFNFcxeEducDkyazRUTGhhQVpKUWZjQVg3X1FNMGluT2syY2R3b0Y3NVUwajllODFlRnFkbUdNRnYtYXZXV1lGZ0VuQnpmTERSWTlfTGhnQTNPZV9vOGNJRGtHbjFSQU9hWFdHT0Y5Mm5NQkltTDB0VFJhRTVwazdMNW1IU0YwSWd3cUxhZmJ0b3NMRVJ6ZGdqXzZaMzNCaWdMS0ZMRnIyeWRmTWxDZ0xyN01mRFBaZl9oU1N2Sm5ha0JaMklKckUxd0RIUE1tSm51amVR0gHiAUFVX3lxTE5tNFc1YkIyQjBxYnRiQUU0VzF4R25wOTJrNFRMaGFBWkpRZmNBWDdfUU0waW5PazJjZHdvRjc1VTBqOWU4MWVGcWRtR01Gdi1hdldXWUZnRW5CemZMRFJZOV9MaGdBM09lX284Y0lEa0duMVJBT2FYV0dPRjkybk1CSW1MMHRUUmFFNXBrN0w1bUhTRjBJZ3dxTGFmYnRvc0xFUnpkZ2pfNlozM0JpZ0xLRkxGcjJ5ZGZNbENnTHI3TWZEUFpmX2hTU3ZKbmFrQloySUpyRTF3REhQTW1KbnVqZVE?oc=5",
-      "source": "newindianexpress.com",
-      "date": "2026-10-04T08:33:00+00:00",
-      "description": "Punjab sees surge in cross-border drugs, arms smuggling and drone activity from Pakistan  newindianexpress.com",
-      "query": "drone smuggling",
-      "detected_at": "2026-10-06T05:25:36.974645+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "acb7b1cc2578"
-    },
-    {
-      "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-05T17:37:35+00:00",
-      "description": "US Army tests counter-drone tech at Mexican border as cartel drone use rises  Reuters",
-      "query": "drone smuggling",
-      "detected_at": "2026-10-06T05:25:36.974645+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "f81c84a94b7b"
-    },
-    {
-      "title": "Suspect arrested after drone, contraband seized near Johnson State Prison - wgxa.tv",
-      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNaWZkcnpBTXRQOVVub09RN1JkN3gtM3pMNVYyZ090UExJTl9QcHhmek5Da3ZfLV9qNTBiZlNRZ01jREZTci1RRGdrTE52VnRlc2dOOGRtck9sUTNZXzRycG45anpQeFRsMFJETGZMSlh0bDhmZm1SamYtNXJTSkttVzlpNzNzd3ZiNHhPc1FpRTVNRVl5YXlXQlNwbFJhek12UFR4OHVRTlZidG5BZFcyelA4ZGw5LTQ1bE9ZN3VKa1FmTkdiMnpJWVdFT0xmckF3bmkybVFiZlh6T25TSWNYd1NDS0wwSnp6MDRMMDVPa0Vwd001VUszZGNzdFZpVWlLX1ZmY2RRSFlBRlk1QU5KdVJWY0h1eWsxQVAtd2VSOWpIOHZ6Ui1WeWM1WkM5TGFreDNHb0NZdk83bFRjZER2eUYzS2RHbE1MbldYSmMtejdsTGJEVjlYREFTb0pLd1JhWVdOVldxX2RSaU9sR0Z4d2Zqdk1vaGhHLTFxVUJaT1hCTlFESVQ5Nlk0Y0ZxY19DN3c?oc=5",
-      "source": "wgxa.tv",
-      "date": "2026-10-05T20:07:10+00:00",
-      "description": "Suspect arrested after drone, contraband seized near Johnson State Prison  wgxa.tv",
-      "query": "drone arrest",
-      "detected_at": "2026-10-06T05:25:36.369957+00:00",
-      "location": "near Johnson State Prison",
-      "category": "smuggling",
-      "id": "86b002bc77f9"
-    },
-    {
-      "title": "Auburn Police use drone first responder to arrest rape suspect - courierherald.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXFOeU94cWFibVF2ejdHY3p3YzhkRFBWLXk2S2w5c3Y3MzRaaW9LSEs1U3MyWktKc1ZzVG5kTTRheHFIdVU4eVQzdF8wR2V6bEs2YThId1pEZU1henhtUUFVWDZPWXQyMnIyUlNMdzhWMjNmbW52RWxKSm41OWROeHJObl9naDJPUFEyaGZyNktleTFEa3NObWJod1BzLVhfR2NxQllUSQ?oc=5",
-      "source": "courierherald.com",
-      "date": "2026-10-06T03:41:05+00:00",
-      "description": "Auburn Police use drone first responder to arrest rape suspect  courierherald.com",
-      "query": "drone arrest",
-      "detected_at": "2026-10-06T05:25:36.369957+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "29564f183f3e"
-    },
-    {
-      "title": "VIDEO: Auburn Police arrest child rape suspect with help from new drone - Auburn Examiner",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDJrblZMeDhZQmwxSG80NEQ3U0gzTE44YW9jOFJmWENNYlFCMmp0NUx3NHZienc3QklxYjN2SXFwbTJ2WTNFX2NVMnVBOUJnZFRGd29FVlhNUXg0dHpwS3RVeE1rVW9DS2c1Y3hGdmJ3YUxmM3luaGhXdXhaMzhpMkFLQ2lqU2prYjFUS29oZTZhTndwQjhVWFV4ZjhlazA?oc=5",
-      "source": "Auburn Examiner",
-      "date": "2026-10-05T23:41:23+00:00",
-      "description": "VIDEO: Auburn Police arrest child rape suspect with help from new drone  Auburn Examiner",
-      "query": "drone arrest",
-      "detected_at": "2026-10-06T05:25:36.369957+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "67959bbdad3c"
     }
   ],
-  "last_updated": "2026-11-13T02:25:11.511195+00:00",
+  "last_updated": "2026-11-13T10:36:14.536013+00:00",
   "total_count": 1000
 }
