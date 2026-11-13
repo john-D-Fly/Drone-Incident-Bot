@@ -1,0 +1,125 @@
+{
+  "narrative_summary": "In the past 48 hours, multiple drone-related incidents have been reported, reflecting diverse issues ranging from smuggling and prison disruptions to emerging security policies. Most notably, several cases of illegal drone flights over South Carolina prisons highlight ongoing challenges with contraband delivery. Security concerns prompted Philippine authorities to ban unauthorized drone activities during the Asean Summit. Meanwhile, drone attacks in Leningrad caused significant disruption to air traffic at St. Petersburg's Pulkovo Airport. Additionally, discussions on counter-drone measures have gained urgency as new insights into aerial threats emerge globally, including drone-related terrorist activities. These trends underscore increasing recognition of the need for effective drone regulation and protective measures across various sectors.",
+  "totals": {
+    "airport": 2,
+    "arrest": 10,
+    "crash": 7,
+    "interference": 2,
+    "other": 20,
+    "security": 4,
+    "smuggling": 6,
+    "terrorism": 5,
+    "total_incidents": 55,
+    "by_category": {
+      "airport": 3,
+      "arrest": 8,
+      "crash": 6,
+      "interference": 2,
+      "other": 19,
+      "security": 3,
+      "smuggling": 10,
+      "terrorism": 4
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 10,
+      "drone crash": 8,
+      "drone illegal": 2,
+      "drone incident": 8,
+      "drone prison": 9,
+      "drone security breach": 2,
+      "drone smuggling": 1,
+      "drone terrorism": 4,
+      "unauthorized drone": 8
+    }
+  },
+  "clusters": [
+    {
+      "topic": "prison smuggling",
+      "rationale": "Multiple reports of drone smuggling incidents at South Carolina prisons emphasize a significant trend in contraband delivery.",
+      "incident_ids": [
+        "f3b079690402",
+        "2653fa15d0e6",
+        "68fe630f9358",
+        "9de5a7ed006f",
+        "c540181c8245",
+        "bc6fbb9cc702"
+      ]
+    },
+    {
+      "topic": "airport disruptions",
+      "rationale": "Recent drone incidents disrupted operations at major airports, demonstrating the impact of drone activities on aviation safety.",
+      "incident_ids": [
+        "8dff70265c60",
+        "8e6044ed686c"
+      ]
+    },
+    {
+      "topic": "counter-drone policies",
+      "rationale": "There is a noted rise in governmental response to unauthorized drone operations, particularly in security-sensitive regions.",
+      "incident_ids": [
+        "3aedc4dd9f4f",
+        "9d174c98d3e4",
+        "08258acdc03c"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "8453be554620",
+      "headline": "Retaliatory Strikes: How Ukrainian Drone Attacks Have Become Part of Daily Life for Russians",
+      "one_sentence": "Ukrainian drone attacks are increasingly affecting daily life across Russian territories.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "8eb20cc7bb48",
+      "headline": "Hacked software update grounds German army drones and tests cyber exclusions",
+      "one_sentence": "A cyber breach has impacted operational capabilities of German army drones.",
+      "risk_tags": [
+        "security breach"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "8dff70265c60",
+      "headline": "Drone Attacks in Leningrad Disrupt Air Traffic at St. Petersburg’s Pulkovo Airport",
+      "one_sentence": "Drone assaults have caused significant air traffic disruptions in St. Petersburg.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "f3b079690402",
+      "headline": "Man gets federal prison time for flying drone onto S.C. prison yard",
+      "one_sentence": "A man faces federal charges for using a drone to drop contraband onto a South Carolina prison yard.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "c42a6bb1c4d3",
+      "headline": "A Drone Detector Cannot Tell An Airport Who Has The Authority To Act",
+      "one_sentence": "Debates continue on the effectiveness of drone detectors in managing unauthorized drone operations at airports.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight ongoing concerns over smuggling and security across various sectors, with significant implications for aviation safety.",
+    "linkedin": "Over the past 48 hours, the landscape of drone-related incidents reveals a worrying trend in smuggling and policy enforcement challenges that demand attention."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-13"
+}
