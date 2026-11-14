@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "Totowa Moves to Ban Commercial Drone Delivery Hubs, Citing Privacy and Safety Concerns - TAPinto",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlpyWEJjYUNCTXJXbHpDaGpkdHhUZVFLZ3lRbjNpaUZZWUwwMnpjY2diLUNkNm5VY2U4dzZMUVlFeEZVQUM2ckE5UmtrTUhuTVBnM2pRUFdhYlRtUEp5OElvSmdNLWUxQnYxWDl0cVZGUmw2bW1MMUFmc0t1YlpUSGItYlB6NGRTdkJ3Zk9XMTl0RkxFMk4tYjNUakFWRDV6Y2QxcGZiMEp4ZkY4U3llR25VX1NQLXItYUxyaTZXRG1ZVFQtZUhIdlpwVQ?oc=5",
+      "source": "TAPinto",
+      "date": "2026-11-14T22:10:00+00:00",
+      "description": "Totowa Moves to Ban Commercial Drone Delivery Hubs, Citing Privacy and Safety Concerns  TAPinto",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-14T23:39:32.122041+00:00",
+      "location": "Unknown",
+      "category": "surveillance",
+      "id": "b273ccd77da4"
+    },
+    {
+      "title": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSko4NTBtd0dJSTRrQWlEWnBoZjM1a1ZWQ1JUNXJSaGF6UkNpVUN2b1pMMVJmcGZkSy1XQlFaR0JWcUdOSHFIOEhXZFNBeF9uR2xTSzdES1MxRURudUtNTVJFSTFSZW5fS29XSU4tZHZPem9ERzZGN1FObW9qQ3ZtY2l2RDZ1ZEZ2Wlk3T0tMek5oVUYxc2NqYTlCeDhTQ1VldWdOUmJKeWVtUDJDRUNfeVkzT2RKUkVfMVE?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-14T19:02:55+00:00",
+      "description": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base  The Washington Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-14T23:39:32.122041+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "f784f48e5929"
+    },
+    {
+      "title": "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnFkNTZ3ZklvdlFrSkRUYk4tLWxzM1lqWXNCaU5fT1NNaFhpZE45dnd5aTNHTXVvaVFYRlFFLXhKV05zN19OUmtqb1VyRTNzampKOVRDYmo3NlFxSXZMNi15Rl9ZNndnUVdfLXZUaWNPd0ZxRTlaYS1yWG9qRXRUdDdsVHZfX0VRSlVEd0F2TXdNTlhqM1d3Q2wxYk5Va0NuOVJEN2cyMXI4QdIBrwFBVV95cUxOUk8zampRdlg1cmpWbTdFT1ctUTdOSDRTM2tILTl1WmIza250ZE42RU1fQUJmRy1RNHNHajlOUFJXTGdzNU8wcFI3VnZRVHljZjk5QzFIZVV5eEk0b3otb0JndG9UMXB4MWFRRlBEWW1nZFFLZW5SVERYS3FFWkhRT21seG4wYkNTbjJHS2RkWEJuUlo0Q1dDbVNJU3JKNS0yYWhsTUsxeWpOZUNXeW9R?oc=5",
+      "source": "The Times of Israel",
+      "date": "2026-11-14T01:27:00+00:00",
+      "description": "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase  The Times of Israel",
+      "query": "drone incident",
+      "detected_at": "2026-11-14T23:39:28.788515+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "6766cbc07143"
+    },
+    {
+      "title": "Unauthorized Drones Spotted Over RAF Lakenheath Base Hosting US Forces - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoV2tMcDhCOEJydjVrVWJxZzUwdmVNOWFaMVE1SXpMNXFLNHVpXzducTVKTnh4VS1Wd3lpdXBiLXFFdU9fYWt5Nk9lVQ?oc=5",
+      "source": "Kyiv Post",
+      "date": "2026-11-14T08:21:56+00:00",
+      "description": "Unauthorized Drones Spotted Over RAF Lakenheath Base Hosting US Forces  Kyiv Post",
+      "query": "drone incident",
+      "detected_at": "2026-11-14T23:39:28.788515+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "82c55aebb425"
+    },
+    {
+      "title": "US Air Force reports suspected drone incident at RAF Lakenheath amid wider UK base security moves - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzTFJ1VkZWY20wZExKYW9vcDI0eGV4TmRhV3h4Nkt1dm15blJDMk1XeDI4VkdhOF80LU1aZEZ1Q25DWGlTa3N6Q2toR0pNYWd3MEdqSWRTS3oxTlZTTm01ajJuallXaXNxR2hBMkVGUUtvX1VYeV9FNFl6UHpERDAwUE0wbDVZTW84UVlSVElZUQ?oc=5",
+      "source": "Briefs Finance",
+      "date": "2026-11-14T14:45:00+00:00",
+      "description": "US Air Force reports suspected drone incident at RAF Lakenheath amid wider UK base security moves  Briefs Finance",
+      "query": "drone incident",
+      "detected_at": "2026-11-14T23:39:28.788515+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "465f961884aa"
+    },
+    {
       "title": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSko4NTBtd0dJSTRrQWlEWnBoZjM1a1ZWQ1JUNXJSaGF6UkNpVUN2b1pMMVJmcGZkSy1XQlFaR0JWcUdOSHFIOEhXZFNBeF9uR2xTSzdES1MxRURudUtNTVJFSTFSZW5fS29XSU4tZHZPem9ERzZGN1FObW9qQ3ZtY2l2RDZ1ZEZ2Wlk3T0tMek5oVUYxc2NqYTlCeDhTQ1VldWdOUmJKeWVtUDJDRUNfeVkzT2RKUkVfMVE?oc=5",
       "source": "The Washington Post",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "2bcd8fbb74ea"
-    },
-    {
-      "title": "Seventh person arrested in suspected plot to attack U.S. planes in Britain - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbFNEbTVEWnRCeGRNTF9YMVlVckFDbTJwVGwtdTNUbS1fM21tQnRtcGxQTWhqRlNUdFBtWjFYS1IzSG5aRENCME9GTGVvNGF1MjNrNVhSdG1jQjhYOFlhcVBrNVhGWGd5dHRSa2hRSFAxODZMbEdZQnhlN29FQXBqeU1vNF80VWFCU2ZBZGE3QnpLTEpOekNxb0libXhRalExZVF0T3F1ODZ5ZGpFdTFrbEg3V3M?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-07T01:48:47+00:00",
-      "description": "Seventh person arrested in suspected plot to attack U.S. planes in Britain  The Washington Post",
-      "query": "drone terrorism",
-      "detected_at": "2026-10-07T09:53:40.281966+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "decf93e70e8a"
-    },
-    {
-      "title": "Salt Lake City police say drones film flights, retain video only when it is evidence - kjzz.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMk1uN3dJZ1dSQ19sTExqNzIxQzBZeVJsT00wWnAtbEpfSUFhUkVKMlU1ZE5MQXhRNUtBOEJ0VnNQVVlmcU5DWDdNRjVfNDh0dlcycHBDVFJ6Q1NZcHRqX2pXdjhxb2ZvOHQ5M2diRHc3M1JHSDJZOUgzY1daM0xDb0tqY0I0VUVNa3FMNU5ka1pCeG9ncjdDdFpWOW9yUl9JMmtIT1YzRUc5TlJIX0RSYw?oc=5",
-      "source": "kjzz.com",
-      "date": "2026-10-07T03:31:56+00:00",
-      "description": "Salt Lake City police say drones film flights, retain video only when it is evidence  kjzz.com",
-      "query": "drone crash",
-      "detected_at": "2026-10-07T09:53:38.407509+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "da594aa9221d"
-    },
-    {
-      "title": "Man (30s) charged after drone smuggling contraband into Midlands Prison crashes - The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjNJcldMaTJEYmI2djV2WmY0VzMwNUliNmVYall2MDBFTE1iWWY4bTl4dEx1RnRoeGxmNXpaNGJieWFoNnZJWWJrb18wLW9wSG1uUGhWaXpXM3YwVmRCTlN1T1IzNVA4WUhKZk52V3dNOU5JM1FxSnJkYUlKXzViWk5ydE12c0ZyeGYyNFI2TXAyZWJDb3VpSm45b2hGblR2WFBLQ3ptaHpaOEhtWTVpVU9JS3lGUUk2UkliSkJtRjhDeWVmT3l2aUZ3?oc=5",
-      "source": "The Irish Times",
-      "date": "2026-10-07T08:18:16+00:00",
-      "description": "Man (30s) charged after drone smuggling contraband into Midlands Prison crashes  The Irish Times",
-      "query": "drone smuggling",
-      "detected_at": "2026-10-07T09:53:36.614041+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "478ed5e1640c"
-    },
-    {
-      "title": "VIDEO: Auburn Police arrest child rape suspect with help from new drone - Auburn Examiner",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDJrblZMeDhZQmwxSG80NEQ3U0gzTE44YW9jOFJmWENNYlFCMmp0NUx3NHZienc3QklxYjN2SXFwbTJ2WTNFX2NVMnVBOUJnZFRGd29FVlhNUXg0dHpwS3RVeE1rVW9DS2c1Y3hGdmJ3YUxmM3luaGhXdXhaMzhpMkFLQ2lqU2prYjFUS29oZTZhTndwQjhVWFV4ZjhlazA?oc=5",
-      "source": "Auburn Examiner",
-      "date": "2026-10-06T03:14:45+00:00",
-      "description": "VIDEO: Auburn Police arrest child rape suspect with help from new drone  Auburn Examiner",
-      "query": "drone arrest",
-      "detected_at": "2026-10-07T09:53:35.928622+00:00",
-      "location": "Unknown",
-      "category": "arrest",
-      "id": "5fe8e22a3bde"
-    },
-    {
-      "title": "Iran drone plot fears led US to remove bombers from UK base, US officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmxrT2JGb1p3OXBWNFN3Y195SFBkc3JnNFZ5ODBuWVRCT3RUUGt1WE5wVkFVano3TkQtaU5EbUNtQ3J5aUR0OUNWU3hIM2RNLV90emJQNUU4T29oeno3UzZ4Ymd5RWRhd3FoZmZoN2NEZDZXWF8xajRGZ3ZoWS1LVmI1Z2o1aVBadmhYeXNGQ1NHUTExY3BldDgxSGwwb01fZ3JybVhnb3R0UUZ6YVhhSmFEcw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-06T15:00:12+00:00",
-      "description": "Iran drone plot fears led US to remove bombers from UK base, US officials say  Reuters",
-      "query": "drone incident",
-      "detected_at": "2026-10-07T09:53:35.189616+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "babf77c04fe5"
     }
   ],
-  "last_updated": "2026-11-14T19:43:50.322465+00:00",
+  "last_updated": "2026-11-14T23:39:32.512523+00:00",
   "total_count": 1000
 }
