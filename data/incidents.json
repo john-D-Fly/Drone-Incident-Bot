@@ -1,6 +1,66 @@
 {
   "incidents": [
     {
+      "title": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSko4NTBtd0dJSTRrQWlEWnBoZjM1a1ZWQ1JUNXJSaGF6UkNpVUN2b1pMMVJmcGZkSy1XQlFaR0JWcUdOSHFIOEhXZFNBeF9uR2xTSzdES1MxRURudUtNTVJFSTFSZW5fS29XSU4tZHZPem9ERzZGN1FObW9qQ3ZtY2l2RDZ1ZEZ2Wlk3T0tMek5oVUYxc2NqYTlCeDhTQ1VldWdOUmJKeWVtUDJDRUNfeVkzT2RKUkVfMVE?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-14T19:03:05+00:00",
+      "description": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base  The Washington Post",
+      "query": "unauthorized drone",
+      "detected_at": "2026-11-14T19:43:49.864023+00:00",
+      "location": "Unknown",
+      "category": "security",
+      "id": "e0f088bcb6bc"
+    },
+    {
+      "title": "Terror suspects accused of targeting London 'wanted missiles' from Iran - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0xUREF0MDBGc0lkbVFRZFpzLVQ1QkQ5TFkxeTR3c240NjJkVzZUOXdJeTd4ZFIyeERHaVVMeGV6NWpCMzJfMWs2Q291R3N2SnlUT29iaG5tZjdzVFJwYmhWeGVKOHB4cmlxYThfaVd3RW9MOFQ3Tm9WQm1YbGRoVVZaS3hZZXRWRklPY0ZnWUNqVHlHWnBncmxBbG4zMW5hT2xRN0ZzWThCV2VPSXJORm5KVUVUZw?oc=5",
+      "source": "London Evening Standard",
+      "date": "2026-11-13T19:30:54+00:00",
+      "description": "Terror suspects accused of targeting London 'wanted missiles' from Iran  London Evening Standard",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-14T19:43:49.466668+00:00",
+      "location": "Unknown",
+      "category": "terrorism",
+      "id": "e4da2274318b"
+    },
+    {
+      "title": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel - Georgetown University",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWRNYWQ2ZDVhQTNNNW1rR09LOVJhdE03M1YxbTNicjg4bHR6dnZOTFEtaGNaTTlzZ1lOWWZrUW9uOWdUWHY1elI2ajdqbUYtRmpTdGJBamZTZ01fc0xfRDg0VTJqSmJaZWx6SS0zQW9MbXJOWFVHZG9BOWMzaW1JRFRfZXIwTnI5c3l0UjdFbktfZnM1LVNSaFdfRG5yRERwRkZaWExDNlZDNF9acXVKRWdmd295TGN1aUdIUWkxMHZUdHQ5NEU5TGg5Y05QbFo3c0dCMzN3UGE5NmRjdGlsMEdXM2kza3d1c0YtTw?oc=5",
+      "source": "Georgetown University",
+      "date": "2026-11-14T18:02:45+00:00",
+      "description": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel  Georgetown University",
+      "query": "drone terrorism",
+      "detected_at": "2026-11-14T19:43:49.466668+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "30e0a9d8eaeb"
+    },
+    {
+      "title": "Mystery Drones Breach US F-35 Fighter Base in Britain, Forcing American Troops Into Shelters - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjBBdHdVYWJmaV9WZTFocGVHWmFyQ1ExSHlYYjdhSjFPTU0xREdwU0IxeXlpd3hMOXFhNF9pUUxkUUltOTI4RFZlYnNUckp1OWlVYXdPRWNHUWRnXzBkQUNDYi1Ua2xmOHdGYkI0bkxqZkFtM01OcktCZmhxQ1VVVVNPaE05UU5MWEhsUnJWc1JmTjgxQ1VuaTI5RWVYejRCa2hSODJPYllQd2EzZE1WUVVXa19fZ0p6V2pXaU5Uc2pja09qNnRLOQ?oc=5",
+      "source": "UNITED24 Media",
+      "date": "2026-11-14T11:37:30+00:00",
+      "description": "Mystery Drones Breach US F-35 Fighter Base in Britain, Forcing American Troops Into Shelters  UNITED24 Media",
+      "query": "drone security breach",
+      "detected_at": "2026-11-14T19:43:49.092995+00:00",
+      "location": "in Britain, Fo",
+      "category": "security",
+      "id": "3d31250999ff"
+    },
+    {
+      "title": "Drone activity over US base in Britain prompts security response - Gulf Coast News and Weather",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEtMMnllSEt3T3FROFdNRTVITmtXMEpDU2hpUmZxaUV2T3FfTlJfQ2xyd3Z6bkk3Qm9YR0k1NkJTQ3RHbDJwbWFxeU91ejdiZjE4dkFiMjdFV0o2ZnMxdHhpZm51cWowYXBMcWdabm5hYkRISExiTTlsSnNHVmhmbG9adzRWc0V0LVB3Q1AxVUhUVExBUnNTaDVR?oc=5",
+      "source": "Gulf Coast News and Weather",
+      "date": "2026-11-14T19:38:00+00:00",
+      "description": "Drone activity over US base in Britain prompts security response  Gulf Coast News and Weather",
+      "query": "drone incident",
+      "detected_at": "2026-11-14T19:43:45.490553+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "7595f736e164"
+    },
+    {
       "title": "US forces responded to suspected drone activity over base in Britain - France 24",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejlGRy1iYVZRSXVZSmp6WWVydE5KTmdpQU5uMmRLcVVaZ050YUdoZnB1X0U5T3dSMzlTaWhBU19uMk5SYmRpaUpLTHZMeE1maTMwTzc5aW9SdHBlNXJCTzU5ZHlUMTgyMXJYY3ljaktGeWdrM1lRSGFiRmZlYWtZa3VSUzI1S3NIZ2JsdHl3eG9tenZ0ZXZuV05LYk5Ea2xITW1iN1hZVEJuQjZUTDY0OUxPeHpuTGVlOXR3TA?oc=5",
       "source": "France 24",
@@ -11939,68 +11999,8 @@
       "location": "Unknown",
       "category": "other",
       "id": "babf77c04fe5"
-    },
-    {
-      "title": "Civil Air Patrol Supports Air Force Anti-Drone Training - Civil Air Patrol News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOTV6NFhXV3FGdzh0RzZtMUs2RUp2WGpjNDdJbF9SbWlyc3lUMUJwYTZlRzhLd3dWQUdJc2VzblFiaXpTNDVWRTZ3c09EQU5YMERDdHp2TWU0M0FDZG9BWWtUOTNNQXIwNmlDLWdjSnc0ZDU1ajJVQ1djdGd1Yi1VVUJyT0k?oc=5",
-      "source": "Civil Air Patrol News",
-      "date": "2026-10-06T20:02:05+00:00",
-      "description": "Civil Air Patrol Supports Air Force Anti-Drone Training  Civil Air Patrol News",
-      "query": "unauthorized drone",
-      "detected_at": "2026-10-07T02:08:01.349690+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "53b9e3d9611a"
-    },
-    {
-      "title": "Suspected Iranian drone plot pushed U.S. to evacuate bombers from British air base - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWdpeE1fNldNaXpPOTFNS25ldldBTzdsUHN3bHFGMll3LXcwT0x0ZzFnRDBmOTZweFZjbE1pUkRaX2xBVno5ODJjeXNzWHRhejlZTW85ZUZWaEF1TzFaVjZQRm56bHhhUnM5dlBscWpfRzFzeGRqN2xXR21Fd0Rjcl9waTdhNDRVdVRHbnpLQ2xoWlQ4QjVlZGJoM0JnUmdaTHh6a1Bjd0lZbEhqUExUWGR5NF8?oc=5",
-      "source": "PBS",
-      "date": "2026-10-06T22:50:32+00:00",
-      "description": "Suspected Iranian drone plot pushed U.S. to evacuate bombers from British air base  PBS",
-      "query": "drone arrest",
-      "detected_at": "2026-10-07T02:07:56.024677+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "7976eff3a189"
-    },
-    {
-      "title": "Bulgarian PM calls drone attack on commercial vessels \"blatant violation of international law\" - European Interest",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ09HUjFlU096NXkwdDhWeEFxZ3FZSldwbVlJUzNjVk8zeHBrbWRIRjRXeVRxeFd0QmN3WGtJd1J3cUQzSmpCOWRNODJxVkpidUw3Vk44bmdLOGtYRDhGV1lWRHR4QzdvSGtZc2J3dFl0VkVtZkFwWW5vMHl2SDZrZWVoS1RsMWZyUmZLb0RDbmhCc3JPTmp4ZFV3SHVxei0zYlJCcHJURFQtZkJrd0tucGtyRThiZVpGQmdPVkotcHMtd3c?oc=5",
-      "source": "European Interest",
-      "date": "2026-10-06T18:18:55+00:00",
-      "description": "Bulgarian PM calls drone attack on commercial vessels \"blatant violation of international law\"  European Interest",
-      "query": "drone incident",
-      "detected_at": "2026-10-07T02:07:55.216072+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "74ff998a95fe"
-    },
-    {
-      "title": "Concerns over Iran drone attack prompted pulling bombers from UK base, sources say - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkRia1pRVlJyY3lxNHJ1SDRldHZYczVIX2VLczBCdXl1TVVzYXkwb2g4eGhMUnZ0Y2p4MzFzRDgtWVNFb1lKd3FNSXc5U2NubXR2eWpQcTliVzVWZnNUbl9uZmNKUUNOYWhJNmZQeWNlclFGM1VGZTl4d3UzbVhfSXRqcEJJOUtGUjJ5bF9ITWJxTHc0ZHJaVklrc3h5YmthQUF3TjdPRkdyT2pDc3Fj0gG0AUFVX3lxTE12aFY4eXJmQTVXX1JaQ1ZQTHpLSHdSM1VDUTdPbFZIbTVmdTRld1hiOGNGLUJBbTJnUFNOMTI0VkluaGRNcWdkZENzUDZSa3pOUkYwX0c1dTQtLUdkQ25fNkpUTjhYNGQ4bXVUSjhPM3lsblN3ZVJTOHQ0UmtkS2ltcUNJTjM1SU96WmZzTUQwcS1QakVFR0tOODBfaUhsbVgwWmtpUmo5cVJBWERicU41Rk1qaA?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-10-06T22:11:45+00:00",
-      "description": "Concerns over Iran drone attack prompted pulling bombers from UK base, sources say  ABC News - Breaking News, Latest News and Videos",
-      "query": "drone incident",
-      "detected_at": "2026-10-07T02:07:55.216072+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "84e3cee502bc"
-    },
-    {
-      "title": "Two men arrested after drone attempted to smuggle contraband into Midlands Prison - The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjNJcldMaTJEYmI2djV2WmY0VzMwNUliNmVYall2MDBFTE1iWWY4bTl4dEx1RnRoeGxmNXpaNGJieWFoNnZJWWJrb18wLW9wSG1uUGhWaXpXM3YwVmRCTlN1T1IzNVA4WUhKZk52V3dNOU5JM1FxSnJkYUlKXzViWk5ydE12c0ZyeGYyNFI2TXAyZWJDb3VpSm45b2hGblR2WFBLQ3ptaHpaOEhtWTVpVU9JS3lGUUk2UkliSkJtRjhDeWVmT3l2aUZ3?oc=5",
-      "source": "The Irish Times",
-      "date": "2026-10-06T21:38:58+00:00",
-      "description": "Two men arrested after drone attempted to smuggle contraband into Midlands Prison  The Irish Times",
-      "query": "drone prison",
-      "detected_at": "2026-10-06T22:54:32.085480+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "39e9eded2f17"
     }
   ],
-  "last_updated": "2026-11-14T14:47:30.940323+00:00",
+  "last_updated": "2026-11-14T19:43:50.322465+00:00",
   "total_count": 1000
 }
