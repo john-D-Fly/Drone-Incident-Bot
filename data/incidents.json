@@ -1,6 +1,30 @@
 {
   "incidents": [
     {
+      "title": "Forty Tactical Drones Seized in Raid on Smuggling Lab in Daburiyya - Israel Defense",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBMG5oR2VjbVpoTnlQWURXaGdrX3pZLW1MLTEwdEZ2NXFHLTBoVXVhTTAyMXl4dDVwTlpOaFlQWWRkakxpVWNUejIyMmxMbHVxMWZSWGdWZkU?oc=5",
+      "source": "Israel Defense",
+      "date": "2026-11-15T15:04:00+00:00",
+      "description": "Forty Tactical Drones Seized in Raid on Smuggling Lab in Daburiyya  Israel Defense",
+      "query": "drone smuggling",
+      "detected_at": "2026-11-15T23:45:59.325409+00:00",
+      "location": "Unknown",
+      "category": "smuggling",
+      "id": "30fd10b36613"
+    },
+    {
+      "title": "Estonia foils sabotage attempt on drone factory, prepares to close Russian border - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcFl3cTNNUVZ1blVvam5tRXpHNnhad1ZtcFVyeU9zYXQ1Ymx4eUFlYVp1TUxGc1BDd2EzWndqRXJza1o4TmFtWEU4eGtYbEFvSmhR?oc=5",
+      "source": "سانا",
+      "date": "2026-11-15T20:02:00+00:00",
+      "description": "Estonia foils sabotage attempt on drone factory, prepares to close Russian border  سانا",
+      "query": "drone incident",
+      "detected_at": "2026-11-15T23:45:58.469490+00:00",
+      "location": "Unknown",
+      "category": "other",
+      "id": "96b7a39b3339"
+    },
+    {
       "title": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSko4NTBtd0dJSTRrQWlEWnBoZjM1a1ZWQ1JUNXJSaGF6UkNpVUN2b1pMMVJmcGZkSy1XQlFaR0JWcUdOSHFIOEhXZFNBeF9uR2xTSzdES1MxRURudUtNTVJFSTFSZW5fS29XSU4tZHZPem9ERzZGN1FObW9qQ3ZtY2l2RDZ1ZEZ2Wlk3T0tMek5oVUYxc2NqYTlCeDhTQ1VldWdOUmJKeWVtUDJDRUNfeVkzT2RKUkVfMVE?oc=5",
       "source": "The Washington Post",
@@ -11975,32 +11999,8 @@
       "location": "near wildfires nationwide occurred in Washington state",
       "category": "other",
       "id": "f5a3e0fd89f8"
-    },
-    {
-      "title": "Drone helps Folsom PD nab illegal e-motorcycle rider - Gold Mountain California News Media",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEM3WG9lRlIwV2IwWXRZVEs1T0VCbW9CVTZLYlpfVFdhQS1yTzBhMWZha2hZRm5jVGtKb2FseE1wUmVlZ0tCVnFnTURZd3pIY20xd0VybzVqZGx1c2l4QVVvUEF3MEl1dEduWUdSSU83dHJOZkEzSlkwNG02SDdEY0ZhQTB2SXVoVk94TkdHMngxZG5XazFCSXl5blBVUUxvV0lWSHUtaFRtYjEtdGFwZFc3dndxdEF3?oc=5",
-      "source": "Gold Mountain California News Media",
-      "date": "2026-10-07T19:00:00+00:00",
-      "description": "Drone helps Folsom PD nab illegal e-motorcycle rider  Gold Mountain California News Media",
-      "query": "drone illegal",
-      "detected_at": "2026-10-08T10:05:25.104672+00:00",
-      "location": "Unknown",
-      "category": "other",
-      "id": "94a27c1de685"
-    },
-    {
-      "title": "Latvian court sentences woman to six years in prison over €43 transfer investigators say was intended for drone-jamming equipment for Russian troops - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUEFCXzhHeXBzLTBoUWNBQVM2RnphNkx0YzdzdkhFSnFHQnByODNwdkR5MmhzbzBNTXpIVFNmSkE0WGhNNWI0Y2I2V2NKbEUtVWh0VGpZYlhJNHN5c1pVOUYzcDFfVjJjNFJJOUpSenhXZFA4S0Z0WlE4SmwtR0d2eENGRDRwaU9JT2hEVW9PZDVNaG9ENG5ES1VRbkUtWFJFbWRkcFp3ZFZua2thVU1DNkRsR1d1NnZGRGVOeGRscFdCUmFjVW85SWFUNFA5Q1FkV3JCNG9tWGFWSU9MQXBjaTZzTUxLVlp4WUdFYzNkVG9udmxWVTZtejNtUnJRSHhmNWtXN1NMVDJONkZidEtyb0t30gGXAkFVX3lxTE1lZVczd0ZVenVodWl3LUtBSC1PdjdHel82SDVCVW9UcUJ3azl0bnRMblpUMkg3RkFNRnFsSktFOU9rQWF4bUNzeGY4RnQ5OFZTTjZySEZHV1ZPWVlBM2VJWG5faFRTXzh2bUZzVl9qOU5uQThiaExDVUt6MS1GSnRobDNJTVg0Q2pPVGlSTjY1bm9fQ3l4ZmhqY0JWLXI3THYxMUI3ZXc4c25uTFVaOUhxVEpIT3pkYVFwaVJncnoyM282LUhDYjVleEI3UzRwR0xVOEF2SHVOMGUxdk42R0w4TFJHR2VNQkF6dXo4TWxSTWdsejB0amlIeXFsdUR2c21WRWw3U0JNR0xjRzlxbzE5RFRIMWprQQ?oc=5",
-      "source": "Meduza",
-      "date": "2026-10-07T21:24:00+00:00",
-      "description": "Latvian court sentences woman to six years in prison over €43 transfer investigators say was intended for drone-jamming equipment for Russian troops  Meduza",
-      "query": "drone prison",
-      "detected_at": "2026-10-08T10:05:23.509425+00:00",
-      "location": "Unknown",
-      "category": "smuggling",
-      "id": "d36a8e19a39d"
     }
   ],
-  "last_updated": "2026-11-15T19:33:17.442476+00:00",
+  "last_updated": "2026-11-15T23:46:02.696135+00:00",
   "total_count": 1000
 }
