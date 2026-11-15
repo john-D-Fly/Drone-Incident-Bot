@@ -1,0 +1,140 @@
+{
+  "narrative_summary": "In the past 48 hours, a significant number of incidents involving unauthorized drone activity have been reported, particularly around U.S. military bases in the U.K. and in European conflict zones. A series of unauthorized drones sparked security responses at RAF Lakenheath, with multiple outlets confirming U.S. military interventions to address the threats. Moreover, three commercial ships near Romania's Black Sea coast were reportedly hit by drone strikes, raising concerns about maritime security. Additionally, the U.S. military intercepted Iranian attack drones in response to escalating tensions. Alongside these incidents, drone-related arrests and smuggling operations continue to underscore broader security and safety challenges linked to drone technology.",
+  "totals": {
+    "security": 11,
+    "other": 11,
+    "terrorism": 4,
+    "smuggling": 1,
+    "arrest": 5,
+    "crash": 4,
+    "total_incidents": 61,
+    "by_category": {
+      "airport": 1,
+      "arrest": 4,
+      "crash": 3,
+      "other": 28,
+      "security": 16,
+      "smuggling": 1,
+      "surveillance": 1,
+      "terrorism": 7
+    },
+    "by_query": {
+      "drone arrest": 5,
+      "drone crash": 2,
+      "drone incident": 23,
+      "drone prison": 1,
+      "drone security breach": 2,
+      "drone smuggling": 1,
+      "drone terrorism": 9,
+      "unauthorized drone": 18
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized Drone Activity",
+      "rationale": "Frequent incidents near military bases indicate heightened security risks.",
+      "incident_ids": [
+        "6d8634298fa9",
+        "104f12eeeffd",
+        "125013ed482e",
+        "d7b8e604882b",
+        "8bb8f04dc9e1",
+        "ff69ccf4cb8d",
+        "e16230153f6c",
+        "cfb0aef59c1b",
+        "b0cf892b7d72",
+        "e08432466b5c"
+      ]
+    },
+    {
+      "topic": "Drone Strikes on Maritime Targets",
+      "rationale": "Recent reports on drone strikes affecting commercial vessels showcase risks in international waters.",
+      "incident_ids": [
+        "a2f2a3e7e509",
+        "74efcc1cd2f3"
+      ]
+    },
+    {
+      "topic": "Drone-Related Arrests",
+      "rationale": "Multiple arrests linked to illegal drone use highlight ongoing legal enforcement issues.",
+      "incident_ids": [
+        "267b0db36ebf",
+        "0040b8f8375e",
+        "ineedmoredates4079",
+        "48e965v54635"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "6d8634298fa9",
+      "headline": "U.S. investigates suspected ‘unauthorized drone activity’ at U.K. air base",
+      "one_sentence": "U.S. authorities are probing unauthorized drone sightings over RAF Lakenheath.",
+      "risk_tags": [
+        "security",
+        "military"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.9
+    },
+    {
+      "id": "704eafc91800",
+      "headline": "Russia strikes Ukraine with 132 drones overnight",
+      "one_sentence": "A Russian drone attack targets Ukraine involving 132 drones, raising alarm over drone warfare.",
+      "risk_tags": [
+        "terrorism",
+        "conflict"
+      ],
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a2f2a3e7e509",
+      "headline": "Drone strikes commercial vessels in Romanian territorial waters",
+      "one_sentence": "Commercial shipping routes in Romania are threatened by recent drone strikes.",
+      "risk_tags": [
+        "security",
+        "maritime"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "priority_score": 0.7
+    },
+    {
+      "id": "267b0db36ebf",
+      "headline": "Two arrested after drone carrying suspected contraband found at prison",
+      "one_sentence": "Law enforcement detains two individuals linked to a drone smuggling operation into a prison.",
+      "risk_tags": [
+        "smuggling",
+        "security"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "b7c233269cd6",
+      "headline": "US Air Force responds to drone activity at Base in UK Amid Iran Threat",
+      "one_sentence": "The U.S. Air Force has heightened its response to potential drone threats related to tensions with Iran.",
+      "risk_tags": [
+        "terrorism",
+        "military"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "priority_score": 0.8
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone activity around U.S. bases in the U.K. and drone strikes near Romania indicate escalating risks to security and maritime operations.",
+    "linkedin": "Drone-related incidents have surged, particularly around U.S. military bases and maritime routes, highlighting ongoing security challenges and enforcement needs."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-15"
+}
