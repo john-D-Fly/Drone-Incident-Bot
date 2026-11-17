@@ -1,0 +1,142 @@
+{
+  "narrative_summary": "Over the past 48 hours, drone activity has shown a marked increase, particularly in the Middle East, where Bahrain intercepted Iranian drones targeting US interests. In Ukraine, record drone attacks were reported, including strikes on the Crimean Bridge. Arrests related to drone use have also surged, with law enforcement successfully employing drones to track down suspects, including a phone thief in London and a DUI suspect in California. The incidents demonstrate the diverse roles drones play, from law enforcement and intelligence to smuggling and military operations. Noteworthy is the emergence of new smuggling strategies using drones to transport contraband in various regions, raising concerns about regulatory and security challenges.",
+  "totals": {
+    "other": 15,
+    "crash": 5,
+    "security": 3,
+    "smuggling": 8,
+    "arrest": 7,
+    "airport": 3,
+    "interference": 1,
+    "drone terrorism": 6,
+    "total_incidents": 43,
+    "by_category": {
+      "airport": 1,
+      "arrest": 5,
+      "crash": 2,
+      "interference": 1,
+      "other": 22,
+      "security": 1,
+      "smuggling": 11
+    },
+    "by_query": {
+      "drone airport disruption": 3,
+      "drone arrest": 7,
+      "drone crash": 4,
+      "drone incident": 8,
+      "drone prison": 3,
+      "drone smuggling": 7,
+      "drone terrorism": 10,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Increased drone-related threats and military engagements.",
+      "incident_ids": [
+        "f9bf097ca74c",
+        "1821b2eef28a",
+        "bahrain intercepts iranian strikes on us airbase",
+        "fcff9ab3cd37"
+      ]
+    },
+    {
+      "topic": "Drone Arrests",
+      "rationale": "Multiple incidents involving police drones aiding in arrests.",
+      "incident_ids": [
+        "67df42335c72",
+        "d53cefe972b7",
+        "f139741acfb2",
+        "8d6fd3ba589f"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling",
+      "rationale": "Highlights the use of drones in ongoing smuggling operations.",
+      "incident_ids": [
+        "ed8a063f342a",
+        "40 tactical drones seized in raid",
+        "hurricane strikes drone factory"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "f9bf097ca74c",
+      "headline": "Bahrain intercepts Iranian drones targeting US radar",
+      "one_sentence": "Bahrain has intercepted Iranian drones aimed at US radar positions, marking a significant escalation in regional tensions.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "fcff9ab3cd37",
+      "headline": "Ukraine strikes Crimean Bridge in record drone attack",
+      "one_sentence": "Ukraine has launched a series of drone strikes against key infrastructure, including the Crimean Bridge.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "67df42335c72",
+      "headline": "Phone Thief Sentenced After Met Police Drone Aids Arrest",
+      "one_sentence": "A man was sentenced after being tracked and arrested through the use of a police drone in London.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "d53cefe972b7",
+      "headline": "Drone assists Fairfield police in arrest of alleged DUI suspect",
+      "one_sentence": "Fairfield police utilized a drone to assist in the arrest of a suspected DUI and hit-and-run driver.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "0402e183fc41",
+      "headline": "Defibrillator drones could arrive ahead of ambulances",
+      "one_sentence": "A study suggests that drone delivery of defibrillators could significantly improve responses to cardiac emergencies.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "ed8a063f342a",
+      "headline": "Forty Tactical Drones Seized in Raid on Smuggling Lab",
+      "one_sentence": "Authorities raided a smuggling lab and seized forty tactical drones intended for illegal use.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "7c94f9a1b265",
+      "headline": "SC man sentenced for flying drone over prison yard",
+      "one_sentence": "A South Carolina man has been sentenced for operating a drone over a prison yard, highlighting security concerns.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.71
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drone activity spikes: from intercepting threats to police arrests, the multifaceted role of UAVs is evident.",
+    "linkedin": "In the past 48 hours, the increasing use and role of drones in various incidents highlight drone-related security challenges and operational adaptations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-17"
+}
