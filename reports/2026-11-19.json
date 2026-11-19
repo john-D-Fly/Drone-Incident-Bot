@@ -1,0 +1,143 @@
+{
+  "narrative_summary": "In the last 48 hours, drone-related incidents have surged globally, particularly regarding security and law enforcement. Notably, Russia's drone attacks on Kyiv have sparked significant fires, while Ukrainian drone operations continue to target critical infrastructure like the Kerch Bridge. The connection between drones and smuggling has also emerged, with law enforcement identifying extensive networks in jurisdictions like Rajasthan and Arizona. Policymakers are increasingly addressing public safety concerns: the FCC is moving to limit drone use in prisons, while new regulations aim to bolster border security amid escalating tensions. A rising number of drone arrests further underscores the challenges authorities face in managing drone activities legally and safely.",
+  "totals": {
+    "terrorism": 4,
+    "other": 25,
+    "crash": 8,
+    "smuggling": 5,
+    "arrest": 9,
+    "airport": 3,
+    "total_incidents": 64,
+    "by_category": {
+      "airport": 2,
+      "arrest": 7,
+      "crash": 9,
+      "interference": 1,
+      "other": 36,
+      "smuggling": 6,
+      "terrorism": 3
+    },
+    "by_query": {
+      "drone airport disruption": 2,
+      "drone arrest": 16,
+      "drone crash": 12,
+      "drone illegal": 2,
+      "drone incident": 7,
+      "drone prison": 3,
+      "drone smuggling": 4,
+      "drone terrorism": 14,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Recent attacks highlight increasing security concerns due to drone terrorism.",
+      "incident_ids": [
+        "fd7c6648ae15",
+        "2a2341292f08",
+        "d804204845d8",
+        "9e632b952bfb"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Multiple incidents of drone crashes reported, indicating operational failures or malfeasance.",
+      "incident_ids": [
+        "0aaa955f639b",
+        "b21e5757f8d3",
+        "b8bffce5dd49",
+        "fa1efdf162f6"
+      ]
+    },
+    {
+      "topic": "Drone Smuggling and Arrests",
+      "rationale": "Growing trends of drone involvement in smuggling operations and subsequent law enforcement actions.",
+      "incident_ids": [
+        "0b10f8f06029",
+        "4b9dc73ba378",
+        "577cf3a75c47",
+        "62b49ccb4b3b"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "fd7c6648ae15",
+      "headline": "Iran Turns Terrorism Against U.S. Military Readiness",
+      "one_sentence": "Iran is reportedly leveraging drone capabilities against U.S. military operations.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "b0b39239f258",
+      "headline": "Russian Attacks on Kyiv Cause Fire",
+      "one_sentence": "Drone strikes in Kyiv lead to severe fires in office buildings and a medical center.",
+      "risk_tags": [
+        "attack"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "30438042dc6e",
+      "headline": "SkyeBrowse Innovates Crash Scene Reconstruction",
+      "one_sentence": "SkyeBrowse is enhancing crash scene analysis with drone technology.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b8e3995902ed",
+      "headline": "FCC Expected to Allow Jamming of Cell Signals in Prisons",
+      "one_sentence": "New FCC regulation could permit prisons to jam signals, targeting drone smuggling.",
+      "risk_tags": [
+        "policy",
+        "prison"
+      ],
+      "countries": [],
+      "priority_score": 0.85
+    },
+    {
+      "id": "bef60a76f12f",
+      "headline": "Drone Operators Catch Shoplifter in Tucson",
+      "one_sentence": "Tucson police utilize drones to successfully apprehend a repeat offender.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.75
+    },
+    {
+      "id": "6de48e6fcfb7",
+      "headline": "Dentist Accused of Stalking with Drone",
+      "one_sentence": "A dentist in Florida is facing charges for using a drone to stalk a former partner.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "e89dcf7f02b8",
+      "headline": "Colonie Police Drone Finds Burglary Suspect",
+      "one_sentence": "Authorities in Colonie leverage drones to locate a suspect hiding in the woods.",
+      "risk_tags": [
+        "arrest"
+      ],
+      "countries": [],
+      "priority_score": 0.65
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight urgent security concerns, especially regarding smuggling and terrorism.",
+    "linkedin": "Over the past two days, a spike in drone activities, particularly in smuggling and terrorism contexts, has raised significant security concerns."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-19"
+}
