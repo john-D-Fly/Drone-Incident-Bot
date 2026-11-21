@@ -1,0 +1,141 @@
+{
+  "narrative_summary": "In the past 48 hours, various drone-related incidents have unfolded, predominantly regarding security breaches related to sports teams. Multiple reports emerged about unauthorized footage being captured of Mauricio Pochettino's first training session with Manchester United, raising significant concerns over privacy and security standards in professional sports. Additionally, high-profile incidents occurred in Poland, where two Russian missiles and a drone crashed, prompting international scrutiny and condemnation. Concurrently, drone operations were reported in criminal activities, such as smuggling and drug delivery attempts. Observations indicated a persistent geographical spread of drone-related issues across Europe, alongside growing apprehension regarding drone security measures in sensitive areas, including military bases and airports.",
+  "totals": {
+    "security": 11,
+    "crash": 10,
+    "smuggling": 5,
+    "interference": 2,
+    "other": 14,
+    "drone security breach": 5,
+    "drone crash": 24,
+    "drone incident": 35,
+    "drone smuggling": 9,
+    "drone arrest": 6,
+    "drone airport disruption": 5,
+    "drone illegal": 7,
+    "drone terrorism": 2,
+    "total_incidents": 105,
+    "by_category": {
+      "airport": 2,
+      "arrest": 2,
+      "crash": 28,
+      "interference": 2,
+      "other": 47,
+      "security": 14,
+      "smuggling": 8,
+      "surveillance": 1,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 4,
+      "drone arrest": 8,
+      "drone crash": 21,
+      "drone illegal": 6,
+      "drone incident": 30,
+      "drone prison": 3,
+      "drone security breach": 19,
+      "drone smuggling": 7,
+      "drone terrorism": 2,
+      "unauthorized drone": 5
+    }
+  },
+  "clusters": [
+    {
+      "topic": "sports security breach",
+      "rationale": "Multiple incidents involving unauthorized drone footage of training sessions indicate a growing concern over security measures in sports.",
+      "incident_ids": [
+        "80b1d5b90ed6",
+        "58f25a500bfe",
+        "a62bd12fa93a",
+        "d0b5ca31cb10",
+        "dc701d29b0ff"
+      ]
+    },
+    {
+      "topic": "drone crashes in Poland",
+      "rationale": "Reports of drone and missile crashes represent significant security incidents with potential geopolitical implications.",
+      "incident_ids": [
+        "80516673b003",
+        "36bbbb5b9f3f",
+        "c227721ebc1f",
+        "44a92a019dc0",
+        "bc4e36e049f2"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Incidents of drone involvement in smuggling operations raise flags about law enforcement responses and border security.",
+      "incident_ids": [
+        "31d62a40b9d6",
+        "155aa05de9c2",
+        "3ddb22cefdeb",
+        "fbc4944ed9e5"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "58f25a500bfe",
+      "headline": "Pochettino’s first training session filmed by drone in United security breach",
+      "one_sentence": "Unauthorized drone filming of Pochettino's training raises privacy concerns.",
+      "risk_tags": [
+        "security",
+        "unauthorized"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "80516673b003",
+      "headline": "Russia drone crashes on grounds of industrial enterprise in Poltava region",
+      "one_sentence": "A Russian drone crash occurred on industrial property in Poland, escalating security concerns.",
+      "risk_tags": [
+        "crash",
+        "military"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "priority_score": 0.85
+    },
+    {
+      "id": "569b8bf0b9ad",
+      "headline": "Police use drone to find 2 men after rollover crash",
+      "one_sentence": "Law enforcement utilized a drone to track down suspects after a vehicle incident.",
+      "risk_tags": [
+        "arrest",
+        "safety"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "2e568a795c31",
+      "headline": "Alert at US military base in Italy: unidentified drone detected",
+      "one_sentence": "A drone was detected near a US military installation, raising alarm about potential threats.",
+      "risk_tags": [
+        "security",
+        "military"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "a194476bc000",
+      "headline": "Mauricio Pochettino's first Man United training session filmed by drone",
+      "one_sentence": "The training session of Manchester United was compromised by drone filming.",
+      "risk_tags": [
+        "security breach",
+        "privacy"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight growing risks in sports and security breaches globally.",
+    "linkedin": "In the last 48 hours, various drone-related incidents emerged, focusing on security breaches in sports and critical geopolitical events in Poland, illustrating the evolving operational landscape for drones."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-21"
+}
