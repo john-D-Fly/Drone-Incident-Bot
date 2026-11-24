@@ -1,0 +1,118 @@
+{
+  "narrative_summary": "In the past 48 hours, a notable number of drone incidents occurred across various regions, highlighting significant concerns around terrorism and illegal activities. Notably, the Kremlin accused Ukraine of terrorist acts following a cargo ship drone strike in the Baltic Sea. Concurrently, Ukrainian naval drones reportedly targeted a Russian warship in Libya. The presence of drones in operational security has been emphasized, with law enforcement deploying anti-drone technology in India to counter potential misuse. Several incidents of drone crashes were reported in Michigan, causing property damage and prompting investigations by the NTSB. Furthermore, drones played a critical role in locating injured individuals following crashes near Eloy, Arizona. Overall, this period illustrates the dual-edged nature of drone usage, with potential risks for national security, alongside their utility in emergency response scenarios.",
+  "totals": {
+    "terrorism": 3,
+    "other": 22,
+    "crash": 22,
+    "smuggling": 3,
+    "total_incidents": 56,
+    "by_category": {
+      "crash": 24,
+      "interference": 1,
+      "other": 25,
+      "smuggling": 4,
+      "terrorism": 2
+    },
+    "by_query": {
+      "drone airport disruption": 1,
+      "drone arrest": 5,
+      "drone crash": 17,
+      "drone illegal": 3,
+      "drone incident": 18,
+      "drone prison": 1,
+      "drone smuggling": 2,
+      "drone terrorism": 9
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Drone Terrorism",
+      "rationale": "Accusations and military actions involving drone strikes indicate rising tensions linked to terrorism.",
+      "incident_ids": [
+        "213f21895768",
+        "9a9e5d0fb9b9",
+        "fec147054fb5"
+      ]
+    },
+    {
+      "topic": "Drone Crashes",
+      "rationale": "Multiple incidents of delivery drones crashing highlight safety concerns and regulatory implications.",
+      "incident_ids": [
+        "0b8df15f7524",
+        "8c9a8b7dadba",
+        "f59c3f4b1e65",
+        "9f720f339475",
+        "5be941d63d56",
+        "273d85516a71"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "213f21895768",
+      "headline": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike",
+      "one_sentence": "The Kremlin has accused Ukraine of terrorist activity following a drone strike on a cargo ship in the Baltic Sea.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "9a9e5d0fb9b9",
+      "headline": "Ukrainian naval drones strike new Russian warship in Libya",
+      "one_sentence": "Ukrainian naval drones targeted a newly positioned Russian warship in Libya amidst ongoing military tensions.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "fec147054fb5",
+      "headline": "Israeli opposition leader condemns suspected settler attacks as 'terrorism'",
+      "one_sentence": "Israeli political leaders condemned recent settler attacks as acts of terrorism amidst continuing societal unrest.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "0b8df15f7524",
+      "headline": "Amazon delivery drone crashes onto Huntington Woods garage after hitting fiber-optic line",
+      "one_sentence": "An Amazon delivery drone crashed after hitting a fiber-optic line and landed on a garage in Huntington Woods.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "9f720f339475",
+      "headline": "OPD drone leads police to DUI crash scene",
+      "one_sentence": "A police drone was utilized to locate the scene of a DUI crash, showcasing the technology's utility in law enforcement.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    },
+    {
+      "id": "273d85516a71",
+      "headline": "Drone guides Eloy firefighters toward 2 injured in UTV crash",
+      "one_sentence": "A drone helped firefighters locate and assist two individuals seriously injured in a UTV crash near Eloy.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.4
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents across the globe raise significant safety and security concerns, from allegations of terrorism to notable crashes in Michigan.",
+    "linkedin": "The past 48 hours have seen a surge in drone-related incidents, highlighting the dual roles of this technology in security and emergency response."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-24"
+}
