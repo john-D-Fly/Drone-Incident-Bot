@@ -1,0 +1,148 @@
+{
+  "narrative_summary": "Over the past 48 hours, a significant number of drone incidents have been reported, particularly involving crashes and smuggling activities. Notably, several Amazon delivery drones have crashed into homes in Michigan, leading to investigations by the FAA. There is an increasing focus on the implications of drone technology in illegal smuggling activities, highlighted by a Kuwaiti court sentencing individuals involved in drone drug smuggling into prisons. Additionally, police forces across various jurisdictions have utilized drones for surveillance and assistance in arrests. The incidents illustrate a potent mix of technological advancements in delivery and security challenged by new risks, particularly in urban settings.",
+  "totals": {
+    "crash": 16,
+    "smuggling": 7,
+    "terrorism": 6,
+    "arrest": 6,
+    "interference": 3,
+    "other": 10,
+    "total_incidents": 82,
+    "by_category": {
+      "airport": 11,
+      "arrest": 3,
+      "crash": 27,
+      "interference": 2,
+      "other": 17,
+      "security": 1,
+      "smuggling": 13,
+      "terrorism": 8
+    },
+    "by_query": {
+      "drone airport disruption": 5,
+      "drone arrest": 13,
+      "drone crash": 17,
+      "drone illegal": 4,
+      "drone incident": 25,
+      "drone prison": 3,
+      "drone smuggling": 4,
+      "drone terrorism": 10,
+      "unauthorized drone": 1
+    }
+  },
+  "clusters": [
+    {
+      "topic": "drone crash incidents",
+      "rationale": "A notable cluster of crashes involving Amazon delivery drones has emerged, raising safety concerns.",
+      "incident_ids": [
+        "9fcfbac2d6bd",
+        "b46cd647b0a8",
+        "ed7ae83a9a2c",
+        "1e504ce14ca4",
+        "c44d709d82a2",
+        "37f04ac92eeb",
+        "f452105eb226",
+        "50bb5b9aba33",
+        "1f295e7e307f",
+        "2fa0848d8570"
+      ]
+    },
+    {
+      "topic": "drone smuggling",
+      "rationale": "Recent cases reveal the use of drones for smuggling drugs into prisons, prompting legal responses.",
+      "incident_ids": [
+        "2f5d54600437",
+        "0b8df15f7524",
+        "d28c149ee4fe",
+        "1d9b7ee5b0e2"
+      ]
+    },
+    {
+      "topic": "drone terrorism warnings",
+      "rationale": "Incidents highlighting concerns of drone-related terrorism and potential attacks have been noted.",
+      "incident_ids": [
+        "f151836c3ed4",
+        "4c46313e4251",
+        "c7e859ddafb1"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "9fcfbac2d6bd",
+      "headline": "Amazon drone crashes after Michigan delivery",
+      "one_sentence": "An Amazon drone crashed after making a delivery in Michigan.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "b46cd647b0a8",
+      "headline": "Amazon delivery drone crashes into Michigan garage",
+      "one_sentence": "Another Amazon delivery drone incident occurred when it crashed into a garage.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "2f5d54600437",
+      "headline": "Kuwait court jails four for life over drone drug smuggling into prison",
+      "one_sentence": "A court in Kuwait sentenced four individuals to life imprisonment for attempting to smuggle drugs using drones.",
+      "risk_tags": [
+        "smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "f151836c3ed4",
+      "headline": "Simulated bomb-strapped drone used in anti-terror exercise",
+      "one_sentence": "Authorities conducted an anti-terror exercise using a simulated bomb-strapped drone.",
+      "risk_tags": [
+        "terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "c44d709d82a2",
+      "headline": "Drone fixes high-risk deliveries but crash raises safety concerns",
+      "one_sentence": "Concerns have been raised about safety after multiple incidents involving delivery drones.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "1e504ce14ca4",
+      "headline": "New fear unlocked: a delivery drone crashing into your garage",
+      "one_sentence": "Residents express fears about delivery drones crashing into homes after recent incidents.",
+      "risk_tags": [
+        "crash"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "6ca1e5509086",
+      "headline": "Dubai and Middle East flight disruption continues",
+      "one_sentence": "Flight cancellations and disruptions in the Middle East continue amid security concerns.",
+      "risk_tags": [
+        "interference"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Recent drone incidents highlight rising safety concerns with delivery drones and smuggling activities.",
+    "linkedin": "In the past 48 hours, drone-related incidents, including crashes and smuggling activities, have sparked significant safety concerns and regulatory scrutiny."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-25"
+}
