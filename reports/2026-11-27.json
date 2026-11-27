@@ -1,0 +1,139 @@
+{
+  "narrative_summary": "Over the past 48 hours, a range of drone incidents have been reported globally, with notable patterns emerging in unauthorized flights, smuggling, and drone-related violence. In Nagaland, unauthorized drone flights are facing confiscation measures during the Hornbill Festival, reflecting a growing trend in addressing unauthorized operations. Meanwhile, there were significant developments in drone warfare, particularly in Ukraine, where strikes are claimed to have targeted cargo ships near Odessa, highlighting ongoing geopolitical tensions. In a concerning report from Kuwait, two Italians were reportedly killed by debris from drone strikes. Additionally, U.S. law enforcement is grappling with drone-related smuggling incidents, as highlighted by the FBI's warnings on drone use for contraband drops in prisons. Policy discussions are emerging regarding drone regulations, particularly related to airport security measures and intelligence operations to counter smuggling. ",
+  "totals": {
+    "other": 9,
+    "smuggling": 4,
+    "interference": 2,
+    "airport": 5,
+    "arrest": 6,
+    "terrorism": 1,
+    "crash": 2,
+    "total_incidents": 52,
+    "by_category": {
+      "airport": 6,
+      "arrest": 4,
+      "crash": 2,
+      "interference": 2,
+      "other": 29,
+      "smuggling": 8,
+      "terrorism": 1
+    },
+    "by_query": {
+      "drone airport disruption": 7,
+      "drone arrest": 10,
+      "drone crash": 2,
+      "drone illegal": 3,
+      "drone incident": 14,
+      "drone prison": 4,
+      "drone smuggling": 3,
+      "drone terrorism": 5,
+      "unauthorized drone": 4
+    }
+  },
+  "clusters": [
+    {
+      "topic": "Unauthorized drone use and regulation",
+      "rationale": "Increasing incidents of unauthorized drone flights leading to policy changes.",
+      "incident_ids": [
+        "ce620897701b",
+        "f5aab7857e61",
+        "59bc22cf26d0"
+      ]
+    },
+    {
+      "topic": "Drone smuggling and prison contraband",
+      "rationale": "Continued reports of drones being used to smuggle contraband into prisons.",
+      "incident_ids": [
+        "a293fead0fa9",
+        "26e09eb0f916",
+        "ad9330ce4372"
+      ]
+    },
+    {
+      "topic": "Drone-related violence and safety concerns",
+      "rationale": "Increased instances of drone attacks leading to casualties and security threats.",
+      "incident_ids": [
+        "eeedfacca678",
+        "16ddb2449b35",
+        "78dd369babf9",
+        "378d115e00b5"
+      ]
+    },
+    {
+      "topic": "Geopolitical tensions involving drone strikes",
+      "rationale": "Drone strikes being utilized in ongoing geopolitical conflicts, particularly involving Ukraine.",
+      "incident_ids": [
+        "f1fd493dbc75",
+        "93ffe3ba9348"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "ce620897701b",
+      "headline": "Unauthorized drone flights to face confiscation at Kisama",
+      "one_sentence": "Unauthorized drone flights at the Hornbill Festival in Nagaland will be confiscated.",
+      "risk_tags": [
+        "unauthorized drone"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    },
+    {
+      "id": "eeedfacca678",
+      "headline": "Russia says drone strikes hit cargo ship near Odessa",
+      "one_sentence": "Drone strikes reportedly hit a cargo ship near Odessa amid ongoing conflict.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.8
+    },
+    {
+      "id": "5579448ab963",
+      "headline": "FBI warns Iran aspired to attack California with drones",
+      "one_sentence": "The FBI has alerted that Iran may be planning drone attacks in retaliation for the ongoing conflict.",
+      "risk_tags": [
+        "drone terrorism"
+      ],
+      "countries": [],
+      "priority_score": 0.7
+    },
+    {
+      "id": "a293fead0fa9",
+      "headline": "‘Imminent threat’: New York prisons struggle to stop drones dropping contraband",
+      "one_sentence": "New York prisons are facing significant challenges in preventing drone-dropped contraband.",
+      "risk_tags": [
+        "drone smuggling"
+      ],
+      "countries": [],
+      "priority_score": 0.6
+    },
+    {
+      "id": "7790acb86fee",
+      "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "one_sentence": "A drone strike in Kuwait, resulting in two Italian fatalities, raises serious safety concerns.",
+      "risk_tags": [
+        "drone-related violence"
+      ],
+      "countries": [],
+      "priority_score": 0.9
+    },
+    {
+      "id": "9fffe3ba9348",
+      "headline": "Dubai and Middle East flight disruption: flight cancellations continue",
+      "one_sentence": "Recent drone interceptions have led to significant flight disruptions across the Middle East.",
+      "risk_tags": [
+        "airport disruption"
+      ],
+      "countries": [],
+      "priority_score": 0.5
+    }
+  ],
+  "draft_social": {
+    "tweet": "Drones continue to impact security globally, with increasing incidents of unauthorized flights and smuggling. Policy makers are urged to address these challenges. #DroneNews",
+    "linkedin": "The last 48 hours have seen a significant rise in drone-related incidents affecting security, smuggling, and airline operations, necessitating urgent policy considerations."
+  },
+  "window_hours": 48,
+  "date_utc": "2026-11-27"
+}
